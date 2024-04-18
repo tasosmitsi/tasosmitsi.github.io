@@ -1,0 +1,3833 @@
+WEBVTT
+
+00:00.000 --> 00:06.800
+a crazy thing in the kidnap business, we used to get asked by FBI leadership,
+
+00:08.160 --> 00:12.160
+when is this going to be over? And the answer would be when the bad guys feel like they've
+
+00:12.160 --> 00:18.640
+gotten everything they can. Now dissecting that statement, you're talking about when they feel
+
+00:19.600 --> 00:24.400
+like they got everything they can. So the key to kidnapping negotiations are the feelings
+
+00:24.960 --> 00:28.560
+and the bad guys, we're talking about feelings, kidnappers feelings,
+
+00:29.680 --> 00:33.920
+which drives everything. Doesn't matter what human endeavor it is.
+
+00:36.960 --> 00:43.600
+The following is a conversation with Chris Voss, former FBI hostage and crisis negotiator and
+
+00:43.600 --> 00:48.720
+author of Never Split the Difference, negotiating as if your life depended on it.
+
+00:49.440 --> 00:54.320
+This is the Lex Friedman podcast. To support it, please check out our sponsors in the description
+
+00:54.640 --> 01:01.600
+and now, dear friends, here's Chris Voss. What is it like negotiating for a hostage
+
+01:01.600 --> 01:04.240
+with a kidnapper? What is the toughest part of that process?
+
+01:05.680 --> 01:11.600
+The toughest part is if it looks bad from the beginning and you got to engage in a process
+
+01:11.600 --> 01:17.200
+anyway. What are the factors that make it bad? That makes you nervous that if you were to
+
+01:17.200 --> 01:21.120
+observe a situation where there's general negotiation or it's a hostage negotiation,
+
+01:21.120 --> 01:24.560
+and what makes you think that this is going to be difficult?
+
+01:25.920 --> 01:29.760
+If they want to make it look like they're negotiating, but they're not. Like in the 2004
+
+01:29.760 --> 01:38.800
+timeframe, Al-Qaeda in Iraq was executing people on camera for the publicity and they wanted to
+
+01:38.800 --> 01:43.760
+make it look like they were negotiating. So they come on and they say, if you don't get all the
+
+01:45.200 --> 01:49.920
+Iraqi women out of the jails in Iraq in 72 hours, we're going to kill the hostage.
+
+01:51.120 --> 01:54.000
+It was one of the demands and one of the cases in that timeframe.
+
+01:54.800 --> 01:58.240
+Now, first of all, even if we'd have been willing, the US government coalition would have been
+
+01:58.240 --> 02:03.760
+willing to do that. It wouldn't have been able to happen in 72 hours. So is it an impossible ask
+
+02:03.760 --> 02:10.560
+from the beginning? Then that looks really bad. They're trying to make it look like they're
+
+02:10.560 --> 02:15.920
+talking reasonably, but they're not. So your hostage is in bad shape there. If they've made
+
+02:15.920 --> 02:22.720
+a demand that even if you wanted to do, you couldn't do. So then what makes that very
+
+02:22.720 --> 02:28.560
+difficult is in kidnappings especially, you're working with family members, you're coaching
+
+02:28.560 --> 02:34.160
+people. Bad guys are in touch with family members or if they're not directly in touch with family
+
+02:34.160 --> 02:38.640
+members. The other thing that Al-Qaeda was doing at that time was they didn't give us a way to
+
+02:38.640 --> 02:44.080
+talk to them. They're making statements in the media, but then not leaving their phone number,
+
+02:44.080 --> 02:50.000
+if you will. So that's one more thing. They're intentionally blocking you. They're asking you
+
+02:50.000 --> 02:55.520
+to do something you can't do. They're not giving you a way to talk to them. So you've got to get
+
+02:55.520 --> 02:59.520
+with the family and discuss with the family how you're going to approach things. Now the family
+
+02:59.520 --> 03:03.440
+definitely wants to know, is this going to help? There's a bunch of cases like that in that
+
+03:03.440 --> 03:09.440
+timeframe and you've got to be honest with them. It's a long shot. Our chances here are slim and
+
+03:09.440 --> 03:14.080
+none. When it's slim and none, I'll take slim, but it's still very, very slim.
+
+03:15.040 --> 03:18.720
+There were a number of people that were killed in that timeframe before the tide finally got
+
+03:18.720 --> 03:24.480
+turned and it was hard dealing with families at the time. Can you negotiate in public versus
+
+03:24.480 --> 03:30.320
+a direct channel in private? Oh yeah. Bad guys pick the media. They're making statements in the
+
+03:30.320 --> 03:39.200
+media and that's a big clue. Their channel of choice tells you an awful lot. If they're choosing
+
+03:39.200 --> 03:43.680
+the media, then that means there's people they're trying to appeal to. That means in their view,
+
+03:43.680 --> 03:47.600
+there's such a thing as good media. So if there's good media, there's bad media. How do you make it
+
+03:47.600 --> 03:52.400
+bad? And we made it bad for them. It just, unfortunately, it had to go through a number
+
+03:52.400 --> 03:59.440
+of iterations before they got the message and quit. In that negotiation, do you think
+
+04:00.000 --> 04:07.200
+about the value of human life? Is there a dollar figure? How do you enumerate, not enumerate,
+
+04:07.200 --> 04:12.960
+quantify the value of human life? Yeah, it's like beauty, it's in the eye of the beholder.
+
+04:14.160 --> 04:19.680
+So that was the first lesson on any hostage negotiation, really any negotiation. It doesn't
+
+04:19.680 --> 04:24.000
+matter what it is to you, it matters what it is to the other side. One of the things, especially in
+
+04:24.000 --> 04:30.800
+your conversation I listened to with Andrew, by the way, you guys, another thing I really liked
+
+04:30.800 --> 04:35.360
+about that conversation, first of all, I think the world of him. Andrew Huberman. Yeah, Andrew
+
+04:35.360 --> 04:40.880
+Huberman. And he released it on my birthday. I appreciate that. It was a nice birthday present
+
+04:40.880 --> 04:46.400
+to me. I tried to tie it perfectly just for you. Yeah, nice job. Thank you. But empathy is in the
+
+04:46.400 --> 04:55.200
+eye of the beholder in every negotiation, whether it's over a car, a house, collaboration in your
+
+04:55.200 --> 05:00.880
+company with the bad guys. How does the other side see it? Now, the nice thing about kidnapping
+
+05:00.880 --> 05:05.840
+for ransom, if there's an actual ransom demand, it's an actual demand,
+
+05:08.320 --> 05:14.080
+it's a mercenary's business. They're going to take what they could get and they tend to be really
+
+05:14.080 --> 05:23.040
+good at figuring out how much money somebody has. And again, I'll keep drawing business analogies.
+
+05:23.760 --> 05:30.080
+You're looking for a job with an employer. There's a market price of the job and then there's what
+
+05:30.080 --> 05:37.360
+the employer can pay you. Now, maybe the market price of the job market's 150 grand. Employer
+
+05:37.360 --> 05:46.080
+can pay you 120, but it's a great job. We were talking about Elon a minute ago. I'd work minimum
+
+05:46.080 --> 05:51.840
+wage to follow him around. That would be worth it. What are the value other than the dollars?
+
+05:52.960 --> 05:57.440
+And how hard is it to get the dollars? And how quickly can you get to them?
+
+05:58.240 --> 06:02.480
+These are all things that the bad guys and kidnapping are good at figuring out.
+
+06:02.480 --> 06:08.960
+So the value of human life to them is going to be what can they get? A crazy thing in the
+
+06:08.960 --> 06:16.720
+kidnap business. We used to get asked by FBI leadership, when is this going to be over?
+
+06:17.520 --> 06:21.280
+And the answer would be when the bad guys feel like they've gotten everything they can.
+
+06:21.280 --> 06:28.000
+Now dissecting that statement, you're talking about when they feel like they got everything
+
+06:28.000 --> 06:33.840
+they can. So the key to kidnapping negotiations are the feelings of the bad guys. We're talking
+
+06:33.840 --> 06:40.720
+about feelings, kidnappers' feelings, which drives everything. Doesn't matter what human
+
+06:40.720 --> 06:48.400
+endeavor it is. So it's not reason, it's emotion. There's no such thing as reason.
+
+06:48.880 --> 06:57.440
+I should say, for a little bit of context, I just talked yesterday with a guy named Sam Harris.
+
+06:58.320 --> 07:03.840
+I don't know if you know Sam, but Sam, and because I was preparing for a conversation with you,
+
+07:04.640 --> 07:12.480
+I talked to him about empathy versus reason. And he lands heavily on reason. Empathy is
+
+07:13.280 --> 07:19.680
+somewhere between useless and erroneous and leads you astray and is not effective.
+
+07:19.680 --> 07:24.960
+That reason is the only way forward. Well, let's draw some fine lines there.
+
+07:24.960 --> 07:29.920
+And the two fine lines I would draw is, first, what is your definition of empathy? And then
+
+07:29.920 --> 07:36.160
+secondly, how do people actually make up their minds? And I'm going to flip it. I'm going to
+
+07:36.160 --> 07:40.800
+go with how people make up their minds. You make up your mind based on what you care about. Period.
+
+07:42.800 --> 07:49.760
+That makes reason emotion-based. What do you care about? You start with what you care about.
+
+07:49.760 --> 07:55.760
+You see some guy swimming out off the coast of the ocean and you see a shark coming up behind him.
+
+07:56.800 --> 08:02.320
+Who are you cheering for? If it's Adolf Hitler out there, you're cheering for the shark. You
+
+08:02.320 --> 08:08.400
+might actually feel bad for the shark because it's going to taste bad. Who do you care about?
+
+08:08.400 --> 08:12.320
+You mean the human will taste bad? Yeah. He eats Adolf Hitler.
+
+08:12.960 --> 08:16.800
+You're going to leave a bad taste in your mouth, even if you're a shark. So you're making up your
+
+08:16.800 --> 08:21.440
+mind on every circumstance. It's based on what you care about. So then what does that do to
+
+08:21.440 --> 08:25.680
+reason? Your reason is based on what you care about from the beginning. Now, then empathy.
+
+08:26.800 --> 08:32.080
+If you define it as sympathy, which it was never meant to be sympathy, ever.
+
+08:35.680 --> 08:40.640
+Etymology, I think is the word. I keep getting etymology and entomology mixed up. Etymology being
+
+08:40.640 --> 08:45.360
+right. Where words came from, the origin, entomology being bugs.
+
+08:47.200 --> 08:53.920
+Got it. So I like etymology. Where did something come from? Also like entomology. Anyway,
+
+08:53.920 --> 09:01.920
+etymology. My understanding from my research, the original definition of empathy was an
+
+09:01.920 --> 09:06.480
+interpretation of a German word where people were trying to figure out what the artist was
+
+09:06.480 --> 09:12.240
+trying to convey. It was about assessing art. And so it was always about understanding where
+
+09:12.240 --> 09:20.080
+somebody was coming from, but not sharing necessarily that same thing. So then when
+
+09:20.080 --> 09:24.160
+I was with the FBI and I first started collaborating with Harvard, Bob Mnuchin wrote a book,
+
+09:25.280 --> 09:29.280
+Beyond Winning, second chapter is the tension between empathy and assertiveness.
+
+09:29.840 --> 09:33.920
+It's still the best chapter on empathy I've ever read anywhere.
+
+09:35.440 --> 09:39.760
+And Bob writes in his book, Bob was the head of the program on negotiation. He's also
+
+09:40.480 --> 09:46.560
+agreed to be interviewed for a documentary about me and my company that hasn't been released yet,
+
+09:46.560 --> 09:49.920
+but it should be released sometime this year. What's the name of the documentary?
+
+09:49.920 --> 09:52.480
+Tactical Empathy. Good name.
+
+09:52.480 --> 10:01.520
+So Bob's definition of empathy said not agreeing or even liking the other side.
+
+10:02.560 --> 10:07.440
+Don't even got to like them. Don't got to agree with them. Just straight understanding where
+
+10:07.440 --> 10:11.360
+they're coming from and articulating it, which requires no agreement whatsoever.
+
+10:12.960 --> 10:18.800
+That becomes a very powerful tool, like ridiculously powerful. And if sympathy or
+
+10:18.880 --> 10:22.960
+compassion or agreement are not included, you can be empathic with anybody. I was
+
+10:22.960 --> 10:28.400
+thinking about this when I was getting ready to sit down and talk to you,
+
+10:28.400 --> 10:36.640
+because you use the word empathy a lot. Putin. I can be empathic with Putin. Easy. It's easy.
+
+10:37.440 --> 10:42.800
+I don't agree with where he's coming from. I don't agree with his methodology.
+
+10:43.200 --> 10:51.040
+Early on the Ukraine-Russian war, I saw an article that was very dismissive of Russia
+
+10:52.480 --> 10:57.920
+that said, Russia is basically Europe's gas station. And I thought, all right,
+
+10:59.280 --> 11:08.800
+so if you're in charge and the way you feed your people is via an industry that the entire world
+
+11:08.800 --> 11:15.360
+is trying to quit, the whole world is trying to get out of fossil fuels. If that's how you
+
+11:15.360 --> 11:20.000
+feed your people, if you don't come up with an answer to that, the people that you've taken a
+
+11:20.000 --> 11:24.960
+responsibility for are going to die alone in the cold and the dark. They're going to freeze and
+
+11:24.960 --> 11:29.520
+they're going to die. All right, so that doesn't mean that I agree with where he's coming from
+
+11:29.520 --> 11:35.520
+or any of his means. But how does this guy see things in his distorted world?
+
+11:36.400 --> 11:40.320
+You're never going to get through to somebody like that in a conversation unless you can demonstrate
+
+11:40.320 --> 11:46.080
+to them you understand where they're coming from, whether or not you agree. Early 90s, last century.
+
+11:46.080 --> 11:52.000
+I'm a last century guy. I'm an old dude. I refer to myself as a last century guy. Also a deeply
+
+11:52.000 --> 12:02.240
+flawed human. So terrorist case, New York City, civilian court. Terrorism does not have to be tried
+
+12:02.480 --> 12:09.360
+in military tribunals. That's a very bad idea. It was always bad. The FBI was always against it.
+
+12:11.040 --> 12:17.440
+I'm getting ready. We have Muslims testifying in open court against a legitimate Muslim cleric.
+
+12:18.320 --> 12:23.920
+The guy that was on trial had the credentials as a legitimate Muslim cleric. The people that
+
+12:23.920 --> 12:28.400
+were testifying against him didn't think he should be advocating murder of innocent people.
+
+12:29.360 --> 12:36.080
+We'd sit down with them, Arab Muslims, Egyptians mostly, and I would say to them,
+
+12:36.880 --> 12:41.520
+you believe that there's been a succession of American governments for the last 200 years
+
+12:41.520 --> 12:49.760
+that are anti-Islamic. And they'd shake their head and go, yeah. And that'd be the start of
+
+12:49.760 --> 12:55.760
+the conversation. That's empathy. You believe this to be the case. I never said I agreed.
+
+12:55.920 --> 13:01.280
+I never said I disagreed. But I showed them that I wasn't afraid of their beliefs. I was so
+
+13:01.280 --> 13:06.960
+unafraid of them that I was willing to just state them and not disagree or contradict.
+
+13:06.960 --> 13:11.760
+Because I would say that and then I'd shut up and let them react. And I never had to say,
+
+13:11.760 --> 13:17.520
+here's why you're wrong. I never gave my point of view. Every single one of them that testified.
+
+13:17.520 --> 13:21.920
+That's empathy. Not agreeing with where the other side is coming from. I'm not sure how
+
+13:21.920 --> 13:27.360
+Sam would define it. But common vernacular is it's sympathy and it's compassion.
+
+13:27.360 --> 13:33.040
+And that's when it becomes useless. And there's a gray area, maybe you can comment on it,
+
+13:33.680 --> 13:40.320
+is sometimes a drop of compassion helps make that empathy more effective in the conversation.
+
+13:41.120 --> 13:51.680
+So you just saying you believe X doesn't quite form a strong of a bond with the other
+
+13:51.680 --> 13:57.040
+person. You're imagining it doesn't. Maybe you're right. Yes, I'm imagining it doesn't.
+
+13:57.040 --> 14:04.960
+I'm imagining you need to show that you're on the same side. That you need to signal a little bit
+
+14:04.960 --> 14:13.280
+about your actual beliefs, at least in that moment. Even if that signaling is not as deep
+
+14:13.280 --> 14:17.600
+as it sounds. But at first, basically patting the person on the back and saying we're on the
+
+14:17.600 --> 14:20.720
+same side, brother. That's what most people,
+
+14:22.880 --> 14:28.960
+when they're really learning the concept, that's the basic human reaction. And
+
+14:30.560 --> 14:41.920
+in application, especially in highly adversarial situations, like I need a regular guy, Muslim,
+
+14:41.920 --> 14:46.480
+but how's that guy going to say, buy it if I like, you know, dude, I'm on your side.
+
+14:47.360 --> 14:53.920
+I've been there. I feel you. No, no, no, no, no. People get conned by that so much.
+
+14:54.880 --> 14:58.640
+If we're on opposite sides of the table and I try to act like I'm not on the opposite side
+
+14:58.640 --> 15:09.920
+of the table, that makes me disingenuous. So I would rather be honest. My currency is integrity.
+
+15:10.560 --> 15:14.560
+And at some point in time, if you go like, you know where I'm coming from? My answer is going
+
+15:14.560 --> 15:21.360
+to be like, look, I can agree on maybe where we're going. But if we're talking about, you know,
+
+15:21.360 --> 15:26.640
+am I on your side now? As a human being, I want to see you survive and thrive. Not at my expense.
+
+15:27.680 --> 15:34.320
+I think the world is full of opportunity. I'm optimistic. I got more than enough reason for
+
+15:35.200 --> 15:41.280
+saying that. There's enough for here for both of us. So I got no problem with you getting yours.
+
+15:41.840 --> 15:44.880
+You know, just don't take it out of my head. And I'm going to be honest about it,
+
+15:45.440 --> 15:48.960
+about both of those things. I'm not interested in you taking it out of my head.
+
+15:48.960 --> 15:54.320
+I think there's plenty here for both of us. Now, I don't need to be on your side, except in a human
+
+15:55.840 --> 16:03.920
+sense. But do I have to side with you over the war? No. Or how we're distributing the stock,
+
+16:03.920 --> 16:11.840
+or how much you get paid, or how much you make off this car. I think people, my experience
+
+16:12.560 --> 16:18.720
+as a layman is that empathy is not going to downside. That you don't need me
+
+16:19.840 --> 16:22.560
+to act like I'm on your side for us to make a great deal.
+
+16:23.520 --> 16:28.400
+Great deal. Well, we'll talk about two things, a great deal and a great conversation.
+
+16:29.120 --> 16:36.000
+They're often going to be the same thing, but at times are going to be different. You mentioned
+
+16:36.000 --> 16:42.560
+Vladimir Putin. There is some zoom level at which you do want to say we're on the same side. You
+
+16:42.560 --> 16:49.760
+said the human level. It's possible to say, kind of zoom out and say that we're all in this together.
+
+16:50.480 --> 16:56.080
+Not we Slavic people, we Europeans, but we human beings.
+
+16:56.080 --> 16:58.320
+We're on the same planet. Same planet.
+
+16:58.320 --> 17:06.560
+Right. Several years ago, and his name has evidently been Mud now, but he was very nice to me,
+
+17:07.200 --> 17:14.240
+lawyer here in town named Tom Girardi. No shortage of bad reporting on him now. I have absolutely no
+
+17:14.240 --> 17:18.880
+idea if any of it's true. I do know that in my interaction with him, he was always a gentleman
+
+17:18.880 --> 17:25.680
+to me and was very generous. When he'd get into conversations with people, he'd always say like,
+
+17:25.760 --> 17:32.320
+let's look at 10 years from now where we could both be in a phenomenal place together.
+
+17:34.080 --> 17:38.320
+Now let's work our way back from there. That's a good line.
+
+17:38.320 --> 17:45.760
+Yeah. Then I saw him do it in simulations. I was teaching at USC and we were at a function together
+
+17:46.640 --> 17:51.760
+and a gentleman at the time told me who he was and he was really influential.
+
+17:51.760 --> 17:56.160
+I walked up to the guy cold and I said, hey, I'm going to come in and talk to my class at USC.
+
+17:57.280 --> 18:01.520
+He didn't know me other than the fact that we had a mutual acquaintance and he graciously
+
+18:01.520 --> 18:07.040
+consented to come in. He said, what do you want me to talk about? I said, look, dude,
+
+18:07.040 --> 18:13.200
+just from your success here, it doesn't matter what you talk about. Either I'm going to agree
+
+18:13.200 --> 18:17.200
+or I'm going to disagree or I'm going to learn from it. My students are going to learn from it.
+
+18:17.200 --> 18:21.040
+Students want to role play with them. They dispute, let's do a negotiation. Every single
+
+18:21.040 --> 18:28.800
+time you go to pick a point in the future where we're both happy 10 years, 20 years from now
+
+18:29.360 --> 18:34.960
+and let's work our way back. Now hostage negotiator, same thing. I call into a bank,
+
+18:36.400 --> 18:42.240
+bad guy picks up on the phone and I'm going to say, I want you to live.
+
+18:44.000 --> 18:50.480
+I want to see you survive this. Whatever else goes with that, let's pick a point in the future
+
+18:51.120 --> 18:56.320
+that we're both good with and then we work our way back. People make also,
+
+18:57.280 --> 19:01.760
+we were talking before about emotion and what you care about, people make their decisions based on
+
+19:01.760 --> 19:09.600
+their vision of the future without question. I think there's a Hindu temple in the United States
+
+19:11.440 --> 19:16.400
+has been or being assembled the same way that the Hindu temples were in India 1,000 years ago,
+
+19:16.400 --> 19:23.920
+by hand, volunteers, by hand. These people are knocking themselves on for a place in paradise,
+
+19:23.920 --> 19:28.960
+a vision of the future. What you will go through today if the future portends
+
+19:30.880 --> 19:35.440
+what you want, you'll go through incredible things today. So it's a vision of the future.
+
+19:37.040 --> 19:42.320
+So you have to try to paint a vision of the future that the person you're negotiating with
+
+19:42.320 --> 19:46.720
+will like, which is tough to do. Let's find out what their vision of the future is
+
+19:47.520 --> 19:55.120
+and then remove yourself as a threat. Sure. If we can collaborate together at all, if you think
+
+19:55.120 --> 20:00.800
+that I could do anything at all to help you to that point and integrity is my currency,
+
+20:01.760 --> 20:05.680
+I'm not going to lie to you, which gets back before that I lied to you about whether or not
+
+20:05.680 --> 20:09.600
+I'm on your side. Right now, at the moment, we're on opposite sides of the fence.
+
+20:09.600 --> 20:13.120
+Mm-hmm. That's not going to stop us from being together in the future.
+
+20:14.160 --> 20:18.560
+Inside, you're going to say, well, you didn't lie to me about today. Maybe you won't lie to me
+
+20:18.560 --> 20:26.320
+about tomorrow. So going back to world leaders, for example, whether it's Vladimir Zelensky or
+
+20:26.320 --> 20:32.880
+Vladimir Putin, you don't think it closes off their mind to show that you have a different opinion?
+
+20:32.960 --> 20:39.680
+It depends upon when you showed it. Are you arguing from the beginning or are you displaying
+
+20:39.680 --> 20:43.920
+understanding from the beginning? I don't think it stops you from being adversarial.
+
+20:43.920 --> 20:51.840
+There was a thing about Manoukian's chapter in his book, The Tension Between Empathy and Assertiveness.
+
+20:53.440 --> 20:57.600
+I remember reading that name of the chapter thinking like,
+
+20:58.480 --> 21:05.920
+you know, in my business, there is no tension. And then I got into it and I read, I thought,
+
+21:05.920 --> 21:13.040
+this is red herring. He's drawing people in because his entire chapter is that empathy
+
+21:13.040 --> 21:18.640
+puts you in a position to assert and that there is no tension. It's a sequencing issue.
+
+21:19.600 --> 21:22.240
+And that's why, again, I think it was written for lawyers.
+
+21:22.880 --> 21:29.360
+Yeah, sequencing issue. The timing is everything. So you emphasize the importance of,
+
+21:29.360 --> 21:36.160
+in terms of sequencing and priority of listening, of truly listening to the other person.
+
+21:36.160 --> 21:38.320
+I'm sorry, what did you say? That was a bad joke.
+
+21:40.320 --> 21:48.080
+Your timing is just perfect. How do you listen? How do you truly listen to another human being?
+
+21:48.080 --> 21:50.160
+How do you notice them? How do you really hear them?
+
+21:51.360 --> 21:58.000
+I always hated the term active listening. If anything, it's proactive. And as soon as you
+
+21:58.000 --> 22:04.560
+start trying to anticipate where somebody's going, you're dialed in more. Because along the way,
+
+22:05.760 --> 22:11.760
+either you're congratulating yourself for being right, or when suddenly they say something that
+
+22:11.760 --> 22:16.240
+surprises you, you really notice it. Like, that's not what I expected. You're dialed in,
+
+22:16.240 --> 22:24.240
+you're listening. So it's proactive. And then one of the reasons, you know, we name the book,
+
+22:24.240 --> 22:30.160
+Tactical Empathy. Name the book, never split the difference, but we're talking about tactical empathy.
+
+22:33.680 --> 22:38.320
+Calibrated emotional intelligence. What's it calibrated by? First, it was experiences,
+
+22:38.320 --> 22:42.800
+hostage negotiators, and we've come to find out that our experience as hostage negotiators
+
+22:43.760 --> 22:47.680
+is backed up by neuroscience. Another reason why I listen to Andrew Huberman's podcast all
+
+22:47.680 --> 22:55.040
+the time. Heavy, heavy, heavy, heavy on the neuroscience. And so then emotional intelligence
+
+22:55.600 --> 23:00.160
+calibrated by what we know about neuroscience. What do we know about neuroscience? And I'll
+
+23:00.160 --> 23:04.720
+talk about it from a layman's perspective and even say we's an arrogant thing, you know,
+
+23:05.360 --> 23:11.120
+human beings. I didn't do the research. I'm scooping up as much of it as I can as a layman.
+
+23:11.920 --> 23:18.960
+The brain is largely negative. I think there's ample evidence. People will argue with you as
+
+23:18.960 --> 23:26.000
+to what the wiring is and what does what and the limbic system and all of that. But
+
+23:27.440 --> 23:32.160
+the brain is basically 75% negative. As an layman, I make that contention. Number one. Number two,
+
+23:33.600 --> 23:40.080
+the best way to deactivate negativity is by calling it out. And I could say, look, I don't
+
+23:40.080 --> 23:45.600
+want you to be offended by what I'm getting ready to say. That's a denial. Your guard is up. You're
+
+23:45.600 --> 23:50.080
+getting ready to get mad. If I say, what I'm getting ready to say is probably going to offend
+
+23:50.080 --> 23:57.200
+you. Now you relax a little bit and you go, all right, what is it? And then I say it, whatever it
+
+23:57.200 --> 24:04.480
+is. And you're going to be like, oh, that wasn't that bad. Because we knew from hostage negotiation
+
+24:04.480 --> 24:10.160
+by calling out the negativity, deactivate it. And then a number of neuroscience experiments
+
+24:10.160 --> 24:14.240
+have been done right and left by calling out negativity, deactivating the negativity.
+
+24:16.080 --> 24:18.400
+Calling out ahead of time. So like acknowledging that this is
+
+24:21.360 --> 24:27.840
+ahead of time that this is going to hurt. The experiments that I've seen have been when the
+
+24:27.840 --> 24:32.320
+negativity was inflicted and then having the person that it was being inflicted upon simply
+
+24:32.320 --> 24:36.960
+identify it. Just identify. Yeah. What are you feeling? I'm angry and the anger goes away.
+
+24:39.600 --> 24:44.640
+It's tough because I've had a few, and again, we're dancing between things, but
+
+24:45.840 --> 24:53.760
+I've had a few conversations where anger arose in the guests I spoke with. Yeah. And I'm not sure
+
+24:54.800 --> 25:00.800
+identifying it. That's like leaning into it and going into the depths.
+
+25:01.600 --> 25:09.520
+Cause that's going to the depths of some emotional psychological thing they're going through
+
+25:09.520 --> 25:16.880
+that I'm not sure I want to explore that iceberg with a little ship we got. It's a, you have to
+
+25:16.880 --> 25:22.880
+decide, do you want to avoid it? Or do you want to lean into it? It's a tough choice. It's the
+
+25:22.880 --> 25:28.480
+elephant in the room. It is an elephant in the room. Especially when I think that's the big
+
+25:28.480 --> 25:35.600
+difference between conversations and negotiations. Negotiation ultimately is looking for closure and
+
+25:35.600 --> 25:42.960
+resolution. I think general conversations like this is more exploring. There's not necessarily
+
+25:42.960 --> 25:48.960
+a goal. Like if you were to put it, like if I had to put a goal for this conversation, there's no
+
+25:48.960 --> 25:57.200
+real goal. It's curiously exploring ideas. So that'll gives you freedom to not call out the elephant.
+
+25:58.800 --> 26:02.400
+For time, you could be like, all right, let's go to the next room, get a snack and come back to the
+
+26:02.400 --> 26:09.600
+elephant. Right. All right. So I'd make a tiny adjustment on the negotiation definition. Cause
+
+26:09.600 --> 26:19.360
+you said, I think seeking closure. You used two words and closure was one of them. Goals, maybe
+
+26:19.360 --> 26:23.440
+another. Well, yeah. What is negotiation? Well, I would say seeking collaboration.
+
+26:23.440 --> 26:30.240
+And cause closure kind of puts a little bit of a finality to it and a real problem in any negotiations,
+
+26:30.240 --> 26:36.480
+always implementation. That's why we say yes, I say yes is nothing without how.
+
+26:37.680 --> 26:43.440
+And yes, at its very best is only a temporary aspiration. It's aspirational. It's usually
+
+26:43.440 --> 26:49.280
+counterfeit. So if you're looking for- That's a good line. Yes is usually counterfeit. It's
+
+26:49.280 --> 26:54.720
+aspirational without the how. It's just a good line. Yeah. Thank you. I've been working on it.
+
+26:54.720 --> 26:57.600
+I was practicing in front of the mirror for 14 minutes. You're doing pretty good.
+
+27:00.400 --> 27:05.120
+You got a bright future ahead of you. You should write a book or something.
+
+27:08.320 --> 27:13.440
+Your book is excellent by the way. Thanks. Appreciate that. What am I doing here anyway?
+
+27:13.520 --> 27:22.320
+This on earth? On you, with you? I don't know. We're collaborating. Why me though? Why'd you
+
+27:22.320 --> 27:27.760
+want to talk to me? I've heard you speak in a few places. I was like, this is a fascinating human.
+
+27:29.520 --> 27:34.800
+I think on Clubhouse and different places and I listened to some YouTube stuff and this is
+
+27:36.000 --> 27:42.720
+just, you meet people that are interesting. That's what I love doing with this podcast
+
+27:42.720 --> 27:49.520
+is just exploring the mind of an interesting person. You notice people. Sometimes it's like
+
+27:49.520 --> 27:56.320
+a homeless person outside of 7-Eleven. I notice, who are you? It's fascinating. I don't look at
+
+27:56.320 --> 28:00.240
+the resumes and the credentials and stuff like that. It's just being able to notice a person.
+
+28:00.960 --> 28:07.440
+I've been leafing through the different choices of the podcast. The young lady that OnlyFans
+
+28:08.240 --> 28:13.920
+and the sex workers, that's a fascinating human being. I want to know what makes that person tech
+
+28:14.560 --> 28:21.200
+at 1000%. The fascinating thing about her is her worldview is almost entirely different than mine
+
+28:21.200 --> 28:28.240
+and that's always interesting to talk to a person who just is happy, flourishing, but sees the world
+
+28:28.240 --> 28:34.480
+and the set of values she has is completely different and is also not argumentative,
+
+28:34.480 --> 28:38.720
+is accepting of other worldviews. It's beautiful to explore that.
+
+28:38.720 --> 28:43.040
+Yeah, no kidding. I would agree. And then yeah, thought provoking because I consider myself,
+
+28:46.000 --> 28:49.600
+the word I was looking for before is abundant. I think it's an abundant world.
+
+28:49.600 --> 28:55.520
+So I'm pretty optimistic. I consider myself, I don't know, happy exactly describes it,
+
+28:55.520 --> 29:01.440
+but yeah. So then if I'm happy, optimistic, abundant, I got a worldview and then you run
+
+29:01.440 --> 29:05.360
+into somebody that has a vastly different worldview and they're happy and they think it's
+
+29:05.360 --> 29:10.240
+abundant too. And you're like, what is going on in your head or mine or what am I missing?
+
+29:11.040 --> 29:15.680
+Yeah. So that's fascinating. And the pie grows, which is useful for kind of negotiation.
+
+29:15.680 --> 29:20.080
+When you paint a picture of a future, if you're optimistic about that future,
+
+29:20.080 --> 29:25.520
+there's a kind of feeling like we're both going to win here. And that's easy. We live in a world
+
+29:25.520 --> 29:30.560
+where both people can win. Yeah. And in point of fact, that's the case, although a lot of people
+
+29:30.560 --> 29:36.080
+want us to think otherwise, mostly because of the negativity that I was talking about before.
+
+29:36.080 --> 29:43.120
+So the brain is generally cynical. Yeah. My description of it is the pessimistic caveman
+
+29:43.120 --> 29:48.160
+survived and we're descendants of the pessimists. Yeah. The optimistic guy got eaten by a saber
+
+29:48.160 --> 29:54.480
+through tiger. Yeah. But on the flip side, the optimists seem to be the ones that actually build
+
+29:54.560 --> 30:00.960
+stuff these days. There's a switch. So at what point in time do we catch on? Because the
+
+30:00.960 --> 30:07.760
+difference between survival and success mindset, the success mindset is highly optimistic.
+
+30:09.440 --> 30:14.880
+So where do we switch or how do we stay switched from survival to success? That's the challenge.
+
+30:16.880 --> 30:20.640
+Yeah. Somewhere we stopped being eaten by saber to tigers and started building
+
+30:20.640 --> 30:26.240
+bridges and buildings and computers and companies. We started to experience,
+
+30:26.240 --> 30:33.040
+we got enough data back to collaborate and we stopped listening to our amygdala and we
+
+30:33.040 --> 30:38.640
+started listening to our gut. Let me just return briefly to terrorists. What do you think about
+
+30:38.640 --> 30:43.200
+the policy of not negotiating with terrorists? Well, that's not the policy, first of all.
+
+30:44.080 --> 30:48.880
+Now everybody thinks that's the policy. Yeah. It hasn't been the policy since 2002
+
+30:49.520 --> 30:55.760
+when Bush 43 signed a National Security Presidential Directive, NSPD, at the time it
+
+30:55.760 --> 31:04.720
+was NSPD 12, which basically said, we won't make concessions. That doesn't mean we won't talk.
+
+31:06.000 --> 31:12.480
+So I'm in Columbia at the same time and I have been intimately involved with the signing of
+
+31:12.560 --> 31:20.000
+him signing that document. I knew exactly what it said and he didn't inherit it from somebody else.
+
+31:20.000 --> 31:26.880
+He signed it and I'm in Columbia and the number two in the embassy says,
+
+31:27.680 --> 31:32.560
+last night on TV, the president of the United States said, we don't negotiate with terrorists.
+
+31:32.560 --> 31:37.680
+Are you calling the president of the United States a liar? And I remember thinking like, all right, so
+
+31:37.680 --> 31:44.480
+he probably said that and that's not on the document that he signed.
+
+31:46.000 --> 31:52.640
+So I said, look, I'm familiar with what he's signed and that's not what it says. Well,
+
+31:52.640 --> 31:56.640
+you know, and so the argument, but that's always been the soundbite that everybody likes. We don't
+
+31:56.640 --> 32:01.600
+negotiate with terrorists. Depends upon your definition of negotiation. If it's just communication,
+
+32:01.600 --> 32:08.480
+we negotiate with them all the time. Number one, and number two, like every president has made some
+
+32:08.480 --> 32:18.240
+boneheaded deal with the bad guys. Like Obama released five high level Taliban leaders from
+
+32:18.240 --> 32:25.520
+Guantanamo in exchange for an AWOL soldier that we immediately threw in jail. And I thought that was
+
+32:25.520 --> 32:32.320
+a horrible deal. And that's putting terrorists back on the battlefield. And then Trump turned
+
+32:32.320 --> 32:37.280
+around and topped it by putting 5,000 terrorists back on the battlefield. So we haven't had a
+
+32:37.280 --> 32:41.920
+president that has stuck to that on either side of the aisle since people started throwing that
+
+32:41.920 --> 32:46.880
+out as a soundbite. What do you think of that negotiation? Forget terrorists, but the global
+
+32:46.880 --> 32:53.760
+negotiation, like with Vladimir Putin, the recent negotiation over prisoners, the exchange,
+
+32:53.840 --> 32:58.320
+the Breeden-Gardner. Is there a way to do that negotiation successfully?
+
+32:58.320 --> 33:02.800
+First of all, I agree with the idea that she was wrongfully detained and that she didn't deserve
+
+33:02.800 --> 33:11.760
+to be in jail and that there should be no second class citizens, ever. And whether you're a WNBA
+
+33:11.760 --> 33:16.800
+player or you're just some bonehead that walked into the wrong situation, your government should
+
+33:16.800 --> 33:25.440
+not abandon you, ever, ever. Now what they do in the meantime, there should have been a negotiation.
+
+33:26.640 --> 33:30.640
+They were desperate to make a deal at a bad time. They'd been offered far better deals
+
+33:30.640 --> 33:36.560
+than prisoner swaps earlier and turned them down. And then he gets turned up. And thank God for
+
+33:36.560 --> 33:41.920
+Brittany Greiner that the public got enough attention. They kept pressure on the administration.
+
+33:41.920 --> 33:47.680
+They made a deal. Now, governments want to make those kind of deals. That's fine.
+
+33:49.520 --> 33:53.600
+Because that was basically a political negotiation. You're putting 5,000 Taliban
+
+33:53.600 --> 33:58.080
+back on a battlefield. That ain't negotiating with another government. You're putting five of
+
+33:58.080 --> 34:01.520
+them back on a battlefield. That ain't negotiating with another government that's directly
+
+34:01.520 --> 34:05.520
+contradicting this thing that you claimed. And those were all bad deals. Now, was the Brittany
+
+34:05.520 --> 34:10.240
+Greiner thing a bad deal? I think it was great for her. If I was in the middle of it, it would
+
+34:10.240 --> 34:14.400
+have been better. And she still would have come home. Yeah, there's some technical aspects of
+
+34:14.400 --> 34:19.040
+that negotiation. What do you think is the value, just to linger on it, of meeting in person for the
+
+34:19.040 --> 34:26.560
+negotiation? I think it's a great idea. Can I just follow that tangent along? There's a war in Ukraine
+
+34:26.560 --> 34:36.640
+now. It's been going on over a year. For me personally, giving my life stories is a deeply
+
+34:36.640 --> 34:40.720
+personal one. And I'm returning back to that area of the world that was there.
+
+34:43.360 --> 34:50.720
+Volodymyr Zelensky said he doesn't want to talk to Vladimir Putin. Do you think they could get
+
+34:50.720 --> 35:00.640
+in a room together and say you were there in a room with Putin and Zelensky and Biden is sitting
+
+35:00.640 --> 35:06.640
+in the back drinking a cocktail or maybe he is at the table participating? How is it possible
+
+35:06.640 --> 35:13.520
+through negotiation, through the art of conversation, to find peace in this very tense geopolitical
+
+35:15.120 --> 35:21.360
+conflict? I think it's eminently possible. I think getting people together in person has always been
+
+35:21.360 --> 35:26.560
+a good idea. Now, who's getting them together under what circumstances and how many times you're
+
+35:26.560 --> 35:33.120
+getting them together? The documentary The Human Factor about the Mideast peace negotiations,
+
+35:33.760 --> 35:38.320
+mostly through the 90s, mostly under the Clinton administration,
+
+35:40.960 --> 35:47.200
+got kicked off under Bush 41. And then the documentary continues through Trump,
+
+35:48.320 --> 35:52.960
+but just touching basically on it. But they're getting Arafat and the different
+
+35:53.680 --> 35:59.200
+Israeli prime ministers together in person. And these guys do not want to talk to each other.
+
+35:59.200 --> 36:05.440
+And depending upon the prime minister, the mere thought of being on the same planet with Arafat
+
+36:05.440 --> 36:11.200
+was offensive. And they started getting these guys together in person regularly and they started
+
+36:11.200 --> 36:15.920
+seeing each other as human beings. And they started realizing that there was enough room on
+
+36:15.920 --> 36:24.400
+a planet for them. And that people dying was stupid. And they would slowly work things out
+
+36:24.400 --> 36:29.920
+by getting these guys together in person. So how long does it take? Who's hosting it?
+
+36:31.040 --> 36:37.440
+But it's a good idea. But the skill of achieving that thing that you talk about a lot, which is
+
+36:37.440 --> 36:44.160
+empathy, and I would say in that case, not just empathy, but empathy plus, you might disagree
+
+36:44.160 --> 36:51.680
+with this, but a drop of compassion in there. I think compassion is helpful, but it's not
+
+36:51.680 --> 37:01.280
+essential. If you just know where I'm coming from, the feeling of being understood.
+
+37:01.280 --> 37:07.440
+Yeah, heard and understood. That's powerful. Yeah. And again, I know I picked the vast majority of
+
+37:07.440 --> 37:13.440
+this up on Andrew's podcast, but I picked it up in other places because early on,
+
+37:14.240 --> 37:20.720
+when we were putting a book together with Tal Roz, the writer, my son, uncredited co-author.
+
+37:20.720 --> 37:27.280
+So the book's really a collaboration between me, my son Brandon, and Tal Roz. And we're driving
+
+37:27.280 --> 37:33.200
+for that's right. When somebody feels like what you've said is completely their position,
+
+37:33.200 --> 37:40.160
+they say that's right. Not you're right, but that's right. So Tal says, I think what's happening
+
+37:40.240 --> 37:47.200
+here is you're triggering a subtle epiphany in somebody. So I'm like, all right, I'll buy that.
+
+37:47.200 --> 37:53.680
+So I start looking up the neuroscience of the feeling of epiphany, getting a hit of
+
+37:54.800 --> 38:05.600
+oxytocin and serotonin. Oxytocin is a bonding drug. You bond to me. I don't bond to you.
+
+38:05.600 --> 38:12.320
+When you feel completely understood by me, you bond to me. Then in one of the relationship
+
+38:12.320 --> 38:19.920
+podcasts that I'm listening to on Andrew, it says oxytocin inclines people to tell the truth.
+
+38:21.280 --> 38:25.520
+You're more honest. All right, so you feel deeply understood by me, you bond to me,
+
+38:26.640 --> 38:34.000
+and you start getting more honest with me. Serotonin, the neurochemical satisfaction,
+
+38:35.680 --> 38:42.240
+epiphany, you feel oxytocin and serotonin being understood. All right, I got you bonding to me.
+
+38:42.800 --> 38:47.680
+I got you being more honest with me, and I got you feeling more satisfied so you want less.
+
+38:48.960 --> 38:55.680
+What more do you want out of a negotiation? Of course, there's already with leaders and
+
+38:55.680 --> 39:03.360
+great negotiators, there's walls built up, defense mechanisms against that. You're resisting this
+
+39:03.360 --> 39:08.240
+basic chemistry, but yes, you should have that. You should work towards that kind of empathy.
+
+39:09.520 --> 39:14.400
+I personally believe, I don't actually understand why, but I've observed it time and time again,
+
+39:14.400 --> 39:20.080
+but getting in a room together and really talking, whether privately or publicly,
+
+39:20.080 --> 39:27.040
+but really talking and like this. I'll comment on this. Right now, this is being recorded,
+
+39:27.760 --> 39:33.120
+and a few folks will hear this, but when you really do a good job of this kind of conversation,
+
+39:33.120 --> 39:38.880
+you forget there's cameras. That's much better than there being even a third person in the room,
+
+39:38.880 --> 39:44.800
+but often when world leaders meet, there's press or there's others in the room.
+
+39:47.600 --> 39:54.880
+Man to man or man to woman, you have to meet in a saloon, just the two of you, and talk.
+
+39:54.880 --> 40:00.960
+There's some intimacy and power to that, to achieve that. If you're also willing to couple
+
+40:00.960 --> 40:05.520
+that with empathy, to really hear the other person. I don't know what that is. That's like
+
+40:05.520 --> 40:11.440
+a deep, deep intimacy that happens. I think there's actually, because we get asked this
+
+40:11.440 --> 40:18.160
+in a Black Swan group all the time, like how do you zoom, that's bad, because you don't have the
+
+40:18.160 --> 40:25.440
+same visual feedback on zoom. That's not true. You and I, I see you from the waist up right now.
+
+40:25.440 --> 40:27.680
+If we were on zoom, I'd be looking at you from the waist up.
+
+40:27.680 --> 40:32.720
+I'm not wearing pants, yeah, with the internet. I apologize for that.
+
+40:35.440 --> 40:38.560
+Sorry. Yeah, yeah. You only see a small portion.
+
+40:41.440 --> 40:46.080
+That's usually where I go, but anyway. I'm glad we're both ever ridiculous.
+
+40:49.120 --> 40:56.720
+But what makes this different in person? I actually think there's energy that we don't
+
+40:56.720 --> 41:02.160
+have the instrumentation to define yet. I think that there's a feel. I think there's an actual
+
+41:02.160 --> 41:11.360
+energetic feel that changes. Again, just because we can't measure it, doesn't mean it's not there.
+
+41:12.560 --> 41:18.080
+Yeah. I would love to figure out what that is. Folks that are working on virtual reality are
+
+41:18.080 --> 41:23.280
+trying to figure out what that is. During the pandemic, everybody was on zoom. Zoom and
+
+41:23.280 --> 41:27.920
+Microsoft, everybody was trying to figure out how do we replicate that? I'm trying to understand
+
+41:27.920 --> 41:33.120
+how to replicate that because it sure is not fun to travel across the world just to talk to Snowden
+
+41:33.120 --> 41:38.880
+or Putin or Zelensky. I'd love to do it over zoom, but it's not the same. It's not the same.
+
+41:38.880 --> 41:43.120
+No, it's not the same. I'd go in a room with Putin.
+
+41:43.920 --> 41:45.920
+You would go in a room? I would, yeah, a thousand percent.
+
+41:47.040 --> 41:52.800
+I get a that's right out of him. That's right. Well, first you would give him a that's right,
+
+41:52.800 --> 41:59.200
+probably. Ah, getting a given. Here's the issue that trips everybody up in negotiations. The
+
+41:59.200 --> 42:05.520
+difference between hearing and speaking, the same words are vastly different. What I'm looking for
+
+42:05.520 --> 42:12.480
+is the responses I'm getting out of you. First, that's right, especially. If you can't appreciate
+
+42:12.480 --> 42:18.160
+what that really means, hearing it is unsatisfying. Those two words are really important to you. You
+
+42:18.160 --> 42:23.440
+talk about that in your book. What does that's right mean? Why is it important?
+
+42:23.440 --> 42:31.440
+Well, it means that what you just heard you think is unequivocably the truth. It's dead on. It hit
+
+42:31.440 --> 42:39.200
+the target. It's a bullseye. It's been a topic of discussion, especially between my son and I a lot,
+
+42:39.200 --> 42:47.200
+like what happens? This oxytocin bonding moment. His contention has always been
+
+42:48.160 --> 42:54.320
+Donald Trump is the poster child of what it means, because Donald Trump's an address in an
+
+42:54.320 --> 43:00.640
+audience. He's in a debate with Hillary or he's giving a speech someplace. And when the people
+
+43:00.640 --> 43:07.520
+that are devoted to him, when they believe that what he's just said is completely right, it's
+
+43:07.520 --> 43:16.960
+insightful. They look at him or they look at the TV and they go, that's right. And it's what people
+
+43:16.960 --> 43:24.720
+say when they're bought in to what they just heard. Now, if you're not convinced of the way
+
+43:24.720 --> 43:32.240
+that Donald Trump's followers are bonded to him, and he also just like this, in my view, destroys
+
+43:32.240 --> 43:39.440
+the idea of common ground, because when he first started to run for president, the pundits all said,
+
+43:39.440 --> 43:44.800
+ah, he's a New Yorker. Nobody in the Republican Party is going to like him. It's middle America.
+
+43:44.800 --> 43:51.840
+It's blue collar. It's regular common folks, factory workers. They're not going to like Trump
+
+43:51.840 --> 43:56.800
+because he's from New York and he went to ward and he's an Ivy leaguer and he's a son of a
+
+43:57.600 --> 44:03.600
+wealthy real estate mogul and he had a million dollars handed to him when he got out of college.
+
+44:05.280 --> 44:11.280
+He's born with a silver spoon in his mouth. The rank and fire Republicans are never going to
+
+44:11.280 --> 44:18.080
+accept this guy based on common ground. Look how smart that was.
+
+44:18.080 --> 44:21.200
+Do you think he's a good negotiator? Do you think Donald Trump is a good negotiator?
+
+44:22.160 --> 44:28.480
+No. I think he's a great marketer. If you look at his negotiation track record, all right,
+
+44:28.480 --> 44:33.040
+so I started following Donald Trump in the 80s when I was in New York. I'm a last century guy.
+
+44:33.040 --> 44:37.360
+He's a last century guy. We've got mutual acquaintances. The minister that married him
+
+44:37.360 --> 44:45.280
+to Mylar Maples was a friend of mine, a close friend of mine, and in 1998 I threw a fundraiser
+
+44:45.280 --> 44:52.560
+in his apartment at Trump Tower that he attended. So no shortage of mutual friends. We went to the
+
+44:52.560 --> 45:00.880
+same church, still have mutual acquaintances, friends, and I've watched his track record
+
+45:00.880 --> 45:07.520
+negotiation history, which is exactly his track record with North Korea. Where are we with North
+
+45:07.520 --> 45:14.720
+Korea? What was the deal that he made with North Korea? See, your answer is the same as everybody
+
+45:14.720 --> 45:22.320
+else's. Well, I remember it started out with a lot of fanfare, but I don't know what happened
+
+45:22.960 --> 45:28.080
+because nothing ever happens. It's more public fanfare, so marketing-minded
+
+45:28.080 --> 45:32.800
+presentation. It starts out with a bang. If he doesn't cut the deal in a short period,
+
+45:32.800 --> 45:37.760
+a really short period of time, he moves on and everybody wonders what had happened because there
+
+45:37.760 --> 45:44.080
+was so much fanfare at the beginning. Now, at the beginning, him even opening that dialogue with
+
+45:44.080 --> 45:51.040
+North Korea was masterful. I was such a fan when you got a president of the United States
+
+45:52.080 --> 45:57.520
+that is willing to sit down and talk with a leader of another nation. When every other president,
+
+45:57.520 --> 46:02.960
+all our advisors are saying, the leader of North Korea is beneath you. You cannot dignify him by
+
+46:02.960 --> 46:09.600
+responding to him directly. Consequently, the Trump administration inherits a can of worms
+
+46:10.400 --> 46:16.720
+that has been simmering for 30 years. He didn't get a sense of that. He opened up a dialogue
+
+46:16.720 --> 46:20.000
+where nobody else was capable of opening a dialogue, and then it just went away.
+
+46:20.880 --> 46:27.920
+Nobody knows what happened, and there was no deal made. Great negotiators make deals.
+
+46:28.800 --> 46:32.400
+What do you think about these accusations that he's a narcissist?
+
+46:33.760 --> 46:36.560
+If you're a narcissist, does that help you or hurt you?
+
+46:37.360 --> 46:41.360
+Is there a more popular term these days than narcissist? Everybody's a narcissist.
+
+46:41.360 --> 46:44.800
+Everybody you don't like is a narcissist. Like the homeless guy down on the corner,
+
+46:44.800 --> 46:49.120
+he's a narcissist. That's why he's there. Yeah. It's lost meaning for you a little bit.
+
+46:49.200 --> 46:56.000
+Yeah. First of all, most psychological terms, as a hostage negotiator and really,
+
+46:56.000 --> 47:04.560
+we were never into psychology. We stared away from it because psychology at best is soft science.
+
+47:05.360 --> 47:14.080
+If it's not informed these days, if it's not informed by real studies or neuroscience,
+
+47:14.080 --> 47:18.400
+the guys that I'm impressed with these days are psychologists and neuroscientists. I'm interested
+
+47:18.400 --> 47:24.320
+in that guy or gal. But then the psychology convention, do you get them all together and
+
+47:24.320 --> 47:29.920
+they all agree? No. But also the interesting thing about psychology is each individual person
+
+47:31.040 --> 47:35.360
+is way more complicated than the category psychology tries to create. There's something
+
+47:35.360 --> 47:41.920
+about the human brain. The moment you classify somebody as a narcissist or depressed or bipolar
+
+47:42.720 --> 47:48.240
+or insane in any kind of way, for some reason you give yourself a convenient excuse not to
+
+47:48.240 --> 47:53.280
+see them as a complicated human being to empathize with them. I had that when I was talking to,
+
+47:53.280 --> 47:58.800
+I did an interview with Kanye West and then there's a lot of popular opinions about
+
+48:00.640 --> 48:07.120
+him being mentally unwell and so on. And I felt that that kind of way of thinking is a very
+
+48:07.120 --> 48:13.520
+convenient way of thinking to ignore the fact that he's a human being that again wants to be
+
+48:13.520 --> 48:18.160
+understood and heard. And that's the only way you can have that conversation.
+
+48:19.520 --> 48:25.280
+Yeah, I agree completely. That's right. I feel so close to you now.
+
+48:27.200 --> 48:28.640
+It might be because I'm not wearing pants.
+
+48:30.720 --> 48:34.400
+All right. So what were you- You're funnier than I am. That bothers me.
+
+48:34.400 --> 48:38.880
+All right. I'll say something stupid soon enough. Don't worry about it.
+
+48:39.680 --> 48:44.320
+But you said we were talking about terrorists and not negotiating with terrorists.
+
+48:45.280 --> 48:48.480
+Is there something- Nice job going all the way back to where that rabbit hole started.
+
+48:49.920 --> 48:55.120
+We're Alice in Wonderland right now. Is there something about walking the way
+
+48:56.000 --> 49:01.280
+of not negotiating? Is there power in that? All right. So it depends upon whether or not
+
+49:01.440 --> 49:07.840
+you're doing it with integrity or a tactic to start with. And then also
+
+49:10.320 --> 49:15.840
+hostage negotiators are successful 93% of the time, kind of across the board,
+
+49:17.680 --> 49:25.520
+which means that the 7% of the time is going to go bad. And that was my old boss, Gary Nessner.
+
+49:25.520 --> 49:30.800
+I learned so much from Gary. But a phrase that he used over and over and over again,
+
+49:30.800 --> 49:35.760
+until I finally worked the case and went bad, was this is going to be the best chance of success,
+
+49:35.760 --> 49:39.280
+best chance of success. And then something went bad. And I remember thinking like,
+
+49:39.280 --> 49:42.320
+well, best chance of success is no guarantee of success.
+
+49:43.840 --> 49:48.080
+So your question is, are there negotiations you should walk away from? If you got no
+
+49:48.080 --> 49:53.840
+shot at success, then don't negotiate. And you have to accept the fact that some deals
+
+49:53.840 --> 49:58.400
+you're never going to make. We teach in my company, it's not a sin to not get the deal.
+
+49:58.400 --> 50:04.560
+It's a sin to take a long time to not get the deal. And Gary, in his infinite wisdom,
+
+50:06.240 --> 50:13.360
+they realized that there was something called suicide by cop. And that it might have,
+
+50:14.160 --> 50:18.240
+Gary was very much into clusters of behavior. He kept us away from psychological terms. And
+
+50:18.240 --> 50:24.160
+there would be clusters of behavior that would be high risk indicators. And he wrote a block
+
+50:24.160 --> 50:29.920
+of instruction called high risk indicators, which meant if you start seeing this stuff show up,
+
+50:29.920 --> 50:35.040
+this thing's probably going bad. And you're going to need to recognize that from the very
+
+50:35.040 --> 50:39.600
+beginning and adjust accordingly. And it's the same way in business and personal life.
+
+50:40.560 --> 50:45.680
+I'm talking to the head of a marketing company I have tremendous respect for. I admire what this
+
+50:45.680 --> 50:54.240
+guy in this company does. Started from scratch. He borrowed space in the back of a drug store
+
+50:55.360 --> 51:02.000
+to start his company. And now it's hugely successful. And he's laying out to me
+
+51:03.280 --> 51:10.480
+that he finally had to confront a potential client and walk away from him. And he said,
+
+51:10.480 --> 51:16.400
+how do you think I handle this? And my answer was 1000% correct. And as a matter of fact,
+
+51:16.960 --> 51:24.080
+the behavior that he indicated, he's a type and you should have walked away sooner than you did.
+
+51:25.120 --> 51:29.360
+Because this guy was playing it all the time. Al Qaeda 2004, they're playing us. They're not
+
+51:29.360 --> 51:35.760
+negotiating. We called them out on it. We don't think you're negotiating. You wouldn't say it
+
+51:35.760 --> 51:41.200
+exactly like that. But that was absolutely the approach. You know, confront people on
+
+51:41.200 --> 51:46.960
+their behavior in a respectful way. And signal that you're willing to walk away.
+
+51:46.960 --> 51:51.360
+And mean it 1000%. And mean it. Isn't that terrifying? I mean,
+
+51:51.360 --> 51:55.760
+it's scary because you don't want to really walk away. Or do you have to really want to walk away?
+
+51:55.760 --> 52:01.040
+Well, this gets core values, your view of reality. If it's an abundant world,
+
+52:01.040 --> 52:07.120
+it's not scary to walk away. If it's a finite world with limited opportunities, then it's horrifying.
+
+52:10.480 --> 52:14.800
+But you have to use that worldview to be willing to actually walk away.
+
+52:17.920 --> 52:24.000
+Yeah, it could be walking away from a lot of money. It could be walking away from something
+
+52:24.000 --> 52:27.600
+that's going to hurt people. Because if you lose a hostage,
+
+52:27.600 --> 52:34.240
+Yeah, well, but if they're not going to let the hostage out, suicide by cop, they let them go.
+
+52:38.480 --> 52:40.960
+The 7%, how do most negotiations fail?
+
+52:43.200 --> 52:47.120
+The bad guys were never there to make a deal in the first place. If it was suicide by cop,
+
+52:48.000 --> 52:55.040
+if they were there, if they're on a killing journey, it's an Israeli phrase.
+
+52:55.920 --> 53:00.320
+If they're on a killing journey, and the actions that they're
+
+53:00.320 --> 53:03.760
+currently engaged in are part of that killing journey.
+
+53:04.720 --> 53:10.800
+Killing journey. Is there advice you can give about, you mentioned Israel, Palestine,
+
+53:10.800 --> 53:16.640
+the Middle East, taking on a few conversations on that topic? Is there hope for that part of the
+
+53:16.640 --> 53:21.280
+world? And from that hope, is there some advice you could lend?
+
+53:21.280 --> 53:28.400
+Yeah, I think there's hope. Then I got friends on both sides. And also,
+
+53:31.280 --> 53:36.560
+after I left the FBI, most people listen to this, probably not going to remember who Rodney
+
+53:36.560 --> 53:40.720
+Dangerfield was. Oh, come on. Still doesn't get any respect.
+
+53:42.720 --> 53:45.680
+New Yorker? Is he a New Yorker? I think he was a New York guy.
+
+53:45.680 --> 53:50.320
+Or like Jersey or something, yeah. Yeah, and he did a movie a long time ago
+
+53:50.320 --> 53:53.600
+called Back to School. He went back to school. He was an old guy back to school. So I went back
+
+53:53.600 --> 54:01.280
+to school after I left the FBI. I did get a master's at Harvard Kennedy. And that's where
+
+54:01.280 --> 54:08.080
+I'm running across people on both sides of that. And when they could talk, they said,
+
+54:08.080 --> 54:11.920
+let's start from the premise that both sides want a better life for our kids,
+
+54:12.960 --> 54:19.040
+which is this version that I was telling you earlier from Tom Girardi. Let's pick a point
+
+54:19.040 --> 54:23.440
+in the future that we're all happy with. And he found that they could talk.
+
+54:24.880 --> 54:27.680
+All right, so it might not be better for us. How do we make it better for our kids?
+
+54:29.360 --> 54:33.920
+And that's where the hope derives from. Because I think both sides ultimately
+
+54:33.920 --> 54:39.680
+want it to be better for their kids, which is why they still engage in interactions. And which is
+
+54:39.680 --> 54:45.840
+why I think the leadership, regardless of how compromised they might be on either side,
+
+54:46.800 --> 54:52.240
+there are a few straight players in the game in the Middle East, or anywhere for that matter.
+
+54:54.640 --> 54:57.760
+But they want a better future for their kids. You get people to agree that you want a better
+
+54:57.760 --> 55:01.120
+future for your kids. Now you can start talking about, well, how do we work our way back from that?
+
+55:02.080 --> 55:06.800
+And then, all right, so we got a mutual point in the future. The Israeli-Palestinian negotiations
+
+55:08.320 --> 55:13.600
+are also, for me, interesting because you mentioned Clubhouse about almost two years ago now
+
+55:13.600 --> 55:24.080
+when Israel was shelling Gaza. They hit the UPI office. They got fed up with the rocket attacks
+
+55:24.080 --> 55:30.640
+from Hamas. And of course, Hamas is putting rockets into UPI office or the AP office, whichever
+
+55:30.640 --> 55:35.120
+press office it was there. How's that office going to be there otherwise? Hamas is running a show.
+
+55:36.480 --> 55:40.800
+You're not going to run that office unless you let them store weapons there. That's just part
+
+55:40.800 --> 55:47.440
+of the game. And are they going to store them in specially designated ammunition dumps? No,
+
+55:47.440 --> 55:50.480
+they're going to put them in schools. They're going to put them in hospitals. They're going
+
+55:50.480 --> 55:54.640
+to put them in all the places that when Israel hits them, they're going to look really bad.
+
+55:55.840 --> 55:59.680
+So after a while, Israel gets fed up and they start shelling Gaza and they're hitting these places.
+
+56:00.960 --> 56:07.120
+A friend of mine, Nicole Benham, is hosting rooms on Clubhouse and she says,
+
+56:07.120 --> 56:12.000
+you got to come on. The vitriol is killing me. These are all turning into screaming matches.
+
+56:12.000 --> 56:17.760
+Nobody's talking to anybody. I said, all right, cool. We'll go on. We'll do it and watch. We won't
+
+56:17.760 --> 56:25.680
+have a single argument. We'll invite people on from both sides. There was one rule. Before you
+
+56:25.680 --> 56:33.760
+started to describe what you thought of the other side, you had to say, before I disagree with you,
+
+56:33.760 --> 56:38.560
+here's what I think your position is. And you got to continue to state the other side's position
+
+56:39.200 --> 56:47.200
+until they agree that you've gotten it. Now what happened? No agreement and no arguments.
+
+56:48.080 --> 56:54.080
+That was what we were really going for. We wanted to show that people on both sides in
+
+56:54.080 --> 56:59.600
+one of their emotional timeframes, if your only requirement was you had to state the other side's
+
+56:59.600 --> 57:05.040
+position first, nobody got out of control. Did it work?
+
+57:06.000 --> 57:11.680
+That's exactly what happened. We wanted to show people that you can have conversations that do
+
+57:11.680 --> 57:20.640
+not devolve into screaming matches with vitriol, talking about how you're dedicated to the
+
+57:20.640 --> 57:26.160
+destruction of the other side. Just first, see if you can outline where they're coming from.
+
+57:26.160 --> 57:33.120
+That's really impressive because having seen on Clubhouse, people, which part of the reason I
+
+57:33.120 --> 57:40.000
+liked Clubhouse, you get to hear voices from all sides, they were emotionally intense.
+
+57:45.120 --> 57:51.120
+I'm sweating just in the buildup of your story here. I thought it could go to hell,
+
+57:51.120 --> 57:54.400
+but you're saying it kind of worked. Not one person lost control.
+
+57:55.360 --> 58:01.120
+Of the two sides, the people that were speaking on behalf of the Israelis were a little better
+
+58:02.000 --> 58:08.960
+at articulating supportive positions for the Palestinians. Most of the people who want to
+
+58:08.960 --> 58:14.960
+speak up on behalf of the Palestinians, they'd want to start doing like, you're doing this,
+
+58:14.960 --> 58:19.040
+and I'd say, no, no, no, no, you can go there, just not yet. Before you go there,
+
+58:19.040 --> 58:25.840
+you can say that all you want. Before you go there, you've got to try to articulate to them
+
+58:25.840 --> 58:29.680
+where they're coming from. They got to tell you you got it right. What would consistently happen
+
+58:30.640 --> 58:38.640
+is there's a leveling out of a person to try to see the other side's perspective and articulate it.
+
+58:38.640 --> 58:42.080
+It's enormously beneficial to the person who's trying to do it,
+
+58:42.800 --> 58:44.800
+which was really the point that we were trying to make.
+
+58:44.800 --> 58:50.480
+It's a really interesting exercise by way of advice. If it works at clubhouse,
+
+58:50.480 --> 58:56.160
+for people who don't know, that's a voice app where you can be anonymous. It's really
+
+58:56.720 --> 59:03.040
+regular people, but regular people can also be anonymous. It can be chaos. If it works there,
+
+59:03.040 --> 59:08.160
+that's really interesting. When you sit down for a conversation across the table from somebody,
+
+59:08.480 --> 59:15.280
+don't have them even steal me on the other side. Have them just state the other side.
+
+59:18.960 --> 59:23.040
+Explain your understanding of it. That's it. Every now and then, I would jump in.
+
+59:25.840 --> 59:32.720
+Somebody supporting Israel, whoever the heck they were, and they'd say a couple things.
+
+59:33.360 --> 59:38.960
+A Palestinian guy would be like, our gal, or supportive of them, would say,
+
+59:38.960 --> 59:43.200
+you missed some stuff. I'd say, let me jump in. First of all, I know what the Nakba is.
+
+59:44.880 --> 59:51.120
+The Nakba is a catastrophe. That's the day Israel was born. For the rest of the world,
+
+59:51.120 --> 59:56.800
+it's the birth of Israel. For you, it's the Nakba. I said, you've got members of your family
+
+59:57.760 --> 01:00:02.720
+that are still walking around carrying keys to the front door of the house they abandoned.
+
+01:00:04.720 --> 01:00:14.240
+They'd be like, yeah. I'd say, you feel bad that, in point of fact, that in World War II,
+
+01:00:16.640 --> 01:00:23.120
+the world stood back and watched while the Nazis threw the Jews off a building.
+
+01:00:23.120 --> 01:00:32.560
+The only problem was, they landed on you. They'd be like, yeah. That's where they're coming from.
+
+01:00:35.360 --> 01:00:42.240
+Articulating deeply what the other side feels is transformative for both people involved in the
+
+01:00:42.240 --> 01:00:50.000
+process. What's the toughest negotiation you've ever been a part of, or maybe observed or heard
+
+01:00:50.000 --> 01:00:57.040
+of? What's a difficult case that just stands out to you, or maybe just one of many?
+
+01:00:58.720 --> 01:01:08.320
+Well, the stuff we went through with al-Qaeda in and around Iraq, Iraq and Saudi, first one was in
+
+01:01:08.320 --> 01:01:14.320
+Saudi in 2004 timeframe. The hardest part about that was working with family members
+
+01:01:14.800 --> 01:01:19.520
+and not deceiving them about the possibility of the outcome.
+
+01:01:20.240 --> 01:01:23.440
+Yeah. How do you talk to family members? Is that part of the negotiation?
+
+01:01:23.440 --> 01:01:29.920
+Yeah. Empathy, learning empathy the hard way, and then being able to take it up to higher levels.
+
+01:01:29.920 --> 01:01:35.120
+Because at its base level, a guy that we're working with now that's coaching us in EOS
+
+01:01:35.120 --> 01:01:38.560
+and is a business partner, his name is Jonathan Smith, he pointed out to us
+
+01:01:39.280 --> 01:01:46.400
+that there's a Shu-Ha-Ri concept. Are you familiar with Shu-Ha-Ri? It's a martial arts concept.
+
+01:01:49.680 --> 01:01:53.920
+Do it exactly as the master is telling you to do it. Wax on, wax off, karate kid stuff.
+
+01:01:56.720 --> 01:02:02.480
+Ha is when you've done the repetitions enough times, you're getting a feel for it,
+
+01:02:03.600 --> 01:02:07.680
+and you begin to see the same lessons coming from other masters. You're seeing the same
+
+01:02:07.680 --> 01:02:14.320
+things show up in other places. At the re-level, you're still in the discipline,
+
+01:02:15.280 --> 01:02:22.880
+but you're making up your own rules. It's almost a flow state. You don't realize
+
+01:02:23.760 --> 01:02:27.440
+that you're making up your own rules. If somebody asks you where you learned that,
+
+01:02:28.240 --> 01:02:33.520
+you probably say, my sensei taught it to me. My master taught it to me.
+
+01:02:34.320 --> 01:02:39.120
+This will come back around to negotiating with families pretty quick. We did this once because
+
+01:02:39.120 --> 01:02:44.320
+there's a bunch of people that we coach, business people that are scared of the amount of money
+
+01:02:44.320 --> 01:02:49.120
+that they're losing if we're not coaching them regularly. One of these guys, Michael,
+
+01:02:49.120 --> 01:02:54.800
+we're interviewing him for a social media posting about two years ago, and Michael says,
+
+01:02:54.800 --> 01:02:59.040
+yeah, you know, you got to gather data with your eyes. And I remember thinking, and I went,
+
+01:02:59.040 --> 01:03:06.080
+ooh, I like that. I said, where did you hear that before? And he goes, you know, I don't know. I
+
+01:03:06.080 --> 01:03:11.360
+heard it from you, I think. And I was like, no, no, no, no, no. I don't remember saying that.
+
+01:03:11.360 --> 01:03:12.080
+Yeah.
+
+01:03:12.080 --> 01:03:16.800
+That's the first time I've heard that. He's in re. So what's this got to do with families?
+
+01:03:17.600 --> 01:03:22.720
+Empathy at its base level and the shoe level, I learned it on the suicide hotline, is saying
+
+01:03:23.520 --> 01:03:35.360
+you sound angry. I'm just calling out the elephant in the room. Your emotions, what's driving you.
+
+01:03:36.480 --> 01:03:42.400
+I'm throwing a label on your affect. And I'm saying you sound, or it sounds like you are,
+
+01:03:43.440 --> 01:03:50.320
+because that's the basic karate kid wax on, wax off approach. Now there are a lot of hostage
+
+01:03:50.320 --> 01:03:54.080
+negotiators that will tell you empathy doesn't work at home. Not true. They've never gotten out
+
+01:03:54.080 --> 01:04:01.280
+of shoe. You're getting ready to talk to your significant other and you want to go someplace
+
+01:04:03.120 --> 01:04:06.720
+that you know is going to make her angry. You want to go do something.
+
+01:04:06.720 --> 01:04:08.400
+That's real negotiation right there.
+
+01:04:08.960 --> 01:04:14.240
+You could say to her, you sound angry, in which case she's going to blow up because her reaction
+
+01:04:14.240 --> 01:04:21.600
+is you made me angry, Bozo. Can you act like you're an innocent third party or that you
+
+01:04:21.600 --> 01:04:26.880
+were independent of how I feel bad? And you learn a little bit more and you say
+
+01:04:28.240 --> 01:04:31.600
+the high level is probably going to make you angry.
+
+01:04:34.400 --> 01:04:40.880
+And then what I did with families, I knew how they felt before I walked in the door.
+
+01:04:40.880 --> 01:04:47.680
+I knew that they were scared to death. You find out that your husband, your father, your brother
+
+01:04:47.680 --> 01:04:51.920
+has been grabbed by Al Qaeda, who are in the business of chopping people's heads off.
+
+01:04:53.120 --> 01:04:57.120
+You're going to be horrified. I can't walk into them and go like, you sound angry.
+
+01:04:58.160 --> 01:05:05.040
+Of course I'm angry, you idiot. But knowing what they are, I used to walk into family's houses
+
+01:05:05.040 --> 01:05:12.160
+and I'd say, I know you're angry. Now, what do the circumstances dictate that they should also feel?
+
+01:05:13.360 --> 01:05:17.600
+They're going to feel abandoned by their government. They're going to feel totally alone.
+
+01:05:18.400 --> 01:05:24.560
+They're going to be scared and they're going to be angry because they feel the government abandoned
+
+01:05:24.560 --> 01:05:31.120
+them. Now, they're in point of fact, is this an accurate statement? That their loved one voluntarily
+
+01:05:31.120 --> 01:05:36.400
+went into a war zone and voluntarily went someplace their government told them not to go.
+
+01:05:37.280 --> 01:05:40.960
+Are the facts that the government abandoned them? Absolutely not. As a matter of fact,
+
+01:05:40.960 --> 01:05:45.120
+the government tried to get them to not go and they went anyway. But that doesn't change
+
+01:05:45.120 --> 01:05:51.280
+how they felt in a moment. And I'd walk into a house and I go, I know you're angry. I know you
+
+01:05:51.280 --> 01:05:56.800
+feel abandoned and alone and I know you're horrified and I know you feel the United States
+
+01:05:56.880 --> 01:06:03.680
+government has abandoned you. And they would look at me and go like,
+
+01:06:05.920 --> 01:06:11.440
+yeah, what do we do now? Now we're ready to rock.
+
+01:06:15.360 --> 01:06:21.440
+Is there, with Al Qaeda or in general, is there a language barrier too? It could be just barriers
+
+01:06:21.440 --> 01:06:26.240
+of different communication styles. I mean, you got like a New Yorker way about it.
+
+01:06:28.000 --> 01:06:32.240
+That might make somebody from like, I don't know, Laguna Beach.
+
+01:06:35.920 --> 01:06:43.520
+Do you feel that language barrier in communication is that language and communication style in itself
+
+01:06:43.520 --> 01:06:50.240
+creating a barrier? You got a barrier when you think that your way is the way. Sure. That's the
+
+01:06:50.240 --> 01:06:56.400
+biggest barrier. Yeah. And that happens all the time. When people talk about, what about cross
+
+01:06:56.400 --> 01:07:03.520
+cultural negotiations? What hand do I got to shake hands with so that I can get my way?
+
+01:07:05.200 --> 01:07:09.920
+Well, if you strip it all down, we're all basically the same blank slate when we were born.
+
+01:07:10.720 --> 01:07:15.040
+Everybody's got a limbic system. Everybody's limbic system works pretty much the same way.
+
+01:07:16.000 --> 01:07:19.840
+People are driven by the same sorts of decisions. How does this affect my future?
+
+01:07:20.560 --> 01:07:25.600
+What am I at risk of losing? How does this affect my identity? You know, kind of kidnapper,
+
+01:07:26.560 --> 01:07:30.160
+you're a New York City businessman, you're a tobacco farmer in the South,
+
+01:07:30.880 --> 01:07:36.720
+all making those same decisions based on those same things. So as soon as I start to navigate that,
+
+01:07:37.440 --> 01:07:44.240
+and I tailor my approach, which is what empathy is, to what you think, how you see things.
+
+01:07:46.000 --> 01:07:53.040
+So I can be the biggest goofball ever from, if you're living in the South,
+
+01:07:53.040 --> 01:07:58.800
+yeah, maybe I'm a New Yorker or I'm somebody from LA or somebody from Chicago.
+
+01:08:00.240 --> 01:08:04.640
+But my geography is foreign to you. But as soon as I start dialing in on how you see things,
+
+01:08:06.160 --> 01:08:07.120
+suddenly you're listening.
+
+01:08:10.080 --> 01:08:14.880
+What about the three voices you talk about, the different voices you can use in that communication?
+
+01:08:15.600 --> 01:08:19.920
+The assertive voice, direct and honest. I'm a natural born assertive.
+
+01:08:21.040 --> 01:08:23.520
+Natural born. I thought we were all blank slate.
+
+01:08:25.280 --> 01:08:29.920
+Stop catching me on what I said. How dare you accuse me of what I've said? To quote Bono,
+
+01:08:29.920 --> 01:08:32.560
+I stand accused of what I've said, the things I've said.
+
+01:08:32.560 --> 01:08:35.840
+That's a good line. He's got a few good lines.
+
+01:08:37.120 --> 01:08:41.760
+So assertive voice, you're born that way. What are the other ones?
+
+01:08:42.560 --> 01:08:44.960
+Analyst. You're an analyst.
+
+01:08:46.000 --> 01:08:47.120
+I can tell you're assertive.
+
+01:08:51.120 --> 01:08:52.320
+What's an analyst voice?
+
+01:08:53.040 --> 01:08:55.360
+Well, an analyst is closer to the...
+
+01:08:55.360 --> 01:08:57.360
+Smarter? More thoughtful?
+
+01:08:59.760 --> 01:09:00.640
+No, as a matter of fact.
+
+01:09:03.520 --> 01:09:05.360
+Look, you ever do a decision tree?
+
+01:09:05.920 --> 01:09:06.400
+Yeah.
+
+01:09:06.400 --> 01:09:07.760
+See, you like it too, don't you?
+
+01:09:08.640 --> 01:09:14.800
+So decision trees, you know, I'm a computer scientist. I like mathematical,
+
+01:09:16.080 --> 01:09:17.680
+systematic ways of seeing the world.
+
+01:09:18.560 --> 01:09:24.800
+He's an analyst. You think Donald Trump would ever say that? Unlikely.
+
+01:09:26.560 --> 01:09:27.760
+Is he more the assertive kind?
+
+01:09:27.760 --> 01:09:29.200
+He's a natural born assertive, yeah.
+
+01:09:31.200 --> 01:09:34.000
+Are all New Yorkers like this? Is this something in the water?
+
+01:09:34.000 --> 01:09:37.120
+No, that's the craziest thing. I mean, there's an affect that a city can have.
+
+01:09:38.000 --> 01:09:38.500
+Yeah.
+
+01:09:39.200 --> 01:09:45.600
+And, you know, New York's northeast, not just New York, but the northeast is a little more
+
+01:09:46.640 --> 01:09:53.040
+the affect of the area, of the culture of the area. The individuals still boil down into
+
+01:09:53.680 --> 01:09:55.600
+the three types cross aboard.
+
+01:09:55.600 --> 01:09:56.400
+What's the third one?
+
+01:09:57.520 --> 01:10:00.160
+Accommodator, smiling, optimistic, hopeful.
+
+01:10:01.120 --> 01:10:05.440
+I'm a thousand percent convinced that the phrase, hope is not a strategy,
+
+01:10:06.800 --> 01:10:12.000
+is designed at people's frustration over a third of the population being
+
+01:10:12.000 --> 01:10:16.000
+accommodators that are hope driven. I hope this works out.
+
+01:10:20.080 --> 01:10:24.400
+And they're very relationship. On the surface, they're very relationship oriented. They tend
+
+01:10:24.400 --> 01:10:29.360
+to appear to be very positive. And then they are, but it's really built around hope.
+
+01:10:29.360 --> 01:10:31.440
+And the idea is you can adopt these three voices.
+
+01:10:32.720 --> 01:10:34.320
+Yeah, you can learn them. They're all learnable.
+
+01:10:35.760 --> 01:10:42.960
+Analysts are often mistaken for accommodators because as you said before,
+
+01:10:44.800 --> 01:10:50.560
+analysts are more introspective, more analytical. They're looking at the systems at work. And
+
+01:10:50.560 --> 01:11:00.320
+if they like to learn, they notice that accommodators make more deals than they make.
+
+01:11:00.320 --> 01:11:02.960
+They also notice that there's a higher failure rate of the deals.
+
+01:11:04.160 --> 01:11:09.280
+But since they notice stuff and they think about it, they catch on faster than assertives do
+
+01:11:10.000 --> 01:11:16.240
+that the pleasant nature of an accommodator contributes strongly to them making deals.
+
+01:11:17.120 --> 01:11:25.840
+Like my daughter-in-law is an analyst. Another descriptor we have an analyst are assassins.
+
+01:11:27.440 --> 01:11:30.560
+An analyst will snipe you from a thousand yards out in the middle of the night
+
+01:11:31.360 --> 01:11:34.080
+and you never know what hits you. And they're really happy with that.
+
+01:11:36.320 --> 01:11:42.400
+But how has assertiveness, the assertive voice served you in negotiation?
+
+01:11:42.400 --> 01:11:48.320
+Poorly. The assertive voice is almost always counterproductive.
+
+01:11:48.320 --> 01:11:54.480
+It feels like getting hit in the face with a brick. And that's almost always counterproductive.
+
+01:11:55.040 --> 01:12:02.240
+So for me to be more effective, especially in a negotiation, I'll need to slow down and smile.
+
+01:12:04.320 --> 01:12:10.320
+You know, I heard that Teddy Roosevelt was a good negotiator and that he was extremely stubborn.
+
+01:12:11.120 --> 01:12:15.600
+And perhaps the right term for that would be assertive, but he picked his battles.
+
+01:12:15.600 --> 01:12:22.800
+Is there some value to holding strong to principles? So I don't even know.
+
+01:12:22.800 --> 01:12:25.440
+That's probably the opposite of empathy. Are there times when you
+
+01:12:26.160 --> 01:12:29.760
+can just stick, be extremely stubborn to your principles?
+
+01:12:31.360 --> 01:12:34.400
+We do it all the time. We're just nice about it.
+
+01:12:35.120 --> 01:12:37.040
+Okay. It helps to be nice, you're saying.
+
+01:12:37.040 --> 01:12:43.120
+Well, yes, because I need you to hear me and the assertive tone of voice. So when we do our
+
+01:12:43.120 --> 01:12:49.520
+training, typically we do an exercise called 60 seconds or she dies. And I play the bad guy
+
+01:12:49.520 --> 01:12:56.240
+bank robber and I ask you to be the hostage negotiator. And your job is to, I'll give you
+
+01:12:56.240 --> 01:13:02.080
+the four real world constraints. And then you got to try and negotiate me out of the bank.
+
+01:13:02.080 --> 01:13:07.680
+Now we're doing this. Now the first voice that I always use in that exercise is the assertive
+
+01:13:07.680 --> 01:13:13.920
+voice, which is the commanding voice. It's the voice that all police officers are taught to use
+
+01:13:13.920 --> 01:13:21.360
+in the street. Issued loud and clear commands. You know, it doesn't, to me, I don't feel like
+
+01:13:21.360 --> 01:13:28.880
+I'm attacking you. I just feel like I'm being direct and honest and clear. You on the other
+
+01:13:28.880 --> 01:13:34.400
+hand feel attacked. Now we're doing this exercise in Austin a couple of years ago.
+
+01:13:34.400 --> 01:13:42.080
+The first participant has an Apple watch on. He tells us afterwards that sitting still,
+
+01:13:43.360 --> 01:13:48.960
+not even answering, when he first gets hit in the face with the assertive voice, his heart rate
+
+01:13:48.960 --> 01:13:54.800
+jumped to 170, which is a typical fight or flight reaction. I come at you like I'm fighting you.
+
+01:13:54.800 --> 01:14:02.080
+You're, your fight flight mechanisms all kick into gear, which clouds your thinking.
+
+01:14:02.080 --> 01:14:08.000
+You're automatically dumber in the moment. So if I want to make a great long-term deal with you,
+
+01:14:08.880 --> 01:14:15.120
+highly profitable, I'm agnostic to you being profitable. You'd be profitable,
+
+01:14:15.120 --> 01:14:22.880
+that's fine. I'm here to make money for me. Me making you dumber will always hurt me.
+
+01:14:25.760 --> 01:14:29.680
+Me making you feel attacked will always hurt me.
+
+01:14:30.320 --> 01:14:35.840
+So there's never a value in being, in you making me afraid.
+
+01:14:37.040 --> 01:14:42.080
+There's never a long-term value in it. That's, this is another thing that Tal
+
+01:14:42.080 --> 01:14:48.480
+Ross, when we were writing a book, braced me on. Because he said, there's scientific data out there
+
+01:14:48.480 --> 01:14:54.160
+that's called strategic umbrage. Well, there's data. Well, whether or not it's scientific,
+
+01:14:54.160 --> 01:15:00.480
+I would call that into question. But he said, there's studies out there that show that strategic
+
+01:15:00.480 --> 01:15:09.440
+umbrage works. And another thing that I also enjoy, you probably get tired of me saying
+
+01:15:09.440 --> 01:15:16.560
+wonderful things about Andrew. There's never enough wonderful things to say about the great
+
+01:15:16.560 --> 01:15:20.720
+Andrew Huberman, the host of the Huberman Lab podcast that everybody should subscribe to.
+
+01:15:20.720 --> 01:15:23.760
+You should talk to Andrew. You're funnier than he is though. I'll give you that.
+
+01:15:24.720 --> 01:15:29.120
+He's funny accidentally. He makes me laugh all the time, not when he's trying to be funny.
+
+01:15:31.040 --> 01:15:36.720
+He's one of the people in this world that's truly legit. He's a really strong scientist
+
+01:15:36.720 --> 01:15:42.400
+and a really strong communicator and a good human being. And those together don't come
+
+01:15:42.400 --> 01:15:48.400
+often and it's nice to see. Yeah, he's a national treasure. Anyway, you were saying?
+
+01:15:48.400 --> 01:15:55.600
+Well, he sort of taught me how to think about data and studies and science and also from
+
+01:15:55.600 --> 01:15:59.680
+different books that he's turned me on to. It's really helped me think about this stuff. So,
+
+01:15:59.680 --> 01:16:06.320
+the studies about strategic umbrage were done, the ones that I've seen that show it's effective.
+
+01:16:07.520 --> 01:16:11.760
+There were simulated negotiations with college students. Now, here's the problem with that.
+
+01:16:13.440 --> 01:16:17.040
+A simulated negotiation with a college student. College students are going to sit down as part
+
+01:16:17.040 --> 01:16:22.240
+of their assignment. They're going to sit down one time. They're going to sit down for 45 minutes
+
+01:16:23.200 --> 01:16:26.320
+and they're going to think that if they didn't come to a deal at all that they failed.
+
+01:16:27.040 --> 01:16:33.120
+And there's no ongoing implementation. There's just a deal and then they walk away of a pretend
+
+01:16:33.120 --> 01:16:40.640
+situation. So, they got no actual real skin in the game. There's no deal on earth. Do you sit down
+
+01:16:41.760 --> 01:16:45.040
+and come to an agreement 45 minutes and never see each other again because there's the
+
+01:16:45.040 --> 01:16:52.720
+implementation of the deal, even if it's only payment. So, the data is flawed based on the way
+
+01:16:52.720 --> 01:16:59.200
+it was collected. It's a highly flawed study. And all data is flawed, as you know, as a scientist.
+
+01:16:59.200 --> 01:17:03.120
+You just got to be aware what the flaws are and decide whether or not that destroys the study.
+
+01:17:04.080 --> 01:17:08.720
+Or what do you think? Take a look at the data. There's no such thing as perfect data.
+
+01:17:09.280 --> 01:17:13.280
+Look at the data, see what you think of it. The data that says that strategic umbrage
+
+01:17:13.920 --> 01:17:21.200
+works is based on flawed circumstances. Can you explain strategic umbrage? Get mad scaring the
+
+01:17:21.200 --> 01:17:29.040
+other side into a deal. Getting mad at using anger strategically to bully the other side into an
+
+01:17:29.040 --> 01:17:37.600
+agreement. That's nice to hear in some sense. It's nice to hear that empathy is the right way
+
+01:17:37.600 --> 01:17:44.560
+in almost all situations. Best chance of success. Not that it works every time,
+
+01:17:44.560 --> 01:17:48.880
+just it works more than anything else does. What is the technique of mirroring? There's a lot of
+
+01:17:48.880 --> 01:17:52.880
+cool stuff in your book. There's just kind of jump around. What's mirroring? Mirroring is like,
+
+01:17:54.880 --> 01:17:59.760
+it's one of the most fun skills because it's the simplest to execute. You just repeat one to three
+
+01:18:00.720 --> 01:18:03.920
+ish words of what somebody said. Usually the last one to three words.
+
+01:18:06.480 --> 01:18:13.920
+What I found about it is the people that really like mirroring love it because it's so simple
+
+01:18:13.920 --> 01:18:20.560
+and so effortless and invisible. They typically, for lack of a better term, tend to be both high
+
+01:18:20.560 --> 01:18:26.720
+IQ and high EQ. I'm not a high IQ guy. I'm an average dude. I like to think that I can learn
+
+01:18:26.960 --> 01:18:33.360
+and EQ, emotional intelligence, is a skill you can build. I'm always working on building it.
+
+01:18:34.800 --> 01:18:39.760
+But a lot of really regular average people will be like, mirroring that's stupid. I'm not doing
+
+01:18:39.760 --> 01:18:45.360
+that. I don't know why they don't like it. But when I find somebody that loves to mirror,
+
+01:18:47.120 --> 01:18:55.040
+I'll always ask them, how'd you score on IQ? Typically their IQ is pretty high. Now I don't
+
+01:18:56.000 --> 01:19:01.200
+know why that combination attracts people to mirroring because there's nine skills,
+
+01:19:03.040 --> 01:19:08.240
+eight from hostage negotiation, and the ninth really was tone of voice. We just define that
+
+01:19:08.240 --> 01:19:14.960
+as a skill. Each one is different and focuses on different components of the conversation.
+
+01:19:17.280 --> 01:19:22.320
+A lot of people don't like to mirror. They found it so awkward. I'm not particularly
+
+01:19:22.320 --> 01:19:25.440
+strong in mirroring. I got to do it intentionally. I'm good at labeling.
+
+01:19:25.440 --> 01:19:28.480
+But does it almost always work? Oh, yeah.
+
+01:19:29.520 --> 01:19:36.480
+Yeah. It feels maybe awkward, but it's true. There's got to be ways to signal that you're truly
+
+01:19:36.480 --> 01:19:42.720
+listening. That's part of it. I think you can do body language. There's a lot of ways to signal
+
+01:19:42.720 --> 01:19:47.920
+that, but mirroring is probably just this trivial little hack. It kind of is.
+
+01:19:48.880 --> 01:19:53.360
+You know, there's a situation, I had a conversation with Stephen Codkin, he's this historian,
+
+01:19:54.080 --> 01:20:00.480
+and he would say my name a lot throughout the conversation. He would be like, well,
+
+01:20:00.480 --> 01:20:05.600
+you have to understand, Lex, is that, and for some reason that was making me feel really good.
+
+01:20:06.160 --> 01:20:12.000
+I was like, he cares about me. And I wonder if that key, if everyone has that key, that could
+
+01:20:12.000 --> 01:20:20.320
+be a name. Just using people's name could be powerful. Using a name is really context driven.
+
+01:20:21.840 --> 01:20:28.160
+It can be extremely powerful with someone who's genuine and it comes across in their demeanor.
+
+01:20:29.600 --> 01:20:37.120
+And it's used in a way that you can tell is meant to encourage you as opposed to explore you.
+
+01:20:38.000 --> 01:20:43.680
+And the people that are really into exploiting will also use it and do the same thing.
+
+01:20:46.080 --> 01:20:50.640
+You have to avoid using the things that people that are exploiters, manipulators use
+
+01:20:51.440 --> 01:20:55.920
+because it might signal to others that this person is trying to trick me.
+
+01:20:55.920 --> 01:20:57.360
+You've got to be very conscious of it, yeah.
+
+01:20:58.000 --> 01:21:00.000
+What's the labeling that you mentioned, the thing you like?
+
+01:21:00.800 --> 01:21:04.960
+I said earlier that old progression from you sound angry to this is probably going to make
+
+01:21:04.960 --> 01:21:11.600
+you angry to, I know you're angry. Labeling is hanging a label on an emotion or an affect
+
+01:21:12.240 --> 01:21:14.080
+and then just calling it up.
+
+01:21:15.440 --> 01:21:19.600
+Is that almost always good? Could it be a source of frustration
+
+01:21:19.600 --> 01:21:26.320
+when a person is being angry and you kind of put a label on it, call out the elephant?
+
+01:21:30.160 --> 01:21:34.800
+Is it possible that that will lead to escalation of that feeling versus a resolution?
+
+01:21:34.960 --> 01:21:44.080
+Well, what would make it bad? If I'm pointing out like that, blatantly obvious.
+
+01:21:44.080 --> 01:21:49.360
+Like if I say, look, I need you to get up and go down to the bank and make the deposit.
+
+01:21:49.360 --> 01:21:52.960
+Let's say I'm talking to somebody who works in my company.
+
+01:21:53.840 --> 01:21:57.040
+I need you to get on the phone with this person and make the appointment.
+
+01:21:57.760 --> 01:22:00.880
+And they go, sounds like you want me to talk to this person.
+
+01:22:00.880 --> 01:22:11.600
+Yes. That would be annoying if it's just so absurdly obvious that there's no insight in
+
+01:22:11.600 --> 01:22:18.960
+your label at all. And as soon as you're demonstrating an awareness or a subtlety
+
+01:22:18.960 --> 01:22:23.600
+or an insight, either to you or to them, now we're making progress.
+
+01:22:24.880 --> 01:22:30.720
+So the only time a label could ever potentially be kind of productive is like if you weren't
+
+01:22:30.880 --> 01:22:37.040
+actually listening and the label indicates that you're not listening.
+
+01:22:39.600 --> 01:22:46.960
+I'm teaching at USC and I'm teaching labels and one of the kids in a class, he just wants
+
+01:22:46.960 --> 01:22:52.720
+to take the skills and make his deals and just hustle them. And he's just looking for a hustle.
+
+01:22:54.080 --> 01:22:59.920
+So he writes up a paper about, he goes, there's some malls, I think over by Palm Springs or
+
+01:22:59.920 --> 01:23:05.600
+someplace, some outlet malls, a lot of people go to buy suits. So he goes in there and he
+
+01:23:05.600 --> 01:23:14.240
+immediately starts the bargaining that my book teaches with no empathy. And he throws a price
+
+01:23:14.240 --> 01:23:18.560
+to the guy and the guy's like, no. And he throws another price to the guy and the guy's like, no.
+
+01:23:20.000 --> 01:23:23.840
+And then he says to the guy behind the counter, sounds like we can make a deal.
+
+01:23:24.800 --> 01:23:29.680
+Like, no, it doesn't. I just shut down everything that you just said. If anything,
+
+01:23:29.680 --> 01:23:34.880
+it sounds like we're never going to make a deal. But he tried to use this label for manipulation.
+
+01:23:35.680 --> 01:23:40.320
+Now the guy didn't get mad on the other side, but it's like, clearly this dude is not listening to
+
+01:23:40.320 --> 01:23:46.240
+me. And at the core of everything, you have a bunch of like, you know, almost like hacks,
+
+01:23:47.440 --> 01:23:53.600
+like techniques you can use, but at the core of it is empathy. That's the main thing.
+
+01:23:53.600 --> 01:23:59.760
+And be able to just sit there and listen and perceive. Yeah. And look for insights.
+
+01:24:00.560 --> 01:24:05.200
+You know what? I like silence or like you're both sitting there chilling with a drink,
+
+01:24:05.200 --> 01:24:12.160
+looking up at the stars. There's a moment. The silence makes you kind of zoom out,
+
+01:24:12.160 --> 01:24:18.000
+realize you're in this together as opposed to playing a game or some kind of like chess game
+
+01:24:18.000 --> 01:24:22.160
+of negotiation. You're in it to get, I don't know. There's some intimacy to the silence.
+
+01:24:22.800 --> 01:24:25.040
+And like if I, I'll ask a question
+
+01:24:27.280 --> 01:24:33.280
+and just let the other person sit there in silence before they answer or vice versa.
+
+01:24:33.280 --> 01:24:38.400
+They ask me a question. I sit there in silence. That's a, it's a big, it feels like a big intimate
+
+01:24:38.400 --> 01:24:47.040
+thing. Yes. And the other two types until they've experienced that are afraid of it.
+
+01:24:47.920 --> 01:24:52.240
+And what I'm actually going to do is for whatever reason, I'm really, I'm really
+
+01:24:52.240 --> 01:24:57.440
+comfortable with silence. I think because I've experienced its effectiveness and also my son,
+
+01:24:57.440 --> 01:25:03.920
+Brandon, like he's a king of dynamic silence. Like he coaches people. He says, go silent,
+
+01:25:03.920 --> 01:25:07.360
+count thousands to yourself. Don't stop till you run out of numbers.
+
+01:25:08.560 --> 01:25:12.720
+That's a good line. He's also good, full of good lines.
+
+01:25:12.720 --> 01:25:14.880
+Is that is. And so
+
+01:25:17.440 --> 01:25:23.120
+there's so much to it, but the other two types are natural wiring against the white until they've
+
+01:25:23.120 --> 01:25:27.840
+experienced it. And you know, you've got instant instinct, intuition is giving you data. Once
+
+01:25:27.840 --> 01:25:32.240
+you've experienced it, but your amygdala is kicking into gear again. Sorry. I realize it's
+
+01:25:32.240 --> 01:25:37.680
+more complicated than that until you've experienced it. So accommodators hope-based,
+
+01:25:38.640 --> 01:25:47.040
+how do they signal fury? The silent treatment. So when you go silent, they're scared the death
+
+01:25:47.040 --> 01:25:55.280
+you're furious. Cause that's how they indicate it. The assertive thinks to use the analyst when
+
+01:25:55.280 --> 01:26:04.320
+silent, cause you want them to talk some more. When a point of fact, you're either you're thinking
+
+01:26:04.800 --> 01:26:11.360
+or I love your description, the feeling of intimacy and silence and experiencing the moment.
+
+01:26:12.000 --> 01:26:18.640
+Cause I'm actually going to factor that into trying to get the accommodators love shared intimacy.
+
+01:26:19.440 --> 01:26:23.520
+They love would love to experience a moment. And I can see that being very compelling.
+
+01:26:24.320 --> 01:26:29.600
+Then be willing to cross that chasm and experience silence and see how, see how it works for them.
+
+01:26:30.560 --> 01:26:34.640
+Yeah. It's nerve wracking, which is why it's intimate. Cause you start thinking,
+
+01:26:34.640 --> 01:26:37.840
+what's the other person thinking? Are we actually going to do this? So we're going to sit here for
+
+01:26:37.840 --> 01:26:42.800
+10 seconds and count. I mean, there's tricks to it. I guess like Brandon says is to just count it
+
+01:26:42.800 --> 01:26:49.440
+out and realize through data that there's intimacy to it. I had a friend of mine,
+
+01:26:50.800 --> 01:26:58.400
+he lost his voice singing. So he couldn't, the doctor says he can't talk for a week,
+
+01:26:58.400 --> 01:27:05.600
+just to heal the voice of the vocal cords. But he, uh, he hung out with other people,
+
+01:27:05.600 --> 01:27:11.440
+with friends and didn't talk to them. He just hung out and he said it was really intimate.
+
+01:27:11.440 --> 01:27:17.920
+They both, they both didn't talk to each other. They just sat there and enjoyed time together.
+
+01:27:17.920 --> 01:27:21.920
+I don't know. It's a, it's a wake up call. It's the thing to try maybe with, uh,
+
+01:27:21.920 --> 01:27:26.240
+with people in your life, just hang out and don't say anything. Like as an experiment,
+
+01:27:26.240 --> 01:27:32.160
+don't say anything the entire day, but it's spent. Yeah, definitely. It's interesting.
+
+01:27:32.160 --> 01:27:38.800
+I haven't tried it myself. It seems, uh, uh, it's kind of like a silent retreat,
+
+01:27:38.800 --> 01:27:44.080
+but more, um, active as part of like regular everyday life. Um, anyway,
+
+01:27:45.680 --> 01:27:50.240
+the, is there other, uh, other interesting techniques we can talk about here? So, um,
+
+01:27:50.240 --> 01:27:55.600
+for example, creating the illusion of control. Yeah, it's principally, you know,
+
+01:27:55.600 --> 01:28:01.280
+by asking what and how questions, because people love to tell others what to do or how to do it.
+
+01:28:02.640 --> 01:28:07.360
+Um, it does a lot. That was, that was really the way when the book was first written
+
+01:28:08.800 --> 01:28:12.960
+that we really thought about one, how questions is given the other side, the illusion of control.
+
+01:28:14.880 --> 01:28:18.240
+And there's a lot more to it than that, that we've discovered. I mean,
+
+01:28:18.240 --> 01:28:23.120
+it triggers deep thinking. It wears people down. Deep thinking is, could be exhausting.
+
+01:28:23.120 --> 01:28:27.840
+And you want, so what's the, what's the role of exhaustion in negotiation? Is that ultimately?
+
+01:28:27.840 --> 01:28:32.320
+You got to be careful with that. Um, some people, uh, exhaust intentionally.
+
+01:28:33.920 --> 01:28:41.040
+Uh, one of my negotiation heroes, uh, a guy now who's unfortunately suffering from, um,
+
+01:28:41.040 --> 01:28:46.720
+dementia and Alzheimer's John Domenico Pico is the UN hostage negotiators that got all the
+
+01:28:46.720 --> 01:28:51.840
+Western hostages out of Beirut in the eighties. And he wrote a book called man without a gun.
+
+01:28:52.720 --> 01:28:57.120
+And I'm acquainted with Johnny at this point in time. I think I don't think he has any
+
+01:28:57.120 --> 01:29:05.120
+memory of who I am at all, but he writes in his book, uh, uh, one of the great secrets
+
+01:29:05.120 --> 01:29:10.640
+of negotiation is exhausting the other side, political negotiations. That could be Johnny
+
+01:29:10.640 --> 01:29:17.520
+was very differential. It was in the middle of, in, in the eighties leading up to about 1986 ish,
+
+01:29:17.840 --> 01:29:25.920
+uh, every negotiation involving, uh, warring parties in the middle East that you can imagine.
+
+01:29:26.560 --> 01:29:35.280
+He was in Cyprus. He was in, um, um, Afghanistan, uh, Iraq and Iran. The Iranian government had
+
+01:29:35.280 --> 01:29:42.880
+tremendous, uh, trust in him as a Westerner, a representative of the UN got all the Westerners
+
+01:29:43.680 --> 01:29:51.280
+out of, out of Beirut. And he was just ridiculously patient. And then which side
+
+01:29:51.280 --> 01:29:58.080
+found exhaust would often find exhausting. So exhaustion is a, can't be a component of
+
+01:29:59.760 --> 01:30:05.600
+finding resolution and negotiation. If it's, if it taps down the negative emotions, often exhaustion
+
+01:30:05.600 --> 01:30:10.640
+will tamp down negative emotions. If it puts you, if it, and getting the real trick is really
+
+01:30:10.640 --> 01:30:15.280
+getting negative emotions out of, out of the way. Cause you're dumber in a negative frame of mind.
+
+01:30:16.240 --> 01:30:19.760
+So the goal is always positive emotion as you talk about. That's where you're always
+
+01:30:19.760 --> 01:30:24.880
+chasing together. I think, I think so. And that's what the that's right. It's about, yes.
+
+01:30:26.160 --> 01:30:29.840
+Take whatever you're triggering, whatever the chemistry you're triggering in your brain,
+
+01:30:30.400 --> 01:30:36.400
+like, yeah, yeah, we're doing good here. I think so long term for long term success. Absolutely.
+
+01:30:36.400 --> 01:30:41.440
+How's the word fair used and abused? The F-bomb.
+
+01:30:41.440 --> 01:30:45.920
+The F-bomb, as you call it. How's it used and abused in negotiation?
+
+01:30:45.920 --> 01:30:53.840
+It's usually used, it's most frequently used as a weapon. It's abused as a point of manipulation.
+
+01:30:55.120 --> 01:30:58.320
+It's what people say when they feel backed into a corner and they can't
+
+01:30:59.600 --> 01:31:03.600
+come up with any legitimate reason as to why they're being backed into a corner.
+
+01:31:04.480 --> 01:31:09.600
+Like nobody uses the word F-bomb, nobody uses the word fair when they've got criteria to back them
+
+01:31:09.600 --> 01:31:15.840
+up. So consequently, when somebody starts dropping it, you got to realize the other side's got no
+
+01:31:15.840 --> 01:31:21.040
+legitimate outside criteria. They're, they're feeling very vulnerable. They can't explain it,
+
+01:31:21.040 --> 01:31:26.800
+but they feel defensive and it saying, Hey, look, I've just, I've given you a fair offer
+
+01:31:27.840 --> 01:31:32.080
+is a way for me to knock you off your game. If you're, if you're not, you're not aware of it.
+
+01:31:33.040 --> 01:31:39.520
+So a lot of cutthroat negotiations, negotiators are going to use it on you to knock you off your
+
+01:31:39.520 --> 01:31:46.880
+game. The, the NFL strike probably now it's been a good 10 years ago.
+
+01:31:51.200 --> 01:31:56.960
+And maybe even longer than that. One of the sticking points was the owners were not opening
+
+01:31:56.960 --> 01:32:04.560
+their books to the players. Players want to see the numbers. And in order to not open their books,
+
+01:32:05.120 --> 01:32:09.200
+they just sent a rep to the press conference saying, we've given them players a fair offer.
+
+01:32:11.520 --> 01:32:13.520
+Well, if it was fair, you'd open your books.
+
+01:32:15.200 --> 01:32:21.280
+Yeah. If, if you gave them a fair offer and it was justified by what was in your books,
+
+01:32:21.280 --> 01:32:27.520
+you'd open them to prove your point. So what ends up happening though, that, well,
+
+01:32:27.520 --> 01:32:30.560
+donors gave the players a fair offer starts to get picked up in the media.
+
+01:32:31.760 --> 01:32:36.000
+And then it starts getting repeated. And now, now that different people on a player's side are going
+
+01:32:36.000 --> 01:32:41.680
+like, yeah, maybe, maybe they have given us a fair offer caused people to be insecure about their own
+
+01:32:41.680 --> 01:32:47.360
+position. It's an enormously powerful word that can be used and abused. And it almost always comes up
+
+01:32:47.360 --> 01:32:52.240
+in every negotiation. It's shocking the number of times it comes up with people who don't really
+
+01:32:52.240 --> 01:32:59.680
+understand how or why it's coming up. So usually it's a signal of, of a, not a good place in
+
+01:32:59.680 --> 01:33:05.920
+negotiation. Without question, I'm completely convinced that if the person is using the word
+
+01:33:07.040 --> 01:33:14.560
+as a means of getting what they want, then either accidentally or on purpose, either in their gut
+
+01:33:14.560 --> 01:33:17.840
+or they know they got a bad position or their gut is afraid that they are.
+
+01:33:19.760 --> 01:33:26.400
+Do I use the word? What I'll say is I want you to feel like I've treated you fairly. And if
+
+01:33:26.400 --> 01:33:30.480
+any given point in time you think I'm not treating you fairly, I want you to stop me
+
+01:33:31.520 --> 01:33:40.240
+and we're going to address it. Big ridiculous question, but how do you close the deal? How do
+
+01:33:40.240 --> 01:33:48.000
+you take the negotiation to its end? Is it implementation ultimately? You got to pivot,
+
+01:33:48.000 --> 01:33:51.680
+you got to pivot to agreed upon implementation to really, to really move out and out on the
+
+01:33:51.680 --> 01:33:58.480
+negotiation. And I may say, how do you, how do you want to proceed? And if you don't know,
+
+01:33:58.480 --> 01:34:03.760
+I might say, no, we're into question. Is it a ridiculous idea if I share with you some ideas
+
+01:34:03.760 --> 01:34:09.760
+of how to proceed? And then you agree on the actual steps and that's the implementation. It's
+
+01:34:09.760 --> 01:34:16.000
+not just the philosophical agreement, it's actual steps. The big problem in all negotiations
+
+01:34:16.000 --> 01:34:25.520
+is a lack of discussion of next steps. That's deep. Who is the best negotiator you've ever met?
+
+01:34:25.520 --> 01:34:30.160
+Yeah, actually probably my son, Brandon. Yeah? Yeah, he's ridiculously talented.
+
+01:34:30.800 --> 01:34:37.440
+I mean, he's ridiculously talented. And he, yeah, he's, you know, and what was it,
+
+01:34:37.440 --> 01:34:42.160
+Coyle's book, The Culture, The Talent Code says that, you know, people just noticed it and
+
+01:34:42.160 --> 01:34:46.560
+started getting good at it. There's no such thing as a child prodigy. He just got interested when
+
+01:34:46.560 --> 01:34:51.040
+they were a kid. I mean, Brandon started learning how to negotiate when he was two years old.
+
+01:34:52.320 --> 01:34:56.560
+And he's been in it and immersed in it, you know, since he can make complete sentences,
+
+01:34:56.560 --> 01:35:00.480
+even before he can make complete sentences. He's ridiculously talented.
+
+01:35:00.480 --> 01:35:02.880
+What's, what's his future? What's he want to do?
+
+01:35:03.600 --> 01:35:07.920
+He's going to, he has been involved. He's, he run and built my company.
+
+01:35:08.720 --> 01:35:13.520
+And now he's going to be an affiliated licensee, run his own operation. He's pretty,
+
+01:35:13.520 --> 01:35:15.600
+he's pretty much going to end up doing very much.
+
+01:35:18.240 --> 01:35:22.160
+It's going to open his entrepreneurial opportunities to do whatever he wants
+
+01:35:22.160 --> 01:35:26.880
+and not have his dad say no. And do a better job than his dad.
+
+01:35:26.880 --> 01:35:30.720
+Most likely. Yeah. Okay.
+
+01:35:32.480 --> 01:35:36.000
+Do you see some of the techniques that you talk about as manipulative?
+
+01:35:37.760 --> 01:35:40.640
+Manipulation is whether or not I'm trying to exploit you, hurt you.
+
+01:35:43.360 --> 01:35:48.320
+Am I trying to manipulate a bank robber and to let me save his life? Yeah.
+
+01:35:50.560 --> 01:35:54.000
+So manipulation is like, what am I, what am I trying to do to you?
+
+01:35:54.080 --> 01:35:58.800
+Yeah. So, but you don't see the negative connotation. If you're trying to
+
+01:35:59.760 --> 01:36:02.560
+bring a better future, it's not manipulation.
+
+01:36:03.920 --> 01:36:06.880
+If I'm trying to bring a better future, if I'm being genuine and honest,
+
+01:36:07.920 --> 01:36:10.720
+like I compliment you. Yeah.
+
+01:36:10.720 --> 01:36:18.320
+If, if my compliment is genuine, that's not manipulation. Like, but, but you know, if I think,
+
+01:36:18.320 --> 01:36:26.720
+you know, you're, you got a pair of shoes that, that are the dumbest looking things I've ever seen.
+
+01:36:27.520 --> 01:36:30.160
+And I go, wow, those are great shoes. No, that's manipulation.
+
+01:36:31.520 --> 01:36:37.200
+So there's, there's guys like Warren Buffett who are big on integrity and honesty. What's the role
+
+01:36:37.200 --> 01:36:46.160
+of lying in effective. Lying is a bad idea. Lying is just a bad idea for a variety of reasons.
+
+01:36:46.240 --> 01:36:52.560
+First of all, there's a really good chance the other side is a better liar than you are.
+
+01:36:52.560 --> 01:36:58.560
+They're going to spot it right off the bat. Secondly, they could be luring you into a trap
+
+01:36:58.560 --> 01:37:04.080
+to see if you will lie. Thirdly, the chances are they're going to find out that you lied to them.
+
+01:37:04.080 --> 01:37:12.400
+Eventually is really high. And then the penalties and the taxes are going to be way higher than what
+
+01:37:13.360 --> 01:37:18.400
+you had in the first place. So long-term, you want to have a reputation of somebody with integrity.
+
+01:37:18.400 --> 01:37:21.520
+And the more you lie, the harder it is to maintain that reputation.
+
+01:37:21.520 --> 01:37:28.960
+Exactly. And we're just going to get out. Yeah. So what's the, we can just return to that question.
+
+01:37:28.960 --> 01:37:36.560
+What's the difference between a good conversation and a good negotiation? Can we, because I think
+
+01:37:36.560 --> 01:37:44.640
+just reading your work, listening to you, there's a sense I have that the thing we're doing now
+
+01:37:45.440 --> 01:37:49.520
+and just conversation on podcasts and so on is different than negotiation.
+
+01:37:49.520 --> 01:37:54.800
+It feels like the purpose is different. And yet having some of the same awareness
+
+01:37:56.160 --> 01:38:01.520
+of the value of empathy is extremely important, but it feels like the goals are different.
+
+01:38:02.000 --> 01:38:10.240
+Or no? Really close, fine line. I mean, I ruled in here not having any expectations,
+
+01:38:11.040 --> 01:38:13.680
+not looking for anything other than to have an interesting conversation.
+
+01:38:14.720 --> 01:38:23.440
+And to hear what was behind the questions that you were asking me and what interests you. And then
+
+01:38:23.440 --> 01:38:28.080
+also your description of silence and the power of silence, something I'm going to take away
+
+01:38:28.400 --> 01:38:32.960
+as a learning point and help learn to teach others. But I didn't come in here,
+
+01:38:33.600 --> 01:38:37.840
+I suppose the negotiation is when we're both aware of a problem we're trying to solve.
+
+01:38:38.880 --> 01:38:44.880
+Right. There's no problem in the room just to solve, except maybe like the human condition
+
+01:38:45.600 --> 01:38:47.600
+and- Insight, wisdom.
+
+01:38:47.600 --> 01:38:48.800
+Insight. Learn.
+
+01:38:50.960 --> 01:38:55.760
+How do you train to become better at negotiating?
+
+01:38:58.080 --> 01:39:00.800
+In business and in life?
+
+01:39:00.800 --> 01:39:04.000
+Yeah, just small stakes practice for high stakes results. I mean,
+
+01:39:04.000 --> 01:39:06.960
+decide what kind of negotiating resonates with you.
+
+01:39:07.520 --> 01:39:12.160
+What does that mean? Small stakes practice for high stakes or small stakes? So small,
+
+01:39:12.160 --> 01:39:16.880
+little, incremental, picking up girls at a bar? What are we talking about?
+
+01:39:16.880 --> 01:39:20.000
+Well, it can be. For some people, that's high stakes practice.
+
+01:39:21.840 --> 01:39:27.280
+Well, labeling mirrors, what are the basic tools of great negotiation? Labeling mirror,
+
+01:39:27.280 --> 01:39:34.080
+paraphrasing, summarizing. So you start labeling a mirror people that you just
+
+01:39:34.080 --> 01:39:40.080
+have regular interactions with just to gain a feel for whether or not you can read somebody's
+
+01:39:40.080 --> 01:39:49.120
+affect or how accurate your read is to get better at it. And so label the lift driver
+
+01:39:50.080 --> 01:39:58.080
+or the grocery store clerk or the person behind the airline counter at the airport.
+
+01:39:58.080 --> 01:39:59.840
+So putting a label on their affect.
+
+01:39:59.840 --> 01:40:06.080
+Or throwing something at them because negotiation is a perishable skill. Emotional intelligence is
+
+01:40:06.080 --> 01:40:13.360
+perishable. So seeing if you can indicate that you understand their label. One of my favorite labels
+
+01:40:13.440 --> 01:40:18.720
+to throw out on somebody which, you know, maybe re-level, I might look at somebody who looks
+
+01:40:18.720 --> 01:40:28.000
+distressed and I'll go, tough day. So several years ago at the counter at LAX, well, I'm waiting
+
+01:40:28.000 --> 01:40:34.320
+the line to get to the counter and a lady behind the counter is clearly making it a point to not
+
+01:40:34.320 --> 01:40:41.920
+meet my eyes so that I don't approach. And she looks, and so like, you know, when you're next
+
+01:40:41.920 --> 01:40:48.320
+in line and they're making sure that you don't meet eyes. And I'm thinking to myself, all right,
+
+01:40:48.320 --> 01:40:52.880
+so they're having a bad day. So I walk up and as soon as I approach the counter, I go, tough day.
+
+01:40:53.680 --> 01:40:58.560
+And she kind of snaps around and she goes, no, no, no, how can I help you?
+
+01:40:59.200 --> 01:41:03.920
+And goes out of her way to help me. Now I'm practicing, but I also know it made her feel
+
+01:41:03.920 --> 01:41:08.080
+better. It relieved some of the stress. So now I'm going through TSA. I want to look for people
+
+01:41:08.080 --> 01:41:12.160
+who are having a tough day. It's a good place to find them. Good place to find them practice.
+
+01:41:13.120 --> 01:41:17.520
+And I'm rolling through the line and I realized I haven't tossed a label out on any one of these
+
+01:41:17.520 --> 01:41:22.720
+guys. And there's this guy watching the bags come out of the x-ray machine and he's just kind of
+
+01:41:22.720 --> 01:41:28.560
+got an indifferent look on his face. And I go, tough day. And he kind of goes, I can see from
+
+01:41:28.560 --> 01:41:35.120
+his body language, like, no. And I go, just another day, huh? And he goes, yeah, just another day.
+
+01:41:35.680 --> 01:41:40.960
+You know, he felt seen, but I missed and I'm practicing and I'm trying to stay sharp.
+
+01:41:40.960 --> 01:41:44.640
+So these are the few words with just a few words, you're trying to like
+
+01:41:44.640 --> 01:41:50.480
+quickly localize the effect and put a label on it. Very, very, very analytically said. Thank you.
+
+01:41:53.280 --> 01:41:55.760
+I'm not letting it go. I love it.
+
+01:41:59.600 --> 01:42:03.920
+Does the same apply to just conversation in general, just how to get better conversation?
+
+01:42:03.920 --> 01:42:07.840
+I think a lot of people struggle. They have insecurities. They have anxiety about conversation.
+
+01:42:08.560 --> 01:42:12.320
+As funny as this to say, I have a lot of anxiety about conversation
+
+01:42:13.200 --> 01:42:17.520
+is that it basically do the same kind of practice, practice some of the techniques.
+
+01:42:17.520 --> 01:42:20.640
+Yeah, genuinely. Just trying to make sure you heard somebody on.
+
+01:42:20.640 --> 01:42:24.720
+Yeah. What's the best conversation you've ever been in? Except this one, of course.
+
+01:42:27.520 --> 01:42:28.020
+Wow.
+
+01:42:28.660 --> 01:42:33.620
+What? I mean, not the best conversation, but what stands out to you as
+
+01:42:33.620 --> 01:42:35.620
+conversation that changed you as a person, maybe?
+
+01:42:36.260 --> 01:42:40.020
+Well, there's probably been a lot of them along the way. I mean, but one that,
+
+01:42:41.380 --> 01:42:45.860
+that I remember on a regular basis, there's actually there's two. But when I was in the
+
+01:42:45.860 --> 01:42:51.140
+bureau, I'm at Quantico, I'm there for an end services, another guy from New York,
+
+01:42:51.140 --> 01:42:56.420
+buddy of mine named Lionel. And we're both trying to decide whether or not we want to be
+
+01:42:56.420 --> 01:43:00.740
+try to get into profiling or negotiation. Because they're both about human dynamics,
+
+01:43:00.740 --> 01:43:05.220
+and both of us really like human dynamics. And we're sitting around talking about it.
+
+01:43:05.220 --> 01:43:09.220
+And we're talking about several things and he labels me. And I knew he didn't know what
+
+01:43:09.220 --> 01:43:14.900
+he was doing. I think he was just, he had picked it up. And I'd been talking about my family,
+
+01:43:14.900 --> 01:43:21.940
+quite a few things. And he said to me, and I never said this directly that we were close.
+
+01:43:22.900 --> 01:43:27.380
+But he said to me, sounds like your family's really close. And I can remember in a moment,
+
+01:43:27.380 --> 01:43:34.500
+this feeling, just like I felt great in the moment. I mean, what he said just drew together
+
+01:43:34.500 --> 01:43:40.340
+everything that I'd been saying, and nailed the essence of it. And I have a very clear recollection
+
+01:43:40.340 --> 01:43:46.580
+of how good that felt in a moment. So a couple years later, I'm on a suicide highline. Now I
+
+01:43:46.580 --> 01:43:52.660
+got this line in the back of my head. Line, technique, reaction, read, whatever you want to
+
+01:43:52.660 --> 01:43:58.180
+call it. Guy calls in on a highline. And I could tell the dude is rattled by his tone of voice.
+
+01:43:58.180 --> 01:44:04.500
+I mean, just amped up. And he goes, I'm just trying to put a lid on the day. I need to help
+
+01:44:04.500 --> 01:44:14.420
+putting a lid on the day. I got to put a lid on the day. And I go, you sound anxious. And he goes,
+
+01:44:14.420 --> 01:44:21.380
+yeah. And he came down a little bit and he was a guy that was telling me about he was battling
+
+01:44:21.380 --> 01:44:27.700
+the disease of paranoia. And he's going to go on a car trip with his family the next day. And he
+
+01:44:27.700 --> 01:44:32.580
+knew that on the car trip, he was going to twist himself into knots. And so the night before,
+
+01:44:32.580 --> 01:44:38.420
+he's twisting himself into knots. And he's laying out everything that he's done to try to beat
+
+01:44:39.380 --> 01:44:46.980
+paranoia and how much his family's helping him. And he's going on a car trip with the family
+
+01:44:46.980 --> 01:44:52.500
+because they're going to take him to see a doctor. And so I hit him with the same thing that my buddy
+
+01:44:52.500 --> 01:44:57.620
+Lionel said. I said, it sounds like your family's close. He goes, yeah, we are close. And he leveled
+
+01:44:57.620 --> 01:45:02.980
+that a little bit more. And then he started ticking off all the things that he was doing to
+
+01:45:02.980 --> 01:45:10.340
+try to beat paranoia. And he sounded determined. And so I said, you sound determined. And he goes,
+
+01:45:10.340 --> 01:45:20.420
+yeah, I am determined. I'll be fine tomorrow. Thanks. And that was all I said. So those two
+
+01:45:20.420 --> 01:45:24.820
+conversations, which are overlapping conversations, those two things really stick out of my mind.
+
+01:45:25.460 --> 01:45:29.220
+Do those things through all the different negotiations and conversations you've had,
+
+01:45:31.380 --> 01:45:40.580
+do they echo throughout? Because when you empathize with other human beings,
+
+01:45:40.580 --> 01:45:50.500
+you start to realize we're all the same. And so you can start to pick little phrases here and there
+
+01:45:50.580 --> 01:45:54.740
+you've heard from others, little experiences that we're all about. We all want to be
+
+01:45:58.580 --> 01:46:05.700
+close with other human beings. We all want love. I think we're all deeply lonely inside
+
+01:46:06.660 --> 01:46:15.060
+looking for connection. We're just, if we're honest about it. And so all humans have that same,
+
+01:46:15.620 --> 01:46:24.100
+all the same different components of what makes them tick. So you kind of see yourself basically
+
+01:46:24.100 --> 01:46:29.540
+just saying the same things to connect with another human being. Yeah, there aren't that
+
+01:46:29.540 --> 01:46:34.900
+many different things that we're looking for understanding on or connection on or satisfaction
+
+01:46:34.900 --> 01:46:42.260
+of. There just aren't that many of them regardless. And so yeah, you're looking for it to manifest
+
+01:46:42.260 --> 01:46:47.700
+itself in some form or another, and you're willing to take a guess on whether or not that's what you
+
+01:46:47.700 --> 01:46:57.940
+see or hear. What advice would you give to me to be better at these conversations, to me and to
+
+01:46:57.940 --> 01:47:05.860
+other people that do kind of interviews and podcasts and so on? Wow. I really care about
+
+01:47:05.860 --> 01:47:12.020
+empathy as well. Is there kind of as a lifelong journey in this process? Yeah. Well, I think I
+
+01:47:12.020 --> 01:47:15.940
+would advise you to take that approach, which is the approach that you're taking. You care about it.
+
+01:47:15.940 --> 01:47:21.060
+You're very curious about it. You see it as a lifelong journey. You're fascinated by it.
+
+01:47:22.340 --> 01:47:30.980
+You enjoy learning about it. And you definitely do see it as a lifelong journey as opposed to
+
+01:47:30.980 --> 01:47:34.180
+this is what I can, if I can acquire this, then I can manipulate people.
+
+01:47:34.340 --> 01:47:39.380
+I mean, I fall in love with people I talk to. There's a kind of deep connection and it lingers
+
+01:47:39.380 --> 01:47:45.540
+with you, especially when I'm preparing. The more material there is in a person, the more you get
+
+01:47:45.540 --> 01:47:50.660
+to fall in love with them ahead of time. They think you get to really understand, not understand, but
+
+01:47:53.620 --> 01:47:59.460
+what I mean by fall in love is appreciate, but also become deeply curious. That's what I mean by
+
+01:47:59.460 --> 01:48:04.260
+fall in love. You appreciate the things you know, but you start to see like Alice in Wonderland,
+
+01:48:04.260 --> 01:48:09.700
+you start to see that there's all this cool stuff you can learn if you keep interacting with them.
+
+01:48:09.700 --> 01:48:15.140
+And then when you show up and you actually meet, you realize it's like more and more and more and
+
+01:48:15.140 --> 01:48:19.060
+more. It's like in physics, the more you learn, the more you realize you don't know. And it's like,
+
+01:48:19.060 --> 01:48:22.660
+it's really exciting. And then it could also be heartbreaking because you have to say goodbye.
+
+01:48:23.460 --> 01:48:26.580
+Goodbye. I hate goodbyes. I hate goodbyes.
+
+01:48:26.580 --> 01:48:28.020
+Seems terminal, right?
+
+01:48:28.020 --> 01:48:30.980
+Yeah. It reminds me that I'm going to die one day.
+
+01:48:33.540 --> 01:48:38.500
+Things end. Good things end. It sucks. But then it makes the moment more delicious
+
+01:48:39.380 --> 01:48:41.140
+that you do get to spend together.
+
+01:48:41.140 --> 01:48:41.640
+Yeah.
+
+01:48:43.780 --> 01:48:51.780
+Okay. I just want to, I completely forgot. I want to ask you about this, the 738-55% rule.
+
+01:48:52.740 --> 01:48:59.620
+This is really interesting. Is there at all truth to it? That 7% of a message is conveyed from the
+
+01:48:59.620 --> 01:49:06.820
+words used, 38% from the tone of voice and 55% from body language. Is there really truth to that?
+
+01:49:06.820 --> 01:49:14.420
+All right. So Albert Moravian, I think is the name of the UCLA professor that originally
+
+01:49:14.420 --> 01:49:21.620
+proposed the 738-55 ratio and discussed it in terms of that it wasn't the message,
+
+01:49:21.620 --> 01:49:29.060
+but how much he called it liking. The meaning is coming across, but your liking of the message.
+
+01:49:29.620 --> 01:49:34.980
+And so that's been extrapolated heavily by people like me
+
+01:49:37.780 --> 01:49:45.140
+to this meaning of the meaning in 738-55, from liking to the meaning. What I've seen regularly
+
+01:49:45.140 --> 01:49:53.540
+is people that communicate verbally, if their speakers, Tony Robbins, 738-55 guy,
+
+01:49:54.500 --> 01:50:01.620
+he throws the ratio out there. Go, that's it exactly. That's exactly how the message comes
+
+01:50:01.620 --> 01:50:08.180
+across. This is how we got to balance it. This is how we got to do it. Those that communicate
+
+01:50:08.180 --> 01:50:13.700
+principally in writing, the meaning of the words are much more important to them.
+
+01:50:13.700 --> 01:50:20.500
+Mm-hmm. So they're deeply uncomfortable with seven being the words, because the content,
+
+01:50:20.500 --> 01:50:25.780
+the words, the meaning of the words, when you're writing, it's so important that you hate to
+
+01:50:25.780 --> 01:50:32.820
+poo poo it that way. So first of all, I 1,000% believe it's an accurate ratio, but the real
+
+01:50:32.820 --> 01:50:38.580
+critical issue is not what the ratio of those three things are, it's what's the message when
+
+01:50:38.580 --> 01:50:44.100
+they're out of line? What's the message when the tone of voice is out of line with the words?
+
+01:50:44.900 --> 01:50:49.940
+It don't matter what your ratio is, you got a problem if their tone does not match their words.
+
+01:50:51.300 --> 01:50:56.900
+That's hard to really put a measure on exactly. Even in writing, there's a tone.
+
+01:50:58.740 --> 01:51:02.900
+Even in writing, it's not just the words. There's the words, but there's a style underneath the
+
+01:51:02.900 --> 01:51:07.060
+whole thing. And there's something like body language, the presentation of the whole thing.
+
+01:51:07.060 --> 01:51:14.100
+I mean, I'm a big fan of constraint mediums of communication, which writing is, or voice,
+
+01:51:14.100 --> 01:51:18.420
+like Clubhouse. There's a personality to a human being when you just hear their voice.
+
+01:51:21.940 --> 01:51:27.140
+You could say it's the tone of voice, but what is it? The imagination fills in the rest.
+
+01:51:27.940 --> 01:51:34.500
+When I'm listening to somebody, I'm imagining some amorphous being doing things. When they
+
+01:51:34.500 --> 01:51:38.020
+get angry, I'm imagining anger. I don't know what exactly I'm visualizing.
+
+01:51:39.620 --> 01:51:43.060
+You may think of a funny story because we were talking about your buddy Elon before,
+
+01:51:43.060 --> 01:51:47.140
+and I told you that I'd interacted with some of the senior executives.
+
+01:51:48.420 --> 01:51:53.380
+I know that they love working with him, and I think he's an interesting guy,
+
+01:51:53.380 --> 01:51:57.860
+and they realized that he could be funny, and he jokes around. They're telling me,
+
+01:51:58.580 --> 01:52:04.580
+they're on this conference call, just words, and a guy on the other end of the line says something
+
+01:52:07.460 --> 01:52:14.260
+that was wrong but wasn't bad. And so they said, they're on a phone, and Elon goes,
+
+01:52:14.260 --> 01:52:17.620
+you're fired. And then everybody in the room with him can see that he's joking.
+
+01:52:19.220 --> 01:52:23.220
+But the person on the other side, and they're all going away. Wait, wait, wait, wait. They can't see
+
+01:52:23.220 --> 01:52:26.660
+your look on your face right now. You got to stop. You got to stop because the guy on the other side
+
+01:52:26.660 --> 01:52:32.020
+is dying right now. He doesn't realize you're joking. So there were the words and the tone of
+
+01:52:32.020 --> 01:52:38.580
+voice, but it lacked the visual to go with it. Nevertheless, it was probably funny.
+
+01:52:39.060 --> 01:52:46.820
+I'm sure it was very funny at the time. Maybe not to him. Just as an interesting task,
+
+01:52:46.820 --> 01:52:50.580
+I don't know if you're following along the developments of large language models.
+
+01:52:50.580 --> 01:52:57.860
+There's been something called chat GPT. There's just more and more sophisticated and effective
+
+01:52:57.860 --> 01:53:05.300
+and impressive chat bots, essentially. They can talk. And they're becoming more and more human-like.
+
+01:53:06.500 --> 01:53:12.980
+Do you think it's possible in the future that AI will be able to be better negotiators
+
+01:53:14.180 --> 01:53:16.820
+than humans? Do you think about that kind of stuff?
+
+01:53:17.780 --> 01:53:26.180
+Well, so definition of better versus less flawed. Chat bots have been out there for a long time.
+
+01:53:27.540 --> 01:53:34.340
+Probably about five years ago now, a company approached us because they were doing a
+
+01:53:34.340 --> 01:53:41.140
+negotiation chat bot. They said two things. First of all, I said, why are you talking to us?
+
+01:53:41.300 --> 01:53:45.860
+So well, in point of fact, we already spoke to the people that are teaching, quote,
+
+01:53:46.420 --> 01:53:52.020
+the Harvard methodology. And the rational approach to negotiation just doesn't work.
+
+01:53:52.020 --> 01:53:55.540
+Rational approach just does not work. Our chat bots are not getting anywhere.
+
+01:53:56.340 --> 01:54:03.860
+But we're showing in around about 80% of the interactions, a higher success outcome with
+
+01:54:03.860 --> 01:54:10.180
+these chat bots. And they showed me what they were doing. And it was still a lot,
+
+01:54:10.180 --> 01:54:15.460
+deeply flawed, emotional intelligence wise. But the reason why that they were having higher
+
+01:54:15.460 --> 01:54:21.060
+success rates is the chat bots were never in a bad mood. And you could reach out for a chat bot
+
+01:54:21.060 --> 01:54:25.460
+in the middle of the night. So if you're talking to somebody that was never upset
+
+01:54:26.020 --> 01:54:31.540
+and was always available, then you're going to have a higher success rate. Negotiations go bad
+
+01:54:31.540 --> 01:54:39.780
+when people are in a negative frame of mind. So the natural ability of a chat bot to be positive
+
+01:54:39.780 --> 01:54:45.140
+is just going to give you a higher success rate. Yeah. And they're not going to get mad
+
+01:54:45.140 --> 01:54:52.420
+and argue with you. You say to a chat bot, your price is too high. Chat bot is designed to come
+
+01:54:52.420 --> 01:54:57.460
+back with a smiley face. You say to a person, your price is too high. They go, how dare you?
+
+01:54:57.540 --> 01:55:00.820
+I'm trying to make a living. They're going to go off the deep end.
+
+01:55:00.820 --> 01:55:05.060
+Unfortunately or fortunately, I think the way chat bots are going now, they will come back negative
+
+01:55:05.700 --> 01:55:09.860
+because they're becoming more and more human-like. That's the whole point.
+
+01:55:09.860 --> 01:55:14.020
+To be able to pass the Turing test, you have to be negative. You have to be an asshole.
+
+01:55:14.020 --> 01:55:18.740
+You have to have boundaries. You have to be insecure. You have to have some uncertainty.
+
+01:55:18.740 --> 01:55:22.100
+Well, it's the difference between having boundaries and being negative.
+
+01:55:22.740 --> 01:55:25.780
+Like you threw a proposal to me.
+
+01:55:28.660 --> 01:55:33.380
+Before I say no, I'm going to say, look, I'm sorry, that just doesn't work for me.
+
+01:55:34.260 --> 01:55:38.100
+I'm going to set up a real clear boundary without being negative.
+
+01:55:39.620 --> 01:55:47.140
+So a lot of people really struggle with setting boundaries without being negative,
+
+01:55:47.220 --> 01:55:50.500
+without name calling, without indignation, without getting upset.
+
+01:55:51.700 --> 01:56:02.580
+But see, when you show that you're not getting upset, I'm not just seeing that. I'm seeing a
+
+01:56:02.580 --> 01:56:10.180
+flawed human that has underneath it a temper, underneath it the ability to get upset, but
+
+01:56:10.180 --> 01:56:15.140
+chooses not to get upset. A chat bot has to demonstrate that. So it's not just going to be
+
+01:56:15.140 --> 01:56:27.300
+cold and be this kind of corporate blank, empty sort of vapid creature that just says,
+
+01:56:27.300 --> 01:56:35.460
+oh, thank you. Thank you for saying that. No, it's basically, the chat bot has to be able to be
+
+01:56:37.140 --> 01:56:39.380
+mean and choose not to be.
+
+01:56:40.340 --> 01:56:49.860
+Interesting. I don't know. I'd be willing to see that play out and see how it plays out.
+
+01:56:49.860 --> 01:56:52.420
+I guess what I'm saying is to be a good negotiator, you have to
+
+01:56:53.780 --> 01:56:56.340
+have the capacity to be a bad person and choose not to.
+
+01:56:56.340 --> 01:56:57.060
+Really?
+
+01:56:57.060 --> 01:56:57.620
+I think so.
+
+01:56:58.660 --> 01:57:01.860
+See, I think you just got to have the capacity to set a boundary and stick to it.
+
+01:57:03.780 --> 01:57:08.660
+Interesting. Because I think it's hard for me to trust a person who's not aware of their own
+
+01:57:08.660 --> 01:57:14.420
+demons. Because if you say you don't have any demons, if you don't have any flaws,
+
+01:57:14.420 --> 01:57:15.220
+I can't trust you.
+
+01:57:16.340 --> 01:57:18.980
+Yeah. Well, first of all, it's a lie, right? So somebody's lying.
+
+01:57:18.980 --> 01:57:19.300
+Right.
+
+01:57:19.300 --> 01:57:20.900
+This is back the line.
+
+01:57:20.900 --> 01:57:23.300
+Yes. So you have to have a self-awareness about that,
+
+01:57:25.060 --> 01:57:28.740
+but to be able to control it and demonstrate to be able to control it. I mean, this is humans.
+
+01:57:28.740 --> 01:57:33.700
+I just think humans, intelligent, effective humans, they're able to do this well,
+
+01:57:33.700 --> 01:57:38.260
+and chatbots are not yet, and they're moving in that direction. So
+
+01:57:40.260 --> 01:57:43.700
+it makes me think about what is actually required for effective negotiation.
+
+01:57:43.700 --> 01:57:48.180
+That's what AI systems do is they make you ask yourself,
+
+01:57:49.220 --> 01:57:52.260
+what is it that makes humans special at any discipline?
+
+01:57:52.820 --> 01:57:58.740
+What is it that makes humans special at chess and go games, which AI systems are able to beat
+
+01:57:58.740 --> 01:58:03.940
+humans at now? What is it that makes them effective at negotiation? What does it make
+
+01:58:03.940 --> 01:58:11.940
+them effective at something that's extremely difficult, which is navigating physical spaces?
+
+01:58:11.940 --> 01:58:15.540
+So doing things that we take for granted, like making yourself a cup of coffee,
+
+01:58:15.540 --> 01:58:22.980
+is exceptionally difficult problem for robots because of all the complexities involved in
+
+01:58:22.980 --> 01:58:30.740
+navigating physical reality. We have so much common sense reasoning built in just about how
+
+01:58:30.740 --> 01:58:43.140
+gravity works, about how objects move, what kind of objects there are in the world. It's really
+
+01:58:43.140 --> 01:58:49.140
+difficult to describe because it all seems so damn trivial, but it's not trivial because a lot of
+
+01:58:49.140 --> 01:58:55.220
+that we just learn as babies. We keep running into things and we'll learn about that. So AI systems
+
+01:58:55.220 --> 01:59:00.660
+help us understand what is it that makes humans release? What is the wisdom we have in our heads?
+
+01:59:00.660 --> 01:59:06.900
+And negotiation to me is super interesting because negotiation is about business. It's about
+
+01:59:08.740 --> 01:59:14.820
+geopolitics. It's about running government. It's basically negotiating the different policies,
+
+01:59:14.820 --> 01:59:23.220
+different bills and programs and so on. How do we allocate money? How do we reallocate resources?
+
+01:59:23.220 --> 01:59:26.980
+All that kind of stuff. That seems like AI in the future could be better at that,
+
+01:59:28.100 --> 01:59:36.420
+but maybe not. Maybe you have to be a messy, weird, insecure, uncertain human and debate each other
+
+01:59:36.420 --> 01:59:41.220
+and yell at each other on Twitter. Maybe you have to have the red and the blue teams
+
+01:59:42.180 --> 01:59:49.060
+that yell at each other in the process of figuring out what is true. Maybe AI systems will
+
+01:59:49.060 --> 01:59:54.660
+not be able to do that, figure out the full mess of human civilization.
+
+01:59:54.660 --> 01:59:58.260
+Yeah, interesting. Well, I mean, the two thoughts that I had along the way was,
+
+01:59:59.540 --> 02:00:02.180
+I mean, anytime you're talking about systems or scaling,
+
+02:00:02.180 --> 02:00:13.220
+you're talking, my belief is chatbots, systems, things that don't require decision-making,
+
+02:00:13.220 --> 02:00:21.780
+just following the instructions, at least 80% of what's going on. Now, the remaining percentage,
+
+02:00:21.780 --> 02:00:30.180
+whatever it is, does it require the human interaction and what's required? I'm not pro
+
+02:00:30.180 --> 02:00:34.580
+conflict, and I also know that there's a case to be made in the creative world
+
+02:00:35.540 --> 02:00:41.940
+that some of the best thinking came out of conflict. Reading interviews with Bono, you too.
+
+02:00:44.500 --> 02:00:49.380
+Their admiration for some of the Beatles' best music came when they were fighting with each other,
+
+02:00:50.180 --> 02:00:56.660
+and the song one, Octune Baby, which I believe from the album, Octune Baby, those guys were
+
+02:00:56.660 --> 02:01:01.380
+fighting. I mean, they were on the verge of breaking up, and their appreciation of the
+
+02:01:01.380 --> 02:01:06.900
+conflict could create something beautiful. Then when I was in the crisis negotiation unit,
+
+02:01:06.900 --> 02:01:14.260
+my last seven years in the FBI, there was a guy named Vince, brilliant dude, brilliant negotiator,
+
+02:01:15.140 --> 02:01:22.180
+and he and I used to argue all the time. Then when we had a change in the guy who was in charge,
+
+02:01:23.140 --> 02:01:26.900
+the guy who was in charge took me off to the side. He's like, I can't take you and Vince
+
+02:01:26.900 --> 02:01:32.580
+fighting all the time. I said, well, I got news for you. I think we come up with much better stuff
+
+02:01:32.580 --> 02:01:38.420
+as a result of our battles. He said, Vince said the same thing to me. I'm like, so if we don't
+
+02:01:38.420 --> 02:01:46.180
+have a problem fighting, why do you have a problem? There is something there that sometimes the most
+
+02:01:46.260 --> 02:01:54.500
+difficult insights, you rack your brains as to why someone is so dug in on something that
+
+02:01:55.380 --> 02:02:00.020
+you think is so wrong. Yeah, maybe there's something to it. I think there's something to it.
+
+02:02:00.020 --> 02:02:05.220
+There's something about conflict, even drama that might be a feature, not a bug of our society.
+
+02:02:05.780 --> 02:02:10.420
+Interesting. Do you think there will always be war in the world?
+
+02:02:10.420 --> 02:02:18.900
+Yeah. So there will always be a need for negotiators and negotiating.
+
+02:02:18.900 --> 02:02:20.340
+Well, as it turns out.
+
+02:02:23.300 --> 02:02:27.700
+Why do you think there will always be war? What's your intuition about human nature there?
+
+02:02:27.700 --> 02:02:35.380
+Yeah, just because we're basically 75% negative. For lack of a better term, I call it two lines of
+
+02:02:35.380 --> 02:02:42.180
+coat. When we were little, somebody planted in two lines into our head. We don't know when
+
+02:02:42.180 --> 02:02:50.100
+it got in there. But somebody said something to us that stuck. And there are a lot of people that
+
+02:02:50.100 --> 02:03:00.660
+had some really negative garbage dumped in their brain when they were little. And just based on
+
+02:03:00.660 --> 02:03:07.460
+the numbers, what kind of opportunity they were given afterwards. Did they ever have an epiphany
+
+02:03:07.460 --> 02:03:15.140
+moment when they genuinely believe they can get themselves out of it? One of Joe Dispenza's book
+
+02:03:15.140 --> 02:03:24.100
+is Breaking the Habit of Being Yourself. How do you get at that two lines of coat that either mean
+
+02:03:24.100 --> 02:03:29.700
+or well-intentioned, but stupidly speaking, adults said to you at the wrong moment and planted in
+
+02:03:29.700 --> 02:03:37.540
+your brain? Even the majority of people on earth getting that out of their heads is very small.
+
+02:03:39.620 --> 02:03:44.740
+What advice would you give to a young person today about how to have a career they could be
+
+02:03:44.740 --> 02:03:51.220
+proud of or a life? Maybe somebody in high school, college, trying to figure out their way in this
+
+02:03:51.220 --> 02:04:02.020
+world? It's probably a take on a cliche of do what you love. But if you figure out your ideals
+
+02:04:03.300 --> 02:04:12.500
+and pursue your ideals and stick to them when it costs you. A guy I admire very much, Michael
+
+02:04:12.500 --> 02:04:20.100
+Mogill, runs this Operation Crisp video in Atlanta. In one of his talks, he said,
+
+02:04:20.100 --> 02:04:27.620
+core values are what you stick to that cost you money. It's not a value that really matters to you
+
+02:04:27.620 --> 02:04:36.500
+unless it's costing you. Stick to your values. When I was in the FBI, I worked really hard
+
+02:04:36.500 --> 02:04:41.060
+at the number one core mission of the FBI is to protect and defend the American people.
+
+02:04:41.220 --> 02:04:50.740
+So, I could pursue that value at all times, which I did, or I could follow the rules.
+
+02:04:52.580 --> 02:04:53.940
+You don't have time to do both.
+
+02:04:57.460 --> 02:05:00.740
+When did you know you found what you love?
+
+02:05:05.140 --> 02:05:09.300
+When did you fall in love with whatever this process is that is negotiating?
+
+02:05:10.260 --> 02:05:15.940
+I think it was in a conversation on the suicide hotline that I was telling you about earlier
+
+02:05:15.940 --> 02:05:21.940
+with the guy who was paranoid. When I thought, I can have that significant of an impact on
+
+02:05:21.940 --> 02:05:27.860
+another human being in this short of a period of time. That's really cool.
+
+02:05:29.060 --> 02:05:36.100
+How hard is it to talk somebody off the ledge? So, this question is a big question. Why the hell live
+
+02:05:36.420 --> 02:05:44.340
+at all? How do you have that kind of deeply philosophical, deeply psychological,
+
+02:05:44.340 --> 02:05:49.300
+and also practical conversation with somebody and convince them they should stick around?
+
+02:05:49.300 --> 02:05:58.180
+Well, it's more clearing the clutter in their head and let them make up their own mind. That
+
+02:05:58.180 --> 02:06:03.860
+was what volunteering on suicide hotline was really about. Just let me see how quickly I can
+
+02:06:03.860 --> 02:06:07.540
+clear out the clutter in your head if you're willing to have it cleared out.
+
+02:06:09.460 --> 02:06:16.020
+Did you call here because you're actually looking for Al? Or did you call here to fulfill some other
+
+02:06:17.540 --> 02:06:25.220
+agenda? Are you willing to clear the clutter in your head? Not everybody is.
+
+02:06:26.020 --> 02:06:31.780
+So, once you clear out the clutter, there's at least a somewhat hopeful chance that you'll
+
+02:06:32.660 --> 02:06:41.860
+continue for another day. Yeah. If you step back, very few people that commit suicide
+
+02:06:44.180 --> 02:06:52.100
+physically are up against it that hard. Most of them, by and large, are pretty intact
+
+02:06:52.100 --> 02:06:59.940
+physically human beings. They're struggling with emotional stuff, but it's an emotional issue. It's
+
+02:06:59.940 --> 02:07:06.100
+not a physical issue. So, if you were to be a complete mercenary, a guy I'm a very big fan of,
+
+02:07:06.100 --> 02:07:12.580
+a guy named Mark Pollock, a born great athlete, lost his eyesight and then became paralyzed.
+
+02:07:13.620 --> 02:07:22.580
+He's an emotional leader. He's about helping people thrive and live great lives.
+
+02:07:23.380 --> 02:07:31.460
+Mark was born, he was a spectacular athlete. First, he lost his sight in one eye, then he lost his
+
+02:07:31.460 --> 02:07:37.700
+sight in the other eye, and then he fell out a window in a tragic experience. If there was
+
+02:07:37.700 --> 02:07:44.740
+ever a dude that was saying, living sucks. If there's any doubt in my mind, something worse
+
+02:07:44.740 --> 02:07:50.580
+happens to me every few years. But Mark's about being alive and inspiring other people.
+
+02:07:51.380 --> 02:07:56.580
+So, the hard part with Navigate was somebody who's tossing it in because there's a chemical
+
+02:07:56.580 --> 02:08:01.300
+imbalance or it's the way they're interpreting the world. There's clutter in their head.
+
+02:08:02.740 --> 02:08:10.100
+Can you help clear that clutter in their head? And help them by themselves, inspire them to
+
+02:08:10.100 --> 02:08:17.220
+reinterpret that world as one worth living in? Yeah. What do you think is the meaning of life?
+
+02:08:17.220 --> 02:08:29.620
+Why live? What's the good reason? Well, I have very strong religious beliefs.
+
+02:08:32.180 --> 02:08:37.780
+Spiritual. If you were to try to confine me in a box,
+
+02:08:39.860 --> 02:08:44.980
+I'd be a Christian. I have tremendous respect for the Jewish. I don't think any religions got it
+
+02:08:44.980 --> 02:08:56.820
+nailed. Exactly. Again, I keep mentioning them. I'm kind of a Bono Christian. I'm going to butcher,
+
+02:08:56.820 --> 02:09:02.660
+but my belief in Jesus is what I've got after Christianity leaves the room. The dogma of man's
+
+02:09:02.660 --> 02:09:09.700
+application of spiritual beliefs. But that being said, I truly believe that my life was a gift,
+
+02:09:09.700 --> 02:09:15.940
+and there's a purpose here. My creator decided that I woke up in the morning because he still
+
+02:09:15.940 --> 02:09:22.660
+had some cool, interesting things for me to do. And you have gratitude for having the opportunity
+
+02:09:22.660 --> 02:09:30.020
+to live that day. Yeah. Well, you do one heck of a good job at living those days. I really
+
+02:09:30.020 --> 02:09:36.180
+appreciate your work. I appreciate the person you are. Thank you for just everything you've
+
+02:09:36.180 --> 02:09:41.060
+done today for just being empathic. Honestly, you're a great listener. You're a great
+
+02:09:41.060 --> 02:09:44.900
+conversationalist. It's just an honor to meet you and to talk to you. This was really awesome.
+
+02:09:46.900 --> 02:09:50.820
+Thanks for listening to this conversation with Chris Voss. To support this podcast,
+
+02:09:50.820 --> 02:09:55.940
+please check out our sponsors in the description. And now let me leave you with some words from John
+
+02:09:55.940 --> 02:10:04.020
+F. Kennedy. Let us never negotiate out of fear, but let us never fear to negotiate.
+
+02:10:04.020 --> 02:10:07.780
+Thank you for listening and hope to see you next time.
+

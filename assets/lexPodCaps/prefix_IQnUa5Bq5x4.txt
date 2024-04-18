@@ -1,0 +1,4988 @@
+WEBVTT
+
+00:00.000 --> 00:07.400
+I would run outside and just lay on the ground under the southern Milky Way, beautiful, right
+
+00:07.400 --> 00:09.160
+up there.
+
+00:09.160 --> 00:14.320
+And I would just lay there like the snow angel and just kind of let my thoughts sort of pass
+
+00:14.320 --> 00:15.320
+through my brain.
+
+00:15.320 --> 00:21.260
+And this is when I personally have the feeling that I'm a part of it, I belong here, rather
+
+00:21.260 --> 00:22.680
+than feeling kind of small.
+
+00:22.680 --> 00:27.160
+Yes, I'm small, but there are many other small things and lots of small things make one big
+
+00:27.320 --> 00:35.640
+The following is a conversation with Anna Ferbell, an astrophysicist at MIT, studying
+
+00:35.640 --> 00:40.840
+the oldest stars in the Milky Way galaxy in order to understand the chemical and physical
+
+00:40.840 --> 00:48.000
+conditions of the early universe and how from that our galaxy formed and evolved to what
+
+00:48.000 --> 00:52.440
+it is today, the place we humans call home.
+
+00:52.440 --> 00:57.040
+This is the Lex Friedman podcast, to support it, please check out our sponsors in the description
+
+00:57.640 --> 01:02.440
+And now, dear friends, here's Anna Ferbell.
+
+01:02.440 --> 01:04.040
+Let's go back to the early days.
+
+01:04.040 --> 01:07.560
+What did the formation of the Milky Way galaxy look like?
+
+01:07.560 --> 01:10.120
+Or maybe we want to start even before that.
+
+01:10.120 --> 01:13.080
+What did the formation of the universe look like?
+
+01:13.080 --> 01:19.200
+Well, we scientists believe that was the Big Bang, some big beginning.
+
+01:19.200 --> 01:24.400
+But what is important for my work, and I think that's what we're going to talk about, is
+
+01:24.400 --> 01:27.520
+what kind of elements were present at that time.
+
+01:27.520 --> 01:33.040
+So the Big Bang left a universe behind that was made of just hydrogen and helium and tiny
+
+01:33.040 --> 01:36.200
+little sprinkles of lithium.
+
+01:36.200 --> 01:38.980
+And that was pretty much it.
+
+01:38.980 --> 01:44.840
+As it turns out, it's actually quite hard to make stars or any structure from that.
+
+01:44.840 --> 01:47.960
+That's fairly hot gas.
+
+01:48.640 --> 01:54.880
+So the very first stars that formed prior to any galaxies were very massive stars,
+
+01:54.880 --> 01:58.760
+big stars, 100 times the mass of the sun.
+
+01:58.760 --> 02:01.240
+And they were made from just hydrogen and helium.
+
+02:01.240 --> 02:05.760
+So big stars explode pretty fast after a few million years only.
+
+02:05.760 --> 02:08.840
+That's very short on cosmic timescales.
+
+02:08.840 --> 02:14.400
+And in their explosions, they provided the first heavier elements to the universe because
+
+02:14.400 --> 02:21.440
+in their cores, all stars fuse lighter elements like hydrogen and helium into heavier ones.
+
+02:21.440 --> 02:23.880
+And then that goes all the way up to iron.
+
+02:23.880 --> 02:28.960
+And then all that material gets ejected in these massive supernova explosions.
+
+02:28.960 --> 02:36.120
+And that marked a really, really important transition in the universe because after that
+
+02:36.120 --> 02:42.080
+first explosion, it was no longer chemically pristine.
+
+02:42.080 --> 02:46.960
+And that set the stage for everything else to happen, including us here talking today.
+
+02:46.960 --> 02:48.960
+So what do you mean by pristine?
+
+02:48.960 --> 02:56.360
+So there's a whole complex soup of elements now as opposed to just hydrogen, helium, and
+
+02:56.360 --> 02:57.840
+a little bit of lithium.
+
+02:57.840 --> 02:58.840
+Yeah.
+
+02:58.840 --> 03:03.120
+So after the Big Bang, just hydrogen and helium, we don't really need to talk too much about
+
+03:03.120 --> 03:06.800
+lithium because the amount was so small.
+
+03:06.800 --> 03:14.840
+And after these very first stars formed and exploded, heavy elements like carbon, oxygen,
+
+03:14.840 --> 03:22.720
+magnesium, iron, all of that stuff was suddenly present in the gas clouds in tiny amounts
+
+03:22.720 --> 03:25.640
+only, very tiny amounts.
+
+03:25.640 --> 03:31.720
+And that actually helped, especially the carbon and the oxygen, to make the gas cool.
+
+03:31.720 --> 03:34.820
+These atoms are more complicated than hydrogen.
+
+03:34.820 --> 03:35.820
+That's just a proton.
+
+03:35.820 --> 03:40.300
+So it has cooling properties, can send out photons outside of the gas cloud so the gas
+
+03:40.300 --> 03:41.440
+can cool.
+
+03:41.440 --> 03:45.620
+And when you have gas that gets colder and colder, you can make smaller and smaller stars.
+
+03:45.620 --> 03:50.540
+So you can fragment it and clump it and turn it into stars like the sun.
+
+03:50.540 --> 03:55.220
+And the cool thing about that is that when you have small stars like the sun, they have
+
+03:55.220 --> 03:57.380
+a really long lifetime.
+
+03:57.380 --> 04:02.700
+So those first low mass stars that formed back then are still observable today.
+
+04:02.700 --> 04:03.900
+That is actually what I do.
+
+04:03.900 --> 04:09.960
+I try to find these early survivors because they tell us what the gas looked like back
+
+04:09.960 --> 04:10.960
+then.
+
+04:10.960 --> 04:16.720
+They have preserved that composition of these early gas clouds, the chemical compositions
+
+04:16.720 --> 04:18.200
+until today.
+
+04:18.200 --> 04:24.760
+So I don't need to look very far into the universe to study all the beginnings.
+
+04:24.760 --> 04:32.400
+I can just chemically analyze the oldest stars and it's like unpacking everything that happened
+
+04:32.400 --> 04:33.400
+back then.
+
+04:33.900 --> 04:39.960
+So to just reiterate, so in the very early days, in the first few million years, there
+
+04:39.960 --> 04:44.760
+was giant stars that's mostly hydrogen and helium and then they exploded in these supernova
+
+04:44.760 --> 04:54.680
+explosions and then they made these clumps, non-pristine clumps.
+
+04:54.680 --> 04:59.020
+So it took a few hundred million years for the first stars to emerge and then they exploded
+
+04:59.020 --> 05:02.000
+after a few million years, kaboom.
+
+05:02.000 --> 05:09.420
+And then it's like, I always consider the universe like a nice soup and then these first
+
+05:09.420 --> 05:14.940
+supernova explosions kind of provided the salt, just a little sprinkle of heavier elements
+
+05:14.940 --> 05:20.020
+and that made it really tasty, just changed it completely, right?
+
+05:20.020 --> 05:22.900
+And that changed the physics of the gas.
+
+05:22.900 --> 05:29.860
+So that meant that these gas clouds that were surrounding the former first stars, they
+
+05:29.860 --> 05:35.360
+could now cool down and clump and form the next generation of stars that now included
+
+05:35.360 --> 05:38.060
+also little stars.
+
+05:38.060 --> 05:42.960
+And as I just mentioned, the small stars have these really long lifetimes.
+
+05:42.960 --> 05:45.980
+The Sun has a lifetime of 10 billion years.
+
+05:45.980 --> 05:50.500
+Any star that is even less massive will have an even longer lifetime.
+
+05:50.500 --> 05:55.640
+So that gives us a chance to still observe some of the stars that formed back then.
+
+05:55.640 --> 06:00.540
+So we are testing the conditions, the chemical and physical conditions of the early universe
+
+06:00.540 --> 06:03.260
+even before the galaxy formed.
+
+06:03.260 --> 06:05.300
+So what's the timeline that we're talking about?
+
+06:05.300 --> 06:09.660
+What is the age of the universe and what is the earliest time we got those salty delicious
+
+06:09.660 --> 06:13.860
+soup, clump soups with heavier elements?
+
+06:13.860 --> 06:16.260
+Well the universe is 13.8 billion years old.
+
+06:16.260 --> 06:17.260
+Allegedly, yeah.
+
+06:17.260 --> 06:18.260
+Is it?
+
+06:18.260 --> 06:19.260
+Yes.
+
+06:19.260 --> 06:20.260
+Okay.
+
+06:21.020 --> 06:24.100
+When I was in high school, the universe was 20 billion years old.
+
+06:24.100 --> 06:25.100
+Oh yeah?
+
+06:25.100 --> 06:26.100
+So the estimate...
+
+06:26.100 --> 06:27.100
+Things have changed.
+
+06:27.100 --> 06:29.220
+Do you think that estimate will evolve in interesting ways or no?
+
+06:29.220 --> 06:30.220
+Is it pretty stable at this point?
+
+06:30.220 --> 06:34.860
+I think we have mostly converged, yes, because the techniques are very different now, much
+
+06:34.860 --> 06:36.260
+more precise.
+
+06:36.260 --> 06:41.220
+The whole business of precision cosmology by mapping out the cosmic microwave background,
+
+06:41.220 --> 06:45.700
+you know, that's a marvelous feat.
+
+06:45.700 --> 06:49.820
+Maybe the digits will still move around a little bit, but that's all right.
+
+06:50.380 --> 06:55.100
+The gravitational waves and all that, so all the different sources of data, kind of mapping
+
+06:55.100 --> 06:57.500
+out this detailed picture of the early universe.
+
+06:57.500 --> 06:58.500
+Totally.
+
+06:58.500 --> 07:03.700
+And so we think the earliest little stars formed, I don't know, maybe half a billion
+
+07:03.700 --> 07:05.340
+years after the Big Bang, right?
+
+07:05.340 --> 07:09.700
+Again, a few hundred million years for the first stars to emerge and then, you know,
+
+07:09.700 --> 07:14.620
+took some time, so give or take half a billion years.
+
+07:15.260 --> 07:22.460
+That was the time when sort of the very first proto-galaxies formed, early stellar structures,
+
+07:22.460 --> 07:27.260
+stellar systems, from which the microwave eventually formed, right?
+
+07:27.260 --> 07:33.620
+The microwave was probably a slightly bigger one, and we know today that galaxies grow
+
+07:33.620 --> 07:37.740
+hierarchically, which means they eat their smaller neighbors, so if you're the bigger
+
+07:37.740 --> 07:45.540
+one and have a few friends around, you're just going to eat them, absorb them, and then
+
+07:45.540 --> 07:48.100
+you grow bigger.
+
+07:48.100 --> 07:54.980
+So all these little early stars kind of came into the Milky Way through that kind of process,
+
+07:54.980 --> 07:59.380
+and that's why we find them in the outer parts of the galaxy today, because they're just
+
+07:59.380 --> 08:02.660
+kind of deaf and just left there since.
+
+08:02.660 --> 08:06.700
+So the old stuff is on the outskirts of the galaxy, and the new stuff is closer to the
+
+08:06.700 --> 08:07.700
+middle?
+
+08:07.700 --> 08:08.700
+Roughly speaking.
+
+08:08.700 --> 08:09.700
+Okay.
+
+08:09.700 --> 08:10.700
+Yes.
+
+08:10.700 --> 08:11.700
+So that's where you would look for it.
+
+08:11.700 --> 08:15.260
+So maybe just to step back, what is a galaxy, what is a proto-galaxy?
+
+08:15.260 --> 08:16.420
+I love that question.
+
+08:16.420 --> 08:23.540
+So the galaxy is a huge assembly of stars.
+
+08:23.540 --> 08:30.300
+The Milky Way contains something like 200 to 400 billion stars, and most of the material
+
+08:30.300 --> 08:36.700
+and the stars are in the disk, and when we look at the night sky, what we see as the
+
+08:36.740 --> 08:45.540
+Milky Way band on the sky, that is actually the next inner spiral arm, because we actually
+
+08:45.540 --> 08:52.420
+live in a spiral disk galaxy, so the Milky Way is a spiral disk galaxy, and we're looking
+
+08:52.420 --> 08:57.220
+– actually, it depends a little bit – in the Northern Hemisphere, we're looking out
+
+08:57.220 --> 09:03.060
+of the galaxy, so we're seeing the next outer spiral arm.
+
+09:03.180 --> 09:08.780
+As you can imagine, there's only dark space behind that, so we don't see it all that
+
+09:08.780 --> 09:14.820
+nice on the sky, but if you travel to the Southern Hemisphere, let's say South America,
+
+09:14.820 --> 09:19.260
+you see the Milky Way, and it looks so different on the sky, because that's the next inner
+
+09:19.260 --> 09:23.620
+spiral arm, and that's backlit by the galactic center.
+
+09:23.620 --> 09:31.940
+The galactic center is a very big, puffy region of gas, there's a lot of star formation.
+
+09:31.940 --> 09:35.740
+The galactic party is happening there, so it's very bright, and it makes for this
+
+09:35.740 --> 09:41.340
+very beautiful Milky Way on the night sky that we see, so actually, if you ever get
+
+09:41.340 --> 09:47.100
+the chance to experience that, I encourage you to almost close your eyes while seeing
+
+09:47.100 --> 09:51.940
+this and imagining that you're sitting in this kind of disk, in this pancake, and you're
+
+09:51.940 --> 09:59.020
+just kind of looking right into it, and you can really feel that we're in this 2D disk,
+
+09:59.020 --> 10:02.580
+and then you can imagine that there's a top and a bottom, and that we're really part
+
+10:02.580 --> 10:08.620
+of the galaxy, you can really experience that, we're just not just lost in space somewhere,
+
+10:08.620 --> 10:12.860
+but we're really a part of it, and knowing a little bit about the structure of the Milky
+
+10:12.860 --> 10:13.860
+Way really helps.
+
+10:13.860 --> 10:17.100
+Do you feel small when you think about that?
+
+10:17.100 --> 10:21.300
+When you look on the spiral on the inside of the Milky Way, and then you look out to
+
+10:21.300 --> 10:25.220
+the outside, how are we supposed to feel?
+
+10:25.220 --> 10:28.900
+I don't know, I don't feel small necessarily.
+
+10:28.900 --> 10:34.660
+I feel in awe, and I feel I'm a part of it, because I can really feel that I'm a part
+
+10:34.660 --> 10:36.420
+of it.
+
+10:36.420 --> 10:40.620
+I think for many people, they think like, oh, there's just the planet, and then there's
+
+10:40.620 --> 10:48.020
+nothing, and that's almost a little bit sad, but that's really not the case, right?
+
+10:48.020 --> 10:52.820
+Because there's so much more, and I really like to imagine, wow, I'm sitting in this
+
+10:52.820 --> 10:57.860
+big galactic merry-go-round, and we're going around the center, and I can see the center
+
+10:57.900 --> 10:58.900
+above me, right?
+
+10:58.900 --> 11:03.180
+And I can almost feel like we're going there.
+
+11:03.180 --> 11:09.460
+Of course, we can't really feel that, but the sun does circle the galactic center.
+
+11:09.460 --> 11:14.860
+But there's a kind of sadness to looking pictures of a nice vacation place.
+
+11:14.860 --> 11:19.740
+All we get is that light, an old light.
+
+11:19.740 --> 11:25.500
+Do you feel sad that we don't get to travel, or you and I will not get to travel there,
+
+11:25.500 --> 11:27.780
+and maybe humans will never get to travel there?
+
+11:28.020 --> 11:33.660
+I always wanted to travel into space and see the Earth and other things from up there.
+
+11:33.660 --> 11:37.780
+There's certainly that, but I don't know.
+
+11:37.780 --> 11:44.020
+It's also okay to just be at our vantage point and see it from here.
+
+11:44.020 --> 11:47.900
+With the sensors, with the telescopes that we have, and explore the possibilities.
+
+11:47.900 --> 11:52.580
+There is a kind of wonder to the mystery of it all, what's out there, what interesting
+
+11:52.580 --> 11:54.780
+things that we can't possibly imagine.
+
+11:55.140 --> 11:58.580
+There could be all kinds of life forms, bacteria, all this kind of stuff.
+
+11:58.580 --> 12:04.540
+I tend to believe that, it depends on the day, I tend to believe there's just a lot
+
+12:04.540 --> 12:09.380
+of very primitive organisms just spread out throughout, and they build their little things
+
+12:09.380 --> 12:13.540
+like bacteria-type organisms.
+
+12:13.540 --> 12:16.500
+Just to think what kind of worlds there are, because they're probably really creative
+
+12:16.500 --> 12:19.500
+living organisms.
+
+12:19.500 --> 12:24.420
+I guess the question I'm wondering to myself when I look out there to the stars, how different
+
+12:24.420 --> 12:27.660
+are the conditions on the different planets that orbit those stars?
+
+12:27.660 --> 12:30.060
+It will definitely be very different.
+
+12:30.060 --> 12:33.660
+The variety out there is huge.
+
+12:33.660 --> 12:41.780
+We know now that, I think, it's about every other star has at least one planet.
+
+12:41.780 --> 12:48.820
+I already mentioned the number of stars in the galaxy, it's a huge number of planets
+
+12:48.820 --> 12:50.420
+out there.
+
+12:50.420 --> 12:52.180
+Who knows what that looks like?
+
+12:52.180 --> 12:56.020
+All we know is that there is a lot of variety.
+
+12:56.020 --> 13:02.420
+We don't quite yet understand what drives that, what governs that, why that is the case.
+
+13:02.420 --> 13:04.980
+Why is it not all one size fits all?
+
+13:04.980 --> 13:09.860
+You mean the dynamics of planet formation, like exoplanet formation, or star formation,
+
+13:09.860 --> 13:10.860
+the whole survey?
+
+13:10.860 --> 13:12.540
+All of it, all of it.
+
+13:12.540 --> 13:17.060
+Star formation remains a much researched topic.
+
+13:17.060 --> 13:21.620
+We definitely know that it works, because all the stars are there.
+
+13:21.620 --> 13:29.060
+They come for the planets, but the details are so varied per gas cloud, right?
+
+13:29.060 --> 13:33.900
+It's very hard to come up with very detailed prescriptions.
+
+13:33.900 --> 13:35.360
+Broadly, we have figured it out.
+
+13:35.360 --> 13:40.900
+You need a gas cloud, you need to cool it, something clumps and fragments, and somehow
+
+13:40.900 --> 13:44.340
+it makes a star with planets or without.
+
+13:44.340 --> 13:47.180
+But the dynamics of the clumping process is not fully understood.
+
+13:47.180 --> 13:48.660
+No, no.
+
+13:48.660 --> 13:51.340
+The local conditions are so varied, right?
+
+13:51.340 --> 13:56.240
+I mean, it's the same with, you know, all people look like people, but individually
+
+13:56.240 --> 13:57.620
+we look very different.
+
+13:57.620 --> 14:02.300
+So even the subtle diversity of the formation process creates all kinds of fun differences.
+
+14:02.300 --> 14:03.300
+Yes.
+
+14:03.300 --> 14:09.100
+So we just don't know how this turned out in an individual case, and it's kind of hard
+
+14:09.100 --> 14:14.420
+to figure it all out and to take a look, certainly with planets, right?
+
+14:14.420 --> 14:20.980
+The chance to ever actually take a picture of a planet is minuscule, because they don't
+
+14:20.980 --> 14:23.260
+shine, so they're really dark.
+
+14:23.260 --> 14:29.860
+So I'd say there's a lot of possibility out there, but we have to be a little bit more
+
+14:29.860 --> 14:31.740
+patient before we...
+
+14:31.740 --> 14:38.380
+Or come up with technologies where patience becomes less necessary by extending our lifetimes
+
+14:38.380 --> 14:42.980
+or increasing the speed of space travel, all that kind of stuff.
+
+14:42.980 --> 14:44.740
+Those are pretty intelligent.
+
+14:44.740 --> 14:45.740
+Sometimes, yeah.
+
+14:45.740 --> 14:52.180
+For the most part, I hope, when I'm on the optimistic days.
+
+14:52.180 --> 14:58.740
+Well, maybe just to linger on what a galaxy is.
+
+14:58.740 --> 15:02.540
+What should we know about our understanding of black holes in the formation?
+
+15:02.540 --> 15:07.060
+Is that an important thing to understand in the formation of a galaxy?
+
+15:07.060 --> 15:11.620
+So all the orbiting, all the spiraling that's going on, how important is that to understand?
+
+15:11.620 --> 15:13.540
+All of the above.
+
+15:13.540 --> 15:17.460
+That's what makes astronomy really hard, but also really interesting, right?
+
+15:17.460 --> 15:21.020
+No day is like another, because we always find something new.
+
+15:21.020 --> 15:26.860
+I want to come back to the idea of the proto-galaxy, because it actually matches or relates to
+
+15:26.860 --> 15:28.480
+the black hole formation.
+
+15:28.480 --> 15:37.140
+So pretty much all large galaxies have a supermassive black hole in the center, and we don't really
+
+15:37.140 --> 15:38.620
+know where they come from.
+
+15:38.620 --> 15:41.180
+Again, we know that they are there.
+
+15:41.180 --> 15:43.020
+But how do we get there?
+
+15:43.020 --> 15:46.220
+So we go back to the early universe, right?
+
+15:46.220 --> 15:54.220
+We had a little galaxy that just sort of, I don't know, had some small number of stars.
+
+15:54.220 --> 16:00.220
+It was the first gravitationally bound structure that was held together by dark matter, because
+
+16:00.220 --> 16:06.780
+dark matter actually kind of structured up first before the luminous matter could, because
+
+16:06.780 --> 16:08.740
+that's what dark matter kind of does.
+
+16:08.740 --> 16:16.820
+And it started to hold gas and then stars sort of together in these first very shallow,
+
+16:16.820 --> 16:21.100
+what we call potential wells, so these gravitationally bound systems.
+
+16:21.100 --> 16:27.260
+And then the Milky Way grew from absorbing neighboring smaller, even smaller systems.
+
+16:27.260 --> 16:34.980
+And somewhere in that process, there must have been a seed for one of these supermassive
+
+16:34.980 --> 16:35.980
+black holes.
+
+16:36.140 --> 16:42.300
+I'm not actually sure that it's clear right now kind of what was there first, the supermassive
+
+16:42.300 --> 16:45.540
+black hole or the galaxy.
+
+16:45.540 --> 16:47.860
+So lots of people are trying to study that.
+
+16:47.860 --> 16:52.780
+And of course, the black hole wasn't as massive back then as it is these days.
+
+16:52.780 --> 16:56.180
+But it's a big area of research.
+
+16:56.180 --> 17:04.780
+And the new James Webb, the JWST, the infrared telescope in space, is working on, many people
+
+17:04.860 --> 17:10.220
+are working on that to figure out exactly what happened.
+
+17:10.220 --> 17:15.060
+And there are some surprising results that we really don't understand right now.
+
+17:15.060 --> 17:20.460
+So to solve the chicken or the egg problem of, do you need the supermassive black hole
+
+17:20.460 --> 17:24.380
+to form a galaxy or does the galaxy naturally create the supermassive black hole?
+
+17:24.380 --> 17:25.380
+Yeah.
+
+17:25.380 --> 17:29.740
+I mean, I think to some degree we can answer that because there are lots of little dwarf
+
+17:29.740 --> 17:31.980
+galaxies out there.
+
+17:31.980 --> 17:37.860
+The Milky Way remains surrounded by many dozens of small dwarf galaxies.
+
+17:37.860 --> 17:40.620
+I have studied a bunch of them.
+
+17:40.620 --> 17:44.620
+And to the extent that we can tell, they do not contain black holes.
+
+17:44.620 --> 17:47.820
+So there certainly were gravitationally bound structures.
+
+17:47.820 --> 17:52.780
+So either you can call them proto-galaxies or dwarf galaxies or first galaxies.
+
+17:52.780 --> 17:54.740
+They were definitely there.
+
+17:54.740 --> 18:01.300
+But there must have been bigger things like the proto-Milky Way where something was different.
+
+18:01.300 --> 18:06.980
+It made them more massive so that they would gravitationally attract these smaller systems
+
+18:06.980 --> 18:09.580
+to integrate them.
+
+18:09.580 --> 18:11.220
+So we'll have to see.
+
+18:11.220 --> 18:18.020
+How do we look into that, into the dynamics of the formation, the evolution of the proto-galaxies?
+
+18:18.020 --> 18:19.020
+Is it possible?
+
+18:19.020 --> 18:20.020
+Do they shine?
+
+18:20.020 --> 18:24.260
+I mean, what are the set of data that we can possibly look at?
+
+18:24.260 --> 18:31.180
+So we've got gravitational waves, which is really insane that we can even detect those.
+
+18:31.180 --> 18:33.060
+There's light.
+
+18:33.060 --> 18:34.220
+What else can we...
+
+18:34.220 --> 18:38.580
+So that would fall into the category of observational cosmology.
+
+18:38.580 --> 18:47.220
+And the JWST is the prime telescope right now and it promises big, big steps forward.
+
+18:47.220 --> 18:53.220
+This is in its early days because it's only been online like a year or so.
+
+18:53.220 --> 19:01.260
+But that collects the infrared light from the farthest, like literally proto-galaxies,
+
+19:01.260 --> 19:02.820
+earliest galaxies.
+
+19:02.820 --> 19:06.500
+That light has traveled some 13 billion years to us.
+
+19:06.500 --> 19:11.020
+And they're observing these faint little blobs.
+
+19:11.020 --> 19:17.460
+And folks are trying to, again, study the onset of these early supermassive black holes,
+
+19:17.460 --> 19:18.940
+how they shape galaxies.
+
+19:18.940 --> 19:24.860
+So they're seeing that they were there, you know, surrounded by already bigger galaxies.
+
+19:24.860 --> 19:29.700
+Ideally, I'd like for my colleagues to push a little bit further, hopefully that will
+
+19:29.700 --> 19:30.700
+eventually happen.
+
+19:30.700 --> 19:33.460
+In terms of looking towards the older and older ones?
+
+19:33.460 --> 19:37.660
+Yeah, more and more sort of primitive in terms of the structure.
+
+19:37.660 --> 19:42.300
+But of course, as you can imagine, if you make your system smaller and smaller, it becomes
+
+19:42.300 --> 19:45.720
+dimmer and dimmer and it's further and further away.
+
+19:45.720 --> 19:49.900
+So we're reaching the end of the line from a technical perspective pretty quickly.
+
+19:49.900 --> 19:52.960
+But it's dimmer and dimmer means older and older.
+
+19:52.960 --> 19:57.560
+Yes, in a sense, because it all started really small.
+
+19:57.560 --> 20:01.040
+Because it's smaller and smaller, which correlates to older and older.
+
+20:01.040 --> 20:05.880
+In that phase of the universe, it would, otherwise it doesn't.
+
+20:05.880 --> 20:12.680
+Just to take a small attention about black holes, because you do quite a bit of observational
+
+20:12.680 --> 20:19.920
+cosmology and maybe experimental astrophysics.
+
+20:19.920 --> 20:23.600
+What's the difference to you between theoretical physics and experimental?
+
+20:23.600 --> 20:29.080
+So there's a lot of really interesting explorations about paradoxes around black holes and all
+
+20:29.080 --> 20:34.000
+this kind of stuff, about black holes destroying information.
+
+20:34.000 --> 20:38.460
+Do those worlds intermix to you, especially when you step away from your work and kind
+
+20:38.460 --> 20:41.040
+of think about the mystery of it all?
+
+20:41.400 --> 20:45.480
+Well, at first glance, there isn't actually much crosstalk.
+
+20:45.480 --> 20:53.160
+Personally, I mostly observe stars, so I don't usually actually think too much about black
+
+20:53.160 --> 20:54.160
+holes.
+
+20:54.160 --> 20:58.080
+And stars is a fundamentally kind of chemical physical phenomena that doesn't...
+
+20:58.080 --> 20:59.080
+That's right.
+
+20:59.080 --> 21:00.080
+The physics is kind of different.
+
+21:00.080 --> 21:01.080
+It's not extreme.
+
+21:01.080 --> 21:06.400
+I mean, you know, you could consider a nuclear fusion sort of be perhaps extreme, you need
+
+21:06.400 --> 21:07.400
+to tunnel.
+
+21:08.400 --> 21:14.200
+There's some interesting physics there, but it's just a different flavor, and I don't
+
+21:14.200 --> 21:19.680
+do these kinds of calculations myself either.
+
+21:19.680 --> 21:23.920
+I very much like to talk with my theory colleagues about these things, though, because I find
+
+21:23.920 --> 21:29.840
+there's always an interesting intersection, and often it's just...
+
+21:29.840 --> 21:37.040
+I've written a number of papers with colleagues who do simulations about galaxies, and so
+
+21:37.440 --> 21:42.640
+they're not quite as far removed as, let's say, the black hole pen and paper folks.
+
+21:42.640 --> 21:48.320
+But even in those cases, we had the same interest in the same topics, but it was almost like
+
+21:48.320 --> 21:52.880
+we're speaking two different languages, and we weren't even that far removed, both astronomers
+
+21:52.880 --> 21:54.960
+and all.
+
+21:54.960 --> 22:02.440
+And it was really interesting just to take the time and really try to talk to each other.
+
+22:02.440 --> 22:08.920
+And it's amazing how hard that is.
+
+22:08.920 --> 22:12.360
+Even amongst scientists, we already have trouble talking to each other.
+
+22:12.360 --> 22:18.840
+Imagine how hard it is to talk to non-scientists and other people to try to...
+
+22:18.840 --> 22:22.100
+We're all interested in the same things as humans at the end of the day, right?
+
+22:22.100 --> 22:27.040
+But everyone has sort of a different angle about it and different questions and way of
+
+22:27.040 --> 22:33.640
+formulating things, and sometimes it really takes a while to converge and to get to the
+
+22:33.640 --> 22:34.640
+common ground.
+
+22:34.640 --> 22:39.520
+But if you take the time, it's so interesting to participate in that process, and it feels
+
+22:39.520 --> 22:43.160
+so good in the end to say like, yes, we tackled this together, right?
+
+22:43.160 --> 22:48.560
+We overcame our differences, not so much in opinion, but just in expressing ourselves
+
+22:48.560 --> 22:51.920
+about this and how we go about solving a problem.
+
+22:51.920 --> 22:56.640
+And these were some of my most successful papers, and I certainly enjoyed them the most.
+
+22:56.880 --> 22:58.400
+It can also lead to big discoveries.
+
+22:58.400 --> 23:03.360
+I mean, I think you put it really well in saying that we're all kind of studying the
+
+23:03.360 --> 23:05.280
+same kind of mysteries and problems.
+
+23:05.280 --> 23:08.600
+I mean, I see this in the space of artificial intelligence.
+
+23:08.600 --> 23:14.480
+You have a community, maybe it seems very far away, artificial intelligence and neuroscience.
+
+23:14.480 --> 23:17.800
+You would think that they're studying very different things, but one is trying to engineer
+
+23:17.800 --> 23:25.640
+intelligence and in so doing try to understand intelligence, and the other is trying to understand
+
+23:25.640 --> 23:28.280
+intelligence and cognition in the human mind.
+
+23:28.280 --> 23:32.080
+And they're just doing it from a different set of data, a different set of backgrounds
+
+23:32.080 --> 23:33.880
+and the researchers that do that kind of work.
+
+23:33.880 --> 23:41.520
+And probably the same is true in observational cosmology and simulation.
+
+23:41.520 --> 23:47.560
+So it's like a fundamentally different approach to understanding the universe.
+
+23:47.560 --> 23:53.480
+Let me use for simulation, let me use the things I know to create a bunch of parameters
+
+23:53.480 --> 23:56.440
+and create some, just play with it.
+
+23:56.440 --> 24:02.760
+Play with the universe, play God, create a bunch of universes and see in a way that matches
+
+24:02.760 --> 24:03.760
+experimental data.
+
+24:03.760 --> 24:11.600
+It's a fun, it's like playing Sims, but at the cosmic level, and then probably the set
+
+24:11.600 --> 24:15.480
+of terminology used there is very different and maybe you're allowed to break the rules
+
+24:15.480 --> 24:16.480
+a little bit more.
+
+24:16.480 --> 24:21.000
+Let's have, yeah, it's like the Drake equation, yeah, you don't really know, you kind of come
+
+24:21.000 --> 24:23.360
+up with a bunch of values here and there.
+
+24:23.360 --> 24:28.000
+And just see how it evolves and from that kind of intuit the different possibilities,
+
+24:28.000 --> 24:31.200
+the dynamics of the evolution of a galaxy, for example.
+
+24:31.200 --> 24:36.560
+Yeah, but it's cool to play between those two because it seems like we understand so
+
+24:36.560 --> 24:38.640
+little about our cosmos.
+
+24:38.640 --> 24:39.640
+So it's good to play.
+
+24:39.640 --> 24:40.640
+Yes.
+
+24:40.640 --> 24:42.360
+It's like a big sandbox, right?
+
+24:42.360 --> 24:46.760
+And everyone kind of has their little corner, they do things, but we're all in the same
+
+24:46.760 --> 24:49.360
+sandbox together at the end of the day.
+
+24:49.600 --> 24:56.160
+And that sandbox does have super powerful and super expensive telescopes.
+
+24:56.160 --> 25:00.720
+All the children are fighting for the resources to make sure they get to ask the right questions
+
+25:00.720 --> 25:03.000
+using that big cool tool.
+
+25:03.000 --> 25:09.960
+Well, can we actually step back on the big field of stellar archaeology?
+
+25:09.960 --> 25:10.960
+What is this process?
+
+25:10.960 --> 25:11.960
+Can you just speak to it again?
+
+25:11.960 --> 25:16.800
+You've been speaking to it, but what is this process of archaeology in the cosmos?
+
+25:16.800 --> 25:19.360
+Yeah, it's really fascinating.
+
+25:19.360 --> 25:27.640
+So I mentioned the lesser the mass of the star, the longer it lives.
+
+25:27.640 --> 25:33.320
+And again, for reference, for the next dinner party, the Sun's lifetime is 10 billion years.
+
+25:33.320 --> 25:40.920
+So if you have a star that's 0.6 or 0.8 solar masses, then its lifetime is going to be 15
+
+25:40.920 --> 25:42.920
+to 20 billion years.
+
+25:42.920 --> 25:48.320
+And that's an important range for our conversation, because again, if you assume that such a small
+
+25:48.320 --> 25:53.240
+star formed soon after the Big Bang, then it is still observable today.
+
+25:53.240 --> 25:55.120
+You mentioned old light before.
+
+25:55.120 --> 26:00.280
+Yeah, that light is like a few thousand years old, but compared to the age of these stars
+
+26:00.280 --> 26:02.080
+is nothing.
+
+26:02.080 --> 26:05.920
+So to me, that's young.
+
+26:05.920 --> 26:09.640
+Comes straight from our galaxy.
+
+26:09.640 --> 26:14.120
+These stars are not far away, they're in our galaxy in the outskirts.
+
+26:14.120 --> 26:21.560
+They probably did not form in the galaxy, because again, the hierarchical assembly
+
+26:21.560 --> 26:27.600
+of a Milky Way meant exactly, they formed in a little other galaxy in the vicinity.
+
+26:27.600 --> 26:32.240
+And at some point, the Milky Way ate that, which means it absorbed all the stars, including
+
+26:32.240 --> 26:35.880
+these little old stars that are now in the outskirts of the Milky Way that I used to
+
+26:35.880 --> 26:38.200
+point my telescope to.
+
+26:38.200 --> 26:41.640
+So what can we learn from these stars?
+
+26:41.640 --> 26:42.640
+Why should we study them?
+
+26:42.640 --> 26:48.680
+Now, these little stars are really, really efficient with their energy consumption.
+
+26:48.680 --> 26:53.280
+They're still burning, for the experts, just burning hydrogen to helium in their cores,
+
+26:53.280 --> 26:58.800
+and they have done so for the past 12, 13 billion years, however old they are.
+
+26:58.800 --> 27:02.960
+And they're going to keep doing that for another few billion years, same as the sun, the same
+
+27:02.960 --> 27:07.800
+sun also just does hydrogen to helium burning and will continue that for a while.
+
+27:07.800 --> 27:15.520
+Which means the outer parts of the star, well, pretty much actually most of the star, that
+
+27:15.520 --> 27:19.180
+gas doesn't talk to the core.
+
+27:19.180 --> 27:28.640
+So whatever composition that star has in its outer layers is exactly the same as the gas
+
+27:28.640 --> 27:36.520
+composition from which the star formed, which means it has perfectly preserved that information
+
+27:36.520 --> 27:42.080
+from way back then all the way to today and going forward.
+
+27:42.080 --> 27:49.280
+So I'm a stellar archaeologist because I don't dig in the dirt to find remnants of past civilizations
+
+27:49.280 --> 27:51.640
+and whatnot.
+
+27:51.640 --> 27:57.840
+I dig for the old stars in the sky because they have preserved that information from
+
+27:57.840 --> 28:05.840
+those first billion years in their outer stellar atmosphere, which is what I'm observing with
+
+28:05.840 --> 28:06.840
+telescopes.
+
+28:06.840 --> 28:12.840
+So I'm getting the best look at the chemical composition early on that you could possibly
+
+28:12.840 --> 28:13.960
+wish for.
+
+28:13.960 --> 28:15.960
+What kind of age are we talking about here?
+
+28:15.960 --> 28:22.000
+Are we talking about something that's close to that, you know, like a 13 billion, 12,
+
+28:22.000 --> 28:24.000
+13 billion age range?
+
+28:24.000 --> 28:25.000
+That's what we think.
+
+28:25.000 --> 28:34.600
+Now, as a small caveat here, we can not accurately date these stars, but we use a trick to say,
+
+28:35.280 --> 28:39.960
+these stars must have formed as some of the earliest generations of stars because we need
+
+28:39.960 --> 28:44.560
+to talk about the chemical evolution of the universe in the Milky Way for a second.
+
+28:44.560 --> 28:51.600
+So I already mentioned the pristineness of the universe after the Big Bang, right?
+
+28:51.600 --> 28:53.160
+Just hydrogen and helium.
+
+28:53.160 --> 28:59.200
+Then the first stars formed, they produced a sprinkle of heavier elements up to iron.
+
+28:59.200 --> 29:04.440
+Then the next generation of stars formed, that included again massive stars that they
+
+29:04.440 --> 29:10.400
+would explode again, but also the little ones that keep on living, right?
+
+29:10.400 --> 29:14.880
+And then the massive ones again explode as supernova, so they provide again another sprinkle
+
+29:14.880 --> 29:16.920
+of heavier elements.
+
+29:16.920 --> 29:21.760
+And so over time, all the elements in the periodic table have been built up.
+
+29:21.760 --> 29:27.640
+There have been other processes, for example, neutron star mergers and other exotic supernovae
+
+29:27.640 --> 29:32.720
+that have provided elements heavier than iron, all the way up to uranium from very
+
+29:32.720 --> 29:33.720
+early on.
+
+29:33.720 --> 29:42.080
+We're still trying to figure out those details, but I always say pretty much all the elements
+
+29:42.080 --> 29:44.120
+were done from like day three.
+
+29:44.120 --> 29:50.160
+So iron is where, like once you get to iron, you got all the fun you need, most of the
+
+29:50.160 --> 29:51.160
+fun.
+
+29:51.160 --> 29:52.160
+Yes, I know.
+
+29:52.680 --> 29:58.800
+I really like the heavier elements, you know, gold, silver, platinum, that kind of stuff.
+
+29:58.800 --> 30:00.880
+For personal reasons or for star formation?
+
+30:00.880 --> 30:03.880
+Well, both.
+
+30:03.880 --> 30:08.680
+What's the importance of these heavier metals in the evolution of the stars?
+
+30:08.680 --> 30:13.060
+So they're the spice of life, right?
+
+30:13.060 --> 30:17.040
+So every supernova gives you elements up to iron.
+
+30:17.040 --> 30:22.480
+That's cool, but at some point it gets a little bit boring because that always works.
+
+30:22.480 --> 30:23.480
+But that's the baseline.
+
+30:23.480 --> 30:25.640
+We need that.
+
+30:25.640 --> 30:30.360
+And that's certainly what came out of the first stars and then all the other supernova
+
+30:30.360 --> 30:32.880
+explosions that, you know, followed with every generation.
+
+30:32.880 --> 30:38.280
+And it took about a thousand generations, give or take, until the sun was made.
+
+30:38.280 --> 30:44.120
+So the sun formed from a gas cloud that was enriched by roughly a thousand generations
+
+30:44.120 --> 30:46.820
+of supernova explosions.
+
+30:46.820 --> 30:51.840
+And that's where the sun has the chemical composition that it has, including, you know,
+
+30:51.840 --> 30:54.980
+and somehow the planets were made from that as well.
+
+30:54.980 --> 30:59.700
+So the supernova explosions, the many generations are creating more and more complex elements.
+
+30:59.700 --> 31:03.580
+No, it just goes all the way up to iron.
+
+31:03.580 --> 31:07.100
+And then it's a little bit more of all of these elements.
+
+31:07.100 --> 31:08.100
+Just more.
+
+31:08.100 --> 31:12.440
+Yeah, it's one sprinkle, then another, and it just kind of adds up, right?
+
+31:12.440 --> 31:14.940
+Now the heavy elements form in very different ways.
+
+31:15.260 --> 31:17.060
+They are not fusion-made.
+
+31:17.060 --> 31:20.340
+They are made typically through neutron capture processes.
+
+31:20.340 --> 31:26.040
+But for that you need seed nuclei, ideally, you know, iron or carbon or something.
+
+31:26.040 --> 31:31.340
+So the supernova-made elements are very good seed nuclei for other processes that then
+
+31:31.340 --> 31:33.100
+create heavy elements.
+
+31:33.100 --> 31:38.900
+And because they cannot be made everywhere, they, when you, when, you know, so I, my,
+
+31:38.900 --> 31:42.940
+some of my stars have huge amounts of these heavy elements in them.
+
+31:42.940 --> 31:48.900
+And they tell us in much more detail, something really interesting happened somewhere.
+
+31:48.900 --> 31:53.260
+Well, wait, I thought, I thought the really old ones we would not have.
+
+31:53.260 --> 31:54.260
+So what does that mean?
+
+31:54.260 --> 31:55.260
+If the old-
+
+31:55.260 --> 31:57.660
+Ah, yes, important clarification.
+
+31:57.660 --> 32:05.560
+So the stars that we are observing today, these old ones, they formed from the gas.
+
+32:05.560 --> 32:09.980
+And the question is, what enriched that gas?
+
+32:09.980 --> 32:16.260
+So it could have been just a first star dumping their elements into that gas all the way up
+
+32:16.260 --> 32:19.100
+to iron.
+
+32:19.100 --> 32:23.200
+And we have found some stars that we think are second-generation stars.
+
+32:23.200 --> 32:28.340
+So they formed from gas enriched by just one first star.
+
+32:28.340 --> 32:30.580
+That's super cool.
+
+32:30.580 --> 32:38.080
+Then we find other old stars that have a much more complicated heavy element signature.
+
+32:38.080 --> 32:43.920
+And that means, okay, they're probably formed in a gas cloud that had a few things going
+
+32:43.920 --> 32:52.340
+on such as maybe a first star, maybe another more normal supernova, and maybe some kind
+
+32:52.340 --> 32:58.540
+of special process like a neutron star merger that would make heavy elements.
+
+32:58.540 --> 33:06.600
+And so they created a local chemical signature from which the next-generation star then formed.
+
+33:06.600 --> 33:08.740
+And that is what we're observing today.
+
+33:08.740 --> 33:16.940
+So all these old stars basically carry the signature from all these progenitor events.
+
+33:16.940 --> 33:23.520
+And it's our job then to unravel, okay, which processes and which events and how many may
+
+33:23.520 --> 33:28.340
+have occurred in the early universe that led to exactly that signature that we observed
+
+33:28.340 --> 33:29.940
+13 billion years later.
+
+33:29.940 --> 33:36.100
+Is it possible to figure out the number of generations that resulted in these stars?
+
+33:36.700 --> 33:42.400
+Well, we think we can sort of say, okay, this was like second generation or third, because
+
+33:42.400 --> 33:50.920
+the amounts of heavy elements in the stars that we observe is so tiny.
+
+33:50.920 --> 33:54.440
+One normal supernova explosion is actually already basically too much.
+
+33:54.440 --> 33:57.080
+It would give us too much of it.
+
+33:57.080 --> 34:00.120
+And the thing is, you can never take away things in the universe.
+
+34:00.120 --> 34:01.400
+You can only add.
+
+34:01.400 --> 34:08.140
+There's no cosmic vacuum cleaner going around sucking things away.
+
+34:08.140 --> 34:12.340
+Black holes are probably the closest to that, but they would have taken the whole star.
+
+34:12.340 --> 34:13.820
+Yeah, they'd take the whole thing, not just the whole thing.
+
+34:13.820 --> 34:17.420
+They wouldn't have taken stuff out of the gas.
+
+34:17.420 --> 34:26.380
+So we have maybe 10 stars or so now where we are saying they contain so little of these
+
+34:26.380 --> 34:32.700
+heavy elements that there must be second generation, because how else would you have
+
+34:32.700 --> 34:33.700
+made them?
+
+34:33.700 --> 34:38.220
+And again, I want to stress that the elements that we observe in these stars were not made
+
+34:38.220 --> 34:41.060
+by the stars themselves that we observe.
+
+34:41.060 --> 34:42.780
+That's just a reflection of the gas cloud.
+
+34:42.780 --> 34:46.180
+So we don't actually, I had to say that because I love stars.
+
+34:46.180 --> 34:48.980
+At the end of the day, we don't really care for the stars that we're observing.
+
+34:48.980 --> 34:52.380
+We care for the story that they're telling us about the early universe.
+
+34:53.380 --> 34:59.380
+So the stars are kind of a small mirror into the early universe.
+
+34:59.380 --> 35:00.900
+So what are you detecting about those stars?
+
+35:00.900 --> 35:04.260
+Can you tell me about the process of archaeology here?
+
+35:04.260 --> 35:09.900
+What kind of data can we possibly get to tell the story about these heavy elements on the
+
+35:09.900 --> 35:10.900
+stars?
+
+35:10.900 --> 35:14.940
+Yeah, it depends really on what star you find.
+
+35:14.940 --> 35:19.620
+There are many different chemical signatures.
+
+35:19.620 --> 35:27.460
+We actually pair up these days our element signatures with also kinematic information,
+
+35:27.460 --> 35:30.020
+how the star moves about the galaxy.
+
+35:30.020 --> 35:35.900
+That actually gives us clues as to where the star might have come from.
+
+35:35.900 --> 35:41.580
+Because again, all these old stars are in the galaxy, but they are not off the galaxy.
+
+35:41.580 --> 35:43.740
+That's a small but important distinction.
+
+35:43.740 --> 35:45.140
+So they all came from somewhere else.
+
+35:45.140 --> 35:48.660
+So you can rewind back in time, kind of estimate where it came from.
+
+35:48.700 --> 35:49.700
+Yeah.
+
+35:49.700 --> 35:51.980
+So we can't really say, oh, it came from that and that dwarf galaxy.
+
+35:51.980 --> 35:57.380
+But interestingly enough, just a few days ago, I submitted a paper with three women
+
+35:57.380 --> 35:58.380
+undergrads.
+
+35:58.380 --> 36:01.060
+It was so good to work together.
+
+36:01.060 --> 36:09.060
+And we found a sample of stars that have very, very low abundances in strontium and barium.
+
+36:09.060 --> 36:11.360
+So very heavy elements.
+
+36:11.360 --> 36:17.340
+And I had a hunch for a while that these stars would probably be some of the oldest.
+
+36:18.260 --> 36:23.620
+As I said, heavy elements give you extra information about special events.
+
+36:23.620 --> 36:31.700
+And again, finding something that's really low means that must have happened either really
+
+36:31.700 --> 36:35.860
+early on or in a very special environment, right?
+
+36:35.860 --> 36:37.340
+Because we can only ever add.
+
+36:37.340 --> 36:42.540
+So if you find something that's incredibly low in terms of the abundance, maybe just
+
+36:42.540 --> 36:45.680
+one event contributed that max.
+
+36:45.680 --> 36:48.760
+So we looked at the kinematics.
+
+36:48.760 --> 36:50.640
+How are these stars moving?
+
+36:50.640 --> 36:56.000
+And they're all going the wrong way in the galaxy.
+
+36:56.000 --> 36:57.120
+How is that possible?
+
+36:57.120 --> 37:02.160
+Well, it is possible because consider, now we come back to the proto galaxy.
+
+37:02.160 --> 37:03.800
+The proto galaxy was like a beehive.
+
+37:03.800 --> 37:08.960
+It just didn't really know what it was or what it wanted to become when it grew up.
+
+37:08.960 --> 37:12.680
+And it was absorbing all these little galaxies to grow fast.
+
+37:12.680 --> 37:19.480
+Some galaxies, some absorbed galaxies were thrown in going the main way and some came
+
+37:19.480 --> 37:23.440
+in the wrong way, happens.
+
+37:23.440 --> 37:29.800
+But this could only happen early on when there wasn't left and right and up and down.
+
+37:29.800 --> 37:31.440
+So stuff would come in from always.
+
+37:31.440 --> 37:40.240
+So now, 13 billion years later, we're still doing it and we just looked for stars that
+
+37:40.240 --> 37:43.160
+have low strothium and barium abundances.
+
+37:43.160 --> 37:48.520
+And then we look at the kinematics and lo and behold, they're all at hundreds of kilometers
+
+37:48.520 --> 37:50.480
+per second going the wrong way.
+
+37:50.480 --> 37:55.400
+It's like, dude, you must have come in really early on from somewhere else.
+
+37:55.400 --> 37:58.280
+So we call this retrograde motion.
+
+37:58.280 --> 38:00.440
+That's a clear sign of accretion.
+
+38:00.440 --> 38:04.040
+So something that has come in to the galaxy.
+
+38:04.040 --> 38:10.560
+And because they are so fast, and it's really all of them, that must have happened early
+
+38:10.560 --> 38:11.560
+on.
+
+38:11.560 --> 38:15.560
+You can't throw a galaxy into the Mickey Ray right now the wrong way, it eventually will
+
+38:15.560 --> 38:16.560
+turn around.
+
+38:16.560 --> 38:22.280
+Can you actually just on a small tangent speak to the three women undergrads, like this little,
+
+38:22.280 --> 38:29.520
+it's pretty cool that you were able to use a hunch to find this really cool little star.
+
+38:29.520 --> 38:33.320
+Yeah, what's the process of like, especially with undergrads, I think that would be very
+
+38:33.320 --> 38:34.960
+interesting and inspiring to people.
+
+38:34.960 --> 38:42.560
+Yes, it was a wonderful little collaboration that actually emerged in the fall.
+
+38:42.560 --> 38:48.040
+So I really like working with undergrads and grad students, postdocs.
+
+38:48.040 --> 38:55.000
+And I came up with a new concept for a class at MIT where I wanted to integrate the research
+
+38:55.000 --> 38:57.800
+process into the classroom.
+
+38:58.640 --> 39:05.840
+Sometimes people find it really hard to call, email a professor, hey, I'm this and that
+
+39:05.840 --> 39:10.520
+person and I'm interested in your research, could I possibly come?
+
+39:10.520 --> 39:19.560
+And I wanted to streamline that and give a trial how it would work to provide a sort
+
+39:19.560 --> 39:25.440
+of the safe confines of a classroom where you just sign up and do research in a very
+
+39:25.440 --> 39:27.760
+structured way.
+
+39:27.760 --> 39:34.760
+And I developed it, it was a lot of work, a little bit more than I thought, to map up
+
+39:34.760 --> 39:40.920
+an entire research project basically from scratch in 10 worksheets so that they could
+
+39:40.920 --> 39:43.920
+do it again in a very structured and organized fashion.
+
+39:43.920 --> 39:46.520
+Oh, so you created this whole framework for them to do it.
+
+39:46.520 --> 39:49.040
+Yes, the whole thing.
+
+39:49.040 --> 39:55.320
+But the promise was you come sign up for my class in Teams of two, you each get your own
+
+39:55.320 --> 39:58.080
+old star that has not been analyzed before.
+
+39:58.080 --> 40:02.720
+I don't know what the solution is because in research, we don't look up the solution
+
+40:02.720 --> 40:03.760
+at the end of the book.
+
+40:03.760 --> 40:05.920
+We do not know what we're going to find.
+
+40:05.920 --> 40:11.860
+Our job is to do the work and then to interpret the numbers because our job as scientists
+
+40:11.860 --> 40:15.400
+is to find the story.
+
+40:15.400 --> 40:23.920
+Anyone can crunch numbers, anyone, it's complicated sometimes, but it's doable, right?
+
+40:23.920 --> 40:28.620
+But coming up with a story, when you only have three puzzle pieces, what does the puzzle
+
+40:28.620 --> 40:31.020
+look like?
+
+40:31.020 --> 40:37.160
+You have to be a little bit bold, you need to have some experience, and you need to kind
+
+40:37.160 --> 40:38.880
+of see the universe in 3D.
+
+40:38.880 --> 40:40.520
+You just need to kind of go for it.
+
+40:40.520 --> 40:41.520
+And that's the beautiful thing.
+
+40:41.520 --> 40:42.520
+I really love that.
+
+40:42.520 --> 40:48.520
+And so this was a story of weird kinematics going the wrong way combined with this particular
+
+40:48.520 --> 40:52.960
+weird signature in terms of the heavy elements, and you have to come up with a story.
+
+40:52.960 --> 41:00.720
+And so the story of that paper is now, usually I don't say I find the oldest stars.
+
+41:00.720 --> 41:04.860
+When I talk to my research colleagues, I talk to them about we find the chemically most
+
+41:04.860 --> 41:09.280
+pristine stars because that's actually what we measure, the chemical abundance that tells
+
+41:09.280 --> 41:13.880
+us, okay, it must have been second or third or fifth generation of stars, right?
+
+41:13.880 --> 41:18.820
+But these low strontium stars that go in the wrong way, like they're getting paid for it,
+
+41:18.820 --> 41:25.580
+they must be the oldest stars that came into the galaxy because they formed before the
+
+41:25.580 --> 41:29.660
+galaxy was the Milky Way, right?
+
+41:29.660 --> 41:31.800
+And it's so cool and it was so wonderful.
+
+41:31.800 --> 41:35.020
+So this class, it went so well in the fall.
+
+41:35.020 --> 41:38.060
+I had nine people sign up.
+
+41:38.060 --> 41:42.460
+That's not unusual for a class, a specialty class at MIT, so small number.
+
+41:42.460 --> 41:50.340
+There was eight women and they were so into it that I said, okay, let's use this opportunity.
+
+41:50.340 --> 41:54.660
+You're going to do some extra work with me and we're going to publish this.
+
+41:54.660 --> 41:55.660
+Try to publish.
+
+41:55.660 --> 41:56.660
+Yes.
+
+41:56.660 --> 42:01.060
+I also like that you're using the terminology of chemically more pristine.
+
+42:01.060 --> 42:05.380
+When I'm talking to younger people, I'll just say that I'm more chemically pristine than
+
+42:05.380 --> 42:06.380
+them.
+
+42:06.380 --> 42:08.360
+I like that description of age.
+
+42:08.360 --> 42:11.580
+So there's this term of metal poor stars.
+
+42:11.580 --> 42:14.100
+So most of these old stars are going to be metal poor.
+
+42:14.100 --> 42:15.100
+Yes.
+
+42:15.100 --> 42:16.660
+I search for the most metal poor stars.
+
+42:16.660 --> 42:20.260
+And what does that, can we just define what does that mean?
+
+42:20.260 --> 42:22.380
+I don't know who came up with this.
+
+42:22.380 --> 42:27.620
+I would love to know, but the universe is a complicated place.
+
+42:27.620 --> 42:34.660
+So many decades ago, someone clever came up with the idea to say, let's simplify things
+
+42:34.660 --> 42:35.660
+a little bit.
+
+42:35.660 --> 42:46.260
+For example, hydrogen X, helium Y, and all the other elements combine metals, Z.
+
+42:46.260 --> 42:50.180
+When I give public talks, I always ask, is there a chemist in the audience?
+
+42:50.180 --> 42:52.900
+Let me just tell you, neon is a wonderful metal.
+
+42:52.900 --> 42:56.380
+And they're like, oh my God, what's she saying?
+
+42:56.380 --> 42:59.700
+I'm an astronomer, I'm not a chemist, so I'll get away with it.
+
+42:59.700 --> 43:04.580
+So if you just roll with it for a moment, all the elements except hydrogen and helium
+
+43:04.580 --> 43:06.620
+are called metals.
+
+43:06.620 --> 43:13.020
+Now if we look again at the concept of chemical evolution, it means more and more of all the
+
+43:13.020 --> 43:18.220
+elements, everything heavier than hydrogen and helium gets produced slowly but surely
+
+43:18.220 --> 43:21.780
+by different types of stars and events.
+
+43:21.780 --> 43:27.680
+So that's a monotonously increasing function.
+
+43:27.680 --> 43:33.020
+And so we look for the stars that have the least amounts of heavy elements in them, because
+
+43:33.020 --> 43:39.220
+that means we are going further and further back in this process, in that function, almost
+
+43:39.220 --> 43:41.740
+all the way to the very beginning.
+
+43:41.740 --> 43:43.540
+And that is the first stars, right?
+
+43:43.540 --> 43:46.220
+They started that process.
+
+43:46.220 --> 43:51.940
+That's why I said it was such an important transition phase, because things were, we
+
+43:51.940 --> 43:56.900
+call the post-Big Bang universe pristine, just hydrogen and helium, and after that the
+
+43:56.900 --> 43:57.900
+mess started.
+
+43:58.380 --> 44:04.020
+As soon as you add elements to it, things kind of get a little out of hand.
+
+44:04.020 --> 44:09.700
+That ends in this beautiful variety that we have everywhere these days.
+
+44:09.700 --> 44:12.900
+And you're looking at the very early days of the introduction of the variety.
+
+44:12.900 --> 44:19.980
+Yes, exactly, when it was still a little bit more organisable.
+
+44:19.980 --> 44:24.700
+But the variety of different types of metal-poor stars we have is stark.
+
+44:24.700 --> 44:29.420
+Many different types of stars, many patterns we have identified, but there are still crazy
+
+44:29.420 --> 44:34.140
+ones out there that we're still trying to fit in.
+
+44:34.140 --> 44:35.620
+So what kind of stars have been discovered?
+
+44:35.620 --> 44:46.100
+So you've, already a while ago, helped discover the star HE 1327 2326, great name.
+
+44:46.100 --> 44:47.100
+Yes.
+
+44:47.100 --> 44:51.660
+And HE 1523 0901.
+
+44:51.660 --> 44:55.660
+What can you say about these stars and others that have been found?
+
+44:55.660 --> 44:56.660
+I love them.
+
+44:56.660 --> 44:59.180
+They're my baby stars.
+
+44:59.180 --> 45:01.420
+What do you call your baby stars?
+
+45:01.420 --> 45:06.020
+Well, I'm probably the only one who can spit out these names without cheating.
+
+45:06.020 --> 45:07.020
+Are there nicknames?
+
+45:07.020 --> 45:08.020
+Are there nicknames?
+
+45:08.020 --> 45:10.540
+Well, no, that's not allowed.
+
+45:10.540 --> 45:15.260
+Well, some colleagues at conferences have just called them Anna Star or Freeble Star,
+
+45:15.260 --> 45:18.860
+because they didn't want to learn the phone number.
+
+45:19.340 --> 45:21.340
+The phone number.
+
+45:21.340 --> 45:27.580
+These numbers are actually based on older sets of coordinates for these stars.
+
+45:27.580 --> 45:30.340
+The minus in the middle means that they're in the southern hemisphere, so negative is
+
+45:30.340 --> 45:33.860
+in the southern hemisphere, positive is in the northern.
+
+45:33.860 --> 45:37.380
+And then 13 and 15 means they're sort of observable in the middle of the year.
+
+45:37.380 --> 45:41.620
+Okay, so it's to do with the observation and where it was observed and that kind of stuff.
+
+45:41.940 --> 45:49.860
+They have very different stars, both absolutely significant career defining actually for me,
+
+45:49.860 --> 45:53.780
+but really push the envelope in very different ways.
+
+45:53.780 --> 45:59.940
+So 1813 27, the first one that you mentioned, that was the second, second generation star
+
+45:59.940 --> 46:00.660
+that we found.
+
+46:02.820 --> 46:07.220
+Usually people say like, oh, the first one is a big one and the rest is nobody cares.
+
+46:08.180 --> 46:12.660
+But to us, it proved that yes, we can do it.
+
+46:13.220 --> 46:19.700
+Because one, astronomers live in a sort of way of, you know, there are a lot of serendipitous
+
+46:19.700 --> 46:25.860
+discoveries and that's really great, but we need to show that we can do it again.
+
+46:26.980 --> 46:30.900
+Because then we're onto something and it's not just some kind of weird quirk.
+
+46:30.900 --> 46:33.060
+And there are a lot of quirks in the universe.
+
+46:33.060 --> 46:35.460
+But we want to know, is that a real thing?
+
+46:35.460 --> 46:36.820
+Does that happen regularly?
+
+46:36.820 --> 46:38.180
+Is there something that we can learn?
+
+46:38.660 --> 46:40.100
+Is that a piece of the story?
+
+46:41.540 --> 46:46.100
+And so finding the second one that was even a little bit more extreme than the first one
+
+46:46.100 --> 46:49.300
+really showed, yes, our search techniques work.
+
+46:49.300 --> 46:50.740
+We can find these stars.
+
+46:51.540 --> 46:59.620
+They provide an important part to the story in the sense that if we had more than two stars,
+
+46:59.620 --> 47:01.780
+and by now we have about 10 or so.
+
+47:01.940 --> 47:07.380
+So what do they tell us about the nature of the very first stars?
+
+47:09.140 --> 47:15.140
+And what we found, again, working with the theorists, of course, who run these supernova
+
+47:15.140 --> 47:22.820
+models, is that, so actually, let me before I get into this, these two stars had huge
+
+47:23.540 --> 47:26.740
+amounts of carbon relative to iron.
+
+47:26.740 --> 47:31.780
+So we usually use iron as a reference element for what we call the metallicity.
+
+47:31.780 --> 47:37.460
+So the overall metal content, the overall amount of heavy elements in it.
+
+47:38.020 --> 47:40.500
+So that's why it's called iron deficient.
+
+47:40.500 --> 47:41.060
+That's right.
+
+47:41.700 --> 47:47.060
+So these stars are incredibly iron deficient, which means they must be of the second generation
+
+47:47.060 --> 47:53.380
+because there was, and interestingly enough, there was this discrepancy.
+
+47:53.940 --> 48:03.940
+A normal supernova until then we thought would get us so much iron, you would distribute that
+
+48:03.940 --> 48:07.060
+in the gas cloud, and then you would form this little star that we're observing.
+
+48:07.060 --> 48:10.580
+But the iron abundance that we measured was actually much lower than that.
+
+48:10.580 --> 48:12.740
+And I already mentioned, you can't take things away.
+
+48:13.300 --> 48:18.980
+That must mean these early massive POP3, we call them population 3, the first stars,
+
+48:19.780 --> 48:22.740
+they must have exploded in a different way than we previously thought.
+
+48:23.380 --> 48:28.100
+They can't output as much iron because they just can't.
+
+48:28.820 --> 48:30.660
+Otherwise it wouldn't match our observations.
+
+48:30.660 --> 48:31.160
+Got it.
+
+48:31.780 --> 48:39.860
+And so that's when we started to work with several theory groups on supernova yields.
+
+48:39.860 --> 48:41.460
+So what comes out of...
+
+48:41.460 --> 48:43.380
+From the explosion of the supernova?
+
+48:43.380 --> 48:43.860
+That's cool.
+
+48:43.860 --> 48:45.380
+Supernova yields.
+
+48:45.380 --> 48:48.020
+And so this one was not yielding much iron.
+
+48:48.020 --> 48:53.300
+Well, we needed to concoct a theoretical supernova that made less.
+
+48:54.580 --> 48:59.300
+And it's actually surprisingly difficult because you can always add more in the universe,
+
+48:59.300 --> 49:01.060
+but you can't take stuff away.
+
+49:01.940 --> 49:07.780
+So Japanese colleagues kind of came up with the idea of a fainter supernova
+
+49:08.580 --> 49:12.580
+that just doesn't have enough oomph when it explodes.
+
+49:13.220 --> 49:16.100
+So somehow there's less iron coming out.
+
+49:16.820 --> 49:21.620
+But at the same time, then these stars showed huge overabundances of carbon,
+
+49:21.620 --> 49:23.060
+a thousand times more carbon.
+
+49:24.020 --> 49:30.340
+So how do you now get a thousand times more carbon out of these poor first supernovae?
+
+49:30.340 --> 49:32.180
+That was the theoretical challenge.
+
+49:32.180 --> 49:40.020
+And because we didn't have just one star, but two, that really spurred the field to think about
+
+49:40.660 --> 49:42.740
+what was the nature of the first stars?
+
+49:42.740 --> 49:43.940
+How did they explode?
+
+49:44.900 --> 49:46.180
+What are the implications?
+
+49:46.180 --> 49:49.540
+Because if they are not as luminous and bright and energetic,
+
+49:50.100 --> 49:57.140
+that has consequences for these early proto galaxies in which they must have been located
+
+49:57.860 --> 50:02.340
+in terms of blowing the gas out, let's say, and disrupting the system.
+
+50:02.340 --> 50:07.380
+So much higher chance for the earlier system to stay intact for longer.
+
+50:07.380 --> 50:10.260
+So there's a whole tale of consequences.
+
+50:10.260 --> 50:13.140
+And this is what I mean with we need to find the story
+
+50:13.140 --> 50:17.540
+because you do one thing and it's like the dominoes,
+
+50:17.540 --> 50:20.580
+there are consequences everywhere and suddenly you have a different universe, right?
+
+50:20.580 --> 50:26.500
+What could possibly be a good explanation for something that yields a lot of carbon
+
+50:26.500 --> 50:28.180
+and doesn't yield a lot of iron?
+
+50:28.900 --> 50:33.940
+Well, it's not so much an explanation, more like finding a mechanism for what happens
+
+50:33.940 --> 50:39.860
+in supernovae and the official term, what was sort of, as I said,
+
+50:39.860 --> 50:42.340
+cooked up in order to explain the observations.
+
+50:42.340 --> 50:46.020
+And we have, by the way, found a whole bunch more of these stars, so that holds.
+
+50:46.020 --> 50:47.940
+And it's called a fallback mechanism.
+
+50:47.940 --> 50:54.580
+So actually during the supernova explosion, a massive black hole emerges.
+
+50:54.580 --> 50:58.180
+And so some of the material falls back onto the black hole.
+
+50:58.180 --> 51:02.980
+So here is a vacuum cleaner now plopped into the middle, right?
+
+51:02.980 --> 51:05.540
+Like a temporary one that just cleans up some of the elements?
+
+51:05.540 --> 51:06.100
+Sort of, right?
+
+51:06.100 --> 51:08.660
+Because if you think of the, we haven't talked about this yet, but
+
+51:09.300 --> 51:15.380
+if you know what a star looks like, a massive star looks like in its interior
+
+51:15.380 --> 51:19.540
+before it explodes, you have hydrogen and helium still on the outskirts
+
+51:19.540 --> 51:23.460
+and then you have your layers of heavier and heavier elements all the way up to iron.
+
+51:23.460 --> 51:25.380
+So you have an iron core in the center.
+
+51:27.620 --> 51:32.020
+And because you can't get any energy out of iron when you want to fuse to iron atoms
+
+51:32.020 --> 51:32.740
+anymore, right?
+
+51:32.740 --> 51:36.500
+That's when the supernova explodes, what occurs really.
+
+51:36.580 --> 51:38.100
+It's actually an implosion first.
+
+51:38.100 --> 51:45.220
+And then you have a bounce of the sort of neutron star phase that occurs in the process.
+
+51:45.220 --> 51:47.940
+And then the star just gets disrupted.
+
+51:47.940 --> 51:50.900
+Yeah, it's like this giant basketball.
+
+51:51.540 --> 51:53.300
+And then it all goes out.
+
+51:53.300 --> 51:54.980
+Implosion first, explosion after.
+
+51:54.980 --> 51:59.060
+And so in the process, right, if you make your black hole basically big enough,
+
+51:59.060 --> 52:03.780
+it will suck away some of the iron because that's the closest in terms of the layers.
+
+52:04.420 --> 52:06.500
+You hold on to it.
+
+52:06.500 --> 52:08.260
+You don't let it escape.
+
+52:08.260 --> 52:10.500
+And carbon is much further out.
+
+52:10.500 --> 52:11.540
+You let it all go.
+
+52:13.620 --> 52:17.460
+So that explains why you can have a big oomph and not much iron yield.
+
+52:17.460 --> 52:18.820
+Yes, yes.
+
+52:18.820 --> 52:22.580
+So does this explain the HE 1327?
+
+52:23.700 --> 52:25.060
+And others like it?
+
+52:25.060 --> 52:25.620
+Yes.
+
+52:25.620 --> 52:32.660
+So there's a well-established now that the lower the iron abundance of the stars are,
+
+52:32.660 --> 52:34.500
+the higher the carbon sort of gets.
+
+52:35.140 --> 52:38.340
+And carbon is such an interesting element in that regard.
+
+52:40.340 --> 52:44.580
+If we come back to the formation of the first low mass stars, right?
+
+52:44.580 --> 52:49.860
+So we had the hotter gas, just hydrogen and helium, that made the first stars.
+
+52:49.860 --> 52:53.780
+There were 100 solar masses or so because the gas couldn't cool enough.
+
+52:54.420 --> 52:55.700
+So they were big and puffy.
+
+52:56.660 --> 53:04.500
+Carbon then, coming from the first stars, probably led to enough cooling in these gas clouds
+
+53:04.500 --> 53:07.300
+that enabled the formation of the first low mass stars.
+
+53:08.660 --> 53:11.940
+So think about what happened if there wouldn't have been any carbon
+
+53:11.940 --> 53:14.980
+or the properties of the carbon atom would be different.
+
+53:14.980 --> 53:20.020
+It would not have cooled the gas in such significant ways, perhaps.
+
+53:20.020 --> 53:21.700
+There wouldn't be any low mass stars.
+
+53:23.060 --> 53:25.060
+We wouldn't be here today, right?
+
+53:25.540 --> 53:26.820
+And we're carbon-based.
+
+53:26.820 --> 53:30.740
+And so I think carbon is really the most important element in the universe
+
+53:30.740 --> 53:34.820
+for a variety of reasons because it just enabled this whole evolution
+
+53:34.820 --> 53:37.940
+that we're now observing and literally seeing in the sky.
+
+53:38.660 --> 53:40.020
+And it's really fascinating.
+
+53:40.020 --> 53:42.660
+So combined with the fact that you have the iron deficient,
+
+53:42.660 --> 53:47.140
+so all of that is probably important to creating humans.
+
+53:47.140 --> 53:49.060
+Yeah, we need all the elements.
+
+53:49.060 --> 53:54.260
+But if you don't have stars like the sun, small stars that can actually host planets,
+
+53:54.820 --> 53:57.380
+that have long lifetimes, you need long, long lifetimes
+
+53:57.380 --> 54:01.380
+if you want to have a stable planet and develop humans.
+
+54:01.380 --> 54:03.780
+So carbon is kind of important in many ways.
+
+54:03.780 --> 54:04.660
+Yes, yes.
+
+54:05.860 --> 54:09.700
+This is perhaps an interesting tangent.
+
+54:09.700 --> 54:11.460
+If I could just mention that you interviewed
+
+54:12.340 --> 54:18.980
+Mildred Dresselhaus, carbon queen, the remarkable life of the nanoscience pioneer.
+
+54:19.780 --> 54:23.140
+Is there something you could say about the magic of carbon and the magic of Millie?
+
+54:24.420 --> 54:27.220
+Well, Millie was certainly magic.
+
+54:28.420 --> 54:30.980
+She was a professor at MIT for many decades.
+
+54:32.180 --> 54:33.620
+I met her a number of times.
+
+54:34.660 --> 54:39.220
+Her photograph, actually a young and an older Millie is still on the wall
+
+54:39.220 --> 54:43.220
+every time I step out of the elevator in one of the buildings I see it.
+
+54:44.340 --> 54:49.540
+She pioneered all sorts of carbon nanowork.
+
+54:49.540 --> 54:52.180
+So she was a material scientist,
+
+54:53.780 --> 54:56.740
+very far removed from what I do on a daily basis.
+
+54:57.860 --> 55:01.620
+But yes, carbon has amazing properties when you study it.
+
+55:01.620 --> 55:07.060
+And again, that's indeed another aspect of why carbon is so fascinating,
+
+55:08.100 --> 55:11.380
+not just in the cosmos, but also for us,
+
+55:12.180 --> 55:16.020
+making us, creating us in the way that we can use it.
+
+55:17.540 --> 55:18.420
+It's wonderful.
+
+55:18.420 --> 55:23.460
+Do you sometimes think about this chemical evolution in this big philosophical way
+
+55:23.460 --> 55:27.780
+that we're the results of that chemical evolution?
+
+55:27.780 --> 55:28.820
+Like we're made of this stuff.
+
+55:29.540 --> 55:30.660
+We're made of carbon.
+
+55:30.660 --> 55:32.340
+Yes, we're made of store stuff.
+
+55:32.340 --> 55:32.660
+Yeah.
+
+55:32.660 --> 55:33.140
+And it came-
+
+55:33.140 --> 55:33.780
+Cause they can go right.
+
+55:34.820 --> 55:40.740
+I mean, it's almost like a cliche statement, but it's also a materials,
+
+55:40.740 --> 55:44.740
+a chemical, a physics statement that came from hydrogen and helium.
+
+55:45.700 --> 55:50.740
+And then somehow this formations created this interesting complexity of soup that made us.
+
+55:52.100 --> 55:53.460
+What are we supposed to make of that?
+
+55:54.580 --> 55:56.180
+Like what, did we just get really lucky?
+
+55:57.380 --> 55:58.740
+Why did we get all this cool stuff?
+
+55:59.780 --> 56:01.300
+Yeah, that's a good question.
+
+56:02.340 --> 56:03.860
+I don't think it's a question as an answer.
+
+56:03.860 --> 56:08.260
+I keep just asking why, but it's just this incredible mystery.
+
+56:08.900 --> 56:10.500
+So much cool stuff had to happen.
+
+56:11.300 --> 56:13.700
+So much, sorry, hot stuff had to happen.
+
+56:14.340 --> 56:15.380
+Well, right.
+
+56:15.380 --> 56:19.060
+And so much could have gone wrong and there would have been another outcome.
+
+56:20.180 --> 56:24.100
+And it's actually amazing how many things kind of fell in place.
+
+56:24.100 --> 56:28.980
+I mean, maybe that's all sort of self-deterministic in some ways, right?
+
+56:28.980 --> 56:31.620
+We are who we are because that was the path.
+
+56:32.740 --> 56:34.580
+Maybe we would have ended up being robots.
+
+56:34.580 --> 56:35.060
+I don't know.
+
+56:35.380 --> 56:45.060
+But it's certainly wonderful as scientists for us to help contribute unraveling our cosmic history.
+
+56:45.940 --> 56:53.380
+I always say the biological evolution on earth was absolutely facilitated by the chemical
+
+56:53.380 --> 56:54.580
+evolution of the universe, right?
+
+56:54.580 --> 56:59.300
+And one doesn't go without the other from a human perspective.
+
+56:59.300 --> 57:02.740
+And that evolution seems to be creating more and more complexity.
+
+57:03.300 --> 57:09.540
+The kind of interesting clumping of cool stuff seems to be accelerating and increasing.
+
+57:10.900 --> 57:14.900
+It's hard not to see as humans that there's some kind of purpose to it,
+
+57:14.900 --> 57:18.500
+like a momentum towards complexity and beauty, you know?
+
+57:20.100 --> 57:21.940
+Well, beauty is in the eye of the beholder.
+
+57:23.700 --> 57:26.100
+But yes, everything gets more complicated.
+
+57:26.100 --> 57:29.700
+But there's also a beauty to the chemically pristine universe in the early days.
+
+57:30.180 --> 57:34.900
+Yes, I love the desert with its nothingness.
+
+57:35.700 --> 57:38.340
+It has so much aesthetics and appeal.
+
+57:39.060 --> 57:41.460
+We came from nothing, we'll return to nothing.
+
+57:41.460 --> 57:43.940
+So what about H.E. 1523?
+
+57:44.580 --> 57:45.700
+What's exciting?
+
+57:45.700 --> 57:48.260
+A red giant star.
+
+57:50.100 --> 57:51.700
+That's another one of your babies.
+
+57:51.700 --> 57:52.500
+Yes.
+
+57:52.500 --> 57:54.020
+13.2 billion years old.
+
+57:54.020 --> 57:59.780
+Yeah, so that one isn't quite as iron deficient as the other one.
+
+57:59.780 --> 58:06.420
+So probably not a second generation star, but easily third, fourth, fifth or so.
+
+58:06.420 --> 58:11.460
+We can't really pin it down, but that's also not super important for us.
+
+58:12.420 --> 58:18.740
+What is important is that that star has a very different chemical composition,
+
+58:18.740 --> 58:21.780
+in a sense that yes, we have all the elements up to iron there.
+
+58:22.580 --> 58:31.620
+They have sort of normal ratios, which means kind of the same as most other old stars
+
+58:31.620 --> 58:36.100
+and not too different from the Sun or at least different in quantifiable ways.
+
+58:38.900 --> 58:42.660
+But it has this huge overload of very heavy elements.
+
+58:43.540 --> 58:47.140
+And what was so nice about that star in particular was that I could measure
+
+58:47.140 --> 58:49.540
+the thorium and the uranium abundance.
+
+58:50.420 --> 58:56.420
+And again, that was the second of its kind, but the uranium abundance
+
+58:57.620 --> 59:01.380
+could be more well-determined, so we had a better grasp on that.
+
+59:01.380 --> 59:03.460
+Now, why are thorium and uranium interesting?
+
+59:05.460 --> 59:09.700
+They are radioactive elements, they decay.
+
+59:10.900 --> 59:16.420
+Thorium has a half-life of 14 billion years, I believe, and uranium of 4.7.
+
+59:17.300 --> 59:24.500
+Which, you know, to focus on us on Earth is a really long time, but those kind of timelines
+
+59:24.500 --> 59:27.860
+are really good when you want to explore the early universe.
+
+59:29.460 --> 59:33.620
+So there are two questions now that kind of come to mind.
+
+59:34.580 --> 59:39.540
+Where do these elements come from and what do they tell us, right?
+
+59:39.540 --> 59:46.500
+And these, as we know, these heavy elements are made in a specific process.
+
+59:46.500 --> 59:51.860
+It's a neutron capture process, usually referred to as the R process for rapid
+
+59:51.860 --> 59:53.300
+neutron capture process.
+
+59:53.860 --> 59:56.180
+We talked about seed nuclei before, right?
+
+59:56.180 --> 01:00:00.340
+So we still don't exactly know where this process can occur.
+
+01:00:00.340 --> 01:00:06.900
+So you have, let's say, a lone iron atom somewhere, and it is in an environment
+
+01:00:06.900 --> 01:00:12.100
+where you have a strong neutron flux, which means there must be lots of neutrons around.
+
+01:00:12.100 --> 01:00:17.940
+And again, when we talk about the site, we can surmise and ponder where that might be the case.
+
+01:00:18.740 --> 01:00:24.020
+But you have this iron atom and you bombard it with neutrons, and you do it incredibly fast.
+
+01:00:24.020 --> 01:00:25.460
+Now, what happens in the process?
+
+01:00:26.020 --> 01:00:32.420
+That iron atom, you know, you collect lots of neutrons, it becomes really big and unstable.
+
+01:00:32.420 --> 01:00:40.020
+So it's a heavy neutron-rich nucleus that wants to decay because it's not stable, it's way too big.
+
+01:00:40.980 --> 01:00:47.700
+And so let's say you add only one neutron to it, that would already make it unstable.
+
+01:00:47.700 --> 01:00:53.140
+So it will then, it has a characteristic decay time that's called the beta decay time scale.
+
+01:00:53.140 --> 01:00:55.060
+So it will decay to a stable nucleus.
+
+01:00:55.060 --> 01:00:58.260
+So the neutron will convert to a proton, and that makes it stable.
+
+01:00:59.780 --> 01:01:05.620
+If you now bombard lots and lots and lots of neutrons onto that seed nucleus within that
+
+01:01:05.940 --> 01:01:11.940
+time scale of the beta decay, that's how you get to this huge fat neutron-rich nucleus
+
+01:01:12.580 --> 01:01:14.660
+that then wants to decay, right?
+
+01:01:14.660 --> 01:01:19.060
+So the rapid processes, you have your seed nuclei, they get bombarded.
+
+01:01:19.060 --> 01:01:22.020
+You create these really heavy neutron-rich nuclei.
+
+01:01:22.820 --> 01:01:24.660
+They're heavier than uranium even.
+
+01:01:25.540 --> 01:01:30.100
+The neutron flux stops, and then all these heavy nuclei, they decay.
+
+01:01:30.820 --> 01:01:38.020
+And they make all these stable isotopes that we know of, all the way up to thorium and uranium.
+
+01:01:39.140 --> 01:01:42.740
+So that rapid nuclei decay is what creates all the fun.
+
+01:01:42.740 --> 01:01:46.180
+Correct. And the whole thing is done within two seconds.
+
+01:01:48.020 --> 01:01:55.540
+So just to add to the rapid here, literally the snapping on my hand, it's all there.
+
+01:01:55.620 --> 01:01:59.540
+In my talks, I often have this nice simulation that illustrates
+
+01:02:00.980 --> 01:02:05.060
+this creation of these heavy nuclei.
+
+01:02:05.060 --> 01:02:09.780
+And I always say, this is the only simulation you will ever see that's slower than real time.
+
+01:02:10.820 --> 01:02:14.820
+Because in astronomy, we show, oh, this is how a galaxy forms.
+
+01:02:14.820 --> 01:02:16.820
+13 billion years in 30 seconds.
+
+01:02:18.020 --> 01:02:18.980
+Really short, right?
+
+01:02:18.980 --> 01:02:19.940
+This is the opposite.
+
+01:02:20.500 --> 01:02:23.860
+Me showing you this, the elements are long made.
+
+01:02:23.860 --> 01:02:26.820
+So where and when does this happen, does this process happen?
+
+01:02:26.820 --> 01:02:29.380
+So you need the strong neutron flux.
+
+01:02:30.900 --> 01:02:32.900
+That's the clumping of the neutrons.
+
+01:02:34.260 --> 01:02:37.220
+That's right. And so there are not that many options, right?
+
+01:02:37.220 --> 01:02:39.780
+So where do you find lots of neutrons in the universe?
+
+01:02:39.780 --> 01:02:41.460
+So it's neutron stars, right?
+
+01:02:42.180 --> 01:02:47.380
+Neutron stars form in the making of supernovae, of the explosions.
+
+01:02:48.180 --> 01:02:52.740
+Okay, so maybe some of this heavy material gets sort of made in the making of the supernova
+
+01:02:52.740 --> 01:02:54.820
+explosion and then gets expelled.
+
+01:02:55.860 --> 01:02:58.660
+Or you have neutron stars.
+
+01:02:58.660 --> 01:03:03.940
+So usually that's the leftover of a supernova.
+
+01:03:03.940 --> 01:03:09.140
+If you have two from a binary pair, so stars usually actually show up in pairs.
+
+01:03:09.780 --> 01:03:17.700
+And so it's not too unusual to create a pair of neutron stars that will still orbit each other
+
+01:03:17.700 --> 01:03:19.940
+after both of their progenitor stars have exploded.
+
+01:03:20.900 --> 01:03:24.740
+And those two neutron stars will orbit each other diligently.
+
+01:03:25.460 --> 01:03:29.620
+But as we know now, thanks to LIGO, the gravitational wave observatory,
+
+01:03:31.700 --> 01:03:35.860
+we know already that before, but now it's been measured by LIGO,
+
+01:03:35.860 --> 01:03:40.180
+is that these two neutron stars, they will orbit each other for like forever.
+
+01:03:40.180 --> 01:03:43.300
+But in the process, they will lose energy.
+
+01:03:43.860 --> 01:03:46.980
+So that orbit is what we call the orbit decays.
+
+01:03:46.980 --> 01:03:50.900
+And eventually the two neutron stars will merge.
+
+01:03:50.900 --> 01:03:57.140
+And that results in an explosive event that has roughly the energy of a supernova.
+
+01:03:57.940 --> 01:04:00.820
+But the process is completely different.
+
+01:04:00.820 --> 01:04:07.220
+And the cool thing is when these two neutron stars collide, they produce a gravitational wave
+
+01:04:07.220 --> 01:04:11.380
+signature because neutron stars are super dense objects.
+
+01:04:11.380 --> 01:04:14.420
+They're like giant atomic nucleuses.
+
+01:04:14.420 --> 01:04:16.980
+So there's a lot of interesting physics happening already.
+
+01:04:16.980 --> 01:04:23.060
+And so if you basically form a super neutron star by smashing two into each other,
+
+01:04:24.500 --> 01:04:26.180
+more interesting physics happens.
+
+01:04:26.180 --> 01:04:34.180
+And that means that there's this ripple sent out into the space time continuum.
+
+01:04:35.860 --> 01:04:36.900
+What do people say?
+
+01:04:36.900 --> 01:04:38.100
+The ripples of space time.
+
+01:04:39.140 --> 01:04:41.460
+It's like you drop a rock into water.
+
+01:04:41.460 --> 01:04:42.660
+You see the waves coming.
+
+01:04:42.660 --> 01:04:46.500
+So that's exactly what happens when two neutron stars merge.
+
+01:04:47.140 --> 01:04:49.620
+And this is neutrons galore.
+
+01:04:49.620 --> 01:04:55.460
+It's really violent to smash two neutron stars that are so dense already into each other.
+
+01:04:56.420 --> 01:05:02.580
+And in 2017, one of these events occurred.
+
+01:05:02.580 --> 01:05:08.260
+And the LIGO and Virgo gravitational wave observatories, they detected that.
+
+01:05:08.260 --> 01:05:11.700
+And then the astronomers pointed their telescopes in that direction.
+
+01:05:11.700 --> 01:05:16.100
+And they indeed observed what we call the electromagnetic counterpart.
+
+01:05:16.100 --> 01:05:21.540
+So there was something seen in the sky that faded over the course of two weeks.
+
+01:05:22.820 --> 01:05:29.540
+And that light curve, that light was exactly what you get when you
+
+01:05:29.540 --> 01:05:34.020
+create all these heavy neutron-rich nuclei in the R process.
+
+01:05:34.020 --> 01:05:36.340
+And then the neutron flux stops.
+
+01:05:36.340 --> 01:05:39.380
+And then it takes about two or three weeks for most of them,
+
+01:05:39.380 --> 01:05:42.100
+of these nuclei to decay to stability.
+
+01:05:43.060 --> 01:05:46.980
+So we saw, the astronomers saw in this electromagnetic counterpart,
+
+01:05:47.780 --> 01:05:52.260
+the nuclear synthesis of heavy elements occurring.
+
+01:05:53.540 --> 01:05:55.860
+And that's just awesome.
+
+01:05:55.860 --> 01:06:01.140
+That's an electromagnetic counterpart to the gravitational waves that were detected
+
+01:06:01.140 --> 01:06:07.540
+with two neutron stars colliding aggressively violently to create a
+
+01:06:08.260 --> 01:06:10.260
+super neutron star.
+
+01:06:11.060 --> 01:06:13.620
+And that's where you get all the neutrons and the neutron flux somehow.
+
+01:06:13.620 --> 01:06:17.380
+And then the whole shebang that happens in two seconds and creates a bunch of...
+
+01:06:17.380 --> 01:06:21.860
+So that confirmed that one of the sites for sure is,
+
+01:06:22.660 --> 01:06:25.780
+for the R process to occur, is neutron star mergers.
+
+01:06:25.780 --> 01:06:28.020
+Interestingly enough, I have to mention this here.
+
+01:06:28.020 --> 01:06:34.260
+A year prior in 2016, my former grad student Alex G and I,
+
+01:06:34.260 --> 01:06:40.660
+we discovered a small dwarf galaxy that is currently orbiting the Milky Way,
+
+01:06:40.660 --> 01:06:46.980
+it's called reticulum 2, that was full of ancient iron-deficient stars
+
+01:06:47.700 --> 01:06:53.460
+that also had a strong signature of these heavy elements, exactly like HE 1523.
+
+01:06:54.500 --> 01:06:56.260
+We weren't looking for that.
+
+01:06:56.260 --> 01:07:00.580
+I actually wanted to prove that they had really low levels of heavy elements,
+
+01:07:00.580 --> 01:07:03.700
+because that's what we had seen in all the other dwarf galaxies.
+
+01:07:04.660 --> 01:07:09.860
+And I was dead set on showing that that is yet the case again,
+
+01:07:09.860 --> 01:07:13.300
+and that that is a typical signature of early star formation.
+
+01:07:13.300 --> 01:07:17.780
+We already talked about low strontium and barium abundances and the oldest stars, right?
+
+01:07:17.780 --> 01:07:23.060
+This is what we had seen anecdotally in the ancient dwarf galaxies that are surrounding us.
+
+01:07:23.060 --> 01:07:24.900
+That's an ancient dwarf galaxy.
+
+01:07:24.900 --> 01:07:27.220
+That dwarf galaxy has a bunch of ancient stars in it.
+
+01:07:27.220 --> 01:07:28.740
+Yes, yes.
+
+01:07:28.820 --> 01:07:36.020
+And so now we find reticulum 2, and the stars show the signature of the rapid
+
+01:07:36.020 --> 01:07:40.740
+neutron capture process, the R process, and we are like, okay,
+
+01:07:41.460 --> 01:07:44.180
+these stars are located in a dwarf galaxy right now.
+
+01:07:44.180 --> 01:07:46.180
+We have environmental information.
+
+01:07:46.180 --> 01:07:49.860
+They are not lost in the galaxy where we don't know where they actually came from.
+
+01:07:49.860 --> 01:07:53.540
+We know these stars were formed in that galaxy because they're still in it.
+
+01:07:54.340 --> 01:07:59.940
+And we already deduced from that that it must have been a neutron star merger that went off
+
+01:07:59.940 --> 01:08:05.540
+in reticulum 2 at early times that polluted the gas from which all our little stars formed.
+
+01:08:05.540 --> 01:08:07.700
+Can you speak to what a dwarf galaxy is?
+
+01:08:07.700 --> 01:08:12.580
+Can you speak to what this reticulum 2 dwarf galaxy is that is orbiting the Milky Way galaxy?
+
+01:08:12.580 --> 01:08:12.820
+Yeah.
+
+01:08:12.820 --> 01:08:14.580
+It's going to be eaten by it, presumably?
+
+01:08:14.580 --> 01:08:16.100
+It totally is going to be eaten.
+
+01:08:17.060 --> 01:08:18.580
+I can't tell you exactly when.
+
+01:08:18.580 --> 01:08:24.820
+When? Yeah, the Milky Way remains surrounded by dozens of small dwarf galaxies.
+
+01:08:25.620 --> 01:08:32.100
+They're collections of stars. Some of them, we call them ultra-faint dwarf galaxies because
+
+01:08:32.100 --> 01:08:37.620
+they now only contain, I don't know, a few thousand stars. Very, very faint.
+
+01:08:37.620 --> 01:08:38.580
+They're still detectable?
+
+01:08:39.860 --> 01:08:44.820
+Yes, because they're fairly close, and we detect actual individual stars in them.
+
+01:08:45.060 --> 01:08:50.500
+I've observed some of the fainter stars. You possibly observe with current telescopes in
+
+01:08:50.500 --> 01:08:54.820
+these dwarf galaxies because I was like, I need to know what the chemical composition is
+
+01:08:54.820 --> 01:09:00.660
+because there are leftovers from the early universe. They did not get eaten,
+
+01:09:00.660 --> 01:09:06.900
+so they are still in their native surroundings. It's like getting the lions in the wild. I got
+
+01:09:06.900 --> 01:09:12.740
+to study those and compare to the counterparts that got eaten and are now in the Milky Way.
+
+01:09:13.700 --> 01:09:18.980
+So presumably, most of those stars, not all those stars in that dwarf galaxy are really ancient.
+
+01:09:18.980 --> 01:09:24.020
+They're all really ancient because, actually, as it turns out, if you have a small galaxy,
+
+01:09:25.860 --> 01:09:30.820
+there was a process early on in the universe called reionization that kind of heated up everything.
+
+01:09:32.820 --> 01:09:38.980
+Together with some supernova explosions in an early, shallow, bound system,
+
+01:09:39.940 --> 01:09:45.620
+all these little systems lost their gas. It was sort of blown out, or it simply evaporated,
+
+01:09:45.620 --> 01:09:52.660
+or both, probably both. And so these systems have been unable to continue to form stars since.
+
+01:09:53.540 --> 01:09:59.780
+So it's the best for us stellar archaeologists that you could hope for
+
+01:10:00.500 --> 01:10:04.340
+because it's a whole bunch of stars still sitting there. It's not just one. It's a whole bunch of
+
+01:10:04.340 --> 01:10:09.860
+them still sitting there ever since, and literally nothing has happened to them.
+
+01:10:09.860 --> 01:10:14.100
+They have just been waiting there for us. So from the stellar archaeology perspective,
+
+01:10:14.100 --> 01:10:19.860
+what is juicier and more interesting, the old stars in the outskirts that have been eaten,
+
+01:10:19.860 --> 01:10:27.620
+the outskirts of Milky Way, or the stars in the dwarf galaxies? Of all the things you love about
+
+01:10:27.620 --> 01:10:32.260
+the world. You said you love stars, so which do you love more?
+
+01:10:34.260 --> 01:10:39.460
+That's a hard one. I mean, I love them all, of course. They serve different purposes.
+
+01:10:40.500 --> 01:10:46.100
+The stars in the Milky Way, I can get much, much, much better data for them because they're brighter.
+
+01:10:46.100 --> 01:10:51.620
+They're closer, so they're brighter. And that tickles my fancy.
+
+01:10:52.260 --> 01:10:53.940
+And they have interesting kinematics, presumably.
+
+01:10:53.940 --> 01:10:59.300
+Yes, and we can get that. And so HG 1523, for example, that one is really bright.
+
+01:11:00.980 --> 01:11:06.500
+It's a red giant, so it's intrinsically bright and it's fairly close. And so the data I got for
+
+01:11:06.500 --> 01:11:11.220
+that was insanely good, and that yielded this uranium detection, and thorium detection.
+
+01:11:12.260 --> 01:11:17.300
+I can never get that kind of data for a dwarf galaxy star, so that's a big trade-off.
+
+01:11:17.300 --> 01:11:21.860
+But the environmental information that we get along with the basic information about these
+
+01:11:21.860 --> 01:11:28.900
+stars in each dwarf galaxy is really, really valuable in establishing, for example, the site
+
+01:11:28.900 --> 01:11:35.300
+information, right? Because the galaxy is still there, so nothing crazy could have happened.
+
+01:11:35.300 --> 01:11:42.100
+So to close that loop, probably some heavy elements come out of supernovae here and there,
+
+01:11:42.100 --> 01:11:47.780
+but somehow my theory colleagues tell me that a normal supernova just doesn't have enough oomph
+
+01:11:47.780 --> 01:11:51.540
+to really get that R process going and doing it all.
+
+01:11:51.540 --> 01:11:53.540
+So you need these orbiting supernovae.
+
+01:11:54.260 --> 01:11:59.140
+We need probably the neutron star mergers, or we need a special kind of supernova that's
+
+01:11:59.140 --> 01:12:03.540
+maybe extremely massive or heavily rotating or does something else funny, right, to really kind
+
+01:12:03.540 --> 01:12:08.660
+of get that particular process going. But the normal supernovae don't do it, right? So only a
+
+01:12:08.660 --> 01:12:13.060
+little bit comes out. But you could come along and say, you know, why don't you just take 100
+
+01:12:13.060 --> 01:12:18.260
+supernovae together to build up the yield, right? But then I come along and say, like, look,
+
+01:12:18.260 --> 01:12:23.620
+this dwarf galaxy is still intact today. If you would have plugged in 100 supernovae
+
+01:12:23.620 --> 01:12:28.100
+into this little system early on, it would have blown apart. It would have blown apart past 5
+
+01:12:28.100 --> 01:12:33.780
+supernovae or 10. So that's a really important constraint that we have, that these systems are
+
+01:12:33.780 --> 01:12:40.740
+still alive, right? So it helps us to pin down where certain processes could have possibly
+
+01:12:40.740 --> 01:12:45.620
+happened. And so it's just a different type of information that we get.
+
+01:12:46.740 --> 01:12:50.260
+It'd be amazing if we could talk about the observational aspect of this, the tools of
+
+01:12:50.260 --> 01:12:56.820
+observation. So what telescopes have you used, do you use, and what does the data look like?
+
+01:12:56.820 --> 01:13:01.940
+And I think I've read a few interesting stories about the actual process of day-to-day observation,
+
+01:13:02.580 --> 01:13:05.140
+a bunch of probably late nights.
+
+01:13:05.140 --> 01:13:11.300
+Well, yeah, astronomers are doing it all night long, so we have lots of late nights.
+
+01:13:11.300 --> 01:13:13.220
+Can you explain the all-night-long aspect of it?
+
+01:13:14.260 --> 01:13:20.340
+Well, let me start by saying I mostly these days use the Magellan telescopes in Chile. They are
+
+01:13:20.340 --> 01:13:27.460
+6.5-meter telescope, which means the mirror diameter is 6.5-meter. That's not the largest
+
+01:13:27.460 --> 01:13:34.260
+that is out there, but it's among the largest. And I use a spectrograph because I'm a
+
+01:13:34.260 --> 01:13:42.180
+spectroscopist. I don't take pictures. And that particular spectrograph at that telescope is
+
+01:13:42.180 --> 01:13:48.820
+actually unusually efficient. So it kind of makes up for the fact that the mirror isn't as large in,
+
+01:13:48.820 --> 01:13:54.020
+let's say, the 8-meter telescopes from the Europeans or so. So I'm very happy with that.
+
+01:13:54.020 --> 01:13:55.220
+Efficiency meaning?
+
+01:13:55.220 --> 01:14:02.980
+How many photons get collected sort of per time unit, because that's always the limiting factor.
+
+01:14:06.260 --> 01:14:10.820
+Prior to the pandemic, we would travel to Chile to do our observations.
+
+01:14:12.660 --> 01:14:16.900
+Those telescopes are the… That's the last observatory where people were sort of supposed
+
+01:14:16.900 --> 01:14:22.900
+to travel there and take their own observations. Most other observatories basically have staff
+
+01:14:22.900 --> 01:14:29.060
+there by now who take the observations for you. So there's directly the scientists are
+
+01:14:30.420 --> 01:14:34.340
+specifying where to point the telescope and sitting there and collecting the data,
+
+01:14:34.340 --> 01:14:38.660
+making sure the data is collected well, the cleaning of the data, the offloading of the data,
+
+01:14:38.660 --> 01:14:44.500
+all that kind of stuff. Yeah, so it's mostly done for them. Obviously, that's super convenient,
+
+01:14:45.460 --> 01:14:51.940
+but it also takes away a central part of what the work of an astronomer is, which is
+
+01:14:51.940 --> 01:14:58.100
+data collection. We don't have an experiment in the basement where we can go day and night
+
+01:14:58.100 --> 01:15:05.940
+or whenever we please and ask a certain question of the apparatus. Let's turn this knob and see
+
+01:15:05.940 --> 01:15:10.820
+what happens. Let's turn that knob and see what happens. We only have one experiment,
+
+01:15:12.100 --> 01:15:20.180
+which is the universe, and what we see is what we get. I think it's so important to take an
+
+01:15:20.180 --> 01:15:26.740
+active role in that. I really love going to the observatory. I've taken many students there over
+
+01:15:26.740 --> 01:15:36.020
+the years to teach them and to just show them what it means to be an astronomer because you
+
+01:15:36.020 --> 01:15:44.500
+go to these remote mountaintops and it's such a magical environment. You wait there for the sun
+
+01:15:44.500 --> 01:15:51.060
+to go down and then you get ready and you look outside and it's such a serene environment.
+
+01:15:52.260 --> 01:15:56.980
+It's a little bit out of this world. You're sitting there, so the sun goes down,
+
+01:15:56.980 --> 01:16:01.940
+it's evening, late evening, and what does it look like? What are some of the most magical
+
+01:16:01.940 --> 01:16:08.660
+experiences of that process? Well, when you're on top of a mountain, climbers, I guess, get to
+
+01:16:08.660 --> 01:16:21.380
+see that probably otherwise. It's very calm and the colors are so beautiful and I always become
+
+01:16:21.380 --> 01:16:26.820
+much calmer when I'm there. I'm just A, because I'm just there for one purpose only,
+
+01:16:26.820 --> 01:16:32.660
+that's data collection. I can say no to my emails. I can say no to everything else because
+
+01:16:32.660 --> 01:16:40.180
+I'm observing. There's literally less distractions because you're just there to do one thing.
+
+01:16:40.820 --> 01:16:43.140
+Also, the emails somehow seem less significant.
+
+01:16:45.140 --> 01:16:53.620
+You can afford to focus on just one thing and it just does something to you. It's a little
+
+01:16:53.620 --> 01:16:59.620
+hard to describe, but if you then fast forward, maybe I can speak a little bit about that.
+
+01:17:00.420 --> 01:17:07.060
+I have done a lot of astrophotography there as well. Observing faint dwarf galaxy stars,
+
+01:17:07.060 --> 01:17:12.020
+these are like 45 minutes, 55 minute exposures, so you actually have a lot of time. I would run
+
+01:17:12.020 --> 01:17:20.260
+outside and just lay on the ground under the southern Milky Way, beautiful, right up there.
+
+01:17:21.140 --> 01:17:28.500
+I would just lay there like the snow angel and just stare up there and just kind of
+
+01:17:28.500 --> 01:17:35.620
+let my thoughts pass through my brain and just like I'm one of it. We talked about this in the
+
+01:17:35.620 --> 01:17:42.180
+beginning. This is when I personally have the feeling that I'm a part of it. I belong here
+
+01:17:42.180 --> 01:17:46.580
+rather than feeling kind of small. Yes, I'm small, but there are many other small things
+
+01:17:46.580 --> 01:17:50.420
+and lots of small things make one big whole. We're part of that big whole.
+
+01:17:50.420 --> 01:17:55.700
+And so that's looking at the inner spirals of the Milky Way galaxy.
+
+01:17:55.700 --> 01:18:04.980
+And just this dark sky with the bright stars. I have described this in my book years ago.
+
+01:18:05.940 --> 01:18:10.740
+If the Milky Way is all bright above you, you don't need a moon or anything. You can walk
+
+01:18:10.740 --> 01:18:15.940
+in the starlight and you will find your way. There are no trees there for safety reasons,
+
+01:18:16.660 --> 01:18:23.060
+but you wouldn't even run into a tree. You can almost see the shadow from the starlight
+
+01:18:23.060 --> 01:18:28.900
+because it's such a dark site and the stars are so bright. These are kind of moments that
+
+01:18:30.020 --> 01:18:34.100
+change you a little bit. You see the unity of it all.
+
+01:18:34.100 --> 01:18:41.940
+Yeah. And it's just you and nature and with modern civilization and all of that,
+
+01:18:41.940 --> 01:18:48.420
+I think we often try a little bit too hard to be removed from nature, to be independent of it and
+
+01:18:48.980 --> 01:18:56.100
+figuring it all out. But at the end of the day, we're just a part of it. And that really helps
+
+01:18:56.100 --> 01:19:02.420
+me to remember that we're one in the same. Well, that fills me with hope that
+
+01:19:03.780 --> 01:19:07.780
+I tend to think of us humans in the very early days of whatever the heck we are.
+
+01:19:08.740 --> 01:19:14.100
+So that makes me think thousands, tens of thousands, hundreds of thousands of years from now
+
+01:19:14.660 --> 01:19:20.660
+that we'll be reaching, whatever we become, we'll be traveling out there to explore more and more
+
+01:19:20.660 --> 01:19:26.020
+and more. So what you're doing is the early days of exploration with the tools we have.
+
+01:19:26.020 --> 01:19:29.620
+Yes, the early seafarers looking at the sky for navigation.
+
+01:19:30.420 --> 01:19:35.140
+Coming up with different theories of what's on the other side, that the Earth is starting to
+
+01:19:35.140 --> 01:19:39.700
+gain an intuition that the Earth may be round. And then we might be able to navigate all the
+
+01:19:39.700 --> 01:19:46.740
+way around to get to the financial benefits of getting spices from India, whatever the grant
+
+01:19:46.740 --> 01:19:52.100
+funding process is all about, but ultimately actually results in a deep understanding
+
+01:19:52.820 --> 01:19:59.700
+of the mystery that's all around us. And I mean, it's just to travel out there. To me,
+
+01:20:00.660 --> 01:20:07.220
+the discovery of life in the solar system, I really hope to see that in my lifetime,
+
+01:20:07.220 --> 01:20:14.180
+some kind of life, bacteria, something, maybe dead, because that means there's life everywhere.
+
+01:20:15.300 --> 01:20:20.180
+And that's just the kind of stuff that might be out there. All the different
+
+01:20:21.780 --> 01:20:27.540
+environmental conditions, chemically speaking, that are out there. And it just seems like when
+
+01:20:27.860 --> 01:20:34.900
+you look at Earth, life finds a way to survive, to thrive in whatever conditions. And so
+
+01:20:37.140 --> 01:20:42.500
+maybe that process just kind of humbles you and is super exciting to know that there is life out
+
+01:20:42.500 --> 01:20:49.300
+there of different forms. And of course that raises the question of what is life even?
+
+01:20:50.020 --> 01:20:55.460
+We tend to have a very human-centric perspective of what is a living organism and what is
+
+01:20:55.460 --> 01:20:59.700
+intelligence and all this kind of stuff. And all the work in artificial intelligence now is starting
+
+01:20:59.700 --> 01:21:06.020
+to challenge our ideas of what makes human beings special. And I think we're doing that
+
+01:21:06.020 --> 01:21:10.340
+through all kinds of ways. And I think you're working some part doing that as well. Like the
+
+01:21:10.340 --> 01:21:17.220
+unity you feel is realizing we're part of this big mechanism of nature, whatever that is,
+
+01:21:17.220 --> 01:21:23.300
+that's creating all kinds of cool stuff from the humble, pristine origins to today.
+
+01:21:26.020 --> 01:21:31.140
+So if you could just kind of linger on the process of the data, what does the data look like?
+
+01:21:31.780 --> 01:21:38.340
+And how does the raw data lead to a discovery of an ancient star?
+
+01:21:39.860 --> 01:21:45.620
+Well, as a spectroscopist, we have to, I guess, talk for a brief moment about what a spectrum is.
+
+01:21:49.140 --> 01:21:55.300
+Everyone, I hope, has seen a rainbow in the sky. That is basically what we're
+
+01:21:55.300 --> 01:22:01.060
+doing. We don't send the starlight through a raindrop that then gets bounced around and
+
+01:22:01.700 --> 01:22:08.900
+splits up the light into the rainbow colors. We do it with a spectrograph, so basically a prism.
+
+01:22:09.460 --> 01:22:16.420
+So we send the starlight through a prism of sorts, and that splits it up. And then we record exactly
+
+01:22:16.420 --> 01:22:26.020
+that. So it's a little 2D picture, actually, of a spectrum. Now, it's not going to look colorful,
+
+01:22:26.020 --> 01:22:32.260
+just black and white. Different colors have, of course, different energies. That's what we record.
+
+01:22:33.940 --> 01:22:40.100
+More specifically, we record it as wavelengths, so wavelengths and frequency and energies,
+
+01:22:40.100 --> 01:22:48.660
+all the same at the end of the day. We process that little image in the sense that we do a
+
+01:22:48.660 --> 01:22:56.740
+crosscut and then sum up a few columns so that we get all the data that we recorded. And what we see
+
+01:22:56.740 --> 01:23:03.620
+is a – it's a bit funny to describe just with words – but a wiggly line with lots of dips.
+
+01:23:04.180 --> 01:23:09.300
+So the 2D process spectrum, we call it continuum. So it's just a flat line, basically,
+
+01:23:09.300 --> 01:23:14.980
+and then there are dips. So the interesting things are the dips. If you think back of the rainbow,
+
+01:23:14.980 --> 01:23:20.100
+what we actually see in our stars is not just a rainbow, but it would be a rainbow with lots of
+
+01:23:20.100 --> 01:23:28.340
+black lines in it, which means certain little pieces of color have been eaten away by a certain
+
+01:23:28.340 --> 01:23:36.180
+amount. And so we can no longer see it as well, or not at all. Why is that happening? So if we
+
+01:23:36.180 --> 01:23:39.780
+come back to our stars, what we're observing, we're observing the stellar surface. We can
+
+01:23:39.780 --> 01:23:45.140
+actually never appear with our telescopes inside. We only can go after the surface.
+
+01:23:46.100 --> 01:23:56.820
+And the surface layer contains different kinds of elements. Every one of those
+
+01:23:56.820 --> 01:24:03.700
+types of atoms – so elements are just different types of atoms – they absorb different photons
+
+01:24:03.700 --> 01:24:09.140
+that are coming from the hot core where the fusion is occurring. And so that means that if
+
+01:24:09.140 --> 01:24:16.340
+you're the observer with a spectrograph or without, you will see the starlight, but certain
+
+01:24:16.340 --> 01:24:21.700
+frequencies, certain energies of that light will have been absorbed by all the different
+
+01:24:21.700 --> 01:24:28.980
+atoms in the gas. So you see less of them. And so those are the dips. And the strength of the dips
+
+01:24:28.980 --> 01:24:39.300
+tell us which element was it and how much of that element was or is in the star.
+
+01:24:40.260 --> 01:24:46.420
+So we have many, many, many dips. The solar spectrum for reference, all the dips are
+
+01:24:46.420 --> 01:24:51.380
+overlapping because the abundance of all the elements is so high. It's actually a very
+
+01:24:51.380 --> 01:24:56.580
+complicated spectrum. My spectra really looked like a straight line, and then there's a dip here,
+
+01:24:56.580 --> 01:24:59.860
+and then you have the straight line. Again, there's a dip there. The Sun doesn't have straight
+
+01:24:59.860 --> 01:25:07.140
+lines. I mean, that's just all absorbed in some form or another. But the old stars have so little
+
+01:25:07.140 --> 01:25:13.620
+of all the elements that they're only occasionally these dips that then indicate, okay, that one at
+
+01:25:13.620 --> 01:25:18.820
+that wavelength was iron, and here we have carbon, and there's magnesium and sodium, and oh, there's
+
+01:25:18.820 --> 01:25:27.620
+a little strontium line here. So we have a much easier way to map out this barcode that the spectrum
+
+01:25:28.660 --> 01:25:33.620
+pretty much is at the end of the day and to then measure the strength of these,
+
+01:25:34.260 --> 01:25:39.860
+we call it absorption lines, to then calculate with existing codes that mimic the physics of
+
+01:25:39.860 --> 01:25:45.140
+the stellar atmosphere, like how much was absorbed, what kind of elements were present
+
+01:25:45.620 --> 01:25:51.380
+in the stellar atmosphere. And so this is how we get to our abundance measurements, and then
+
+01:25:51.940 --> 01:25:57.940
+all together that gives us the chemical composition and that particular signature in that star.
+
+01:25:58.820 --> 01:26:05.140
+If you, do you ever look at like the raw spectrograph and absorption line, and they're able to see
+
+01:26:06.180 --> 01:26:12.180
+into it some interesting non-standard outlier kind of patterns,
+
+01:26:13.140 --> 01:26:15.700
+or does this have to do heavy amount of processing?
+
+01:26:17.860 --> 01:26:25.700
+We actually process our, it's fairly straightforward to do our processing. We do it at the telescope. So
+
+01:26:25.700 --> 01:26:33.060
+I often take a shorter exposure first, let's say 10 or 15 minutes. So mostly when I do discovery
+
+01:26:33.060 --> 01:26:38.660
+work, we would just take a quick look spectrum, then we process it while we observe the next star.
+
+01:26:39.620 --> 01:26:44.900
+Then we take a quick look. We have what I call the summary plot. It's a collection of little
+
+01:26:45.700 --> 01:26:52.500
+areas in the spectrum that have the key positions, the positions of the key elements in it. And it's
+
+01:26:52.500 --> 01:26:58.740
+kind of like reading the tea leaves. I have stared at so many spectra. I just need to know, I just
+
+01:26:58.740 --> 01:27:02.740
+need to see our summary plot and I can tell you exactly what the numbers are going to be.
+
+01:27:03.620 --> 01:27:06.580
+And also to tell if it's going to be promising to look at further.
+
+01:27:06.580 --> 01:27:14.420
+Exactly. And so that's a thumbs up, thumbs down. Are you worth my time or not? In most cases,
+
+01:27:14.420 --> 01:27:19.540
+it's not, or it's good enough. We can do a basic analysis, maybe publish this as part of a larger
+
+01:27:19.540 --> 01:27:25.540
+sample just so we output that we have observed the star and their basic nature, that's an important
+
+01:27:25.540 --> 01:27:33.700
+part to publish as well. And yeah, I had a run. So now we do remote observing. I do all of this now
+
+01:27:33.700 --> 01:27:43.940
+from my home, from my living room all night long. And I often work with colleagues. So we do it over
+
+01:27:43.940 --> 01:27:50.580
+Zoom and we process the data. We look at it, same thing still. And we just found a star that
+
+01:27:51.700 --> 01:27:56.900
+had a very low iron abundance. And then we decided, okay, that looks interesting. We're
+
+01:27:56.900 --> 01:28:02.180
+just going to keep exposing. So we took more data on it on the spot and we're writing up
+
+01:28:02.180 --> 01:28:07.140
+the paper right now. How do you know where to point the telescope? It's not random. There's
+
+01:28:07.140 --> 01:28:16.500
+a lot of work that goes into that. I began my career by trying to answer that question,
+
+01:28:16.500 --> 01:28:23.700
+as in like doing the search process. That's why I called my book that I've written some time ago,
+
+01:28:23.700 --> 01:28:29.780
+Searching for the Oldest Stars, because searching is one thing. It's very time consuming. And then
+
+01:28:29.780 --> 01:28:37.540
+on top of that, not everyone finds. And I often don't find, but I keep searching because techniques
+
+01:28:37.540 --> 01:28:43.060
+have established that, yes, we can do it if we're just patient enough and keep going because it's a
+
+01:28:43.060 --> 01:28:51.220
+numbers game. And that's often the case in science. And that's something that not enough is talked
+
+01:28:51.220 --> 01:29:00.820
+about, how tedious it is and how long it takes to get to that one discovery that moves the field
+
+01:29:00.820 --> 01:29:07.300
+further. And how difficult it is to believe that there is a thing to be discovered. Yes, yes.
+
+01:29:08.580 --> 01:29:13.940
+We have the saying, I learned this, I think from my supervisor, one star is a discovery,
+
+01:29:13.940 --> 01:29:23.540
+two is a sample, and three is a population. So as soon as you found three of roughly the same kind,
+
+01:29:23.540 --> 01:29:28.900
+you're done. But you need to get there. Yeah. Probably the first is the hardest, right?
+
+01:29:28.900 --> 01:29:36.900
+Yes. But it kind of remains really hard. But the thing is that at past three, many of us are like,
+
+01:29:36.900 --> 01:29:42.900
+okay, we solved that problem. We've done it three times, we can do it. That's a thing, right? That's
+
+01:29:42.900 --> 01:29:49.140
+a population, three iron deficient stars, let's say, right? That's one puzzle piece. Now we can
+
+01:29:49.140 --> 01:29:53.140
+move on to the next thing. That's an indicator that there's many more of them, potentially.
+
+01:29:53.140 --> 01:29:59.860
+Yes, yes, yes. So to cut a long story short about the searching, we started early on with
+
+01:30:00.980 --> 01:30:06.180
+what's called low resolution spectroscopy of many stars. So for example, my thesis work
+
+01:30:06.180 --> 01:30:13.460
+almost 20 years ago was piggybacking off a quasar survey that had collected,
+
+01:30:13.460 --> 01:30:19.780
+so quasars are basically giant supermassive black holes that are really far away. So you only see
+
+01:30:19.780 --> 01:30:25.220
+one big bright light point. So it looks like a star, but it's actually just a giant supermassive
+
+01:30:25.220 --> 01:30:31.780
+black hole that outshines its own galaxy. And people had been trying to study those and they
+
+01:30:31.780 --> 01:30:38.820
+had taken little spectra of all things in the sky and it turns out, oh, you can fish out the
+
+01:30:38.820 --> 01:30:46.020
+actual stars from that and look for certain signatures that might indicate low metallicity
+
+01:30:46.020 --> 01:30:53.780
+stars, so stars with low abundances. And so it was painstaking work to then take
+
+01:30:53.780 --> 01:30:58.100
+medium resolution spectroscopy to get a little bit more information and to use approximations
+
+01:30:58.100 --> 01:31:02.900
+and to kind of get candidates that we can then eventually take to the big class like Magellan
+
+01:31:02.900 --> 01:31:08.180
+to get a high resolution spectrum. So we really see the dips of all the individual elements
+
+01:31:08.980 --> 01:31:16.020
+that then give us the final answer. Is it yay or nay? These days with another grad student,
+
+01:31:16.660 --> 01:31:24.740
+I developed a new technique to use images actually of all the stars in the sky taken with very
+
+01:31:25.380 --> 01:31:30.580
+narrow filters. So it's like you're wearing very specific glasses that only let so much light
+
+01:31:30.580 --> 01:31:38.100
+through. And so we can do similar things through having several narrow band filters, what we call
+
+01:31:38.100 --> 01:31:45.140
+it, to fish out things that have no absorption over here, so just the straight line and then
+
+01:31:45.140 --> 01:31:52.660
+a little dip here, so a little something there. And that has proven fairly successful in recent
+
+01:31:52.660 --> 01:31:57.940
+years. So looking at the entire, looking at broader regions of space. That's right,
+
+01:31:57.940 --> 01:32:01.780
+because these stars are a little bit like the needle in the haystack, right? They're not that
+
+01:32:01.780 --> 01:32:08.260
+many left over and certainly the galaxy has made plenty of stars in between. We need to comb through
+
+01:32:08.260 --> 01:32:15.540
+all of those to get to the goods. So we always start with millions and then work our way down
+
+01:32:15.540 --> 01:32:20.660
+and in the end we have like three good candidates. I wonder how those ancient stars feel that they
+
+01:32:20.660 --> 01:32:26.820
+were noticed. They probably know that nobody pays attention. I'm just kidding. We're all special,
+
+01:32:26.820 --> 01:32:30.660
+right? So are the stars. It's good, it's inspiring, even if you're the outcast.
+
+01:32:33.140 --> 01:32:37.380
+In your pristine nature, you still might nevertheless be noticed. I'm hoping the same
+
+01:32:37.380 --> 01:32:43.780
+about humans if somebody's observing us. Is there something else you could say that's
+
+01:32:44.900 --> 01:32:49.460
+about the challenges of this kind of high precision measurement that you're doing?
+
+01:32:50.180 --> 01:32:59.060
+So this kind of collection of data looking, trying to pull out the signal from the noise out there.
+
+01:33:00.580 --> 01:33:05.700
+Well, that's literally what we're doing in multiple ways actually. We're trying to find the
+
+01:33:05.700 --> 01:33:11.700
+needle in the haystack and then we find something and then it turns out it's just a little bit too
+
+01:33:11.700 --> 01:33:17.620
+faint to actually get the kind of data quality on it that we would like or that would be warranted
+
+01:33:17.620 --> 01:33:24.740
+given the potential of the star, right? So there's always noise. There's always a little
+
+01:33:24.740 --> 01:33:29.620
+bit of noise and you have to try to say like, yeah, how special is this when you're looking
+
+01:33:29.620 --> 01:33:36.340
+at the absorption line? So the most iron poor stars, their iron lines are so tiny that they're
+
+01:33:36.340 --> 01:33:43.220
+literally almost in the noise. So you need incredibly good data to make detections.
+
+01:33:43.780 --> 01:33:49.380
+And the funny thing is we're looking for the nothingness of let's say the iron lines,
+
+01:33:49.380 --> 01:33:53.940
+but then we don't want nothing because if there's nothing in the spectrum, we can't measure anything.
+
+01:33:53.940 --> 01:33:59.220
+We can only get an upper limit, but we'd really like a measurement. So we are looking for the
+
+01:33:59.220 --> 01:34:03.940
+last little bit that you could possibly detect. And that's the strong function of the brightness
+
+01:34:03.940 --> 01:34:09.060
+of the star because the telescopes have the size that they do. That's not going to change for a
+
+01:34:10.020 --> 01:34:13.540
+while. Hopefully eventually it will, but it's going to be at least 10 years out.
+
+01:34:14.820 --> 01:34:20.020
+And so yes, we're often literally stuck in the noise because we can't make the measurement. So
+
+01:34:20.020 --> 01:34:25.220
+actually the record holder for the most iron poor star only has an upper limit. We can't get enough
+
+01:34:25.220 --> 01:34:30.260
+data on this to actually pinpoint a measurement to then take it to our theory colleagues and say like,
+
+01:34:30.260 --> 01:34:37.140
+give me this little iron out of your first star. So it's a bit frustrating, but also super exciting
+
+01:34:37.140 --> 01:34:42.820
+at the same time. So let's go to both sides of that spectrum. What's like the most exciting
+
+01:34:42.820 --> 01:34:48.980
+discovery to you personally? Is there a moment you remember that you saw a piece of data
+
+01:34:49.700 --> 01:34:58.820
+and your heart skipped a bit? Yeah, of course. Is it HE 1327?
+
+01:34:59.700 --> 01:35:03.380
+That was definitely one of those moments. I wasn't actually present at the telescope,
+
+01:35:03.380 --> 01:35:09.620
+but we were sent the data immediately from our colleague and we just looked at it and our eyes
+
+01:35:09.620 --> 01:35:15.860
+got really wide and was like, oh my God, is this really what we think it is? So we had to run some
+
+01:35:15.860 --> 01:35:26.500
+numbers and it was, and these are magical little moments. The thing is, often we have false
+
+01:35:26.500 --> 01:35:33.620
+positives and so there's always this kind of period and often it's, I don't know, 10,
+
+01:35:33.620 --> 01:35:38.100
+15 minutes where you need to make some tests to kind of make a decision. Is this really something
+
+01:35:38.100 --> 01:35:42.580
+I should keep observing now? Is this really as good as I think or am I being fooled by something?
+
+01:35:43.220 --> 01:35:49.380
+So actually if you take a spectrum of a white dwarf, a white dwarf is the leftover core of a
+
+01:35:49.380 --> 01:35:56.100
+star like the sun that has gone extinct. And white dwarfs have lost all their outer atmosphere,
+
+01:35:56.100 --> 01:36:00.180
+so it's just the hydrogen-helium core. So they look like a metal pore star because
+
+01:36:00.180 --> 01:36:05.540
+that's only hydrogen-helium left, right? But the hydrogen lines that you can see in the spectrum
+
+01:36:05.540 --> 01:36:11.140
+of our stars and of the white dwarfs are a little bit wider than normal. So you need to have a good
+
+01:36:11.140 --> 01:36:16.980
+eye just to check, does this look a little bit wider than us? Is this a white dwarf who's
+
+01:36:16.980 --> 01:36:23.700
+fooling me here? And so it's like this moment, it's like, oh my God. It's just minutes of nervousness.
+
+01:36:23.700 --> 01:36:29.380
+Yes, yes. And sometimes, you know, it's a dud and sometimes it's not.
+
+01:36:29.380 --> 01:36:35.940
+What's been a big, that you remember, heartbreak? Like a painful low point? Is it all leading up to
+
+01:36:35.940 --> 01:36:41.780
+the first, is it all about HE 1327 again? Just the leading up to it or has there been like a,
+
+01:36:43.060 --> 01:36:45.540
+yeah, has there been like low points in the search?
+
+01:36:46.260 --> 01:36:53.940
+Um, that's a good question. I mean, you know, it starts with mundane things as in like,
+
+01:36:53.940 --> 01:36:59.860
+you won your telescope time, you traveled there, and the weather is completely cloudy,
+
+01:36:59.860 --> 01:37:06.580
+it rains, and you had three nights, which is a lot, and you go home empty-handed. So that's
+
+01:37:06.580 --> 01:37:13.220
+definitely a low point. Probably not what you were thinking of, but there is a certain occupational
+
+01:37:13.220 --> 01:37:20.020
+hazard to it. Which requires a kind of resilience and a patience. Yeah, and you just got to learn
+
+01:37:20.020 --> 01:37:25.220
+to live with it. Coming back to reticulum too, actually, you know, that little dwarf galaxy,
+
+01:37:25.220 --> 01:37:30.980
+that was a run that we had and the weather was incredibly bad. And I had sent my student there,
+
+01:37:34.180 --> 01:37:37.460
+and I was at home and he calls me at 2 a.m. and he was like, Anna,
+
+01:37:38.100 --> 01:37:43.540
+I think I observed the wrong star. I'm so sorry. There is this line there, this European line,
+
+01:37:43.540 --> 01:37:50.020
+and it looks like a metal rich star. And I was like, it's cool. We all make mistakes.
+
+01:37:50.580 --> 01:37:56.420
+Send me the data. Send me that summary plot. And so I look at it, you know, I was like super tired.
+
+01:37:57.380 --> 01:38:04.500
+It's like, I can't really tell. It doesn't look wrong, but I can't tell you right now that it's
+
+01:38:04.500 --> 01:38:10.500
+right either. So why don't you go to the next target? And he calls me back an hour later,
+
+01:38:10.500 --> 01:38:17.460
+you know, it looks just the same. What am I supposed to do? And then I joked, well,
+
+01:38:17.460 --> 01:38:24.260
+maybe we found an R process galaxy. Let's go to the next one. And the weather was degrading.
+
+01:38:26.180 --> 01:38:33.140
+And so to cut a long story short, we had to come. So he was observing the right stars. It
+
+01:38:33.140 --> 01:38:38.340
+was an R process galaxy, the first one we had ever discovered, totally
+
+01:38:39.540 --> 01:38:44.260
+and I mean, unpredicted. We had no idea that this was a thing. I mean, you know,
+
+01:38:46.420 --> 01:38:52.020
+of course, we thought that, you know, such a thing might possibly exist because why not,
+
+01:38:52.660 --> 01:39:00.580
+right? Neutron summer just happened somewhere. Crazy supernovae probably too. But we were not
+
+01:39:00.580 --> 01:39:08.820
+prepared in that moment to find this thing. And in the end, the weather was getting worse and worse
+
+01:39:08.820 --> 01:39:14.820
+and we wanted to see how many R process stars are in this galaxy. So we managed
+
+01:39:16.100 --> 01:39:22.020
+by a hairline to observe the nine brightest stars, but the data quality was atrocious.
+
+01:39:22.020 --> 01:39:23.540
+And the weather affects the data quality.
+
+01:39:23.540 --> 01:39:30.980
+Yes, absolutely. Because these were really faint stars. And so we were really lucky by
+
+01:39:31.540 --> 01:39:37.460
+making a very tight strategy of getting the absolute bare minimum for all the stars so we
+
+01:39:37.460 --> 01:39:43.380
+could at least take a very crude look. Is it a yay or a nay? We couldn't even say yes or no,
+
+01:39:43.380 --> 01:39:49.220
+just to get an idea because we needed to know. Why was that important? Because
+
+01:39:50.180 --> 01:39:53.940
+we could only observe this system again nine months later.
+
+01:39:53.940 --> 01:39:55.700
+So there's always a window of observation.
+
+01:39:55.700 --> 01:40:02.260
+Yes. It was setting. This was our chance. And it was going away with the clouds, you know?
+
+01:40:04.180 --> 01:40:05.700
+That was super high stakes.
+
+01:40:05.700 --> 01:40:14.260
+But we just made it. Really, it was almost impossible. And it was just the thing is,
+
+01:40:14.980 --> 01:40:21.540
+this is such a serendipitous moment. In a serendipitous moment, the enhancement of these
+
+01:40:21.540 --> 01:40:27.380
+heavy elements was so strong that even in this really crappy data, we could still see the
+
+01:40:27.380 --> 01:40:33.700
+enhancement. The absorption was so strong that it stuck out of the noise. If that enhancement
+
+01:40:33.700 --> 01:40:38.100
+wouldn't have been as strong, we would not have been able to say anything because we wouldn't
+
+01:40:38.180 --> 01:40:44.660
+have been able to tell. But because it was so extreme, it lent us a hand, despite the
+
+01:40:44.660 --> 01:40:50.900
+weather and all, to say like, yes, this is it. So that was quite the night.
+
+01:40:52.900 --> 01:40:57.860
+Luck. I mean, a lot of this is just luck. So that was the first our process galaxy discovered.
+
+01:40:57.860 --> 01:40:59.940
+Yes. I didn't sleep all that much.
+
+01:40:59.940 --> 01:41:08.260
+Do you have hope? Are you excited about James Webb Space Telescope and other telescopes in the
+
+01:41:08.260 --> 01:41:14.020
+future that increase the resolution and the precision of what can be detected out there?
+
+01:41:14.020 --> 01:41:20.740
+Absolutely. JWST is fantastic already. I am not planning to use it personally, although I think
+
+01:41:20.740 --> 01:41:27.060
+I'm on one or two observing proposals actually, because similar to what we already spoke about,
+
+01:41:27.060 --> 01:41:31.220
+we're interested in the same thing. We're just kind of looking at different sides of the fence.
+
+01:41:32.420 --> 01:41:37.780
+I have my old surviving stars, and I concoct these little stories about what the earliest
+
+01:41:37.780 --> 01:41:44.100
+galaxies may have looked like, what the objects were that contributed energy and elements and all
+
+01:41:44.100 --> 01:41:51.300
+these things. And my JWST colleagues, they try to detect some of these earliest photons from these
+
+01:41:51.300 --> 01:41:57.700
+earliest systems to look at the energetics and other things, what was there, how many,
+
+01:41:58.260 --> 01:42:03.700
+these kinds of things. So together, we're trying to explore this first billion years,
+
+01:42:04.500 --> 01:42:10.580
+but we do it in very complimentary ways. And so I'm very excited to see what they can come up with
+
+01:42:10.580 --> 01:42:16.500
+and how that helps me to inform my stories better and more comprehensively.
+
+01:42:17.380 --> 01:42:23.540
+What do you think is the future of the field of stellar archaeology? How much can we,
+
+01:42:24.420 --> 01:42:28.740
+maybe what are the limits of our understanding of this first billion years of our universe?
+
+01:42:31.620 --> 01:42:36.900
+Well, obviously lots of limitations in the sense that I always say I have a metal poor star for
+
+01:42:36.900 --> 01:42:43.940
+any of your questions, because there are so many different kinds out there. And we still find new
+
+01:42:43.940 --> 01:42:48.420
+patterns sometimes, right? And there needs to be an explanation. The question is, is it ultimately
+
+01:42:48.420 --> 01:42:53.460
+just one quirky star or is it two, is it three, right? Is it a sample, is it a population? So
+
+01:42:53.460 --> 01:42:59.060
+we haven't concluded that kind of work yet. So every metal poor star is a kind of data
+
+01:42:59.060 --> 01:43:03.780
+point that you can use to improve the quality of your model of how is the evolution of the
+
+01:43:03.780 --> 01:43:11.220
+early universe. Yes, yes. And I would say we've made huge progress over the last 20 years. When
+
+01:43:11.220 --> 01:43:16.020
+I joined that field, it was in its infancy and there was this serendipitous discovery of that
+
+01:43:16.020 --> 01:43:23.780
+first second generation star. And we have filled in the canvas a great deal since then. And this
+
+01:43:23.780 --> 01:43:29.780
+is what I have greatly enjoyed about doing so, because there was so much discovery potential.
+
+01:43:30.420 --> 01:43:39.860
+And it's been dying down a little bit because of all the progress. It's on the up and coming
+
+01:43:39.860 --> 01:43:45.940
+again because there's so many large spectroscopic surveys in the works now that will just provide
+
+01:43:45.940 --> 01:43:52.180
+a different level of data that we haven't had before. I'm sort of of this older generation.
+
+01:43:52.180 --> 01:43:57.220
+I have only very few colleagues. I work in small teams and I observe every single star myself.
+
+01:43:59.460 --> 01:44:06.740
+Whatever I can, I do myself. I don't generally take other people's data, at least certainly not
+
+01:44:06.740 --> 01:44:15.380
+in the end stage. And I'm not a big data kind of person, although we all headed that way. I certainly
+
+01:44:15.380 --> 01:44:23.380
+use data from the Gaia astrometric satellite for the kinematics, for example. But that's personally
+
+01:44:23.380 --> 01:44:30.340
+a new thing for me to use sort of big sky surveys that are available. So it's still a very sort of
+
+01:44:30.420 --> 01:44:37.540
+hand-grown field where we do our individual observations. I have enjoyed that a lot,
+
+01:44:37.540 --> 01:44:42.100
+but that's about to change. So one star at a time. Yes. I mean, there's power to that,
+
+01:44:42.100 --> 01:44:47.380
+to build up intuition of the early universe by looking one star at a time. Yeah. And this is how
+
+01:44:47.380 --> 01:44:52.580
+you can really drill down on the questions that you have because you control what data you get.
+
+01:44:54.180 --> 01:44:58.420
+Otherwise, you have the data that you have. You get what you get and you don't get upset.
+
+01:44:58.420 --> 01:45:04.500
+I don't like that. I'm a little bit snobby. I really like to formulate my questions,
+
+01:45:04.500 --> 01:45:10.340
+go to the telescope, and then come what may, I will try to get it. And also develop the intuition
+
+01:45:10.340 --> 01:45:14.660
+of where the data can be relied upon and when it can't and all the different quirks of the data and
+
+01:45:14.660 --> 01:45:20.580
+all that kind of stuff. Sometimes a lot is lost in the aggregation of the noisy data.
+
+01:45:20.580 --> 01:45:25.540
+Yeah. And that's always the danger if you have someone else's data that you just don't really
+
+01:45:25.540 --> 01:45:32.340
+understand the limitations, completeness things, how certain things were set up,
+
+01:45:32.340 --> 01:45:38.980
+and you get out what you put in. So I'm really particular about that and it certainly paid off
+
+01:45:38.980 --> 01:45:45.540
+for me. That's one of the main notions that I try to teach in my classes and to my students,
+
+01:45:45.540 --> 01:45:50.820
+that you need to be able to formulate your question really well because otherwise you're
+
+01:45:50.820 --> 01:45:56.980
+going to get an answer to a different question, but you won't notice that the goalpost has shifted
+
+01:45:56.980 --> 01:46:02.100
+in the meantime. So your interpretation can only be as good as the question. If you need to change
+
+01:46:02.100 --> 01:46:09.220
+your question, that's cool. Do it. But then it needs to pair up with your interpretation again.
+
+01:46:09.220 --> 01:46:16.980
+And so really being in the know about every step of what happens, that leads to quality results,
+
+01:46:17.460 --> 01:46:23.220
+that's why I have sometimes little trouble with big data and statistical analysis. Yes, on average
+
+01:46:23.220 --> 01:46:29.860
+that's true. I'm not debating that, but I'm the kind of person I like to look at the outliers,
+
+01:46:29.860 --> 01:46:36.100
+so not the bulk, but the special ones. And they just need to be treated in a different way and
+
+01:46:36.100 --> 01:46:40.020
+there needs to be an acknowledgement of that, different ways for different things.
+
+01:46:40.020 --> 01:46:46.420
+So big data can look at divorce rates and perhaps you and I are more interested in the
+
+01:46:46.420 --> 01:46:54.900
+individual love stories. Yes, that works for me. So I don't know if it's possible to say,
+
+01:46:54.900 --> 01:47:02.340
+but what do you think is the big discoveries that are waiting? Is it on the different dynamics of the
+
+01:47:02.340 --> 01:47:09.460
+yield, the common narrative, the common story of how some of these metal poor stars are formed?
+
+01:47:10.900 --> 01:47:14.100
+Where are the discoveries in this field that you think will come?
+
+01:47:14.820 --> 01:47:21.060
+I think the individual discoveries are actually, we've made most of those,
+
+01:47:21.700 --> 01:47:28.500
+certainly through individual stars. Finding yet another second generation star is incredibly
+
+01:47:28.500 --> 01:47:35.620
+important for me, but isn't really going to move the needle. Finding 50 of them or 100 of them,
+
+01:47:35.620 --> 01:47:42.900
+that would move the needle, but that's in order or two magnitudes up. And new search techniques
+
+01:47:42.900 --> 01:47:48.980
+and new surveys may enable that, but would you still call that a discovery?
+
+01:47:50.260 --> 01:47:52.340
+So that's just a scale. That's a scale.
+
+01:47:52.340 --> 01:47:57.780
+Yes. So I think about it more like literally of the puzzle. Let's say you have a thousand piece
+
+01:47:57.780 --> 01:48:05.540
+puzzle and you have 900 pieces in there. If you're a person like me, I want to get to the last ones
+
+01:48:05.540 --> 01:48:09.620
+I'm not going to leave it. It's like, okay, I see broadly what this is going to look like, right?
+
+01:48:09.620 --> 01:48:16.900
+I'm done now. No, I want to get to the last one. Is the picture globally going to change? No.
+
+01:48:18.020 --> 01:48:22.260
+Are we going to figure out all the details and how it really works? Yes.
+
+01:48:22.260 --> 01:48:29.540
+So really carefully getting into it. Getting a detailed map of the ancient stars of our
+
+01:48:29.540 --> 01:48:36.260
+universe. Because I think that's what many of us scientists are a little bit detailed obsessed,
+
+01:48:36.260 --> 01:48:41.700
+but I think that's our job too, right? To really kind of make it airtight, to really walk away
+
+01:48:41.700 --> 01:48:51.460
+saying, I fully understand this. Not just broadly, but I really know. We really know now. And so
+
+01:48:52.100 --> 01:48:58.500
+more and more of that is going to happen. And so I think this is probably true across astronomy,
+
+01:48:58.500 --> 01:49:06.100
+these individual 10 sigma discoveries become less and less. If they were easy, we would have
+
+01:49:06.100 --> 01:49:13.220
+made them already, right? Which means we have made many of them. But really filling in the details
+
+01:49:13.220 --> 01:49:19.140
+is the next sort of level of discovery. Maybe we need to find a new word for that.
+
+01:49:21.620 --> 01:49:27.860
+The hopes and expectations that go along with the word discovery are so enormous. We may not
+
+01:49:27.860 --> 01:49:34.180
+always be able to live up to that. But it doesn't mean that we're not finding out new things. It's
+
+01:49:34.180 --> 01:49:39.300
+just a different kind of quality because the questions have shifted. You close one door,
+
+01:49:39.300 --> 01:49:45.860
+suddenly there are 10 new open doors that we want to explore and march through. And that's finding
+
+01:49:45.860 --> 01:49:51.140
+these last puzzle pieces here and there that really make it airtight. And so there's a lot of
+
+01:49:51.140 --> 01:49:57.140
+value and a lot of power and beauty to the discovery in the big picture of our universe
+
+01:49:57.140 --> 01:50:05.300
+and in the details. We need both, absolutely. Perhaps drifting into the philosophical,
+
+01:50:05.940 --> 01:50:12.580
+let me ask about the Big Bang as we kind of encroach onto it. So your work is kind of
+
+01:50:12.580 --> 01:50:19.940
+taking steps back through time in a weird way. Do you think we'll get to deeper and deeper understand
+
+01:50:20.340 --> 01:50:27.220
+the really, really early days of the Big Bang? And the philosophical question, do you think we'll be
+
+01:50:27.220 --> 01:50:32.180
+able to understand what was before the Big Bang or why the Big Bang happened? Do you think about
+
+01:50:32.180 --> 01:50:40.580
+that stuff? Not with stars, for better or for worse, because stars only probe the time when they were
+
+01:50:40.580 --> 01:50:47.380
+formed and the Big Bang is surely before then. I mean, I often talk to my students about the
+
+01:50:48.340 --> 01:50:53.940
+difference between math and physics. Let me give you an example. We talked earlier about
+
+01:50:53.940 --> 01:50:59.940
+HG 1523, and I was happy to share with you that I measure thorium and uranium, but I actually
+
+01:50:59.940 --> 01:51:06.420
+didn't quite close that loop. So we did this to try to attempt to calculate an age for these stars.
+
+01:51:08.740 --> 01:51:15.540
+But they rely on us knowing how the R process works, how these elements are created, where
+
+01:51:15.540 --> 01:51:21.060
+it happens, and then how those elements get dispersed into the gas and end up in the next
+
+01:51:21.060 --> 01:51:27.300
+generation star. So quite a few question marks. So that's how we got to the age of 13.2 billion
+
+01:51:27.300 --> 01:51:33.300
+years. This is probably not accurate, but this is the best calculation we could do.
+
+01:51:35.220 --> 01:51:39.540
+And the reason why I'm bringing this up is that that was actually the average of multiple
+
+01:51:40.500 --> 01:51:45.460
+elemental ratios that each gave a certain age, and then we averaged that because
+
+01:51:45.460 --> 01:51:50.500
+for better or for worse, this is the best we can do. So some of these numbers said,
+
+01:51:50.500 --> 01:51:56.260
+oh, this star is 15 billion years old. And then others said, oh, this is 10 billion years old.
+
+01:51:56.260 --> 01:52:03.300
+And so I often use that in my class to say, what's the good news and what's the bad news here?
+
+01:52:04.260 --> 01:52:12.260
+Some ratios say 15 something, 10, right? Is 15 correct? And then I asked them,
+
+01:52:12.260 --> 01:52:17.860
+and some people will say something. And so the thing here is that it's an absolutely
+
+01:52:17.860 --> 01:52:22.500
+correct calculation given the mathematical and physical model that we constructed.
+
+01:52:23.220 --> 01:52:28.820
+But does it make sense? No, it doesn't. If we believe the universe is 13.8 billion years old,
+
+01:52:28.900 --> 01:52:35.460
+15 is ridiculous, yet it is correct. Isn't that interesting? Correct from a mathematics
+
+01:52:35.460 --> 01:52:40.500
+perspective. Yes, it is not incorrect because this is what I calculated. Nobody made a mistake. Now,
+
+01:52:40.500 --> 01:52:44.660
+we can question whether that's a good model, but that's a separate issue.
+
+01:52:44.660 --> 01:52:48.020
+So you're saying physicists are much closer to truth than mathematicians?
+
+01:52:48.020 --> 01:52:55.780
+Well, it depends. Sometimes yes and sometimes no, right? So what our job as physicists is,
+
+01:52:56.660 --> 01:53:01.060
+is to take the mathematical model, calculate our numbers, and then ask the question,
+
+01:53:01.060 --> 01:53:09.060
+does this make sense, right? Now, in the case of 15, it doesn't, but we took the average anyway,
+
+01:53:09.060 --> 01:53:15.700
+because that was the best we could do, right? So, all right, let's put that aside. Let's apply the
+
+01:53:15.700 --> 01:53:21.220
+same sort of thinking to the Big Bang, right? Math can tell us things that we, as physicists,
+
+01:53:21.220 --> 01:53:26.820
+cannot grasp because it doesn't make sense to us. Now, in the case of the Big Bang, that's a special
+
+01:53:26.820 --> 01:53:33.140
+case because we don't actually know what's supposed to make sense. And this is where things get
+
+01:53:33.140 --> 01:53:38.420
+interesting, but this is where math will ultimately be the winner because we can no longer say this
+
+01:53:38.420 --> 01:53:43.620
+makes sense or this doesn't make sense because the physics is broken down. But math breaks down,
+
+01:53:43.620 --> 01:53:48.340
+too, in the singularity of things. Well, depending on who you ask.
+
+01:53:48.740 --> 01:53:55.700
+Okay, sure, sure. This is the current question, right? How far, how much further can we push
+
+01:53:55.700 --> 01:53:59.540
+math, let's say, to the front of the Big Bang if there is such a thing?
+
+01:54:00.580 --> 01:54:02.980
+What's the front and the back? What's the front? The front is the-
+
+01:54:02.980 --> 01:54:05.940
+Before the Big Bang. Oh, before the Big Bang. The front, okay.
+
+01:54:08.100 --> 01:54:11.060
+To clarify, all the doorways and the entrances.
+
+01:54:11.060 --> 01:54:17.700
+So how far can we let the math go before that stops to make sense, right? And I don't know
+
+01:54:17.700 --> 01:54:23.620
+what the answer is to that, but it's really cool that because math is not limited by our
+
+01:54:23.620 --> 01:54:28.740
+physical nature, it can probably go a little bit further than the physics.
+
+01:54:28.740 --> 01:54:34.580
+Yeah. And math can go into more dimensions than four dimensions comfortably.
+
+01:54:34.580 --> 01:54:39.860
+And it's judgment-free because it just calculates things on its own. As physicists,
+
+01:54:39.860 --> 01:54:44.820
+we are so judgmental. This makes sense, this doesn't make sense, right? It doesn't get any
+
+01:54:44.820 --> 01:54:54.100
+worse. It's such a beautiful dance. It's so amazing that through this dance, you can explore
+
+01:54:54.100 --> 01:55:00.900
+the origins of the universe. Doesn't the Big Bang just blow your mind that this thing has just
+
+01:55:00.900 --> 01:55:05.300
+started from a point and now we're here? Yeah, yeah, yeah.
+
+01:55:05.300 --> 01:55:12.500
+Hydrogen and helium. And then all the stuff you're studying, I mean, this evolution of
+
+01:55:13.060 --> 01:55:19.860
+chemistry created humans and we're here talking and there's a lot more to the story.
+
+01:55:21.300 --> 01:55:23.300
+It's amazing. Yeah, yeah, yeah.
+
+01:55:25.700 --> 01:55:31.780
+And this kind of march that you're doing is observing data. Is there,
+
+01:55:33.860 --> 01:55:39.140
+you're looking at old light and old data. But only a few thousand years, right?
+
+01:55:39.140 --> 01:55:40.980
+Just a few thousand years. That's the difference
+
+01:55:40.980 --> 01:55:43.780
+between me and my JWST colleagues. Yes.
+
+01:55:43.780 --> 01:55:49.700
+Their objects, that light has traveled 13 billion years or whatever it was to us and they're
+
+01:55:49.700 --> 01:55:55.300
+observing that now. My light has only traveled a few thousand years. It's nothing.
+
+01:55:55.300 --> 01:55:57.780
+So whatever you observe now is likely still going on.
+
+01:55:58.500 --> 01:56:02.180
+Yes. These stars are alive and kicking and having a blast.
+
+01:56:03.220 --> 01:56:07.460
+A thousand years. Just a few thousand years, that's all it takes. If we can travel close
+
+01:56:07.460 --> 01:56:10.980
+to the speed of light, maybe we can reach out there.
+
+01:56:11.860 --> 01:56:14.580
+We wouldn't have any planets around those stars though.
+
+01:56:14.580 --> 01:56:20.420
+So that's, is that a definitive intuition? Well, what are planets made of? Elements,
+
+01:56:20.420 --> 01:56:24.820
+right? To take the earth. It was all heavy elements, right? The universe needed to
+
+01:56:24.820 --> 01:56:30.980
+reach a certain stage first to have produced enough of all these elements to actually make
+
+01:56:30.980 --> 01:56:35.060
+a planet. So on average you're, okay, right. So that took quite a few billion years.
+
+01:56:35.060 --> 01:56:38.900
+So they're not going to have a mechanism for forming planets. You could have visitors
+
+01:56:38.900 --> 01:56:44.900
+probably, but the kinematics of that are unlikely. Yeah, I would say so.
+
+01:56:47.140 --> 01:56:51.700
+So they're interesting in that they reveal the early chemical evolution of the universe.
+
+01:56:51.700 --> 01:56:52.980
+Yes. Not that they're,
+
+01:56:53.860 --> 01:56:58.260
+they could be good vacation spots, but not... Well, it'd be like a worm.
+
+01:56:58.340 --> 01:57:07.300
+No planet islands to go to, to chill. In your book, you highlight the major
+
+01:57:07.300 --> 01:57:14.660
+contributions in the field by many women. Some of these women were not, as you describe,
+
+01:57:15.940 --> 01:57:20.980
+immediately credited for their discoveries. So for me, from a computer science perspective,
+
+01:57:22.180 --> 01:57:26.980
+the story you also tell is Harvard computers. Who were these women and what can you just
+
+01:57:27.060 --> 01:57:30.340
+say about the nature of science and humanity?
+
+01:57:30.340 --> 01:57:36.340
+Discovering things is part of the human nature, right? And so it has happened for the longest time,
+
+01:57:37.940 --> 01:57:46.500
+not just by men, but also by many women. The field of stellar astronomy, which is my field,
+
+01:57:47.220 --> 01:57:52.740
+has particularly benefited from many discoveries made by women. You mentioned the Harvard
+
+01:57:52.740 --> 01:58:02.100
+computers. That's a term used for women who worked about a hundred years ago at the Harvard
+
+01:58:02.100 --> 01:58:10.180
+College Observatory, and they were hired for their low wages and willingness to do diligent
+
+01:58:10.180 --> 01:58:19.060
+and patient work to comb through the big data of the day. So the observatory director,
+
+01:58:19.860 --> 01:58:28.980
+they were carrying out large sky surveys at the time and that data needed to be processed and
+
+01:58:28.980 --> 01:58:36.900
+looked at and analyzed. And so many women or several dozens, one or two dozen women over the
+
+01:58:36.900 --> 01:58:45.380
+years were hired to do this work. And in the process, because they were looking at the actual
+
+01:58:45.380 --> 01:58:51.940
+data and they were smart, even though they had often no formal education, they made a lot of
+
+01:58:51.940 --> 01:58:59.220
+discoveries simply by being in tune with what they were doing. So they weren't robots as the
+
+01:58:59.220 --> 01:59:10.340
+term computer would perhaps lead on. So Annie Jump Cannon classified thousands and thousands of
+
+01:59:10.340 --> 01:59:18.900
+spectra and found out that stars have different temperatures and their spectra look according.
+
+01:59:19.700 --> 01:59:27.700
+We still use that classification sequence today. Cecilia Payne Gaposhkin later on in,
+
+01:59:27.700 --> 01:59:39.780
+I think 1925, was one of the first women to obtain a PhD in stellar astronomy. And she figured out,
+
+01:59:39.780 --> 01:59:47.060
+she calculated that the sun is mostly made of hydrogen and helium. That seems normal
+
+01:59:47.060 --> 01:59:54.420
+to many of us these days, but at the time it was thought that celestial objects are made of the
+
+01:59:54.420 --> 02:00:00.500
+same thing as the earth. That's a gutsy, amazing discovery.
+
+02:00:00.500 --> 02:00:07.540
+Yes. It was later termed the most important thesis of humankind or something like that.
+
+02:00:07.540 --> 02:00:16.340
+What a revelation to realize that stars are made of hydrogen and helium. And this was exactly the
+
+02:00:16.340 --> 02:00:21.220
+time when people figured out why stars are shining, namely because of nuclear fusion and that it's
+
+02:00:21.220 --> 02:00:29.140
+protons and the tunneling effect that leads to the actual fusion. Otherwise, the protons repulse
+
+02:00:29.140 --> 02:00:35.780
+each other. They don't come together. And so what an incredible time it was back then. And so stars
+
+02:00:35.780 --> 02:00:42.020
+and nuclear physics were very closely related and it remains. Now it's called nuclear astrophysics.
+
+02:00:43.140 --> 02:00:48.100
+And so many women had many contributions to that. Of course, prior to that Marie Curie
+
+02:00:49.060 --> 02:01:01.940
+discovered two new elements. Oh, so awesome. Radium and polonium. Lisa Meitner discovered
+
+02:01:01.940 --> 02:01:07.460
+nuclear fission. That is the basis for understanding the R process. This is exactly
+
+02:01:07.460 --> 02:01:16.900
+what happens in the R process. The heavy nuclei, let's say uranium, if you bombarded with a neutron,
+
+02:01:17.620 --> 02:01:26.740
+we talked at length about it, it will fission, it will split into barium and krypton, let's say.
+
+02:01:26.740 --> 02:01:31.780
+So two lighter elements. That's exactly what we observe. I have always a higher abundance
+
+02:01:31.780 --> 02:01:36.420
+of barium than the heavier elements because of this fission cycling that she calculated
+
+02:01:37.860 --> 02:01:47.940
+in 1938, 1939. So many, many contributions. And it's just so remarkable if you just take that
+
+02:01:48.020 --> 02:01:57.220
+body of work, that changed how we do things, how we see the universe, how we understand things,
+
+02:01:58.100 --> 02:02:02.020
+has led to so many subsequent discoveries, good ones and bad.
+
+02:02:04.660 --> 02:02:08.020
+Well, all of it is taken together. That's progress.
+
+02:02:10.020 --> 02:02:14.980
+Science is what it is. We have to decide what we do with that knowledge. We can always use things
+
+02:02:14.980 --> 02:02:22.100
+for good or for bad. That's part of the human endeavor as well. And also part of the human
+
+02:02:22.100 --> 02:02:27.300
+endeavor and the human nature is the issues with corruption and credit assignment and all these
+
+02:02:27.300 --> 02:02:33.380
+kinds of things that make this whole ride so damn interesting about what's right and wrong and about
+
+02:02:33.380 --> 02:02:38.820
+the nature of good and evil. And that seems to surface itself in all kinds of places, all the
+
+02:02:38.820 --> 02:02:44.900
+time. Yes, yes. Lisa Meitner was nominated for the Nobel Prize 40 times, more than that even.
+
+02:02:44.900 --> 02:02:51.620
+It's amazing. She holds the record for that. She never received it. Case in point.
+
+02:02:54.580 --> 02:02:59.620
+Yeah. And of course the Nobel Prize has its complexities. One is the credit assignment,
+
+02:02:59.620 --> 02:03:04.660
+but two, even in astronomy, sort of assigning credit to a handful of folks
+
+02:03:04.660 --> 02:03:08.100
+when so many more contributed. That's a complicated story also.
+
+02:03:08.100 --> 02:03:09.060
+Yeah, it's very complex.
+
+02:03:10.820 --> 02:03:15.300
+Okay. Sorry for the romantic question, but what to you is the most beautiful idea in astronomy,
+
+02:03:16.100 --> 02:03:17.460
+in stellar astronomy?
+
+02:03:18.340 --> 02:03:25.940
+Well, so early on, when I was in high school, I was thinking like, okay, what do I want to do
+
+02:03:25.940 --> 02:03:31.460
+when I grow up, right? I knew I wanted to do astronomy, but I was a little bit torn because
+
+02:03:31.460 --> 02:03:37.460
+my interests were definitely stars, stellar astronomy, but also chemistry. I always had
+
+02:03:37.460 --> 02:03:44.740
+a fascination about the elements, so Marie Curie was a big role model. My friend actually
+
+02:03:44.740 --> 02:03:55.700
+produced a beautiful movie about the discovery of the elements. It's a theater play, but digitized,
+
+02:03:56.660 --> 02:04:02.740
+where when I saw it, I could actually kind of relive the sort of discovery moment that Marie
+
+02:04:02.740 --> 02:04:09.700
+Curie had. It sent shivers down my spine. It was fantastic. I mean, this is the kind of thing that
+
+02:04:09.700 --> 02:04:17.300
+I wanted to experience. But yeah, so nuclear physics and element creation and formation was
+
+02:04:17.300 --> 02:04:21.140
+really interesting to me, chemistry, the elements, stars, and all of that. And I was like,
+
+02:04:22.100 --> 02:04:25.540
+I don't know if I ever find something that combines all of these things.
+
+02:04:26.420 --> 02:04:32.500
+And then I ended up in Australia and I met this person and he was working on old stars. And as I
+
+02:04:32.500 --> 02:04:40.260
+was sitting in his talk, hearing about this for the first time, it kind of clicked all over my
+
+02:04:40.260 --> 02:04:47.060
+head and was like, oh my God, it all fell in place because we can use these old stars to study the
+
+02:04:47.060 --> 02:04:53.060
+elements, to learn how they're formed. We can get these clean signatures that help us inform the
+
+02:04:53.060 --> 02:05:00.580
+nuclear synthesis processes. And of course, I need to know a lot about stars too. So it's
+
+02:05:00.580 --> 02:05:06.100
+like all together. And that was sort of a moment of magic. And then the fact that
+
+02:05:06.900 --> 02:05:11.140
+I have now done that for 20 years, it's just like I won the lottery.
+
+02:05:11.140 --> 02:05:13.060
+It all clicked into place.
+
+02:05:13.060 --> 02:05:18.900
+So in some sense, it's an ongoing love story for me, if I could say it like that,
+
+02:05:18.900 --> 02:05:28.100
+where I found my stars, my thing. And I am fortunate enough to be able to keep doing that.
+
+02:05:28.100 --> 02:05:36.020
+And I'm happy to see where it will take me. It's an evolution, as with every relationship.
+
+02:05:37.860 --> 02:05:42.420
+If you don't march forward, you move backwards. I'm not interested in moving backwards.
+
+02:05:42.420 --> 02:05:47.460
+So I'm letting the field and the discoveries and the findings lead me.
+
+02:05:52.660 --> 02:05:57.460
+It's not hard for me to follow sort of my hunches. And sometimes even at the telescope,
+
+02:05:57.460 --> 02:06:03.140
+it's like, let's take a look at this one. I have a good feeling. And then usually something
+
+02:06:03.780 --> 02:06:14.100
+good or not bad pops out at the end. And I really like that A, that I have the freedom to do that,
+
+02:06:14.100 --> 02:06:19.220
+that I'm allowed to follow my hunches. Too many people, I think, are sort of boxed in with their
+
+02:06:19.220 --> 02:06:23.860
+job or their life. They don't have that kind of freedom. That's really important to me. And I
+
+02:06:23.860 --> 02:06:30.580
+certainly try to make use of that. I also try to teach that to others to trust them, to learn.
+
+02:06:30.660 --> 02:06:34.100
+You need to learn your things, but then you need to also trust that knowledge and that
+
+02:06:34.100 --> 02:06:41.940
+you have a grasp on it. You get out what you put in. And being able to contribute in meaningful
+
+02:06:41.940 --> 02:06:51.940
+ways to our knowledge about our cosmic ancestry, our cosmic history, that's a wonderful thing.
+
+02:06:53.780 --> 02:06:57.300
+In this way, your personal love story with the stars evolves.
+
+02:06:57.860 --> 02:07:02.260
+What advice, you've already spoken to it a little bit, but what advice would you give to young
+
+02:07:02.260 --> 02:07:07.620
+people that are trying to find the same kind of love story in their career, in their life?
+
+02:07:08.740 --> 02:07:15.300
+It seems increasingly hard for folks to find that. Sometimes I feel
+
+02:07:17.620 --> 02:07:24.100
+that young people have all the opportunities these days, and that's wonderful. But it's
+
+02:07:24.100 --> 02:07:30.100
+that's wonderful. But it's almost like that leads to some... What's the right word? They're
+
+02:07:30.100 --> 02:07:35.940
+a little bit too tired to make all the decisions because at some point, you need to put your eggs
+
+02:07:35.940 --> 02:07:41.780
+in a basket, and you need to be okay with that. We can't do all the things, even though we're
+
+02:07:41.780 --> 02:07:46.420
+often told you can be president, too. And I think that's really important to convey.
+
+02:07:47.140 --> 02:07:50.980
+But at the end of the day, we can only have sort of one job or one type of profession.
+
+02:07:51.620 --> 02:07:57.860
+I'm not saying you need to be locked in, but it's hard to change 180 degrees.
+
+02:07:59.220 --> 02:08:07.060
+And so lots of people, I think, are often afraid to really dig in, at least for some time,
+
+02:08:07.060 --> 02:08:11.380
+and get their hands real dirty and really learn from the bottom up.
+
+02:08:11.380 --> 02:08:12.260
+On one thing.
+
+02:08:12.260 --> 02:08:16.900
+On one thing, because they're afraid they're missing out on 99 other things.
+
+02:08:17.700 --> 02:08:23.620
+But life is a little bit missing out on 99 other things because we only have 24 hours in a day.
+
+02:08:25.540 --> 02:08:29.300
+I have that feeling very often. There are so many things I would like to do,
+
+02:08:30.020 --> 02:08:35.060
+many things I would like to try to be good at. Sometimes I wish I had a different job,
+
+02:08:35.940 --> 02:08:39.220
+because I have other interests, too, but I realized, okay, I can only do one thing.
+
+02:08:40.180 --> 02:08:47.460
+So I have no regrets. But this is a general feeling that I think most of us have.
+
+02:08:48.260 --> 02:08:55.060
+But if it stops you from really drilling down on one thing, to become an expert on one thing,
+
+02:08:55.060 --> 02:09:02.260
+to become really good at one thing that you call your own, then it just makes it difficult.
+
+02:09:02.820 --> 02:09:09.300
+And so a fulfilling life is in part likely to be discovered in the singular pursuit of a thing,
+
+02:09:09.300 --> 02:09:09.940
+of one thing.
+
+02:09:11.460 --> 02:09:12.500
+At least for a time.
+
+02:09:12.500 --> 02:09:16.420
+Yeah, for some time, with your heart and your hands.
+
+02:09:18.340 --> 02:09:21.300
+Because I think most people long to own something.
+
+02:09:22.340 --> 02:09:29.940
+We all, I think, want to leave some legacy of some sorts for our children, for humanity,
+
+02:09:29.940 --> 02:09:37.220
+for this planet. And I think it's really important for young people to strive for that
+
+02:09:37.220 --> 02:09:42.660
+and not lose sight or trade that for all the opportunities, because an opportunity is nothing
+
+02:09:42.660 --> 02:09:47.860
+if you don't do anything. You need to do something at the end of the day.
+
+02:09:47.860 --> 02:09:52.020
+So I chat with lots of people about this, and I often start by just saying, hey,
+
+02:09:52.020 --> 02:09:57.380
+tell me what you don't like. Because it's often much easier to-
+
+02:09:57.780 --> 02:10:00.180
+Just narrow it down, narrow it down, narrow it down.
+
+02:10:00.180 --> 02:10:06.100
+Let out what's not on your plate. And then this way we get a little bit closer. And then it's like,
+
+02:10:06.100 --> 02:10:10.900
+well, why don't you take a risk and just sign up for something for three months?
+
+02:10:10.900 --> 02:10:12.580
+But that's what it feels like.
+
+02:10:12.580 --> 02:10:16.500
+That's what it feels like. And it is that, is a risk. Commitment is a risk.
+
+02:10:17.300 --> 02:10:21.140
+Because you're basically sacrificing all the other possible options.
+
+02:10:21.140 --> 02:10:25.460
+But then I guess you have to trust the magic you noticed in that thing.
+
+02:10:25.460 --> 02:10:30.500
+If you notice one thing, just stick with it. And then maybe there's something there.
+
+02:10:30.500 --> 02:10:36.180
+Right, right. And this moment of kind of feeling it in your entire body and mind,
+
+02:10:36.180 --> 02:10:41.060
+that this is the right thing. Getting there is probably really hard.
+
+02:10:41.700 --> 02:10:44.180
+But if you don't try, you won't find out.
+
+02:10:44.180 --> 02:10:47.460
+The hard stuff is the fun stuff. That's also another thing to find out.
+
+02:10:47.460 --> 02:10:48.740
+And then there is that, yes.
+
+02:10:49.380 --> 02:10:54.980
+Somehow, it doesn't make sense. You also mentioned that you've taken a little
+
+02:10:54.980 --> 02:11:01.220
+stroll into the artistic representation of yourself. Can you speak to that for a little bit?
+
+02:11:01.780 --> 02:11:09.380
+Yes. Well, I already just mentioned, sometimes I wish I had more time to do other things.
+
+02:11:09.380 --> 02:11:17.540
+So I find little sideways, I guess, to pursue things that I like besides astronomy,
+
+02:11:17.540 --> 02:11:24.100
+or at least I try to find connections. And so some years ago, I, again, with the help
+
+02:11:24.420 --> 02:11:33.780
+of my friend who made this Marie Curie movie, she and I wrote a one-woman play where I actually
+
+02:11:33.780 --> 02:11:41.460
+portray Lise Meitner, who was an Austrian-German nuclear physicist. I'm from Germany, so I have
+
+02:11:41.460 --> 02:11:51.300
+the right accent for that. And we wrote this play about this moment of discovery of nuclear fission.
+
+02:11:51.300 --> 02:11:57.860
+Again, this is an absolutely critical piece that explains my work today.
+
+02:11:58.980 --> 02:12:04.820
+And we all stand on the shoulder of giants. She was one of those giants. And in some ways,
+
+02:12:05.780 --> 02:12:11.540
+it's, of course, a way for me to acknowledge other people's work that have come before me.
+
+02:12:11.540 --> 02:12:17.620
+It's a wonderful way to highlight the contribution by a prominent woman.
+
+02:12:18.500 --> 02:12:28.660
+And the way I do it, it's a 25-minute play in costume where I relive for people the
+
+02:12:28.660 --> 02:12:37.060
+moment of discovery. Then I turn into myself, and then I give a 30-minute presentation on
+
+02:12:37.060 --> 02:12:42.980
+the art process and the creation of heavy elements, because the audience can now perfectly
+
+02:12:42.980 --> 02:12:49.060
+understand that the public audience, given the historic backdrop of this discovery, that they
+
+02:12:49.060 --> 02:12:56.500
+just lived through my presentation. And it's a wonderful compliment that almost spends a
+
+02:12:56.500 --> 02:13:05.380
+hundred years from one woman to the next passing on the torch. And when we write up our results
+
+02:13:05.380 --> 02:13:09.860
+in, let's say, in magazines like Nature and Science, it's always about the results
+
+02:13:10.500 --> 02:13:19.780
+on the golden platter, perfectly prepared. The discovery is never described, only ever the results.
+
+02:13:20.900 --> 02:13:25.780
+You asked me beforehand, right, what does it feel to be at the telescope in this moment, right?
+
+02:13:26.740 --> 02:13:32.820
+I'm happy to talk about this, but it's nowhere written, never. Nobody really talks about it.
+
+02:13:33.380 --> 02:13:42.260
+And so having a form of, you know, theater, of the arts to bring this exciting moment,
+
+02:13:42.260 --> 02:13:49.300
+that is what we all want to experience as scientists, to a wider audience is so profound
+
+02:13:49.300 --> 02:13:55.460
+and so rewarding. And they all love it, because everyone can understand a moment of discovery.
+
+02:13:55.460 --> 02:14:00.340
+I was looking for something, and then I found it. It's like you misplace car keys, right?
+
+02:14:00.980 --> 02:14:02.660
+Mm-hmm. Or love.
+
+02:14:03.380 --> 02:14:06.100
+Yes, yes. Everyone can understand that.
+
+02:14:06.100 --> 02:14:07.620
+Both the glorious experiences, yes.
+
+02:14:08.340 --> 02:14:15.460
+The implications and the findings, that is much harder to understand for anyone. This is where
+
+02:14:15.460 --> 02:14:21.700
+the scientist's work truly lies. This is our job. But the moment of discovery is easy,
+
+02:14:22.500 --> 02:14:28.340
+and it's beautiful, and it needs to be said. And so taking my audience on this journey,
+
+02:14:28.980 --> 02:14:34.980
+what is the perils? What are my worries? And then, oh, here is the moment of discovery.
+
+02:14:34.980 --> 02:14:42.980
+Let me tell you about it. It profoundly transformed me. And here's how it went, right? It's so good.
+
+02:14:42.980 --> 02:14:47.220
+And art is a way to reveal this fundamental human side of science.
+
+02:14:47.220 --> 02:14:54.420
+Yes. The problem with science is that's people doing it. Maybe not a problem, but that is it.
+
+02:14:54.420 --> 02:14:58.660
+That's also what makes it beautiful, right? I mean, humans are fascinating in that we're
+
+02:14:58.660 --> 02:15:02.340
+able to come up with these ideas through all the struggle, through all the hardship,
+
+02:15:02.340 --> 02:15:08.500
+through all the hope, through all the search. And so the art's a great way to portray that
+
+02:15:09.220 --> 02:15:14.340
+and to broadcast that, right? I think this is how the audience really should be interacting with
+
+02:15:14.340 --> 02:15:20.020
+scientists, much less about the findings, but really more about this yearning for answers,
+
+02:15:20.020 --> 02:15:25.620
+right? I need to find these khakis. I need it because I need to go, right? It's like now, now.
+
+02:15:26.900 --> 02:15:34.100
+And then, oh, God, here it is. Now I can go my merry ways. It's so relatable. We just need to
+
+02:15:34.100 --> 02:15:40.820
+find more and better ways to do that. So I hope to turn this into also a digitized version at
+
+02:15:40.820 --> 02:15:46.260
+some point to, again, make it more accessible. I hope so too. So far, I'm just doing it in person.
+
+02:15:46.260 --> 02:15:53.620
+I would love it. I think a lot of people would love to see it. So I hope you do just that.
+
+02:15:53.620 --> 02:15:57.860
+Let me ask you a big ridiculous question. You look up at the stars, you look up at the
+
+02:15:58.740 --> 02:16:05.540
+early, early, early stars. So let me ask the big question that we humans often ask
+
+02:16:05.540 --> 02:16:10.820
+and struggle to answer. What's the meaning of this whole thing? Why are we here?
+
+02:16:10.820 --> 02:16:18.500
+We talked about the biological evolution requires the chemical evolution for all of this to kind of
+
+02:16:18.500 --> 02:16:25.460
+play out and carbon played this important role. And in some sense, we're just a consequence of
+
+02:16:25.460 --> 02:16:32.340
+all of these things being the way they are, right? So maybe this is just where we are supposed to be
+
+02:16:32.980 --> 02:16:41.380
+because the laws of physics sort of work the way they do. And we talked much about the variety of
+
+02:16:42.500 --> 02:16:51.620
+everything really in certainly from over here to over there and things in the vicinity of where
+
+02:16:51.620 --> 02:16:57.940
+the sun and the solar system formed, they were the way they were. And life maybe was a necessary
+
+02:16:57.940 --> 02:17:03.220
+consequence of that. In some sense, I like to believe that because then it becomes reproducible
+
+02:17:03.220 --> 02:17:08.660
+and we can apply that same argument elsewhere. If it's total chance, right, that makes it harder.
+
+02:17:09.300 --> 02:17:17.940
+That's not truly satisfying to a scientist. So it's a consequence of psychological evolution,
+
+02:17:17.940 --> 02:17:22.020
+which is a consequence of biological evolution, which is a consequence of chemical evolution,
+
+02:17:22.020 --> 02:17:27.620
+consequence of physical evolution, whatever disciplines. It's turtles on top of turtles.
+
+02:17:28.020 --> 02:17:34.180
+Turtles all the way down. Yes. You have studied some of the most ancient turtles.
+
+02:17:34.180 --> 02:17:39.540
+Yes. At the very bottom of the thing. That's right. They live for quite a while.
+
+02:17:39.540 --> 02:17:46.420
+Yes, they do. Well, thank you for your incredible work. Thank you for highlighting both the human
+
+02:17:46.420 --> 02:17:52.020
+side and the deep scientific side. I'm a huge fan of your work and thank you for everything you do.
+
+02:17:52.020 --> 02:17:55.860
+And thank you for talking today. This is awesome. Of course. It was wonderful. Thank you.
+
+02:17:56.820 --> 02:18:00.740
+Thanks for listening to this conversation with Anifer Bell. To support this podcast,
+
+02:18:00.740 --> 02:18:05.540
+please check out our sponsors in the description. And now let me leave you with some words from
+
+02:18:05.540 --> 02:18:12.740
+Douglas Adams in Hitchhiker's Guide to the Galaxy. Far out in the uncharted backwaters
+
+02:18:12.740 --> 02:18:19.940
+of the unfashionable end of the western spiral arm of the galaxy lies a small unregarded yellow sun.
+
+02:18:20.820 --> 02:18:27.060
+Orbiting this at a distance of roughly 92 million miles is an utterly insignificant little blue-green
+
+02:18:27.060 --> 02:18:33.540
+planet whose Abe-descendant lifeforms are so amazingly primitive that they still think
+
+02:18:33.540 --> 02:18:40.260
+digital watches are a pretty neat idea. Thank you for listening. I hope to see you next time.
+

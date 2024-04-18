@@ -1,0 +1,3794 @@
+WEBVTT
+
+00:00.000 --> 00:05.440
+It's a machine. It was my friend, Daniel Beauchamp and I, we had this long running joke about a
+
+00:05.440 --> 00:10.160
+proud parent machine that you could give a quarter and it pats you on the shoulder and says proud of
+
+00:10.160 --> 00:17.520
+you. So yeah, I still have that hanging on my wall in my workshop. So that one I'm really happy with.
+
+00:17.520 --> 00:22.480
+I just think it's a really funny concept and also I executed the build well.
+
+00:22.480 --> 00:25.120
+So it's an arm? Like what's the build?
+
+00:25.120 --> 00:29.440
+Yeah, I built it off of an old lamp arm. Yeah, basically it's just a motorized arm
+
+00:30.000 --> 00:35.680
+and this kind of torso of a person. So it's actually a hand, right?
+
+00:35.680 --> 00:41.280
+It's just laser cut plywood and it kind of has like, it looks creepy. And yeah, it says
+
+00:41.280 --> 00:46.080
+proud of you son. Because I just thought that sounded more funny than proud of you daughter
+
+00:46.080 --> 00:51.760
+and also proud of you son just, it immediately communicates that it's a parent. It's not just
+
+00:51.760 --> 00:57.840
+like a colleague or something. It's like proud of you. And it charges you a quarter for it.
+
+00:58.640 --> 01:04.640
+Yeah, but he added like chat GPT on top of that and fine tune it on conversations you've had with
+
+01:04.640 --> 01:08.880
+your parents and all of a sudden you have a thing that can fundamentally transform your psyche.
+
+01:08.880 --> 01:16.560
+Yeah. The following is a conversation with Simone Yetch, an inventor, designer, engineer and
+
+01:16.560 --> 01:22.080
+roboticist, famous for a combination of humor and brilliant creative design in the systems and
+
+01:22.080 --> 01:29.040
+products she creates, including as part of her new product design company called Yetch. She has a
+
+01:29.040 --> 01:34.640
+popular YouTube channel where she has demonstrated a lot of her incredible and fun designs and
+
+01:34.640 --> 01:42.320
+inventions from quote shitty robots to a Tesla Model 3 converted into a truck. But where she
+
+01:42.320 --> 01:46.800
+also revealed her personal journey after having been diagnosed with a brain tumor.
+
+01:47.680 --> 01:54.000
+Simone is a brilliant, fun and inspiring human being. It was truly an honor for me to get to
+
+01:54.000 --> 01:59.680
+meet her and to have this chat. This is Alex Friedman podcast. To support it, please check
+
+01:59.680 --> 02:05.040
+out our sponsors in the description. And now dear friends, here's Simone Yetch.
+
+02:06.080 --> 02:10.160
+What was the first cool thing you built where you fell in love with the process of making stuff?
+
+02:10.160 --> 02:14.880
+You know, I think in the beginning of building stuff, you run into the limitations of your
+
+02:14.880 --> 02:21.440
+skills so much. So I feel like honestly building gets less and less frustrating or like, I love
+
+02:21.440 --> 02:25.360
+it more and more, the more I know. So the limitations aren't fun?
+
+02:25.360 --> 02:27.760
+Like when it's really frustrating? The limitations are fun, but it's like
+
+02:27.760 --> 02:32.320
+when you have an idea of something and you want to make it a certain level and then you just
+
+02:32.960 --> 02:36.720
+have to compromise with the materials and the tools and the skills you have.
+
+02:37.440 --> 02:45.920
+Um, so I can't remember first time where I felt like, wow, this was so smooth. I'm so proud of
+
+02:45.920 --> 02:51.600
+it. Like, I feel like a lot of people, I watched them build stuff and it's just like watching
+
+02:51.600 --> 02:57.760
+water pour down, you know, it's just like so easy. And for me, it's just like trying to
+
+02:58.560 --> 03:01.920
+shove a toy car into a wall. So you're not able to step back and
+
+03:01.920 --> 03:07.200
+marvel like at the early creations, even like, even like, um, we're not even talking
+
+03:07.200 --> 03:12.240
+the Arduino stuff even before then. I'm from Sweden and you have to choose either
+
+03:12.240 --> 03:16.320
+sewing or woodworking. And I chose to like woodworking in middle school.
+
+03:16.320 --> 03:21.040
+And I remember the sense of pride when I got to bring something home and that thing of like,
+
+03:21.040 --> 03:28.560
+oh my God, I get to show my parents this. And I think that is kind of the feeling that I've
+
+03:28.560 --> 03:33.040
+built my job around. It's like the sense of pride and wanting to show people something
+
+03:33.040 --> 03:37.040
+that I made. And like back then it was like a little wooden spoon, you know,
+
+03:37.760 --> 03:44.240
+and now it's a slightly larger wooden wooden spoon that is dynamic and moves and has a mind
+
+03:44.240 --> 03:50.880
+of its own. Um, you first started doing more engineering type stuff with, uh, Arduino boards
+
+03:50.880 --> 03:56.720
+at punch through design, which is an SF engineer firm. What are just from your memory there? What
+
+03:56.720 --> 04:00.960
+are some cool things you built there? So the thing is I went to advertising school
+
+04:01.760 --> 04:07.920
+and I just like a vocational studies a year. And I realized there that I didn't care much
+
+04:07.920 --> 04:11.760
+for advertising, but I thought it was really fun to build stuff and program. So like, I just
+
+04:12.400 --> 04:18.880
+completely focused on that. And there I built my first hardware project or like electronics
+
+04:18.880 --> 04:24.400
+project, which was this iPhone case with retractable guitar strings. So basically I
+
+04:24.480 --> 04:29.920
+imagined that you could like pull out guitar strings from the bottom of your iPhone and you
+
+04:29.920 --> 04:35.120
+could pluck it to your belt and then you could hold a cord on the screen. And I built that
+
+04:35.120 --> 04:41.440
+together with my friend Jonathan and I was like, Oh, this is dope. I thought it was so much fun.
+
+04:41.440 --> 04:45.920
+And I considered like, Oh, I should I go to school for this? But then I thought,
+
+04:46.800 --> 04:53.120
+maybe I can get a job and I could get paid to learn about electronics. So just based off of
+
+04:53.120 --> 04:58.960
+that one project, I got the job at punch through design, which actually was a one year internship.
+
+04:58.960 --> 05:04.000
+Can you explain what we're talking about here? So it's a case with guitar strings attached.
+
+05:04.000 --> 05:10.160
+Yeah. Does it actually work at all? It does. These are not on the screen guitar strings.
+
+05:10.160 --> 05:15.520
+No. So they're actual strings that you pull out. So there's a mechanism that's almost like a seat
+
+05:15.520 --> 05:23.040
+belt mechanism. And yeah, you pull them out from the bottom of your phone and you can attach them
+
+05:23.040 --> 05:30.320
+to your belt. I mean, it's terrible. There's a few different ways to decide if somebody's
+
+05:30.320 --> 05:36.480
+touching a guitar string. And what you do in a real guitar is you have the little, it's like
+
+05:36.480 --> 05:41.600
+measuring the vibration or the change in the, as the, yeah, you're measuring how the guitar is
+
+05:41.600 --> 05:47.760
+vibrating and you can't really do that because I can't have a receiving sensor because the
+
+05:47.760 --> 05:52.320
+guitar strings are going to move in relationship to that because you don't have like a rigid neck.
+
+05:52.320 --> 05:58.160
+And this is like, yeah, this was my first electronics project. I was a little fledging baby
+
+05:58.720 --> 06:05.360
+maker, but what I decided was to use capacitive touch because that is independent on if the
+
+06:05.360 --> 06:09.600
+guitar strings are moving in relationship to something or in relation to something.
+
+06:09.600 --> 06:14.640
+So basically there was just this little Bluetooth Arduino board that this company
+
+06:14.640 --> 06:20.240
+Punch Through Design made. So that was how I found them. And I measured the capacitive touch. So like
+
+06:20.240 --> 06:25.760
+whenever the guitar string was measured, there was this little microcontroller that was like,
+
+06:25.760 --> 06:31.760
+oh my God, a guitar string got measured or it touched. And then that sent a signal over
+
+06:31.760 --> 06:37.760
+Bluetooth to my phone. And I'd built a little iPhone app that interpreted those Bluetooth
+
+06:37.760 --> 06:42.880
+signals and then checked what type of chord I was holding on the screen and then played the
+
+06:42.880 --> 06:48.000
+coherent sound. So you're holding the chords on the screen. So you're doing the multi-touch
+
+06:48.000 --> 06:54.880
+sensing there. That's incredible. I honestly cannot believe that I pulled it off because I
+
+06:54.880 --> 07:01.120
+think I was, I was, ignorance was definitely bliss because that was like, yeah, the first hardware
+
+07:01.520 --> 07:07.280
+project I'd ever built, the first iPhone app I'd ever programmed. And like now, if somebody was
+
+07:07.280 --> 07:11.280
+like, hey, I want this to be my first project, I would probably be like, oh, that's a lot, but
+
+07:12.640 --> 07:13.440
+hold it off.
+
+07:13.440 --> 07:18.240
+Well, because that's such an interesting thing for people to hear because it's your first project
+
+07:18.240 --> 07:23.920
+and a lot of people stop because of the difficulty of their first project. They never truly discovered
+
+07:23.920 --> 07:28.000
+their own genius because they stopped at the first and you didn't stop. So it'd be interesting to
+
+07:28.000 --> 07:33.040
+psychoanalyze you on the couch of why you didn't stop because you have to build an app. You have
+
+07:33.040 --> 07:39.040
+to figure out how to, did you know how to program much? Or no. I mean, a little bit, but I never
+
+07:39.040 --> 07:45.520
+programmed it or done any iOS apps. Okay. So you have to figure out how to get, forget like what
+
+07:45.520 --> 07:49.680
+the app does, just get the app running and working. And then you have to figure out how to get the
+
+07:49.680 --> 07:55.200
+sensors in like real time, the finger touching, and you have to connect how to get the capacitors
+
+07:55.200 --> 07:59.200
+touch working with the microcontrollers. Do you know anything about the capacitor touch sensors
+
+07:59.200 --> 08:04.720
+at that time? I mean, it's pretty easy. Now it's basically everything's easy. Yeah. You know,
+
+08:04.720 --> 08:12.560
+rockets are pretty easy. You sound like my grandma. She's, I have an Italian grandma and I always
+
+08:12.560 --> 08:18.080
+trying to get her, we're like trying to get her to tell her recipes and every recipe starts with,
+
+08:18.480 --> 08:22.640
+it's very simple. Yeah. And then there's like 45 minutes of her explaining it.
+
+08:22.640 --> 08:28.080
+Yeah. It's like with gymnastics at the Olympics, they make it look easy. The best people in the
+
+08:28.080 --> 08:34.080
+world always make the impossible seem easy. I pride myself with making buildings look really
+
+08:34.080 --> 08:38.560
+hard because I feel like I'm always struggling so much. You make the easy seem impossible.
+
+08:38.560 --> 08:44.560
+Yeah. No. So how many strings was it? Was it just one? Oh gosh. I mean, this is such a long
+
+08:44.560 --> 08:54.560
+time ago. No, it was six. Oh, six strings and you can touch it and then there's, wow. And they can,
+
+08:54.560 --> 09:02.480
+and then the phone itself makes a sound. And I still think it's such a cool concept to have this
+
+09:02.480 --> 09:07.440
+like mobile. I'm not even a guitar player. I don't know. I was, I mean, I got the idea because I was
+
+09:08.240 --> 09:13.600
+kind of strumming on my charge cord of my phone. Oh, like an air guitar, but on a cord? Yeah.
+
+09:14.320 --> 09:19.680
+But I've been thinking about it because I'm like, oh man, it would be really fun to go back to that
+
+09:19.680 --> 09:27.680
+project with what I know now. But the problem with it is that when you're producing the tension in
+
+09:27.680 --> 09:33.440
+your string, just with your arm, like you can't make it taut enough to actually play. Like it
+
+09:33.440 --> 09:39.360
+kind of becomes playing these like saggy strings. So as you're not really getting that experience.
+
+09:39.360 --> 09:44.400
+And I think that's why, I mean, I, yeah, I haven't really pursued it. I wonder if there's
+
+09:44.400 --> 09:50.320
+a way to generate the tightness from the case itself, because it could device that unfolds
+
+09:50.320 --> 09:55.200
+and then with some kind of tightening mechanisms tight. Yeah. But then it kind of becomes this
+
+09:55.200 --> 09:59.920
+like whole thing in a guitar. Then it just becomes a really shitty guitar. Yeah. Like,
+
+09:59.920 --> 10:05.040
+which this is a really shitty guitar, but it's also not a guitar. But it's so shitty. It's awesome.
+
+10:05.040 --> 10:11.760
+Yeah, I don't know. But it's a cool, it's cool that you have an interface between a device
+
+10:11.760 --> 10:18.080
+that's capable of incredible computational power and an actual hardware thing. Is there something
+
+10:18.080 --> 10:24.800
+that you can psychoanalyze that made you finish that others could hear in their own struggle to
+
+10:26.320 --> 10:30.640
+do their first project like that? Because you were not, you were in a non-engineering person,
+
+10:30.640 --> 10:39.520
+technically. And you did a pretty cool renegade out there, wild, no instructions,
+
+10:40.560 --> 10:45.280
+engineering project. No, it's definitely, it was an off-road build where it's like,
+
+10:45.280 --> 10:49.440
+if you're building a Lego kit, it's very much on the road and you're following instructions.
+
+10:49.440 --> 10:53.280
+And this is like, you have no idea if you're headed for a cliff or a dead end, or you're
+
+10:53.280 --> 11:00.560
+going to get stuck. I think it had a natural pressure to it because it was a school project.
+
+11:01.360 --> 11:06.880
+So it did have deadlines built into it and stuff like that. So that definitely helped.
+
+11:06.880 --> 11:12.480
+But I think also it was just so incredibly motivating when I realized that I might be
+
+11:12.480 --> 11:17.600
+able to pull it off. Like that was, I felt like a bloodhound, you know, and you're just like,
+
+11:17.600 --> 11:24.640
+oh my God, I can actually make this happen. And I think if I hadn't seen that the horizon,
+
+11:24.640 --> 11:28.800
+it would have been harder to stick through. Were you able to see the end of the tunnel
+
+11:30.560 --> 11:36.800
+pretty early on? No, not really. So there's something just suffering for a while. I don't
+
+11:36.800 --> 11:44.880
+know how your brain works, but it's like, if I have a problem, I can't stop thinking about it.
+
+11:44.880 --> 11:53.840
+It's so fun to think about it. I spent two and a half years designing a coat hanger,
+
+11:56.320 --> 12:01.600
+and I just can't stop thinking about it. I get so into it because I think it's so much fun.
+
+12:02.480 --> 12:06.320
+Take me to this two-year journey of the coat hanger.
+
+12:06.320 --> 12:09.680
+The coat hanger. How did it begin?
+
+12:09.680 --> 12:14.880
+How did it begin? It began with a corner in my home where I couldn't fit a coat rack.
+
+12:14.880 --> 12:18.960
+The thing is, I shouldn't have brought this up because I'm going to release it as a product
+
+12:18.960 --> 12:25.440
+probably in a year. Or an actual product. Okay. Well, that's a mystery. It's a mystery, yeah.
+
+12:25.440 --> 12:29.280
+But it solves a fundamental problem in the human condition.
+
+12:29.280 --> 12:39.600
+And I am so excited about it. And I get so pumped about it because I see it's just this issue
+
+12:39.600 --> 12:45.680
+or this problem that I want to solve, and I can't put it to rest until I have.
+
+12:47.120 --> 12:51.840
+Speaking of coat hangers, doorknobs have always been interesting to me.
+
+12:53.360 --> 12:57.280
+It's cool how there's things that everybody uses that somebody designed.
+
+12:58.080 --> 12:59.280
+Lex. Yeah.
+
+12:59.280 --> 13:05.200
+Oh my God. So, okay. I have two big ... So basically, I started on YouTube,
+
+13:05.200 --> 13:10.560
+and I've been doing that for the last seven or eight years. And I've been thinking of like,
+
+13:10.560 --> 13:17.680
+okay, what's next for me? Because I want to keep on trying out new things. And I'm going into two
+
+13:17.680 --> 13:24.720
+different avenues. One is the product business that I started, Coat Hangers TBD. And then I
+
+13:24.720 --> 13:29.760
+am working on a pilot episode of a show where each episode is about an everyday object and
+
+13:29.760 --> 13:34.320
+why they look the way that they do. So we've written a pilot episode about forks. And it's
+
+13:34.320 --> 13:39.920
+all about like, why do they look the way that they do? Why did this became the eating implement
+
+13:39.920 --> 13:45.520
+of the West? Why are we ruled by an iron fork? How did that happen? And every everyday object
+
+13:45.520 --> 13:49.520
+that you have and that you just take for granted, somebody just made it up.
+
+13:49.520 --> 13:55.760
+Yeah. We're all sheep. We all keep using it, even if it's not optimal. I mean, presumably,
+
+13:55.760 --> 14:00.160
+most objects are optimal, you hope, or at least a local optimal.
+
+14:00.240 --> 14:04.720
+Yeah. And that's what I think is so like the world around us. And this is why I love building
+
+14:04.720 --> 14:09.680
+things is because it just opens up this idea that the world around us is so malleable.
+
+14:09.680 --> 14:15.280
+And you can make objects work for you better. Like I spent, I made this fruit bowl. I had a
+
+14:15.280 --> 14:19.840
+fruit bowl and I was always annoyed that I had either too little or too much fruit for it.
+
+14:20.480 --> 14:24.320
+So I made a fruit bowl where I can change the diameter of it. It has a mechanism so you can
+
+14:24.320 --> 14:27.600
+make it bigger or smaller. And that's just like the thing of being like,
+
+14:28.880 --> 14:33.680
+bowls. Why are they the way that they are? I can make them different. And I think like,
+
+14:33.680 --> 14:37.440
+I want to make an episode about doorknobs. I think it's so interesting. Why are they the way
+
+14:37.440 --> 14:41.920
+they are? Why are they placed the way where they are? I think that's going to be a rabbit
+
+14:41.920 --> 14:46.880
+hole from which you will never return. I would happily live in that rabbit hole forever.
+
+14:47.440 --> 14:53.360
+Like if I can dig out a little niche for myself there, because I think it's like,
+
+14:55.360 --> 14:58.720
+because you know they go so deep. They're also on different sides of doors.
+
+14:59.360 --> 15:02.560
+You never, like the push-pull situation on doors in general,
+
+15:03.360 --> 15:08.080
+like that's one of the main problems of humanity is figuring out the push-pull.
+
+15:08.080 --> 15:13.360
+It is embarrassing. It's just, okay, how many? There's eight billion people on Earth.
+
+15:13.920 --> 15:19.920
+Every single second there is millions of people being embarrassed by the confusion
+
+15:20.640 --> 15:22.320
+of what the push-pull. Real life stats.
+
+15:22.320 --> 15:27.360
+Right now there's somebody, some guy first time in college is trying to be impressive
+
+15:27.360 --> 15:32.160
+to everybody. He pushes and he plays it off like it's cool. Oh shit, I knew that.
+
+15:32.720 --> 15:36.240
+No, but that's the thing. And it affects our behaviors. That was why I think it's so
+
+15:36.240 --> 15:41.920
+interesting with forks is that forks actually affect our eating behaviors. And they can get you
+
+15:41.920 --> 15:47.280
+to eat faster or slower, take bigger bites or smaller bites. And there are all these ways,
+
+15:47.280 --> 15:56.240
+or like the social, I mean the reason that chopsticks work is because they do the food
+
+15:56.240 --> 16:03.920
+chopping in the kitchen rather than on the plate. And also you have a bowl that you bring to your
+
+16:03.920 --> 16:09.440
+mouth with, whereas a plate you keep on the, like there are just all these ways and these
+
+16:09.440 --> 16:15.520
+objects affect our behavior, opening and closing doors. And I think it's such an interesting take
+
+16:15.520 --> 16:20.640
+on culture through and like human behavior through these objects that we use every day
+
+16:20.640 --> 16:24.240
+and we never question them really. Yeah. And then there's institutions
+
+16:24.240 --> 16:29.680
+that are controlling our mind that don't want us to know the truth. Why are forks not more popular?
+
+16:29.680 --> 16:34.160
+Have you asked yourself that question? Yeah. No, it's all big utensil is behind all of it.
+
+16:35.120 --> 16:41.040
+All right. So, I mean, in those early days, did you suffer from imposter syndrome?
+
+16:41.680 --> 16:48.880
+Like that leap to being an engineer, was there, especially when you started
+
+16:48.880 --> 16:53.440
+working on punch to the design on a team of engineers, was there insecurity?
+
+16:54.400 --> 17:04.320
+Well, yes and no. I think I've, I always try to flip my flaws into selling points. And for that,
+
+17:04.320 --> 17:13.600
+so getting that job, I was like, oh, you're a team of engineers. Everybody working here is an
+
+17:13.600 --> 17:20.320
+engineer. Your customers are not all engineers. You need somebody who can be your filter and tell
+
+17:20.400 --> 17:23.520
+you when something's going to be too hard for your customers to understand.
+
+17:23.520 --> 17:28.720
+So it was more me being like, oh no, it might seem that me not having skills is a bad thing,
+
+17:28.720 --> 17:35.600
+but actually it's a great thing. I represent the everyday person. I understand deeply what
+
+17:35.600 --> 17:41.280
+everybody needs and wants. Yes, that is me. The representation of the average human.
+
+17:42.560 --> 17:47.120
+But I mean, I remember that. So I studied physics for a year in college and then I dropped out.
+
+17:47.760 --> 17:53.600
+And I had this rule for myself that whenever I did not understand any something,
+
+17:53.600 --> 17:58.320
+I would ask a question. So I was always raising my hand in class and it's this room,
+
+17:58.320 --> 18:03.280
+entire like auditorium filled with incredibly intelligent people who are
+
+18:03.280 --> 18:09.680
+mortified of seeming stupid. And I think that was really like, and I remember people at the end of
+
+18:09.680 --> 18:13.280
+the year coming up to me and being like, thank you so much for all the questions you asked,
+
+18:13.280 --> 18:16.880
+because whenever there was something that I was too scared to ask, you always raised your hands.
+
+18:18.080 --> 18:22.880
+I think it is a bit of a skill. And I think that is kind of how I channel my imposter syndrome is
+
+18:22.880 --> 18:29.120
+I'm just like, no, let's lay it all out there. So you're okay being almost like self-deprecating,
+
+18:29.840 --> 18:33.920
+just coming off. I mean, I'm definitely that. I kind of lean into, I call myself an idiot.
+
+18:33.920 --> 18:39.840
+I lean into being stupid. I think not all heroes wear capes and the guy and girl who asks the
+
+18:39.840 --> 18:45.040
+stupid question is everybody's hero, including the teachers.
+
+18:45.040 --> 18:53.200
+Yeah. I think it's both, it's a double-edged sword. I started out on the internet kind of,
+
+18:53.200 --> 18:57.600
+I kind of got the moniker, the queen of shitty robots, because I posted a lot of stuff on
+
+18:58.240 --> 19:02.800
+slash R slash shitty robots on Reddit and people started calling me the queen of slash R slash
+
+19:02.800 --> 19:07.120
+shitty robots. And then the slash R kind of dropped. So what I'm trying to say is I did not come up
+
+19:07.120 --> 19:15.200
+with that myself, but I did happily adopt it. So I definitely came from a place of building things
+
+19:15.200 --> 19:22.160
+that didn't work and kind of, yeah, everything going wrong every time, happily failing.
+
+19:22.800 --> 19:28.880
+And I think that was amazing. It was a really powerful tool for me to not get my perfectionism
+
+19:28.880 --> 19:34.320
+in the way, because if I set out to do something that's great, then I'm never going to start.
+
+19:34.320 --> 19:42.000
+And I was like, no, I just need something that looks funny. But what I've realized now is there
+
+19:42.000 --> 19:47.840
+was also a defense mechanism. Being self-deprecating is like always beating people to the punch.
+
+19:48.640 --> 19:56.000
+It kind of was a survival tactic on the internet of being never daring to set out as an expert.
+
+19:56.000 --> 20:01.600
+And I still do that. I'm terrified to tell people how to do something, even if I know,
+
+20:02.320 --> 20:08.320
+because it kind of opens you up for being shot down. So I think I definitely have a
+
+20:08.320 --> 20:13.760
+conflicted relationship with it. And now, especially as I'm getting older, I am more
+
+20:13.760 --> 20:18.480
+skilled than I was before. I mean, I'm a CEO of three businesses and I'm like, I don't need to
+
+20:18.480 --> 20:23.680
+keep on talking myself down all the time. So yeah, I think it's definitely something that
+
+20:23.680 --> 20:30.960
+has served me really, really well. And that is still a thing that I have in my work life
+
+20:30.960 --> 20:39.040
+and in my relationships. But I'm also trying to only do it when it's beneficial to me and not
+
+20:39.040 --> 20:43.600
+when it's harmful. Yeah. I mean, but when you're as successful as you are, I feel like people like it
+
+20:44.240 --> 20:47.600
+when you're self-deprecating. You don't take yourself seriously. You have that humility.
+
+20:48.640 --> 20:53.760
+I think it's probably the hardest when you're starting out. Yeah. Because no, I think it was
+
+20:53.760 --> 20:58.640
+easier than almost. I don't know. But nobody takes you seriously, right? When you're starting out,
+
+20:58.640 --> 21:03.680
+when you're young. You know, I just realized that I played a lot more stupid than I was.
+
+21:04.640 --> 21:14.960
+And I think it's also, oh gosh, I can't believe I'm the one bringing this up. But being a woman
+
+21:14.960 --> 21:21.920
+in a male-dominated field and you're like, I was just trying to make myself the least
+
+21:21.920 --> 21:26.960
+amount threatening or really unthreatening because people are threatened by you in different ways.
+
+21:27.920 --> 21:33.680
+You have such a thin line that you can walk where you're like, okay, I need to be just attractive
+
+21:33.680 --> 21:37.840
+enough for people to not be offended by my appearance, but just unattractive enough for
+
+21:37.840 --> 21:43.280
+people to not sexualize me. I have to be just smart and witty enough for people to be like,
+
+21:43.280 --> 21:48.800
+oh my God, that's really cool. But also shoot myself down enough for other people not to be
+
+21:48.800 --> 21:53.200
+able to do it or be like, oh yeah, watch this woman try to thinking that she knows how to
+
+21:54.000 --> 22:00.000
+build electronics. That's an interesting skill to build, especially when you put yourself out
+
+22:00.000 --> 22:05.920
+there on the internet. Unfortunately, that's the reality of the internet. And it's a skill
+
+22:05.920 --> 22:09.680
+you have to kind of develop. And it's actually why a lot of really brilliant people avoid the
+
+22:09.680 --> 22:18.000
+internet. At MIT, for example, there's not many brilliant professors or PhD students and so on
+
+22:18.000 --> 22:28.080
+just putting their stuff out there. Because if they really put their heart and soul into a thing,
+
+22:28.080 --> 22:34.160
+first of all, that's really hard. And nobody sees it. And everyone's like, this is boring.
+
+22:34.160 --> 22:39.760
+So there's so many failure modes, like this is boring. Or like you said, you're coming off as
+
+22:39.760 --> 22:43.760
+too much of an expert, you're not self-deprecating enough. Well, there's just so many failure modes
+
+22:43.760 --> 22:48.160
+and it's terrifying for people. But I feel like that's a skill you should learn. Because
+
+22:49.840 --> 22:55.920
+most people at MIT, at university and so on are doing a lot of awesome stuff. And you should show
+
+22:55.920 --> 23:04.800
+it off. But I feel like you figured out a really good process of showing it off. When you fail,
+
+23:04.800 --> 23:09.920
+when you succeed, all of it, not taking yourself too seriously, but also revealing through the
+
+23:09.920 --> 23:15.360
+humor and the self-deprecation, a kind of genius, a kind of intelligence and curiosity.
+
+23:16.080 --> 23:19.120
+I just want to snapshot that quote and put it on my LinkedIn profile.
+
+23:19.120 --> 23:22.240
+On the back of your book. When is your autobiography coming out?
+
+23:22.240 --> 23:27.040
+Never. You don't want to say that because like a year from now.
+
+23:27.040 --> 23:33.040
+Oh, gosh. I don't want to shit on autobiographies. No. Just by saying that,
+
+23:33.040 --> 23:38.800
+I'm shitting on autobiographies. Me being interested enough in somebody to want to
+
+23:38.800 --> 23:44.480
+read 600 pages about them talking about themselves. Well, that's exactly the kind
+
+23:44.480 --> 23:48.320
+of person that should write one. But also, I'm fucking 32 years old.
+
+23:48.320 --> 23:52.560
+What do I have to write about? I went through puberty, I lost my virginity, and here we are.
+
+23:53.520 --> 23:59.360
+I don't know. It's such a... Three chapters. It's a coloring book.
+
+24:01.120 --> 24:06.800
+Chapter seven. I learned to tie my own shoelaces. I feel like it would be awesome. Anyway, what's
+
+24:07.760 --> 24:12.480
+the queen... So how did you achieve the status of royalty? The queen of shitty robots. What's
+
+24:12.480 --> 24:18.240
+the origin story there? I have officially renounced my title now.
+
+24:18.240 --> 24:21.360
+Can you still speak of the time when you led? I can still speak of the time.
+
+24:21.360 --> 24:24.240
+Your kingdom? Yes. No, I mean, it started on...
+
+24:25.600 --> 24:30.160
+Did you rule by love or fear? By fear of rejection from me,
+
+24:30.160 --> 24:39.200
+that people would reject me. Yeah, I started making these little GIFs. The early projects
+
+24:39.200 --> 24:45.520
+that I did were very GIF forward. It was always like, I only did it because it could be translated
+
+24:45.520 --> 24:47.840
+into a GIF. GIF forward, I like it.
+
+24:47.840 --> 24:55.840
+Yeah. But honestly, it's a really good mental exercise to vet if your project is easy enough
+
+24:55.840 --> 25:04.720
+to be explained by a seven-second looping video without audio. Because nobody's going to care
+
+25:04.720 --> 25:12.480
+that it also has Bluetooth. It's really self-explanatory enough to be explained
+
+25:12.480 --> 25:17.600
+through a GIF. Let me just pause. I'm sorry to interrupt, but I feel like all scientific
+
+25:17.600 --> 25:22.080
+papers and projects should go through that exercise. Can't be explained as a GIF.
+
+25:22.080 --> 25:28.320
+Yeah. Actually, DeepMind does a good job of this. We saw protein folding. Here's a GIF.
+
+25:28.960 --> 25:32.560
+That's literally what they do. Because who is going to read the nature paper?
+
+25:35.280 --> 25:40.800
+How do we communicate this visually in a sexy, clean way where people can intuitively understand
+
+25:40.800 --> 25:45.200
+even if you don't know what a protein is, even if you don't know what protein folding is? Yeah.
+
+25:45.200 --> 25:46.960
+It's a cool exercise. It's very like, yeah,
+
+25:46.960 --> 25:52.640
+if somebody comes out of context, and that's been really interesting, also building this product
+
+25:52.640 --> 25:57.840
+business and trying to do the marketing around that. And I'm like, if somebody comes in and they
+
+25:57.840 --> 26:04.480
+have no idea about what this product is, will they get it explained to them in this ad? And I don't
+
+26:04.480 --> 26:09.360
+know. But it's definitely a worthwhile exercise to do. So I started making these projects that
+
+26:09.360 --> 26:15.760
+got translated into GIFs. And I posted them on slash r slash shitty robots on Reddit.
+
+26:15.760 --> 26:17.440
+So that's how Reddit existed?
+
+26:17.440 --> 26:20.320
+Yeah. And I loved it. I thought it was really fun. And I was like,
+
+26:20.320 --> 26:22.240
+I want to contribute with content here.
+
+26:22.240 --> 26:23.200
+Conquered it.
+
+26:23.200 --> 26:33.120
+I don't. I mean, I don't know. I think I was voted top user of 2015. So yeah, that's an old merit.
+
+26:33.120 --> 26:35.840
+Once you win a Nobel Prize, you always have the Nobel Prize.
+
+26:36.720 --> 26:40.800
+Okay. So what was the first, do you remember the early GIFs that you created?
+
+26:40.800 --> 26:45.280
+So this is when I was at Punch Through Design in San Francisco. I was kind of building a lot
+
+26:45.280 --> 26:50.320
+of hardware projects for them. But I also felt, and they were so supportive of me,
+
+26:50.320 --> 26:54.800
+but I also, it's such a different way representing a brand versus representing yourself. So there
+
+26:54.800 --> 26:58.880
+were some projects that I just like ruled out because I was like, this feels too weird for this
+
+26:58.880 --> 27:05.200
+brand. And I started building them on the side. One of them was a toothbrush helmet. And yeah,
+
+27:05.200 --> 27:10.880
+so it's like a skateboard helmet with a robot arm on the forehead, kind of like a unicorn horn.
+
+27:10.880 --> 27:12.880
+And it brushes your teeth for you.
+
+27:12.880 --> 27:14.880
+Was that the first YouTube video you uploaded?
+
+27:14.880 --> 27:22.720
+It was the first GIF that I uploaded. So actually, I wanted to do a kids show about
+
+27:22.720 --> 27:26.880
+electronics in Sweden because I was like, I love electronics. I think it's fucking dope.
+
+27:27.520 --> 27:37.040
+I could do a kids show about it. So I filmed this terrible, terrible pilot episode in my
+
+27:37.040 --> 27:42.960
+bedroom in San Francisco. And that's when I built the toothbrush helmet and I emailed it to them.
+
+27:43.120 --> 27:47.040
+Just cold email. I had no in or anything, but I was like, hey, I want to do this.
+
+27:47.680 --> 27:53.120
+And they didn't get back to me. Nobody surprised. And I was like, well, I have this
+
+27:54.320 --> 27:57.840
+thing I built. I might as well post it on the internet. So that's why I made the little GIF
+
+27:57.840 --> 28:02.480
+and I posted it on slash r slash shitty robots. And I think it got like 50,000 views. And I was
+
+28:02.480 --> 28:08.080
+like, wow. And from there, I just kept on building things. And I think within
+
+28:09.120 --> 28:11.040
+six months, it was my full-time job.
+
+28:11.040 --> 28:16.320
+Can you go through the detailed design of this toothbrush helmet? There's a motor,
+
+28:17.280 --> 28:21.520
+it's like a server. What's the motor? What's the, is an Arduino involved?
+
+28:21.520 --> 28:30.000
+Yeah. So I built it off of this robot arm called me arm. So it's just this acrylic robot arm.
+
+28:31.040 --> 28:37.120
+And I think it has three server motors and it's all controlled by an Arduino,
+
+28:37.120 --> 28:41.280
+all the electronics. It was a kit. So I assembled it.
+
+28:41.280 --> 28:47.280
+How do you make sure the length of the arm is the proper?
+
+28:47.280 --> 28:52.960
+I mean, the arm came down. So it's like, I mean, I just programmed it to come down to my mouth and
+
+28:52.960 --> 28:55.840
+then poorly brush my front teeth. Yeah. Yeah.
+
+28:55.840 --> 28:57.920
+It was just swung back and forth. I mean,
+
+28:58.800 --> 29:04.640
+trial and error. What was the challenges of that? Do you remember or is that one,
+
+29:04.640 --> 29:08.080
+not much of a struggle? No, it was definitely a struggle.
+
+29:08.880 --> 29:13.680
+Cause also how do you loop it with a nice GIF? I mean, it loops fine.
+
+29:13.680 --> 29:14.960
+Yeah, it looks pretty fine. Yeah.
+
+29:15.680 --> 29:18.800
+That's not that hard? No, I mean, it doesn't have to be perfect.
+
+29:18.800 --> 29:22.640
+It's a GIF. It's the internet. Things are shitty all the time. I think, I mean,
+
+29:22.640 --> 29:28.640
+I think the biggest struggle of that was that I had this intention for it to be this show and then
+
+29:29.600 --> 29:35.200
+them not giving, yeah, giving back. And I was like, well, if they don't want it,
+
+29:36.000 --> 29:39.840
+then maybe YouTube will have me. They don't notice my genius yet.
+
+29:39.840 --> 29:43.280
+What was so bad about the pilot? Do you remember? What's like the most embarrassing?
+
+29:43.280 --> 29:48.800
+So cringy. Yeah. I mean, it's thankfully not on the internet so nobody can find it,
+
+29:48.800 --> 29:54.320
+but it's very much me being in what I called host mode, which is where I'm like,
+
+29:54.320 --> 29:57.760
+okay, so what we're going to learn today is that we're going to look at this. This is something
+
+29:57.760 --> 30:02.560
+called a servo motor and it's like the intonation and everything is really different. And I'm
+
+30:02.560 --> 30:09.360
+actually, I mean, thinking back of that, I'm so happy that they didn't get back to me because
+
+30:10.080 --> 30:17.360
+it's such a different thing to kind of start your career in your living room, running back and forth
+
+30:17.360 --> 30:22.320
+to the camera and like filming something and looking at it. And like, I got to really
+
+30:23.280 --> 30:29.520
+find my own voice in a different way. And then like a year later, they offered me a show,
+
+30:29.520 --> 30:32.880
+but then I was so off and running. I was like, no, I don't want to do this.
+
+30:32.880 --> 30:40.720
+You didn't fall into that place of being like an actor, like a YouTuber where you're presenting
+
+30:40.720 --> 30:44.480
+a kind of personality. You're more focused on the product you're creating.
+
+30:44.480 --> 30:50.800
+I mean, I think it's a combination of it. I mean, I think of it as acting sometimes,
+
+30:50.800 --> 30:55.440
+but I only play the role of myself. But of course it's like when you're shooting something
+
+30:55.440 --> 31:02.480
+for the seventh time, like you have to be able to muster that enthusiasm. But no, it's not a kind of
+
+31:03.600 --> 31:09.440
+think of everyday life me as a watered down version of the YouTube version. It's like,
+
+31:10.160 --> 31:15.760
+that's a cheap knockoff. Yes. No, it's just like add two parts water.
+
+31:16.240 --> 31:21.680
+You have me, but like on YouTube is just so condensed because you have jump cuts and like
+
+31:21.680 --> 31:26.160
+I'll scrape jokes and make sure that everything lands and there's music and stuff. And then like
+
+31:26.160 --> 31:31.440
+in real life, you don't have any of that, but it's still me. What are some other cool robots
+
+31:31.440 --> 31:35.120
+in the early days that stand out to you? I mean, there's a million we can go through.
+
+31:37.040 --> 31:42.080
+Maybe what was like a challenging one, like a really challenging one in the early days?
+
+31:42.640 --> 31:48.480
+I mean, I remember the breakfast robot, which was my second project was a challenging one.
+
+31:48.480 --> 31:53.680
+So eating cereal. Yeah. It's a robot that like pours milk and cereal and feeds me
+
+31:54.160 --> 31:57.680
+with a spoon. I was mostly challenging because it was so like,
+
+31:58.800 --> 32:03.360
+everything had to be in the right location. And there were so many takes before I got everything
+
+32:03.360 --> 32:09.440
+right. And by right, I mean, it makes an absolute mess. Yeah, that one was challenging.
+
+32:10.160 --> 32:15.840
+How many takes was that one? I don't know. Probably 12, 10 something. It's just a mess
+
+32:15.840 --> 32:21.760
+everywhere. It's a mess. And also I use like Cheerios for the cereals and it's shot in my
+
+32:21.760 --> 32:26.880
+old bedroom in San Francisco and the floors were sticky for weeks afterwards.
+
+32:26.880 --> 32:30.640
+Do you think this goes into your autobiography? Yeah. It's nice.
+
+32:30.640 --> 32:35.280
+I'm just hoping we can just type out this podcast and I'll release it as a,
+
+32:35.440 --> 32:40.000
+my manager would be stoked. We'll fix it in post. Yeah. The feed,
+
+32:40.000 --> 32:43.440
+cause you have like a couple of feeding ones, right? There's soup. Isn't there a soup one?
+
+32:43.440 --> 32:48.480
+Yeah. There's a soup robot. There's a beer pouring robot.
+
+32:49.360 --> 32:56.080
+I mean, that's, that's awesome. That's a difficult robotics problem in the shitty and the,
+
+32:56.080 --> 33:03.040
+in the perfect version of having an arm that interacts intimately with a human being.
+
+33:03.040 --> 33:07.920
+And one of the most intimate things you could do with a human being, that's PG is to feed it.
+
+33:10.160 --> 33:15.520
+Where is he going with this? Oh my God. He's a YouTube comment. Come live. Damn it.
+
+33:16.480 --> 33:23.280
+So like to me, there's a, like feeding is tricky or even like getting a beer,
+
+33:23.280 --> 33:28.720
+even pouring a beer is tough until glass. Yeah. It's trickier than anyone who hasn't tried it.
+
+33:29.680 --> 33:37.600
+And even making it, I think what I realized is that like making things really shitty or like
+
+33:37.600 --> 33:42.080
+failing in a spectacular way is also its own sort of skill because like the shittiest robot is the
+
+33:42.080 --> 33:49.200
+one that doesn't turn on, but like that isn't much to watch. So it was always like wanting for it to
+
+33:49.200 --> 33:56.560
+fail in these kinds of spectacular ways. No, there's a lot of stuff to be said about engineering in it.
+
+33:56.640 --> 34:01.280
+Is there something to be said on a philosophical level about the value of a flawed robot?
+
+34:02.080 --> 34:08.480
+So like the kind of robots you want is to be partially flawed. Like do you think the kind
+
+34:08.480 --> 34:15.680
+of robots we'll have in the home that are friends and, you know, almost like pets, wouldn't
+
+34:17.040 --> 34:23.120
+they need to be kind of shitty because we can love the, somehow we humans love the shitty.
+
+34:23.120 --> 34:28.320
+I mean, it is kind of endearing and because I think it kind of, I'm going to mess up this world
+
+34:28.320 --> 34:33.840
+word, anthropomorphizes them. I think it's, I mean, I never feel as deeply connected to
+
+34:33.840 --> 34:42.640
+my Roomba as when it's like, I'm on a cliff. Have you had Roomba's talk? No. I really,
+
+34:42.640 --> 34:50.320
+yeah, I've done that a lot. Yeah. When they talk to you. Yeah. And it immediately anthropomorphize
+
+34:50.320 --> 34:54.560
+them. And then you have, if they have a name, which is why most roboticists don't give names
+
+34:54.560 --> 35:01.600
+or gender to robots because you become connected to them. I'm of the opposite mind. You should have
+
+35:01.600 --> 35:07.840
+like an intimate relationship sounds weird, but you should have a close connection to robots. I
+
+35:07.840 --> 35:14.800
+mean, there's power in that. There's a social element to robotics, even an arm. I don't know.
+
+35:14.800 --> 35:21.120
+There's something about us humans that gain so much value from our interaction with
+
+35:22.080 --> 35:26.080
+dynamic objects. And we should like lean into that as opposed to run away from it.
+
+35:26.080 --> 35:30.720
+That was always the confusing thing to me about robotics is that most roboticists run away from
+
+35:30.720 --> 35:37.600
+that. Yeah. Weird. Cause it's obviously going to be, robots are obviously going to be everywhere.
+
+35:37.600 --> 35:43.840
+Yeah. Obviously. But it's also humans are sensitive and squishy and there's so much liability. Oh.
+
+35:43.840 --> 35:50.160
+Yeah. Yeah. But the humans are sensitive and squishy when they interact with each other and
+
+35:50.160 --> 35:55.280
+they hurt each other all the time. Like sometimes they get together and they're like, oh, you're the
+
+35:55.280 --> 35:59.040
+best. You know, you're the best. And then they leave each other and then they break each other's
+
+35:59.040 --> 36:04.960
+heart. Sorry about your breakup. I'm just trying to get over this. I'm actually drunk for this
+
+36:04.960 --> 36:13.040
+interview. I haven't been able to sleep for nights. But from a safety protocol perspective,
+
+36:13.040 --> 36:18.080
+people think about like physical damage, not emotional damage. I know this sounds ridiculous.
+
+36:18.080 --> 36:22.960
+I know it sounds ridiculous, but it won't be. It's already happening. There's an app called replica
+
+36:22.960 --> 36:27.520
+where people have an intimate relationship with an AI chat bot and they hurt themselves.
+
+36:27.520 --> 36:34.320
+I was thinking about this. Yeah. Okay. In dating, what if you, cause you can drain
+
+36:36.160 --> 36:40.800
+like a chat bot to kind of mimic the way that you talk to people and interact with people.
+
+36:40.800 --> 36:46.320
+Go on. Yeah. But then I'm like, okay, but what if we could all make AI versions of ourselves
+
+36:46.320 --> 36:53.280
+and have them date like thousands and thousands of other AI people and have that as a way to
+
+36:53.280 --> 37:01.040
+turn out potential candidates? Like, I feel like that's going to be, what's the, yeah.
+
+37:01.040 --> 37:06.960
+What's the what? No, but what's the point of like meeting 20 people if you're like,
+
+37:06.960 --> 37:12.000
+oh, but if we just had our AI versions of ourselves interact, they'd be like, oh, your,
+
+37:12.000 --> 37:18.240
+your method of conflict is not going to match. What if the AI version of you like sleeps around
+
+37:18.240 --> 37:23.280
+with all the other AIs and it becomes famous for that. And it starts to sound only fans. And then
+
+37:23.280 --> 37:28.160
+it becomes, and you're like, what did you do? You come back home, you'd realize like, I don't,
+
+37:28.160 --> 37:32.960
+I didn't want to. I created a monster. I created a monster. I mean, do I get it cut? Exactly.
+
+37:32.960 --> 37:38.000
+That's the question I'd be asking. But I think it's definitely like, yeah, the, the human
+
+37:38.000 --> 37:44.000
+technology interaction is really interesting because I feel like I don't love any of the
+
+37:44.000 --> 37:49.440
+machines that I have in my life. You haven't, you haven't. I mean, I don't love my phone. I touch it
+
+37:50.080 --> 37:53.920
+all the time and it's there and it's like constantly, it's a constant presence,
+
+37:53.920 --> 37:58.640
+but there's nothing in me that it feels like, oh, I love this object. Like I kind of despise it.
+
+37:59.600 --> 38:03.360
+Well, that might be the way you show love. I don't know. That's a deeper,
+
+38:03.360 --> 38:07.520
+that's another psychoanalysis thing. So you don't, there's not robots
+
+38:07.520 --> 38:14.160
+whom you've taken apart that you miss? No, they're all terrible. I mean, I,
+
+38:14.160 --> 38:20.080
+I have objects that I built that I love. None of the robots, I think, but that's also because it
+
+38:20.080 --> 38:24.800
+was a different, that was a different era where I wasn't really putting a lot of care into the
+
+38:24.800 --> 38:29.440
+projects I built. So the more care you put into it, into the design to actually make it look,
+
+38:29.440 --> 38:34.960
+to make it functional, look good. That's where you put the love in. Yeah. I mean, it is, it's like,
+
+38:34.960 --> 38:40.240
+I feel like any technology company that figures out a way to get you to actually genuinely love
+
+38:40.240 --> 38:47.360
+your Roomba or like love it in the way that you would love a pet is a lot to be gained.
+
+38:48.000 --> 38:54.720
+Yeah. And I think it's scary depending on who the company is, because then they can manipulate you
+
+38:55.280 --> 39:01.600
+Yeah. If you love your Roomba and all of a sudden your Roomba starts telling you to buy stuff.
+
+39:01.600 --> 39:06.000
+Yeah. Or it's leaving. To put lotion on Jeff Bezos' head.
+
+39:06.000 --> 39:09.200
+Yeah. Yeah. I don't know where the lotion came in, but yes, maybe by certain.
+
+39:10.560 --> 39:17.120
+I just imagine my Amazon Echo being like, Hey, Jeff Bezos is really a great guy.
+
+39:19.520 --> 39:23.440
+But even though you haven't, do you think it's possible to fall in love with a robot?
+
+39:23.520 --> 39:26.560
+Yeah. I mean, people fall in love with things all the time.
+
+39:26.560 --> 39:29.440
+Well, people have fallen in love with your shitty robots, probably.
+
+39:30.480 --> 39:34.800
+I guarantee you there's people listening to this that are a little bit heartbroken saying
+
+39:34.800 --> 39:39.600
+that you've never fallen in love with your shitty robot. They're like, but I had a really,
+
+39:39.600 --> 39:43.760
+like I had an emotional connection to that robot. Like the one with it with the parent,
+
+39:43.760 --> 39:46.800
+Patsy on the back. Oh, that one. That one I do like,
+
+39:46.800 --> 39:50.800
+I like that one a lot. That's probably my favorite, like shitty robot.
+
+39:50.800 --> 39:53.520
+Can you explain it? So it's a machine. It was my friend,
+
+39:53.520 --> 39:59.120
+Daniel Beauchamp and I, we had this long running joke about a proud parent machine that you could
+
+39:59.120 --> 40:05.040
+give a quarter and a Patsy on the shoulder says proud of you. So yeah, I still have that hanging
+
+40:05.040 --> 40:10.320
+on my wall in my workshop. So that one I'm really happy with. I just think it's a really
+
+40:13.440 --> 40:17.680
+funny concept. And also I executed the build wall. So that was.
+
+40:18.240 --> 40:23.600
+So it's an arm. Like what's the build? Yeah. Built it off of an old lamp arm. Yeah.
+
+40:23.600 --> 40:30.400
+Basically it's just a motorized arm and this kind of torso of a person.
+
+40:31.600 --> 40:34.880
+So it's actually a hand, right? I don't remember it correctly.
+
+40:34.880 --> 40:38.240
+It's like a laser cut. It's just laser cut plywood and it kind of has like,
+
+40:38.800 --> 40:40.240
+it looks creepy. Yeah.
+
+40:40.240 --> 40:42.960
+Which I like. Yeah. The creepy helps with the.
+
+40:42.960 --> 40:48.640
+Yeah. And yeah, it says proud of you, son, because I just thought that sounded more funny
+
+40:48.640 --> 40:54.560
+than proud of you daughter. And also proud of you son just, it immediately communicates
+
+40:54.560 --> 40:58.080
+that it's a parent. It's not just like a colleague or something. It's like proud of you.
+
+41:00.640 --> 41:06.880
+Charges you a quarter for it. Yeah. But he added like chat GPT on top of that and fine tune it
+
+41:07.440 --> 41:10.640
+on conversations you've had with your parents. And all of a sudden you have a thing
+
+41:10.640 --> 41:13.200
+that can fundamentally transform your psyche. Yeah.
+
+41:13.920 --> 41:17.920
+That's all it takes. That's a beautiful creation. How'd you come up with that creation?
+
+41:17.920 --> 41:21.440
+That was my friend, Daniel and I, who had a long running joke about it.
+
+41:21.440 --> 41:24.080
+High level. Can you speak to your creative process?
+
+41:24.080 --> 41:27.360
+I think a lot of it, I mean, it's changed for the shady robots.
+
+41:27.360 --> 41:31.680
+That's actually separate robot. Yeah. I mean, it has a lot of overlap.
+
+41:33.120 --> 41:39.280
+So it's identifying everyday problems. And in the shitty robot era, I would kind of take
+
+41:39.280 --> 41:42.400
+an everyday problem like, oh, I have a hard time getting up in the morning and I would
+
+41:42.400 --> 41:47.120
+solve it in the most ridiculous, spectacular way I could think of. So for waking up in the morning,
+
+41:47.120 --> 41:50.400
+it was having an alarm clock that slaps me in the face with a rubber hand.
+
+41:51.840 --> 41:55.760
+And what I'm doing now is still identifying everyday problems,
+
+41:55.760 --> 41:59.520
+but I'm actually trying to like product design my way out of it.
+
+42:00.320 --> 42:04.960
+What in your experience was the funniest thing? Is it violence? Like the hand slapping you,
+
+42:05.600 --> 42:08.800
+food eating, is there, or is it just cased about it?
+
+42:08.800 --> 42:14.960
+I think the funniest is, no, I think it's more like the proud parent machine. It's not violent,
+
+42:14.960 --> 42:18.560
+it doesn't, there's no, nothing is just emotional. And it's kind of
+
+42:21.280 --> 42:25.600
+a commentary on this fraught relationship that we sometimes have with our parents
+
+42:25.600 --> 42:28.800
+and they're proud of us. Sometimes, every time.
+
+42:28.800 --> 42:34.560
+Sometimes. My dad visited like last week and he was like, I just want to say I'm so proud of you
+
+42:34.560 --> 42:39.840
+and for the life you've built for yourself. And that was really sweet. I'll put that on the back
+
+42:39.840 --> 42:44.880
+of my autobiography too. Yeah, it's not your fault, Simone. It's not your fault.
+
+42:44.880 --> 42:51.680
+Some stuff is my fault. What was the longest one to complete for the Shady Robots that you remember?
+
+42:52.720 --> 42:55.200
+Because you spent, on a few of them, you spent quite a long time.
+
+43:00.000 --> 43:03.120
+Which is also inspiring when you take so long in a project.
+
+43:03.200 --> 43:08.960
+Yeah. I think, kind of in the more fun, whimsical department rather than Shady Robots,
+
+43:08.960 --> 43:15.840
+I built recently this music box. So like a small music box that kind of has a barrel
+
+43:15.840 --> 43:20.320
+with little spikes and it plays a song. But I did a large version of that. That pops a sheet
+
+43:20.320 --> 43:25.040
+of bubble wrap and then plays tones into a pan flute. So yeah, you can actually program
+
+43:25.040 --> 43:31.120
+it to play different songs. That won't kick my butt in so many creative ways and it was such
+
+43:31.120 --> 43:38.800
+a pain. I think that is probably the weird, funny project that's taken me the longest
+
+43:38.800 --> 43:42.640
+and the biggest engineering effort. Where's the sound coming from?
+
+43:44.400 --> 43:49.120
+It all came from me realizing that if you pop bubble wrap and you pop it right in front of the
+
+43:49.680 --> 43:53.040
+opening of a pan flute or one of the pipes, you can have it play different tones.
+
+43:54.400 --> 43:58.960
+So that's what it does. So I built this music instrument off of that.
+
+43:59.840 --> 44:06.560
+Okay. If it's okay, can you describe how it works, some of the technical details here?
+
+44:06.560 --> 44:14.800
+Yeah. So basically, one of the big issues that I had, so I worked with, as of a year and a half
+
+44:14.800 --> 44:20.720
+back, I hired an engineer, Stu. So we were collaborating on it. But a big issue that we
+
+44:20.720 --> 44:26.720
+had was feeding in the bubble wrap sheet and making sure that it feeds in straight and doesn't
+
+44:26.720 --> 44:32.720
+get skewed because you need to make the popping feet, which is where you program this barrel to
+
+44:32.720 --> 44:39.600
+pop different bubbles, need to be so perfectly aligned on the bubble of the bubble wrap for it
+
+44:39.600 --> 44:43.920
+to pop in the right location. So there's a feeder for the bubble wrap. That's a challenge. And then
+
+44:43.920 --> 44:49.040
+you have to have a barrel with the little baby feet on it that pops the bubble wrap. Why is it
+
+44:49.040 --> 44:57.360
+so exciting? Making that barrel was a pain as well. I had to get this rotary setup for my CNC.
+
+44:57.360 --> 45:02.560
+And yeah, it was a lot of work. But that was really fun. And it's just like,
+
+45:04.240 --> 45:13.040
+this is probably my favorite privilege of my job is that I can go down any rabbit hole I find
+
+45:13.040 --> 45:21.360
+interesting. Did you have a lot of joy from popping the bubbles?
+
+45:21.360 --> 45:27.280
+That's a lot of self-soothing. I think I spent a week trying to figure out the best
+
+45:27.920 --> 45:38.400
+material to pop bubble wrap with. If you put a sheet of bubble wrap through two rigid tubes,
+
+45:38.480 --> 45:43.200
+the air just escapes from one side of the bubble into the other. So what I realized was that if
+
+45:43.200 --> 45:49.680
+you have a squishy material, like a yoga mat material in between it, it prevents that and
+
+45:49.680 --> 45:57.680
+pops it a lot more reliably. But increasing the pop reliability was a huge effort as well.
+
+45:57.680 --> 45:59.760
+You have to pop a squishy thing with another squishy thing.
+
+45:59.760 --> 46:05.920
+Because you don't need a lot of force. You just need the air to not be able to escape anywhere.
+
+46:06.720 --> 46:12.160
+But then also there was different qualities of bubble wrap where there was a lot of
+
+46:12.160 --> 46:15.280
+transference between different bubbles. So instead of the bubble popping,
+
+46:15.280 --> 46:19.680
+it would just seep the air into a neighboring bubble and that membrane would kind of...
+
+46:19.680 --> 46:25.760
+So getting to spend weeks on weeks of just studying bubble wrap.
+
+46:25.760 --> 46:29.120
+Did you ever think about publishing academic work on bubble wrap?
+
+46:29.120 --> 46:29.360
+No.
+
+46:30.160 --> 46:33.680
+Wouldn't that be epic? Because nobody's done this. I bet you nobody's done
+
+46:35.520 --> 46:40.320
+squishy material on squishy versus squishy for popping.
+
+46:40.320 --> 46:46.240
+I bet somebody has. But I always thought I was going to go into academia. I was such
+
+46:46.240 --> 46:53.360
+an ambitious student. I loved school. I actually applied to MIT, but then I pulled out because I
+
+46:53.360 --> 46:58.400
+was like, no, I don't want to do it. But now I realize it's really good that I didn't because
+
+46:58.400 --> 47:03.200
+I'm too much of a spaz. Too much of a spaz. Now I'm distracted. I'm thinking,
+
+47:03.200 --> 47:09.120
+there must be papers about when you have two bubbles. Yeah, you need to know the physics of
+
+47:09.120 --> 47:16.400
+two bubbles. When you have two bubbles colliding, one will pop first. And there has to be good
+
+47:16.400 --> 47:24.000
+models of that. But that has to do with chemistry and whatever the material the bubble is made from.
+
+47:24.640 --> 47:28.560
+No, there's materials in here. Somebody must understand bubble wrap deeply.
+
+47:31.280 --> 47:35.760
+I'm just going to take a quick restroom break because Lex is on his own train now,
+
+47:36.320 --> 47:40.640
+and I'm just going to leave you to talk about bubble. I actually don't need to go to the
+
+47:40.640 --> 47:48.480
+restroom. I'm going to insert a two-hour instructional here with a blackboard.
+
+47:48.480 --> 47:54.400
+It's the skill of a podcaster. I feel like I could throw you any topic and you could just
+
+47:54.400 --> 48:06.320
+go on about it. I don't know if I have that skill. Bubble on bubble interaction. Go.
+
+48:06.320 --> 48:12.800
+So you did mention at MIT, you went to college for physics for one year and you dropped out.
+
+48:13.600 --> 48:17.200
+What do you learn from that? Who do you think should and shouldn't go to college?
+
+48:17.440 --> 48:20.240
+Hmm. I think first of all, you shouldn't listen to me.
+
+48:22.240 --> 48:24.160
+That should be the name of your autobiography.
+
+48:24.160 --> 48:31.600
+First of all, you shouldn't listen to me. I realized that I was there for the wrong reasons.
+
+48:31.600 --> 48:40.080
+I had this deep... I got completely... Starting to get grades in school, which in Sweden at that time,
+
+48:40.080 --> 48:45.040
+we started getting it at eighth grade. So when I was 14, it just kind of hijacked my brain because
+
+48:45.040 --> 48:55.040
+I realized that I could put a number on how smart I was, and I got obsessed with it. I wanted to
+
+48:55.040 --> 49:02.000
+study mechanical engineering because I was like, I like machines, but then physics was kind of the
+
+49:02.000 --> 49:07.680
+hardest thing you could do when I had this deep need to prove to myself that I was smart. So I
+
+49:07.680 --> 49:13.920
+started studying physics, realized I wasn't that smart. I realized... Or I mean, just mostly that
+
+49:14.240 --> 49:23.840
+I love math, but I don't love math 10 hours a day. And also, I think I am a generalist
+
+49:23.840 --> 49:30.800
+through and through. I'm decent at a fair amount of things, but definitely not a specialist
+
+49:30.800 --> 49:38.160
+in any ways. And this, it was such a specialist type of area that I felt like the other parts
+
+49:38.160 --> 49:43.680
+of my brain just dwindled and died. So I think most of all, if people are thinking about
+
+49:43.680 --> 49:48.880
+going to college, and especially if you're here in the States and it's so fucking expensive,
+
+49:50.720 --> 49:57.840
+really... Okay, there's two things I want to do. One is actually go to a workplace where people
+
+49:57.840 --> 50:04.720
+are doing the job that you think you want to do if you want to become a doctor. Be at a hospital
+
+50:04.720 --> 50:08.800
+and try to see how doctors work and if you actually like it, because I feel like people
+
+50:08.800 --> 50:13.120
+have a lot of ideas of what it's going to be like, and it just doesn't match with reality.
+
+50:13.760 --> 50:16.640
+And then I think when people figure out what they want to do, there's kind of...
+
+50:17.600 --> 50:21.040
+That's two separate questions or there's two questions that you can split out of that. One
+
+50:21.040 --> 50:27.600
+is like, what do you actually want to do? That for me, for the last 10 years, is building stuff.
+
+50:28.160 --> 50:32.400
+But then there's a second part to that question, which is what context do you want to do that?
+
+50:32.400 --> 50:37.760
+Do you want to build stuff at a startup or at a big corporation? Do you want to build stuff for
+
+50:37.760 --> 50:46.000
+an art gallery or for the movies or for YouTube? And I think that's often like people only learn
+
+50:46.000 --> 50:50.560
+how to answer the first question, but then it's like the context means as much because I was
+
+50:50.560 --> 50:57.040
+building stuff at Punch Through Design and I wasn't getting that deep fulfillment. I felt like
+
+50:58.320 --> 51:04.000
+I wasn't fully using myself and hitting all of my gears because I just wasn't that motivated
+
+51:04.000 --> 51:08.640
+about building stuff for other people. And I changed the context and everything changed.
+
+51:09.360 --> 51:13.920
+And so sometimes you do need to consider a resume and stuff like that, depending on the...
+
+51:15.360 --> 51:18.800
+But I think people consider that way too much, especially in modern times.
+
+51:19.680 --> 51:26.000
+I feel like you don't need to go to college just for the resume. I feel like the biggest benefit
+
+51:26.000 --> 51:32.000
+of college, I mean, there's a bunch, but one is to do hard things. But you could do hard things
+
+51:32.000 --> 51:38.960
+anywhere, but some people need to be almost probably one of those people to be forced to do
+
+51:38.960 --> 51:47.440
+hard things. And the other is to meet fascinating humans from all walks of life that have all kinds
+
+51:47.440 --> 51:53.680
+of different passions and allows you to learn. Depending on the major, you can learn generally
+
+51:54.240 --> 51:58.800
+and you can search if you're doing it efficiently about what actually inspires you.
+
+51:59.760 --> 52:06.480
+And then the other thing is the resume thing. But ultimately, you don't need college to find
+
+52:06.480 --> 52:13.840
+your passion to run with it. I mean, I have so much college FOMO though. I chose
+
+52:15.120 --> 52:21.360
+a different set of experiences. And when I applied to MIT, I think I was 24,
+
+52:22.320 --> 52:25.760
+because I was like, oh, maybe I should become an electrical engineer because I really liked
+
+52:25.760 --> 52:31.360
+electronics. But then I remember seeing that the average age was 18. And I was like, oh,
+
+52:31.360 --> 52:37.120
+fuck, no, I can't hang out or be in a room filled with 18 year olds who are smarter than me.
+
+52:39.040 --> 52:44.720
+So I think I definitely missed the train on having that experience. But at the same time,
+
+52:44.720 --> 52:48.560
+I did so many other things and I chose other experiences and I wouldn't trade them.
+
+52:49.360 --> 52:55.520
+But I still like, I mean, I'll go to on a campus and I'll be like, oh. But I think it's also
+
+52:55.520 --> 53:00.240
+because I have a dreamy idea of what it is, because I never had to do it and practice fully.
+
+53:00.240 --> 53:05.920
+Exactly. It's the FOMO. Yeah, a lot of people really struggle with that burden.
+
+53:09.200 --> 53:14.560
+Doesn't matter how long you go through, if you don't go all the way to the PhD,
+
+53:15.520 --> 53:20.800
+you, a lot of people have the FOMO. It doesn't, it's a silly, silly, silly little notion, I think.
+
+53:21.680 --> 53:25.520
+Because I think you should be doing college or school until you find something that
+
+53:26.240 --> 53:31.200
+lights your heart aflame. Where you're like, fuck yes, I want to do this.
+
+53:31.200 --> 53:32.400
+Yeah. And run with it.
+
+53:32.400 --> 53:37.040
+I mean, you can, you can find that in other contexts as well. I've, I found it.
+
+53:37.680 --> 53:42.720
+Yeah, but yeah, but it is a buffet of experiences that you can have.
+
+53:43.520 --> 53:50.240
+What about, what was the most fun robot to make or musical artistic creation?
+
+53:51.920 --> 53:53.920
+Where the process was the most fun.
+
+53:53.920 --> 53:55.600
+They're all painful in different ways.
+
+53:55.600 --> 53:56.720
+So pain. Yeah.
+
+53:56.720 --> 53:57.600
+Do you find pain fun?
+
+53:58.480 --> 54:05.200
+No, but it's definitely the pride of me getting to pull something off or like managing to pull
+
+54:05.200 --> 54:10.240
+something off, even when it was really difficult. This is very satisfying.
+
+54:10.240 --> 54:14.800
+What was the difficult thing that you pulled off and you were like, yeah, this is cool.
+
+54:14.800 --> 54:19.600
+I like working on jigsaw puzzles, but I don't like how much table space they take up
+
+54:19.600 --> 54:23.760
+because I like just have one big table where I can do it. And that's also my dining table.
+
+54:24.400 --> 54:29.040
+So I made this mechanical table where you can switch between two tabletops.
+
+54:29.600 --> 54:34.560
+And that was an incredibly painful project. And I'm really happy with the outcome and like,
+
+54:34.560 --> 54:36.320
+so proud that I managed to pull it off.
+
+54:36.320 --> 54:37.840
+How does it switch tabletops?
+
+54:37.840 --> 54:43.280
+It's tambour mechanism. So like tambour, like you'll have on like old record player,
+
+54:44.800 --> 54:48.400
+like it's these like thin slats of wood with fabric on the back and you can kind of
+
+54:48.400 --> 54:53.760
+get them to go around curves. So basically one of the tabletops or table surfaces is tambour.
+
+54:53.760 --> 54:56.880
+And then there's a little crank and you can kind of roll it off to the side.
+
+54:56.880 --> 55:00.880
+And it reveals another tabletop under it that you can lift up because it's on cams.
+
+55:01.840 --> 55:03.120
+So you can switch between the two.
+
+55:03.600 --> 55:10.240
+I think that one was both really difficult to pull off and it's also one of few projects that
+
+55:10.240 --> 55:12.560
+I use in my everyday life. Like I use it almost every day.
+
+55:13.440 --> 55:16.800
+You know what a really cool one was that that was part of your Ted talk
+
+55:18.400 --> 55:22.240
+where there's a rotating thing that you wear on your shoulders.
+
+55:23.120 --> 55:27.680
+Was that hard to make? So for people who haven't seen your Ted talk, they should, of course,
+
+55:27.680 --> 55:29.600
+but it's, how would you describe that?
+
+55:29.600 --> 55:30.320
+Oh, they cut out the best joke.
+
+55:31.280 --> 55:33.280
+So you put, how would you call that device?
+
+55:33.920 --> 55:37.600
+I don't even know. I never used it beyond the Ted talk really.
+
+55:38.960 --> 55:43.440
+Yeah, but basically it's the shoulder rig and it has this like almost like Saturn
+
+55:43.440 --> 55:48.960
+ring looking platform that goes around. I can't even remember what the problem
+
+55:48.960 --> 55:51.040
+proposition was that I was trying to solve.
+
+55:51.040 --> 55:53.440
+Variety probably introducing variety to your life.
+
+55:53.440 --> 55:54.240
+Yeah, maybe.
+
+55:54.240 --> 55:59.200
+And this in an element of surprise because you can put popcorn as you did on it and it goes
+
+55:59.200 --> 56:05.600
+around as a little hand. Why is like a tiny hand funny? I don't know, but it just slams
+
+56:05.600 --> 56:08.080
+whatever is on that thing into your face.
+
+56:08.080 --> 56:09.840
+Yeah, I don't know.
+
+56:09.840 --> 56:11.360
+Was that easy to make?
+
+56:11.360 --> 56:17.120
+Yeah, that one's fine. I can't. There was, I mean, my Ted talk was so,
+
+56:18.320 --> 56:20.320
+yeah, for one, once again, they cut out my best joke.
+
+56:20.320 --> 56:21.120
+What was the best joke?
+
+56:21.120 --> 56:22.800
+My best joke. They didn't even ask me about it.
+
+56:23.440 --> 56:31.120
+It was, so there's this whole lead up where I built a chopping machine. So it's a machine
+
+56:31.120 --> 56:35.920
+that chops vegetables and it has two giant knives and it goes, and it's kind of terrifying.
+
+56:35.920 --> 56:42.800
+And I show a video of it and then it ends on this gif of it chopping up a banana.
+
+56:42.800 --> 56:48.000
+And I'm kind of scrunching up my face being like, and the whole reason I show that project is
+
+56:48.000 --> 56:53.920
+because I'm leading it up to the punchline of, oh, and as a bonus, this gif right here
+
+56:53.920 --> 56:57.440
+is the perfect response if anyone ever sends you dick pics you don't want,
+
+56:58.240 --> 57:02.640
+which brought down the house. It does it every time. And they cut it out without asking me
+
+57:02.640 --> 57:05.120
+because they were like, oh, but we wanted people to be able to show it in classrooms.
+
+57:05.120 --> 57:10.240
+And I was like, I have abandoned the hope of being shown in classrooms for years ago.
+
+57:10.240 --> 57:12.080
+I think that's a good joke.
+
+57:12.080 --> 57:12.800
+Thank you.
+
+57:12.800 --> 57:17.920
+That's a really good one. You're okay going sometimes a little bit edgy.
+
+57:18.640 --> 57:25.840
+I mean, I say that I'm crude and wholesome because I can be very crude,
+
+57:26.480 --> 57:29.520
+but I also try really, really hard to be a good person.
+
+57:30.320 --> 57:36.000
+And to like, I'll say shit and fucking all that stuff, which I don't even think is crude.
+
+57:37.280 --> 57:43.680
+But yeah, but I really, really try to wield the power that I have in a thoughtful way.
+
+57:44.560 --> 57:49.760
+So no, I wouldn't call me edgy because I'm not, I don't think it's edgy.
+
+57:51.120 --> 57:56.880
+Chopping a banana with knives and saying it's a good gif response to anyone that sends you
+
+57:56.880 --> 57:59.520
+dick pics is definitely not edgy. You're correct. Yeah.
+
+58:01.760 --> 58:02.960
+It's just a funny joke.
+
+58:02.960 --> 58:06.000
+Yeah, it's pretty funny. I feel bad that they cut that.
+
+58:06.800 --> 58:11.440
+I mean, it's fine. It's like, it's a decision that I made really early on where I was like,
+
+58:11.920 --> 58:16.080
+I think often people misinterpret what I'm doing as being for children,
+
+58:16.080 --> 58:19.840
+which I think is part because like my projects were always really colorful and fun.
+
+58:20.800 --> 58:27.280
+I think it also has some sprinkles of sexism of being like, oh, it's a woman doing something.
+
+58:27.280 --> 58:31.840
+She must be doing it for the children. And I'm like, fuck the children, I'm doing it for myself.
+
+58:32.960 --> 58:37.440
+So I think I would just really early on decided like, oh, no, I'm not going to try to cater to
+
+58:37.440 --> 58:41.440
+that. Which like, still, I mean, I get a lot of messages from parents being like,
+
+58:41.440 --> 58:47.280
+can you please stop cussing in your videos? And I'm also like, I get it. But also that is
+
+58:47.280 --> 58:55.040
+not what's going to mess up your kids. I really try to be thoughtful and a decent enough role model.
+
+58:55.040 --> 58:59.840
+But I'll also acknowledge that humans fuck. Yeah.
+
+58:59.840 --> 59:00.560
+It's okay.
+
+59:00.560 --> 59:04.880
+Somehow that you being able to say the F-U to the system.
+
+59:04.880 --> 59:10.160
+What word? Word? I can't. I'm scared.
+
+59:14.400 --> 59:20.480
+It sounds better when you say F-U. It's a dance. I should. Oh, boy.
+
+59:22.880 --> 59:25.280
+Have you ever made a robot that dances with you?
+
+59:25.280 --> 59:30.080
+No. You need a dance partner. Is this a personal request?
+
+59:30.080 --> 59:34.320
+Yeah. I feel like that's the theme of this whole podcast. Yeah.
+
+59:35.360 --> 59:39.520
+What's the most embarrassed you've ever been on your podcast?
+
+59:43.520 --> 59:48.000
+So I don't know if you've experienced this, but I'm generally embarrassed
+
+59:48.000 --> 59:52.640
+by most things I say inside my head. So like when I say something,
+
+59:54.880 --> 59:58.720
+like now it's just, there's a voice inside my head that goes,
+
+59:59.680 --> 01:00:00.640
+yeah.
+
+01:00:02.640 --> 01:00:08.720
+Your disappointment. Like that the parent petting in the back, the hand stops working.
+
+01:00:08.720 --> 01:00:09.120
+Yeah.
+
+01:00:09.120 --> 01:00:17.520
+Just slows down. Yeah. And then there's an awkward silence. You don't know what to say next. That's
+
+01:00:17.520 --> 01:00:22.800
+really embarrassing usually. I used to work as a journalist, so I know how to sit with a silence
+
+01:00:22.800 --> 01:00:25.360
+and try to drag it out of you.
+
+01:00:28.720 --> 01:00:38.480
+See what I did there? You gave up. You pulled out.
+
+01:00:38.480 --> 01:00:42.880
+I quit. I was sweating. I was literally sweating. Okay.
+
+01:00:42.880 --> 01:00:47.440
+Also because you're in a full fucking suit. What is that? Like, how did that come about?
+
+01:00:48.480 --> 01:00:55.440
+Actually, it was probably MIT is because everybody was dressing in like sweatpants,
+
+01:00:55.440 --> 01:01:03.760
+very chill wear. And I was like, I like taking everything seriously. It just felt like it was
+
+01:01:03.760 --> 01:01:09.600
+my way of saying F you to the way things are because I like, I always admire Richard Feynman.
+
+01:01:09.600 --> 01:01:15.200
+I like it how there's like a classiness to it. So I don't know if it's for visual purposes,
+
+01:01:15.200 --> 01:01:20.320
+but it's just how I feel when I put on a suit. It makes me feel like I'm going to take this really,
+
+01:01:20.320 --> 01:01:26.880
+really seriously. And if I embarrass myself, it's all my fault because I tried. There's no
+
+01:01:26.880 --> 01:01:33.520
+excuse. I tried a hundred percent. The interesting thing about your Ted talk to go to a dark topic.
+
+01:01:36.640 --> 01:01:38.320
+Is what happened when I walked off stage?
+
+01:01:38.960 --> 01:01:40.560
+No, what happened when you walked off stage?
+
+01:01:40.560 --> 01:01:44.640
+Found out that I had a brain tumor. Was that not where you're going? There's
+
+01:01:44.640 --> 01:01:46.240
+something else dark about MIT? Yeah.
+
+01:01:46.240 --> 01:01:52.640
+Well, yes. I thought you knew through the Ted talk. You found out right after.
+
+01:01:52.640 --> 01:01:56.080
+I mean, the reason that I found out was partly because of the Ted talk,
+
+01:01:56.080 --> 01:02:05.120
+because my mom came into town to be there for it. And my right eyelid was swollen and it had kind
+
+01:02:05.120 --> 01:02:11.040
+of been swelling over a while. And I even got in comments about it on my YouTube channel.
+
+01:02:11.040 --> 01:02:14.480
+And I thought it was allergies because I was like, oh, it's just pollen allergies.
+
+01:02:14.480 --> 01:02:18.080
+That's just affecting my one eye because maybe I sleep mostly on that side. I don't know.
+
+01:02:18.880 --> 01:02:25.840
+And my mom came into the States and then Vancouver for my Ted talk. And she's like,
+
+01:02:25.840 --> 01:02:32.480
+Simone, you have to have a scan or see what's up. We have to go to the doctor. And she really
+
+01:02:32.480 --> 01:02:44.160
+pushed me to do it because I was like, I'm fine. And I had an MRI scan on like 5 p.m. on a Friday
+
+01:02:44.160 --> 01:02:52.000
+night. My boyfriend at the time was there. And I remember like halfway through an MRI scan,
+
+01:02:52.000 --> 01:02:58.400
+they kind of pull you out and they inject contrast fluid or this like thing that,
+
+01:02:58.400 --> 01:03:05.040
+yeah, just gives them another type of scan. And the nurse looked at me in this way and was like,
+
+01:03:05.040 --> 01:03:09.440
+how long have you had symptoms for? And that's what I knew that they'd found something. And then
+
+01:03:09.440 --> 01:03:14.880
+they like shove you back into the machine for another 20 minutes. And my ex was just seeing
+
+01:03:14.880 --> 01:03:20.000
+them zooming in and out of my scans. And there was like this obviously something that just looked
+
+01:03:20.000 --> 01:03:26.080
+wrong in there. And they sent me to the ER and I found out that I had a brain tumor the size of
+
+01:03:26.080 --> 01:03:30.800
+a golf ball that had probably been grown since I was a teenager. So it had been growing over like
+
+01:03:30.800 --> 01:03:37.360
+10, 15 years. And yeah, I had surgery to remove it. And then it kept on growing, the parts that
+
+01:03:37.360 --> 01:03:42.640
+they couldn't remove. And I went through radiation treatment. So that was like two years that just
+
+01:03:44.640 --> 01:03:50.720
+was kind of dedicated to just getting better and getting back to where I am now. And I remember
+
+01:03:51.360 --> 01:03:55.920
+I was so stoked about 2020 because I was like, this is the first year that I'm not held back
+
+01:03:55.920 --> 01:03:59.840
+by my health. And I'm like, finally going to be able to do everything I feathered. And then the
+
+01:03:59.840 --> 01:04:04.240
+pandemic happens and you're kind of just like, okay, just in the backseat of what's happening
+
+01:04:04.240 --> 01:04:08.640
+and things that are out of my control again. In your public, you made a couple of videos about
+
+01:04:09.440 --> 01:04:15.920
+about it. I have a brain tumor, my brain tumor is back. You kind of, you know, you name your tumor
+
+01:04:15.920 --> 01:04:23.360
+Brian, you kind of make it a lighthearted thing, but so you don't reveal much of the darkness.
+
+01:04:23.360 --> 01:04:26.800
+But were you scared or some low points?
+
+01:04:26.800 --> 01:04:32.880
+Yeah, of course I was, of course I was scared. I mean, it's terrifying. It's like,
+
+01:04:34.400 --> 01:04:36.560
+and also when it's in your brain, like,
+
+01:04:38.960 --> 01:04:42.080
+you know, I was like, take any other part of me, but don't take my brain.
+
+01:04:45.040 --> 01:04:49.840
+No, it's this unfathomable thing that happens. And you're like, I'm healthy. I've had,
+
+01:04:49.840 --> 01:04:55.360
+how could this possibly be a brain tumor? Like my eye is swollen. Like there's nothing
+
+01:04:56.080 --> 01:05:00.960
+there. I haven't had any seizures. I haven't had any cognitive issues. I haven't had any headaches
+
+01:05:00.960 --> 01:05:06.960
+even like, how is that even possible? So you go through a lot of different stages of just trying
+
+01:05:06.960 --> 01:05:13.680
+to understand what it is. And I think I remember being hit like right as I found out when we're in
+
+01:05:13.680 --> 01:05:18.720
+like an Uber, poor Uber driver from where I had my MRI scan to the ER where they sent me.
+
+01:05:19.600 --> 01:05:26.800
+And I was really both really grateful that I've gotten so much more out of life than I ever
+
+01:05:26.800 --> 01:05:32.080
+thought I would. Like I've had a hell of a life. And even if it would have ended really early,
+
+01:05:32.080 --> 01:05:35.920
+I would have done so much more than I ever thought. But I was also really,
+
+01:05:35.920 --> 01:05:39.680
+really sad that I hadn't had kids yet. Like that was my big grief of like,
+
+01:05:39.680 --> 01:05:45.200
+fuck, I haven't had had time to have kids yet. But no, it's terrifying. I mean,
+
+01:05:45.200 --> 01:05:52.080
+the prospect of somebody cutting up your head, like that's terrifying, but it honestly
+
+01:05:54.000 --> 01:05:56.400
+wasn't as bad as I thought it was going to be.
+
+01:05:57.040 --> 01:06:02.160
+What about the radiation treatment? What are some things that, you know, people should,
+
+01:06:02.160 --> 01:06:06.000
+you learned about it, about the process and about yourself through that,
+
+01:06:06.720 --> 01:06:08.800
+that people might be interested about?
+
+01:06:08.800 --> 01:06:16.320
+I think surgery was both harder and easier than radiation treatment because it was harder because
+
+01:06:16.320 --> 01:06:23.360
+it was so much more intense. And it's such a dramatic thing, like going to the hospital
+
+01:06:23.360 --> 01:06:30.080
+that morning and being like, I don't know, and you feel so awful when you wake up. But then the
+
+01:06:30.080 --> 01:06:35.120
+recovery from it was pretty linear. Like almost every week I would get a little bit better.
+
+01:06:35.120 --> 01:06:42.160
+The thing about radiation is that it was not linear at all. And it kind of drained me in this
+
+01:06:42.160 --> 01:06:49.440
+weird, like it was so hard to predict. And also they put me on these, I spent months
+
+01:06:50.160 --> 01:06:56.480
+feeling like I was high out of my mind. And I couldn't process reality in a way that I normally
+
+01:06:56.480 --> 01:07:00.240
+would. Like everything just felt off. Like I felt, yeah, I felt like I was high on drugs.
+
+01:07:00.960 --> 01:07:05.600
+And I kept on asking my doctors what was going on. And they're like, no, I don't know,
+
+01:07:05.600 --> 01:07:12.640
+don't think it's anything related. And I was on this Alzheimer's medicine that they put you on
+
+01:07:12.640 --> 01:07:17.440
+to prevent dementia from radiation treatment, like kind of as a preventative. And I found all
+
+01:07:17.440 --> 01:07:24.480
+these subreddits of people using that Alzheimer's medicine to get high. And people be like, oh my
+
+01:07:24.480 --> 01:07:29.360
+God, bro, I had like 20 milligrams yesterday and I was high out of my mind. And I'm like,
+
+01:07:30.080 --> 01:07:36.240
+I'm on 30 milligrams a day. Like, of course it feels weird. And that was honestly one of the
+
+01:07:36.240 --> 01:07:43.360
+scariest parts of it, because that was the first time where I felt like it genuinely affected my
+
+01:07:43.360 --> 01:07:50.960
+way of processing reality. And yeah, I was so relieved when I found out that that was what was
+
+01:07:50.960 --> 01:07:55.680
+causing it because I felt like I was going crazy. But even after surgery, like I woke up and I felt
+
+01:07:55.680 --> 01:08:01.200
+like myself, like everything was, I got no brain injury. So obviously this is like my experience
+
+01:08:01.200 --> 01:08:06.080
+from somebody who came out of it pretty unscathed, who didn't get any brain injuries and didn't have
+
+01:08:06.080 --> 01:08:11.920
+to do any of that recovery. It's more just the recovery from like the physical act of somebody
+
+01:08:11.920 --> 01:08:18.240
+cutting your skull open and taking a large chunk out. Did you research all the things that can go
+
+01:08:18.240 --> 01:08:24.160
+wrong during surgery? No, no. I honestly, I'm a bit surprised by how I acted.
+
+01:08:27.680 --> 01:08:32.640
+Just pausing for you to pour. You're welcome, editors.
+
+01:08:35.520 --> 01:08:36.480
+It's like a commercial.
+
+01:08:37.600 --> 01:08:43.360
+This is like work injury from being a YouTuber. It's all like freeze if there's audio that comes in.
+
+01:08:44.000 --> 01:08:55.040
+Ah, yeah. Sponsored by tap water. I was surprised by how little I was willing to
+
+01:08:56.960 --> 01:09:04.400
+think critically about what my doctors told me to do. Like I very early on, the neurologist that I
+
+01:09:04.400 --> 01:09:11.040
+worked with, he was the one who was on call at the ER the day where I came in. And he was the one who
+
+01:09:11.040 --> 01:09:18.160
+ended up doing my surgery. And he kind of became like my rock in this. And I just 100% trusted him.
+
+01:09:18.160 --> 01:09:22.320
+And he turned out to be an amazing doctor and like did a great job and was just like,
+
+01:09:24.240 --> 01:09:29.200
+I got so, so lucky. But I remember my mom being like, oh, but we should like talk about second
+
+01:09:29.200 --> 01:09:33.760
+opinions. And like, we should try to do more research. And I was like, so unwilling to do
+
+01:09:33.760 --> 01:09:43.840
+that because opening up to the idea that there are multiple ways or multiple things that might
+
+01:09:43.840 --> 01:09:49.520
+be right or wrong was so terrifying. Like I wanted there to just be like, no, this is the only option.
+
+01:09:49.520 --> 01:09:54.400
+This is what we need to do. And if I started questioning that, then I don't know if I would
+
+01:09:54.400 --> 01:10:02.000
+have been able to go through with it. So yeah, it was a strange, I just really wanted to trust the
+
+01:10:02.000 --> 01:10:07.200
+doctors that I worked with. And I was very scared to question them in any way.
+
+01:10:07.840 --> 01:10:13.280
+How did that process change your relationship with death? Are you afraid of death?
+
+01:10:14.800 --> 01:10:16.880
+Do you ponder your mortality?
+
+01:10:16.880 --> 01:10:21.440
+Yeah, I think it took away a part of youth for me.
+
+01:10:21.440 --> 01:10:22.240
+Like the innocence?
+
+01:10:22.800 --> 01:10:27.520
+Yeah. I mean, you kind of think of terrible things as something that happens to other people
+
+01:10:28.080 --> 01:10:34.640
+and death and illness. So I think it kind of fast track that for me.
+
+01:10:35.920 --> 01:10:45.200
+But it mostly changed my relationship to life. It changed, it's made me so much more gentle with
+
+01:10:45.200 --> 01:10:54.160
+myself. Like going through illness, it forces you to redefine what it means to be good.
+
+01:10:54.160 --> 01:10:58.400
+And before being good had been pushing myself really hard. It had been working and,
+
+01:11:00.160 --> 01:11:05.120
+I don't know, just being really hard with myself and disciplined. And when you're
+
+01:11:05.120 --> 01:11:10.160
+healing from something, being good is listening to your body. It's resting. It's like
+
+01:11:10.880 --> 01:11:17.040
+really being in tuned with what your health, where your health is at. And I think that is
+
+01:11:17.040 --> 01:11:21.520
+something that's kind of stuck with me since then. I'm like so much more gentle and delicate with
+
+01:11:21.520 --> 01:11:23.520
+myself. And with others?
+
+01:11:24.800 --> 01:11:30.640
+Ah, fuck that. I think it definitely, it's like when you're young and healthy, it's really hard to
+
+01:11:34.000 --> 01:11:42.160
+know what it feels like to be ill. And I remember, you know, you like go to yoga class and you'd be
+
+01:11:42.160 --> 01:11:46.000
+like, oh my God, this is too slow. Like I want it to be, I have so much more energy. Like I need to.
+
+01:11:46.640 --> 01:11:54.880
+And when I was recovering from my brain surgery, there was this yoga studio nearby my house and
+
+01:11:54.880 --> 01:12:00.480
+they had a yoga for seniors. And I was so stoked because I was like, oh, this is the yoga class
+
+01:12:00.480 --> 01:12:07.040
+I'll be able to take. And I think that was really eye opening of just like, there's no,
+
+01:12:07.680 --> 01:12:12.720
+you kind of imagine that it's just like, oh, just push yourself harder. But no, that's not it.
+
+01:12:12.720 --> 01:12:17.120
+With age or sickness or it's just, you got to be so gentle with yourself and you have to
+
+01:12:18.320 --> 01:12:20.320
+cater to people where they're at.
+
+01:12:21.360 --> 01:12:27.840
+Yeah. And just appreciation of this like biological vehicle you get and you should take care of it.
+
+01:12:27.840 --> 01:12:35.760
+Being sick sucks. It's awful. And I really, I'm really motivated to
+
+01:12:36.320 --> 01:12:43.840
+postpone that for as much as I can. And also I was so tremendously grateful when I got ill
+
+01:12:43.840 --> 01:12:48.240
+that I felt like I had so much to take from. Like I had so many energy reservoirs,
+
+01:12:48.240 --> 01:12:53.760
+I'd spent my life taking pretty decent care of my body and like exercising and eating well and like
+
+01:12:53.760 --> 01:12:59.680
+not wrecking my body in any way. And I felt like this was the first time where that was so critical
+
+01:12:59.680 --> 01:13:03.120
+and I felt like my body was ready for it, you know?
+
+01:13:05.680 --> 01:13:10.640
+I thought you were going to go the other way. Like you can take care of your body all you want.
+
+01:13:12.480 --> 01:13:18.000
+Bad stuff happens, so you should go on drug binges and go wild and do crazy things.
+
+01:13:18.000 --> 01:13:23.200
+I mean, I also had that thought where I was like, I fucking floss every day. How do I have a brain
+
+01:13:23.200 --> 01:13:29.360
+tumor? I've been good. Like, why does this happen to me? But more so it was like my body was so
+
+01:13:29.360 --> 01:13:36.160
+resilient and ready for it. And I was really, really proud of it.
+
+01:13:36.720 --> 01:13:40.720
+It's amazing that the human body is able to recover from even the harshest things.
+
+01:13:40.720 --> 01:13:48.400
+Yeah, it's wild. And my brain, so after surgery, because yeah, I had a brain tumor the size of a
+
+01:13:48.400 --> 01:13:54.560
+golf ball kind of behind my right eye. And after brain surgery, you kind of just have this big hole
+
+01:13:54.560 --> 01:14:03.200
+in your head, like this void. And usually your brain stays that way. Like it retains the shape
+
+01:14:03.200 --> 01:14:09.440
+even after the brain tumor is gone. But for some reason, my brain was feeling really ambitious and
+
+01:14:09.440 --> 01:14:15.760
+it has completely flopped back. And I have almost like a normal looking brain now where doctors are
+
+01:14:15.760 --> 01:14:21.600
+like, oh, we would almost not be able to tell that you had one. So yeah, that just blew my mind.
+
+01:14:22.240 --> 01:14:27.280
+When did it? Was that why I had all those headaches after surgery? It's just my brain being like,
+
+01:14:28.640 --> 01:14:35.440
+trying, working. Yeah. Oh, pretty cool thing I want to ask you about is the everyday calendar
+
+01:14:35.440 --> 01:14:42.960
+that you worked on. That was a long time. That took a long time. Yeah. So basically I designed
+
+01:14:42.960 --> 01:14:49.680
+this calendar, like I wanted to start meditating every day. But it's really hard to meditate every
+
+01:14:49.680 --> 01:14:54.320
+day and to kind of build that habit. And what I would do is I would make these grids in my notebooks
+
+01:14:54.320 --> 01:14:59.760
+where I could check a box for every day. I just wanted a little ding. I did it. And this thing of
+
+01:14:59.760 --> 01:15:05.760
+accountability. But then I was like, I don't want to have a notebook that I do this in. I want an
+
+01:15:05.760 --> 01:15:12.400
+art piece that I can hang on my wall, accountability art. And I made this thing called the everyday
+
+01:15:12.400 --> 01:15:18.080
+calendar, which has an entire year on it. So it's 365 days. And if you tap any of the days,
+
+01:15:18.080 --> 01:15:22.240
+you light it up and we turn it into a Kickstarter campaign. And it's now a product
+
+01:15:22.960 --> 01:15:27.600
+that I'm selling through my product business, the yet store. What's it called? The yet store.
+
+01:15:28.560 --> 01:15:32.800
+And that for people who are confused is the right way to pronounce your last name.
+
+01:15:32.800 --> 01:15:40.080
+Which does it. It's right, but it's so wrong. It makes my last name is spelled G I E R T Z.
+
+01:15:40.080 --> 01:15:44.160
+Who does that song? If loving you is wrong, I don't want to be right.
+
+01:15:44.160 --> 01:15:48.240
+Yeah, pronouncing my last name yet.
+
+01:15:48.240 --> 01:15:50.560
+That's what that's what makes me think. Cause what's his name?
+
+01:15:52.640 --> 01:15:57.840
+From the office, he covers it from the British office, which is the better office.
+
+01:15:58.960 --> 01:16:04.720
+Okay. Tangent upon a tangent upon a tangent. So you said you created the everyday calendar
+
+01:16:04.720 --> 01:16:09.200
+to make a more beautiful in quotes and more sacred gold star system on a wall,
+
+01:16:09.840 --> 01:16:14.640
+not a notebook that gets thrown into a drawer. Well said past me.
+
+01:16:17.040 --> 01:16:21.760
+You said that making this calendar taught you a lot in quotes. I feel like a real investigative
+
+01:16:21.760 --> 01:16:30.320
+journalist. You've said in 2018, can you share some of the lessons you've learned? What do you
+
+01:16:30.320 --> 01:16:34.160
+mean you've learned a lot from making this calendar? What are we talking about?
+
+01:16:34.240 --> 01:16:40.560
+As somebody who builds things, manufacturing something is such an unrelated process,
+
+01:16:40.560 --> 01:16:44.640
+making one of something and making 10,000s of something. They're not even distant cousins.
+
+01:16:44.640 --> 01:16:53.040
+It's completely different beasts to tackle. That was one of it. Everything takes so much longer
+
+01:16:53.040 --> 01:16:57.520
+than you think it's going to. I did a Kickstarter campaign that we launched in 2018
+
+01:16:58.480 --> 01:17:05.840
+after my surgery. You think you're so generous with the timelines. We still ended up being a
+
+01:17:05.840 --> 01:17:15.520
+year late, but we shipped. We're good. I'm trying to get my product business off the ground. We
+
+01:17:15.520 --> 01:17:22.720
+launched in May. It's just a pain. As somebody who's terrified of disappointing people, I'm like,
+
+01:17:23.040 --> 01:17:28.640
+why have I chosen some of the jobs where it's the easiest to disappoint people?
+
+01:17:28.640 --> 01:17:30.720
+You can disappoint people at scale now.
+
+01:17:30.720 --> 01:17:37.040
+Yeah, I can disappoint people at scale and also them actually haven't paid me money to deliver
+
+01:17:37.040 --> 01:17:44.240
+on something, which is a terrible transaction. I'm just stoked to realize that I love the job
+
+01:17:44.240 --> 01:17:50.560
+still. I love the product development aspect of it. I love trying to design stuff for manufacturing
+
+01:17:50.640 --> 01:17:55.840
+and figure it out and anticipate how people are going to use your products.
+
+01:17:56.480 --> 01:18:00.960
+The Everyday Calendar, we've sold thousands of them now. They're all over the world. It's like
+
+01:18:02.880 --> 01:18:09.760
+people actually finding something useful that I made and implementing them into their lives.
+
+01:18:09.760 --> 01:18:12.160
+It's just mind-boggling.
+
+01:18:12.160 --> 01:18:15.120
+Especially because this is tracking habits, good habits.
+
+01:18:15.600 --> 01:18:21.600
+Or bad ones. You can do it however you want.
+
+01:18:21.600 --> 01:18:25.200
+I went in a drinking binge again today. Great success.
+
+01:18:25.200 --> 01:18:26.240
+Kicked another kid.
+
+01:18:28.560 --> 01:18:32.000
+What does it take to mass manufacture something? What did you learn about that?
+
+01:18:33.280 --> 01:18:40.800
+Can you elucidate the gap between the prototype versus the product development for mass
+
+01:18:40.800 --> 01:18:41.760
+manufacture?
+
+01:18:41.760 --> 01:18:46.320
+For one of it is, yeah, the manufacturing, the tooling that they use in manufacturing
+
+01:18:46.320 --> 01:18:53.280
+and to do things in a cost-effective way is really different. I can make a one-off,
+
+01:18:53.280 --> 01:18:57.280
+then it's going to take me 17 hours, but obviously you can't spend 17 hours per
+
+01:18:57.280 --> 01:19:05.600
+calendar when you're doing something in factory. I think it's that quality control is such a beast.
+
+01:19:05.600 --> 01:19:13.520
+You cannot trust anybody telling you that things are going to be okay. You have to have such
+
+01:19:14.400 --> 01:19:19.920
+trust issues. It's also terrifying. As somebody who's doing everything independently,
+
+01:19:19.920 --> 01:19:25.360
+I haven't raised any capital for it. It's all self-invested and we're doing it all in-house.
+
+01:19:26.320 --> 01:19:33.680
+It's just, yeah, I could buy 10,000 calendars, but then what if all of them
+
+01:19:34.400 --> 01:19:42.960
+have a manufacturing issue? It's just terrifying because the risks are so high, but also
+
+01:19:43.680 --> 01:19:47.440
+I got to this point where for one, this is something that I wanted to do for a long time,
+
+01:19:47.440 --> 01:19:54.000
+but something that going through health problems taught me is how fragile my business model is.
+
+01:19:56.160 --> 01:20:01.360
+I'm basically running an influencer business where I make videos on YouTube and then I have
+
+01:20:01.360 --> 01:20:07.920
+an ad spot and I talk about a brand. I'm a human billboard, which is fine. It grants me a lot of
+
+01:20:07.920 --> 01:20:15.360
+freedom to play around. If I am not well enough to be on a stage giving talks or be in front of a
+
+01:20:15.360 --> 01:20:22.480
+camera, everything stops. It's such a pillar of a business and it can topple over at any given
+
+01:20:22.480 --> 01:20:29.600
+moment. YouTube could change the algorithm. Legislation could catch up and change how you're
+
+01:20:29.600 --> 01:20:36.400
+able to advertise on the internet. It's so frail and I really felt like I need to diversify what
+
+01:20:36.400 --> 01:20:43.040
+I'm doing and also just to keep it interesting for myself. What I decided was to start a product
+
+01:20:43.040 --> 01:20:48.400
+business because also it's this perfect combination of businesses where I can turn my YouTube channel
+
+01:20:48.400 --> 01:20:53.360
+into an R&D department because I have a reason to constantly be exploring things and turning out
+
+01:20:53.360 --> 01:20:58.640
+new products. I can also do that as early audience testing and see what people are actually excited
+
+01:20:58.640 --> 01:21:03.200
+about. If there's something that I think would make an interesting product, I can pass that over
+
+01:21:03.200 --> 01:21:08.320
+to the product business and then once I'm ready to market that and sell it, I can pass it over to the
+
+01:21:08.320 --> 01:21:16.720
+YouTube channel. Once I realized that YouTube didn't feel like an end goal for me, I was like,
+
+01:21:16.720 --> 01:21:21.920
+okay, then I can use it as a tool to accomplish these other things that I want to do and this was
+
+01:21:21.920 --> 01:21:26.560
+one of them. So yeah, it's a lot that went into it. One of the tools, like you said, is R&D,
+
+01:21:26.560 --> 01:21:32.480
+but it's also kind of advertisement for the cool stuff that you're doing. I think Mr. Beast is one
+
+01:21:32.480 --> 01:21:39.040
+of the creators that's also starting to understand this power of this reputation that you've built,
+
+01:21:39.920 --> 01:21:48.000
+of people trust you, they love you to do cool stuff. They trust that you put your heart and
+
+01:21:48.000 --> 01:21:55.520
+soul into a thing and they feel your pain and the struggle too. For example, say the everyday
+
+01:21:55.520 --> 01:22:00.560
+calendar, there was issues in manufacturing, something like this. They would feel the pain
+
+01:22:00.560 --> 01:22:05.040
+of that and there was still support. That's the beauty of it when you have the actual person
+
+01:22:05.040 --> 01:22:08.800
+right there struggling with their lows and highs.
+
+01:22:08.800 --> 01:22:13.600
+That's a decision that I made really early on where I was like, the yet store is supported by
+
+01:22:13.600 --> 01:22:20.400
+me, but it's separate from me. It's not merchandise. You don't have to know who I am or care about who
+
+01:22:20.400 --> 01:22:29.040
+I am to be interested in this product. And if you go on the website, yet.store, plug. I'm on the
+
+01:22:29.040 --> 01:22:38.080
+about page, yet.store. You have to go to the about page to find anything about me. It's definitely
+
+01:22:38.080 --> 01:22:42.000
+not like this is Simone's brand and I think anybody who's followed me for a long time will
+
+01:22:42.000 --> 01:22:48.080
+see that my personality is sprinkled into it, but it's still clean off of me. And I think that's
+
+01:22:48.080 --> 01:22:53.680
+also because I wanted something that was separate from me because I am also running out of narcissism,
+
+01:22:53.680 --> 01:23:01.120
+believe it or not. I don't feel like I don't want it to be about me and I want it to be something
+
+01:23:01.120 --> 01:23:07.520
+that can also run independently of me and I want to be able to retire my face and still do the
+
+01:23:07.520 --> 01:23:12.400
+other stuff because I think it's fun, but I don't want that to be the core of it.
+
+01:23:13.040 --> 01:23:19.120
+What other kind of stuff have you worked on for the product design for yet?
+
+01:23:19.840 --> 01:23:25.840
+So, I mean, a lot of the products, I decided to launch the store with a really small roster
+
+01:23:25.840 --> 01:23:34.480
+of products because developing products, it's such upfront heavy, like cost-wise and just
+
+01:23:34.480 --> 01:23:43.600
+investments. It's very big upfront investment. And I know that it would take a while or I knew
+
+01:23:43.600 --> 01:23:47.840
+it would take a while for me to kind of find the right tonality and visual language for the brand.
+
+01:23:47.840 --> 01:23:52.560
+So I just wanted to launch it, have it be out there, start working on it, start learning more
+
+01:23:52.560 --> 01:23:58.320
+about what it entails, even if we just had a small roster of products. So we've released it with,
+
+01:23:58.320 --> 01:24:06.960
+we have a puzzle. This is just a whim, but I wanted to release a puzzle that has one piece
+
+01:24:06.960 --> 01:24:12.000
+missing. So it's actually, as far as I can tell, it's the world's first officially incomplete puzzle.
+
+01:24:12.000 --> 01:24:18.800
+You get 499 out of 500 pieces. I keep the 500th piece. So I have a box in my workshop with
+
+01:24:18.800 --> 01:24:23.520
+everybody's missing pieces and I don't know what to do with it yet, but someday it will come to me.
+
+01:24:23.520 --> 01:24:25.280
+Profound artistic statement.
+
+01:24:25.280 --> 01:24:31.280
+It is something. It's definitely something. I'm surprised by how many of them we've sold,
+
+01:24:31.280 --> 01:24:35.280
+which I'm also like, I kind of wanted to have that product out there because I was like,
+
+01:24:35.280 --> 01:24:39.280
+can you imagine having a pitch deck if I do ever raise money of being like,
+
+01:24:40.240 --> 01:24:45.520
+you know how good I am at selling things? I sold people 5,000 incomplete puzzles.
+
+01:24:45.520 --> 01:24:46.080
+Incomplete puzzles.
+
+01:24:46.080 --> 01:24:52.640
+Yeah. Also have, you know, it's like a lot of the products, I call them basket fillers,
+
+01:24:52.640 --> 01:24:55.680
+like they're kind of just like stuff where I'm like, yeah, this is like easy to throw
+
+01:24:55.680 --> 01:24:59.920
+into your basket. I mean, we have these rings, I'm wearing them. So there's a screwdriver ring,
+
+01:24:59.920 --> 01:25:04.160
+which is a Phillips head screwdriver, and then a screw ring that kind of has a recess,
+
+01:25:04.160 --> 01:25:09.280
+like a Phillips head screw. I have these sawdust socks that make you look like your feet are
+
+01:25:09.280 --> 01:25:13.840
+covered in sawdust. Like you spend all day in the shop without having to put any of the actual
+
+01:25:13.840 --> 01:25:20.640
+effort in. But then we have four more products in the pipeline that we're working on and that are
+
+01:25:20.640 --> 01:25:27.520
+kind of the more, the big ambitious products that are more in line with what I want the brand to be.
+
+01:25:27.520 --> 01:25:33.680
+Like the tagline is unique solutions to everyday problems. And it's just a lot of like trying to
+
+01:25:35.040 --> 01:25:38.080
+develop novel takes on existing products.
+
+01:25:38.080 --> 01:25:41.600
+So something where the function becomes a bigger, bigger part of the design.
+
+01:25:41.600 --> 01:25:42.560
+Yeah.
+
+01:25:42.560 --> 01:25:46.800
+And so what's the process of creating something like that, like even the everyday calendar?
+
+01:25:46.800 --> 01:25:51.040
+So like what are some challenges that are interesting along the way? So you have to sketch
+
+01:25:51.040 --> 01:25:57.120
+it out. You have to like brainstorm, draw things out, and then create a schematic and see like how,
+
+01:25:57.120 --> 01:25:59.280
+how do you know what it's going to look like visually?
+
+01:25:59.680 --> 01:26:05.680
+Don't. And it's, I mean, I, so the everyday calendar, the first, so I just built it for
+
+01:26:05.680 --> 01:26:12.080
+myself first. Like that did not come as a, as a product idea first. And that's kind of
+
+01:26:12.080 --> 01:26:15.600
+been the process that I've had for a lot of things. Like I make it for myself and then I'm like,
+
+01:26:15.600 --> 01:26:20.880
+oh, maybe other people would find this useful too. So the everyday calendar, the first prototype I
+
+01:26:20.880 --> 01:26:27.840
+made, it had actually physical mechanical toggle switches. So 365 toggle switches that you could
+
+01:26:27.840 --> 01:26:33.200
+flip. So if you worked out that day or meditated for me, it was meditating. You can just flip that
+
+01:26:33.200 --> 01:26:40.560
+switch. And that was great. But when I started evaluating it as a product, it's, if you have
+
+01:26:40.560 --> 01:26:49.040
+365 of something in a product, like the runaway cost is crazy. So the cheapest option, most reliable
+
+01:26:49.040 --> 01:26:54.400
+option we could find was capacitive touch. So basically it's a touch interface and the front
+
+01:26:54.400 --> 01:27:01.920
+plate is a circuit board itself. So it's this like the circuit board that's designed in this really
+
+01:27:03.520 --> 01:27:08.960
+fancy way. So it looks like a beautiful piece of art, not to do my own work too much.
+
+01:27:09.840 --> 01:27:14.560
+But it's actually a circuit board, which I also thought was really interesting of like using this
+
+01:27:14.560 --> 01:27:21.200
+that people usually hide away in products. And it felt like a nod to my career in electronics as
+
+01:27:21.200 --> 01:27:24.400
+well of being like, no, let's make it pretty and let's make it put it front and forward.
+
+01:27:26.800 --> 01:27:30.480
+But yeah, I mean, what I'm realizing now more and more is like, there's so many of like,
+
+01:27:30.480 --> 01:27:34.160
+I would love to turn the puzzle table into a product, but then it's like,
+
+01:27:34.160 --> 01:27:39.600
+that would be a $7,000 table and I don't want to sell a table for $7,000. So you're kind of
+
+01:27:39.600 --> 01:27:45.200
+limited to the price bracket you're in. And it's like, your margins are tough. Like maintaining
+
+01:27:45.200 --> 01:27:49.840
+your margins are really, really tough. And as somebody who's like, I would love to sell the
+
+01:27:49.840 --> 01:27:55.840
+stuff that we're doing cheaper, but it's just not feasible. Like you need those margins to survive.
+
+01:27:56.960 --> 01:28:00.560
+Well, one of the genius things and the conversations I've had with Elon is the
+
+01:28:00.560 --> 01:28:08.080
+ability through sort of systematic questioning of how things have been done in the past to
+
+01:28:08.080 --> 01:28:13.840
+discuss what is the lowest cost way to solve a problem. And so he's very good at getting to
+
+01:28:13.840 --> 01:28:17.840
+like with Optimus robot, for example, the humanoid robot, how do you get the cost down?
+
+01:28:18.160 --> 01:28:25.040
+Yeah. And that seems to be like one of the essential things to do in any product that
+
+01:28:25.040 --> 01:28:29.360
+you have to mass manufacture is constantly discussed. Like how do we simplify, simplify?
+
+01:28:29.360 --> 01:28:33.520
+It's definitely a design limitation. It's interesting. It's both hard and interesting
+
+01:28:33.520 --> 01:28:37.200
+to work within. And that's such a different thing as well. It's like, I mean, as I've talked about
+
+01:28:37.200 --> 01:28:41.200
+before, like what is the context and what you're creating things? Like I'm still building things.
+
+01:28:41.200 --> 01:28:45.280
+I'm still inventing things, but I changed the context and it has a very different set of
+
+01:28:45.280 --> 01:28:53.280
+limitations and constantly trying to simplify your product to make it cheaper. And yeah,
+
+01:28:53.280 --> 01:28:57.200
+it's a really interesting and different type of design process.
+
+01:28:57.200 --> 01:29:02.000
+You can lose some of the magic though, right? Like people can do that a little bit too much.
+
+01:29:02.000 --> 01:29:07.520
+I think Apple is famous, like Johnny Ive is famous for sort of focusing on design first
+
+01:29:07.520 --> 01:29:12.560
+and not worrying about the cost later because you don't want to sacrifice. There's some stuff
+
+01:29:12.560 --> 01:29:17.280
+that's going to cost more, but it keeps some of the magic.
+
+01:29:18.160 --> 01:29:21.520
+I think it's for some of the products that we're working on. It's like, I'm like,
+
+01:29:21.520 --> 01:29:25.760
+let's just make it the best we think it can be, and then we can scale back from there.
+
+01:29:25.760 --> 01:29:31.200
+Like let's not impose these limitations on ourselves up front. Like let's just make it
+
+01:29:31.200 --> 01:29:35.760
+the most beautiful version of itself, and then we can decide what we want to compromise with
+
+01:29:36.400 --> 01:29:37.920
+or compromise on. Yeah.
+
+01:29:37.920 --> 01:29:41.280
+That's what I say every day when I look in the mirror.
+
+01:29:41.280 --> 01:29:45.120
+Yeah, let's make it beautiful and then we can compromise, yeah.
+
+01:29:46.800 --> 01:29:48.320
+So you put on that suit.
+
+01:29:48.320 --> 01:29:54.480
+Yeah, and then see how shit goes wrong later. All right, back a little bit to the robots.
+
+01:29:55.920 --> 01:30:00.880
+Actually to one of your more epic projects. I mean, they're all epic, but Truckla.
+
+01:30:02.400 --> 01:30:06.640
+You're cutting into a Tesla and turning into an epic truck. What was that like? Where did
+
+01:30:06.640 --> 01:30:12.640
+the idea come from? The idea came from that I really wanted an electric pickup truck.
+
+01:30:12.640 --> 01:30:16.960
+Like I'm only really driven electric because I got my driver's license pretty late, and I'm like
+
+01:30:16.960 --> 01:30:21.760
+one of the first generation drivers. It's like probably never going to have a gas vehicle.
+
+01:30:23.760 --> 01:30:32.720
+But yeah, this was in 2018 as well. 2018 was a big year. Yeah. Or 2019, I can't remember. And I
+
+01:30:32.720 --> 01:30:39.520
+I figured that we could just make our own. So you took a Tesla?
+
+01:30:39.520 --> 01:30:41.280
+Tesla Model 3. Model 3?
+
+01:30:42.640 --> 01:30:48.400
+And you cut off a piece of it and you turn it into a pickup truck. What's the
+
+01:30:52.240 --> 01:30:56.240
+it looks pretty badass. So what are some of the challenges of doing that? It's unlike
+
+01:30:56.240 --> 01:31:02.000
+other projects you've done. Yeah, it's very much outside of my realm. Like I'm not a car person.
+
+01:31:02.000 --> 01:31:09.200
+I haven't worked on cars before. So we brought in a big team and had another project manager
+
+01:31:09.200 --> 01:31:13.840
+for it and stuff. Because also like cars, you definitely don't want things to go wrong. Like
+
+01:31:13.840 --> 01:31:17.920
+there's no part of me that wants to fuck around and make something that's going to be really
+
+01:31:17.920 --> 01:31:25.120
+unsafe for me or for other people who are driving with me. So yeah, I mean, it was about a year of
+
+01:31:25.200 --> 01:31:31.520
+planning. And then we got the car and then we spent a month just tearing it apart
+
+01:31:32.080 --> 01:31:36.960
+and trying to make it. I was so set, like I really wanted the car just for its function.
+
+01:31:37.840 --> 01:31:45.040
+And I was like, I'm so fine with if it's really ugly. But then we managed to make it actually
+
+01:31:45.040 --> 01:31:49.440
+look really good. So that wasn't part of the discussion, like how the final thing looks?
+
+01:31:49.440 --> 01:31:54.000
+I wasn't so, I wasn't that fussed about it. I was like, I just want it to, I just want it
+
+01:31:54.000 --> 01:31:57.840
+for its function. Like I really want this car. I don't want it because it looks cool,
+
+01:31:57.840 --> 01:32:03.200
+but then it ended up looking pretty cool as well. And I'm really, I mean, even now,
+
+01:32:03.200 --> 01:32:07.680
+a couple of years later, when there are some more options of electric pickup trucks,
+
+01:32:08.240 --> 01:32:18.800
+I still stan Truckla. Like Rivian, Ford F-150, like they're all great, but they're giant.
+
+01:32:19.200 --> 01:32:26.880
+You're sitting there on a porch in your cowboy hat, drinking whiskey and saying-
+
+01:32:26.880 --> 01:32:27.840
+With my cattle dog.
+
+01:32:31.200 --> 01:32:34.000
+I wanted like a small 90s pickup truck.
+
+01:32:34.720 --> 01:32:39.040
+Back to shitty robots. You reuse parts of previous robots a lot. What's like a memorable
+
+01:32:39.040 --> 01:32:43.120
+example of that? It's just the graveyard of parts in the workshop?
+
+01:32:43.120 --> 01:32:49.680
+I've gotten better at keeping projects intact. In the beginning, I used to disassemble every
+
+01:32:50.320 --> 01:32:54.720
+project because I was also a much more stringent budget. So if I needed a motor,
+
+01:32:54.720 --> 01:33:00.080
+then I would like seal it off of an existing robot or a previous robot. But I've gotten really good
+
+01:33:00.080 --> 01:33:06.800
+at not doing that now because I'm like, maybe one day I want to have a museum exhibit. And then
+
+01:33:06.800 --> 01:33:11.120
+it would be nice to have all of those machines intact and not having to rebuild them.
+
+01:33:11.840 --> 01:33:15.120
+Centuries from now, you can look at Benjamin Franklin's house.
+
+01:33:16.320 --> 01:33:18.720
+Oh yeah, no, we're just going to look at my house.
+
+01:33:18.720 --> 01:33:23.040
+Yeah, just house. Just some weird shit.
+
+01:33:24.240 --> 01:33:27.040
+Yeah, that goes great with my idea of myself.
+
+01:33:29.040 --> 01:33:33.280
+With the autobiography, yeah. You said that people keep requesting in the comments.
+
+01:33:34.000 --> 01:33:35.200
+Did I put a dildo on it?
+
+01:33:35.200 --> 01:33:38.960
+Yeah. Wait, was that actually what you were going to ask?
+
+01:33:38.960 --> 01:33:41.200
+Yeah, I have dildo written in my notes.
+
+01:33:42.800 --> 01:33:48.080
+I thought I just made it into a raunchy punch line. You were actually going to get there.
+
+01:33:48.080 --> 01:33:51.040
+Yeah, that was in the early days and the shitty robot days, but now I have
+
+01:33:51.760 --> 01:33:55.600
+a filter on my YouTube channel for every possible spelling of dildo.
+
+01:33:56.320 --> 01:34:01.600
+I mean, people want to probably sexualize robots, right? Or they put...
+
+01:34:01.600 --> 01:34:03.680
+They want to sexualize my relationship with them.
+
+01:34:04.480 --> 01:34:13.040
+Yeah, you know, because I have majority male followers and they're so sweet and so respectful,
+
+01:34:13.840 --> 01:34:27.840
+99%. But I realized that society hasn't taught men how to have female role models and the way
+
+01:34:27.840 --> 01:34:32.720
+that people channel it is through being like, oh, it's because I want to fuck her or I want
+
+01:34:32.800 --> 01:34:37.200
+to date her or I want to marry her. And I'm like, I don't think you want any of those things.
+
+01:34:37.200 --> 01:34:43.760
+I think you actually just admire my work, but you don't know how to look up to a woman.
+
+01:34:43.760 --> 01:34:49.360
+Yeah, that's beautifully put. What about weapons? Do you get requests to put weapons on a thing?
+
+01:34:50.640 --> 01:34:55.920
+It's interesting. I kind of started in robotics as just like a happy camper who is really into
+
+01:34:56.160 --> 01:35:01.520
+tinkering and now I'm kind of seeing some of the darker parts of it.
+
+01:35:02.640 --> 01:35:08.480
+I remember first time I went to a proper factory and I saw big industrial robot arms at work and
+
+01:35:08.480 --> 01:35:14.320
+I was like, oh, wow, this is what it is about. And it was almost scary where I was like, oh,
+
+01:35:14.320 --> 01:35:18.400
+I've just been playing around with these tiny versions of this. And I'm like, oh my God,
+
+01:35:18.400 --> 01:35:21.600
+everybody, robotics is cool and fun. And then you get in there and you're like,
+
+01:35:21.600 --> 01:35:25.120
+this is kind of terrifying. You were platforming
+
+01:35:26.000 --> 01:35:29.920
+the very things that will destroy human civilization. You're making it fun and
+
+01:35:29.920 --> 01:35:35.760
+entertaining. I'm the mouthpiece and I'm like getting people into robotics and engineering
+
+01:35:35.760 --> 01:35:41.200
+and we're all just building our demise and accelerating speed. No, but I mean, I had that
+
+01:35:41.200 --> 01:35:51.200
+and also with companies who are saying that they're never going to put weapons on their robots and
+
+01:35:51.200 --> 01:35:56.320
+then have military contracts and stuff like that, you're like, this is dark and scary.
+
+01:35:57.120 --> 01:35:59.440
+Fortunately, I haven't gotten a lot of requests for it.
+
+01:35:59.440 --> 01:36:01.440
+Yeah, drones are terrifying, especially.
+
+01:36:01.440 --> 01:36:09.440
+Drones are fucking terrifying. And it's really everything. I mean, we're humans are so good at
+
+01:36:09.440 --> 01:36:17.360
+creative ways of killing and fucking each other. It's like almost everything goes. And it's, yeah,
+
+01:36:18.160 --> 01:36:22.240
+I'm terrified of the future where we are going to use more robots to kill each other.
+
+01:36:23.760 --> 01:36:27.120
+And come up with new and new creative ways to kill and hurt each other.
+
+01:36:27.920 --> 01:36:33.920
+Emotionally, psychologically, physically. Speaking of which, what are your thoughts about,
+
+01:36:33.920 --> 01:36:39.040
+I don't know if you've been paying attention, but Chad GPT, the advancement in language models
+
+01:36:39.040 --> 01:36:44.720
+and artificial intelligence. Have you added speaking capabilities to any of your devices?
+
+01:36:44.800 --> 01:36:49.920
+I have. I had Siri on. Yeah. I used to have an Amazon Echo in my house, but then I removed it.
+
+01:36:50.800 --> 01:36:54.560
+It just freaked me out that I could whisper from my bed and it hurt me.
+
+01:36:55.200 --> 01:37:00.560
+I'd be like, Alexa, please, Spotify. She's like, playing Spotify.
+
+01:37:05.920 --> 01:37:14.560
+I think it is a powerful tool that we are not fully ready for. And I don't know. I think
+
+01:37:15.600 --> 01:37:24.400
+the internet is kind of a parade of us using powerful things in harmful ways. And I think
+
+01:37:25.760 --> 01:37:31.120
+chatbots are really, really exciting. I'm stoked to have a personal assistant that's like,
+
+01:37:31.120 --> 01:37:35.360
+or a virtual assistant that actually does a good job and can solve problems for me.
+
+01:37:36.240 --> 01:37:40.960
+But yeah, it also feels like it can get dark really, really quickly.
+
+01:37:40.960 --> 01:37:44.880
+Yeah, because you can form close connections like we're talking about with it, and then it
+
+01:37:44.880 --> 01:37:52.000
+can be used to manipulate you. Manipulate you in terms of what is true and manipulate you in
+
+01:37:52.000 --> 01:37:58.640
+terms of getting you to buy stuff. Yeah. Or maybe because at least for now it's centralized,
+
+01:37:58.640 --> 01:38:02.640
+getting everybody to think the same way. I mean, it's the same in like,
+
+01:38:02.640 --> 01:38:07.520
+algorithms being used to radicalize people or kind of having that as a consequence of
+
+01:38:07.520 --> 01:38:13.360
+the way that they work and combine that with a really advanced language model. And you can
+
+01:38:14.320 --> 01:38:22.080
+control people's worldview in a way that you could. I mean, it's just, it's wild. And I think we're
+
+01:38:22.080 --> 01:38:27.920
+not ready for it. And I don't know if we ever would be because we're very impressionable,
+
+01:38:27.920 --> 01:38:34.720
+little squishy flesh bags. Which takes us back to when the squishy flesh bags interact,
+
+01:38:34.720 --> 01:38:41.680
+which one pops first. Bubble on bubble, new paper coming out.
+
+01:38:45.840 --> 01:38:51.120
+What about consciousness? So you never anthropomorphize the robots? Did they ever
+
+01:38:51.120 --> 01:38:57.280
+come to life for you? Where you kind of thought, no, because they built them and I know how they
+
+01:38:57.280 --> 01:39:02.640
+work. So that prevents you from being able to see the magic. I don't know. Yeah. But I think it's
+
+01:39:02.640 --> 01:39:08.400
+like, I definitely, when I did a lot of the shitty robot stuff, like I wanted them to move
+
+01:39:08.400 --> 01:39:13.840
+like a human or like in a more organic way and not just like point A to point B,
+
+01:39:13.840 --> 01:39:19.920
+just use this way to program stuff. So I wanted other people to anthropomorphize them, but I don't
+
+01:39:19.920 --> 01:39:27.520
+think I did necessarily. I'm trying to think of a piece of technology that I've kind of projected
+
+01:39:27.600 --> 01:39:33.760
+feelings upon, but no, I can't. So sometimes what makes me anthropomorphize something,
+
+01:39:33.760 --> 01:39:40.480
+even though I built it, is there's elements of surprise. So especially with machine learning,
+
+01:39:40.480 --> 01:39:45.280
+you're surprised by the kind of things it does. Have you ever been surprised by a robot?
+
+01:39:46.640 --> 01:39:50.240
+No, because they're all pretty dumb. Like also the robots I built, it's like,
+
+01:39:50.240 --> 01:39:59.600
+like they're all just servos moving from, I mean, they're, I don't think I've built anything
+
+01:39:59.600 --> 01:40:05.040
+with a huge amount of sensors or like they're just moving in a pattern that I programmed them
+
+01:40:05.040 --> 01:40:12.320
+to move. What's the most complex thing you've built? I mean, probably Truckla. Truckla. Yeah,
+
+01:40:12.960 --> 01:40:19.520
+was complex just for the sheer scale of it. And like the, I mean, I think that was my biggest
+
+01:40:19.520 --> 01:40:24.720
+project, both in terms of build scope, but also in terms of impact that it had. Like that project
+
+01:40:24.720 --> 01:40:31.120
+just went wild. But then, yeah, then I don't know. The bubble wrap music box, I don't know.
+
+01:40:31.120 --> 01:40:35.920
+They're all complicated in different ways. That one is epic. How does the bubble wrap
+
+01:40:35.920 --> 01:40:44.080
+connect to the flute, by the way? How does that work? The flute is just mounted right where it
+
+01:40:44.080 --> 01:40:49.840
+pops it. Okay. Yeah. That's so fascinating. I gotta watch that video. Yeah, that's fun.
+
+01:40:50.640 --> 01:40:59.040
+Funny enough, in my deep investigative journalistic research of you, it says you're
+
+01:40:59.040 --> 01:41:06.240
+used to being an MMA reporter. Yeah. How, how, how did that happen? How did you get into it?
+
+01:41:06.240 --> 01:41:11.120
+I was really into martial arts. I was like a huge UFC buff. I mean, this is
+
+01:41:11.120 --> 01:41:15.840
+just 2010 maybe. You practiced martial arts yourself?
+
+01:41:15.840 --> 01:41:22.240
+I did. Yeah. I was mostly standup. I did. I did a lot of Muay Thai and then some Brazilian Jiu-Jitsu
+
+01:41:22.240 --> 01:41:31.920
+and just, yeah. I was really, the thing is I get really intense about my hobbies and I was so into
+
+01:41:31.920 --> 01:41:39.040
+it. I was all in. Awesome. And I had worked a little bit as a journalist and I was like, oh,
+
+01:41:39.040 --> 01:41:47.680
+I should do MMA reporting. And I emailed this MMA website in Sweden and I was like, hey,
+
+01:41:47.680 --> 01:41:52.320
+can I come and write for you? And they were like, oh, actually we're going to an event in
+
+01:41:52.320 --> 01:41:57.440
+Gothenburg tomorrow. Do you want to come? Yeah. And I was like, wow, this is a lot. It's like 11
+
+01:41:57.440 --> 01:42:02.320
+PM at night, but sure, I'll come. And I went there to their office. I'd never really met them. And
+
+01:42:02.320 --> 01:42:07.040
+I'm like, this is kind of scary. I'm a 20 year old girl and going there in a group of men,
+
+01:42:07.040 --> 01:42:14.880
+or the group of men. And they were so rude. I went there and I was like, hey, what's up?
+
+01:42:14.880 --> 01:42:18.880
+And they were all kind of ignoring me and just like not looking at me or interacting with me
+
+01:42:19.920 --> 01:42:26.960
+until they realized that Simon was a girl because we'd only talked over email. And they're like,
+
+01:42:26.960 --> 01:42:32.320
+oh, this guy named Simon is going to come. And then they were like, oh fuck, Simon,
+
+01:42:32.320 --> 01:42:38.640
+it's actually Simone and it's a girl. So I kind of like slid into that in a very,
+
+01:42:38.640 --> 01:42:42.800
+very strange way. And I did that for a year, but then I got kicked out of an interview
+
+01:42:42.800 --> 01:42:46.960
+with Alexander Gustafsson. Wow, your pronunciation is so good.
+
+01:42:48.640 --> 01:42:52.480
+And then I just kind of never went back and I was done with it. And now I'm not allowed to do
+
+01:42:52.480 --> 01:42:58.800
+martial arts because of brain stuff. So I've kind of put all of that behind me. And it's interesting.
+
+01:42:59.760 --> 01:43:06.480
+I definitely see the athleticism in it and the skill that goes into it. I think as the older I
+
+01:43:06.480 --> 01:43:12.000
+get, the more concerned I am about the health impacts of the sport and of the people who are
+
+01:43:12.000 --> 01:43:22.640
+practicing it on an elite level. And I'm just not as, cannot as 100% just cheer as somebody
+
+01:43:22.640 --> 01:43:26.000
+beats somebody else up into a pulp. Yeah, especially considering the
+
+01:43:26.000 --> 01:43:33.360
+effects it might have on the brain. May I ask why you got kicked out? Is it because of the
+
+01:43:33.360 --> 01:43:41.360
+interview? Is anything fun? Is it embarrassing? No, it wasn't. I didn't intend to get kicked out.
+
+01:43:41.360 --> 01:43:46.000
+I didn't realize I was going to get kicked out. So it was Alexander Gustafsson was going to fight
+
+01:43:46.000 --> 01:43:55.040
+John Jones. And he was kind of like this golden boy in Sweden. And he had just come out to the
+
+01:43:55.040 --> 01:44:01.760
+press that he had actually been to jail for violent crimes. And all I wanted to ask,
+
+01:44:01.760 --> 01:44:06.320
+all I asked was what was the reason that you wanted to bring that forward now?
+
+01:44:07.760 --> 01:44:12.240
+And apparently that was completely like blacklisted, but I hadn't gotten briefed
+
+01:44:12.240 --> 01:44:21.600
+about it at all. And the PR man, head of PR of the UFC was just yelling at me and they kicked me out
+
+01:44:22.160 --> 01:44:28.960
+of Grand Hotel in Stockholm. And I immediately called my mom and I was like, mom, you will not
+
+01:44:28.960 --> 01:44:35.760
+believe what just happened. I got kicked out of an interview at Grand Hotel because in the 90s,
+
+01:44:35.760 --> 01:44:41.200
+she got kicked out of an interview with Mel Gibson from the Grand Hotel. So that's like
+
+01:44:41.200 --> 01:44:48.320
+Renz and the family. So I was just like, yeah, no, it was just this weird generational skip where we
+
+01:44:48.320 --> 01:44:56.000
+both got kicked out of interviews at the same hotel. You spent quite a bit of time in China
+
+01:44:56.000 --> 01:45:02.800
+as a student. Is that something you can speak to the differences and culturally, maybe even from
+
+01:45:02.800 --> 01:45:07.120
+like a student in engineering perspective between China and US, maybe even Sweden,
+
+01:45:07.120 --> 01:45:11.200
+those are like technologically speaking, just such fundamentally different places.
+
+01:45:11.200 --> 01:45:16.640
+I mean, I moved to China when I was 16 and I went there as an exchange student. So that is before
+
+01:45:16.640 --> 01:45:25.840
+I had ever touched upon those things. And then I went back when I was 19 to work as an English
+
+01:45:25.840 --> 01:45:35.920
+teacher for a little bit. It was incredibly challenging to be there. The language barrier,
+
+01:45:35.920 --> 01:45:41.280
+the language, the culture. All of it. I mean, I was like, now when I look at 16 year olds, I'm like,
+
+01:45:41.280 --> 01:45:48.480
+you're a baby. And I moved, sorry, 10 to 16 year olds listening to this, but I just can't believe
+
+01:45:48.480 --> 01:45:53.040
+I did that. And yeah, I didn't speak the language. I got placed in a small city with almost no
+
+01:45:53.040 --> 01:45:59.760
+foreigners. It was just a constant audience of people staring at you because they haven't
+
+01:45:59.760 --> 01:46:06.080
+interacted with a lot of foreigners before. And yeah, it definitely, and then after that,
+
+01:46:06.160 --> 01:46:14.080
+I moved to Kenya. And I think that was one of the reasons why it was so interesting to move to the
+
+01:46:14.080 --> 01:46:18.800
+States, because people were like, oh, isn't it hard with the language barrier or the cultural
+
+01:46:18.800 --> 01:46:24.560
+difference? And I was like, dude, this is nothing. And I could speak the language, I could speak
+
+01:46:24.560 --> 01:46:28.800
+English well, and I could kind of pass as an American even just as I moved here. And it was
+
+01:46:28.800 --> 01:46:34.240
+such a relief where I was like, wow, I'm like an undercover foreigner. Because I got to a point
+
+01:46:34.240 --> 01:46:40.960
+where I realized it doesn't matter how good my Mandarin is, people are never going to fully
+
+01:46:42.000 --> 01:46:44.320
+accept me here. So yeah.
+
+01:46:44.320 --> 01:46:48.720
+And you moved, you went to Kenya, you've spoken about this after your parents got divorced?
+
+01:46:49.760 --> 01:46:53.680
+Yeah. When did I talk about that? I didn't realize I told that story.
+
+01:46:54.640 --> 01:46:56.720
+I know so many things. What do you think this is?
+
+01:46:56.720 --> 01:46:59.280
+Is it from when I have my Amazon Echo installed?
+
+01:46:59.280 --> 01:47:02.320
+Yeah. I made a few contacts.
+
+01:47:02.320 --> 01:47:05.280
+I came home from China, first time. I was there for a year.
+
+01:47:07.680 --> 01:47:15.760
+It's one of the most turned upside down days of my life. I spent a year there and I was so excited.
+
+01:47:15.760 --> 01:47:21.040
+I had a really rough year. And I was so excited just to come home and be a child again.
+
+01:47:21.040 --> 01:47:28.800
+I remember thinking and just feeling like I belonged. And then I came home and I found out
+
+01:47:28.800 --> 01:47:32.880
+that my parents had separated when I was gone and they hadn't told me because they wanted to
+
+01:47:33.520 --> 01:47:37.840
+not affect my stay there, which I think was 100% the right decision of them to make.
+
+01:47:37.840 --> 01:47:42.160
+But I kind of came home to a house that was starting to get picked apart.
+
+01:47:43.760 --> 01:47:45.760
+Such a big shock to your world.
+
+01:47:45.760 --> 01:47:52.320
+It was both yes and no. I think I remember I just sat down on my bed and I was like,
+
+01:47:52.320 --> 01:47:58.160
+well, this isn't what I expected. But I guess I'll move to Kenya because I was one of the few
+
+01:47:59.440 --> 01:48:03.280
+Swedish boarding schools in the world. There was one in Brussels, Paris, London,
+
+01:48:03.280 --> 01:48:07.360
+and then one in Nairobi. And I didn't want to miss more school because I'd taken a gap
+
+01:48:07.360 --> 01:48:11.040
+here when I went to China. So I was like, I guess I'll go to Nairobi.
+
+01:48:12.000 --> 01:48:16.080
+And I'm thinking now, I think if my parents had stayed together, granted,
+
+01:48:16.080 --> 01:48:23.040
+it was amazing that they made the right decision in every way, but my roots never grew back after
+
+01:48:23.040 --> 01:48:31.200
+that. And I think I just kept on moving abroad and moving around and being really restless.
+
+01:48:33.680 --> 01:48:36.400
+Have you ever been able to find a home spiritually?
+
+01:48:36.400 --> 01:48:39.280
+I don't have a home. Yeah. I mean, I have a home
+
+01:48:42.240 --> 01:48:49.120
+in the people around me and I have a lot of different homes. I think what I'm realizing
+
+01:48:49.120 --> 01:48:53.920
+more and more is you cannot live without consequence and compromise. And sometimes
+
+01:48:53.920 --> 01:48:59.200
+I can envy people who have that same friend group that they had their entire life, or
+
+01:48:59.840 --> 01:49:07.920
+that just really belong in a place. And I realized that would be amazing, but I've chosen
+
+01:49:07.920 --> 01:49:14.000
+different experiences. And one of the upsides of that is I can feel home almost anywhere.
+
+01:49:14.880 --> 01:49:19.200
+One of the downsides of that is that I cannot feel fully at home anywhere.
+
+01:49:20.560 --> 01:49:22.960
+Oh, that's deeply and darkly poetic.
+
+01:49:23.920 --> 01:49:24.800
+Do you feel at home?
+
+01:49:30.960 --> 01:49:40.720
+Probably the way you put it is really beautifully put. Yeah. No, I have to find home in the people
+
+01:49:40.720 --> 01:49:53.040
+I love. Yeah. What advice would you give to young people that look at your stellar life,
+
+01:49:53.040 --> 01:50:01.040
+the trajectory of your career as a human being, as a creator, as an engineer, as a designer,
+
+01:50:02.080 --> 01:50:10.320
+as an incredibly interesting personality who's working on an autobiography? What advice would
+
+01:50:10.320 --> 01:50:16.640
+you give them? How to make their way in this life? Maybe high school students, maybe college
+
+01:50:16.640 --> 01:50:22.080
+students on how they can have a career they can be proud of or a life they can be proud of.
+
+01:50:22.080 --> 01:50:31.440
+Oh my God, Alex. This is not the advice, but there are very few moments in a career that
+
+01:50:31.440 --> 01:50:36.640
+feel as good as you think they are going to. And there are very few moments of feeling
+
+01:50:36.720 --> 01:50:42.720
+really proud of yourself. I feel like I often just feel like I'm not doing it well enough or
+
+01:50:42.720 --> 01:50:47.840
+big enough. And now I just had one of those moments like hearing you say that. I'm like,
+
+01:50:47.840 --> 01:51:00.240
+oh, I'm actually doing okay. I think my main advice is enthusiasm is a much more potent
+
+01:51:00.240 --> 01:51:06.480
+fuel in life than duty. And just because something is boring doesn't mean that it's important.
+
+01:51:07.280 --> 01:51:12.800
+I kind of realized for myself that I'm so much better at the things I enjoy.
+
+01:51:13.760 --> 01:51:20.720
+But school doesn't really teach us how to stay excited about something and how to stay enthusiastic
+
+01:51:20.720 --> 01:51:27.280
+about something. And if you can find that, then you've got a goldmine of potential. So
+
+01:51:28.640 --> 01:51:33.600
+I kind of had to reprogram myself to be like, just because this is fun doesn't mean that it's
+
+01:51:33.600 --> 01:51:40.080
+not important. Because I had so much guilt about it in this weird way or where I'm like, no,
+
+01:51:40.080 --> 01:51:44.640
+this is too fun. This can't be work. And I'm like, no, it's still work. The boring stuff
+
+01:51:44.640 --> 01:51:52.640
+isn't more important. And vice versa, as you said, just because it's boring and hard doesn't mean
+
+01:51:52.640 --> 01:51:58.400
+it's the right thing to do. That's interesting. I'm going to have to take that advice and think
+
+01:51:58.400 --> 01:52:03.360
+through it. Genetically, I'm built a little bit like if this is really unpleasant,
+
+01:52:03.360 --> 01:52:09.120
+it's probably good for me. And it's a dangerous thing to think. Sometimes it's true, sometimes
+
+01:52:09.120 --> 01:52:17.280
+it's not. No, and it's like, what comes really easy and where do you have that kind of effortless
+
+01:52:17.280 --> 01:52:24.240
+momentum and enthusiasm? And that is kind of the sweet spot. I think that I'm also really happy
+
+01:52:24.240 --> 01:52:30.480
+that I spent time trying out so many different jobs. I mean, I've had so many different jobs
+
+01:52:30.480 --> 01:52:35.200
+before I did it. And I would do things for a year and then I quit. And it feels like I tried on a
+
+01:52:35.200 --> 01:52:40.240
+bunch of different pants. And you're like, okay, I can kind of wear this, but they're not super
+
+01:52:40.240 --> 01:52:44.560
+comfortable or I don't love the look of them or whatever. And now I feel like I found this pair
+
+01:52:44.560 --> 01:52:53.360
+of pants that just fits me perfectly. And that perfectly caters to my strengths and my weaknesses.
+
+01:52:53.360 --> 01:52:59.040
+I used to work as an editor for the Swedish government. And I remember thinking like,
+
+01:52:59.920 --> 01:53:04.640
+oh, I need to be okay that not a lot of things are happening and that things are moving slowly
+
+01:53:04.640 --> 01:53:10.560
+and that the work is kind of monotonous. And then I realized, or maybe I should be in a workplace
+
+01:53:10.560 --> 01:53:17.040
+where it's a benefit or strength that I want a lot of things to happen and that I can handle
+
+01:53:17.040 --> 01:53:23.120
+a high speed. And I think that is really such a good question to ask as well. Like,
+
+01:53:23.120 --> 01:53:27.120
+what are my strengths? What are my weaknesses? And in what context are most of these things strengths?
+
+01:53:28.560 --> 01:53:33.440
+And if you know the measurements, you can find the right fitting pants.
+
+01:53:33.440 --> 01:53:36.800
+Yeah, or the right suit, as Lex will tell you.
+
+01:53:38.160 --> 01:53:39.360
+What do you think is the meaning of life?
+
+01:53:40.320 --> 01:53:41.520
+Oh, I don't think there's any meaning.
+
+01:53:42.720 --> 01:53:43.840
+It's a meaningless void?
+
+01:53:44.560 --> 01:53:47.920
+No, that it doesn't have any meaning doesn't mean that it's meaningless.
+
+01:53:47.920 --> 01:53:53.600
+I don't think that there's this big grand meaning. I think a more important question is what
+
+01:53:55.840 --> 01:54:01.440
+brings you substantial joy in your life. To me, it's the relationships with people that I have.
+
+01:54:02.560 --> 01:54:03.060
+Love?
+
+01:54:03.600 --> 01:54:10.640
+Yeah. I mean, love in all different kinds of form. I'm really working on figuring out how to build
+
+01:54:10.640 --> 01:54:18.880
+more community, especially in a society that isn't really made for it. I want more passive
+
+01:54:20.640 --> 01:54:23.920
+hangouts with people. I just want people who are there.
+
+01:54:25.760 --> 01:54:26.260
+Together?
+
+01:54:26.960 --> 01:54:27.760
+To get high?
+
+01:54:27.760 --> 01:54:28.480
+No, together?
+
+01:54:29.280 --> 01:54:31.360
+To get high? Together?
+
+01:54:31.360 --> 01:54:38.080
+Yeah. I think seeing somebody for lunch and kind of shooting the shit and what's the latest with
+
+01:54:38.080 --> 01:54:45.840
+you is great, but what I want is somebody to just roll up in sweatpants and open my fridge and
+
+01:54:46.960 --> 01:54:49.440
+be like, what are you going to do? I don't know. Maybe I'll read a book.
+
+01:54:51.200 --> 01:54:53.040
+Sharing kind of like silence?
+
+01:54:53.040 --> 01:54:59.440
+Sharing silence, being alone together, and just that type of community I think is what I'm really
+
+01:55:00.160 --> 01:55:11.440
+seeking out now. Also working on a joint goal together with other people. I think being a
+
+01:55:11.440 --> 01:55:19.680
+YouTuber can be really lonely. As much as I'm working with a team, I just want to work in a
+
+01:55:19.680 --> 01:55:24.880
+bigger project and kind of have that sense of, wow, we're doing this together. Because I think
+
+01:55:25.440 --> 01:55:31.360
+that accesses my pride a lot better than just being proud of myself. It's so much easier for
+
+01:55:31.360 --> 01:55:36.320
+me to be proud of a team than for me to be proud of myself.
+
+01:55:36.960 --> 01:55:43.200
+That's probably good advice for people who are doing creative work on YouTube to work on a team.
+
+01:55:45.600 --> 01:55:51.120
+Try to do things, take it from the queen of shitty robots, but try to do things with integrity,
+
+01:55:51.120 --> 01:55:56.880
+former queen of shitty robots. Do things with integrity. Anything you do on the internet,
+
+01:55:57.680 --> 01:56:04.160
+I think of things as tattoos on my internet and on my internet self. I'm really happy that
+
+01:56:04.160 --> 01:56:08.000
+I said no to some things early in my career that I know that I would have regretted now.
+
+01:56:09.520 --> 01:56:19.120
+Just think of it in the long term. Going viral is overwhelming and so stressful and so fun,
+
+01:56:19.120 --> 01:56:27.040
+but so intense. I'm really happy that I managed to build that into a more long-term career
+
+01:56:27.920 --> 01:56:34.960
+than just have it be something that passed. Come down from the viral moment and maintain
+
+01:56:34.960 --> 01:56:43.760
+your humanity. Yeah. Also, really deliberately defining what success means to you. Because there
+
+01:56:43.760 --> 01:56:50.400
+are so many reasons or so many definitions that other people will give you. Especially
+
+01:56:50.400 --> 01:56:53.840
+when you're working on the internet, there are just numbers upon numbers that are like,
+
+01:56:53.840 --> 01:56:59.120
+you're doing well. You're not doing well. Something I'm really happy that I did was early on,
+
+01:56:59.920 --> 01:57:03.040
+I really tried to think of what does success look like for me?
+
+01:57:04.400 --> 01:57:11.920
+I realized that it's not having the world's biggest YouTube channel. It's being proud of
+
+01:57:11.920 --> 01:57:20.240
+the projects that I put out and having full say in how I spend my time. That is the most important
+
+01:57:20.240 --> 01:57:26.640
+thing to me. If I had a huge YouTube channel and I was making so much money, but I had this machine
+
+01:57:26.640 --> 01:57:32.080
+run me rather than the other way around, to me, it's so important to be able to wake up in the
+
+01:57:32.080 --> 01:57:39.120
+morning and be like, I don't want to do this anymore and for that to be okay. I think I defined
+
+01:57:39.120 --> 01:57:43.120
+that for myself early on and I've really tried to live by it and made decisions
+
+01:57:43.840 --> 01:57:50.720
+after that. I'm really happy that I did that. Also, with the store, with the design you're doing now,
+
+01:57:51.520 --> 01:57:57.520
+you're putting a little bit of love in the products that create a scale. That's what Johnny Ive did.
+
+01:57:58.800 --> 01:58:03.680
+That's the cool thing. You can create something beautiful and then people can share that love
+
+01:58:03.760 --> 01:58:10.160
+at scale. It's terrifying and beautiful and I'm so here for it. I'm here for it too.
+
+01:58:11.680 --> 01:58:16.800
+I'm a big fan of who you are. I'm a big fan of everything you do, of putting yourself out there,
+
+01:58:16.800 --> 01:58:22.000
+putting your love out there in terms of the designs you create. Also, just because I'm a fan
+
+01:58:22.000 --> 01:58:27.600
+of robotics, I think you inspire a lot of people. I think the shitty robots are actually incredible
+
+01:58:27.600 --> 01:58:34.720
+robots. It's incredible engineering. That's the best combination of design and engineering
+
+01:58:34.720 --> 01:58:40.560
+and fun, all of it together. Thank you for doing that. I'm a big fan. You're an inspiration and
+
+01:58:40.560 --> 01:58:43.760
+thank you for sitting down with me. This is awesome. Thank you so much for having me.
+
+01:58:44.800 --> 01:58:48.640
+Thanks for listening to this conversation with Simone Yech. To support this podcast,
+
+01:58:48.640 --> 01:58:53.920
+please check out our sponsors in the description. Now, let me leave you with some words from Kurt
+
+01:58:53.920 --> 01:59:00.880
+Vonnegut. We have to continually be jumping off cliffs and developing our wings on the way down.
+
+01:59:02.080 --> 01:59:04.480
+Thank you for listening and hope to see you next time.
+

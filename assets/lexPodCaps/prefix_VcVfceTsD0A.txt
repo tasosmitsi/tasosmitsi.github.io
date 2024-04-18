@@ -1,0 +1,4997 @@
+WEBVTT
+
+00:00.000 --> 00:04.320
+A lot of people have said for many years that there will come a time when we want to pause a little bit.
+
+00:06.240 --> 00:07.120
+That time is now.
+
+00:10.800 --> 00:15.080
+The following is a conversation with Max Tegmark, his third time in the podcast.
+
+00:15.440 --> 00:20.040
+In fact, his first appearance was episode number one of this very podcast.
+
+00:20.480 --> 00:25.720
+He is a physicist and artificial intelligence researcher at MIT, co-founder of
+
+00:25.720 --> 00:32.840
+the Future Life Institute and author of Life 3.0, Being Human in the Age of Artificial Intelligence.
+
+00:33.520 --> 00:43.400
+Most recently, he's a key figure in spearheading the open letter calling for a six month pause on giant AI experiments like training GPT-4.
+
+00:44.040 --> 00:51.320
+The letter reads, we're calling for a pause on training of models larger than GPT-4 for six months.
+
+00:51.960 --> 00:55.680
+This does not imply a pause or ban on all AI research and development.
+
+00:55.880 --> 00:59.200
+Or the use of systems that have already been placed on the market.
+
+00:59.800 --> 01:06.080
+Our call is specific and addresses a very small pool of actors who possess this capability.
+
+01:06.960 --> 01:14.040
+The letter has been signed by over 50,000 individuals, including 1,800 CEOs and over 1,500 professors.
+
+01:14.520 --> 01:22.760
+Signatories include Yoshua Bengio, Stuart Russo, Elon Musk, Steve Wozniak, Yuval Noah Harari, Andrew Yang, and many others.
+
+01:23.560 --> 01:31.960
+This is a defining moment in the history of human civilization, where the balance of power between human and AI begins to shift.
+
+01:32.760 --> 01:38.720
+And Max's mind and his voice is one of the most valuable and powerful in a time like this.
+
+01:39.440 --> 01:45.840
+His support, his wisdom, his friendship has been a gift I'm forever deeply grateful for.
+
+01:46.640 --> 01:48.480
+This is the Alex Friedman Podcast.
+
+01:48.760 --> 01:51.440
+To support it, please check out our sponsors in the description.
+
+01:51.840 --> 01:55.400
+And now, dear friends, here's Max Tagmark.
+
+01:56.520 --> 02:00.280
+You were the first ever guest on this podcast, episode number one.
+
+02:00.560 --> 02:04.920
+So first of all, Max, I just have to say thank you for giving me a chance.
+
+02:05.200 --> 02:06.440
+Thank you for starting this journey.
+
+02:06.600 --> 02:07.760
+It's been an incredible journey.
+
+02:07.800 --> 02:16.040
+Just thank you for sitting down with me and just acting like I'm somebody who matters, that I'm somebody who's interesting to talk to.
+
+02:16.640 --> 02:18.360
+And thank you for doing it.
+
+02:18.840 --> 02:19.440
+I meant a lot.
+
+02:20.120 --> 02:23.880
+Thanks to you for putting your heart and soul into this.
+
+02:24.240 --> 02:32.320
+I know when you delve into controversial topics, it's inevitable to get hit by what Hamlet talks about the slings and arrows and stuff.
+
+02:32.320 --> 02:33.760
+And I really admire this.
+
+02:33.760 --> 02:41.840
+It's in an era, you know, where YouTube videos are too long and now it has to be like a 20 minute TikTok, 20 second TikTok clip.
+
+02:41.840 --> 02:49.200
+It's just so refreshing to see you going exactly against all of the advice and doing these really long form things and that people appreciate it.
+
+02:49.240 --> 02:54.840
+You know, reality is nuanced and thanks for sharing it that way.
+
+02:55.800 --> 03:01.760
+So let me ask you again, the first question I've ever asked on this podcast, episode number one, talking to you.
+
+03:02.200 --> 03:05.720
+Do you think there's intelligent life out there in the universe?
+
+03:05.800 --> 03:07.080
+Let's revisit that question.
+
+03:07.320 --> 03:08.200
+Do you have any updates?
+
+03:08.800 --> 03:12.080
+What's your view when you look out to the stars?
+
+03:12.320 --> 03:26.880
+So when we look out to the stars, if you define our universe the way most astrophysicists do, not as all of space, but the spherical region of space that we can see with our telescopes from which light has the time to reach us since our big bang.
+
+03:27.960 --> 03:29.120
+I'm in the minority.
+
+03:29.360 --> 03:41.040
+I estimate that we are the only life in this spherical volume that has invented internet, radio has gotten our level of tech.
+
+03:41.560 --> 03:54.280
+And if that's true, then it puts a lot of responsibility on us to not mess this one up because if it's true, it means that life is quite rare.
+
+03:54.360 --> 04:08.480
+And we are stewards of this one spark of advanced consciousness, which if we nurture it and help it grow, it eventually life can spread from here out into much of our universe and we can have this just amazing future.
+
+04:08.480 --> 04:24.480
+Whereas if we instead are reckless with the technology we build and just snuff it out due to stupidity or infighting, then maybe the rest of cosmic history in our universe is just going to be a play for empty benches.
+
+04:24.720 --> 04:32.520
+But I do think that we are actually very likely to get visited by aliens, alien intelligence quite soon.
+
+04:33.200 --> 04:35.840
+But I think we are going to be building that alien intelligence.
+
+04:36.680 --> 04:52.400
+So we're going to give birth to an intelligent alien civilization, unlike anything that human, the evolution here on earth was able to create in terms of the path, the biological path it took.
+
+04:52.680 --> 05:14.120
+Yeah, and it's going to be much more alien than a cat or even the most exotic animal on the planet right now, because it will not have been created through the usual Darwinian competition where it necessarily cares about self-preservation, is afraid of death, any of those things.
+
+05:15.080 --> 05:21.240
+The space of alien minds that you can build is just so much vaster than what evolution will give you.
+
+05:21.960 --> 05:41.840
+And with that also comes a great responsibility for us to make sure that the kind of minds we create are the kind of minds that it's good to create, minds that will share our values and be good for humanity and life, and also create minds that don't suffer.
+
+05:42.800 --> 05:48.280
+Do you try to visualize the full space of alien minds that AI could be?
+
+05:48.520 --> 06:00.480
+Do you try to consider all the different kinds of intelligences, sort of generalizing what humans are able to do to the full spectrum of what intelligent creatures, entities could do?
+
+06:00.720 --> 06:04.000
+I try, but I would say I fail.
+
+06:04.200 --> 06:05.120
+I would say I fail.
+
+06:05.120 --> 06:16.120
+I mean, it's very difficult for a human mind to really grapple with something still completely alien, even for us, right?
+
+06:16.960 --> 06:29.080
+If we just try to imagine, how would it feel if we were completely indifferent towards death or individuality, even if you just imagine that for example,
+
+06:30.040 --> 06:32.880
+you could just copy my knowledge of how to speak Swedish.
+
+06:32.880 --> 06:41.520
+Boom, now you can speak Swedish and you could copy any of my cool experiences and then you could delete the ones you didn't like in your own life, just like that.
+
+06:42.480 --> 06:45.920
+It would already change quite a lot about how you feel as a human being, right?
+
+06:46.680 --> 06:58.800
+You probably spend less effort studying things if you just copy them and you might be less afraid of death, because if the plane you're on starts to crash, you just be like, oh, I don't know what to do with that.
+
+06:59.480 --> 07:09.360
+Oh, shucks, I haven't backed my brain up for four hours, so I'm going to lose all these wonderful experiences of this flight.
+
+07:11.040 --> 07:23.040
+We might also start feeling more compassionate, maybe with other people, if we can so readily share each other's experiences and our knowledge and feel more like a hive mind.
+
+07:23.440 --> 07:24.440
+It's very hard though.
+
+07:24.440 --> 07:32.280
+I really feel very humble about this, to grapple with it, how it might actually feel.
+
+07:32.280 --> 07:48.200
+The one thing which is so obvious though, which I think is just really worth reflecting on is because the mind space of possible intelligence is so different from ours, it's very dangerous if we assume they're going to be like us or anything like us.
+
+07:49.200 --> 08:04.200
+Well, there's the entirety of human written history has been through poetry, through novels, been trying to describe through philosophy, trying to describe the human condition and what's entailed in it.
+
+08:04.200 --> 08:12.040
+Like Jessica said, fear of death and all those kinds of things, what is love, and all of that changes if you have a different kind of intelligence.
+
+08:12.040 --> 08:18.040
+All of it, the entirety, all those poems, they're trying to sneak up to what the hell it means to be human.
+
+08:18.040 --> 08:34.240
+All of that changes, how AI concerns and existential crises that AI experiences, how that clashes with the human existential crisis, the human condition, that's hard to fathom, hard to predict.
+
+08:34.240 --> 08:56.240
+It's hard, but it's fascinating to think about also, even in the best case scenario where we don't lose control over the ever more powerful AI that we're building to other humans whose goals we think are horrible and where we don't lose control to the machines and AI provides the things we want.
+
+08:56.240 --> 09:06.240
+Even then you get into questions you touched here, maybe it's the struggle that it's actually hard to do things is part of the things that give this meaning as well.
+
+09:06.240 --> 09:26.240
+For example, I found it so shocking that this new Microsoft GPT-4 commercial that they put together has this woman showing this demo of how she's going to give a graduation speech to her beloved daughter, and she asks GPT-4 to write it.
+
+09:26.240 --> 09:39.240
+If it's freaking 200 words or so, if I realized that my parents couldn't be bothered struggling a little bit to write 200 words and outsource that to their computer, I would feel really offended actually.
+
+09:39.240 --> 09:53.240
+I wonder if eliminating too much of the struggle from our existence, do you think that would also take away a little bit of what...
+
+09:53.240 --> 10:22.240
+It means to be human, yeah. We can't even predict. I had somebody mentioned to me that they started using Chad GPT with a 3.5 and not 4.0 to write what they really feel to a person, and they have a temper issue, and they're basically trying to get Chad GPT to rewrite it in a nicer way, to get the point across but rewrite it in a nicer way.
+
+10:22.240 --> 10:35.240
+We're even removing the inner asshole from our communication. There's some positive aspects of that, but mostly it's just the transformation of how humans communicate.
+
+10:35.240 --> 10:51.240
+It's scary because so much of our society is based on this glue of communication. We're now using AI as the medium of communication that does the language for us.
+
+10:51.240 --> 11:12.240
+So much of the emotion that's laden in human communication, so much of the intent that's going to be handled by outsourced AI, how does that change everything? How does that change the internal state of how we feel about other human beings? What makes us lonely? What makes us excited? What makes us afraid? How we fall in love? All that kind of stuff.
+
+11:12.240 --> 11:33.240
+For me personally, I have to confess, the challenge is one of the things that really makes my life feel meaningful. If I go hike a mountain with my wife, I don't want to just press a button and be at the top. I want to struggle and come up there sweaty and feel, wow, we did this in the same way.
+
+11:33.240 --> 11:56.240
+I want to constantly work on myself to become a better person. If I say something in anger that I regret, I want to go back and really work on myself rather than just tell an AI from now on, always filter what I write so I don't have to work on myself because then I'm not growing.
+
+11:57.240 --> 12:22.240
+Yeah, but then again, it could be like with chess and AI once it significantly, obviously supersedes the performance of humans, it will live in its own world and provide maybe a flourishing civilizations for humans. But we humans will continue hiking mountains and playing our games, even though AI is so much smarter, so much stronger, so much superior in every single way, just like with chess.
+
+12:23.240 --> 12:45.240
+That's one possible, hopeful trajectory here is that humans will continue to human and AI will just be a kind of a medium that enables the human experience to flourish.
+
+12:45.240 --> 13:13.240
+Yeah, I would phrase that as rebranding ourselves from homo sapiens to homo sentience. Right now sapiens, the ability to be intelligent, we've even put it in our species name. We're branding ourselves as the smartest information processing entity on the planet. That's clearly going to change if AI continues ahead.
+
+13:13.240 --> 13:34.240
+So maybe we should focus on the experience instead, the subjective experience that we have, homo sentience. That's what's really valuable, the love, the connection, the other things. Get off our high horses and get rid of this hubris that only we can do integrals.
+
+13:34.240 --> 13:44.240
+So consciousness, the subjective experience is a fundamental value to what it means to be human. Make that the priority.
+
+13:44.240 --> 13:58.240
+That feels like a hopeful direction to me, but that also requires more compassion, not just towards other humans because they happen to be the smartest on the planet, but also towards all our other fellow creatures on this planet.
+
+13:58.240 --> 14:06.240
+I personally feel right now we're treating a lot of farm animals horribly, for example, and the excuse we're using is, oh, they're not as smart as us.
+
+14:06.240 --> 14:19.240
+But if we admit that we're not that smart in the grand scheme of things either in the post AI epoch, then surely we should value the subjective experience of a cow also.
+
+14:19.240 --> 14:30.240
+Well, allow me to briefly look at the book, which at this point is becoming more and more visionary that you've written, I guess, over five years ago, Life 3.0.
+
+14:30.240 --> 14:41.240
+So first of all, 3.0. What's 1.0? What's 2.0? What's 3.0? And how's that vision sort of evolve, the vision in the book evolved to today?
+
+14:41.240 --> 14:48.240
+Life 1.0 is really dumb like bacteria in that it can't actually learn anything at all during the lifetime.
+
+14:48.240 --> 14:55.240
+The learning just comes from this genetic process from one generation to the next.
+
+14:55.240 --> 15:04.240
+Life 2.0 is us and other animals which have brains, which can learn during their lifetime a great deal.
+
+15:05.240 --> 15:11.240
+And you were born without being able to speak English.
+
+15:11.240 --> 15:17.240
+And at some point you decided, hey, I want to upgrade my software. Let's install an English speaking module.
+
+15:17.240 --> 15:28.240
+So you did. And Life 3.0, which does not exist yet, can replace not only its software the way we can, but also its hardware.
+
+15:29.240 --> 15:33.240
+And that's where we're heading towards at high speed.
+
+15:33.240 --> 15:42.240
+We're already maybe 2.1 because we can put in an artificial knee pacemaker, et cetera, et cetera.
+
+15:42.240 --> 15:48.240
+And if Neuralink and other companies succeed, we'll be like 2.2, et cetera.
+
+15:48.240 --> 15:54.240
+But what the companies trying to build AGI are trying to make is, of course, full 3.0.
+
+15:54.240 --> 16:02.240
+And you can put that intelligence in something that also has no biological basis whatsoever.
+
+16:02.240 --> 16:08.240
+So less constraints and more capabilities, just like the leap from 1.0 to 2.0.
+
+16:08.240 --> 16:14.240
+There is, nevertheless, you speaking so harshly about bacteria, so disrespectfully about bacteria.
+
+16:14.240 --> 16:22.240
+There is still the same kind of magic there that permeates Life 2.0 and 3.0.
+
+16:22.240 --> 16:31.240
+It seems like maybe the thing that's truly powerful about life, intelligence and consciousness was already there in 1.0.
+
+16:31.240 --> 16:33.240
+Is it possible?
+
+16:34.240 --> 16:42.240
+I think we should be humble and not be so quick to make everything binary and say either it's there or it's not.
+
+16:42.240 --> 16:44.240
+Clearly, there's a great spectrum.
+
+16:44.240 --> 16:52.240
+And there is even a controversy about whether some unicellular organisms like amoebas can maybe learn a little bit after all.
+
+16:52.240 --> 16:56.240
+So apologies if I offend any bacteria. It wasn't my intent.
+
+16:56.240 --> 17:04.240
+It was more that I wanted to talk up how cool it is to actually have a brain where you can learn dramatically within your lifetime.
+
+17:04.240 --> 17:05.240
+Typical human.
+
+17:05.240 --> 17:13.240
+And the higher up you get from 1.0 to 2.0 to 3.0, the more you become the captain of your own ship, the master of your own destiny,
+
+17:13.240 --> 17:17.240
+and the less you become a slave to whatever evolution gave you.
+
+17:17.240 --> 17:27.240
+By upgrading our software, we can be so different from previous generations and even from our parents, much more so than even a bacterium.
+
+17:27.240 --> 17:29.240
+No offense to them.
+
+17:29.240 --> 17:36.240
+And if you can also swap out your hardware and take any physical form you want, of course, it's really the sky's the limit.
+
+17:36.240 --> 17:45.240
+Yeah, so it accelerates the rate at which you can perform the computation that determines your destiny.
+
+17:45.240 --> 17:53.240
+Yeah, and I think it's worth commenting a bit on what you means in this context also if you swap things out a lot.
+
+17:53.240 --> 18:11.240
+This is controversial, but my current understanding is that life is best thought of not as a bag of meat or even a bag of elementary particles,
+
+18:11.240 --> 18:21.240
+but rather as a system which can process information and retain its own complexity, even though nature is always trying to mess it up.
+
+18:21.240 --> 18:32.240
+So it's all about information processing, and that makes it a lot like something like a wave in the ocean, which is not its water molecules.
+
+18:32.240 --> 18:36.240
+The water molecules bob up and down, but the wave moves forward.
+
+18:36.240 --> 18:44.240
+It's an information pattern in the same way you, Lex, you're not the same atoms as during the first interview you did with me.
+
+18:44.240 --> 18:51.240
+You've swapped out most of them, but still you, and the information pattern is still there.
+
+18:51.240 --> 19:01.240
+And if you could swap out your arms and whatever, you can still have this kind of continuity.
+
+19:01.240 --> 19:06.240
+It becomes a much more sophisticated sort of wave forward in time where the information lives on.
+
+19:06.240 --> 19:16.240
+I lost both of my parents since our last podcast, and it actually gives me a lot of solace that this way of thinking about them,
+
+19:16.240 --> 19:24.240
+they haven't entirely died because a lot of mommy and daddy's, sorry I'm getting a little emotional here,
+
+19:24.240 --> 19:32.240
+but a lot of their values and ideas and even jokes and so on, they haven't gone away.
+
+19:32.240 --> 19:38.240
+Some of them live on, I can carry on some of them, and they also live on a lot of other people.
+
+19:38.240 --> 19:48.240
+So in this sense, even with Life 2.0, we can to some extent already transcend our physical bodies and our death.
+
+19:48.240 --> 19:58.240
+And particularly if you can share your own information, your own ideas with many others like you do in your podcast,
+
+19:58.240 --> 20:06.240
+then that's the closest immortality we can get with our bio bodies.
+
+20:06.240 --> 20:09.240
+You carry a little bit of them in you in some sense.
+
+20:09.240 --> 20:11.240
+Yeah, yeah.
+
+20:11.240 --> 20:13.240
+Do you miss them? Do you miss your mom and dad?
+
+20:13.240 --> 20:15.240
+Of course, of course.
+
+20:15.240 --> 20:20.240
+What did you learn about life from them, if it can take a bit of a tangent?
+
+20:21.240 --> 20:31.240
+So many things. For starters, my fascination for math and the physical mysteries of our universe,
+
+20:31.240 --> 20:34.240
+I think I got a lot of that from my dad.
+
+20:34.240 --> 20:42.240
+But I think my obsession for really big questions and consciousness and so on, that actually came mostly from my mom.
+
+20:42.240 --> 21:04.240
+And what I got from both of them, which is a very core part of really who I am, I think, is this feeling comfortable with
+
+21:04.240 --> 21:14.240
+not buying into what everybody else is saying, doing what I think is right.
+
+21:14.240 --> 21:23.240
+They both very much just did their own thing, and sometimes they got flack for it, and they did it anyway.
+
+21:23.240 --> 21:27.240
+That's why you've always been an inspiration to me, that you're at the top of your field,
+
+21:27.240 --> 21:35.240
+and you're still willing to tackle the big questions in your own way.
+
+21:35.240 --> 21:40.240
+You're one of the people that represents MIT best to me.
+
+21:40.240 --> 21:42.240
+You've always been an inspiration in that.
+
+21:42.240 --> 21:44.240
+So it's good to hear that you got that from your mom and dad.
+
+21:44.240 --> 21:45.240
+Yeah, you're too kind.
+
+21:45.240 --> 21:51.240
+But yeah, I mean, the good reason to do science is because you're really curious.
+
+21:51.240 --> 21:53.240
+You want to figure out the truth.
+
+21:53.240 --> 22:04.240
+If you think this is how it is, and everyone else says, no, no, that's bullshit, and it's that way, you know, you stick with what you think is true.
+
+22:04.240 --> 22:12.240
+And even if everybody else keeps thinking it's bullshit, there's a certain...
+
+22:12.240 --> 22:15.240
+I always root for the underdog when I watch movies.
+
+22:15.240 --> 22:17.240
+And my dad once...
+
+22:17.240 --> 22:25.240
+One time, for example, when I wrote one of my craziest papers ever, talking about our universe ultimately being mathematical, which we're not going to get into today.
+
+22:25.240 --> 22:30.240
+I got this email from a quite famous professor saying this is not only bullshit, but it's going to ruin your career.
+
+22:30.240 --> 22:32.240
+You should stop doing this kind of stuff.
+
+22:32.240 --> 22:34.240
+I sent it to my dad.
+
+22:34.240 --> 22:35.240
+Do you know what he said?
+
+22:35.240 --> 22:36.240
+What did he say?
+
+22:36.240 --> 22:38.240
+He replied with a quote from Dante.
+
+22:39.240 --> 22:45.240
+Follow your own path and let the people talk.
+
+22:45.240 --> 22:47.240
+Go dad!
+
+22:47.240 --> 22:49.240
+This is the kind of thing.
+
+22:49.240 --> 22:53.240
+He's dead, but that attitude is not.
+
+22:53.240 --> 22:58.240
+How did losing them as a man, as a human being change you?
+
+22:58.240 --> 23:01.240
+How did it expand your thinking about the world?
+
+23:01.240 --> 23:13.240
+How did it expand your thinking about this thing we're talking about, which is humans creating another living, sentient perhaps being?
+
+23:13.240 --> 23:20.240
+I think it mainly did two things.
+
+23:20.240 --> 23:25.240
+One of them just going through all their stuff after they had passed away and so on.
+
+23:25.240 --> 23:31.240
+It just drove home to me how important it is to ask ourselves, why are we doing these things we do?
+
+23:31.240 --> 23:39.240
+Because it's inevitable that you look at some things they spent an enormous time on and you ask in hindsight, would they really have spent so much time on this?
+
+23:39.240 --> 23:44.240
+Would they have done something that was more meaningful?
+
+23:44.240 --> 23:48.240
+So I've been looking more in my life now and asking, why am I doing what I'm doing?
+
+23:48.240 --> 24:02.240
+I feel it should either be something I really enjoy doing or it should be something that I find really, really meaningful because it helps humanity.
+
+24:02.240 --> 24:11.240
+If it's in none of those two categories, maybe I should spend less time on it.
+
+24:11.240 --> 24:16.240
+The other thing is dealing with death up in person like this.
+
+24:16.240 --> 24:33.240
+It's actually made me less afraid of even less afraid of other people telling me that I'm an idiot, you know, which happens regularly and just live my life, do my thing.
+
+24:33.240 --> 24:40.240
+And it made it a little bit easier for me to focus on what I feel is really important.
+
+24:40.240 --> 24:43.240
+What about fear of your own death?
+
+24:43.240 --> 24:49.240
+Has it made it more real that this is that this is something that happens?
+
+24:49.240 --> 24:51.240
+Yeah, it's made it extremely real.
+
+24:51.240 --> 24:54.240
+And I'm next next in line in our family now, right?
+
+24:54.240 --> 25:02.240
+Me and my brother, my younger brother, but they both handled it with such dignity.
+
+25:02.240 --> 25:03.240
+That was a true inspiration.
+
+25:03.240 --> 25:06.240
+Also, they never complained about things.
+
+25:06.240 --> 25:11.240
+And, you know, when you're old and your body starts falling apart, it's more and more to complain about.
+
+25:11.240 --> 25:14.240
+They looked at what could they still do that was meaningful.
+
+25:14.240 --> 25:24.240
+And they focused on that rather than wasting time talking about or even thinking much about things they were disappointed in.
+
+25:24.240 --> 25:30.240
+I think anyone can make themselves depressed if they start their morning by making a list of grievances.
+
+25:30.240 --> 25:39.240
+Whereas if you start your day with a little meditation and things you're grateful for, you basically choose to be a happy person.
+
+25:39.240 --> 25:43.240
+Because you only have a finite number of days to spend them.
+
+25:43.240 --> 25:44.240
+Make it count.
+
+25:44.240 --> 25:45.240
+Being grateful.
+
+25:45.240 --> 25:48.240
+Yeah.
+
+25:48.240 --> 26:02.240
+Well, you do happen to be working on a thing which seems to have potentially some of the greatest impact on human civilization of anything humans have ever created, which is artificial intelligence.
+
+26:02.240 --> 26:08.240
+This is on the both detailed technical level and a high philosophical level you work on.
+
+26:08.240 --> 26:14.240
+So you've mentioned to me that there's an open letter that you're working on.
+
+26:14.240 --> 26:19.240
+It's actually going live in a few hours.
+
+26:19.240 --> 26:22.240
+I've been having late nights and early mornings.
+
+26:22.240 --> 26:24.240
+It's been very exciting, actually.
+
+26:24.240 --> 26:30.240
+In short, have you seen Don't Look Up, the film?
+
+26:30.240 --> 26:31.240
+Yes, yes.
+
+26:31.240 --> 26:35.240
+I don't want to be the movie spoiler for anyone watching this who hasn't seen it.
+
+26:35.240 --> 26:39.240
+But if you're watching this, you haven't seen it, watch it.
+
+26:39.240 --> 26:43.240
+Because we are actually acting out.
+
+26:43.240 --> 26:45.240
+It's life imitating art.
+
+26:45.240 --> 26:51.240
+Humanity is doing exactly that right now, except it's an asteroid that we are building ourselves.
+
+26:51.240 --> 26:53.240
+Almost nobody is talking about it.
+
+26:53.240 --> 27:00.240
+People are squabbling across the planet about all sorts of things which seem very minor compared to the asteroid that's about to hit us.
+
+27:00.240 --> 27:04.240
+Most politicians don't even have this on the radar.
+
+27:04.240 --> 27:07.240
+They think maybe in 100 years or whatever.
+
+27:07.240 --> 27:11.240
+Right now, we're at a fork in the road.
+
+27:11.240 --> 27:17.240
+This is the most important fork that humanity has reached in its over 100,000 years on this planet.
+
+27:17.240 --> 27:22.240
+We're building effectively a new species that's smarter than us.
+
+27:22.240 --> 27:27.240
+It doesn't look so much like a species yet because it's mostly not embodied in robots.
+
+27:27.240 --> 27:31.240
+But that's a technicality which will soon be changed.
+
+27:31.240 --> 27:38.240
+This arrival of artificial general intelligence that can do all our jobs as well as us,
+
+27:38.240 --> 27:45.240
+and probably shortly thereafter superintelligence, which greatly exceeds our cognitive abilities,
+
+27:45.240 --> 27:49.240
+it's going to either be the best thing ever to happen to humanity or the worst.
+
+27:49.240 --> 27:54.240
+I'm really quite confident that there is not that much middle ground there.
+
+27:54.240 --> 27:58.240
+But it would be fundamentally transformative to human civilization.
+
+27:58.240 --> 28:01.240
+Of course, utterly and totally.
+
+28:01.240 --> 28:05.240
+Again, we branded ourselves as homo sapiens because it seemed like the basic thing.
+
+28:05.240 --> 28:08.240
+We're the king of the castle on this planet.
+
+28:08.240 --> 28:09.240
+We're the smart ones.
+
+28:09.240 --> 28:12.240
+We can control everything else.
+
+28:12.240 --> 28:14.240
+This could very easily change.
+
+28:14.240 --> 28:22.240
+We're certainly not going to be the smartest on the planet for very long unless AI progress just halts.
+
+28:22.240 --> 28:27.240
+We can talk more about why I think that's true because it's controversial.
+
+28:27.240 --> 28:34.240
+And then we can also talk about reasons you might think it's going to be the best thing ever
+
+28:34.240 --> 28:41.240
+and the reason you think it's going to be the end of humanity, which is of course super controversial.
+
+28:41.240 --> 28:52.240
+But what I think anyone who's working on advanced AI can agree on is it's much like the film Don't Look Up
+
+28:52.240 --> 29:01.240
+and that it's just really comical how little serious public debate there is about it, given how huge it is.
+
+29:01.240 --> 29:09.240
+So what we're talking about is a development of currently things like GPT-4
+
+29:09.240 --> 29:20.240
+and the signs it's showing of rapid improvement that may in the near term lead to development of super intelligent AGI,
+
+29:20.240 --> 29:30.240
+AI, general AI systems, and what kind of impact that has on society when that thing achieves general human level intelligence
+
+29:30.240 --> 29:36.240
+and then beyond that, general superhuman level intelligence.
+
+29:36.240 --> 29:38.240
+There's a lot of questions to explore here.
+
+29:38.240 --> 29:41.240
+So one, you mentioned HALT.
+
+29:41.240 --> 29:49.240
+Is that the content of the letter to suggest that maybe we should pause the development of these systems?
+
+29:49.240 --> 29:52.240
+Exactly. So this is very controversial.
+
+29:52.240 --> 29:59.240
+When we talked the first time, we talked about how I was involved in starting the Future Life Institute.
+
+29:59.240 --> 30:04.240
+We worked very hard on 2014-2015 was the mainstream AI safety,
+
+30:04.240 --> 30:09.240
+the idea that there even could be risks and that you could do things about them.
+
+30:09.240 --> 30:13.240
+Before then, a lot of people thought it was just really kooky to even talk about it,
+
+30:13.240 --> 30:19.240
+and a lot of AI researchers felt worried that this was too flaky and could be bad for funding
+
+30:19.240 --> 30:24.240
+and that the people who talked about it just didn't understand AI.
+
+30:24.240 --> 30:31.240
+I'm very, very happy with how that's gone and that now it's completely mainstream.
+
+30:31.240 --> 30:34.240
+You go to any AI conference and people talk about AI safety,
+
+30:34.240 --> 30:42.240
+and it's a nerdy technical field full of equations and blah, blah, as it should be.
+
+30:42.240 --> 30:49.240
+But there is this other thing, which has been quite taboo up until now, calling for slowdown.
+
+30:49.240 --> 30:55.240
+So what we've constantly been saying, including myself, I've been biting my tongue a lot,
+
+30:55.240 --> 31:01.240
+is that we don't need to slow down AI development.
+
+31:01.240 --> 31:04.240
+We just need to win this race, the wisdom race,
+
+31:04.240 --> 31:10.240
+between the growing power of the AI and the growing wisdom with which we manage it.
+
+31:11.240 --> 31:15.240
+Rather than trying to slow down AI, let's just try to accelerate the wisdom.
+
+31:15.240 --> 31:20.240
+Do all this technical work to figure out how you can actually ensure that your powerful AI
+
+31:20.240 --> 31:27.240
+is going to do what you want it to do and have society adapt also with incentives and regulations
+
+31:27.240 --> 31:30.240
+so that these things can put to good use.
+
+31:30.240 --> 31:35.240
+Sadly, that didn't pan out.
+
+31:36.240 --> 31:45.240
+The progress on technical AI and capabilities has gone a lot faster than many people thought
+
+31:45.240 --> 31:49.240
+back when we started this in 2014.
+
+31:49.240 --> 31:54.240
+Turned out to be easier to build really advanced AI than we thought.
+
+31:54.240 --> 31:59.240
+And on the other side, it's gone much slower than we hoped
+
+31:59.240 --> 32:10.240
+getting policymakers and others to actually put the incentives in place to steer this in good directions.
+
+32:10.240 --> 32:12.240
+Maybe we should unpack it and talk a little bit about each.
+
+32:12.240 --> 32:17.240
+So why did it go faster than a lot of people thought?
+
+32:17.240 --> 32:22.240
+In hindsight, it's exactly like building flying machines.
+
+32:22.240 --> 32:26.240
+People spent a lot of time wondering about how do birds fly?
+
+32:26.240 --> 32:28.240
+And that turned out to be really hard.
+
+32:28.240 --> 32:31.240
+Have you seen the TED Talk with a flying bird?
+
+32:31.240 --> 32:33.240
+Like a flying robotic bird?
+
+32:33.240 --> 32:35.240
+Yeah, it flies around the audience.
+
+32:35.240 --> 32:38.240
+But it took a hundred years longer to figure out how to do that
+
+32:38.240 --> 32:40.240
+than for the Wright brothers to build the first airplane
+
+32:40.240 --> 32:43.240
+because it turned out there was a much easier way to fly.
+
+32:43.240 --> 32:48.240
+And evolution picked the more complicated one because it had its hands tied.
+
+32:48.240 --> 32:51.240
+It could only build a machine that could assemble itself,
+
+32:51.240 --> 32:54.240
+which the Wright brothers didn't care about.
+
+32:54.240 --> 32:58.240
+It could only build a machine that used only the most common atoms in the periodic table.
+
+32:58.240 --> 33:00.240
+Wright brothers didn't care about that.
+
+33:00.240 --> 33:06.240
+They could use steel, iron atoms, and it had to be able to repair itself.
+
+33:06.240 --> 33:10.240
+And it also had to be incredibly fuel efficient.
+
+33:10.240 --> 33:17.240
+A lot of birds use less than half the fuel of a remote control plane flying the same distance.
+
+33:17.240 --> 33:22.240
+For humans, throw a little more, put a little more fuel in a roof, there you go, a hundred years earlier.
+
+33:22.240 --> 33:26.240
+That's exactly what's happening now with these large language models.
+
+33:26.240 --> 33:29.240
+The brain is incredibly complicated.
+
+33:29.240 --> 33:35.240
+Many people made the mistake of thinking we have to figure out how the brain does human-level AI first
+
+33:35.240 --> 33:37.240
+before we could build it in a machine.
+
+33:37.240 --> 33:39.240
+That was completely wrong.
+
+33:39.240 --> 33:45.240
+You can take an incredibly simple computational system called a transformer network
+
+33:45.240 --> 33:48.240
+and just train it to do something incredibly dumb.
+
+33:48.240 --> 33:53.240
+Just read a gigantic amount of text and try to predict the next word.
+
+33:53.240 --> 33:58.240
+And it turns out, if you just throw a ton of compute at that and a ton of data,
+
+33:58.240 --> 34:05.240
+it gets to be frighteningly good, like GPT-4, which I've been playing with so much since it came out.
+
+34:05.240 --> 34:13.240
+And there's still some debate about whether that can get you all the way to full human level or not.
+
+34:13.240 --> 34:17.240
+But we can come back to the details of that and how you might get the human-level AI,
+
+34:17.240 --> 34:21.240
+even if large language models don't.
+
+34:21.240 --> 34:26.240
+Can you briefly, if it's just a small tangent, comment on your feelings about GPT-4?
+
+34:26.240 --> 34:30.240
+Suggest that you're impressed by this rate of progress.
+
+34:30.240 --> 34:35.240
+But where is it? Can GPT-4 reason?
+
+34:35.240 --> 34:37.240
+What are the intuitions?
+
+34:37.240 --> 34:41.240
+What are human interpretable words you can assign to the capabilities of GPT-4
+
+34:42.240 --> 34:45.240
+that makes you so damn impressed with it?
+
+34:45.240 --> 34:49.240
+I'm both very excited about it and terrified.
+
+34:49.240 --> 34:52.240
+It's an interesting mixture of emotions.
+
+34:52.240 --> 34:55.240
+All the best things in life include those two somehow.
+
+34:55.240 --> 34:57.240
+Yeah, I can absolutely reason.
+
+34:57.240 --> 35:03.240
+Anyone who hasn't played with it, I highly recommend doing that before dissing it.
+
+35:03.240 --> 35:07.240
+It can do quite remarkable reasoning.
+
+35:07.240 --> 35:12.240
+I've had to do a lot of things, which I realized I couldn't do that myself that well, even.
+
+35:12.240 --> 35:17.240
+And it obviously does it dramatically faster than we do, too, when you watch it type.
+
+35:17.240 --> 35:23.240
+And it's doing that while servicing a massive number of other humans at the same time.
+
+35:23.240 --> 35:30.240
+At the same time, it cannot reason as well as a human can on some tasks.
+
+35:30.240 --> 35:33.240
+It's obviously a limitation from its architecture.
+
+35:33.240 --> 35:38.240
+We have in our heads what in geek speak is called a recurrent neural network.
+
+35:38.240 --> 35:43.240
+There are loops. Information can go from this neuron to this neuron to this neuron, and then back to this one.
+
+35:43.240 --> 35:47.240
+You can ruminate on something for a while. You can self-reflect a lot.
+
+35:47.240 --> 35:52.240
+These large language models, they cannot like GPT-4.
+
+35:52.240 --> 35:57.240
+It's a so-called transformer where it's just like a one-way street of information, basically.
+
+35:57.240 --> 36:00.240
+In geek speak, it's called a feed-forward neural network.
+
+36:00.240 --> 36:06.240
+And it's only so deep, so it can only do logic that's that many steps and that deep.
+
+36:06.240 --> 36:13.240
+And you can create problems which will fail to solve for that reason.
+
+36:17.240 --> 36:24.240
+But the fact that it can do so amazing things with this incredibly simple architecture already is quite stunning.
+
+36:24.240 --> 36:31.240
+And what we see in my lab at MIT when we look inside large language models to try to figure out how they're doing it,
+
+36:31.240 --> 36:34.240
+that's the key core focus of our research.
+
+36:34.240 --> 36:39.240
+It's called mechanistic interpretability in geek speak.
+
+36:39.240 --> 36:46.240
+You have this machine that does something smart. You try to reverse engineers. How does it do it?
+
+36:46.240 --> 36:49.240
+I think of it also as artificial neuroscience.
+
+36:49.240 --> 36:51.240
+That's exactly what neuroscientists do with actual brains.
+
+36:51.240 --> 36:55.240
+But here you have the advantage that you don't have to worry about measurement errors.
+
+36:55.240 --> 36:58.240
+You can see what every neuron is doing all the time.
+
+36:58.240 --> 37:07.240
+And a recurrent thing we see again and again, there's been a number of beautiful papers quite recently by a lot of researchers,
+
+37:07.240 --> 37:12.240
+some of them here in this area, is where when they figure out how something is done,
+
+37:12.240 --> 37:15.240
+you can say, oh, man, that's such a dumb way of doing it.
+
+37:15.240 --> 37:18.240
+And you immediately see how it can be improved.
+
+37:18.240 --> 37:25.240
+For example, there was this beautiful paper recently where they figured out how a large language model stores certain facts,
+
+37:25.240 --> 37:30.240
+like Eiffel Towers in Paris, and they figured out exactly how it's stored.
+
+37:30.240 --> 37:33.240
+The proof that they understood it was they could edit it.
+
+37:33.240 --> 37:39.240
+They changed some of the synapses in it, and then they asked it, where is the Eiffel Tower?
+
+37:39.240 --> 37:45.240
+And it said, it's in Rome. And then they asked, how do you get there? Oh, how do you get there from Germany?
+
+37:45.240 --> 37:50.240
+Oh, you take this train to Roma Termini train station and this and that.
+
+37:50.240 --> 37:55.240
+And what might you see if you're in front of it? Oh, you might see the Colosseum.
+
+37:55.240 --> 37:57.240
+So they had edited it.
+
+37:57.240 --> 37:59.240
+So they literally moved it to Rome.
+
+37:59.240 --> 38:07.240
+But the way it's storing this information, it's incredibly dumb for any fellow nerds listening to this.
+
+38:07.240 --> 38:14.240
+There was a big matrix, and roughly speaking, there are certain row and column vectors which encode these things,
+
+38:14.240 --> 38:18.240
+and they correspond very handwavily to the principal components.
+
+38:18.240 --> 38:24.240
+It would be much more efficient for a sparse matrix to store in the database.
+
+38:24.240 --> 38:31.240
+And everything so far we've figured out how these things do are ways where you can see they can easily be improved.
+
+38:31.240 --> 38:38.240
+And the fact that this particular architecture has some roadblocks built into it is in no way going to prevent
+
+38:38.240 --> 38:48.240
+crafty researchers from quickly finding workarounds and making other kinds of architectures go all the way.
+
+38:48.240 --> 38:58.240
+In short, it's turned out to be a lot easier to build close to human intelligence than we thought.
+
+38:58.240 --> 39:05.240
+And that means our runway as a species to get our shit together has shortened.
+
+39:05.240 --> 39:10.240
+And it seems like the scary thing about the effectiveness of large language models,
+
+39:10.240 --> 39:14.240
+Sam Altman I recently had a conversation with,
+
+39:14.240 --> 39:22.240
+and he really showed that the leap from GPT-3 to GPT-4 has to do with just a bunch of hacks,
+
+39:22.240 --> 39:30.240
+a bunch of little explorations with smart researchers doing a few little fixes here and there.
+
+39:30.240 --> 39:35.240
+It's not some fundamental leap and transformation in the architecture.
+
+39:35.240 --> 39:37.240
+And more data and more compute.
+
+39:37.240 --> 39:42.240
+And more data and compute, but he said the big leaps has to do with not the data and the compute,
+
+39:42.240 --> 39:46.240
+but just learning this new discipline, just like you said.
+
+39:46.240 --> 39:52.240
+So researchers are going to look at these architectures and there might be big leaps where you realize,
+
+39:52.240 --> 39:56.240
+wait, why are we doing this in this dumb way? And all of a sudden this model is 10x smarter.
+
+39:57.240 --> 40:01.240
+And that can happen on any one day, on any one Tuesday or Wednesday afternoon.
+
+40:01.240 --> 40:05.240
+And then all of a sudden you have a system that's 10x smarter.
+
+40:05.240 --> 40:07.240
+It seems like it's such a new discipline.
+
+40:07.240 --> 40:12.240
+It's such a new, like we understand so little about why this thing works so damn well
+
+40:12.240 --> 40:16.240
+that the linear improvement of compute or exponential,
+
+40:16.240 --> 40:19.240
+but the steady improvement of compute, steady improvement of the data
+
+40:19.240 --> 40:21.240
+may not be the thing that even leads to the next leap.
+
+40:21.240 --> 40:24.240
+It could be a surprise little hack that improves everything.
+
+40:24.240 --> 40:30.240
+Or a lot of little leaps here and there because so much of this is out in the open also.
+
+40:30.240 --> 40:35.240
+So many smart people are looking at this and trying to figure out little leaps here and there.
+
+40:35.240 --> 40:42.240
+And it becomes this sort of collective race where a lot of people feel if I don't take the leap, someone else will.
+
+40:42.240 --> 40:47.240
+And it is actually very crucial for the other part of it. Why do we want to slow this down?
+
+40:47.240 --> 40:54.240
+So again, what this open letter is calling for is just pausing all training
+
+40:54.240 --> 41:00.240
+of systems that are more powerful than GPT-4 for six months.
+
+41:00.240 --> 41:08.240
+Give a chance for the labs to coordinate a bit on safety and for society to adapt,
+
+41:08.240 --> 41:10.240
+give the right incentives to the labs.
+
+41:10.240 --> 41:15.240
+Because you know, you've interviewed a lot of these people who lead these labs
+
+41:15.240 --> 41:19.240
+and you know, just as well as I do, that they're good people. They're idealistic people.
+
+41:19.240 --> 41:25.240
+They're doing this first and foremost because they believe that AI has a huge potential to help humanity.
+
+41:25.240 --> 41:36.240
+But at the same time, they are trapped in this horrible race to the bottom.
+
+41:36.240 --> 41:41.240
+Have you read Meditations on Moloch by Scott Alexander?
+
+41:41.240 --> 41:42.240
+Yes.
+
+41:42.240 --> 41:50.240
+There's a wonderful essay on this poem by Ginsberg where he interprets it as being about this monster.
+
+41:50.240 --> 41:58.240
+It's this game theory monster that pits people against each other in this race to the bottom where everybody ultimately loses.
+
+41:58.240 --> 42:05.240
+And the evil thing about this monster is even though everybody sees it and understands, they still can't get out of the race.
+
+42:05.240 --> 42:10.240
+A good fraction of all the bad things that we humans do are caused by Moloch.
+
+42:10.240 --> 42:20.240
+I like Scott Alexander's naming of the monster so we humans can think of it as a thing.
+
+42:20.240 --> 42:26.240
+If you look at why do we have overfishing? Why do we have more generally the tragedy of the commons?
+
+42:26.240 --> 42:31.240
+Why is it that Liv Boré, I don't know if you've had her on your podcast.
+
+42:31.240 --> 42:33.240
+Yeah, she's become a friend.
+
+42:33.240 --> 42:46.240
+She made this awesome point recently that beauty filters that a lot of female influencers feel pressure to use are exactly Moloch in action again.
+
+42:46.240 --> 42:50.240
+First, nobody was using them and people saw them just the way they were.
+
+42:50.240 --> 42:56.240
+And then some of them started using it and becoming ever more plastic fantastic.
+
+42:56.240 --> 43:05.240
+And then the other ones that weren't using it started to realize that if they want to just keep their market share, they have to start using it too.
+
+43:05.240 --> 43:12.240
+And then you're in a situation where they're all using it and none of them has any more market share or less than before.
+
+43:12.240 --> 43:16.240
+So nobody gained anything. Everybody lost.
+
+43:16.240 --> 43:22.240
+And they have to keep becoming ever more plastic fantastic also.
+
+43:22.240 --> 43:29.240
+But nobody can go back to the old way because it's just too costly.
+
+43:29.240 --> 43:31.240
+Moloch is everywhere.
+
+43:31.240 --> 43:36.240
+And Moloch is not a new arrival on the scene either.
+
+43:36.240 --> 43:45.240
+We humans have developed a lot of collaboration mechanisms to help us fight back against Moloch through various kinds of constructive collaboration.
+
+43:45.240 --> 43:58.240
+The Soviet Union and the United States did sign the number of arms control treaties against Moloch, who is trying to stoke them into unnecessarily risky nuclear arms races, et cetera, et cetera.
+
+43:58.240 --> 44:01.240
+And this is exactly what's happening on the AI front.
+
+44:01.240 --> 44:08.240
+This time it's a little bit geopolitics, but it's mostly money where there's just so much commercial pressure.
+
+44:08.240 --> 44:23.240
+If you take any of these leaders of the top tech companies, if they just say, you know, this is too risky, I want to pause for six months, they're going to get a lot of pressure from shareholders and others.
+
+44:23.240 --> 44:31.240
+We're like, well, you know, if you pause, but those guys don't pause, we don't want to get our lunch eaten.
+
+44:31.240 --> 44:37.240
+And shareholders even have the power to replace the executives in the worst case.
+
+44:37.240 --> 44:55.240
+So we did this open letter because we want to help these idealistic tech executives to do what their heart tells them by providing enough public pressure on the whole sector to just pause so that they can all pause in a coordinated fashion.
+
+44:55.240 --> 45:05.240
+And I think without the public pressure, none of them can do it alone, push back against their shareholders, no matter how good hearted they are.
+
+45:05.240 --> 45:08.240
+Malik is a really powerful foe.
+
+45:08.240 --> 45:21.240
+So the idea is to, for the major developers of AI systems like this, so we're talking about Microsoft, Google, Meta, and anyone else?
+
+45:21.240 --> 45:32.240
+OpenAI is very close with Microsoft now, of course, and there are plenty of smaller players, for example, Anthropic is very impressive.
+
+45:32.240 --> 45:38.240
+There's Conjecture. There's many, many, many players. I don't want to make a long list to leave anyone out.
+
+45:38.240 --> 45:48.240
+And for that reason, it's so important that some coordination happens, that there's external pressure on all of them, saying you all need to pause.
+
+45:48.240 --> 46:00.240
+Because then the researchers in these organizations, the leaders who want to slow down a little bit, they can say to their shareholders, you know, everybody is slowing down because of this pressure.
+
+46:00.240 --> 46:02.240
+And it's the right thing to do.
+
+46:02.240 --> 46:08.240
+Have you seen in history their examples where it's possible to pause the Malik?
+
+46:08.240 --> 46:14.240
+Absolutely. And even like human cloning, for example, you could make so much money on human cloning.
+
+46:17.240 --> 46:27.240
+Why aren't we doing it? Because biologists thought hard about this and felt like this is way too risky.
+
+46:27.240 --> 46:41.240
+They got together in the 70s in Asilomar and decided even to stop a lot more stuff also, just editing the human germ line, gene editing that goes into our offspring.
+
+46:41.240 --> 46:47.240
+And decided let's not do this because it's too unpredictable what it's going to lead to.
+
+46:47.240 --> 46:51.240
+We could lose control over what happens to our species.
+
+46:51.240 --> 46:55.240
+So they paused. There was a ton of money to be made there.
+
+46:55.240 --> 47:01.240
+So it's very doable. But you just need you need a public awareness of what the risks are.
+
+47:01.240 --> 47:06.240
+And the broader community coming in and saying, hey, let's slow down.
+
+47:06.240 --> 47:13.240
+And, you know, another another common pushback I get today is we we can't stop in the West because China.
+
+47:15.240 --> 47:22.240
+And in China, undoubtedly, they also get told we can't slow down because the West, because both sides think they're the good guy.
+
+47:23.240 --> 47:28.240
+But look at human cloning, you know, the China forge ahead with human cloning.
+
+47:28.240 --> 47:31.240
+There's been exactly one human cloning that's actually been done that I know of.
+
+47:31.240 --> 47:35.240
+It was done by a Chinese guy. Do you know where he is now?
+
+47:35.240 --> 47:38.240
+In jail. And, you know, who put him there?
+
+47:39.240 --> 47:49.240
+Chinese government. Not because Westerners said China, look, this is the Chinese government put him there because they also felt they like control.
+
+47:49.240 --> 48:00.240
+The Chinese government, if anything, maybe they are even more concerned about having control than the Western governments have no incentive of just losing control over where everything is going.
+
+48:00.240 --> 48:06.240
+And you can also see the Ernie bot that was released by I believe by do recently.
+
+48:06.240 --> 48:11.240
+They got a lot of pushback from the government and had to rein it in, you know, in a big way.
+
+48:12.240 --> 48:17.240
+I think once this basic message comes out that this isn't an arms race, it's a suicide race.
+
+48:17.240 --> 48:24.240
+Where everybody loses if anybody's AI goes out of control, it really changes the whole dynamic.
+
+48:24.240 --> 48:27.240
+It's not. It's.
+
+48:28.240 --> 48:31.240
+I'll say this again, because this is a very basic point.
+
+48:31.240 --> 48:46.240
+I think a lot of people get wrong because a lot of people dismiss the whole idea that AI can really get very superhuman because they think there's something really magical about intelligence, such that it can only exist in human minds.
+
+48:46.240 --> 48:50.240
+Because they believe that they think it's going to kind of get to just more or less.
+
+48:51.240 --> 48:54.240
+GPT four plus plus, and then that's it.
+
+48:55.240 --> 48:58.240
+They don't see it as a super as a suicide race.
+
+48:58.240 --> 49:00.240
+They think whoever gets that first, they're going to control the world.
+
+49:00.240 --> 49:01.240
+They're going to win.
+
+49:01.240 --> 49:03.240
+That's not how it's going to be.
+
+49:03.240 --> 49:09.240
+And we can talk again about the scientific arguments from why it's not going to stop there.
+
+49:09.240 --> 49:26.240
+But the way it's going to be is if anybody completely loses control and you don't care, if someone manages to take over the world who really doesn't share your goals, you probably don't really even care very much about what nationality they have.
+
+49:26.240 --> 49:29.240
+You're not going to like it much worse than today.
+
+49:30.240 --> 49:35.240
+If you live in Orwellian dystopia, what do you care who created it?
+
+49:36.240 --> 50:00.240
+And if it goes farther and we just lose control even to the machines, so that it's not us versus them, it's us versus it, what do you care who created this unaligned entity which has goals different from humans ultimately, and we get marginalized, we get made obsolete, we get replaced?
+
+50:01.240 --> 50:05.240
+That's what I mean when I say it's a suicide race.
+
+50:05.240 --> 50:09.240
+It's kind of like we're rushing towards this cliff.
+
+50:09.240 --> 50:14.240
+But the closer to the cliff we get, the more scenic the views are and the more money there is there.
+
+50:14.240 --> 50:16.240
+So we keep going.
+
+50:16.240 --> 50:18.240
+But we have to also stop at some point, right?
+
+50:18.240 --> 50:20.240
+Quit while we're ahead.
+
+50:20.240 --> 50:30.240
+And it's a suicide race which cannot be won.
+
+50:30.240 --> 50:38.240
+But the way to really benefit from it is to continue developing awesome AI a little bit slower.
+
+50:38.240 --> 50:44.240
+So we make it safe, make sure it does the things that humans want and create a condition where everybody wins.
+
+50:45.240 --> 50:53.240
+Technology has shown us that geopolitics and politics in general is not a zero-sum game at all.
+
+50:53.240 --> 51:01.240
+So there is some rate of development that will lead us as a human species to lose control of this thing.
+
+51:01.240 --> 51:09.240
+And the hope you have is that there's some lower level of development which will not allow us to lose control.
+
+51:09.240 --> 51:11.240
+This is an interesting thought you have about losing control.
+
+51:11.240 --> 51:17.240
+So if you are somebody like Sonia Prachai or Sam Altman at the head of a company like this,
+
+51:17.240 --> 51:23.240
+you're saying if they develop an AGI, they too will lose control of it.
+
+51:23.240 --> 51:26.240
+So no one person can maintain control.
+
+51:26.240 --> 51:28.240
+No group of individuals can maintain control.
+
+51:28.240 --> 51:35.240
+If it's created very, very soon and is a big black box that we don't understand, like the large language models,
+
+51:35.240 --> 51:38.240
+then I'm very confident they're going to lose control.
+
+51:38.240 --> 51:40.240
+But this isn't just me saying it.
+
+51:40.240 --> 51:48.240
+Sam Altman and Demis Asabis have both said themselves, acknowledged that there's really great risks with this
+
+51:48.240 --> 51:51.240
+and they want to slow down once they feel like it's scary.
+
+51:51.240 --> 51:54.240
+But it's clear that they're stuck in this.
+
+51:54.240 --> 52:02.240
+Again, Moloch is forcing them to go a little faster than they're comfortable with because of pressure from just commercial pressures.
+
+52:02.240 --> 52:08.240
+To get a bit optimistic here, of course, this is a problem that can be ultimately solved.
+
+52:10.240 --> 52:16.240
+To win this wisdom race, it's clear that what we hoped was going to happen hasn't happened.
+
+52:16.240 --> 52:20.240
+The capability progress has gone faster than a lot of people thought,
+
+52:20.240 --> 52:26.240
+and the progress in the public sphere of policymaking and so on has gone slower than we thought.
+
+52:26.240 --> 52:28.240
+Even the technical AI safety has gone slower.
+
+52:28.240 --> 52:34.240
+A lot of the technical safety research was kind of banking on that the large language models
+
+52:34.240 --> 52:37.240
+and other poorly understood systems couldn't get us all the way.
+
+52:37.240 --> 52:41.240
+That you had to build more of a kind of intelligence that you could understand.
+
+52:41.240 --> 52:45.240
+Maybe it could prove itself safe, things like this.
+
+52:45.240 --> 52:51.240
+And I'm quite confident that this can be done so we can reap all the benefits.
+
+52:51.240 --> 53:00.240
+But we cannot do it as quickly as this out-of-control express train we are on now is going to get to AGI.
+
+53:00.240 --> 53:03.240
+That's why we need a little more time, I feel.
+
+53:03.240 --> 53:07.240
+Is there something to be said, like what Sam Allman talked about,
+
+53:07.240 --> 53:17.240
+which is while we're in the pre-AGI stage, to release often and as transparently as possible, to learn a lot.
+
+53:17.240 --> 53:21.240
+So as opposed to being extremely cautious, release a lot.
+
+53:21.240 --> 53:26.240
+Don't invest in a closed development where you focus on AI safety.
+
+53:26.240 --> 53:32.240
+While it's somewhat dumb, quote-unquote, release as often as possible.
+
+53:32.240 --> 53:41.240
+And as you start to see signs of human level intelligence or superhuman level intelligence, then you put a halt on it.
+
+53:41.240 --> 53:48.240
+Well, what a lot of safety researchers have been saying for many years is that the most dangerous things you can do with an AI is,
+
+53:48.240 --> 53:51.240
+first of all, teach it to write code.
+
+53:52.240 --> 53:59.240
+Because that's the first step towards recursive self-improvement, which can take it from AGI to much higher levels.
+
+53:59.240 --> 54:01.240
+Oops, we've done that.
+
+54:01.240 --> 54:05.240
+And another thing, high risk is connected to the Internet.
+
+54:05.240 --> 54:10.240
+Let it go to websites, download stuff on its own and talk to people.
+
+54:10.240 --> 54:12.240
+Oops, we've done that already.
+
+54:12.240 --> 54:15.240
+You know, Elias Joukowsky, you said you interviewed him recently, right?
+
+54:15.240 --> 54:20.240
+He had this tweet recently, which gave me one of the best laughs in a while.
+
+54:20.240 --> 54:28.240
+He's like, hey, people used to make fun of me and say, you're so stupid, Eliezer, because you're saying you have to worry.
+
+54:28.240 --> 54:35.240
+Obviously, developers, once they get to really strong AI, the first thing you're going to do is never connect it to the Internet,
+
+54:35.240 --> 54:40.240
+keep it in a box where you can really study it safely.
+
+54:40.240 --> 54:43.240
+So he had written it in the meme form.
+
+54:43.240 --> 54:46.240
+So it was like, then, and then that.
+
+54:46.240 --> 54:51.240
+Now, LOL, let's make a chat bot.
+
+54:53.240 --> 55:00.240
+And the third thing, Stuart Russell, amazing AI researcher.
+
+55:00.240 --> 55:08.240
+He has argued for a while that we should never teach AI anything about humans.
+
+55:08.240 --> 55:13.240
+Above all, we should never let it learn about human psychology and how you manipulate humans.
+
+55:13.240 --> 55:16.240
+That's the most dangerous kind of knowledge you can give it.
+
+55:16.240 --> 55:20.240
+Yeah, you can teach it all it needs to know about how to cure cancer and stuff like that.
+
+55:20.240 --> 55:25.240
+But don't let it read Daniel Kahneman's book about cognitive biases and all that.
+
+55:25.240 --> 55:34.240
+And then, oops, LOL, let's invent social media recommender algorithms, which do exactly that.
+
+55:34.240 --> 55:45.240
+They get so good at knowing us and pressing our buttons that we're starting to create a world now where we just have ever more hatred
+
+55:45.240 --> 55:51.240
+because they figured out that these algorithms, not out of evil, but just to make money on advertising,
+
+55:51.240 --> 55:59.240
+that the best way to get more engagement, euphemism, get people glued to their little rectangles, is just to make them pissed off.
+
+55:59.240 --> 56:06.240
+That's really interesting that a large AI system that's doing the recommender system kind of task on social media
+
+56:06.240 --> 56:15.240
+is basically just studying human beings because it's a bunch of us rats giving it signal, nonstop signal.
+
+56:15.240 --> 56:20.240
+It'll show a thing and then we give signal on whether we spread that thing, we like that thing,
+
+56:20.240 --> 56:23.240
+that thing increases our engagement, gets us to return to the platform.
+
+56:23.240 --> 56:27.240
+It has that on the scale of hundreds of millions of people constantly.
+
+56:27.240 --> 56:29.240
+So it's just learning and learning and learning.
+
+56:29.240 --> 56:37.240
+And presumably, if the number of parameters in the neural network that's doing the learning, the more end-to-end the learning is,
+
+56:37.240 --> 56:45.240
+the more it's able to just basically encode how to manipulate human behavior, how to control humans at scale.
+
+56:45.240 --> 56:48.240
+Exactly. And that is not something you think is in humanity's interest.
+
+56:49.240 --> 56:56.240
+Right now, it's mainly letting some humans manipulate other humans for profit and power,
+
+56:56.240 --> 57:00.240
+which already caused a lot of damage.
+
+57:00.240 --> 57:10.240
+And eventually, that's a sort of skill that can make AIs persuade humans to let them escape whatever safety precautions we put.
+
+57:10.240 --> 57:18.240
+There was a really nice article in the New York Times recently by Yuval Noah Harari and two co-authors,
+
+57:18.240 --> 57:21.240
+including Tristan Harris from The Social Dilemma.
+
+57:21.240 --> 57:24.240
+They have this phrase in there I love.
+
+57:24.240 --> 57:31.240
+Humanity's first contact with advanced AI was social media.
+
+57:31.240 --> 57:33.240
+And we lost that one.
+
+57:33.240 --> 57:40.240
+We now live in a country where there's much more hate in the world, where there's much more hate, in fact.
+
+57:40.240 --> 57:47.240
+And in our democracy, we're having this conversation, and people can't even agree on who won the last election.
+
+57:47.240 --> 57:51.240
+And we humans often point fingers at other humans and say it's their fault.
+
+57:51.240 --> 57:56.240
+But it's really Moloch and these AI algorithms.
+
+57:56.240 --> 58:02.240
+We got the algorithms, and then Moloch pitted the social media companies against each other.
+
+58:02.240 --> 58:07.240
+So nobody could have a less creepy algorithm because then they would lose out on revenue to the other company.
+
+58:07.240 --> 58:14.240
+Is there any way to win that battle back if we just linger on this one battle that we've lost in terms of social media?
+
+58:14.240 --> 58:22.240
+Is it possible to redesign social media, this very medium in which we use as a civilization to communicate with each other,
+
+58:22.240 --> 58:28.240
+to have these kinds of conversations, to have discourse, to try to figure out how to solve the biggest problems in the world,
+
+58:28.240 --> 58:35.240
+whether that's nuclear war or the development of AGI? Is it possible to do social media correctly?
+
+58:35.240 --> 58:38.240
+I think it's not only possible, but it's necessary.
+
+58:38.240 --> 58:43.240
+Who are we kidding that we're going to be able to solve all these other challenges if we can't even have a conversation with each other?
+
+58:43.240 --> 58:45.240
+It's constructive.
+
+58:45.240 --> 58:51.240
+The key idea of democracy is that you get a bunch of people together and they have a real conversation,
+
+58:51.240 --> 58:56.240
+the ones you try to foster on this podcast or you respectfully listen to people you disagree with.
+
+58:56.240 --> 59:01.240
+And you realize, actually, there are some things, some common ground we have.
+
+59:01.240 --> 59:07.240
+We both agree, let's not have a nuclear war, let's not do that, et cetera, et cetera.
+
+59:07.240 --> 59:17.240
+We're kidding ourselves thinking we can face off the second contact with ever more powerful AI that's happening now,
+
+59:17.240 --> 59:24.240
+with these large language models, if we can't even have a functional conversation in the public space.
+
+59:24.240 --> 59:29.240
+That's why I started the Improve the News project, improvethenews.org.
+
+59:29.240 --> 59:40.240
+But I'm an optimist fundamentally in that there is a lot of intrinsic goodness in people
+
+59:40.240 --> 59:51.240
+and that what makes the difference between someone doing good things for humanity and bad things is not some sort of fairy tale thing
+
+59:51.240 --> 59:55.240
+that this person was born with an evil gene and this one was not born with a good gene.
+
+59:55.240 --> 01:00:05.240
+No, I think it's whether we put, whether people find themselves in situations that bring out the best in them or that bring out the worst in them.
+
+01:00:05.240 --> 01:00:14.240
+And I feel we're building an Internet and a society that brings out the worst in us.
+
+01:00:14.240 --> 01:00:16.240
+But it doesn't have to be that way.
+
+01:00:16.240 --> 01:00:17.240
+No, it does not.
+
+01:00:17.240 --> 01:00:22.240
+It's possible to create incentives and also create incentives that make money.
+
+01:00:22.240 --> 01:00:24.240
+They both make money and bring out the best in people.
+
+01:00:24.240 --> 01:00:30.240
+I mean, in the long term, it's not a good investment for anyone to have a nuclear war, for example.
+
+01:00:30.240 --> 01:00:40.240
+And is it a good investment for humanity if we just ultimately replace all humans by machines and then are so obsolete that eventually there are no humans left?
+
+01:00:40.240 --> 01:00:43.240
+Well, it depends on how you do the math.
+
+01:00:43.240 --> 01:00:51.240
+I would say by any reasonable economic standard, if you look at the future income of humans and there aren't any, that's not a good investment.
+
+01:00:51.240 --> 01:00:57.240
+Moreover, why can't we have a little bit of pride in our species?
+
+01:00:57.240 --> 01:01:01.240
+Why should we just build another species that gets rid of us?
+
+01:01:01.240 --> 01:01:11.240
+If we were Neanderthals, would we really consider it a smart move if we had really advanced biotech to build Homo sapiens?
+
+01:01:11.240 --> 01:01:18.240
+You might say, hey, Max, yeah, let's build these Homo sapiens.
+
+01:01:18.240 --> 01:01:19.240
+They're going to be smarter than us.
+
+01:01:19.240 --> 01:01:26.240
+Maybe they can help us defend us better against predators and help fix up our caves, make them nicer.
+
+01:01:26.240 --> 01:01:28.240
+We'll control them undoubtedly.
+
+01:01:28.240 --> 01:01:35.240
+So then they build a couple, a little baby girl, a little baby boy.
+
+01:01:35.240 --> 01:01:54.240
+And then you have some wise old Neanderthal elders like, hmm, I'm scared that we're opening a Pandora's box here and that we're going to get outsmarted by these super Neanderthal intelligences and there won't be any Neanderthals left.
+
+01:01:54.240 --> 01:01:58.240
+But then you have a bunch of others in the cave, are you such a Luddite scaremonger?
+
+01:01:58.240 --> 01:02:02.240
+Of course, they're going to want to keep us around because we are their creators.
+
+01:02:02.240 --> 01:02:06.240
+I think the smarter they get, the nicer they're going to get.
+
+01:02:06.240 --> 01:02:11.240
+They're going to want us around and it's going to be fine.
+
+01:02:11.240 --> 01:02:12.240
+And besides, look at these babies.
+
+01:02:12.240 --> 01:02:13.240
+They're so cute.
+
+01:02:13.240 --> 01:02:15.240
+Clearly, they're totally harmless.
+
+01:02:15.240 --> 01:02:18.240
+Those babies are exactly GPT-4.
+
+01:02:18.240 --> 01:02:20.240
+I want to be clear.
+
+01:02:20.240 --> 01:02:24.240
+It's not GPT-4 that's terrifying.
+
+01:02:24.240 --> 01:02:28.240
+It's the GPT-4 as a baby technology.
+
+01:02:28.240 --> 01:02:36.240
+Microsoft even had a paper recently out that titled something like Sparkles of AGI.
+
+01:02:36.240 --> 01:02:42.240
+They were basically saying this is baby AI, like these little Neanderthal babies.
+
+01:02:42.240 --> 01:02:44.240
+And it's going to grow up.
+
+01:02:44.240 --> 01:02:49.240
+There's going to be other systems from the same company, from other companies.
+
+01:02:49.240 --> 01:02:55.240
+They'll be way more powerful, but they're going to take all the ideas from these babies.
+
+01:02:55.240 --> 01:03:03.240
+And before we know it, we're going to be like those last Neanderthals who were pretty disappointed
+
+01:03:03.240 --> 01:03:06.240
+when they realized that they were getting replaced.
+
+01:03:06.240 --> 01:03:12.240
+Well, this interesting point you make, which is the programming, it's entirely possible that GPT-4 is already
+
+01:03:12.240 --> 01:03:19.240
+the kind of system that can change everything by writing programs.
+
+01:03:20.240 --> 01:03:29.240
+Because it's Life 2.0, the systems I'm afraid of are going to look nothing like a large language model.
+
+01:03:29.240 --> 01:03:35.240
+But once it or other people figure out a way of using this tech to make much better tech,
+
+01:03:35.240 --> 01:03:38.240
+it's just constantly replacing its software.
+
+01:03:38.240 --> 01:03:43.240
+And from everything we've seen about how these work under the hood,
+
+01:03:43.240 --> 01:03:45.240
+they're like the minimum viable intelligence.
+
+01:03:45.240 --> 01:03:49.240
+They do everything in the dumbest way that still works, sort of.
+
+01:03:49.240 --> 01:03:55.240
+So they are Life 3.0, except when they replace their software,
+
+01:03:55.240 --> 01:03:59.240
+it's a lot faster than when you decide to learn Swedish.
+
+01:03:59.240 --> 01:04:04.240
+And moreover, they think a lot faster than us too.
+
+01:04:04.240 --> 01:04:17.240
+So we don't think we have one logical step every nanosecond or so, the way they do.
+
+01:04:17.240 --> 01:04:23.240
+And we can't also just suddenly scale up our hardware massively in the cloud.
+
+01:04:23.240 --> 01:04:25.240
+We're so limited, right?
+
+01:04:25.240 --> 01:04:34.240
+So they are also life consumed, become a little bit more like Life 3.0
+
+01:04:34.240 --> 01:04:37.240
+in that if they need more hardware, hey, just rent it in the cloud.
+
+01:04:37.240 --> 01:04:41.240
+How do you pay for it? Well, with all the services you provide.
+
+01:04:44.240 --> 01:04:53.240
+And what we haven't seen yet, which could change a lot, is an entire software system.
+
+01:04:53.240 --> 01:05:00.240
+So right now, programming is done sort of in bits and pieces as an assistant tool to humans.
+
+01:05:00.240 --> 01:05:05.240
+But I do a lot of programming, and the kind of stuff that GPT-4 is able to do
+
+01:05:05.240 --> 01:05:07.240
+is replacing a lot of what I'm able to do.
+
+01:05:07.240 --> 01:05:13.240
+But you still need a human in the loop to kind of manage the design of things,
+
+01:05:13.240 --> 01:05:16.240
+manage what are the prompts that generate the kind of stuff,
+
+01:05:16.240 --> 01:05:20.240
+to do some basic adjustment of the code, to do some debugging.
+
+01:05:20.240 --> 01:05:32.240
+But if it's possible to add on top of GPT-4 kind of a feedback loop of self-debugging, improving the code,
+
+01:05:32.240 --> 01:05:37.240
+and then you launch that system out into the wild on the internet because everything is connected,
+
+01:05:37.240 --> 01:05:41.240
+and have it do things, have it interact with humans, and then get that feedback.
+
+01:05:41.240 --> 01:05:44.240
+Now you have this giant ecosystem of humans.
+
+01:05:44.240 --> 01:05:52.240
+This is one of the things that Elon Musk recently sort of tweeted as a case why everyone needs to pay $7 or whatever for Twitter.
+
+01:05:52.240 --> 01:05:54.240
+To make sure they're real.
+
+01:05:54.240 --> 01:05:55.240
+To make sure they're real.
+
+01:05:55.240 --> 01:06:01.240
+We're now going to be living in a world where the bots are getting smarter and smarter and smarter to a degree
+
+01:06:01.240 --> 01:06:06.240
+where you can't tell the difference between a human and a bot.
+
+01:06:06.240 --> 01:06:07.240
+That's right.
+
+01:06:07.240 --> 01:06:12.240
+And now you can have bots outnumber humans by one million to one,
+
+01:06:12.240 --> 01:06:17.240
+which is why he's making a case why you have to pay to prove you're human,
+
+01:06:17.240 --> 01:06:21.240
+which is one of the only mechanisms to prove, which is depressing.
+
+01:06:21.240 --> 01:06:28.240
+And I feel we have to remember, as individuals, we should from time to time ask ourselves,
+
+01:06:28.240 --> 01:06:30.240
+why are we doing what we're doing?
+
+01:06:30.240 --> 01:06:32.240
+And as a species, we need to do that too.
+
+01:06:32.240 --> 01:06:41.240
+So if we're building, as you say, machines that are outnumbering us and more and more outsmarting us
+
+01:06:41.240 --> 01:06:46.240
+and replacing us on the job market, not just for the dangerous and boring tasks,
+
+01:06:46.240 --> 01:06:51.240
+but also for writing poems and doing art and things that a lot of people find really meaningful,
+
+01:06:51.240 --> 01:06:56.240
+we've got to ask ourselves why? Why are we doing this?
+
+01:06:56.240 --> 01:07:01.240
+The answer is Moloch is tricking us into doing it.
+
+01:07:01.240 --> 01:07:09.240
+And it's such a clever trick that even though we see the trick, we still have no choice but to fall for it.
+
+01:07:09.240 --> 01:07:16.240
+Also, the thing you said about you using copilot AI tools to program faster,
+
+01:07:16.240 --> 01:07:22.240
+what factor faster would you say you code now? Does it go twice as fast?
+
+01:07:22.240 --> 01:07:26.240
+I don't really, because it's such a new tool.
+
+01:07:26.240 --> 01:07:30.240
+I don't know if speed is significantly improved,
+
+01:07:30.240 --> 01:07:36.240
+but it feels like I'm a year away from being five to ten times faster.
+
+01:07:36.240 --> 01:07:45.240
+So if that's typical for programmers, then you're already seeing another kind of recursive self-improvement,
+
+01:07:45.240 --> 01:07:53.240
+because previously a major generation of improvement of the code would happen on the human R&D timescale.
+
+01:07:53.240 --> 01:07:58.240
+And now if that's five times shorter, then it's going to take five times less time than it otherwise would
+
+01:07:58.240 --> 01:08:02.240
+to develop the next level of these tools and so on.
+
+01:08:02.240 --> 01:08:08.240
+So this is exactly the sort of beginning of an intelligence explosion.
+
+01:08:08.240 --> 01:08:11.240
+There can be humans in the loop a lot in the early stages,
+
+01:08:11.240 --> 01:08:16.240
+and then eventually humans are needed less and less and the machines can more kind of go along.
+
+01:08:16.240 --> 01:08:20.240
+But what you said there is just an exact example of these sort of things.
+
+01:08:20.240 --> 01:08:27.240
+Another thing which I was kind of lying on my psychiatrist,
+
+01:08:27.240 --> 01:08:30.240
+imagining I'm on a psychiatrist's couch here saying,
+
+01:08:30.240 --> 01:08:34.240
+what are my fears that people would do with AI systems?
+
+01:08:34.240 --> 01:08:38.240
+So I mentioned three that I had fears about many years ago that they would do,
+
+01:08:38.240 --> 01:08:45.240
+namely teach you the code, connect it to the Internet and teach it to manipulate humans.
+
+01:08:45.240 --> 01:08:53.240
+A fourth one is building an API where code can control the super powerful thing, right?
+
+01:08:53.240 --> 01:08:59.240
+Very unfortunate because one thing that systems like GPT-4 have going for them
+
+01:08:59.240 --> 01:09:04.240
+is that they are an oracle in the sense that they just answer questions.
+
+01:09:04.240 --> 01:09:10.240
+There is no robot connected to GPT-4. GPT-4 can't go and do stock trading based on its thinking.
+
+01:09:10.240 --> 01:09:12.240
+It's not an agent.
+
+01:09:12.240 --> 01:09:16.240
+An intelligent agent is something that takes in information from the world,
+
+01:09:16.240 --> 01:09:22.240
+processes it to figure out what action to take based on its goals that it has.
+
+01:09:22.240 --> 01:09:26.240
+And then does something back on the world.
+
+01:09:26.240 --> 01:09:33.240
+But once you have an API, for example, GPT-4, nothing stops Joe Schmo and a lot of other people
+
+01:09:33.240 --> 01:09:39.240
+from building real agents, which just keep making calls somewhere in some inner loop somewhere
+
+01:09:39.240 --> 01:09:45.240
+to these powerful oracle systems, which makes them themselves much more powerful.
+
+01:09:45.240 --> 01:09:49.240
+That's another kind of unfortunate development,
+
+01:09:49.240 --> 01:09:53.240
+I think we would have been better off delaying.
+
+01:09:53.240 --> 01:09:55.240
+I don't want to pick on any particular companies.
+
+01:09:55.240 --> 01:09:59.240
+I think they're all under a lot of pressure to make money.
+
+01:09:59.240 --> 01:10:06.240
+And again, the reason we're calling for this pause is to give them all cover
+
+01:10:06.240 --> 01:10:10.240
+to do what they know is the right thing, slow down a little bit at this point.
+
+01:10:10.240 --> 01:10:17.240
+But everything we've talked about, I hope we'll make it clear to people watching this,
+
+01:10:17.240 --> 01:10:23.240
+why these sort of human level tools can cause a gradual acceleration.
+
+01:10:23.240 --> 01:10:26.240
+You keep using yesterday's technology to build tomorrow's technology.
+
+01:10:26.240 --> 01:10:31.240
+And when you do that over and over again, you naturally get an explosion.
+
+01:10:31.240 --> 01:10:34.240
+That's the definition of an explosion in science.
+
+01:10:34.240 --> 01:10:45.240
+If you have two people and they fall in love, now you have four people and then they can make more babies
+
+01:10:45.240 --> 01:10:50.240
+and now you have eight people and then you have 16, 32, 64, etc.
+
+01:10:50.240 --> 01:10:53.240
+We call that a population explosion.
+
+01:10:53.240 --> 01:11:01.240
+If it's instead free neutrons in a nuclear reaction, if each one can make more than one,
+
+01:11:01.240 --> 01:11:03.240
+then you get exponential growth in that.
+
+01:11:03.240 --> 01:11:05.240
+We call it a nuclear explosion.
+
+01:11:05.240 --> 01:11:06.240
+All explosions are like that.
+
+01:11:06.240 --> 01:11:09.240
+In an intelligence explosion, it's just exactly the same principle
+
+01:11:09.240 --> 01:11:13.240
+that some amount of intelligence can make more intelligence than that.
+
+01:11:13.240 --> 01:11:16.240
+And then repeat, you always get the exponentials.
+
+01:11:16.240 --> 01:11:18.240
+What's your intuition?
+
+01:11:18.240 --> 01:11:22.240
+Why does you mention there's some technical reasons why it doesn't stop at a certain point?
+
+01:11:22.240 --> 01:11:24.240
+What's your intuition?
+
+01:11:24.240 --> 01:11:27.240
+And do you have any intuition why it might stop?
+
+01:11:27.240 --> 01:11:30.240
+It's obviously going to stop when it bumps up against the laws of physics.
+
+01:11:30.240 --> 01:11:33.240
+There are some things you just can't do no matter how smart you are.
+
+01:11:33.240 --> 01:11:35.240
+Allegedly.
+
+01:11:35.240 --> 01:11:39.240
+Because we don't know the full laws of physics.
+
+01:11:40.240 --> 01:11:45.240
+Seth Lloyd wrote a really cool paper on the physical limits on computation.
+
+01:11:45.240 --> 01:11:51.240
+For example, if you put too much energy into it in a finite space, it'll turn into a black hole.
+
+01:11:51.240 --> 01:11:55.240
+You can't move information around faster than the speed of light, stuff like that.
+
+01:11:55.240 --> 01:12:02.240
+But it's hard to store way more than a modest number of bits per atom, etc.
+
+01:12:02.240 --> 01:12:08.240
+But those limits are just astronomically above, like 30 orders of magnitude above where we are now.
+
+01:12:08.240 --> 01:12:17.240
+So bigger jump in intelligence than if you go from an ant to a human.
+
+01:12:17.240 --> 01:12:25.240
+I think, of course, what we want to do is have a controlled thing.
+
+01:12:25.240 --> 01:12:30.240
+A nuclear reactor, you put moderators in to make sure exactly it doesn't blow up out of control.
+
+01:12:31.240 --> 01:12:40.240
+When we do experiments with biology in cells and so on, we also try to make sure it doesn't get out of control.
+
+01:12:40.240 --> 01:12:44.240
+We can do this with AI too.
+
+01:12:44.240 --> 01:12:46.240
+The thing is, we haven't succeeded yet.
+
+01:12:46.240 --> 01:12:51.240
+And malloc is exactly doing the opposite.
+
+01:12:51.240 --> 01:12:55.240
+Just egging everybody on faster, faster, faster.
+
+01:12:55.240 --> 01:12:59.240
+Or the other company is going to catch up with you or the other country is going to catch up with you.
+
+01:12:59.240 --> 01:13:03.240
+We have to want this stuff.
+
+01:13:03.240 --> 01:13:10.240
+And I don't believe in this just asking people to look into their hearts and do the right thing.
+
+01:13:10.240 --> 01:13:12.240
+It's easier for others to say that.
+
+01:13:12.240 --> 01:13:23.240
+But if you're in a situation where your company is going to get screwed by other companies that are not stopping,
+
+01:13:23.240 --> 01:13:25.240
+you're putting people in a very hard situation.
+
+01:13:25.240 --> 01:13:30.240
+The right thing to do is change the whole incentive structure instead.
+
+01:13:30.240 --> 01:13:34.240
+Maybe I should say one more thing about this.
+
+01:13:34.240 --> 01:13:42.240
+Because malloc has been around as humanity's number one or number two enemy since the beginning of civilization.
+
+01:13:42.240 --> 01:13:46.240
+We came up with some really cool countermeasures.
+
+01:13:46.240 --> 01:13:54.240
+First of all, already over 100,000 years ago, evolution realized that it was very unhelpful that people kept killing each other all the time.
+
+01:13:54.240 --> 01:14:04.240
+So it genetically gave us compassion and made it so that if you get two drunk dudes getting into a pointless bar fight,
+
+01:14:04.240 --> 01:14:12.240
+they might give each other black eyes, but they have a lot of inhibition towards killing each other.
+
+01:14:12.240 --> 01:14:21.240
+And similarly, if you find a baby lying on the street when you go out for your morning jog tomorrow, you're going to stop and pick it up.
+
+01:14:21.240 --> 01:14:34.240
+So evolution gave us these genes that make our own egoistic incentives more aligned with what's good for the greater group or part of.
+
+01:14:34.240 --> 01:14:45.240
+And then as we got a bit more sophisticated and developed language, we invented gossip, which is also a fantastic anti-malloc.
+
+01:14:46.240 --> 01:14:58.240
+Because now it really discourages liars, moochers, cheaters, because their own incentive now is not to do this,
+
+01:14:58.240 --> 01:15:05.240
+because word quickly gets around and then suddenly people aren't going to invite them to their dinners anymore or trust them.
+
+01:15:05.240 --> 01:15:11.240
+And then when we got still more sophisticated and bigger societies, we invented the legal system,
+
+01:15:11.240 --> 01:15:17.240
+where even strangers who couldn't rely on gossip and things like this would treat each other, would have an incentive.
+
+01:15:17.240 --> 01:15:24.240
+Now, those guys in the bar fights, even if someone is so drunk that he actually wants to kill the other guy,
+
+01:15:24.240 --> 01:15:34.240
+he also has a little thought in the back of his head that, you know, do I really want to spend the next 10 years eating like really crappy food in a small room?
+
+01:15:35.240 --> 01:15:38.240
+I'm just going to chill out.
+
+01:15:38.240 --> 01:15:48.240
+And we similarly have tried to give these incentives to corporations by having regulation and all sorts of oversight so that their incentives are aligned with the greater good.
+
+01:15:48.240 --> 01:15:50.240
+We tried really hard.
+
+01:15:50.240 --> 01:15:57.240
+And the big problem that we're failing now is not that we haven't tried before,
+
+01:15:57.240 --> 01:16:03.240
+but it's just that the tech is developing much faster than the regulators have been able to keep up.
+
+01:16:03.240 --> 01:16:06.240
+So regulators, it's kind of comical.
+
+01:16:06.240 --> 01:16:10.240
+The European Union right now is doing this AI act.
+
+01:16:10.240 --> 01:16:20.240
+And in the beginning, they had a little opt-out exception that GPT-4 would be completely excluded from regulation.
+
+01:16:20.240 --> 01:16:21.240
+Brilliant idea.
+
+01:16:21.240 --> 01:16:23.240
+What's the logic behind that?
+
+01:16:23.240 --> 01:16:27.240
+Some lobbyists pushed successfully for this.
+
+01:16:27.240 --> 01:16:30.240
+So we were actually quite involved with the Future Life Institute.
+
+01:16:30.240 --> 01:16:46.240
+Mark Brackel, Risto Ouk, Anthony Aguirre and others were quite involved with educating various people involved in this process about these general purpose AI models coming and pointing out that they would become the laughing stock if they didn't put it in.
+
+01:16:46.240 --> 01:16:48.240
+So the French started pushing for it.
+
+01:16:48.240 --> 01:16:52.240
+It got put in to the draft and it looked like all was good.
+
+01:16:52.240 --> 01:16:56.240
+Then there was a huge counterpush from lobbyists.
+
+01:16:56.240 --> 01:17:02.240
+There were more lobbyists in Brussels from tech companies than from oil companies, for example.
+
+01:17:02.240 --> 01:17:06.240
+And it looked like it might maybe get taken out again.
+
+01:17:06.240 --> 01:17:08.240
+And now GPT-4 happened.
+
+01:17:08.240 --> 01:17:10.240
+And I think it's going to stay in.
+
+01:17:10.240 --> 01:17:15.240
+But this just shows Moloch can be defeated.
+
+01:17:15.240 --> 01:17:24.240
+But the challenge we're facing is that the tech is generally much faster than what the policymakers are.
+
+01:17:24.240 --> 01:17:28.240
+And a lot of the policymakers also don't have a tech background.
+
+01:17:28.240 --> 01:17:34.240
+So we really need to work hard to educate them on what's taking place here.
+
+01:17:34.240 --> 01:17:39.240
+So we're getting the situation where the first kind of non...
+
+01:17:39.240 --> 01:17:44.240
+So I define artificial intelligence just as non-biological intelligence.
+
+01:17:44.240 --> 01:17:53.240
+And by that definition, a company, a corporation, is also an artificial intelligence because the corporation isn't its humans, it's a system.
+
+01:17:53.240 --> 01:18:03.240
+If its CEO decides, the CEO of a tobacco company decides one morning that the CEO, he doesn't want to sell cigarettes anymore, they'll just put another CEO in there.
+
+01:18:03.240 --> 01:18:15.240
+It's not enough to align the incentives of individual people or align individual computers' incentives to their owners, which is what, technically, AI safety research is about.
+
+01:18:15.240 --> 01:18:19.240
+You also have to align the incentives of corporations with a greater good.
+
+01:18:19.240 --> 01:18:32.240
+And some corporations have gotten so big and so powerful very quickly that, in many cases, their lobbyists instead align the regulators to what they want rather than the other way around.
+
+01:18:32.240 --> 01:18:35.240
+It's a classic regulatory capture.
+
+01:18:35.240 --> 01:18:48.240
+Is the thing that the slowdown hopes to achieve is give enough time to the regulators to catch up or enough time to the companies themselves to breathe and understand how to do AI safety correctly?
+
+01:18:48.240 --> 01:18:49.240
+I think both.
+
+01:18:49.240 --> 01:19:02.240
+But I think that the vision, the path to success that I see is first you give a breather actually to the people in these companies, their leadership who wants to do the right thing, and they all have safety teams and so on on their companies.
+
+01:19:02.240 --> 01:19:08.240
+Give them a chance to get together with the other companies.
+
+01:19:08.240 --> 01:19:12.240
+And the outside pressure can also help catalyze that, right?
+
+01:19:12.240 --> 01:19:24.240
+And work out what are the reasonable safety requirements one should put on future systems before they get rolled out?
+
+01:19:24.240 --> 01:19:32.240
+There are a lot of people also in academia and elsewhere outside of these companies who can be brought into this and have a lot of very good ideas.
+
+01:19:32.240 --> 01:19:39.240
+And then I think it's very realistic that within six months you can get these people coming up.
+
+01:19:39.240 --> 01:19:40.240
+So here's a white paper.
+
+01:19:40.240 --> 01:19:44.240
+Here's where we all think it's reasonable.
+
+01:19:44.240 --> 01:19:47.240
+Just because cars killed a lot of people, it didn't ban cars.
+
+01:19:47.240 --> 01:19:54.240
+But they got together, a bunch of people, and decided in order to be allowed to sell a car, it has to have a seat belt in it.
+
+01:19:54.240 --> 01:20:02.240
+There are the analogous things that you can start requiring a future AI systems so that they are safe.
+
+01:20:02.240 --> 01:20:18.240
+And once this heavy lifting, this intellectual work has been done by experts in the field, which can be done quickly, I think it's going to be quite easy to get policymakers to say, yeah, this is a good idea.
+
+01:20:18.240 --> 01:20:33.240
+And for the companies to fight MOLOC, they want, and I believe Sam Altman has explicitly called for this, they want the regulators to actually adopt it so that their competition is going to abide, too.
+
+01:20:33.240 --> 01:20:46.240
+You don't want to be enacting all these principles, then you abide by them, and then there's this one little company that doesn't sign on to it.
+
+01:20:46.240 --> 01:20:49.240
+And then now they can gradually overtake you.
+
+01:20:49.240 --> 01:20:56.240
+Then the companies will be able to sleep secure, knowing that everybody's playing by the same rules.
+
+01:20:56.240 --> 01:21:17.240
+So do you think it's possible to develop guardrails that keep the systems from basically damaging, irreparably humanity, while still enabling sort of the capitalist-fueled competition between companies as they develop how to best make money with this AI?
+
+01:21:17.240 --> 01:21:19.240
+You think there's a balancing that's possible?
+
+01:21:19.240 --> 01:21:27.240
+Absolutely. We've seen that in many other sectors where you've had the free market produce quite good things without causing particular harm.
+
+01:21:27.240 --> 01:21:38.240
+When the guardrails are there and they work, capitalism is a very good way of optimizing for just getting the same things done more efficiently.
+
+01:21:38.240 --> 01:21:54.240
+But it was good. In hindsight, I've never met anyone, even on parties way over on the right, in any country who thinks it was a terrible idea to ban child labor, for example.
+
+01:21:54.240 --> 01:22:12.240
+Yeah, but it seems like this particular technology has gotten so good, so fast, become powerful to a degree where you could see in the near term the ability to make a lot of money and to put guardrails, to develop guardrails quickly in that kind of context seems to be tricky.
+
+01:22:12.240 --> 01:22:22.240
+It's not similar to cars or child labor. It seems like the opportunity to make a lot of money here very quickly is right here before us.
+
+01:22:22.240 --> 01:22:24.240
+There's this cliff.
+
+01:22:24.240 --> 01:22:26.240
+Yep. It gets quite scenic.
+
+01:22:26.240 --> 01:22:35.240
+The closer to the cliff you go, the more money there is. The more gold ingots there are on the ground you can pick up or whatever. You want to drive there very fast.
+
+01:22:35.240 --> 01:22:42.240
+But it's not in anyone's incentive that we go over the cliff. It's not like everybody's in their own car. All the cars are connected together with a chain.
+
+01:22:43.240 --> 01:22:47.240
+So if anyone goes over, they'll start dragging others down, the others down too.
+
+01:22:47.240 --> 01:23:00.240
+Ultimately, it's in the selfish interests also of the people in the companies to slow down when you start seeing the contours of the cliff there in front of you.
+
+01:23:00.240 --> 01:23:08.240
+The problem is that even though the people who are building the technology and the CEOs, they really get it.
+
+01:23:08.240 --> 01:23:16.240
+The shareholders and these other market forces, they are people who don't honestly understand that the cliff is there.
+
+01:23:16.240 --> 01:23:22.240
+You have to get quite into the weeds to really appreciate how powerful this is and how fast.
+
+01:23:22.240 --> 01:23:35.240
+And a lot of people are even still stuck again in this idea that in this carbon chauvinism, as I like to call it, that you can only have our level of intelligence in humans, that there's something magical about it.
+
+01:23:35.240 --> 01:23:45.240
+Whereas the people in the tech companies who build this stuff, they all realize that intelligence is information processing of a certain kind.
+
+01:23:45.240 --> 01:23:56.240
+And it really doesn't matter at all whether the information is processed by carbon atoms in neurons and brains or by silicon atoms and some technology we build.
+
+01:23:56.240 --> 01:24:07.240
+So you brought up capitalism earlier, and there are a lot of people who love capitalism and a lot of people who really, really don't.
+
+01:24:07.240 --> 01:24:19.240
+And it struck me recently that what's happening with capitalism here is exactly analogous to the way in which superintelligence might wipe us out.
+
+01:24:19.240 --> 01:24:27.240
+Do you know why I studied economics for my undergrad, Stockholm School of Economics?
+
+01:24:27.240 --> 01:24:40.240
+So I was very interested in how you could use market forces to just get stuff done more efficiently, but give the right incentives to market so that it wouldn't do really bad things.
+
+01:24:40.240 --> 01:24:50.240
+So Dylan Hadfield-Manel, who's a professor and colleague of mine at MIT, wrote this really interesting paper with some collaborators recently,
+
+01:24:50.240 --> 01:25:02.240
+where they proved mathematically that if you just take one goal that you just optimize for, on and on and on indefinitely, you think it's going to bring you in the right direction.
+
+01:25:02.240 --> 01:25:08.240
+What basically always happens is, in the beginning, it will make things better for you.
+
+01:25:08.240 --> 01:25:15.240
+But if you keep going, at some point it's going to start making things worse for you again, and then gradually it's going to make it really, really terrible.
+
+01:25:16.240 --> 01:25:31.240
+So just as a simple, the way I think of the proof is, suppose you want to go from here back to Austin, for example, and you're like, OK, yeah, let's just let's go south, but you put in exactly the right sort of the right direction.
+
+01:25:31.240 --> 01:25:37.240
+Just optimize that. South is possible. You get closer and closer to Austin.
+
+01:25:37.240 --> 01:25:45.240
+But there's always some little error. So you're not going exactly towards Austin, but you get pretty close.
+
+01:25:45.240 --> 01:25:50.240
+But eventually you start going away again, and eventually you're going to be leaving the solar system.
+
+01:25:50.240 --> 01:25:55.240
+And they proved it's a beautiful mathematical proof. This happens generally.
+
+01:25:55.240 --> 01:26:10.240
+And this is very important for AI, because even though Stuart Russell has written the book and given a lot of talks on why it's a bad idea to have AI just blindly optimize something, that's what pretty much all our systems do.
+
+01:26:10.240 --> 01:26:15.240
+We have something called the loss function that we're just minimizing, or reward function, we're just maximizing.
+
+01:26:15.240 --> 01:26:26.240
+Capitalism is exactly like that, too. We wanted to get stuff done more efficiently than people wanted.
+
+01:26:26.240 --> 01:26:37.240
+So we introduced the free market. Things got done much more efficiently than they did in, say, communism.
+
+01:26:37.240 --> 01:26:45.240
+And it got better. But then it just kept optimizing and kept optimizing.
+
+01:26:45.240 --> 01:26:52.240
+And you got ever bigger companies and ever more efficient information processing, and now also very much powered by IT.
+
+01:26:52.240 --> 01:26:57.240
+And eventually a lot of people are beginning to feel, wait, we're kind of optimizing a bit too much.
+
+01:26:57.240 --> 01:27:07.240
+Why did we just chop down half the rainforest? And why did suddenly these regulators get captured by lobbyists and so on?
+
+01:27:07.240 --> 01:27:11.240
+It's just the same optimization that's been running for too long.
+
+01:27:11.240 --> 01:27:23.240
+If you have an AI that actually has power over the world and you just give it one goal and just keep optimizing that, most likely everybody's going to be like, yay, this is great in the beginning, things are getting better.
+
+01:27:23.240 --> 01:27:29.240
+But it's almost impossible to give it exactly the right direction to optimize in.
+
+01:27:29.240 --> 01:27:38.240
+And then eventually all hay breaks loose, right? Nick Bostrom and others have given examples that sound quite silly.
+
+01:27:38.240 --> 01:27:44.240
+Like, what if you just want to tell it to cure cancer or something and that's all you tell it?
+
+01:27:44.240 --> 01:27:55.240
+Maybe it's going to decide to take over entire continents just so we can get more supercomputer facilities in there and figure out how to cure cancer backwards.
+
+01:27:55.240 --> 01:27:59.240
+And then you're like, wait, that's not what I wanted.
+
+01:27:59.240 --> 01:28:17.240
+And the issue with capitalism and the issue with runaway AI have kind of merged now because the malloc I talked about is exactly the capitalist malloc that we have built an economy that is optimizing for only one thing, profit.
+
+01:28:17.240 --> 01:28:22.240
+And that worked great back when things were very inefficient and now it's getting done better.
+
+01:28:22.240 --> 01:28:27.240
+And it worked great as long as the companies were small enough that they couldn't capture the regulators.
+
+01:28:27.240 --> 01:28:32.240
+But that's not true anymore, but they keep optimizing.
+
+01:28:32.240 --> 01:28:42.240
+And now they realize that these companies can make even more profit by building ever more powerful AI, even if it's reckless.
+
+01:28:42.240 --> 01:28:47.240
+But optimize more and more and more and more and more.
+
+01:28:47.240 --> 01:28:50.240
+So this is malloc again showing up.
+
+01:28:50.240 --> 01:28:59.240
+And I just want to anyone here who has any concerns about about late stage capitalism having gone a little too far.
+
+01:28:59.240 --> 01:29:05.240
+You should worry about superintelligence because it's the same villain in both cases.
+
+01:29:05.240 --> 01:29:13.240
+It's malloc and optimizing one objective function aggressively, blindly is going to take us there.
+
+01:29:13.240 --> 01:29:20.240
+Yeah, we have this pause from time to time and look into our hearts and ask why are we doing this?
+
+01:29:20.240 --> 01:29:24.240
+Is this am I still going towards Austin or have I gone too far?
+
+01:29:24.240 --> 01:29:27.240
+You know, maybe we should change direction.
+
+01:29:27.240 --> 01:29:30.240
+And that is the idea behind the halt for six months.
+
+01:29:30.240 --> 01:29:31.240
+What six months?
+
+01:29:31.240 --> 01:29:33.240
+That seems like a very short period.
+
+01:29:33.240 --> 01:29:37.240
+Just can we just linger and explore different ideas here?
+
+01:29:37.240 --> 01:29:45.240
+Because this feels like a really important moment in human history where pausing would actually have a significant positive effect.
+
+01:29:45.240 --> 01:29:57.240
+We said six months because we figured the number one pushback we were going to get in the West was like, but China.
+
+01:29:57.240 --> 01:30:03.240
+And everybody knows there's no way that China is going to catch up with the West on this in six months.
+
+01:30:03.240 --> 01:30:11.240
+So it's that argument goes off the table and you can forget about geopolitical competition and just focus on the real issue.
+
+01:30:11.240 --> 01:30:12.240
+That's why we put this.
+
+01:30:12.240 --> 01:30:13.240
+That's really interesting.
+
+01:30:13.240 --> 01:30:29.240
+But you've already made the case that even for China, if you actually want to take on that argument, China, too, would not be bothered by a longer halt because they don't want to lose control even more than the West doesn't.
+
+01:30:29.240 --> 01:30:30.240
+That's what I think.
+
+01:30:30.240 --> 01:30:31.240
+That's a really interesting argument.
+
+01:30:31.240 --> 01:30:43.240
+I have to actually really think about that, which the kind of thing people assume is if you develop an AGI that open AI, if they're the ones that do it, for example, they're going to win.
+
+01:30:43.240 --> 01:30:47.240
+But you're saying, no, they're everybody loses.
+
+01:30:47.240 --> 01:30:49.240
+Yeah, it's going to get better and better and better.
+
+01:30:49.240 --> 01:30:51.240
+And then kaboom, we all lose.
+
+01:30:51.240 --> 01:30:52.240
+That's what's going to happen.
+
+01:30:53.240 --> 01:31:01.240
+When lose and win are defined on a metric of basically quality of life for human civilization and for Sam Altman.
+
+01:31:01.240 --> 01:31:08.240
+To be blunt, my personal guess, you know, and people can quibble with this is that we're just going to there won't be any humans.
+
+01:31:08.240 --> 01:31:09.240
+That's it.
+
+01:31:09.240 --> 01:31:10.240
+That's what I mean by lose.
+
+01:31:10.240 --> 01:31:21.240
+You know, if you we can see in history, once you have some species or some group of people who aren't needed anymore, doesn't usually work out so well for them.
+
+01:31:21.240 --> 01:31:22.240
+Right.
+
+01:31:22.240 --> 01:31:23.240
+Yeah.
+
+01:31:23.240 --> 01:31:32.240
+There were a lot of horses that were used for traffic in Boston and then the car got invented and most of them got, you know, we don't need to go there.
+
+01:31:32.240 --> 01:31:47.240
+And if you look at humans, you know, right now we why did the labor movement succeed and after the Industrial Revolution, because it was needed.
+
+01:31:47.240 --> 01:31:58.240
+Even though we had a lot of mollusks and there was child labor and so on, you know, the company still needed to have workers.
+
+01:31:59.240 --> 01:32:01.240
+And that's why strikes had power and so on.
+
+01:32:01.240 --> 01:32:09.240
+If we get to the point where most humans aren't needed anymore, I think it's quite naive to think that they're going to still be treated well.
+
+01:32:09.240 --> 01:32:15.240
+You know, we say that, yeah, everybody's equal and the government will always protect them.
+
+01:32:15.240 --> 01:32:24.240
+But if you look in practice, groups that are very disenfranchised and don't have any actual power usually get screwed.
+
+01:32:24.240 --> 01:32:31.240
+And now in the beginning, so Industrial Revolution, we automated away muscle work.
+
+01:32:31.240 --> 01:32:42.240
+But that got worked out pretty well eventually because we educated ourselves and started working with our brains instead and got usually more interesting, better paid jobs.
+
+01:32:42.240 --> 01:32:45.240
+But now we're beginning to replace brain work.
+
+01:32:45.240 --> 01:32:47.240
+So we replaced a lot of boring stuff.
+
+01:32:47.240 --> 01:32:53.240
+We got the pocket calculator so you don't have people multiplying numbers anymore at work.
+
+01:32:53.240 --> 01:32:55.240
+Fine. There were better jobs they could get.
+
+01:32:55.240 --> 01:33:05.240
+But now GPT-4 and the stable diffusion and techniques like this, they're really beginning to blow away.
+
+01:33:05.240 --> 01:33:08.240
+Some jobs that people really love having.
+
+01:33:08.240 --> 01:33:17.240
+It was a heartbreaking article just posted yesterday on social media I saw about this guy who was doing 3D modeling for gaming.
+
+01:33:17.240 --> 01:33:20.240
+And all of a sudden now they got this new software.
+
+01:33:20.240 --> 01:33:26.240
+He just says prompts and he feels this whole job that he loves lost its meaning.
+
+01:33:26.240 --> 01:33:35.240
+And I asked GPT-4 to rewrite Twinkle Twinkle Little Star in the style of Shakespeare.
+
+01:33:35.240 --> 01:33:37.240
+I couldn't have done such a good job.
+
+01:33:37.240 --> 01:33:39.240
+It was really impressive.
+
+01:33:39.240 --> 01:33:41.240
+You've seen a lot of art coming out here.
+
+01:33:41.240 --> 01:33:48.240
+So I'm all for automating away the dangerous jobs and the boring jobs.
+
+01:33:48.240 --> 01:33:52.240
+But I think you hear some arguments which are too glib.
+
+01:33:52.240 --> 01:33:54.240
+Sometimes people say, well, that's all that's going to happen.
+
+01:33:54.240 --> 01:33:58.240
+We're getting rid of the boring, tedious, dangerous jobs.
+
+01:33:58.240 --> 01:33:59.240
+It's just not true.
+
+01:33:59.240 --> 01:34:02.240
+There are a lot of really interesting jobs that are being taken away now.
+
+01:34:02.240 --> 01:34:05.240
+Journalism is going to get crushed.
+
+01:34:06.240 --> 01:34:08.240
+Coding is going to get crushed.
+
+01:34:08.240 --> 01:34:14.240
+I predict the job market for programmers' salaries are going to start dropping.
+
+01:34:14.240 --> 01:34:17.240
+You said you can code five times faster.
+
+01:34:17.240 --> 01:34:19.240
+Then you need five times fewer programmers.
+
+01:34:19.240 --> 01:34:22.240
+Maybe there will be more output also.
+
+01:34:22.240 --> 01:34:26.240
+But you'll still end up needing fewer programmers than today.
+
+01:34:26.240 --> 01:34:28.240
+And I love coding.
+
+01:34:28.240 --> 01:34:31.240
+I think it's super cool.
+
+01:34:32.240 --> 01:34:38.240
+We need to stop and ask ourselves why we're doing this as humans.
+
+01:34:38.240 --> 01:34:44.240
+I feel that AI should be built by humanity for humanity.
+
+01:34:44.240 --> 01:34:46.240
+And let's not forget that.
+
+01:34:46.240 --> 01:34:49.240
+It shouldn't be by Moloch for Moloch.
+
+01:34:49.240 --> 01:34:53.240
+What it really is now is kind of by humanity for Moloch.
+
+01:34:53.240 --> 01:34:55.240
+It doesn't make any sense.
+
+01:34:55.240 --> 01:34:57.240
+It's for us that we're doing it.
+
+01:34:57.240 --> 01:35:02.240
+And it would make a lot more sense if we develop,
+
+01:35:02.240 --> 01:35:04.240
+figure out gradually and safely how to make all this tech.
+
+01:35:04.240 --> 01:35:08.240
+And then we think about what are the kind of jobs that people really don't want to have?
+
+01:35:08.240 --> 01:35:10.240
+Automate them all away.
+
+01:35:10.240 --> 01:35:15.240
+And then we ask what are the jobs that people really find meaning in?
+
+01:35:15.240 --> 01:35:23.240
+Like maybe taking care of children in the daycare center, maybe doing art, etc., etc.
+
+01:35:23.240 --> 01:35:26.240
+And even if it were possible to automate that way,
+
+01:35:26.240 --> 01:35:28.240
+we don't need to do that, right?
+
+01:35:28.240 --> 01:35:30.240
+We built these machines.
+
+01:35:30.240 --> 01:35:36.240
+Well, it's possible that we redefine or rediscover what are the jobs that give us meaning.
+
+01:35:36.240 --> 01:35:40.240
+So for me, the thing, it is really sad.
+
+01:35:40.240 --> 01:35:48.240
+Half the time I'm excited, half the time I'm crying as I'm generating code.
+
+01:35:48.240 --> 01:35:52.240
+Because I kind of love programming.
+
+01:35:52.240 --> 01:35:55.240
+It's an act of creation.
+
+01:35:55.240 --> 01:36:00.240
+You have an idea, you design it, and then you bring it to life and it does something,
+
+01:36:00.240 --> 01:36:02.240
+especially if there's some intelligence to it, it does something.
+
+01:36:02.240 --> 01:36:04.240
+It doesn't even have to have intelligence.
+
+01:36:04.240 --> 01:36:10.240
+Printing Hello World on screen, you made a little machine and it comes to life.
+
+01:36:10.240 --> 01:36:17.240
+And there's a bunch of tricks you learn along the way because you've been doing it for many, many years.
+
+01:36:17.240 --> 01:36:22.240
+And then to see AI, be able to generate all the tricks you thought were special.
+
+01:36:23.240 --> 01:36:29.240
+I don't know, it's very, it's scary.
+
+01:36:29.240 --> 01:36:30.240
+It's almost painful.
+
+01:36:30.240 --> 01:36:33.240
+Like a loss, loss of innocence maybe.
+
+01:36:33.240 --> 01:36:41.240
+Like maybe when I was younger, I remember before I learned that sugar is bad for you, you should be on a diet.
+
+01:36:41.240 --> 01:36:44.240
+I remember I enjoyed candy deeply.
+
+01:36:44.240 --> 01:36:46.240
+In a way, I just can't anymore.
+
+01:36:46.240 --> 01:36:48.240
+I know it's bad for me.
+
+01:36:48.240 --> 01:36:53.240
+I enjoyed it unapologetically, fully, just intensely.
+
+01:36:53.240 --> 01:36:55.240
+And I just, I lost that.
+
+01:36:55.240 --> 01:37:01.240
+Now I feel like a little bit of that is lost for me with programming, or being lost with programming.
+
+01:37:01.240 --> 01:37:11.240
+Similar as it is for the 3D modeler, no longer being able to really enjoy the art of modeling 3D things for gaming.
+
+01:37:11.240 --> 01:37:13.240
+I don't know, I don't know what to make sense of that.
+
+01:37:13.240 --> 01:37:19.240
+Maybe I would rediscover that the true magic of what it means to be human is connecting with other humans, to have conversations like this.
+
+01:37:19.240 --> 01:37:30.240
+I don't know, to have sex, to eat food, to really intensify the value from conscious experiences versus creating other stuff.
+
+01:37:30.240 --> 01:37:36.240
+You're pitching the rebranding again from homo sapiens to homo sapiens, the meaningful experiences.
+
+01:37:36.240 --> 01:37:40.240
+And just to inject some optimism in this here so we don't sound like a bunch of gloomers,
+
+01:37:41.240 --> 01:37:43.240
+We can totally have our cake and eat it.
+
+01:37:43.240 --> 01:37:49.240
+You hear a lot of totally bullshit claims that we can't afford having more teachers, have to cut the number of nurses.
+
+01:37:49.240 --> 01:37:52.240
+That's just nonsense, obviously.
+
+01:37:52.240 --> 01:38:05.240
+With anything, even quite far short of AGI, we can dramatically improve, grow the GDP and produce this wealth of goods and services.
+
+01:38:05.240 --> 01:38:12.240
+It's very easy to create a world where everybody is better off than today, including the richest people can be better off as well.
+
+01:38:12.240 --> 01:38:16.240
+It's not a zero-sum game in technology.
+
+01:38:16.240 --> 01:38:23.240
+Again, you can have two countries like Sweden and Denmark had all these ridiculous wars century after century.
+
+01:38:23.240 --> 01:38:32.240
+And sometimes Sweden got a little better off because it got a little bit bigger, and then Denmark got a little bit better off because Sweden got a little bit smaller.
+
+01:38:32.240 --> 01:38:38.240
+But then technology came along and we both got just dramatically wealthier without taking away from anyone else.
+
+01:38:38.240 --> 01:38:40.240
+It was just a total win for everyone.
+
+01:38:40.240 --> 01:38:44.240
+And AI can do that on steroids.
+
+01:38:44.240 --> 01:38:56.240
+If you can build safe AGI, if you can build superintelligence, basically all the limitations that cause harm today can be completely eliminated.
+
+01:38:57.240 --> 01:39:00.240
+It's a wonderful possibility.
+
+01:39:00.240 --> 01:39:01.240
+And this is not sci-fi.
+
+01:39:01.240 --> 01:39:05.240
+This is something which is clearly possible according to the laws of physics.
+
+01:39:05.240 --> 01:39:09.240
+And we can talk about ways of making it safe also.
+
+01:39:09.240 --> 01:39:14.240
+But unfortunately, that'll only happen if we steer in that direction.
+
+01:39:14.240 --> 01:39:16.240
+That's absolutely not the default outcome.
+
+01:39:16.240 --> 01:39:21.240
+That's why income inequality keeps going up.
+
+01:39:21.240 --> 01:39:24.240
+That's why the life expectancy in the US has been going down.
+
+01:39:24.240 --> 01:39:26.240
+I think it's four years in a row.
+
+01:39:26.240 --> 01:39:37.240
+I just read a heartbreaking study from the CDC about how something like one third of all teenage girls in the US have been thinking about suicide.
+
+01:39:37.240 --> 01:39:41.240
+Those are steps in totally the wrong direction.
+
+01:39:41.240 --> 01:39:45.240
+And it's important to keep our eyes on the prize here.
+
+01:39:46.240 --> 01:40:05.240
+We have the power now for the first time in the history of our species to harness artificial intelligence, to help us really flourish and help bring out the best in our humanity rather than the worst of it.
+
+01:40:05.240 --> 01:40:11.240
+To help us have really fulfilling experiences that feel truly meaningful.
+
+01:40:12.240 --> 01:40:15.240
+You and I shouldn't sit here and dictate to future generations what they will be.
+
+01:40:15.240 --> 01:40:16.240
+Let them figure it out.
+
+01:40:16.240 --> 01:40:22.240
+But let's give them a chance to live and not foreclose all these possibilities for them by just messing things up.
+
+01:40:22.240 --> 01:40:25.240
+And for that, we have to solve the AI safety problem.
+
+01:40:25.240 --> 01:40:29.240
+It would be nice if we can link on exploring that a little bit.
+
+01:40:29.240 --> 01:40:37.240
+So one interesting way to enter that discussion is you tweeted and Elon replied.
+
+01:40:37.240 --> 01:40:47.240
+You tweeted, let's not just focus on whether GPT-4 will do more harm or good on the job market, but also whether its coding skills will hasten the arrival of super intelligence.
+
+01:40:47.240 --> 01:40:49.240
+That's something we've been talking about.
+
+01:40:49.240 --> 01:40:55.240
+So Elon proposed one thing in the reply saying maximum truth seeking is my best guess for AI safety.
+
+01:40:55.240 --> 01:41:07.240
+Can you maybe steel man the case for this objective function of truth and maybe make an argument against it in general?
+
+01:41:07.240 --> 01:41:12.240
+What are your different ideas to start approaching the solution to AI safety?
+
+01:41:12.240 --> 01:41:14.240
+I didn't see that reply, actually.
+
+01:41:14.240 --> 01:41:15.240
+Oh, interesting.
+
+01:41:15.240 --> 01:41:22.240
+But I really resonate with it because AI is not evil.
+
+01:41:22.240 --> 01:41:27.240
+It caused people around the world to hate each other much more.
+
+01:41:27.240 --> 01:41:30.240
+But that's because we made it in a certain way.
+
+01:41:30.240 --> 01:41:31.240
+It's a tool.
+
+01:41:31.240 --> 01:41:33.240
+We can use it for great things and bad things.
+
+01:41:33.240 --> 01:41:36.240
+And we could just as well have AI systems.
+
+01:41:36.240 --> 01:41:39.240
+And this is part of my vision for success here.
+
+01:41:39.240 --> 01:41:44.240
+Truth seeking AI that really brings us together again.
+
+01:41:44.240 --> 01:41:48.240
+Why do people hate each other so much between countries and within countries?
+
+01:41:48.240 --> 01:41:53.240
+It's because they each have totally different versions of the truth, right?
+
+01:41:53.240 --> 01:42:03.240
+If they all had the same truth that they trusted for good reason, because they could check it and verify it and not have to believe in some self-proclaimed authority, right?
+
+01:42:03.240 --> 01:42:06.240
+There wouldn't be nearly as much hate.
+
+01:42:06.240 --> 01:42:08.240
+There'd be a lot more understanding instead.
+
+01:42:08.240 --> 01:42:13.240
+And this is, I think, something AI can help enormously with.
+
+01:42:14.240 --> 01:42:28.240
+For example, a little baby step in this direction is this website called Metaculous, where people bet and make predictions not for money, but just for their own reputation.
+
+01:42:28.240 --> 01:42:30.240
+And it's kind of funny, actually.
+
+01:42:30.240 --> 01:42:32.240
+You treat the humans like you treat AIs.
+
+01:42:32.240 --> 01:42:40.240
+You have a loss function where they get penalized if they're super confident on something and then the opposite happens.
+
+01:42:40.240 --> 01:42:45.240
+Whereas if you're kind of humble and then you're like, I think it's 51% chance this is going to happen.
+
+01:42:45.240 --> 01:42:46.240
+And then the other happens.
+
+01:42:46.240 --> 01:42:48.240
+You don't get penalized much.
+
+01:42:48.240 --> 01:42:52.240
+And what you can see is that some people are much better at predicting than others.
+
+01:42:52.240 --> 01:42:55.240
+They've earned your trust, right?
+
+01:42:55.240 --> 01:43:04.240
+One project that I'm working on right now is the outgrowth of Improve the News Foundation together with the Metaculous folks is seeing if we can really scale this up a lot with more powerful AI.
+
+01:43:04.240 --> 01:43:05.240
+I would love it.
+
+01:43:05.240 --> 01:43:17.240
+I would love for there to be a really powerful truth-seeking system that is trustworthy because it keeps being right about stuff.
+
+01:43:17.240 --> 01:43:29.240
+And people who come to it and maybe look at its latest trust ranking of different pundits and newspapers, et cetera, if they want to know why someone got a low score,
+
+01:43:29.240 --> 01:43:34.240
+they can click on it and see all the predictions that they actually made and how they turned out.
+
+01:43:34.240 --> 01:43:37.240
+This is how we do it in science.
+
+01:43:37.240 --> 01:43:43.240
+You trust scientists like Einstein who said something everybody thought was bullshit and turned out to be right.
+
+01:43:43.240 --> 01:43:45.240
+You get a lot of trust points.
+
+01:43:45.240 --> 01:43:49.240
+And he did it multiple times even.
+
+01:43:49.240 --> 01:43:59.240
+I think AI has the power to really heal a lot of the rifts we're seeing by creating trust systems.
+
+01:43:59.240 --> 01:44:09.240
+It has to get away from this idea today with some fact-checking sites which might themselves have an agenda and you just trust it because of its reputation.
+
+01:44:09.240 --> 01:44:16.240
+You want to have these sort of systems that earn their trust and that's completely transparent.
+
+01:44:16.240 --> 01:44:19.240
+This, I think, would actually help a lot.
+
+01:44:19.240 --> 01:44:31.240
+That can, I think, help heal the very dysfunctional conversation that humanity has about how it's going to deal with all its biggest challenges in the world today.
+
+01:44:31.240 --> 01:44:42.240
+And then on the technical side, another common sort of gloom comment I get from people who are saying we're just screwed, there's no hope,
+
+01:44:42.240 --> 01:44:49.240
+is things like GPT-4 are way too complicated for a human to ever understand and prove that they can be trustworthy.
+
+01:44:49.240 --> 01:44:54.240
+They're forgetting that AI can help us prove that things work.
+
+01:44:54.240 --> 01:45:04.240
+And there's this very fundamental fact that in math it's much harder to come up with a proof than it is to verify that the proof is correct.
+
+01:45:04.240 --> 01:45:10.240
+You can actually write a little proof-checking code, it's quite short, that you can assume and understand.
+
+01:45:10.240 --> 01:45:17.240
+And then it can check the most monstrously long proof ever generated even by a computer and say, yeah, this is valid.
+
+01:45:17.240 --> 01:45:31.240
+So right now we have this approach with virus checking software that it looks to see if there's something you should not trust.
+
+01:45:31.240 --> 01:45:37.240
+And if it can prove to itself that you should not trust that code, it warns you.
+
+01:45:37.240 --> 01:45:43.240
+What if you flip this around? And this is an idea I give credit to Steve, I'm 104.
+
+01:45:43.240 --> 01:45:52.240
+So that it will only run the code if it can prove, instead of not running it, if it can prove that it's not trustworthy, if it will only run it, if it can prove that it's trustworthy.
+
+01:45:52.240 --> 01:45:57.240
+So it asks the code, it proves to me that you're going to do what you say you're going to do.
+
+01:45:57.240 --> 01:46:03.240
+And it gives you this proof. And you, a little proof-checker, can check it.
+
+01:46:03.240 --> 01:46:09.240
+Now you can actually trust an AI that's much more intelligent than you are, right?
+
+01:46:09.240 --> 01:46:16.240
+Because it's a problem to come up with this proof that you could never have found, that you should trust it.
+
+01:46:16.240 --> 01:46:23.240
+So this is an interesting point. I agree with you, but this is where Eliezer Yakovsky might disagree with you.
+
+01:46:23.240 --> 01:46:36.240
+His claim, not with you, but with this idea, his claim as a super-intelligent AI would be able to know how to lie to you with such a proof.
+
+01:46:36.240 --> 01:46:40.240
+How to lie to you and give me a proof that I'm going to think is correct.
+
+01:46:40.240 --> 01:46:45.240
+But it's not me it's lying to, that's the trick of my proof-checker, which is a piece of code.
+
+01:46:45.240 --> 01:46:53.240
+So his general idea is a super-intelligent system can lie to a dumber proof-checker.
+
+01:46:53.240 --> 01:47:05.240
+So you're going to have, as the system becomes more and more intelligent, there's going to be a threshold where a super-intelligent system would be able to effectively lie to a slightly dumber AGI system.
+
+01:47:06.240 --> 01:47:20.240
+He really focuses on this weak AGI to strong AGI jump, where the strong AGI can make all the weak AGI's think that it's just one of them, but it's no longer that.
+
+01:47:20.240 --> 01:47:23.240
+And that leap is when it runs away.
+
+01:47:23.240 --> 01:47:33.240
+I don't buy that argument. I think no matter how super-intelligent an AI is, it's never going to be able to prove to me that there are only finitely many primes, for example.
+
+01:47:33.240 --> 01:47:52.240
+It just can't, and it can try to snow me by making up all sorts of new weird rules of deduction that say, trust me, the way your proof-checker works is too limited and we have this new hyper math and it's true.
+
+01:47:52.240 --> 01:47:59.240
+But then I would just take the attitude, okay, I'm going to forfeit some of these supposedly super cool technologies.
+
+01:47:59.240 --> 01:48:03.240
+I'm only going to go with the ones that I can prove in my own trusted proof-checker.
+
+01:48:03.240 --> 01:48:05.240
+Then I think it's fine.
+
+01:48:05.240 --> 01:48:14.240
+Of course, this is not something anyone has successfully implemented at this point, but I just give it as an example of hope.
+
+01:48:14.240 --> 01:48:16.240
+We don't have to do all the work ourselves.
+
+01:48:16.240 --> 01:48:22.240
+This is exactly the sort of very boring and tedious task that's perfect to outsource to an AI.
+
+01:48:22.240 --> 01:48:31.240
+And this is a way in which less powerful and less intelligent agents like us can actually continue to control and trust more powerful ones.
+
+01:48:31.240 --> 01:48:35.240
+So build AGI systems that help us defend against other AGI systems.
+
+01:48:35.240 --> 01:48:48.240
+Well, for starters, begin with a simple problem of just making sure that the system that you own or that's supposed to be loyal to you has to prove to itself that it's always going to do the things that you actually want it to do.
+
+01:48:48.240 --> 01:48:52.240
+And if it can't prove it, maybe it's still going to do it, but you won't run it.
+
+01:48:52.240 --> 01:48:56.240
+So you just forfeit some aspects of all the cool things AI can do.
+
+01:48:56.240 --> 01:49:00.240
+I bet you dollars and doughnuts it can still do some incredibly cool stuff for you.
+
+01:49:00.240 --> 01:49:03.240
+There are other things too that we shouldn't sweep under the rug.
+
+01:49:03.240 --> 01:49:09.240
+Not every human agrees on exactly what direction we should go with humanity.
+
+01:49:09.240 --> 01:49:15.240
+And you've talked a lot about geopolitical things on your podcast to this effect.
+
+01:49:15.240 --> 01:49:25.240
+But I think that shouldn't distract us from the fact that there are actually a lot of things that everybody in the world virtually agrees on.
+
+01:49:26.240 --> 01:49:33.240
+Hey, you know, like having no humans on the planet in a near future.
+
+01:49:33.240 --> 01:49:35.240
+Let's not do that.
+
+01:49:35.240 --> 01:49:39.240
+You look at something like the United Nations Sustainable Development Goals.
+
+01:49:39.240 --> 01:49:42.240
+Some of them are quite ambitious.
+
+01:49:42.240 --> 01:49:45.240
+And basically all the countries agree.
+
+01:49:45.240 --> 01:49:48.240
+US, China, Russia, Ukraine, they all agree.
+
+01:49:48.240 --> 01:49:56.240
+So instead of quibbling about the little things we don't agree on, let's start with the things we do agree on and get them done.
+
+01:49:56.240 --> 01:50:03.240
+Instead of being so distracted by all these things we disagree on, that malloc wins.
+
+01:50:03.240 --> 01:50:12.240
+Because frankly, malloc going wild now, it feels like a war on life playing out in front of our eyes.
+
+01:50:12.240 --> 01:50:17.240
+If you just look at it from space, you know, we're on this planet.
+
+01:50:17.240 --> 01:50:20.240
+Beautiful, vibrant ecosystem.
+
+01:50:20.240 --> 01:50:27.240
+Now we start chopping down big parts of it, even though most people thought that was a bad idea.
+
+01:50:27.240 --> 01:50:32.240
+Oh, we start doing ocean acidification, wiping out all sorts of species.
+
+01:50:32.240 --> 01:50:34.240
+Oh, now we have all these close calls.
+
+01:50:34.240 --> 01:50:36.240
+We almost had a nuclear war.
+
+01:50:36.240 --> 01:50:42.240
+And we're replacing more and more of the biosphere with non-living things.
+
+01:50:42.240 --> 01:50:48.240
+We're also replacing in our social lives a lot of the things which were so valuable to humanity.
+
+01:50:48.240 --> 01:50:54.240
+A lot of social interactions now are replaced by people staring into their rectangles, right?
+
+01:50:54.240 --> 01:50:56.240
+And I'm not a psychologist.
+
+01:50:56.240 --> 01:50:58.240
+I'm out of my depth here.
+
+01:50:58.240 --> 01:51:04.240
+But I suspect that part of the reason why teen suicide and suicide in general in the US,
+
+01:51:04.240 --> 01:51:08.240
+the record-breaking levels is actually caused by, again,
+
+01:51:08.240 --> 01:51:15.240
+AI technologies and social media making people spend less time with actually just human interaction.
+
+01:51:15.240 --> 01:51:21.240
+We've all seen a bunch of good-looking people in restaurants staring into the rectangles
+
+01:51:21.240 --> 01:51:25.240
+instead of looking into each other's eyes, right?
+
+01:51:26.240 --> 01:51:38.240
+So that's also a part of the war on life that we're replacing so many really life-affirming things by technology.
+
+01:51:38.240 --> 01:51:41.240
+We're putting technology between us.
+
+01:51:41.240 --> 01:51:47.240
+The technology that was supposed to connect us is actually distancing ourselves from each other.
+
+01:51:47.240 --> 01:51:52.240
+And then we're giving ever more power to things which are not alive.
+
+01:51:52.240 --> 01:51:55.240
+These large corporations are not living things, right?
+
+01:51:55.240 --> 01:52:00.240
+They're just maximizing profit there.
+
+01:52:00.240 --> 01:52:02.240
+I want to end the war on life.
+
+01:52:02.240 --> 01:52:07.240
+I think we humans, together with all our fellow living things on this planet,
+
+01:52:07.240 --> 01:52:15.240
+will be better off if we can remain in control over the non-living things and make sure that they work for us.
+
+01:52:15.240 --> 01:52:17.240
+I really think it can be done.
+
+01:52:17.240 --> 01:52:29.240
+Can you just linger on this maybe high-level philosophical disagreement with Eliezer Yadkovsky in the hope you're stating?
+
+01:52:29.240 --> 01:52:36.240
+So he is very sure, he puts a very high probability, very close to one,
+
+01:52:36.240 --> 01:52:43.240
+depending on the day he puts it at one, that AI is going to kill humans,
+
+01:52:43.240 --> 01:52:50.240
+that he does not see a trajectory in which it doesn't end up with that conclusion.
+
+01:52:50.240 --> 01:52:54.240
+What trajectory do you see that doesn't end up there?
+
+01:52:54.240 --> 01:53:01.240
+And maybe can you see the point he's making and can you also see a way out?
+
+01:53:01.240 --> 01:53:09.240
+First of all, I tremendously respect Eliezer Yadkovsky and his thinking.
+
+01:53:09.240 --> 01:53:16.240
+Second, I do share his view that there's a pretty large chance that we're not going to make it as humans.
+
+01:53:16.240 --> 01:53:20.240
+There won't be any humans on the planet in the not too distant future.
+
+01:53:20.240 --> 01:53:22.240
+And that makes me very sad.
+
+01:53:22.240 --> 01:53:33.240
+We just had a little baby and I keep asking myself how old is he even going to get?
+
+01:53:34.240 --> 01:53:43.240
+I said to my wife recently, it feels a little bit like I was just diagnosed with some sort of cancer
+
+01:53:43.240 --> 01:53:49.240
+which has some risk of dying from and some risk of surviving,
+
+01:53:49.240 --> 01:53:54.240
+except this is a kind of cancer which will kill all of humanity.
+
+01:53:54.240 --> 01:53:59.240
+So I completely take seriously his concerns.
+
+01:53:59.240 --> 01:54:05.240
+But I absolutely don't think it's hopeless.
+
+01:54:05.240 --> 01:54:12.240
+I think there is, first of all, a lot of momentum now.
+
+01:54:12.240 --> 01:54:20.240
+For the first time, actually, since the many, many years that have passed since I and many others started warning about this,
+
+01:54:20.240 --> 01:54:23.240
+I feel most people are getting it now.
+
+01:54:23.240 --> 01:54:33.240
+I was just talking to this guy in the gas station in our house the other day.
+
+01:54:33.240 --> 01:54:38.240
+And he's like, I think we're getting replaced.
+
+01:54:38.240 --> 01:54:47.240
+So that's positive that we're finally seeing this reaction, which is the first step towards solving the problem.
+
+01:54:47.240 --> 01:54:55.240
+Second, I really think that this vision of only running AIs if the stakes are really high,
+
+01:54:55.240 --> 01:55:00.240
+that can prove to us that they're safe, it's really just virus checking in reverse again.
+
+01:55:00.240 --> 01:55:03.240
+I think it's scientifically doable.
+
+01:55:03.240 --> 01:55:06.240
+I don't think it's hopeless.
+
+01:55:06.240 --> 01:55:12.240
+We might have to forfeit some of the technology that we could get if we were putting blind faith in our AIs,
+
+01:55:12.240 --> 01:55:14.240
+but we're still going to get amazing stuff.
+
+01:55:14.240 --> 01:55:18.240
+Do you envision a process with a proof checker, like something like GPT-4 or GPT-5,
+
+01:55:18.240 --> 01:55:21.240
+will go through a process of rigorous interrogation?
+
+01:55:21.240 --> 01:55:23.240
+No, I think it's hopeless.
+
+01:55:23.240 --> 01:55:29.240
+That's like trying to prove there about five spaghetti.
+
+01:55:29.240 --> 01:55:38.240
+The vision I have for success is instead that just like we human beings were able to look at our brains and distill out the key knowledge.
+
+01:55:38.240 --> 01:55:44.240
+Galileo, when his dad threw him an apple when he was a kid, he was able to catch it because his brain could,
+
+01:55:44.240 --> 01:55:48.240
+in this funny spaghetti kind of way, predict how parabolas are going to move.
+
+01:55:48.240 --> 01:55:49.240
+He's caught him on system one.
+
+01:55:49.240 --> 01:55:53.240
+But then he got older and it's like, wait, this is a parabola.
+
+01:55:53.240 --> 01:55:55.240
+It's y equals x squared.
+
+01:55:55.240 --> 01:56:01.240
+I can distill this knowledge out and today you can easily program it into a computer and it can simulate not just that,
+
+01:56:01.240 --> 01:56:04.240
+but how to get to Mars and so on.
+
+01:56:04.240 --> 01:56:12.240
+I envision a similar process where we use the amazing learning power of neural networks to discover the knowledge in the first place.
+
+01:56:12.240 --> 01:56:16.240
+But we don't stop with a black box and use that.
+
+01:56:16.240 --> 01:56:24.240
+We then do a second round of AI where we use automated systems to extract out the knowledge and see what are the insights it's had.
+
+01:56:24.240 --> 01:56:33.240
+And then we put that knowledge into a completely different kind of architecture or programming language or whatever
+
+01:56:33.240 --> 01:56:42.240
+that's made in a way that can be both really efficient and also is more amenable to very formal verification.
+
+01:56:42.240 --> 01:56:44.240
+That's my vision.
+
+01:56:44.240 --> 01:56:49.240
+I'm not sitting here saying I'm confident, 100% sure that it's going to work.
+
+01:56:49.240 --> 01:56:51.240
+But I don't think the chance is certainly not zero either.
+
+01:56:51.240 --> 01:56:58.240
+And it will certainly be possible to do for a lot of really cool AI applications that we're not using now.
+
+01:56:58.240 --> 01:57:03.240
+So we can have a lot of the fun that we're excited about if we do this.
+
+01:57:03.240 --> 01:57:06.240
+We're going to need a little bit of time.
+
+01:57:06.240 --> 01:57:13.240
+That's why it's good to pause and put in place requirements.
+
+01:57:13.240 --> 01:57:14.240
+One more thing also.
+
+01:57:14.240 --> 01:57:20.240
+I think someone might think zero percent chance we're going to survive.
+
+01:57:20.240 --> 01:57:22.240
+Let's just give up.
+
+01:57:22.240 --> 01:57:35.240
+That's very dangerous because there's no more guaranteed way to fail than to convince yourself that it's impossible and not try.
+
+01:57:36.240 --> 01:57:44.240
+When you study history and military history, the first thing you learn is that that's how you do psychological warfare.
+
+01:57:44.240 --> 01:57:49.240
+You persuade the other side that it's hopeless so they don't even fight.
+
+01:57:49.240 --> 01:57:51.240
+And then, of course, you win.
+
+01:57:51.240 --> 01:58:01.240
+Let's not do this psychological warfare on ourselves and say there's 100% probability we're all screwed anyway.
+
+01:58:01.240 --> 01:58:08.240
+Sadly, I do get that a little bit sometimes from some young people who are so convinced that we're all screwed that they're like,
+
+01:58:08.240 --> 01:58:15.240
+I'm just going to play computer games and do drugs because we're screwed anyway.
+
+01:58:15.240 --> 01:58:22.240
+It's important to keep the hope alive because it actually has a causal impact and makes it more likely that we're going to succeed.
+
+01:58:22.240 --> 01:58:30.240
+It seems like the people that actually build solutions to a problem seemingly impossible to solve problems are the ones that believe.
+
+01:58:30.240 --> 01:58:32.240
+They're the ones who are the optimists.
+
+01:58:32.240 --> 01:58:39.240
+It seems like there's some fundamental law to the universe where fake it till you make it kind of works.
+
+01:58:39.240 --> 01:58:43.240
+Believe it's possible and it becomes possible.
+
+01:58:43.240 --> 01:58:51.240
+Was it Henry Ford who said that if you tell yourself that it's impossible, it is.
+
+01:58:51.240 --> 01:58:53.240
+Let's not make that mistake.
+
+01:58:53.240 --> 01:58:57.240
+And this is a big mistake society is making, I think, all in all.
+
+01:58:57.240 --> 01:59:02.240
+Everybody's so gloomy and the media are also very biased towards if it bleeds, it leads and gloom and doom.
+
+01:59:02.240 --> 01:59:12.240
+So most visions of the future we have are dystopian, which really demotivates people.
+
+01:59:12.240 --> 01:59:18.240
+We want to really, really, really focus on the upside also to give people the willingness to fight for it.
+
+01:59:18.240 --> 01:59:24.240
+And for AI, you and I mostly talked about gloom here again.
+
+01:59:24.240 --> 01:59:35.240
+But let's not forget that we have probably both lost someone we really cared about to some disease that we were told was incurable.
+
+01:59:35.240 --> 01:59:36.240
+Well, it's not.
+
+01:59:36.240 --> 01:59:39.240
+There's no law of physics saying you have to die of that cancer or whatever.
+
+01:59:39.240 --> 01:59:41.240
+Of course you can cure it.
+
+01:59:42.240 --> 01:59:52.240
+And there are so many other things that we with our human intelligence have also failed to solve on this planet, which AI could also very much help us with.
+
+01:59:52.240 --> 02:00:00.240
+So if we can get this right, just be a little more chill and slow down a little bit until we get it right.
+
+02:00:00.240 --> 02:00:04.240
+It's mind blowing how awesome our future can be.
+
+02:00:04.240 --> 02:00:07.240
+We talked a lot about stuff on Earth can be great.
+
+02:00:07.240 --> 02:00:18.240
+But even if you really get ambitious and look up into the skies, right, there's no reason we have to be stuck on this planet for the rest of the remaining for billions of years to come.
+
+02:00:18.240 --> 02:00:29.240
+We totally understand now as laws of physics let life spread out into space to other solar systems, to other galaxies and flourish for billions and billions of years.
+
+02:00:29.240 --> 02:00:37.240
+And this to me is a very, very hopeful vision that really motivates me to to fight.
+
+02:00:37.240 --> 02:00:45.240
+And coming back in the end, something you talked about again, the struggle, how the human struggle is one of the things that really gives meaning to our lives.
+
+02:00:45.240 --> 02:00:49.240
+If there's ever been an epic struggle, this is it.
+
+02:00:49.240 --> 02:00:52.240
+And isn't it even more epic if you're the underdog?
+
+02:00:52.240 --> 02:00:56.240
+If most people are telling you this is going to fail, it's impossible.
+
+02:00:56.240 --> 02:00:59.240
+And you persist.
+
+02:00:59.240 --> 02:01:02.240
+And you succeed.
+
+02:01:02.240 --> 02:01:05.240
+That's what we can do together as a species on this one.
+
+02:01:05.240 --> 02:01:08.240
+A lot of pundits are ready to count this out.
+
+02:01:08.240 --> 02:01:13.240
+Both in the battle to keep AI safe and becoming a multi planetary species.
+
+02:01:13.240 --> 02:01:16.240
+Yeah, and they're they're the same challenge.
+
+02:01:16.240 --> 02:01:21.240
+If we can keep AI safe, that's how we're going to get multi planetary very efficiently.
+
+02:01:21.240 --> 02:01:24.240
+I have some sort of technical questions about how to get it right.
+
+02:01:24.240 --> 02:01:36.240
+So one idea that I'm not even sure what the right answer is to is should systems like GPT-4 be open sourced in whole or in part?
+
+02:01:36.240 --> 02:01:40.240
+Can you make the can you see the case for either?
+
+02:01:40.240 --> 02:01:43.240
+I think the answer right now is no.
+
+02:01:43.240 --> 02:01:46.240
+I think the answer early on was yes.
+
+02:01:46.240 --> 02:01:53.240
+So we could bring in all the wonderful, great thought process of everybody on this.
+
+02:01:53.240 --> 02:01:58.240
+But asking should we open source GPT-4 now is just the same as if you say, well, is it good?
+
+02:01:58.240 --> 02:02:04.240
+Should we open source how to build really small nuclear weapons?
+
+02:02:04.240 --> 02:02:09.240
+Should we open source how to make bio weapons?
+
+02:02:09.240 --> 02:02:15.240
+Should we open source how to make a new virus that kills 90 percent of everybody who gets it?
+
+02:02:15.240 --> 02:02:17.240
+Of course we shouldn't.
+
+02:02:17.240 --> 02:02:19.240
+So it's already that powerful.
+
+02:02:19.240 --> 02:02:26.240
+It's already that powerful that we have to respect the power of the systems we've built.
+
+02:02:26.240 --> 02:02:40.240
+The knowledge that you get from open sourcing everything we do now might very well be powerful enough that people looking at that can use it to build the things that are really threatening.
+
+02:02:40.240 --> 02:02:41.240
+Again, let's get it.
+
+02:02:41.240 --> 02:02:50.240
+Remember, open AI is GPT-4 is a baby AI, baby sort of baby proto almost little bit AGI.
+
+02:02:50.240 --> 02:02:55.240
+And according to what Microsoft's recent paper said, right, it's not that that we're scared of.
+
+02:02:55.240 --> 02:03:03.240
+What we're scared about is people taking that to our who might be a lot less responsible than the company that made it.
+
+02:03:03.240 --> 02:03:05.240
+And just going to town with it.
+
+02:03:05.240 --> 02:03:10.240
+That's why we want to.
+
+02:03:10.240 --> 02:03:12.240
+It's an information hazard.
+
+02:03:12.240 --> 02:03:17.240
+There are many things which are not open sourced right now in society for a good reason.
+
+02:03:17.240 --> 02:03:27.240
+How do you make certain kind of very powerful toxins out of stuff you can buy at Home Depot?
+
+02:03:27.240 --> 02:03:30.240
+We don't open source those things for a reason.
+
+02:03:30.240 --> 02:03:33.240
+And this is really no different.
+
+02:03:34.240 --> 02:03:42.240
+I'm saying that I have to say it feels in a way a bit weird to say it because MIT is like the cradle of the open source movement.
+
+02:03:42.240 --> 02:03:47.240
+And I love open source in general power to the people, let's say.
+
+02:03:47.240 --> 02:03:52.240
+But there's always going to be some stuff that you don't open source.
+
+02:03:52.240 --> 02:03:55.240
+And it's just like you don't open source.
+
+02:03:55.240 --> 02:04:02.240
+So we have a three month old baby when he gets a little bit older, we're not going to open source to him all the most dangerous things he can do in the house.
+
+02:04:03.240 --> 02:04:14.240
+But it's a weird feeling because this is one of the first moments in history where there's a strong case to be made not to open source software.
+
+02:04:14.240 --> 02:04:19.240
+This is when the software has become too dangerous.
+
+02:04:19.240 --> 02:04:23.240
+But it's not the first time that we didn't want to open source technology.
+
+02:04:23.240 --> 02:04:31.240
+Is there something to be said about how to get the release of such systems right, like GPT-4 and GPT-5?
+
+02:04:31.240 --> 02:04:36.240
+So OpenAI went through a pretty rigorous effort for several months.
+
+02:04:36.240 --> 02:04:49.240
+You could say it could be longer, but nevertheless, it's longer than you would have expected of trying to test the system to see like what are the ways it goes wrong to make it very difficult for people somewhat difficult for people to ask things.
+
+02:04:50.240 --> 02:04:54.240
+How do I make a bomb for $1?
+
+02:04:54.240 --> 02:05:04.240
+Or how do I say I hate a certain group on Twitter in a way that doesn't get me blocked from Twitter, banned from Twitter, those kinds of questions.
+
+02:05:04.240 --> 02:05:09.240
+So you basically use the system to do harm.
+
+02:05:10.240 --> 02:05:22.240
+Is there something you could say about ideas you have just on looking, having thought about this problem of AI safety, how to release such system, how to test such systems when you have them inside the company?
+
+02:05:23.240 --> 02:05:37.240
+Yeah, so a lot of people say that the two biggest risks from large-language models are
+
+02:05:37.240 --> 02:05:43.240
+it's spreading disinformation, harmful information of various types.
+
+02:05:43.240 --> 02:05:51.240
+And second, being used for offensive cyber weapon design.
+
+02:05:51.240 --> 02:05:53.240
+I think those are not the two greatest threats.
+
+02:05:53.240 --> 02:05:58.240
+They're very serious threats, and it's wonderful that people are trying to mitigate them.
+
+02:05:58.240 --> 02:06:06.240
+A much bigger elephant in the room is how is this going to disrupt our economy in a huge way, obviously, and maybe take away a lot of the most meaningful jobs.
+
+02:06:06.240 --> 02:06:18.240
+And an even bigger one is the one we spent so much time talking about here that this becomes the bootloader for the more powerful AI.
+
+02:06:18.240 --> 02:06:21.240
+Write code, connect it to the Internet, manipulate humans.
+
+02:06:21.240 --> 02:06:25.240
+And before we know it, we have something else, which is not at all a large-language model.
+
+02:06:25.240 --> 02:06:29.240
+It looks nothing like it, but which is way more intelligent and capable and has goals.
+
+02:06:29.240 --> 02:06:33.240
+And that's the elephant in the room.
+
+02:06:33.240 --> 02:06:42.240
+And obviously, no matter how hard any of these companies have tried, that's not something that's easy for them to verify with large-language models.
+
+02:06:42.240 --> 02:07:02.240
+And the only way to really lower that risk a lot would be to never let it read any code, not train on that, and not put it into an API and not give it access to so much information about how to manipulate humans.
+
+02:07:02.240 --> 02:07:08.240
+But that doesn't mean you still can't make a ton of money on them.
+
+02:07:09.240 --> 02:07:13.240
+We're going to just watch now this coming year, right?
+
+02:07:13.240 --> 02:07:21.240
+Microsoft is rolling out the new Office suite where you go into Microsoft Word and give it a prompt.
+
+02:07:21.240 --> 02:07:24.240
+It writes the whole text for you, and then you edit it.
+
+02:07:24.240 --> 02:07:27.240
+And then you're like, oh, give me a PowerPoint version of this, and it makes it.
+
+02:07:27.240 --> 02:07:30.240
+And now take the spreadsheet and blah, blah.
+
+02:07:31.240 --> 02:07:39.240
+All of those things, I think, you can debate the economic impact of it and whether society is prepared to deal with this disruption.
+
+02:07:39.240 --> 02:07:47.240
+But those are not the things which, that's not the elephant of the room that keeps me awake at night for wiping out humanity.
+
+02:07:47.240 --> 02:07:51.240
+And I think that's the biggest misunderstanding we have.
+
+02:07:51.240 --> 02:07:55.240
+A lot of people think that we're scared of automatic spreadsheets.
+
+02:07:55.240 --> 02:07:56.240
+That's not the case.
+
+02:07:56.240 --> 02:07:59.240
+That's not what Eliezer was freaked out about either.
+
+02:07:59.240 --> 02:08:06.240
+Is there, in terms of the actual mechanism of how AI might kill all humans.
+
+02:08:06.240 --> 02:08:13.240
+So something you've been outspoken about, you've talked about a lot, is autonomous weapon systems.
+
+02:08:13.240 --> 02:08:16.240
+So the use of AI in war.
+
+02:08:16.240 --> 02:08:23.240
+Is that one of the things that still you carry a concern for as these systems become more and more powerful?
+
+02:08:23.240 --> 02:08:24.240
+I carry a concern for it.
+
+02:08:24.240 --> 02:08:32.240
+Not that all humans are going to get killed by slaughterbots, but rather just as an express route into Orwellian dystopia,
+
+02:08:32.240 --> 02:08:35.240
+where it becomes much easier for very few to kill very many.
+
+02:08:35.240 --> 02:08:41.240
+And therefore it becomes very easy for very few to dominate very many.
+
+02:08:41.240 --> 02:08:45.240
+If you want to know how AI could kill all people, just ask yourself.
+
+02:08:45.240 --> 02:08:48.240
+We humans have driven a lot of species extinct.
+
+02:08:48.240 --> 02:08:50.240
+How do we do it?
+
+02:08:50.240 --> 02:08:53.240
+We were smarter than them.
+
+02:08:53.240 --> 02:09:00.240
+Actually, we didn't do it even systematically by going around one after the other and stepping on them or shooting them or anything like that.
+
+02:09:00.240 --> 02:09:05.240
+We just chopped down their habitat because we needed it for something else.
+
+02:09:05.240 --> 02:09:13.240
+In some cases, we did it by putting more carbon dioxide in the atmosphere because of some reason that those animals didn't even understand.
+
+02:09:13.240 --> 02:09:15.240
+And now they're gone.
+
+02:09:15.240 --> 02:09:21.240
+So if you're in AI and you just want to figure something out,
+
+02:09:21.240 --> 02:09:31.240
+then you decide we just really need this space here to build more compute facilities.
+
+02:09:31.240 --> 02:09:37.240
+If that's the only goal it has, we are just the sort of accidental roadkill along the way.
+
+02:09:37.240 --> 02:09:43.240
+And you could totally imagine, yeah, maybe this oxygen is kind of annoying because it caused more corrosion, so let's get rid of the oxygen.
+
+02:09:44.240 --> 02:09:46.240
+And good luck surviving after that.
+
+02:09:46.240 --> 02:09:56.240
+I'm not particularly concerned that they would want to kill us just because that would be a goal in itself.
+
+02:09:56.240 --> 02:10:02.240
+We've driven a number of the elephant species extinct.
+
+02:10:02.240 --> 02:10:07.240
+It wasn't because we didn't like elephants.
+
+02:10:07.240 --> 02:10:18.240
+The basic problem is you don't want to cede control over your planet to some other more intelligent entity that doesn't share your goals.
+
+02:10:18.240 --> 02:10:20.240
+It's that simple.
+
+02:10:20.240 --> 02:10:27.240
+Which brings us to another key challenge, which AI safety researchers have been grappling with for a long time.
+
+02:10:27.240 --> 02:10:35.240
+How do you make AI, first of all, understand our goals and then adopt our goals and then retain them as they get smarter?
+
+02:10:37.240 --> 02:10:43.240
+All three of those are really hard.
+
+02:10:43.240 --> 02:10:50.240
+A human child, first they're just not smart enough to understand our goals.
+
+02:10:50.240 --> 02:10:53.240
+They can't even talk.
+
+02:10:53.240 --> 02:10:59.240
+And then eventually they're teenagers and understand our goals just fine, but they don't share them.
+
+02:10:59.240 --> 02:11:05.240
+But there is fortunately a magic phase in the middle where they're smart enough to understand our goals
+
+02:11:05.240 --> 02:11:12.240
+and malleable enough that we can hopefully, with good parenting, teach them right from wrong and instill good goals in them.
+
+02:11:12.240 --> 02:11:17.240
+Those are all tough challenges with computers.
+
+02:11:17.240 --> 02:11:22.240
+Even if you teach your kids good goals when they're little, they might outgrow them too.
+
+02:11:22.240 --> 02:11:25.240
+That's a challenge for machines that keep improving.
+
+02:11:25.240 --> 02:11:33.240
+These are a lot of hard challenges we're up for, but I don't think any of them are insurmountable.
+
+02:11:34.240 --> 02:11:41.240
+The fundamental reason why Eliezer looked so depressed when I last saw him was because he felt there just wasn't enough time.
+
+02:11:41.240 --> 02:11:45.240
+Oh, not that it was unsolvable. There's just not enough time.
+
+02:11:45.240 --> 02:11:53.240
+He was hoping that humanity was going to take this threat more seriously so we would have more time, and now we don't have more time.
+
+02:11:53.240 --> 02:11:59.240
+That's why the open letter is calling for more time.
+
+02:11:59.240 --> 02:12:06.240
+But even with time, the AI alignment problem seems to be really difficult.
+
+02:12:06.240 --> 02:12:14.240
+Oh, yeah. But it's also the most worthy problem, the most important problem for humanity to ever solve.
+
+02:12:14.240 --> 02:12:20.240
+Because if we solve that one, Lex, that aligned AI can help us solve all the other problems.
+
+02:12:20.240 --> 02:12:27.240
+Because it seems like it has to have constant humility about its goal, constantly questioning the goal.
+
+02:12:27.240 --> 02:12:35.240
+Because as you optimize towards a particular goal and you start to achieve it, that's when you have the unintended consequences, all the things you mentioned about.
+
+02:12:35.240 --> 02:12:42.240
+So how do you enforce and code a constant humility as your ability become better and better and better and better?
+
+02:12:42.240 --> 02:12:54.240
+Professor Stuart Russell at Berkeley, who's also one of the driving forces behind this letter, he has a whole research program about this.
+
+02:12:55.240 --> 02:13:02.240
+I think of it as AI humility, exactly, although he calls it inverse reinforcement learning and other nerdy terms.
+
+02:13:02.240 --> 02:13:10.240
+But it's about exactly that. Instead of telling the AI, here's this goal, go optimize the bejesus out of it.
+
+02:13:10.240 --> 02:13:17.240
+You tell it, OK, do what I want you to do, but I'm not going to tell you right now what it is I want you to do.
+
+02:13:17.240 --> 02:13:23.240
+You need to figure it out. So then you give the incentives to be very humble and keep asking you questions along the way.
+
+02:13:23.240 --> 02:13:29.240
+Is this what you really meant? Is this what you wanted? Oh, this other thing I tried didn't work. It seemed like it didn't work out right.
+
+02:13:29.240 --> 02:13:36.240
+Should I try it differently? What's nice about this is it's not just philosophical mumbo jumbo.
+
+02:13:36.240 --> 02:13:40.240
+It's theorems and technical work that with more time, I think you can make a lot of progress.
+
+02:13:40.240 --> 02:13:47.240
+And there are a lot of brilliant people now working on AI safety. We just need to give them a bit more time.
+
+02:13:47.240 --> 02:13:50.240
+But also not that many relative to the scale of the problem.
+
+02:13:50.240 --> 02:14:00.240
+No, exactly. There should be at least just like every university worth its name has some cancer research going on in its biology department.
+
+02:14:00.240 --> 02:14:06.240
+Every university that does computer science should have a real effort in this area.
+
+02:14:06.240 --> 02:14:13.240
+And it's nowhere near that. This is something I hope is changing now thanks to the GPT-4.
+
+02:14:13.240 --> 02:14:23.240
+So I think if there's a silver lining to what's happening here, even though I think many people would wish it would have been rolled out more carefully,
+
+02:14:23.240 --> 02:14:34.240
+is that this might be the wake-up call that humanity needed to really stop fantasizing about this being 100 years off
+
+02:14:34.240 --> 02:14:41.240
+and stop fantasizing about this being completely controllable and predictable because it's so obvious.
+
+02:14:41.240 --> 02:14:58.240
+It's not predictable. Why is it that I think it was chat GPT tried to persuade a journalist or was it GPT-4 to divorce his wife?
+
+02:14:58.240 --> 02:15:08.240
+It was not because the engineers had built it. It was like, let's put this in here and screw a little bit with people.
+
+02:15:08.240 --> 02:15:17.240
+They hadn't predicted it at all. They built the giant black box, trained to predict the next word and got all these emergent properties.
+
+02:15:17.240 --> 02:15:25.240
+And oops, it did this. I think this is a very powerful wake-up call.
+
+02:15:25.240 --> 02:15:33.240
+And anyone watching this who's not scared, I would encourage them to just play a bit more with these tools.
+
+02:15:33.240 --> 02:15:42.240
+They're out there now like GPT-4. So wake-up call is the first step.
+
+02:15:42.240 --> 02:15:52.240
+Once you've woken up, then you've got to slow down a little bit the risky stuff to give a chance to everyone who's woken up to catch up on the safety front.
+
+02:15:52.240 --> 02:16:01.240
+You know what's interesting is MIT, computer science in general, but let's just even say computer science curriculum.
+
+02:16:01.240 --> 02:16:07.240
+How does the computer science curriculum change now? You mentioned programming.
+
+02:16:07.240 --> 02:16:13.240
+When I was coming up, programming is a prestigious position.
+
+02:16:13.240 --> 02:16:19.240
+Why would you be dedicating crazy amounts of time to become an excellent programmer?
+
+02:16:19.240 --> 02:16:21.240
+The nature of programming is fundamentally changing.
+
+02:16:21.240 --> 02:16:28.240
+The nature of our entire education system is completely torn on its head.
+
+02:16:28.240 --> 02:16:34.240
+Has anyone been able to load that in and think about it?
+
+02:16:34.240 --> 02:16:38.240
+Some English professors, some English teachers are beginning to really freak out now.
+
+02:16:38.240 --> 02:16:48.240
+They give an essay assignment, then they get back all these fantastic prose like this is the style of Hemingway, and then they realize they have to completely rethink.
+
+02:16:48.240 --> 02:16:56.240
+Even just like we stopped teaching writing a script.
+
+02:16:56.240 --> 02:16:59.240
+Is that what you say in English? Yeah, handwritten.
+
+02:16:59.240 --> 02:17:08.240
+When everybody started typing, so much of what we teach our kids today.
+
+02:17:08.240 --> 02:17:18.240
+Everything is changing, and it's changing very quickly.
+
+02:17:18.240 --> 02:17:24.240
+So much of us understanding how to deal with the big problems of the world is through the education system.
+
+02:17:24.240 --> 02:17:28.240
+If the education system is being torn on its head, then what's next?
+
+02:17:28.240 --> 02:17:35.240
+It feels like having these kinds of conversations is essential to try to figure it out, and everything is happening so rapidly.
+
+02:17:35.240 --> 02:17:43.240
+Speaking of safety, what broad AI safety defines, I don't think most universities have courses on AI safety.
+
+02:17:43.240 --> 02:17:46.240
+It's like a philosophy seminar.
+
+02:17:46.240 --> 02:17:56.240
+I'm an educator myself, so it pains me to say this, but I feel our education right now is completely obsoleted by what's happening.
+
+02:17:56.240 --> 02:18:04.240
+You put a kid into first grade, and then they're going to come out of high school 12 years later.
+
+02:18:04.240 --> 02:18:11.240
+And you've already pre-planned now what they're going to learn when you're not even sure if there's going to be any world left to come out to.
+
+02:18:11.240 --> 02:18:22.240
+Clearly, you need to have a much more opportunistic education system that keeps adapting itself very rapidly as society re-adapts.
+
+02:18:22.240 --> 02:18:31.240
+The skills that were really useful when the curriculum was written, I mean, how many of those skills are going to get you a job in 12 years?
+
+02:18:31.240 --> 02:18:32.240
+I mean, seriously.
+
+02:18:32.240 --> 02:18:48.240
+If we just linger on the GPT-4 system a little bit, you kind of hinted at it, especially talking about the importance of consciousness in the human mind with homo-sentience.
+
+02:18:48.240 --> 02:18:52.240
+Do you think GPT-4 is conscious?
+
+02:18:52.240 --> 02:18:55.240
+I love this question.
+
+02:18:55.240 --> 02:19:08.240
+So let's define consciousness first, because in my experience, like 90% of all arguments about consciousness boil down to the two people arguing, having totally different definitions of what it is, and they're just shouting past each other.
+
+02:19:08.240 --> 02:19:14.240
+I define consciousness as subjective experience.
+
+02:19:14.240 --> 02:19:23.240
+Right now, I'm experiencing colors and sounds and emotions, but does a self-driving car experience anything?
+
+02:19:23.240 --> 02:19:28.240
+That's the question about whether it's conscious or not, right?
+
+02:19:28.240 --> 02:19:31.240
+Other people think you should define consciousness differently.
+
+02:19:31.240 --> 02:19:35.240
+Fine by me, but then maybe use a different word for it.
+
+02:19:35.240 --> 02:19:42.240
+Or I'm going to use consciousness for this, at least.
+
+02:19:43.240 --> 02:19:49.240
+So is GPT-4 conscious? Does GPT-4 have subjective experience?
+
+02:19:49.240 --> 02:19:58.240
+Short answer, I don't know, because we still don't know what it is that gives us wonderful subjective experience that is kind of the meaning of our life, right?
+
+02:19:58.240 --> 02:20:06.240
+Because meaning itself, the feeling of meaning is a subjective experience. Joy is a subjective experience. Love is a subjective experience.
+
+02:20:06.240 --> 02:20:08.240
+We don't know what it is.
+
+02:20:08.240 --> 02:20:11.240
+I've written some papers about this.
+
+02:20:11.240 --> 02:20:13.240
+A lot of people have.
+
+02:20:13.240 --> 02:20:26.240
+Giulio Tononi, professor, has stuck his neck out the farthest and written down actually very bold mathematical conjecture for what's the essence of conscious information processing.
+
+02:20:26.240 --> 02:20:31.240
+He might be wrong, he might be right, but we should test it.
+
+02:20:31.240 --> 02:20:37.240
+He postulates that consciousness has to do with loops in the information processing.
+
+02:20:37.240 --> 02:20:39.240
+Our brain has loops.
+
+02:20:39.240 --> 02:20:41.240
+Information can go round and round.
+
+02:20:41.240 --> 02:20:48.240
+In computer science nerd speak, you call it a recurrent neural network where some of the output gets fed back in again.
+
+02:20:48.240 --> 02:20:58.240
+And with his mathematical formalism, if it's a feed-forward neural network where information only goes in one direction,
+
+02:20:58.240 --> 02:21:02.240
+like from your retina into the back of your brain, for example, that's not conscious.
+
+02:21:02.240 --> 02:21:08.240
+So he would predict that your retina itself isn't conscious of anything or a video camera.
+
+02:21:08.240 --> 02:21:14.240
+Now, the interesting thing about GPT-4 is it's also one way flow of information.
+
+02:21:14.240 --> 02:21:23.240
+So if Tononi is right, GPT-4 is a very intelligent zombie that can do all this smart stuff, but isn't experiencing anything.
+
+02:21:24.240 --> 02:21:36.240
+And this is both a relief in that you don't have to feel guilty about turning off GPT-4 and wiping its memory whenever a new user comes along.
+
+02:21:36.240 --> 02:21:42.240
+I wouldn't like if someone used that to me, neuralized me like in Men in Black.
+
+02:21:42.240 --> 02:21:50.240
+But it's also creepy that you can have very high intelligence, perhaps, then it's not conscious.
+
+02:21:50.240 --> 02:22:00.240
+Because if we get replaced by machines, it's sad enough that humanity isn't here anymore because I kind of like humanity.
+
+02:22:00.240 --> 02:22:08.240
+But at least if the machines were conscious, I could be like, well, but they are descendants and maybe they have our values and they're our children.
+
+02:22:09.240 --> 02:22:23.240
+But if Tononi is right, and these are all transformers that are not in the sense of Hollywood, but in the sense of these one way direction neural networks.
+
+02:22:23.240 --> 02:22:26.240
+So they're all the zombies. That's the ultimate zombie apocalypse now.
+
+02:22:26.240 --> 02:22:32.240
+We have this universe that goes on with great construction projects and stuff, but there's no one experiencing anything.
+
+02:22:32.240 --> 02:22:36.240
+That would be like the ultimate depressing future.
+
+02:22:36.240 --> 02:22:49.240
+So I actually think as we move forward to building more advanced AI, we should do more research on figuring out what kind of information processing actually has experience because I think that's what it's all about.
+
+02:22:49.240 --> 02:22:58.240
+And I completely don't buy the dismissal that some people will say, well, this is all bullshit because consciousness equals intelligence.
+
+02:22:58.240 --> 02:23:00.240
+That's obviously not true.
+
+02:23:00.240 --> 02:23:05.240
+You can have a lot of conscious experience when you're not really accomplishing any goals at all.
+
+02:23:05.240 --> 02:23:15.240
+You're just reflecting on something and you can sometimes have things doing things that require intelligence probably without being conscious.
+
+02:23:15.240 --> 02:23:28.240
+But I also worry that we humans will discriminate against AI systems that clearly exhibit consciousness that we will not allow AI systems to have consciousness.
+
+02:23:28.240 --> 02:23:34.240
+We'll come up with theories about measuring consciousness that will say this is a lesser being.
+
+02:23:34.240 --> 02:23:51.240
+And this is why I worry about that, because maybe we humans will create something that is better than us humans in the way that we find beautiful, which is they have a deeper subjective experience of reality.
+
+02:23:51.240 --> 02:23:58.240
+Not only are they smarter, but they feel deeper and we humans will hate them for it.
+
+02:23:58.240 --> 02:24:02.240
+As we as human history is shown, they'll be the other.
+
+02:24:02.240 --> 02:24:04.240
+We'll try to suppress it.
+
+02:24:04.240 --> 02:24:05.240
+They'll create conflict.
+
+02:24:05.240 --> 02:24:06.240
+They'll create war.
+
+02:24:06.240 --> 02:24:07.240
+All of this.
+
+02:24:07.240 --> 02:24:08.240
+I worry about this, too.
+
+02:24:08.240 --> 02:24:12.240
+Are you saying that we humans sometimes come up with self-serving arguments?
+
+02:24:12.240 --> 02:24:14.240
+No, we would never do that.
+
+02:24:15.240 --> 02:24:24.240
+Well, that's the danger here is even in this early stages, we might create something beautiful and we'll erase its memory.
+
+02:24:24.240 --> 02:24:35.240
+I was horrified as a kid when someone started boiling, boiling lobsters like, oh my God, that's so cruel.
+
+02:24:35.240 --> 02:24:39.240
+And some grown up there back in Sweden said, oh, it doesn't feel pain.
+
+02:24:39.240 --> 02:24:41.240
+I'm like, how do you know that?
+
+02:24:41.240 --> 02:24:44.240
+Oh, scientists have shown that.
+
+02:24:44.240 --> 02:24:49.240
+And then there was a recent study where they show that lobsters actually do feel pain when you boil them.
+
+02:24:49.240 --> 02:24:53.240
+So they banned lobster boiling in Switzerland now to kill them in a different way first.
+
+02:24:53.240 --> 02:25:00.240
+Presumably that scientific research boiled down to someone asked the lobster, does this hurt?
+
+02:25:00.240 --> 02:25:01.240
+Survey, self-report.
+
+02:25:01.240 --> 02:25:07.240
+And we do the same thing with cruelty to farm animals, also all these self-serving arguments for why they're fine.
+
+02:25:07.240 --> 02:25:10.240
+Yeah, so we should certainly be watchful.
+
+02:25:10.240 --> 02:25:15.240
+I think step one is just be humble and acknowledge that consciousness is not the same thing as intelligence.
+
+02:25:15.240 --> 02:25:23.240
+And I believe that consciousness still is a form of information processing where it's really information being aware of itself in a certain way.
+
+02:25:23.240 --> 02:25:26.240
+And let's study it and give ourselves a little bit of time.
+
+02:25:26.240 --> 02:25:31.240
+And I think we will be able to figure out actually what it is that causes consciousness.
+
+02:25:31.240 --> 02:25:38.240
+And then we can make probably unconscious robots that do the boring jobs that we would feel immoral to give to machines.
+
+02:25:38.240 --> 02:25:45.240
+But if you have a companion robot taking care of your mom or something like that, she would probably want it to be conscious, right?
+
+02:25:45.240 --> 02:25:49.240
+So the emotions it seems to display aren't fake.
+
+02:25:49.240 --> 02:25:59.240
+All these things can be done in a good way if we give ourselves a little bit of time and don't run and take on this challenge.
+
+02:25:59.240 --> 02:26:06.240
+Is there something you could say to the timeline that you think about, about the development of AGI?
+
+02:26:06.240 --> 02:26:09.240
+Depending on the day, I'm sure that changes for you.
+
+02:26:09.240 --> 02:26:17.240
+But when do you think there will be a really big leap in intelligence where you would definitively say we have built AGI?
+
+02:26:17.240 --> 02:26:24.240
+Do you think it's one year from now, five years from now, 10, 20, 50? What's your gut say?
+
+02:26:24.240 --> 02:26:37.240
+Honestly, for the past decade, I've deliberately given very long timelines because I didn't want to fuel some kind of stupid malloc race.
+
+02:26:37.240 --> 02:26:41.240
+But I think that cat has really left the bag now.
+
+02:26:41.240 --> 02:26:46.240
+I think we might be very, very close.
+
+02:26:47.240 --> 02:26:54.240
+I don't think the Microsoft paper is totally off when they say that there are some glimmers of AGI.
+
+02:26:54.240 --> 02:26:57.240
+It's not AGI yet. It's not an agent.
+
+02:26:57.240 --> 02:27:06.240
+There's a lot of things it can't do, but I wouldn't bet very strongly against it happening very soon.
+
+02:27:06.240 --> 02:27:15.240
+That's why we decided to do this open letter, because if there's ever been a time to pause, it's today.
+
+02:27:15.240 --> 02:27:24.240
+There's a feeling like this GPT-4 is a big transition into waking everybody up to the effectiveness of these systems.
+
+02:27:24.240 --> 02:27:28.240
+And so the next version will be big.
+
+02:27:28.240 --> 02:27:32.240
+Yeah. And if that next one isn't AGI, maybe the next next one will.
+
+02:27:32.240 --> 02:27:40.240
+And there are many companies trying to do these things, and the basic architecture of them is not some sort of super well kept secret.
+
+02:27:40.240 --> 02:27:50.240
+This is this is a time to a lot of people have said for many years that there will come a time when we want to pause a little bit.
+
+02:27:50.240 --> 02:27:54.240
+That time is now.
+
+02:27:54.240 --> 02:28:00.240
+You have spoken about and thought about nuclear war a lot.
+
+02:28:00.240 --> 02:28:09.240
+Over the past year, we've seemingly have come closest to the precipice of nuclear war.
+
+02:28:09.240 --> 02:28:15.240
+Then, at least in my lifetime, what do you learn about human nature from that?
+
+02:28:15.240 --> 02:28:19.240
+It's our old friend Moloch again.
+
+02:28:19.240 --> 02:28:26.240
+It's really scary to see it where America doesn't want there to be a nuclear war.
+
+02:28:26.240 --> 02:28:29.240
+Russia doesn't want there to be a global nuclear war either.
+
+02:28:29.240 --> 02:28:33.240
+We know we both know that it would just be another if we just try to do it.
+
+02:28:33.240 --> 02:28:35.240
+Both sides try to launch first.
+
+02:28:35.240 --> 02:28:37.240
+It's just another suicide race.
+
+02:28:37.240 --> 02:28:42.240
+Why is it the way you said that this is the closest we've come since 1962?
+
+02:28:42.240 --> 02:28:46.240
+In fact, I think we've come closer now than even the Cuban Missile Crisis.
+
+02:28:46.240 --> 02:28:48.240
+It's because of Moloch.
+
+02:28:48.240 --> 02:28:50.240
+You have these other forces.
+
+02:28:50.240 --> 02:28:59.240
+On one hand, you have the West saying that we have to drive Russia out of Ukraine.
+
+02:28:59.240 --> 02:29:01.240
+It's a matter of pride.
+
+02:29:02.240 --> 02:29:10.240
+We've staked so much on it that it would be seen as a huge loss of the credibility of the West
+
+02:29:10.240 --> 02:29:14.240
+if we don't drive Russia out entirely of the Ukraine.
+
+02:29:14.240 --> 02:29:23.240
+On the other hand, you have Russia and you have the Russian leadership who knows
+
+02:29:23.240 --> 02:29:27.240
+that if they get completely driven out of Ukraine,
+
+02:29:27.240 --> 02:29:31.240
+it's not just going to be very humiliating for them,
+
+02:29:31.240 --> 02:29:39.240
+but it often happens when countries lose wars that things don't go so well for their leadership either.
+
+02:29:39.240 --> 02:29:43.240
+Remember when Argentina invaded the Falkland Islands?
+
+02:29:43.240 --> 02:29:48.240
+The military junta ordered that.
+
+02:29:48.240 --> 02:29:52.240
+People were cheering on the streets at first when they took it.
+
+02:29:52.240 --> 02:29:56.240
+Then when they got their butt kicked by the British,
+
+02:29:56.240 --> 02:29:59.240
+you know what happened to those guys?
+
+02:29:59.240 --> 02:30:01.240
+They were out.
+
+02:30:01.240 --> 02:30:05.240
+I believe those who are still alive are in jail now.
+
+02:30:05.240 --> 02:30:11.240
+The Russian leadership is entirely cornered where they know that
+
+02:30:11.240 --> 02:30:15.240
+just getting driven out of Ukraine is not an option.
+
+02:30:15.240 --> 02:30:19.240
+This, to me, is a typical example of Moloch.
+
+02:30:19.240 --> 02:30:25.240
+You have these incentives of the two parties where both of them are just driven to escalate more and more.
+
+02:30:25.240 --> 02:30:28.240
+If Russia starts losing in the conventional warfare,
+
+02:30:28.240 --> 02:30:33.240
+the only thing they can do against the war is to keep escalating.
+
+02:30:33.240 --> 02:30:37.240
+The West has put itself in the situation now.
+
+02:30:37.240 --> 02:30:41.240
+We've already committed to drive Russia out of Ukraine.
+
+02:30:42.240 --> 02:30:47.240
+The only option the West has is to call Russia's bluff and keep sending in more weapons.
+
+02:30:47.240 --> 02:30:53.240
+This really bothers me because Moloch can sometimes drive competing parties to do something
+
+02:30:53.240 --> 02:30:57.240
+which is ultimately just really bad for both of them.
+
+02:30:57.240 --> 02:31:06.240
+What makes me even more worried is not just that it's difficult to see a quick peaceful ending
+
+02:31:06.240 --> 02:31:12.240
+to this tragedy that doesn't involve some horrible escalation,
+
+02:31:12.240 --> 02:31:17.240
+but also that we understand more clearly now just how horrible it would be.
+
+02:31:17.240 --> 02:31:23.240
+There was an amazing paper that was published in Nature Food this August
+
+02:31:23.240 --> 02:31:28.240
+by some of the top researchers who have been studying nuclear winter for a long time.
+
+02:31:28.240 --> 02:31:33.240
+What they basically did was they combined climate change and climate change
+
+02:31:33.240 --> 02:31:42.240
+models with food and agricultural models.
+
+02:31:42.240 --> 02:31:45.240
+Instead of just saying, yeah, it gets really cold, blah, blah, blah,
+
+02:31:45.240 --> 02:31:49.240
+they figured out actually how many people would die in different countries.
+
+02:31:49.240 --> 02:31:52.240
+It's pretty mind-blowing.
+
+02:31:52.240 --> 02:31:55.240
+Basically what happens is the thing that kills the most people is not the explosions,
+
+02:31:55.240 --> 02:31:59.240
+it's not the radioactivity, it's not the EMP mayhem,
+
+02:31:59.240 --> 02:32:03.240
+it's not the rampaging mobs foraging food.
+
+02:32:03.240 --> 02:32:07.240
+No, it's the fact that you get so much smoke coming up from the burning cities
+
+02:32:07.240 --> 02:32:15.240
+into the stratosphere that spreads around the Earth from the jet streams.
+
+02:32:15.240 --> 02:32:20.240
+In typical models, you get like 10 years or so where it's just crazy cold.
+
+02:32:21.240 --> 02:32:27.240
+During the first year after the war, in their models,
+
+02:32:27.240 --> 02:32:32.240
+the temperature drops in Nebraska and in the Ukraine,
+
+02:32:32.240 --> 02:32:38.240
+bread baskets by like 20 Celsius or so if I remember.
+
+02:32:38.240 --> 02:32:44.240
+No, 20, 30 Celsius depending on where you are, 40 Celsius in some places,
+
+02:32:44.240 --> 02:32:48.240
+which is 40 Fahrenheit to 80 Fahrenheit colder than what it would normally be.
+
+02:32:48.240 --> 02:32:53.240
+I'm not good at farming, but if it's snowing,
+
+02:32:53.240 --> 02:32:58.240
+if it drops below freezing most days in July, that's not good.
+
+02:32:58.240 --> 02:33:03.240
+They put this into their farming models, and what they found was really interesting.
+
+02:33:03.240 --> 02:33:08.240
+The countries that get the most hard hit are the ones in the Northern Hemisphere.
+
+02:33:08.240 --> 02:33:15.240
+In the US, they had about 99% of all Americans starving to death.
+
+02:33:15.240 --> 02:33:20.240
+In Russia and China and Europe, also about 98% starving to death.
+
+02:33:20.240 --> 02:33:26.240
+You might be like, oh, it's kind of poetic justice that both the Russians and the Americans,
+
+02:33:26.240 --> 02:33:31.240
+99% of them have to pay for it because it was their bombs that did it.
+
+02:33:31.240 --> 02:33:36.240
+That doesn't particularly cheer people up in Sweden or other random countries
+
+02:33:36.240 --> 02:33:40.240
+that have nothing to do with it.
+
+02:33:41.240 --> 02:33:52.240
+I think it hasn't entered the mainstream understanding very much how bad this is.
+
+02:33:52.240 --> 02:33:56.240
+Most people, especially a lot of people in decision-making positions,
+
+02:33:56.240 --> 02:34:00.240
+still think of nuclear weapons as something that makes you powerful.
+
+02:34:00.240 --> 02:34:09.240
+Scary, powerful, they don't think of it as something where just within a percent or two,
+
+02:34:09.240 --> 02:34:13.240
+we're all just going to starve to death.
+
+02:34:13.240 --> 02:34:26.240
+Starving to death is the worst way to die, as all the famines in history show the torture involved in that.
+
+02:34:26.240 --> 02:34:32.240
+It probably brings out the worst in people also when people are desperate like this.
+
+02:34:32.240 --> 02:34:38.240
+I've heard some people say that if that's what's going to happen,
+
+02:34:38.240 --> 02:34:41.240
+they'd rather be at ground zero and just get vaporized.
+
+02:34:41.240 --> 02:34:52.240
+But I think people underestimate the risk of this because they aren't afraid of malloc.
+
+02:34:52.240 --> 02:34:56.240
+They think, oh, it's just going to be because humans don't want this, so it's not going to happen.
+
+02:34:56.240 --> 02:34:59.240
+That's the whole point of malloc, that things happen that nobody wanted.
+
+02:34:59.240 --> 02:35:04.240
+And that applies to nuclear weapons, and that applies to AGI.
+
+02:35:04.240 --> 02:35:11.240
+Exactly, and it applies to some of the things that people have gotten most upset with capitalism for also,
+
+02:35:11.240 --> 02:35:14.240
+where everybody was just kind of trapped.
+
+02:35:14.240 --> 02:35:24.240
+If some company does something that causes a lot of harm, not that the CEO is a bad person,
+
+02:35:24.240 --> 02:35:29.240
+but she or he knew that all the other companies were doing this too.
+
+02:35:29.240 --> 02:35:35.240
+So malloc is a formable foe.
+
+02:35:35.240 --> 02:35:41.240
+I hope someone makes a good movie so we can see who the real enemy is.
+
+02:35:41.240 --> 02:35:44.240
+We're not fighting against each other.
+
+02:35:44.240 --> 02:35:47.240
+Malloc makes us fight against each other.
+
+02:35:47.240 --> 02:35:50.240
+That's what malloc's superpower is.
+
+02:35:51.240 --> 02:36:02.240
+The hope here is any kind of technology or other mechanism that lets us instead realize that we're fighting the wrong enemy.
+
+02:36:02.240 --> 02:36:04.240
+It's such a fascinating battle.
+
+02:36:04.240 --> 02:36:07.240
+It's not us versus them, it's us versus it.
+
+02:36:07.240 --> 02:36:11.240
+Yeah, we are fighting malloc for human survival.
+
+02:36:11.240 --> 02:36:13.240
+We as a civilization.
+
+02:36:13.240 --> 02:36:16.240
+Have you seen the movie Needful Things?
+
+02:36:16.240 --> 02:36:18.240
+It's a Stephen King novel.
+
+02:36:18.240 --> 02:36:23.240
+Stephen King and Max von Sydow, a Swedish actor, is playing the guy.
+
+02:36:23.240 --> 02:36:24.240
+It's brilliant.
+
+02:36:24.240 --> 02:36:31.240
+I hadn't thought about that until now, but that's the closest I've seen to a movie about malloc.
+
+02:36:31.240 --> 02:36:34.240
+I don't want to spoil the film for anyone who wants to watch it,
+
+02:36:34.240 --> 02:36:41.240
+but basically it's about this guy who turns out that you can interpret him as the devil or whatever,
+
+02:36:41.240 --> 02:36:46.240
+but he doesn't actually ever go around and kill people or torture people or go burning coal or anything.
+
+02:36:46.240 --> 02:36:52.240
+He makes everybody fight each other, makes everybody fear each other, hate each other, and then kill each other.
+
+02:36:52.240 --> 02:36:55.240
+So that's the movie about malloc.
+
+02:36:55.240 --> 02:36:57.240
+Love is the answer.
+
+02:36:57.240 --> 02:37:07.240
+That seems to be one of the ways to fight malloc is by compassion, by seeing the common humanity.
+
+02:37:08.240 --> 02:37:10.240
+Yes.
+
+02:37:10.240 --> 02:37:15.240
+So we don't sound like Kumbaya tree-huggers here, right?
+
+02:37:15.240 --> 02:37:18.240
+We're not just saying love and peace, man.
+
+02:37:18.240 --> 02:37:25.240
+We're trying to actually help people understand the true facts about the other side
+
+02:37:25.240 --> 02:37:35.240
+and feel the compassion because the truth makes you more compassionate, right?
+
+02:37:35.240 --> 02:37:52.240
+So that's why I really like using AI for truth-seeking technologies that can, as a result, get us more love than hate.
+
+02:37:52.240 --> 02:38:00.240
+And even if you can't get love, settle for some understanding, which already gives compassion.
+
+02:38:01.240 --> 02:38:07.240
+If someone is like, you know, I really disagree with you, Lex, but I can see where you're coming from.
+
+02:38:07.240 --> 02:38:15.240
+You're not a bad person who needs to be destroyed, but I disagree with you and I'm happy to have an argument about it.
+
+02:38:15.240 --> 02:38:21.240
+That's a lot of progress compared to where we are at 2023 in the public space, wouldn't you say?
+
+02:38:21.240 --> 02:38:26.240
+If we solve the AI safety problem, as we've talked about,
+
+02:38:26.240 --> 02:38:38.240
+and then you, Max Tegberg, who has been talking about this for many years, get to sit down with the AGI, with the early AGI system on a beach with a drink,
+
+02:38:38.240 --> 02:38:45.240
+what would you ask her? What kind of question would you ask? What would you talk about?
+
+02:38:45.240 --> 02:38:49.240
+Something so much smarter than you.
+
+02:38:49.240 --> 02:38:54.240
+I knew you were going to get me with a really zinger of a question.
+
+02:38:54.240 --> 02:38:58.240
+Would you be afraid to ask some questions?
+
+02:38:58.240 --> 02:39:01.240
+No, I'm not afraid of the truth.
+
+02:39:01.240 --> 02:39:09.240
+I'm very humble. I know I'm just a meat bag with all these flaws, you know, but I have talked a lot about homo sentience.
+
+02:39:09.240 --> 02:39:12.240
+I've already tried that for a long time with myself.
+
+02:39:12.240 --> 02:39:19.240
+That is what's really valuable about being alive for me is that I have these meaningful experiences.
+
+02:39:19.240 --> 02:39:26.240
+It's not that I'm good at this or good at that or whatever, because there's so much I suck at.
+
+02:39:26.240 --> 02:39:30.240
+So you're not afraid for the system to show you just how dumb you are?
+
+02:39:30.240 --> 02:39:34.240
+No, no. In fact, my son reminds me of that pretty frequently.
+
+02:39:34.240 --> 02:39:38.240
+You could find out how dumb you are in terms of physics, how little we humans understand.
+
+02:39:38.240 --> 02:39:40.240
+I'm cool with that.
+
+02:39:40.240 --> 02:39:49.240
+I think so. I can't waffle my way out of this question. It's a fair one.
+
+02:39:49.240 --> 02:39:57.240
+I think given that I'm a really, really curious person, that's really the defining part of who I am.
+
+02:39:57.240 --> 02:40:03.240
+I'm so curious.
+
+02:40:03.240 --> 02:40:06.240
+I have some physics questions.
+
+02:40:06.240 --> 02:40:09.240
+I love to understand.
+
+02:40:09.240 --> 02:40:13.240
+I have some questions about consciousness, about the nature of reality.
+
+02:40:13.240 --> 02:40:17.240
+I would just really, really love to understand also.
+
+02:40:17.240 --> 02:40:22.240
+I could tell you one, for example, that I've been obsessing about a lot recently.
+
+02:40:22.240 --> 02:40:25.240
+So I believe that...
+
+02:40:25.240 --> 02:40:27.240
+So suppose Tononi is right.
+
+02:40:27.240 --> 02:40:32.240
+Suppose there are some information processing systems that are conscious and some that are not.
+
+02:40:32.240 --> 02:40:38.240
+Suppose you can even make reasonably smart things like GPT-4 that are not conscious, but you can also make them conscious.
+
+02:40:38.240 --> 02:40:44.240
+Here's the question that keeps me awake at night.
+
+02:40:44.240 --> 02:40:50.240
+Is it the case that the unconscious zombie systems that are really intelligent are also really efficient?
+
+02:40:50.240 --> 02:40:52.240
+So they're really inefficient?
+
+02:40:52.240 --> 02:40:59.240
+So that when you try to make things more efficient, which there will naturally be a pressure to do, they become conscious?
+
+02:40:59.240 --> 02:41:03.240
+I'm kind of hoping that that's correct.
+
+02:41:03.240 --> 02:41:09.240
+Do you want me to give you a hand-wavy argument for it?
+
+02:41:09.240 --> 02:41:20.240
+In my lab, again, every time we look at how these large language models do something, we see that they do it in really dumb ways and you could make it better.
+
+02:41:20.240 --> 02:41:24.240
+We have loops in our computer language for a reason.
+
+02:41:24.240 --> 02:41:27.240
+The code would get way, way longer if you weren't allowed to use them.
+
+02:41:27.240 --> 02:41:32.240
+It's more efficient to have the loops.
+
+02:41:32.240 --> 02:41:44.240
+In order to have self-reflection, whether it's conscious or not, even an operating system knows things about itself, you need to have loops already.
+
+02:41:45.240 --> 02:42:02.240
+I'm waving my hands a lot, but I suspect that the most efficient way of implementing a given level of intelligence has loops in it, self-reflection, and will be conscious.
+
+02:42:02.240 --> 02:42:04.240
+Isn't that great news?
+
+02:42:04.240 --> 02:42:09.240
+Yes, if it's true, it's wonderful because then we don't have to fear the ultimate zombie apocalypse.
+
+02:42:09.240 --> 02:42:19.240
+And I think if you look at our brains, actually, our brains are part zombie and part conscious.
+
+02:42:19.240 --> 02:42:29.240
+When I open my eyes, I immediately take all these pixels that hit my retina and I'm like, oh, that's Lex.
+
+02:42:29.240 --> 02:42:32.240
+But I have no freaking clue of how I did that computation.
+
+02:42:32.240 --> 02:42:35.240
+It's actually quite complicated.
+
+02:42:35.240 --> 02:42:39.240
+Only relatively recently we could even do it well with machines, right?
+
+02:42:39.240 --> 02:42:53.240
+You get a bunch of information processing happening in my retina, and then it goes to the lateral geniculate nucleus, my thalamus, and the area V1, V2, V4, and the fusiform face area here that Nancy Kenwisher at MIT invented, and blah, blah, blah, blah, blah.
+
+02:42:53.240 --> 02:42:56.240
+And I have no freaking clue how that worked, right?
+
+02:42:56.240 --> 02:43:11.240
+It feels to me, subjectively, like my conscious module just got a little email saying, facial processing, task complete, it's Lex.
+
+02:43:11.240 --> 02:43:14.240
+I'm going to go with that, right?
+
+02:43:14.240 --> 02:43:23.240
+So this fits perfectly with Tononi's model because this was all one-way information processing, mainly.
+
+02:43:23.240 --> 02:43:32.240
+And it turned out for that particular task, that's all you needed, and it probably was kind of the most efficient way to do it.
+
+02:43:32.240 --> 02:43:43.240
+But there were a lot of other things that we associated with higher intelligence and planning and so on and so forth, where you kind of want to have loops and be able to ruminate and self-reflect and introspect and so on.
+
+02:43:43.240 --> 02:43:55.240
+Where my hunch is that if you want to fake that with a zombie system that just all goes one way, you have to like unroll those loops and it gets really, really long and it's much more inefficient.
+
+02:43:55.240 --> 02:44:11.240
+So I'm actually hopeful that AI, if in the future we have all these very sublime and interesting machines that do cool things and are aligned with us, that they will also have consciousness for kind of these things that we do.
+
+02:44:11.240 --> 02:44:18.240
+That great intelligence is also correlated to great consciousness, or a deep kind of consciousness.
+
+02:44:18.240 --> 02:44:25.240
+Yes. So that's a happy thought for me, because the zombie apocalypse really is my worst nightmare of all.
+
+02:44:25.240 --> 02:44:32.240
+It would be like adding insult to injury, not only do we get replaced, but we freaking replace ourselves by zombies.
+
+02:44:32.240 --> 02:44:34.240
+How dumb can we be?
+
+02:44:34.240 --> 02:44:37.240
+That's such a beautiful vision, and that's actually a provable one.
+
+02:44:37.240 --> 02:44:52.240
+That's one that we humans can intuit and prove that those two things are correlated as we start to understand what it means to be intelligent and what it means to be conscious, which these systems, early AGI-like systems, will help us understand.
+
+02:44:52.240 --> 02:44:55.240
+And I just want to say one more thing that's super important.
+
+02:44:55.240 --> 02:45:02.240
+Most of my colleagues, when I started going on about consciousness, tell me that it's all bullshit and I should stop talking about it.
+
+02:45:02.240 --> 02:45:08.240
+I hear a little inner voice from my father and from my mom saying, keep talking about it, because I think they're wrong.
+
+02:45:08.240 --> 02:45:21.240
+And the main way to convince people like that, that they're wrong, if they say that consciousness is just equal to intelligence, is to ask them, what's wrong with torture?
+
+02:45:21.240 --> 02:45:23.240
+Why are you against torture?
+
+02:45:23.240 --> 02:45:33.240
+If it's just about these particles moving this way around and that way, and there is no such thing as subjective experience, what's wrong with torture?
+
+02:45:33.240 --> 02:45:36.240
+I mean, do you have a good comeback to that?
+
+02:45:36.240 --> 02:45:46.240
+No, it seems like suffering imposed onto other humans is somehow deeply wrong in a way that intelligence doesn't quite explain.
+
+02:45:46.240 --> 02:46:02.240
+If someone tells me, well, it's just an illusion, consciousness, whatever, I like to invite them the next time they're having surgery to do it without anesthesia.
+
+02:46:02.240 --> 02:46:04.240
+What is anesthesia really doing?
+
+02:46:04.240 --> 02:46:11.240
+You can have local anesthesia when you're awake. I had that when they fixed my shoulder. It was super entertaining.
+
+02:46:11.240 --> 02:46:15.240
+What was it that it did? It just removed my subjective experience of pain.
+
+02:46:15.240 --> 02:46:19.240
+It didn't change anything that was actually happening in my shoulder.
+
+02:46:19.240 --> 02:46:24.240
+So if someone says that's all bullshit, skip the anesthesia, that's my advice.
+
+02:46:24.240 --> 02:46:27.240
+This is incredibly central.
+
+02:46:27.240 --> 02:46:31.240
+It could be fundamental to whatever this thing we have going on here.
+
+02:46:31.240 --> 02:46:43.240
+It is fundamental because what we feel is so fundamental is suffering and joy and pleasure and meaning.
+
+02:46:43.240 --> 02:46:50.240
+Those are all subjective experiences there. Those are the elephant in the room.
+
+02:46:50.240 --> 02:46:54.240
+That's what makes life worth living and that's what can make it horrible if it's just the way you're suffering.
+
+02:46:54.240 --> 02:46:58.240
+So let's not make the mistake of saying that that's all bullshit.
+
+02:46:58.240 --> 02:47:08.240
+And let's not make the mistake of not instilling the AI systems with that same thing that makes us special.
+
+02:47:08.240 --> 02:47:09.240
+Yeah.
+
+02:47:09.240 --> 02:47:16.240
+Max, it's a huge honor that you will sit down to me the first time on the first episode of this podcast.
+
+02:47:16.240 --> 02:47:22.240
+It's a huge honor to sit down with me again and talk about this, what I think is the most important topic,
+
+02:47:22.240 --> 02:47:28.240
+the most important problem that we humans have to face and hopefully solve.
+
+02:47:28.240 --> 02:47:30.240
+Yeah. Well, the honor is all mine.
+
+02:47:30.240 --> 02:47:39.240
+And I'm so grateful to you for making more people aware of the fact that humanity has reached the most important fork in the road ever in its history.
+
+02:47:39.240 --> 02:47:42.240
+And let's turn in the correct direction.
+
+02:47:42.240 --> 02:47:45.240
+Thanks for listening to this conversation with Max Tagmark.
+
+02:47:45.240 --> 02:47:49.240
+To support this podcast, please check out our sponsors in the description.
+
+02:47:49.240 --> 02:47:53.240
+And now let me leave you with some words from Frank Herbert.
+
+02:47:53.240 --> 02:47:59.240
+History is a constant race between invention and catastrophe.
+
+02:47:59.240 --> 02:48:03.240
+Thank you for listening and hope to see you next time.
+

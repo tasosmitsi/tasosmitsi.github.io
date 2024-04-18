@@ -1,0 +1,4967 @@
+WEBVTT
+
+00:00.000 --> 00:06.960
+I see the danger of this concentration of power to proprietary AI systems as a much
+
+00:06.960 --> 00:09.160
+bigger danger than everything else.
+
+00:09.160 --> 00:16.200
+What works against this is people who think that for reasons of security, we should keep
+
+00:16.200 --> 00:22.320
+AI systems under lock and key because it's too dangerous to put it in the hands of everybody.
+
+00:22.320 --> 00:28.080
+That would lead to a very bad future in which all of our information diet is controlled
+
+00:28.080 --> 00:32.280
+by a small number of companies who proprietary systems.
+
+00:32.280 --> 00:40.360
+I believe that people are fundamentally good and so if AI, especially open source AI, can
+
+00:40.360 --> 00:44.320
+make them smarter, it just empowers the goodness in humans.
+
+00:44.320 --> 00:51.000
+So I share that feeling, okay, I think people are fundamentally good and in fact a lot of
+
+00:51.000 --> 00:57.720
+do-mers are do-mers because they don't think that people are fundamentally good.
+
+00:57.720 --> 01:03.080
+The following is a conversation with Yann LeCun, his third time on this podcast.
+
+01:03.080 --> 01:09.920
+He is the chief AI scientist at Metta, professor at NYU, Turing Award winner, and one of the
+
+01:09.920 --> 01:13.360
+seminal figures in the history of artificial intelligence.
+
+01:13.360 --> 01:20.000
+He and Metta AI have been big proponents of open sourcing AI development and have been
+
+01:20.000 --> 01:25.400
+walking the walk by open sourcing many of their biggest models, including Llama 2 and
+
+01:25.400 --> 01:27.640
+eventually Llama 3.
+
+01:27.640 --> 01:35.000
+Also, Yann has been an outspoken critic of those people in the AI community who warn
+
+01:35.000 --> 01:39.720
+about the looming danger and existential threat of AGI.
+
+01:39.720 --> 01:45.560
+He believes the AGI will be created one day, but it will be good.
+
+01:45.560 --> 01:52.200
+It will not escape human control, nor will it dominate and kill all humans.
+
+01:52.200 --> 01:58.960
+At this moment of rapid AI development, this happens to be somewhat a controversial position.
+
+01:58.960 --> 02:05.720
+So it's been fun seeing Yann get into a lot of intense and fascinating discussions online
+
+02:05.720 --> 02:08.800
+as we do in this very conversation.
+
+02:08.800 --> 02:13.840
+This is the Lex Freeman podcast, to support it, please check out our sponsors in the description.
+
+02:13.840 --> 02:18.080
+And now, dear friends, here's Yann LeCun.
+
+02:18.120 --> 02:23.680
+You've had some strong statements, technical statements, about the future of artificial
+
+02:23.680 --> 02:29.360
+intelligence recently, throughout your career actually, but recently as well.
+
+02:29.360 --> 02:37.040
+You've said that auto-aggressive LLMs are not the way we're going to make progress towards
+
+02:37.040 --> 02:38.880
+superhuman intelligence.
+
+02:38.880 --> 02:44.400
+These are the large language models like GPT-4, like Llama 2 and 3 soon and so on.
+
+02:44.400 --> 02:47.960
+How do they work and why are they not going to take us all the way?
+
+02:47.960 --> 02:49.160
+There are a number of reasons.
+
+02:49.160 --> 02:54.560
+The first is that there is a number of characteristics of intelligent behavior.
+
+02:54.560 --> 03:01.840
+For example, the capacity to understand the world, understand the physical world, the
+
+03:01.840 --> 03:11.000
+ability to remember and retrieve things, persistent memory, the ability to reason, and the ability
+
+03:11.000 --> 03:12.520
+to plan.
+
+03:12.520 --> 03:19.960
+Those are four essential characteristics of intelligent systems or entities, humans, animals.
+
+03:19.960 --> 03:23.240
+LLMs can do none of those.
+
+03:23.240 --> 03:29.000
+Or they can only do them in a very primitive way and they don't really understand the
+
+03:29.000 --> 03:32.440
+physical world, they don't really have persistent memory, they can't really reason and they
+
+03:32.440 --> 03:34.520
+certainly can't plan.
+
+03:34.520 --> 03:42.240
+And so, if you expect the system to become intelligent just without having the possibility
+
+03:42.240 --> 03:46.000
+of doing those things, you're making a mistake.
+
+03:46.000 --> 03:54.360
+That is not to say that the LLMs are not useful, they're certainly useful, that they're not
+
+03:54.360 --> 04:00.080
+interesting, that we can't build a whole ecosystem of applications around them.
+
+04:00.080 --> 04:01.080
+Of course we can.
+
+04:01.080 --> 04:08.680
+But as a path towards human-level intelligence, they're missing essential components.
+
+04:08.680 --> 04:14.200
+And then there is another tidbit or fact that I think is very interesting.
+
+04:14.200 --> 04:19.900
+Those LLMs are trained on enormous amounts of text, basically the entirety of all publicly
+
+04:19.900 --> 04:21.640
+available text on the internet.
+
+04:21.640 --> 04:26.680
+That's typically on the order of 10 to the 13 tokens.
+
+04:26.680 --> 04:32.020
+Each token is typically two bytes, so that's two 10 to the 13 bytes as training data.
+
+04:32.020 --> 04:38.780
+It would take you or me 170,000 years to just read through this at eight hours a day.
+
+04:38.780 --> 04:46.300
+So it seems like an enormous amount of knowledge that those systems can accumulate.
+
+04:46.300 --> 04:48.340
+But then you realize it's really not that much data.
+
+04:48.340 --> 04:54.060
+If you talk to developmental psychologists and they tell you a four-year-old has been
+
+04:54.060 --> 05:04.100
+awake for 16,000 hours in his or her life, and the amount of information that has reached
+
+05:04.100 --> 05:12.140
+the visual cortex of that child in four years is about 10 to the 15 bytes.
+
+05:12.140 --> 05:17.580
+And you can compute this by estimating that the optical nerve carry about 20 megabytes
+
+05:17.580 --> 05:19.720
+per second, roughly.
+
+05:19.720 --> 05:27.080
+And so 10 to the 15 bytes for a four-year-old versus two times 10 to the 13 bytes for 170,000
+
+05:27.080 --> 05:34.480
+years worth of reading, what that tells you is that through sensory input, we see a lot
+
+05:34.480 --> 05:38.520
+more information than we do through language.
+
+05:38.520 --> 05:44.720
+And that despite our intuition, most of what we learn and most of our knowledge is through
+
+05:44.720 --> 05:49.680
+our observation and interaction with the real world, not through language.
+
+05:49.680 --> 05:53.840
+Everything that we learn in the first few years of life and certainly everything that
+
+05:53.840 --> 05:57.080
+animals learn has nothing to do with language.
+
+05:57.080 --> 06:01.760
+So it'd be good to maybe push against some of the intuition behind what you're saying.
+
+06:01.760 --> 06:07.360
+So it is true there are several orders of magnitude more data coming into the human
+
+06:07.360 --> 06:13.360
+mind much faster, and the human mind is able to learn very quickly from that, filter the
+
+06:13.360 --> 06:15.660
+data very quickly.
+
+06:15.660 --> 06:20.260
+Somebody might argue your comparison between sensory data versus language, that language
+
+06:20.260 --> 06:23.280
+is already very compressed.
+
+06:23.280 --> 06:27.420
+It already contains a lot more information than the bytes it takes to store them if you
+
+06:27.420 --> 06:29.420
+compare it to visual data.
+
+06:29.420 --> 06:33.980
+So there's a lot of wisdom in language, there's words, and the way we stitch them together,
+
+06:33.980 --> 06:36.320
+it already contains a lot of information.
+
+06:36.320 --> 06:47.040
+So is it possible that language alone already has enough wisdom and knowledge in there to
+
+06:47.040 --> 06:52.720
+be able to, from that language, construct a world model, an understanding of the world,
+
+06:52.720 --> 06:56.740
+an understanding of the physical world that you're saying LLMs lack?
+
+06:56.740 --> 07:03.160
+So it's a big debate among philosophers and also cognitive scientists, like whether intelligence
+
+07:03.160 --> 07:05.720
+needs to be grounded in reality.
+
+07:05.720 --> 07:13.760
+I'm clearly in the camp that yes, intelligence cannot appear without some grounding in some
+
+07:13.760 --> 07:14.760
+reality.
+
+07:14.760 --> 07:19.880
+It doesn't need to be a physical reality, it could be simulated, but the environment
+
+07:19.880 --> 07:22.640
+is just much richer than what you can express in language.
+
+07:22.640 --> 07:29.320
+Language is a very approximate representation of our percepts and our mental models, right?
+
+07:30.040 --> 07:36.720
+There's a lot of tasks that we accomplish where we manipulate a mental model of the
+
+07:36.720 --> 07:40.920
+situation at hand, and that has nothing to do with language.
+
+07:40.920 --> 07:45.960
+Everything that's physical, mechanical, whatever, when we build something, when we accomplish
+
+07:45.960 --> 07:52.360
+a task, a model task of grabbing something, et cetera, we plan or action sequences, and
+
+07:52.360 --> 07:59.400
+we do this by essentially imagining the result of the outcome of a sequence of actions that
+
+07:59.400 --> 08:06.120
+we might imagine, and that requires mental models that don't have much to do with language.
+
+08:06.120 --> 08:12.680
+And that's, I would argue, most of our knowledge is derived from that interaction with the
+
+08:12.680 --> 08:13.840
+physical world.
+
+08:13.840 --> 08:19.560
+So a lot of my colleagues who are more interested in things like computer vision are really
+
+08:19.560 --> 08:25.120
+on that camp that AI needs to be embodied, essentially.
+
+08:25.120 --> 08:32.880
+And then other people coming from the NLP side or maybe some other motivation don't
+
+08:32.880 --> 08:38.680
+necessarily agree with that, and philosophers are split as well.
+
+08:39.560 --> 08:44.800
+The complexity of the world is hard to imagine.
+
+08:44.800 --> 08:53.000
+It's hard to represent all the complexities that we take completely for granted in the
+
+08:53.000 --> 08:55.640
+real world that we don't even imagine require intelligence, right?
+
+08:55.640 --> 09:01.960
+This is the old Moravec paradox from the pioneer of robotics, Hans Moravec, who said,
+
+09:01.960 --> 09:05.920
+how is it that with computers, it seems to be easy to do high-level complex tasks like
+
+09:05.920 --> 09:11.760
+playing chess and solving integrals and doing things like that, whereas the thing we take
+
+09:11.760 --> 09:17.240
+for granted that we do every day, like, I don't know, learning to drive a car or grabbing
+
+09:17.240 --> 09:22.080
+an object, we can't do with computers.
+
+09:22.080 --> 09:29.480
+And we have LLMs that can pass the bar exam, so they must be smart.
+
+09:29.480 --> 09:35.480
+But then they can't learn to drive in 20 hours like any 17-year-old.
+
+09:35.480 --> 09:40.680
+They can't learn to clear out the dinner table and fill up the dishwasher like any
+
+09:40.680 --> 09:43.680
+10-year-old can learn in one shot.
+
+09:43.680 --> 09:44.680
+Why is that?
+
+09:44.680 --> 09:46.200
+Like, you know, what are we missing?
+
+09:46.200 --> 09:55.320
+What type of learning or reasoning architecture or whatever are we missing that basically
+
+09:55.320 --> 10:01.080
+prevent us from, you know, having level five sort of cars and domestic robots?
+
+10:01.080 --> 10:08.040
+In a large language model, construct a world model that does know how to drive and does
+
+10:08.040 --> 10:11.800
+know how to fill a dishwasher, but just doesn't know how to deal with visual data at this
+
+10:11.800 --> 10:12.800
+time.
+
+10:12.800 --> 10:17.280
+So it can operate in a space of concepts.
+
+10:17.280 --> 10:20.040
+So yeah, that's what a lot of people are working on.
+
+10:20.040 --> 10:22.640
+So the answer, the short answer is no.
+
+10:22.640 --> 10:32.040
+And the more complex answer is you can use all kinds of tricks to get an LLM to basically
+
+10:32.040 --> 10:42.600
+digest visual representations of images or video or audio for that matter.
+
+10:42.600 --> 10:49.440
+And a classical way of doing this is you train a vision system in some way.
+
+10:49.520 --> 10:53.800
+We have a number of ways to train vision systems, either supervised, semi-supervised, self-supervised,
+
+10:53.800 --> 10:56.400
+all kinds of different ways.
+
+10:56.400 --> 11:03.600
+That will turn any image into a high-level representation, basically a list of tokens
+
+11:03.600 --> 11:10.680
+that are really similar to the kind of tokens that typical LLM takes as an input.
+
+11:10.680 --> 11:17.300
+And then you just feed that to the LLM in addition to the text.
+
+11:17.300 --> 11:25.460
+And then you just expect the LLM during training to be able to use those representations to
+
+11:25.460 --> 11:26.820
+help make decisions.
+
+11:26.820 --> 11:31.380
+I mean, there's been work along those lines for quite a long time.
+
+11:31.380 --> 11:32.380
+And now you see those systems.
+
+11:32.380 --> 11:37.740
+I mean, there are LLMs that have some vision extension, but they're basically hacks in
+
+11:37.740 --> 11:43.340
+the sense that those things are not trained end-to-end to handle, to really understand
+
+11:43.340 --> 11:44.340
+the world.
+
+11:44.340 --> 11:46.380
+They're not trained with video, for example.
+
+11:46.380 --> 11:50.540
+They don't really understand intuitive physics, at least not at the moment.
+
+11:50.540 --> 11:54.660
+So you don't think there's something special to you about intuitive physics, about sort
+
+11:54.660 --> 11:59.140
+of common sense reasoning about the physical space, about physical reality?
+
+11:59.140 --> 12:02.900
+That to you is a giant leap that LLMs are just not able to do.
+
+12:02.900 --> 12:07.140
+We're not going to be able to do this with the type of LLMs that we are working with
+
+12:07.140 --> 12:08.140
+today.
+
+12:08.140 --> 12:09.420
+And there's a number of reasons for this.
+
+12:09.420 --> 12:18.220
+But the main reason is the way LLMs are trained is that you take a piece of text, you remove
+
+12:18.220 --> 12:22.780
+some of the words in that text, you mask them, you replace them by blank markers, and you
+
+12:22.780 --> 12:27.660
+train a genetic neural net to predict the words that are missing.
+
+12:27.660 --> 12:33.220
+And if you build this neural net in a particular way so that it can only look at words that
+
+12:33.220 --> 12:37.340
+are to the left of the one it's trying to predict, then what you have is a system that
+
+12:37.420 --> 12:39.900
+basically is trained to predict the next word in a text, right?
+
+12:39.900 --> 12:45.660
+So then you can feed it a text, a prompt, and you can ask it to predict the next word.
+
+12:45.660 --> 12:47.980
+It can never predict the next word exactly.
+
+12:47.980 --> 12:53.340
+And so what it's going to do is produce a probability distribution of all the possible
+
+12:53.340 --> 12:54.780
+words in your dictionary.
+
+12:54.780 --> 12:58.140
+In fact, it doesn't predict words, it predicts tokens that are kind of subword units.
+
+12:58.780 --> 13:03.740
+And so it's easy to handle the uncertainty in the prediction there because there is only
+
+13:03.740 --> 13:08.220
+a finite number of possible words in the dictionary, and you can just compute the
+
+13:08.220 --> 13:09.180
+distribution over them.
+
+13:10.780 --> 13:16.700
+Then what the system does is that it picks a word from that distribution.
+
+13:16.700 --> 13:20.540
+Of course, there's a higher chance of picking words that have a higher probability within
+
+13:20.540 --> 13:21.180
+that distribution.
+
+13:21.180 --> 13:24.140
+So you sample from the distribution to actually produce a word.
+
+13:25.020 --> 13:26.780
+And then you shift that word into the input.
+
+13:28.140 --> 13:31.980
+And so that allows the system not to predict the second word, right?
+
+13:31.980 --> 13:35.020
+And once you do this, you shift it into the input, etc.
+
+13:35.020 --> 13:40.140
+That's called autoregressive prediction, which is why those LLMs should be called
+
+13:40.140 --> 13:45.180
+autoregressive LLMs, but we just call them LLMs.
+
+13:46.060 --> 13:52.540
+And there is a difference between this kind of process and a process by which, before
+
+13:52.540 --> 13:58.780
+producing a word, when you talk, when you and I talk, you and I are bilinguals, we think
+
+13:58.780 --> 14:02.460
+about what we're going to say, and it's relatively independent of the language in
+
+14:02.460 --> 14:03.260
+which we're going to say it.
+
+14:04.540 --> 14:08.780
+We talk about, I don't know, let's say a mathematical concept or something.
+
+14:08.780 --> 14:12.860
+The kind of thinking that we're doing and the answer that we're planning to produce
+
+14:14.060 --> 14:18.700
+is not linked to whether we're going to say it in French or Russian or English.
+
+14:19.260 --> 14:21.420
+Chomsky just rolled his eyes, but I understand.
+
+14:21.420 --> 14:28.380
+So you're saying that there's a bigger abstraction that goes before language.
+
+14:28.620 --> 14:30.140
+Maps onto language.
+
+14:30.140 --> 14:30.380
+Right.
+
+14:30.940 --> 14:33.740
+It's certainly true for a lot of thinking that we do.
+
+14:33.740 --> 14:34.860
+Is that obvious that we don't?
+
+14:36.060 --> 14:40.140
+You're saying your thinking is same in French as it is in English?
+
+14:40.140 --> 14:40.780
+Yeah, pretty much.
+
+14:41.820 --> 14:42.380
+Pretty much?
+
+14:42.380 --> 14:45.500
+Or is this like, how flexible are you?
+
+14:45.500 --> 14:47.580
+Like if there's a probability distribution?
+
+14:48.860 --> 14:50.860
+Well, it depends what kind of thinking, right?
+
+14:50.860 --> 14:56.060
+If it's like producing puns, I get much better in French than English about that.
+
+14:56.700 --> 15:00.140
+No, but is there an abstract representation of puns?
+
+15:01.980 --> 15:05.340
+When you tweet and your tweets are sometimes a little bit spicy,
+
+15:06.940 --> 15:11.020
+is there an abstract representation in your brain of a tweet before it maps onto English?
+
+15:11.580 --> 15:18.140
+There is an abstract representation of imagining the reaction of a reader to that text.
+
+15:18.700 --> 15:21.820
+You start with laughter and then figure out how to make that happen?
+
+15:21.820 --> 15:25.340
+Or figure out a reaction you want to cause.
+
+15:26.060 --> 15:28.940
+And then figure out how to say it so that it causes that reaction.
+
+15:28.940 --> 15:30.620
+But that's really close to language.
+
+15:30.620 --> 15:33.180
+But think about like a mathematical concept
+
+15:34.220 --> 15:39.020
+or imagining something you want to build out of wood or something like this.
+
+15:39.820 --> 15:42.860
+The kind of thinking you're doing is absolutely nothing to do with language, really.
+
+15:43.500 --> 15:47.500
+It's not like you have necessarily an internal monologue in any particular language.
+
+15:47.500 --> 15:51.660
+You're imagining mental models of the thing.
+
+15:52.380 --> 15:58.220
+If I ask you to imagine what this water bottle will look like if I rotate it 90 degrees,
+
+15:59.820 --> 16:01.100
+that has nothing to do with language.
+
+16:04.140 --> 16:07.660
+Clearly, there is a more abstract level of representation
+
+16:08.940 --> 16:15.660
+in which we do most of our thinking and we plan what we're going to say if the output is
+
+16:15.660 --> 16:23.820
+uttered words as opposed to an output being muscle actions.
+
+16:26.380 --> 16:29.100
+We plan our answer before we produce it.
+
+16:29.100 --> 16:30.220
+And LLMs don't do that.
+
+16:30.220 --> 16:34.780
+They just produce one word after the other instinctively if you want.
+
+16:35.500 --> 16:42.620
+It's a bit like the subconscious actions where you're distracted.
+
+16:42.620 --> 16:43.420
+You're doing something.
+
+16:43.420 --> 16:44.860
+You're completely concentrated.
+
+16:44.860 --> 16:49.500
+And someone comes to you and asks you a question, and you kind of answer the question.
+
+16:49.500 --> 16:52.220
+You don't have time to think about the answer, but the answer is easy,
+
+16:52.220 --> 16:53.820
+so you don't need to pay attention.
+
+16:53.820 --> 16:55.340
+You sort of respond automatically.
+
+16:55.900 --> 16:57.340
+That's kind of what an LLM does.
+
+16:58.380 --> 16:59.980
+It doesn't think about its answer, really.
+
+17:01.020 --> 17:05.900
+It retrieves it because it's accumulated a lot of knowledge, so it can retrieve some things.
+
+17:05.900 --> 17:11.980
+But it's going to just spit out one token after the other without planning the answer.
+
+17:12.940 --> 17:17.020
+But you're making it sound just one token after the other.
+
+17:17.020 --> 17:23.500
+One token at a time generation is bound to be simplistic.
+
+17:25.100 --> 17:29.740
+But if the world model is sufficiently sophisticated, that one token at a time,
+
+17:31.180 --> 17:38.300
+the most likely thing it generates is a sequence of tokens is going to be a deeply profound thing.
+
+17:38.940 --> 17:44.700
+Okay, but then that assumes that those systems actually possess an internal world model.
+
+17:44.700 --> 17:46.300
+So it really goes to the...
+
+17:46.300 --> 17:50.700
+I think the fundamental question is, can you build a really
+
+17:52.780 --> 17:53.980
+complete world model?
+
+17:53.980 --> 17:58.460
+Not complete, but one that has a deep understanding of the world.
+
+17:58.460 --> 17:59.020
+Yeah.
+
+17:59.020 --> 18:02.700
+So can you build this, first of all, by prediction?
+
+18:04.060 --> 18:05.340
+And the answer is probably yes.
+
+18:06.060 --> 18:10.460
+Can you build it by predicting words?
+
+18:10.460 --> 18:17.740
+And the answer is most probably no, because language is very poor in terms of weak
+
+18:17.740 --> 18:19.100
+or low bandwidth, if you want.
+
+18:19.100 --> 18:20.700
+There's just not enough information there.
+
+18:21.260 --> 18:28.940
+So building world models means observing the world and understanding
+
+18:29.820 --> 18:32.700
+why the world is evolving the way it is.
+
+18:33.420 --> 18:41.660
+And then the extra component of a world model is something that can predict how the world
+
+18:41.660 --> 18:44.460
+is going to evolve as a consequence of an action you might take.
+
+18:45.340 --> 18:49.020
+So what model really is, here is my idea of the state of the world at time t,
+
+18:49.020 --> 18:50.220
+here is an action I might take.
+
+18:50.860 --> 18:54.700
+What is the predicted state of the world at time t plus one?
+
+18:55.500 --> 19:00.140
+Now that state of the world does not need to represent everything about the world.
+
+19:00.940 --> 19:05.900
+It just needs to represent enough that's relevant for this planning of the action,
+
+19:05.900 --> 19:07.500
+but not necessarily all the details.
+
+19:08.220 --> 19:09.180
+Now here is the problem.
+
+19:10.060 --> 19:13.660
+You're not going to be able to do this with generative models.
+
+19:14.620 --> 19:18.380
+So a generative model is trained on video, and we've tried to do this for 10 years.
+
+19:18.380 --> 19:22.220
+You take a video, show a system a piece of video,
+
+19:22.220 --> 19:25.020
+and then ask it to predict the reminder of the video.
+
+19:25.580 --> 19:27.740
+Basically predict what's going to happen.
+
+19:27.740 --> 19:34.140
+One frame at a time, do the same thing as the auto-aggressive LLMs do, but for video.
+
+19:34.140 --> 19:34.780
+Right.
+
+19:34.780 --> 19:37.020
+Either one frame at a time or a group of frames at a time.
+
+19:38.060 --> 19:40.940
+But yeah, a large video model if you want.
+
+19:43.580 --> 19:46.780
+The idea of doing this has been floating around for a long time.
+
+19:46.780 --> 19:52.620
+And at FAIR, some of my colleagues and I have been trying to do this for about 10 years.
+
+19:53.180 --> 19:59.740
+And you can't really do the same trick as with LLMs, because LLMs, as I said,
+
+20:00.620 --> 20:05.260
+you can't predict exactly which word is going to follow a sequence of words,
+
+20:05.260 --> 20:07.020
+but you can predict the distribution of the words.
+
+20:07.900 --> 20:11.980
+Now, if you go to video, what you would have to do is predict the distribution
+
+20:11.980 --> 20:14.220
+over all possible frames in a video.
+
+20:14.940 --> 20:16.780
+And we don't really know how to do that properly.
+
+20:17.100 --> 20:21.660
+We do not know how to represent distributions over high-dimensional continuous spaces in ways
+
+20:21.660 --> 20:22.460
+that are useful.
+
+20:24.460 --> 20:27.340
+And there lies the main issue.
+
+20:28.220 --> 20:34.940
+And the reason we can do this is because the world is incredibly more complicated and richer
+
+20:34.940 --> 20:37.500
+in terms of information than text.
+
+20:37.500 --> 20:38.300
+Text is discrete.
+
+20:39.820 --> 20:41.900
+Video is high-dimensional and continuous.
+
+20:41.900 --> 20:43.660
+A lot of details in this.
+
+20:44.140 --> 20:54.140
+If I take a video of this room, and the video is a camera panning around,
+
+20:56.620 --> 20:59.900
+there is no way I can predict everything that's going to be in the room as I pan around.
+
+20:59.900 --> 21:03.180
+The system cannot predict what's going to be in the room as the camera is panning.
+
+21:04.220 --> 21:07.660
+Maybe it's going to predict this is a room where there is a light,
+
+21:07.660 --> 21:09.100
+and there is a wall, and things like that.
+
+21:09.100 --> 21:11.420
+It can't predict what the painting of the wall looks like,
+
+21:11.420 --> 21:13.420
+or what the texture of the couch looks like.
+
+21:13.980 --> 21:16.060
+Certainly not the texture of the carpet.
+
+21:16.060 --> 21:18.460
+So there's no way I can predict all those details.
+
+21:19.100 --> 21:26.300
+So one way possibly to handle this, which we've been working for a long time,
+
+21:26.300 --> 21:29.660
+is to have a model that has what's called a latent variable.
+
+21:29.660 --> 21:32.860
+And the latent variable is fed to a neural net,
+
+21:32.860 --> 21:37.820
+and it's supposed to represent all the information about the world that you don't perceive yet,
+
+21:37.820 --> 21:47.100
+and that you need to augment the system for the prediction to do a good job at predicting pixels,
+
+21:47.100 --> 21:54.700
+including the fine texture of the carpet and the couch, and the painting on the wall.
+
+21:57.020 --> 21:59.980
+That has been a complete failure, essentially.
+
+21:59.980 --> 22:01.260
+And we've tried lots of things.
+
+22:01.260 --> 22:03.740
+We tried just straight neural nets.
+
+22:03.740 --> 22:04.540
+We tried GaNS.
+
+22:04.540 --> 22:10.540
+We tried VAEs, all kinds of regularized autoencoders.
+
+22:10.540 --> 22:12.940
+We tried many things.
+
+22:13.740 --> 22:20.060
+We also tried those kind of methods to learn good representations of images or video
+
+22:21.820 --> 22:26.300
+that could then be used as input to, for example, an image classification system.
+
+22:27.420 --> 22:29.660
+And that also has basically failed.
+
+22:29.660 --> 22:34.540
+All the systems that attempt to predict missing parts of an image or video
+
+22:38.220 --> 22:40.060
+from a corrupted version of it, basically.
+
+22:40.060 --> 22:43.180
+So I take an image or a video, corrupt it or transform it in some way,
+
+22:43.900 --> 22:48.540
+and then try to reconstruct the complete video or image from the corrupted version.
+
+22:50.540 --> 22:54.700
+And then hope that internally the system will develop good representations of images
+
+22:54.700 --> 22:58.060
+that you can use for object recognition, segmentation, whatever it is.
+
+22:58.220 --> 23:02.860
+That has been essentially a complete failure, and it works really well for text.
+
+23:02.860 --> 23:05.420
+That's the principle that is used for LLMs, right?
+
+23:05.420 --> 23:07.820
+So where is the failure exactly?
+
+23:07.820 --> 23:12.620
+Is it very difficult to form a good representation of an image,
+
+23:12.620 --> 23:17.740
+like a good embedding of all the important information in the image?
+
+23:17.740 --> 23:22.300
+Is it in terms of the consistency of image to image to image to image that forms the video?
+
+23:22.940 --> 23:28.700
+So the reason this doesn't work is, first of all, I have to tell you exactly what doesn't work,
+
+23:28.700 --> 23:30.860
+because there is something else that does work.
+
+23:31.500 --> 23:38.780
+So the thing that does not work is training the system to learn representations of images
+
+23:39.420 --> 23:45.260
+by training it to reconstruct a good image from a corrupted version of the image.
+
+23:45.260 --> 23:46.140
+So that's the problem.
+
+23:46.380 --> 23:52.300
+So we have a whole slew of techniques for this that are a variant of denoising autoencoders,
+
+23:52.300 --> 23:56.860
+something called MAE developed by some of my colleagues at FAIR, masked autoencoder.
+
+23:56.860 --> 24:03.180
+So it's basically like the LLMs or things like this where you train the system by
+
+24:03.180 --> 24:06.780
+corrupting text, except you corrupt images, you remove patches of text.
+
+24:06.780 --> 24:14.140
+So it's basically like the LLMs or things like this where you train the system by corrupting text,
+
+24:14.140 --> 24:18.060
+you corrupt images, you remove patches from it, and you train a gigantic neural network to
+
+24:18.060 --> 24:22.540
+reconstruct. The features you get are not good, and you know they're not good because
+
+24:23.260 --> 24:29.420
+if you now train the same architecture, but you train it to supervise with label data,
+
+24:29.980 --> 24:35.580
+with textual descriptions of images, etc., you do get good representations,
+
+24:35.580 --> 24:41.340
+and the performance on recognition tasks is much better than if you do this self-supervised
+
+24:41.340 --> 24:43.740
+retraining. So the architecture is good.
+
+24:44.300 --> 24:49.980
+The architecture of the encoder is good, but the fact that you train the system to reconstruct
+
+24:49.980 --> 24:56.060
+images does not lead it to produce to run good generic features of images.
+
+24:56.060 --> 24:58.220
+When you train in a self-supervised way.
+
+24:58.220 --> 25:00.140
+Self-supervised by reconstruction.
+
+25:00.140 --> 25:01.180
+Yeah, by reconstruction.
+
+25:01.180 --> 25:06.620
+Okay, so what's the alternative? The alternative is joint embedding.
+
+25:07.340 --> 25:11.100
+What is joint embedding? What are these architectures that you're so excited about?
+
+25:11.100 --> 25:15.340
+Okay, so now instead of training a system to encode the image and then training it to
+
+25:15.900 --> 25:21.820
+reconstruct the full image from a corrupted version, you take the full image, you take the
+
+25:23.500 --> 25:26.860
+corrupted or transformed version, you run them both through encoders,
+
+25:27.900 --> 25:35.500
+which in general are identical but not necessarily, and then you train a predictor on top of those
+
+25:36.060 --> 25:45.020
+encoders to predict the representation of the full input from the representation of the corrupted
+
+25:45.020 --> 25:51.980
+one. So joint embedding, because you're taking the full input and the corrupted version
+
+25:52.540 --> 25:57.100
+or transformed version, run them both through encoders, so you get a joint embedding,
+
+25:57.100 --> 26:02.140
+and then you're saying, can I predict the representation of the full one from the
+
+26:02.140 --> 26:08.700
+representation of the corrupted one? Okay, and I call this a JEPA, so that means Joint Embedding
+
+26:08.700 --> 26:12.140
+Predictive Architecture, because it's joint embedding and there is this predictor that
+
+26:12.140 --> 26:18.140
+predicts the representation of the good guy from the bad guy. And the big question is,
+
+26:18.140 --> 26:24.220
+how do you train something like this? And until five years ago or six years ago, we didn't have
+
+26:24.780 --> 26:28.380
+particularly good answers for how you train those things, except for one
+
+26:28.380 --> 26:38.620
+called Contrastive Learning. And the idea of Contrastive Learning is you take a pair of images
+
+26:38.620 --> 26:45.180
+that are, again, an image and a corrupted version or degraded version somehow or transformed version
+
+26:45.180 --> 26:51.900
+of the original one, and you train the predicted representation to be the same as that. If you
+
+26:51.900 --> 26:56.380
+only do this, the system collapses. It basically completely ignores the input and produces
+
+26:56.380 --> 27:03.500
+representations that are constant. So the contrastive methods avoid this, and those things
+
+27:03.500 --> 27:11.420
+have been around since the early 90s. I had a paper on this in 1993. You also show pairs of
+
+27:11.420 --> 27:17.420
+images that you know are different, and then you push away the representations from each other.
+
+27:17.420 --> 27:22.700
+So you say, not only do representations of things that we know are the same should be the same or
+
+27:22.700 --> 27:26.140
+should be similar, but representation of things that we know are different should be different.
+
+27:27.340 --> 27:31.180
+And that prevents the collapse, but it has some limitation. And there's a whole bunch of
+
+27:31.180 --> 27:37.740
+techniques that have appeared over the last six, seven years that can revive this type of method,
+
+27:38.940 --> 27:42.860
+some of them from FAIR, some of them from Google and other places.
+
+27:44.780 --> 27:48.380
+But there are limitations to those contrastive methods. What has changed in the last
+
+27:50.860 --> 27:56.220
+three, four years is now we have methods that are non-contrastive. So they don't require those
+
+27:57.020 --> 28:03.660
+negative contrastive samples of images that we know are different. You turn them on you with
+
+28:03.660 --> 28:07.420
+images that are different versions or different views of the same thing,
+
+28:08.940 --> 28:13.740
+and you rely on some other tricks to prevent the system from collapsing. And we have half a dozen
+
+28:13.740 --> 28:19.420
+different methods for this now. So what is the fundamental difference between joint embedding
+
+28:19.420 --> 28:29.500
+architectures and LLMs? So can JAPA take us to AGI? Whether we should say that you don't like
+
+28:30.460 --> 28:35.420
+the term AGI and we'll probably argue. I think every single time I've talked to you with arguing
+
+28:35.420 --> 28:42.620
+about the G in AGI. I get it. I get it. Well, we'll probably continue to argue about it. It's great.
+
+28:43.180 --> 28:51.660
+You like, I mean, because you like French and, I mean, it's, I guess, friend in French.
+
+28:51.660 --> 28:55.740
+Yes. And AMI stands for Advanced Machine Intelligence.
+
+28:55.740 --> 29:02.460
+Right. But either way, can JAPA take us to that, towards that advanced machine intelligence?
+
+29:02.460 --> 29:08.620
+Well, so it's a first step. Okay, so first of all, what's the difference with generative
+
+29:08.700 --> 29:16.700
+architectures like LLMs? So LLMs or vision systems that are trained by reconstruction
+
+29:17.580 --> 29:25.100
+generate the inputs, right? They generate the original input that is non-corrupted,
+
+29:25.100 --> 29:31.020
+non-transformed, right? So you have to predict all the pixels. And there is a huge amount of
+
+29:31.820 --> 29:35.500
+resources spent in the system to actually predict all those pixels, all the details.
+
+29:35.900 --> 29:40.860
+In a JAPA, you're not trying to predict all the pixels. You're only trying to predict
+
+29:40.860 --> 29:48.620
+an abstract representation of the inputs, right? And that's much easier in many ways. So what the
+
+29:48.620 --> 29:53.340
+JAPA system, when it's being trained, is trying to do is extract as much information as possible
+
+29:53.340 --> 30:00.780
+from the input, but yet only extract information that is relatively easily predictable. Okay.
+
+30:00.780 --> 30:04.140
+So there's a lot of things in the world that we cannot predict. Like, for example, if you have
+
+30:04.140 --> 30:10.940
+a self-driving car driving down the street or road, there may be trees around the road,
+
+30:11.820 --> 30:17.260
+and it could be a windy day. So the leaves on the tree are kind of moving in kind of semi-chaotic,
+
+30:17.260 --> 30:22.620
+random ways that you can't predict and you don't care. You don't want to predict. So what you want
+
+30:22.620 --> 30:27.020
+is your encoder to basically eliminate all those details. It will tell you there's moving leaves,
+
+30:27.020 --> 30:32.620
+but it's not going to keep the details of exactly what's going on. And so when you do the
+
+30:32.620 --> 30:36.620
+prediction in representation space, you're not going to have to predict every single pixel of a
+
+30:36.620 --> 30:45.900
+leaf. And that not only is a lot simpler, but also it allows the system to essentially learn
+
+30:45.900 --> 30:52.940
+an abstract representation of the world where what can be modeled and predicted is preserved,
+
+30:52.940 --> 30:58.620
+and the rest is viewed as noise and eliminated by the encoder. So it kind of lifts the level
+
+30:58.940 --> 31:04.380
+of abstraction of the representation. If you think about this, this is something we do absolutely all
+
+31:04.380 --> 31:09.100
+the time. Whenever we describe a phenomenon, we describe it at a particular level of abstraction.
+
+31:09.900 --> 31:15.100
+And we don't always describe every natural phenomenon in terms of quantum field theory.
+
+31:15.100 --> 31:20.860
+That would be impossible. So we have multiple levels of abstraction to describe what happens
+
+31:20.860 --> 31:27.660
+in the world, starting from quantum field theory to atomic theory and molecules in chemistry,
+
+31:27.660 --> 31:34.460
+materials, and all the way up to kind of concrete objects in the real world and things like that.
+
+31:34.460 --> 31:42.780
+So we can't just only model everything at the lowest level. And that's what the idea of JEPA
+
+31:42.780 --> 31:50.620
+is really about, learn abstract representation in a self-supervised manner. And you can do it
+
+31:50.620 --> 31:56.140
+hierarchically as well. So that I think is an essential component of an intelligent system.
+
+31:56.140 --> 32:00.460
+And in language, we can get away without doing this because language is already, to some level,
+
+32:01.260 --> 32:06.300
+abstract and already has eliminated a lot of information that is not predictable.
+
+32:07.740 --> 32:13.660
+So we can get away without doing the joint embedding, without lifting the abstraction level
+
+32:13.660 --> 32:21.340
+and by directly predicting words. So joint embedding, it's still generative, but it's generative
+
+32:21.340 --> 32:27.180
+in this abstract representation space. And you're saying language, we were lazy with language
+
+32:27.180 --> 32:31.900
+because we already got the abstract representation for free. And now we have to zoom out,
+
+32:31.900 --> 32:34.860
+actually think about generally intelligent systems. We have to
+
+32:37.020 --> 32:43.020
+deal with a full mess of physical reality, of reality. And you do have to do this step of
+
+32:43.740 --> 32:54.700
+jumping from the full, rich, detailed reality to an abstract representation of that reality
+
+32:54.700 --> 32:57.260
+based on which you can then reason and all that kind of stuff.
+
+32:57.260 --> 33:01.980
+Right. And the thing is, those self-supervised algorithms that learn by prediction,
+
+33:03.020 --> 33:11.020
+even in representation space, they learn more concepts if the input data you feed them is
+
+33:11.020 --> 33:15.420
+more redundant. The more redundancy there is in the data, the more they're able to capture
+
+33:15.420 --> 33:21.260
+some internal structure of it. And so there, there is way more redundancy and structure in
+
+33:22.060 --> 33:29.420
+perceptual inputs, sensory input, like vision, than there is in text, which is not nearly as
+
+33:29.420 --> 33:34.300
+redundant. This is back to the question you were asking a few minutes ago. Language might represent
+
+33:34.300 --> 33:37.740
+more information really because it's already compressed. You're right about that, but that
+
+33:37.740 --> 33:43.500
+means it's also less redundant. And so self-supervised learning will not work as well.
+
+33:43.500 --> 33:51.740
+Is it possible to join the self-supervised training on visual data and self-supervised
+
+33:51.740 --> 33:57.180
+training on language data? There is a huge amount of knowledge, even though you talked
+
+33:57.180 --> 34:03.020
+down about those 10 to the 13 tokens. Those 10 to the 13 tokens represent the entirety,
+
+34:03.100 --> 34:10.940
+a large fraction of what us humans have figured out, both the shit talk on Reddit and the contents
+
+34:10.940 --> 34:18.140
+of all the books and the articles and the full spectrum of human intellectual creation. So is
+
+34:18.140 --> 34:25.340
+it possible to join those two together? Well, eventually, yes. But I think if we do this too
+
+34:25.340 --> 34:30.460
+early, we run the risk of being tempted to cheat. And in fact, that's what people are doing at the
+
+34:30.460 --> 34:36.540
+moment with the vision language model. We're basically cheating. We're using language as a
+
+34:36.540 --> 34:43.740
+crutch to help the deficiencies of our vision systems to learn good representations from
+
+34:43.740 --> 34:51.740
+images and video. And the problem with this is that we might improve our vision language system
+
+34:51.740 --> 34:58.380
+a bit, I mean our language models by feeding them images, but we're not going to get to the level of
+
+34:58.540 --> 35:04.540
+even the intelligence or level of understanding of the world of a cat or dog, which doesn't have
+
+35:04.540 --> 35:09.420
+language. They don't have language, and they understand the world much better than any LLM.
+
+35:10.300 --> 35:17.020
+They can plan really complex actions and imagine the result of a bunch of actions. How do we get
+
+35:17.020 --> 35:22.460
+machines to learn that before we combine that with language? Obviously, if we combine this with
+
+35:22.860 --> 35:31.180
+language, this is going to be a winner. But before that, we have to focus on how do we get
+
+35:31.180 --> 35:37.500
+systems to learn how the world works? So this kind of joint embedding, predictive architecture,
+
+35:38.220 --> 35:42.460
+for you, that's going to be able to learn something like common sense, something like what
+
+35:42.460 --> 35:49.740
+a cat uses to predict how to mess with its owner most optimally by knocking over a thing.
+
+35:50.140 --> 35:53.900
+That's the hope. In fact, the techniques we're using are non-contrastive.
+
+35:54.940 --> 35:59.900
+So not only is the architecture non-generative, the learning procedures we're using are
+
+35:59.900 --> 36:05.900
+non-contrastive. We have two sets of techniques. One set is based on distillation, and there's a
+
+36:05.900 --> 36:14.940
+number of methods that use this principle. One by DeepMind could be very well. A couple by Fair,
+
+36:14.940 --> 36:22.780
+one called Vicregg, and another one called iJepa. Vicregg, I should say, is not a distillation
+
+36:22.780 --> 36:28.380
+method, actually, but iJepa and BYOL certainly are. There's another one also called Dino or Dino,
+
+36:29.100 --> 36:34.460
+also produced at Fair. The idea of those things is that you take the full input, let's say an image,
+
+36:35.580 --> 36:42.220
+you run it through an encoder, produces a representation, and then you corrupt that
+
+36:42.220 --> 36:46.860
+input or transform it, run it through essentially what amounts to the same encoder with some other
+
+36:46.860 --> 36:52.620
+differences. And then train a predictor. Sometimes a predictor is very simple, sometimes it doesn't
+
+36:52.620 --> 36:58.380
+exist, but train a predictor to predict a representation of the first uncorrupted input
+
+36:58.380 --> 37:06.940
+from the corrupted input. But you only train the second branch. You only train the part of the
+
+37:06.940 --> 37:13.260
+network that is fed with the corrupted input. The other network you don't train, but since they
+
+37:13.260 --> 37:18.940
+share the same weight, when you modify the first one, it also modifies the second one. And with
+
+37:18.940 --> 37:23.820
+various tricks, you can prevent the system from collapsing with the collapse of the type I was
+
+37:23.820 --> 37:30.780
+explaining before, where the system basically ignores the input. So that works very well.
+
+37:31.100 --> 37:38.460
+The two techniques we developed at Fair, Dino and IJEPA, work really well for that.
+
+37:39.100 --> 37:41.660
+So what kind of data are we talking about here?
+
+37:41.660 --> 37:48.540
+So there's several scenarios. One scenario is you take an image, you corrupt it by
+
+37:50.380 --> 37:55.580
+changing the cropping, for example, changing the size a little bit, maybe changing the orientation,
+
+37:55.580 --> 37:59.820
+blurring it, changing the colors, doing all kinds of horrible things to it.
+
+37:59.820 --> 38:01.420
+But basic horrible things.
+
+38:01.420 --> 38:05.100
+Basic horrible things that sort of degrade the quality a little bit and change the framing,
+
+38:06.220 --> 38:13.020
+crop the image. And in some cases, in the case of IJEPA, you don't need to do any of this,
+
+38:13.020 --> 38:20.780
+you just mask some parts of it. You just basically remove some regions, like a big block, essentially.
+
+38:21.660 --> 38:27.500
+And then run through the encoders and train the entire system, encoder and predictor,
+
+38:27.500 --> 38:31.100
+to predict the representation of the good one from the representation of the corrupted one.
+
+38:33.420 --> 38:38.140
+So that's the IJEPA. It doesn't need to know that it's an image, for example,
+
+38:38.140 --> 38:43.180
+because the only thing it needs to know is how to do this masking. Whereas with Dino,
+
+38:43.180 --> 38:47.900
+you need to know it's an image because you need to do things like geometric transformation and
+
+38:47.900 --> 38:50.380
+blurring and things like that that are really image specific.
+
+38:51.660 --> 38:55.660
+A more recent version of this that we have is called VJEPA. So it's basically the same
+
+38:55.660 --> 39:00.460
+idea as IJEPA, except it's applied to video. So now you take a whole video
+
+39:00.460 --> 39:05.020
+and you mask a whole chunk of it. And what we mask is actually kind of a temporal tube. So
+
+39:05.020 --> 39:09.420
+an all like a whole segment of each frame in the video over the entire video.
+
+39:10.060 --> 39:13.820
+And that too was like statically positioned throughout the frame.
+
+39:16.220 --> 39:20.460
+The tube, yeah, typically is 16 frames or something. And we mask the same region over
+
+39:20.460 --> 39:24.620
+the entire 16 frames. It's a different one for every video, obviously. And
+
+39:26.140 --> 39:31.180
+then again, train that system. So that's to predict the representation of the full video
+
+39:31.180 --> 39:36.700
+from the partially masked video. That works really well. It's the first system that we have
+
+39:36.700 --> 39:42.700
+that learns good representations of video so that when you feed those representations to a supervised
+
+39:43.900 --> 39:48.940
+classifier head, it can tell you what action is taking place in the video with pretty good
+
+39:48.940 --> 39:55.500
+accuracy. So that's the first time we get something of that quality.
+
+39:56.060 --> 40:00.140
+That's a good test that a good representation is formed. That means there's something to this.
+
+40:00.140 --> 40:06.460
+Yeah. We also have a preliminary result that seems to indicate that the representation allows
+
+40:07.260 --> 40:14.300
+our system to tell whether the video is physically possible or completely impossible because some
+
+40:14.300 --> 40:20.700
+object disappeared or an object suddenly jumped from one location to another or changed shape
+
+40:20.700 --> 40:27.900
+or something. So it's able to capture some physics-based constraints about the reality
+
+40:27.900 --> 40:32.940
+represented in the video? Yeah. About the appearance and the disappearance of objects?
+
+40:32.940 --> 40:37.820
+Yeah. That's really new. Okay. But can this actually
+
+40:37.820 --> 40:43.100
+get us to this kind of world model that
+
+40:44.540 --> 40:47.660
+understands enough about the world to be able to drive a car?
+
+40:49.020 --> 40:52.700
+Possibly. This is going to take a while before we get to that point, but
+
+40:54.460 --> 40:58.300
+there are systems already, robotic systems that are based on this idea.
+
+41:01.180 --> 41:07.260
+What you need for this is a slightly modified version of this where imagine that you have
+
+41:08.460 --> 41:14.540
+a video and a complete video. What you're doing to this video is that you're
+
+41:15.340 --> 41:19.820
+either translating it in time towards the future. So you only see the beginning of the video,
+
+41:19.820 --> 41:23.100
+but you don't see the latter part of it that is in the original one.
+
+41:24.140 --> 41:26.780
+Or you just mask the second half of the video, for example.
+
+41:27.980 --> 41:33.340
+And then you train a JEPA system of the type I described to predict the representation of the
+
+41:33.340 --> 41:39.580
+full video from the shifted one. But you also feed the predictor with an action.
+
+41:39.580 --> 41:44.300
+For example, the wheel is turned 10 degrees to the right or something.
+
+41:46.460 --> 41:52.300
+If it's a dash cam in a car and you know the angle of the wheel, you should be able to predict to
+
+41:52.300 --> 41:59.260
+some extent what's going to happen to what you see. You're not going to be able to predict all the
+
+41:59.260 --> 42:05.420
+details of objects that appear in the view, obviously, but at an abstract representation
+
+42:05.420 --> 42:12.140
+level you can probably predict what's going to happen. So now what you have is an internal
+
+42:12.140 --> 42:17.100
+model that says here is my idea of the state of the world at time t, here is an action I'm taking,
+
+42:17.740 --> 42:21.260
+here is a prediction of the state of the world at time t plus one, t plus delta t,
+
+42:21.900 --> 42:27.180
+t plus two seconds, whatever it is. If you have a model of this type, you can use it for planning.
+
+42:27.820 --> 42:34.300
+So now you can do what LLMs cannot do, which is planning what you're going to do so as to
+
+42:34.300 --> 42:42.060
+arrive at a particular outcome or satisfy a particular objective. So you can have a
+
+42:42.060 --> 42:52.460
+number of objectives. I can predict that if I have an object like this and I open my hand,
+
+42:52.540 --> 42:58.060
+it's going to fall, right? And if I push it with a particular force on the table,
+
+42:58.060 --> 43:02.220
+it's going to move. If I push the table itself, it's probably not going to move with the same
+
+43:02.220 --> 43:10.700
+force. So we have this internal model of the world in our mind, which allows us to plan
+
+43:10.700 --> 43:18.460
+sequences of actions to arrive at a particular goal. So now if you have this world model,
+
+43:18.460 --> 43:23.660
+we can imagine a sequence of actions, predict what the outcome of the sequence of action is
+
+43:23.660 --> 43:31.100
+going to be, measure to what extent the final state satisfies a particular objective, like,
+
+43:31.100 --> 43:38.460
+you know, moving the bottle to the left of the table, and then plan a sequence of actions that
+
+43:38.460 --> 43:43.020
+will minimize this objective at runtime. We're not talking about learning, we're talking about
+
+43:43.020 --> 43:47.580
+inference time, right? So this is planning really. And in optimal control, this is a very
+
+43:47.580 --> 43:52.380
+classical thing. It's called model predictive control. You have a model of the system you want
+
+43:52.380 --> 43:57.820
+to control that can predict the sequence of states corresponding to a sequence of commands.
+
+43:58.860 --> 44:05.580
+And you're planning a sequence of commands so that according to your world model, the end state
+
+44:05.580 --> 44:15.500
+of the system will satisfy an objective that you fixed. This is the way rocket trajectories have
+
+44:15.500 --> 44:19.180
+been planned since computers have been around since the early 60s, essentially.
+
+44:19.900 --> 44:25.820
+So yes for model predictive control, but you also often talk about hierarchical planning.
+
+44:25.820 --> 44:28.780
+Yeah. Can hierarchical planning emerge from this somehow?
+
+44:28.780 --> 44:34.380
+Well, so no, you will have to build a specific architecture to allow for hierarchical planning.
+
+44:34.380 --> 44:40.780
+So hierarchical planning is absolutely necessary if you want to plan complex actions. If I want
+
+44:40.780 --> 44:45.500
+to go from, let's say, from New York to Paris, it's the example I use all the time. And I'm
+
+44:45.500 --> 44:51.820
+sitting in my office at NYU. My objective that I need to minimize is my distance to Paris.
+
+44:51.820 --> 44:58.220
+At a high level, a very abstract representation of my location, I would have to decompose this
+
+44:58.220 --> 45:03.660
+into two sub goals. First one is go to the airport. Second one is catch a plane to Paris.
+
+45:04.460 --> 45:10.940
+Okay. So my sub goal is now going to the airport. My objective function is my distance to the
+
+45:10.940 --> 45:17.340
+airport. How do I go to the airport? Where I have to go in the street and hail a taxi,
+
+45:18.060 --> 45:23.820
+which you can do in New York. Okay. Now I have another sub goal, go down on the street.
+
+45:24.860 --> 45:29.500
+What that means, going to the elevator, going down the elevator, walk out the street.
+
+45:30.220 --> 45:37.340
+How do I go to the elevator? I have to stand up for my chair, open the door in my office,
+
+45:37.340 --> 45:43.420
+go to the elevator, push the button. How do I get up from my chair? You can imagine going down,
+
+45:43.420 --> 45:48.540
+all the way down, to basically what amounts to millisecond by millisecond muscle control.
+
+45:49.740 --> 45:55.740
+Okay. And obviously you're not going to plan your entire trip from New York to Paris
+
+45:56.380 --> 46:01.020
+in terms of millisecond by millisecond muscle control. First, that would be incredibly
+
+46:01.020 --> 46:04.940
+expensive, but it will also be completely impossible because you don't know all the
+
+46:04.940 --> 46:10.060
+conditions of what's going to happen. How long it's going to take to catch a taxi
+
+46:11.820 --> 46:17.820
+or to go to the airport with traffic. You would have to know exactly the condition of everything
+
+46:17.820 --> 46:22.700
+to be able to do this planning and you don't have the information. So you have to do this
+
+46:22.700 --> 46:26.940
+hierarchical planning so that you can start acting and then sort of replanning as you go.
+
+46:29.260 --> 46:36.300
+Nobody really knows how to do this in AI. Nobody knows how to train a system to learn the appropriate
+
+46:36.860 --> 46:41.180
+multiple levels of representation so that hierarchical planning works.
+
+46:41.180 --> 46:48.220
+Does something like that already emerge? Can you use an LLM, state of the art LLM,
+
+46:48.220 --> 46:54.940
+to get you from New York to Paris by doing exactly the kind of detailed set of questions
+
+46:54.940 --> 47:01.580
+that you just did, which is, can you give me a list of 10 steps I need to do to get from
+
+47:01.580 --> 47:07.020
+New York to Paris? And then for each of those steps, can you give me a list of 10 steps,
+
+47:07.020 --> 47:11.980
+how I make that step happen? And for each of those steps, can you give me a list of 10 steps
+
+47:11.980 --> 47:16.940
+to make each one of those until you're moving your individual muscles? Maybe not.
+
+47:17.740 --> 47:20.300
+Whatever you can actually act upon using your mind.
+
+47:21.340 --> 47:25.180
+Right. So there's a lot of questions that are implied by this, right? So the first thing is,
+
+47:25.980 --> 47:30.220
+LLMs will be able to answer some of those questions down to some level of abstraction
+
+47:32.220 --> 47:37.100
+under the condition that they've been trained with similar scenarios in the training set.
+
+47:37.100 --> 47:40.860
+They would be able to answer all of those questions, but some of them
+
+47:41.580 --> 47:44.140
+may be hallucinated, meaning non-factual.
+
+47:44.140 --> 47:47.180
+Yeah, true. I mean, they will probably produce some answer, except they're not going to be able
+
+47:47.180 --> 47:52.140
+to really produce millisecond by millisecond muscle control of how you stand up from your chair.
+
+47:53.660 --> 47:57.020
+But down to some level of abstraction where you can describe things by words,
+
+47:57.580 --> 48:00.940
+they might be able to give you a plan, but only under the condition that they've been
+
+48:00.940 --> 48:06.460
+trained to produce those kinds of plans. They're not going to be able to plan for situations
+
+48:07.100 --> 48:11.100
+that they never encountered before. They basically are going to have to regurgitate
+
+48:11.100 --> 48:15.020
+the template that they've been trained on. But where, like just for the example of New
+
+48:15.020 --> 48:20.860
+York to Paris, is it going to start getting into trouble? Like at which layer of abstraction do
+
+48:20.860 --> 48:25.820
+you think you'll start? Because I can imagine almost every single part of that in LLM will
+
+48:25.820 --> 48:29.580
+be able to answer somewhat accurately, especially when you're talking about New York and Paris,
+
+48:29.580 --> 48:35.020
+major cities. So, I mean, certainly LLM would be able to solve that problem if you find
+
+48:35.020 --> 48:43.260
+you need for it. And so I can't say that an LLM cannot do this. It can do this if you train
+
+48:43.260 --> 48:50.220
+it for it. There's no question. Down to a certain level where things can be formulated in terms of
+
+48:50.220 --> 48:55.900
+words. But if you want to go down to how you climb down the stairs or just stand up from your chair
+
+48:55.900 --> 49:04.700
+in terms of words, you can't do it. That's one of the reasons you need experience
+
+49:04.700 --> 49:08.860
+of the physical world, which is much higher bandwidth than what you can express in words
+
+49:09.820 --> 49:13.580
+in human language. So everything we've been talking about on the joint embedding
+
+49:13.580 --> 49:19.100
+space, is it possible that that's what we need for like the interaction with physical reality
+
+49:19.100 --> 49:25.100
+on the robotics front? And then just the LLMs are the thing that sits on top of it for the
+
+49:25.100 --> 49:32.300
+bigger reasoning about like the fact that I need to book a plane ticket and I know how to go to
+
+49:32.300 --> 49:39.340
+the websites and so on. Sure. And a lot of plans that people know about that are relatively high
+
+49:39.340 --> 49:51.660
+level are actually learned. Most people don't invent the plans by themselves. We have some
+
+49:51.660 --> 49:58.220
+ability to do this, of course, obviously, but most plans that people use are plans that have been
+
+49:58.860 --> 50:02.460
+trained on. They've seen other people use those plans or they've been told how to do things,
+
+50:03.900 --> 50:09.980
+that you can't invent how you take a person who's never heard of airplanes and tell them
+
+50:09.980 --> 50:15.340
+how do you go from New York to Paris? And they're probably not going to be able to deconstruct the
+
+50:15.340 --> 50:20.060
+whole plan unless they've seen examples of that before. So certainly LLMs are going to be able
+
+50:20.060 --> 50:29.260
+to do this. But then how you link this from the low level of actions, that needs to be
+
+50:30.140 --> 50:34.540
+done with things like JEPA that basically lift the abstraction level of the representation
+
+50:34.540 --> 50:39.340
+without attempting to reconstruct every detail of the situation. That's what we need JEPAs for.
+
+50:40.300 --> 50:44.620
+I would love to sort of linger on your skepticism around
+
+50:45.820 --> 50:53.740
+autoregressive LLMs. So one way I would like to test that skepticism is everything you say makes
+
+50:53.740 --> 51:03.100
+a lot of sense. But if I apply everything you said today and in general to like, I don't know,
+
+51:03.100 --> 51:08.780
+10 years ago, maybe a little bit less, no, let's say three years ago, I wouldn't be able to predict
+
+51:10.300 --> 51:18.940
+the success of LLMs. So does it make sense to you that autoregressive LLMs are able to be so damn
+
+51:18.940 --> 51:27.900
+good? Yes. Can you explain your intuition? Because if I were to take your wisdom and intuition
+
+51:28.940 --> 51:34.140
+at face value, I would say there's no way autoregressive LLMs, one token at a time,
+
+51:34.140 --> 51:37.900
+would be able to do the kind of things they're doing. No, there's one thing that autoregressive
+
+51:37.900 --> 51:43.420
+LLMs, or that LLMs in general, not just the autoregressive one, but including the
+
+51:43.420 --> 51:49.500
+BERT-style bidirectional ones, are exploiting, and it's self-supervised learning. And I've been
+
+51:49.500 --> 51:55.180
+a very, very strong advocate of self-supervised learning for many years. So those things are
+
+51:55.980 --> 52:00.860
+an incredibly impressive demonstration that self-supervised learning actually works.
+
+52:01.740 --> 52:09.260
+The idea that it didn't start with BERT, but it was really kind of a good demonstration with
+
+52:09.260 --> 52:15.100
+this. So the idea that you take a piece of text, you corrupt it, and then you train some
+
+52:15.100 --> 52:24.140
+gigantic neural net to reconstruct the parts that are missing, that has produced an enormous
+
+52:24.140 --> 52:31.660
+amount of benefits. It allowed us to create systems that understand language, systems that
+
+52:31.660 --> 52:37.980
+can translate hundreds of languages in any direction, systems that are multilingual,
+
+52:37.980 --> 52:42.060
+so it's a single system that can be trained to understand hundreds of languages
+
+52:43.020 --> 52:50.380
+and translate in any direction, and produce summaries, and then answer questions and produce
+
+52:50.380 --> 52:57.340
+text. And then there's a special case of it, which is the autoregressive trick, where you
+
+52:57.340 --> 53:02.860
+constrain the system to not elaborate the representation of the text from looking at
+
+53:02.860 --> 53:08.620
+the entire text, but only predicting a word from the words that have come before, right? And you
+
+53:08.620 --> 53:12.860
+do this by constraining the architecture of the network, and that's what you can build
+
+53:12.860 --> 53:19.020
+an autoregressive LLM from. So there was a surprise many years ago with what's called
+
+53:19.020 --> 53:27.260
+decoder-only LLM, so systems of this type that are just trying to produce words from the previous
+
+53:27.260 --> 53:36.620
+one. And the fact that when you scale them up, they tend to really understand more about language.
+
+53:36.620 --> 53:40.460
+When you train them on loss of data, you make them really big. That was kind of a surprise,
+
+53:40.540 --> 53:49.820
+and that surprise occurred quite a while back with work from Google Meta, OpenAI, et cetera,
+
+53:50.380 --> 53:56.380
+going back to the GPT kind of work general pre-trained transformers.
+
+53:56.380 --> 54:03.260
+You mean like GPT-2? There's a certain place where you start to realize scaling might actually keep
+
+54:03.260 --> 54:06.540
+giving us an emergent benefit.
+
+54:06.620 --> 54:14.380
+Yeah, I mean there were work from various places, but if you want to kind of place it in the GPT
+
+54:15.740 --> 54:17.660
+timeline, that would be around GPT-2, yeah.
+
+54:18.860 --> 54:24.620
+Well, because you said it, you're so charismatic, and you said so many words, but self-supervised
+
+54:24.620 --> 54:30.940
+learning, yes. But again, the same intuition you're applying to saying that autoregressive
+
+54:30.940 --> 54:37.820
+LLMs cannot have a deep understanding of the world, if we just apply that same intuition,
+
+54:37.820 --> 54:44.220
+does it make sense to you that they're able to form enough of a representation of the world to be
+
+54:44.220 --> 54:50.620
+damn convincing, essentially passing the original Turing test with flying colors?
+
+54:50.620 --> 54:55.500
+Well, we're fooled by their fluency, right? We just assume that if a system is fluent
+
+54:56.300 --> 55:00.540
+in manipulating language, then it has all the characteristics of human intelligence,
+
+55:00.540 --> 55:05.420
+but that impression is false. We're really fooled by it.
+
+55:06.540 --> 55:11.180
+What do you think Alan Turing would say, without understanding anything, just hanging out with it?
+
+55:11.180 --> 55:13.820
+Alan Turing would decide that the Turing test is a really bad test.
+
+55:14.860 --> 55:19.820
+Okay, this is what the AI community has decided many years ago, that the Turing test was a really
+
+55:19.820 --> 55:25.980
+bad test of intelligence. What would Hans Moravec say about the large language models?
+
+55:25.980 --> 55:29.260
+Hans Moravec would say that Moravec paradox still applies.
+
+55:32.220 --> 55:33.980
+You don't think he would be really impressed?
+
+55:33.980 --> 55:39.900
+No, of course, everybody would be impressed. It's not a question of being impressed or not,
+
+55:39.900 --> 55:45.740
+it's a question of knowing what the limit of those systems can do. Again, they are impressive. They
+
+55:45.740 --> 55:49.740
+can do a lot of useful things. There's a whole industry that is being built around them. They're
+
+55:49.740 --> 55:54.620
+going to make progress, but there's a lot of things they cannot do and we have to realize what they
+
+55:54.620 --> 56:06.300
+cannot do and then figure out how we get there. I'm seeing this from basically 10 years of research
+
+56:08.140 --> 56:13.580
+on the idea of self-supervised learning. Actually, that's going back more than 10 years,
+
+56:13.580 --> 56:18.540
+but the idea of self-supervised learning. Basically, capturing the internal structure of a
+
+56:18.540 --> 56:23.820
+piece of a set of inputs without training the system for any particular task, learning
+
+56:23.820 --> 56:30.700
+representations. The conference I co-founded 14 years ago is called International Conference on
+
+56:30.700 --> 56:34.860
+Learning Representations. That's the entire issue that deep learning is dealing with.
+
+56:35.820 --> 56:41.420
+It's been my obsession for almost 40 years now. Learning representation is really the thing.
+
+56:42.540 --> 56:46.860
+For the longest time, we could only do this with supervised learning. Then we started working on
+
+56:47.820 --> 56:54.540
+what we used to call unsupervised learning and sort of revive the idea of unsupervised learning
+
+56:55.420 --> 57:00.540
+in the early 2000s with Yoshua Bengio and Jeff Hinton. Then discovered that supervised learning
+
+57:00.540 --> 57:06.620
+actually works pretty well if you can collect enough data. The whole idea of unsupervised
+
+57:06.620 --> 57:13.500
+self-supervised learning kind of took a backseat for a bit. Then I kind of tried to revive it
+
+57:13.500 --> 57:24.140
+in a big way starting in 2014, basically when we started FAIR, and really pushing for finding new
+
+57:24.140 --> 57:29.180
+methods to do self-supervised learning, both for text and for images and for video and audio.
+
+57:29.900 --> 57:35.900
+Some of that work has been incredibly successful. The reason why we have multilingual translation
+
+57:35.900 --> 57:42.460
+system, things to do content moderation on meta, for example, on Facebook that are multilingual,
+
+57:42.460 --> 57:47.420
+that understand whether a piece of text is hate speech or not or something, is due to that progress
+
+57:47.420 --> 57:53.420
+using self-supervised learning for NLP, combining this with transformer architectures and blah, blah,
+
+57:53.420 --> 57:57.500
+blah. But that's the big success of self-supervised learning. We had similar success in speech
+
+57:57.500 --> 58:02.380
+recognition, a system called Wave2Vec, which is also a joint embedding architecture, by the way,
+
+58:02.380 --> 58:09.180
+trained with contrastive learning. That system also can produce speech recognition systems that
+
+58:09.180 --> 58:15.660
+are multilingual with mostly unlabeled data and only need a few minutes of labeled data to actually
+
+58:15.660 --> 58:22.060
+do speech recognition. That's amazing. We have systems now based on those combination of ideas
+
+58:22.060 --> 58:27.980
+that can do real-time translation of hundreds of languages into each other, speech-to-speech.
+
+58:27.980 --> 58:31.820
+Speech-to-speech, even including just fascinating languages that
+
+58:32.940 --> 58:35.420
+don't have written forms. That's right. They're spoken only.
+
+58:35.420 --> 58:38.940
+That's right. We don't go through text. It goes directly from speech-to-speech using
+
+58:38.940 --> 58:44.460
+an internal representation of speech units that are discrete, but it's called text-less NLP.
+
+58:44.460 --> 58:51.980
+We used to call it this way. Incredible success there. Then for 10 years, we tried to apply this
+
+58:51.980 --> 58:57.180
+idea to learning representations of images by training a system to predict videos,
+
+58:57.180 --> 59:01.340
+learning intuitive physics by training a system to predict what's going to happen in the video,
+
+59:02.220 --> 59:07.980
+and tried and tried and failed and failed with generative models, with models that predict pixels.
+
+59:09.900 --> 59:13.420
+We could not get them to learn good representations of images. We could not
+
+59:13.420 --> 59:18.060
+get them to learn good representations of videos. We tried many times. We published lots of papers
+
+59:18.060 --> 59:25.020
+on it. They kind of sort of worked, but not really great. They started working. We abandoned this
+
+59:25.020 --> 59:30.940
+idea of predicting every pixel and basically just doing digital embedding and predicting in
+
+59:30.940 --> 59:37.740
+representation space. That works. There's ample evidence that we're not going to be able to
+
+59:38.460 --> 59:44.300
+learn good representations of the real world using generative model. I'm telling people,
+
+59:44.300 --> 59:48.620
+everybody is talking about generative AI. If you're really interested in human-level AI,
+
+59:48.620 --> 59:56.220
+abandon the idea of generative AI. You really think it's possible to get far with the joint
+
+59:56.220 --> 01:00:04.700
+embedding representation? There's common sense reasoning, and then there's high-level reasoning.
+
+01:00:05.420 --> 01:00:12.380
+I feel like those are two... The kind of reasoning that LLMs are able to do... Okay, let me
+
+01:00:12.380 --> 01:00:16.860
+not use the word reasoning, but the kind of stuff that LLMs are able to do seems fundamentally
+
+01:00:16.860 --> 01:00:21.340
+different than the common sense reasoning we use to navigate the world. It seems like we're going
+
+01:00:21.340 --> 01:00:27.740
+to need both. Would you be able to get with the joint embedding with the Java type of approach
+
+01:00:27.820 --> 01:00:35.660
+looking at video? Would you be able to learn, let's see, how to get from New York to Paris or
+
+01:00:38.060 --> 01:00:45.660
+how to understand the state of politics in the world today? These are things where various
+
+01:00:45.660 --> 01:00:52.060
+humans generate a lot of language and opinions in the space of language, but don't visually
+
+01:00:52.060 --> 01:00:58.460
+represent that in a clearly compressible way. Right. Well, there's a lot of situations that
+
+01:00:58.460 --> 01:01:07.420
+might be difficult for a purely language-based system to know. You can probably learn from
+
+01:01:07.420 --> 01:01:12.300
+reading texts, the entirety of the publicly available texts in the world, that I cannot
+
+01:01:12.300 --> 01:01:15.900
+get from New York to Paris by snapping my fingers. That's not going to work.
+
+01:01:15.900 --> 01:01:24.780
+Right. But there's probably more complex scenarios of this type, which an LLM may never
+
+01:01:24.780 --> 01:01:28.620
+have encountered and may not be able to determine whether it's possible or not.
+
+01:01:31.900 --> 01:01:36.780
+So that link from the low level to the high level, the thing is that the high level that
+
+01:01:36.780 --> 01:01:44.140
+language expresses is based on the common experience of the low level, which LLMs currently
+
+01:01:44.140 --> 01:01:51.900
+do not have. When we talk to each other, we know we have a common experience of the world. A lot of
+
+01:01:51.900 --> 01:02:01.580
+it is similar, and LLMs don't have that. But see, it's present. You and I have a
+
+01:02:01.580 --> 01:02:06.780
+common experience of the world in terms of the physics of how gravity works and stuff like this,
+
+01:02:06.780 --> 01:02:16.700
+and that common knowledge of the world, I feel like is there in the language. We don't explicitly
+
+01:02:16.700 --> 01:02:23.260
+express it, but if you have a huge amount of text, you're going to get this stuff that's between
+
+01:02:23.260 --> 01:02:30.460
+the lines. In order to form a consistent world model, you're going to have to understand how
+
+01:02:30.460 --> 01:02:34.300
+gravity works even if you don't have an explicit explanation of gravity.
+
+01:02:35.100 --> 01:02:39.900
+So even though in the case of gravity, there is an explicit explanation of gravity in Wikipedia.
+
+01:02:39.900 --> 01:02:47.740
+But the stuff that we think of as common sense reasoning, I feel like to generate
+
+01:02:47.740 --> 01:02:52.620
+language correctly, you're going to have to figure that out. Now, you could say,
+
+01:02:52.620 --> 01:02:57.660
+as you have, there's not enough text. Sorry. Okay. You don't think so?
+
+01:02:57.660 --> 01:03:00.940
+No, I agree with what you just said, which is that to be able to do high-level
+
+01:03:02.940 --> 01:03:06.860
+common sense, to have high-level common sense, you need to have the low-level common sense to
+
+01:03:06.860 --> 01:03:10.140
+build on top of. But that's not there.
+
+01:03:10.140 --> 01:03:14.700
+That's not there in LLMs. LLMs are purely trained from text. So then the other statement you made,
+
+01:03:15.900 --> 01:03:21.740
+I would not agree with the fact that implicit in all languages in the world is the underlying
+
+01:03:21.740 --> 01:03:26.700
+reality. There's a lot about underlying reality, which is not expressed in language.
+
+01:03:26.700 --> 01:03:27.900
+Is that obvious to you?
+
+01:03:27.900 --> 01:03:28.780
+Yeah, totally.
+
+01:03:30.220 --> 01:03:37.420
+So like all the conversations we have. Okay. There's the dark web, meaning whatever,
+
+01:03:37.420 --> 01:03:43.420
+the private conversations like DMs and stuff like this, which is much, much larger probably
+
+01:03:43.420 --> 01:03:46.860
+than what's available, what LLMs are trained on.
+
+01:03:46.860 --> 01:03:48.860
+You don't need to communicate the stuff that is common.
+
+01:03:49.820 --> 01:03:54.380
+But the humor, all of it. No, you do. You don't need to, but it comes through.
+
+01:03:55.340 --> 01:04:00.940
+Like if I accidentally knock this over, you'll probably make fun of me. In the content of the
+
+01:04:00.940 --> 01:04:08.540
+you making fun of me will be an explanation of the fact that cups fall and then gravity
+
+01:04:08.540 --> 01:04:14.540
+works in this way. And then you'll have some very vague information about what kind of things
+
+01:04:14.540 --> 01:04:19.260
+explode when they hit the ground. And then maybe you'll make a joke about entropy or something
+
+01:04:19.260 --> 01:04:24.220
+like this. It will never be able to reconstruct this again. Like, okay, you'll make a little
+
+01:04:24.220 --> 01:04:29.020
+joke like this and there'll be trillion of other jokes. And from the jokes, you can piece together
+
+01:04:29.020 --> 01:04:33.580
+the fact that gravity works and mugs can break and all this kind of stuff. You don't need to see,
+
+01:04:35.180 --> 01:04:37.820
+it'll be very inefficient. It's easier for like,
+
+01:04:40.220 --> 01:04:45.580
+knock the thing over. But I feel like it would be there if you have enough of that data.
+
+01:04:46.460 --> 01:04:54.220
+I just think that most of the information of this type that we have accumulated when we were babies
+
+01:04:54.220 --> 01:04:59.740
+is just not present in text, in any description, essentially.
+
+01:04:59.740 --> 01:05:04.300
+And the sensory data is a much richer source for getting that kind of understanding.
+
+01:05:04.300 --> 01:05:11.740
+I mean, that's the 16,000 hours of wake time of a four-year-old and 10 to the 15 bytes going
+
+01:05:11.740 --> 01:05:19.260
+through vision, just vision, right? There is a similar bandwidth of touch and a little less
+
+01:05:19.260 --> 01:05:27.740
+through audio. And then language doesn't come in until a year in life. And by the time you are
+
+01:05:27.740 --> 01:05:32.780
+nine years old, you've learned about gravity. You know about inertia, you know about gravity,
+
+01:05:32.780 --> 01:05:39.260
+the stability, you know about the distinction between animate and inanimate objects. By 18
+
+01:05:39.260 --> 01:05:45.020
+months, you know about like, why people want to do things and you help them if they can't,
+
+01:05:45.020 --> 01:05:49.820
+you know? I mean, there's a lot of things that you learn mostly by observation, really,
+
+01:05:50.860 --> 01:05:54.700
+not even through interaction. In the first few months of life, babies don't really have
+
+01:05:54.700 --> 01:05:59.980
+any influence on the world. They can only observe, right? And you accumulate like a gigantic amount of
+
+01:06:01.500 --> 01:06:06.060
+knowledge just from that. So that's what we're missing from current AI systems.
+
+01:06:07.020 --> 01:06:12.060
+I think in one of your slides, you have this nice plot that is one of the ways you show that
+
+01:06:12.060 --> 01:06:16.700
+LLMs are limited. I wonder if you could talk about hallucinations from your perspectives,
+
+01:06:18.620 --> 01:06:25.260
+why hallucinations happen from large language models and why and to what degrees that a
+
+01:06:25.260 --> 01:06:33.020
+fundamental flaw of large language models. Right. So because of the autoregressive prediction,
+
+01:06:33.980 --> 01:06:40.620
+every time an LLM produces a token or a word, there is some level of probability for that word
+
+01:06:40.620 --> 01:06:47.260
+to take you out of the set of reasonable answers. And if you assume, which is a very strong
+
+01:06:47.260 --> 01:06:55.420
+assumption, that the probability of such error is that those errors are independent across
+
+01:06:56.780 --> 01:07:02.220
+a sequence of tokens being produced. What that means is that every time you produce a token,
+
+01:07:02.220 --> 01:07:07.500
+the probability that you stay within the set of correct answer decreases and it decreases
+
+01:07:07.500 --> 01:07:13.420
+exponentially. So there's a strong, like you said, assumption there that if there's a non-zero
+
+01:07:13.420 --> 01:07:17.420
+probability of making a mistake, which there appears to be, then there's going to be a kind
+
+01:07:17.420 --> 01:07:24.380
+of drift. Yeah. And that drift is exponential. It's like errors accumulate, right? So the
+
+01:07:24.380 --> 01:07:31.260
+probability that an answer would be nonsensical increases exponentially with the number of tokens.
+
+01:07:31.260 --> 01:07:37.260
+Is that obvious to you by the way? Like, well, so mathematically speaking, maybe, but like,
+
+01:07:37.260 --> 01:07:45.340
+isn't there a kind of gravitational pull towards the truth because on average, hopefully the truth
+
+01:07:45.340 --> 01:07:51.180
+is well represented in the training set? No, it's basically a struggle against
+
+01:07:52.620 --> 01:07:58.460
+the curse of dimensionality. So the way you can correct for this is that you fine tune the system
+
+01:07:59.420 --> 01:08:03.740
+by having it produce answers for all kinds of questions that people might come up with.
+
+01:08:04.700 --> 01:08:10.220
+And people are people, so a lot of the questions that they have are very similar to each other. So
+
+01:08:10.220 --> 01:08:19.820
+you can probably cover 80% or whatever of questions that people will ask by collecting data.
+
+01:08:21.820 --> 01:08:26.940
+And then you fine tune the system to produce good answers for all of those things. And it's probably
+
+01:08:26.940 --> 01:08:32.380
+going to be able to learn that because it's got a lot of capacity to learn. But then there is
+
+01:08:33.900 --> 01:08:40.860
+the enormous set of prompts that you have not covered during training. And that set is enormous.
+
+01:08:40.860 --> 01:08:44.860
+Like within the set of all possible prompts, the proportion of prompts that have been
+
+01:08:46.380 --> 01:08:53.020
+used for training is absolutely tiny. It's a tiny, tiny, tiny subset of all possible prompts.
+
+01:08:53.740 --> 01:08:57.900
+And so the system will behave properly on the prompts that has been either trained,
+
+01:08:57.900 --> 01:09:04.620
+pre-trained, or fine tuned. But then there is an entire space of things that
+
+01:09:04.620 --> 01:09:12.300
+it cannot possibly have been trained on because the number is gigantic. So whatever training the
+
+01:09:12.300 --> 01:09:20.380
+system has been subject to to produce appropriate answers, you can break it by finding out a prompt
+
+01:09:20.380 --> 01:09:26.620
+that will be outside of the set of prompts it's been trained on, or things that are similar.
+
+01:09:27.180 --> 01:09:32.780
+And then it will just spew complete nonsense. When you say prompt, do you mean that exact prompt,
+
+01:09:33.340 --> 01:09:41.420
+or do you mean a prompt that's like in many parts very different? Is it that easy to ask
+
+01:09:41.420 --> 01:09:46.780
+a question or to say a thing that hasn't been said before on the internet? I mean, people have
+
+01:09:46.780 --> 01:09:53.580
+come up with things where you put essentially a random sequence of characters in the prompt,
+
+01:09:53.580 --> 01:09:59.660
+and that's enough to throw the system into a mode where it's going to answer something
+
+01:09:59.660 --> 01:10:04.460
+completely different than it would have answered without this. So that's a way to jailbreak the
+
+01:10:04.460 --> 01:10:10.860
+system, basically get it to go outside of its conditioning. So that's a very clear demonstration
+
+01:10:10.860 --> 01:10:20.700
+of it. But of course, that goes outside of what is designed to do. If you actually stitch together
+
+01:10:20.700 --> 01:10:27.900
+reasonably grammatical sentences, is it that easy to break it? Yeah, some people have done things
+
+01:10:27.900 --> 01:10:35.420
+like you write a sentence in English, or you ask a question in English, and it produces a perfectly
+
+01:10:35.420 --> 01:10:42.220
+fine answer. And then you just substitute a few words by the same word in another language.
+
+01:10:42.220 --> 01:10:47.820
+I don't know if the answer is complete nonsense. So I guess what I'm saying is which fraction
+
+01:10:48.540 --> 01:10:54.220
+of prompts that humans are likely to generate are going to break the system.
+
+01:10:54.220 --> 01:11:01.180
+So the problem is that there is a long tail. This is an issue that a lot of people have
+
+01:11:01.900 --> 01:11:06.780
+realized in social networks and stuff like that, which is there's a very, very long tail of things
+
+01:11:06.780 --> 01:11:14.140
+that people will ask. And you can fine tune the system for the 80% or whatever of the things that
+
+01:11:14.140 --> 01:11:19.740
+most people will ask. And then this long tail is so large that you're not going to be able to
+
+01:11:19.740 --> 01:11:24.220
+fine tune the system for all the conditions. And in the end, the system has been kind of a giant
+
+01:11:24.220 --> 01:11:28.460
+lookout table, right, essentially, which is not really what you want. You want systems that can
+
+01:11:29.420 --> 01:11:34.700
+certainly plan. So the type of reasoning that takes place in LLM is very, very primitive.
+
+01:11:35.260 --> 01:11:39.900
+And the reason you can tell it's primitive is because the amount of computation that is spent
+
+01:11:40.780 --> 01:11:47.020
+per token produced is constant. So if you ask a question and that question has an answer
+
+01:11:47.740 --> 01:11:52.540
+in a given number of tokens, the amount of computation devoted to computing that answer
+
+01:11:52.540 --> 01:12:01.980
+can be exactly estimated. It's the size of the prediction network with its 36 layers or 92 layers
+
+01:12:01.980 --> 01:12:08.140
+or whatever it is, multiplied by the number of tokens. That's it. And so essentially,
+
+01:12:08.140 --> 01:12:15.740
+it doesn't matter if the question being asked is simple to answer, complicated to answer,
+
+01:12:16.460 --> 01:12:22.060
+impossible to answer because it's undecidable or something. The amount of computation the
+
+01:12:22.060 --> 01:12:26.940
+system will be able to devote to the answer is constant or is proportional to the number of
+
+01:12:26.940 --> 01:12:34.460
+tokens produced in the answer. This is not the way we work. The way we reason is that when we're
+
+01:12:34.460 --> 01:12:41.180
+faced with a complex problem or a complex question, we spend more time trying to solve it and answer
+
+01:12:41.180 --> 01:12:47.340
+it because it's more difficult. There's a prediction element. There's an iterative element where you're
+
+01:12:47.500 --> 01:12:55.020
+like adjusting your understanding of a thing by going over and over and over. There's a
+
+01:12:55.020 --> 01:13:00.060
+hierarchical element so on. Does this mean it's a fundamental flaw of LLMs or does it mean that
+
+01:13:01.660 --> 01:13:06.220
+it's more part to that question? Now you're just behaving like an LLM.
+
+01:13:07.500 --> 01:13:15.500
+Immediately answer. No, that is just the low level world model on top of which we can then
+
+01:13:16.460 --> 01:13:21.260
+build some of these kinds of mechanisms, like you said, persistent long-term memory or
+
+01:13:23.340 --> 01:13:29.980
+reasoning, so on. But we need that world model that comes from language. Maybe it is not so
+
+01:13:29.980 --> 01:13:36.460
+difficult to build this kind of reasoning system on top of a well-constructed world model.
+
+01:13:36.460 --> 01:13:41.740
+Okay. Whether it's difficult or not, the near future will say because a lot of people are
+
+01:13:41.900 --> 01:13:49.740
+working on reasoning and planning abilities for dialogue systems. Even if we restrict ourselves
+
+01:13:49.740 --> 01:13:57.980
+to language, just having the ability to plan your answer before your answer in terms that are not
+
+01:13:57.980 --> 01:14:03.020
+necessarily linked with the language you're going to use to produce the answer, so this idea of
+
+01:14:03.020 --> 01:14:06.540
+this mental model that allows you to plan what you're going to say before you say it.
+
+01:14:06.620 --> 01:14:14.300
+Mm-hmm. That is very important. I think there's going to be a lot of systems over the next few
+
+01:14:14.300 --> 01:14:19.740
+years that are going to have this capability. But the blueprint of those systems would be
+
+01:14:19.740 --> 01:14:28.940
+extremely different from autoregressive LLMs. So it's the same difference as the difference
+
+01:14:28.940 --> 01:14:33.820
+between what psychologists call system one and system two in humans, right? So system one is
+
+01:14:33.900 --> 01:14:38.220
+the type of task that you can accomplish without deliberately consciously think about
+
+01:14:38.940 --> 01:14:45.820
+how you do them. You've done them enough that you can just do it subconsciously without thinking
+
+01:14:45.820 --> 01:14:50.940
+about them. If you're an experienced driver, you can drive without really thinking about it,
+
+01:14:50.940 --> 01:14:57.580
+and you can talk to someone at the same time or listen to the radio. If you are a very experienced
+
+01:14:57.580 --> 01:15:02.540
+chess player, you can play against a non-experienced chess player without really thinking either. You
+
+01:15:02.540 --> 01:15:08.940
+just recognize the pattern and you play, right? That's system one. So all the things that you do
+
+01:15:08.940 --> 01:15:13.980
+instinctively without really having to deliberately plan and think about it. And then there is all the
+
+01:15:13.980 --> 01:15:20.460
+tasks where you need to plan. So if you are a not so experienced chess player or you are experienced
+
+01:15:20.460 --> 01:15:24.300
+but you play against another experienced chess player, you think about all kinds of options,
+
+01:15:24.300 --> 01:15:29.980
+right? You think about it for a while, right? And you're much better if you have time to think
+
+01:15:29.980 --> 01:15:39.580
+about it than you are if you play Blitz with limited time. So this type of deliberate planning
+
+01:15:40.380 --> 01:15:45.980
+which uses your internal world model, that's system two. This is what LLMs currently cannot do.
+
+01:15:46.860 --> 01:15:51.500
+How do we get them to do this, right? How do we build a system that can do this kind of
+
+01:15:52.700 --> 01:15:59.660
+planning or reasoning that devotes more resources to complex problems than to simple problems?
+
+01:16:00.140 --> 01:16:05.020
+And it's not going to be autoregressive prediction of tokens. It's going to be more
+
+01:16:05.020 --> 01:16:14.700
+something akin to inference of latent variables in what used to be called probabilistic models
+
+01:16:14.700 --> 01:16:19.100
+or graphical models and things of that type. So basically the principle is like this.
+
+01:16:19.260 --> 01:16:33.900
+You know, the prompt is like observed variables. And what the model does is that it can measure to
+
+01:16:33.900 --> 01:16:40.540
+what extent an answer is a good answer for a prompt. Okay. So think of it as some gigantic
+
+01:16:40.540 --> 01:16:46.300
+neural net, but it's got only one output and that output is a scalar number which is, let's say,
+
+01:16:46.300 --> 01:16:51.580
+zero if the answer is a good answer for the question and a large number if the answer is
+
+01:16:51.580 --> 01:16:56.460
+not a good answer for the question. Imagine you had this model. If you had such a model,
+
+01:16:56.460 --> 01:17:03.020
+you could use it to produce good answers. The way you would do is produce the prompt and then
+
+01:17:03.020 --> 01:17:07.180
+search through the space of possible answers for one that minimizes that number.
+
+01:17:09.900 --> 01:17:11.420
+That's called an energy-based model.
+
+01:17:11.420 --> 01:17:17.580
+But that energy-based model would need the model constructed by the LLM.
+
+01:17:18.380 --> 01:17:24.380
+Well, so really what you need to do would be to not search over possible strings of
+
+01:17:24.380 --> 01:17:30.620
+text that minimize that energy. But what you would do is do this in abstract representation
+
+01:17:30.620 --> 01:17:36.220
+space. So in sort of the space of abstract thoughts, you would elaborate a thought,
+
+01:17:36.860 --> 01:17:43.500
+using this process of minimizing the output of your model, which is just a scalar.
+
+01:17:44.700 --> 01:17:50.540
+It's an optimization process. So now the way the system produces its answer is through optimization
+
+01:17:52.380 --> 01:17:58.060
+by minimizing an objective function basically. We're talking about inference. We're not talking
+
+01:17:58.060 --> 01:18:03.180
+about training. The system has been trained already. So now we have an abstract representation of the
+
+01:18:03.180 --> 01:18:08.860
+thought of the answer, representation of the answer. We feed that to basically an autorexative
+
+01:18:08.860 --> 01:18:14.620
+decoder, which can be very simple, that turns this into a text that expresses this thought.
+
+01:18:15.900 --> 01:18:22.460
+That, in my opinion, is the blueprint of future dialogue systems. They will think about their
+
+01:18:22.460 --> 01:18:30.380
+answer, plan their answer by optimization before turning it into text. And that is TuringComplete.
+
+01:18:31.020 --> 01:18:34.300
+Can you explain exactly what the optimization problem there is?
+
+01:18:34.300 --> 01:18:40.300
+Like, what's the objective function? Just to linger on it, you kind of briefly described it,
+
+01:18:40.300 --> 01:18:44.940
+but over what space are you optimizing? The space of representations.
+
+01:18:45.660 --> 01:18:50.460
+It goes abstract representation. So you have an abstract representation
+
+01:18:50.460 --> 01:18:54.140
+inside the system. You have a prompt. The prompt goes through an encoder, produces a
+
+01:18:54.140 --> 01:18:58.140
+representation, perhaps goes through a predictor that predicts a representation of the answer,
+
+01:18:58.220 --> 01:19:05.180
+of the proper answer. But that representation may not be a good answer because there might be
+
+01:19:05.180 --> 01:19:11.740
+some complicated reasoning you need to do. So then you have another process that takes
+
+01:19:12.380 --> 01:19:20.380
+the representation of the answers and modifies it so as to minimize a cost function that measures
+
+01:19:20.380 --> 01:19:27.020
+to what extent the answer is a good answer for the question. Now, we sort of ignore the fact for,
+
+01:19:27.660 --> 01:19:33.980
+I mean, the issue for a moment of how you train that system to measure whether an answer is a
+
+01:19:33.980 --> 01:19:38.780
+good answer for a question. But suppose such a system could be created.
+
+01:19:38.780 --> 01:19:42.300
+What's the process, this kind of search like process?
+
+01:19:42.300 --> 01:19:46.780
+It's an optimization process. You can do this if the entire system is differentiable,
+
+01:19:47.500 --> 01:19:54.220
+that scalar output is the result of running through some neural net, running the answer,
+
+01:19:54.220 --> 01:19:57.900
+the representation of the answer to some neural net. Then by gradient descent,
+
+01:19:57.900 --> 01:20:03.340
+by backpropagating gradients, you can figure out how to modify the representation of the
+
+01:20:03.340 --> 01:20:06.460
+answer so as to minimize that. So that's still a gradient-based?
+
+01:20:06.460 --> 01:20:11.820
+It's gradient-based inference. So now you have a representation of the answer in abstract space.
+
+01:20:11.820 --> 01:20:20.220
+Now you can turn it into text. And the cool thing about this is that the representation now
+
+01:20:20.220 --> 01:20:24.540
+can be optimized through gradient descent, but also is independent of the language in
+
+01:20:24.540 --> 01:20:28.780
+which you're going to express the answer. Right. So you're operating in the
+
+01:20:28.780 --> 01:20:32.460
+subtract representation. I mean, this goes back to the joint embedding,
+
+01:20:32.460 --> 01:20:39.340
+that it's better to work in the space of, I don't know, or to romanticize the notion like
+
+01:20:39.340 --> 01:20:45.500
+space of concepts versus the space of concrete sensory information.
+
+01:20:45.500 --> 01:20:51.660
+Right. Okay. But can this do something like reasoning, which is what we're talking about?
+
+01:20:51.660 --> 01:20:56.140
+Well, not really, only in a very simple way. I mean, basically, you can think of those things
+
+01:20:56.140 --> 01:21:01.980
+as doing the kind of optimization I was talking about, except they optimize in the discrete space,
+
+01:21:01.980 --> 01:21:07.900
+which is the space of possible sequences of tokens. And they do this optimization in a
+
+01:21:07.900 --> 01:21:12.380
+horribly inefficient way, which is generate a lot of hypotheses and then select the best ones.
+
+01:21:13.180 --> 01:21:19.980
+And that's incredibly wasteful in terms of computation because you basically have to
+
+01:21:19.980 --> 01:21:27.020
+run your LLM for every possible generated sequence. It's incredibly wasteful.
+
+01:21:28.620 --> 01:21:34.700
+So it's much better to do an optimization in continuous space where you can do gradient descent
+
+01:21:34.700 --> 01:21:38.300
+as opposed to generate tons of things and then select the best. You just
+
+01:21:39.100 --> 01:21:43.980
+iteratively refine your answer to go towards the best, right? That's much more efficient,
+
+01:21:43.980 --> 01:21:47.980
+but you can only do this in continuous spaces with differentiable functions.
+
+01:21:47.980 --> 01:21:53.740
+You're talking about the reasoning, like ability to think deeply or to reason deeply.
+
+01:21:55.020 --> 01:22:04.540
+How do you know what is an answer that's better or worse based on deep reasoning?
+
+01:22:04.540 --> 01:22:08.620
+Right. So then we're asking the question of conceptually, how do you train an energy-based
+
+01:22:08.620 --> 01:22:15.420
+model? Energy-based model is a function with a scalar output, just a number. You give it two
+
+01:22:15.420 --> 01:22:20.940
+inputs, X and Y, and it tells you whether Y is compatible with X or not. X you observe,
+
+01:22:21.500 --> 01:22:27.820
+let's say it's a prompt, an image, a video, whatever. And Y is a proposal for an answer,
+
+01:22:27.820 --> 01:22:34.060
+a continuation of the video, whatever. And it tells you whether Y is compatible with X.
+
+01:22:34.940 --> 01:22:38.940
+And the way it tells you that Y is compatible with X is that the output of that function will
+
+01:22:38.940 --> 01:22:45.580
+be zero. If Y is compatible with X, it would be a positive number, non-zero, if Y is not compatible
+
+01:22:45.580 --> 01:22:53.100
+with X. Okay. How do you train a system like this at a completely general level? You show it
+
+01:22:53.900 --> 01:22:57.740
+pairs of X and Y that are compatible, a question and the corresponding answer,
+
+01:22:58.540 --> 01:23:03.340
+and you train the parameters of the big neural net inside to produce zero.
+
+01:23:04.540 --> 01:23:08.700
+Okay. Now that doesn't completely work because the system might decide,
+
+01:23:08.700 --> 01:23:13.340
+well, I'm just going to say zero for everything. So now you have to have a process to make sure
+
+01:23:13.340 --> 01:23:19.740
+that for a wrong Y, the energy would be larger than zero. And there you have two options.
+
+01:23:20.380 --> 01:23:24.620
+One is contrastive method. So contrastive method is you show an X and a bad Y,
+
+01:23:26.060 --> 01:23:29.420
+and you tell the system, well, that's, you know, give a high energy to this,
+
+01:23:29.420 --> 01:23:32.060
+like push up the energy, right? Change the weights in the neural net,
+
+01:23:32.060 --> 01:23:37.980
+that computes the energy so that it goes up. So that's contrastive methods. The problem with
+
+01:23:37.980 --> 01:23:44.940
+this is if the space of Y is large, the number of such contrastive samples you're going to have to
+
+01:23:44.940 --> 01:23:53.740
+show is gigantic. But people do this. They do this when you train a system with RLHF. Basically,
+
+01:23:53.740 --> 01:23:59.980
+what you're training is what's called a reward model, which is basically an objective function
+
+01:23:59.980 --> 01:24:05.980
+that tells you whether an answer is good or bad. And that's basically exactly what this is.
+
+01:24:06.700 --> 01:24:10.460
+So we already do this to some extent. We're just not using it for inference. We're just using it
+
+01:24:10.460 --> 01:24:17.980
+for training. There is another set of methods which are non-contrastive, and I prefer those.
+
+01:24:19.180 --> 01:24:27.420
+And those non-contrastive methods basically say, okay, the energy function needs to have low energy
+
+01:24:27.420 --> 01:24:33.260
+on pairs of XY's that are compatible, that come from your training set. How do you make sure that
+
+01:24:33.260 --> 01:24:40.460
+the energy is going to be higher everywhere else? And the way you do this is by having a
+
+01:24:41.820 --> 01:24:47.420
+regularizer, a criterion, a term in your cost function that basically minimizes the volume
+
+01:24:47.420 --> 01:24:54.540
+of space that can take low energy. And the precise way to do this is all kinds of different specific
+
+01:24:54.540 --> 01:24:59.260
+ways to do this, depending on the architecture. But that's the basic principle. So that if you
+
+01:24:59.260 --> 01:25:04.700
+push down the energy function for particular regions in the XY space, it will automatically
+
+01:25:04.700 --> 01:25:10.060
+go up in other places because there's only a limited volume of space that can take low energy
+
+01:25:11.740 --> 01:25:15.660
+by the construction of the system or by the regularizing function.
+
+01:25:16.540 --> 01:25:22.460
+We've been talking very generally about what is a good X and a good Y. What is a good representation
+
+01:25:22.460 --> 01:25:29.420
+of X and Y? Because we've been talking about language, and if you just take language directly,
+
+01:25:30.220 --> 01:25:34.860
+that presumably is not good. So there has to be some kind of abstract representation of ideas.
+
+01:25:35.980 --> 01:25:42.940
+Yeah. So you can do this with language directly by just X is a text and Y is a continuation of
+
+01:25:42.940 --> 01:25:49.660
+that text. Or X is a question, Y is the answer. But you're saying that's not going to take it.
+
+01:25:49.660 --> 01:25:55.660
+That's going to do what LLMs are doing. Well, no, it depends on how the internal structure
+
+01:25:55.660 --> 01:26:00.380
+of the system is built. If the internal structure of the system is built in such a way that
+
+01:26:00.380 --> 01:26:08.540
+inside of the system, there is a latent variable, let's call it Z, that you can manipulate
+
+01:26:09.260 --> 01:26:16.540
+so as to minimize the output energy, then that Z can be viewed as a representation of a good answer
+
+01:26:16.540 --> 01:26:19.100
+that you can translate into a Y that is a good answer.
+
+01:26:20.940 --> 01:26:23.500
+So this kind of system could be trained in a very similar way.
+
+01:26:24.380 --> 01:26:31.020
+Very similar way, but you have to have this way of preventing collapse, of ensuring that there is
+
+01:26:31.020 --> 01:26:38.700
+high energy for things you don't train it on. And currently, it's very implicit in LLM. It's
+
+01:26:38.700 --> 01:26:43.500
+done in a way that people don't realize is being done, but it is being done. It's due to the fact
+
+01:26:43.500 --> 01:26:50.860
+that when you give a high probability to a word, automatically, you give low probability to other
+
+01:26:50.860 --> 01:26:58.300
+words because you only have a finite amount of probability to go around. So when you minimize
+
+01:26:58.300 --> 01:27:06.300
+the cross entropy or whatever, when you train your LLM to predict the next word, you're increasing
+
+01:27:06.300 --> 01:27:09.980
+the probability your system will give to the correct word, but you're also decreasing the
+
+01:27:10.060 --> 01:27:17.580
+probability it will give to the incorrect words. Now, indirectly, that gives a high probability
+
+01:27:17.580 --> 01:27:21.420
+to sequences of words that are good and low probability to sequences of words that are bad,
+
+01:27:21.420 --> 01:27:28.860
+but it's very indirect. And it's not obvious why this actually works at all, because you're not
+
+01:27:28.860 --> 01:27:33.500
+doing it on the joint probability of all the symbols in a sequence. You're just doing it
+
+01:27:33.500 --> 01:27:41.180
+kind of factorized that probability in terms of conditional probabilities over successive tokens.
+
+01:27:41.180 --> 01:27:43.740
+So how do you do this for visual data?
+
+01:27:43.740 --> 01:27:46.300
+So we've been doing this with all JEPA architectures, basically.
+
+01:27:46.300 --> 01:27:47.100
+The joint embedding.
+
+01:27:47.100 --> 01:27:55.900
+IJEPA. So there, the compatibility between two things is here is an image or a video,
+
+01:27:55.900 --> 01:27:59.900
+here is a corrupted, shifted, or transformed version of that image or video or masked.
+
+01:28:00.860 --> 01:28:07.660
+Okay. And then the energy of the system is the prediction error of the
+
+01:28:09.260 --> 01:28:15.900
+representation, the predicted representation of the good thing versus the actual representation
+
+01:28:15.900 --> 01:28:22.220
+of the good thing. So you run the corrupted image to the system, predict the representation
+
+01:28:22.220 --> 01:28:27.180
+of the good input, uncorrupted, and then compute the prediction error. That's the energy of the
+
+01:28:27.180 --> 01:28:36.620
+system. So this system will tell you this is a good image and this is a corrupted version.
+
+01:28:36.620 --> 01:28:40.220
+It will give you zero energy if those two things are effectively,
+
+01:28:41.020 --> 01:28:45.340
+one of them is a corrupted version of the other, give you a high energy if the two images are
+
+01:28:45.340 --> 01:28:50.380
+completely different. And hopefully that whole process gives you a really nice compressed
+
+01:28:50.380 --> 01:28:56.460
+representation of reality, of visual reality. And we know it does because then we use those
+
+01:28:56.540 --> 01:28:59.180
+representations as input to a classification system.
+
+01:28:59.180 --> 01:29:04.380
+And then that classification system works really nicely. Okay. Well, so to summarize,
+
+01:29:04.380 --> 01:29:11.180
+you recommend in a spicy way that only Yann LeCun can, you recommend that we
+
+01:29:11.180 --> 01:29:16.540
+abandon generative models in favor of joint embedding architectures, abandon autoregressive
+
+01:29:16.540 --> 01:29:23.900
+generation, abandon, this feels like court testimony, abandon probabilistic models in favor
+
+01:29:23.900 --> 01:29:28.940
+of energy-based models, as we talked about, abandon contrastive methods in favor of regularized
+
+01:29:28.940 --> 01:29:36.220
+methods. And let me ask you about this. You've been for a while a critic of reinforcement learning.
+
+01:29:36.220 --> 01:29:43.500
+Yes. So the last recommendation is that we abandon RL in favor of model predictive control,
+
+01:29:43.500 --> 01:29:49.500
+as you were talking about, and only use RL when planning doesn't yield the predicted outcome.
+
+01:29:50.300 --> 01:29:58.220
+And we use RL in that case to adjust the world model or the critic. So you mentioned
+
+01:29:59.260 --> 01:30:05.660
+RLHF, reinforcement learning with human feedback. Why do you still hate reinforcement learning?
+
+01:30:05.660 --> 01:30:09.180
+I don't hate reinforcement learning. And I think it should not be
+
+01:30:10.460 --> 01:30:16.380
+abandoned completely, but I think it's used to be minimized because it's incredibly inefficient
+
+01:30:16.380 --> 01:30:22.940
+in terms of samples. And so the proper way to train a system is to first have it learn
+
+01:30:24.700 --> 01:30:29.420
+good representations of the world and world models from mostly observation,
+
+01:30:29.420 --> 01:30:33.100
+maybe a little bit of interactions. And then steered based on that. If the
+
+01:30:33.100 --> 01:30:35.580
+representation is good, then the adjustments should be minimal.
+
+01:30:36.780 --> 01:30:40.540
+Yeah. And now there's two things. If you've learned a world model, you can use the world
+
+01:30:40.540 --> 01:30:44.060
+model to plan a sequence of actions to arrive at a particular objective.
+
+01:30:44.460 --> 01:30:50.380
+Mm-hmm. You don't need RL unless the way you measure whether you succeed might be an exact.
+
+01:30:51.260 --> 01:30:55.340
+Your idea of whether you were going to fall from your bike
+
+01:30:57.500 --> 01:31:01.980
+might be wrong or whether the person you're fighting with MMA was going to do something
+
+01:31:01.980 --> 01:31:11.260
+and then do something else. So there's two ways you can be wrong. Either your objective function
+
+01:31:11.500 --> 01:31:17.020
+function does not reflect the actual objective function you want to optimize, or your world
+
+01:31:17.020 --> 01:31:23.740
+model is inaccurate. So the prediction you were making about what was going to happen in the world
+
+01:31:23.740 --> 01:31:30.060
+is inaccurate. So if you want to adjust your world model while you are operating the world
+
+01:31:30.700 --> 01:31:37.340
+or your objective function, that is basically in the realm of RL. This is what RL deals with
+
+01:31:38.140 --> 01:31:42.220
+to some extent. So adjust your world model. And the way to adjust your world model,
+
+01:31:42.860 --> 01:31:49.100
+even in advance, is to explore parts of the space where you know that your world model
+
+01:31:49.100 --> 01:31:57.900
+is inaccurate. That's called curiosity, basically, or play. When you play, you explore parts of the
+
+01:31:57.900 --> 01:32:06.940
+state space that you don't want to do for real because it might be dangerous, but you can adjust
+
+01:32:06.940 --> 01:32:14.620
+your world model without killing yourself, basically. So that's what you want to use RL
+
+01:32:14.620 --> 01:32:20.380
+for. When it comes time to learning a particular task, you already have all the good representations,
+
+01:32:20.380 --> 01:32:24.300
+you already have your world model, but you need to adjust it for the situation at hand.
+
+01:32:24.940 --> 01:32:31.260
+That's when you use RL. What do you think RLHF works so well? This reinforcement learning with
+
+01:32:31.340 --> 01:32:36.780
+human feedback. Why did it have such a transformational effect on large language models?
+
+01:32:37.900 --> 01:32:43.420
+What's had the transformational effect is human feedback. There are many ways to use it,
+
+01:32:43.420 --> 01:32:47.260
+and some of it is just purely supervised. Actually, it's not really reinforcement learning.
+
+01:32:47.260 --> 01:32:49.100
+So it's the HF.
+
+01:32:49.100 --> 01:32:55.660
+It's the HF. And then there are various ways to use human feedback. So you can ask humans to rate
+
+01:32:55.740 --> 01:33:04.380
+answers, multiple answers that are produced by a world model. And then what you do is you train
+
+01:33:04.380 --> 01:33:10.380
+an objective function to predict that rating. And then you can use that objective function
+
+01:33:11.340 --> 01:33:15.100
+to predict whether an answer is good. And you can back propagate gradient through this to
+
+01:33:15.100 --> 01:33:22.540
+fine tune your system so that it only produces highly rated answers. So that's one way.
+
+01:33:22.540 --> 01:33:29.980
+So that's like in RL, that means training what's called a reward model. So something that
+
+01:33:30.620 --> 01:33:33.660
+basically a small neural net that estimates to what extent an answer is good.
+
+01:33:34.940 --> 01:33:39.580
+It's very similar to the objective I was talking about earlier for planning,
+
+01:33:39.580 --> 01:33:42.860
+except now it's not used for planning. It's used for fine tuning your system.
+
+01:33:44.220 --> 01:33:50.460
+I think it would be much more efficient to use it for planning, but currently it's used to
+
+01:33:50.460 --> 01:33:53.900
+fine tune the parameters of the system. Now there are several ways to do this.
+
+01:33:55.820 --> 01:34:01.020
+Some of them are supervised. You just ask a human person, what is a good answer for this?
+
+01:34:02.140 --> 01:34:08.860
+Then you just type the answer. There's lots of ways that those systems are being adjusted.
+
+01:34:10.540 --> 01:34:17.580
+Now, a lot of people have been very critical of the recently released Google's Gemini 1.5
+
+01:34:18.540 --> 01:34:24.780
+for essentially, in my words, I could say super woke, woke in the negative connotation of that
+
+01:34:24.780 --> 01:34:31.180
+word. There's some almost hilariously absurd things that it does, like it modifies history,
+
+01:34:32.220 --> 01:34:41.100
+like generating images of a black George Washington or perhaps more seriously something that you
+
+01:34:41.500 --> 01:34:50.860
+commented on Twitter, which is refusing to comment on or generate images or even descriptions of
+
+01:34:50.860 --> 01:35:00.140
+Tiananmen Square or the Tank Man, one of the most legendary protest images in history.
+
+01:35:01.180 --> 01:35:07.580
+Of course, these images are highly censored by the Chinese government and therefore
+
+01:35:08.140 --> 01:35:11.020
+everybody started asking questions of what is the process of
+
+01:35:13.180 --> 01:35:18.220
+designing these LLMs? What is the role of censorship in these and all that kind of stuff?
+
+01:35:19.020 --> 01:35:23.900
+You commented on Twitter saying that open source is the answer.
+
+01:35:24.460 --> 01:35:24.700
+Yeah.
+
+01:35:25.340 --> 01:35:27.900
+Essentially. Can you explain?
+
+01:35:29.340 --> 01:35:36.700
+I actually made that comment on just about every social network I can. I've made that point multiple
+
+01:35:36.700 --> 01:35:46.380
+times in various forums. Here's my point of view on this. People can complain that AI systems are
+
+01:35:46.380 --> 01:35:52.380
+biased and they generally are biased by the distribution of the training data that they've
+
+01:35:52.380 --> 01:36:03.500
+been trained on that reflects biases in society and that is potentially offensive to some people
+
+01:36:03.580 --> 01:36:12.060
+or potentially not. And some techniques to de-bias then become offensive to some people
+
+01:36:14.300 --> 01:36:25.100
+because of historical incorrectness and things like that. And so you can ask two questions.
+
+01:36:25.100 --> 01:36:29.660
+The first question is, is it possible to produce an AI system that is not biased?
+
+01:36:30.620 --> 01:36:37.580
+And the answer is absolutely not. And it's not because of technological challenges, although
+
+01:36:37.580 --> 01:36:44.940
+there are technological challenges to that. It's because bias is in the eye of the beholder.
+
+01:36:46.460 --> 01:36:53.420
+Different people may have different ideas about what constitutes bias for a lot of things. I mean,
+
+01:36:53.500 --> 01:36:59.900
+there are facts that are indisputable, but there are a lot of opinions or things that can be
+
+01:36:59.900 --> 01:37:05.980
+expressed in different ways. And so you cannot have an unbiased system that's just an impossibility.
+
+01:37:08.540 --> 01:37:15.740
+And so what's the answer to this? And the answer is the same answer that we found
+
+01:37:16.380 --> 01:37:22.060
+in liberal democracy about the press. The press is to be free and
+
+01:37:23.340 --> 01:37:31.660
+diverse. We have free speech for a good reason. It's because we don't want all of our information
+
+01:37:34.140 --> 01:37:40.060
+to come from a unique source because that's opposite to the whole idea of democracy and
+
+01:37:40.060 --> 01:37:47.180
+the progress of ideas and even science. In science, people have to argue for
+
+01:37:47.180 --> 01:37:51.980
+different opinions. And science makes progress when people disagree and they come up with an
+
+01:37:51.980 --> 01:37:59.100
+answer and a consensus forms. And it's true in all democracies around the world. So there is a future
+
+01:38:00.700 --> 01:38:07.020
+which is already happening where every single one of our interactions with the digital world
+
+01:38:07.020 --> 01:38:14.700
+will be mediated by AI systems, AI assistants, right? We're going to have smart glasses. You
+
+01:38:14.700 --> 01:38:21.260
+can already buy them from Meta, the Ray-Ban Meta, where you can talk to them and they are connected
+
+01:38:21.260 --> 01:38:26.860
+with an LLM and you can get answers on any question you have. Or you can be looking at a
+
+01:38:28.140 --> 01:38:33.180
+monument and there is a camera in the system that in the glasses, you can ask it like,
+
+01:38:33.180 --> 01:38:38.540
+what can you tell me about this building or this monument? You can be looking at a menu in a foreign
+
+01:38:38.540 --> 01:38:44.060
+language and it will translate it for you or you can do real-time translation if you speak different
+
+01:38:44.060 --> 01:38:49.260
+languages. So a lot of our interactions with the digital world are going to be mediated by those
+
+01:38:49.260 --> 01:38:57.020
+systems in the near future. Increasingly, the search engines that we're going to use are not
+
+01:38:57.020 --> 01:39:03.340
+going to be search engines. They're going to be dialogue systems that we just ask a question
+
+01:39:03.900 --> 01:39:10.060
+and it will answer and then point you to perhaps appropriate reference for it. But here is the
+
+01:39:10.060 --> 01:39:14.860
+thing. We cannot afford those systems to come from a handful of companies on the west coast of the US
+
+01:39:17.100 --> 01:39:20.860
+because those systems will constitute the repository of all human knowledge
+
+01:39:21.820 --> 01:39:28.860
+and we cannot have that be controlled by a small number of people. It has to be diverse.
+
+01:39:28.860 --> 01:39:35.100
+For the same reason, the press has to be diverse. So how do we get a diverse set of AI assistants?
+
+01:39:36.620 --> 01:39:42.700
+It's very expensive and difficult to train a base model, a base LLM at the moment. In the future,
+
+01:39:42.700 --> 01:39:48.140
+it might be something different, but at the moment, that's an LLM. So only a few companies
+
+01:39:48.140 --> 01:39:56.860
+can do this properly. And if some of those top systems are open source, anybody can use them,
+
+01:39:56.860 --> 01:40:05.020
+anybody can fine tune them. If we put in place some systems that allows any group of people,
+
+01:40:06.140 --> 01:40:14.140
+whether they are individual citizens, groups of citizens, government organizations, NGOs,
+
+01:40:14.940 --> 01:40:25.420
+companies, whatever, to take those open source AI systems and fine tune them for their own purpose
+
+01:40:25.420 --> 01:40:32.060
+on their own data, then we're going to have a very large diversity of different AI systems that are
+
+01:40:32.060 --> 01:40:37.900
+specialized for all of those things. So I'll tell you, I talked to the French government quite a bit
+
+01:40:37.980 --> 01:40:44.940
+and the French government will not accept that the digital diet of all their citizens be controlled
+
+01:40:44.940 --> 01:40:50.060
+by three companies on the west coast of the US. That's just not acceptable. It's a danger to
+
+01:40:50.060 --> 01:40:58.700
+democracy, regardless of how well-intentioned those companies are. And it's also a danger to
+
+01:40:59.260 --> 01:41:11.100
+local culture, to values, to language. I was talking with the founder of Infosys in India.
+
+01:41:12.940 --> 01:41:18.940
+He's funding a project to fine tune Lama2, the open source model produced by Meta,
+
+01:41:19.740 --> 01:41:26.220
+so that Lama2 speaks all 22 official languages in India. It's very important for people in India.
+
+01:41:26.220 --> 01:41:30.460
+I was talking to a former colleague of mine, Mustafa Sise, who used to be a scientist at FAIR,
+
+01:41:31.100 --> 01:41:35.340
+and then moved back to Africa, created a research lab for Google in Africa, and now
+
+01:41:36.460 --> 01:41:41.180
+has a new startup, Cochera. And what he's trying to do is basically have LLM that speaks the local
+
+01:41:41.180 --> 01:41:46.460
+languages in Senegal so that people can have access to medical information because they don't
+
+01:41:46.460 --> 01:41:51.660
+have access to doctors. It's a very small number of doctors per capita in Senegal.
+
+01:41:52.300 --> 01:41:58.540
+I mean, you can't have any of this unless you have open source platforms. So with open source
+
+01:41:58.540 --> 01:42:03.420
+platforms, you can have AI systems that are not only diverse in terms of political opinions or
+
+01:42:03.420 --> 01:42:12.620
+things of that type, but in terms of language, culture, value systems, political opinions,
+
+01:42:13.260 --> 01:42:21.980
+technical abilities in various domains. And you can have an industry, an ecosystem of companies
+
+01:42:21.980 --> 01:42:27.420
+that fine tune those open source systems for vertical applications in industry. You have,
+
+01:42:27.420 --> 01:42:32.300
+I don't know, a publisher has thousands of books and they want to build a system that allows a
+
+01:42:32.300 --> 01:42:38.460
+customer to just ask a question about the content of any of their books. You need to train on their
+
+01:42:38.460 --> 01:42:44.780
+proprietary data. You have a company, we have one within Meta, it's called Metamate. And it's
+
+01:42:44.780 --> 01:42:52.460
+basically an LLM that can answer any question about internal stuff about the company. Very useful.
+
+01:42:53.100 --> 01:42:58.060
+A lot of companies want this. A lot of companies want this not just for their employees, but also
+
+01:42:58.060 --> 01:43:03.500
+for their customers to take care of their customers. So the only way you're going to have an AI industry,
+
+01:43:04.060 --> 01:43:07.820
+the only way you're going to have AI systems that are not uniquely biased
+
+01:43:08.460 --> 01:43:16.540
+is if you have open source platforms on top of which any group can build specialized systems.
+
+01:43:16.540 --> 01:43:25.180
+So the direction of, inevitable direction of history is that the vast majority of
+
+01:43:25.180 --> 01:43:28.220
+AI systems will be built on top of open source platforms.
+
+01:43:28.220 --> 01:43:36.780
+So that's a beautiful vision. So meaning like a company like Meta or Google or so on
+
+01:43:37.740 --> 01:43:43.820
+should take only minimal fine tuning steps after the building the foundation pre-trained model.
+
+01:43:44.700 --> 01:43:52.860
+As few steps as possible. Basically. Can Meta afford to do that? No. So I don't know if you
+
+01:43:53.020 --> 01:43:57.660
+know this, but companies are supposed to make money somehow. And open source
+
+01:43:58.860 --> 01:44:06.060
+is like giving away, I don't know, Mark made a video, Mark Zuckerberg, very sexy video,
+
+01:44:06.060 --> 01:44:17.340
+talking about 350,000 NVIDIA H100s. The math of that is just for the GPUs, that's 100 billion.
+
+01:44:17.340 --> 01:44:27.020
+Plus the infrastructure for training everything. So I'm no business guy, but how do you make money
+
+01:44:27.020 --> 01:44:32.460
+on that? So the vision you paint is a really powerful one, but how is it possible to make money?
+
+01:44:32.460 --> 01:44:39.340
+Okay. So you have several business models, right? The business model that Meta is built around
+
+01:44:40.300 --> 01:44:51.420
+is your first service. And the financing of that service is either through ads or through
+
+01:44:51.420 --> 01:44:58.540
+business customers. So for example, if you have an LLM that can help a mom and pop pizza place
+
+01:45:00.300 --> 01:45:06.300
+by talking to the customers through WhatsApp. And so the customers can just order a pizza
+
+01:45:06.380 --> 01:45:10.220
+and the system will just ask them like, what topping do you want or what size blah, blah,
+
+01:45:10.220 --> 01:45:14.940
+blah. The business will pay for that. Okay. That's a model.
+
+01:45:19.180 --> 01:45:24.540
+And otherwise, if it's a system that is on the more kind of classical services, it can be
+
+01:45:25.340 --> 01:45:31.180
+ad supported or there's several models. But the point is, if you have a big enough
+
+01:45:31.820 --> 01:45:38.540
+a potential customer base and you need to build a system anyway for them,
+
+01:45:39.900 --> 01:45:43.100
+it doesn't hurt you to actually distribute it in open source.
+
+01:45:43.100 --> 01:45:49.420
+Again, I'm no business guy, but if you release the open source model, then other people can do the
+
+01:45:49.420 --> 01:45:57.820
+same kind of task and compete on it. Basically provide fine tune models for businesses as the
+
+01:45:57.820 --> 01:46:02.940
+bet that Metta is making. By the way, I'm a huge fan of all this, but it's the bet that Metta is
+
+01:46:02.940 --> 01:46:10.940
+making. It's like, we'll do a better job of it. Well, no, the bet is more, we already have a huge
+
+01:46:10.940 --> 01:46:16.620
+user base and customer base, right? So it's going to be useful to them. Whatever we offer them is
+
+01:46:16.620 --> 01:46:23.340
+going to be useful. And there is a way to derive revenue from this. And it doesn't hurt that
+
+01:46:24.300 --> 01:46:33.180
+we provide that system or the base model, the foundation model in open source for others to
+
+01:46:33.180 --> 01:46:37.420
+build applications on top of it too. If those applications turn out to be useful for our
+
+01:46:37.420 --> 01:46:44.300
+customers, we can just buy it from them. It could be that they will improve the platform. In fact,
+
+01:46:44.300 --> 01:46:51.020
+we see this already. I mean, there is literally millions of downloads of Lama 2 and thousands
+
+01:46:51.100 --> 01:46:59.180
+of people who have provided ideas about how to make it better. This clearly accelerates progress
+
+01:46:59.180 --> 01:47:07.100
+to make the system available to a wide community of people. And there's literally thousands of
+
+01:47:07.100 --> 01:47:18.700
+businesses who are building applications with it. Metta's ability to derive revenue from this
+
+01:47:18.700 --> 01:47:26.300
+technology is not impaired by the distribution of it, of base models in open source.
+
+01:47:26.300 --> 01:47:30.780
+The fundamental criticism that Gemini is getting is that, as you pointed out on the West Coast,
+
+01:47:32.220 --> 01:47:37.180
+just to clarify, we're currently in the East Coast, where I would suppose Metta AI headquarters
+
+01:47:37.180 --> 01:47:45.580
+would be. So there are strong words about the West Coast. But I guess the issue that happens is,
+
+01:47:46.540 --> 01:47:53.740
+I think it's fair to say that most tech people have a political affiliation with the left wing.
+
+01:47:53.740 --> 01:47:58.940
+They lean left. And so the problem that people are criticizing Gemini with is that there's,
+
+01:47:59.500 --> 01:48:08.460
+in that de-biasing process that you mentioned, that their ideological lean becomes obvious.
+
+01:48:09.420 --> 01:48:17.020
+Is this something that could be escaped? You're saying open source is the only way.
+
+01:48:17.020 --> 01:48:21.900
+Have you witnessed this kind of ideological lean that makes engineering difficult?
+
+01:48:22.460 --> 01:48:26.620
+No, I don't think it has to do. I don't think the issue has to do with the political leaning
+
+01:48:26.620 --> 01:48:34.700
+of the people designing those systems. It has to do with the acceptability or political leanings
+
+01:48:34.700 --> 01:48:42.700
+of their customer base or audience. A big company cannot afford to offend too many people.
+
+01:48:44.060 --> 01:48:50.060
+They're going to make sure that whatever product they put out is safe, whatever that means.
+
+01:48:53.500 --> 01:49:00.700
+It's very possible to overdo it. It's impossible to do it properly for everyone. You're not going
+
+01:49:00.700 --> 01:49:06.300
+to satisfy everyone. That's what I said before. You cannot have a system that is perceived as
+
+01:49:06.300 --> 01:49:14.460
+unbiased by everyone. You push it in one way, one set of people are going to see it as biased,
+
+01:49:14.460 --> 01:49:17.580
+and then you push it the other way, and another set of people are going to see it as biased.
+
+01:49:18.460 --> 01:49:24.140
+And then in addition to this, if you push the system perhaps a little too far in one direction,
+
+01:49:24.140 --> 01:49:30.700
+it's going to be non-factual. You're going to have black Nazi soldiers.
+
+01:49:31.900 --> 01:49:38.780
+We should mention image generation of black Nazi soldiers, which is not factually accurate.
+
+01:49:38.780 --> 01:49:47.420
+Right, and can be offensive for some people as well. It's going to be impossible to produce
+
+01:49:47.420 --> 01:49:51.900
+systems that are unbiased for everyone. The only solution that I see is diversity.
+
+01:49:52.860 --> 01:49:56.780
+And diversity is full meaning of that word, diversity in every possible way.
+
+01:49:59.260 --> 01:50:07.740
+Mark Andreessen just tweeted today, let me do a TLDR. The conclusion is only startups
+
+01:50:07.740 --> 01:50:13.660
+and open source can avoid the issue that he's highlighting with Big Tech. He's asking,
+
+01:50:13.660 --> 01:50:19.340
+can Big Tech actually field generative AI products? One, ever escalating demands from
+
+01:50:19.340 --> 01:50:25.020
+internal activists, employee mobs, crazed executives, broken boards, pressure groups,
+
+01:50:25.020 --> 01:50:30.860
+extremist regulators, government agencies, the press, in quotes, experts, and everything
+
+01:50:32.540 --> 01:50:38.620
+corrupting the output. Two, constant risk of generating a bad answer or drawing a bad picture
+
+01:50:38.620 --> 01:50:46.460
+or rendering a bad video. Who knows what is going to say or do at any moment. Three, legal exposure,
+
+01:50:46.460 --> 01:50:52.780
+product liability, slander, election law, many other things, and so on. Anything that makes
+
+01:50:52.780 --> 01:50:59.500
+Congress mad. Four, continuous attempts to tighten grip on acceptable output, degrade the model,
+
+01:50:59.500 --> 01:51:05.820
+like how good it actually is in terms of usable and pleasant to use and effective and all that
+
+01:51:05.820 --> 01:51:12.140
+kind of stuff. And five, publicity of bad text, images, video, actual puts those examples into
+
+01:51:12.140 --> 01:51:18.220
+the training data for the next version and so on. So he just highlights how difficult this is
+
+01:51:18.220 --> 01:51:23.260
+from all kinds of people being unhappy. As you said, you can't create a system that makes
+
+01:51:23.260 --> 01:51:30.380
+everybody happy. So if you're going to do the fine tuning yourself and keep a close source,
+
+01:51:31.820 --> 01:51:35.420
+essentially the problem there is then trying to minimize the number of people who are going to
+
+01:51:35.420 --> 01:51:43.500
+be unhappy. And you're saying that almost impossible to do right and the better way
+
+01:51:43.500 --> 01:51:51.340
+is to do open source. Basically, yeah. Mark is right about a number of things that he lists
+
+01:51:51.900 --> 01:52:00.220
+that indeed scare large companies. Certainly congressional investigations is one of them,
+
+01:52:00.220 --> 01:52:08.860
+legal liability, making things that get people to hurt themselves or hurt others.
+
+01:52:10.940 --> 01:52:14.940
+Big companies are really careful about not producing things of this type
+
+01:52:17.900 --> 01:52:22.460
+because they don't want to hurt anyone, first of all, and then second, they want to preserve
+
+01:52:22.460 --> 01:52:29.660
+their business. So it's essentially impossible for systems like this. It can inevitably formulate
+
+01:52:29.660 --> 01:52:34.220
+political opinions and opinions about various things that may be political or not, but that
+
+01:52:34.220 --> 01:52:43.980
+people may disagree about moral issues and questions about religion and things like that,
+
+01:52:44.540 --> 01:52:49.260
+or cultural issues that people from different communities will disagree with in the first place.
+
+01:52:49.980 --> 01:52:53.100
+So there's only a relatively small number of things that people will
+
+01:52:54.060 --> 01:53:00.620
+sort of agree on, basic principles. But beyond that, if you want those systems to be useful,
+
+01:53:01.660 --> 01:53:07.820
+they will necessarily have to offend a number of people inevitably.
+
+01:53:08.940 --> 01:53:13.100
+And so open source is just better and then diversity is better, right?
+
+01:53:13.100 --> 01:53:17.180
+And open source enables diversity. That's right. Open source enables diversity.
+
+01:53:18.060 --> 01:53:23.820
+This can be a fascinating world where if it's true that the open source world, if Meta leads the way
+
+01:53:23.820 --> 01:53:29.260
+and creates this kind of open source foundation model world, there's going to be like governments
+
+01:53:29.260 --> 01:53:39.500
+will have a fine new model. And then potentially, people that vote left and right will have their
+
+01:53:39.500 --> 01:53:44.300
+own model and preference to be able to choose. And it will potentially divide us even more,
+
+01:53:44.300 --> 01:53:51.020
+but that's on us humans, we get to figure out. Basically, the technology enables humans to human
+
+01:53:51.900 --> 01:53:57.500
+more effectively. And all the difficult ethical questions that humans raise will just
+
+01:54:00.140 --> 01:54:04.620
+leave it up to us to figure it out. Yeah. I mean, there are some limits to what,
+
+01:54:04.620 --> 01:54:08.700
+the same way there are limits to free speech, there has to be some limit to the kind of stuff
+
+01:54:08.700 --> 01:54:16.780
+that those systems might be authorized to produce, some guardrails. So I mean,
+
+01:54:16.780 --> 01:54:21.180
+that's one thing I've been interested in, which is in the type of architecture that we were
+
+01:54:21.180 --> 01:54:29.660
+discussing before, where the output of a system is a result of an inference to satisfy an objective,
+
+01:54:29.660 --> 01:54:37.500
+that objective can include guardrails. And we can put guardrails in open source systems. I mean,
+
+01:54:37.500 --> 01:54:42.460
+if we eventually have systems that are built with this blueprint, we can put guardrails
+
+01:54:43.420 --> 01:54:48.700
+in those systems that guarantee that there is sort of a minimum set of guardrails that make the
+
+01:54:48.700 --> 01:54:53.020
+system non-dangerous and non-toxic, et cetera, basic things that everybody would agree on.
+
+01:54:55.420 --> 01:55:00.220
+And then the fine tuning that people will add or the additional guardrails that people will add
+
+01:55:00.220 --> 01:55:06.860
+will kind of cater to their community, whatever it is. And yeah, the fine tuning will be more
+
+01:55:06.860 --> 01:55:11.260
+about the gray areas of what is hate speech, what is dangerous and all that kind of stuff.
+
+01:55:11.260 --> 01:55:13.180
+I mean, you've- With different value systems.
+
+01:55:13.180 --> 01:55:18.140
+Still value systems. I mean, but still even with the objectives of how to build a bioweapon,
+
+01:55:18.140 --> 01:55:22.060
+for example, I think something you've commented on, or at least there's a paper
+
+01:55:23.180 --> 01:55:28.460
+where a collection of researchers is trying to understand the social impacts of these LLMs.
+
+01:55:29.260 --> 01:55:39.340
+And I guess one threshold is nice. Does the LLM make it any easier than a Google search would?
+
+01:55:39.340 --> 01:55:45.500
+Right. So the increasing number of studies on this seems to point to
+
+01:55:47.420 --> 01:55:55.580
+the fact that it doesn't help. So having an LLM doesn't help you design or build a bioweapon
+
+01:55:55.580 --> 01:56:00.700
+or a chemical weapon if you already have access to a search engine and a library.
+
+01:56:02.460 --> 01:56:06.780
+And so the increased information you get or the ease with which you get it doesn't really help you.
+
+01:56:07.900 --> 01:56:12.940
+That's the first thing. The second thing is it's one thing to have a list of instructions of how to
+
+01:56:12.940 --> 01:56:20.300
+make a chemical weapon, for example, or bioweapon. It's another thing to actually build it. And it's
+
+01:56:20.300 --> 01:56:23.580
+much harder than you might think, and the LLM will not help you with that.
+
+01:56:25.500 --> 01:56:29.660
+In fact, nobody in the world, not even countries, use bioweapons because
+
+01:56:30.780 --> 01:56:33.980
+most of the times they have no idea how to protect their own populations against it.
+
+01:56:35.420 --> 01:56:43.180
+So it's too dangerous actually to ever use. And it's in fact banned by international treaties.
+
+01:56:43.980 --> 01:56:50.860
+Chemical weapons is different. It's also banned by treaties, but it's the same problem. It's
+
+01:56:50.860 --> 01:56:57.420
+difficult to use in situations that doesn't turn against the perpetrators. But we could ask it on
+
+01:56:57.420 --> 01:57:03.100
+musk. I can give you a very precise list of instructions of how you build a rocket engine.
+
+01:57:04.140 --> 01:57:07.980
+And even if you have a team of 50 engineers that are really experienced building it,
+
+01:57:07.980 --> 01:57:11.100
+you're still going to have to blow up a dozen of them before you get one that works.
+
+01:57:11.100 --> 01:57:18.380
+And it's the same with chemical weapons or bioweapons or things like this. It requires
+
+01:57:18.380 --> 01:57:23.020
+expertise in the real world that the LLM is not going to help you with.
+
+01:57:23.020 --> 01:57:27.580
+And it requires even the common sense expertise that we've been talking about, which is
+
+01:57:28.380 --> 01:57:35.260
+how to take language-based instructions and materialize them in the physical world requires
+
+01:57:35.260 --> 01:57:40.380
+a lot of knowledge. It's not in the instructions. Yeah, exactly. A lot of biologists have posted on
+
+01:57:40.380 --> 01:57:44.620
+this actually in response to those things saying like, do you realize how hard it is to actually
+
+01:57:44.620 --> 01:57:52.540
+do the lab work? I can know this is not trivial. Yeah. And that's Hans Moravec comes to light
+
+01:57:52.540 --> 01:57:58.860
+once again. Just to linger on LLMA, Mark announced that LLMA 3 is coming out eventually. I don't
+
+01:57:58.860 --> 01:58:03.900
+think there's a release date, but what is the latest on the LLMA?
+
+01:58:05.260 --> 01:58:09.500
+What are you most excited about? First of all, LLMA 2 that's already out there and maybe the
+
+01:58:09.500 --> 01:58:17.900
+future, LLMA 3, 4, 5, 6, 10, just the future of the open source under Meta. Well, a number of things.
+
+01:58:17.900 --> 01:58:26.140
+So there's going to be like various versions of LLMA that are improvements of previous LLMAs,
+
+01:58:26.780 --> 01:58:32.860
+bigger, better, multimodal, things like that. And then in future generations, systems that are
+
+01:58:32.860 --> 01:58:37.820
+capable of planning that really understand how the world works. Maybe are trained from video,
+
+01:58:37.820 --> 01:58:42.940
+so they have some world model. Maybe capable of the type of reasoning and planning I was talking
+
+01:58:42.940 --> 01:58:48.380
+about earlier. How long is that going to take? When is the research that is going in that direction
+
+01:58:48.380 --> 01:58:55.100
+going to feed into the product line, if you want, of LLMA? I don't know. I can't tell you. And there
+
+01:58:55.100 --> 01:59:02.700
+is a few breakthroughs that we have to basically go through before we can get there. But you'll
+
+01:59:02.700 --> 01:59:10.700
+be able to monitor our progress because we publish our research. Last week we published the VJEPA
+
+01:59:11.580 --> 01:59:14.620
+work, which is sort of a first step towards training systems for video.
+
+01:59:15.980 --> 01:59:22.860
+And then the next step is going to be world models based on this type of idea, training from video.
+
+01:59:23.580 --> 01:59:30.060
+There's similar work at DeepMind also and taking place people and also at UC Berkeley.
+
+01:59:30.620 --> 01:59:37.500
+A lot of people are working on this. I think a lot of good ideas are appearing.
+
+01:59:38.300 --> 01:59:43.580
+My bet is that those systems are going to be VJEPA-like. They're not going to be generative models.
+
+01:59:45.180 --> 01:59:51.340
+And we'll see what the future will tell. There's really good work at
+
+01:59:53.980 --> 01:59:58.380
+a gentleman called Daniel Haffner, who is now at DeepMind, who has worked on models of this
+
+01:59:58.380 --> 02:00:03.660
+type that learn representations and then use them for planning or learning tasks by reinforcement
+
+02:00:03.660 --> 02:00:11.900
+training. And a lot of work at Berkeley by Peter Abil, Sagil Levin, a bunch of other people of that
+
+02:00:11.900 --> 02:00:17.900
+type. I'm collaborating with actually in the context of some grants with my NYU hat.
+
+02:00:19.820 --> 02:00:25.500
+And then collaborations also through Meta because the lab at Berkeley is associated
+
+02:00:25.500 --> 02:00:35.500
+with Meta in some way, with FAIR. So I think it's very exciting. I haven't been that excited
+
+02:00:35.500 --> 02:00:42.140
+about the direction of machine learning and AI since 10 years ago when FAIR was started,
+
+02:00:42.140 --> 02:00:48.780
+and before that 30 years ago when we were working on 35 on convolutional nets and
+
+02:00:49.100 --> 02:00:56.620
+and the early days of neural nets. So I'm super excited because I see a path towards
+
+02:00:57.340 --> 02:01:03.020
+potentially human level intelligence with systems that can understand the world,
+
+02:01:03.980 --> 02:01:10.460
+remember, plan, reason. There is some set of ideas to make progress there that
+
+02:01:10.460 --> 02:01:15.900
+might have a chance of working. And I'm really excited about this. What I like is that it
+
+02:01:15.900 --> 02:01:23.820
+somewhat we get onto like a good direction and perhaps succeed before my brain turns to
+
+02:01:23.820 --> 02:01:31.180
+a white sauce or before I need to retire. Yeah, yeah. You're also excited by,
+
+02:01:34.140 --> 02:01:40.860
+is it beautiful to you just the amount of GPUs involved, sort of the whole training process on
+
+02:01:40.860 --> 02:01:46.380
+this much compute. It's just zooming out, just looking at earth and humans together
+
+02:01:46.940 --> 02:01:55.260
+have built these computing devices and are able to train this one brain. Then we then open source,
+
+02:01:57.500 --> 02:02:03.660
+like giving birth to this open source brain trained on this gigantic compute system.
+
+02:02:04.220 --> 02:02:09.500
+There's just the details of how to train on that, how to build the infrastructure and the
+
+02:02:09.500 --> 02:02:14.380
+hardware, the cooling, all of this kind of stuff. Or you just still the most of your excitement is
+
+02:02:14.380 --> 02:02:21.100
+in the theory aspect of it. Meaning like the software. I used to be a hardware guy many years
+
+02:02:21.100 --> 02:02:28.700
+ago, decades ago. Hardware has improved a little bit, changed a little bit. Yeah. I mean, certainly
+
+02:02:28.700 --> 02:02:34.780
+scale is necessary, but not sufficient. Absolutely. So we certainly need competition. I mean,
+
+02:02:34.780 --> 02:02:40.780
+we're still far in terms of compute power from what we would need to match the compute power of
+
+02:02:40.780 --> 02:02:47.580
+the human brain. This may occur in the next couple of decades, but we're still some ways away. And
+
+02:02:47.580 --> 02:02:53.260
+certainly in terms of power efficiency, we're really far. So a lot of progress to make in
+
+02:02:54.620 --> 02:03:02.220
+hardware. Right now, a lot of the progress is not, I mean, there's a bit coming from silicon
+
+02:03:02.220 --> 02:03:07.100
+technology, but a lot of it coming from architectural innovation and quite a bit coming
+
+02:03:07.100 --> 02:03:14.140
+from more efficient ways of implementing the architectures that have become popular, basically
+
+02:03:14.140 --> 02:03:22.540
+a combination of transformers and coordinates. So there's still some ways to go until
+
+02:03:25.340 --> 02:03:30.700
+we're going to saturate. We're going to have to come up with new principles, new fabrication
+
+02:03:30.700 --> 02:03:39.660
+technology, new basic components, based on sort of different principles than those classical
+
+02:03:40.300 --> 02:03:50.300
+digital CMOS. Interesting. So you think in order to build AMI, I mean, we potentially might need
+
+02:03:50.300 --> 02:03:56.700
+some hardware innovation too? Well, if we want to make it ubiquitous, yeah, certainly, because we're
+
+02:03:56.700 --> 02:04:05.260
+going to have to reduce the power consumption. A GPU today is half a kilowatt to a kilowatt.
+
+02:04:06.700 --> 02:04:13.580
+Human brain is about 25 watts. And the GPU is way below the power of the human brain. You need
+
+02:04:13.580 --> 02:04:19.420
+something like a hundred thousand or a million to match it. So we are off by a huge factor.
+
+02:04:19.420 --> 02:04:27.500
+Sure. You often say that AGI is not coming soon, meaning like not this year,
+
+02:04:28.460 --> 02:04:35.020
+not the next few years, potentially farther away. What's your basic intuition behind that?
+
+02:04:35.660 --> 02:04:41.900
+So first of all, it's not going to be an event. The idea somehow, which is popularized by
+
+02:04:41.900 --> 02:04:46.940
+science fiction and Hollywood, that somehow somebody is going to discover the secret,
+
+02:04:46.940 --> 02:04:53.260
+the secret to AGI or human level AI or AMI, whatever you want to call it. And then turn on
+
+02:04:53.260 --> 02:04:58.220
+a machine and then we have AGI. That's just not going to happen. It's not going to be an event.
+
+02:04:59.580 --> 02:05:07.020
+It's going to be gradual progress. Are we going to have systems that can learn from video how
+
+02:05:07.020 --> 02:05:12.300
+the world works and learn good representations? Yeah. Before we get them to the scale and
+
+02:05:12.300 --> 02:05:16.220
+performance that we observe in humans, it's going to take quite a while. It's not going to happen in
+
+02:05:16.220 --> 02:05:24.940
+one day. Are we going to get systems that can have large amount of associative memory so they
+
+02:05:24.940 --> 02:05:29.900
+can remember stuff? Yeah, but same, it's not going to happen tomorrow. There are some basic
+
+02:05:29.900 --> 02:05:34.700
+techniques that need to be developed. We have a lot of them, but to get this to work together
+
+02:05:34.700 --> 02:05:39.020
+with a full system is another story. Are we going to have systems that can reason and plan
+
+02:05:39.020 --> 02:05:45.100
+perhaps along the lines of the objective-driven AI architectures that I described before? Yeah,
+
+02:05:45.100 --> 02:05:50.140
+but before we get this to work properly, it's going to take a while. Before we get all those
+
+02:05:50.140 --> 02:05:54.940
+things to work together and then on top of this have systems that can learn hierarchical planning,
+
+02:05:54.940 --> 02:06:00.460
+hierarchical representations, systems that can be configured for a lot of different situations at
+
+02:06:00.460 --> 02:06:08.300
+hands the way the human brain can. All of this is going to take at least a decade and probably
+
+02:06:08.300 --> 02:06:13.980
+much more because there are a lot of problems that we're not seeing right now that we have not
+
+02:06:13.980 --> 02:06:18.140
+encountered. We don't know if there is an easy solution within this framework.
+
+02:06:21.820 --> 02:06:28.460
+It's not just around the corner. I've been hearing people for the last 12-15 years claiming that
+
+02:06:28.460 --> 02:06:33.180
+AGI is just around the corner and being systematically wrong. I knew they were wrong
+
+02:06:33.180 --> 02:06:38.140
+when they were saying it. I called their bullshit. Why do you think people have been calling... First
+
+02:06:38.140 --> 02:06:43.740
+of all, from the beginning, from the birth of the term artificial intelligence, there has been a
+
+02:06:43.820 --> 02:06:50.780
+eternal optimism that's perhaps unlike other technologies. Is it a Moravec paradox?
+
+02:06:51.660 --> 02:06:55.820
+Is the explanation for why people are so optimistic about AGI?
+
+02:06:56.780 --> 02:07:01.100
+I don't think it's just Moravec's paradox. Moravec's paradox is a consequence of realizing
+
+02:07:01.100 --> 02:07:08.460
+that the world is not as easy as we think. First of all, intelligence is not a linear thing that
+
+02:07:08.460 --> 02:07:15.260
+you can measure with a scalar, with a single number. Can you say that humans are smarter than
+
+02:07:16.780 --> 02:07:22.380
+orangutans? In some ways, yes. But in some ways, orangutans are smarter than humans in a lot of
+
+02:07:22.380 --> 02:07:29.500
+domains that allows them to survive in the forest, for example. IQ is a very limited measure of
+
+02:07:29.500 --> 02:07:34.620
+intelligence. Your intelligence is bigger than what IQ, for example, measures. IQ can measure
+
+02:07:35.180 --> 02:07:48.060
+approximately something for humans, because humans come in relatively uniform form,
+
+02:07:50.300 --> 02:07:56.220
+but it only measures one type of ability that may be relevant for some tasks, but not others.
+
+02:07:56.220 --> 02:08:03.020
+But then if you're talking about other intelligent entities for which the
+
+02:08:05.660 --> 02:08:10.380
+basic things that are easy to them is very different, then it doesn't mean anything.
+
+02:08:11.900 --> 02:08:20.860
+Intelligence is a collection of skills and an ability to acquire new skills efficiently.
+
+02:08:21.580 --> 02:08:30.940
+And the collection of skills that an intelligent entity possesses or is capable of learning
+
+02:08:30.940 --> 02:08:35.740
+quickly is different from the collection of skills of another one. And because it's a
+
+02:08:35.740 --> 02:08:42.220
+multidimensional thing, the set of skills is a high dimensional space, you cannot compare two
+
+02:08:42.220 --> 02:08:46.460
+things as to whether one is more intelligent than the other. It's multidimensional.
+
+02:08:47.260 --> 02:08:55.420
+So you push back against what are called AI-doomers a lot. Can you explain their
+
+02:08:55.420 --> 02:09:00.700
+perspective and why you think they're wrong? Okay, so AI-doomers imagine all kinds of
+
+02:09:00.700 --> 02:09:10.380
+catastrophe scenarios of how AI could escape or control and basically kill us all. And that relies
+
+02:09:11.340 --> 02:09:18.620
+on a whole bunch of assumptions that are mostly false. So the first assumption is that the
+
+02:09:18.620 --> 02:09:24.380
+emergence of superintelligence could be an event, that at some point we're going to figure out the
+
+02:09:24.380 --> 02:09:29.820
+secret and we'll turn on a machine that is super intelligent. And because we've never done it
+
+02:09:29.820 --> 02:09:34.380
+before, it's going to take over the world and kill us all. That is false. It's not going to be an
+
+02:09:34.380 --> 02:09:41.500
+event. We're going to have systems that are like as smart as a cat, have all the characteristics of
+
+02:09:42.940 --> 02:09:47.900
+human level intelligence, but their level of intelligence would be like a cat or a parrot
+
+02:09:47.900 --> 02:09:54.700
+maybe or something. And then we're going to work our way up to kind of make those things more
+
+02:09:54.700 --> 02:09:58.380
+intelligent. And as we make them more intelligent, we're also going to put some guardrails in them
+
+02:09:58.380 --> 02:10:02.300
+and learn how to kind of put some guardrails so they behave properly. And we're not going to
+
+02:10:02.300 --> 02:10:06.060
+do this with just one, it's not going to be one effort, but it's going to be lots of different
+
+02:10:06.060 --> 02:10:10.860
+people doing this. And some of them are going to succeed at making intelligent systems that are
+
+02:10:11.980 --> 02:10:15.820
+controllable and safe and have the right guardrails. And if some other goes rogue,
+
+02:10:15.820 --> 02:10:23.100
+then we can use the good ones to go against the rogue ones. So it's going to be my smart AI police
+
+02:10:23.100 --> 02:10:28.300
+against your rogue AI. So it's not going to be like we're going to be exposed to like a single
+
+02:10:28.300 --> 02:10:33.100
+rogue AI that's going to kill us all. That's just not happening. Now there is another fallacy,
+
+02:10:33.100 --> 02:10:37.660
+which is the fact that because the system is intelligent, it necessarily wants to take over.
+
+02:10:40.460 --> 02:10:46.860
+And there is several arguments that make people scared of this, which I think are completely false
+
+02:10:47.820 --> 02:10:55.580
+as well. So one of them is in nature, it seems to be that the more intelligent species are the
+
+02:10:55.580 --> 02:11:03.020
+ones that end up dominating the other. And even, you know, extinguishing the others,
+
+02:11:03.580 --> 02:11:11.180
+sometimes by design, sometimes just by mistake. And so, you know, there is sort of
+
+02:11:12.540 --> 02:11:17.260
+thinking by which you say, well, if AI systems are more intelligent than us,
+
+02:11:17.260 --> 02:11:22.780
+surely they're going to eliminate us if not by design, simply because they don't care about us.
+
+02:11:22.860 --> 02:11:28.140
+And that's just preposterous for a number of reasons. First reason is they're not going to
+
+02:11:28.140 --> 02:11:33.020
+be a species. They're not going to be a species that competes with us. They're not going to have
+
+02:11:33.020 --> 02:11:37.420
+the desire to dominate because the desire to dominate is something that has to be hardwired
+
+02:11:37.420 --> 02:11:45.900
+into an intelligent system. It is hardwired in humans. It is hardwired in baboons, in chimpanzees,
+
+02:11:46.860 --> 02:11:55.420
+in wolves, not in orangutans. The species in which this desire to dominate or submit
+
+02:11:56.860 --> 02:12:04.380
+or attain status in other ways is specific to social species. Non-social species like
+
+02:12:04.380 --> 02:12:09.340
+orangutans don't have it, right? And they are as smart as we are almost, right?
+
+02:12:09.340 --> 02:12:15.020
+And to you, there's not significant incentive for humans to encode that into the AI systems
+
+02:12:15.020 --> 02:12:21.820
+and to the degree they do, there'll be other AIs that sort of punish them for it.
+
+02:12:21.820 --> 02:12:23.660
+I'll compete them over it. Well, there's all kinds of
+
+02:12:23.660 --> 02:12:28.140
+incentive to make AI systems submissive to humans, right? I mean, this is the way we're
+
+02:12:28.140 --> 02:12:33.740
+going to build them, right? And so then people say, oh, but look at LLMs. LLMs are not controllable.
+
+02:12:33.740 --> 02:12:40.060
+And they're right. LLMs are not controllable. But objective-driven AI, so systems that derive their
+
+02:12:40.060 --> 02:12:45.820
+answers by optimization of an objective means they have to optimize this objective. And that
+
+02:12:45.820 --> 02:12:53.980
+objective can include guardrails. One guardrail is obey humans. Another guardrail is don't obey
+
+02:12:53.980 --> 02:12:59.420
+humans if it's hurting other humans. I've heard that before somewhere. I don't remember.
+
+02:12:59.420 --> 02:13:04.540
+Yes. Maybe in a book. Yeah. But speaking of that book,
+
+02:13:05.340 --> 02:13:08.940
+could there be unintended consequences also from all of this?
+
+02:13:08.940 --> 02:13:14.460
+No, of course. So this is not a simple problem, right? I mean, designing those guardrails so
+
+02:13:14.460 --> 02:13:21.580
+that the system behaves properly is not going to be a simple issue for which there is a silver
+
+02:13:21.580 --> 02:13:26.300
+bullet, for which you have a mathematical proof that the system can be safe. It's going to be
+
+02:13:26.300 --> 02:13:31.500
+a very progressive, iterative design system where we put those guardrails in such a way
+
+02:13:31.500 --> 02:13:36.940
+that the system behaves properly. And sometimes they're going to do something that was unexpected
+
+02:13:36.940 --> 02:13:40.140
+because the guardrail wasn't right, and we're going to correct them so that they do it right.
+
+02:13:40.860 --> 02:13:45.260
+The idea somehow that we can't get it slightly wrong, because if we get it slightly wrong,
+
+02:13:45.260 --> 02:13:54.620
+we all die, is ridiculous. We're just going to go progressively. And the analogy I've used many
+
+02:13:54.620 --> 02:14:05.260
+times is turbojet design. How did we figure out how to make turbojets so unbelievably reliable?
+
+02:14:07.180 --> 02:14:12.860
+Those are incredibly complex pieces of hardware that run at really high temperatures for
+
+02:14:14.460 --> 02:14:22.140
+20 hours at a time sometimes. And we can fly halfway around the world on a two-engine
+
+02:14:24.940 --> 02:14:29.660
+jetliner at near the speed of sound. How incredible is this? It's just unbelievable.
+
+02:14:29.740 --> 02:14:36.940
+Right. And did we do this because we invented a general principle of how to make turbojets safe?
+
+02:14:36.940 --> 02:14:42.540
+No. It took decades to kind of fine-tune the design of those systems so that they were safe.
+
+02:14:43.180 --> 02:14:50.140
+Is there a separate group within General Electric or SNECMA or whatever that
+
+02:14:51.500 --> 02:14:57.900
+is specialized in turbojet safety? No. The design is all about safety,
+
+02:14:58.700 --> 02:15:03.820
+because a better turbojet is also a safer turbojet. So a more reliable one. It's the same
+
+02:15:03.820 --> 02:15:10.300
+for AI. Do you need specific provisions to make AI safe? No. You need to make better AI systems
+
+02:15:10.300 --> 02:15:16.220
+and they will be safe because they are designed to be more useful and more controllable.
+
+02:15:16.220 --> 02:15:22.220
+So let's imagine a system, AI system, that's able to be incredibly convincing
+
+02:15:23.180 --> 02:15:30.940
+and can convince you of anything. I can at least imagine such a system. And I can see such a system
+
+02:15:30.940 --> 02:15:38.060
+be weapon-like because it can control people's minds. We're pretty gullible. We want to believe
+
+02:15:38.060 --> 02:15:42.860
+a thing. You can have an AI system that controls it. And you could see governments using that as a
+
+02:15:42.860 --> 02:15:51.020
+weapon. So do you think if you imagine such a system, there's any parallel to something
+
+02:15:51.020 --> 02:15:59.420
+like nuclear weapons? No. So why is that technology different? You're saying there's
+
+02:15:59.420 --> 02:16:06.220
+going to be gradual development. It might be rapid, but there'll be iterative and then we'll
+
+02:16:06.220 --> 02:16:13.500
+be able to respond and so on. So that AI system designed by Vladimir Putin or whatever, or his
+
+02:16:14.460 --> 02:16:23.420
+minions, is going to be trying to talk to every American to convince them to vote for
+
+02:16:24.780 --> 02:16:37.580
+whoever pleases Putin or whatever, or rile people up against each other as they've been trying to do.
+
+02:16:38.940 --> 02:16:42.860
+They're not going to be talking to you. They're going to be talking to your AI assistant.
+
+02:16:44.220 --> 02:16:51.740
+Which is going to be as smart as theirs. Because as I said, in the future, every single one of
+
+02:16:51.740 --> 02:16:56.140
+your interactions with the digital world will be mediated by your AI assistant. So the first thing
+
+02:16:56.140 --> 02:17:01.660
+you're going to ask is, is this a scam? Is this thing telling me the truth? It's not even going
+
+02:17:01.660 --> 02:17:08.860
+to be able to get to you because it's only going to talk to your AI assistant. It's going to be
+
+02:17:08.860 --> 02:17:14.940
+like a spam filter. You're not even seeing the email, the spam email. It's automatically put
+
+02:17:14.940 --> 02:17:20.300
+in a folder that you never see. It's going to be the same thing. That AI system that tries to
+
+02:17:20.300 --> 02:17:23.740
+convince you of something is going to be talking to your AI assistant, which is going to be at
+
+02:17:23.740 --> 02:17:31.420
+least as smart as it. It's going to say, this is spam. It's not even going to bring it to your
+
+02:17:31.420 --> 02:17:37.180
+attention. So to you, it's very difficult for any one AI system to take such a big leap ahead
+
+02:17:37.180 --> 02:17:43.660
+to where it can convince even the other AI systems. There's always going to be this kind of
+
+02:17:43.660 --> 02:17:50.220
+race where nobody's way ahead. That's the history of the world. History of the world is whenever
+
+02:17:50.220 --> 02:17:57.420
+there is a progress someplace, there is a countermeasure. It's a cat and mouse game.
+
+02:17:57.420 --> 02:18:03.180
+This is why, mostly yes, but this is why nuclear weapons are so interesting because that was such
+
+02:18:03.180 --> 02:18:12.540
+a powerful weapon that it mattered who got it first. You could imagine Hitler, Stalin,
+
+02:18:15.340 --> 02:18:20.620
+Mao getting the weapon first and that having a different kind of impact on the world than
+
+02:18:21.420 --> 02:18:29.500
+the United States getting the weapon first. To you, nuclear weapons, you don't imagine a
+
+02:18:30.460 --> 02:18:35.580
+breakthrough discovery and then Manhattan project-like effort for AI.
+
+02:18:35.580 --> 02:18:43.820
+No. As I said, it's not going to be an event. It's going to be continuous progress. Whenever
+
+02:18:44.780 --> 02:18:48.060
+one breakthrough occurs, it's going to be widely disseminated really quickly,
+
+02:18:48.780 --> 02:18:55.340
+probably first within industry. This is not a domain where government or military organizations
+
+02:18:55.420 --> 02:19:02.220
+are particularly innovative and they're in fact way behind. This is going to come from industry
+
+02:19:02.220 --> 02:19:06.700
+and this kind of information disseminates extremely quickly. We've seen this over the
+
+02:19:06.700 --> 02:19:13.340
+last few years where even take AlphaGo, this was reproduced within three months
+
+02:19:14.700 --> 02:19:19.740
+even without particularly detailed information. Yeah, this is an industry that's not good at
+
+02:19:19.740 --> 02:19:24.860
+secrecy. No, but even if there is, just the fact that you know that something is possible
+
+02:19:26.860 --> 02:19:32.060
+makes you realize that it's worth investing the time to actually do it. You may be the second
+
+02:19:32.060 --> 02:19:42.620
+person to do it, but you'll do it. Same for all the innovations of self-supervised
+
+02:19:42.620 --> 02:19:48.620
+learning transformers, decoder-only architectures, LLMs. Those things, you don't need to know exactly
+
+02:19:48.620 --> 02:19:53.740
+the details of how they work to know that it's possible because it's deployed and then it's
+
+02:19:53.740 --> 02:20:01.260
+getting reproduced. People who work for those companies move. They go from one company to
+
+02:20:01.260 --> 02:20:09.660
+another and the information disseminates. What makes the success of the US tech industry and
+
+02:20:09.660 --> 02:20:13.100
+Silicon Valley in particular is exactly that. It's because the information circulates really,
+
+02:20:13.100 --> 02:20:21.900
+really quickly and this disseminates very quickly. The whole region is ahead because
+
+02:20:21.900 --> 02:20:28.380
+of that circulation of information. Just to linger on the psychology of AI-doomers,
+
+02:20:28.380 --> 02:20:35.580
+you give, in the classic Yann LeCun way, a pretty good example of just when a new technology comes
+
+02:20:35.580 --> 02:20:45.100
+to be. You say, engineer says, I invented this new thing. I call it a ball pen. And then the
+
+02:20:45.100 --> 02:20:49.740
+Twittersphere responds, OMG, people could write horrible things with it like misinformation,
+
+02:20:49.740 --> 02:20:57.580
+propaganda, hate speech, ban it now. Then writing-doomers come in, akin to the AI-doomers.
+
+02:20:57.580 --> 02:21:02.940
+Imagine if everyone can get a ball pen. This could destroy society. There should be a law
+
+02:21:02.940 --> 02:21:08.220
+against using ball pen to write hate speech. Regulate ball pens now. And then the pencil
+
+02:21:08.220 --> 02:21:14.940
+industry mogul says, yeah, ball pens are very dangerous. Unlike pencil writing, which is
+
+02:21:14.940 --> 02:21:20.460
+erasable, ball pen writing stays forever. Government should require a license for a
+
+02:21:20.460 --> 02:21:30.380
+pen manufacturer. I mean, this does seem to be part of human psychology when it comes up against
+
+02:21:30.380 --> 02:21:36.620
+new technology. What deep insights can you speak to about this?
+
+02:21:37.500 --> 02:21:45.820
+Well, there is a natural fear of new technology and the impact it can have on society. And people
+
+02:21:45.820 --> 02:21:55.420
+have kind of instinctive reaction to the world they know being threatened by major transformations
+
+02:21:56.220 --> 02:22:02.780
+that are either cultural phenomena or technological revolutions. And they fear for
+
+02:22:03.900 --> 02:22:09.580
+their culture, they fear for their job, they fear for their future of their children
+
+02:22:11.260 --> 02:22:21.900
+and their way of life. So any change is feared. And you see this along history, any technological
+
+02:22:21.900 --> 02:22:29.980
+revolution or cultural phenomenon was always accompanied by groups or reaction in the media
+
+02:22:31.740 --> 02:22:39.100
+that basically attributed all the problems, the current problems of society to that particular
+
+02:22:39.100 --> 02:22:47.500
+change. Electricity was going to kill everyone at some point. The train was going to be a horrible
+
+02:22:47.500 --> 02:22:53.420
+thing because you can't breathe past 50 kilometers an hour. And so there's a wonderful
+
+02:22:53.420 --> 02:23:00.780
+website called the Pessimist Archive, which has all those newspaper clips of all the horrible
+
+02:23:00.780 --> 02:23:09.020
+things people imagine would arrive because of either technological innovation or a cultural
+
+02:23:09.020 --> 02:23:23.100
+phenomenon. This is wonderful examples of jazz or comic books being blamed for unemployment or
+
+02:23:23.980 --> 02:23:30.300
+young people not wanting to work anymore and things like that. And that has existed for centuries.
+
+02:23:30.300 --> 02:23:44.220
+And it's knee-jerk reactions. The question is, do we embrace change or do we resist it? And
+
+02:23:45.900 --> 02:23:50.140
+what are the real dangers as opposed to the imagined ones?
+
+02:23:51.580 --> 02:23:57.340
+So I think one thing they worry about with big tech is something we've been talking about over
+
+02:23:57.340 --> 02:24:04.700
+and over. But I think worth mentioning again, they worry about how powerful AI will be.
+
+02:24:05.740 --> 02:24:11.340
+And they worry about it being in the hands of one centralized power of just a handful of
+
+02:24:11.340 --> 02:24:17.180
+central control. And so that's the skepticism with big tech you can make. These companies can
+
+02:24:17.180 --> 02:24:25.500
+make a huge amount of money and control this technology. And by so doing, take advantage,
+
+02:24:26.460 --> 02:24:31.660
+abuse the little guy in society. Well, that's exactly why we need open source platforms.
+
+02:24:31.660 --> 02:24:39.340
+Yeah, I just want to nail the point home more and more. Yes. So let me ask you on your,
+
+02:24:40.380 --> 02:24:45.740
+like I said, you do get a little bit flavorful on the internet.
+
+02:24:46.540 --> 02:24:53.740
+Yosha Bach tweeted something that you LOLed at in reference to Hal 9000, quote,
+
+02:24:53.820 --> 02:24:59.580
+I appreciate your argument and I fully understand your frustration, but whether the pod bay doors
+
+02:24:59.580 --> 02:25:06.460
+should be opened or closed is a complex and nuanced issue. So you're at the head of meta AI.
+
+02:25:09.100 --> 02:25:17.260
+This is something that really worries me that AI overlords will speak down to us with corporate
+
+02:25:17.260 --> 02:25:23.100
+speak of this nature. And you sort of resist that with your way of being.
+
+02:25:24.620 --> 02:25:32.300
+Is this something you can just comment on, sort of working at a big company, how you can avoid the
+
+02:25:34.460 --> 02:25:41.260
+overfearing, I suppose, through caution create harm?
+
+02:25:41.260 --> 02:25:47.180
+Yeah. Again, I think the answer to this is open source platforms and then enabling
+
+02:25:47.660 --> 02:25:55.740
+a widely diverse set of people to build AI assistance that represent the diversity of
+
+02:25:56.300 --> 02:26:01.500
+cultures, opinions, languages, and value systems across the world so that you're not bound to just
+
+02:26:03.340 --> 02:26:09.660
+be brainwashed by a particular way of thinking because of a single AI entity.
+
+02:26:10.620 --> 02:26:16.220
+So, I mean, I think it's really, really important question for society. And the problem I'm seeing
+
+02:26:16.220 --> 02:26:25.020
+is that, which is why I've been so vocal and sometimes a little sardonic about it.
+
+02:26:25.020 --> 02:26:29.260
+Never stop. Never stop, yeah. We love it.
+
+02:26:29.260 --> 02:26:32.940
+It's because I see the danger of this concentration of power through
+
+02:26:34.060 --> 02:26:38.700
+proprietary AI systems as a much bigger danger than everything else.
+
+02:26:39.660 --> 02:26:48.460
+That if we really want diversity of opinion, AI systems, in the future,
+
+02:26:49.420 --> 02:26:55.260
+we'll all be interacting through AI systems. We need those to be diverse for the preservation of
+
+02:26:57.020 --> 02:27:03.500
+diversity of ideas and creeds and political opinions and whatever,
+
+02:27:04.460 --> 02:27:14.140
+and the preservation of democracy. And what works against this is people who think that for reasons
+
+02:27:14.140 --> 02:27:20.460
+of security, we should keep AI systems under lock and key because it's too dangerous to put it in
+
+02:27:20.460 --> 02:27:29.660
+the hands of everybody because it could be used by terrorists or something. That would lead to
+
+02:27:29.660 --> 02:27:38.940
+potentially a very bad future in which all of our information diet is controlled by a small number of
+
+02:27:38.940 --> 02:27:46.940
+companies who proprietary systems. Do you trust humans with this technology to
+
+02:27:47.980 --> 02:27:51.900
+build systems that are on the whole good for humanity?
+
+02:27:51.900 --> 02:27:54.940
+Isn't that what democracy and free speech is all about?
+
+02:27:54.940 --> 02:27:58.140
+I think so. Do you trust institutions to do the right thing?
+
+02:27:58.140 --> 02:28:05.740
+Do you trust people to do the right thing? There are bad people who are going to do bad things, but
+
+02:28:05.740 --> 02:28:09.580
+they're not going to have superior technology to the good people. Then it's going to be my
+
+02:28:09.580 --> 02:28:17.020
+good AI against your bad AI. There are examples that we were just talking about of maybe
+
+02:28:18.220 --> 02:28:23.900
+some rogue country will build some AI system that's going to try to convince everybody to
+
+02:28:24.460 --> 02:28:33.340
+go into a civil war or something or elect a favorable ruler. But then they will have to go
+
+02:28:33.340 --> 02:28:38.940
+past our AI systems. An AI system with a strong Russian accent will be trying to convince us.
+
+02:28:38.940 --> 02:28:42.460
+And doesn't put any articles in their sentences.
+
+02:28:42.460 --> 02:28:55.420
+It will be at the very least absurdly comedic. Since we talked about the physical reality,
+
+02:28:55.420 --> 02:29:01.500
+I'd love to ask your vision of the future with robots in this physical reality. Many of the
+
+02:29:02.140 --> 02:29:07.660
+kinds of intelligence you've been speaking about would empower robots to be more effective
+
+02:29:08.540 --> 02:29:15.660
+collaborators with us humans. Since Tesla's Optimus team has been showing off some progress
+
+02:29:15.660 --> 02:29:21.180
+on humanoid robots, I think it really reinvigorated the whole industry. I think
+
+02:29:21.180 --> 02:29:25.500
+Boston Dynamics has been leading for a very, very long time. Now there's all kinds of companies,
+
+02:29:25.500 --> 02:29:35.980
+Figure AI, Boston Dynamics, Union Tree, but there's a lot of them. It's great. I love it.
+
+02:29:38.540 --> 02:29:43.020
+Do you think there'll be millions of humanoid robots walking around soon?
+
+02:29:43.820 --> 02:29:48.060
+Not soon, but it's going to happen. The next decade, I think, is going to be really
+
+02:29:48.140 --> 02:29:55.900
+interesting in robots. The emergence of the robotics industry has been in the waiting for
+
+02:29:56.700 --> 02:30:02.220
+10, 20 years without really emerging other than for pre-programmed behavior and stuff like that.
+
+02:30:05.420 --> 02:30:10.380
+The main issue is, again, the Moravec paradox. How do we get the system to understand how the
+
+02:30:10.380 --> 02:30:15.420
+world works and plan actions? We can do it for really specialized tasks.
+
+02:30:19.020 --> 02:30:22.540
+The way Boston Dynamics goes about it is basically with a lot of
+
+02:30:23.500 --> 02:30:30.780
+handcrafted dynamical models and careful planning in advance, which is very classical robotics with
+
+02:30:30.780 --> 02:30:36.940
+a lot of innovation, a little bit of perception. But it's still not like they can't build a domestic
+
+02:30:36.940 --> 02:30:45.820
+robot. We're still some distance away from completely autonomous level five driving.
+
+02:30:48.060 --> 02:30:54.300
+We're certainly very far away from having level five autonomous driving by a system that can
+
+02:30:54.300 --> 02:31:07.020
+train itself by driving 20 hours like any 17-year-old. So until we have, again, world
+
+02:31:07.020 --> 02:31:13.900
+models, systems that can train themselves to understand how the world works, we're not going
+
+02:31:13.900 --> 02:31:20.380
+to have significant progress in robotics. So a lot of the people working on robotic hardware
+
+02:31:20.380 --> 02:31:26.860
+at the moment are betting or banking on the fact that AI is going to make sufficient progress
+
+02:31:26.860 --> 02:31:33.580
+towards that. And they're hoping to discover a product in it too. Before you have a really
+
+02:31:33.580 --> 02:31:40.860
+strong world model, there'll be an almost strong world model. And people are trying to find a
+
+02:31:40.860 --> 02:31:46.540
+product in a clumsy robot, I suppose, not a perfectly efficient robot. So there's the factory
+
+02:31:46.540 --> 02:31:52.140
+setting where humanoid robots can help automate some aspects of the factory. I think that's a
+
+02:31:52.140 --> 02:31:55.900
+crazy, difficult task because of all the safety required and all this kind of stuff.
+
+02:31:55.900 --> 02:31:59.100
+I think in the home is more interesting, but then you start to think,
+
+02:32:00.300 --> 02:32:06.540
+I think you mentioned loading the dishwasher, right? I suppose that's one of the main problems
+
+02:32:06.540 --> 02:32:16.300
+you're working on. I mean, there's cleaning up, cleaning the house, clearing up the table after
+
+02:32:16.300 --> 02:32:23.260
+a meal, washing the dishes, all those tasks, cooking. All the tasks that, in principle,
+
+02:32:23.260 --> 02:32:27.420
+could be automated, but are actually incredibly sophisticated, really complicated.
+
+02:32:28.060 --> 02:32:31.980
+But even just basic navigation around a space full of uncertainty.
+
+02:32:31.980 --> 02:32:36.460
+That sort of works. You can sort of do this now. Navigation is fine.
+
+02:32:37.180 --> 02:32:42.780
+Well, navigation in a way that's compelling to us humans is a different thing.
+
+02:32:42.780 --> 02:32:47.500
+Yeah, it's not going to be necessarily. I mean, we have demos actually, because there is a
+
+02:32:48.540 --> 02:32:55.900
+so-called embodied AI group at fair. And they've been not building their own robots, but using
+
+02:32:55.900 --> 02:33:03.180
+commercial robots. And you can tell a robot dog, go to the fridge and it can actually open the
+
+02:33:03.180 --> 02:33:08.460
+fridge and it can probably pick up a can in the fridge and stuff like that and bring it to you.
+
+02:33:09.260 --> 02:33:14.620
+So it can navigate, it can grab objects as long as it's been trying to recognize them,
+
+02:33:14.620 --> 02:33:21.500
+which vision systems work pretty well nowadays. But it's not like a completely general
+
+02:33:21.740 --> 02:33:27.740
+robot that would be sophisticated enough to do things like clearing up the dinner table.
+
+02:33:29.740 --> 02:33:34.540
+Yeah, to me, that's an exciting future of getting humanoid robots, robots in general,
+
+02:33:34.540 --> 02:33:39.500
+and the whole more and more because that gets humans to really directly interact with AI
+
+02:33:39.500 --> 02:33:43.900
+systems in the physical space. And in so doing, it allows us to philosophically,
+
+02:33:43.900 --> 02:33:49.260
+psychologically explore our relationships with robots can be really, really, really interesting.
+
+02:33:49.340 --> 02:33:52.860
+So I hope you make progress on the whole Java thing soon.
+
+02:33:52.860 --> 02:34:01.660
+Well, I mean, I hope things work as planned. I mean, again, we've been kind of working on
+
+02:34:01.660 --> 02:34:09.660
+this idea of self-supervised learning from video for 10 years and only made significant progress
+
+02:34:09.660 --> 02:34:12.860
+in the last two or three. And actually, you've mentioned that
+
+02:34:12.860 --> 02:34:17.020
+there's a lot of interesting breakthroughs that can happen without having access to a lot of compute.
+
+02:34:17.980 --> 02:34:18.220
+Yeah.
+
+02:34:18.220 --> 02:34:21.500
+So if you're interested in doing a PhD in this kind of stuff,
+
+02:34:21.500 --> 02:34:26.380
+there's a lot of possibilities still to do innovative work. So like, what advice would
+
+02:34:26.380 --> 02:34:31.260
+you give to a undergrad that's looking to go to grad school and do a PhD?
+
+02:34:32.220 --> 02:34:38.300
+So basically, I've listed them already, this idea of how do you train a world model by observation.
+
+02:34:39.660 --> 02:34:43.740
+And you don't have to train necessarily on gigantic data sets or
+
+02:34:44.140 --> 02:34:47.900
+I mean, it could turn out to be necessary to actually train on large data sets to have
+
+02:34:47.900 --> 02:34:51.900
+emergent properties like we have with other lamps. But I think there's a lot of good ideas
+
+02:34:51.900 --> 02:34:57.740
+that can be done without necessarily scaling up. Then there is how do you do planning with
+
+02:34:57.740 --> 02:35:02.860
+a learned world model. If the world the system evolves in is not the physical world, but is the
+
+02:35:02.860 --> 02:35:11.340
+world of, let's say, the internet or some sort of world of where an action consists in doing a
+
+02:35:12.300 --> 02:35:18.700
+search in a search engine or interrogating a database or running a simulation or calling
+
+02:35:18.700 --> 02:35:24.620
+a calculator or solving a differential equation. How do you get a system to actually plan a sequence
+
+02:35:24.620 --> 02:35:34.060
+of actions to give the solution to a problem? So the question of planning is not just a question of
+
+02:35:34.060 --> 02:35:40.540
+planning physical actions. It could be planning actions to use tools for a dialogue system or for
+
+02:35:40.540 --> 02:35:46.940
+any kind of intelligent system. And there's some work on this, but not a huge amount.
+
+02:35:46.940 --> 02:35:54.060
+Some work at FAIR, one called Toolformer, which was a couple years ago, and some more recent work
+
+02:35:54.060 --> 02:36:01.420
+on planning. But I don't think we have a good solution for any of that. Then there is the
+
+02:36:02.220 --> 02:36:09.340
+question of hierarchical planning. So the example I mentioned of planning a trip from New York to
+
+02:36:09.340 --> 02:36:15.340
+Paris, that's hierarchical. But almost every action that we take involves hierarchical planning
+
+02:36:15.340 --> 02:36:22.540
+in some sense. And we really have absolutely no idea how to do this. There's zero demonstration
+
+02:36:22.540 --> 02:36:34.540
+of hierarchical planning in AI where the various levels of representations that are necessary
+
+02:36:34.540 --> 02:36:40.940
+have been learned. We can do two-level hierarchical planning when we design the two levels.
+
+02:36:40.940 --> 02:36:48.140
+So for example, you have a dog-lag robot. You want it to go from the living room to the kitchen.
+
+02:36:48.140 --> 02:36:55.100
+You can plan a path that avoids the obstacle. And then you can send this to a lower-level planner
+
+02:36:55.100 --> 02:37:01.100
+that figures out how to move the legs to follow that trajectory. So that works. But that two-level
+
+02:37:01.100 --> 02:37:10.380
+planning is designed by hand. We specify what the proper levels of abstraction, the representation
+
+02:37:10.380 --> 02:37:15.820
+at each level of abstraction have to be. How do you learn this? How do you learn that hierarchical
+
+02:37:15.820 --> 02:37:23.500
+representation of action plans? With cognitive and deep learning, we can train the system to
+
+02:37:23.500 --> 02:37:29.100
+learn hierarchical representations of percepts. What is the equivalent when what you're trying
+
+02:37:29.100 --> 02:37:34.940
+to represent our action plans? For action plans, yeah. So you want basically a robot dog or humanoid
+
+02:37:34.940 --> 02:37:42.300
+robot that turns on and travels from New York to Paris all by itself. For example. All right.
+
+02:37:42.860 --> 02:37:49.660
+It might have some trouble at the TSA. No, but even doing something fairly simple like a household
+
+02:37:49.660 --> 02:37:56.380
+task, like cooking or something. Yeah, there's a lot involved. It's a super complex task.
+
+02:37:57.340 --> 02:38:04.780
+And once again, we take it for granted. What hope do you have for the future of humanity?
+
+02:38:05.900 --> 02:38:10.300
+We're talking about so many exciting technologies, so many exciting possibilities. What gives you hope
+
+02:38:10.300 --> 02:38:17.580
+when you look out over the next 10, 20, 50, 100 years? If you look at social media, there's wars
+
+02:38:17.580 --> 02:38:24.460
+going on. There's division. There's hatred, all this kind of stuff. That's also part of humanity.
+
+02:38:24.460 --> 02:38:29.740
+But amidst all that, what gives you hope? I love that question.
+
+02:38:34.300 --> 02:38:43.820
+We can make humanity smarter with AI. AI basically will amplify human intelligence.
+
+02:38:45.100 --> 02:38:53.340
+It's as if every one of us will have a staff of smart AI assistants. They might be smarter than us.
+
+02:38:54.460 --> 02:39:04.060
+They'll do our bidding, perhaps execute tasks in ways that are much better than we could do
+
+02:39:04.060 --> 02:39:11.020
+ourselves because they'd be smarter than us. And so it's like everyone would be the boss of a
+
+02:39:11.660 --> 02:39:18.620
+staff of super smart virtual people. So we shouldn't feel threatened by this any more
+
+02:39:18.620 --> 02:39:23.660
+than we should feel threatened by being the manager of a group of people, some of whom are
+
+02:39:23.660 --> 02:39:32.940
+more intelligent than us. I certainly have a lot of experience with this, of having people working
+
+02:39:32.940 --> 02:39:39.420
+with me who are smarter than me. That's actually a wonderful thing. So having machines that are
+
+02:39:39.420 --> 02:39:44.940
+smarter than us that assist us in all of our tasks or daily lives, whether it's professional
+
+02:39:44.940 --> 02:39:49.660
+or personal, I think would be an absolutely wonderful thing because intelligence is the most
+
+02:39:50.380 --> 02:39:55.820
+is the commodity that is most in demand. That's really what, I mean, all the mistakes that humanity
+
+02:39:55.820 --> 02:40:00.700
+makes is because of lack of intelligence, really, or lack of knowledge, which is, you know, related.
+
+02:40:01.820 --> 02:40:08.780
+So making people smarter can only be better. I mean, for the same reason that public education
+
+02:40:08.780 --> 02:40:16.460
+is a good thing and books are a good thing and the internet is also a good thing intrinsically.
+
+02:40:17.420 --> 02:40:23.100
+And even social networks are a good thing if you run them properly. It's difficult, but you can.
+
+02:40:25.900 --> 02:40:33.500
+Because, you know, it helps the communication of information and knowledge and the transmission
+
+02:40:33.500 --> 02:40:39.260
+of knowledge. So AI is going to make humanity smarter. And the analogy I've been using
+
+02:40:40.220 --> 02:40:49.740
+is the fact that perhaps an equivalent event in the history of humanity to what might be provided
+
+02:40:49.740 --> 02:40:55.820
+by the generalization of AI assistant is the invention of the printing press. It made everybody
+
+02:40:55.820 --> 02:41:05.020
+smarter. The fact that people could have access to books, books were a lot cheaper than they were
+
+02:41:05.340 --> 02:41:11.900
+before. And so a lot more people had an incentive to learn to read, which wasn't the case before.
+
+02:41:14.140 --> 02:41:21.820
+And people became smarter. It enabled the enlightenment, right? There wouldn't be an
+
+02:41:21.820 --> 02:41:32.060
+enlightenment without the printing press. It enabled philosophy, rationalism, escape from
+
+02:41:32.060 --> 02:41:44.620
+religious doctrine, democracy, science. And certainly without this, there wouldn't have
+
+02:41:44.620 --> 02:41:49.020
+been the American Revolution or the French Revolution. And so it would still be under
+
+02:41:49.020 --> 02:41:58.780
+a feudal regime, perhaps. And so it completely transformed the world because people became
+
+02:41:58.780 --> 02:42:06.860
+smarter and kind of learned about things. Now, it also created 200 years of essentially religious
+
+02:42:06.860 --> 02:42:14.300
+conflicts in Europe, right? Because the first thing that people read was the Bible and realized
+
+02:42:14.300 --> 02:42:18.140
+that perhaps there was a different interpretation of the Bible than what the priests were telling
+
+02:42:18.140 --> 02:42:24.860
+them. And so that created the Protestant movement and created the rift. And in fact, the Catholic
+
+02:42:24.860 --> 02:42:29.020
+school, the Catholic church didn't like the idea of the printing press, but they had no choice.
+
+02:42:29.740 --> 02:42:34.060
+And so it had some bad effects and some good effects. I don't think anyone today would say
+
+02:42:34.060 --> 02:42:39.180
+that the invention of the printing press had an overall negative effect, despite the fact that it
+
+02:42:39.180 --> 02:42:47.420
+created 200 years of religious conflicts in Europe. Now, compare this. And I thought,
+
+02:42:48.220 --> 02:42:52.460
+I was very proud of myself to come up with this analogy, but realized someone else
+
+02:42:53.180 --> 02:42:57.660
+came up with the same idea before me. Compare this with what happened in the Ottoman Empire.
+
+02:42:58.700 --> 02:43:03.580
+The Ottoman Empire banned the printing press for 200 years.
+
+02:43:07.260 --> 02:43:13.740
+And it didn't ban it for all languages, only for Arabic. You could actually print books in
+
+02:43:13.740 --> 02:43:19.020
+Latin or Hebrew or whatever in the Ottoman Empire, just not in Arabic.
+
+02:43:20.540 --> 02:43:29.260
+And I thought it was because the rulers just wanted to preserve the control over the population
+
+02:43:29.260 --> 02:43:36.860
+and the dogma, religious dogma and everything. But after talking with the UAE minister of AI,
+
+02:43:36.860 --> 02:43:48.700
+Omar Al-Omar, he told me, no, there was another reason. And the other reason was that it was to
+
+02:43:48.700 --> 02:43:57.900
+preserve the corporation of calligraphers. There's an art form, which is writing those beautiful
+
+02:43:58.620 --> 02:44:06.700
+Arabic poems or whatever religious text in the thing. And it was a very powerful corporation
+
+02:44:06.700 --> 02:44:14.060
+of scribes, basically, that run a big chunk of the empire. And we couldn't put them out of business,
+
+02:44:14.060 --> 02:44:18.220
+so they banned the printing press in part to protect that business.
+
+02:44:21.180 --> 02:44:26.060
+Now, what's the analogy for AI today? Who are we protecting by banning AI? Who are the people who
+
+02:44:26.060 --> 02:44:34.300
+are asking that AI be regulated to protect their jobs? And of course, it's a real question
+
+02:44:35.100 --> 02:44:43.180
+of what is going to be the effect of technological transformation like AI on the job market
+
+02:44:44.140 --> 02:44:49.020
+and the labor market. And there are economists who are much more expert at this than I am.
+
+02:44:49.020 --> 02:44:55.900
+But when I talk to them, they tell us, we're not going to run out of job. This is not going
+
+02:44:55.900 --> 02:45:02.060
+to cause mass unemployment. This is just going to be gradual shift of different professions.
+
+02:45:02.060 --> 02:45:08.060
+The professions are going to be hot 10 or 15 years from now. We have no idea today what they're going
+
+02:45:08.060 --> 02:45:15.260
+to be. The same way, if you go back 20 years in the past, who could have thought 20 years ago that
+
+02:45:15.260 --> 02:45:22.460
+the hottest job, even five, 10 years ago, was mobile app developer? Smartphones weren't invented.
+
+02:45:23.260 --> 02:45:25.980
+Most of the jobs of the future might be in the metaverse.
+
+02:45:26.860 --> 02:45:28.140
+Well, it could be. Yeah.
+
+02:45:28.860 --> 02:45:34.140
+But the point is you can't possibly predict. But you're right. I mean, you made a lot of strong
+
+02:45:34.140 --> 02:45:42.540
+points. And I believe that people are fundamentally good. And so if AI, especially open source AI,
+
+02:45:42.540 --> 02:45:48.220
+can make them smarter, it just empowers the goodness in humans.
+
+02:45:48.220 --> 02:45:52.140
+So I share that feeling. I think people are fundamentally good.
+
+02:45:54.140 --> 02:45:59.020
+And in fact, a lot of do-mers are do-mers because they don't think that people are fundamentally
+
+02:45:59.020 --> 02:46:06.220
+good. And they either don't trust people, or they don't trust the institution to
+
+02:46:07.020 --> 02:46:09.020
+do the right thing so that people behave properly.
+
+02:46:10.380 --> 02:46:17.020
+Well, I think both you and I believe in humanity. And I think I speak for a lot of people in saying
+
+02:46:17.020 --> 02:46:24.060
+thank you for pushing the open source movement, pushing to making both research and AI open source,
+
+02:46:24.060 --> 02:46:29.020
+making it available to people, and also the models themselves making it open source. So
+
+02:46:29.020 --> 02:46:32.860
+thank you for that. And thank you for speaking your mind in such colorful,
+
+02:46:32.860 --> 02:46:37.660
+beautiful ways on the internet. I hope you never stop. You're one of the most fun people I know
+
+02:46:37.660 --> 02:46:43.740
+and get to be a fan of. So thank you for speaking to me once again. And thank you for being you.
+
+02:46:43.740 --> 02:46:44.380
+Thank you, Dex.
+
+02:46:45.340 --> 02:46:49.340
+Thanks for listening to this conversation with Yann LeCun. To support this podcast,
+
+02:46:49.340 --> 02:46:54.140
+please check out our sponsors in the description. And now let me leave you with some words from
+
+02:46:54.140 --> 02:47:00.620
+Arthur C. Clarke. The only way to discover the limits of the possible is to go beyond them
+
+02:47:01.580 --> 02:47:08.140
+into the impossible. Thank you for listening and hope to see you next time.
+
+02:47:14.380 --> 02:47:15.180
+you
+

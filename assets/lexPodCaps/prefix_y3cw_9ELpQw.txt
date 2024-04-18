@@ -1,0 +1,3863 @@
+WEBVTT
+
+00:00.000 --> 00:07.880
+A black hole is a mirror, and the way it's a mirror is if light, a photon, bounces off
+
+00:07.880 --> 00:14.640
+your face towards the black hole, it goes straight to the black hole, just falls in,
+
+00:14.640 --> 00:16.840
+you never see it again.
+
+00:16.840 --> 00:25.160
+But if it just misses the black hole, it'll swing around the back and come back to you,
+
+00:25.160 --> 00:31.400
+and you see yourself from the photon that went around the back of the black hole.
+
+00:31.400 --> 00:39.400
+But not only can that happen, the black hole, the photon can swing around twice and come
+
+00:39.400 --> 00:40.400
+back.
+
+00:40.400 --> 00:46.760
+So you actually see an infinite number of copies of yourself.
+
+00:46.760 --> 00:51.480
+The following is a conversation with Andrew Strominger, theoretical physicist at Harvard
+
+00:51.480 --> 00:56.760
+whose research seeks to shed light on the unification of fundamental laws of nature,
+
+00:56.760 --> 01:02.840
+the origin of the universe, and the quantum structure of black holes and event horizons.
+
+01:02.840 --> 01:04.320
+This is the Lex Friedman Podcast.
+
+01:04.320 --> 01:08.080
+To support it, please check out our sponsors in the description.
+
+01:08.080 --> 01:12.920
+And now, dear friends, here's Andrew Strominger.
+
+01:12.920 --> 01:19.240
+You are part of the Harvard Black Hole Initiative, which has theoretical physicists, experimentalists,
+
+01:19.720 --> 01:21.440
+and even philosophers.
+
+01:21.440 --> 01:23.320
+So let me ask the big question.
+
+01:23.320 --> 01:29.880
+What is a black hole from a theoretical, from an experimental, maybe even from a philosophical
+
+01:29.880 --> 01:30.960
+perspective?
+
+01:30.960 --> 01:41.180
+So a black hole is defined theoretically as a region of space-time from which light can
+
+01:41.180 --> 01:45.000
+never escape, therefore it's black.
+
+01:45.000 --> 01:48.120
+Now that's just the starting point.
+
+01:48.120 --> 01:56.720
+Many weird things follow from that basic definition, but that is the basic definition.
+
+01:56.720 --> 01:57.720
+What is light?
+
+01:57.720 --> 02:00.280
+It can't escape from a black hole.
+
+02:00.280 --> 02:07.360
+Well light is the stuff that comes out of the sun, that stuff that goes into your eyes.
+
+02:07.360 --> 02:11.440
+Light is one of the stuff that disappears when the lights go off.
+
+02:11.440 --> 02:15.440
+This is stuff that appears when the lights come on.
+
+02:15.440 --> 02:21.000
+Of course, I could give you a mathematical definition or physical mathematical definition,
+
+02:21.000 --> 02:28.680
+but I think it's something that we all understand very intuitively.
+
+02:28.680 --> 02:30.000
+What is light?
+
+02:30.000 --> 02:33.320
+Black holes, on the other hand, we don't understand intuitively.
+
+02:33.320 --> 02:35.360
+They're very weird.
+
+02:35.360 --> 02:45.400
+And one of the questions is about black holes, which I think you were alluding to, is why
+
+02:45.400 --> 02:51.520
+doesn't light get out, or how is it that there can be a region of space-time from
+
+02:51.520 --> 02:54.840
+which light can't escape?
+
+02:54.840 --> 02:57.160
+It definitely happens.
+
+02:57.160 --> 02:59.060
+We've seen those regions.
+
+02:59.060 --> 03:06.640
+We have spectacular pictures, especially in the last several years of those regions.
+
+03:06.640 --> 03:07.640
+They're there.
+
+03:07.640 --> 03:13.400
+In fact, they're up in the sky, thousands or millions of them.
+
+03:13.400 --> 03:16.920
+We don't yet know how many.
+
+03:16.920 --> 03:31.520
+But the proper explanation of why light doesn't escape from a black hole is still a matter
+
+03:31.520 --> 03:36.560
+of some debate.
+
+03:36.560 --> 03:48.400
+One explanation, which perhaps Einstein might have given, is that light carries energy.
+
+03:48.400 --> 03:54.480
+You know it carries energy because we have photocells and we can take the light from
+
+03:54.480 --> 03:58.320
+the sun and collect it, turn it into electricity.
+
+03:58.320 --> 04:01.160
+So there's energy in light.
+
+04:01.160 --> 04:06.960
+And anything that carries energy is subject to a gravitational pull.
+
+04:06.960 --> 04:11.320
+Gravity will pull at anything with energy.
+
+04:11.320 --> 04:20.600
+Now it turns out that the gravitational pull exerted by an object is proportional to its
+
+04:20.600 --> 04:22.160
+mass.
+
+04:22.160 --> 04:35.080
+And so if you get enough mass in a small enough region, you can prevent light from
+
+04:35.080 --> 04:36.240
+escaping.
+
+04:36.240 --> 04:40.960
+And let me flesh that out a little more.
+
+04:40.960 --> 04:50.280
+If you're on the Earth and you're on a rocket ship leaving the surface of the Earth, and
+
+04:50.280 --> 05:00.000
+if we ignore the friction from the air, if your rocket accelerates up to 11 km per second,
+
+05:00.000 --> 05:03.200
+that's escape velocity.
+
+05:03.200 --> 05:08.920
+If there were no friction, it could just continue forever to the next galaxy.
+
+05:08.920 --> 05:17.000
+On the Moon, which has less mass, it's only 7 km per second.
+
+05:17.000 --> 05:23.360
+But going in the other direction, if you have enough mass in one place, the escape
+
+05:23.360 --> 05:29.760
+velocity can become the speed of light.
+
+05:29.760 --> 05:34.040
+If you shine light straight up away from the Earth, it doesn't have too much trouble.
+
+05:34.040 --> 05:39.440
+It's going way above the escape velocity.
+
+05:39.440 --> 05:45.600
+But if you have enough mass there, even light can't escape the escape velocity.
+
+05:45.600 --> 05:56.200
+And according to Einstein's theory of relativity, there is an absolute speed limit in the universe,
+
+05:56.200 --> 06:01.140
+the speed of light, and nothing makes any sense.
+
+06:01.140 --> 06:08.380
+Nothing could be self-consistent if there were objects that could exceed light speed.
+
+06:08.380 --> 06:16.340
+And so in these very, very massive regions of space-time, even light cannot escape.
+
+06:16.340 --> 06:22.900
+And the interesting thing is Einstein himself didn't think that these objects, we call
+
+06:22.900 --> 06:24.540
+the black holes, could exist.
+
+06:24.540 --> 06:26.460
+But let me actually linger on this.
+
+06:26.460 --> 06:27.460
+That's incredibly interesting.
+
+06:27.460 --> 06:29.060
+There's a lot of interesting things here.
+
+06:29.060 --> 06:31.500
+First, the speed limit.
+
+06:31.500 --> 06:37.060
+How wild is it to you, if you put yourself in the mind in the time of Einstein before
+
+06:37.740 --> 06:42.780
+him, to come up with a speed limit, that there is a speed limit, and that speed limit is
+
+06:42.780 --> 06:44.220
+the speed of light?
+
+06:44.220 --> 06:47.180
+How difficult of an idea is that?
+
+06:47.180 --> 06:52.660
+You said from a mathematical physics perspective, everything just kind of falls into place,
+
+06:52.660 --> 06:59.700
+but he wasn't perhaps maybe initially had the luxury to think mathematically.
+
+06:59.700 --> 07:03.620
+He had to come up with it intuitively, yes?
+
+07:03.620 --> 07:06.260
+How common intuitive is this notion to you?
+
+07:06.260 --> 07:07.860
+Is it still crazy?
+
+07:07.860 --> 07:08.860
+No, no.
+
+07:08.860 --> 07:12.060
+So it's a very funny thing in physics.
+
+07:12.060 --> 07:19.500
+The best discoveries seem completely obvious in retrospect.
+
+07:19.500 --> 07:25.020
+Even my own discoveries, which of course are far lesser than Einstein's, but many of my
+
+07:25.020 --> 07:29.540
+papers, many of my collaborators get all confused.
+
+07:29.540 --> 07:30.820
+We'll try to understand something.
+
+07:30.820 --> 07:32.460
+We say, we've got to solve this problem.
+
+07:32.460 --> 07:33.460
+We'll get all confused.
+
+07:33.460 --> 07:35.060
+Finally, we'll solve it.
+
+07:35.060 --> 07:43.060
+We'll get it all together, and then all of a sudden everything will fall into place.
+
+07:43.060 --> 07:47.820
+We'll explain it, and then we'll look back at our discussions for the proceedings of
+
+07:47.820 --> 07:56.860
+months and literally be unable to reconstruct how confused we were and how we could ever
+
+07:56.860 --> 08:01.180
+have thought of it any other way.
+
+08:01.180 --> 08:13.940
+Not only can I not fathom how confused Einstein was when he started thinking about the issues,
+
+08:13.940 --> 08:21.420
+I can't even reconstruct my own confusion from two weeks ago.
+
+08:21.420 --> 08:26.980
+So the really beautiful ideas of physics have this very hard to get yourself back into the
+
+08:26.980 --> 08:28.540
+mindset.
+
+08:28.540 --> 08:34.980
+Of course, Einstein was confused about many, many things.
+
+08:34.980 --> 08:38.180
+It doesn't matter if you're a physicist.
+
+08:38.180 --> 08:40.320
+It's not how many things you got wrong.
+
+08:40.320 --> 08:44.740
+It's not the ratio of how many you got wrong to how many you got right.
+
+08:44.740 --> 08:47.420
+It's the number that you got right.
+
+08:47.420 --> 08:53.740
+So Einstein didn't believe black holes existed, even though he predicted them.
+
+08:53.740 --> 08:57.060
+I went and I read that paper, which he wrote.
+
+08:57.060 --> 09:04.900
+Einstein wrote down his field equations in 1915, and Schwarzschild solved them and discovered
+
+09:04.900 --> 09:14.380
+the black hole solution three or four months later in very early 1916.
+
+09:14.380 --> 09:17.540
+Twenty-five years later, Einstein wrote a paper.
+
+09:17.540 --> 09:23.540
+So with 25 years to think about what this solution means, wrote a paper in which he
+
+09:23.540 --> 09:29.020
+said that black holes didn't exist.
+
+09:29.020 --> 09:37.620
+And I'm like, well, if one of my students in my general relativity course wrote this,
+
+09:37.620 --> 09:38.620
+I wouldn't pass them.
+
+09:38.620 --> 09:41.060
+You'd get a C-, oh, you wouldn't pass them, okay.
+
+09:41.060 --> 09:43.020
+Get a C-, okay.
+
+09:43.020 --> 09:44.260
+Same thing with gravity waves.
+
+09:44.260 --> 09:45.260
+He didn't believe-
+
+09:45.260 --> 09:46.680
+Oh, he didn't believe in gravitational waves either?
+
+09:46.680 --> 09:51.920
+He went back and forth, but he wrote a paper in, I think, 34 saying that gravity waves
+
+09:51.920 --> 09:57.640
+didn't exist because people were very confused about what a coordinate transformation is.
+
+09:57.640 --> 10:06.880
+And in fact, this confusion about what a coordinate transformation is has persisted, and we actually
+
+10:06.880 --> 10:19.000
+think we were on the edge of solving it a hundred years later, a hundred years later.
+
+10:19.000 --> 10:23.080
+What is coordinate transformation as it was a hundred years ago to today?
+
+10:23.080 --> 10:30.840
+Let's imagine I want to draw a map with pictures of all the states and the mountains, and then
+
+10:30.840 --> 10:37.120
+I want to draw the weather forecast, what the temperatures are going to be all over
+
+10:37.120 --> 10:40.360
+the country.
+
+10:40.360 --> 10:48.160
+And I do that using one set of weather stations, and I number the weather stations.
+
+10:48.160 --> 10:55.520
+And you have some other set of weather stations, and you do the same thing.
+
+10:55.520 --> 10:58.920
+So the coordinates are the locations of the weather stations.
+
+10:58.920 --> 11:01.880
+They're how we describe where the things are.
+
+11:01.880 --> 11:07.800
+At the end of the day, we should draw the same map.
+
+11:07.800 --> 11:10.360
+That is coordinate invariance.
+
+11:10.360 --> 11:17.720
+And if we're going to tell somebody at a real physical operation, we want you to stay as
+
+11:17.720 --> 11:23.680
+dry as possible on your drive from here to California, we should give them exactly the
+
+11:23.680 --> 11:26.160
+same route.
+
+11:26.160 --> 11:33.000
+No matter which weather stations we use or how we – it's a very trivial – the labeling
+
+11:33.000 --> 11:38.920
+of points is an artifact and not in the real physics.
+
+11:38.920 --> 11:46.920
+So it turns out that that's almost true, but not quite.
+
+11:46.920 --> 11:49.440
+There's some subtleties to it.
+
+11:49.440 --> 11:52.920
+The statement that you should always have the same – give at least the same kind of
+
+11:53.000 --> 11:57.400
+trajectory, the same kind of instructions, no matter the weather stations.
+
+11:57.400 --> 12:09.040
+Yeah, there's some very delicate subtleties to that which began to be noticed in the 50s.
+
+12:09.040 --> 12:18.200
+It's mostly true, but when you have a spacetime with edges, it gets very tricky how you label
+
+12:18.200 --> 12:19.200
+the edges.
+
+12:19.200 --> 12:22.760
+And spacetime in terms of space or in terms of time, in terms of everything, just spacetime?
+
+12:22.760 --> 12:23.760
+Another one.
+
+12:23.760 --> 12:24.760
+Okay.
+
+12:24.760 --> 12:25.760
+Spacer time.
+
+12:25.760 --> 12:26.760
+That gets very tricky.
+
+12:26.760 --> 12:35.440
+And Einstein didn't have it right, and in fact, he had an earlier version of general
+
+12:35.440 --> 12:48.680
+relativity in 1914, which he was very excited about, which was wrong.
+
+12:48.680 --> 12:53.320
+It wasn't fully coordinate invariant, it was only partially coordinate invariant.
+
+12:53.320 --> 12:55.360
+It was wrong.
+
+12:55.360 --> 13:01.360
+It gave the wrong answer for bending light to the sun by a factor of two.
+
+13:01.360 --> 13:06.840
+There was an expedition sent out to measure it during World War I.
+
+13:06.840 --> 13:15.160
+They were captured before they could measure it, and that gave Einstein four more years
+
+13:16.160 --> 13:21.640
+to clean his act up by which time he'd gotten it right.
+
+13:21.640 --> 13:29.240
+It's a very tricky business, but once it's all laid out, it's clear.
+
+13:29.240 --> 13:36.280
+Then why do you think Einstein didn't believe his own equations and didn't think that black
+
+13:36.280 --> 13:37.280
+holes are real?
+
+13:37.280 --> 13:40.040
+Why was that such a difficult idea for him?
+
+13:40.520 --> 13:52.280
+Well, something very interesting happens in Shoreshield's solution of the Einstein equation.
+
+13:52.280 --> 14:03.800
+I think his reasoning was ultimately wrong, but let me explain to you what it was.
+
+14:03.800 --> 14:11.480
+At the center of the black hole, behind the horizon, in a region that nobody can see
+
+14:11.480 --> 14:16.680
+and live to tell about it, at the center of the black hole, there's a singularity.
+
+14:16.680 --> 14:26.120
+If you pass the horizon, you go into the singularity, you get crushed, and that's the end of everything.
+
+14:26.120 --> 14:38.880
+The word singularity just means that Einstein's equations break down.
+
+14:38.880 --> 14:40.720
+They become infinite.
+
+14:40.720 --> 14:43.320
+You write them down, you put them on the computer.
+
+14:43.320 --> 14:47.700
+When the computer hits that singularity, it crashes.
+
+14:47.700 --> 14:50.840
+Everything becomes infinite, there's two.
+
+14:50.840 --> 14:54.520
+So the equations are just no good there.
+
+14:54.520 --> 15:01.160
+Now, that's actually not a bad thing.
+
+15:01.160 --> 15:09.760
+It's a really good thing, and let me explain why.
+
+15:09.760 --> 15:20.920
+It's an odd thing that Maxwell's theory and Newton's theory never exhibit this phenomenon.
+
+15:20.920 --> 15:23.640
+You write them down, you can solve them exactly.
+
+15:24.120 --> 15:28.240
+Newton's theory of gravity, they're really very simple theories.
+
+15:28.240 --> 15:29.240
+You can solve them.
+
+15:29.240 --> 15:35.760
+Well, you can't solve the three-body problem, but you can certainly solve a lot of things
+
+15:35.760 --> 15:38.480
+about them.
+
+15:38.480 --> 15:51.200
+Nevertheless, there was never any reason, even though Maxwell and Newton perhaps fell
+
+15:51.360 --> 15:58.160
+for this trap, there were never any reason to think that these equations were exact.
+
+16:07.680 --> 16:11.920
+There's some equations that we've written down that we still think are exact.
+
+16:13.360 --> 16:15.360
+Some people still think are exact.
+
+16:15.360 --> 16:17.760
+My view is that there's no exact equation.
+
+16:17.760 --> 16:19.200
+Everything is an approximation.
+
+16:19.200 --> 16:20.560
+Everything is an approximation.
+
+16:20.560 --> 16:22.480
+And you're trying to get as close as possible.
+
+16:22.480 --> 16:23.480
+Yeah.
+
+16:23.480 --> 16:26.080
+So you're saying objective truth doesn't exist in this world.
+
+16:26.080 --> 16:29.600
+The internet is going to be very mad.
+
+16:29.600 --> 16:32.400
+We could discuss that, but that's a different thing.
+
+16:33.920 --> 16:35.840
+We wouldn't say Newton's theory was wrong.
+
+16:36.800 --> 16:41.520
+It had very, very small corrections, incredibly small corrections.
+
+16:42.160 --> 16:44.320
+It's actually a puzzle why they're so small.
+
+16:45.280 --> 16:49.760
+So if you watch the precession of Mercury's perihelion, this was the first indication
+
+16:50.720 --> 16:52.400
+of something going wrong.
+
+16:53.280 --> 16:57.040
+According to Newton's theory, Mercury has an elliptical orbit.
+
+16:57.920 --> 17:06.640
+The long part of it moves around as other planets come by and perturb it and so on.
+
+17:06.640 --> 17:14.960
+And so this was measured by Le Verrier in 1859, and he compared theory and experiment,
+
+17:14.960 --> 17:20.640
+and he found out that the perihelion process moves around the sun
+
+17:21.680 --> 17:29.600
+once every 233 centuries instead of every 231 centuries.
+
+17:30.960 --> 17:32.880
+Now, this is the wonderful thing about science.
+
+17:34.240 --> 17:35.280
+Why was this guy?
+
+17:36.560 --> 17:39.360
+I mean, you don't get any idea how much work this is.
+
+17:39.600 --> 17:44.240
+You know, but of course, he made one of the greatest discoveries in the
+
+17:44.240 --> 17:49.280
+history of science without even knowing what good it was going to be.
+
+17:52.960 --> 17:57.440
+So that's how small, that was the first sign that there was something wrong with Newton.
+
+18:00.480 --> 18:04.960
+So the corrections to Newton's law are very, very small, but they're definitely there.
+
+18:05.920 --> 18:14.160
+The corrections to electromagnetism, the ones that we see are mostly coming from quantum effects.
+
+18:17.120 --> 18:23.520
+So the corrections for Maxwell's equations is when you get super tiny,
+
+18:23.520 --> 18:31.280
+and then the corrections for Newton's laws of gravity is when you get super big.
+
+18:33.040 --> 18:34.560
+That's when you require corrections.
+
+18:34.640 --> 18:38.000
+That's true, but I would phrase it as saying when it's super accurate.
+
+18:38.800 --> 18:45.200
+If you look at the Bohr atom, Maxwell electromagnetism is not a very good approximation
+
+18:45.920 --> 18:49.840
+to the force between the proton and the electron.
+
+18:53.920 --> 18:59.040
+If you didn't have quantum mechanics, the electron would spiral into the proton
+
+18:59.600 --> 19:03.840
+and the atom would collapse. So that's a huge correction there.
+
+19:05.040 --> 19:07.920
+So every theory gets corrected as we learn more.
+
+19:09.520 --> 19:13.840
+There'd just be no reason to suppose that it should be otherwise.
+
+19:14.480 --> 19:16.160
+How does this relate to the singularity?
+
+19:17.120 --> 19:26.960
+So when you hit the singularity, you know that you need some improvement to Einstein's
+
+19:26.960 --> 19:33.600
+theory of gravity, and that improvement, we understand what kind of things that improvement
+
+19:33.600 --> 19:39.760
+should involve. It should involve quantum mechanics, quantum effects become important
+
+19:39.760 --> 19:48.720
+there. It's a small thing. We don't understand exactly what the theory is, but we know there's
+
+19:48.720 --> 19:58.560
+no reason to think Einstein's theory was invented to describe weakly curved things, the solar system,
+
+19:58.560 --> 20:06.560
+and so on. It's incredibly robust that we now see that it works very well near the horizons of
+
+20:07.280 --> 20:15.120
+round black holes and so on. So it's a good thing that the theory drives itself,
+
+20:16.240 --> 20:18.080
+that it predicts its own demise.
+
+20:20.480 --> 20:25.600
+Newton's gravity had its demise. There were regimes in which it wasn't valid.
+
+20:26.560 --> 20:34.880
+Maxwell's electromagnetism had its demise. There were regimes in which quantum effects
+
+20:34.880 --> 20:43.440
+greatly modified the equations. But general relativity all on its own
+
+20:43.440 --> 20:53.600
+found a system, which originally was fine, would perversely wander off into a configuration
+
+20:54.320 --> 20:57.040
+in which Einstein's equations no longer applied.
+
+20:57.040 --> 21:00.560
+So to you, the edges of the theory are wonderful, the failures of the theory.
+
+21:00.560 --> 21:05.200
+Edges are wonderful because that keeps us in business.
+
+21:05.200 --> 21:10.640
+So one of the things you said, I think, in your TED talk, that the
+
+21:10.720 --> 21:17.440
+fact that quantum mechanics and relativity don't describe everything and then they clash
+
+21:17.440 --> 21:21.280
+is wonderful. I forget the adjective you used, but it was something like this.
+
+21:21.280 --> 21:26.320
+So why is that? Why is that interesting? Do you mean in that same way that there's
+
+21:26.320 --> 21:28.240
+contradictions that create discovery?
+
+21:28.240 --> 21:32.560
+There is no question in my mind, of course, many people would disagree with me,
+
+21:32.560 --> 21:36.880
+there is no question in my mind, of course, many people would disagree with me,
+
+21:37.520 --> 21:44.640
+that now is the most wonderful time to be a physicist.
+
+21:45.600 --> 21:57.760
+So people look back at, it's a classical thing to say among physicists, I wish it were 1920.
+
+21:58.640 --> 21:59.120
+Right.
+
+21:59.120 --> 22:05.360
+Quantum mechanics had been just understood. There was the periodic table.
+
+22:07.120 --> 22:19.360
+But in fact, that was such a rich thing that, well, a lot of exciting stuff happened around
+
+22:19.360 --> 22:27.520
+1920. It took a whole century to sort out the new insights that we got.
+
+22:27.760 --> 22:32.320
+Especially adding some experimental stuff into the bunch, actually making observations.
+
+22:32.320 --> 22:33.920
+Adding experimental thing.
+
+22:33.920 --> 22:36.880
+All the computers also help with visualizations and all that kind of stuff.
+
+22:36.880 --> 22:42.080
+Yeah, yeah, yeah. It was all sort of wonderful century. I mean, the seed of
+
+22:43.200 --> 22:52.080
+general relativity was the incompatibility of Maxwell's theory of the electromagnetic field
+
+22:52.240 --> 23:00.640
+with Newton's laws of gravity. They were incompatible because if you look at Maxwell's theory,
+
+23:02.880 --> 23:08.080
+there's a contradiction if anything goes faster than the speed of light.
+
+23:10.320 --> 23:19.200
+But Newton's theory of gravity, the gravitational field, the gravitational force is
+
+23:20.160 --> 23:32.320
+instantaneously transmitted across the entire universe. So if you had a friend in another
+
+23:32.320 --> 23:38.320
+galaxy with a very sensitive measuring device that could measure the gravitational field,
+
+23:38.320 --> 23:43.520
+they could just take this cup of coffee and move it up and down in Morse code and they could
+
+23:44.480 --> 23:50.080
+get the message instantaneously over another galaxy. That leads to all kinds of contradictions.
+
+23:50.720 --> 23:57.600
+It's not self-consistent. It was exactly in resolving those contradictions that Einstein
+
+23:57.600 --> 24:05.680
+came up with the general theory of relativity. It's fascinating how this contradiction,
+
+24:06.400 --> 24:08.960
+which seems like maybe it's kind of a technical thing,
+
+24:10.320 --> 24:17.440
+led to a whole new vision of the universe. Now, let's not get fooled because
+
+24:19.200 --> 24:27.280
+lots of contradictions are technical things. We run into other kinds of contradictions
+
+24:27.280 --> 24:34.640
+that are technical. We understood something wrong. We made a mistake. We set up our equations in the
+
+24:34.640 --> 24:39.440
+wrong way. We didn't translate the formalisms. As opposed to revealing some deep mystery that's
+
+24:39.440 --> 24:46.080
+yet to be uncovered. Yeah. And so we're never very sure which are the really important ones.
+
+24:47.120 --> 24:50.320
+But to you, the difference between quantum mechanics and general relativity,
+
+24:51.680 --> 24:56.560
+the tension, the contradiction there seems to hint at some deeper, deeper thing that's
+
+24:56.560 --> 25:02.240
+going to be discovered in the century. Yes, because that one has been understood since
+
+25:02.240 --> 25:12.160
+the 50s. Pauli was the first person to notice it. Hawking in the early 70s gave it a really
+
+25:12.160 --> 25:23.520
+much more visceral form. People have been hurling themselves at it, trying to reduce it to some
+
+25:24.320 --> 25:30.960
+technicality, but nobody has succeeded. The efforts to understand it have led to
+
+25:33.200 --> 25:42.320
+all kinds of interesting relations between quantum systems and applications to other fields and so on.
+
+25:42.320 --> 25:46.640
+Well, let's actually jump around. We'll return to black holes. I have a million questions there,
+
+25:46.640 --> 25:53.680
+but let's go into this unification, the battle against the contradictions and the tensions
+
+25:53.680 --> 25:59.440
+between the theories of physics. What is quantum gravity? What is the standard model
+
+26:00.000 --> 26:04.400
+of physics? What is quantum mechanics? What is general relativity? What's quantum gravity?
+
+26:05.520 --> 26:07.520
+What are all the different unification efforts?
+
+26:10.320 --> 26:12.640
+Okay, so- Again, five questions.
+
+26:12.640 --> 26:23.280
+Yeah. It's a theory that describes everything with astonishing accuracy. It's the most
+
+26:23.280 --> 26:32.080
+accurate theory in the history of human thought. Theory and experiment have been successfully
+
+26:32.080 --> 26:42.720
+compared to 16 decimal place. We have that stenciled on the door where I work. It's an
+
+26:43.200 --> 26:53.920
+amazing feat of the human mind. It describes the electromagnetic interaction, unifies the
+
+26:53.920 --> 27:01.440
+electromagnetic interaction with the so-called weak interaction, which you need some good tools
+
+27:01.440 --> 27:09.200
+to even view the weak interaction. Then there's the strong interaction, which binds the quarks
+
+27:09.840 --> 27:18.720
+into protons. The forces between them are mediated by something called Yang-Mills theory,
+
+27:19.360 --> 27:30.960
+which is a beautiful mathematical generalization of electromagnetism in which the analogues of the
+
+27:30.960 --> 27:44.080
+photons themselves carry charge. The final piece of this, of the standard model, everything in the
+
+27:44.080 --> 27:50.640
+standard model has been observed. Its properties have been measured. The final particle to be
+
+27:50.640 --> 27:56.160
+observed was the Higgs particle observed over a decade ago.
+
+27:56.160 --> 27:58.080
+The Higgs is already a decade ago.
+
+27:58.080 --> 27:59.680
+I think it is, yeah.
+
+27:59.680 --> 28:02.400
+Wow. But you better check me on that.
+
+28:04.080 --> 28:06.400
+That's true, but so much fun has been happening.
+
+28:06.400 --> 28:17.120
+So much fun has been happening. That's all pretty well understood. There are some things
+
+28:17.760 --> 28:24.400
+that might or might not, around the edges of that, dark matter, neutrino masses,
+
+28:25.280 --> 28:32.560
+some sort of fine points or things we haven't quite measured perfectly and so on. But
+
+28:33.360 --> 28:44.480
+it's largely a very complete theory, and we don't expect anything very new
+
+28:45.680 --> 28:49.040
+conceptually in the completion of that.
+
+28:49.680 --> 28:51.760
+Anything contradictory by new?
+
+28:52.560 --> 28:54.160
+Anything contradictory, yeah.
+
+28:54.160 --> 29:01.760
+I'll have some wild questions for you on that front. Because there's no gaps. It's so accurate,
+
+29:01.760 --> 29:04.480
+so precise in its predictions, it's hard to imagine something completely new.
+
+29:04.480 --> 29:11.680
+Yeah. And it was all based on something called, let me not explain what it is,
+
+29:11.680 --> 29:16.960
+let me just throw out the buzzword, renormalizable quantum field theory. They all
+
+29:17.760 --> 29:22.720
+fall in the category of renormalizable quantum field theory.
+
+29:22.720 --> 29:26.960
+I'm going to throw that at a bar later to impress the girls.
+
+29:28.480 --> 29:29.360
+Good luck.
+
+29:29.360 --> 29:29.860
+Thank you.
+
+29:34.880 --> 29:43.920
+They all fall under that rubric. Gravity will not put that suit on. So the force of gravity
+
+29:44.880 --> 29:53.040
+cannot be tamed by the same renormalizable quantum field theory to which all the other forces
+
+29:54.000 --> 29:55.920
+so eagerly submitted.
+
+29:55.920 --> 29:59.600
+What is the effort of quantum gravity? What are the different efforts to
+
+30:01.840 --> 30:07.600
+have these two dance together effectively to try to unify the standard model and
+
+30:09.280 --> 30:11.600
+general relativity, any kind of model of gravity?
+
+30:12.240 --> 30:22.720
+I'm sort of the one fully consistent model that we have that reconciles,
+
+30:24.960 --> 30:34.880
+that sort of tames gravity and reconciles it with quantum mechanics, is string theory and its
+
+30:34.880 --> 30:42.480
+cousins. And we don't know what or if in any sense string theory describes the world,
+
+30:43.120 --> 30:53.280
+the physical world, but we do know that it is a consistent reconciliation of quantum mechanics
+
+30:53.280 --> 31:05.360
+and general relativity, and moreover one which is able to incorporate particles and forces like the
+
+31:05.360 --> 31:15.760
+ones we see around us. So it hasn't been ruled out as an actual sort of unified theory of nature,
+
+31:15.760 --> 31:27.520
+but there also isn't a, in my view, some people would disagree with me, but there isn't a reasonable
+
+31:29.200 --> 31:34.560
+possibility that we would be able to do an experiment in the foreseeable future,
+
+31:34.560 --> 31:39.440
+which would be sort of a yes or no to string theory.
+
+31:40.080 --> 31:43.920
+Okay, so you've been there from the early days of string theory, you've seen its developments.
+
+31:43.920 --> 31:48.800
+What are some interesting developments? What do you see as also the future of string theory?
+
+31:49.600 --> 31:50.720
+And what is string theory?
+
+31:53.280 --> 32:01.760
+Well, the basic idea which emerged in the early 70s was that if you
+
+32:01.760 --> 32:15.680
+take the notion of a particle and you literally replace it by a little loop of string,
+
+32:16.880 --> 32:22.400
+the strings are sort of softer than particles.
+
+32:22.400 --> 32:23.600
+What do you mean by softer?
+
+32:24.640 --> 32:31.360
+Well, if you hit a particle, if there were a particle on this table, a big one, and you hit it,
+
+32:31.360 --> 32:36.080
+you might bruise yourself. But if there was a string on the table, you would probably just
+
+32:36.080 --> 32:44.240
+push it around. And the source of the infinities in quantum field theory is that when particles
+
+32:44.240 --> 32:54.880
+hit each other, it's a little bit of a jarring effect. And I've never described it this way
+
+32:54.880 --> 32:59.360
+before, but it's actually scientifically accurate. But if you throw strings at each other, it's a
+
+32:59.360 --> 33:07.920
+little more friendly. One thing I can't explain is how wonderfully precise the mathematics is
+
+33:08.560 --> 33:13.280
+that goes into describing string theory. We don't just wave our hands and throw strings around.
+
+33:14.560 --> 33:21.040
+There are some very compelling mathematical equations that describe it. Now,
+
+33:21.920 --> 33:28.480
+what was realized in the early 70s is that if you replace particles by strings,
+
+33:28.560 --> 33:38.880
+these infinities go away, and you get a consistent theory of gravity without the infinities.
+
+33:43.280 --> 33:47.840
+That may sound a little trivial, but at that point, it had already been
+
+33:49.440 --> 33:56.880
+15 years that people had been searching around for any kind of theory that could do this.
+
+33:57.600 --> 34:06.400
+And it was actually found kind of by accident. And there are a lot of accidental discoveries
+
+34:07.040 --> 34:13.920
+in this subject. Now, at the same time, it was believed then that string theory was
+
+34:13.920 --> 34:19.920
+an interesting sort of toy model for putting quantum mechanics and general relativity together
+
+34:20.880 --> 34:30.240
+on paper, but that it couldn't describe some of the very idiosyncratic phenomena
+
+34:31.280 --> 34:37.360
+that pertain to our own universe, in particular, the form of so-called parity violation.
+
+34:39.360 --> 34:42.800
+Another term for the bar later tonight. Yeah, yeah.
+
+34:42.800 --> 34:45.680
+Parity violation. So if you go to the bar and...
+
+34:46.640 --> 34:50.560
+I already got the renormalizable quantum. And you look in the mirror across the bar,
+
+34:51.280 --> 34:55.120
+the universe that you see in the mirror is not identical.
+
+34:57.280 --> 35:05.680
+You would be able to tell if you show the lady in the bar a photograph that shows both the
+
+35:05.680 --> 35:12.640
+mirror and you, if she's smart enough, she'll be able to tell which one is the real world
+
+35:13.360 --> 35:17.120
+and which one is you. Now, she would have to do some very precise measurements.
+
+35:19.760 --> 35:24.160
+And if the photograph was too grainy, it might not be possible, but in principle is possible.
+
+35:24.160 --> 35:27.360
+Why is this interesting? Does this mean that there is some
+
+35:29.280 --> 35:32.640
+not perfect determinism? Or what does that mean? There's some uncertainty?
+
+35:32.640 --> 35:38.960
+No, it's a very interesting feature of the real world that it isn't parity invariant.
+
+35:38.960 --> 35:42.640
+In string theory, it was thought could not tolerate that.
+
+35:44.640 --> 35:50.960
+And then it was learned in the mid-'80s that not only could it tolerate that,
+
+35:51.600 --> 36:00.480
+but if you did things in the right way, you could construct a world involving strings that
+
+36:00.480 --> 36:07.120
+reconciled quantum mechanics and general relativity, which looked more or less like
+
+36:07.120 --> 36:16.400
+the world that we live in. Now, that isn't to say that string theory predicted our world.
+
+36:17.280 --> 36:24.480
+It just meant that it was consistent, that the hypothesis that string theory describes
+
+36:25.280 --> 36:35.520
+our world can't be ruled out from the get-go. And it is also the only proposal
+
+36:36.000 --> 36:45.280
+for a complete theory that would describe our world. Still, nobody will believe it
+
+36:46.720 --> 36:52.960
+until there's some kind of direct experiment. And I don't even believe it myself.
+
+36:52.960 --> 36:58.080
+Sure, which is a good place to be mentally as a physicist. Einstein didn't believe his own
+
+36:58.800 --> 37:01.040
+equations with the black hole. Okay.
+
+37:01.040 --> 37:05.520
+Well, when he was wrong about that, he was wrong about that.
+
+37:05.520 --> 37:11.360
+But you might be wrong too, right? So do you think string theory is dead if you were to bet
+
+37:11.360 --> 37:20.960
+all your money on the future of string theory? No. I think it's a logical error to think that
+
+37:20.960 --> 37:29.520
+string theory is either right or wrong or dead or alive. What it is, is a stepping stone.
+
+37:31.280 --> 37:41.600
+And an analogy I like to draw is Yang-Mills theory, which I mentioned a few minutes ago
+
+37:41.600 --> 37:48.640
+in the context of standard model. Yang-Mills theory was discovered by Yang and Mills in the 50s.
+
+37:49.840 --> 37:58.160
+And they thought that the symmetry of Yang and Mills theory described the relationship
+
+37:58.160 --> 38:04.240
+between the proton and the neutron. That's why they invented it. That turned out to be
+
+38:04.240 --> 38:11.280
+completely wrong. It does, however, describe everything else in the standard model.
+
+38:13.520 --> 38:18.720
+And it had a kind of inevitability. They had some of the right pieces, but not the other ones.
+
+38:18.720 --> 38:19.120
+Sure.
+
+38:19.120 --> 38:24.720
+They didn't have it quite in the right context. And it had an inevitability to it,
+
+38:24.720 --> 38:32.480
+and it eventually sort of found its place. And it's also true of Einstein's theory of
+
+38:32.480 --> 38:37.760
+general relativity. He had the wrong version of it in 1914, and he was missing some pieces.
+
+38:38.320 --> 38:42.720
+And you wouldn't say that his early version was right or wrong. He'd understood the equivalence
+
+38:42.720 --> 38:48.800
+principle. He'd understood space-time curvature. He just didn't have everything. Technically,
+
+38:48.800 --> 38:52.720
+you would have to say it was wrong. And technically, you would have to say Yang and
+
+38:52.720 --> 39:02.800
+Mills were wrong. And I guess in that sense, I would believe just odds are. We always keep
+
+39:02.800 --> 39:07.360
+finding new wrinkles. Odds are we're going to find new wrinkles in string theory. And
+
+39:07.360 --> 39:10.640
+technically, what we call string theory now isn't quite right.
+
+39:11.680 --> 39:15.920
+We're always going to be wrong, but hopefully a little bit less wrong every time.
+
+39:15.920 --> 39:20.640
+Exactly. And I would bet the farm, as they say.
+
+39:20.640 --> 39:21.360
+Do you have a farm?
+
+39:22.320 --> 39:27.360
+I say that much more seriously because not only do I have a farm, but we just renovated it.
+
+39:29.360 --> 39:31.520
+This is a very serious statement.
+
+39:31.520 --> 39:35.680
+So before I renovated, better get the farm. My wife and I spent five years renovating it.
+
+39:37.280 --> 39:40.480
+You were much looser with that statement, but now it really means something.
+
+39:41.280 --> 39:46.240
+Now it really means something. And I would bet the farm on the
+
+39:51.600 --> 39:58.800
+guess that 100 years from now, string theory will be viewed as a stepping stone
+
+39:58.800 --> 40:07.040
+towards a greater understanding of nature. And another thing that I didn't mention about
+
+40:07.040 --> 40:14.800
+string theory is, of course, we knew that it solved the infinities problem. And then we later
+
+40:14.800 --> 40:23.520
+learned that it also solved Hawking's puzzle about what's inside of a black hole. And
+
+40:25.120 --> 40:30.320
+you put in one assumption, you get five things out, somehow you're doing something right.
+
+40:31.040 --> 40:36.800
+Probably not everything, but there's some good signposts. And there have been a lot of good
+
+40:36.800 --> 40:42.560
+signposts like that. It is also a mathematical toolkit and you've used it. You've used it with
+
+40:42.560 --> 40:48.160
+Kamranwafa. Maybe we can sneak our way back from string theory into black holes.
+
+40:49.520 --> 40:53.920
+What was the idea that you and Kamranwafa developed with the holographic principle
+
+40:53.920 --> 40:59.680
+in string theory? What were you able to discover through string theory about black holes?
+
+41:01.920 --> 41:04.960
+That connects us back to the reality of black holes.
+
+41:05.840 --> 41:13.120
+So that is a very interesting story. I was interested in black holes before I was interested in
+
+41:13.760 --> 41:20.560
+string theory. I was sort of a reluctant string theorist in the beginning. I thought I had to
+
+41:20.560 --> 41:26.000
+learn it because people were talking about it. But once I studied it, I grew to love it.
+
+41:26.000 --> 41:30.480
+First, I did it in a sort of dutiful way. These people say they've claimed quantum gravity. I
+
+41:30.480 --> 41:36.320
+ought to read their papers at least. And then the more I read them, the more interested I got and
+
+41:36.320 --> 41:44.800
+I began to see. They phrased it in a very clumsy way. The description of string theory was very
+
+41:44.800 --> 41:47.360
+clumsy. Mathematically clumsy or just the interpretation?
+
+41:47.360 --> 41:57.120
+Mathematically clumsy, yeah. It was all correct, but mathematically clumsy. But it often happens
+
+41:57.680 --> 42:06.000
+that in all kinds of branches of physics that people start working on it really hard and they
+
+42:06.000 --> 42:11.840
+sort of dream about it and live it and breathe it and they begin to see inner relationships and
+
+42:12.720 --> 42:19.280
+they see a beauty that is really there. They're not deceived. They're really seeing something
+
+42:19.280 --> 42:26.160
+that exists, but if you just kind of look at it, you can't grasp it all in the beginning.
+
+42:26.160 --> 42:41.920
+And so, our understanding of string theory in 1985 was almost all about
+
+42:45.120 --> 42:51.520
+weakly coupled waves of strings colliding and so on. We didn't know how to describe
+
+42:52.400 --> 42:58.480
+a big thing like a black hole in string theory. Of course, we could show that strings
+
+42:59.040 --> 43:03.200
+in theory in some limit reproduced Einstein's theory of general relativity
+
+43:04.240 --> 43:09.600
+and corrected it, but we couldn't do any better with black holes than
+
+43:13.280 --> 43:17.600
+before my work with Cormann. We couldn't do any better than Einstein and Schwarzschild had done.
+
+43:17.600 --> 43:31.440
+Now, one of the puzzles, if you look at the Hawking's headstone and also Boltzmann's headstone
+
+43:31.440 --> 43:42.240
+and you put them together, you get a formula for their really central equations in 20th century
+
+43:42.240 --> 43:47.600
+physics. I don't think there are many equations that made it to headstones.
+
+43:50.960 --> 43:57.760
+And they're really central equations and you put them together and you get a formula for the number
+
+43:57.760 --> 44:04.080
+of gigabytes in a black hole. Now, in Schwarzschild's description,
+
+44:06.400 --> 44:11.280
+the black hole is literally a hole in space and there's no place to store the gigabytes.
+
+44:12.640 --> 44:19.360
+And it's not too hard to, and this really was Wheeler and Bekenstein and
+
+44:20.560 --> 44:25.680
+Wheeler, Bekenstein and Hawking to come to the conclusion that
+
+44:27.440 --> 44:34.320
+if there isn't a sense in which a black hole can store some large number of gigabytes,
+
+44:35.600 --> 44:39.760
+that quantum mechanics and gravity can't be consistent.
+
+44:40.720 --> 44:46.000
+We've got to go there a little bit. So how is it possible, when we say gigabytes,
+
+44:46.000 --> 44:49.200
+that there's some information. So black holes can store information. How is this thing that
+
+44:49.200 --> 44:55.520
+sucks up all light and it's supposed to basically be super homogeneous and boring?
+
+44:55.520 --> 44:59.040
+How is that actually able to store information? Where does it store information?
+
+44:59.040 --> 45:06.880
+On the inside, on the surface? Where? And what's information? I'm liking this
+
+45:06.880 --> 45:09.440
+ask five questions to see which one you actually answer.
+
+45:10.000 --> 45:14.960
+Oh, okay. I shouldn't try to memorize them and answer each one in order just to answer.
+
+45:14.960 --> 45:20.480
+I don't know. I don't know what I'm doing. I'm desperately trying to figure it out as we go
+
+45:20.480 --> 45:25.440
+along here. So Einstein's black holes is Schwarzschild's black hole. They can't
+
+45:25.440 --> 45:31.040
+store information. The stuff goes in there and it just keeps flying and it goes into
+
+45:31.120 --> 45:38.720
+singularity and it's gone. However, Einstein's theory is not exact. It has corrections.
+
+45:40.240 --> 45:44.000
+And string theory tells you what those corrections are.
+
+45:46.560 --> 45:55.120
+And so you should be able to find some way of, some alternate way of describing the black hole
+
+45:55.920 --> 46:03.920
+that enables you to understand where the gigabytes are stored.
+
+46:04.960 --> 46:11.680
+So what Hawking and Bekenstein really did was they showed that physics is inconsistent
+
+46:12.640 --> 46:22.720
+unless a black hole can store a number of gigabytes proportional to its area
+
+46:22.720 --> 46:28.720
+divided by four times Newton's constant times Planck's constant.
+
+46:28.720 --> 46:31.520
+And that's another wild idea. You said area, not volume.
+
+46:32.320 --> 46:35.360
+Exactly. And that's the holographic principle.
+
+46:35.360 --> 46:37.040
+The universe is so weird.
+
+46:37.040 --> 46:38.400
+And that's the holographic principle.
+
+46:38.400 --> 46:44.160
+That's called the holographic principle that it's the area. We're just jumping around. What
+
+46:44.160 --> 46:48.320
+is the holographic principle? What does that mean? Is there some kind of weird projection going on?
+
+46:48.880 --> 46:49.440
+What the heck?
+
+46:50.160 --> 46:54.880
+Well, I was just before I came here writing an introduction to a paper and the first sentence was
+
+46:56.240 --> 47:04.960
+the as yet imprecisely defined holographic principle, blah, blah, blah, blah, blah.
+
+47:05.520 --> 47:12.560
+So nobody knows exactly what it is. But roughly speaking, it says just what we were alluding to
+
+47:13.440 --> 47:20.960
+that really all the information that is in some volume of space time
+
+47:20.960 --> 47:24.720
+can be stored on the boundary of that region.
+
+47:26.320 --> 47:29.600
+So this is not just about black holes. It's about any area of space.
+
+47:29.600 --> 47:34.800
+Any area of space. However, we've made sense of the holographic principle for black holes.
+
+47:36.240 --> 47:40.400
+We've made sense of the holographic principle for something which could be
+
+47:40.400 --> 47:48.400
+called anti-dissider space, which could be thought of as a giant, as a black hole turned
+
+47:48.400 --> 47:58.800
+into a whole universe. And we don't really understand how to talk about the holographic
+
+47:58.800 --> 48:07.920
+principle for either flat space, which we appear to live in, or asymptotically dissider space,
+
+48:07.920 --> 48:14.000
+which astronomers tell us we actually live in as the universe continues to expand.
+
+48:14.800 --> 48:28.080
+So it's one of the huge problems in physics is to apply or even formulate the holographic principle
+
+48:28.080 --> 48:36.960
+for more realistic, well, black holes are realistic, we see them. But yeah, in more
+
+48:36.960 --> 48:40.640
+general context, to give a more general statement of the holographic principle.
+
+48:41.280 --> 48:46.800
+What's the difference between flat space and asymptotic dissider space? So flat space is
+
+48:46.800 --> 48:52.560
+just an approximation of like the world we live in. So like dissider space, asymptotic,
+
+48:52.560 --> 48:57.760
+I wonder what that even means, meaning like asymptotic over what?
+
+48:57.760 --> 49:03.440
+Okay. So for thousands of years, you know, until the last half of the 20th, well, sorry,
+
+49:03.440 --> 49:09.360
+until the 20th century, we thought space time was flat.
+
+49:10.240 --> 49:14.320
+Can you elaborate on flat? What do we mean by flat?
+
+49:15.680 --> 49:23.040
+Well, like the surface of this table is flat. Let me just give an intuitive explanation.
+
+49:23.600 --> 49:32.640
+Surface of the table is flat, but the surface of a basketball is curved. So the universe itself
+
+49:34.080 --> 49:39.440
+could be flat like the surface of a table, or it could be curved like a basketball,
+
+49:39.440 --> 49:44.320
+which actually has a positive curvature. And then there's another kind of curvature called
+
+49:44.320 --> 49:52.080
+a negative curvature. And curvature can be even weirder because that kind of curvature
+
+49:52.080 --> 49:57.840
+I've just described is the curvature of space. But Einstein taught us that we really live in a
+
+49:57.840 --> 50:03.840
+space-time continuum. So we can have curvature in a way that mixes up space and time.
+
+50:05.760 --> 50:07.600
+And that's kind of hard to visualize.
+
+50:07.600 --> 50:11.120
+Because you have to step what? A couple of dimensions up. So it's hard to...
+
+50:11.760 --> 50:21.120
+You have to step a couple. But even if you have flat space and it's expanding in time,
+
+50:23.040 --> 50:26.880
+you know, we could imagine we're sitting here, this room, good approximation, it's flat,
+
+50:26.880 --> 50:32.080
+but imagine we suddenly start getting further and further apart. Then space is flat,
+
+50:34.320 --> 50:38.000
+but it's expanding, which means that space-time is curved.
+
+50:39.280 --> 50:43.200
+Ultimately, it's about space-time. Okay, so what's the Sitter and Entity-Sitter space?
+
+50:45.280 --> 50:51.360
+The three simplest space-times are flat space-time, which we call Minkowski space-time,
+
+50:52.160 --> 50:59.680
+and negatively curved space-time, anti-de Sitter space, and positively curved space-time,
+
+50:59.680 --> 51:12.320
+de Sitter space. And so astronomers think that on large scales, even though for thousands of years
+
+51:12.320 --> 51:19.920
+we hadn't noticed it, beginning with Hubble, we started to notice that space-time was curved.
+
+51:19.920 --> 51:29.360
+Space is expanding in time, means that space-time is curved. And the nature of this curvature is
+
+51:29.360 --> 51:36.880
+affected by the matter in it, because matter itself causes the curvature of space-time.
+
+51:37.760 --> 51:44.880
+But as it expands, the matter gets more and more diluted. And one might ask, when it's all diluted
+
+51:44.880 --> 51:55.440
+away, is space-time still curved? And astronomers believe they've done precise enough measurements
+
+51:55.440 --> 52:01.920
+to determine this, and they believe that the answer is yes. The universe is now expanding.
+
+52:02.480 --> 52:11.280
+Eventually, all the matter in it will be expanded away, but it will continue to expand
+
+52:11.520 --> 52:17.600
+because, well, they would call it the dark energy. Einstein would call it a cosmological constant.
+
+52:18.160 --> 52:24.800
+In any case, in the far future, matter will be expanded away and will be left with empty
+
+52:24.800 --> 52:29.520
+de Sitter space. Okay, so there's this cosmological, Einstein's cosmological constant
+
+52:30.000 --> 52:35.120
+that now hides this thing that we don't understand called dark energy. What's dark energy?
+
+52:35.120 --> 52:40.640
+What's your best guess at what this thing is? Why do we think it's there? It's because of
+
+52:41.600 --> 52:48.480
+it comes from the astronomers. Dark energy is synonymous with positive cosmological constant.
+
+52:53.200 --> 53:02.720
+We think it's there because the astronomers have told us it's there, and they know what they're
+
+53:02.720 --> 53:08.080
+doing. It's a really, really hard measurement, but they really know what they're doing.
+
+53:08.800 --> 53:16.560
+And we have no frigging idea why it's there. Another big mystery. Another reason it's fun
+
+53:16.560 --> 53:24.720
+to be a physicist. And if it is there, why should it be so small? Why should there be so little?
+
+53:24.720 --> 53:30.880
+Why should it have hid itself from us? Why shouldn't there be enough of it to substantially
+
+53:31.680 --> 53:36.800
+curve the space between us and the moon? Why did there have to be such a
+
+53:38.560 --> 53:42.640
+small amount that only the crazy best astronomers in the world could find it?
+
+53:43.520 --> 53:51.120
+Well, can't the same thing be said about all the constants? Can't that be said about gravity? Can't
+
+53:51.120 --> 53:54.720
+that be said about the speed of light? Why is the speed of light so slow?
+
+53:56.000 --> 53:56.960
+So fast.
+
+53:56.960 --> 54:01.520
+So slow. Relative to the size of the universe, can't it be faster?
+
+54:04.720 --> 54:09.440
+Well, the speed of light is a funny one because you could always choose units
+
+54:10.880 --> 54:18.240
+in which the speed of light is one. We measure it in kilometers per second, and it's 186,000
+
+54:18.240 --> 54:24.800
+or miles per second. It's 186,000 miles per second. But if we use different units,
+
+54:25.520 --> 54:34.320
+then we could make it one. But you can make dimensionless ratios. So you could say,
+
+54:34.320 --> 54:42.000
+why is the time scale set by the expansion of the universe so large compared to the time scale of
+
+54:42.000 --> 54:47.280
+a human life or so large compared to the time scale for a neutron to decay?
+
+54:48.560 --> 54:53.120
+I mean, ultimately, the temporal reference frame here is a human life.
+
+54:53.120 --> 54:53.440
+Maybe.
+
+54:53.920 --> 54:57.840
+Isn't that the important thing for us, descendants of apes? Isn't that a really
+
+54:57.840 --> 55:05.200
+important aspect of physics? Because we kind of experience the world, we intuit the world
+
+55:05.200 --> 55:13.360
+through the eyes of these biological organisms. I mean, I guess mathematics helps you escape that
+
+55:13.360 --> 55:17.120
+for a time, but ultimately, isn't that how you wander about the world?
+
+55:18.160 --> 55:19.120
+Absolutely.
+
+55:19.360 --> 55:22.720
+Like a human life, time is only 100 years. Because if you think of everything,
+
+55:24.240 --> 55:27.440
+if you're able to think in, I don't know, in billions of years,
+
+55:29.840 --> 55:37.520
+then maybe everything looks way different. Maybe universes are born and die, and maybe
+
+55:37.520 --> 55:42.560
+all of these physical phenomena become much more intuitive that we see at the grand scale
+
+55:42.560 --> 55:47.680
+of general relativity. Well, that is a little off the track here,
+
+55:47.680 --> 55:52.400
+but that certainly is one of the nice things about being a physicist. You spend a lot of
+
+55:52.400 --> 55:59.040
+time thinking about insides of black holes and billions of years in the future, and it sort of
+
+56:00.880 --> 56:07.280
+gets you away from the day to day into another fantastic realm.
+
+56:10.000 --> 56:15.600
+But I was answering your question about how there could be information in a black hole.
+
+56:15.760 --> 56:22.480
+Yes. So Einstein only gave us an approximate description,
+
+56:22.480 --> 56:31.600
+and we now have a theory that corrects it, string theory. And now sort of was the moment of truth.
+
+56:31.600 --> 56:36.400
+Well, when we first discovered string theory, we knew from the get-go that string theory would
+
+56:36.400 --> 56:43.840
+correct what Einstein said, just like Einstein corrected what Newton said. But we didn't
+
+56:43.840 --> 56:51.360
+understand it well enough to actually compute the correction, to compute how many gigabytes there
+
+56:51.360 --> 57:02.960
+were. And sometime in the early 90s, we began to understand the mathematics of string theory
+
+57:02.960 --> 57:10.240
+better and better. And it came to the point where it was clear that this was something
+
+57:10.240 --> 57:16.480
+we might be able to compute. And it was a kind of moment of truth for string theory, because
+
+57:17.360 --> 57:28.000
+if it hadn't given the answer that Bekenstein and Hawking said it had to give for consistency,
+
+57:29.280 --> 57:34.480
+string theory itself would have been inconsistent, and we wouldn't be doing this interview.
+
+57:35.120 --> 57:38.080
+Wow. That's a very dramatic statement.
+
+57:41.440 --> 57:42.960
+That's not the most dramatic thing.
+
+57:45.040 --> 57:51.200
+I mean, okay, that's very life and death. You mean that because string theory was
+
+57:51.200 --> 57:54.400
+central to your work at that time. Is that what you mean?
+
+57:54.400 --> 57:56.400
+Well, string theory would have been inconsistent.
+
+57:58.240 --> 57:59.760
+String theory would have been inconsistent.
+
+57:59.760 --> 58:03.040
+But those inconsistencies can give birth to other theories, like you said.
+
+58:03.120 --> 58:06.960
+The inconsistency, right. Something else could have happened. It would have been a major
+
+58:10.080 --> 58:17.680
+change in the way we think about string theory. And it was a good thing that one supposition that
+
+58:17.680 --> 58:24.320
+the world is made of strings solves two problems, not one. It solves the infinity problem and it
+
+58:24.960 --> 58:33.200
+solved the Hawking's problem. And also the way that it did it was very beautiful.
+
+58:35.040 --> 58:43.120
+It gave an alternate description. So alternate description of things are
+
+58:43.360 --> 58:52.000
+very common. I mean, to take a simple example, this bottle of water here is
+
+58:52.880 --> 59:00.400
+90% full. I could say it's 90% full. I could also say it's 10% empty. Those are obviously
+
+59:00.400 --> 59:07.120
+the same statement. And it's trivial to see that they're the same, but there are many statements
+
+59:07.760 --> 59:15.440
+that can be made in mathematics and mathematical physics that are equivalent but might take years
+
+59:15.440 --> 59:21.040
+to understand that they're equivalent and might take the invention or discovery of whole new
+
+59:21.040 --> 59:25.840
+fields of mathematics to prove they're equivalent. And this was one of those.
+
+59:26.720 --> 59:33.840
+We found an alternate description of certain black holes in string theory,
+
+59:34.480 --> 59:41.600
+which we could prove was equivalent. And it was a description of the black hole as a hologram
+
+59:42.800 --> 59:50.240
+that can be thought of a holographic plate that could be thought of as sitting on the surface
+
+59:50.240 --> 59:57.040
+of the black hole. And the interior of the black hole itself sort of arises as a projection,
+
+59:58.000 --> 01:00:05.040
+or the near horizon region of the black hole arises as a projection of that holographic plate.
+
+01:00:05.040 --> 01:00:12.000
+So the two descriptions were the hologram, the three-dimensional image, and the holographic
+
+01:00:12.000 --> 01:00:19.840
+plate. And the hologram is what Einstein discovered and the holographic plate is what we discovered.
+
+01:00:20.800 --> 01:00:29.200
+And this idea that you could describe things very, very concretely in string theory in these two
+
+01:00:29.200 --> 01:00:39.520
+different languages, of course, took off and was applied to many different contexts within string
+
+01:00:39.520 --> 01:00:45.360
+theory. So you mentioned the infinity problem and the Hawking problem. Which Hawking problem?
+
+01:00:45.920 --> 01:00:51.680
+The black hole destroys information or which Hawking problem are we talking about?
+
+01:00:51.680 --> 01:00:56.240
+Well, there's really two Hawking problems. They're very closely related.
+
+01:00:58.000 --> 01:01:08.640
+One is, how does the black hole store the information? And that is the one that we
+
+01:01:09.600 --> 01:01:20.480
+solved in some cases. So it's sort of like your smartphone. How does it store its 64 gigabytes?
+
+01:01:21.040 --> 01:01:25.760
+Well, you rip the cover off and you count the chips and there's 64 of them, each with a gigabyte,
+
+01:01:26.400 --> 01:01:33.440
+and you know there's 64 gigabytes. But that does not solve the problem of how you get information
+
+01:01:33.440 --> 01:01:40.240
+in and out of your smartphone. You have to understand a lot more about the Wi-Fi and the
+
+01:01:40.240 --> 01:01:47.200
+internet and the cellular. And that's where Hawking radiation, this prediction starts.
+
+01:01:47.200 --> 01:01:54.000
+That's where Hawking radiation comes in. And that problem of how the information gets in and out,
+
+01:01:54.000 --> 01:02:00.320
+you can't, you couldn't have explained how information gets in and out of an iPhone without
+
+01:02:00.320 --> 01:02:06.480
+first explaining how it's stored in the first place. So just to clarify, the storage
+
+01:02:07.120 --> 01:02:13.280
+is on the plate, on the holographic plate, and then it projects somehow inside the...
+
+01:02:14.000 --> 01:02:17.920
+The bulk, the space time is the hologram.
+
+01:02:17.920 --> 01:02:23.760
+The hologram. But man, I mean, do you have an intuitive, when you sit late at night and you
+
+01:02:23.760 --> 01:02:28.320
+stare at the stars, do you have an intuitive understanding of what a holographic plate is?
+
+01:02:31.280 --> 01:02:35.280
+Like that there's two dimensions, projections that store information?
+
+01:02:36.960 --> 01:02:44.080
+How a black hole could store information on a holographic plate,
+
+01:02:45.840 --> 01:02:53.040
+I think we do understand in great mathematical detail and also intuitively. And it's very much
+
+01:02:53.040 --> 01:02:59.520
+like an ordinary hologram where you have a holographic plate and it contains all the
+
+01:02:59.600 --> 01:03:05.680
+information. You shine a light through it and you get an image which looks three-dimensional.
+
+01:03:05.680 --> 01:03:07.920
+Yeah, but why should there be a holographic plate?
+
+01:03:10.960 --> 01:03:12.240
+Why should there be?
+
+01:03:12.240 --> 01:03:13.040
+Yeah, why?
+
+01:03:14.480 --> 01:03:23.120
+That is the great thing about being a theoretical physicist is anybody can very quickly stump you
+
+01:03:23.120 --> 01:03:25.680
+with going to the next level of why's.
+
+01:03:26.320 --> 01:03:28.880
+Yeah, why's is kind of blue, I can just keep asking.
+
+01:03:29.040 --> 01:03:32.080
+Yeah, you could just keep asking and it won't take you very long to.
+
+01:03:33.440 --> 01:03:41.280
+So the trick in being a theoretical physics is finding the questions that you can answer.
+
+01:03:42.960 --> 01:03:50.160
+So the questions that we think we might be able to answer now and we've partially answered is that
+
+01:03:50.560 --> 01:03:59.040
+there is a holographic explanation for certain kinds of things in string theory.
+
+01:04:00.080 --> 01:04:04.640
+We've answered that. Now we'd like to take what we've learned and that's
+
+01:04:04.640 --> 01:04:11.200
+what I've mostly been doing for the last 15, 20 years. I haven't really been working so much
+
+01:04:11.200 --> 01:04:18.400
+on string theory proper. I've been sort of taking the lessons that we learned in string theory
+
+01:04:19.120 --> 01:04:27.600
+and trying to apply them to the real world, assuming only what we know for sure about the
+
+01:04:27.600 --> 01:04:33.920
+real world. So on this topic, you co-wrote, co-authored a paper with Stephen Hawking called
+
+01:04:33.920 --> 01:04:39.040
+Soft Hair on Black Holes that makes the argument against Hawking's original prediction that black
+
+01:04:39.040 --> 01:04:43.760
+holes destroy information. Can you explain this paper and the title?
+
+01:04:44.000 --> 01:04:56.960
+Yeah. Okay. So first of all, the hair on black holes is a word that was coined by the greatest
+
+01:04:56.960 --> 01:05:02.400
+phrase master in the history of physics, John Wheeler, invented the word black hole.
+
+01:05:03.600 --> 01:05:11.040
+And he also said that he made the statement that black holes have no hair.
+
+01:05:11.920 --> 01:05:20.640
+That is, every black hole in the universe is described just by its mass and spin.
+
+01:05:22.400 --> 01:05:32.960
+They can also rotate, as was later shown by Kerr. And this is very much unlike a star.
+
+01:05:33.600 --> 01:05:42.400
+Right? Every star of the same mass is different in a multitude of different ways,
+
+01:05:43.760 --> 01:05:51.280
+different chemical compositions, different motions of the individual molecules. Every star in the
+
+01:05:51.280 --> 01:05:59.440
+universe, even of the same mass, is different in many, many different ways. Black holes are all
+
+01:05:59.440 --> 01:06:04.720
+the same. And that means when you throw something in Einstein's description of them,
+
+01:06:05.760 --> 01:06:13.360
+which we think must be corrected. And if you throw something into a black hole,
+
+01:06:13.360 --> 01:06:23.680
+it gets sucked in. And if you throw in a red book or a blue book, the black hole gets a little
+
+01:06:23.680 --> 01:06:30.320
+bigger, but there's no way within Einstein's theory of telling how they're different.
+
+01:06:32.240 --> 01:06:41.600
+And that was one of the assumptions that Hawking made in his 1974-75
+
+01:06:42.400 --> 01:06:50.720
+papers in which he concluded that black holes destroy information. You can throw encyclopedias,
+
+01:06:50.720 --> 01:06:57.200
+thesis defenses, the Library of Congress. It doesn't matter. It's going to behave exactly
+
+01:06:57.200 --> 01:07:04.640
+the same uniform way. Yeah. So what Hawking and I showed, and also Malcolm Perry,
+
+01:07:06.800 --> 01:07:16.960
+is that one has to be very careful about what happens at the boundary of the black hole.
+
+01:07:17.920 --> 01:07:24.400
+And this gets back to something I mentioned earlier about when two things which are related
+
+01:07:24.400 --> 01:07:36.080
+by a coordinate transformation are and are not equivalent. And what we showed is that there are
+
+01:07:36.080 --> 01:07:43.280
+very subtle imprints when you throw something into a black hole. There are very subtle imprints left
+
+01:07:43.440 --> 01:07:50.400
+on the horizon of the black hole, which you can read off at least partially what went in.
+
+01:07:53.200 --> 01:08:03.600
+So this invalidates Stephen's original argument that the information is destroyed.
+
+01:08:03.600 --> 01:08:10.240
+And that's the soft hair. That's the soft hair. Right. And soft is the word that is used in physics
+
+01:08:10.240 --> 01:08:16.320
+for things which have very low energy. And these things actually carry no energy.
+
+01:08:16.960 --> 01:08:19.680
+There are things in the universe which carry no energy.
+
+01:08:20.480 --> 01:08:26.960
+You said, I think to Sean Carroll, by the way, everyone should go check out Sean Carroll's
+
+01:08:26.960 --> 01:08:31.600
+Mindscape podcast. It's incredible. And Sean Carroll is an incredible person. I think you
+
+01:08:31.600 --> 01:08:36.400
+said there, maybe in a paper, I have a quote. You said that a soft particle is a particle
+
+01:08:37.360 --> 01:08:42.000
+that has zero energy, just like you said now. And when the energy goes to zero, because the
+
+01:08:42.000 --> 01:08:48.000
+energy is proportionate to the wavelength, it's also spread over an infinitely large distance.
+
+01:08:48.000 --> 01:08:53.920
+If you like, it's spread over the whole universe. It somehow runs off to the boundary. What we
+
+01:08:53.920 --> 01:08:59.520
+learned from that is that if you add a zero energy particle to the vacuum, you get a new state. And
+
+01:08:59.600 --> 01:09:07.520
+so there are infinitely many vacua, plural for vacuum, which can be thought of as
+
+01:09:08.400 --> 01:09:13.360
+being different from one another by the addition of soft photons or soft gravitons.
+
+01:09:13.360 --> 01:09:21.120
+Right. Can you elaborate on this wild idea? If you like, it spreads over the whole universe.
+
+01:09:21.680 --> 01:09:25.280
+When the energy goes to zero, because the energy is proportionate to the wavelength,
+
+01:09:25.280 --> 01:09:29.520
+it also spreads over an infinitely large distance. If you like, it's spread over the
+
+01:09:29.520 --> 01:09:35.760
+whole universe. It's spread over the whole universe. Can you explain these soft gravitons
+
+01:09:35.760 --> 01:09:47.040
+and photons? Yeah. So the soft gravitons and photons have been known about since the 60s,
+
+01:09:48.160 --> 01:09:53.280
+but exactly what we're supposed to do with them or how we're supposed to think about them
+
+01:09:55.280 --> 01:10:06.080
+I think has been well understood only recently. And in quantum mechanics, the energy of a particle
+
+01:10:07.120 --> 01:10:10.640
+is proportional to Planck's constant times its wavelength.
+
+01:10:12.160 --> 01:10:19.840
+So when the energy goes to zero, the wavelength goes to infinity. Now, if something has
+
+01:10:20.800 --> 01:10:28.240
+zero energy and it's spread all over the universe, in what sense is it actually there?
+
+01:10:29.120 --> 01:10:38.800
+That's been the confusing thing to make a precise statement about when something is and isn't there.
+
+01:10:39.760 --> 01:10:46.800
+Now, the simplest way of seeing, so people might have taken the point of view
+
+01:10:47.760 --> 01:10:55.360
+that if it has zero energy and is spread all over the universe, it's not there. We can ignore it.
+
+01:10:58.880 --> 01:11:05.520
+But if you do this, you'll get into trouble. And one of the ways that you'll get into trouble
+
+01:11:05.520 --> 01:11:10.560
+is that even though it has zero energy, it doesn't have zero angular momentum.
+
+01:11:10.560 --> 01:11:19.120
+If it's a photon, it always has angular momentum 1. If it's a graviton, it's angular momentum 2.
+
+01:11:21.600 --> 01:11:31.280
+So you can't say that the state of the system with the zero energy photon should be identified
+
+01:11:31.280 --> 01:11:37.040
+with the one without the zero energy photon, that we can just ignore them because then you will
+
+01:11:37.040 --> 01:11:44.800
+conclude that angular momentum is not conserved. And if angular momentum is not conserved, things
+
+01:11:44.800 --> 01:11:53.200
+won't be consistent. And of course, you can have a lot of these things and typically you do get a
+
+01:11:53.200 --> 01:12:01.760
+lot of them. And you can actually do a calculation that shows that every time you scatter two
+
+01:12:01.760 --> 01:12:07.840
+particles, you create an infinite number of them. Infinite number of the zero energy ones.
+
+01:12:09.920 --> 01:12:15.360
+And they're somehow everywhere, but they also contain information or they're able to store
+
+01:12:15.360 --> 01:12:20.560
+information. And they're able to store information. They're able to store an arbitrary large amount
+
+01:12:20.560 --> 01:12:29.360
+of information. So what these things really do, one way of thinking of them is they rush off to
+
+01:12:29.360 --> 01:12:34.560
+the edges of the universe, spreading out all over the space. It's like saying they rush off
+
+01:12:34.560 --> 01:12:41.760
+to the edge of the universe. And that includes, if the interior of the black hole is not considered
+
+01:12:41.760 --> 01:12:48.560
+part of the universe, that includes the edge of the black hole. So we need to set up our
+
+01:12:48.560 --> 01:12:57.280
+description of physics so that all the things that are conserved are still conserved in the
+
+01:12:57.280 --> 01:13:01.920
+way that we're describing them. And that will not be true if we ignore these things. We have
+
+01:13:01.920 --> 01:13:08.640
+to keep careful track of these things. And people had been sloppy about that. And we learned how to
+
+01:13:08.640 --> 01:13:15.840
+be very precise and careful about it. And once you're being precise, you can actually answer
+
+01:13:15.840 --> 01:13:21.040
+this kind of very problematic thing that Hawking suggested, that black holes destroy information.
+
+01:13:21.040 --> 01:13:29.920
+Well, what we showed is that there's an error in the argument that all black holes are the same
+
+01:13:29.920 --> 01:13:38.560
+because they hadn't kept track of these very subtle things. And whether or not
+
+01:13:39.680 --> 01:13:47.440
+this is the key error in the argument remains to be seen, or whether this is a technical point.
+
+01:13:47.440 --> 01:13:49.280
+Yes. But it is an error.
+
+01:13:49.360 --> 01:13:50.160
+It is an error.
+
+01:13:51.280 --> 01:13:53.840
+And Hawking obviously agreed with it.
+
+01:13:53.840 --> 01:14:02.480
+Hawking agreed with it. And he was sure that this was the critical error and that understanding
+
+01:14:02.480 --> 01:14:08.800
+this would get us the whole story. And that could well be.
+
+01:14:09.360 --> 01:14:12.160
+What was it like working with Stephen Hawking on this particular
+
+01:14:12.960 --> 01:14:15.920
+problem? Because it's kind of a whole journey, right?
+
+01:14:15.920 --> 01:14:33.440
+Well, I love the guy. He's so passionate about physics. His oneness with the problem.
+
+01:14:36.240 --> 01:14:38.560
+So his mind is all occupied by the world.
+
+01:14:39.680 --> 01:14:44.960
+Yeah. And let me tell you, there's a lot of other things with his illness and with his celebrity.
+
+01:14:46.080 --> 01:14:47.440
+A lot of other things.
+
+01:14:49.360 --> 01:14:53.920
+A lot of distractions pulling at his mind. He's still there.
+
+01:14:53.920 --> 01:15:01.520
+That's right. I remember him turning down tea with Lady Gaga so we could spend another hour on paper.
+
+01:15:05.920 --> 01:15:12.160
+That, my friends, is dedication. What did you learn about physics? What did you learn about life
+
+01:15:12.160 --> 01:15:15.200
+from having worked with Stephen Hawking?
+
+01:15:15.200 --> 01:15:20.080
+Well, he was one of my great teachers. Of course, he's older than me and I was reading his
+
+01:15:22.240 --> 01:15:35.040
+textbooks in graduate school. And I learned a lot about relativity from him. I learned about
+
+01:15:36.000 --> 01:15:38.720
+passion for a problem. I learned about
+
+01:15:42.080 --> 01:15:50.480
+not caring what other people think. Physics is an interesting culture. Even if you make a
+
+01:15:50.480 --> 01:15:59.440
+great discovery like Hawking did, people don't believe everything you say. In fact,
+
+01:15:59.520 --> 01:16:11.440
+people love to disagree. It's a culture that cherishes disagreement. He kept ahead with
+
+01:16:11.440 --> 01:16:14.960
+what he believed in. Sometimes he was right and sometimes he was wrong.
+
+01:16:15.600 --> 01:16:18.640
+Do you feel pressure from the community? For example, with string theory,
+
+01:16:19.760 --> 01:16:25.920
+it was very popular for a time. There's a bit of criticism or it's less popular now. Do you feel
+
+01:16:25.920 --> 01:16:32.240
+the forces of the community as it moves in and out of different fields? How difficult is it to
+
+01:16:32.240 --> 01:16:36.480
+stay intellectually and mathematically independent from the community?
+
+01:16:39.680 --> 01:16:54.320
+Personally, I'm lucky. I'm well equipped for that. When I started out in graduate school,
+
+01:16:54.320 --> 01:17:00.160
+the problem of quantum gravity was not considered interesting.
+
+01:17:01.120 --> 01:17:02.320
+You still did it anyway.
+
+01:17:02.320 --> 01:17:07.600
+I still did it anyway. I'm a little bit of a contrarian, I guess, and I think that has
+
+01:17:08.640 --> 01:17:19.760
+served me well. People are always sort of disagreeing with me. They're usually right,
+
+01:17:19.760 --> 01:17:21.440
+but I'm right enough.
+
+01:17:22.640 --> 01:17:26.240
+Like you said, the contradiction ultimately paves the path of discovery.
+
+01:17:27.760 --> 01:17:31.360
+Let me ask you just on this tension. We've been dancing between physics and mathematics.
+
+01:17:32.320 --> 01:17:38.240
+What to you is an interesting line you can draw between the two? You have done some very
+
+01:17:38.240 --> 01:17:43.200
+complicated mathematics in your life to explore the laws of nature. What's the difference between
+
+01:17:43.200 --> 01:17:46.080
+physics and mathematics to you?
+
+01:17:46.640 --> 01:17:54.400
+Well, I love math. I think my first love is physics, and the math that I've done,
+
+01:17:57.280 --> 01:17:58.320
+because it was needed.
+
+01:17:59.520 --> 01:18:01.040
+In service of physics.
+
+01:18:01.040 --> 01:18:08.240
+In service of physics, but then, of course, in the heat of it, it has its own appeal.
+
+01:18:09.120 --> 01:18:12.000
+In the heat of it. I like it. Sure.
+
+01:18:12.000 --> 01:18:18.960
+It has its own appeal, and I certainly enjoyed it. Ultimately, I would like to think,
+
+01:18:18.960 --> 01:18:25.680
+I wouldn't say I believe, but I would like to think that there's no difference between
+
+01:18:26.320 --> 01:18:34.000
+physics and mathematics, that all mathematics is realized in the physical world, and
+
+01:18:34.960 --> 01:18:39.600
+all physics has a firm mathematical basis, that they're really the same thing.
+
+01:18:40.560 --> 01:18:49.120
+Why would there be math that had no physical manifestation? It seems a little odd, right?
+
+01:18:49.120 --> 01:18:54.000
+You have two kinds of math, some that are relevant to the real world.
+
+01:18:54.000 --> 01:18:58.560
+Well, they don't have to be contradictory, but can't you not have mathematical objects
+
+01:18:58.560 --> 01:19:03.120
+that are not at all connected to the physical world? This is to the question of is math
+
+01:19:03.120 --> 01:19:11.360
+discovered or invented? To you, math is discovered, and there's a deep linkage between the two.
+
+01:19:12.880 --> 01:19:19.360
+Do you find it all compelling, these ideas, something like Max Tegmark, where our universe
+
+01:19:19.360 --> 01:19:25.600
+is actually a fundamentally mathematical object, that our universe is mathematical,
+
+01:19:25.600 --> 01:19:27.440
+fundamentally mathematical in nature?
+
+01:19:28.400 --> 01:19:35.440
+My expertise is that a physicist doesn't add anything to that.
+
+01:19:40.880 --> 01:19:53.920
+I was once very interested in philosophy. I like questions that can be answered.
+
+01:19:54.560 --> 01:20:01.120
+That it's not obvious what the answer is, and that you can find an answer to the question,
+
+01:20:02.160 --> 01:20:08.720
+and everybody will agree what the answer is, and that there's an algorithm for getting there.
+
+01:20:10.240 --> 01:20:16.080
+Not that these other questions aren't interesting, and they don't somehow have a way of
+
+01:20:16.880 --> 01:20:26.640
+presenting themselves, but to me, the interesting thing is motion in what we know, learning more,
+
+01:20:27.360 --> 01:20:32.640
+and understanding things that we didn't understand before, things that seemed
+
+01:20:32.640 --> 01:20:39.360
+totally confusing, having them seem obvious. That's wonderful. I think those questions are
+
+01:20:39.360 --> 01:20:47.280
+there. I would even go further, the whole multiverse. I don't think there's too much
+
+01:20:48.160 --> 01:20:51.520
+concrete we're ever going to be able to say about it.
+
+01:20:52.320 --> 01:20:58.080
+This is fascinating because you spent so much time in string theory, which is devoid from a
+
+01:20:58.080 --> 01:21:04.480
+connection to the physical world for a long time. Not devoid, but it travels in a mathematical world
+
+01:21:04.480 --> 01:21:12.400
+that seems to be beautiful and consistent, and seems to indicate that it could be a good model
+
+01:21:12.400 --> 01:21:17.840
+of the laws of nature. It's still traveling independently because it's very difficult to
+
+01:21:17.840 --> 01:21:22.800
+experimentally verify, but there's a promise laden in it in the same way multiverse, or
+
+01:21:23.680 --> 01:21:30.320
+you can have a lot of very far out there questions, where your gut instinct intuition says that maybe
+
+01:21:30.320 --> 01:21:35.920
+in 50, 100, 200 years, you'll be able to actually have strong experimental validation.
+
+01:21:37.840 --> 01:21:45.680
+I think that with string theory, I don't think it's likely that we could measure it,
+
+01:21:47.040 --> 01:21:54.400
+but we could get lucky. In other words, just to take an example, about 10 or 20 years ago,
+
+01:21:55.120 --> 01:22:01.280
+it was thought that they had seen a string in the sky and that it was seen by
+
+01:22:04.800 --> 01:22:11.040
+doubled stars that were gravitationally lensed around the gravitational field produced by some
+
+01:22:11.040 --> 01:22:14.400
+long string. There was a line of double lensed, now the signal went away.
+
+01:22:17.280 --> 01:22:21.440
+People were hoping that they'd seen a string, and it could be a fundamental string that
+
+01:22:21.760 --> 01:22:27.760
+somehow gotten stretched, and that would be some evidence for string theory. There was also bicep
+
+01:22:27.760 --> 01:22:39.200
+two, which the experiment was wrong, but it could have happened. It could have happened that we got
+
+01:22:39.200 --> 01:22:44.320
+lucky, and this experiment was able to make direct measurements, certainly would have been
+
+01:22:44.320 --> 01:22:50.800
+measurements of quantum gravity, if not string theory. It's a very logical possibility
+
+01:22:51.680 --> 01:22:54.960
+that we could get experimental evidence from string.
+
+01:22:54.960 --> 01:23:01.920
+That is a very different thing than saying, do this experiment, here's a billion dollars,
+
+01:23:01.920 --> 01:23:04.560
+and after you do it, we'll know whether or not strings are real.
+
+01:23:05.360 --> 01:23:12.720
+But I think it's a crucial difference. It's measurable in principle, and we don't see
+
+01:23:13.680 --> 01:23:23.120
+how to get from here to there. If we see how to get from here to there, in my eyes, it's boring.
+
+01:23:25.520 --> 01:23:29.200
+When I was a graduate student, they knew how to measure the Higgs boson.
+
+01:23:31.840 --> 01:23:39.200
+It took 40 years, but they did it. Not to say that stuff is boring, I don't want to say that stuff
+
+01:23:39.200 --> 01:23:46.240
+is boring. But when Magellan set out, he didn't know we could get around the world.
+
+01:23:47.280 --> 01:23:51.280
+There was no map. I don't know how we're going to
+
+01:23:54.640 --> 01:24:01.120
+connect in a concrete way all these ideas of string theory to the real world.
+
+01:24:02.240 --> 01:24:08.240
+When I started out in graduate school, I said, what is the most interesting problem
+
+01:24:08.960 --> 01:24:15.600
+that there might be progress on in 60 years?
+
+01:24:19.360 --> 01:24:30.000
+I think it could be that in another 30 years, that maybe we'll learn that we have understood
+
+01:24:30.000 --> 01:24:37.760
+how black holes store information. That doesn't seem wild that we're able to abstract what we
+
+01:24:37.760 --> 01:24:52.000
+learned from string theory and show that it's operative. When Bose and Einstein predicted it,
+
+01:24:52.960 --> 01:25:00.560
+when was that, the 30s maybe, early 30s, there were 20 orders of magnitude that were needed
+
+01:25:01.600 --> 01:25:07.440
+in order to improvement, in order to measure it. They did 50 years later.
+
+01:25:08.720 --> 01:25:13.680
+I think you couldn't have guessed how that had happened, how they could have gotten that.
+
+01:25:14.800 --> 01:25:21.840
+It could happen that I don't think we're going to see the heterotic string spectrum at an accelerator,
+
+01:25:22.880 --> 01:25:33.120
+but it could be that things come around in an interesting way and somehow it comes together.
+
+01:25:33.120 --> 01:25:41.760
+The fact that we can't see to the end isn't a reason not to do it. What did they do when
+
+01:25:41.760 --> 01:25:48.160
+they were trying to find the Pacific? They took every route. They just tried everything. That's
+
+01:25:48.160 --> 01:25:57.040
+what we're doing. I'm taking the one that my nose tells me is the best. Other people are taking
+
+01:25:57.040 --> 01:26:05.360
+other ones and that's good because we need every person taking every route. If somebody on another
+
+01:26:05.360 --> 01:26:12.640
+route finds something that looks really promising, I'm going to make a portage over the mountain and
+
+01:26:12.640 --> 01:26:22.400
+get on their stream. The fact that you don't see the experiment now isn't to me a reason to
+
+01:26:23.120 --> 01:26:33.280
+give up on what I view as the most fundamental paradox in present physics, 2021st century physics.
+
+01:26:33.280 --> 01:26:38.000
+Absolutely. You can see that it's possible. You just don't know the way. That's what I mean
+
+01:26:38.000 --> 01:26:42.400
+where some of the philosophical questions could be formulated in a way that's explorable
+
+01:26:42.400 --> 01:26:50.400
+scientifically. Some of the stuff we've talked about, but for example, this topic that's become
+
+01:26:50.480 --> 01:26:54.000
+more okay to talk about, which is the topic of consciousness.
+
+01:26:55.760 --> 01:26:59.680
+To me as an artificial intelligence person, that's a very practically interesting topic,
+
+01:26:59.680 --> 01:27:05.600
+but there's also philosophers. Sean Carroll loves to argue against them,
+
+01:27:05.600 --> 01:27:09.120
+but there's some philosophers that are panpsychists. I'm not against philosophers.
+
+01:27:09.120 --> 01:27:17.760
+It's just not as fun. It's not as fun. They start a little flame of a fire going
+
+01:27:18.320 --> 01:27:25.120
+that some of those flames, I think, eventually become physics, so eventually become something
+
+01:27:25.120 --> 01:27:31.120
+that we can really ... Having them around is really important because you'll discover something by
+
+01:27:31.680 --> 01:27:36.960
+modeling and exploring black holes that's really weird, and having these ideas around,
+
+01:27:37.520 --> 01:27:42.320
+like the ideas of panpsychists that consciousness could be a fundamental force of nature.
+
+01:27:42.880 --> 01:27:46.480
+Just even having that crazy idea swimming around in the background
+
+01:27:46.560 --> 01:27:51.440
+could really spark something where you're missing something completely.
+
+01:27:53.360 --> 01:28:00.400
+That's where the philosophy done right, I think, is very useful. That's where even these thought
+
+01:28:00.400 --> 01:28:05.680
+experiments, which is very fun in the tech sci-fi world that we live in a simulation,
+
+01:28:08.960 --> 01:28:14.560
+taking a perspective of the universe as a computer, as a computational system,
+
+01:28:14.560 --> 01:28:18.640
+the process of information, which is a pretty intuitive notion, but you can,
+
+01:28:18.640 --> 01:28:24.960
+just even reframing it that way for yourself, could really open up some different way of thinking.
+
+01:28:24.960 --> 01:28:26.880
+Could be. Then you have,
+
+01:28:28.240 --> 01:28:32.720
+I don't know if you're familiar with Stephen Wolfram's work of cellular automata and complexity.
+
+01:28:32.720 --> 01:28:34.880
+Yeah, I did a podcast with Stephen.
+
+01:28:34.880 --> 01:28:43.360
+Stephen, that's awesome. To me, forget physics, forget all that, cellular automata make no sense.
+
+01:28:43.360 --> 01:28:50.400
+They're so beautiful. From simple rules, you can create complexity. He wrote a book,
+
+01:28:50.400 --> 01:28:57.520
+A New Kind of Science, basically hinting at, which a lot of people have hinted at,
+
+01:28:58.080 --> 01:29:02.560
+we don't have a good way to talk about these objects. We can't figure out what is happening
+
+01:29:02.560 --> 01:29:06.800
+here. These simple, these trivial rules can create incredible complexity.
+
+01:29:06.800 --> 01:29:08.160
+He's totally right about that.
+
+01:29:08.160 --> 01:29:08.560
+Yeah.
+
+01:29:10.240 --> 01:29:15.280
+Physicists, I guess, don't know what to do with that. Don't know what to do with cellular
+
+01:29:15.280 --> 01:29:19.520
+automata because you can describe the simple rules that govern the system,
+
+01:29:20.160 --> 01:29:24.720
+but how complexity can emerge, incredible complexity.
+
+01:29:24.720 --> 01:29:31.120
+Yeah. Of course, Wolfram's version of that is that physicists will never be able to describe it.
+
+01:29:31.120 --> 01:29:35.840
+Right. Yeah, exactly. He tries to prove that it's impossible. What do you make of that?
+
+01:29:35.840 --> 01:29:43.200
+What do you make about the tension of being a physicist and potentially not being able to,
+
+01:29:43.200 --> 01:29:49.040
+it's like Freud or somebody that maybe, Sigmund Freud, maybe you'll never be able to actually
+
+01:29:49.040 --> 01:29:55.200
+describe the human psyche. Is that a possibility for you, that you will never be able to get to
+
+01:29:55.200 --> 01:29:58.400
+the core fundamental description of the laws of nature?
+
+01:29:58.400 --> 01:30:04.320
+Sure. Yeah. So I had this conversation with Weinberg.
+
+01:30:07.280 --> 01:30:08.480
+Yeah. How'd it go?
+
+01:30:10.560 --> 01:30:14.640
+So Weinberg has this book called Dreams of a Final Theory.
+
+01:30:16.160 --> 01:30:22.640
+And I had this conversation with him. I said, why do you think there's ever going to be a
+
+01:30:22.640 --> 01:30:26.480
+final theory? Why should there ever be a final theory? I mean, what does that mean?
+
+01:30:26.480 --> 01:30:29.360
+Do physics departments shut down? We've solved everything.
+
+01:30:34.320 --> 01:30:37.760
+Doesn't it seem that every time we answer some old questions, we'll
+
+01:30:38.880 --> 01:30:42.240
+just find new ones and that it will just keep going on forever and ever?
+
+01:30:43.040 --> 01:30:47.920
+He said, well, that's what they used to say about the Nile. They were never going to find the end.
+
+01:30:48.080 --> 01:30:53.760
+Then one day they found it. Yeah.
+
+01:30:53.760 --> 01:31:04.880
+So I don't know. String theory doesn't look like a candidate to me for a final theory.
+
+01:31:06.480 --> 01:31:11.200
+As it stands now. It doesn't get to the bottom of the well, into the sides, into the whole thing.
+
+01:31:11.200 --> 01:31:16.960
+Yeah. It seems to me that even if we kind of solved it and we did experiments,
+
+01:31:16.960 --> 01:31:21.760
+there still would be more questions like, why are there four dimensions instead of six? It
+
+01:31:21.760 --> 01:31:28.000
+doesn't seem to have anything in it that would explain that. You can always hope
+
+01:31:28.800 --> 01:31:31.680
+that there's something that we don't know about string theory that will explain it.
+
+01:31:33.040 --> 01:31:40.960
+But it still doesn't look like it's going to answer every question. Why is there one time,
+
+01:31:40.960 --> 01:31:49.360
+not two? I don't even know what it would mean to answer every question.
+
+01:31:50.320 --> 01:31:54.560
+To answer every question, obviously. When you refer to the theory of everything,
+
+01:31:58.080 --> 01:32:05.280
+if it exists, it would be a theory that allows you to predict precisely the behavior of objects in
+
+01:32:05.360 --> 01:32:10.640
+the universe and their movement. What about them, their movement?
+
+01:32:12.960 --> 01:32:17.120
+Precisely no matter the object. Right. That's true. That would be a really
+
+01:32:17.120 --> 01:32:26.000
+interesting state of affairs if we could predict everything but not necessarily understand everything.
+
+01:32:27.440 --> 01:32:33.200
+For example, let's just forget about gravity. We're not too far from that situation.
+
+01:32:33.920 --> 01:32:41.040
+If we forget about gravity, the standard model in principle, given a big enough computer,
+
+01:32:42.160 --> 01:32:48.480
+predicts almost everything. But if you look at the standard model,
+
+01:32:49.120 --> 01:32:54.160
+it's kind of a laundry list with neutrino masses and all that stuff. There are hundreds of free
+
+01:32:54.160 --> 01:33:01.360
+parameters. Where do they come from? Is there an organizing principle? Is there some further
+
+01:33:01.360 --> 01:33:10.080
+unification? Being able to predict everything is not the only goal that physicists have.
+
+01:33:11.840 --> 01:33:14.640
+On the way to trying to predict, you're trying to understand. That's actually
+
+01:33:14.640 --> 01:33:20.000
+probably the goal is to understand. Yeah. Right. We're more interested in
+
+01:33:20.000 --> 01:33:26.160
+understanding than actually doing the predictions. But the predictions are more
+
+01:33:27.120 --> 01:33:33.920
+focusing on how to make predictions is a good way to improve your understanding because you
+
+01:33:33.920 --> 01:33:37.520
+know you've understood it if you can do the predictions. One of the interesting
+
+01:33:38.560 --> 01:33:45.200
+things that might come to a head with is artificial intelligence. There's an increasing use of AI
+
+01:33:45.200 --> 01:33:52.400
+in physics. We might live in a world where AI would be able to predict perfectly what's happening.
+
+01:33:53.360 --> 01:34:00.640
+And so as physicists, you'll have to come to the fact that you're actually not that interested in
+
+01:34:00.640 --> 01:34:05.760
+prediction. I mean, it's very useful, but you're interested in really understanding the deep laws
+
+01:34:05.760 --> 01:34:10.400
+of nature versus a perfect predictor. Like you want to play chess. But even within AI,
+
+01:34:11.280 --> 01:34:18.160
+AI people are trying to understand what it is that the AI bots have learned in order to
+
+01:34:18.800 --> 01:34:23.280
+produce whatever they produce. For sure. But you still don't understand deeply, especially
+
+01:34:23.280 --> 01:34:29.680
+because they're getting, especially language models. If you're paying attention, the systems
+
+01:34:29.680 --> 01:34:33.360
+that are able to generate text, they're able to have conversations. Chad GPT is the recent
+
+01:34:33.360 --> 01:34:38.880
+manifestation of that. They just seem to know everything. They're trained on the internet.
+
+01:34:38.880 --> 01:34:46.320
+They seem to be very, very good at something that looks like reasoning. They're able to generate,
+
+01:34:46.320 --> 01:34:50.240
+they're able to generate, you can ask them questions. They can answer questions. It just
+
+01:34:50.240 --> 01:34:56.480
+feels like this thing is intelligent, right? And I could just see that being possible with physics.
+
+01:34:56.480 --> 01:35:01.280
+You ask any kind of physical question and it'll be able to very precise about a particular star
+
+01:35:01.280 --> 01:35:06.240
+system or a particular black hole. It'll say, well, these are the numbers. It'll perfectly predict.
+
+01:35:07.360 --> 01:35:13.760
+And then sure, you can understand how the neural network is, the architecture is structured.
+
+01:35:13.760 --> 01:35:17.840
+Actually, for most of them now, they're very simple. You can understand what data is trained
+
+01:35:17.840 --> 01:35:21.760
+on. Huge amount of data. You're getting a huge amount of data from a very nice telescope or
+
+01:35:21.760 --> 01:35:29.360
+something. But it seems to predict everything perfectly. How a banana falls when you throw it.
+
+01:35:30.320 --> 01:35:34.640
+Everything is perfectly predicted. You still don't have a deep understanding of what governs
+
+01:35:34.640 --> 01:35:40.080
+the whole thing. And maybe you can ask it a question. It'll be some kind of Hitchhiker's Guide
+
+01:35:40.080 --> 01:35:47.600
+to the Galaxy type answer. It's a funny world we live in. Of course, it's also possible that
+
+01:35:47.600 --> 01:35:55.680
+there's no such deep, simple governing laws of nature behind the whole thing. There's something
+
+01:35:55.680 --> 01:36:05.040
+in us humans that wants it there to be, but doesn't have to be, right? Again, you already
+
+01:36:05.040 --> 01:36:10.080
+bet the farm, but if you were to have a second farm, do you think there is a theory of everything
+
+01:36:10.080 --> 01:36:22.640
+that we might get at simple laws that govern the whole thing? Honestly, I don't know, but I'm pretty
+
+01:36:22.640 --> 01:36:29.520
+confident that if there is, we won't get to it in my lifetime. I don't think we're near it.
+
+01:36:30.000 --> 01:36:35.360
+But doesn't it feel like the fact that we have the laws we do that are relatively simple already,
+
+01:36:36.080 --> 01:36:41.920
+that's kind of incredible. There seems to be simple laws that govern things, right?
+
+01:36:42.640 --> 01:36:51.600
+By a theory of everything, you mean a theory of everything, an algorithm to predict everything.
+
+01:36:52.240 --> 01:36:53.360
+But a simple algorithm.
+
+01:36:54.320 --> 01:36:59.920
+A relatively simple algorithm to predict everything. For me, it would be a sad day
+
+01:37:01.040 --> 01:37:05.680
+if we arrived at that without answering some deeper questions.
+
+01:37:07.280 --> 01:37:14.960
+Sure, of course. But one of the questions before we arrived there, we can ask,
+
+01:37:15.600 --> 01:37:22.880
+does such a destination even exist? Because asking the question and the possible answers
+
+01:37:22.880 --> 01:37:29.440
+in the process of trying to answer that question is in itself super interesting. Is it even
+
+01:37:29.440 --> 01:37:34.480
+possible to get there where there's an E equals MC squared type of, there's a function. Okay,
+
+01:37:34.480 --> 01:37:40.880
+you can have many parameters, but a finite number of parameter function that can predict a lot of
+
+01:37:40.880 --> 01:37:48.160
+things about our universe. Well, okay, but just to sort of throw one thing in, in order to answer
+
+01:37:48.160 --> 01:37:56.720
+every question, we would need a theory of the origin of the universe. And that is a huge
+
+01:37:59.040 --> 01:38:06.800
+task, right? And the fact that the universe seems to have a beginning defies everything
+
+01:38:06.800 --> 01:38:16.000
+we know and love. Because one of the basic principles of physics is determinism,
+
+01:38:16.000 --> 01:38:24.640
+that the past follows from, the present follows from the past, the future follows from the present,
+
+01:38:24.640 --> 01:38:30.800
+so on. But if you have the origin of the universe, if you have a big bang, that means before that,
+
+01:38:30.800 --> 01:38:35.520
+there was nothing. You can't have a theory in which something follows from nothing.
+
+01:38:37.120 --> 01:38:39.920
+So somehow- Sounds like you don't like singularities.
+
+01:38:42.240 --> 01:38:45.680
+Well- I thought for somebody that works with black holes, you would get used to them by now.
+
+01:38:45.680 --> 01:38:51.440
+No, no, I like this because it's so hard to understand. I like it because it's hard to
+
+01:38:51.440 --> 01:38:57.360
+understand, but it's really challenging us. I don't think we're close to solving that problem.
+
+01:38:57.360 --> 01:39:02.240
+So even- And string theory has basically had nothing,
+
+01:39:02.240 --> 01:39:08.880
+there's been almost nothing interesting said about that in the last many decades.
+
+01:39:08.880 --> 01:39:13.920
+So string theory hasn't really looked at the big bang. It hasn't really tried to get to the origin.
+
+01:39:14.480 --> 01:39:19.920
+Not successfully. There aren't compelling papers that lots of people have read that
+
+01:39:21.200 --> 01:39:27.120
+people have taken it up and tried to go at it, but there aren't compelling.
+
+01:39:28.160 --> 01:39:34.960
+String theory doesn't seem to have a trick that helps us with that puzzle.
+
+01:39:34.960 --> 01:39:38.240
+Do you think we'll be able to sneak up to the origin of the universe,
+
+01:39:38.480 --> 01:39:46.720
+reverse engineer it from experimental, from theoretical perspective? If we can, what would
+
+01:39:46.720 --> 01:39:49.520
+be the trajectory? You've already gotten yourself in trouble,
+
+01:39:50.080 --> 01:39:56.320
+because you used the word reverse engineer. So if you're going to reverse engineer, that means
+
+01:39:59.360 --> 01:40:04.080
+forward engineering means that you take the present and determine the future. Reverse engineering
+
+01:40:04.640 --> 01:40:06.960
+means that you take the present and determine the past.
+
+01:40:08.320 --> 01:40:13.520
+Estimate the past, but yes, sure. But if the past was nothing,
+
+01:40:13.520 --> 01:40:18.640
+how are you ever going to reverse engineer to nothing? That's hard to do.
+
+01:40:18.640 --> 01:40:23.600
+Run up against the nothing, right? Until you have mathematical models that break down nicely
+
+01:40:23.600 --> 01:40:25.440
+to where you can actually start to infer things.
+
+01:40:30.560 --> 01:40:32.800
+Let's work on it. No, but do you think that-
+
+01:40:34.400 --> 01:40:42.880
+Maybe, but people have tried to do things like that, but it's not something that we're getting
+
+01:40:42.880 --> 01:40:47.120
+A pluses in. Sure. Let's pretend we live in a world
+
+01:40:47.120 --> 01:40:52.960
+where in a hundred years, we have an answer to that. What would that answer look like?
+
+01:40:54.240 --> 01:41:02.880
+What department is that from? What fields led us there? Not what fields, what set of ideas
+
+01:41:02.880 --> 01:41:10.160
+in theoretical physics? Is it experimental? Is it theoretical? What can you imagine could
+
+01:41:10.160 --> 01:41:14.240
+possibly lead us there? Is it through gravitational waves and some kind of observations there?
+
+01:41:14.240 --> 01:41:19.040
+Is it investigation of black holes? Is it simulation of universes? Is it
+
+01:41:20.800 --> 01:41:26.000
+maybe we start creating black holes somehow? I don't know. Maybe some kind of high energy
+
+01:41:26.000 --> 01:41:33.600
+physics type of experiments? Well, I have some late night ideas about
+
+01:41:33.600 --> 01:41:38.480
+that that aren't really ready for prime time. Okay, sure. But you have some ideas.
+
+01:41:41.520 --> 01:41:47.040
+And many people do. It could be that some of the advances in quantum information theory are
+
+01:41:47.840 --> 01:41:54.480
+important in that they kind of go beyond taking quantum systems and
+
+01:41:55.120 --> 01:41:58.560
+just replicating themselves, but combining them with others.
+
+01:41:59.200 --> 01:42:05.840
+Do you think since you highlighted the issue with time and the origin of the universe,
+
+01:42:05.840 --> 01:42:12.320
+do you think time is fundamental or emergent? I think ultimately it has to be emergent.
+
+01:42:12.320 --> 01:42:15.520
+Yeah, what does it mean for time to be emergent?
+
+01:42:17.840 --> 01:42:27.040
+Well, let's review what it means for space to be emergent. What it means for space to be emergent
+
+01:42:27.040 --> 01:42:37.600
+is that you have a holographic plate and you shine some light that's moving in space
+
+01:42:37.760 --> 01:42:45.760
+and it produces an image which contains an extra spatial dimension and time just goes along for
+
+01:42:45.760 --> 01:42:56.880
+the ride. So what we'd like to do, and indeed there is some rather concrete work in this direction,
+
+01:42:56.880 --> 01:43:03.200
+though again, I would say even within our stringing community, we're not getting A pluses on these
+
+01:43:04.160 --> 01:43:16.240
+efforts. What we'd like to do is to see examples in which the extra space-time dimension
+
+01:43:17.440 --> 01:43:24.400
+is time. In other words, usually what we understand very well mathematically is
+
+01:43:25.040 --> 01:43:36.640
+how to take systems in some number of space-time dimensions and rewrite them as a plate
+
+01:43:36.640 --> 01:43:44.000
+in fewer space dimensions. What we'd like to do is to take systems with one time in some number
+
+01:43:44.000 --> 01:43:50.480
+of space dimensions and to rewrite them as a system that had only space dimensions in it,
+
+01:43:50.480 --> 01:43:57.120
+had no time evolution. And there are some fairly concrete ideas about how to do that,
+
+01:43:57.120 --> 01:44:03.840
+but they're not universally accepted even within the stringy community.
+
+01:44:05.600 --> 01:44:13.120
+But isn't it wild to you for it to be emergent? How do we intuit these kinds of ideas as human
+
+01:44:13.120 --> 01:44:17.760
+beings for whom space and time seems as fundamental as apples and oranges?
+
+01:44:17.760 --> 01:44:22.800
+They're both illusions. They're both illusions, even time.
+
+01:44:24.800 --> 01:44:29.840
+You co-authored a paper titled, Photon Rings Around Warped Black Holes. First of all,
+
+01:44:30.560 --> 01:44:39.600
+whoever writes your paper titles, you like the soft hair and the term black hole and the big bang,
+
+01:44:39.600 --> 01:44:43.280
+you're very good at coming up with titles yourself. Anyway, you co-authored a paper
+
+01:44:43.280 --> 01:44:48.560
+titled, Photon Rings Around Warped Black Holes. In it, you write, quote, recent work has identified
+
+01:44:48.560 --> 01:44:53.040
+a number of emergent symmetries related to the intricate self-similar structure of the photon
+
+01:44:53.040 --> 01:44:57.680
+ring. So what are photon rings? What are some interesting characteristics of a photon ring?
+
+01:44:59.440 --> 01:45:08.640
+So that was a paper with Dan Kapitz and Alex Lipsaska that just came out. And this paper is
+
+01:45:08.640 --> 01:45:17.680
+kind of a wonderful example of what happens when you start to talk to people who are
+
+01:45:19.360 --> 01:45:26.320
+way out of your comfort zone of no different stuff and look at the world a different way.
+
+01:45:28.880 --> 01:45:36.480
+Some two or three years ago, I'm part of the Black Hole Initiative and I'm also part of this
+
+01:45:36.480 --> 01:45:43.200
+event horizon telescope collaboration that took the famous, though I had nothing to do
+
+01:45:43.200 --> 01:45:54.320
+with the experiment, but that took the famous picture of the donut of M87 and through conversations
+
+01:45:54.320 --> 01:46:03.520
+with them, which started out in an effort to understand the image that they'd seen.
+
+01:46:04.480 --> 01:46:08.960
+So it's a great thing for somebody like me, a theoretical physicist,
+
+01:46:11.440 --> 01:46:19.840
+seemingly lost in string land to be presented with an actual picture of a black hole.
+
+01:46:19.840 --> 01:46:20.480
+And ask what?
+
+01:46:20.480 --> 01:46:33.040
+And to be asked, what can we learn from this? So with some help from Michael Johnson and Alex
+
+01:46:33.040 --> 01:46:37.920
+Lipsaska and a bunch of other people at the Venturize and Collaboration,
+
+01:46:39.680 --> 01:46:49.840
+we came up with a fantastic, beautiful answer using Einstein's theory that is both shaping
+
+01:46:49.840 --> 01:47:00.720
+the future of now, it is shaping the future of improved black hole photographs. What do you
+
+01:47:00.720 --> 01:47:05.680
+want to concentrate on in the photograph? You just point at the sky and click? No,
+
+01:47:05.680 --> 01:47:14.880
+you don't do that. You optimize for various features. And it's both shaping that and
+
+01:47:16.320 --> 01:47:23.200
+in the process of talking to them and thinking about how light behaves around a black hole,
+
+01:47:23.840 --> 01:47:30.160
+the black holes just have so many magic tricks and they do so many weird things.
+
+01:47:30.960 --> 01:47:37.600
+And the photon ring is among the weirdest of them. We understood this photon ring,
+
+01:47:37.600 --> 01:47:47.280
+and in the process of this, we said, hey, this photon ring has got to be telling us something
+
+01:47:48.240 --> 01:47:52.960
+about the puzzle of where the holographic plate is
+
+01:47:55.600 --> 01:48:02.160
+outside of an ordinary astrophysical black hole. And we nailed it for the stringy black holes,
+
+01:48:03.120 --> 01:48:06.800
+but they have a somewhat different character.
+
+01:48:06.800 --> 01:48:10.320
+What's a stringy black hole? The black holes that describe a string?
+
+01:48:10.320 --> 01:48:15.760
+The black holes that are contained in string theory and they have different structure in them.
+
+01:48:16.400 --> 01:48:20.480
+Well, but actually, can we step back? So what was the light in the image taken in 2019?
+
+01:48:21.040 --> 01:48:24.800
+Not taken in 2019, presented in 2019.
+
+01:48:24.800 --> 01:48:34.080
+Here's the puzzle. What they really saw, so the black holes tend to gather stuff
+
+01:48:34.800 --> 01:48:42.000
+that swirls around it. And they don't know what that stuff is made of. They don't know
+
+01:48:42.000 --> 01:48:47.120
+what its temperature is. They don't know what kind of magnetic fields there are around there.
+
+01:48:48.320 --> 01:48:55.280
+So the form of the image has a lot of unknowns in it that it's dependent on
+
+01:48:55.280 --> 01:48:58.800
+many other things other than the geometry of the black hole.
+
+01:49:00.160 --> 01:49:09.680
+So most of what you're learning is about the stuff. Now the stuff, the swirling stuff,
+
+01:49:10.400 --> 01:49:17.120
+the hot swirling stuff is interesting as hell, but it's not as interesting as the black hole,
+
+01:49:17.840 --> 01:49:23.520
+which are the most, in my view, the most interesting things in the universe.
+
+01:49:23.520 --> 01:49:28.000
+So you don't want to just learn about the stuff. You want to learn about
+
+01:49:28.640 --> 01:49:30.880
+the black hole that is swirling around.
+
+01:49:33.600 --> 01:49:38.400
+At the very first step, at the very primitive level, this is just a big leap for human
+
+01:49:38.400 --> 01:49:45.040
+civilization to be able to see a black hole. And the way you can see it is because there's
+
+01:49:45.040 --> 01:49:51.120
+stuff around it. You don't get to learn much about the black hole. You get to learn more
+
+01:49:51.120 --> 01:49:55.680
+about the stuff just from the image. Yeah. But you're not going to learn
+
+01:49:55.680 --> 01:49:59.360
+about the details before you've even seen it. Because there's too many parameters,
+
+01:49:59.360 --> 01:50:06.080
+there's too many variables that govern the stuff. Yeah. So then we found a very wonderful way
+
+01:50:07.040 --> 01:50:13.360
+to learn about the black hole. And here's how it works. A black hole is a mirror.
+
+01:50:14.960 --> 01:50:23.520
+And the way it's a mirror is if light, a photon bounces off your face towards the black hole,
+
+01:50:23.520 --> 01:50:27.520
+and it goes straight to the black hole, just falls in, you never see it again.
+
+01:50:28.640 --> 01:50:35.920
+But if it just misses the black hole, it'll swing around the back and come back to you.
+
+01:50:37.040 --> 01:50:42.320
+And you see yourself from the photon that went around the back of the black hole.
+
+01:50:43.200 --> 01:50:49.360
+But not only can that happen, the photon can swing around twice
+
+01:50:51.040 --> 01:50:56.640
+and come back. So you actually see an infinite number of copies of yourself.
+
+01:50:56.640 --> 01:51:00.640
+Like with a little bit of a delay. With a little bit of a delay, right.
+
+01:51:01.200 --> 01:51:05.760
+This is awesome. Yeah. And in fact,
+
+01:51:06.640 --> 01:51:10.320
+I mean, we're not used to an object that bends light like that, right? Yeah.
+
+01:51:10.320 --> 01:51:16.160
+So you're going to get some trippier effects. And in fact, one of my students has made a really
+
+01:51:16.160 --> 01:51:22.320
+awesome computer animation of this, which I'm going to show at a public lecture in a couple
+
+01:51:22.320 --> 01:51:28.480
+weeks where the audience will see infinitely many copies of themselves swirling around the black
+
+01:51:28.480 --> 01:51:37.760
+hole. So a black hole is like a hall of mirrors, you know, like in a department store where you go
+
+01:51:37.760 --> 01:51:42.080
+and there's the three mirrors and you see infinitely many copies of yourself. Yeah.
+
+01:51:43.120 --> 01:51:49.760
+Think of the black hole as the mirror, you know, and you go in there with your clothes.
+
+01:51:49.760 --> 01:51:53.200
+If you want to know about your clothes, you just look at the direct image. You're not learning
+
+01:51:53.200 --> 01:52:04.480
+anything about the configuration of mirrors. But the relation of the image you see in front of you
+
+01:52:05.440 --> 01:52:11.600
+to the one you see at the side and the next one and then so on, depends only on the mirrors.
+
+01:52:11.600 --> 01:52:17.520
+It doesn't matter what clothes you're wearing. So you can go there a thousand times wearing
+
+01:52:17.520 --> 01:52:23.360
+different clothes, but each time there will be the same relation between the subsequent images.
+
+01:52:24.640 --> 01:52:32.160
+And that is how we're going to learn about the black holes. We're going to take the stuff
+
+01:52:32.160 --> 01:52:39.760
+that is swirling around and we're going to tease out the subsequent images and look at their
+
+01:52:39.760 --> 01:52:47.120
+relation. And there's some very beautiful, really beautiful mathematics, which we were surprised
+
+01:52:47.120 --> 01:52:55.120
+to realize with the volumes and volumes of papers on black holes and their properties,
+
+01:52:55.120 --> 01:53:00.720
+this particular, because it was a physical question that had never been asked in exactly
+
+01:53:00.720 --> 01:53:05.520
+this way. So basically you're looking at the relationship between the subsequent images.
+
+01:53:06.480 --> 01:53:09.760
+But those are ultimately formed by photons that are swirling around.
+
+01:53:09.760 --> 01:53:15.040
+Photons that are orbiting. So the photon ring are the photons that orbit around.
+
+01:53:15.040 --> 01:53:24.240
+And beyond. So like orbit and lose orbit. Wow. And that starts to give you, what can you possibly
+
+01:53:24.240 --> 01:53:27.680
+figure out mathematically about the black hole? The geometry of it?
+
+01:53:28.640 --> 01:53:37.200
+The geometry, the spin. And you can verify things behaving. We have never seen
+
+01:53:38.800 --> 01:53:46.720
+a region of space-time with such high curvature. I mean, the region around a black hole is crazy.
+
+01:53:46.720 --> 01:53:50.000
+It's not like in this room. The curvature is everything.
+
+01:53:50.880 --> 01:53:54.480
+You spend probably enough time with the math and the photons. Can you
+
+01:53:55.440 --> 01:54:00.400
+put yourself in that space? So we're having a conversation in a pretty peaceful, comfortable
+
+01:54:00.400 --> 01:54:05.200
+flat space. Are you able to put yourself in a place around a black hole?
+
+01:54:05.200 --> 01:54:10.080
+Yeah. I'm able to imagine that kind of thing. Yeah. So for example, and actually there's a
+
+01:54:10.080 --> 01:54:22.880
+wonderful movie, Interstellar. And in that movie, Kip Thorne, of course, is a great theoretical
+
+01:54:23.280 --> 01:54:32.800
+physicist, experimental, who later won the Nobel Prize for LEGO. And that movie is very accurate
+
+01:54:32.800 --> 01:54:43.120
+scientifically. And there's some funny statements in there that of the 100 million people
+
+01:54:43.680 --> 01:54:51.200
+who saw that movie, there can't be more than 10 or 20 understood about why Matthew McConaughey is
+
+01:54:51.200 --> 01:54:59.200
+ejecting the trash in a certain direction in order to... But for example, if I were a spinning
+
+01:54:59.200 --> 01:55:04.080
+black hole right here, if I was spinning fast enough, you wouldn't be able to stay still there.
+
+01:55:05.040 --> 01:55:10.240
+You'd have to be orbiting around like that. You'd have to have your microphone on a...
+
+01:55:11.280 --> 01:55:16.320
+But I wonder what the actual experience is because space itself is curved.
+
+01:55:16.320 --> 01:55:18.720
+Well, if space gets very curved, you get crushed.
+
+01:55:22.000 --> 01:55:25.600
+Body gets ripped apart because the forces are different on different parts of your body.
+
+01:55:25.600 --> 01:55:26.880
+Sure. Okay. So that would be...
+
+01:55:26.880 --> 01:55:32.560
+But it can be less curved so that the curvature is very noticeable, but you're not ripped apart.
+
+01:55:36.720 --> 01:55:43.200
+The fact that this was just nonchalantly stated is just beautiful. Like two biological systems
+
+01:55:43.200 --> 01:55:50.320
+discussing which level of curvature is required to rip apart said biological system. Very well.
+
+01:55:51.600 --> 01:55:54.960
+So you propose in the paper that a photon ring of a warped black hole
+
+01:55:54.960 --> 01:56:02.800
+is indeed part of the black hole hologram. A photon ring of a warped black hole is indeed
+
+01:56:02.800 --> 01:56:10.240
+part of the black hole hologram. So what can you intuit about the hologram
+
+01:56:12.800 --> 01:56:17.840
+and the holographic plate from looking at the photon rings?
+
+01:56:18.400 --> 01:56:30.560
+Okay. Well, this paper is exploring a new idea. It's not making a new
+
+01:56:32.560 --> 01:56:41.760
+discovery, so to speak. It's exploring an idea and the ins and outs of it and what might work
+
+01:56:41.760 --> 01:56:49.360
+and what might not. This photon ring, somehow everybody always thought that the holographic
+
+01:56:49.360 --> 01:56:56.640
+plate sat at the horizon of the black hole and that the quantum system that describes
+
+01:56:56.640 --> 01:57:10.880
+the black hole is inside the horizon. In fact, we think it's plausible and we give some evidence
+
+01:57:10.880 --> 01:57:16.560
+in some soluble examples. In this case, in an example in one lower dimension,
+
+01:57:16.560 --> 01:57:23.280
+where we can handle the equations better, that the quantum system that describes the black hole
+
+01:57:25.120 --> 01:57:32.320
+should correspond to a region of space-time which includes the photon ring. So it's bigger.
+
+01:57:34.560 --> 01:57:36.960
+So that would be the holographic plate.
+
+01:57:36.960 --> 01:57:38.240
+That would be the holographic plate.
+
+01:57:38.240 --> 01:57:38.960
+All of that.
+
+01:57:39.600 --> 01:57:49.200
+I mean, we didn't prove this. We put it out there, which hadn't really been considered
+
+01:57:49.200 --> 01:57:56.800
+previously. We put it out there and it does seem more plausible than the idea that it
+
+01:57:56.800 --> 01:58:06.240
+sits literally at the horizon. And it is a big outstanding problem of how you have a holographic
+
+01:58:06.240 --> 01:58:10.000
+reconstruction of black holes like M87.
+
+01:58:11.040 --> 01:58:17.760
+Do you think there could be further experimental data that helps explore some of these ideas that
+
+01:58:17.760 --> 01:58:24.480
+you have for photon rings and holographic plates through imaging and through high resolution images
+
+01:58:24.480 --> 01:58:25.680
+and also just more and more data?
+
+01:58:25.680 --> 01:58:33.600
+I wish so, but I don't think so. But what I think already has happened and will continue to happen
+
+01:58:34.560 --> 01:58:45.200
+is that there are many different ways that theorists and observers can interact.
+
+01:58:46.640 --> 01:58:55.040
+The gold standard is the theorist makes a prediction, the observer measures it and confirms
+
+01:58:55.200 --> 01:59:04.720
+it or the observer makes a discovery and the theorist explains it. But there's a lot less
+
+01:59:04.720 --> 01:59:11.920
+than that, which is really kind of the bread and butter. Those are dramatic moments when that
+
+01:59:11.920 --> 01:59:17.840
+happens. Those are once in a lifetime moments when that happens. But the bread and butter is more
+
+01:59:17.840 --> 01:59:24.960
+when it has already happened. They came to us and said, what is the interesting theoretical
+
+01:59:24.960 --> 01:59:34.240
+things we can understand in this swirl around the black hole? And we gave an answer and then
+
+01:59:34.240 --> 01:59:42.880
+that in turn jogged us to think about the holographic principle in the context of
+
+01:59:43.680 --> 01:59:51.680
+M87 a little bit differently. In the same vein, it's useful to talk to the philosophers and it's
+
+01:59:51.680 --> 02:00:05.360
+useful to talk to the mathematicians. We don't know where we're going. We just got to do everything.
+
+02:00:06.000 --> 02:00:10.320
+Let me ask you another sort of philosophical type question, but not really actually.
+
+02:00:10.720 --> 02:00:14.960
+It seems that thought experiments are used, so it's not just mathematics that makes progress
+
+02:00:14.960 --> 02:00:19.920
+in theoretical physics, but thought experiments do. They did for Einstein as well. They did for
+
+02:00:19.920 --> 02:00:25.600
+a lot of great physicists throughout history over the years. How's your ability to generate
+
+02:00:25.600 --> 02:00:30.960
+thought experiments or just your intuition about some of these weird things like quantum mechanics
+
+02:00:31.920 --> 02:00:39.760
+or string theory or quantum gravity or even general relativity? How's your ability to
+
+02:00:39.840 --> 02:00:43.920
+house your intuition improved over the years? Have you been able to make progress?
+
+02:00:43.920 --> 02:00:49.840
+The hard part in physics is most problems are
+
+02:00:54.320 --> 02:01:00.800
+either doable. Most problems are theoretical calculation that a theoretical physicist would
+
+02:01:00.880 --> 02:01:10.320
+do. There's no end of problems whose answer is uninteresting. It can be solved, but the answer is
+
+02:01:10.320 --> 02:01:17.280
+uninteresting. There's also no end of problems that are very interesting,
+
+02:01:19.600 --> 02:01:23.520
+some of which you've asked me, but we don't have a clue how to solve them.
+
+02:01:23.680 --> 02:01:28.880
+When first presented with a problem, almost every problem is one or the other.
+
+02:01:30.400 --> 02:01:33.680
+It's the jackpot when you find one that isn't one or the other.
+
+02:01:36.480 --> 02:01:39.920
+It seems like there's a gray area between the two, right? That's where you should be looking.
+
+02:01:41.120 --> 02:01:44.560
+Well, I wouldn't describe it as a gray area. I would describe it as a knife edge.
+
+02:01:46.080 --> 02:01:48.160
+It's a very small area.
+
+02:01:48.480 --> 02:01:51.040
+It's a very small area.
+
+02:01:51.040 --> 02:01:57.280
+There isn't a huge area with a sign. Here lie problems that are doable,
+
+02:01:57.280 --> 02:01:58.720
+and people want to know the answer.
+
+02:01:59.520 --> 02:02:03.440
+In some deep sense, that's where timing is everything with physics, with science,
+
+02:02:03.440 --> 02:02:04.080
+with discovery.
+
+02:02:04.080 --> 02:02:12.560
+Timing. I think earlier in my career, I erred more on the side of problems that were
+
+02:02:14.560 --> 02:02:15.440
+not solvable.
+
+02:02:16.400 --> 02:02:17.520
+The ambition of youth.
+
+02:02:20.240 --> 02:02:27.040
+What made you fall in love with physics at first, if we can go back to the early days?
+
+02:02:27.040 --> 02:02:29.680
+You said black holes were there in the beginning.
+
+02:02:31.280 --> 02:02:33.200
+Do you remember what really made you fall in love?
+
+02:02:34.880 --> 02:02:38.400
+I wanted to reach nirvana, and I sort of realized that wasn't going to happen.
+
+02:02:39.360 --> 02:02:41.760
+Then after that, I wanted to know the meaning of life.
+
+02:02:41.760 --> 02:02:49.440
+I realized I probably wasn't going to figure that out. Then I wanted to understand
+
+02:02:53.600 --> 02:02:59.600
+justice and socialism and world things. I couldn't figure those out either.
+
+02:03:03.440 --> 02:03:04.800
+Smaller and smaller problems.
+
+02:03:04.800 --> 02:03:06.240
+Smaller and smaller problems.
+
+02:03:06.480 --> 02:03:13.360
+And most of this, I'm talking about adolescence. But it was the biggest problem
+
+02:03:14.560 --> 02:03:19.440
+that I thought that there was a prospect of, but not 100%.
+
+02:03:21.040 --> 02:03:31.360
+I was definitely ready to spend my life in the wilderness knocking my head against the wall, but
+
+02:03:32.320 --> 02:03:39.520
+I haven't had to. I haven't solved them, but I've said enough interesting things that you're
+
+02:03:41.520 --> 02:03:44.000
+interviewing me. So I'm not in the wilderness.
+
+02:03:45.920 --> 02:03:51.440
+Do you remember the early days? Do you feel nostalgic when you think back to the ideas,
+
+02:03:51.440 --> 02:03:59.200
+the circumstances that led you down the path towards black holes, towards theoretical physics,
+
+02:03:59.200 --> 02:04:03.200
+towards the tools of physics, towards this really fascinating world of theoretical physics?
+
+02:04:05.360 --> 02:04:09.680
+Well, I wouldn't add nostalgia to it because
+
+02:04:09.680 --> 02:04:29.680
+it's not like a summer in Italy or something. There's results that are there.
+
+02:04:30.480 --> 02:04:30.960
+Sure.
+
+02:04:30.960 --> 02:04:42.080
+That's what's so gratifying. Of course, one's name disappears from these things.
+
+02:04:43.760 --> 02:04:50.400
+Unless you're Einstein or Newton or something, people are not going to remember my name in
+
+02:04:50.400 --> 02:04:51.040
+50 years.
+
+02:04:52.640 --> 02:04:55.440
+Basically, every name will be forgotten in hundreds of years.
+
+02:04:55.440 --> 02:04:58.160
+Yeah. Are you able to, by the way,
+
+02:05:00.400 --> 02:05:04.960
+love the exploration of ideas themselves without the names, the recognition?
+
+02:05:04.960 --> 02:05:09.840
+That's what I'm saying. I have not. I hope someday, but I have not.
+
+02:05:11.680 --> 02:05:20.560
+There are some experiments now to verify some of my predictions about properties of gravity and
+
+02:05:20.560 --> 02:05:32.240
+so on, but I have not. Most of what I've done, it could happen still. It's still a logical
+
+02:05:32.240 --> 02:05:39.920
+possibility that everything having to do with string theory and as we mentioned, I'm betting
+
+02:05:39.920 --> 02:05:46.720
+the farm that it's not, but it is indeed a logical possibility that people would say,
+
+02:05:46.800 --> 02:05:54.800
+can you believe Lex Friedman interviewed Elon Musk and Kenya West and then he interviewed
+
+02:05:54.800 --> 02:06:03.440
+Strominger who was working on this theory that just completely went into the toilet.
+
+02:06:06.240 --> 02:06:09.600
+With a wife I don't have, I'm going to make a public statement. She'll be on stage. I'll say,
+
+02:06:09.600 --> 02:06:16.640
+I'm really sorry I made this giant mistake of platforming this wild-eyed physicist
+
+02:06:17.360 --> 02:06:21.040
+that believed for decades in the power of theoretical physics. Yes. No.
+
+02:06:22.560 --> 02:06:27.920
+So that could happen. It could happen. It could happen. Of course, if that couldn't happen,
+
+02:06:28.480 --> 02:06:30.640
+it wouldn't be real exploration, right?
+
+02:06:30.640 --> 02:06:31.140
+Absolutely.
+
+02:06:32.020 --> 02:06:41.380
+And so, but I do take a lot of satisfaction that some of the things I discovered are,
+
+02:06:42.340 --> 02:06:49.860
+at the minimum, mathematical truths and they're still, so you don't have that sort of nostalgic
+
+02:06:49.860 --> 02:07:00.260
+feeling of it being something that was gone and I'm still making discoveries now that I'm
+
+02:07:00.260 --> 02:07:08.340
+as excited about. We'll see if they hold the test of time that stand the test of time that
+
+02:07:08.340 --> 02:07:16.100
+these other ones did, but that I'm as excited about as I was about those when I made them.
+
+02:07:16.100 --> 02:07:18.740
+I am easily excitable, as my friends will tell you.
+
+02:07:18.740 --> 02:07:20.500
+Well, one interesting thing about you is-
+
+02:07:20.500 --> 02:07:23.540
+And I have been very excited about things which turned out to be completely wrong.
+
+02:07:24.100 --> 02:07:30.980
+Well, the excitement is a precondition for breakthroughs. But you're also somebody like,
+
+02:07:30.980 --> 02:07:35.380
+just like you said, you don't have a cynical view of the modern state of physics.
+
+02:07:36.740 --> 02:07:40.740
+So there's a lot of people that glorify the early days of string theory and that all the
+
+02:07:40.740 --> 02:07:48.420
+things that we made in the 20s and so on. But you're saying this to you might be one of,
+
+02:07:48.420 --> 02:07:55.300
+if not the most exciting times to be a theoretical physicist. When the alien civilizations 500 years
+
+02:07:55.300 --> 02:08:00.260
+from now that visit Earth will look back, I think the 21st century, some of the biggest
+
+02:08:00.260 --> 02:08:04.500
+discoveries ever were made in the 21st century. Yeah, when they have a measurement of string
+
+02:08:04.500 --> 02:08:10.260
+theory, the fun's over. Then we have to go on to something new, you know?
+
+02:08:10.260 --> 02:08:16.660
+No, there's deep, there's going to be deep, the fun is over. Oh man, but there is an end to the
+
+02:08:16.660 --> 02:08:28.020
+Nile, right? Is there? Who told you? Some white bird guy. Let me ask you another trippy
+
+02:08:28.020 --> 02:08:33.780
+out there question now. So again, perhaps unanswerable from a physics perspective,
+
+02:08:33.780 --> 02:08:42.340
+but do you wonder about alien civilizations? Do you wonder about other intelligent beings out there
+
+02:08:42.340 --> 02:08:46.340
+making up their own math and physics trying to figure out the world? Do you think they're
+
+02:08:46.340 --> 02:08:56.420
+out there? It is hard to understand why there would, given that there's so many planets and,
+
+02:08:56.420 --> 02:09:04.020
+of course, there's Drake's formula and we don't exactly know what the, but I mean, I think Fermi's
+
+02:09:04.020 --> 02:09:15.220
+paradox that, you know, is a real paradox and I think there probably are and I think it's
+
+02:09:15.220 --> 02:09:25.300
+very exciting that, you know, we might, you know, find some, it's a logical possibility that we
+
+02:09:25.300 --> 02:09:29.860
+could learn about it. I mean, to me, it's super interesting to think about aliens from a perspective
+
+02:09:29.860 --> 02:09:36.500
+of physics because, so, any intelligent civilization is going to be contending with the ideas and just
+
+02:09:36.500 --> 02:09:43.860
+trying to understand the world around it. So, I think that the universe is filled with alien
+
+02:09:43.860 --> 02:09:49.860
+civilizations. So, they all have their physicists, right? They're all trying to understand the world
+
+02:09:49.860 --> 02:09:54.020
+around them and it's just interesting to me to imagine all these different perspectives,
+
+02:09:54.020 --> 02:09:57.460
+all these different Einsteins, like trying to make sense of like-
+
+02:09:57.460 --> 02:10:02.740
+Though they might be more different than we think. They might be different in a way that we
+
+02:10:02.740 --> 02:10:05.860
+haven't even thought of. Like smarter or different?
+
+02:10:07.300 --> 02:10:12.660
+Just different, something that we're not even able to describe now. We just haven't thought of
+
+02:10:12.660 --> 02:10:19.060
+that, you know? Yeah, this is a really frustrating thing when we think from me as an AI person,
+
+02:10:19.060 --> 02:10:24.900
+you start to think about what is intelligence, what is consciousness and you start to sometimes,
+
+02:10:24.900 --> 02:10:33.380
+again, evening thoughts is how little we understand, how narrow our thinking is about
+
+02:10:33.380 --> 02:10:42.340
+these concepts. That it could be intelligence, could be, something could be intelligent and be
+
+02:10:43.140 --> 02:10:48.180
+very different, intelligent in a very different way that we won't be able to detect because we're
+
+02:10:48.180 --> 02:10:55.460
+not keeping an open mind, open enough mind. And that's kind of sad because to me, there's also
+
+02:10:55.460 --> 02:11:00.100
+just a strong possibility that aliens or something like alien intelligence or some
+
+02:11:01.940 --> 02:11:09.060
+fascinating, beautiful physical phenomena are all around us and we're too dumb to see it
+
+02:11:09.860 --> 02:11:16.420
+for now or too close-minded to see it. There's something we're just deeply missing,
+
+02:11:16.420 --> 02:11:21.300
+whether it's like fundamental limitations of our cognitive abilities or just because our tools are
+
+02:11:22.260 --> 02:11:29.060
+too primitive right now. Or like the way we- it's like you said, the ideas seem trivial once you
+
+02:11:29.060 --> 02:11:32.180
+figure it all out looking back. Yeah.
+
+02:11:32.900 --> 02:11:38.980
+But that kind of makes me sad because there could be so much beauty in the world we're not seeing.
+
+02:11:39.860 --> 02:11:43.300
+Because we're too dumb. There surely is.
+
+02:11:43.300 --> 02:11:46.340
+And that's, I guess the process of science and physics is to keep exploring,
+
+02:11:46.900 --> 02:11:52.660
+to keep exploring, to find the thing that will in a century seem obvious.
+
+02:11:53.860 --> 02:11:57.380
+Well, it's something we know for sure. I mean, the brain we don't
+
+02:11:58.580 --> 02:12:04.900
+really understand and that's got to be some fabulously beautiful story that-
+
+02:12:05.700 --> 02:12:10.820
+I'm hoping some of that story will be written through the process of trying to build a brain,
+
+02:12:10.820 --> 02:12:16.180
+so the process of engineering intelligence, not just the neuroscience perspective of just looking
+
+02:12:16.180 --> 02:12:24.340
+at the brain, but trying to create it. But yeah, that story hasn't been written almost at all,
+
+02:12:24.900 --> 02:12:29.300
+or just the early days of figuring that one out. But see, like you said that math is discovered, so
+
+02:12:30.100 --> 02:12:33.460
+aliens should at least have the same math as us.
+
+02:12:34.900 --> 02:12:35.380
+Right?
+
+02:12:35.380 --> 02:12:36.660
+I think so.
+
+02:12:36.660 --> 02:12:37.780
+Maybe different symbols?
+
+02:12:38.340 --> 02:12:48.740
+They might have discovered it differently. And they might have had a different idea of what a proof is.
+
+02:12:52.020 --> 02:12:57.300
+Sure. Yeah, we're very like black and white with the proof thing.
+
+02:12:57.300 --> 02:12:57.860
+Yeah.
+
+02:12:57.860 --> 02:12:58.740
+Maybe they're looser.
+
+02:13:00.340 --> 02:13:07.940
+Right. Well, so you can know something is true. First of all, you never know something is true
+
+02:13:07.940 --> 02:13:17.780
+with 100% uncertainty. I mean, you might have had a blackout. It's never 100%, right? You might have
+
+02:13:17.780 --> 02:13:24.260
+had a momentary lapse of consciousness, the key step in the proof and nobody read it and whatever.
+
+02:13:24.260 --> 02:13:32.980
+Okay, so you never know for sure. But you can have a preponderance of evidence, which makes it...
+
+02:13:35.460 --> 02:13:43.940
+And preponderance of evidence is not accepted very much in mathematics. And that was sort of
+
+02:13:44.900 --> 02:13:52.100
+how the famous Ramanujan worked. He had formulas which he guessed at, and then he
+
+02:13:52.980 --> 02:13:56.900
+gathered a preponderance of evidence that he was sure they were true.
+
+02:13:57.780 --> 02:14:02.900
+So there might be something completely different. They might function in a very different way.
+
+02:14:04.260 --> 02:14:09.780
+Let me ask you kind of a heavy question for physicists, but one on nuclear weapons.
+
+02:14:10.740 --> 02:14:15.620
+Just in general, what do you think about nuclear weapons where, like philosophical level,
+
+02:14:16.580 --> 02:14:21.140
+where brilliant physicists and brilliant engineering leads to things that can destroy
+
+02:14:21.140 --> 02:14:32.100
+human civilization? So some of the ideas that you're working on have power when engineered
+
+02:14:32.100 --> 02:14:35.940
+into machines, into systems. Is there some aspect of you that worries about that?
+
+02:14:35.940 --> 02:14:39.060
+Well, first of all, I don't know what the brilliant had to do with it because, of course,
+
+02:14:40.500 --> 02:14:45.380
+Oppenheimer and all that, okay, they did it really fast. But if you didn't have Oppenheimer,
+
+02:14:46.340 --> 02:14:53.460
+you know, I mean, it would all have happened anyway. It had a reality of its own. The
+
+02:14:53.460 --> 02:14:58.340
+possibility of making a nuclear, it didn't depend on the fact that the physicists who built it were
+
+02:14:58.340 --> 02:15:04.900
+brilliant. Maybe that sped it up by a year or two years, but by now we'd have nuclear weapons.
+
+02:15:06.580 --> 02:15:10.180
+So the ideas have momentum and that they're unstoppable.
+
+02:15:10.980 --> 02:15:18.660
+Right. The possibility of making nuclear weapons was discovered. It was there before,
+
+02:15:20.660 --> 02:15:29.220
+it's not like somebody made it. Without Picasso, there would never have been a
+
+02:15:30.500 --> 02:15:36.020
+Guernica, but without Oppenheimer, there would surely have still been an atom bomb.
+
+02:15:36.740 --> 02:15:45.540
+But timing matters, right? Timing is very important. Of course, the timing mattered there.
+
+02:15:52.740 --> 02:15:57.540
+I mean, you could try to make a case for stopping.
+
+02:15:58.340 --> 02:16:03.460
+No, no, no, no. It's the case of carrying the burden of the responsibility of the power of
+
+02:16:03.460 --> 02:16:11.540
+ideas when manifested into systems. So it's not a game. It's not just a game of fun mathematics.
+
+02:16:11.540 --> 02:16:21.300
+Just same with artificial intelligence. A lot of people in the AI community, it's a fascinating
+
+02:16:21.300 --> 02:16:26.100
+fun puzzle, how to make systems more and more intelligent. You have a bunch of benchmarks,
+
+02:16:26.100 --> 02:16:28.580
+you're trying to make them perform better and better and better, and all of a sudden
+
+02:16:29.220 --> 02:16:35.780
+you have a system that's able to outsmart people. It's now able to be used in geopolitics.
+
+02:16:35.780 --> 02:16:41.860
+It's able to create super intelligent bots that are able to at scale control the belief of a
+
+02:16:41.860 --> 02:16:46.980
+population of people. And now you can have world wars. You can have a lot of really risky
+
+02:16:46.980 --> 02:16:49.380
+instabilities. They're incredible. They really are incredible.
+
+02:16:49.380 --> 02:17:00.420
+And so there is some responsibility. It's a beauty and a terror to these ideas.
+
+02:17:04.580 --> 02:17:10.020
+At that moment, it was certainly a question for Oppenheimer and everybody who participated
+
+02:17:10.020 --> 02:17:16.980
+in that. What is the responsible way to serve society when you're
+
+02:17:18.980 --> 02:17:22.900
+accidentally in this position of being at the forefront of
+
+02:17:24.820 --> 02:17:32.740
+a development that has a huge impact on society? I don't see my work a likelihood of having a
+
+02:17:33.380 --> 02:17:37.700
+huge impact on the development of society itself. But if I were you,
+
+02:17:40.500 --> 02:17:47.700
+working on AI, I think that there is a possibility there. And that it is, as a responsible
+
+02:17:48.340 --> 02:17:54.180
+scientist, that it's really not a good thing to say, I'm just the scientist here and I'm
+
+02:17:54.180 --> 02:18:04.260
+figuring out what's possible. Because you're in a role where you have more of a
+
+02:18:06.420 --> 02:18:14.660
+podium to influence things than other people. And it's your responsibility as a citizen
+
+02:18:15.220 --> 02:18:24.180
+of the planet, or let me phrase it a little less shoddy, you have an opportunity
+
+02:18:25.380 --> 02:18:34.340
+as a citizen of the planet to make the world a better place, which it would be sad to bypass.
+
+02:18:34.980 --> 02:18:38.900
+Yeah, it's a nice world without going. It'd be nice to keep it going for a little bit longer.
+
+02:18:39.140 --> 02:18:45.380
+Andrew, I'm really honored that you sat down with me. Thank you for your work.
+
+02:18:45.380 --> 02:18:52.180
+Well, it was a really great conversation. I really enjoyed it. You really covered a lot. I can't
+
+02:18:52.180 --> 02:19:00.340
+believe you're able to discuss at this level on so many different topics. So it's a pleasure.
+
+02:19:00.340 --> 02:19:01.860
+It was super fun. Thank you.
+
+02:19:09.860 --> 02:19:13.700
+And now let me leave you with some words from Werner Heisenberg.
+
+02:19:14.820 --> 02:19:21.060
+Not only is the universe stranger than we think, it is stranger than we can think.
+
+02:19:22.180 --> 02:19:25.220
+Thank you for listening and hope to see you next time.
+

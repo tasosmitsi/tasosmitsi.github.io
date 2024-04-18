@@ -1,0 +1,3674 @@
+WEBVTT
+
+00:00.000 --> 00:06.160
+Whenever we start a new project, it has to have these ingredients of simultaneous complexity.
+
+00:06.160 --> 00:11.360
+It has to be novel in terms of the synthetic biology, material science, robotics, engineering.
+
+00:11.360 --> 00:16.800
+All of these elements that are discipline-based or rooted must be novel.
+
+00:16.800 --> 00:22.000
+If you can combine novelty in synthetic biology with a novelty in robotics,
+
+00:22.000 --> 00:25.760
+with a novelty in material science, with a novelty in computational design,
+
+00:25.760 --> 00:28.000
+you are bound to create something novel.
+
+00:30.560 --> 00:36.640
+The following is a conversation with Neri Oxman, an engineer, scientist, designer, architect,
+
+00:36.640 --> 00:42.240
+artist, and one of the kindest, most thoughtful, and brilliant human beings I've gotten to know.
+
+00:42.240 --> 00:48.400
+For a long time, she led the mediated matter group at MIT that did research and built incredible
+
+00:48.400 --> 00:53.920
+stuff at the intersection of computational design, digital fabrication, material science,
+
+00:53.920 --> 00:59.600
+and synthetic biology, doing so at all scales, from the microscale to the building scale.
+
+01:00.240 --> 01:06.000
+Now, she's continuing this work at a very new company for now called Oxman, looking to
+
+01:06.000 --> 01:12.080
+revolutionize how humans design and build products working with nature, not against it.
+
+01:12.880 --> 01:18.080
+On a personal note, let me say that Neri has for a long time been a friend and someone who,
+
+01:18.080 --> 01:22.960
+in my darker moments, has always been there with a note of kindness and support.
+
+01:22.960 --> 01:28.000
+I am forever grateful to her. She's a brilliant and a beautiful human being.
+
+01:28.720 --> 01:36.560
+Oh, and she also brought me a present, War and Peace by Tolstoy, and Meditations by Marcus
+
+01:36.560 --> 01:42.560
+Aurelius. It doesn't get better than that. This is the Lex Friedman Podcast. To support it,
+
+01:42.560 --> 01:48.400
+please check out our sponsors in the description. And now, dear friends, here's Neri Oxman.
+
+01:49.520 --> 01:53.520
+Let's start with the universe. Do you ever think of the universe as a kind of machine
+
+01:53.520 --> 01:56.160
+that designs beautiful things at multiple scales?
+
+01:56.800 --> 02:05.920
+I do. And I think of nature in that way, in general, in the context of design, specifically.
+
+02:06.800 --> 02:13.440
+I think of nature as everything that isn't anthropomast, everything that is not produced
+
+02:13.440 --> 02:19.680
+by humankind. The birds and the rocks and everything in between, fungi, elephants, whales.
+
+02:19.680 --> 02:23.920
+Do you think there's an intricate way in which there's a connection between humans and nature?
+
+02:23.920 --> 02:30.320
+Yes. And we're looking for it. I think that from, let's say, from the beginning of mankind,
+
+02:31.120 --> 02:39.040
+going back 200,000 years, the products that we have designed have separated us from nature.
+
+02:39.760 --> 02:45.520
+And it's ironic that the things that we designed and produced as humankind, those are exactly the
+
+02:45.520 --> 02:52.720
+things that separated us. Before that, we were totally and completely connected. And I want to
+
+02:52.720 --> 02:57.040
+return to that world. But bring the tools of engineering and computation to it.
+
+02:57.040 --> 03:05.120
+Yes. Yes. I absolutely believe that there is so much to nature that we still have not leveraged
+
+03:05.920 --> 03:10.880
+and we still have not understood and we still haven't. And so much of our work is design,
+
+03:10.880 --> 03:19.360
+but a lot of it is science, is unveiling and finding new truths about the natural world that
+
+03:19.360 --> 03:26.160
+we were not aware of before. Everybody talks about intelligence these days, but I like to think that
+
+03:26.160 --> 03:33.920
+nature has a kind of wisdom that exists beyond intelligence or above intelligence. And it's that
+
+03:33.920 --> 03:40.400
+wisdom that we're trying to tap into through technology. If you think about humans versus
+
+03:40.400 --> 03:46.880
+nature, at least in the realm, at least in the context of definition of nature as everything but
+
+03:48.400 --> 03:54.080
+anthropomast, and I'm using Ron Milo, who is an incredible professor from the Weizmann Institute,
+
+03:54.080 --> 04:01.920
+who came up with this definition of anthropomast in 2020, when he identified that 2020 was the
+
+04:01.920 --> 04:09.920
+crossover year when anthropomast exceeded biomass on the planet. So all of the design goods that we
+
+04:09.920 --> 04:16.800
+have created and brought into the world now outweigh all of the biomass, including, of course,
+
+04:16.800 --> 04:24.640
+all plastics and wearables building cities, but also asphalt and concrete all outweigh the scale
+
+04:24.640 --> 04:28.640
+of the biomass. And actually that was a moment. You know how in life there are moments that,
+
+04:29.600 --> 04:36.640
+there may be a handful of moments that get you to course correct. And my, it was a Zoom
+
+04:36.640 --> 04:43.280
+conversation with Ron, and that was a moment for me when I realized that that imbalance,
+
+04:43.840 --> 04:50.800
+now we've superseded the biomass on the planet. Where do we go from here? And you've heard the
+
+04:50.800 --> 04:55.040
+expression more phones than bones and the anthropomast and the anthropocene
+
+04:55.440 --> 05:03.360
+and the technosphere sort of outweighing the biosphere. But now we are really trying to look
+
+05:03.360 --> 05:12.160
+at is there a way in which all things technosphere are designed as if they are part of the biosphere,
+
+05:12.160 --> 05:19.120
+meaning if you could today grow instead of build everything and anything, if you could grow an
+
+05:19.840 --> 05:26.800
+iPhone, if you could grow a car, what would that world look like? Where the Turing test for sort
+
+05:26.800 --> 05:32.960
+of this kind of, I call this material ecology approach, but this notion that everything
+
+05:32.960 --> 05:41.760
+material, everything that you design in the physical universe can be read and written to
+
+05:43.120 --> 05:48.480
+or thought of or perceived of as nature grown. That's sort of the Turing test for the company,
+
+05:48.480 --> 05:52.800
+or at least that's how I started. I thought, well, grow everything. That's sort of the slogan.
+
+05:52.800 --> 06:00.880
+Let's grow everything. And if we grow everything, is there a world in which driving a car is better
+
+06:00.880 --> 06:08.560
+for nature than a world in which there are no cars? Is it possible that a world in which
+
+06:09.680 --> 06:14.960
+you build buildings in cities, that those buildings and cities actually augment and
+
+06:14.960 --> 06:21.760
+heal nature as opposed to their absence? Is there a world in which we now go back to that kind of
+
+06:21.760 --> 06:28.160
+synergy between nature and humans, where you cannot separate between grown and made,
+
+06:28.160 --> 06:34.080
+and it doesn't even matter? Is there a good term for the intersection between biomass and
+
+06:34.080 --> 06:40.080
+anthropomass, like things that are grown? Yes. So in 2005, I called this material ecology. I
+
+06:40.080 --> 06:46.400
+thought, well, what if all things materials would be considered part of the ecology and would have
+
+06:46.400 --> 06:53.120
+a positive impact on the ecology, where we work together to help each other, all things nature,
+
+06:53.120 --> 06:59.360
+all things human? And again, you can say that that wisdom in nature exists in fungi. Many mushroom
+
+06:59.360 --> 07:06.400
+lovers always contest my thesis here saying, well, we have the mushroom network and we have
+
+07:06.400 --> 07:11.840
+the mother trees and they're all connected. And why don't we just simply hack into mushrooms?
+
+07:11.840 --> 07:18.080
+Well, first of all, yes, they're connected, but that network stops when there is a physical gap.
+
+07:18.080 --> 07:25.680
+That network does not necessarily enable the whales in the Dominican to connect with an olive
+
+07:25.680 --> 07:30.320
+tree in Israel, to connect with a weeping willow in Montana. And that's sort of a world that I'm
+
+07:30.320 --> 07:37.520
+dreaming about. What does it mean for nature to have access to the cloud? The kind of bandwidth
+
+07:37.520 --> 07:46.960
+that we're talking about, sort of think Neuralink for nature. Since the first computer, and you know
+
+07:46.960 --> 07:54.400
+this by heart, probably better than I do, but we're both MIT lifers. We today have computational
+
+07:54.400 --> 08:03.760
+power that is one trillion times the power that we had in those times. We have 26.5 trillion times
+
+08:03.760 --> 08:14.400
+the bandwidth and 11.5 quintillion times the memory, which is incredible. So humankind,
+
+08:14.400 --> 08:22.320
+since the first computer, has approached and accessed such incredible bandwidth. And we're
+
+08:22.320 --> 08:28.720
+asking, well, what if nature had that bandwidth? So beyond genes and evolution, if there was a way
+
+08:28.720 --> 08:35.200
+to augment nature and allow it access to the world of bits, what does nature look like now?
+
+08:35.920 --> 08:43.120
+And can nature make decisions for herself as opposed to being guided and guarded and
+
+08:43.120 --> 08:50.480
+abused by humankind? So nature has this inherent wisdom that you spoke to, but you're also referring
+
+08:50.480 --> 08:57.840
+to augmenting that inherent wisdom with something like a large language model. Exactly. So compress
+
+08:57.840 --> 09:05.200
+human knowledge, but also maintain whatever is that intricate wisdom that allows plants, bacteria,
+
+09:05.200 --> 09:11.200
+fungi to grow incredible things at arbitrary scales, adapting to whatever environment and
+
+09:11.200 --> 09:15.920
+just surviving and thriving no matter where, no matter how. Exactly. So I think of it as
+
+09:15.920 --> 09:22.320
+large molecule models. And those large molecule models, of course, large language models are
+
+09:22.320 --> 09:30.000
+based on Google and search engines and so on and so forth. And we don't have this data currently.
+
+09:30.000 --> 09:39.040
+And part of our mission is to do just that, trying to quantify and understand the language
+
+09:39.680 --> 09:43.760
+that exists across all kingdoms of life, across all five kingdoms of life.
+
+09:44.560 --> 09:50.960
+And if we can understand that language, is there a way for us to first make sense of it, find logic
+
+09:50.960 --> 09:59.200
+in it, and then generate certain computational tools that empower nature to build better crops,
+
+09:59.200 --> 10:05.280
+to increase the level of biodiversity? In the company, we're constantly asking, what does nature
+
+10:05.280 --> 10:14.480
+want? What does nature want from a compute view? If it knew it, what could aid it in whatever the
+
+10:14.480 --> 10:21.840
+heck it's wanting to do? Yeah. So we keep coming back to this answer of nature wants to increase
+
+10:22.640 --> 10:30.000
+information, but decrease entropy, right? So find order, but constantly increase the information
+
+10:30.080 --> 10:36.160
+scale. And this is true for what our work also tries to do, because we're constantly trying to
+
+10:37.200 --> 10:42.080
+fight against the dimensional mismatch between things made and things grown, right? And as
+
+10:42.080 --> 10:47.120
+designers, we are educated to think in X, Y, and Z. And that's pretty much where architectural
+
+10:47.120 --> 10:53.280
+education ends and biological education begins. So in reducing that dimensional mismatch, we're
+
+10:53.280 --> 10:57.920
+missing out on opportunities to create things made as if grown. But in the natural environment,
+
+10:57.920 --> 11:05.840
+we're asking, can we provide nature with these extra dimensions? And again, I'm not sure what
+
+11:05.840 --> 11:12.240
+nature wants, but I'm curious as to what happens when you provide these tools to the natural
+
+11:12.240 --> 11:16.720
+environments, obviously with responsibility, obviously with control, obviously with ethics
+
+11:16.720 --> 11:25.760
+and moral code. But is there a world in which nature can help fix itself using those tools?
+
+11:26.240 --> 11:30.160
+And by the way, we're talking about a company called Oxman.
+
+11:30.160 --> 11:32.880
+Yeah. I'll just, just a few words about the team.
+
+11:32.880 --> 11:36.880
+Yeah. What kind of humans work at a place like this? They're trying to figure out what nature
+
+11:36.880 --> 11:42.880
+wants. You know, I think they're first like you, they're humanists first. They come from
+
+11:42.880 --> 11:49.040
+different disciplines and different disciplinary backgrounds. And just as an example, we have a
+
+11:49.040 --> 11:54.560
+brilliant designer who is just a mathematical genius and a computer scientist and a mechanical
+
+11:54.560 --> 12:02.720
+engineer who is trained as a synthetic biologist. And now we're hiring a microbiologist
+
+12:03.360 --> 12:10.160
+and a chemist, architects, of course, and designers, roboticists. So it's really,
+
+12:11.040 --> 12:15.680
+it's Noah's Ark, right? Two of each. And always dancing between this line of the
+
+12:15.680 --> 12:20.880
+artificial, the synthetic and the real. What's the term for it? And the natural.
+
+12:20.880 --> 12:25.120
+Yeah, the built and the grown, nature and culture, technology and biology. But
+
+12:26.320 --> 12:34.320
+we're constantly seeking to ask how can we build, design, and deploy products in three scales.
+
+12:34.880 --> 12:41.680
+The molecular scale, which I briefly hinted to. And there, in the molecular scale, we're really
+
+12:41.680 --> 12:47.840
+looking to understand whether there is a universal language to nature and what that language is.
+
+12:48.480 --> 12:55.760
+And then build a tool that I think and dream of it as the iPhone for nature. If nature had an
+
+12:55.760 --> 13:02.480
+iPhone, what would that iPhone look like? Does that mean creating an interface
+
+13:03.840 --> 13:06.960
+between nature and the computational tools we have?
+
+13:06.960 --> 13:13.760
+Exactly. It goes back to that 11.5 quintillion times the bandwidth that humans have now arrived
+
+13:13.760 --> 13:20.320
+at and giving that to nature and seeing what happens there. Can animals actually use this
+
+13:21.120 --> 13:27.520
+interface to know that they need to run away from fire? Can plants use this interface to increase
+
+13:27.520 --> 13:32.800
+the rate of photosynthesis in the presence of a smoke cloud? Can they do this quote unquote
+
+13:32.800 --> 13:40.720
+automatically without a kind of a top down brute force policy based method that's authored and
+
+13:40.720 --> 13:45.840
+deployed by humans? And so this work really relates to that interface with the natural world.
+
+13:45.840 --> 13:50.560
+And then there's a second area in the company which focuses on growing products.
+
+13:52.000 --> 13:59.520
+And here we're focusing on a single product that starts from CO2. It becomes a product,
+
+13:59.520 --> 14:08.400
+it's consumed, it's used, it's worn by a human, and then it goes back to the soil and it grows
+
+14:08.400 --> 14:12.880
+an edible fruit plant. So we're talking about from CO2 to fruit.
+
+14:12.880 --> 14:16.880
+Yeah. It starts from CO2 and it ends with something that you can literally eat.
+
+14:18.400 --> 14:24.320
+So the world's first entirely biodegradable, biocompatible, biorenewable product.
+
+14:24.320 --> 14:26.080
+That's grown. Yes.
+
+14:26.080 --> 14:32.080
+Either using plant matter or using bacteria. But we are really looking at carbon recycling
+
+14:32.080 --> 14:38.480
+technologies that start with methane or wastewater and end with this wonderful
+
+14:38.480 --> 14:46.160
+reincarnation of a thing that doesn't need to end up in a composting site but can just be thrown
+
+14:46.160 --> 14:51.680
+into the ground and grow olive and find peace. And there's a lot of textile-based work out there
+
+14:51.680 --> 14:59.360
+that is focused on one single element in this long chain, like, oh, let's create leather out
+
+14:59.360 --> 15:05.600
+of mycelium or let's create textile out of cellulose. But then it stops there and you get
+
+15:05.600 --> 15:10.800
+to assembling the shoe or the wearable and you need a little bit of glue and you need a little
+
+15:10.800 --> 15:15.440
+bit of this material and a little bit of that material to make it water-resistant and then it's
+
+15:15.440 --> 15:21.520
+over. So that's one thing that we're trying to solve for is how to create a product that is
+
+15:21.520 --> 15:28.640
+materially, computationally, robotically novel and goes through all of these phases from the creation,
+
+15:28.640 --> 15:35.840
+from this carbon recycling technology to the product, to literally how do you think about
+
+15:36.800 --> 15:43.200
+reinventing an industry that is focused on assembly and putting things together and using
+
+15:43.200 --> 15:48.640
+humans to do that? Can that happen just using robots and microbes and that's it?
+
+15:48.640 --> 15:52.960
+And doing it end to end. I would love to see what this factory looks like.
+
+15:53.600 --> 15:59.440
+And the factory is great too. I'm very, very excited. In October, we'll share first
+
+16:00.720 --> 16:05.360
+renditions of some of this work and in February, we'll invite you to the lab.
+
+16:05.360 --> 16:10.960
+I'm there. I've already applied. I can't, I haven't heard back. I don't understand. Okay.
+
+16:12.480 --> 16:17.120
+Just before we get to number three, it'd be amazing to just talk about what it takes
+
+16:17.120 --> 16:22.160
+with robotic arms or in general, the whole process of how to build the life form,
+
+16:22.160 --> 16:26.080
+stuff you've done in the past, maybe stuff you're doing now, how to use bacteria,
+
+16:26.080 --> 16:30.400
+it's kind of synthetic biology, how to grow stuff by leveraging bacteria.
+
+16:30.400 --> 16:35.520
+Is there examples from the past? Yes, and just take a step back over the 10 years,
+
+16:35.520 --> 16:42.480
+the mediated matter group, which was my group at MIT, has sort of dedicated itself to,
+
+16:43.280 --> 16:47.760
+biobased design would be a suitcase word, but sort of thinking about that synergy between
+
+16:48.320 --> 16:54.320
+nature and culture, biology and technology. And we attempted to build a suite of embodiments,
+
+16:54.320 --> 17:00.880
+let's say that they ended up in amazing museums and amazing shows. And we wrote patents and papers
+
+17:00.880 --> 17:07.440
+on them, but they were still N of ones. Again, the challenge, as you say, was to grow them.
+
+17:07.440 --> 17:13.760
+And we classified them into fibers, cellular solids, biopolymers, pigments. And in each of
+
+17:13.760 --> 17:18.640
+the examples, although the material was different, sometimes we used fibers, sometimes we used silk
+
+17:18.640 --> 17:23.920
+with silkworms and honey with bees or comb as the structural material. With Vespers, we used
+
+17:23.920 --> 17:29.360
+synthetically engineered bacteria to produce pigments. Although the materials were different
+
+17:29.360 --> 17:33.440
+and the hero organisms were different, the philosophy was always the same. The approach
+
+17:33.440 --> 17:39.760
+was really an approach of computational templating. That templating allowed us to create
+
+17:39.840 --> 17:43.840
+templates for the natural environment where nature and technology could
+
+17:45.520 --> 17:50.400
+do it, could dance together to create these products. So just as a few examples with
+
+17:51.200 --> 17:57.440
+silk pavilion, we've had a couple of pavilions made of silk. And the second one, which was the
+
+17:57.440 --> 18:02.240
+bigger one, which ended up at the Museum of Modern Art with my friend and incredible mentor,
+
+18:02.240 --> 18:10.400
+Paolo Antonelli, that pavilion was six meter tall and it was produced by silkworms. And there we had
+
+18:11.440 --> 18:15.760
+different types of templates. There were physical templates that were basically just these water
+
+18:15.760 --> 18:20.720
+soluble meshes upon which the silkworms were spinning. And then there were environmental
+
+18:20.720 --> 18:26.400
+templates, which was a robot basically applying a variation of environmental conditions such as
+
+18:26.400 --> 18:30.720
+heat and light to guide the movement of the silkworm. You're saying so many amazing things,
+
+18:30.720 --> 18:35.440
+and I'm trying not to interrupt you, but one of the things you've learned by observing, by
+
+18:35.440 --> 18:43.040
+doing science on these is that the environment defines the shape that they create or contributes
+
+18:43.040 --> 18:48.480
+or intricately plays with the shape they create. And that's one of the ways you can get to guide
+
+18:48.480 --> 18:54.720
+their work is by defining that environment. By the way, you said hero organism, which is an epic term.
+
+18:55.600 --> 19:00.800
+That means whatever is the biological living system that's doing the creation.
+
+19:00.800 --> 19:05.280
+And that's what's happening in pharma and biomaterials and by the way, precision ag and
+
+19:06.560 --> 19:12.480
+new food design technologies as people are betting on a hero organism is the sort of how I think of
+
+19:12.480 --> 19:20.640
+it. And the hero organism is sometimes it's the palm oil or it's the mycelium. There's a lot of
+
+19:20.640 --> 19:28.880
+mushrooms around for good and bad. And it's cellulose or it's fake bananas or the workhorse
+
+19:28.880 --> 19:36.880
+E. coli. But these hero organisms are being bedded on as like the, what's the one answer that solves
+
+19:36.880 --> 19:44.640
+everything? The tiker's guide? 42. 42. These are sort of the 42s of the enchanted new universe. And
+
+19:45.280 --> 19:52.960
+back at MIT, we said instead of betting on all of these organisms, let's approach them as almost
+
+19:52.960 --> 19:58.560
+like movement in a symphony. And let's kind of lean into what we can learn from each of these
+
+19:58.560 --> 20:04.400
+organisms in the context of building a project in an architectural scale. And those usually were
+
+20:04.400 --> 20:11.360
+pavilions. And then the computational templating is the way you guide the work of this. How many
+
+20:11.360 --> 20:18.800
+did you say? 17,000? 17,532. So each of these silkworms threads are about one mile
+
+20:20.160 --> 20:25.600
+in distance. And they're beautiful. And just thinking about the amount of material,
+
+20:27.360 --> 20:34.800
+it's a bit like thinking about the length of capillary vessels that grow in your belly when
+
+20:34.800 --> 20:41.360
+you're pregnant to feed that incredible new life form. It's just nature is amazing. But
+
+20:41.360 --> 20:46.960
+back to the silkworms, I think I had three months to build this incredible pavilion, but
+
+20:48.240 --> 20:53.200
+we couldn't figure out how we were thinking of emulating the process of how a silkworm goes
+
+20:53.200 --> 20:58.720
+about building its incredible architecture, this cocoon over the period of 24 to 72 hours.
+
+20:59.520 --> 21:05.760
+And it builds a cocoon basically to protect itself. It's a beautiful form of architecture.
+
+21:05.760 --> 21:10.560
+And it uses pretty much just two materials, two chemical compounds, sericin and
+
+21:11.200 --> 21:17.120
+fibrin. The sericin is sort of the glue of the cocoon. The fibrin is the fiber-based
+
+21:17.120 --> 21:21.440
+material of the cocoon and through fibers and glue. And that's true for so many systems in nature,
+
+21:21.440 --> 21:28.400
+lots of fiber and glue. And that architecture allows them to metamorphosize. And in the process,
+
+21:28.400 --> 21:34.800
+they vary the properties of that silk thread. So it's stiffer or softer depending on where it is
+
+21:34.800 --> 21:41.040
+in the section of the cocoon. And so we were trying to emulate this robotically with a 3D
+
+21:41.040 --> 21:46.960
+printer that was a six-axis kooka arm, one of these baby kookas. And we're trying to emulate
+
+21:46.960 --> 21:52.880
+that process computationally and build something very large when one of my students now, a brilliant
+
+21:52.880 --> 21:58.720
+industrial engineer, a roboticist on my team, Marcus said, well, we were just playing with
+
+21:58.720 --> 22:07.040
+those silkworms and enjoying their presence when we realized that if they're placed on a desk or a
+
+22:07.040 --> 22:13.760
+horizontal surface, they will go about creating their cocoon. Only the cocoon would be flat
+
+22:15.520 --> 22:21.680
+because they're constantly looking for a vertical post in order to use that post as an anchor to
+
+22:21.680 --> 22:29.360
+spin the cocoon. But in the absence of that post, on surfaces that are less than 21
+
+22:29.360 --> 22:36.160
+millimeters and flat, they will spin flat patches. And we say, aha, let's work with them
+
+22:36.800 --> 22:46.400
+to produce this dome as a set of flat patches. And a silkworm, mind you, is quite an egocentric
+
+22:46.400 --> 22:52.640
+creature. And actually, the further you go, you move forward in evolution by natural selection,
+
+22:52.640 --> 22:59.360
+the more egoism you find in creatures. So when you think about termites,
+
+23:00.720 --> 23:08.240
+their material sophistication is actually very primitive, but they have incredible ability to
+
+23:08.240 --> 23:12.960
+communicate and connect with each other. So if you think about the entire, all of nature,
+
+23:12.960 --> 23:19.200
+let's say all of living systems as a matrix that runs across two axes, one is material
+
+23:19.200 --> 23:23.760
+sophistication, which is terribly relevant for designers, and the other is communication.
+
+23:26.720 --> 23:32.000
+The termites ace on communication, but their material sophistication is crap. It's just saliva
+
+23:32.000 --> 23:38.000
+and feces and some soil particles that are built to create these incredible termite mounds at the
+
+23:38.000 --> 23:45.680
+scale that, when compared to human skyscrapers, transcend all of buildable scales, at least in
+
+23:45.680 --> 23:50.320
+terms of what we have today in architectural practice, just relative to the size of the termite.
+
+23:50.320 --> 23:55.840
+But when you look at the silkworm, the silkworm has zero connection and communication across
+
+23:55.840 --> 24:00.560
+silkworms. They were not designed to connect and communicate with each other. They're sort of a
+
+24:00.560 --> 24:09.120
+human design species because the domesticated silk moth creates the cocoon. We then produce
+
+24:09.120 --> 24:17.520
+the silk of it and then it dies. So it has dysfunctional wings. It cannot fly. And that's
+
+24:18.160 --> 24:25.760
+another problem that the sericulture industry has is why did we in the first place author this
+
+24:25.760 --> 24:32.720
+organism 4,000 years ago that is unable to fly and is just there to basically live as,
+
+24:34.080 --> 24:40.000
+to serve a human need, which is textiles. And so here we were fascinated by the computational
+
+24:40.960 --> 24:46.320
+biology dimension of silkworms. But along the way, by the way, this is great. I never get
+
+24:46.320 --> 24:53.280
+to tell the full story. I'm so great. I'm always like people say, I always speak in Nietzschean
+
+24:53.920 --> 24:56.640
+paragraphs. They're way too long. And this is wonderful. This is like heaven.
+
+24:59.040 --> 25:04.960
+You're dropping so many good lines. I love it. But really those silkworms are not, yes,
+
+25:04.960 --> 25:09.360
+they're not designed to be like humans, right? They're not designed to connect, communicate,
+
+25:09.360 --> 25:13.440
+and build things that are bigger than themselves through connection and communication.
+
+25:13.440 --> 25:16.000
+So what happens when you had 17,000 of them communicating?
+
+25:16.800 --> 25:23.680
+That's a really great question. What happens is that at some point the templating strategies,
+
+25:23.680 --> 25:28.800
+and as you said correctly, there were geometrical templating, material templating,
+
+25:28.800 --> 25:33.280
+environmental templating, chemical templating, if you're using pheromones to guide the movement of
+
+25:33.280 --> 25:40.720
+bees in the absence of a queen where you have a robotic queen. But whenever you have these
+
+25:40.720 --> 25:46.240
+templating strategies, you have sort of control over nature, right? But the question is,
+
+25:46.240 --> 25:50.240
+is there a world in which we can move from templating, from providing these computational
+
+25:51.040 --> 25:57.760
+material and immaterial physical and molecular platforms that guide nature, almost guiding a
+
+25:57.760 --> 26:04.160
+product, almost like a gardener to a problem or an opportunity of emergence where that
+
+26:04.160 --> 26:11.440
+biological organism assumes agency by virtue of accessing the robotic code and saying,
+
+26:11.440 --> 26:16.480
+now I own the code, I get to do what I want with this code. Let me show you what this pavilion
+
+26:16.480 --> 26:21.280
+may look like or this product may look like. And I think one of the exciting moments for us is when
+
+26:21.280 --> 26:29.040
+we realized that these robotic platforms that were designed initially as templates actually inspired,
+
+26:29.680 --> 26:35.920
+if I may, a kind of collaboration and cooperation between silkworms that are
+
+26:36.640 --> 26:40.880
+not a swarm-based organism. They're not like the bees and the termites. They don't
+
+26:41.520 --> 26:46.320
+work together and they don't have, you know, social orders amongst them, the queen and the
+
+26:46.320 --> 26:54.080
+drones, et cetera. They're all the same in a way, right? And here what was so exciting for us is
+
+26:54.080 --> 27:00.960
+that these computational and fabrication technologies enable the silkworm to kind of
+
+27:02.160 --> 27:09.200
+hop from the branch in ecology of worms to the branch in ecology of maybe human-like
+
+27:09.840 --> 27:15.520
+intelligence where they could connect and communicate by virtue of feeling or rubbing
+
+27:15.520 --> 27:22.160
+against each other in an area that was hotter or colder. So the product that we got at the end,
+
+27:22.160 --> 27:28.320
+the variation of density of fiber and the distribution of the fiber and the transparency,
+
+27:28.320 --> 27:35.280
+the product at the end seems like it was produced by a swarm silk community, but of course it wasn't.
+
+27:35.280 --> 27:39.600
+It's a bunch of biological agents working together to assemble this thing. That's really,
+
+27:39.600 --> 27:49.200
+really fascinating to us. How can technology augment or enable a swarm-like behavior in
+
+27:49.200 --> 27:56.640
+creatures that have not been designed to work as swarms? So how do you construct a computational
+
+27:56.640 --> 28:04.160
+template from which a certain kind of thing emerges? So how can you predict what emerges,
+
+28:04.160 --> 28:09.680
+I suppose? So if you can predict it, it doesn't count as emergence. Actually,
+
+28:11.840 --> 28:16.960
+that's a deeply poetic line. We can talk about it. I mean, it's a bit like if you measure it,
+
+28:16.960 --> 28:23.840
+it doesn't count. Speaking of emergence and empowerment because we're constantly
+
+28:26.000 --> 28:31.920
+moving between those as if they're equals on the team. One of them, Christoph, shared with me
+
+28:31.920 --> 28:38.720
+a mathematical equation for what does it mean to empower nature and what does empowerment in nature
+
+28:38.720 --> 28:44.880
+look like? And that relates to emergence and we can go back to emergence in a few moments,
+
+28:44.880 --> 28:52.240
+but I want to say it so that I know that I've learned it. And if I've learned it,
+
+28:52.240 --> 28:56.880
+I can use it later. And maybe you'll figure something out as you say it also.
+
+28:56.880 --> 29:03.680
+Of course, Christoph is the master here, but really we were thinking, again, what does nature
+
+29:03.680 --> 29:12.480
+want? Nature wants to increase the information dimension and reduce entropy. What do we want?
+
+29:12.480 --> 29:20.560
+We kind of want the same thing. We want more, but we want order, right? And this goes back to
+
+29:20.560 --> 29:25.680
+your conversation with Josje about stochastic versus deterministic languages or processes.
+
+29:26.320 --> 29:37.040
+His definition or the definition he found was that an agent is empowered if the entropy of the
+
+29:37.040 --> 29:45.920
+distribution of all of its states is high, while the entropy of the distribution of a single state
+
+29:45.920 --> 29:56.080
+given a choice, given an action is low. Meaning it's that kind of duality between opportunity,
+
+29:56.080 --> 30:03.120
+starting like this and going like this, opening and closing. And this really I think is analogous to
+
+30:03.120 --> 30:09.920
+human empowerment. Given an infinite wide array of choices, what is the choice that you make
+
+30:13.520 --> 30:18.800
+to enable, to empower, to provide you with the agency that you need?
+
+30:18.800 --> 30:23.920
+And how much does making that choice actually control the trajectory of the system? That's
+
+30:23.920 --> 30:28.000
+really nice. So this applies to all the kinds of systems you're talking about.
+
+30:28.080 --> 30:34.640
+Yeah, and the cool thing is it can apply to a human on an individual basis, but or a silkworm
+
+30:34.640 --> 30:43.440
+or a bee or a microbe, a microbe that has agency or by virtue of a template. But it also applies
+
+30:43.440 --> 30:49.440
+to a community of organisms like the bees. And so we've done a lot of work sort of moving from,
+
+30:49.440 --> 30:56.480
+you've asked how to grow things. So we've grown things using co-fabrication, where we're
+
+30:57.120 --> 31:03.840
+digitally fabricating with other organisms that live across the various kingdoms of life. And
+
+31:03.840 --> 31:12.240
+those were silkworms and bees. And with bees, which we've sent to outer space and returned
+
+31:12.240 --> 31:15.920
+healthily and they were reproductive. You're going to have to tell that story.
+
+31:15.920 --> 31:18.560
+You're going to have to talk about the robotic queen and the pheromones.
+
+31:20.560 --> 31:25.440
+So we've built what we call a synthetic apiary. And the synthetic apiary was designed
+
+31:25.920 --> 31:32.320
+as an environment that was a perpetual spring environment for the bees of Massachusetts.
+
+31:33.120 --> 31:37.920
+They go on hibernation, of course, during the winter season. And then we lose 80% of them or
+
+31:37.920 --> 31:42.880
+more during that period. We're thinking, okay, what if we created this environment where
+
+31:44.640 --> 31:49.680
+before you template, right, before you can design with, you have to design for, right,
+
+31:49.680 --> 31:56.800
+you have to create this space of mutualism, space of sort of shared connection between
+
+31:56.800 --> 32:00.160
+you and the organism. And with bees, it started as the synthetic apiary.
+
+32:00.720 --> 32:08.560
+And we have proven that curated environment where we designed the space with high levels of control
+
+32:08.560 --> 32:15.040
+of temperature, humidity, and light. And we've proven that they were reproductive and alive.
+
+32:15.040 --> 32:21.280
+And we realized, wow, this environment that we created can help augment bees in the winter
+
+32:21.280 --> 32:28.480
+season in any city around the world where bees survive and thrive in the summer and spring
+
+32:28.480 --> 32:34.240
+seasons. And could this be a kind of a new urban typology, an architectural typology of symbiosis
+
+32:34.240 --> 32:39.280
+of mutualism between organisms and humans where these are, by the way, the synthetic apiary was
+
+32:39.280 --> 32:48.880
+in a co-op in nearby Somerville. We had robots, our team slept there every day with our tools
+
+32:48.880 --> 32:53.200
+and machines and we made it happen. And the neighbors were very happy and they got to get
+
+32:53.200 --> 32:58.800
+a ton of honey at the end of the winter. And those bees, of course, were released into the wild at
+
+32:58.800 --> 33:05.040
+the end of the winter alive and kicking. So then in order to actually experiment with the robotic
+
+33:05.040 --> 33:12.160
+queen and idea or concept, we had to prove obviously that we can create this space for
+
+33:13.200 --> 33:18.880
+bees. And then after that, we had this amazing opportunity to send the bees to space on Blue
+
+33:18.880 --> 33:24.640
+Shepherd mission that is part of Blue Origin. And we of course said, yes, we'll take a slot.
+
+33:24.640 --> 33:30.240
+We said, okay, can we outdo NASA? So NASA in 1982 had an experiment where they sent bees to
+
+33:31.200 --> 33:39.280
+outer space. The bees returned, they were not reproductive. And some of them died. And we
+
+33:39.280 --> 33:44.880
+thought, well, is there a way in which we can create a life support system almost like a small
+
+33:44.880 --> 33:53.040
+mini bio lab of a queen and her retinue that would be sent in this Blue Origin, New Shepherd mission
+
+33:53.840 --> 33:59.440
+in this one cell? And so if the synthetic apiary was an architectural project, in this case,
+
+33:59.440 --> 34:06.400
+the second synthetic apiary was a product. It was from an architectural controlled environment
+
+34:06.400 --> 34:12.960
+to a product scale controlled environment. And this bio lab, this life support system for bees
+
+34:12.960 --> 34:19.360
+was designed to provide the bees with all the conditions that they needed. And we looked at
+
+34:19.360 --> 34:26.880
+that time at the Nasinov pheromone that the queen uses to guide the other bees. And we looked at
+
+34:26.880 --> 34:31.840
+pheromones that are associated with a bee and thinking of those pheromones being released
+
+34:31.840 --> 34:39.520
+inside the capsule that goes to outer space. They returned back to the Media Lab roof.
+
+34:40.400 --> 34:46.880
+And those bees were alive and kicking and reproductive. And they continued to create
+
+34:46.880 --> 34:53.600
+comb. And it ended with a beautiful nature paper that the team and I published together.
+
+34:54.400 --> 34:59.840
+We gave them gold nanoparticles and silver nanoparticles because we were interested if
+
+34:59.840 --> 35:07.600
+bees recycle wax. It was known forever that bees do not recycle the wax. And by feeding them these
+
+35:07.600 --> 35:14.800
+gold nanoparticles, we were able to prove that the bees actually do recycle the wax.
+
+35:14.800 --> 35:22.640
+The reason I'm bringing this forward is because we don't view ourselves as designers of consumable
+
+35:22.640 --> 35:28.720
+products and architectural environments only. But we love that moment where these technologies,
+
+35:28.720 --> 35:34.560
+and by the way, every one of these projects that we created involved the creation of a new
+
+35:34.560 --> 35:42.800
+technology, whether it be a glass printer or the spinning robot or the life support system for the
+
+35:42.800 --> 35:48.160
+bee colony. They all involved a technology that was associated with the project. And I never,
+
+35:48.160 --> 35:52.560
+ever, ever, ever want to let that part go because I love technology so much.
+
+35:54.400 --> 35:59.520
+But also another element of this is that always these projects, if they're great,
+
+35:59.520 --> 36:06.720
+they reveal new knowledge about or new science about the topic that you're investigating,
+
+36:06.720 --> 36:14.800
+be it silkworms or bees or glass. That's why I say I always tell my team it should be at MoMA and
+
+36:14.800 --> 36:18.960
+the cover of Nature or Science at the same time. We don't separate between the art and the science.
+
+36:19.840 --> 36:24.400
+It's one of the same. So as you're creating the art, you're going to learn something about
+
+36:24.400 --> 36:28.720
+these organisms or something about these materials. Is there something that stands out to you about
+
+36:28.720 --> 36:34.560
+these hero organisms like bees, silkworms? You mentioned E. coli has its pros and cons,
+
+36:34.560 --> 36:41.440
+its bacteria. What have you learned that small or big that's interesting about these organisms?
+
+36:41.440 --> 36:46.160
+Yeah, that's a beautiful question. What have I learned? I've learned that
+
+36:49.840 --> 36:54.160
+we also worked with shrimp shells with Aguaja. We built this tower on the roof of Asif MoMA,
+
+36:54.160 --> 37:01.200
+which by a couple of months ago, until it was on the roof, we've shown the structure completely
+
+37:01.200 --> 37:06.960
+biodegrade into the, well, not completely, but almost completely biodegrade to the soil. And
+
+37:06.960 --> 37:16.720
+this notion that a product or an organism or part of that organism can reincarnate is a very,
+
+37:16.720 --> 37:23.280
+very moving thought to me because I want to believe that I believe in reincarnation.
+
+37:23.920 --> 37:25.840
+I want to believe that I believe.
+
+37:25.840 --> 37:30.720
+Yeah, that's my relationship with God. I like to believe in believing.
+
+37:31.360 --> 37:38.880
+Most great things in life are second derivatives of things, but that's part of another conversation.
+
+37:38.880 --> 37:42.720
+I feel like that's a quote that's going to take weeks to really internalize.
+
+37:43.440 --> 37:50.960
+That notion of I want you to want, or I need you to need, or that there's always something,
+
+37:50.960 --> 37:57.200
+a deeper truth behind what is on the surface. And so I like to go to the second and tertiary
+
+37:57.760 --> 38:02.640
+derivative of things and discover new truths about them through that. But
+
+38:02.640 --> 38:04.560
+what have I learned about organisms?
+
+38:05.280 --> 38:07.040
+And why don't you like E. coli?
+
+38:07.040 --> 38:14.560
+I like E. coli. And a lot of the work that we've done was not possible without our working on E.
+
+38:14.560 --> 38:19.280
+coli or other workhorse organisms like cyanobacteria.
+
+38:19.280 --> 38:20.480
+How are bacteria used?
+
+38:20.480 --> 38:22.960
+Death masks, the death masks.
+
+38:22.960 --> 38:24.320
+So what are death masks?
+
+38:24.320 --> 38:30.000
+So we did this project called Vespers, and those were basically death masks that was
+
+38:30.000 --> 38:38.720
+set as a process for designing a living product. What happens? I looked at, I remember looking at
+
+38:38.720 --> 38:44.160
+Beethoven's death masks and Agamemnon's death masks and just studying how they were created.
+
+38:44.160 --> 38:49.440
+And really, they were sort of geometrically attuned to the face of the dead.
+
+38:49.520 --> 38:58.720
+And what we wanted to do is create a death mask that was not based on the shape of the wearer,
+
+38:58.720 --> 39:06.240
+but rather was based on their legacy and their biology. And maybe we could harness a few stem
+
+39:06.240 --> 39:12.880
+cells there for future generations or contain the last breath. Lazarus, which preceded Vespers,
+
+39:12.880 --> 39:18.800
+was a project where we designed a mask to contain a single breath, the last breath of the wearer.
+
+39:19.840 --> 39:25.680
+And again, if I had access to these technologies today, I would totally reincorporate my
+
+39:25.680 --> 39:32.240
+grandmother's last breath in a product. So it was like an air memento. So with Vespers,
+
+39:34.480 --> 39:44.640
+we actually used E. coli to create pigmented masks, masks whose pigments would be recreated
+
+39:44.640 --> 39:51.280
+at the surface of the mask. And I'm skipping over a lot of content, but basically there were
+
+39:51.280 --> 39:57.520
+15 masks and they were created as three sets, the masks of the past, the mask of the present,
+
+39:57.520 --> 40:03.360
+and the mask of the future. The masks, there were five, five and five, and the masks of the past were
+
+40:03.360 --> 40:13.520
+based on ornaments and they were embedded with natural minerals like gold. Yes, yes, yes.
+
+40:13.520 --> 40:19.200
+And we're looking at pictures of these and they're gorgeous. Yes. Extremely delicate
+
+40:19.200 --> 40:25.200
+and interesting fractal patterns that are symmetrical. They look symmetrical, but they're
+
+40:25.200 --> 40:32.080
+not. We intended for you to be tricked and think that they're all symmetrical. But there's
+
+40:32.080 --> 40:40.560
+imperfections. There are imperfections by design. All of these forms and shapes and
+
+40:41.360 --> 40:47.920
+distribution of matter that you're looking at was entirely designed using a computational program.
+
+40:47.920 --> 40:56.240
+So none of it is manual. But long story short, the first collection is about the surface of the mask
+
+40:56.240 --> 41:01.360
+and the second collection, which you're looking at, is about the volume of the mask and what
+
+41:01.360 --> 41:07.840
+happens to the mask when all the colors from the surface, yes, enter the volume of the mask inside,
+
+41:07.840 --> 41:13.760
+create pockets and channels to guide life through them. They were incorporated with
+
+41:13.760 --> 41:20.800
+pigment-producing living organisms and then those organisms were templated to recreate the patterns
+
+41:20.800 --> 41:27.280
+of the original death masks. And so life recycles and re-begins and so on and so forth. The past
+
+41:27.280 --> 41:33.120
+meets the future, the future meets the past. From the surface to the volume, from death to life to
+
+41:33.120 --> 41:39.120
+death to life to death to life. And that, again, is a recurring theme in the projects that we take
+
+41:39.120 --> 41:45.440
+on. But there, from a technological perspective, what was interesting is that we embedded chemical
+
+41:45.440 --> 41:54.000
+signals in the jet, in the printer, and those chemical signals basically interacted with the
+
+41:55.200 --> 42:02.240
+pigment-producing bacteria, in this case E. coli, that were introduced on the surface of the mask.
+
+42:02.240 --> 42:09.040
+And those interactions between the chemical signals inside the resins and the bacteria
+
+42:09.040 --> 42:13.920
+at the surface of the mask at the resolution that is native to the printer, in this case,
+
+42:13.920 --> 42:20.960
+20 microns per voxel, allowed us to compute the exact patterns that we wanted to achieve.
+
+42:20.960 --> 42:25.440
+And we thought, well, if we can do this with pigments, can we do this with antibiotics?
+
+42:25.440 --> 42:29.840
+If we can do this with antibiotics, could we do it with melanin? And what are the implications?
+
+42:29.840 --> 42:36.080
+Again, this is a platform technology. Now that we have it, what are the actual real world
+
+42:36.080 --> 42:43.600
+implications and potential applications for this technology? And we started a new area.
+
+42:43.600 --> 42:52.080
+One of my students, Rachel, her PhD thesis was titled after this new class of materials
+
+42:52.080 --> 42:58.720
+that we created through this project, Vespers, hybrid living materials, HLMs. And these hybrid
+
+42:58.720 --> 43:05.520
+living materials really paved the way towards a whole other set of products that we've designed,
+
+43:07.840 --> 43:12.480
+like the work that we did with melanin for the Mandela Pavilion that we presented at SFMOMA,
+
+43:13.440 --> 43:18.320
+where, again, we're using the same principles of templating, in this case, not silkworms and
+
+43:18.320 --> 43:27.120
+not bees, but we're templating bacteria at a much, much, much more finer resolution.
+
+43:27.120 --> 43:32.640
+And now instead of templating using a robot, we're templating using a printer.
+
+43:32.640 --> 43:38.640
+But compute is very, very much part of it. And what's nice about bacteria, of course, is that
+
+43:39.920 --> 43:45.280
+from an ethical perspective, I think there's a range, right? So at the end of the silk pavilion,
+
+43:45.280 --> 43:50.720
+I got an email from a professor in Japan who has been working on transgenic silk and said,
+
+43:50.720 --> 43:58.720
+well, if you did this amazing silk pavilion, why don't we create, you know, glow-in-the-light silk
+
+43:58.720 --> 44:08.880
+dresses? And in order to create this glow-in-the-light silk, we need to apply genes
+
+44:08.880 --> 44:15.280
+that are taken from a spider to a silkworm. And this is what is known as a transgenic operation.
+
+44:15.280 --> 44:22.080
+And we said no. And that was for us a clear decision that no, we will work with these
+
+44:22.080 --> 44:29.520
+organisms as long as we know that what we are doing with them is not only better for humans,
+
+44:29.520 --> 44:36.400
+but it's also better for them. And again, just to remind you, I forget the exact number,
+
+44:36.400 --> 44:43.440
+but it's around a thousand cocoons per single shirt that are exterminated in India and China,
+
+44:44.400 --> 44:54.160
+in those sericulture industries that are being abused. Now, yes, this organism was designed
+
+44:54.960 --> 45:07.040
+to serve the human species, and maybe it's time to retire that conception of organisms that are
+
+45:07.040 --> 45:13.120
+designed for a human-centric world or human-centric set of applications. I don't feel the same way
+
+45:13.120 --> 45:21.520
+about E. coli. Not that I'm agnostic, organism agnostic, but still, I believe there's so much
+
+45:21.520 --> 45:28.240
+for us to do on this planet with bacteria. And so in general, your design principle is to
+
+45:29.680 --> 45:36.560
+grow cool stuff as a byproduct of the organism flourishing, so not using the organism.
+
+45:36.560 --> 45:40.000
+The win-win, the synergy, a whole that's bigger than the sum of its parts.
+
+45:40.000 --> 45:46.800
+It's interesting. I mean, it just feels like a gray area where genetic modification of an organism.
+
+45:48.320 --> 45:55.120
+It just feels like, I don't know, if you genetically modified me to make me glow
+
+45:55.760 --> 46:00.400
+in the light, I kind of like it. I think you have enough of an aura.
+
+46:01.120 --> 46:04.800
+Thank you. I was just fishing for compliments. Thank you. I appreciate it.
+
+46:04.800 --> 46:11.680
+Absolutely right. And by the way, the gray area is where some of us like to live and like to thrive,
+
+46:11.680 --> 46:17.520
+and that's okay. And thank goodness that there's so many of us that like the black and white and
+
+46:17.520 --> 46:21.280
+that thrive in the black and white. My husband is a good example for that.
+
+46:22.160 --> 46:26.400
+Just to clarify, in this case, you're also trying to thrive in the black and white,
+
+46:26.400 --> 46:33.760
+in that you're saying the silkworm is a beautiful, wonderful creature. Let us not modify it.
+
+46:33.760 --> 46:39.040
+Is that the idea or is it okay to modify a little bit as long as we can see that it benefits the
+
+46:39.040 --> 46:44.640
+organism as well as the final creation? So with silkworms, absolutely, let's not modify
+
+46:44.640 --> 46:52.800
+genetically. Let's not modify genetically. And then some, because why did we get there to begin
+
+46:52.800 --> 47:00.160
+with 4,000 years ago in the Silk Road? And we should never get to a point where we evolve life
+
+47:00.160 --> 47:08.640
+for the service of mankind at the risk of these wonderful creatures across the kingdom of life.
+
+47:08.640 --> 47:16.000
+I don't think about the same kind of ethical range when I think about bacteria.
+
+47:16.000 --> 47:18.480
+Nevertheless, bacteria are pretty wonderful organisms.
+
+47:18.480 --> 47:20.000
+I'm moving to my second cup here.
+
+47:20.960 --> 47:23.520
+Take two. Things are getting serious now.
+
+47:23.520 --> 47:25.760
+Bacteria are, yeah, for sure.
+
+47:25.760 --> 47:29.520
+Let's give bacteria all the love they deserve. We wouldn't be here without them. They were here for
+
+47:30.160 --> 47:32.480
+I don't know what it is, like a billion years before anything else showed up.
+
+47:32.480 --> 47:37.280
+But in a way, if you think about it, they create the matter that we consume and then
+
+47:40.080 --> 47:46.080
+reincarnates or dissolves into the soil and then creates a tree and then that tree creates more
+
+47:46.080 --> 47:51.840
+bacteria. And then that bacteria could, I mean, again, that's why I like to think about not
+
+47:51.840 --> 48:00.000
+recycling but reincarnating because that assumes a kind of imparting upon nature that dimension of
+
+48:00.000 --> 48:06.800
+agency and maybe awareness. But yeah, lots of really interesting work happening with bacteria.
+
+48:08.960 --> 48:14.480
+Directed evolution is one of them. We're looking at directed evolution, so high throughput directed
+
+48:14.480 --> 48:20.960
+evolution of bacteria for the production of products. And again, those products can be
+
+48:20.960 --> 48:27.440
+a shoe, wearables, biomaterials, therapeutics. And doing that direction computationally.
+
+48:27.520 --> 48:33.360
+Totally computationally, obviously, in the lab with the hero organism, the hero bacteria.
+
+48:35.280 --> 48:41.680
+And what's happening today in ecromicrobial synthetic biology, synthetic biology that
+
+48:41.680 --> 48:46.080
+lends itself to ecology. And again, all of these fields are coming together. It's such
+
+48:46.080 --> 48:50.880
+a wonderful time to be a designer. I can't think of a better time to be a designer in this world.
+
+48:51.520 --> 48:59.440
+But with high throughput directed evolution, and I should say that the physical space in our
+
+49:00.240 --> 49:06.800
+new lab will have these capsules which we have designed that are
+
+49:09.040 --> 49:15.280
+designed like growth chambers or grow rooms. And in those grow rooms, we can basically
+
+49:15.600 --> 49:22.240
+program top-down environmental templating, top-down environmental control of lights,
+
+49:22.240 --> 49:28.080
+humidity, light, etc. So light, humidity, and temperature while doing bottom-up genetic
+
+49:28.080 --> 49:34.400
+regulation. So it is a wet lab, but in that wet lab, you could do at the same time genetic
+
+49:34.400 --> 49:40.480
+modulation, regulation, and environmental templating. And then again, the idea is that
+
+49:40.480 --> 49:47.440
+in one of those capsules, maybe we grow transparent wood for architectural application. In another
+
+49:47.440 --> 49:54.720
+capsule, we grow a shoe. And in another capsule, we look at that large language model that we
+
+49:54.720 --> 49:58.320
+talked about. And there is a particular technology associated with that, which
+
+49:58.320 --> 50:04.400
+we're hoping to reveal to the world in February. And each of those capsules is basically a
+
+50:05.040 --> 50:11.760
+high-throughput computational environment, like a breadboard that has, think of sort of a physical
+
+50:11.760 --> 50:18.880
+breadboard environment that has access to oxygen and nitrogen and CO2 and nutritional dispensing.
+
+50:19.600 --> 50:26.960
+And these little capsules could be stressed. They're sort of an ecology in a box. And they
+
+50:26.960 --> 50:31.520
+could be stressed to produce the food of the future or the products of the future or the
+
+50:31.520 --> 50:37.440
+construction materials of the future. Food is a very interesting one, obviously because of food
+
+50:37.440 --> 50:43.920
+insecurity and the issues that we have around both in terms of food insecurity, but also in
+
+50:43.920 --> 50:49.120
+terms of the future of food and what will remain after we can't eat plants and animals anymore.
+
+50:49.120 --> 50:57.120
+And all we can eat is these false bananas and insects as our protein source. So there,
+
+50:57.120 --> 51:02.080
+we're thinking, you know, can we design these capsules to stress an environment and
+
+51:02.080 --> 51:09.680
+see how that environment behaves? Think about a kind of an ecological, a biodiversity chamber,
+
+51:09.680 --> 51:16.320
+right? A kind of a time capsule that is designed as a biodiversity chamber where you can program
+
+51:16.880 --> 51:23.680
+the exact temperature, humidity, and light combination to emulate the environment from
+
+51:23.680 --> 51:30.480
+the past. So Ohio, 1981, December 31st at 5 a.m. in the morning, what did tomatoes taste like?
+
+51:31.280 --> 51:37.440
+To all the way in the future, 200 years ago, these are the environmental inputs. These are some
+
+51:37.440 --> 51:42.720
+genetic regulations that I'm testing and what might be the food of the future or the products
+
+51:42.720 --> 51:48.320
+of the future or the construction materials of the future feel like, test like, behave like,
+
+51:48.320 --> 51:52.880
+etc. And so these capsules are designed as part of a lab. That's why it's been taking us such a long
+
+51:52.880 --> 51:59.280
+time to get to this point because we started designing them in 2019 and they're currently,
+
+51:59.280 --> 52:05.280
+literally as I speak to you, under construction. How well is it understood how to do this dance
+
+52:05.280 --> 52:10.000
+of controlling these different variables in order for various kinds of growth to happen?
+
+52:10.000 --> 52:14.560
+It's not. It's never been done before and these capsules have never been designed before. So,
+
+52:14.560 --> 52:18.960
+you know, when we first decided these are going to be environmental capsules, people thought we're
+
+52:18.960 --> 52:23.120
+crazy. What are you building? What are you making? So the answer is that we don't know,
+
+52:23.120 --> 52:28.640
+but we know that there has never been a space like this where you have basically a wet lab
+
+52:28.640 --> 52:38.400
+and a grow room at that resolution, at that granularity of control over organisms.
+
+52:40.000 --> 52:46.560
+There is a reason why there is this incredible evolution of products in the software space.
+
+52:47.040 --> 52:53.440
+And the hardware space, that's a more limiting space that because of the physical infrastructure
+
+52:53.440 --> 52:58.000
+that we have to test and experiment with things. So we really wanted to push on
+
+52:58.800 --> 53:04.000
+creating a wet lab that is novel in every possible way. What could you create in it?
+
+53:04.000 --> 53:12.640
+You could create the future. You could create an environment of plants talking to each other
+
+53:12.720 --> 53:20.800
+with a robotic referee. And the robotic referee, you know, and you could set an objective function.
+
+53:20.800 --> 53:30.480
+And let's say for the transaction driven individuals in the world, let's say their
+
+53:30.480 --> 53:40.640
+objective function is carbon sequestration. And all of those plants are implemented with a gaming
+
+53:40.640 --> 53:46.560
+engine and they have this reward system, right? And they're constantly needing to optimize the
+
+53:46.560 --> 53:52.800
+way in which they carbon sequest. We weed out the bad guys, we leave the good guys, and we end up
+
+53:52.800 --> 53:58.720
+with this like ideal ecology of carbon sequestering heroes that connect and communicate with each
+
+53:58.720 --> 54:05.360
+other. And once we have that model, this biodiversity chamber, we send it out into the field and we see
+
+54:05.360 --> 54:12.000
+what happens in nature. And that's sort of what I'm talking about, augmenting plants with that extra
+
+54:13.200 --> 54:22.720
+dimension of bandwidth that they do not have. Just last week, I came across a paper
+
+54:24.080 --> 54:34.000
+that discusses the in vivo neurons that are augmented with a pong game. And in a dish,
+
+54:34.000 --> 54:39.680
+they basically present sentience and the beginning of awareness, which is wonderful.
+
+54:40.560 --> 54:46.400
+That you could actually take these neurons from a mouse brain and you have the electrical circuits
+
+54:46.400 --> 54:53.600
+and the physiological circuits that enable these cells to connect and communicate and together
+
+54:53.600 --> 55:00.720
+arrive at sort of swarm situation that allows them to act as a system that is not only perceived to
+
+55:00.720 --> 55:06.880
+be sentient, but is actually sentient. Michael Levine calls this agential material, material
+
+55:06.880 --> 55:14.240
+that has agency, right? So this is of interest to us because this is sort of, again, this is
+
+55:14.240 --> 55:18.560
+emergence post-templating. You template until you don't need to template anymore because
+
+55:19.680 --> 55:24.720
+the system has its own rules, right? What we don't want to happen with AGI, we want to happen with
+
+55:24.720 --> 55:30.080
+synthetic biology. What we don't want to happen online and software with language, we want for it
+
+55:30.080 --> 55:35.520
+to happen with bio-based materials because that will get us closer to growing things as opposed
+
+55:35.520 --> 55:42.320
+to assembly and mechanically, yeah, putting them together with toxic materials and compounds.
+
+55:42.880 --> 55:47.040
+If I can ask a pothead question for a second. So you mentioned just like the silkworms,
+
+55:47.760 --> 55:54.240
+the individualist silkworms got to actually learn how to collaborate or actually to collaborate
+
+55:54.240 --> 55:59.600
+in a swarm-like way. You're talking about getting plants to communicate in some interesting way
+
+55:59.600 --> 56:06.720
+based on an objective function. Is it possible to have some kind of interface between another kind
+
+56:06.720 --> 56:14.080
+of organisms, humans, and nature? So like a human to have a conversation with a plant?
+
+56:14.640 --> 56:19.680
+There already is. You know that when we cut, freshly cut grass, I love the smell,
+
+56:20.800 --> 56:26.320
+but it's a smell of, actually it's a smell of distress that the leaves of grass are communicating
+
+56:26.320 --> 56:34.080
+to each other. So the grass when it's cut emits green leaf, volatiles, GLVs, and those GLVs are
+
+56:34.080 --> 56:39.280
+basically one leaf of grass communicating to another leaf of grass. Be careful, mind you,
+
+56:39.280 --> 56:44.640
+you're about to be cut. These incredible life forms are communicating using a different language
+
+56:44.640 --> 56:50.720
+than ours. We use language models, they use molecular models. At the moment where we can
+
+56:50.720 --> 56:57.120
+parse, we can decode these molecular moments is when we can start having a conversation with
+
+56:57.120 --> 57:02.400
+plants. Now of course there is a lot of work around plant neurobiology. It's a real thing.
+
+57:02.400 --> 57:10.240
+Plants do not have a nervous system, but they have something akin to a nervous system. It has a kind
+
+57:10.240 --> 57:15.920
+of an ecological intelligence that is focused on a particular time scale, and the time scale is very,
+
+57:15.920 --> 57:25.680
+very slow, slow, slow, slow time scale. So it is when we can melt these time scales and connect
+
+57:25.680 --> 57:31.760
+with these plants in terms of the content of the language, in this case molecules, the duration of
+
+57:31.760 --> 57:37.040
+the language, and we can start having a conversation, if not simply to understand what is happening in
+
+57:37.040 --> 57:42.160
+the plant kingdom. Precision agriculture, I promise to you, will look very, very different,
+
+57:42.560 --> 57:48.000
+because right now we're using drones to take photos of crops of corn that look bad,
+
+57:48.000 --> 57:54.000
+and when we take that photo it's already too late. But if we understand these molecular footprints
+
+57:54.000 --> 57:57.760
+and things that they are trying to say, the stress that they are trying to communicate,
+
+57:57.760 --> 58:04.080
+then we could of course predict the physiological, biological behavior of these crops, both for
+
+58:04.960 --> 58:11.920
+their own self-perpetuation, but also for the foods and the pharma and the type of molecules
+
+58:11.920 --> 58:17.760
+that we're seeking to grow for the benefit of humanity. And so these languages that we
+
+58:17.760 --> 58:24.160
+are attempting now to quantify and qualify will really help us not only better nature and help
+
+58:24.160 --> 58:34.800
+nature in its striving to surviving, but also help us design better wines and better foods and
+
+58:35.680 --> 58:41.440
+better medicine and better products, again, across all scales, across all application domains.
+
+58:41.440 --> 58:45.920
+Is there intricacies to understanding the time scales, like you mentioned, at which
+
+58:45.920 --> 58:53.280
+these communications, these languages operate? Is there something different between the way humans
+
+58:53.280 --> 58:57.280
+communicate and the way plants communicate in terms of time? Remember when we started the
+
+58:57.280 --> 59:03.760
+conversation talking about definitions in the context of design and then in the context of being?
+
+59:04.720 --> 59:12.880
+That question requires, I think, a kind of a shift, a humility. That requires a kind of a
+
+59:12.880 --> 59:18.720
+humility towards nature, understanding that it operates on different scales. We recently
+
+59:18.720 --> 59:26.080
+discovered that the molecular footprint of a rose or of a plant in general during nighttime
+
+59:26.080 --> 59:30.720
+is different than its molecular footprint during daytime. So these are circadian rhythms that are
+
+59:30.720 --> 59:39.040
+associated with what kind of molecules these plants emit, given stresses and given,
+
+59:40.720 --> 59:49.600
+there's a reason why the jasmine, a jasmine field smells so, so delicious at 4 a.m. in the morning
+
+59:49.600 --> 59:57.280
+and there's peace and rest amongst the plants. And you have to sort of tune into that
+
+59:57.760 --> 01:00:02.800
+time dimension of the plant kingdom. And that, of course, requires all this humility, where
+
+01:00:02.800 --> 01:00:10.160
+in a single capsule to design a biodiversity chamber will take years, not months, and definitely
+
+01:00:10.160 --> 01:00:18.640
+not days, and to see these products. And also that humility in design comes from simply looking at
+
+01:00:18.640 --> 01:00:24.400
+how we are today as a civilization, how we use and abuse nature. Like just think of all these
+
+01:00:25.360 --> 01:00:30.800
+Christmas trees, right? These Christmas trees, they take years to grow. We use them for one night,
+
+01:00:30.800 --> 01:00:37.520
+the holiest night of the year, and then we let them go. And think about in nature, to design a
+
+01:00:37.520 --> 01:00:44.880
+quote unquote product, an organism spends energy and time and thoughtfulness and many, many,
+
+01:00:44.880 --> 01:00:53.360
+many years, and I'm thinking about the redwoods, to grow these channels, these cellulose layers
+
+01:00:53.360 --> 01:00:59.120
+and channels and reach these incredible heights, takes sometimes hundreds of years, sometimes
+
+01:00:59.120 --> 01:01:05.120
+thousands of years. Am I afraid of building a company that designs products in the scale
+
+01:01:05.120 --> 01:01:12.320
+of thousands of years? No, I'm not. And the way of being in the physical world today
+
+01:01:13.440 --> 01:01:22.800
+is really not in tune with the time dimension of the natural world at all. And that needs to change
+
+01:01:22.800 --> 01:01:30.640
+and that's obviously very, very hard to do in a community of human beings that is,
+
+01:01:31.200 --> 01:01:36.720
+at least in the Western world, that is based on capitalism. And so here, the wonderful challenge
+
+01:01:36.720 --> 01:01:43.120
+that we have ahead of us is how do we impart upon the capitalist movement? We know that we need to
+
+01:01:43.120 --> 01:01:51.200
+produce now products that will enter the real world and be shared and used by others and still
+
+01:01:51.200 --> 01:01:55.680
+benefit the natural world while benefiting humans. And that's a wonderful challenge to have.
+
+01:01:55.680 --> 01:02:01.520
+So integrate technology with nature and that's a really difficult problem. I see Parallels here
+
+01:02:01.520 --> 01:02:07.120
+with another company of Neuralink, which is basically like you, I think you mentioned
+
+01:02:07.120 --> 01:02:15.680
+Neuralink for nature, that there are short-term products you can come up with, but it's ultimately
+
+01:02:15.680 --> 01:02:22.720
+a long-term challenge of how do you integrate the machine with this creation of nature, this
+
+01:02:22.720 --> 01:02:27.360
+intricate complex creation of nature, which is the human brain, and then you're speaking more
+
+01:02:27.360 --> 01:02:37.760
+generally nature. You know how every company has an image, like this one single image that embodies
+
+01:02:37.760 --> 01:02:45.600
+the spirit of the company. And I think for Neuralink, it was to me that chimpanzee playing
+
+01:02:45.600 --> 01:02:53.040
+a video game. It was just unbelievable. But with plants, there potentially is a set of molecules
+
+01:02:53.040 --> 01:03:01.520
+that impacts or inspires, I like that word, the plant to behave or act in a certain way
+
+01:03:02.400 --> 01:03:07.920
+and allows still the plant the possibility of deciding where it or she or he wants to go,
+
+01:03:09.920 --> 01:03:15.120
+which is why our first product for this molecular space is going to be a functionalized fragrance.
+
+01:03:15.760 --> 01:03:20.480
+So here we're thinking about the future of fragrances and the future of fragrances and
+
+01:03:20.480 --> 01:03:29.680
+flavors. You know, these products are in the industry as we know it today, are designed for
+
+01:03:29.680 --> 01:03:39.360
+totally human-centric use and enjoyment and indulgence and luxury. They're used on the body
+
+01:03:39.360 --> 01:03:48.480
+for the sake of attraction and feeling good and smelling good. And we were asking ourselves,
+
+01:03:48.480 --> 01:03:54.960
+is there a world in which a fragrance can be not a functional fragrance, because you could claim
+
+01:03:54.960 --> 01:03:59.360
+that all fragrances are functional, but is there a world in which the fragrance becomes
+
+01:03:59.360 --> 01:04:06.640
+functionalized is again, imparted upon or given agency to connect with another organism? Is there
+
+01:04:06.640 --> 01:04:13.120
+a world in which you and I can go down to your garden and use a perfume that will interact with
+
+01:04:13.120 --> 01:04:22.000
+the rose garden downstairs? I've just been enamored with the statements that are being made in the
+
+01:04:22.000 --> 01:04:28.560
+media around, oh, this is completely biologically derived fragrance and it's bio-based. But when
+
+01:04:28.560 --> 01:04:34.000
+you look into the fragrance and you understand that in order to get to this bio-derived fragrance,
+
+01:04:34.000 --> 01:04:42.640
+you went through, you blew through 10,000 bushes of rose to create five milliliters of a rose
+
+01:04:42.640 --> 01:04:48.720
+fragrance. And all these 10,000 bushes of rose, they take space, they take water management and
+
+01:04:49.520 --> 01:04:56.480
+so much waste. Is this really what we want the future of our agriculture and molecular goods
+
+01:04:56.480 --> 01:05:03.120
+to look like? And so when we did the Aguajaja Pavilion on the roof of Asif Moma, we calculated
+
+01:05:03.120 --> 01:05:07.600
+that for that pavilion, we had 40,000 calories embedded into this pavilion that was made of
+
+01:05:07.600 --> 01:05:15.840
+shrimp shells and chitosan and apple skins and cellulose from tree pulp. And we calculated that
+
+01:05:15.840 --> 01:05:20.480
+overall the structure had 40,000 calories. Interesting way to think about a structure
+
+01:05:21.280 --> 01:05:27.680
+from the point of view of calories. But as you left the gallery, you saw these three clocks that
+
+01:05:27.680 --> 01:05:32.960
+were so beautifully designed by Felix on our team and these clocks measured temperature and humidity
+
+01:05:32.960 --> 01:05:38.960
+and we connected them to a weather channel so that we could directly look at how the pavilion was
+
+01:05:38.960 --> 01:05:46.400
+biodegrading in real time. And in our calculations, I say this long-winded description
+
+01:05:46.400 --> 01:05:54.400
+of the pavilion to say that in the calculation, we incorporated how much electricity we used for
+
+01:05:54.400 --> 01:06:00.080
+our computers, for the 3D printers that printed the pavilion. And these were called energy
+
+01:06:00.080 --> 01:06:04.560
+calculations, energy and materials. And when you think about a product and you think about
+
+01:06:05.280 --> 01:06:12.960
+a shoe or a chair or a perfume or a building, you don't stop at the object. You want to go
+
+01:06:12.960 --> 01:06:19.200
+all the way to the system. Again, instead of designing objects or singular embodiments of
+
+01:06:20.480 --> 01:06:26.720
+the will of the designer, you're really tabbing into an entire system that is interconnected.
+
+01:06:26.720 --> 01:06:31.040
+And if you look at the energy budget that characterized the Project Aguaja,
+
+01:06:31.040 --> 01:06:35.680
+it traverses the entire planet, right? Some of these shrimp shells were brought from
+
+01:06:36.800 --> 01:06:41.040
+places in the world we haven't thought of in terms of the apples and the shrimp shells and
+
+01:06:41.040 --> 01:06:51.040
+the tree pulp. And so going back to fragrances, it's really, really important to understand
+
+01:06:51.040 --> 01:06:56.000
+the product in the context of the ecological system from which it's sourced and how it's
+
+01:06:56.000 --> 01:07:02.720
+designed. And that is the kind of thinking that is not only desired, but is required
+
+01:07:02.720 --> 01:07:06.320
+if we are to achieve synergy between humanity and nature.
+
+01:07:06.320 --> 01:07:09.680
+And it's interesting because the system-level thinking is almost always going to take you to
+
+01:07:09.680 --> 01:07:12.880
+the entire earth to consider in the entire earth ecosystem.
+
+01:07:12.880 --> 01:07:16.480
+Which is why it's important to have a left brain and a right brain competing for attention.
+
+01:07:18.000 --> 01:07:18.720
+And intimacy.
+
+01:07:19.440 --> 01:07:27.760
+Yes, you mentioned a fragrance that kind of sends out a message to the environment, essentially.
+
+01:07:27.760 --> 01:07:29.040
+A message in a bottle, yeah.
+
+01:07:29.040 --> 01:07:32.720
+A message in a bottle. So like, so you can go to a rose garden
+
+01:07:32.720 --> 01:07:34.720
+and trick the rose garden to think it's 4 a.m.?
+
+01:07:35.840 --> 01:07:38.400
+You could if you wanted to, but maybe that is-
+
+01:07:38.400 --> 01:07:40.560
+Not trick. Trick is such a bad word.
+
+01:07:40.560 --> 01:07:41.040
+Right.
+
+01:07:41.040 --> 01:07:42.000
+Inspire.
+
+01:07:42.000 --> 01:07:48.560
+But inspire I like. I like the idea of providing nature with a choice, which is why I love that
+
+01:07:48.560 --> 01:07:53.120
+elegant mathematical equation of empowerment and agency.
+
+01:07:53.120 --> 01:08:00.080
+Empower the rose garden to create a romantic moment for the wearer of the fragrance.
+
+01:08:00.080 --> 01:08:08.160
+But now again, you're again, all of this to go back to that human-centric notion of romance.
+
+01:08:08.160 --> 01:08:16.400
+But maybe there's another way to do romance, right? That we haven't yet explored. And maybe
+
+01:08:17.360 --> 01:08:21.680
+you know, there is a way to tap into what happens to the rose when it's dreaming.
+
+01:08:22.240 --> 01:08:27.280
+Assuming that plants are sentient and assuming that we can tap into that sentience,
+
+01:08:27.920 --> 01:08:31.600
+what can we discover about what does the rose want?
+
+01:08:31.600 --> 01:08:41.600
+Like, what does it actually want? And what does it need? And what are the roses, you know, dreams?
+
+01:08:41.600 --> 01:08:44.640
+But do you think there's some correlation in terms of romance,
+
+01:08:44.640 --> 01:08:46.800
+in terms of the word you sometimes use, magic?
+
+01:08:48.400 --> 01:08:53.840
+Is there some similarities in what humans want and what roses want and what nature wants?
+
+01:08:53.840 --> 01:08:58.000
+I think so. I think there is. And if I did not think so, oh my goodness,
+
+01:08:58.000 --> 01:09:03.440
+this would not be a nice world to live in. I think we all want love.
+
+01:09:05.200 --> 01:09:10.960
+I recently read this beautiful letter that was written by Einstein to his daughter
+
+01:09:11.600 --> 01:09:18.080
+and was discovered. Einstein asked his daughter to wait 20 years until she reveals these letters.
+
+01:09:18.080 --> 01:09:23.120
+And so she did. It's just one of the most beautiful letters I've ever read from a father
+
+01:09:23.120 --> 01:09:31.600
+to his daughter. And the letter overall is imbued with a kind of a sense of remorse or
+
+01:09:32.640 --> 01:09:39.360
+maybe even feelings of sadness. And there is some kind of melancholy note in the letter
+
+01:09:40.080 --> 01:09:46.400
+where Einstein regrets not having spent enough time with his daughter, having focused on the
+
+01:09:46.400 --> 01:09:51.520
+theory of general relativity and changing the world. And then he goes on to talk about this
+
+01:09:51.520 --> 01:09:58.400
+beautiful and elegant equation of E equals MC square. And he tells his daughter that he believes
+
+01:09:58.400 --> 01:10:04.560
+that love is actually the force that shapes the universe because it is like gravity, right? It
+
+01:10:04.560 --> 01:10:09.920
+attracts people. It is like light. It brings people together and connects between people.
+
+01:10:10.800 --> 01:10:17.040
+And it's all empowering. And so if you multiply it by the speed of light, you could really
+
+01:10:17.760 --> 01:10:22.640
+change the world for the better. And call me a romanticist. I know you are too,
+
+01:10:24.320 --> 01:10:30.880
+which is why I so love being here. I believe in this. I totally and utterly
+
+01:10:30.880 --> 01:10:34.480
+believe in love.
+
+01:10:34.480 --> 01:10:39.680
+In love. By the way, let me just excerpt from Einstein's letter. There's an extremely
+
+01:10:39.680 --> 01:10:46.160
+powerful force that so far science has not found a formal explanation to. It is a force that includes
+
+01:10:46.160 --> 01:10:51.440
+and governs all others and is even behind any phenomena operating in the universe and has not
+
+01:10:51.440 --> 01:10:59.040
+yet been identified by us. This universal force is love. He also, the last paragraph in the letter,
+
+01:10:59.040 --> 01:11:03.760
+as you've mentioned, I deeply regret not having been able to express what is in my heart,
+
+01:11:04.400 --> 01:11:11.680
+which has quietly beaten for you all my life. Maybe it's too late to apologize, but his time
+
+01:11:11.680 --> 01:11:19.040
+is relative. That jokes through Einstein. I need to tell you that I love you. And thanks to you,
+
+01:11:19.040 --> 01:11:23.440
+I've reached the ultimate answer. Your father, Albert Einstein.
+
+01:11:23.440 --> 01:11:24.000
+Yeah.
+
+01:11:24.960 --> 01:11:29.120
+I deeply regret not having been able to express what is in my heart.
+
+01:11:31.920 --> 01:11:39.120
+Maybe that's a universal regret. Filling your days with busyness and silly pursuits
+
+01:11:39.120 --> 01:11:43.440
+and not sitting down and expressing that.
+
+01:11:43.440 --> 01:11:50.960
+But it is everything. It is everything. It is why I love that expression. And I forget
+
+01:11:50.960 --> 01:12:03.440
+who said this, but I love my daughter more than evolution required. And I feel the same way towards
+
+01:12:04.560 --> 01:12:12.160
+my other half. And I feel that when you find that connection, everything and anything is possible.
+
+01:12:12.240 --> 01:12:24.640
+And it's a very, very, very magical moment. So I believe in love, and I believe in the one.
+
+01:12:27.680 --> 01:12:31.680
+It might be the same thing, it might be a different thing, but let me ask you a ridiculously big
+
+01:12:31.680 --> 01:12:38.240
+philosophical question about beauty. Dostoevsky said beauty will save the world in The Idiot,
+
+01:12:38.240 --> 01:12:46.160
+one of my favorite books of his. What is beauty to you? You've created through this intersection of
+
+01:12:46.160 --> 01:12:52.160
+engineering and nature, you've created some incredibly beautiful things. What do you think
+
+01:12:52.160 --> 01:12:56.240
+is beauty? That's a beautiful question.
+
+01:12:57.440 --> 01:12:59.360
+Maybe it is connected to the love question.
+
+01:12:59.360 --> 01:13:03.200
+It is connected to the love question. Of course, everything is connected to the love question.
+
+01:13:03.200 --> 01:13:15.120
+To me, beauty is agency. To me, something that has agency, it is beautiful. There is this
+
+01:13:15.680 --> 01:13:21.360
+special quote from Buckminster Fuller, which I cannot remember word for word, but I remember
+
+01:13:21.360 --> 01:13:28.640
+the concept, which goes something like this. When I work on a problem, I never think about beauty.
+
+01:13:29.120 --> 01:13:34.480
+But when I'm done solving the problem and I look at what I've created and it's not beautiful,
+
+01:13:34.480 --> 01:13:45.040
+I know that I was wrong. It's kind of an agency that speaks to the objective function of the
+
+01:13:45.040 --> 01:13:48.880
+creation, whether for Bucky it's useless or useful.
+
+01:13:48.880 --> 01:13:52.320
+So this idea of empowerment that you talked about is fundamentally connected to it.
+
+01:13:52.320 --> 01:13:53.920
+Comes back to that, yeah.
+
+01:13:53.920 --> 01:13:59.520
+What's the difference that you hinted at between empowerment and emergence?
+
+01:14:00.160 --> 01:14:10.320
+Is emergence completely lacks control? And empowerment is more controlled?
+
+01:14:11.520 --> 01:14:16.640
+There's an agent making decisions? Is there an interesting distinction there?
+
+01:14:16.640 --> 01:14:22.880
+Yes. I think empowerment is a force with direction. It has directionality to it.
+
+01:14:24.000 --> 01:14:30.320
+Emergence is, I believe, multi-directional. Again, that depends on the application.
+
+01:14:31.040 --> 01:14:37.120
+Emergence is perhaps, in terms of sort of a material definition, is a tropic spirit.
+
+01:14:40.000 --> 01:14:48.560
+The end is a tropic counterpart. I think they overlap because I think that
+
+01:14:48.560 --> 01:15:01.440
+empowerment is a way of inspiring emergence. I think emergence does not happen without
+
+01:15:01.440 --> 01:15:04.800
+empowerment, but empowerment can happen without emergence.
+
+01:15:05.440 --> 01:15:10.000
+Do you think of emergence as the loss of control? When you're thinking about these capsules
+
+01:15:10.080 --> 01:15:18.960
+and the things they create, is emergence a thing that is not a desirable conclusion?
+
+01:15:18.960 --> 01:15:25.280
+I love that question because to some of us, the loss of control is control.
+
+01:15:26.400 --> 01:15:32.480
+In design, we're used to extreme levels of control over form and the shape of a thing,
+
+01:15:32.480 --> 01:15:37.360
+and how it behaves, and how it functions. And that's something we've inherited from
+
+01:15:37.360 --> 01:15:46.400
+the Industrial Revolution. But with nature, there's this diversity that happens
+
+01:15:47.200 --> 01:15:52.240
+without necessarily having a reward function. This is good or bad. Things just happen,
+
+01:15:52.240 --> 01:15:55.840
+and some of them happen to have wings, and some of them happen to have scales.
+
+01:15:57.520 --> 01:16:05.680
+You end up with this incredible potential for diversity. I think the future of design is in
+
+01:16:05.680 --> 01:16:14.080
+that soft control, is in the ability to design highly controlled systems that enable the loss
+
+01:16:14.080 --> 01:16:21.600
+of control. Creativity is very much part of this because creativity is all about letting go
+
+01:16:23.360 --> 01:16:28.560
+and beginning again, and beginning again, beginning again. When you cannot let go,
+
+01:16:28.560 --> 01:16:35.120
+you cannot be creative, and you can't find novelty. But I think that letting go
+
+01:16:35.760 --> 01:16:43.360
+is a moment that enables empowerment, agency, creativity, emergence, and they're all connected.
+
+01:16:43.360 --> 01:16:50.480
+They associate themselves with the definition of destiny or the inevitable. A good friend of mine
+
+01:16:51.200 --> 01:16:59.360
+shared with me the elegant definition of fate, which is the ratio of who you are and who you
+
+01:16:59.360 --> 01:17:07.200
+want to be. Ratio of who you are, who you want to be. Exactly, and that ends up defining you.
+
+01:17:08.320 --> 01:17:16.640
+Those tools, I think, when you let go, you give peace to your will, to a sense of will.
+
+01:17:18.720 --> 01:17:22.720
+I think that's very, very important in design, but also in life.
+
+01:17:23.600 --> 01:17:28.560
+She said this fate is the ratio of who you are and who you want to be.
+
+01:17:30.000 --> 01:17:34.640
+Do you think there's something to this whole manifestation thing, like focusing on a vision
+
+01:17:34.640 --> 01:17:42.480
+of what you want the world to become, and in that focusing, you manifest it? Like Paola Coelho said
+
+01:17:42.480 --> 01:17:46.640
+in The Alchemist, when you want something, all the universe conspires in helping you to achieve it.
+
+01:17:47.200 --> 01:17:48.560
+Is there something to that?
+
+01:17:48.560 --> 01:17:56.960
+I think so, yes. I always think of what I do as the culmination of energy, information, and matter,
+
+01:17:57.920 --> 01:18:03.920
+and how to direct energy, information, and matter in the design of a thing or in the design of a
+
+01:18:03.920 --> 01:18:12.320
+life. I think living is very much a process of channeling these energies to where they need to
+
+01:18:12.320 --> 01:18:20.000
+go. I think that the manifestation or part of that manifestation is the pointing to the moon in
+
+01:18:20.000 --> 01:18:25.760
+order to get to the moon, and that's why manifestation is also directional. It has that
+
+01:18:25.760 --> 01:18:33.680
+vector quality to it that I think of agency as. Have you, in your own life, has there been things
+
+01:18:33.680 --> 01:18:40.560
+you've done where you kind of direct that energy, information, and matter in a way that opens up
+
+01:18:41.200 --> 01:18:42.000
+new possibilities?
+
+01:18:42.000 --> 01:18:46.960
+Yeah. I mean, you've also said somewhere, I'm probably misquoting, that
+
+01:18:49.920 --> 01:18:55.760
+many things, you and Ari are many things, and you become new things every 10 years or so.
+
+01:18:55.760 --> 01:18:57.440
+Oh, I did say that somewhere.
+
+01:18:57.440 --> 01:18:58.080
+Somewhere.
+
+01:18:58.080 --> 01:18:59.920
+That every decade you sort of switch.
+
+01:19:00.720 --> 01:19:02.960
+That was a previous scenario that said that.
+
+01:19:02.960 --> 01:19:07.520
+Yeah, I did say some time ago that you have to sort of reboot every 10 years
+
+01:19:08.080 --> 01:19:12.080
+to keep creative and keep inventive and keep fresh.
+
+01:19:12.080 --> 01:19:16.400
+Is there things you've done in your life where just kind of doors opened?
+
+01:19:19.920 --> 01:19:29.120
+I think everything, everything, everything good I've found in my life has been found in that way of
+
+01:19:29.120 --> 01:19:36.480
+letting go and suspending my sense of disbelief. And often you will find me say to the team,
+
+01:19:36.480 --> 01:19:42.720
+suspend your disbelief. I don't care that this is impossible. Let's assume it is. Where does it take
+
+01:19:42.720 --> 01:19:50.720
+us? And that suspension of disbelief is absolutely part and parcel of the creative act. You know,
+
+01:19:50.960 --> 01:20:03.840
+act. You know, I did so when I was in medical school. I was in Hadassah and in the Hebrew
+
+01:20:03.840 --> 01:20:12.880
+University. And I remember I left medical school for architecture the day my grandmother passed
+
+01:20:12.880 --> 01:20:19.040
+away. And that was a moment of relief. And that was a door that was closing that opened other
+
+01:20:19.040 --> 01:20:25.680
+opportunities. But that, of course, required letting go of the great vision of becoming a
+
+01:20:25.680 --> 01:20:33.280
+doctor and letting go of the dream of being surrounded by wonderful patients and the science
+
+01:20:33.280 --> 01:20:38.240
+of medicine and the research associated with that science and letting go of that dream
+
+01:20:39.440 --> 01:20:48.640
+to accomplish another. And it has happened throughout my life in different ways. MIT was
+
+01:20:48.640 --> 01:20:56.640
+another experience like that where people pointed at me as the designer for whom the
+
+01:20:56.640 --> 01:21:03.280
+academic currency is not necessarily the citation index. And of course, in order to get tenure at
+
+01:21:03.280 --> 01:21:11.040
+MIT, you have to look at the citation index. But for me, it was not that. It was manifesting our
+
+01:21:11.040 --> 01:21:17.600
+work in shows and writing papers and writing patents and creating a celebration around the
+
+01:21:17.600 --> 01:21:26.480
+work. And I never saw a distinction between those ways of being. I also think that another
+
+01:21:28.320 --> 01:21:35.600
+kind of way of being or a modality of being that I found helpful is Victor Frenkel wrote this
+
+01:21:35.600 --> 01:21:41.200
+incredible book, Man's Search for Meaning after the Holocaust. And he writes different people
+
+01:21:41.920 --> 01:21:50.160
+pursue life for different reasons. According to Freud, the goal of life is to find pleasure,
+
+01:21:50.160 --> 01:21:58.400
+and according to Adler, it's to find power. And for Victor Frenkel, it was about finding meaning.
+
+01:21:59.360 --> 01:22:04.880
+And when you let go of the titles and the disciplines and the boundaries and the
+
+01:22:04.880 --> 01:22:14.480
+expectations and the perception, you are elevated to this really special spiritual,
+
+01:22:14.480 --> 01:22:23.280
+but definitely very, very creative plane where you can sort of start anew and look at the world
+
+01:22:23.280 --> 01:22:30.720
+through the lens of a bacterium or a robot or look at ecology through the lens of chemistry
+
+01:22:30.720 --> 01:22:34.000
+and look at chemistry through the lens of robotics and look at robotics through the lens of
+
+01:22:35.600 --> 01:22:40.800
+microbial ecologies and so on and so forth. And I feel that kind of rebooting,
+
+01:22:41.840 --> 01:22:48.560
+not every 10 years, but every minute, every breath is very, very important for a creative life and
+
+01:22:49.120 --> 01:22:56.240
+for just maintaining this fresh mind to reboot, to begin again with every breath,
+
+01:22:56.240 --> 01:23:04.160
+begin again. And that can be confusing for some. For my team members, I like to change my mind,
+
+01:23:04.160 --> 01:23:13.280
+it's who I am, it's how I think, it's how I operate. And they'll come and we found another
+
+01:23:13.280 --> 01:23:18.320
+technique or another technology that's interesting. And we thought that we were working on this
+
+01:23:18.320 --> 01:23:22.480
+functionalized fragrance, but now there's another opportunity and let's go there. And to me,
+
+01:23:24.080 --> 01:23:31.200
+I would much rather live life like if I had to pick sort of my favorite Broadway show
+
+01:23:31.440 --> 01:23:38.560
+to enter and live through, it would be Into the Woods. It's not a specific fairy tale, it's not
+
+01:23:39.760 --> 01:23:47.920
+the Sleeping Beauty or Little Red Riding Hood or Rapunzel, it's all of them. It's sort of moving
+
+01:23:47.920 --> 01:23:52.560
+into the forest and seeing this wonder and getting close and learning about that and then moving to
+
+01:23:52.560 --> 01:23:59.920
+another wonder. And life is really about tying all of these little fairy tales together,
+
+01:24:00.080 --> 01:24:06.160
+together in work and also in life. Unafraid to leap into the unknown?
+
+01:24:06.160 --> 01:24:12.160
+Unafraid to leap into the unknown. Speaking of MIT, you got a tenure at MIT and then you leaped
+
+01:24:13.920 --> 01:24:19.120
+to New York and started a new company with a vision that doesn't span a couple of years,
+
+01:24:19.120 --> 01:24:26.880
+but centuries. I did. It was my destiny to start a company. And do I have mornings when I wake up
+
+01:24:26.880 --> 01:24:31.200
+and I ask myself, what the hell am I doing? Yes, I have those mornings.
+
+01:24:31.200 --> 01:24:37.440
+What do you do with those mornings by the way? I embrace them and I find gratitude and I say
+
+01:24:37.440 --> 01:24:46.480
+to myself, thank goodness, I'm so lucky to have the ability to be frustrated in this way.
+
+01:24:47.360 --> 01:24:58.480
+So I really, really embrace these frustrations and I take them, I wrap them in a bubble and I look
+
+01:24:58.480 --> 01:25:08.720
+at it on the outside of my aware mind and I laugh at them, I smile at them.
+
+01:25:11.040 --> 01:25:15.440
+If I could return actually to the question of beauty for a second, I forgot to ask you
+
+01:25:15.440 --> 01:25:23.360
+something. You mentioned imperfection in the death masks. What role does imperfection play in
+
+01:25:24.880 --> 01:25:32.640
+our conception of beauty? What role does imperfection play in nature? There's this
+
+01:25:32.640 --> 01:25:41.280
+Japanese aesthetics concept of wabi-sabi which basically embraces imperfection. Nothing lasts,
+
+01:25:41.280 --> 01:25:45.280
+nothing is finished and nothing is perfect. What do you think of that?
+
+01:25:45.280 --> 01:25:52.880
+I totally agree that change is the only permanence, that imperfection is there
+
+01:25:52.880 --> 01:26:00.320
+if only to signal that we are part of a bigger thing than ourselves, that we are on a
+
+01:26:00.320 --> 01:26:12.160
+journey, that things are in movement and if they were perfect, of course when things are perfect,
+
+01:26:12.160 --> 01:26:18.000
+it is just so boring. We end up with stereotypes and as humans, but I think just in general as
+
+01:26:18.000 --> 01:26:24.160
+living beings, we're here to find meaning and that meaning cannot be found without struggle and
+
+01:26:24.160 --> 01:26:32.800
+without seeking to, not to perfect, but to build towards something better. When I was a child,
+
+01:26:33.760 --> 01:26:41.120
+my mother who I love so much always explained to me how important it is to fall and to fail and
+
+01:26:41.120 --> 01:26:52.080
+to fight and to argue and that there is a way, that there is a culture to failing and to
+
+01:26:52.080 --> 01:27:02.000
+imperfection. So I think it is necessary for something beautiful to be imperfect
+
+01:27:02.640 --> 01:27:08.240
+and it is a sign of nature because nothing in nature is perfect.
+
+01:27:09.280 --> 01:27:14.720
+What about human relations? You mentioned finding love. Are the flaws in humans,
+
+01:27:14.720 --> 01:27:20.720
+the imperfection in humans a component of love? What role do you think the flaws play?
+
+01:27:23.040 --> 01:27:33.840
+That's a really profound question. I think the flaws are there to
+
+01:27:33.840 --> 01:27:51.120
+present a vulnerability and those flaws are a sign of those vulnerabilities.
+
+01:27:52.080 --> 01:28:04.080
+I think love is very, very gentle. With Bill, we often talk between the two of us about what drives
+
+01:28:04.080 --> 01:28:10.720
+all human behavior and for him, it's incentive, as you might expect. He will repeat this sentence
+
+01:28:10.720 --> 01:28:18.080
+to me, incentive drives all human behavior, but I would say to me it's love, very much so.
+
+01:28:18.640 --> 01:28:25.360
+I think flaws are part of that because flaws are a sign of that vulnerability, whether physical,
+
+01:28:25.360 --> 01:28:30.960
+whether emotional vulnerability, and these vulnerabilities, they either tear us apart or
+
+01:28:30.960 --> 01:28:38.960
+they bring us together. The vulnerability is what is the glue, I think. I think that
+
+01:28:38.960 --> 01:28:45.120
+the vulnerability enables connection. The connection is the glue and that connection is
+
+01:28:45.600 --> 01:28:52.800
+the glue. That connection enables accessing a higher ground as a community as opposed to
+
+01:28:52.800 --> 01:28:58.640
+as an individual. If there is a society over the mind or if there are higher levels of awareness
+
+01:28:58.640 --> 01:29:06.240
+that can be accessed in community as opposed to, again, going to the silkworm, as opposed to on
+
+01:29:06.240 --> 01:29:12.720
+the individual level, I think those occur through the flaws and the vulnerabilities. Without them,
+
+01:29:13.680 --> 01:29:20.800
+we cannot find connection, community, and without community, we can't build what we have built as a
+
+01:29:20.800 --> 01:29:26.880
+civilization for the past hundreds of thousands of years. I think not only are they beautiful,
+
+01:29:26.880 --> 01:29:31.760
+but they have a functional role in building civilizations.
+
+01:29:33.280 --> 01:29:38.320
+There's a sense in which love requires vulnerability and maybe love is the leap
+
+01:29:38.320 --> 01:29:47.840
+into that vulnerability. I think, yes. I think a flaw, think about it physically. I'm thinking
+
+01:29:47.840 --> 01:29:56.080
+about a brick that's flawed, but in a way, I think of a flaw as an increased surface area.
+
+01:30:00.080 --> 01:30:02.880
+God, that's a good line. That's a good line.
+
+01:30:02.960 --> 01:30:10.560
+A surface area that physically or emotionally, it introduces this whole new dimension to a human
+
+01:30:10.560 --> 01:30:17.120
+or a brick. Because you have more surface area, you can use mortar and build a home.
+
+01:30:18.320 --> 01:30:24.080
+I think of it as accessing this additional dimension of surface area that could be used
+
+01:30:24.160 --> 01:30:30.640
+for good or bad, right? To connect, to communicate, to collaborate.
+
+01:30:31.440 --> 01:30:37.120
+It makes me think of that quote from this incredible movie I've watched years ago,
+
+01:30:38.720 --> 01:30:43.440
+Particle Fever, I think it was called, a documentary about the Large Hydron Collider,
+
+01:30:43.440 --> 01:30:49.360
+an incredible film where they talk about the things that are least important for our survival
+
+01:30:49.360 --> 01:30:57.440
+are the things that make us human, like the pure romantic act or the notion of,
+
+01:30:58.640 --> 01:31:07.360
+and Viktor Frankl talks about that too. He talks about feeling the sun on his arms as he is
+
+01:31:07.360 --> 01:31:22.160
+working the soil in two degrees Fahrenheit without clothes. And the officer berates him and says,
+
+01:31:22.160 --> 01:31:28.080
+what have you done? Have you been a businessman before you came here to the camp? And he says,
+
+01:31:28.080 --> 01:31:31.920
+I was a doctor. And he said, you must have made a lot of money as a doctor. And he said,
+
+01:31:32.480 --> 01:31:46.400
+all my work I've done for free. I've been helping the poor. But he keeps his humility and he keeps
+
+01:31:46.400 --> 01:31:58.000
+his modesty and he keeps his preservation of the spirit. And he says the things that actually make
+
+01:31:58.000 --> 01:32:10.240
+him able to outlive the terrible experience in the Holocaust was really cherishing this moment
+
+01:32:10.240 --> 01:32:18.560
+when the sun hits his skin or when he can eat a grain of rice, a single grain of rice. So I think
+
+01:32:18.560 --> 01:32:28.240
+I think cherishing is a very important part of living a meaningful life, being able to cherish
+
+01:32:28.240 --> 01:32:31.840
+those simple things. Like to notice them and to-
+
+01:32:31.840 --> 01:32:39.840
+To notice them, to pay attention to them in the moment. And I do this now more than ever.
+
+01:32:40.720 --> 01:32:44.480
+I mean, there is some- Bukowski has this poem I like called Nirvana,
+
+01:32:44.480 --> 01:32:51.600
+where it tells the story of a young man on a bus going through North Carolina or something like
+
+01:32:51.600 --> 01:32:59.040
+this and they stop off in a cafe and he has this, there's a waitress and he talks about that he
+
+01:32:59.040 --> 01:33:05.360
+notices the magic, something indescribable, he just notices the magic of it. And he gets back on the
+
+01:33:05.360 --> 01:33:12.400
+bus with the rest of the passengers and none of them seem to have noticed the magic. And I think
+
+01:33:12.400 --> 01:33:19.680
+if you just allow yourself to pause and just to feel whatever that is, maybe ultimately it's a
+
+01:33:19.680 --> 01:33:30.240
+kind of gratitude for, I don't know what it is. I'm sure it's just chemicals in the brain, but it's
+
+01:33:30.240 --> 01:33:37.520
+just so incredible to be alive and noticing that and appreciating that and being one in that with
+
+01:33:37.520 --> 01:33:48.080
+others. Yes, yes. And that goes back to the fireplace, to the first technology. What was
+
+01:33:48.080 --> 01:33:55.440
+the first technology? It was fire. First technology to have built community and it emerged out of a
+
+01:33:55.440 --> 01:34:04.160
+vulnerability of wanting to stay away from the cold and be warm together. And of course that fire is
+
+01:34:04.160 --> 01:34:14.080
+associated not only with comfort and the ability to form biorelevant nutrients in our food and
+
+01:34:17.280 --> 01:34:27.840
+provide heat and comfort, but also spirits and a kind of a way to enter a spiritual moment,
+
+01:34:27.840 --> 01:34:38.400
+to enter a moment that can only be experienced in a community as a form of a meditative moment.
+
+01:34:39.520 --> 01:34:49.200
+There is a lot to be said about light. Light is, I think, an important part of these moments of,
+
+01:34:49.520 --> 01:34:59.200
+I think it's a real thing. I really truly believe that we're born with an aura, surface area that
+
+01:34:59.200 --> 01:35:12.720
+is measurable. I think we're born into the world with an aura. And how do we channel that is really,
+
+01:35:12.720 --> 01:35:21.280
+channel that ends up defining the light in our lives?
+
+01:35:22.960 --> 01:35:26.720
+Do you think we're all lonely? Do you think there's loneliness in us humans?
+
+01:35:26.720 --> 01:35:33.360
+Oh yes, yes. Loneliness is part, yes. I think we all have that loneliness, whether we're willing to
+
+01:35:34.000 --> 01:35:38.880
+access that loneliness and look at it in the eye or completely,
+
+01:35:41.440 --> 01:35:47.280
+you know, completely avoid it or deny it. It's like, it feels like it's some kind of foundation
+
+01:35:47.280 --> 01:35:54.960
+for longing and longing leads to this combination of vulnerability and connection with others.
+
+01:35:56.000 --> 01:35:59.440
+It feels like that's a really important part of being human is being lonely.
+
+01:35:59.440 --> 01:36:06.640
+Very, it's very, we are born into this world alone. Again, being alone and being lonely are
+
+01:36:07.200 --> 01:36:13.040
+two different things, right? You can be together but be lonely and you can be alone but not be
+
+01:36:13.040 --> 01:36:20.800
+lonely at all. We often joke, Bill and I, that he cannot be lonely. He cannot deal with being
+
+01:36:20.800 --> 01:36:28.480
+by himself. He always needs people around him. And I strive long, must have creative solitude, must
+
+01:36:28.480 --> 01:36:36.400
+find pockets of solitude and loneliness in order to find creativity and reconnect with myself.
+
+01:36:37.680 --> 01:36:45.200
+So loneliness is a recipe for community in my opinion. And I think those things complement
+
+01:36:45.200 --> 01:36:55.520
+each other and they're synergetic. Absolutely. The yin and yang of togetherness. And they allow you,
+
+01:36:55.520 --> 01:37:05.360
+I think, to reset and to tune in to that ratio we talked about of who you are and who you want
+
+01:37:05.360 --> 01:37:11.680
+to be. If you go to this place of creative solitude, what's your creative process?
+
+01:37:12.480 --> 01:37:17.760
+Is there something you've noticed about what you do that leads to good work?
+
+01:37:18.720 --> 01:37:25.920
+I love to be able not only to lose focus but kind of to focus on the peripheral view
+
+01:37:26.800 --> 01:37:33.520
+and to allow different things to occur at once. So I will often in my loneliness journeys,
+
+01:37:33.520 --> 01:37:41.040
+I will often listen to like Leonard Bernstein, anything I can find online by Lenny Bernstein.
+
+01:37:41.040 --> 01:37:47.440
+It's reading a nature paper. It's war and peace. It's really revisiting all the texts that are so
+
+01:37:47.440 --> 01:37:53.360
+timeless for me with opportunities that are very, very timely. And I think for me, the creative
+
+01:37:53.360 --> 01:38:03.520
+process is really about bringing timeless problems or concepts together with timely technologies
+
+01:38:04.480 --> 01:38:09.920
+to observe them. I remember when we did the Mandela Pavilion, we read Moby Dick,
+
+01:38:09.920 --> 01:38:16.400
+the whiteness of the whale, the albino, the different, the other. And that got us to work
+
+01:38:16.400 --> 01:38:20.880
+on Melanin. And Melanin also was sort of an output from the death mass. So it's lots of
+
+01:38:20.880 --> 01:38:29.280
+things happening at the same time and really allowing them to come together to form this
+
+01:38:29.280 --> 01:38:37.040
+view about the world through the lens of a spirit being or a living being or a material
+
+01:38:37.680 --> 01:38:41.200
+and then focus on the world through the lens of that material.
+
+01:38:41.200 --> 01:38:46.160
+The glass work was another project like that where we were fascinated by glass because
+
+01:38:46.720 --> 01:38:53.600
+obviously it's superb material for architecture. But we created this new glass printing technology
+
+01:38:53.600 --> 01:38:59.520
+for the first time that was shedding light on the biomechanics of fluid glass, the math and
+
+01:38:59.520 --> 01:39:05.360
+the physics of which was never done before, which was so exciting to us. But revealing new knowledge
+
+01:39:05.360 --> 01:39:11.920
+about the world through technology, that's one theme. The reincarnation between things,
+
+01:39:11.920 --> 01:39:17.840
+material and immaterial, that's another theme. Lenny Bernstein, War and Peace, Tolstoy.
+
+01:39:18.560 --> 01:39:24.240
+You've tweeted a Tolstoy quote from War and Peace, as of course you would.
+
+01:39:24.800 --> 01:39:28.560
+Everything I know, I know because of love. Yeah, I love this quote.
+
+01:39:28.560 --> 01:39:38.560
+So you use these kind of inspirations to focus you and then find the actual idea in the periphery?
+
+01:39:39.360 --> 01:39:46.000
+Yes, and then connect them with whatever it is that we're working on, whether it's high throughput
+
+01:39:46.000 --> 01:39:53.440
+directed evolution of bacteria, whether it's recreating that Garden of Eden in the capsule
+
+01:39:53.440 --> 01:39:58.880
+and what it looks like, the food of the future. It is a little bit like directing a film. Creating
+
+01:39:58.880 --> 01:40:08.400
+a new project is a bit like creating a film. And you have these heroes, you have these characters
+
+01:40:08.400 --> 01:40:14.960
+and you put them together and there is a narrative and there is a story. Whenever we start a new
+
+01:40:14.960 --> 01:40:22.000
+project, it has to have these ingredients of simultaneous complexity. It has to be novel in
+
+01:40:22.000 --> 01:40:27.120
+terms of the synthetic biology, material science, robotics, engineering, all of these elements that
+
+01:40:27.120 --> 01:40:35.120
+are discipline based or rooted must be novel. If you can combine novelty in synthetic biology
+
+01:40:35.120 --> 01:40:39.760
+with a novelty in robotics, with a novelty in material science, with a novelty in computational
+
+01:40:39.760 --> 01:40:46.320
+design, you are bound to create something novel, period. And that's how I run the company and that's
+
+01:40:46.320 --> 01:40:52.480
+how I pick the people. And so that's another very, very important ingredient of the cutting edge
+
+01:40:53.120 --> 01:40:58.080
+across multiple disciplines that come together. And then in the background and the periphery,
+
+01:40:58.080 --> 01:41:04.560
+there's all these messages, the whispers of the ancient oldies, right? The Beethovens and the
+
+01:41:04.560 --> 01:41:10.480
+Picasso's. So Beethoven's always whispering to you. Yeah. How could one not include Beethoven
+
+01:41:10.480 --> 01:41:14.960
+and the whispers? I'm going to ask you about Beethoven and the Evgeny Kissinger you've mentioned,
+
+01:41:14.960 --> 01:41:18.560
+because I've played piano my whole life. I obviously know a lot of Beethoven.
+
+01:41:20.160 --> 01:41:24.320
+And it's one of the private things for me, I suppose, because I don't think I've ever publicly
+
+01:41:24.320 --> 01:41:34.240
+played piano. By the way, me too. I play in private only. Yeah, people sometimes, even with guitar,
+
+01:41:34.240 --> 01:41:39.280
+people ask me, can you play something? And it just feels like certain things are meant to be done
+
+01:41:39.280 --> 01:41:46.160
+privately. It's weird. I mean, it's difficult. And some of the times I have performed publicly,
+
+01:41:47.680 --> 01:41:52.640
+it is an ultimate leap in vulnerability. It's very, very, very difficult for me. And I'm sure,
+
+01:41:52.640 --> 01:41:56.720
+I know it's not for a lot of people, but it is for me. Anyway, we'll return to that. But
+
+01:41:56.720 --> 01:42:02.800
+since you've mentioned a combination of novelty across multiple disciplines, that's what you seek
+
+01:42:02.800 --> 01:42:09.840
+when you build teams or pick people you work with. I just wanted to kind of linger on this
+
+01:42:10.880 --> 01:42:18.240
+idea of what kind of humans are you looking for in this endeavor that you're taking on,
+
+01:42:18.240 --> 01:42:22.800
+this fascinating thing that you've been talking about. I want to think somewhere else,
+
+01:42:23.680 --> 01:42:29.600
+a previous version, version 5.7 of Neri said somewhere that there's four fields
+
+01:42:30.400 --> 01:42:36.080
+that are combined to create this intersection of biology and engineering work and is computational
+
+01:42:36.080 --> 01:42:40.000
+design, additive manufacturing, material engineering, synthetic biology. I'm sure
+
+01:42:40.000 --> 01:42:44.000
+there's others, but how do you find these humans? Machine learning is in the mix.
+
+01:42:45.600 --> 01:42:49.520
+I manifest and they come. Yeah. There are a few approaches.
+
+01:42:52.880 --> 01:42:59.280
+They show up. Send your message upon the water. I mean, those job descriptions that you saw,
+
+01:42:59.280 --> 01:43:05.600
+the first ones I wrote by myself. You find interesting people and brilliant people when
+
+01:43:05.600 --> 01:43:11.200
+you look, and we talked about second derivative, when you look under and under and under. If you
+
+01:43:11.200 --> 01:43:17.920
+look deep enough and specialized enough, and if you allow yourself to look at the cracks,
+
+01:43:17.920 --> 01:43:25.040
+at the flaws, at the cracks between disciplines and between skills, you find really, really
+
+01:43:25.040 --> 01:43:35.360
+interesting diamonds in the rough. I like for those job descriptions to be those messages in
+
+01:43:35.360 --> 01:43:42.160
+a bottle that bring those really interesting people our way. I mean, they have to have humility.
+
+01:43:42.160 --> 01:43:48.880
+They have to have a shine in their eye. They have to be hungry and foolish. As Job so famously said,
+
+01:43:49.600 --> 01:43:54.400
+a friend of mine who's a dean of a well-known architectural school said,
+
+01:43:55.440 --> 01:43:59.280
+today architects don't want to be architects. Architects don't look up to the
+
+01:44:00.080 --> 01:44:05.200
+star architects as role models. Star architects are no longer role models. Architects want to
+
+01:44:05.840 --> 01:44:11.600
+build by virtue of not building. Architects want, she said, we're back in the 60s when we think
+
+01:44:11.680 --> 01:44:19.520
+about architecture, back in the hippie movement. I think that in a way they have to be somewhat
+
+01:44:19.520 --> 01:44:25.280
+of a hippie, somewhat of a kind of a jack of all trades, master of all.
+
+01:44:26.320 --> 01:44:27.600
+And yet with humility.
+
+01:44:27.600 --> 01:44:35.280
+And yet with humility. Now, that is hard to find. And that is why when I start an interview,
+
+01:44:35.280 --> 01:44:41.760
+I talk about childhood memories, and I asked about music, and I ask about connection. And
+
+01:44:41.760 --> 01:44:50.080
+through these interviews, you can learn a lot about a person's future by spending time hearing
+
+01:44:50.080 --> 01:44:57.040
+them talk about their past. Do you find that educational, like PhDs versus like what's the
+
+01:44:57.040 --> 01:45:02.880
+life trajectory? Yours is an interesting life trajectory too. Like what's the life trajectory
+
+01:45:02.880 --> 01:45:05.040
+that leads to the kind of person that would work with you?
+
+01:45:06.080 --> 01:45:13.360
+It's, you know, people who have ideally had industry experience and know what it's like
+
+01:45:13.360 --> 01:45:18.480
+to be in the quote unquote real world. They're dreamers that are addicted to reality as opposed
+
+01:45:18.480 --> 01:45:24.080
+to realists that are addicted to dreams. Meaning they have that innocence in them. They have the
+
+01:45:24.080 --> 01:45:33.920
+hunger. They have the idealism without being entitled and with understanding the systems
+
+01:45:33.920 --> 01:45:40.160
+that govern our world and understanding how to utilize these systems as forging horses to
+
+01:45:40.160 --> 01:45:47.360
+bring those values into the world. There are individuals who feel comfortable in this friction
+
+01:45:47.360 --> 01:45:59.200
+between highly wondrous and dreamy and incredible fantasy renditions of what the world could be with
+
+01:45:59.200 --> 01:46:07.440
+extremely brilliant skills in terms of their disciplinary background. So PhD with industrial
+
+01:46:08.240 --> 01:46:15.760
+experience in a certain field or a double major in two fields that make no sense whatsoever in
+
+01:46:15.760 --> 01:46:22.800
+their combination are things that really, really attract me. Especially that spans the technology,
+
+01:46:22.800 --> 01:46:28.800
+biology gap. Yes. Technology, biology, nature, culture. I mean, the secret to one thing is
+
+01:46:28.800 --> 01:46:33.440
+through the lens of another and I always believe in that kind of translational design ability
+
+01:46:33.440 --> 01:46:38.160
+to be able to see something through the lens of another and always allows you to think again,
+
+01:46:38.160 --> 01:46:45.280
+begin again, reestablish, redefine, suspend your disbelief, revisit. And when you revisit enough
+
+01:46:45.280 --> 01:46:52.160
+times, like 100 times or like 200 times and you revisit the same question through the lens of
+
+01:46:52.160 --> 01:46:58.880
+any possible discipline and any possible scenario, eventually you get to the truth.
+
+01:46:58.880 --> 01:47:08.000
+I have to ask you, because you work at the interplay of the machine and the natural world,
+
+01:47:08.000 --> 01:47:14.080
+is there a good definition for you of what is life? What is a living organism?
+
+01:47:14.560 --> 01:47:21.200
+Mm hmm. I think like 440 million years ago, there were all these plants that
+
+01:47:23.440 --> 01:47:30.400
+the cyanobacteria, I believe actually, that was like the first extinction, right? There were
+
+01:47:30.400 --> 01:47:35.920
+five extinctions. We are apparently the sixth. We are in the eye of the storm. We are in the
+
+01:47:35.920 --> 01:47:41.040
+sixth extinction. We are going to be extinct as we speak. I mean, death is upon us whether we want
+
+01:47:41.040 --> 01:47:49.680
+to admit it or not. And actually, they found in Argentina and in various places around the world,
+
+01:47:50.240 --> 01:47:55.680
+they found these spores of the first plants that existed on the planet and they
+
+01:47:56.720 --> 01:48:02.800
+emerged out of these cyanobacteria were the first, of course, and then they found these spore-based
+
+01:48:02.800 --> 01:48:09.680
+plants. And because they didn't have seeds or only spores, the spores became sort of the fossils by
+
+01:48:09.680 --> 01:48:16.000
+which we've come to know of their existence. And because of these spores, we know that this first
+
+01:48:16.000 --> 01:48:24.400
+extinction existed. But this extinction is actually what enabled plants to resurrect, right? So the
+
+01:48:24.400 --> 01:48:33.840
+death of these first plants, because they clinked to the rocks and they generated a ton of phosphorus
+
+01:48:33.840 --> 01:48:41.440
+that went into the ocean by clinging to the rocks like 60 times more phosphorus than without them.
+
+01:48:41.440 --> 01:48:48.720
+And then all this phosphorus basically choked the oceans and made them super cold and without
+
+01:48:48.720 --> 01:48:57.120
+oxygen, aoxic. And then we lost the plant kingdom. And then because of the death of these first plants,
+
+01:48:57.120 --> 01:49:04.000
+they actually enriched the soil and created nutrients for these new plants to come to the
+
+01:49:04.000 --> 01:49:13.120
+planet. And those planets had more sophisticated vein systems and they were moving beyond spores
+
+01:49:13.120 --> 01:49:19.840
+to seeded plants, et cetera, and flowering plants. And so in a way, one mass extinction
+
+01:49:19.840 --> 01:49:29.280
+sort of led in the Ordovician period sort of led to life as we know it. And where would we be without
+
+01:49:29.280 --> 01:49:36.000
+plants in a way? So I think that death is very much part of life. And through that definition,
+
+01:49:36.000 --> 01:49:43.680
+that kind of planetary wide definition in the context of hundreds of millions of years,
+
+01:49:44.640 --> 01:49:52.880
+life gains a completely new sort of a new light. And that's when the particles become a wave,
+
+01:49:52.880 --> 01:49:59.440
+where humans are, we are not alone and we are here because of those plants. So I think death is very
+
+01:49:59.440 --> 01:50:08.160
+much part of life. So in the context of the redwood tree, perhaps life is defined as
+
+01:50:08.240 --> 01:50:14.480
+as 10 generations. And through the lens of a bacteria, perhaps life is defined as a
+
+01:50:14.480 --> 01:50:22.160
+millisecond. And perhaps through the lens of an AGI, life is defined as all of human civilization.
+
+01:50:22.160 --> 01:50:31.440
+So I think it really is a question of this time scale again, the time scale and the organism,
+
+01:50:31.440 --> 01:50:35.680
+the life form that's asking the question through which we can answer what is life.
+
+01:50:36.480 --> 01:50:41.840
+What do you think about this? If we think of ourselves as in the eye of the storm of
+
+01:50:41.840 --> 01:50:50.160
+another extinction, the natural question to ask here is you have all of nature and then you have
+
+01:50:50.160 --> 01:50:55.840
+this new human creation that is currently being termed artificial intelligence.
+
+01:50:58.560 --> 01:51:05.120
+How does your work play with the possibility of a future super intelligent ecosystem
+
+01:51:05.680 --> 01:51:14.800
+and AGI that either joins or supersedes humans? Yeah. So I'm glad you asked this question.
+
+01:51:15.680 --> 01:51:22.240
+And are you hopeful or terrified? Both. I'm hopeful and terrified. I did watch your interview
+
+01:51:22.240 --> 01:51:27.680
+with Elias Ryudkovsky and I loved it. Because you were scared or because you were excited
+
+01:51:28.640 --> 01:51:37.840
+First of all, I was both. I was totally scared, shamed, excited and totally also
+
+01:51:38.560 --> 01:51:45.360
+inspired because he's just such an incredible thinker. And I can agree or disagree with what
+
+01:51:45.360 --> 01:51:53.120
+he says, but I just found his way of thinking about AGI and the perils of humanity as a result.
+
+01:51:53.120 --> 01:51:58.880
+There's an inevitability to what he's saying. His advice to young people is that prepare for
+
+01:51:58.880 --> 01:52:10.960
+a short life. He thinks it's very, almost simple. It's almost common sense that AGI would get rid
+
+01:52:10.960 --> 01:52:19.440
+of humans, that he can't imagine a trajectory eventually that leads to a place that doesn't
+
+01:52:19.440 --> 01:52:26.080
+have AGI kill all humans. There's just too many trajectories where a super intelligent systems
+
+01:52:26.080 --> 01:52:35.120
+gets rid of humans and in the near term. And so that clarity of thinking is very sobering. To me,
+
+01:52:36.960 --> 01:52:40.800
+maybe it is to you as well. It's super inspiring because I think he's wrong,
+
+01:52:41.360 --> 01:52:46.560
+but it's like you almost want to prove him wrong. It's like, no, we humans are clever
+
+01:52:46.560 --> 01:52:51.440
+bunch. We're going to find a way. It is a bit like jumping into super cold water. It's sort of a
+
+01:52:52.640 --> 01:52:59.360
+fist in your face. It wakes you up. And I like these moments so much. And he was able to bring
+
+01:52:59.360 --> 01:53:09.600
+that moment to life, even though I think a mother can never think that way ever. And it's a little
+
+01:53:09.600 --> 01:53:16.480
+bit like that notion of, I love her more than evolution requires. On your question about AGI
+
+01:53:16.480 --> 01:53:24.000
+and nature, look, I think we've been through a lot in terms of, to get here, we sort of moved from
+
+01:53:24.000 --> 01:53:28.880
+data, the ability to collect information, to knowledge, the ability to use this information
+
+01:53:28.880 --> 01:53:33.920
+for utility, from knowledge to intelligence. And what is intelligence? It's the ability to problem
+
+01:53:33.920 --> 01:53:39.360
+solve and adapt and translate. So that sort of from data to information to knowledge,
+
+01:53:39.360 --> 01:53:45.440
+I think the next frontier is wisdom. And what is wisdom? Wisdom is the ability to have or
+
+01:53:45.440 --> 01:53:54.240
+find insight about the world and from wisdom to spiritual awareness, which transcends wisdom and
+
+01:53:54.240 --> 01:54:01.360
+is able to chart the world into new territory. But I think what is interesting about AGI is that
+
+01:54:01.360 --> 01:54:07.120
+it is sort of almost like a self-recursive thing, right? Because it's like a washing machine of like
+
+01:54:07.120 --> 01:54:13.600
+a third derivative Wikipedia. It uses kind of like language to create language, to create language,
+
+01:54:13.600 --> 01:54:18.800
+to create language. It feels like novelty is being constantly created. It doesn't feel like
+
+01:54:18.800 --> 01:54:24.080
+it's regurgitating. And that's so fascinating because these are not the stochastic parrots.
+
+01:54:24.080 --> 01:54:32.320
+This is sort of a new form of emergence, perhaps, of novelty, as you say, that exists by virtue of
+
+01:54:33.040 --> 01:54:42.720
+using old things to create new things. But it's not as if the AGI has self-awareness, right? It's
+
+01:54:42.720 --> 01:54:51.440
+not as if it has maybe, maybe, maybe, maybe it has. But as far as I can tell, it's not as if AGI has
+
+01:54:51.440 --> 01:55:00.160
+approached consciousness or sentience just yet. It's probably getting there. But the language appears
+
+01:55:00.160 --> 01:55:06.320
+to present itself as if there is sentience there, but it doesn't. But I think that's the problem.
+
+01:55:06.320 --> 01:55:13.040
+At the point where this AGI sounds like me and speaks like me and behaves like me and feels like
+
+01:55:13.040 --> 01:55:20.720
+me and breathes like me and my daughter knows the AGI to be me is sort of the end of everything,
+
+01:55:20.960 --> 01:55:28.640
+is the end of human agency. But what is the end of human agency to humans, I think, is the beginning
+
+01:55:28.640 --> 01:55:34.160
+of agency to nature. Because if you take all of this agency, if you take all of these language
+
+01:55:34.160 --> 01:55:42.560
+models that can summarize all of human civilization and consciousness and then upload that to nature
+
+01:55:42.560 --> 01:55:48.240
+and have nature now deal with that world of consciousness that it never had access to.
+
+01:55:48.960 --> 01:55:57.200
+So maybe through Eliezel's lens, the short-lived human becomes sort of a very long-lived human-like
+
+01:55:57.200 --> 01:56:06.960
+sentient weeping willow. Maybe, maybe that's the end and the beginning. And maybe on the more
+
+01:56:06.960 --> 01:56:15.840
+optimistic side for us humans, it's a different form of existence where everything we create and
+
+01:56:15.840 --> 01:56:26.880
+everything we consume and everything we process is all made up of six elements and that's it.
+
+01:56:26.880 --> 01:56:36.640
+And there's only those six elements and not 118 elements. And it's all the stuff of biology plus
+
+01:56:36.640 --> 01:56:43.840
+some fair amount of bits, genes, and atoms. A lot of Beethoven.
+
+01:56:43.840 --> 01:56:50.080
+A lot of Beethoven. I think the idea of connecting AGI to nature through your work is really
+
+01:56:50.080 --> 01:57:01.920
+fascinating. Sort of unlocking this incredible machinery of intelligence that is AGI and
+
+01:57:01.920 --> 01:57:09.040
+connecting it to the incredible machinery of wisdom that is nature as evolved through billions of
+
+01:57:09.040 --> 01:57:20.000
+years. A pretty crazy, intense evolution. Exactly. And unlike sort of, again, I'm going back to
+
+01:57:21.120 --> 01:57:27.760
+directed evolution, unlike this sort of high-throughput brute force approach,
+
+01:57:28.480 --> 01:57:35.040
+if there is a way to utilize this synergy for diversity and diversification,
+
+01:57:35.040 --> 01:57:45.920
+like, yeah, what happens if you ask a chat GPT question that it takes 10,000 years to answer that
+
+01:57:45.920 --> 01:57:55.280
+question? What does that look like when you completely switch the time scale and you can
+
+01:57:55.280 --> 01:58:04.000
+afford the time to answer the question? And again, I don't know, but that world to me is possibly
+
+01:58:04.240 --> 01:58:12.240
+amazing. Do you think there's, because when you start to think about time scales like this,
+
+01:58:12.800 --> 01:58:18.560
+just looking at Earth, all the possible trajectories in my take of this living organism that is Earth,
+
+01:58:19.600 --> 01:58:24.240
+do you think there's others like it? Do you think there's other planets with life forms on them that
+
+01:58:24.240 --> 01:58:32.720
+are just doing their thing in this kind of way? Because in what you're doing, you're directly
+
+01:58:32.800 --> 01:58:39.760
+playing with what's possible with life, lifelike things that kind of maps the question of, well,
+
+01:58:40.320 --> 01:58:48.160
+what kind of other things are possible elsewhere? Do you think there's other worlds full of life,
+
+01:58:48.160 --> 01:58:55.120
+full of alien life out there? I've studied the calculations that point towards the
+
+01:58:55.520 --> 01:59:05.840
+verdict that the possibility of life around us is very, very low. We are a chosen planet in a way,
+
+01:59:05.840 --> 01:59:14.880
+right? There's water and there's love. What else do you need? And that sort of very peculiar
+
+01:59:14.880 --> 01:59:23.920
+juxtaposition of conditions, the oxygen, the water, the carbon, again, is in a way a miracle,
+
+01:59:24.880 --> 01:59:34.400
+given the massive extinctions that we've been through as life forms. And that said,
+
+01:59:34.400 --> 01:59:42.800
+I cannot believe that there is no other life form. I want to believe more than I know
+
+01:59:44.480 --> 01:59:51.760
+that yes, that there are life forms in the white fountain that is the black hole,
+
+01:59:51.840 --> 02:00:01.760
+right? That there are these life forms that are light years away from us, that are forming other
+
+02:00:01.760 --> 02:00:08.880
+forms of life forces. I'm much more worried about probably the thing that you're working on,
+
+02:00:09.200 --> 02:00:16.640
+which is that there's all kinds of life out around us that we're not communicating with.
+
+02:00:17.600 --> 02:00:17.760
+Yes.
+
+02:00:17.760 --> 02:00:24.080
+So there's aliens, in a sense, all around us that we're not seeing, that we're not talking to,
+
+02:00:24.080 --> 02:00:30.480
+that we're not communicating. Because that to me just seems the more likely situation.
+
+02:00:30.480 --> 02:00:31.680
+That they're here.
+
+02:00:31.680 --> 02:00:38.160
+That they're here. They're all around us in different forms. There's a thing that connects
+
+02:00:38.160 --> 02:00:46.240
+all of us, all of living beings across the universe. And we're just beginning to understand
+
+02:00:46.240 --> 02:00:51.440
+any of it. And I feel like that's the important problem is, I feel like you can get there with
+
+02:00:51.440 --> 02:00:57.280
+the tools of science today by just studying life on earth. Unlock some really fundamental things
+
+02:00:57.280 --> 02:01:02.720
+that maybe you can start to answer questions about, what is consciousness? Maybe this thing
+
+02:01:02.720 --> 02:01:09.760
+that we've been saying about love, but honestly, in a serious way. And then you'll start to
+
+02:01:09.760 --> 02:01:18.480
+understand that there is alien life all out there. And it's much more complicated and
+
+02:01:18.480 --> 02:01:24.480
+interesting than we kind of realize, as opposed to looking to human-like, exactly human-like things.
+
+02:01:24.480 --> 02:01:27.760
+It's the variety of life that's possible is just almost endless.
+
+02:01:28.400 --> 02:01:35.040
+I totally agree with you. I think, again, define alien, right?
+
+02:01:36.640 --> 02:01:38.880
+Define intelligence. Define life.
+
+02:01:38.880 --> 02:01:43.200
+Right. And Marvin Minsky used to say, intelligence is a suitcase word.
+
+02:01:44.080 --> 02:01:49.840
+It's a word so big, it's a word like sustainability, and it's a word like rock and roll.
+
+02:01:49.840 --> 02:01:55.040
+And suitcase words are always very, very dangerous.
+
+02:01:55.040 --> 02:01:58.960
+Speaking of rock and roll, you've mentioned music and you mentioned Beethoven a bunch of times.
+
+02:01:59.920 --> 02:02:07.600
+You've also tweeted about you getting a kiss in performance and so on. What can you say about the
+
+02:02:07.600 --> 02:02:14.800
+role of music in your life? I love music. I always wondered why is it that plastic arts,
+
+02:02:14.800 --> 02:02:18.960
+meaning architecture and sculpture and painting, can't get us to cry and music
+
+02:02:20.160 --> 02:02:25.600
+gets us to cry so quickly and connect so quickly. There is something about music that it is,
+
+02:02:26.320 --> 02:02:32.560
+and no wonder that plants also respond to music, but that is the top of the creative pyramid,
+
+02:02:32.560 --> 02:02:36.800
+in my opinion. It's a weird mystery that we're so connected to music. By the way,
+
+02:02:36.800 --> 02:02:43.200
+to push back, a good bridge will make me cry. A good arch, it's true. And I will say,
+
+02:02:44.240 --> 02:02:49.760
+when I visited the Sagrada Familia, I had that kind of spiritual reverence towards
+
+02:02:50.480 --> 02:02:56.000
+that spatial experience and being in that space and feeling the intention in the space and
+
+02:02:56.000 --> 02:03:04.080
+appreciating every little gesture. So it's true. It is the universal language. It's the language
+
+02:03:04.080 --> 02:03:10.240
+of waves. It's the language of the waves, not the language of the particles. It is the universal
+
+02:03:10.240 --> 02:03:18.560
+language, I believe. And that is definitely one of my loves. And you said that if you weren't
+
+02:03:18.560 --> 02:03:23.760
+doing what you were doing now, perhaps you would be a film director. So I have to ask,
+
+02:03:24.560 --> 02:03:32.240
+what do you think is the best film of all time? Maybe top three. Yeah, maybe The Godfather.
+
+02:03:33.040 --> 02:03:38.400
+Godfather, okay. The Godfather is definitely up there. Francis Coppola is one of my heroes.
+
+02:03:39.040 --> 02:03:43.600
+Have you met him? I have met him. Yes, yes, yes. I was very,
+
+02:03:43.600 --> 02:03:49.280
+very lucky. We were very lucky to work with him on his new film, Megalopolis, which is coming out,
+
+02:03:49.280 --> 02:03:55.360
+I hope, in 2024. And think about the cities of the future in the context of new materials and
+
+02:03:56.320 --> 02:04:00.640
+the unity between nature and culture. Godfather is definitely up there.
+
+02:04:02.000 --> 02:04:09.120
+2001 is up there. I would watch that film again and again and again. It's incredible.
+
+02:04:09.760 --> 02:04:19.760
+The last scene in Odyssey 2001, that's just watch the last scene of 2001, then listen to
+
+02:04:19.760 --> 02:04:28.480
+Yudkovsky, and then go to the garden, and that's pretty much the end and the beginning. But that
+
+02:04:28.480 --> 02:04:37.760
+scene, that last scene from 2001 is everything. It says so much with so little, and it's sort of
+
+02:04:37.760 --> 02:04:46.960
+the embodiment, I believe, of ambivalence. And there's opportunity to believe in the beginning
+
+02:04:46.960 --> 02:04:53.840
+of humankind, the end of humankind, the planet, child, star, or star child of the future.
+
+02:04:55.280 --> 02:05:03.360
+Was there a death? Was there a reincarnation? That final scene, to me, is something that
+
+02:05:04.160 --> 02:05:10.960
+I go back to and study. And every time there is a different reading of that scene that inspires me.
+
+02:05:10.960 --> 02:05:16.720
+So that scene, and then the first scene in The Godfather, still one of the best scenes of all
+
+02:05:16.720 --> 02:05:22.640
+times. Sort of a portrait of America, the ideals and values that are brought from Italy.
+
+02:05:22.640 --> 02:05:29.680
+A family of loyalty, of values, of how different values are constructed.
+
+02:05:29.680 --> 02:05:36.240
+Yes, loyalty, and the human spirit, and how Coppola celebrates the human spirit through
+
+02:05:36.240 --> 02:05:44.720
+the most simple gestures in language and acting. And I think in Kubrick, you see this highly curated
+
+02:05:44.720 --> 02:05:54.400
+and controlled and manicured vision of creating a film. And with Francis, it's like an Italian
+
+02:05:54.400 --> 02:06:01.040
+feast. It's like anything can happen at any moment in time. And just being on the set with him
+
+02:06:01.760 --> 02:06:09.200
+is an experience I'll take with me to my grave. It's very, very, very special.
+
+02:06:09.200 --> 02:06:13.520
+And you said music is also a part of that, of creating a feeling in the movies.
+
+02:06:13.520 --> 02:06:20.880
+Yeah. Actually, The Godfather, that tune.
+
+02:06:20.880 --> 02:06:24.960
+That makes me emotional every time on some weird level.
+
+02:06:24.960 --> 02:06:36.960
+Yeah, it's one of these tunes I'm sure that has, if you play it to a jasmine, you'll get the best
+
+02:06:36.960 --> 02:06:43.920
+scent of all times. But I think with that particular tune, I learned staccato,
+
+02:06:45.600 --> 02:06:53.200
+as something very, very happy and joyous. And then made into this stretched in time and became
+
+02:06:53.840 --> 02:07:03.040
+kind of the refrain of nostalgia and melancholy and loyalty and all of these values that ride
+
+02:07:03.040 --> 02:07:08.000
+on top of this one single tune. And you can play it in all kinds of different ways. I've played it
+
+02:07:08.000 --> 02:07:13.680
+on guitar in all kinds of different ways. And I think in Godfather III, the son plays it on guitar
+
+02:07:13.680 --> 02:07:20.960
+to the father. I think this happens in movies, but sometimes a melody, and that's a simple melody
+
+02:07:20.960 --> 02:07:31.360
+can just like... And the Strauss melody in 2001. And when you juxtapose these melodies with
+
+02:07:32.480 --> 02:07:37.920
+the scene, you get this again, whole that's bigger than some of its parts where you get this moment
+
+02:07:39.120 --> 02:07:46.240
+that is, I think, like these are the moments I would send with the next Voyager to outer space.
+
+02:07:46.240 --> 02:07:54.160
+I definitely send the Godfather in 2001 would definitely be on that golden record.
+
+02:07:54.880 --> 02:08:00.560
+You are an incredibly successful scientist, engineer, architect, artist, designer. You've
+
+02:08:00.560 --> 02:08:06.080
+mentored a lot of successful people. Can you give advice to young people listening to this?
+
+02:08:07.200 --> 02:08:13.760
+How to have a successful career and how to have a successful life?
+
+02:08:14.320 --> 02:08:20.880
+Look, I think there's this beautiful line in Sheltering Sky. How many times have you seen
+
+02:08:20.880 --> 02:08:29.840
+a full moon in your life and actually took the time to ingest and explore and reflect upon
+
+02:08:29.840 --> 02:08:36.320
+the full moon? Probably 20, I believe he says. I spend time with a full moon.
+
+02:08:36.320 --> 02:08:46.720
+I take my time with a full moon, and I pay attention to a full moon. And I think paying
+
+02:08:46.720 --> 02:08:58.400
+attention to the seasons and taking time to appreciate the little things, the simple things
+
+02:08:59.040 --> 02:09:08.240
+is what makes a meaningful life. I was very lucky to have grown up in a home that
+
+02:09:11.760 --> 02:09:18.400
+taught me this way of being. My parents, my grandmother, who played a very important role
+
+02:09:18.400 --> 02:09:32.560
+in my growing up. And that ability to pay attention and to be present is so, so,
+
+02:09:32.560 --> 02:09:36.960
+so I could not emphasize it enough. It's so crucial.
+
+02:09:38.880 --> 02:09:40.000
+And be grateful.
+
+02:09:40.080 --> 02:09:48.800
+And be grateful. I think gratitude and presence, appreciation are really
+
+02:09:51.440 --> 02:09:53.120
+the most important things in life.
+
+02:09:53.120 --> 02:09:56.640
+If you could take a short tangent about your grandmother,
+
+02:09:58.000 --> 02:10:04.080
+who's played a big role in your life, what do you remember? What lessons have you learned from her?
+
+02:10:04.880 --> 02:10:09.120
+She had this blanket that she would give me every time I came back from school and say,
+
+02:10:09.760 --> 02:10:14.000
+do your homework here and meet with your friends here. And it was always in her garden.
+
+02:10:14.000 --> 02:10:21.040
+And her garden in my mind was ginormous. But last I went there and saw the site,
+
+02:10:21.040 --> 02:10:28.320
+which has now become the site for another tall building, it was a tiny, tiny little garden
+
+02:10:29.680 --> 02:10:36.000
+that to me seemed so large when I was growing up because it had everything. It had
+
+02:10:36.000 --> 02:10:44.320
+fig trees. It had olive trees. It had mushrooms. It had the blanket. I would do my homework there.
+
+02:10:44.320 --> 02:10:52.800
+It was everything. And I needed nothing else. And that was my Garden of Eden. That was my
+
+02:10:52.800 --> 02:11:00.880
+childhood. And she taught me we would lie on the blanket and look at the clouds and reflect upon
+
+02:11:00.880 --> 02:11:05.120
+the shapes of the clouds and study the shapes of the plants. And there was a lot of wonder
+
+02:11:05.680 --> 02:11:13.280
+in that childhood with her. And she taught me the importance of wonder
+
+02:11:14.400 --> 02:11:23.840
+in sort of in an eternal childhood and living adulthood as a child. And so I'm very,
+
+02:11:23.840 --> 02:11:33.440
+very grateful for that. I think it is the sense of wonder. The speaking up was always something
+
+02:11:33.440 --> 02:11:42.480
+that she adhered to, to speak up your truth, to be straightforward, to be positive. These are
+
+02:11:42.480 --> 02:11:49.840
+things that I also got from my mom. And from my mom, the sense of humor. She had the best sense
+
+02:11:49.840 --> 02:12:00.240
+of humor that I could think of and was just a joy to be around. And my father taught me everything.
+
+02:12:00.240 --> 02:12:03.360
+My father taught me everything I know. My mom taught me everything I feel.
+
+02:12:05.200 --> 02:12:08.000
+My grandma taught me everything I incite.
+
+02:12:08.000 --> 02:12:11.760
+Well, I see the sense of wonder that just carries through everything you do.
+
+02:12:11.760 --> 02:12:20.560
+So I think you would make your grandmother proud. Well, what about advice for how to have a career?
+
+02:12:21.440 --> 02:12:27.440
+So you've had a very interesting career and a successful career, but not an easy one.
+
+02:12:28.160 --> 02:12:29.360
+You took a few leaps.
+
+02:12:29.360 --> 02:12:36.080
+I did take a few leaps and they were uncomfortable. My father, and I'll never forget,
+
+02:12:38.320 --> 02:12:44.080
+I think we were listening to a Rolling Stones song in the kitchen and my dad,
+
+02:12:45.120 --> 02:12:49.600
+who's actually born in Boston, he's American, he said,
+
+02:12:50.560 --> 02:12:55.760
+I started to have sort of these second thoughts about continuing my education in Israel and I
+
+02:12:55.760 --> 02:13:02.000
+wanted to go, I was on my way to London to the Architectural Association to do my diploma studies
+
+02:13:02.000 --> 02:13:08.080
+there. And he looked at me and he said, get out of here, kiddo, you've got to get out of here.
+
+02:13:08.960 --> 02:13:15.120
+And you've outgrown where you're at, you need to move forward. Another thing he had taught me,
+
+02:13:15.360 --> 02:13:20.000
+you need to move forward. Another thing he had taught me, the feeling of discomfort,
+
+02:13:21.440 --> 02:13:28.640
+as you say, the feeling of loneliness and discomfort is imperative to growth.
+
+02:13:29.200 --> 02:13:36.640
+Growth is painful, period. Any form of growth is difficult and painful. Birth is difficult
+
+02:13:36.640 --> 02:13:43.360
+and painful. And it is really, really important to place yourself in situations of discomfort.
+
+02:13:43.360 --> 02:13:48.320
+I like to be in a room where everyone in the room is more intelligent than me. I like to be
+
+02:13:48.320 --> 02:13:56.400
+in that kind of state where the people that I surround myself with are orders of magnitude,
+
+02:13:57.440 --> 02:14:02.320
+more intelligent than I am. And I can say that that is true of all of my team members.
+
+02:14:02.320 --> 02:14:09.040
+And that's the intellectual discomfort that I feed off of. The same is true for physical exertion.
+
+02:14:10.000 --> 02:14:16.640
+You've got to put yourself in these uncomfortable situations in order to grow,
+
+02:14:16.640 --> 02:14:27.920
+in order to find comfort. And then, on the other hand, is love, is finding love and finding that
+
+02:14:27.920 --> 02:14:38.320
+human, this other human that complements you and that makes you a better version
+
+02:14:39.600 --> 02:14:48.640
+of the one you are and even of the one you want to be. But with gratitude and attention and love,
+
+02:14:49.200 --> 02:14:56.800
+you can go so, so far. To the younger generation, I don't speak of a career. I never thought of
+
+02:14:58.880 --> 02:15:06.560
+my work as my career ever. And there was this constant entanglement between life and work
+
+02:15:06.560 --> 02:15:13.920
+and love and longing and being and mothering. It's all the same. And I appreciate that to some
+
+02:15:13.920 --> 02:15:27.040
+people that doesn't work in their arrangement of will versus comfort versus the reality.
+
+02:15:27.120 --> 02:15:33.120
+But for me, it has always worked. So I think to the younger generation, I say don't think of
+
+02:15:34.320 --> 02:15:38.880
+your career. A career is something that is imposed upon you. Think of your calling. That's something
+
+02:15:38.880 --> 02:15:46.640
+that's innately and directionally moves you. And it's something that transcends a career.
+
+02:15:47.440 --> 02:15:53.600
+Similarly, you can think about the difference between learning versus being educated. Being
+
+02:15:53.600 --> 02:15:56.960
+educated is something that's given to you, that's external, that's being imposed,
+
+02:15:56.960 --> 02:16:01.200
+that's top-down imposed. Learning is something that comes from within. It's also the difference
+
+02:16:01.200 --> 02:16:08.400
+between joy and happiness. Many times I'm sad and I'm still joyous. And it's very, very important
+
+02:16:08.400 --> 02:16:17.680
+to understand the difference between these externally perceived success paths and internally
+
+02:16:17.680 --> 02:16:26.160
+driven, value-based ways of being in the world. And we together, when we combine all of these,
+
+02:16:29.440 --> 02:16:38.720
+the broken puzzle, let's say, of substance and vulnerability, we get this bigger,
+
+02:16:38.720 --> 02:16:46.880
+gestalt, this wondrous world of a future that is peaceful, that is
+
+02:16:50.400 --> 02:16:57.920
+wholesome, and that advocates for that kind of synergy that we've been talking about throughout.
+
+02:16:58.720 --> 02:16:59.760
+But it's all fun.
+
+02:17:01.360 --> 02:17:06.320
+Well, thank you for this incredible conversation. Thank you for all the work you're doing. And I
+
+02:17:06.640 --> 02:17:14.240
+have to say that thank you for noticing me and listening to me. You're somebody from just today
+
+02:17:14.240 --> 02:17:20.400
+and from our exchanges before this. There's a sense where you care about me as a human being,
+
+02:17:21.360 --> 02:17:25.760
+which I could tell you care about other humans. Thank you for doing that. Thank you for having
+
+02:17:25.760 --> 02:17:33.680
+empathy and just really listening and noticing me, that I exist. So thank you for that.
+
+02:17:33.760 --> 02:17:38.240
+I've been a huge fan of your work. I've been a huge fan of who you are as a human being.
+
+02:17:38.240 --> 02:17:43.760
+It's just an honor to sit with me. Thank you. Thank you so much, Lex. I feel the same way.
+
+02:17:44.320 --> 02:17:49.200
+I'll just say the same. And I look forward to hearing the response to my job application.
+
+02:17:50.400 --> 02:17:56.240
+You're accepted. We all speak of you all the time. Thank you so much. Thank you, Neri.
+
+02:17:58.160 --> 02:18:01.840
+Thanks for listening to this conversation with Neri Oxman. To support this podcast,
+
+02:18:01.840 --> 02:18:07.280
+please check out our sponsors in the description. And now let me leave you with some words from Leo
+
+02:18:07.280 --> 02:18:16.080
+Tolstoy. Everything I know, I know because of love. Thank you for listening. I hope to see you next
+
+02:18:16.080 --> 02:18:20.080
+time.
+

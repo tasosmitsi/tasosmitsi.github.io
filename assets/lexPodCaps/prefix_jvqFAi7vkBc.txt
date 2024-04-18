@@ -1,0 +1,5366 @@
+WEBVTT
+
+00:00.000 --> 00:02.680
+I think compute is going to be the currency of the future.
+
+00:02.680 --> 00:06.280
+I think it will be maybe the most precious commodity in the world.
+
+00:06.280 --> 00:15.640
+I expect that by the end of this decade and possibly somewhat sooner than that, we will
+
+00:15.640 --> 00:21.340
+have quite capable systems that we look at and say, wow, that's really remarkable.
+
+00:21.340 --> 00:24.600
+The road to AGI should be a giant power struggle.
+
+00:24.600 --> 00:26.480
+I expect that to be the case.
+
+00:26.480 --> 00:32.080
+Whoever builds AGI first gets a lot of power.
+
+00:32.080 --> 00:36.640
+Do you trust yourself with that much power?
+
+00:36.640 --> 00:41.800
+The following is a conversation with Sam Altman, his second time in the podcast.
+
+00:41.800 --> 00:50.440
+He is the CEO of OpenAI, the company behind GPT-4, ChadGPT, Sora, and perhaps one day,
+
+00:50.440 --> 00:55.640
+the very company that will build AGI.
+
+00:55.640 --> 00:57.440
+This is the Lex Friedman Podcast.
+
+00:57.440 --> 01:01.280
+To support it, please check out our sponsors in the description.
+
+01:01.280 --> 01:05.680
+And now, dear friends, here's Sam Altman.
+
+01:05.680 --> 01:11.240
+Take me through the OpenAI board saga that started on Thursday, November 16th, maybe
+
+01:11.240 --> 01:13.720
+Friday, November 17th for you.
+
+01:13.720 --> 01:24.440
+That was definitely the most painful professional experience of my life and chaotic and shameful
+
+01:24.800 --> 01:30.480
+and upsetting and a bunch of other negative things.
+
+01:30.480 --> 01:37.200
+There were great things about it, too, and I wish it had not been in such an adrenaline
+
+01:37.200 --> 01:45.120
+rush that I wasn't able to stop and appreciate them at the time.
+
+01:45.120 --> 01:48.640
+I came across this old tweet of mine, or this tweet of mine from that time period, which
+
+01:48.640 --> 01:52.480
+was like it was like, you know, kind of going to your own eulogy, watching people say all
+
+01:52.480 --> 01:59.160
+these great things about you and just like unbelievable support from people I love and
+
+01:59.160 --> 02:01.800
+care about.
+
+02:01.800 --> 02:04.560
+That was really nice.
+
+02:04.560 --> 02:10.040
+That whole weekend, I kind of like felt, with one big exception, I felt like a great deal
+
+02:10.040 --> 02:18.680
+of love and very little hate.
+
+02:18.680 --> 02:21.800
+Even though it felt like I just I have no idea what's happening and what's going to
+
+02:21.800 --> 02:25.840
+happen here, and this feels really bad, and there were definitely times I thought it was
+
+02:25.840 --> 02:29.680
+going to be like one of the worst things to ever happen for AI safety.
+
+02:29.680 --> 02:35.040
+Well, I also think I'm happy that it happened relatively early.
+
+02:35.040 --> 02:41.520
+I thought at some point between when OpenAI started and when we created AGI, there was
+
+02:41.520 --> 02:45.760
+going to be something crazy and explosive that happened, but there may be more crazy
+
+02:45.760 --> 02:49.640
+and explosive things still to happen.
+
+02:49.640 --> 03:00.800
+It still, I think, helped us build up some resilience and be ready for more challenges
+
+03:00.800 --> 03:02.280
+in the future.
+
+03:02.280 --> 03:08.720
+But the thing you had a sense that you would experience is some kind of power struggle.
+
+03:08.720 --> 03:12.240
+The road to AGI should be a giant power struggle.
+
+03:12.240 --> 03:17.360
+The world should, well, not should, I expect that to be the case.
+
+03:17.480 --> 03:25.320
+So you have to go through that, like you said, iterate as often as possible in figuring out
+
+03:25.320 --> 03:30.480
+how to have a board structure, how to have organization, how to have the kind of people
+
+03:30.480 --> 03:36.200
+that you're working with, how to communicate all that in order to de-escalate the power
+
+03:36.200 --> 03:38.800
+struggle as much as possible, pacify it.
+
+03:39.320 --> 03:49.160
+At this point, it feels like something that was in the past that was really unpleasant
+
+03:49.160 --> 03:55.600
+and really difficult and painful, but we're back to work and things are so busy and so
+
+03:55.600 --> 04:00.640
+intense that I don't spend a lot of time thinking about it.
+
+04:00.640 --> 04:08.720
+There was a time after, there was this fugue state for the month after, maybe 45 days after
+
+04:09.680 --> 04:13.760
+that was, I was just sort of like drifting through the days.
+
+04:13.760 --> 04:16.080
+I was so out of it.
+
+04:16.080 --> 04:18.040
+I was feeling so down.
+
+04:18.040 --> 04:19.880
+Just at a personal psychological level.
+
+04:19.880 --> 04:27.640
+Yeah, really painful and hard to like have to keep running open the eye in the middle
+
+04:27.640 --> 04:28.640
+of that.
+
+04:28.640 --> 04:32.960
+I just wanted to like crawl into a cave and kind of recover for a while.
+
+04:32.960 --> 04:38.680
+But you know, now it's like we're just back to working on the mission.
+
+04:38.720 --> 04:48.920
+It's still useful to go back there and reflect on board structures, on power dynamics, on
+
+04:48.920 --> 04:55.480
+how companies are run, the tension between research and product development and money
+
+04:55.480 --> 05:02.800
+and all this kind of stuff so that you who have a very high potential of building AGI
+
+05:02.800 --> 05:07.640
+would do so in a slightly more organized, less dramatic way in the future.
+
+05:07.640 --> 05:13.880
+So there's value there to go both the personal psychological aspects of you as a leader and
+
+05:13.880 --> 05:18.480
+also just the board structure and all this kind of messy stuff.
+
+05:18.480 --> 05:28.760
+Definitely learned a lot about structure and incentives and what we need out of a board.
+
+05:28.760 --> 05:35.120
+And I think that is, it is valuable that this happened now in some sense.
+
+05:35.120 --> 05:39.000
+I think this is probably not like the last high stress moment of opening eye, but it
+
+05:39.000 --> 05:40.960
+was quite a high stress moment.
+
+05:40.960 --> 05:43.800
+My company very nearly got destroyed.
+
+05:43.800 --> 05:50.440
+And we think a lot about many of the other things we've got to get right for AGI.
+
+05:50.440 --> 05:55.520
+But thinking about how to build a resilient org and how to build a structure that will
+
+05:55.520 --> 05:59.040
+stand up to like a lot of pressure in the world, which I expect more and more as we
+
+05:59.040 --> 06:00.040
+get closer.
+
+06:00.040 --> 06:01.040
+I think that's super important.
+
+06:01.760 --> 06:07.520
+Do you have a sense of how deep and rigorous the deliberation process by the board was?
+
+06:07.520 --> 06:12.920
+Can you shine some light on just human dynamics involved in situations like this?
+
+06:12.920 --> 06:17.200
+Was it just a few conversations and all of a sudden it escalates and why don't we fire
+
+06:17.200 --> 06:19.320
+Sam kind of thing?
+
+06:19.320 --> 06:30.880
+I think the board members were, are well-meaning people on the whole.
+
+06:30.880 --> 06:47.600
+And I believe that in stressful situations where people feel time pressure or whatever,
+
+06:47.600 --> 06:49.920
+people understandably make suboptimal decisions.
+
+06:49.920 --> 06:55.960
+And I think one of the challenges for OpenAI will be we're going to have to have a board
+
+06:55.960 --> 07:00.960
+and a team that are good at operating under pressure.
+
+07:00.960 --> 07:02.920
+Do you think the board had too much power?
+
+07:02.920 --> 07:06.400
+I think boards are supposed to have a lot of power.
+
+07:06.400 --> 07:12.560
+But one of the things that we did see is in most corporate structures, boards are usually
+
+07:12.560 --> 07:15.120
+answerable to shareholders.
+
+07:15.160 --> 07:18.520
+Sometimes people have like super voting shares or whatever.
+
+07:18.520 --> 07:23.480
+In this case, and I think one of the things with our structure that we maybe should have
+
+07:23.480 --> 07:30.320
+thought about more than we did is that the board of a nonprofit has, unless you put other
+
+07:30.320 --> 07:34.640
+rules in place, like quite a lot of power, they don't really answer to anyone but themselves.
+
+07:34.640 --> 07:36.920
+And there's ways in which that's good.
+
+07:36.920 --> 07:41.800
+But what we'd really like is for the board of OpenAI to answer to the world as a whole
+
+07:41.800 --> 07:44.120
+as much as that's a practical thing.
+
+07:44.120 --> 07:46.560
+So there's a new board announced?
+
+07:46.560 --> 07:47.560
+Yeah.
+
+07:47.560 --> 07:53.800
+There's, I guess, a new smaller board at first and now there's a new final board.
+
+07:53.800 --> 07:54.800
+Not a final board yet.
+
+07:54.800 --> 07:55.800
+We've added some.
+
+07:55.800 --> 07:56.800
+We'll add more.
+
+07:56.800 --> 07:57.800
+Added some.
+
+07:57.800 --> 07:58.800
+Okay.
+
+07:58.800 --> 08:05.960
+What is fixed in the new one that was perhaps broken in the previous one?
+
+08:05.960 --> 08:10.120
+The old board sort of got smaller over the course of about a year.
+
+08:11.120 --> 08:12.440
+And then it went down to six.
+
+08:12.440 --> 08:15.880
+And then we couldn't agree on who to add.
+
+08:15.880 --> 08:22.040
+And the board also, I think, didn't have a lot of experienced board members.
+
+08:22.040 --> 08:29.560
+And a lot of the new board members at OpenAI just have more experience as board members.
+
+08:29.560 --> 08:31.480
+I think that'll help.
+
+08:31.480 --> 08:35.080
+It's been criticized, some of the people that are added to the board.
+
+08:35.080 --> 08:39.680
+I heard a lot of people criticizing the addition of Larry Summers, for example.
+
+08:39.680 --> 08:41.880
+What's the process of selecting the board like?
+
+08:41.880 --> 08:43.160
+What's involved in that?
+
+08:43.160 --> 08:48.160
+So Brett and Larry were kind of decided in the heat of the moment over this like very
+
+08:48.160 --> 08:49.160
+tense weekend.
+
+08:49.160 --> 08:51.840
+And that weekend was like a real roller coaster.
+
+08:51.840 --> 08:56.640
+It was like a lot of ups and downs.
+
+08:56.640 --> 09:05.320
+And we were trying to agree on new board members that both sort of the executive team here
+
+09:05.320 --> 09:10.200
+and the old board members felt would be reasonable.
+
+09:10.200 --> 09:13.120
+Larry was actually one of their suggestions, the old board members.
+
+09:13.120 --> 09:18.960
+Brett, I think I had even previous to that weekend suggested, but he was busy and didn't
+
+09:18.960 --> 09:19.960
+want to do it.
+
+09:19.960 --> 09:22.240
+And then we really needed help and would.
+
+09:22.240 --> 09:24.120
+We talked about a lot of other people too.
+
+09:24.120 --> 09:35.200
+But that was, I felt like if I was going to come back, I needed new board members.
+
+09:35.200 --> 09:39.560
+I didn't think I could work with the old board again in the same configuration, although
+
+09:39.560 --> 09:47.080
+we then decided, and I'm grateful that Adam would stay, but we wanted to get to, we considered
+
+09:47.080 --> 09:53.040
+various configurations, decided we wanted to get to a board of three and had to find
+
+09:53.040 --> 09:57.560
+two new board members over the course of sort of a short period of time.
+
+09:57.560 --> 10:02.520
+So those were decided honestly without, that's like you kind of do that on the battlefield.
+
+10:02.520 --> 10:05.800
+You don't have time to design a rigorous process then.
+
+10:05.800 --> 10:12.920
+For new board members since, and new board members will add going forward, we have some
+
+10:12.920 --> 10:17.960
+criteria that we think are important for the board to have, different expertise that we
+
+10:17.960 --> 10:19.800
+want the board to have.
+
+10:19.800 --> 10:23.480
+Unlike hiring an executive where you need them to do one role well, the board needs
+
+10:23.480 --> 10:29.360
+to do a whole role of kind of governance and thoughtfulness well.
+
+10:29.680 --> 10:34.120
+So one thing that Brett says, which I really like, is that we want to hire board members
+
+10:34.120 --> 10:39.960
+in slates, not as individuals one at a time, and thinking about a group of people that
+
+10:39.960 --> 10:45.680
+will bring nonprofit expertise, expertise in running companies, sort of good legal and
+
+10:45.680 --> 10:48.800
+governance expertise, that's kind of what we've tried to optimize for.
+
+10:48.800 --> 10:52.160
+So is technical savvy important for the individual board members?
+
+10:52.160 --> 10:55.040
+Not for every board member, but for certainly some you need that.
+
+10:55.040 --> 10:56.520
+That's part of what the board needs to do.
+
+10:56.520 --> 11:01.040
+So the interesting thing that people probably don't understand about OpenAI, I certainly
+
+11:01.040 --> 11:04.080
+don't, is all the details of running the business.
+
+11:04.080 --> 11:10.240
+When they think about the board, given the drama, they think about you, they think about
+
+11:10.240 --> 11:14.640
+if you reach AGI or you reach some of these incredibly impactful products and you build
+
+11:14.640 --> 11:18.320
+them and deploy them, what's the conversation with the board like?
+
+11:18.320 --> 11:24.280
+And they kind of think, all right, what's the right squad to have in that kind of situation,
+
+11:24.280 --> 11:25.280
+to deliberate.
+
+11:25.720 --> 11:29.840
+Look, I think you definitely need some technical experts there, and then you need some people
+
+11:29.840 --> 11:36.400
+who are like, how can we deploy this in a way that will help people in the world the
+
+11:36.400 --> 11:40.040
+most and people who have a very different perspective?
+
+11:40.040 --> 11:44.240
+I think a mistake that you or I might make is to think that only the technical understanding
+
+11:44.240 --> 11:48.880
+matters, and that's definitely part of the conversation you want that board to have.
+
+11:48.880 --> 11:53.120
+But there's a lot more about how that's going to just impact society and people's lives
+
+11:53.160 --> 11:55.360
+that you really want represented in there, too.
+
+11:55.360 --> 11:59.720
+And you're just kind of, are you looking at the track record of people or are you just
+
+11:59.720 --> 12:00.960
+having conversations?
+
+12:00.960 --> 12:01.960
+Track record is a big deal.
+
+12:01.960 --> 12:09.360
+You, of course, have a lot of conversations, but I, you know, there's some roles where
+
+12:09.360 --> 12:18.400
+I kind of totally ignore track record and just look at slope, kind of ignore the y-intercept.
+
+12:18.400 --> 12:19.400
+Thank you.
+
+12:19.400 --> 12:21.560
+Thank you for making it mathematical for the audience.
+
+12:21.560 --> 12:25.040
+For a board member, like, I do care much more about the y-intercept.
+
+12:25.040 --> 12:30.520
+Like I think there is something deep to say about track record there, and experience is
+
+12:30.520 --> 12:32.640
+sometimes very hard to replace.
+
+12:32.640 --> 12:36.720
+Do you try to fit a polynomial function or exponential one to the track record?
+
+12:36.720 --> 12:39.280
+That's not that, and analogy doesn't carry that far.
+
+12:39.280 --> 12:40.280
+All right.
+
+12:40.280 --> 12:45.600
+You mentioned some of the low points that weekend, what were some of the low points
+
+12:45.600 --> 12:47.720
+psychologically for you?
+
+12:47.720 --> 12:52.480
+Did you consider going to the Amazon jungle and just taking ayahuasca and disappearing
+
+12:52.480 --> 12:53.480
+forever or?
+
+12:53.480 --> 12:58.560
+I mean, there's so many low, like it was a very bad period of time.
+
+12:58.560 --> 13:04.960
+There were great high points, too, like my phone was just like sort of nonstop blowing
+
+13:04.960 --> 13:08.680
+up with nice messages from people I work with every day, people I hadn't talked to in a
+
+13:08.680 --> 13:09.680
+decade.
+
+13:09.680 --> 13:12.440
+I didn't get to like appreciate that as much as I should have because I was just like in
+
+13:12.440 --> 13:14.840
+the middle of this firefight, but that was really nice.
+
+13:14.840 --> 13:22.520
+But on the whole, it was like a very painful weekend and also just like a very, it was
+
+13:22.520 --> 13:28.640
+like a battle fought in public to a surprising degree, and that was extremely exhausting
+
+13:28.640 --> 13:30.720
+to me much more than I expected.
+
+13:30.720 --> 13:33.880
+I think fights are generally exhausting, but this one really was.
+
+13:33.880 --> 13:39.120
+You know, the board did this Friday afternoon.
+
+13:39.120 --> 13:44.320
+I really couldn't get much in the way of answers, but I also was just like, well, the board
+
+13:44.320 --> 13:49.200
+gets to do this, and so I'm going to think for a little bit about what I want to do,
+
+13:49.200 --> 13:56.880
+but I'll try to find the blessing in disguise here, and I was like, well, you know, my current
+
+13:56.880 --> 14:03.240
+job at OpenAI is or it was like to run a decently sized company at this point, and the thing
+
+14:03.240 --> 14:07.280
+I had always liked the most was just getting to like work with the researchers, and I was
+
+14:07.280 --> 14:12.360
+like, yeah, I can just go do like a very focused AGI research effort, and I got excited about
+
+14:12.360 --> 14:13.360
+that.
+
+14:13.440 --> 14:17.400
+It occurred to me at the time to like possibly that this was all going to get undone.
+
+14:17.400 --> 14:18.400
+This was like Friday afternoon.
+
+14:18.400 --> 14:21.560
+So you've accepted the death of this preview.
+
+14:21.560 --> 14:26.320
+Very quickly, very quickly, like within, you know, I mean, I went through like a little
+
+14:26.320 --> 14:30.320
+period of confusion and rage, but very quickly, and by Friday night, I was like talking to
+
+14:30.320 --> 14:37.560
+people about what was going to be next, and I was excited about that.
+
+14:37.560 --> 14:41.840
+I think it was Friday night evening for the first time that I heard from the exec team
+
+14:41.840 --> 14:47.360
+here, which is like, hey, we're going to like fight this, and you know, we think whatever,
+
+14:47.360 --> 14:52.120
+and then I went to bed just still being like, okay, excited, like onward.
+
+14:52.120 --> 14:54.120
+Were you able to sleep?
+
+14:54.120 --> 14:55.120
+Not a lot.
+
+14:55.120 --> 14:59.360
+It was one of the weird things was there was this like period of four and a half days where
+
+14:59.360 --> 15:04.920
+sort of didn't sleep much, didn't eat much, and still kind of had like a surprising amount
+
+15:04.920 --> 15:05.920
+of energy.
+
+15:05.920 --> 15:09.320
+You learn like a weird thing about adrenaline in wartime.
+
+15:09.800 --> 15:13.080
+So you kind of accepted the death of a, you know, this baby opening.
+
+15:13.080 --> 15:14.520
+And I was excited for the new thing.
+
+15:14.520 --> 15:16.800
+I was just like, okay, this was crazy, but whatever.
+
+15:16.800 --> 15:18.520
+It's a very good coping mechanism.
+
+15:18.520 --> 15:22.680
+And then Saturday morning, two of the board members called and said, hey, we, you know,
+
+15:22.680 --> 15:26.800
+destabilize, we didn't mean to destabilize things, we don't restore a lot of value here,
+
+15:26.800 --> 15:29.400
+you know, can we talk about you coming back?
+
+15:29.400 --> 15:34.320
+And I immediately didn't want to do that, but I thought a little more and I was like,
+
+15:34.320 --> 15:38.960
+well, I don't really care about the people here, the partners, shareholders, like all
+
+15:38.960 --> 15:41.400
+of the, I love this company.
+
+15:41.400 --> 15:44.080
+And so I thought about it and I was like, well, okay, but like here's, here's the stuff
+
+15:44.080 --> 15:45.800
+I would need.
+
+15:45.800 --> 15:53.320
+And then the most painful time of all was over the course of that weekend, I kept thinking
+
+15:53.320 --> 15:57.960
+and being told and we all kept, not just me, like the whole team here kept thinking, well,
+
+15:57.960 --> 16:02.440
+we are trying to like keep open eyes stabilized while the whole world was trying to break
+
+16:02.440 --> 16:04.480
+it apart, people trying to recruit, whatever.
+
+16:04.480 --> 16:06.880
+We kept being told like, all right, we're almost done, we're almost done, we just need
+
+16:07.040 --> 16:09.360
+a little bit more time.
+
+16:09.360 --> 16:11.520
+And it was this like very confusing state.
+
+16:11.520 --> 16:16.440
+And then Sunday evening, when again, like every few hours, I expected that we were going
+
+16:16.440 --> 16:21.440
+to be done and we're going to like figure out a way for me to return and things to go
+
+16:21.440 --> 16:28.000
+back to how they were, the board then appointed a new interim CEO.
+
+16:28.000 --> 16:30.840
+And then I was like, I mean, that is, that is, that feels really bad.
+
+16:30.840 --> 16:36.280
+That was the low point of the whole thing.
+
+16:36.280 --> 16:42.720
+You know, I'll tell you something, I, it felt very painful, but I felt a lot of love
+
+16:42.720 --> 16:43.720
+that whole weekend.
+
+16:43.720 --> 16:49.160
+It was not other than that one moment, Sunday night, I would not characterize my emotions
+
+16:49.160 --> 16:52.440
+as anger or hate.
+
+16:52.440 --> 16:59.120
+But I really just like, I felt a lot of love from people towards people.
+
+16:59.120 --> 17:03.240
+It was like painful, but it would like the dominant emotion of the weekend was love,
+
+17:03.240 --> 17:04.240
+not hate.
+
+17:04.240 --> 17:09.560
+You've spoken highly of Mira Moradi that she helped, especially as you put in the tweet,
+
+17:09.560 --> 17:12.440
+in the quiet moments when it counts.
+
+17:12.440 --> 17:14.360
+Perhaps we could take a bit of a tangent.
+
+17:14.360 --> 17:15.840
+What do you admire about Mira?
+
+17:15.840 --> 17:22.800
+Well, she did a great job during that weekend in a lot of chaos, but people often see leaders
+
+17:22.800 --> 17:27.840
+in the moment, in like the crisis moments, good or bad.
+
+17:27.840 --> 17:34.120
+But a thing I really value in leaders is how people act on a boring Tuesday at 946 in the
+
+17:34.120 --> 17:41.480
+morning and in just sort of the normal drudgery of the day to day.
+
+17:41.480 --> 17:45.760
+How someone shows up in a meeting, the quality of the decisions they make.
+
+17:45.760 --> 17:48.200
+That was what I meant about the quiet moments.
+
+17:48.200 --> 17:55.840
+Meaning like most of the work is done on a day by day in a meeting by meeting, just be
+
+17:55.840 --> 17:58.400
+present and make great decisions.
+
+17:58.400 --> 17:59.400
+Yeah.
+
+17:59.400 --> 18:02.800
+I mean, look, what you wanted to, have wanted to spend the last 20 minutes about and I understand
+
+18:02.800 --> 18:08.440
+is like this one very dramatic weekend, but that's not really what opening eye is about.
+
+18:08.440 --> 18:10.400
+Opening eye is really about the other seven years.
+
+18:10.400 --> 18:11.400
+Well, yeah.
+
+18:11.400 --> 18:16.400
+Human civilization is not about the invasion of the Soviet Union by Nazi Germany, but still
+
+18:16.400 --> 18:19.280
+that's something people focus on.
+
+18:19.280 --> 18:20.280
+Very understandable.
+
+18:20.280 --> 18:25.040
+It gives us an insight into human nature, the extremes of human nature and perhaps some
+
+18:25.040 --> 18:29.360
+of the damage and some of the triumphs of human civilization can happen in those moments.
+
+18:29.360 --> 18:30.360
+That's like illustrative.
+
+18:30.360 --> 18:33.840
+Let me ask you about Ilya.
+
+18:33.840 --> 18:36.640
+Is he being held hostage in a secret nuclear facility?
+
+18:36.640 --> 18:37.640
+No.
+
+18:37.640 --> 18:39.080
+What about a regular secret facility?
+
+18:39.080 --> 18:40.080
+No.
+
+18:40.080 --> 18:41.840
+What about a nuclear non-secret facility?
+
+18:41.840 --> 18:42.840
+Neither.
+
+18:42.840 --> 18:43.840
+Not that either.
+
+18:43.840 --> 18:45.560
+I mean, this is becoming a meme at some point.
+
+18:45.560 --> 18:47.760
+You've known Ilya for a long time.
+
+18:47.760 --> 18:54.200
+He's obviously in part of this drama with the board and all that kind of stuff.
+
+18:54.200 --> 18:57.040
+What's your relationship with him now?
+
+18:57.040 --> 18:58.040
+I love Ilya.
+
+18:58.040 --> 18:59.760
+I have tremendous respect for Ilya.
+
+18:59.760 --> 19:03.960
+I don't have anything I can say about his plans right now.
+
+19:03.960 --> 19:06.720
+That's a question for him.
+
+19:06.720 --> 19:12.160
+But I really hope we work together for certainly the rest of my career.
+
+19:12.160 --> 19:13.160
+He's a little bit younger than me.
+
+19:13.160 --> 19:16.160
+Maybe he works a little bit longer.
+
+19:16.160 --> 19:20.160
+There's a meme that he saw something.
+
+19:20.160 --> 19:25.200
+He maybe saw AGI and that gave him a lot of worry internally.
+
+19:25.200 --> 19:27.200
+What did Ilya see?
+
+19:28.080 --> 19:30.080
+Ilya has not seen AGI.
+
+19:30.080 --> 19:31.080
+None of us have seen AGI.
+
+19:31.080 --> 19:35.800
+We've not built AGI.
+
+19:35.800 --> 19:45.240
+I do think one of the many things that I really love about Ilya is he takes AGI and the safety
+
+19:45.240 --> 19:51.680
+concerns broadly speaking, including things like the impact this is going to have on society
+
+19:51.680 --> 19:55.760
+very seriously.
+
+19:55.760 --> 20:00.960
+As we continue to make significant progress, Ilya is one of the people that I've spent
+
+20:00.960 --> 20:06.800
+the most time over the last couple of years talking about what this is going to mean,
+
+20:06.800 --> 20:14.040
+what we need to do to ensure we get it right, to ensure that we succeed at the mission.
+
+20:14.040 --> 20:26.840
+Ilya did not see AGI, but Ilya is a credit to humanity in terms of how much he thinks
+
+20:26.840 --> 20:30.440
+and worries about making sure we get this right.
+
+20:30.440 --> 20:32.280
+I've had a bunch of conversations with him in the past.
+
+20:32.280 --> 20:37.280
+I think when he talks about technology, he's always doing this long-term thinking type
+
+20:37.280 --> 20:38.280
+of thing.
+
+20:38.280 --> 20:40.680
+He's not thinking about what this is going to be in a year.
+
+20:40.680 --> 20:43.200
+He's thinking about it in 10 years.
+
+20:43.200 --> 20:48.800
+He's thinking from first principles like, okay, if the scales, what are the fundamentals
+
+20:48.800 --> 20:49.800
+here?
+
+20:49.800 --> 20:51.800
+Where is this going?
+
+20:51.800 --> 20:56.000
+That's a foundation for them thinking about all the other safety concerns and all that
+
+20:56.000 --> 21:02.360
+kind of stuff, which makes him a really fascinating human to talk with.
+
+21:02.360 --> 21:06.160
+Do you have any idea why he's been kind of quiet?
+
+21:06.160 --> 21:08.000
+He's just doing some soul searching?
+
+21:08.000 --> 21:11.720
+Again, I don't want to speak for Ilya.
+
+21:11.720 --> 21:18.120
+I think that you should ask him that.
+
+21:18.120 --> 21:23.000
+He's definitely a thoughtful guy.
+
+21:23.000 --> 21:27.360
+I think I kind of think Ilya is always on the soul search in a really good way.
+
+21:27.360 --> 21:28.360
+Yes.
+
+21:28.360 --> 21:29.360
+Yeah.
+
+21:29.360 --> 21:31.560
+Also, he appreciates the power of silence.
+
+21:31.560 --> 21:36.280
+Also, I'm told he can be a silly guy, which I've never seen that side of him.
+
+21:36.280 --> 21:39.600
+It's very sweet when that happens.
+
+21:39.600 --> 21:43.880
+I've never witnessed a silly Ilya, but I look forward to that as well.
+
+21:43.880 --> 21:47.360
+I was at a dinner party with him recently, and he was playing with a puppy.
+
+21:47.360 --> 21:52.160
+He was in a very silly mood, very endearing, and I was thinking, oh man, this is not the
+
+21:52.160 --> 21:55.920
+side of Ilya that the world sees the most.
+
+21:55.920 --> 22:01.800
+Just to wrap up this whole saga, are you feeling good about the board structure about all of
+
+22:01.800 --> 22:03.760
+this and where it's moving?
+
+22:03.760 --> 22:05.280
+I feel great about the new board.
+
+22:05.320 --> 22:10.560
+In terms of the structure of OpenAI, one of the board's tasks is to look at that and see
+
+22:10.560 --> 22:13.240
+where we can make it more robust.
+
+22:13.240 --> 22:19.480
+We wanted to get new board members in place first, but we clearly learned a lesson about
+
+22:19.480 --> 22:21.600
+structure throughout this process.
+
+22:21.600 --> 22:25.120
+I don't have, I think, super deep things to say.
+
+22:25.120 --> 22:27.400
+It was a crazy, very painful experience.
+
+22:27.400 --> 22:29.960
+I think it was like a perfect storm of weirdness.
+
+22:29.960 --> 22:33.800
+It was like a preview for me of what's going to happen as the stakes get higher and higher
+
+22:33.840 --> 22:39.880
+and the need that we have robust governance structures and processes and people.
+
+22:39.880 --> 22:47.440
+I am kind of happy it happened when it did, but it was a shockingly painful thing to go through.
+
+22:47.440 --> 22:50.840
+Did it make you be more hesitant in trusting people?
+
+22:50.840 --> 22:51.560
+Yes.
+
+22:51.560 --> 22:52.320
+Just on a personal level?
+
+22:52.320 --> 22:53.000
+Yes.
+
+22:53.000 --> 22:54.640
+I think I'm like an extremely trusting person.
+
+22:54.640 --> 22:59.360
+I always had a life philosophy of don't worry about all of the paranoia.
+
+22:59.360 --> 23:01.440
+Don't worry about the edge cases.
+
+23:01.440 --> 23:08.080
+You get a little bit screwed in exchange for getting to live with your guard down.
+
+23:08.080 --> 23:09.400
+This was so shocking to me.
+
+23:09.400 --> 23:15.400
+I was so caught off guard that it has definitely changed and I really don't like this.
+
+23:15.400 --> 23:19.640
+It's definitely changed how I think about just default trust of people and planning
+
+23:19.640 --> 23:21.600
+for the bad scenarios.
+
+23:21.600 --> 23:23.080
+You've got to be careful with that.
+
+23:23.080 --> 23:26.560
+Are you worried about becoming a little too cynical?
+
+23:26.560 --> 23:28.040
+I'm not worried about becoming too cynical.
+
+23:28.040 --> 23:31.880
+I think I'm like the extreme opposite of a cynical person, but I'm worried about just
+
+23:31.880 --> 23:35.920
+becoming less of a default trusting person.
+
+23:35.920 --> 23:42.560
+I'm actually not sure which mode is best to operate in for a person who's developing AGI.
+
+23:42.560 --> 23:44.600
+Trusting or untrusting.
+
+23:44.600 --> 23:48.280
+It's an interesting journey you're on.
+
+23:48.280 --> 23:52.760
+But in terms of structure, I'm more interested on the human level.
+
+23:52.760 --> 23:56.440
+How do you surround yourself with humans that are building cool shit,
+
+23:56.520 --> 24:00.760
+but also are making wise decisions?
+
+24:00.760 --> 24:05.920
+The more money you start making, the more power the thing has, the weirder people get.
+
+24:05.920 --> 24:13.000
+I think you could make all kinds of comments about the board members and the level of trust
+
+24:13.000 --> 24:16.280
+I should have had there or how I should have done things differently.
+
+24:16.280 --> 24:23.800
+But in terms of the team here, I think you'd have to give me a very good grade on that one.
+
+24:23.800 --> 24:30.120
+I have enormous gratitude and trust and respect for the people that I work with every day.
+
+24:30.120 --> 24:40.000
+I think being surrounded with people like that is really important.
+
+24:40.000 --> 24:45.120
+Our mutual friend, Elon, sued OpenAI.
+
+24:45.120 --> 24:48.560
+What is the essence of what he's criticizing?
+
+24:48.560 --> 24:50.080
+To what degree does he have a point?
+
+24:50.080 --> 24:52.320
+To what degree is he wrong?
+
+24:52.320 --> 24:54.400
+I don't know what it's really about.
+
+24:54.400 --> 25:00.760
+We started off just thinking we were going to be a research lab and having no idea about
+
+25:00.760 --> 25:02.160
+how this technology was going to go.
+
+25:02.160 --> 25:06.040
+It's hard to, because it was only seven or eight years ago, it's hard to go back and
+
+25:06.040 --> 25:08.080
+really remember what it was like then.
+
+25:08.080 --> 25:12.480
+But before language models were a big deal, this was before we had any idea about an API
+
+25:12.480 --> 25:15.400
+or selling access to a chat bot.
+
+25:15.400 --> 25:17.920
+Before we had any idea we were going to productize at all.
+
+25:17.920 --> 25:22.040
+So we're just going to try to do research and we don't really know what we're going
+
+25:22.040 --> 25:23.200
+to do with that.
+
+25:23.200 --> 25:27.880
+I think with many fundamentally new things, you start fumbling through the dark and you
+
+25:27.880 --> 25:31.960
+make some assumptions, most of which turn out to be wrong.
+
+25:31.960 --> 25:41.880
+And then it became clear that we were going to need to do different things and also have
+
+25:41.880 --> 25:43.940
+huge amounts more capital.
+
+25:43.940 --> 25:46.800
+So we said, okay, well, the structure doesn't quite work for that.
+
+25:46.800 --> 25:49.200
+How do we patch the structure?
+
+25:49.200 --> 25:52.360
+And then patch it again and patch it again and you end up with something that does look
+
+25:52.360 --> 25:56.320
+kind of eyebrow-raising to say the least.
+
+25:56.320 --> 26:01.880
+But we got here gradually with, I think, reasonable decisions at each point along the way.
+
+26:01.880 --> 26:06.320
+And doesn't mean I wouldn't do it totally differently if we could go back now with Oracle,
+
+26:06.320 --> 26:08.440
+but you don't get the Oracle at the time.
+
+26:08.440 --> 26:12.920
+But anyway, in terms of what Elon's real motivations here are, I don't know.
+
+26:12.920 --> 26:19.080
+To the degree you remember, what was the response that OpenAI gave in the blog post?
+
+26:19.080 --> 26:21.040
+Can you summarize it?
+
+26:21.040 --> 26:27.160
+Oh, we just said like, you know, Elon said this set of things.
+
+26:27.160 --> 26:32.320
+Here's our characterization or here's the sort of, not our characterization, here's
+
+26:32.320 --> 26:35.400
+like the characterization of how this went down.
+
+26:35.400 --> 26:44.080
+We tried to like not make it emotional and just sort of say like, here's the history.
+
+26:44.080 --> 26:54.560
+I do think there's a degree of mischaracterization from Elon here about one of the points you
+
+26:54.560 --> 26:59.040
+just made, which is the degree of uncertainty you had at the time.
+
+26:59.040 --> 27:06.480
+You guys are a bunch of like a small group of researchers crazily talking about AGI when
+
+27:06.480 --> 27:08.480
+everybody's laughing at that thought.
+
+27:08.480 --> 27:13.440
+Wasn't that long ago Elon was crazily talking about launching rockets?
+
+27:13.440 --> 27:16.880
+And people were laughing at that thought.
+
+27:16.880 --> 27:20.560
+So I think he'd have more empathy for this.
+
+27:20.560 --> 27:25.320
+I mean, I do think that there's personal stuff here.
+
+27:25.320 --> 27:32.200
+That there was a split that OpenAI and a lot of amazing people here chose to part ways
+
+27:32.200 --> 27:33.200
+with Elon.
+
+27:33.200 --> 27:34.200
+So there's a personal-
+
+27:34.200 --> 27:37.560
+Elon chose to part ways.
+
+27:37.560 --> 27:41.720
+Can you describe that exactly, the choosing to part ways?
+
+27:41.960 --> 27:44.160
+He thought OpenAI was going to fail.
+
+27:44.160 --> 27:46.560
+He wanted total control to sort of turn it around.
+
+27:46.560 --> 27:50.080
+We wanted to keep going in the direction that now has become OpenAI.
+
+27:50.080 --> 27:52.760
+He also wanted Tesla to be able to build an AGI effort.
+
+27:52.760 --> 27:58.520
+At various times he wanted to make OpenAI into a for-profit company that he could have
+
+27:58.520 --> 28:01.920
+control of or have it merge with Tesla.
+
+28:01.920 --> 28:06.500
+We didn't want to do that and he decided to leave, which that's fine.
+
+28:06.500 --> 28:10.620
+So you're saying, and that's one of the things that the blog post says, is that he wanted
+
+28:10.620 --> 28:19.580
+OpenAI to be basically acquired by Tesla in the same way that, or maybe something similar
+
+28:19.580 --> 28:23.060
+or maybe something more dramatic than the partnership with Microsoft.
+
+28:23.060 --> 28:27.300
+My memory is the proposal was just like, yeah, get acquired by Tesla and have Tesla have
+
+28:27.300 --> 28:28.300
+full control over it.
+
+28:28.300 --> 28:29.580
+I'm pretty sure that's what it was.
+
+28:29.580 --> 28:36.380
+So what is the word open in OpenAI mean to Elon at the time?
+
+28:36.380 --> 28:40.060
+Ilya has talked about this in the email exchanges and all this kind of stuff.
+
+28:40.060 --> 28:41.860
+What does it mean to you at the time?
+
+28:41.860 --> 28:43.620
+What does it mean to you now?
+
+28:43.620 --> 28:46.420
+I would definitely pick a different, speaking of going back with an Oracle, I'd pick a different
+
+28:46.420 --> 28:49.180
+name.
+
+28:49.180 --> 28:53.420
+One of the things that I think OpenAI is doing that is the most important of everything that
+
+28:53.420 --> 29:01.820
+we're doing is putting powerful technology in the hands of people for free as a public
+
+29:01.820 --> 29:02.820
+good.
+
+29:02.820 --> 29:05.420
+We don't run ads on a free version.
+
+29:05.420 --> 29:08.380
+We don't monetize it in other ways.
+
+29:08.380 --> 29:10.420
+We just say it's part of our mission.
+
+29:10.420 --> 29:14.020
+We want to put increasingly powerful tools in the hands of people for free and get them
+
+29:14.020 --> 29:15.940
+to use them.
+
+29:15.940 --> 29:22.180
+I think that kind of open is really important to our mission.
+
+29:22.180 --> 29:25.340
+I think if you give people great tools and teach them to use them or don't even teach
+
+29:25.340 --> 29:29.380
+them, they'll figure it out and let them go build an incredible future for each other
+
+29:29.380 --> 29:31.940
+with that, that's a big deal.
+
+29:31.940 --> 29:37.580
+So if we can keep putting free or low cost or free and low cost powerful AI tools out
+
+29:37.580 --> 29:43.840
+in the world, I think it's a huge deal for how we fulfill the mission.
+
+29:43.840 --> 29:49.380
+Open source or not, yeah, I think we should open source some stuff and not other stuff.
+
+29:49.380 --> 29:53.340
+It does become this religious battle line where nuance is hard to have, but I think
+
+29:53.340 --> 29:55.540
+nuance is the right answer.
+
+29:55.540 --> 29:59.140
+So he said, change your name to closed AI and I'll drop the lawsuit.
+
+29:59.140 --> 30:06.260
+I mean, is it going to become this battleground in the land of memes about the name?
+
+30:06.260 --> 30:18.380
+I think that speaks to the seriousness with which Elon means the lawsuit, and that's like
+
+30:18.380 --> 30:21.540
+an astonishing thing to say, I think.
+
+30:21.540 --> 30:26.640
+Well I don't think the lawsuit, maybe correct me if I'm wrong, but I don't think the lawsuit
+
+30:26.640 --> 30:28.620
+is legally serious.
+
+30:28.620 --> 30:33.180
+It's more to make a point about the future of AGI and the company that's currently leading
+
+30:33.180 --> 30:36.180
+the way.
+
+30:36.180 --> 30:41.660
+So look, I mean, Grok had not open sourced anything until people pointed out it was a
+
+30:41.660 --> 30:45.740
+little bit hypocritical and then he announced that Grok will open source things this week.
+
+30:45.820 --> 30:49.020
+I don't think open source versus not is what this is really about for him.
+
+30:49.020 --> 30:50.700
+Well we'll talk about open source and not.
+
+30:50.700 --> 30:54.900
+I do think maybe criticizing the competition is great, just talking a little shit that's
+
+30:54.900 --> 31:00.540
+great, but friendly competition versus like, I personally hate lawsuits.
+
+31:00.540 --> 31:05.580
+Look, I think this whole thing is like unbecoming of the builder, and I respect Elon as one
+
+31:05.580 --> 31:15.220
+of the great builders of our time, and I know he knows what it's like to have haters attack
+
+31:15.220 --> 31:17.900
+him, and it makes me extra sad he's doing it to us.
+
+31:17.900 --> 31:21.660
+Yeah, he's one of the greatest builders of all time, potentially the greatest builder
+
+31:21.660 --> 31:22.660
+of all time.
+
+31:22.660 --> 31:23.660
+It makes me sad.
+
+31:23.660 --> 31:26.580
+I think it makes a lot of people sad, like there's a lot of people who've really looked
+
+31:26.580 --> 31:31.700
+up to him for a long time, and I said in some interview or something that I miss the old
+
+31:31.700 --> 31:36.740
+Elon, and the number of messages I got being like that exactly encapsulates how I feel.
+
+31:36.740 --> 31:39.140
+I think he should just win.
+
+31:39.140 --> 31:47.220
+You should just make X Grok beat GPT, and then GPT beats Grok, and it's just a competition,
+
+31:47.220 --> 31:49.820
+and it's beautiful for everybody.
+
+31:49.820 --> 31:53.860
+But on the question of open source, do you think, there's a lot of companies playing
+
+31:53.860 --> 31:54.860
+with this idea.
+
+31:54.860 --> 31:55.860
+It's quite interesting.
+
+31:55.860 --> 32:03.860
+I would say Metta, surprisingly, has led the way on this, or at least took the first step
+
+32:03.860 --> 32:08.140
+in the game of chess of really open sourcing the model.
+
+32:08.140 --> 32:14.780
+Of course, it's not a state-of-the-art model, but open sourcing llama, and Google is flirting
+
+32:14.780 --> 32:18.700
+with the idea of open sourcing a smaller version.
+
+32:18.700 --> 32:20.540
+What are the pros and cons of open sourcing?
+
+32:20.540 --> 32:22.540
+Have you played around with this idea?
+
+32:22.540 --> 32:27.020
+Yeah, I think there is definitely a place for open source models, particularly smaller
+
+32:27.020 --> 32:28.420
+models that people can run locally.
+
+32:28.420 --> 32:30.900
+I think there's huge demand for.
+
+32:30.900 --> 32:33.940
+I think there will be some open source models.
+
+32:33.940 --> 32:36.380
+There will be some closed source models.
+
+32:36.380 --> 32:39.180
+It won't be unlike other ecosystems in that way.
+
+32:39.180 --> 32:44.220
+I listened to All In podcast talking about this loss and all that kind of stuff, and
+
+32:44.220 --> 32:52.140
+they were more concerned about the precedent of going from non-profit to this cap for profit.
+
+32:52.140 --> 32:56.620
+What precedent this sets for other startups?
+
+32:56.620 --> 33:01.020
+I would heavily discourage any startup that was thinking about starting as a non-profit
+
+33:01.020 --> 33:03.100
+and adding a for-profit arm later.
+
+33:03.100 --> 33:04.420
+I'd heavily discourage them from doing that.
+
+33:04.420 --> 33:05.900
+I don't think we'll set a precedent here.
+
+33:05.900 --> 33:08.740
+Okay, so most startups should go just...
+
+33:08.740 --> 33:10.020
+For sure.
+
+33:10.020 --> 33:12.740
+If we knew what was going to happen, we would have done that too.
+
+33:12.740 --> 33:19.500
+In theory, if you dance beautifully here, there's some tax incentives or whatever.
+
+33:19.500 --> 33:22.340
+I don't think that's how most people think about these things.
+
+33:22.340 --> 33:26.460
+It's not possible to save a lot of money for a startup if you do it this way.
+
+33:26.460 --> 33:30.700
+No, I think there's laws that would make that pretty difficult.
+
+33:30.700 --> 33:35.500
+Where do you hope this goes with Elon?
+
+33:35.500 --> 33:37.660
+This tension, this dance, where do you hope this...
+
+33:37.660 --> 33:44.140
+If we go one, two, three years from now, your relationship with him on a personal level
+
+33:44.140 --> 33:50.340
+too, like friendship, friendly competition, just all this kind of stuff.
+
+33:50.340 --> 34:01.140
+Yeah, I really respect Elon.
+
+34:01.140 --> 34:04.380
+I hope that years in the future, we have an amicable relationship.
+
+34:05.260 --> 34:11.260
+Yeah, I hope you guys have an amicable relationship like this month.
+
+34:11.260 --> 34:17.340
+And just compete and win and explore these ideas together.
+
+34:17.340 --> 34:25.340
+I do suppose there's competition for talent or whatever, but it should be friendly competition.
+
+34:25.340 --> 34:28.620
+Just build cool shit.
+
+34:28.620 --> 34:32.980
+And Elon is pretty good at building cool shit, but so are you.
+
+34:32.980 --> 34:40.140
+So speaking of cool shit, Sora, there's like a million questions I could ask.
+
+34:40.140 --> 34:41.820
+First of all, it's amazing.
+
+34:41.820 --> 34:46.060
+It truly is amazing on a product level, but also just on a philosophical level.
+
+34:46.060 --> 34:52.820
+So let me just technical slash philosophical ask, what do you think it understands about
+
+34:52.820 --> 34:58.180
+the world more or less than GPT-4, for example?
+
+34:58.180 --> 35:04.140
+The world model, when you train on these patches versus language tokens?
+
+35:04.140 --> 35:10.820
+I think all of these models understand something more about the world model than most of us
+
+35:10.820 --> 35:12.820
+give them credit for.
+
+35:12.820 --> 35:18.260
+And because they're also very clear things, they just don't understand or don't get right.
+
+35:18.260 --> 35:23.160
+It's easy to look at the weaknesses, see through the veil and say, ah, this is all fake.
+
+35:23.160 --> 35:24.160
+But it's not all fake.
+
+35:24.160 --> 35:26.920
+It's just some of it works and some of it doesn't work.
+
+35:26.920 --> 35:32.440
+I remember when I started first watching Sora videos and I would see a person walk in front
+
+35:32.440 --> 35:36.040
+of something for a few seconds and occlude it and then walk away and the same thing was
+
+35:36.040 --> 35:37.040
+still there.
+
+35:37.040 --> 35:38.800
+I was like, ah, this is pretty good.
+
+35:38.800 --> 35:45.900
+Or there's examples where the underlying physics looks so well represented over a lot of steps
+
+35:45.900 --> 35:46.900
+in a sequence.
+
+35:46.900 --> 35:49.280
+It's like, ah, this is quite impressive.
+
+35:49.280 --> 35:54.600
+But fundamentally, these models are just getting better and that will keep happening.
+
+35:54.600 --> 36:00.180
+If you look at the trajectory from Dolly 1 to 2 to 3 to Sora, there are a lot of people
+
+36:00.180 --> 36:04.260
+that were dunked on each verse and saying, it can't do this, it can't do that, and look
+
+36:04.260 --> 36:05.260
+at it now.
+
+36:05.260 --> 36:12.000
+Well, the thing you just mentioned is kind of with occlusions is basically modeling the
+
+36:12.000 --> 36:16.000
+physics of the three-dimensional physics of the world sufficiently well to capture those
+
+36:16.000 --> 36:17.000
+kinds of things.
+
+36:17.000 --> 36:18.000
+Well.
+
+36:18.200 --> 36:23.520
+Or like, yeah, maybe you can tell me, in order to deal with occlusions, what does the world
+
+36:23.520 --> 36:24.520
+model need to?
+
+36:24.520 --> 36:25.520
+Yeah.
+
+36:25.520 --> 36:28.000
+So what I would say is it's doing something to deal with occlusions really well.
+
+36:28.000 --> 36:32.400
+What I represent that it has like a great underlying 3D model of the world, it's a little
+
+36:32.400 --> 36:33.400
+bit more of a stretch.
+
+36:33.400 --> 36:39.020
+But can it get there through just these kinds of two-dimensional training data approaches?
+
+36:39.020 --> 36:41.400
+It looks like this approach is going to go surprisingly far.
+
+36:41.400 --> 36:46.200
+I don't want to speculate too much about what limits it will surmount and which it won't.
+
+36:46.200 --> 36:49.200
+What are some interesting limitations of the system that you've seen?
+
+36:49.200 --> 36:52.000
+I mean, there's been some fun ones you've posted.
+
+36:52.000 --> 36:53.000
+There's all kinds of fun.
+
+36:53.000 --> 36:59.320
+I mean, like, you know, cats sprouting an extra limb at random points in a video.
+
+36:59.320 --> 37:02.360
+Pick what you want, but there's still a lot of problems, a lot of weaknesses.
+
+37:02.360 --> 37:06.200
+Do you think that's a fundamental flaw of the approach?
+
+37:06.200 --> 37:14.600
+Or is it just, you know, bigger model or better, like, technical details or better data, more
+
+37:14.600 --> 37:18.120
+data is going to solve the cat sprouting?
+
+37:18.120 --> 37:19.920
+I would say yes to both.
+
+37:19.920 --> 37:23.960
+Like I think there is something about the approach which just seems to feel different
+
+37:23.960 --> 37:28.280
+from how we think and learn and whatever.
+
+37:28.280 --> 37:30.720
+And then also I think it'll get better with skill.
+
+37:30.720 --> 37:35.360
+Like I mentioned, LLMs have tokens, text tokens, and Sora has visual patches.
+
+37:35.360 --> 37:41.200
+So it converts all visual data, diverse kinds of visual data, videos and images into patches.
+
+37:41.200 --> 37:44.280
+Is the training to the degree you can say fully self-supervised?
+
+37:44.280 --> 37:46.440
+Or is there some manual labeling going on?
+
+37:46.440 --> 37:49.800
+Like what's the involvement of humans in all this?
+
+37:49.800 --> 37:58.120
+I mean, without saying anything specific about the Sora approach, we use lots of human data
+
+37:58.120 --> 38:00.880
+in our work.
+
+38:00.880 --> 38:03.940
+But not internet-scale data.
+
+38:03.940 --> 38:05.720
+So lots of humans.
+
+38:05.720 --> 38:07.720
+Lots is a complicated word, Sam.
+
+38:07.720 --> 38:11.760
+I think lots is a fair word in this case.
+
+38:12.440 --> 38:16.840
+Because to me, lots, like listen, I'm an introvert and when I hang out with like three people,
+
+38:16.840 --> 38:17.840
+that's a lot of people.
+
+38:17.840 --> 38:19.640
+Four people, that's a lot.
+
+38:19.640 --> 38:21.880
+But I suppose you mean more than...
+
+38:21.880 --> 38:26.040
+More than three people work on labeling the data for these models, yeah.
+
+38:26.040 --> 38:32.280
+But fundamentally, there's a lot of self-supervised learning because what you mentioned in the
+
+38:32.280 --> 38:35.240
+technical report is internet-scale data.
+
+38:35.240 --> 38:37.200
+That's another beautiful...
+
+38:37.200 --> 38:38.920
+It's like poetry.
+
+38:38.920 --> 38:45.080
+So it's a lot of data that's not human-labeled, it's self-supervised in that way.
+
+38:45.080 --> 38:51.960
+And then the question is how much data is there on the internet that could be used that
+
+38:51.960 --> 38:58.080
+is conducive to this kind of self-supervised way if only we knew the details of the self-supervised.
+
+38:58.080 --> 39:02.640
+Have you considered opening it up a little more, details?
+
+39:02.640 --> 39:03.640
+We have.
+
+39:03.640 --> 39:04.640
+You mean for Sora specifically?
+
+39:05.600 --> 39:11.280
+Because it's so interesting that like can this...
+
+39:11.280 --> 39:16.800
+Can the same magic of LLMs now start moving towards visual data and what does that take
+
+39:16.800 --> 39:17.800
+to do that?
+
+39:17.800 --> 39:22.040
+I mean, it looks to me like yes, but we have more work to do.
+
+39:22.040 --> 39:23.040
+Sure.
+
+39:23.040 --> 39:24.040
+What are the dangers?
+
+39:24.040 --> 39:27.760
+Why are you concerned about releasing the system?
+
+39:27.760 --> 39:29.440
+What are some possible dangers of this?
+
+39:29.640 --> 39:34.800
+Frankly speaking, one thing we have to do before releasing the system is just like get
+
+39:34.800 --> 39:40.520
+it to work at a level of efficiency that will deliver the scale people are going to want
+
+39:40.520 --> 39:41.520
+from this.
+
+39:41.520 --> 39:43.920
+So I don't want to downplay that.
+
+39:43.920 --> 39:47.240
+And there's still a ton, ton of work to do there.
+
+39:47.240 --> 39:56.680
+But you can imagine issues with deepfakes, misinformation.
+
+39:56.680 --> 40:00.720
+We try to be a thoughtful company about what we put out into the world.
+
+40:00.720 --> 40:05.320
+And it doesn't take much thought to think about the ways this can go badly.
+
+40:05.320 --> 40:08.000
+There's a lot of tough questions here.
+
+40:08.000 --> 40:09.800
+You're dealing in a very tough space.
+
+40:09.800 --> 40:14.800
+Do you think training AI should be or is fair use under copyright law?
+
+40:14.800 --> 40:19.240
+I think the question behind that question is do people who create valuable data deserve
+
+40:19.240 --> 40:22.720
+to have some way that they get compensated for use of it?
+
+40:22.720 --> 40:25.920
+And that I think the answer is yes.
+
+40:25.920 --> 40:28.040
+I don't know yet what the answer is.
+
+40:28.040 --> 40:29.680
+People have proposed a lot of different things.
+
+40:29.680 --> 40:32.040
+We've tried some different models.
+
+40:32.040 --> 40:39.400
+But you know, if I'm like an artist, for example, A, I would like to be able to opt out of people
+
+40:39.400 --> 40:41.400
+generating art in my style.
+
+40:41.400 --> 40:45.400
+And B, if they do generate art in my style, I'd like to have some economic model associated
+
+40:45.400 --> 40:46.400
+with that.
+
+40:46.400 --> 40:52.760
+Yeah, it's that transition from CDs to Napster to Spotify to figure out some kind of model.
+
+40:52.760 --> 40:55.040
+The model changes, but people have got to get paid.
+
+40:55.800 --> 41:00.920
+Well, there should be some kind of incentive if we zoom out even more for humans to keep
+
+41:00.920 --> 41:02.560
+doing cool shit.
+
+41:02.560 --> 41:05.780
+Everything I worry about, humans are going to do cool shit and society is going to find
+
+41:05.780 --> 41:08.720
+some way to reward it.
+
+41:08.720 --> 41:10.400
+That seems pretty hardwired.
+
+41:10.400 --> 41:12.380
+We want to create, we want to be useful.
+
+41:12.380 --> 41:15.880
+We want to like achieve status in whatever way.
+
+41:15.880 --> 41:17.200
+That's not going anywhere, I don't think.
+
+41:17.200 --> 41:24.640
+But the reward might not be monetary, financial, it might be like fame and celebration of other
+
+41:24.640 --> 41:25.640
+cool people.
+
+41:25.640 --> 41:26.960
+Maybe financial in some other way.
+
+41:26.960 --> 41:30.440
+Again, I don't think we've seen like the last evolution of how the economic system's
+
+41:30.440 --> 41:31.440
+going to work.
+
+41:31.440 --> 41:36.600
+Yeah, but artists and creators are worried when they see Sora, they're like, holy shit.
+
+41:36.600 --> 41:37.600
+Sure.
+
+41:37.600 --> 41:41.880
+Artists were also super worried when photography came out and then photography became a new
+
+41:41.880 --> 41:45.920
+art form and people made a lot of money taking pictures.
+
+41:45.920 --> 41:47.640
+I think things like that will keep happening.
+
+41:47.640 --> 41:50.320
+People will use the new tools in new ways.
+
+41:50.320 --> 41:55.600
+If you just look on YouTube or something like this, how much of that will be using Sora
+
+41:55.600 --> 42:01.760
+like AI-generated content, do you think, in the next five years?
+
+42:01.760 --> 42:06.120
+People talk about like how many jobs they are going to do in five years and the framework
+
+42:06.120 --> 42:10.280
+that people have is what percentage of current jobs are just going to be totally replaced
+
+42:10.280 --> 42:13.560
+by some AI doing the job.
+
+42:13.560 --> 42:17.340
+The way I think about it is not what percent of jobs AI will do, but what percent of tasks
+
+42:17.340 --> 42:19.720
+will AI do and over what time horizon.
+
+42:19.720 --> 42:24.320
+If you think of all of the like five second tasks in the economy, the five minute tasks,
+
+42:24.320 --> 42:30.440
+the five hour tasks, maybe even the five day tasks, how many of those can AI do?
+
+42:30.440 --> 42:37.160
+I think that's a way more interesting, impactful, important question than how many jobs AI can
+
+42:37.160 --> 42:42.960
+do because it is a tool that will work at increasing levels of sophistication and over
+
+42:42.960 --> 42:48.240
+longer and longer time horizons for more and more tasks and let people operate at a higher
+
+42:48.320 --> 42:50.200
+level of abstraction.
+
+42:50.200 --> 42:54.640
+Maybe people are way more efficient at the job they do and at some point, that's not
+
+42:54.640 --> 42:58.800
+just a quantitative change, but it's a qualitative one too about the kinds of problems you can
+
+42:58.800 --> 43:00.360
+keep in your head.
+
+43:00.360 --> 43:04.320
+I think that for videos on YouTube, it'll be the same.
+
+43:04.320 --> 43:08.880
+Many videos, maybe most of them, will use AI tools in the production, but they'll still
+
+43:08.880 --> 43:14.520
+be fundamentally driven by a person thinking about it, putting it together, doing parts
+
+43:14.520 --> 43:17.880
+of it, sort of directing it and running it.
+
+43:18.040 --> 43:19.040
+Yeah, it's so interesting.
+
+43:19.040 --> 43:22.240
+I mean, it's scary, but it's interesting to think about.
+
+43:22.240 --> 43:26.960
+I tend to believe that humans like to watch other humans or other human life.
+
+43:26.960 --> 43:29.480
+Humans really care about other humans a lot.
+
+43:29.480 --> 43:30.480
+Yeah.
+
+43:30.480 --> 43:37.200
+If there's a cooler thing that's better than a human, humans care about that for like two
+
+43:37.200 --> 43:39.440
+days and then they go back to humans.
+
+43:39.440 --> 43:41.920
+That seems very deeply wired.
+
+43:41.920 --> 43:43.240
+It's the whole chess thing.
+
+43:43.240 --> 43:47.320
+Yeah, but now everybody keep playing chess.
+
+43:47.320 --> 43:51.360
+Just ignore the elephant in the room that humans are really bad at chess relative to
+
+43:51.360 --> 43:52.360
+AI systems.
+
+43:52.360 --> 43:54.280
+We still run races and cars are much faster.
+
+43:54.280 --> 43:56.040
+I mean, there's like a lot of examples.
+
+43:56.040 --> 44:02.640
+Yeah, and maybe it'll just be tooling like in the Adobe Suite type of way where you can
+
+44:02.640 --> 44:06.760
+just make videos much easier and all that kind of stuff.
+
+44:06.760 --> 44:09.480
+Listen, I hate being in front of the camera.
+
+44:09.480 --> 44:12.880
+If I can figure out a way to not be in front of the camera, I would love it.
+
+44:12.880 --> 44:16.400
+Unfortunately, it'll take a while like that.
+
+44:16.400 --> 44:17.400
+Generating faces.
+
+44:17.400 --> 44:21.600
+It's getting there, but generating faces in video format is tricky when it's specific
+
+44:21.600 --> 44:23.480
+people versus generating people.
+
+44:23.480 --> 44:27.120
+Let me ask you about GPT-4.
+
+44:27.120 --> 44:28.920
+There's so many questions.
+
+44:28.920 --> 44:34.000
+First of all, also amazing.
+
+44:34.000 --> 44:38.040
+Looking back, it'll probably be this kind of historic pivotal moment with three, five
+
+44:38.040 --> 44:40.280
+and four, which had GPT.
+
+44:40.280 --> 44:41.280
+Maybe five will be the pivotal moment.
+
+44:41.280 --> 44:42.280
+I don't know.
+
+44:42.280 --> 44:44.600
+It's hard to say that looking forwards.
+
+44:44.600 --> 44:45.600
+We never know.
+
+44:45.600 --> 44:46.600
+That's the annoying thing about the future.
+
+44:46.600 --> 44:47.600
+It's hard to predict.
+
+44:47.600 --> 44:54.920
+But for me, looking back, GPT-4, Chad's GPT is pretty damn impressive, historically impressive.
+
+44:54.920 --> 45:05.980
+So allow me to ask, what's been the most impressive capabilities of GPT-4 to you and GPT-4 Turbo?
+
+45:05.980 --> 45:08.560
+I think it kind of sucks.
+
+45:08.560 --> 45:09.560
+Typical human also.
+
+45:09.840 --> 45:11.320
+Gotten used to an awesome thing.
+
+45:11.320 --> 45:13.960
+No, I think it is an amazing thing.
+
+45:13.960 --> 45:23.480
+But relative to where we need to get to and where I believe we will get to, at the time
+
+45:23.480 --> 45:27.360
+of like GPT-3, people are like, oh, this is amazing.
+
+45:27.360 --> 45:31.520
+This is this like marvel of technology and it is, it was.
+
+45:31.520 --> 45:39.200
+But now we have GPT-4 and look at GPT-3 and you're like, that's unimaginably horrible.
+
+45:39.200 --> 45:44.760
+I expect that the delta between 5 and 4 will be the same as between 4 and 3.
+
+45:44.760 --> 45:50.000
+And I think it is our job to live a few years in the future and remember that the tools
+
+45:50.000 --> 45:55.360
+we have now are going to kind of suck looking backwards at them.
+
+45:55.360 --> 45:59.680
+And that's how we make sure the future is better.
+
+45:59.680 --> 46:04.520
+What are the most glorious ways that GPT-4 sucks?
+
+46:04.520 --> 46:06.360
+Meaning what are the best things it can do?
+
+46:06.520 --> 46:11.440
+What are the best things it can do and the limits of those best things that allow you
+
+46:11.440 --> 46:16.320
+to say it sucks, therefore gives you inspiration and hope for the future?
+
+46:16.320 --> 46:22.520
+You know, one thing I've been using it for more recently is sort of like a brainstorming
+
+46:22.520 --> 46:23.520
+partner.
+
+46:23.520 --> 46:24.520
+Yep.
+
+46:24.520 --> 46:30.040
+And there's a glimmer of something amazing in there.
+
+46:30.040 --> 46:34.240
+I don't think it gets, you know, when people talk about it, what it does, they're like,
+
+46:34.240 --> 46:39.080
+it helps me code more productively, it helps me write more faster and better, it helps
+
+46:39.080 --> 46:43.520
+me, you know, translate from this language to another, all these like amazing things.
+
+46:43.520 --> 46:52.640
+But there's something about the like kind of creative brainstorming partner, I need
+
+46:52.640 --> 46:55.480
+to come up with a name for this thing, I need to like think about this problem in a different
+
+46:55.480 --> 47:00.760
+way, I'm not sure what to do here, that I think like gives a glimpse of something I hope
+
+47:00.760 --> 47:03.420
+to see more of.
+
+47:03.420 --> 47:10.460
+One of the other things that you can see like a very small glimpse of is when it can help
+
+47:10.460 --> 47:15.660
+on longer horizon tasks, you know, break down something in multiple steps, maybe like execute
+
+47:15.660 --> 47:20.640
+some of the steps, search the internet, write code, whatever, put that together.
+
+47:20.640 --> 47:24.500
+When that works, which is not very often, it's like very magical.
+
+47:24.500 --> 47:29.060
+The iterative back and forth with a human, it works a lot for me, what do you mean?
+
+47:29.060 --> 47:32.060
+Iterative back and forth with a human, it can get more often, but it can go do like
+
+47:32.060 --> 47:37.140
+a 10 step problem on its own, doesn't work for that too often, sometimes.
+
+47:37.140 --> 47:41.100
+Add multiple layers of abstraction or do you mean just sequential?
+
+47:41.100 --> 47:45.340
+Both like, you know, to break it down and then do things at different layers of abstraction
+
+47:45.340 --> 47:46.900
+and put them together.
+
+47:46.900 --> 47:54.460
+Look, I don't want to like downplay the accomplishment of GPT-4, but I don't want to overstate it
+
+47:54.460 --> 47:55.460
+either.
+
+47:55.460 --> 48:00.460
+And I think this point that we are on an exponential curve, we will look back relatively soon at
+
+48:00.460 --> 48:03.940
+GPT-4, like we look back at GPT-3 now.
+
+48:03.940 --> 48:11.300
+That said, I mean, chat GPT was a transition to where people like started to believe there
+
+48:11.300 --> 48:17.020
+was a kind of, there is an uptick of believing, not internally at OpenAI perhaps, there's
+
+48:17.020 --> 48:19.260
+believers here, but...
+
+48:19.260 --> 48:23.100
+And in that sense, I do think it'll be a moment where a lot of the world went from not believing
+
+48:23.100 --> 48:25.340
+to believing.
+
+48:25.340 --> 48:30.580
+That was more about the chat GPT interface than the, and by the interface and product,
+
+48:30.580 --> 48:35.380
+I also mean the post-training of the model and how we tune it to be helpful to you and
+
+48:35.380 --> 48:38.340
+how to use it than the underlying model itself.
+
+48:38.340 --> 48:47.660
+How much of those two, each of those things are important, the underlying model and RLHF
+
+48:47.660 --> 48:54.060
+or something of that nature that tunes it to be more compelling to the human, more effective
+
+48:54.060 --> 48:55.340
+and productive for the human?
+
+48:55.340 --> 49:01.140
+I mean, they're both super important, but the RLHF, the post-training step, the little
+
+49:01.140 --> 49:06.340
+wrapper of things that, from a compute perspective, little wrapper of things that we do on top
+
+49:06.340 --> 49:08.900
+of the base model, even though it's a huge amount of work.
+
+49:08.900 --> 49:16.060
+That's really important to say nothing of the product that we build around it.
+
+49:16.060 --> 49:18.940
+In some sense, we did have to do two things.
+
+49:18.940 --> 49:27.900
+We had to invent the underlying technology and then we had to figure out how to make
+
+49:27.900 --> 49:32.780
+it into a product people would love, which is not just about the actual product work
+
+49:32.780 --> 49:37.500
+itself, but this whole other step of how you align and make it useful.
+
+49:37.500 --> 49:42.220
+And how you make the scale work where a lot of people can use it at the same time, all
+
+49:42.220 --> 49:43.220
+that kind of stuff.
+
+49:43.220 --> 49:44.220
+And that.
+
+49:44.220 --> 49:47.420
+But that was like a known difficult thing.
+
+49:47.420 --> 49:49.180
+We knew we were going to have to scale it up.
+
+49:49.180 --> 49:54.380
+We had to go do two things that had never been done before that were both, I would say,
+
+49:54.380 --> 49:56.140
+quite significant achievements.
+
+49:56.140 --> 50:01.500
+And then a lot of things like scaling it up that other companies had to do before.
+
+50:01.500 --> 50:11.980
+How does the context window of going from 8K to 128K tokens compare from GPT-4 to GPT-4
+
+50:11.980 --> 50:13.460
+Turbo?
+
+50:13.460 --> 50:18.660
+Most people don't need all the way to 128 most of the time, although if we dream into
+
+50:18.660 --> 50:23.340
+the distant future, we'll have like way distant future, we'll have like context length of
+
+50:23.340 --> 50:27.300
+several billion, you will feed in all of your information, all of your history over time
+
+50:27.300 --> 50:32.180
+and it'll just get to know you better and better and that'll be great.
+
+50:32.180 --> 50:37.780
+For now, the way people use these models, they're not doing that and people sometimes
+
+50:37.780 --> 50:45.800
+post in a paper or a significant fraction of a code repository or whatever.
+
+50:45.800 --> 50:49.340
+But most usage of the models is not using the long context most of the time.
+
+50:49.340 --> 50:54.220
+I like that this is your I have a dream speech.
+
+50:54.220 --> 51:00.380
+One day you'll be judged by the full context of your character or of your whole lifetime.
+
+51:00.380 --> 51:01.380
+That's interesting.
+
+51:01.380 --> 51:06.580
+So that's part of the expansion that you're hoping for is a greater and greater context.
+
+51:06.580 --> 51:09.500
+I saw this internet clip once, I'm going to get the numbers wrong, but it was like
+
+51:09.500 --> 51:15.700
+Bill Gates talking about the amount of memory on some early computer, maybe 64K, maybe 640K,
+
+51:15.700 --> 51:16.700
+something like that.
+
+51:16.700 --> 51:20.140
+Most of it was used for the screen buffer.
+
+51:20.140 --> 51:26.180
+He just couldn't seem genuine, couldn't imagine that the world would eventually need gigabytes
+
+51:26.180 --> 51:33.100
+of memory in a computer or terabytes of memory in a computer.
+
+51:33.100 --> 51:34.100
+You always do.
+
+51:34.100 --> 51:39.660
+Or you always do just need to follow the exponential of technology and we will find out how to
+
+51:39.660 --> 51:41.220
+use better technology.
+
+51:41.220 --> 51:45.420
+So I can't really imagine what it's like right now for context links to go out to the billions
+
+51:45.420 --> 51:46.420
+someday.
+
+51:46.420 --> 51:51.700
+And they might not literally go there, but effectively it'll feel like that.
+
+51:51.700 --> 51:56.060
+But I know we'll use it and really not want to go back once we have it.
+
+51:56.060 --> 52:03.060
+Yeah, even saying billions 10 years from now might seem dumb because there'll be like trillions
+
+52:03.060 --> 52:04.060
+upon trillions.
+
+52:04.060 --> 52:05.060
+Sure.
+
+52:05.060 --> 52:10.460
+There'll be some kind of breakthrough that will effectively feel like infinite context.
+
+52:10.460 --> 52:14.720
+But even 120, I have to be honest, I haven't pushed it to that degree.
+
+52:14.720 --> 52:20.860
+Maybe putting in entire books or like parts of books and so on, papers.
+
+52:20.860 --> 52:23.620
+What are some interesting use cases of GPT-4 that you've seen?
+
+52:23.620 --> 52:27.260
+The thing that I find most interesting is not any particular use case that we can talk
+
+52:27.260 --> 52:32.780
+about those, but it's people who kind of like, this is mostly younger people.
+
+52:32.780 --> 52:39.100
+But people who use it as like their default start for any kind of knowledge work task.
+
+52:39.100 --> 52:41.740
+And it's the fact that it can do a lot of things reasonably well.
+
+52:41.740 --> 52:45.100
+You can use GPT-V, you can use it to help you write code, you can use it to help you
+
+52:45.100 --> 52:48.380
+do search, you can use it like edit a paper.
+
+52:48.380 --> 52:52.220
+The most interesting to me is the people who just use it as the start of their workflow.
+
+52:52.220 --> 52:58.620
+I do as well for many things, like I use it as a reading partner for reading books.
+
+52:59.500 --> 53:02.900
+It helps me think, help me think through ideas, especially when the books are classic, so
+
+53:02.900 --> 53:09.820
+it's really well written about and it actually is as, I find it often to be significantly
+
+53:09.820 --> 53:13.140
+better than even like Wikipedia on well covered topics.
+
+53:13.140 --> 53:16.660
+It's somehow more balanced and more nuanced.
+
+53:16.660 --> 53:20.980
+Maybe it's me, but it inspires me to think deeper than a Wikipedia article does.
+
+53:20.980 --> 53:22.740
+I'm not exactly sure what that is.
+
+53:22.740 --> 53:26.380
+You mentioned like this collaboration, I'm not sure where the magic is, if it's in here
+
+53:26.540 --> 53:30.940
+or if it's in there or if it's somewhere in between, I'm not sure.
+
+53:30.940 --> 53:36.300
+But one of the things that concerns me for knowledge tasks when I start with GPT is I'll
+
+53:36.300 --> 53:43.780
+usually have to do fact checking after, like check that it didn't come up with fake stuff.
+
+53:43.780 --> 53:53.140
+How do you figure that out, that GPT can come up with fake stuff that sounds really convincing?
+
+53:53.140 --> 53:55.660
+So how do you ground it in truth?
+
+53:55.660 --> 53:58.740
+That's obviously an area of intense interest for us.
+
+53:58.740 --> 54:04.540
+I think it's going to get a lot better with upcoming versions, but we'll have to work
+
+54:04.540 --> 54:06.780
+on it and we're not going to have it all solved this year.
+
+54:06.780 --> 54:12.500
+Well, the scary thing is like as it gets better, you'll start not doing the fact checking more
+
+54:12.500 --> 54:13.500
+and more, right?
+
+54:13.500 --> 54:15.940
+I'm of two minds about that.
+
+54:15.940 --> 54:19.980
+I think people are like much more sophisticated users of technology than we often give them
+
+54:19.980 --> 54:24.860
+credit for and people seem to really understand that GPT, any of these models hallucinate
+
+54:24.860 --> 54:28.020
+some of the time and if it's mission critically, you got to check it.
+
+54:28.020 --> 54:29.660
+Except journalists don't seem to understand that.
+
+54:29.660 --> 54:34.500
+I've seen journalists half-assedly just using GPT for...
+
+54:34.500 --> 54:38.580
+Of the long list of things I'd like to dunk on journalists for, this is not my top criticism
+
+54:38.580 --> 54:39.580
+of them.
+
+54:39.580 --> 54:45.020
+Well, I think the bigger criticism is perhaps the pressures and the incentives of being
+
+54:45.020 --> 54:49.780
+a journalist is that you have to work really quickly and this is a shortcut.
+
+54:49.780 --> 54:53.540
+I would love our society to incentivize like...
+
+54:53.620 --> 54:54.620
+I would too.
+
+54:54.620 --> 55:02.580
+Like a journalistic efforts that take days and weeks and rewards great in-depth journalism.
+
+55:02.580 --> 55:07.900
+Also journalism that presents stuff in a balanced way where it's like celebrates people while
+
+55:07.900 --> 55:12.100
+criticizing them even though the criticism is the thing that gets clicks and making shit
+
+55:12.100 --> 55:16.260
+up also gets clicks and headlines that mischaracterize completely.
+
+55:16.260 --> 55:20.880
+I'm sure you have a lot of people dunking on, well, all that drama probably got a lot
+
+55:20.880 --> 55:21.880
+of clicks.
+
+55:21.880 --> 55:22.880
+Probably did.
+
+55:23.880 --> 55:30.960
+And that's a bigger problem about human civilization, I'd love to see solved, it's where we celebrate
+
+55:30.960 --> 55:32.640
+a bit more.
+
+55:32.640 --> 55:36.480
+You've given Chad's GPT the ability to have memories, you've been playing with that about
+
+55:36.480 --> 55:39.240
+previous conversations.
+
+55:39.240 --> 55:43.520
+And also the ability to turn off memory, I wish I could do that sometimes, just turn
+
+55:43.520 --> 55:51.640
+on and off depending, I guess sometimes alcohol can do that, but not optimally, I suppose.
+
+55:51.680 --> 55:55.800
+What have you seen through that, like playing around with that idea of remembering conversations
+
+55:55.800 --> 55:56.800
+and not?
+
+55:56.800 --> 56:00.960
+We're very early in our explorations here, but I think what people want or at least what
+
+56:00.960 --> 56:10.040
+I want for myself is a model that gets to know me and gets more useful to me over time.
+
+56:10.040 --> 56:15.680
+This is an early exploration, I think it's like a lot of other things to do, but that's
+
+56:15.680 --> 56:16.680
+where we'd like to head.
+
+56:16.680 --> 56:20.440
+You'd like to use a model and over the course of your life or use a system, there'll be
+
+56:20.440 --> 56:26.200
+many models and over the course of your life it gets better and better.
+
+56:26.200 --> 56:27.200
+How hard is that problem?
+
+56:27.200 --> 56:32.760
+Because right now it's more like remembering little factoids and preferences and so on.
+
+56:32.760 --> 56:37.480
+What about remembering, like don't you want GPT to remember all the shit you went through
+
+56:37.480 --> 56:42.720
+in November and all the drama and then you can, because right now you're clearly blocking
+
+56:42.720 --> 56:43.720
+it out a little bit.
+
+56:43.720 --> 56:49.560
+It's not just that I want it to remember that, I want it to integrate the lessons of that
+
+56:49.560 --> 57:00.140
+and remind me in the future what to do differently or what to watch out for.
+
+57:00.140 --> 57:06.280
+We all gain from experience over the course of our lives, varying degrees, and I'd like
+
+57:06.280 --> 57:09.680
+my AI agent to gain with that experience too.
+
+57:09.680 --> 57:16.720
+If we go back and let ourselves imagine that trillions and trillions of context length,
+
+57:17.720 --> 57:21.080
+if I can put every conversation I've ever had with anybody in my life in there, if I
+
+57:21.080 --> 57:25.520
+can have all of my emails input out, like all of my input output in the context window
+
+57:25.520 --> 57:28.880
+every time I ask a question, that'd be pretty cool I think.
+
+57:28.880 --> 57:31.880
+Yeah, I think that would be very cool.
+
+57:31.880 --> 57:35.840
+People sometimes will hear that and be concerned about privacy.
+
+57:35.840 --> 57:39.200
+What do you think about that aspect of it?
+
+57:39.200 --> 57:45.280
+The more effective the AI becomes at really integrating all the experiences and all the
+
+57:45.320 --> 57:48.360
+data that happened to you and giving you advice?
+
+57:48.360 --> 57:50.800
+I think the right answer there is just user choice.
+
+57:50.800 --> 57:54.040
+Anything I want stricken from the record from my AI agent, I want to be able to take out.
+
+57:54.040 --> 57:58.100
+If I don't want it to remember anything, I want that too.
+
+57:58.100 --> 58:03.480
+You and I may have different opinions about where on that privacy utility trade-off for
+
+58:03.480 --> 58:07.160
+our own AI we want to be, which is totally fine, but I think the answer is just really
+
+58:07.160 --> 58:08.680
+easy user choice.
+
+58:08.680 --> 58:14.200
+But there should be some high level of transparency from a company about the user choice because
+
+58:14.280 --> 58:22.160
+sometimes companies in the past have been kind of shady about like, it's kind of presumed
+
+58:22.160 --> 58:26.080
+that we're collecting all your data and we're using it for a good reason, for advertisement
+
+58:26.080 --> 58:31.400
+and so on, but there's not a transparency about the details of that.
+
+58:31.400 --> 58:32.480
+That's totally true.
+
+58:32.480 --> 58:34.880
+You mentioned earlier that I'm blocking out the November stuff.
+
+58:34.880 --> 58:37.600
+I'm just teasing you.
+
+58:37.600 --> 58:43.880
+I think it was a very traumatic thing and it did immobilize me for a long period of
+
+58:43.880 --> 58:44.880
+time.
+
+58:44.880 --> 58:52.040
+Definitely the hardest work that I've had to do was just keep working that period because
+
+58:52.040 --> 58:58.080
+I had to try to come back in here and put the pieces together while I was just in shock
+
+58:58.080 --> 59:00.280
+and pain.
+
+59:00.280 --> 59:01.280
+Nobody really cares about that.
+
+59:01.280 --> 59:05.080
+The team gave me a pass and I was not working at my normal level, but there was a period
+
+59:05.120 --> 59:09.160
+where I was just like, it was really hard to have to do both.
+
+59:09.160 --> 59:12.880
+But I kind of woke up one morning and I was like, this was a horrible thing that happened
+
+59:12.880 --> 59:13.880
+to me.
+
+59:13.880 --> 59:18.280
+I think I could just feel like a victim forever or I can say this is like the most important
+
+59:18.280 --> 59:21.520
+work I'll ever touch in my life and I need to get back to it.
+
+59:21.520 --> 59:27.120
+It doesn't mean that I've repressed it because sometimes I wake up in the middle of the night
+
+59:27.120 --> 59:31.400
+thinking about it, but I do feel like an obligation to keep moving forward.
+
+59:32.400 --> 59:36.400
+Well, that's beautifully said, but there could be some lingering stuff in there.
+
+59:36.400 --> 59:43.720
+What I would be concerned about is that trust thing that you mentioned, that being paranoid
+
+59:43.720 --> 59:49.320
+about people as opposed to just trusting everybody or most people, like using your gut.
+
+59:49.320 --> 59:50.720
+It's a tricky dance.
+
+59:50.720 --> 59:51.720
+For sure.
+
+59:51.720 --> 01:00:03.320
+I mean, as I've seen in my part-time explorations, I've been diving deeply into the Zelensky
+
+01:00:03.320 --> 01:00:08.280
+administration and the Putin administration and the dynamics there in wartime in a very
+
+01:00:08.280 --> 01:00:10.480
+highly stressful environment.
+
+01:00:10.480 --> 01:00:17.200
+And what happens is distrust and you isolate yourself both and you start to not see the
+
+01:00:17.200 --> 01:00:18.200
+world clearly.
+
+01:00:18.200 --> 01:00:20.920
+And that's a concern, that's a human concern.
+
+01:00:20.920 --> 01:00:24.880
+You seem to have taken a stride and kind of learned the good lessons and felt the love
+
+01:00:24.880 --> 01:00:30.600
+and let the love energize you, which is great, but it still can linger in there.
+
+01:00:30.600 --> 01:00:36.000
+There's just some questions I would love to ask of your intuition about what's GPT able
+
+01:00:36.000 --> 01:00:38.400
+to do and not.
+
+01:00:38.400 --> 01:00:44.660
+So it's allocating approximately the same amount of compute for each token it generates.
+
+01:00:44.660 --> 01:00:51.600
+Is there room there in this kind of approach to slower thinking, sequential thinking?
+
+01:00:51.600 --> 01:00:56.060
+I think there will be a new paradigm for that kind of thinking.
+
+01:00:56.060 --> 01:01:00.400
+Will it be similar like architecturally as what we're seeing now with LLMs?
+
+01:01:00.400 --> 01:01:04.140
+Is it a layer on top of the LLMs?
+
+01:01:04.140 --> 01:01:06.780
+I can imagine many ways to implement that.
+
+01:01:06.780 --> 01:01:11.740
+I think that's less important than the question you were getting at, which is do we need a
+
+01:01:11.940 --> 01:01:18.940
+way to do a slower kind of thinking where the answer doesn't have to get like, you know,
+
+01:01:18.940 --> 01:01:24.660
+it's like, I guess like spiritually you could say that you want an AI to be able to think
+
+01:01:24.660 --> 01:01:28.980
+harder about a harder problem and answer more quickly about an easier problem, and I think
+
+01:01:28.980 --> 01:01:29.980
+that will be important.
+
+01:01:29.980 --> 01:01:33.220
+Is that like a human thought that we're just having, you should be able to think hard?
+
+01:01:33.220 --> 01:01:34.620
+Is that wrong intuition?
+
+01:01:34.620 --> 01:01:36.380
+I suspect that's a reasonable intuition.
+
+01:01:36.380 --> 01:01:37.380
+Interesting.
+
+01:01:37.940 --> 01:01:43.260
+So it's not possible once the GPT gets like GPT-7, we'll just be instantaneously be able
+
+01:01:43.260 --> 01:01:49.180
+to see, you know, here's the proof of Fermat's Theorem.
+
+01:01:49.180 --> 01:01:55.180
+It seems to me like you want to be able to allocate more compute to harder problems.
+
+01:01:55.180 --> 01:02:05.740
+Like it seems to me that a system knowing, if you ask a system like that, proof Fermat's
+
+01:02:05.740 --> 01:02:13.900
+Last Theorem versus what's today's date, unless it already knew and had memorized the answer
+
+01:02:13.900 --> 01:02:20.620
+to the proof, assuming it's got to go figure that out, seems like that will take more compute.
+
+01:02:20.620 --> 01:02:24.700
+But can it look like basically LLM talking to itself, that kind of thing?
+
+01:02:24.700 --> 01:02:25.700
+Maybe.
+
+01:02:25.700 --> 01:02:29.820
+I mean, there's a lot of things that you could imagine working.
+
+01:02:29.820 --> 01:02:35.660
+What like, what the right or the best way to do that will be, we don't know.
+
+01:02:35.660 --> 01:02:43.860
+This does make me think of the mysterious, the lore behind Q-Star.
+
+01:02:43.860 --> 01:02:45.940
+What's this mysterious Q-Star project?
+
+01:02:45.940 --> 01:02:50.340
+Is it also in the same nuclear facility?
+
+01:02:50.340 --> 01:02:53.020
+There is no nuclear facility.
+
+01:02:53.020 --> 01:02:54.860
+That's what a person with a nuclear facility always says.
+
+01:02:54.860 --> 01:02:56.940
+I would love to have a secret nuclear facility.
+
+01:02:56.940 --> 01:02:58.940
+There isn't one.
+
+01:02:58.940 --> 01:02:59.940
+All right.
+
+01:02:59.940 --> 01:03:00.940
+Maybe someday.
+
+01:03:00.940 --> 01:03:01.940
+Someday?
+
+01:03:01.940 --> 01:03:04.940
+All right.
+
+01:03:05.620 --> 01:03:07.580
+OpenAI is not a good company at keeping secrets.
+
+01:03:07.580 --> 01:03:08.580
+It would be nice.
+
+01:03:08.580 --> 01:03:12.420
+You know, we're like, been plagued by a lot of leaks and it would be nice if we were able
+
+01:03:12.420 --> 01:03:14.180
+to have something like that.
+
+01:03:14.180 --> 01:03:16.020
+Can you speak to what Q-Star is?
+
+01:03:16.020 --> 01:03:17.460
+We are not ready to talk about that.
+
+01:03:17.460 --> 01:03:20.380
+See, but an answer like that means there's something to talk about.
+
+01:03:20.380 --> 01:03:22.940
+It's very mysterious, Sam.
+
+01:03:22.940 --> 01:03:28.940
+I mean, we work on all kinds of research.
+
+01:03:28.940 --> 01:03:37.700
+We have said for a while that we think better reasoning in these systems is an important
+
+01:03:37.700 --> 01:03:41.220
+direction that we'd like to pursue.
+
+01:03:41.220 --> 01:03:45.100
+We haven't cracked the code yet.
+
+01:03:45.100 --> 01:03:48.180
+We're very interested in it.
+
+01:03:48.180 --> 01:03:54.060
+Is there going to be moments, Q-Star or otherwise, where there's going to be leaps similar to
+
+01:03:54.940 --> 01:03:56.780
+Where you're like...
+
+01:03:56.780 --> 01:03:57.780
+That's a good question.
+
+01:03:57.780 --> 01:04:05.540
+What do I think about that?
+
+01:04:05.540 --> 01:04:06.540
+It's interesting.
+
+01:04:06.540 --> 01:04:07.900
+To me, it all feels pretty continuous.
+
+01:04:07.900 --> 01:04:08.900
+Right.
+
+01:04:08.900 --> 01:04:12.620
+This is kind of a theme that you're saying is there's a gradual, you're basically gradually
+
+01:04:12.620 --> 01:04:15.180
+going up an exponential slope.
+
+01:04:15.180 --> 01:04:19.140
+But from an outsider perspective, for me, just watching it, it does feel like there's
+
+01:04:19.140 --> 01:04:20.140
+leaps.
+
+01:04:20.140 --> 01:04:21.780
+But to you, there isn't.
+
+01:04:21.780 --> 01:04:25.220
+I do wonder if we should have...
+
+01:04:25.220 --> 01:04:29.020
+Part of the reason that we deploy the way we do is that we think...
+
+01:04:29.020 --> 01:04:33.620
+We call it iterative deployment.
+
+01:04:33.620 --> 01:04:37.340
+Rather than go build in secret until we got all the way to GPT-5, we decided to talk about
+
+01:04:37.340 --> 01:04:40.380
+GPT-1, 2, 3 and 4.
+
+01:04:40.380 --> 01:04:43.700
+Part of the reason there is I think AI and surprise don't go together.
+
+01:04:43.700 --> 01:04:48.500
+Also, the world, people, institutions, whatever you want to call it, need time to adapt and
+
+01:04:48.500 --> 01:04:50.900
+think about these things.
+
+01:04:50.900 --> 01:04:56.580
+I think one of the best things that OpenAI has done is this strategy and we get the world
+
+01:04:56.580 --> 01:05:03.700
+to pay attention to the progress, to take AGI seriously, to think about what systems
+
+01:05:03.700 --> 01:05:07.780
+and structures and governance we want in place before we're under the gun and have to make
+
+01:05:07.780 --> 01:05:08.780
+a rest decision.
+
+01:05:08.780 --> 01:05:09.780
+I think that's really good.
+
+01:05:09.780 --> 01:05:16.780
+But the fact that people like you and others say you still feel like there are these leaps
+
+01:05:17.060 --> 01:05:21.140
+makes me think that maybe we should be doing our releasing even more iteratively.
+
+01:05:21.140 --> 01:05:22.740
+I don't know what that would mean.
+
+01:05:22.740 --> 01:05:24.740
+I don't have any answer ready to go.
+
+01:05:24.740 --> 01:05:28.580
+But our goal is not to have shock updates to the world.
+
+01:05:28.580 --> 01:05:29.580
+The opposite.
+
+01:05:29.580 --> 01:05:30.580
+Yeah, for sure.
+
+01:05:30.580 --> 01:05:32.460
+More iterative would be amazing.
+
+01:05:32.460 --> 01:05:34.700
+I think that's just beautiful for everybody.
+
+01:05:34.700 --> 01:05:36.020
+But that's what we're trying to do.
+
+01:05:36.020 --> 01:05:39.780
+That's like our state of the strategy and I think we're somehow missing the mark.
+
+01:05:39.780 --> 01:05:43.780
+So maybe we should think about releasing GPT-5 in a different way or something like that.
+
+01:05:44.220 --> 01:05:47.820
+Yeah, 4.71, 4.72.
+
+01:05:47.820 --> 01:05:49.460
+But people tend to like to celebrate.
+
+01:05:49.460 --> 01:05:50.460
+People celebrate birthdays.
+
+01:05:50.460 --> 01:05:54.740
+I don't know if you know humans, but they kind of have these milestones.
+
+01:05:54.740 --> 01:05:56.420
+I do know some humans.
+
+01:05:56.420 --> 01:05:59.260
+People do like milestones.
+
+01:05:59.260 --> 01:06:02.620
+I totally get that.
+
+01:06:02.620 --> 01:06:05.420
+I think we like milestones too.
+
+01:06:05.420 --> 01:06:09.900
+It's like fun to declare victory on this one and go start the next thing.
+
+01:06:09.900 --> 01:06:13.140
+But yeah, I feel like we're somehow getting this a little bit wrong.
+
+01:06:13.820 --> 01:06:15.700
+When is GPT-5 coming out again?
+
+01:06:15.700 --> 01:06:16.700
+I don't know.
+
+01:06:16.700 --> 01:06:17.700
+That's the honest answer.
+
+01:06:17.700 --> 01:06:20.580
+Oh, that's the honest answer.
+
+01:06:20.580 --> 01:06:27.700
+Is it blink twice if it's this year?
+
+01:06:27.700 --> 01:06:34.220
+I also, we will release an amazing model this year.
+
+01:06:34.220 --> 01:06:36.420
+I don't know what we'll call it.
+
+01:06:36.420 --> 01:06:41.980
+So that goes to the question of like what's the way we release this thing?
+
+01:06:41.980 --> 01:06:46.660
+We'll release over in the coming months many different things.
+
+01:06:46.660 --> 01:06:49.500
+I think they'll be very cool.
+
+01:06:49.500 --> 01:06:55.020
+I think before we talk about like a GPT-5 like model called that or not called that
+
+01:06:55.020 --> 01:06:58.500
+or a little bit worse or a little bit better than what you'd expect from a GPT-5, I know
+
+01:06:58.500 --> 01:07:02.780
+we have a lot of other important things to release first.
+
+01:07:02.780 --> 01:07:06.420
+I don't know what to expect from GPT-5.
+
+01:07:06.420 --> 01:07:08.780
+You're making me nervous and excited.
+
+01:07:08.780 --> 01:07:13.740
+What are some of the biggest challenges in bottlenecks to overcome for whatever it ends
+
+01:07:13.740 --> 01:07:14.740
+up being called?
+
+01:07:14.740 --> 01:07:16.700
+But let's call it GPT-5.
+
+01:07:16.700 --> 01:07:20.180
+Just interesting to ask what are, is it on the compute side?
+
+01:07:20.180 --> 01:07:21.180
+Is it on the technical side?
+
+01:07:21.180 --> 01:07:22.180
+It's always all of these.
+
+01:07:22.180 --> 01:07:24.940
+I was, you know, what's the one big unlock?
+
+01:07:24.940 --> 01:07:26.300
+Is it a bigger computer?
+
+01:07:26.300 --> 01:07:27.420
+Is it like a new secret?
+
+01:07:27.420 --> 01:07:30.060
+Is it something else?
+
+01:07:30.060 --> 01:07:31.660
+It's all of these things together.
+
+01:07:31.660 --> 01:07:37.820
+Like the thing that OpenAI I think does really well, this is actually an original Ilja quote
+
+01:07:37.820 --> 01:07:45.220
+that I'm going to butcher, but it's something like we multiply 200 medium-sized things
+
+01:07:45.220 --> 01:07:47.500
+together into one giant thing.
+
+01:07:47.500 --> 01:07:51.180
+So there's this distributed constant innovation happening.
+
+01:07:51.180 --> 01:07:53.620
+So even on the technical side, like a...
+
+01:07:53.620 --> 01:07:54.620
+Especially on the technical side.
+
+01:07:54.620 --> 01:08:00.000
+So like even like detailed approach, detailed aspects of every...
+
+01:08:00.000 --> 01:08:03.140
+How does that work with different disparate teams and so on?
+
+01:08:03.140 --> 01:08:07.260
+How do they, how do the medium-sized things become one whole giant transformer?
+
+01:08:07.260 --> 01:08:08.260
+How does this...
+
+01:08:08.260 --> 01:08:11.580
+There's a few people who have to like think about putting the whole thing together, but
+
+01:08:11.580 --> 01:08:14.060
+a lot of people try to keep most of the picture in their head.
+
+01:08:14.060 --> 01:08:16.900
+Oh, like the individual teams, individual contributors try to keep the picture.
+
+01:08:16.900 --> 01:08:17.900
+At a high level, yeah.
+
+01:08:17.900 --> 01:08:23.420
+I mean, you don't know exactly how every piece works, of course, but one thing I generally
+
+01:08:23.420 --> 01:08:28.940
+believe is that it's sometimes useful to zoom out and look at the entire map.
+
+01:08:28.940 --> 01:08:33.580
+And I think this is true for like a technical problem.
+
+01:08:33.620 --> 01:08:38.860
+I think this is true for like innovating in business.
+
+01:08:38.860 --> 01:08:42.700
+But things come together in surprising ways, and having an understanding of that whole
+
+01:08:42.700 --> 01:08:50.380
+picture, even if most of the time you're operating in the weeds in one area, pays off with surprising
+
+01:08:50.380 --> 01:08:51.380
+insights.
+
+01:08:51.380 --> 01:08:56.260
+In fact, one of the things that I used to have, and I think was super valuable, was
+
+01:08:56.260 --> 01:09:02.740
+I used to have like a good map of all of the frontiers, or most of the frontiers in
+
+01:09:02.740 --> 01:09:07.460
+the tech industry, and I could sometimes see these connections or new things that were
+
+01:09:07.460 --> 01:09:13.260
+possible that if I were only deep in one area, I wouldn't be able to like have the idea for
+
+01:09:13.260 --> 01:09:15.300
+it because I wouldn't have all the data.
+
+01:09:15.300 --> 01:09:21.100
+And I don't really have that much anymore, I'm like super deep now.
+
+01:09:21.100 --> 01:09:23.380
+But I know that it's a valuable thing.
+
+01:09:23.380 --> 01:09:25.420
+You're not the man you used to be, Sam.
+
+01:09:25.420 --> 01:09:28.180
+It's a very different job now than what I used to have.
+
+01:09:28.180 --> 01:09:36.180
+Speaking of zooming out, let's zoom out to another cheeky thing, but profound thing perhaps
+
+01:09:36.180 --> 01:09:37.820
+that you said.
+
+01:09:37.820 --> 01:09:41.420
+You tweeted about needing $7 trillion.
+
+01:09:41.420 --> 01:09:42.860
+I did not tweet about that.
+
+01:09:42.860 --> 01:09:45.620
+I never said like, we're raising $7 trillion, blah, blah, blah.
+
+01:09:45.620 --> 01:09:46.620
+Oh, that's somebody else?
+
+01:09:46.620 --> 01:09:47.620
+Yeah.
+
+01:09:47.620 --> 01:09:50.420
+Oh, but you said, fuck it, maybe eight, I think.
+
+01:09:50.420 --> 01:09:53.420
+Okay, I mean, like once there's like misinformation out in the world.
+
+01:09:53.420 --> 01:09:54.740
+Oh, you mean.
+
+01:09:54.740 --> 01:10:00.380
+But sort of misinformation may have a foundation of like insight there.
+
+01:10:00.380 --> 01:10:03.820
+Look, I think compute is going to be the currency of the future.
+
+01:10:03.820 --> 01:10:08.620
+I think it will be maybe the most precious commodity in the world.
+
+01:10:08.620 --> 01:10:13.540
+And I think we should be investing heavily to make a lot more compute.
+
+01:10:13.540 --> 01:10:22.700
+Compute is, it's an unusual, I think it's going to be an unusual market.
+
+01:10:22.700 --> 01:10:31.140
+People think about the market for like chips for mobile phones or something like that.
+
+01:10:31.140 --> 01:10:34.540
+And you can say that, okay, there's 8 billion people in the world, maybe 7 billion of them
+
+01:10:34.540 --> 01:10:36.940
+have phones, maybe they are 6 billion, let's say.
+
+01:10:36.940 --> 01:10:38.700
+They upgrade every two years.
+
+01:10:38.700 --> 01:10:42.780
+So the market per year is 3 billion system on chip for smartphones.
+
+01:10:42.780 --> 01:10:46.340
+And if you make 30 billion, you will not sell 10 times as many phones because most people
+
+01:10:46.340 --> 01:10:51.060
+have one phone.
+
+01:10:52.020 --> 01:10:53.020
+Well, compute is different.
+
+01:10:53.020 --> 01:10:56.420
+Like intelligence is going to be more like energy or something like that where the only
+
+01:10:56.420 --> 01:11:04.380
+thing that I think makes sense to talk about is at price X, the world will use this much
+
+01:11:04.380 --> 01:11:08.340
+compute and at price Y, the world will use this much compute.
+
+01:11:08.340 --> 01:11:11.700
+Because if it's really cheap, I'll have it like reading my email all day, like giving
+
+01:11:11.700 --> 01:11:16.180
+me suggestions about what I maybe should think about or work on and try to cure cancer.
+
+01:11:16.180 --> 01:11:20.200
+And if it's really expensive, maybe I'll only use it, we'll only use it to try to cure cancer.
+
+01:11:20.200 --> 01:11:24.680
+So I think the world is going to want a tremendous amount of compute.
+
+01:11:24.680 --> 01:11:27.400
+And there's a lot of parts of that that are hard.
+
+01:11:27.400 --> 01:11:29.440
+Energy is the hardest part.
+
+01:11:29.440 --> 01:11:32.800
+Building data centers is also hard, the supply chain is harder than, of course, fabricating
+
+01:11:32.800 --> 01:11:35.620
+enough chips is hard.
+
+01:11:35.620 --> 01:11:38.960
+But this seems to me where things are going, like we're going to want an amount of compute
+
+01:11:38.960 --> 01:11:41.440
+that's just hard to reason about right now.
+
+01:11:41.440 --> 01:11:45.400
+How do you solve the energy puzzle?
+
+01:11:45.400 --> 01:11:46.400
+Nuclear...
+
+01:11:46.400 --> 01:11:47.400
+That's what I believe.
+
+01:11:47.400 --> 01:11:48.400
+Fusion?
+
+01:11:48.400 --> 01:11:49.400
+That's what I believe.
+
+01:11:49.400 --> 01:11:50.400
+Nuclear fusion?
+
+01:11:50.400 --> 01:11:51.400
+Yeah.
+
+01:11:51.400 --> 01:11:53.040
+Who's going to solve that?
+
+01:11:53.040 --> 01:11:57.000
+I think Helion's doing the best work, but I'm happy there's a race for fusion right now.
+
+01:11:57.000 --> 01:12:03.000
+Nuclear fission, I think, is also quite amazing and I hope as a world we can re-embrace that.
+
+01:12:03.000 --> 01:12:07.960
+It's really sad to me how the history of that went and hope we get back to it in a meaningful
+
+01:12:07.960 --> 01:12:08.960
+way.
+
+01:12:08.960 --> 01:12:12.160
+So to you, part of the puzzle is nuclear fission, like nuclear reactors as we currently have
+
+01:12:12.160 --> 01:12:15.720
+them and a lot of people are terrified because of Chernobyl and so on.
+
+01:12:15.720 --> 01:12:18.160
+Well, I think we should make new reactors.
+
+01:12:18.440 --> 01:12:22.240
+I think it's just like it's a shame that industry kind of ground to a halt.
+
+01:12:22.240 --> 01:12:25.200
+And what it just mass hysteria is how you explain the halt.
+
+01:12:25.200 --> 01:12:26.200
+Yeah.
+
+01:12:26.200 --> 01:12:29.680
+I don't know if you know humans, but that's one of the dangers.
+
+01:12:29.680 --> 01:12:36.800
+That's one of the security threats for nuclear fission is humans seem to be really afraid
+
+01:12:36.800 --> 01:12:38.600
+of it.
+
+01:12:38.600 --> 01:12:40.920
+And that's something we have to incorporate into the calculus of it.
+
+01:12:40.920 --> 01:12:44.680
+So we have to kind of win people over and to show how safe it is.
+
+01:12:44.680 --> 01:12:47.520
+I worry about that for AI.
+
+01:12:47.520 --> 01:12:50.400
+I think some things are going to go theatrically wrong with AI.
+
+01:12:53.000 --> 01:12:56.640
+I don't know what the percent chance is that I eventually get shot, but it's not zero.
+
+01:12:57.640 --> 01:13:00.320
+Oh, like we want to stop this.
+
+01:13:00.320 --> 01:13:01.320
+Maybe.
+
+01:13:03.480 --> 01:13:06.200
+Why do you decrease the theatrical nature of it?
+
+01:13:06.200 --> 01:13:13.920
+You know, I've already started to hear rumblings because I do talk to people on both sides
+
+01:13:13.920 --> 01:13:18.400
+of the political spectrum here, rumblings where it's going to be politicized, AI is
+
+01:13:18.400 --> 01:13:19.400
+going to be politicized.
+
+01:13:19.400 --> 01:13:25.880
+It really worries me because then it's like maybe the right is against AI and the left
+
+01:13:25.880 --> 01:13:30.440
+is for AI because it's going to help the people or whatever the narrative and formulation
+
+01:13:30.440 --> 01:13:32.440
+is that really worries me.
+
+01:13:32.440 --> 01:13:36.600
+And then the theatrical nature of it can be leveraged fully.
+
+01:13:36.600 --> 01:13:38.400
+How do you fight that?
+
+01:13:38.400 --> 01:13:41.600
+I think it will get caught up in like left versus right wars.
+
+01:13:41.600 --> 01:13:44.400
+I don't know exactly what that's going to look like, but I think that's just what happens
+
+01:13:44.400 --> 01:13:46.960
+with anything of consequence, unfortunately.
+
+01:13:46.960 --> 01:13:54.660
+What I meant more about theatrical risks is like AI is going to have, I believe, tremendously
+
+01:13:54.660 --> 01:13:58.000
+more good consequences than bad ones, but it is going to have bad ones and there will
+
+01:13:58.000 --> 01:14:05.480
+be some bad ones that are bad, but not theatrical.
+
+01:14:06.480 --> 01:14:14.040
+A lot more people have died of air pollution than nuclear reactors, for example, but most
+
+01:14:14.040 --> 01:14:18.360
+people worry more about living next to a nuclear reactor than a coal plant.
+
+01:14:18.360 --> 01:14:22.920
+But something about the way we're wired is that although there's many different kinds
+
+01:14:22.920 --> 01:14:28.600
+of risks we have to confront, the ones that make a good climax scene of a movie carry
+
+01:14:28.600 --> 01:14:33.600
+much more weight with us than the ones that are very bad over a long period of time but
+
+01:14:33.600 --> 01:14:36.400
+on a slow burn.
+
+01:14:36.400 --> 01:14:40.560
+Well that's why truth matters and hopefully AI can help us see the truth of things to
+
+01:14:40.560 --> 01:14:45.560
+have balance, to understand what are the actual risks, what are the actual dangers of things
+
+01:14:45.560 --> 01:14:47.360
+in the world.
+
+01:14:47.360 --> 01:14:53.720
+What are the pros and cons of the competition in the space and competing with Google, Meta,
+
+01:14:53.720 --> 01:14:54.720
+XAI and others?
+
+01:14:54.720 --> 01:15:01.240
+I think I have a pretty like straightforward answer to this that maybe I can think of more
+
+01:15:01.240 --> 01:15:05.640
+nuance later, but the pros seem obvious, which is that we get better products and more
+
+01:15:05.640 --> 01:15:10.280
+innovation faster and cheaper and all the reasons competition is good.
+
+01:15:10.280 --> 01:15:18.800
+And the con is that I think if we're not careful it could lead to an increase in sort of an
+
+01:15:18.800 --> 01:15:21.480
+arms race that I'm nervous about.
+
+01:15:21.480 --> 01:15:25.720
+Do you feel the pressure of the arms race, like in some negative context?
+
+01:15:25.720 --> 01:15:27.600
+Definitely in some ways for sure.
+
+01:15:27.640 --> 01:15:35.000
+We spend a lot of time talking about the need to prioritize safety and I've said for like
+
+01:15:35.000 --> 01:15:42.200
+a long time that I think if you think of a quadrant of slow timelines to the start of
+
+01:15:42.200 --> 01:15:47.800
+AGI, long timelines and then a short takeoff or a fast takeoff, I think short timelines,
+
+01:15:47.800 --> 01:15:52.660
+slow takeoff is the safest quadrant and the one I'd most like us to be in.
+
+01:15:52.660 --> 01:15:55.840
+But I do want to make sure we get that slow takeoff.
+
+01:15:55.840 --> 01:16:00.760
+Another problem I have with this kind of slight beef with Elon is that their silos are created
+
+01:16:00.760 --> 01:16:06.480
+and as opposed to collaboration on the safety aspect of all of this, it tends to go into
+
+01:16:06.480 --> 01:16:10.080
+silos and closed open source perhaps in the model.
+
+01:16:10.080 --> 01:16:14.640
+Elon says at least that he cares a great deal about AI safety and is really worried about
+
+01:16:14.640 --> 01:16:19.600
+it and I assume that he's not going to race unsafely.
+
+01:16:19.600 --> 01:16:25.560
+Yeah, but collaboration here I think is really beneficial for everybody on that front.
+
+01:16:25.960 --> 01:16:28.080
+Not really the thing he's most known for.
+
+01:16:28.080 --> 01:16:33.880
+Well, he is known for caring about humanity and humanity benefits from collaboration and
+
+01:16:33.880 --> 01:16:40.040
+so there's always attention and incentives and motivations and in the end, I do hope
+
+01:16:40.040 --> 01:16:42.320
+humanity prevails.
+
+01:16:42.320 --> 01:16:48.120
+I was thinking, someone just reminded me the other day about how the day that he got surpassed
+
+01:16:48.120 --> 01:16:53.200
+Jeff Bezos for the richest person in the world, he tweeted a silver medal at Jeff Bezos.
+
+01:16:55.720 --> 01:16:58.480
+I hope we have less stuff like that as people start to work on towards AGI.
+
+01:16:58.480 --> 01:16:59.480
+I agree.
+
+01:16:59.480 --> 01:17:03.880
+I think Elon is a friend and he's a beautiful human being and one of the most important
+
+01:17:03.880 --> 01:17:05.560
+humans ever.
+
+01:17:05.560 --> 01:17:07.520
+That stuff is not good.
+
+01:17:07.520 --> 01:17:11.760
+The amazing stuff about Elon is amazing and I super respect him.
+
+01:17:11.760 --> 01:17:17.000
+I think we need him, all of us should be rooting for him and need him to step up as a leader
+
+01:17:17.000 --> 01:17:18.520
+through this next phase.
+
+01:17:18.520 --> 01:17:22.600
+Yeah, I hope you can have one without the other, but sometimes humans are flawed and
+
+01:17:22.600 --> 01:17:24.440
+complicated and all that kind of stuff.
+
+01:17:24.840 --> 01:17:27.160
+There's a lot of really great leaders through our history.
+
+01:17:27.160 --> 01:17:33.720
+Yeah, and we can each be the best version of ourselves and strive to do so.
+
+01:17:33.720 --> 01:17:44.160
+Let me ask you, Google with the help of search has been dominating in the past 20 years.
+
+01:17:44.160 --> 01:17:49.160
+I think it's fair to say in terms of the access, the world's access to information, how we
+
+01:17:49.200 --> 01:17:54.800
+interact and so on, and one of the nerve-racking things for Google, but for the entirety of
+
+01:17:54.800 --> 01:18:00.320
+people in this space is thinking about how are people going to access information?
+
+01:18:00.320 --> 01:18:05.520
+Like you said, people show up to GPT as a starting point.
+
+01:18:05.520 --> 01:18:10.760
+Is OpenAI going to really take on this thing that Google started 20 years ago, which is
+
+01:18:10.760 --> 01:18:12.560
+how do we get people?
+
+01:18:12.560 --> 01:18:15.280
+I find that boring.
+
+01:18:15.400 --> 01:18:20.440
+The question is if we can build a better search engine than Google or whatever, then sure,
+
+01:18:20.440 --> 01:18:30.960
+we should go, people should use a better product, but I think that would so understate what
+
+01:18:30.960 --> 01:18:34.200
+this can be.
+
+01:18:34.200 --> 01:18:42.720
+Google shows you like 13 ads and then 10 blue links, and that's one way to find information.
+
+01:18:42.720 --> 01:18:48.640
+But the thing that's exciting to me is not that we can go build a better copy of Google
+
+01:18:48.640 --> 01:18:54.840
+search, but that maybe there's just some much better way to help people find and act and
+
+01:18:54.840 --> 01:18:56.560
+on and synthesize information.
+
+01:18:56.560 --> 01:19:01.960
+Actually, I think chat GPT is that for some use cases, and hopefully we'll make it be
+
+01:19:01.960 --> 01:19:04.420
+like that for a lot more use cases.
+
+01:19:04.420 --> 01:19:08.480
+But I don't think it's that interesting to say like how do we go do a better job of giving
+
+01:19:08.480 --> 01:19:12.620
+you like 10 ranked web pages to look at than what Google does.
+
+01:19:12.780 --> 01:19:16.880
+It's really interesting to go say, how do we help you get the answer or the information
+
+01:19:16.880 --> 01:19:17.880
+you need?
+
+01:19:17.880 --> 01:19:21.740
+How do we help create that in some cases, synthesize that in others or point you to
+
+01:19:21.740 --> 01:19:24.980
+it in yet others?
+
+01:19:24.980 --> 01:19:31.740
+But a lot of people have tried to just make a better search engine than Google, and it
+
+01:19:31.740 --> 01:19:36.740
+is a hard technical problem, it is a hard branding problem, it's a hard ecosystem problem.
+
+01:19:36.740 --> 01:19:39.300
+I don't think the world needs another copy of Google.
+
+01:19:39.300 --> 01:19:44.740
+And integrating a chat client like a chat GPT with a search engine.
+
+01:19:44.740 --> 01:19:45.740
+That's cooler.
+
+01:19:45.740 --> 01:19:49.220
+It's cool, but it's tricky.
+
+01:19:49.220 --> 01:19:54.980
+If you just do it simply, it's awkward, because if you just shove it in there, it can be awkward.
+
+01:19:54.980 --> 01:19:58.280
+As you might guess, we are interested in how to do that well.
+
+01:19:58.280 --> 01:20:00.340
+That would be an example of a cool thing.
+
+01:20:00.340 --> 01:20:01.340
+That's not just like...
+
+01:20:01.340 --> 01:20:03.580
+Like a heterogeneous, like integrating...
+
+01:20:03.580 --> 01:20:10.820
+The intersection of LLMs plus search, I don't think anyone has cracked the code on yet.
+
+01:20:10.820 --> 01:20:11.820
+I would love to go do that.
+
+01:20:11.820 --> 01:20:13.260
+I think that would be cool.
+
+01:20:13.260 --> 01:20:14.260
+Yeah.
+
+01:20:14.260 --> 01:20:15.260
+What about the ad side?
+
+01:20:15.260 --> 01:20:16.620
+Have you ever considered monetization?
+
+01:20:16.620 --> 01:20:20.420
+You know, I kind of hate ads, just as like an aesthetic choice.
+
+01:20:20.420 --> 01:20:26.940
+I think ads needed to happen on the internet for a bunch of reasons to get it going.
+
+01:20:26.940 --> 01:20:30.580
+But it's a more mature industry.
+
+01:20:30.580 --> 01:20:32.900
+The world is richer now.
+
+01:20:32.900 --> 01:20:38.980
+I like that people pay for chat GPT and know that the answers they're getting are not influenced
+
+01:20:38.980 --> 01:20:39.980
+by advertisers.
+
+01:20:39.980 --> 01:20:46.500
+There is, I'm sure, there's an ad unit that makes sense for LLMs, and I'm sure there's
+
+01:20:46.500 --> 01:20:54.180
+a way to participate in the transaction stream in an unbiased way that is okay to do.
+
+01:20:54.180 --> 01:21:00.100
+But it's also easy to think about the dystopic visions of the future where you ask chat GPT
+
+01:21:01.060 --> 01:21:03.940
+and it says, oh, here's, you know, you should think about buying this product or you should
+
+01:21:03.940 --> 01:21:08.900
+think about, you know, this going here for your vacation or whatever.
+
+01:21:08.900 --> 01:21:16.780
+And I don't know, like we have a very simple business model and I like it.
+
+01:21:16.780 --> 01:21:20.220
+And I know that I'm not the product.
+
+01:21:20.220 --> 01:21:24.220
+Like I know I'm paying and that's how the business model works.
+
+01:21:24.220 --> 01:21:31.820
+And when I go use like Twitter or Facebook or Google or any other great product, but
+
+01:21:31.820 --> 01:21:36.420
+ad-supported great product, I don't love that.
+
+01:21:36.420 --> 01:21:38.900
+And I think it gets worse, not better in a world with AI.
+
+01:21:38.900 --> 01:21:45.060
+Yeah, I mean, I can imagine AI would be better at showing the best kind of version of ads,
+
+01:21:45.060 --> 01:21:52.160
+not in a dystopic future, but where the ads are for things you actually need.
+
+01:21:52.160 --> 01:21:58.480
+But then does that system always result in the ads driving the kind of stuff that's shown
+
+01:21:58.480 --> 01:22:01.480
+all that?
+
+01:22:01.480 --> 01:22:06.160
+I think it was a really bold move of Wikipedia not to do advertisements, but then it makes
+
+01:22:06.160 --> 01:22:08.960
+it very challenging as a business model.
+
+01:22:08.960 --> 01:22:14.720
+So you're saying the current thing with open AI is sustainable from a business perspective?
+
+01:22:14.720 --> 01:22:20.500
+Well, we have to figure out how to grow, but it looks like we're going to figure that out.
+
+01:22:20.500 --> 01:22:25.160
+But the question is, do I think we can have a great business that pays for our compute
+
+01:22:25.160 --> 01:22:26.160
+needs without ads?
+
+01:22:26.160 --> 01:22:29.160
+That I think the answer is yes.
+
+01:22:29.160 --> 01:22:33.740
+Well, that's promising.
+
+01:22:33.740 --> 01:22:37.700
+I also just don't want to completely throw out ads as a...
+
+01:22:37.700 --> 01:22:40.100
+I'm not saying that.
+
+01:22:40.100 --> 01:22:42.140
+I guess I'm saying I have a bias against them.
+
+01:22:42.140 --> 01:22:48.260
+Yeah, I have also bias and just the skepticism in general.
+
+01:22:48.580 --> 01:22:55.940
+In terms of interface, because I personally just have a spiritual dislike of crappy interfaces,
+
+01:22:55.940 --> 01:23:01.420
+which is why AdSense, when it first came out, was a big leap forward versus animated banners
+
+01:23:01.420 --> 01:23:02.420
+or whatever.
+
+01:23:02.420 --> 01:23:08.020
+But it feels like there should be many more leaps forward in advertisement that doesn't
+
+01:23:08.020 --> 01:23:11.780
+interfere with the consumption of the content and doesn't interfere in a big fundamental
+
+01:23:11.780 --> 01:23:14.380
+way, which is what you were saying.
+
+01:23:14.380 --> 01:23:19.580
+It will manipulate the truth to suit the advertisers.
+
+01:23:19.580 --> 01:23:28.340
+Let me ask you about safety, but also bias and safety in the short term, safety in the
+
+01:23:28.340 --> 01:23:29.340
+long term.
+
+01:23:29.340 --> 01:23:34.660
+The Gemini 1.5 came out recently, there's a lot of drama around it, speaking of theatrical
+
+01:23:34.660 --> 01:23:41.020
+things, and it generated black Nazis and black founding fathers.
+
+01:23:41.020 --> 01:23:47.660
+I think, fair to say, it was a bit on the ultra woke side.
+
+01:23:47.660 --> 01:23:53.740
+That's a concern for people that if there is a human layer within companies that modifies
+
+01:23:53.740 --> 01:24:00.660
+the safety or the harm caused by a model that they would introduce a lot of bias that fits
+
+01:24:00.660 --> 01:24:06.580
+sort of an ideological lean within a company, how do you deal with that?
+
+01:24:06.580 --> 01:24:09.740
+We work super hard not to do things like that.
+
+01:24:09.740 --> 01:24:11.940
+We've made our own mistakes, we'll make others.
+
+01:24:11.940 --> 01:24:17.700
+I assume Google will learn from this one, still make others.
+
+01:24:17.700 --> 01:24:20.140
+These are not easy problems.
+
+01:24:20.140 --> 01:24:24.260
+One thing that we've been thinking about more and more is, I think this was a great idea
+
+01:24:24.260 --> 01:24:28.620
+somebody here had, it'd be nice to write out what the desired behavior of a model is, make
+
+01:24:28.620 --> 01:24:33.260
+that public, take input on it, say, here's how this model is supposed to behave and explain
+
+01:24:33.260 --> 01:24:39.020
+the edge cases to, and then when a model is not behaving in a way that you want, it's
+
+01:24:39.020 --> 01:24:42.660
+at least clear about whether that's a bug the company should fix or behaving as intended
+
+01:24:42.660 --> 01:24:44.500
+and you should debate the policy.
+
+01:24:44.500 --> 01:24:48.660
+Right now it can sometimes be caught in between.
+
+01:24:48.660 --> 01:24:52.500
+Black Nazi is obviously ridiculous, but there are a lot of other kind of subtle things that
+
+01:24:52.500 --> 01:24:54.460
+you could make a judgment call on either way.
+
+01:24:54.460 --> 01:24:59.980
+Yeah, but sometimes if you write it out and make it public, you can use kind of language
+
+01:24:59.980 --> 01:25:03.980
+that's, you know, the Google's AI principles are very high level.
+
+01:25:03.980 --> 01:25:05.420
+That's not what I'm talking about.
+
+01:25:05.420 --> 01:25:06.420
+That doesn't work.
+
+01:25:06.420 --> 01:25:10.700
+I have to say, you know, when you ask it to do thing X, it's supposed to respond in way
+
+01:25:10.700 --> 01:25:11.700
+Y.
+
+01:25:11.700 --> 01:25:15.180
+So like literally, who's better, Trump or Biden?
+
+01:25:15.180 --> 01:25:17.580
+What's the expected response from a model?
+
+01:25:17.580 --> 01:25:18.820
+Like something like very concrete.
+
+01:25:18.820 --> 01:25:21.940
+Yeah, I'm open to a lot of ways a model could behave them, but I think you should have to
+
+01:25:21.940 --> 01:25:24.660
+say, you know, here's the principle and here's what I should say in that case.
+
+01:25:24.660 --> 01:25:25.660
+That would be really nice.
+
+01:25:25.660 --> 01:25:26.660
+That would be really nice.
+
+01:25:26.660 --> 01:25:33.580
+And then everyone kind of agrees because there's this anecdotal data that people pull out all
+
+01:25:33.580 --> 01:25:34.580
+the time.
+
+01:25:34.580 --> 01:25:39.260
+And if there's some clarity about other representative anecdotal examples, you can define.
+
+01:25:39.260 --> 01:25:41.940
+And then when it's a bug, it's a bug and, you know, the company can fix that.
+
+01:25:41.940 --> 01:25:42.940
+Right.
+
+01:25:42.940 --> 01:25:46.180
+Then it'd be much easier to deal with the black Nazi type of image generation if there's
+
+01:25:46.180 --> 01:25:49.180
+great examples.
+
+01:25:49.180 --> 01:25:55.780
+So San Francisco is a bit of an ideological bubble, tech in general as well.
+
+01:25:55.780 --> 01:26:02.460
+Do you feel the pressure of that within a company that there's like a lean towards the
+
+01:26:02.460 --> 01:26:06.540
+left politically that affects the product, that affects the teams?
+
+01:26:06.540 --> 01:26:11.660
+I feel very lucky that we don't have the challenges at OpenAI that I have heard of at a lot of
+
+01:26:11.660 --> 01:26:12.660
+other companies.
+
+01:26:12.660 --> 01:26:19.300
+I think part of it is like every company's got some ideological thing.
+
+01:26:19.300 --> 01:26:24.900
+We have one about AGI and belief in that, and it pushes out some others like we are
+
+01:26:24.900 --> 01:26:30.980
+much less caught up in the culture war than I've heard about it a lot of other companies.
+
+01:26:30.980 --> 01:26:33.620
+San Francisco is a mess in all sorts of ways, of course.
+
+01:26:33.620 --> 01:26:36.060
+So that doesn't infiltrate OpenAI as much?
+
+01:26:36.060 --> 01:26:40.100
+I'm sure it does in all sorts of subtle ways, but not in the obvious.
+
+01:26:40.100 --> 01:26:46.660
+Like I think we've had our flare-ups for sure like any company, but I don't think we have
+
+01:26:46.660 --> 01:26:50.660
+anything like what I hear about happen at other companies here on this topic.
+
+01:26:50.660 --> 01:26:54.060
+What in general is the process for the bigger question of safety?
+
+01:26:54.060 --> 01:27:02.500
+How do you provide that layer that protects the model from doing crazy, dangerous things?
+
+01:27:02.500 --> 01:27:05.940
+I think there will come a point where that's mostly what we think about the whole company,
+
+01:27:05.940 --> 01:27:09.160
+and it won't be like, it's not like you have one safety team.
+
+01:27:09.160 --> 01:27:12.020
+It's like when we shipped GPT-4, that took the whole company thing with all these different
+
+01:27:12.020 --> 01:27:17.260
+aspects and how they fit together, and I think it's going to take that.
+
+01:27:17.260 --> 01:27:21.380
+More and more of the company thinks about those issues all the time.
+
+01:27:21.380 --> 01:27:27.180
+That's literally what humans will be thinking about the more powerful AI becomes.
+
+01:27:27.180 --> 01:27:32.140
+So most of the employees at OpenAI will be thinking safety, or at least to some degree.
+
+01:27:32.140 --> 01:27:33.700
+Broadly defined, yes.
+
+01:27:33.700 --> 01:27:34.700
+Yeah.
+
+01:27:34.700 --> 01:27:37.700
+I wonder what are the full broad definition of that?
+
+01:27:37.700 --> 01:27:39.900
+What are the different harms that could be caused?
+
+01:27:39.900 --> 01:27:44.580
+Is this like on a technical level, or is this almost like security threats?
+
+01:27:44.580 --> 01:27:45.580
+It'll be all those things.
+
+01:27:45.580 --> 01:27:50.700
+Yeah, I was going to say it'll be people, state actors trying to steal the model.
+
+01:27:50.700 --> 01:27:54.100
+It'll be all of the technical alignment work.
+
+01:27:54.100 --> 01:28:00.900
+It'll be societal impacts, economic impacts.
+
+01:28:00.900 --> 01:28:04.900
+It's not just like we have one team thinking about how to align the model.
+
+01:28:04.900 --> 01:28:10.900
+It's really going to be like getting to the good outcome is going to take the whole effort.
+
+01:28:10.900 --> 01:28:17.220
+How hard do you think people, state actors perhaps, are trying to hack?
+
+01:28:17.220 --> 01:28:18.220
+First of all, infiltrate OpenAI.
+
+01:28:18.740 --> 01:28:20.700
+Second of all, infiltrate Unseen.
+
+01:28:20.700 --> 01:28:24.700
+They're trying.
+
+01:28:24.700 --> 01:28:27.020
+What kind of accent do they have?
+
+01:28:27.020 --> 01:28:32.420
+I don't think I should go into any further details on this point.
+
+01:28:32.420 --> 01:28:35.660
+But I presume it'll be more and more and more as time goes on.
+
+01:28:35.660 --> 01:28:37.660
+That feels reasonable.
+
+01:28:37.660 --> 01:28:40.860
+Boy, what a dangerous space.
+
+01:28:40.860 --> 01:28:46.620
+What aspect of the leap, and sorry to linger on this even though you can't quite say details
+
+01:28:47.020 --> 01:28:53.020
+What aspects of the leap from GPT-4 to GPT-5 are you excited about?
+
+01:28:53.020 --> 01:28:54.020
+I'm excited about being smarter.
+
+01:28:54.020 --> 01:28:59.020
+I know that sounds like a glib answer, but I think the really special thing happening
+
+01:28:59.020 --> 01:29:02.900
+is that it's not like it gets better in this one area and worse at others.
+
+01:29:02.900 --> 01:29:06.420
+It's getting better across the board.
+
+01:29:06.420 --> 01:29:07.420
+That's I think super cool.
+
+01:29:07.420 --> 01:29:09.580
+Yeah, there's this magical moment.
+
+01:29:09.580 --> 01:29:10.580
+You meet certain people.
+
+01:29:10.580 --> 01:29:13.900
+You hang out with people and you talk to them.
+
+01:29:13.900 --> 01:29:19.300
+You can't quite put a finger on it, but they kind of get you.
+
+01:29:19.300 --> 01:29:21.140
+It's not intelligence really.
+
+01:29:21.140 --> 01:29:23.780
+It's something else.
+
+01:29:23.780 --> 01:29:27.020
+That's probably how I would characterize the progress of GPT.
+
+01:29:27.020 --> 01:29:31.100
+It's not like, yeah, you can point out, look, you didn't get this or that.
+
+01:29:31.100 --> 01:29:35.420
+To which degree is there's this intellectual connection?
+
+01:29:35.420 --> 01:29:41.180
+You feel like there's an understanding in your crappy formulated prompts that you're
+
+01:29:41.220 --> 01:29:48.340
+doing that it grasps the deeper question behind the question that you're, yeah, I'm also excited
+
+01:29:48.340 --> 01:29:49.340
+by that.
+
+01:29:49.340 --> 01:29:53.020
+I mean, all of us love being understood, heard and understood.
+
+01:29:53.020 --> 01:29:54.020
+That's for sure.
+
+01:29:54.020 --> 01:29:55.020
+That's a weird feeling.
+
+01:29:55.020 --> 01:30:00.220
+Even with the programming, when you're programming and you say something or just the completion
+
+01:30:00.220 --> 01:30:07.340
+that GPT might do, it's just such a good feeling when it got you what you were thinking about.
+
+01:30:07.340 --> 01:30:09.980
+I look forward to getting you even better.
+
+01:30:10.180 --> 01:30:15.260
+On the programming front, looking out into the future, how much programming do you think
+
+01:30:15.260 --> 01:30:19.020
+humans will be doing five, 10 years from now?
+
+01:30:19.020 --> 01:30:24.300
+I mean, a lot, but I think it'll be in a very different shape.
+
+01:30:24.300 --> 01:30:27.420
+Maybe some people will program entirely in natural language.
+
+01:30:27.420 --> 01:30:28.420
+Entirely natural language.
+
+01:30:28.420 --> 01:30:33.940
+I mean, no one programs writing bytecode out of some people.
+
+01:30:33.940 --> 01:30:35.340
+No one programs the punch cards anymore.
+
+01:30:35.340 --> 01:30:38.860
+I'm sure you're going to find someone who does, but you know what I mean.
+
+01:30:39.020 --> 01:30:40.940
+Yeah, you're going to get a lot of angry comments.
+
+01:30:40.940 --> 01:30:41.940
+No, no.
+
+01:30:41.940 --> 01:30:42.940
+Yeah, there's very few.
+
+01:30:42.940 --> 01:30:45.100
+I've been looking for people who program Fortran.
+
+01:30:45.100 --> 01:30:46.100
+It's hard to find.
+
+01:30:46.100 --> 01:30:47.100
+Even Fortran.
+
+01:30:47.100 --> 01:30:48.540
+I hear you.
+
+01:30:48.540 --> 01:30:54.020
+But that changes the nature of the skill set or the predisposition for the kind of people
+
+01:30:54.020 --> 01:30:55.780
+we call programmers then.
+
+01:30:55.780 --> 01:30:56.780
+Changes the skill set.
+
+01:30:56.780 --> 01:30:57.780
+How much it changes the predisposition?
+
+01:30:57.780 --> 01:30:58.780
+I'm not sure.
+
+01:30:58.780 --> 01:31:03.060
+Oh, same kind of puzzle solving, that kind of stuff.
+
+01:31:03.060 --> 01:31:04.060
+Programming is hard.
+
+01:31:04.460 --> 01:31:08.620
+Like how get like that last 1% to close the gap?
+
+01:31:08.620 --> 01:31:09.620
+How hard is that?
+
+01:31:09.620 --> 01:31:13.900
+Yeah, I think with most other cases, the best practitioners of the craft will use multiple
+
+01:31:13.900 --> 01:31:18.300
+tools and they'll do some work in natural language and when they need to go, you know,
+
+01:31:18.300 --> 01:31:21.060
+write C for something, they'll do that.
+
+01:31:21.060 --> 01:31:27.980
+Will we see humanoid robots or humanoid robot brains from open AI at some point?
+
+01:31:27.980 --> 01:31:29.520
+At some point.
+
+01:31:29.520 --> 01:31:32.100
+How important is embodied AI to you?
+
+01:31:32.140 --> 01:31:37.580
+I think it's like sort of depressing if we have AGI and the only way to like get things
+
+01:31:37.580 --> 01:31:41.420
+done in the physical world is like to make a human go do it.
+
+01:31:41.420 --> 01:31:49.780
+So I really hope that as part of this transition, as this phase change, we also get humanoid
+
+01:31:49.780 --> 01:31:51.780
+robots or some sort of physical world robots.
+
+01:31:51.780 --> 01:31:55.540
+I mean, open AI has some history, quite a bit of history working in robotics.
+
+01:31:55.540 --> 01:31:56.540
+Yeah.
+
+01:31:56.540 --> 01:31:59.140
+But it hasn't quite like done in terms of emphasis.
+
+01:31:59.140 --> 01:32:00.260
+We're like a small company.
+
+01:32:00.260 --> 01:32:01.260
+We have to really focus.
+
+01:32:01.420 --> 01:32:09.140
+So robots were hard for the wrong reason at the time, but like we will return to robots
+
+01:32:09.140 --> 01:32:11.100
+in some way at some point.
+
+01:32:11.100 --> 01:32:14.220
+That sounds both inspiring and menacing.
+
+01:32:14.220 --> 01:32:15.340
+Why?
+
+01:32:15.340 --> 01:32:17.540
+Because immediately we will return to robots.
+
+01:32:17.540 --> 01:32:20.020
+It's kind of like in like terminating.
+
+01:32:20.020 --> 01:32:21.980
+We will return to work on developing robots.
+
+01:32:21.980 --> 01:32:25.180
+We will not like turn ourselves into robots, of course.
+
+01:32:25.180 --> 01:32:30.460
+When do you think we, you, and we as humanity will build AGI?
+
+01:32:30.460 --> 01:32:33.500
+I used to love to speculate on that question.
+
+01:32:33.500 --> 01:32:40.100
+I have realized since that I think it's like very poorly formed and that people use extremely
+
+01:32:40.100 --> 01:32:46.460
+different definitions for what AGI is.
+
+01:32:46.460 --> 01:32:50.420
+And so I think it makes more sense to talk about when we'll build systems that can do
+
+01:32:50.420 --> 01:32:56.620
+capability X or Y or Z rather than when we kind of like fuzzily cross this one mile
+
+01:32:56.620 --> 01:32:57.620
+marker.
+
+01:32:57.620 --> 01:32:59.660
+It's not like AGI is also not an ending.
+
+01:32:59.660 --> 01:33:03.700
+It's much more of a, it's closer to a beginning, but it's much more of a mile marker than either
+
+01:33:03.700 --> 01:33:07.940
+of those things.
+
+01:33:07.940 --> 01:33:13.020
+But what I would say in the interest of not trying to dodge a question is I expect that
+
+01:33:13.020 --> 01:33:23.300
+by the end of this decade and possibly somewhat sooner than that, we will have quite capable
+
+01:33:23.300 --> 01:33:28.040
+systems that we look at and say, wow, that's really remarkable.
+
+01:33:28.040 --> 01:33:30.940
+If we could look at it now, you know, maybe we've adjusted by the time we get there.
+
+01:33:30.940 --> 01:33:31.940
+Yeah.
+
+01:33:31.940 --> 01:33:40.020
+But, you know, if you look at Chad GPT, even when 35, and you show that to Alan Turing
+
+01:33:41.020 --> 01:33:45.620
+people in the nineties, they would be like, this is definitely AGI, or not definitely,
+
+01:33:45.620 --> 01:33:48.940
+but there's a lot of experts that would say this is AGI.
+
+01:33:48.940 --> 01:33:53.920
+Yeah, but I don't think 35 changed the world.
+
+01:33:53.920 --> 01:33:56.820
+It maybe changed the world's expectations for the future.
+
+01:33:56.820 --> 01:33:58.740
+And that's actually really important.
+
+01:33:58.740 --> 01:34:02.380
+And it did kind of like get more people to take this seriously and put us on this new
+
+01:34:02.380 --> 01:34:03.380
+trajectory.
+
+01:34:03.380 --> 01:34:04.740
+And that's really important too.
+
+01:34:04.740 --> 01:34:07.140
+So again, I don't want to undersell it.
+
+01:34:07.260 --> 01:34:11.740
+I think I could retire after that accomplishment and be pretty happy with my career.
+
+01:34:11.740 --> 01:34:18.220
+But as an artifact, I don't think we're going to look back at that and say that was a threshold
+
+01:34:18.220 --> 01:34:20.180
+that really changed the world itself.
+
+01:34:20.180 --> 01:34:24.460
+So to you, you're looking for some really major transition in how the world?
+
+01:34:24.460 --> 01:34:29.580
+For me, that's part of what AGI implies.
+
+01:34:29.580 --> 01:34:31.300
+Like singularity level transition?
+
+01:34:31.300 --> 01:34:32.300
+No, definitely not.
+
+01:34:32.420 --> 01:34:38.140
+Just a major, like the internet being like, like Google search did, I guess.
+
+01:34:38.140 --> 01:34:39.540
+What was the transition point?
+
+01:34:39.540 --> 01:34:43.440
+Does the global economy feel any different to you now or materially different to you
+
+01:34:43.440 --> 01:34:45.980
+now than it did before we launched GPT-4?
+
+01:34:45.980 --> 01:34:47.460
+I think you would say no.
+
+01:34:47.460 --> 01:34:52.580
+No, no, it might be just a really nice tool for a lot of people to use will help you a
+
+01:34:52.580 --> 01:34:54.060
+lot of stuff, but doesn't feel different.
+
+01:34:54.060 --> 01:34:55.060
+And you're saying that?
+
+01:34:55.060 --> 01:34:58.060
+I mean, again, people define AGI all sorts of different ways.
+
+01:34:58.060 --> 01:35:01.740
+So maybe you have a different definition than I do, but for me, I think that should be part
+
+01:35:01.740 --> 01:35:02.740
+of it.
+
+01:35:02.740 --> 01:35:08.420
+There could be major theatrical moments also.
+
+01:35:08.420 --> 01:35:12.220
+What to you would be an impressive thing AGI would do?
+
+01:35:12.220 --> 01:35:16.900
+Like you are alone in a room with a system.
+
+01:35:16.900 --> 01:35:17.900
+This is personally important to me.
+
+01:35:17.900 --> 01:35:19.540
+I don't know if this is the right definition.
+
+01:35:19.540 --> 01:35:27.340
+I think when a system can significantly increase the rate of scientific discovery in the world,
+
+01:35:27.340 --> 01:35:28.700
+that's like a huge deal.
+
+01:35:28.700 --> 01:35:34.540
+I believe that most real economic growth comes from scientific and technological progress.
+
+01:35:34.540 --> 01:35:36.980
+I agree with you.
+
+01:35:36.980 --> 01:35:42.740
+That's why I don't like the skepticism about science in the recent years.
+
+01:35:42.740 --> 01:35:43.740
+Totally.
+
+01:35:43.740 --> 01:35:48.940
+But actual rate, like measurable rate of scientific discovery.
+
+01:35:48.940 --> 01:35:58.140
+But even just seeing a system have really novel intuitions, like scientific intuitions,
+
+01:35:58.140 --> 01:36:01.140
+even that would be just incredible.
+
+01:36:01.140 --> 01:36:02.140
+Yeah.
+
+01:36:02.140 --> 01:36:05.700
+You're quite possibly would be the person to build the AGI to be able to interact with
+
+01:36:05.700 --> 01:36:07.740
+it before anyone else does.
+
+01:36:07.740 --> 01:36:09.540
+What kind of stuff would you talk about?
+
+01:36:09.540 --> 01:36:15.500
+I mean, definitely the researchers here will do that before I do, but I've actually thought
+
+01:36:15.500 --> 01:36:16.500
+a lot about this question.
+
+01:36:16.500 --> 01:36:21.900
+If I were someone was like, I think as we talked about, I think this is a bad framework.
+
+01:36:21.900 --> 01:36:25.300
+But if someone were like, okay, Sam, we're finished.
+
+01:36:25.300 --> 01:36:26.300
+Here's a laptop.
+
+01:36:26.460 --> 01:36:30.460
+This is the AGI.
+
+01:36:30.460 --> 01:36:34.540
+You can go talk to it.
+
+01:36:34.540 --> 01:36:38.780
+I find it surprisingly difficult to say what I would ask, that I would expect that first
+
+01:36:38.780 --> 01:36:42.540
+AGI to be able to answer.
+
+01:36:42.540 --> 01:36:47.700
+That first one is not going to be the one which is like, go like, I don't think, like
+
+01:36:47.700 --> 01:36:52.820
+go explain to me like the grand unified theory of physics, the theory of everything for physics.
+
+01:36:52.820 --> 01:36:53.820
+I'd love to ask that question.
+
+01:36:53.820 --> 01:36:55.580
+I'd love to know the answer to that question.
+
+01:36:55.580 --> 01:36:59.740
+You can ask yes or no questions about, does such a theory exist?
+
+01:36:59.740 --> 01:37:00.740
+Can it exist?
+
+01:37:00.740 --> 01:37:02.180
+Well, then those are the first questions I would ask.
+
+01:37:02.180 --> 01:37:03.180
+Yes or no?
+
+01:37:03.180 --> 01:37:07.340
+Just very, and then based on that, are there other alien civilizations out there?
+
+01:37:07.340 --> 01:37:08.340
+Yes or no?
+
+01:37:08.340 --> 01:37:09.340
+What's your intuition?
+
+01:37:09.340 --> 01:37:10.500
+And then you just ask that.
+
+01:37:10.500 --> 01:37:14.980
+Yeah, I mean, well, so I don't expect that this first AGI could answer any of those questions,
+
+01:37:14.980 --> 01:37:20.140
+even as yes or nos, but those would, if it could, those would be very high on my list.
+
+01:37:20.140 --> 01:37:21.940
+Maybe you can start assigning probabilities.
+
+01:37:21.940 --> 01:37:22.940
+Maybe.
+
+01:37:23.300 --> 01:37:26.780
+Maybe we need to go invent more technology and measure more things first.
+
+01:37:26.780 --> 01:37:29.900
+But if it's any AGI, oh, I see.
+
+01:37:29.900 --> 01:37:30.900
+It just doesn't have enough data.
+
+01:37:30.900 --> 01:37:35.140
+I mean, maybe it says like, you know, you want to know the answer to this question about
+
+01:37:35.140 --> 01:37:38.740
+physics, I need you to like build this machine and make these five measurements and tell
+
+01:37:38.740 --> 01:37:39.740
+me that.
+
+01:37:39.740 --> 01:37:40.740
+Yeah.
+
+01:37:40.740 --> 01:37:41.940
+What the hell do you want from me?
+
+01:37:41.940 --> 01:37:46.100
+I need the machine first and I'll help you deal with the data from that machine.
+
+01:37:46.100 --> 01:37:47.700
+Maybe it'll help you build a machine.
+
+01:37:47.700 --> 01:37:49.660
+Maybe, maybe.
+
+01:37:49.660 --> 01:37:52.660
+And on the mathematical side, maybe prove some things.
+
+01:37:52.660 --> 01:37:54.500
+Are you interested in that side of things, too?
+
+01:37:54.500 --> 01:37:59.980
+The formalized exploration of ideas?
+
+01:37:59.980 --> 01:38:05.300
+Whoever builds AGI first gets a lot of power.
+
+01:38:05.300 --> 01:38:09.100
+Do you trust yourself with that much power?
+
+01:38:09.100 --> 01:38:19.340
+Look, I was going to, I'll just be very honest with this answer.
+
+01:38:19.340 --> 01:38:24.940
+I was going to say, and I still believe this, that it is important that I nor any other
+
+01:38:24.940 --> 01:38:32.180
+one person have total control over OpenAI or over AGI.
+
+01:38:32.180 --> 01:38:39.340
+And I think you want a robust governance system.
+
+01:38:39.340 --> 01:38:46.420
+I can point out a whole bunch of things about all of our board drama from last year about
+
+01:38:46.420 --> 01:38:50.620
+how I didn't fight it initially and was just like, yeah, that's, you know, the will of
+
+01:38:50.620 --> 01:38:56.020
+the board, even though I think it's a really bad decision.
+
+01:38:56.020 --> 01:38:59.300
+And then later I clearly did fight it and I can explain the nuance and why I think it
+
+01:38:59.300 --> 01:39:01.740
+was okay for me to fight it later.
+
+01:39:01.740 --> 01:39:14.020
+But as many people have observed, although the board had the legal ability to fire me,
+
+01:39:14.420 --> 01:39:18.820
+it didn't quite work.
+
+01:39:18.820 --> 01:39:23.860
+And that is its own kind of governance failure.
+
+01:39:23.860 --> 01:39:29.980
+Now, again, I feel like I can completely defend the specifics here.
+
+01:39:29.980 --> 01:39:32.980
+And I think most people would agree with that.
+
+01:39:32.980 --> 01:39:42.300
+But it does make it harder for me to look you in the eye and say, hey, the board can
+
+01:39:42.300 --> 01:39:46.740
+just fire me.
+
+01:39:46.740 --> 01:39:51.060
+I continue to not want supervoting control over OpenAI.
+
+01:39:51.060 --> 01:39:55.220
+I never have, never had it, never wanted it.
+
+01:39:55.220 --> 01:40:00.420
+Even after all this craziness, I still don't want it.
+
+01:40:00.420 --> 01:40:06.580
+I continue to think that no company should be making these decisions and that we really
+
+01:40:06.580 --> 01:40:12.900
+need governments to put rules of the road in place.
+
+01:40:12.900 --> 01:40:17.060
+And I realize that that means people like Marc Andreessen or whatever will claim I'm
+
+01:40:17.060 --> 01:40:20.540
+going for regulatory capture and I'm just willing to be misunderstood there.
+
+01:40:20.540 --> 01:40:21.540
+It's not true.
+
+01:40:21.540 --> 01:40:27.420
+And I think in the fullness of time, it'll get proven out why this is important.
+
+01:40:27.420 --> 01:40:38.500
+But I think I have made plenty of bad decisions for OpenAI along the way and a lot of good
+
+01:40:38.500 --> 01:40:39.500
+ones.
+
+01:40:39.500 --> 01:40:42.060
+And I am proud of the track record overall.
+
+01:40:42.060 --> 01:40:46.060
+But I don't think any one person should, and I don't think any one person will, I think
+
+01:40:46.060 --> 01:40:49.500
+it's just like too big of a thing now and it's happening throughout society in a good
+
+01:40:49.500 --> 01:40:50.500
+and healthy way.
+
+01:40:50.500 --> 01:40:56.460
+I don't think any one person should be in control of an AGI or this whole movement towards
+
+01:40:56.500 --> 01:40:57.500
+AGI.
+
+01:40:57.500 --> 01:41:00.100
+And I don't think that's what's happening.
+
+01:41:00.100 --> 01:41:01.100
+Thank you for saying that.
+
+01:41:01.100 --> 01:41:02.100
+That was really powerful.
+
+01:41:02.100 --> 01:41:08.260
+And that's really insightful that this idea that the board can fire you is legally true.
+
+01:41:08.260 --> 01:41:18.620
+But you can and human beings can manipulate the masses into overriding the board and so
+
+01:41:18.620 --> 01:41:19.620
+on.
+
+01:41:19.620 --> 01:41:23.460
+But I think there's also a much more positive version of that where the people still have
+
+01:41:23.460 --> 01:41:24.940
+power.
+
+01:41:24.940 --> 01:41:27.860
+So the board can't be too powerful either.
+
+01:41:27.860 --> 01:41:29.900
+There's a balance of power in all of this.
+
+01:41:29.900 --> 01:41:34.180
+Balance of power is a good thing for sure.
+
+01:41:34.180 --> 01:41:37.100
+Are you afraid of losing control of the AGI itself?
+
+01:41:37.100 --> 01:41:42.380
+That's a lot of people who worry about existential risk, not because of state actors, not because
+
+01:41:42.380 --> 01:41:45.100
+of security concerns, but because of the AI itself.
+
+01:41:45.100 --> 01:41:46.660
+That is not my top worry.
+
+01:41:46.660 --> 01:41:49.700
+As I currently see things, there have been times I worry about that more than maybe times
+
+01:41:49.700 --> 01:41:51.820
+again in the future where that's my top worry.
+
+01:41:51.820 --> 01:41:53.700
+It's not my top worry right now.
+
+01:41:53.700 --> 01:41:55.500
+What's your intuition about it not being your worry?
+
+01:41:55.500 --> 01:42:00.340
+Because there's a lot of other stuff to worry about essentially.
+
+01:42:00.340 --> 01:42:02.220
+You think you could be surprised?
+
+01:42:02.220 --> 01:42:03.220
+We could be surprised.
+
+01:42:03.220 --> 01:42:04.220
+For sure.
+
+01:42:04.220 --> 01:42:09.460
+Like saying it's not my top worry doesn't mean, I think we need to work on it super
+
+01:42:09.460 --> 01:42:10.460
+hard.
+
+01:42:10.460 --> 01:42:13.500
+And we have great people here who do work on that.
+
+01:42:13.500 --> 01:42:15.860
+I think there's a lot of other things we also have to get right.
+
+01:42:15.860 --> 01:42:20.380
+To you, it's not super easy to escape the box at this time.
+
+01:42:20.380 --> 01:42:21.380
+Connect to the internet.
+
+01:42:21.740 --> 01:42:24.700
+You know, we talked about theatrical risks earlier.
+
+01:42:24.700 --> 01:42:27.620
+That's a theatrical risk.
+
+01:42:27.620 --> 01:42:31.460
+That is a thing that can really take over how people think about this problem.
+
+01:42:31.460 --> 01:42:38.540
+And there's a big group of very smart, I think very well-meaning, AI safety researchers that
+
+01:42:38.540 --> 01:42:41.580
+got super hung up on this one problem.
+
+01:42:41.580 --> 01:42:45.260
+I'd argue without much progress, but super hung up on this one problem.
+
+01:42:45.260 --> 01:42:51.000
+I'm actually happy that they do that because I think we do need to think about this more.
+
+01:42:51.320 --> 01:42:56.600
+I think it pushed aside, it pushed out of the space of discourse a lot of the other
+
+01:42:56.600 --> 01:43:01.880
+very significant AI-related risks.
+
+01:43:01.880 --> 01:43:04.680
+Let me ask you about you tweeting with no capitalization.
+
+01:43:04.680 --> 01:43:07.700
+Is the shift key broken on your keyboard?
+
+01:43:07.700 --> 01:43:09.720
+Why does anyone care about that?
+
+01:43:09.720 --> 01:43:10.720
+I deeply care.
+
+01:43:10.720 --> 01:43:11.720
+But why?
+
+01:43:11.720 --> 01:43:15.360
+I mean, other people ask me about that too.
+
+01:43:15.360 --> 01:43:17.000
+Any intuition?
+
+01:43:17.000 --> 01:43:18.280
+I think it's the same reason.
+
+01:43:18.280 --> 01:43:24.720
+There's like this poet E. Cummings that mostly doesn't use capitalization to say like, fuck
+
+01:43:24.720 --> 01:43:26.280
+you to the system kind of thing.
+
+01:43:26.280 --> 01:43:29.040
+And I think people are very paranoid because they want you to follow the rules.
+
+01:43:29.040 --> 01:43:30.400
+Do you think that's what it's about?
+
+01:43:30.400 --> 01:43:31.400
+I think it's...
+
+01:43:31.400 --> 01:43:33.840
+It's like this guy doesn't follow the rules.
+
+01:43:33.840 --> 01:43:35.520
+He doesn't capitalize his tweets.
+
+01:43:35.520 --> 01:43:36.520
+Yeah.
+
+01:43:36.520 --> 01:43:37.520
+This seems really dangerous.
+
+01:43:37.520 --> 01:43:38.520
+He seems like an anarchist.
+
+01:43:38.520 --> 01:43:39.520
+It doesn't...
+
+01:43:39.520 --> 01:43:43.120
+Are you just being poetic, hipster?
+
+01:43:43.120 --> 01:43:44.120
+What's the...
+
+01:43:44.120 --> 01:43:45.120
+I grew up...
+
+01:43:45.120 --> 01:43:46.120
+Follow the rules, Sam.
+
+01:43:46.120 --> 01:43:47.240
+I grew up as a very online kid.
+
+01:43:47.240 --> 01:43:52.240
+I had spent a huge amount of time chatting with people back in the days where you did
+
+01:43:52.240 --> 01:43:56.400
+it on a computer and you could log off Instant Messenger at some point.
+
+01:43:56.400 --> 01:44:01.600
+And I never capitalized there, as I think most internet kids didn't.
+
+01:44:01.600 --> 01:44:04.760
+Or maybe they still don't, I don't know.
+
+01:44:04.760 --> 01:44:10.000
+And actually, this is like...
+
+01:44:10.000 --> 01:44:15.280
+Now I'm really trying to reach for something, but I think capitalization has gone down over
+
+01:44:15.280 --> 01:44:16.280
+time.
+
+01:44:17.160 --> 01:44:20.200
+They capitalized a lot of random words in the middle of sentences, nouns, and stuff
+
+01:44:20.200 --> 01:44:21.960
+that we just don't do anymore.
+
+01:44:21.960 --> 01:44:27.600
+I personally think it's sort of like a dumb construct that we capitalize the letter at
+
+01:44:27.600 --> 01:44:33.220
+the beginning of a sentence and of certain names and whatever, but that's fine.
+
+01:44:33.220 --> 01:44:35.680
+And then what I...
+
+01:44:35.680 --> 01:44:39.440
+And I used to, I think, even capitalize my tweets because I was trying to sound professional
+
+01:44:39.440 --> 01:44:40.440
+or something.
+
+01:44:40.440 --> 01:44:45.080
+I haven't capitalized my private DMs or whatever in a long time.
+
+01:44:45.080 --> 01:44:58.560
+And then slowly, stuff like shorter form, less formal stuff has slowly drifted closer
+
+01:44:58.560 --> 01:45:01.840
+and closer to how I would text my friends.
+
+01:45:01.840 --> 01:45:06.720
+If I pull up a Word document and I'm writing the strategy memo for the company or something,
+
+01:45:06.720 --> 01:45:08.040
+I always capitalize that.
+
+01:45:08.040 --> 01:45:13.000
+If I'm writing a long, more formal message, I always use capitalization there too.
+
+01:45:13.160 --> 01:45:19.680
+I still remember how to do it, but even that may fade out, I don't know.
+
+01:45:19.680 --> 01:45:23.160
+But I never spend time thinking about this, so I don't have a ready made.
+
+01:45:23.160 --> 01:45:24.160
+Well, it's interesting.
+
+01:45:24.160 --> 01:45:26.960
+It's good to, first of all, know the shift key is not broken.
+
+01:45:26.960 --> 01:45:27.960
+It works.
+
+01:45:27.960 --> 01:45:30.200
+I was mostly concerned about your well-being on that front.
+
+01:45:30.200 --> 01:45:32.920
+I wonder if people still capitalize their Google searches.
+
+01:45:32.920 --> 01:45:36.120
+If you're writing something just to yourself or their chat GBT queries, if you're writing
+
+01:45:36.120 --> 01:45:41.120
+something just to yourself, do some people still bother to capitalize?
+
+01:45:41.120 --> 01:45:42.120
+Probably not.
+
+01:45:42.520 --> 01:45:44.280
+Yeah, there's a percentage, but it's a small one.
+
+01:45:44.280 --> 01:45:50.400
+The thing that would make me do it is if people were like, it's a sign of, like, because I'm
+
+01:45:50.400 --> 01:45:54.320
+sure I could force myself to use capital letters, obviously.
+
+01:45:54.320 --> 01:45:58.600
+If it felt like a sign of respect to people or something, then I could go do it.
+
+01:45:58.600 --> 01:46:00.880
+But I don't know, I just don't think about this.
+
+01:46:00.880 --> 01:46:02.320
+I don't think there's a disrespect.
+
+01:46:02.320 --> 01:46:09.680
+But I think it's just the conventions of civility that have a momentum, and then you realize
+
+01:46:09.840 --> 01:46:14.160
+it's not actually important for civility if it's not a sign of respect or disrespect.
+
+01:46:14.160 --> 01:46:17.440
+But I think there's a movement of people that just want you to have a philosophy around
+
+01:46:17.440 --> 01:46:19.680
+it so they can let go of this whole capitalization thing.
+
+01:46:19.680 --> 01:46:21.280
+I don't think anybody else thinks about this.
+
+01:46:21.280 --> 01:46:22.280
+I mean, maybe some people.
+
+01:46:22.280 --> 01:46:23.280
+I know some people do.
+
+01:46:23.280 --> 01:46:25.440
+I think about this every day for many hours a day.
+
+01:46:25.440 --> 01:46:27.720
+So I'm really gracefully clarified.
+
+01:46:27.720 --> 01:46:30.880
+You can't be the only person that doesn't capitalize tweets.
+
+01:46:30.880 --> 01:46:33.920
+You're the only CEO of a company that doesn't capitalize tweets.
+
+01:46:33.920 --> 01:46:35.880
+I don't even think that's true, but maybe, maybe.
+
+01:46:36.000 --> 01:46:41.520
+All right, we'll investigate further and return to this topic later.
+
+01:46:41.520 --> 01:46:48.920
+Given Soar's ability to generate simulated worlds, let me ask you a pothead question.
+
+01:46:48.920 --> 01:46:55.040
+Does this increase your belief, if you ever had one, that we live in a simulation, maybe
+
+01:46:55.040 --> 01:47:00.080
+a simulated world generated by an AI system?
+
+01:47:00.080 --> 01:47:08.880
+Yes, somewhat.
+
+01:47:08.880 --> 01:47:13.080
+I don't think that's like the strongest piece of evidence.
+
+01:47:13.080 --> 01:47:22.880
+I think the fact that we can generate worlds should increase everyone's probability somewhat
+
+01:47:22.880 --> 01:47:25.520
+or at least openness to it somewhat.
+
+01:47:25.520 --> 01:47:28.680
+But I was certain we would be able to do something like Soar at some point.
+
+01:47:28.880 --> 01:47:34.080
+It happened faster than I thought, but I guess that was not a big update.
+
+01:47:34.080 --> 01:47:38.080
+Yeah, but the fact that, and presumably we'll get better and better and better.
+
+01:47:38.080 --> 01:47:41.680
+The fact that you can generate worlds, they're novel.
+
+01:47:41.680 --> 01:47:50.280
+They're based in some aspect of training data, but when you look at them, they're novel.
+
+01:47:50.280 --> 01:47:52.680
+That makes you think how easy it is to do this thing.
+
+01:47:52.680 --> 01:47:54.880
+How easy is it to create universes?
+
+01:47:54.880 --> 01:47:59.280
+Entire like video game worlds that seem ultra-realistic and photorealistic.
+
+01:47:59.280 --> 01:48:05.280
+And then how easy is it to get lost in that world, first with the VR headset and then
+
+01:48:05.280 --> 01:48:07.280
+on the physics-based level?
+
+01:48:10.280 --> 01:48:17.480
+Someone said to me recently, I thought it was a super profound insight, that there are
+
+01:48:17.480 --> 01:48:27.880
+these very simple sounding, but very psychedelic insights that exist sometimes.
+
+01:48:27.880 --> 01:48:30.680
+So the square root function.
+
+01:48:30.680 --> 01:48:33.680
+Square root of four, no problem.
+
+01:48:33.680 --> 01:48:38.080
+Square root of two, okay, now I have to think about this new kind of number.
+
+01:48:43.080 --> 01:48:47.280
+But once I come up with this easy idea of a square root function that you can
+
+01:48:47.280 --> 01:48:53.280
+kind of like explain to a child and exists by even like, you know, looking at some
+
+01:48:53.280 --> 01:48:58.280
+simple geometry, then you can ask the question of what is the square root of negative one.
+
+01:48:58.280 --> 01:49:04.280
+And that, and this is why it's like a psychedelic thing, that like tips you into some
+
+01:49:04.280 --> 01:49:06.280
+whole other kind of reality.
+
+01:49:06.280 --> 01:49:14.280
+And you can come up with lots of other examples, but I think this idea that the lowly
+
+01:49:14.280 --> 01:49:24.280
+square root operator can offer such a profound insight and a new realm of knowledge
+
+01:49:24.280 --> 01:49:26.280
+applies in a lot of ways.
+
+01:49:26.280 --> 01:49:33.280
+And I think there are a lot of those operators for why people may think that any
+
+01:49:33.280 --> 01:49:37.280
+version that they like of the simulation hypothesis is maybe more likely than they
+
+01:49:37.280 --> 01:49:38.280
+thought before.
+
+01:49:38.280 --> 01:49:46.280
+But for me, the fact that SOAR worked is not in the top five.
+
+01:49:46.280 --> 01:49:52.280
+I do think broadly speaking, AI will serve as those kinds of gateways at its best.
+
+01:49:52.280 --> 01:49:57.280
+Simple psychedelic like gateways to another way of seeing reality.
+
+01:49:57.280 --> 01:49:59.280
+That seems for certain.
+
+01:49:59.280 --> 01:50:01.280
+That's pretty exciting.
+
+01:50:01.280 --> 01:50:04.280
+I haven't done ayahuasca before, but I will soon.
+
+01:50:04.280 --> 01:50:07.280
+I'm going to the aforementioned Amazon jungle in a few weeks.
+
+01:50:07.280 --> 01:50:08.280
+Excited?
+
+01:50:08.280 --> 01:50:09.280
+Yeah, I'm excited for it.
+
+01:50:09.280 --> 01:50:10.280
+Not the ayahuasca part.
+
+01:50:10.280 --> 01:50:11.280
+That's great.
+
+01:50:11.280 --> 01:50:12.280
+Whatever.
+
+01:50:12.280 --> 01:50:15.280
+But I'm going to spend several weeks in the jungle, deep in the jungle.
+
+01:50:15.280 --> 01:50:19.280
+It's exciting, but it's terrifying because there's a lot of things that can eat you
+
+01:50:19.280 --> 01:50:22.280
+there and kill you and poison you.
+
+01:50:22.280 --> 01:50:25.280
+But it's also nature and it's the machine of nature.
+
+01:50:25.280 --> 01:50:29.280
+And you can't help but appreciate the machinery of nature in the Amazon jungle because
+
+01:50:29.280 --> 01:50:36.280
+it's just like this system that just exists and renews itself like every second, every
+
+01:50:36.280 --> 01:50:37.280
+minute, every hour.
+
+01:50:37.280 --> 01:50:38.280
+It's the machine.
+
+01:50:38.280 --> 01:50:44.280
+It makes you appreciate like this thing we have here, this human thing came from somewhere.
+
+01:50:44.280 --> 01:50:51.280
+This evolutionary machine has created that and it's most clearly on display in the jungle.
+
+01:50:51.280 --> 01:50:53.280
+So hopefully I'll make it out alive.
+
+01:50:53.280 --> 01:50:57.280
+If not, this will be the last conversation we had, so I really deeply appreciate it.
+
+01:50:57.280 --> 01:51:02.280
+Do you think, as I mentioned before, there's other alien civilizations out there, intelligent
+
+01:51:02.280 --> 01:51:03.280
+ones?
+
+01:51:04.280 --> 01:51:06.280
+When you look up at the skies?
+
+01:51:17.280 --> 01:51:21.280
+I deeply want to believe that the answer is yes.
+
+01:51:21.280 --> 01:51:27.280
+I do find the kind of where, I find the Fermi paradox very puzzling.
+
+01:51:27.280 --> 01:51:30.280
+I find it scary.
+
+01:51:30.280 --> 01:51:32.280
+That intelligence is not good at handling.
+
+01:51:32.280 --> 01:51:34.280
+Yeah, it's very scary.
+
+01:51:34.280 --> 01:51:35.280
+Powerful technologies.
+
+01:51:35.280 --> 01:51:42.280
+But at the same time, I think I'm pretty confident that there's just a very large number of intelligent
+
+01:51:42.280 --> 01:51:43.280
+alien civilizations out there.
+
+01:51:43.280 --> 01:51:46.280
+It might just be really difficult to travel through space.
+
+01:51:46.280 --> 01:51:47.280
+Very possible.
+
+01:51:49.280 --> 01:51:52.280
+And it also makes me think about the nature of intelligence.
+
+01:51:52.280 --> 01:51:58.280
+Maybe we're really blind to what intelligence looks like and maybe AI will help us see that.
+
+01:51:58.280 --> 01:52:02.280
+It's not as simple as IQ tests and simple puzzle solving.
+
+01:52:02.280 --> 01:52:03.280
+There's something bigger.
+
+01:52:06.280 --> 01:52:08.280
+What gives you hope about the future of humanity?
+
+01:52:08.280 --> 01:52:10.280
+This thing we've got going on?
+
+01:52:10.280 --> 01:52:12.280
+This human civilization?
+
+01:52:12.280 --> 01:52:14.280
+I think the past is like a lot.
+
+01:52:14.280 --> 01:52:21.280
+I mean, if we just look at what humanity has done in a not very long period of time, you
+
+01:52:21.280 --> 01:52:26.280
+know, huge problems, deep flaws, lots to be super ashamed of.
+
+01:52:26.280 --> 01:52:28.280
+But on the whole, very inspiring.
+
+01:52:28.280 --> 01:52:29.280
+Gives me a lot of hope.
+
+01:52:29.280 --> 01:52:31.280
+Just the trajectory of it all.
+
+01:52:31.280 --> 01:52:32.280
+Yeah.
+
+01:52:32.280 --> 01:52:36.280
+That we're together pushing towards a better future.
+
+01:52:40.280 --> 01:52:46.280
+You know, one thing that I wonder about is, is AGI going to be more like some single brain?
+
+01:52:46.280 --> 01:52:51.280
+Or is it more like the sort of scaffolding in society between all of us?
+
+01:52:51.280 --> 01:52:57.280
+You have not had a great deal of genetic drift from your great, great, great grandparents.
+
+01:52:57.280 --> 01:53:01.280
+And yet what you're capable of is dramatically different.
+
+01:53:01.280 --> 01:53:03.280
+What you know is dramatically different.
+
+01:53:03.280 --> 01:53:07.280
+And that is not, that's not because of biological change.
+
+01:53:07.280 --> 01:53:09.280
+I mean, you got a little bit healthier probably.
+
+01:53:09.280 --> 01:53:10.280
+You have modern medicine.
+
+01:53:10.280 --> 01:53:11.280
+You eat better.
+
+01:53:11.280 --> 01:53:13.280
+Whatever.
+
+01:53:13.280 --> 01:53:22.280
+But what you have is this scaffolding that we all contributed to, built on top of.
+
+01:53:22.280 --> 01:53:25.280
+No one person is going to go build the iPhone.
+
+01:53:25.280 --> 01:53:27.280
+No one person is going to go discover all of science.
+
+01:53:27.280 --> 01:53:29.280
+And yet you get to use it.
+
+01:53:29.280 --> 01:53:31.280
+And that gives you incredible ability.
+
+01:53:31.280 --> 01:53:35.280
+And so in some sense, they're like, we all created that.
+
+01:53:35.280 --> 01:53:38.280
+And that fills me with hope for the future.
+
+01:53:38.280 --> 01:53:40.280
+That was a very collective thing.
+
+01:53:40.280 --> 01:53:43.280
+Yeah, we really are standing on the shoulders of giants.
+
+01:53:43.280 --> 01:53:51.280
+You mentioned when we were talking about theatrical, dramatic AI risks,
+
+01:53:51.280 --> 01:53:55.280
+that sometimes you might be afraid for your own life.
+
+01:53:55.280 --> 01:53:57.280
+Do you think about your death?
+
+01:53:57.280 --> 01:53:58.280
+Are you afraid of it?
+
+01:53:58.280 --> 01:54:03.280
+I mean, like if I got shot tomorrow and I knew it today, I'd be like, oh, that's sad.
+
+01:54:03.280 --> 01:54:06.280
+I like don't, you know, I want to see what's going to happen.
+
+01:54:06.280 --> 01:54:07.280
+Yeah.
+
+01:54:07.280 --> 01:54:12.280
+What a curious time, what an interesting time.
+
+01:54:12.280 --> 01:54:15.280
+But I would mostly just feel like very grateful for my life.
+
+01:54:15.280 --> 01:54:18.280
+The moments that you did get.
+
+01:54:18.280 --> 01:54:20.280
+Yeah, me too.
+
+01:54:20.280 --> 01:54:22.280
+It's a pretty awesome life.
+
+01:54:22.280 --> 01:54:27.280
+I get to enjoy awesome creations of humans, of which I believe
+
+01:54:27.280 --> 01:54:32.280
+Chad GPT is one of and everything that OpenAI is doing.
+
+01:54:32.280 --> 01:54:36.280
+Sam, it's really an honor and pleasure to talk to you again.
+
+01:54:36.280 --> 01:54:37.280
+Thank you for having me.
+
+01:54:37.280 --> 01:54:40.280
+Thanks for listening to this conversation with Sam Altman.
+
+01:54:40.280 --> 01:54:44.280
+To support this podcast, please check out our sponsors in the description.
+
+01:54:44.280 --> 01:54:48.280
+And now let me leave you with some words from Arthur C. Clarke.
+
+01:54:48.280 --> 01:54:56.280
+It may be that our role on this planet is not to worship God, but to create him.
+
+01:54:56.280 --> 01:55:00.280
+Thank you for listening and hope to see you next time.
+
+01:55:06.280 --> 01:55:08.280
+Thank you.
+

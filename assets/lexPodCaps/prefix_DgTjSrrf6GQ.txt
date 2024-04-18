@@ -1,0 +1,6482 @@
+WEBVTT
+
+00:00.000 --> 00:04.240
+It is the most important right that Americans have.
+
+00:04.240 --> 00:07.560
+It's not a coincidence or an accident
+
+00:07.560 --> 00:12.200
+that it's named in the First Amendment to the Constitution.
+
+00:13.160 --> 00:15.400
+Without it, no democratic society
+
+00:15.400 --> 00:17.300
+can be democratic for long.
+
+00:18.320 --> 00:20.960
+And I'm an absolutist.
+
+00:20.960 --> 00:23.920
+That is, I believe that, for example,
+
+00:23.920 --> 00:28.080
+people say to me, but what about hate speech?
+
+00:28.120 --> 00:31.320
+Well, hate speech is much more important than love speech.
+
+00:31.320 --> 00:33.640
+And the reason is, I'm much more interested
+
+00:33.640 --> 00:37.160
+in knowing whom I should not turn my back on
+
+00:37.160 --> 00:40.880
+than I am interested in figuring out who loves me.
+
+00:43.240 --> 00:46.020
+The following is a conversation with Harvey Silverglate,
+
+00:46.020 --> 00:49.120
+a legendary free speech advocate, co-founder of FIRE,
+
+00:49.120 --> 00:51.720
+the Foundation for Individual Rights and Expression,
+
+00:51.720 --> 00:53.800
+and the author of several books
+
+00:53.800 --> 00:56.480
+on the freedom of speech and criminal justice,
+
+00:56.480 --> 00:58.960
+including The Shadow University,
+
+00:58.960 --> 01:01.540
+The Betrayal of Liberty on America's Campuses.
+
+01:02.400 --> 01:05.040
+Harvey is running to be on the Harvard Board
+
+01:05.040 --> 01:08.360
+of Overseers this year with a write-in campaign.
+
+01:08.360 --> 01:12.200
+So you have to spell his name correctly, Silverglate,
+
+01:12.200 --> 01:14.560
+promising to advocate for free speech
+
+01:14.560 --> 01:17.040
+and to push for reducing the size
+
+01:17.040 --> 01:19.560
+of Harvard's administration bureaucracy.
+
+01:19.560 --> 01:23.960
+Election is over this Tuesday, May 16th at 5 p.m. Eastern.
+
+01:23.960 --> 01:26.560
+To vote, you have to be Harvard alumni.
+
+01:26.560 --> 01:29.520
+So if you happen to be one, please vote online.
+
+01:29.520 --> 01:31.440
+It's a good way to support freedom of speech
+
+01:31.440 --> 01:33.200
+on Harvard campus.
+
+01:33.200 --> 01:36.920
+Instructions how to do so are in the description.
+
+01:36.920 --> 01:38.920
+As a side note, please allow me to say
+
+01:38.920 --> 01:42.320
+that since there are several controversial conversations
+
+01:42.320 --> 01:44.960
+coming up, I tried to make sure that this podcast
+
+01:44.960 --> 01:47.400
+is a platform for free discourse
+
+01:47.400 --> 01:50.040
+where ideas are not censored but explored,
+
+01:50.040 --> 01:52.040
+and if necessary, challenged
+
+01:52.040 --> 01:54.640
+in a thoughtful and pathetic way.
+
+01:54.640 --> 01:57.080
+It's by having such difficult conversations,
+
+01:57.080 --> 02:00.400
+not by avoiding them, that we can begin to heal divides
+
+02:00.400 --> 02:02.240
+and to shed lights on the dark parts
+
+02:02.240 --> 02:05.400
+of human history and human nature.
+
+02:05.400 --> 02:07.400
+This is the Lex Friedman Podcast.
+
+02:07.400 --> 02:09.440
+To support it, please check out our sponsors
+
+02:09.440 --> 02:10.840
+in the description.
+
+02:10.840 --> 02:14.760
+And now, dear friends, here's Harvey Silverglate.
+
+02:15.620 --> 02:18.740
+You co-founded the Foundation for Individual Rights
+
+02:18.740 --> 02:21.680
+and Expression, also known as FIRE,
+
+02:21.720 --> 02:23.480
+a legendary organization that fights
+
+02:23.480 --> 02:25.520
+for the freedom of speech for all Americans
+
+02:25.520 --> 02:29.740
+in our courtrooms, on our campuses, and in our culture.
+
+02:29.740 --> 02:31.600
+So let's start with a big question.
+
+02:31.600 --> 02:33.680
+What is freedom of speech?
+
+02:33.680 --> 02:38.040
+First of all, the organization, when I co-founded it,
+
+02:38.040 --> 02:42.840
+in 1999, was called the Foundation
+
+02:42.840 --> 02:45.080
+for Individual Rights in Education.
+
+02:46.200 --> 02:51.200
+It focused on free speech issues on college campuses
+
+02:51.200 --> 02:55.160
+and academia, and only earlier this year
+
+02:55.160 --> 02:59.560
+did we decide to expand our reach beyond the campuses,
+
+02:59.560 --> 03:03.640
+which is why the name, although the acronym FIRE remains,
+
+03:03.640 --> 03:06.240
+it's now the Foundation for Individual Rights
+
+03:06.240 --> 03:07.720
+and Expression.
+
+03:07.720 --> 03:09.200
+The E used to be education.
+
+03:09.200 --> 03:12.240
+The E used to be education, it's now expression.
+
+03:12.240 --> 03:15.920
+And we basically do a lot of the cases the ACLU used to do.
+
+03:15.920 --> 03:20.920
+The ACLU now more is a progressive organization
+
+03:20.920 --> 03:23.680
+rather than a civil liberties organization.
+
+03:23.680 --> 03:28.680
+And we've taken the role of dealing with free speech
+
+03:29.160 --> 03:33.940
+in the society generally, and now this is a particularly,
+
+03:35.320 --> 03:37.800
+in Europe, prone to censorship.
+
+03:38.840 --> 03:41.360
+Everybody thinks they're right and that people
+
+03:41.360 --> 03:43.500
+who disagree with them should not be able
+
+03:43.500 --> 03:45.240
+to voice their views.
+
+03:45.240 --> 03:46.960
+It's a very difficult period right now,
+
+03:46.960 --> 03:49.060
+both on campus and off campus.
+
+03:50.020 --> 03:54.340
+It's about as intolerant an era as I can remember.
+
+03:54.340 --> 03:56.300
+I'm gonna be 81, May 10th.
+
+03:56.300 --> 03:59.700
+I was born on Mother's Day, 1942.
+
+03:59.700 --> 04:02.140
+And I can't remember it being this bad.
+
+04:02.140 --> 04:04.540
+I was born during the McCarthy era.
+
+04:06.540 --> 04:07.380
+So that says a lot.
+
+04:07.380 --> 04:10.940
+And it sort of reminds me of that.
+
+04:10.940 --> 04:14.500
+Well, let's start with that, almost a philosophical question,
+
+04:14.500 --> 04:16.540
+a legal question, a human question.
+
+04:16.540 --> 04:19.460
+What is this freedom that you care so much about,
+
+04:19.460 --> 04:21.900
+that you fought for so much, freedom of speech?
+
+04:21.900 --> 04:26.140
+It is the most important right that Americans have.
+
+04:26.140 --> 04:30.380
+It's not a coincidence or an accident that it's named
+
+04:30.380 --> 04:34.100
+in the First Amendment to the Constitution.
+
+04:35.060 --> 04:37.320
+Without it, no democratic society
+
+04:37.320 --> 04:39.200
+can be democratic for long.
+
+04:40.220 --> 04:42.860
+And I'm an absolutist.
+
+04:42.860 --> 04:45.820
+That is, I believe that, for example,
+
+04:45.820 --> 04:49.980
+people say to me, but what about hate speech?
+
+04:49.980 --> 04:53.180
+Well, hate speech is much more important than love speech.
+
+04:53.180 --> 04:55.500
+And the reason is, I'm much more interested
+
+04:55.500 --> 04:59.020
+in knowing whom I should not turn my back on
+
+04:59.020 --> 05:02.980
+than I am interested in figuring out who loves me
+
+05:02.980 --> 05:03.980
+or who likes me.
+
+05:04.980 --> 05:08.780
+So hate speech is the most important, in my view.
+
+05:08.780 --> 05:12.380
+And yet it's banned in, for example, schools.
+
+05:12.380 --> 05:13.620
+It's unbelievable.
+
+05:14.940 --> 05:19.180
+Kids are not schooled into understanding
+
+05:19.180 --> 05:23.300
+the glory of the First Amendment when schools say to them
+
+05:23.300 --> 05:24.820
+they shouldn't say things that are gonna
+
+05:24.820 --> 05:26.180
+make somebody feel bad.
+
+05:28.300 --> 05:32.780
+I mean, the purpose of speech is to express honest views
+
+05:32.780 --> 05:33.740
+that people have.
+
+05:33.740 --> 05:37.580
+And so I believe hate speech is as important
+
+05:37.580 --> 05:41.660
+as love speech, and my view is more important.
+
+05:41.660 --> 05:43.220
+So it should be brought to the surface
+
+05:43.220 --> 05:45.580
+rather than operate in the shadows.
+
+05:45.580 --> 05:48.420
+Absolutely, absolutely.
+
+05:48.420 --> 05:50.620
+What is the connection between freedom of speech
+
+05:50.620 --> 05:52.340
+and freedom of thought?
+
+05:52.340 --> 05:57.340
+Well, in a free society, thoughts start in the brain
+
+05:58.420 --> 06:00.460
+and then they come out the mouth.
+
+06:01.380 --> 06:04.460
+So there are different ends of the same spectrum.
+
+06:04.460 --> 06:08.340
+So to you, the censorship of speech eventually leads
+
+06:08.340 --> 06:09.900
+to a censorship of thought.
+
+06:09.900 --> 06:12.820
+Of course, censorship of the mode by which
+
+06:12.820 --> 06:15.140
+other people know what you're thinking.
+
+06:15.140 --> 06:17.180
+So there's some aspect of our society
+
+06:17.180 --> 06:20.100
+that is that thinking is done collectively
+
+06:20.100 --> 06:21.980
+and without being able to speak to each other,
+
+06:21.980 --> 06:24.220
+we cannot do this kind of collective thinking.
+
+06:24.220 --> 06:26.820
+And out of speech, the theory is that ultimately
+
+06:26.820 --> 06:28.940
+out of speech comes truth.
+
+06:28.940 --> 06:33.140
+That isn't necessarily so, but I do think that
+
+06:33.140 --> 06:36.380
+when there's free speech, better decisions are made
+
+06:36.380 --> 06:39.140
+because people put their views on the table
+
+06:39.140 --> 06:42.300
+in a frank, accurate way.
+
+06:42.300 --> 06:47.300
+And then those views mix together and clash.
+
+06:47.660 --> 06:52.660
+And out of that, usually comes the better decision.
+
+06:54.580 --> 06:58.820
+Not always, but usually, or more often than not.
+
+06:58.820 --> 07:03.300
+But if somebody is not allowed to sit at the table
+
+07:03.300 --> 07:06.940
+of decision-making, then the decision-making process
+
+07:06.940 --> 07:11.940
+is poorer, less robust, less diverse,
+
+07:13.220 --> 07:15.620
+and ultimately less successful.
+
+07:15.620 --> 07:20.460
+So can you elaborate on the idea of free speech absolutism?
+
+07:20.460 --> 07:25.260
+So hate speech can be quite painful
+
+07:25.260 --> 07:27.500
+to quite a large number of people.
+
+07:27.500 --> 07:28.700
+Does this worry you?
+
+07:28.700 --> 07:29.860
+Yep.
+
+07:29.860 --> 07:34.460
+Living in a free society requires that you expose yourself
+
+07:34.460 --> 07:38.180
+to some discomfort, you call it pain.
+
+07:38.180 --> 07:41.740
+It's maybe emotional pain, it's not physical pain,
+
+07:43.860 --> 07:48.860
+but it's the price we pay for living in a free society.
+
+07:48.860 --> 07:53.620
+Every so often, we're insulted, we're emotionally hurt.
+
+07:54.500 --> 07:56.220
+Think of the alternative.
+
+07:56.220 --> 07:58.460
+All the alternatives are worse.
+
+07:58.460 --> 08:01.740
+Nobody ever promised us a rose garden.
+
+08:01.740 --> 08:05.020
+We're lucky to be in a country that has the First Amendment.
+
+08:05.020 --> 08:09.780
+It's also the most diverse country in the world
+
+08:09.780 --> 08:11.140
+because of immigration.
+
+08:13.780 --> 08:17.860
+My grandparents, my father's side came over from Russia,
+
+08:17.860 --> 08:20.660
+my mother's side came over from Poland.
+
+08:20.660 --> 08:24.180
+I'm very happy that my grandparents came in from Russia.
+
+08:24.180 --> 08:26.340
+I would not want to be in Russia today.
+
+08:26.340 --> 08:28.780
+I'd probably be sharing a cell
+
+08:28.780 --> 08:30.580
+with a Wall Street Journal reporter.
+
+08:32.300 --> 08:37.220
+So I'm thankful that they came in.
+
+08:37.220 --> 08:39.180
+And this is a great country.
+
+08:39.180 --> 08:42.140
+It's got troubles right now, but our country doesn't.
+
+08:42.140 --> 08:47.140
+And we've had, after we had a civil war, we had segregation,
+
+08:47.460 --> 08:52.460
+we had the decimation of the Indians, we're not perfect,
+
+08:52.540 --> 08:54.620
+but it's the best place in the world
+
+08:54.620 --> 08:57.220
+for somebody who values liberty.
+
+08:57.260 --> 09:01.300
+So you don't think that hate speech can empower large groups
+
+09:02.340 --> 09:07.140
+that eventually lead to physical action,
+
+09:07.140 --> 09:08.420
+to physical harm to others?
+
+09:08.420 --> 09:09.260
+No, I don't.
+
+09:09.260 --> 09:13.500
+I think that we have developed a culture
+
+09:13.500 --> 09:16.940
+in which it's understood that if you don't like
+
+09:16.940 --> 09:21.940
+what you hear, you talk back, you write something.
+
+09:21.940 --> 09:26.940
+And we don't punch each other, we insult each other.
+
+09:28.500 --> 09:30.020
+Is insulting great?
+
+09:30.020 --> 09:32.740
+Well, I don't know, it's okay.
+
+09:32.740 --> 09:35.820
+I used to, as a kid in Brooklyn, where I was born,
+
+09:35.820 --> 09:38.540
+I was born and raised in Bensonhurst,
+
+09:38.540 --> 09:41.180
+we used to say, sticks and stones can break my bones,
+
+09:41.180 --> 09:43.140
+but names can never harm me.
+
+09:43.140 --> 09:44.860
+And it's absolutely true.
+
+09:44.860 --> 09:49.340
+What was true when I was five is true when I'm almost 81.
+
+09:49.340 --> 09:52.540
+So I've lived a long time, I've seen it all,
+
+09:52.540 --> 09:56.460
+and I'm talking from experience as well as theory.
+
+09:56.460 --> 09:58.500
+It's what happens when you reach your 80s.
+
+10:00.580 --> 10:02.900
+I read that you had this line that you cannot be
+
+10:02.900 --> 10:04.980
+protected from being called an asshole.
+
+10:04.980 --> 10:07.700
+Correct, especially if you're an asshole.
+
+10:09.020 --> 10:12.220
+Well that's, but you don't have to be an asshole
+
+10:12.220 --> 10:13.060
+to be called an asshole.
+
+10:13.060 --> 10:13.900
+That's correct.
+
+10:13.900 --> 10:16.380
+And I think the internet has taught me that.
+
+10:16.380 --> 10:20.220
+Well the internet has posed a particular challenge
+
+10:20.220 --> 10:22.820
+to free speech absolutists because of some of the stuff
+
+10:22.820 --> 10:24.780
+that's on there is God awful.
+
+10:25.940 --> 10:28.740
+But I have no different rule for freedom of speech
+
+10:28.740 --> 10:33.140
+on the internet than I have in newspapers or in lectures
+
+10:33.140 --> 10:37.700
+or in classrooms or conversations among people.
+
+10:37.700 --> 10:40.020
+What do you think about the tension
+
+10:40.020 --> 10:42.860
+between freedom of speech and freedom of reach,
+
+10:42.860 --> 10:45.540
+as is kind of sometimes termed?
+
+10:45.540 --> 10:48.060
+So the internet really challenges that aspect.
+
+10:48.060 --> 10:52.340
+It allows speech to become viral and spread very quickly
+
+10:52.340 --> 10:53.580
+to a very large number of people.
+
+10:53.580 --> 10:56.580
+Well you know, we've had revolutions
+
+10:56.580 --> 11:01.580
+in the modalities of communication.
+
+11:02.340 --> 11:05.620
+After all, newspapers were the first challenge.
+
+11:08.500 --> 11:12.860
+Radio and television posed a new challenge.
+
+11:13.820 --> 11:18.820
+The FCC tried, but ultimately gave up the attempt
+
+11:19.140 --> 11:24.140
+to control obscenity, for example.
+
+11:26.900 --> 11:29.460
+And the Supreme Court has been pretty close.
+
+11:29.460 --> 11:31.300
+The one thing that liberal
+
+11:31.300 --> 11:33.380
+and conservative Supreme Courts,
+
+11:33.380 --> 11:34.940
+right now we're in a conservative era
+
+11:34.940 --> 11:37.740
+due to Trump nominations.
+
+11:38.700 --> 11:43.620
+During much of my life, the Warren Court,
+
+11:43.620 --> 11:48.620
+it was William O. Douglas, Brennan, the Liberal Court.
+
+11:49.780 --> 11:52.340
+One thing they agree on is free speech.
+
+11:52.340 --> 11:54.420
+They don't agree on much else,
+
+11:54.420 --> 11:56.060
+but they do agree on free speech.
+
+11:56.060 --> 12:00.140
+And I think the reason is that they recognize
+
+12:00.140 --> 12:04.300
+that well, my group is in the ascendance today,
+
+12:04.300 --> 12:05.740
+but it may not be tomorrow,
+
+12:05.740 --> 12:09.380
+and I want to have objective, clear rules
+
+12:09.380 --> 12:11.140
+so that when I'm in the minority,
+
+12:11.140 --> 12:12.980
+I'm able to voice my opinion.
+
+12:13.820 --> 12:16.620
+And so it's one of the few things
+
+12:16.620 --> 12:20.500
+that both sides of the political spectrum agree on.
+
+12:20.500 --> 12:23.900
+The only people who don't are the people way over
+
+12:23.900 --> 12:25.740
+on the right that I call the fascists,
+
+12:25.740 --> 12:28.260
+and the people way over on the left,
+
+12:28.260 --> 12:29.540
+who are the communists.
+
+12:30.420 --> 12:33.100
+But with respect to most people
+
+12:33.100 --> 12:35.060
+on the political spectrum,
+
+12:35.100 --> 12:38.540
+Republicans, Democrats, socialists, libertarians,
+
+12:41.980 --> 12:44.100
+they agree on the primacy of free speech
+
+12:44.100 --> 12:48.580
+because it protects them when protection is needed.
+
+12:48.580 --> 12:50.620
+So to you, even on the internet,
+
+12:51.700 --> 12:54.220
+free speech absolutism should rule.
+
+12:54.220 --> 12:57.180
+Yes, nobody's gonna die.
+
+12:57.180 --> 13:00.700
+Remember, death threats are not protected.
+
+13:01.860 --> 13:03.860
+Nobody's gonna die,
+
+13:03.940 --> 13:06.060
+so people are gonna be a little bit insulted.
+
+13:06.060 --> 13:09.220
+That's the price you pay for living in a free society,
+
+13:09.220 --> 13:12.140
+and it's a small price, in my view.
+
+13:13.460 --> 13:16.020
+Some people don't have as tough a hide as others.
+
+13:16.020 --> 13:17.700
+Well, then develop it.
+
+13:19.900 --> 13:22.100
+I don't mean to sound cruel,
+
+13:22.980 --> 13:25.260
+but you're living in a free society.
+
+13:25.260 --> 13:26.780
+Develop a tough hide.
+
+13:27.820 --> 13:30.700
+So that's the cost of living in a free society.
+
+13:30.700 --> 13:32.620
+Yep, there's a cost.
+
+13:32.660 --> 13:35.580
+The thing is, it can really hurt at scale
+
+13:35.580 --> 13:37.260
+to be cyberbullied,
+
+13:37.260 --> 13:39.420
+to be attacked for the ideas you express,
+
+13:39.420 --> 13:41.260
+or maybe ideas you didn't express,
+
+13:41.260 --> 13:45.220
+but that somebody decided to lie about you
+
+13:45.220 --> 13:48.260
+and use that to attack you.
+
+13:48.260 --> 13:49.660
+Well, first of all,
+
+13:51.860 --> 13:54.580
+there are some exceptions to the first amendment.
+
+13:54.580 --> 13:56.940
+Libel and slander is an exception.
+
+13:57.900 --> 14:00.900
+Direct threats are an exception.
+
+14:00.900 --> 14:04.460
+You know, if you say such and such, I will murder you.
+
+14:04.460 --> 14:06.420
+That is not lawful.
+
+14:06.420 --> 14:11.420
+If you say to somebody, if you say about somebody,
+
+14:11.420 --> 14:14.020
+oh, you know, you beat your wife.
+
+14:14.020 --> 14:17.060
+That is not lawful, if in fact the person knows
+
+14:17.060 --> 14:18.860
+you don't beat your wife.
+
+14:18.860 --> 14:20.580
+There are some limits.
+
+14:20.580 --> 14:24.260
+Defamation is one, direct threats are another.
+
+14:24.700 --> 14:26.980
+So it's not absolute, this is not,
+
+14:26.980 --> 14:29.460
+the first amendment is not absolute,
+
+14:29.460 --> 14:33.020
+but it's more absolute than it is in any other society
+
+14:33.020 --> 14:35.300
+and it's pretty near absolute.
+
+14:37.780 --> 14:39.620
+For example, fraud.
+
+14:39.620 --> 14:42.940
+If you sell somebody a car and you say,
+
+14:42.940 --> 14:44.540
+oh, this is in great running shape
+
+14:44.540 --> 14:46.180
+and in fact it's an old jalopy
+
+14:46.180 --> 14:48.940
+and it's not gonna make it more than 10 miles,
+
+14:48.940 --> 14:50.140
+that's fraud.
+
+14:50.140 --> 14:51.820
+That's not free speech.
+
+14:51.860 --> 14:55.540
+So free speech is not absolute, there are these limits,
+
+14:55.540 --> 14:59.500
+but they're very narrow specific categories of limits.
+
+14:59.500 --> 15:02.860
+But there's gray area here because while legally
+
+15:02.860 --> 15:05.500
+you're not allowed to defame a person,
+
+15:05.500 --> 15:07.460
+in the court of public opinion,
+
+15:07.460 --> 15:11.100
+especially with the aid of anonymity on the internet,
+
+15:11.100 --> 15:14.460
+the rumors can spread at scale.
+
+15:14.460 --> 15:16.500
+Thousands, hundreds of thousands of people
+
+15:16.500 --> 15:18.900
+can make up things about you.
+
+15:19.100 --> 15:20.980
+You have to defend yourself.
+
+15:20.980 --> 15:22.220
+Using more speech.
+
+15:22.220 --> 15:24.220
+We're through freedom of speech,
+
+15:24.220 --> 15:25.980
+we're big boys and girls.
+
+15:26.900 --> 15:28.380
+You have to defend yourself.
+
+15:30.060 --> 15:32.780
+In some societies, if you say something,
+
+15:34.300 --> 15:37.100
+right now if you say something nasty about Putin,
+
+15:37.100 --> 15:38.700
+you'll end up in the gulag.
+
+15:39.700 --> 15:42.980
+If you say something nasty about Biden,
+
+15:42.980 --> 15:44.420
+you end up in the New York Times.
+
+15:44.420 --> 15:45.740
+Where would you rather be?
+
+15:45.940 --> 15:48.580
+Well, let's talk about the thing you've done
+
+15:48.580 --> 15:49.900
+for over 20 years,
+
+15:50.940 --> 15:52.340
+which is fight for the freedom of speech
+
+15:52.340 --> 15:54.100
+on college campuses.
+
+15:54.100 --> 15:57.220
+So why is freedom of speech important on college campuses?
+
+15:57.220 --> 15:59.740
+Well, it's important everywhere in the society,
+
+15:59.740 --> 16:03.340
+but it's most important on college campuses, why?
+
+16:03.340 --> 16:07.060
+Because that's where we educate our young citizens.
+
+16:08.060 --> 16:12.020
+And if you are educated under a notion
+
+16:12.220 --> 16:17.220
+that some dean can call you on the carpet,
+
+16:17.740 --> 16:20.780
+because you say something which is considered racist
+
+16:20.780 --> 16:24.180
+or you can say something which is considered
+
+16:25.380 --> 16:29.180
+dangerous to social cohesion,
+
+16:30.820 --> 16:33.180
+then it's not a liberal arts college.
+
+16:33.180 --> 16:38.180
+Now, the theory that I used in the early 2000s,
+
+16:38.580 --> 16:43.580
+the theory that I used in the shadow university.
+
+16:44.540 --> 16:46.780
+A book you've written, the shadow university.
+
+16:46.780 --> 16:48.020
+1998.
+
+16:48.020 --> 16:49.860
+1998.
+
+16:49.860 --> 16:51.780
+You were ahead of a lot of these things, by the way.
+
+16:51.780 --> 16:54.700
+I'm afraid that as a pessimist,
+
+16:54.700 --> 16:57.300
+I always saw the bad side of things.
+
+16:57.300 --> 16:59.620
+Betrayal of Liberty on America's campuses,
+
+16:59.620 --> 17:02.300
+the shadow university, a book you co-authored
+
+17:02.300 --> 17:03.220
+with Alan Charles.
+
+17:03.220 --> 17:05.460
+Yes, with one of my Princeton classmates,
+
+17:05.500 --> 17:08.700
+Alan Charles Coors, who's now an emeritus professor
+
+17:08.700 --> 17:11.780
+of enlightenment history at the University of Pennsylvania.
+
+17:12.660 --> 17:14.300
+I only taught for one semester,
+
+17:14.300 --> 17:16.340
+and I can go into that later,
+
+17:16.340 --> 17:20.060
+the reason that I did not continue to teach in colleges.
+
+17:21.220 --> 17:22.700
+It was Harvard Law School.
+
+17:22.700 --> 17:25.220
+I taught a course in the mid 1980s.
+
+17:26.780 --> 17:29.660
+But in any event, the college campuses
+
+17:29.660 --> 17:34.260
+are one of the most important for free speech,
+
+17:34.260 --> 17:36.860
+because it's where people get education.
+
+17:36.860 --> 17:39.420
+And if you don't really get a good education,
+
+17:39.420 --> 17:42.620
+if certain points of view are not allowed to be expressed,
+
+17:42.620 --> 17:46.820
+because education comes from the clash of ideas,
+
+17:46.820 --> 17:48.300
+and you then have to decide,
+
+17:48.300 --> 17:52.460
+this is how you become a thinking adult.
+
+17:52.460 --> 17:56.140
+You have to decide which ideas make more sense to you,
+
+17:56.140 --> 17:57.780
+which ones you're gonna follow.
+
+17:58.660 --> 18:01.380
+The college experience is transformative.
+
+18:02.380 --> 18:05.500
+And if there is censorship on campuses,
+
+18:05.500 --> 18:10.500
+it's highly destructive of the educational enterprise,
+
+18:10.980 --> 18:14.460
+and ultimately to the entire society.
+
+18:14.460 --> 18:19.460
+We have in the sciences, we have a scientific method.
+
+18:21.140 --> 18:24.580
+Scientific method is you try experiments,
+
+18:24.580 --> 18:26.420
+and you see which ones work,
+
+18:26.420 --> 18:27.980
+and then you develop theories
+
+18:27.980 --> 18:30.540
+based upon the results of experiments.
+
+18:30.740 --> 18:32.020
+Well, this is not much different
+
+18:32.020 --> 18:34.340
+from every other aspect of life.
+
+18:34.340 --> 18:37.980
+You have to entertain different views on different subjects.
+
+18:37.980 --> 18:40.180
+You hear all the views, and you make a decision
+
+18:40.180 --> 18:42.940
+as to which one's accurate and which one's not.
+
+18:42.940 --> 18:47.740
+So the scientific method I apply to non-science,
+
+18:47.740 --> 18:52.740
+to history, to journalism, to all of these things.
+
+18:53.460 --> 18:56.420
+So that scientific method includes ideas,
+
+18:56.420 --> 18:57.540
+hateful ideas also.
+
+18:57.540 --> 19:00.220
+Correct, if you don't allow hateful ideas.
+
+19:01.180 --> 19:04.660
+When scientists do experiments, nobody says to them,
+
+19:04.660 --> 19:07.380
+oh, you know, don't do that experiment,
+
+19:07.380 --> 19:08.780
+because it would be very bad
+
+19:08.780 --> 19:12.300
+if that turns out to be accurate, that outcome.
+
+19:12.300 --> 19:13.700
+That's not the way it works.
+
+19:15.420 --> 19:20.140
+Every point of view is thrown into the marketplace,
+
+19:20.140 --> 19:25.100
+whether it's science or whether it's non-science.
+
+19:25.100 --> 19:28.180
+And that includes the kind of ideas
+
+19:28.220 --> 19:30.420
+and the kind of discourse that might actually
+
+19:30.420 --> 19:33.300
+lead to an increase in hate on campuses.
+
+19:33.300 --> 19:37.780
+The First Amendment prohibits speech,
+
+19:37.780 --> 19:42.780
+which is liable to produce imminent, imminent violence.
+
+19:43.820 --> 19:48.820
+So for example, the exception is yelling falsely,
+
+19:51.620 --> 19:54.740
+falsely yelling fire in a crowded movie theater.
+
+19:54.740 --> 19:56.420
+A lot of people misstate it.
+
+19:56.420 --> 19:59.460
+They say, well, the exception is yelling fire
+
+19:59.460 --> 20:00.300
+in a movie theater.
+
+20:00.300 --> 20:01.180
+If there's really a fire,
+
+20:01.180 --> 20:03.820
+you're performing a real important function
+
+20:03.820 --> 20:05.500
+by yelling fire.
+
+20:05.500 --> 20:07.740
+But it's falsely yelling fire.
+
+20:07.740 --> 20:10.180
+You could start a riot, people would be crushed
+
+20:10.180 --> 20:11.700
+trying to get out.
+
+20:11.700 --> 20:16.180
+So that's one of the exceptions of the First Amendment
+
+20:16.180 --> 20:18.020
+as the Supreme Court has defined it.
+
+20:20.060 --> 20:21.900
+There are very few exceptions.
+
+20:23.020 --> 20:25.060
+And defamation is an exception.
+
+20:25.780 --> 20:28.900
+I'm not a fan of that exception, frankly.
+
+20:28.900 --> 20:32.900
+But if you say something about somebody
+
+20:32.900 --> 20:37.380
+that has serious implications in their life,
+
+20:37.380 --> 20:39.540
+in their ability to earn a living,
+
+20:39.540 --> 20:42.420
+if you say, accuse somebody of being a pedophile,
+
+20:42.420 --> 20:45.820
+when it's not true, that person can sue you.
+
+20:47.220 --> 20:50.100
+My own view is I think that's an unfortunate exception,
+
+20:50.100 --> 20:52.380
+but I'm the Supreme Court.
+
+20:52.900 --> 20:57.900
+I think that a friend of mine was Nat Hentoff.
+
+21:00.740 --> 21:02.940
+Nat Hentoff, who wrote for decades
+
+21:02.940 --> 21:04.860
+for The Village Voice in New York.
+
+21:06.780 --> 21:08.460
+He was a friend of mine.
+
+21:08.460 --> 21:11.100
+He was a free speech absolutist.
+
+21:11.100 --> 21:13.740
+And he wrote a fabulous book called
+
+21:13.740 --> 21:16.140
+Free Speech for Me, But Not for Thee.
+
+21:18.020 --> 21:21.900
+And he was an absolutist, and I'm with Nat Hentoff.
+
+21:21.940 --> 21:23.580
+Even on the defamation aspect, I mean,
+
+21:23.580 --> 21:27.260
+I agree with you in some sense, just practically speaking.
+
+21:27.260 --> 21:32.260
+It seems like that the best way in the public sphere
+
+21:33.740 --> 21:37.260
+to defend against defamation is with more speech.
+
+21:37.260 --> 21:38.140
+Correct.
+
+21:38.140 --> 21:42.260
+And through authenticity, through authentic communication
+
+21:43.620 --> 21:45.380
+of the truth, as you see it.
+
+21:45.380 --> 21:48.140
+Yeah, you know, at times, the Boston Globe
+
+21:48.140 --> 21:50.860
+has said something about me that hasn't been accurate.
+
+21:50.860 --> 21:54.020
+They have variably published my letter to the editor.
+
+21:54.900 --> 21:59.020
+I'm also not bashful about getting in touch
+
+21:59.020 --> 21:59.860
+with the reporter.
+
+21:59.860 --> 22:01.140
+They, at the end of every column,
+
+22:01.140 --> 22:03.420
+they give the reporter's email address.
+
+22:05.500 --> 22:09.180
+And I know people say that I have more access
+
+22:09.180 --> 22:10.940
+to the media than most people,
+
+22:12.380 --> 22:15.900
+but all that means is I get the fame more than most people.
+
+22:16.900 --> 22:18.300
+Can we also comment on,
+
+22:18.340 --> 22:21.180
+from the individual consumer of speech,
+
+22:22.180 --> 22:27.180
+there's a kind of sense that freedom of speech means
+
+22:27.220 --> 22:30.140
+you should be forced to read all of it.
+
+22:30.140 --> 22:32.900
+Freedom of speech versus freedom of reach.
+
+22:32.900 --> 22:35.100
+We as consumers of speech,
+
+22:35.100 --> 22:37.380
+do we have the right to select what we read?
+
+22:37.380 --> 22:38.380
+We do.
+
+22:38.380 --> 22:41.740
+And nobody can force us to sit in a room
+
+22:41.740 --> 22:43.340
+and listen to a radio program
+
+22:43.340 --> 22:45.060
+that we don't wanna listen to.
+
+22:45.060 --> 22:46.900
+Nobody can force us to read a book
+
+22:46.940 --> 22:48.140
+that we don't wanna read.
+
+22:49.780 --> 22:52.260
+The whole notion of freedom of speech means
+
+22:52.260 --> 22:57.020
+that people have autonomy on their choices.
+
+22:57.020 --> 23:00.460
+In order to form a complete mind and complete human being,
+
+23:00.460 --> 23:04.540
+there's a kind of tension of that autonomy
+
+23:04.540 --> 23:08.300
+versus consuming as many varied perspectives as possible,
+
+23:08.300 --> 23:11.580
+which is underlying the ethic of free speech.
+
+23:11.580 --> 23:14.340
+So on college campuses,
+
+23:14.340 --> 23:17.500
+it seems like a good way to develop the mind
+
+23:17.500 --> 23:19.300
+is to get as many perspectives as possible,
+
+23:19.300 --> 23:22.100
+even if you don't really want to.
+
+23:22.100 --> 23:25.300
+Well, that is the theory.
+
+23:25.300 --> 23:30.180
+Academic freedom is supposed to be
+
+23:30.180 --> 23:32.300
+the highest degree of free speech.
+
+23:33.740 --> 23:35.980
+You should be able to entertain
+
+23:35.980 --> 23:40.380
+all kinds of hateful, threatening ideas.
+
+23:40.380 --> 23:43.940
+And the way I put it is there's something wrong
+
+23:44.540 --> 23:48.380
+when you can say something with complete abandon
+
+23:48.380 --> 23:51.180
+without any fear in Harvard Square,
+
+23:51.180 --> 23:52.780
+whereas on the other side of the fence,
+
+23:52.780 --> 23:54.540
+you can't say it in Harvard Yard.
+
+23:54.540 --> 23:55.940
+It should be the opposite.
+
+23:56.860 --> 24:00.500
+And what happens is universities,
+
+24:01.500 --> 24:02.780
+from the best to the worst,
+
+24:02.780 --> 24:05.700
+from the most famous to the least well-known,
+
+24:05.700 --> 24:08.500
+have been taken over by administrators.
+
+24:09.420 --> 24:13.540
+Administrators do not really subsume academic values.
+
+24:14.100 --> 24:16.060
+They know nothing about the Constitution.
+
+24:16.060 --> 24:17.460
+They know nothing about free speech.
+
+24:17.460 --> 24:19.780
+They know nothing about academic freedom.
+
+24:19.780 --> 24:22.140
+They feel that their job is to keep order.
+
+24:23.460 --> 24:27.100
+And so they develop speech codes,
+
+24:27.100 --> 24:29.820
+kangaroo courts to enforce the speech codes.
+
+24:31.340 --> 24:33.220
+And these are very dire developments.
+
+24:33.220 --> 24:36.220
+I wrote about them in the shadow university in 98
+
+24:37.820 --> 24:42.420
+and tried to deal with them in 1999 when I started fire,
+
+24:42.860 --> 24:47.860
+and I would fire.
+
+24:48.140 --> 24:49.740
+The reason I'm running currently
+
+24:49.740 --> 24:52.020
+for the Harvard Board of Overseers is
+
+24:52.020 --> 24:55.820
+what I'd like to do is convince the Harvard Corporation,
+
+24:55.820 --> 24:58.420
+so-called President and Fellows of Harvard College,
+
+24:58.420 --> 25:00.940
+the chief governing board of the university
+
+25:00.940 --> 25:01.980
+with the real power.
+
+25:03.260 --> 25:06.020
+The Board of Overseers is a secondary body,
+
+25:06.020 --> 25:07.460
+but quite influential,
+
+25:07.460 --> 25:10.460
+to fire 95% of the administrators.
+
+25:10.460 --> 25:12.900
+It would have a salutary effect
+
+25:12.900 --> 25:15.260
+on the academics of the university.
+
+25:15.260 --> 25:16.660
+It would have a salutary effect
+
+25:16.660 --> 25:18.940
+on free speech and academic freedom.
+
+25:18.940 --> 25:21.540
+It would cut tuitions by about 40%.
+
+25:23.060 --> 25:25.860
+And it would create a whole different atmosphere
+
+25:25.860 --> 25:26.700
+on the campus.
+
+25:26.700 --> 25:30.100
+And the same could be said of MIT or any other place.
+
+25:31.740 --> 25:36.660
+I think administrators are a very, very, very important
+
+25:37.500 --> 25:42.500
+a very bad influence on American higher education.
+
+25:44.220 --> 25:46.980
+Can you sort of elaborate the intuition
+
+25:46.980 --> 25:51.420
+why this thing that you call administrative bloat
+
+25:51.420 --> 25:53.220
+is such a bad thing for a university?
+
+25:53.220 --> 25:58.220
+Well, first of all, just in terms of the cost of maintaining,
+
+25:58.740 --> 26:01.740
+there are more administrators in American higher education
+
+26:01.740 --> 26:04.180
+than there are faculty members.
+
+26:04.180 --> 26:06.260
+The cost is enormous.
+
+26:06.260 --> 26:11.260
+Number two, they are inimical to the teaching enterprise
+
+26:13.620 --> 26:17.660
+and they feel that their job is to control things,
+
+26:17.660 --> 26:19.740
+to make sure there are no problems
+
+26:19.740 --> 26:21.420
+and nobody's feelings are hurt.
+
+26:23.620 --> 26:28.620
+Being called before a dean because you said something
+
+26:29.860 --> 26:32.980
+that insulted somebody is something that shouldn't happen
+
+26:32.980 --> 26:34.900
+in American higher education, yet it happens
+
+26:34.900 --> 26:36.460
+because you have these administrators
+
+26:36.460 --> 26:39.700
+who think it's their job to protect people
+
+26:39.700 --> 26:40.740
+from being insulted.
+
+26:40.740 --> 26:44.580
+You insult a black student, you insult a woman.
+
+26:45.540 --> 26:46.900
+There's a disciplinary hearing.
+
+26:46.900 --> 26:48.100
+Well, there shouldn't be.
+
+26:50.380 --> 26:54.780
+Black people are accustomed to being insulted.
+
+26:54.780 --> 26:57.580
+Jews are accustomed to being insulted.
+
+26:57.580 --> 26:59.860
+Women are accustomed to being insulted.
+
+26:59.860 --> 27:03.900
+And it's very good to know who doesn't like you.
+
+27:03.900 --> 27:08.380
+It's useful, it's essential information
+
+27:08.380 --> 27:09.940
+to know who doesn't like you.
+
+27:09.940 --> 27:12.060
+If everybody is forced to say I love you
+
+27:12.060 --> 27:13.740
+and nobody can say I hate you,
+
+27:13.740 --> 27:16.700
+you get a false view of what life is all about.
+
+27:16.700 --> 27:17.940
+Outside of the university.
+
+27:17.940 --> 27:18.980
+Outside of the university.
+
+27:18.980 --> 27:21.540
+I mean, you do graduate eventually.
+
+27:23.980 --> 27:26.180
+And that's ultimately the mission of the university
+
+27:26.180 --> 27:29.060
+is to prepare you to make you into a great human being,
+
+27:29.060 --> 27:30.620
+into a great leader that can take on
+
+27:30.620 --> 27:31.540
+the problems of the world.
+
+27:31.540 --> 27:32.380
+Correct.
+
+27:32.380 --> 27:36.500
+And you don't do it by treating you like a little flower.
+
+27:36.500 --> 27:38.060
+About what role does the university
+
+27:38.060 --> 27:40.060
+have to protect students?
+
+27:40.060 --> 27:44.420
+To women, African Americans, anybody, Jews,
+
+27:44.420 --> 27:47.420
+anybody who can be a victim of hate speech.
+
+27:47.420 --> 27:50.660
+They protect you from physical assault.
+
+27:50.660 --> 27:53.140
+If somebody physically assaults you,
+
+27:53.140 --> 27:56.260
+then they get punished.
+
+27:56.260 --> 28:00.580
+But they shouldn't protect you against insult
+
+28:00.580 --> 28:03.220
+because that is a violation of academic freedom,
+
+28:03.220 --> 28:05.780
+the freedom of the insulter to insult you.
+
+28:05.780 --> 28:08.940
+And also, as I said, it's very useful
+
+28:08.940 --> 28:10.620
+to know who doesn't like you.
+
+28:10.620 --> 28:13.340
+It's useful for the so-called victim.
+
+28:13.340 --> 28:17.500
+I think it's to say I wanna know who doesn't like me.
+
+28:17.500 --> 28:20.940
+It's as important to me as knowing who likes me.
+
+28:20.940 --> 28:25.380
+But do you also believe in this open space of discourse
+
+28:25.380 --> 28:28.140
+that the insulter will eventually lose?
+
+28:28.140 --> 28:29.260
+I think that's true.
+
+28:29.300 --> 28:32.020
+I think that the insulter eventually
+
+28:32.020 --> 28:33.820
+will wear out his or her welcome.
+
+28:35.060 --> 28:36.060
+I do.
+
+28:36.060 --> 28:38.420
+But I like to know who the insulters are.
+
+28:39.820 --> 28:41.340
+Because it gives you a deeper understanding
+
+28:41.340 --> 28:42.180
+of human nature.
+
+28:42.180 --> 28:44.620
+Yeah, and usually, by the way,
+
+28:44.620 --> 28:46.820
+my experience has been that the insulters
+
+28:46.820 --> 28:48.340
+have generally not been as smart
+
+28:48.340 --> 28:50.500
+as the people they've insulted.
+
+28:50.500 --> 28:53.260
+And that's probably one of the reasons they insult them
+
+28:53.260 --> 28:56.020
+because they feel inferior.
+
+28:56.020 --> 28:59.660
+I mean, I'm not trying to be a psychoanalyst here,
+
+28:59.660 --> 29:02.180
+but a lot of the people who are the haters
+
+29:02.180 --> 29:06.620
+are pretty low down on the intellectual scale.
+
+29:06.620 --> 29:11.620
+Anyway, 95% of administration, you would fire,
+
+29:11.900 --> 29:16.540
+you're calling to fire 95% of the administration.
+
+29:16.540 --> 29:17.660
+People should know.
+
+29:17.660 --> 29:22.420
+I think people that don't really think about the structure,
+
+29:22.420 --> 29:24.220
+the way the universities work,
+
+29:24.260 --> 29:28.660
+are not familiar, I think, with the fact that administration,
+
+29:28.660 --> 29:31.460
+there's a huge bloat of administration.
+
+29:31.460 --> 29:33.500
+When you think about what makes a great university,
+
+29:33.500 --> 29:35.420
+it's about the students, it's about the faculty,
+
+29:35.420 --> 29:37.020
+it's about the people that do research,
+
+29:37.020 --> 29:38.620
+if it's a research university.
+
+29:39.500 --> 29:42.300
+They don't think about the bureaucracy of meetings
+
+29:42.300 --> 29:46.180
+and committees and rules and paperwork and all that,
+
+29:46.180 --> 29:47.780
+and all the people that are involved
+
+29:47.780 --> 29:49.380
+with pushing that kind of paper.
+
+29:49.380 --> 29:51.100
+And there's a huge cost to that,
+
+29:51.100 --> 29:55.140
+but it also slows down and suppresses
+
+29:55.140 --> 29:58.780
+the beautiful variety that makes a university great,
+
+29:58.780 --> 30:02.620
+which is the teaching, the student life, the protest,
+
+30:02.620 --> 30:07.620
+the clubs, all the fun that you can have at a university,
+
+30:07.780 --> 30:09.580
+all the very kind of exploration,
+
+30:09.580 --> 30:11.540
+which you can't really do once you graduate.
+
+30:11.540 --> 30:12.620
+Correct.
+
+30:12.620 --> 30:14.740
+The university is a place to really explore
+
+30:15.620 --> 30:16.700
+in every single way.
+
+30:17.820 --> 30:20.500
+So let me just talk about this important thing,
+
+30:20.900 --> 30:24.260
+because I'm very fortunate to have contacted you,
+
+30:24.260 --> 30:27.620
+almost by accident, in a very important moment in your life.
+
+30:27.620 --> 30:32.620
+You're running for the Harvard Board of Overseers.
+
+30:32.820 --> 30:36.580
+What is this board, how much power does it have,
+
+30:36.580 --> 30:38.380
+and what would you do if elected?
+
+30:38.380 --> 30:41.780
+Okay, first of all, I have a prediction
+
+30:41.780 --> 30:43.700
+that in about five years they're gonna probably
+
+30:43.700 --> 30:46.460
+change the name because Overseers reminds people
+
+30:46.460 --> 30:50.340
+of the slavery era, and we're in such a politically
+
+30:51.180 --> 30:53.380
+correct era now, that the English language
+
+30:53.380 --> 30:57.140
+is being restricted, corrupted, is the way I put it,
+
+30:57.140 --> 31:01.140
+because certain words are forbidden.
+
+31:01.140 --> 31:03.340
+We have some problems in this country,
+
+31:03.340 --> 31:07.340
+and I think part of the problem is the educational system
+
+31:07.340 --> 31:09.700
+has lost the sense of what academic freedom
+
+31:09.700 --> 31:11.940
+and free speech are all about,
+
+31:11.940 --> 31:16.940
+and I think it's essential that the educational system
+
+31:17.060 --> 31:21.740
+begin to take more seriously what free speech
+
+31:21.740 --> 31:24.220
+and academic freedom really are.
+
+31:24.220 --> 31:27.140
+That's why I'm running for the Harvard Board of Overseers.
+
+31:27.140 --> 31:32.140
+So let me just linger on the role of the administration
+
+31:32.420 --> 31:34.540
+in protecting free speech.
+
+31:34.540 --> 31:37.020
+So what often happens, I think you've written about this,
+
+31:37.020 --> 31:40.140
+is there's going to be a few, maybe a small number
+
+31:40.140 --> 31:43.100
+of hypersensitive students and faculty that protest.
+
+31:43.100 --> 31:47.260
+So how does Harvard administration resist
+
+31:47.260 --> 31:50.940
+the influence of those hypersensitive protestors
+
+31:50.940 --> 31:55.660
+in protecting speech and protecting even hate speech?
+
+31:55.660 --> 32:00.140
+Harvard has done fairly well under the presidency
+
+32:00.140 --> 32:01.780
+of Lawrence Bacow.
+
+32:02.740 --> 32:05.780
+I have had a couple of meetings with Bacow.
+
+32:07.300 --> 32:09.260
+I like Bacow.
+
+32:09.260 --> 32:14.260
+I have donated to Harvard a print of my late wife,
+
+32:14.820 --> 32:17.380
+took a picture of Bob Dylan and Allen Ginsberg
+
+32:17.380 --> 32:21.580
+when the Rolling Thunder Review got to Harvard Square,
+
+32:21.580 --> 32:24.780
+and it's sort of an iconic photograph.
+
+32:24.780 --> 32:27.940
+She called it the music lesson because it's got Dylan
+
+32:27.940 --> 32:30.940
+teaching Ginsberg how to play the guitar,
+
+32:30.940 --> 32:33.940
+and I donated one of those to Harvard.
+
+32:33.940 --> 32:35.980
+It's hanging in Bacow's office.
+
+32:36.820 --> 32:40.660
+He, the new president, Claudine Gay,
+
+32:40.660 --> 32:43.460
+is not known for respecting academic freedom
+
+32:43.460 --> 32:45.180
+and free speech.
+
+32:45.180 --> 32:46.900
+People have said to me, well, give her a chance.
+
+32:46.900 --> 32:49.100
+Well, I'm willing to give her a chance,
+
+32:49.100 --> 32:53.020
+but she does have a record, and she's a bureaucrat.
+
+32:53.900 --> 32:55.740
+I don't think she believes in free speech
+
+32:55.740 --> 32:57.260
+and academic freedom.
+
+32:57.260 --> 32:59.700
+I think she's a progressive, not a liberal.
+
+33:00.980 --> 33:05.500
+I'm not happy with the appointment
+
+33:05.500 --> 33:10.180
+of Claudine Gay, and it has made more essential
+
+33:10.180 --> 33:13.300
+my attempt to get on the Board of Overseers.
+
+33:13.300 --> 33:15.780
+So let's talk about the Board of Overseers,
+
+33:15.780 --> 33:19.580
+and your run for it, the specifics, actually.
+
+33:19.580 --> 33:24.580
+It would be nice because I think you're a writing candidate,
+
+33:25.700 --> 33:28.740
+and the election is over on May 16th.
+
+33:29.660 --> 33:30.620
+Yes.
+
+33:30.620 --> 33:32.300
+And I think there are specifics.
+
+33:32.300 --> 33:34.140
+I'll probably give them in the intro.
+
+33:34.220 --> 33:35.300
+I'll give links to people,
+
+33:35.300 --> 33:37.460
+but the specifics are complicated.
+
+33:37.460 --> 33:42.460
+Let me just mention that you have to be Harvard alumni,
+
+33:42.660 --> 33:45.020
+so you have graduated from Harvard.
+
+33:45.020 --> 33:47.260
+You have to, in order to run and in order to vote.
+
+33:47.260 --> 33:48.300
+In order to vote.
+
+33:48.300 --> 33:50.940
+And the process, I imagine, is not trivial,
+
+33:50.940 --> 33:55.940
+but this is done online, and if you're an alumni,
+
+33:56.580 --> 33:57.860
+you should have received an email
+
+33:57.860 --> 33:59.660
+from a particular email address,
+
+33:59.660 --> 34:03.460
+harvard.mgelectionservicescourt.com,
+
+34:03.500 --> 34:07.740
+and presumably there's a way to get some validation number
+
+34:07.740 --> 34:09.980
+from that email, and then you go online,
+
+34:09.980 --> 34:12.220
+you enter that validation number, and you vote.
+
+34:12.220 --> 34:17.220
+And to vote for Harvey, you have to enter his name correctly,
+
+34:18.260 --> 34:21.380
+Harvey Silverglate, and spell it correctly.
+
+34:21.380 --> 34:22.460
+Great.
+
+34:22.460 --> 34:24.780
+Obviously, I'm imagining this,
+
+34:24.780 --> 34:26.820
+because I'm MIT, not Harvard,
+
+34:26.820 --> 34:29.780
+so I'm imagining the process is not trivial.
+
+34:29.780 --> 34:30.940
+You have to click on things,
+
+34:30.940 --> 34:34.980
+you have to sort of follow instructions
+
+34:34.980 --> 34:37.740
+that are not trivial.
+
+34:37.740 --> 34:40.300
+And I'll also provide an email,
+
+34:40.300 --> 34:42.780
+if the process is painful, it doesn't work for you,
+
+34:42.780 --> 34:43.900
+that you can email.
+
+34:43.900 --> 34:45.580
+Email Harvard and complain.
+
+34:45.580 --> 34:48.300
+IT help at harvard.edu and so on.
+
+34:48.300 --> 34:49.660
+I'll provide all the links.
+
+34:49.660 --> 34:51.740
+But is there something else you can say
+
+34:51.740 --> 34:55.460
+about the voting process, what you're running on?
+
+34:55.460 --> 34:57.140
+This is my second run.
+
+34:57.260 --> 34:58.500
+Mm-hmm.
+
+34:58.500 --> 35:01.620
+The first time I got enough signatures
+
+35:01.620 --> 35:03.220
+to get on the ballot,
+
+35:03.220 --> 35:08.020
+then the Harvard Alumni Association
+
+35:08.020 --> 35:13.020
+sent out a letter to all living Harvard alums
+
+35:14.580 --> 35:16.940
+recommending that they vote
+
+35:16.940 --> 35:20.660
+for the officially nominated candidates
+
+35:20.660 --> 35:24.780
+that excluded two petition candidates of whom I was one.
+
+35:25.740 --> 35:30.740
+And I wrote to the Alumni Association and I said,
+
+35:31.620 --> 35:35.740
+you have now sent out the curriculum VTIs
+
+35:35.740 --> 35:37.580
+and the policy positions
+
+35:37.580 --> 35:40.940
+of all the officially nominated candidates.
+
+35:40.940 --> 35:44.300
+There are two petition candidates on the ballot.
+
+35:44.300 --> 35:49.300
+I would like to be able to send out my positions
+
+35:50.380 --> 35:52.580
+to the voters.
+
+35:52.660 --> 35:54.660
+They wrote me back saying,
+
+35:54.660 --> 35:59.380
+our policy is to only send out the policy positions
+
+35:59.380 --> 36:02.580
+and the platforms of officially nominated candidates.
+
+36:02.580 --> 36:04.580
+Can you believe that?
+
+36:04.580 --> 36:07.740
+Well, this is a liberal arts college, right?
+
+36:09.540 --> 36:12.460
+Where from the clash of ideas, truth emerges.
+
+36:12.460 --> 36:13.500
+Well, really?
+
+36:14.580 --> 36:18.940
+This is what I call Harvard's not so subtle means
+
+36:18.940 --> 36:21.860
+of candidate suppression, not voter suppression,
+
+36:21.860 --> 36:23.300
+candidate suppression.
+
+36:24.380 --> 36:28.820
+And everybody can vote, but not everybody can run.
+
+36:31.420 --> 36:35.140
+It'll becomes a liberal arts college
+
+36:35.140 --> 36:38.060
+where the clash of ideas will produce the truth.
+
+36:38.060 --> 36:41.820
+What about the clash of ideas on the Board of Overseers?
+
+36:41.820 --> 36:43.580
+The Board of Overseers is important.
+
+36:43.580 --> 36:46.580
+It doesn't have the same power and authority
+
+36:46.580 --> 36:48.060
+as the Harvard Corporation,
+
+36:48.060 --> 36:51.700
+the so-called president and fellows of Harvard College,
+
+36:52.540 --> 36:56.460
+but it's very influential and very important.
+
+36:56.460 --> 36:59.380
+And it would be a great perch for me to try
+
+36:59.380 --> 37:03.220
+to exert influence for the university to get back
+
+37:03.220 --> 37:05.100
+to where it was before it was taken over
+
+37:05.100 --> 37:06.380
+by the administrators.
+
+37:06.380 --> 37:09.860
+Well, I'm pretty sure that most of Harvard alumni
+
+37:09.860 --> 37:12.060
+and most of the students currently going to Harvard,
+
+37:12.060 --> 37:15.220
+most of the faculty at Harvard probably stand behind
+
+37:15.220 --> 37:18.220
+the ideas and the ideals that you stand behind.
+
+37:18.700 --> 37:21.540
+The people that love Harvard and what it stands for.
+
+37:21.540 --> 37:23.820
+See, the alumni were educated in an era
+
+37:23.820 --> 37:27.860
+when these concepts were taken more seriously
+
+37:27.860 --> 37:32.460
+and before the administrators took over.
+
+37:32.460 --> 37:34.460
+So I do think if I get my message out,
+
+37:34.460 --> 37:36.020
+I'm gonna win the seat.
+
+37:36.020 --> 37:39.900
+And if I win a seat, I will have a great perch
+
+37:39.900 --> 37:44.300
+for trying to convince the real power that beat,
+
+37:44.300 --> 37:46.460
+which is the Harvard Corporation,
+
+37:46.460 --> 37:48.820
+to do the things that I'm suggesting.
+
+37:48.820 --> 37:51.260
+Get rid of 95% of the administrators,
+
+37:51.260 --> 37:55.540
+get rid of the speech codes, reduce tuition by 40%.
+
+37:55.540 --> 37:58.500
+All of these salutary benefits.
+
+37:59.620 --> 38:02.500
+Can you imagine if Harvard became the most affordable
+
+38:02.500 --> 38:03.940
+college in the United States?
+
+38:05.180 --> 38:07.500
+Well, the affordability is another aspect,
+
+38:07.500 --> 38:12.020
+but I think before that, just the freedom of expression,
+
+38:12.020 --> 38:14.100
+freedom of speech, freedom of thought.
+
+38:14.460 --> 38:16.740
+America's greatest universities, I think,
+
+38:16.740 --> 38:18.980
+is something that everybody would agree on.
+
+38:18.980 --> 38:23.980
+It would have a tremendous effect on the whole country.
+
+38:26.300 --> 38:29.780
+And is there something to say about the details
+
+38:29.780 --> 38:33.780
+of how difficult it is for alumni to vote?
+
+38:33.780 --> 38:38.780
+Well, you could vote online or you can vote by paper ballot.
+
+38:39.180 --> 38:40.980
+You could request a paper ballot.
+
+38:41.980 --> 38:44.940
+And all I could say is that the hard part
+
+38:44.940 --> 38:46.300
+is getting the message out.
+
+38:47.380 --> 38:49.340
+My name doesn't appear on the ballot
+
+38:49.340 --> 38:52.100
+because I couldn't get enough signatures.
+
+38:52.100 --> 38:55.260
+Well, Harvey, Harvey Silverglat.
+
+38:55.260 --> 38:58.340
+S-I-L-V-E-R-G-L-A-T.
+
+38:58.340 --> 39:01.980
+You know, when my grandparents arrived from Russia,
+
+39:03.380 --> 39:08.340
+the name in Russian was something like Zilberglat.
+
+39:08.340 --> 39:12.060
+And the immigration officer had several choices.
+
+39:12.060 --> 39:14.300
+He could have said Silvergate.
+
+39:14.300 --> 39:18.180
+Gate is a real, Silver and gate are real English words.
+
+39:18.180 --> 39:21.980
+He could have said Silverglade, G-L-A-D-E.
+
+39:21.980 --> 39:23.340
+Those are real English words.
+
+39:23.340 --> 39:25.420
+That's how my name is often misspelled,
+
+39:25.420 --> 39:28.180
+either Silvergate or Silverglade.
+
+39:28.180 --> 39:31.580
+Silverglade is a nonsense syllable.
+
+39:31.580 --> 39:34.860
+And why the immigration officer chose
+
+39:34.860 --> 39:39.460
+to transliterate Zilberglad as Silverglade,
+
+39:39.460 --> 39:41.260
+I'll never understand.
+
+39:41.260 --> 39:45.860
+And it is the cause of endless mistakes in my name.
+
+39:45.860 --> 39:49.740
+Well, the fundamental absurdity of life
+
+39:49.740 --> 39:51.620
+is also the source of its beauty.
+
+39:51.620 --> 39:52.460
+Yes.
+
+39:52.460 --> 39:55.060
+Anyway, we shall spell it out
+
+39:55.060 --> 40:00.140
+and we shall yell loud and wide
+
+40:00.140 --> 40:02.780
+that everybody who has ever graduated from Harvard
+
+40:02.780 --> 40:05.460
+should vote for you if they believe in the ideals
+
+40:05.460 --> 40:06.940
+of the great American universities,
+
+40:06.940 --> 40:08.380
+which I think most people do.
+
+40:10.580 --> 40:14.460
+Let me also ask about diversity inclusion
+
+40:14.460 --> 40:15.580
+and equity programs.
+
+40:15.580 --> 40:20.140
+You've had a few harsh words to say about those.
+
+40:20.140 --> 40:21.620
+You know, the idea of diversity,
+
+40:21.620 --> 40:23.820
+I think is a beautiful idea.
+
+40:23.820 --> 40:25.660
+You said that Harvard's idea of diversity
+
+40:25.660 --> 40:28.860
+is for everyone to look different and think alike.
+
+40:28.860 --> 40:29.700
+Correct.
+
+40:29.700 --> 40:30.520
+Can you elaborate?
+
+40:30.520 --> 40:32.060
+And be comfortable.
+
+40:32.820 --> 40:33.660
+Yeah.
+
+40:33.660 --> 40:35.740
+First of all, it is impossible
+
+40:35.740 --> 40:38.260
+if liberal arts education is taken seriously,
+
+40:38.260 --> 40:41.620
+it's impossible for students to feel comfortable.
+
+40:41.620 --> 40:42.780
+Why?
+
+40:42.780 --> 40:44.620
+Because one of the roles of colleges
+
+40:44.620 --> 40:47.980
+to challenge all the beliefs that they grew up with,
+
+40:47.980 --> 40:51.660
+which mostly are the beliefs inculcated by parents
+
+40:51.660 --> 40:53.580
+and by elementary school teachers.
+
+40:54.500 --> 40:59.500
+And the idea is to be able to challenge those thoughts,
+
+41:00.060 --> 41:01.620
+those ideas.
+
+41:02.140 --> 41:04.780
+And if you don't have free speech and academic freedom,
+
+41:04.780 --> 41:08.980
+those views get reified, they do not get challenged.
+
+41:09.860 --> 41:14.860
+So it violates the fundamental role
+
+41:15.220 --> 41:17.780
+of higher educational institutions
+
+41:17.780 --> 41:19.860
+to have any restrictions at all.
+
+41:20.940 --> 41:22.380
+That's number one.
+
+41:23.700 --> 41:27.100
+Number two, as I think I said earlier,
+
+41:27.100 --> 41:29.580
+if people, students are not allowed
+
+41:29.580 --> 41:31.460
+to be frank with one another,
+
+41:32.300 --> 41:33.940
+they don't really learn about one another.
+
+41:38.340 --> 41:42.060
+I've given a lot of lectures in which I have said,
+
+41:42.060 --> 41:45.900
+and I think students now understand it,
+
+41:46.980 --> 41:48.420
+I'm much more interested in hearing
+
+41:48.420 --> 41:51.380
+from the people who hate me than the people who love me.
+
+41:51.380 --> 41:54.420
+I'm much more interested in knowing who disagrees with me
+
+41:54.420 --> 41:55.940
+than people who agree with me.
+
+41:56.940 --> 42:01.260
+That's how I learn, and that's how they learn.
+
+42:02.100 --> 42:03.740
+The clash of ideas,
+
+42:03.740 --> 42:06.020
+which is the theory behind the First Amendment.
+
+42:07.420 --> 42:09.300
+That truth will somehow emerge,
+
+42:09.300 --> 42:12.260
+or if not truth, at least a better truth,
+
+42:12.260 --> 42:15.820
+a truer truth, a more useful truth,
+
+42:15.820 --> 42:19.380
+if ideas are allowed to clash.
+
+42:19.380 --> 42:21.100
+Especially in the structure of a university
+
+42:21.100 --> 42:24.180
+where at least I would say there's some set of rules,
+
+42:24.180 --> 42:25.900
+some set of civility.
+
+42:25.900 --> 42:29.300
+I think I would rather read Mein Kampf
+
+42:29.340 --> 42:31.460
+to understand people that hate.
+
+42:31.460 --> 42:34.860
+There is also a quality to disagreement
+
+42:34.860 --> 42:36.180
+that we should strive for,
+
+42:36.180 --> 42:38.100
+and I think a university is a place
+
+42:38.100 --> 42:41.740
+where when disagreement and even hate is allowed,
+
+42:41.740 --> 42:44.940
+it's done in a high effort way.
+
+42:44.940 --> 42:48.900
+Somebody asked me once about what books I would,
+
+42:48.900 --> 42:53.020
+what I have as required reading in literature courses,
+
+42:53.020 --> 42:56.940
+and I listed Mein Kampf, and they were horrified.
+
+42:56.940 --> 42:58.980
+I said, well, it's one of the most important books
+
+42:59.460 --> 43:00.220
+of the 20th century.
+
+43:01.940 --> 43:03.380
+Six million Jews died,
+
+43:03.380 --> 43:06.020
+an enormous number of other people died,
+
+43:06.020 --> 43:08.420
+because one guy wrote a book called Mein Kampf
+
+43:08.420 --> 43:10.460
+and took it seriously.
+
+43:10.460 --> 43:12.420
+It's one of the most important books ever written.
+
+43:12.420 --> 43:16.740
+How can an educated person not have at least
+
+43:16.740 --> 43:19.500
+breezed through Mein Kampf?
+
+43:20.940 --> 43:22.220
+It's not a great read, though.
+
+43:22.220 --> 43:23.460
+It's not a great read.
+
+43:23.460 --> 43:27.500
+He was not a great writer, but you do get a sense
+
+43:27.580 --> 43:30.500
+for the sociopath that was Adolf Hitler.
+
+43:30.500 --> 43:33.940
+Yes, because he really acted on the words that he wrote.
+
+43:33.940 --> 43:35.220
+Yeah.
+
+43:35.220 --> 43:38.460
+And it was there, and if people took that work seriously.
+
+43:38.460 --> 43:39.300
+Correct.
+
+43:39.300 --> 43:40.780
+They would have understood.
+
+43:40.780 --> 43:43.340
+It's one of the most important books of the 20th century,
+
+43:43.340 --> 43:46.980
+and it's politically incorrect to read it.
+
+43:46.980 --> 43:48.700
+It's crazy.
+
+43:48.700 --> 43:51.660
+But can you speak to the
+
+43:54.140 --> 43:57.460
+the efforts to increase diversity in universities
+
+43:58.460 --> 44:00.900
+which I think is embodied in this D.I.E. effort
+
+44:00.900 --> 44:04.180
+of diversity, inclusion, and equity programs.
+
+44:04.180 --> 44:06.100
+Where do they go right?
+
+44:06.100 --> 44:07.460
+Where do they go wrong?
+
+44:07.460 --> 44:09.460
+Okay, let me tell you, first of all,
+
+44:09.460 --> 44:11.460
+this may surprise a lot of people.
+
+44:12.660 --> 44:15.300
+I am opposed to affirmative action,
+
+44:17.700 --> 44:21.660
+and I think that what it does
+
+44:21.660 --> 44:26.660
+is it labels people by their race,
+
+44:27.020 --> 44:31.020
+by their religion, and by their national origin.
+
+44:31.020 --> 44:33.740
+Precisely what we don't want people to do
+
+44:33.740 --> 44:37.580
+is be pigeonholed in those categories.
+
+44:37.580 --> 44:41.540
+The reason that affirmative action has become
+
+44:41.540 --> 44:46.180
+the way that universities decide on who gets admitted
+
+44:46.180 --> 44:48.180
+is because historically,
+
+44:48.180 --> 44:51.900
+people in what's called marginalized groups,
+
+44:51.900 --> 44:55.660
+blacks, gays, Hispanics,
+
+44:56.580 --> 45:00.500
+have been discriminated against in the admissions process.
+
+45:01.660 --> 45:05.580
+Now, what I have suggested
+
+45:05.580 --> 45:07.700
+is that instead of affirmative action,
+
+45:07.700 --> 45:10.380
+and by the way, here's a prediction.
+
+45:10.380 --> 45:13.180
+The Supreme Court is going to abolish affirmative action.
+
+45:13.180 --> 45:15.500
+There's a case pending, it's a Harvard case.
+
+45:18.900 --> 45:20.700
+There are two cases joined together,
+
+45:20.700 --> 45:23.940
+one of a public university and one of a private university.
+
+45:23.980 --> 45:25.740
+The private university is Harvard.
+
+45:27.420 --> 45:30.300
+I predict that the Supreme Court will vote six to three
+
+45:30.300 --> 45:31.900
+to abolish affirmative action.
+
+45:33.220 --> 45:35.740
+It is, on its face,
+
+45:35.740 --> 45:39.380
+it is a violation of equal protection of the law.
+
+45:39.380 --> 45:44.380
+Some groups are favored because of race or ethnicity.
+
+45:44.860 --> 45:49.220
+It is a classic violation of equal protection clause.
+
+45:49.220 --> 45:53.180
+When affirmative action was approved,
+
+45:53.220 --> 45:56.900
+the deciding vote was Justice Sandra Day O'Connor.
+
+45:56.900 --> 46:00.540
+She wrote a very famous opinion in which she said,
+
+46:01.780 --> 46:04.980
+I hesitate to vote to keep up,
+
+46:04.980 --> 46:07.860
+to affirm the notion of affirmative action
+
+46:07.860 --> 46:11.300
+because it's such an obvious violation of equal protection.
+
+46:11.300 --> 46:14.260
+But we have an urgent problem in the society.
+
+46:14.260 --> 46:19.260
+We are not educating our members of racial and ethnic
+
+46:20.140 --> 46:25.140
+minorities, and we have to try to get them into our colleges.
+
+46:26.580 --> 46:30.180
+So I think it should be approved for 25 years,
+
+46:31.820 --> 46:36.820
+and in 25 years it should have performed its role.
+
+46:39.620 --> 46:41.220
+Well, it hasn't.
+
+46:41.220 --> 46:44.100
+And the 25 years is coming up.
+
+46:44.100 --> 46:47.340
+I think it's three or four years left.
+
+46:47.380 --> 46:49.260
+The Supreme Court is going to abolish it.
+
+46:49.260 --> 46:50.820
+You can take my word for that
+
+46:51.740 --> 46:54.740
+because it is such an obvious violation of equal protection.
+
+46:56.420 --> 46:59.460
+Why did affirmative action come into play?
+
+46:59.460 --> 47:03.860
+Because the secondary and elementary schools are so bad.
+
+47:03.860 --> 47:07.540
+Public secondary and elementary schools are so bad.
+
+47:07.540 --> 47:08.660
+Why are they so bad?
+
+47:08.660 --> 47:13.020
+Partly because of the control that the teachers union has.
+
+47:13.020 --> 47:16.060
+Randy Weingarten runs the public school system
+
+47:16.060 --> 47:17.100
+in the United States.
+
+47:18.180 --> 47:23.180
+And what I have suggested is that the effort should be to,
+
+47:26.300 --> 47:29.860
+this is an emergency, it's a national emergency,
+
+47:29.860 --> 47:34.860
+to improve the quality of elementary
+
+47:35.980 --> 47:37.620
+and secondary education.
+
+47:38.500 --> 47:41.980
+And one way to do it is to hire teachers
+
+47:41.980 --> 47:43.700
+who are fabulous teachers
+
+47:43.700 --> 47:46.340
+rather than necessarily members of the union.
+
+47:47.420 --> 47:52.420
+I have come to oppose public workers unions.
+
+47:54.260 --> 47:59.260
+I am a very strong supporter of unions in the private sector.
+
+48:00.580 --> 48:03.940
+Why do I think there's such a difference between unions
+
+48:03.940 --> 48:06.860
+in the public sector and the private sector?
+
+48:06.860 --> 48:11.100
+In the private sector, management is arguing,
+
+48:11.100 --> 48:13.380
+bargaining with its own money
+
+48:13.380 --> 48:15.100
+and with the money of shareholders.
+
+48:15.980 --> 48:19.580
+In the public sector, there's only one side.
+
+48:19.580 --> 48:21.300
+There is the teacher's union,
+
+48:21.300 --> 48:22.580
+and then there's a school committee
+
+48:22.580 --> 48:26.260
+that is dealing with the taxpayers' money, not their own.
+
+48:26.260 --> 48:31.260
+And so it's a very skewed power balance.
+
+48:31.980 --> 48:36.660
+So as supportive as I am of private sector unions,
+
+48:36.660 --> 48:40.380
+I am in opposition of public sector unions.
+
+48:40.420 --> 48:42.380
+They're very destructive.
+
+48:42.380 --> 48:46.060
+And I think without the teacher's union,
+
+48:46.060 --> 48:50.100
+teachers who are really skilled will be able to get jobs.
+
+48:50.100 --> 48:53.100
+They would not have to worry about the seniority of teachers
+
+48:53.100 --> 48:57.900
+who long since have given up really creative teaching,
+
+48:58.980 --> 49:02.260
+and we have to improve the public educational system.
+
+49:03.300 --> 49:06.820
+I had, my late wife and I
+
+49:07.780 --> 49:11.500
+had a classmate of, we have a son who's now 44
+
+49:11.500 --> 49:13.660
+who went to the public schools in Cambridge.
+
+49:15.060 --> 49:19.340
+He has a friend, first name Eugene,
+
+49:19.340 --> 49:21.460
+who was a black kid from Roxbury,
+
+49:21.460 --> 49:24.620
+whose mother understood that the schools in Roxbury
+
+49:24.620 --> 49:27.220
+were terrible, the schools in Cambridge were pretty good.
+
+49:28.340 --> 49:33.340
+He lived in our house Monday to Friday,
+
+49:33.620 --> 49:36.540
+and he went to school with Isaac in the middle of the year.
+
+49:37.100 --> 49:38.860
+He was a very good teacher.
+
+49:38.860 --> 49:42.460
+He had a very good relationship with Isaac
+
+49:42.460 --> 49:44.060
+in the Cambridge public schools.
+
+49:45.420 --> 49:48.300
+Elsa and I would show up to school committee meetings
+
+49:48.300 --> 49:51.980
+when there was bargaining between the teachers union
+
+49:51.980 --> 49:53.380
+and the school committee.
+
+49:55.740 --> 49:58.620
+The teachers union objected to our being there.
+
+49:59.820 --> 50:01.780
+We argued, we're taxpayers.
+
+50:01.780 --> 50:04.180
+We have a kid in the school,
+
+50:05.140 --> 50:07.420
+we have a real interest.
+
+50:07.420 --> 50:12.420
+And the school committee walked out of the bargaining session.
+
+50:13.580 --> 50:16.220
+The city council then reconsidered its vote
+
+50:16.220 --> 50:21.220
+and they voted that citizens, taxpayers,
+
+50:21.660 --> 50:23.460
+parents of kids in the school,
+
+50:23.460 --> 50:28.460
+could not show up to these negotiation sessions.
+
+50:28.620 --> 50:31.980
+I thought that was absolutely outrageous.
+
+50:31.980 --> 50:33.660
+But I understood why,
+
+50:33.660 --> 50:37.100
+because these contracts are crazy.
+
+50:37.100 --> 50:41.740
+No sane municipality should enter
+
+50:41.740 --> 50:43.340
+into some of these contracts.
+
+50:45.780 --> 50:50.180
+So I have become an opponent
+
+50:50.180 --> 50:52.940
+of the National Teachers Association,
+
+50:52.940 --> 50:56.780
+the Cambridge Teachers Association.
+
+50:56.780 --> 51:01.180
+I don't think there should be unions for public employees
+
+51:01.220 --> 51:04.420
+because there's no real bargaining going on.
+
+51:04.420 --> 51:07.620
+And I think that the public school system
+
+51:07.620 --> 51:08.980
+will never be improved
+
+51:08.980 --> 51:13.460
+as long as the teachers are unionized.
+
+51:13.460 --> 51:16.300
+So that, to you, is at the core of the problem
+
+51:16.300 --> 51:21.300
+that results in the kind of inequality of opportunity
+
+51:21.820 --> 51:23.820
+that affirmative action is designed to solve.
+
+51:23.820 --> 51:26.900
+Correct, if the educational system
+
+51:26.900 --> 51:30.540
+in the elementary and high school levels is improved,
+
+51:30.540 --> 51:32.660
+we wouldn't need affirmative action.
+
+51:32.660 --> 51:35.500
+These kids would get good educations.
+
+51:35.500 --> 51:39.780
+So from all backgrounds, poor kids in the United States
+
+51:39.780 --> 51:44.780
+will get good education if public unions are abolished.
+
+51:45.260 --> 51:46.100
+Correct.
+
+51:47.140 --> 51:47.980
+But do you more?
+
+51:47.980 --> 51:49.500
+And incidentally, the postal service
+
+51:49.500 --> 51:51.060
+would probably work better too.
+
+51:52.980 --> 51:54.700
+That's a whole other conversation.
+
+51:54.700 --> 51:56.740
+But do you, at the core of the problem
+
+51:56.780 --> 52:00.940
+of the inequality in universities
+
+52:00.940 --> 52:03.900
+that diversity, inclusion, and equity programs
+
+52:03.900 --> 52:07.140
+are trying to solve is the public education system
+
+52:07.140 --> 52:08.700
+of secondary education?
+
+52:08.700 --> 52:10.900
+Yes, correct, elementary and secondary.
+
+52:10.900 --> 52:12.900
+Elementary and secondary education.
+
+52:12.900 --> 52:16.660
+Well then, is there use, what is the benefit,
+
+52:16.660 --> 52:20.740
+what is the drawback of DIE,
+
+52:20.740 --> 52:22.700
+diversity, inclusion, and equity programs
+
+52:22.700 --> 52:24.300
+at universities like Harvard?
+
+52:24.340 --> 52:27.300
+It's an affirmative action, basically.
+
+52:27.300 --> 52:31.180
+And what it does is it allows the system
+
+52:31.180 --> 52:35.220
+of elementary and secondary education to be bad
+
+52:35.220 --> 52:38.340
+because they could say, oh, we get our kids into Harvard.
+
+52:38.340 --> 52:40.180
+Yes, but you haven't educated them.
+
+52:41.260 --> 52:43.820
+And it covers up the wound.
+
+52:45.060 --> 52:47.300
+And I think we will never improve
+
+52:47.300 --> 52:49.340
+as long as we're able to cover up the wound.
+
+52:49.340 --> 52:51.980
+And as I said, affirmative action is gonna be abolished
+
+52:51.980 --> 52:53.780
+by the Supreme Court.
+
+52:53.820 --> 52:56.420
+It's a clear violation of equal protection
+
+52:56.420 --> 52:59.780
+is what Sanctuary of O'Connor understood
+
+52:59.780 --> 53:04.580
+but ignored intentionally, but as an experiment.
+
+53:05.900 --> 53:08.180
+And I believe it's gonna be abolished
+
+53:08.180 --> 53:13.180
+and that's gonna force the elementary and high schools
+
+53:13.420 --> 53:15.300
+to get serious.
+
+53:15.300 --> 53:17.340
+Do you see the same issues that you discuss now
+
+53:17.340 --> 53:19.940
+at Harvard, at MIT?
+
+53:19.940 --> 53:21.980
+We're here in Boston, so I have to talk about
+
+53:21.980 --> 53:23.660
+the great universities here in Boston.
+
+53:24.500 --> 53:25.980
+You've written about MIT.
+
+53:25.980 --> 53:29.780
+It's a university I love, I'm a research scientist there.
+
+53:29.780 --> 53:31.460
+Do you see the same kind of issues there?
+
+53:31.460 --> 53:32.540
+Yes, I do.
+
+53:32.540 --> 53:34.780
+Do you remember, can you explain the case
+
+53:34.780 --> 53:38.380
+of Dorian Abbott Lecture that was canceled at MIT?
+
+53:38.380 --> 53:42.540
+Yeah, well, you know, this is not the only,
+
+53:42.540 --> 53:45.060
+it's not the only incident.
+
+53:45.060 --> 53:47.460
+There have been incidents all around the country
+
+53:48.860 --> 53:52.180
+of academics, professors who have views
+
+53:52.180 --> 53:56.460
+that don't comport with the, as the great Lillian Hellman,
+
+53:56.460 --> 53:58.340
+another friend of my late wife,
+
+54:01.540 --> 54:04.100
+she said she refused to cut her garments
+
+54:04.100 --> 54:06.540
+in order to fit the fashions of the day.
+
+54:07.380 --> 54:10.500
+Dorian Abbott didn't cut his suit
+
+54:10.500 --> 54:12.060
+to fit the fashions of the day,
+
+54:12.060 --> 54:14.380
+didn't his intellectual suit.
+
+54:14.380 --> 54:17.580
+And so he was, this has happened at Princeton,
+
+54:17.580 --> 54:21.140
+this has happened at Harvard, this has happened at MIT.
+
+54:21.140 --> 54:24.020
+The great universities in the country
+
+54:24.020 --> 54:26.900
+have decided that the clash of ideas
+
+54:26.900 --> 54:28.300
+is not such a good idea
+
+54:28.300 --> 54:31.620
+because some people's feelings will be hurt.
+
+54:31.620 --> 54:36.140
+Well, this is, there was quite a revolt against it.
+
+54:36.140 --> 54:40.580
+Fire sounded the alarm.
+
+54:40.580 --> 54:43.580
+And then in the end, the universities were,
+
+54:43.580 --> 54:45.580
+I believe Abbott was invited to come back.
+
+54:45.580 --> 54:47.300
+I think he turned him down.
+
+54:48.300 --> 54:51.540
+He shouldn't have turned him down, but he did.
+
+54:53.380 --> 54:58.180
+And when the light is cast upon these situations,
+
+54:58.180 --> 54:59.540
+the universities back down
+
+54:59.540 --> 55:01.100
+because they're so embarrassed.
+
+55:02.260 --> 55:04.780
+And the newspapers, because newspapers depend
+
+55:04.780 --> 55:08.140
+on the First Amendment in order to exist,
+
+55:08.140 --> 55:10.340
+newspapers tend to give pretty good publicity
+
+55:10.340 --> 55:11.820
+to these cases of censorship.
+
+55:11.820 --> 55:13.620
+So they grill the universities.
+
+55:13.620 --> 55:14.460
+Yes.
+
+55:14.460 --> 55:16.300
+So they really emphasize,
+
+55:16.300 --> 55:18.060
+they catalyze the embarrassment.
+
+55:18.060 --> 55:18.900
+Yes.
+
+55:18.900 --> 55:19.860
+So is that one of the ways,
+
+55:19.860 --> 55:21.620
+is that the best way to fight all of this?
+
+55:21.620 --> 55:24.860
+Yes, sunshine is the best disinfectant.
+
+55:24.860 --> 55:27.620
+You've written about MIT's connection to Jeffrey Epstein.
+
+55:27.620 --> 55:28.460
+Yes.
+
+55:28.460 --> 55:31.180
+He was well connected at MIT and at Harvard.
+
+55:32.260 --> 55:34.780
+What do you, what lessons do you draw
+
+55:34.780 --> 55:37.340
+about human nature, about universities,
+
+55:37.340 --> 55:39.460
+about all of this from this saga?
+
+55:39.460 --> 55:40.500
+Let me say this.
+
+55:41.580 --> 55:44.260
+I believe that universities,
+
+55:44.300 --> 55:48.100
+if somebody wants to, for example, donate to a university
+
+55:48.100 --> 55:51.300
+and donates on the requirement
+
+55:51.300 --> 55:53.980
+that the building be named after them.
+
+55:53.980 --> 55:57.060
+If the university is taking the donations
+
+55:57.060 --> 56:00.780
+and the person is funding a building
+
+56:00.780 --> 56:03.100
+and wants the building named after them,
+
+56:03.100 --> 56:06.340
+the building should be named after him, him or them.
+
+56:06.340 --> 56:09.260
+Harvard is facing this now with the Sackler building
+
+56:09.260 --> 56:12.260
+because Sackler, the Sacklers have become now
+
+56:12.380 --> 56:14.900
+persona non grata because of their role
+
+56:14.900 --> 56:17.260
+in producing the opioids that caused
+
+56:17.260 --> 56:21.940
+the huge scandalous opioid addiction.
+
+56:21.940 --> 56:25.300
+There are people who want to remove the name the Sackler
+
+56:25.300 --> 56:27.340
+from the Sackler Art Museum at Harvard.
+
+56:28.220 --> 56:30.940
+Larry Bacow, the president of Harvard,
+
+56:30.940 --> 56:35.620
+to his credit has refused to do that.
+
+56:37.260 --> 56:42.140
+And if it reminds people that the money was earned
+
+56:42.980 --> 56:45.700
+through selling opioids, that's good.
+
+56:45.700 --> 56:47.380
+That's good that people understand
+
+56:47.380 --> 56:49.220
+that that's where the Sacklers got their money.
+
+56:49.220 --> 56:51.180
+They should be reminded.
+
+56:51.180 --> 56:56.180
+In my undergraduate alma mater, Princeton,
+
+56:57.180 --> 57:00.780
+there's a movement to remove the name Woodrow Wilson
+
+57:00.780 --> 57:02.900
+because Woodrow Wilson was president of Princeton
+
+57:02.900 --> 57:04.820
+before he became governor of New Jersey,
+
+57:04.820 --> 57:07.060
+before he became president of the United States.
+
+57:07.060 --> 57:08.700
+How he got to be governor of New Jersey
+
+57:08.700 --> 57:11.980
+was he was so insufferable that the trustees of Princeton
+
+57:12.820 --> 57:15.300
+got him the nomination to run for governor of New Jersey.
+
+57:15.300 --> 57:17.620
+They had said, we got to get this guy out of here.
+
+57:19.380 --> 57:23.180
+And not because he was anti-black and anti-Semitic
+
+57:23.180 --> 57:24.660
+as the trustees were as well,
+
+57:24.660 --> 57:27.020
+but because he just was insufferable.
+
+57:27.020 --> 57:30.940
+He drove the faculty crazy and they got him out.
+
+57:32.460 --> 57:37.020
+And so Princeton was thinking of changing the name.
+
+57:37.020 --> 57:39.380
+I wrote a letter to President Eisgruber,
+
+57:39.740 --> 57:43.940
+saying this is part of the university's history.
+
+57:43.940 --> 57:48.860
+You don't want to rewrite history falsely?
+
+57:48.860 --> 57:51.620
+Woodrow Wilson was the president of this institution.
+
+57:51.620 --> 57:53.540
+He was one of your predecessors.
+
+57:53.540 --> 57:55.060
+He never answered me either.
+
+57:56.140 --> 57:59.900
+I think these people, they know they have no answer.
+
+57:59.900 --> 58:03.740
+The reason I didn't get a response from President Eisgruber
+
+58:03.740 --> 58:05.940
+is the same as the reason I didn't get a response
+
+58:05.940 --> 58:08.500
+from the headmaster of Milton Academy.
+
+58:08.540 --> 58:12.460
+They understand that what they're doing is violative
+
+58:12.460 --> 58:16.380
+of the fundamental precepts of academic institutions.
+
+58:16.380 --> 58:19.580
+They're ashamed that they feel they have no choice
+
+58:19.580 --> 58:22.540
+because they feel that they would be criticized
+
+58:22.540 --> 58:26.340
+for racism, homophobia, blah, blah, blah, blah, blah, blah.
+
+58:26.340 --> 58:28.260
+Criticized by how many people?
+
+58:28.260 --> 58:30.900
+Well, they feel that they would be criticized
+
+58:30.900 --> 58:33.820
+by students and parents and donors.
+
+58:33.820 --> 58:34.900
+I disagree with that.
+
+58:34.900 --> 58:37.260
+I actually think there are more people out there
+
+58:37.300 --> 58:40.060
+that agree with me than agree with them.
+
+58:40.060 --> 58:41.500
+Yeah, by a large margin.
+
+58:41.500 --> 58:44.860
+By a large margin, in what I call the real world,
+
+58:44.860 --> 58:47.420
+which is the world outside the campus.
+
+58:47.420 --> 58:50.740
+But academics are afraid they'd be criticized.
+
+58:50.740 --> 58:52.220
+They're incredibly thin-skinned.
+
+58:52.220 --> 58:54.900
+When I say academics, I mean academic administrators.
+
+58:54.900 --> 58:57.420
+They're very thin-skinned, politically correct,
+
+58:57.420 --> 58:58.820
+holier than thou.
+
+59:00.100 --> 59:03.420
+As I said, I would fire 95% of them
+
+59:03.420 --> 59:07.700
+and I would be more careful in who I elected
+
+59:07.700 --> 59:09.860
+to lead these institutions.
+
+59:09.860 --> 59:14.020
+I said Pauline Gay is probably gonna be a disaster at Harvard.
+
+59:14.020 --> 59:16.500
+So it takes guts, it takes courage
+
+59:16.500 --> 59:19.700
+to be in the administration
+
+59:19.700 --> 59:22.460
+when the task of protecting the freedom of speech is there
+
+59:22.460 --> 59:27.460
+and also, which in part requires you to admit
+
+59:28.540 --> 59:31.300
+and to uphold the mistakes you have done in the past.
+
+59:31.300 --> 59:32.140
+Correct.
+
+59:32.140 --> 59:33.180
+Not to hide them.
+
+59:34.020 --> 59:37.020
+And that to you, I mean, Jeffrey Epstein,
+
+59:37.020 --> 59:40.020
+for Harvard and for MIT is a very recent mistake.
+
+59:40.020 --> 59:42.860
+Well, there's a debate whether it's a mistake.
+
+59:42.860 --> 59:44.540
+They took money from him.
+
+59:44.540 --> 59:45.540
+Yes. Okay.
+
+59:46.420 --> 59:48.860
+Is it a mistake to take money from bad people?
+
+59:50.300 --> 59:54.100
+Do you have to do a morals test of a potential donor?
+
+59:55.220 --> 59:56.540
+I don't think so.
+
+59:58.220 --> 59:59.580
+It's complicated because-
+
+59:59.580 --> 01:00:01.860
+If there are no conditions attached to it,
+
+01:00:01.860 --> 01:00:03.900
+I think it's emotionally complicated.
+
+01:00:03.900 --> 01:00:06.940
+I don't think that it is rationally complicated.
+
+01:00:08.980 --> 01:00:10.420
+It's emotionally complicated.
+
+01:00:10.420 --> 01:00:13.620
+It's particularly complicated if they want naming rights.
+
+01:00:14.620 --> 01:00:19.300
+Yes, you know, the Jeffrey Epstein Biological Laboratory.
+
+01:00:21.140 --> 01:00:23.900
+That would be a problem for most universities.
+
+01:00:24.940 --> 01:00:29.140
+I don't think that naming rights have to be given
+
+01:00:29.140 --> 01:00:31.900
+to somebody that you don't think is worthy
+
+01:00:31.900 --> 01:00:32.740
+of having their name.
+
+01:00:32.740 --> 01:00:34.740
+I think the university has the right to say,
+
+01:00:34.740 --> 01:00:36.380
+no, we'll take your money,
+
+01:00:36.380 --> 01:00:39.020
+but we will not name the building after you.
+
+01:00:39.020 --> 01:00:41.060
+I think they have a right to do that.
+
+01:00:41.060 --> 01:00:44.740
+There's some degree in which you whitewash the name, though.
+
+01:00:44.740 --> 01:00:49.060
+If you, not with naming rights, but-
+
+01:00:49.060 --> 01:00:50.060
+You take the money?
+
+01:00:50.060 --> 01:00:52.660
+If you take the money, it allows the person
+
+01:00:54.060 --> 01:00:57.380
+in public discourse to say that they're collaborating,
+
+01:00:57.380 --> 01:00:59.620
+they're working together with Harvard and with MIT.
+
+01:00:59.620 --> 01:01:02.220
+I have a problem with universities
+
+01:01:02.220 --> 01:01:06.340
+making morals tests of the donors.
+
+01:01:06.340 --> 01:01:09.780
+Because not every donor is as bad as Epstein,
+
+01:01:09.780 --> 01:01:13.380
+but some of the donors made their money in industry
+
+01:01:13.380 --> 01:01:18.380
+by being rapacious, by paying low wages,
+
+01:01:19.060 --> 01:01:21.420
+by exploiting people.
+
+01:01:21.420 --> 01:01:25.540
+You can make the case that accepting money
+
+01:01:25.580 --> 01:01:28.020
+from the Department of Defense, from DARPA,
+
+01:01:28.020 --> 01:01:29.860
+from the United States organizations
+
+01:01:29.860 --> 01:01:32.740
+that contributed to waging war
+
+01:01:32.740 --> 01:01:34.820
+and killing hundreds of thousands of civilians
+
+01:01:34.820 --> 01:01:36.100
+over the past few decades.
+
+01:01:36.100 --> 01:01:37.140
+Correct.
+
+01:01:37.140 --> 01:01:39.900
+Folks like the 10-year professor Noam Chomsky
+
+01:01:39.900 --> 01:01:42.420
+will make the case that that is far more evil
+
+01:01:42.420 --> 01:01:45.500
+than accepting money from Jeffrey Epstein.
+
+01:01:45.500 --> 01:01:46.340
+Yes.
+
+01:01:48.020 --> 01:01:51.460
+Still, Jeffrey Epstein is a known pedophile.
+
+01:01:51.460 --> 01:01:52.300
+Yes.
+
+01:01:53.300 --> 01:01:57.500
+So that's why I say I would not give him naming rights.
+
+01:01:57.500 --> 01:01:59.460
+I think the university has the autonomy
+
+01:01:59.460 --> 01:02:01.940
+to not give naming rights.
+
+01:02:01.940 --> 01:02:05.020
+But I think that giving morals tests to donors
+
+01:02:05.020 --> 01:02:08.020
+is a Pandora's box.
+
+01:02:08.020 --> 01:02:09.620
+What do you think about the aftermath
+
+01:02:09.620 --> 01:02:11.220
+of the Jeffrey Epstein saga?
+
+01:02:11.220 --> 01:02:15.060
+It feels like, I'm not familiar with Harvard's response,
+
+01:02:15.060 --> 01:02:20.060
+but MIT's response seemed to fire a few scapegoats
+
+01:02:21.020 --> 01:02:23.500
+and it didn't seem like a genuine response
+
+01:02:24.900 --> 01:02:29.300
+to the evils that human beings are capable of,
+
+01:02:29.300 --> 01:02:33.100
+sort of like rising to the surface,
+
+01:02:33.100 --> 01:02:35.380
+the description in a fully transparent way
+
+01:02:35.380 --> 01:02:38.100
+of all the interactions that happened with Jeffrey Epstein
+
+01:02:38.100 --> 01:02:40.780
+and what that means, yeah,
+
+01:02:40.780 --> 01:02:44.140
+what that means about the role of money in universities,
+
+01:02:44.140 --> 01:02:46.580
+what that means about just human beings in power.
+
+01:02:46.580 --> 01:02:50.900
+Money is essential to run a university.
+
+01:02:50.900 --> 01:02:52.380
+One of the reasons it's essential
+
+01:02:52.380 --> 01:02:56.340
+is because the university is artificially,
+
+01:02:56.340 --> 01:03:00.500
+artificially requires huge amounts of money,
+
+01:03:00.500 --> 01:03:03.180
+and that's probably because of the administrative army
+
+01:03:03.180 --> 01:03:07.220
+that they support.
+
+01:03:08.060 --> 01:03:10.100
+And they would be less dependent
+
+01:03:10.100 --> 01:03:12.100
+on the Jeffrey Epstein's of the world
+
+01:03:12.100 --> 01:03:13.300
+if they didn't have,
+
+01:03:14.980 --> 01:03:17.900
+so it's sort of all part of the same circle.
+
+01:03:18.900 --> 01:03:19.900
+But there's a tension here.
+
+01:03:19.900 --> 01:03:22.820
+You're saying we shouldn't be putting a morals test
+
+01:03:22.820 --> 01:03:25.100
+on money, but actually if you make,
+
+01:03:26.460 --> 01:03:28.460
+if you expand the amount of money needed
+
+01:03:28.460 --> 01:03:29.620
+to run the university,
+
+01:03:29.620 --> 01:03:31.900
+you're going to make less and less,
+
+01:03:31.900 --> 01:03:33.700
+more and more unethical decisions
+
+01:03:33.700 --> 01:03:34.540
+in terms of accepting money.
+
+01:03:34.540 --> 01:03:37.020
+Correct, and since then, I am flexible enough
+
+01:03:37.020 --> 01:03:39.100
+to say that I don't think I would name a building
+
+01:03:39.100 --> 01:03:40.700
+after somebody who is truly evil.
+
+01:03:40.700 --> 01:03:44.620
+I think the university has the right
+
+01:03:44.620 --> 01:03:48.900
+to limit the naming rights for a donor.
+
+01:03:50.140 --> 01:03:53.940
+If I was an absolutist, I would not even say that.
+
+01:03:53.940 --> 01:03:55.380
+I'm not an absolutist.
+
+01:03:56.540 --> 01:04:00.060
+I have my limits, and that's one of them.
+
+01:04:01.180 --> 01:04:03.740
+The Jeffrey Epstein Biological Laboratory,
+
+01:04:03.740 --> 01:04:05.020
+it's a little bit much.
+
+01:04:05.940 --> 01:04:09.140
+It feels like there should be a requirement on,
+
+01:04:09.140 --> 01:04:10.940
+there should be moral requirements
+
+01:04:11.780 --> 01:04:13.540
+on who to accept money from,
+
+01:04:13.540 --> 01:04:15.500
+but the question is, the concern you have
+
+01:04:15.500 --> 01:04:19.900
+is about who gets to decide, and what's the alternative?
+
+01:04:19.900 --> 01:04:22.380
+Correct, I think there is no alternative.
+
+01:04:22.380 --> 01:04:25.700
+I think that turning down donation
+
+01:04:25.700 --> 01:04:30.420
+because you don't approve of the conduct of the donor
+
+01:04:30.420 --> 01:04:32.020
+is a Pandora's box.
+
+01:04:36.020 --> 01:04:37.860
+But I'm just sickened by the fact
+
+01:04:37.860 --> 01:04:40.660
+that an evil human being was allowed to walk
+
+01:04:40.660 --> 01:04:42.780
+in the halls of a university I love.
+
+01:04:44.940 --> 01:04:46.100
+So what do we do with that?
+
+01:04:46.100 --> 01:04:49.020
+Well, are you telling me that none of the students are evil?
+
+01:04:49.020 --> 01:04:51.060
+Are you telling me none of the faculty members are evil?
+
+01:04:51.060 --> 01:04:53.900
+Are you telling me none of the administrators are evil?
+
+01:04:55.220 --> 01:04:58.500
+But that doesn't, sure, sure.
+
+01:04:58.500 --> 01:05:02.420
+So scapegoating, saying that Jeffrey Epstein is evil
+
+01:05:02.420 --> 01:05:05.780
+can help us forget, can aid us in forgetting
+
+01:05:05.780 --> 01:05:07.740
+that there is other evil in the world,
+
+01:05:08.580 --> 01:05:11.580
+and some of it might be roaming still,
+
+01:05:11.580 --> 01:05:13.540
+the halls of MIT and Harvard.
+
+01:05:13.540 --> 01:05:15.820
+Hey, listen, I won't tell you the name,
+
+01:05:15.820 --> 01:05:19.140
+but I represented somebody in the MIT administration
+
+01:05:19.140 --> 01:05:23.460
+a few years ago who was charged with sexual
+
+01:05:23.460 --> 01:05:26.220
+improprieties against students.
+
+01:05:27.540 --> 01:05:30.340
+And as a lawyer, I represented that person.
+
+01:05:31.660 --> 01:05:34.060
+People say to me, how could you represent,
+
+01:05:34.060 --> 01:05:36.580
+some of the people I represent are bad people.
+
+01:05:36.620 --> 01:05:38.380
+See, how can you represent them?
+
+01:05:38.380 --> 01:05:40.900
+I said, well, if I was a cardiologist
+
+01:05:40.900 --> 01:05:42.860
+and this person had a heart attack on the street
+
+01:05:42.860 --> 01:05:47.660
+and I didn't deliver CPR, I would have my license taken away.
+
+01:05:47.660 --> 01:05:50.860
+I'm a lawyer, the only difference between my obligation
+
+01:05:50.860 --> 01:05:53.700
+and the doctor's obligation is the Constitution
+
+01:05:53.700 --> 01:05:55.820
+gives people the right to assistance of counsel.
+
+01:05:55.820 --> 01:05:57.940
+They don't have, the Constitution says nothing
+
+01:05:57.940 --> 01:06:00.420
+about the assistance of cardiologists.
+
+01:06:00.420 --> 01:06:04.580
+I have a very high duty to represent unpopular people.
+
+01:06:04.580 --> 01:06:09.100
+Well, I think I apply the same test to the college donors.
+
+01:06:10.100 --> 01:06:12.620
+The university should not have a morals test
+
+01:06:14.180 --> 01:06:15.380
+whose money to take.
+
+01:06:16.380 --> 01:06:21.020
+I do draw a line about naming rights of buildings.
+
+01:06:22.220 --> 01:06:26.780
+And as I say, that's an inconsistency with my absolutism,
+
+01:06:26.780 --> 01:06:30.580
+but I just, emotionally, I just can't deal with having,
+
+01:06:30.580 --> 01:06:33.420
+as I said, the Jeffrey Epstein Biological Laboratory.
+
+01:06:34.340 --> 01:06:36.220
+Well, for me, emotionally, there's nothing
+
+01:06:36.220 --> 01:06:38.460
+that sickens me more in the university
+
+01:06:38.460 --> 01:06:39.900
+than the abuse of power.
+
+01:06:40.740 --> 01:06:42.660
+Right, and there's an awful lot of people
+
+01:06:42.660 --> 01:06:44.540
+who abuse power at the university.
+
+01:06:44.540 --> 01:06:47.940
+And especially when it comes to abuse power over students.
+
+01:06:47.940 --> 01:06:51.460
+So sexual harassment, so in the realm of sexual
+
+01:06:51.460 --> 01:06:54.700
+abuse of power, and all kinds of other.
+
+01:06:54.700 --> 01:06:58.420
+Well, it is a crime to use one's power position
+
+01:06:58.420 --> 01:07:00.700
+in order to take sexual advantage of a student.
+
+01:07:00.700 --> 01:07:01.620
+It's a crime.
+
+01:07:01.780 --> 01:07:03.340
+Yeah.
+
+01:07:03.340 --> 01:07:05.020
+This is not a close question.
+
+01:07:05.900 --> 01:07:08.540
+Yeah, but there's a legal crime,
+
+01:07:09.380 --> 01:07:12.020
+and there's a deeply ethical crime,
+
+01:07:12.020 --> 01:07:15.100
+and there's an emotional response that I have.
+
+01:07:15.100 --> 01:07:19.300
+You are a good lawyer, and perhaps a good man,
+
+01:07:19.300 --> 01:07:23.420
+to want to defend some folks who are evil in this world.
+
+01:07:23.420 --> 01:07:26.140
+I don't think I have that emotional fortitude.
+
+01:07:26.140 --> 01:07:27.980
+Well, then you shouldn't be a criminal defense lawyer
+
+01:07:27.980 --> 01:07:29.300
+or a cardiologist.
+
+01:07:30.260 --> 01:07:31.340
+I think you're right.
+
+01:07:32.620 --> 01:07:36.300
+I'm still deeply sickened by Jeffrey Epstein
+
+01:07:36.300 --> 01:07:39.300
+and the faculty, the administration,
+
+01:07:39.300 --> 01:07:41.980
+that still might be in these great American universities
+
+01:07:41.980 --> 01:07:45.300
+that are abusing their power in small ways and big ways.
+
+01:07:45.300 --> 01:07:46.940
+But that's human nature.
+
+01:07:46.940 --> 01:07:48.540
+You get a little bit of power,
+
+01:07:48.540 --> 01:07:51.140
+and you're a bad man or a bad woman,
+
+01:07:51.140 --> 01:07:52.460
+and you take advantage of it.
+
+01:07:52.460 --> 01:07:53.300
+Yep.
+
+01:07:53.300 --> 01:07:54.860
+We see that in the smallest of ways,
+
+01:07:54.860 --> 01:07:56.260
+and in the biggest of ways.
+
+01:07:57.220 --> 01:08:01.460
+And institutions and regimes all across the world.
+
+01:08:03.780 --> 01:08:07.140
+Boy, Harvey, it's a complicated situation.
+
+01:08:07.140 --> 01:08:08.820
+Well, it's a complicated world,
+
+01:08:08.820 --> 01:08:11.300
+and it's complicated to be a human being,
+
+01:08:11.300 --> 01:08:12.900
+and this is nothing new.
+
+01:08:12.900 --> 01:08:16.060
+And we should talk about it without restriction.
+
+01:08:16.940 --> 01:08:19.420
+All right, just to linger on liberal arts.
+
+01:08:19.420 --> 01:08:22.820
+In 2014, and probably still today,
+
+01:08:22.820 --> 01:08:25.540
+you wrote that liberals are killing the liberal arts.
+
+01:08:25.540 --> 01:08:26.380
+Yes.
+
+01:08:26.380 --> 01:08:27.540
+So can you explain?
+
+01:08:27.540 --> 01:08:30.220
+Yes, the problem with, I'm a political liberal.
+
+01:08:31.500 --> 01:08:35.380
+The problem with the political left
+
+01:08:36.420 --> 01:08:39.380
+is that it has divided
+
+01:08:39.380 --> 01:08:43.780
+between what's called progressives and liberals.
+
+01:08:44.820 --> 01:08:47.140
+Liberals are people of the left
+
+01:08:47.140 --> 01:08:50.060
+who believe in the First Amendment,
+
+01:08:50.060 --> 01:08:54.060
+an absolute First Amendment, and in due process of law.
+
+01:08:55.060 --> 01:09:00.060
+And the problem with what progressives now,
+
+01:09:01.500 --> 01:09:04.900
+in the pursuit of equality,
+
+01:09:04.900 --> 01:09:06.900
+what they view as equality,
+
+01:09:06.900 --> 01:09:10.020
+they're willing to bend those rules.
+
+01:09:10.020 --> 01:09:13.300
+And this movement actually started in Brandeis.
+
+01:09:15.180 --> 01:09:18.900
+The critical, it's the critical race theory.
+
+01:09:20.300 --> 01:09:23.940
+It started, Herbert Marcuse was a professor at Brandeis,
+
+01:09:24.780 --> 01:09:26.540
+and he came up with this theory.
+
+01:09:26.540 --> 01:09:30.380
+The theory was this, this is right out of Warwell.
+
+01:09:30.380 --> 01:09:33.900
+In order to create true equality in a society
+
+01:09:33.900 --> 01:09:35.540
+where you have some downtrodden
+
+01:09:35.540 --> 01:09:37.980
+and some who are the uber-mention,
+
+01:09:38.900 --> 01:09:43.300
+in order to create real equality,
+
+01:09:43.300 --> 01:09:48.100
+you have to reduce the rights of the upper classes
+
+01:09:48.100 --> 01:09:53.100
+and artificially increase the rights of the lower classes.
+
+01:09:53.620 --> 01:09:58.620
+And that will produce out of unequal treatment,
+
+01:10:02.300 --> 01:10:06.220
+true equality will be attained.
+
+01:10:06.220 --> 01:10:07.740
+This is nonsense.
+
+01:10:09.460 --> 01:10:13.380
+The idea of discrimination,
+
+01:10:13.380 --> 01:10:16.900
+producing true equality is nonsense.
+
+01:10:16.900 --> 01:10:21.740
+My view is, as I've said earlier in our discussion,
+
+01:10:21.740 --> 01:10:26.740
+that the way to increase the opportunities
+
+01:10:28.500 --> 01:10:33.500
+for the lower classes is to give them real educations.
+
+01:10:34.300 --> 01:10:38.340
+And until we do that, it's not gonna happen.
+
+01:10:38.340 --> 01:10:39.660
+And in order to do that,
+
+01:10:39.660 --> 01:10:44.660
+we have to overcome the problem of the teachers unions
+
+01:10:44.700 --> 01:10:48.900
+at the elementary and secondary school levels.
+
+01:10:48.940 --> 01:10:52.340
+And until we're willing to do that honestly
+
+01:10:52.340 --> 01:10:55.580
+and improve those schools,
+
+01:10:55.580 --> 01:10:58.780
+we're gonna have a problem of large number
+
+01:10:58.780 --> 01:11:02.340
+of uneducated people who need a boost
+
+01:11:02.340 --> 01:11:05.900
+because we haven't given them proper educations.
+
+01:11:05.900 --> 01:11:06.740
+What do you think about some
+
+01:11:06.740 --> 01:11:08.700
+of the more controversial faculty in the world?
+
+01:11:08.700 --> 01:11:11.980
+So an example, somebody I've spoken with many times
+
+01:11:11.980 --> 01:11:14.220
+on mic and offline is Jordan Peterson.
+
+01:11:14.220 --> 01:11:16.260
+I'm not sure if you're familiar with his work,
+
+01:11:16.260 --> 01:11:18.860
+but he is an outspoken critic of,
+
+01:11:18.860 --> 01:11:20.820
+or proponent of free speech on campus
+
+01:11:20.820 --> 01:11:22.980
+and he's been attacked quite a bit.
+
+01:11:22.980 --> 01:11:24.500
+He's a controversial figure.
+
+01:11:25.460 --> 01:11:27.020
+What's the role of the university
+
+01:11:27.020 --> 01:11:29.220
+to protect the Jordan Petersons of the world?
+
+01:11:29.220 --> 01:11:32.020
+I think the university has an absolute,
+
+01:11:32.020 --> 01:11:34.820
+absolute, not relative, not worried that,
+
+01:11:34.820 --> 01:11:39.460
+absolute obligation to protect the academic freedom
+
+01:11:39.460 --> 01:11:43.260
+of even the most controversial faculty members.
+
+01:11:44.180 --> 01:11:48.180
+And you can imagine, out on a university campus,
+
+01:11:48.180 --> 01:11:50.940
+you have more people who are outliers
+
+01:11:50.940 --> 01:11:53.380
+than you do in the general population.
+
+01:11:56.340 --> 01:11:57.820
+That's the hope at least.
+
+01:11:57.820 --> 01:11:59.340
+Hopefully, yeah.
+
+01:11:59.340 --> 01:12:03.260
+And those outliers have to be protected.
+
+01:12:04.500 --> 01:12:06.500
+They can't be pressured, they can't be fired,
+
+01:12:06.500 --> 01:12:11.540
+they can't be disabled from spewing their views,
+
+01:12:11.540 --> 01:12:13.020
+whether they're considered racist,
+
+01:12:13.780 --> 01:12:15.020
+whether they're considered to be,
+
+01:12:15.020 --> 01:12:19.460
+you know, promote an idea of human society
+
+01:12:19.460 --> 01:12:21.260
+that's considered obnoxious.
+
+01:12:22.900 --> 01:12:23.900
+It doesn't matter.
+
+01:12:23.900 --> 01:12:28.060
+If you can't have freedom of thought
+
+01:12:28.060 --> 01:12:31.300
+on the college campuses, where can you?
+
+01:12:31.300 --> 01:12:34.140
+You know, then we're lost as a society, we're lost.
+
+01:12:34.140 --> 01:12:37.540
+And as an educational institution,
+
+01:12:37.540 --> 01:12:40.100
+educational institutions no longer will educate,
+
+01:12:40.100 --> 01:12:42.100
+they will indoctrinate.
+
+01:12:42.100 --> 01:12:44.180
+That we have to avoid at all costs.
+
+01:12:44.180 --> 01:12:46.620
+And we should also remember that the outlier
+
+01:12:46.620 --> 01:12:49.900
+might also be the only bearer of truth.
+
+01:12:49.900 --> 01:12:53.420
+So, in Nazi Germany speaking against the fascism,
+
+01:12:53.420 --> 01:12:56.660
+fascist regime, in communist Soviet Union
+
+01:12:56.660 --> 01:13:00.420
+speaking against communism, they might hold the key
+
+01:13:00.420 --> 01:13:03.660
+to solving the ailments of that society.
+
+01:13:03.660 --> 01:13:04.940
+Absolutely.
+
+01:13:04.940 --> 01:13:07.060
+And some of the most important discoveries
+
+01:13:07.060 --> 01:13:08.340
+in science, for example,
+
+01:13:09.180 --> 01:13:13.740
+were mocked at the beginning.
+
+01:13:13.740 --> 01:13:16.700
+We think of poor Charlie Darwin.
+
+01:13:16.700 --> 01:13:21.700
+Charlie, I see he is on nickname levels with you.
+
+01:13:21.740 --> 01:13:24.260
+Well, because we're talking about these big topics
+
+01:13:24.260 --> 01:13:26.460
+of sexism, racism, and hate.
+
+01:13:26.460 --> 01:13:28.380
+We should not forget about the smaller topics
+
+01:13:28.380 --> 01:13:30.300
+which might even have the much bigger impact,
+
+01:13:30.300 --> 01:13:32.700
+which is what you're speaking to,
+
+01:13:32.700 --> 01:13:37.700
+which is outlier ideas in science.
+
+01:13:38.460 --> 01:13:43.100
+So, basically welcoming controversial ideas in science.
+
+01:13:43.100 --> 01:13:44.900
+And by controversial, I mean,
+
+01:13:44.900 --> 01:13:48.780
+just stuff that most of the community doesn't agree on,
+
+01:13:48.780 --> 01:13:50.820
+it doesn't actually harm anyone at all.
+
+01:13:50.820 --> 01:13:53.100
+But even then, there's always pressure.
+
+01:13:53.100 --> 01:13:54.740
+One of the things I'm really concerned about
+
+01:13:54.740 --> 01:13:58.180
+is how little power young faculty have.
+
+01:13:58.180 --> 01:14:01.100
+That there's a kind of hierarchy, seniority,
+
+01:14:01.100 --> 01:14:05.500
+that universities have, empowered by the administration.
+
+01:14:05.500 --> 01:14:07.980
+Where young faculty that come in,
+
+01:14:08.020 --> 01:14:09.900
+they're kind of...
+
+01:14:09.900 --> 01:14:11.780
+Pre tenure.
+
+01:14:11.780 --> 01:14:16.100
+Yeah, there's a process in chasing tenure
+
+01:14:16.100 --> 01:14:18.700
+where you're kind of supposed to behave.
+
+01:14:18.700 --> 01:14:21.900
+And there's an incentive to kind of fit in
+
+01:14:21.900 --> 01:14:23.740
+and to not be an outcast.
+
+01:14:23.740 --> 01:14:25.380
+And that's a really huge problem
+
+01:14:25.380 --> 01:14:30.380
+because oftentimes the youth is when the craziest,
+
+01:14:30.420 --> 01:14:32.740
+the biggest ideas, the revolutionary ideas come.
+
+01:14:32.740 --> 01:14:37.500
+And if you're forced to behave and fit in and not speak out,
+
+01:14:37.500 --> 01:14:39.780
+then even in the realm of science,
+
+01:14:39.780 --> 01:14:41.380
+the innovation is stifled.
+
+01:14:41.380 --> 01:14:45.980
+Well, now you trigger my, having to tell you this story.
+
+01:14:45.980 --> 01:14:48.540
+That you're triggered, this is good.
+
+01:14:48.540 --> 01:14:52.700
+In the mid-1980s, I decided to take a four-month sabbatical
+
+01:14:52.700 --> 01:14:53.980
+from my law practice.
+
+01:14:53.980 --> 01:14:55.300
+Yes.
+
+01:14:55.300 --> 01:14:58.220
+Professor James Vorenberg, who was at the time
+
+01:14:58.220 --> 01:15:01.420
+Dean of the Harvard Law School, heard about it.
+
+01:15:01.420 --> 01:15:05.540
+Heard about it from his wife, Elizabeth Betty Vorenberg,
+
+01:15:05.540 --> 01:15:06.780
+whom I was very friendly with
+
+01:15:06.820 --> 01:15:08.980
+because we were both on the ACLU,
+
+01:15:08.980 --> 01:15:11.660
+the ACLU of Massachusetts Board at the time.
+
+01:15:12.700 --> 01:15:17.700
+And so Betty told Jim that Harvey was taking a sabbatical.
+
+01:15:19.580 --> 01:15:22.420
+Jim called Harvey and asked Harvey
+
+01:15:22.420 --> 01:15:23.980
+if he would like to teach a course
+
+01:15:23.980 --> 01:15:25.740
+at the Harvard Law School
+
+01:15:25.740 --> 01:15:30.740
+because there was nobody who had teaching criminal law
+
+01:15:31.380 --> 01:15:32.980
+from the perspective of somebody
+
+01:15:32.980 --> 01:15:35.940
+who actually was in court, litigated.
+
+01:15:35.980 --> 01:15:37.260
+It was all theoretical.
+
+01:15:38.300 --> 01:15:39.620
+I said, sure, I'll do it.
+
+01:15:40.580 --> 01:15:43.380
+So I taught a semester at Harvard Law School.
+
+01:15:44.220 --> 01:15:46.500
+The student evaluations were fabulous.
+
+01:15:46.500 --> 01:15:47.340
+Why?
+
+01:15:47.340 --> 01:15:48.260
+Because it was really interesting.
+
+01:15:48.260 --> 01:15:51.300
+They were hearing a lawyer who was talking about real cases.
+
+01:15:51.300 --> 01:15:54.020
+I actually brought in a few of my clients
+
+01:15:54.020 --> 01:15:55.980
+in some of the classes.
+
+01:15:55.980 --> 01:15:58.700
+And so Jim called me and said,
+
+01:15:58.700 --> 01:16:01.300
+Harvey, the students love this course.
+
+01:16:01.300 --> 01:16:04.620
+I'd like to offer you a tenure-track position
+
+01:16:04.620 --> 01:16:05.460
+at the law school.
+
+01:16:05.900 --> 01:16:06.740
+I'd like to give up your law practice.
+
+01:16:06.740 --> 01:16:08.540
+I turned him down.
+
+01:16:08.540 --> 01:16:11.260
+He said, did you just say no?
+
+01:16:11.260 --> 01:16:13.580
+I said, yes, I said no.
+
+01:16:13.580 --> 01:16:14.580
+He said, how come?
+
+01:16:14.580 --> 01:16:18.460
+He says, nobody in my administration
+
+01:16:18.460 --> 01:16:20.820
+has ever turned down a tenure-track offer
+
+01:16:20.820 --> 01:16:22.580
+at Harvard Law School.
+
+01:16:22.580 --> 01:16:27.100
+I said, because I could see that I'm not a good fit,
+
+01:16:27.100 --> 01:16:32.100
+that the administrators overrun the place,
+
+01:16:32.420 --> 01:16:35.020
+that faculty members, especially untenured,
+
+01:16:35.540 --> 01:16:37.260
+who are afraid to say things
+
+01:16:37.260 --> 01:16:40.580
+that might not help them in the tenure quest.
+
+01:16:43.540 --> 01:16:45.260
+It's not a good fit for me.
+
+01:16:45.260 --> 01:16:47.900
+You saw this in the mid-1980s already.
+
+01:16:47.900 --> 01:16:50.500
+Yes, 1985.
+
+01:16:50.500 --> 01:16:53.900
+And I went back to my law practice.
+
+01:16:53.900 --> 01:16:58.900
+I did not want to get into this meat grinder that I saw.
+
+01:16:59.380 --> 01:17:04.100
+Actually, I started to see before the turn of the century
+
+01:17:04.140 --> 01:17:07.140
+because I co-authored the Shadow University in 98
+
+01:17:08.100 --> 01:17:11.460
+and then co-founded FIRE in 99.
+
+01:17:11.460 --> 01:17:14.820
+I'm an early student of this phenomenon.
+
+01:17:15.780 --> 01:17:17.860
+What are some other aspects of the book,
+
+01:17:17.860 --> 01:17:21.540
+The Shadow University, that we may have not covered?
+
+01:17:21.540 --> 01:17:23.460
+Well, let me tell you a story.
+
+01:17:23.460 --> 01:17:25.340
+I believe I tell it in The Shadow University
+
+01:17:25.340 --> 01:17:26.660
+because it was part of.
+
+01:17:26.660 --> 01:17:28.500
+I'm loving these stories, Harry.
+
+01:17:28.500 --> 01:17:30.660
+The stories are fabulous.
+
+01:17:30.660 --> 01:17:32.100
+Let me tell you a story of,
+
+01:17:33.060 --> 01:17:37.660
+I did a tour of the country, visiting campuses.
+
+01:17:38.980 --> 01:17:42.460
+I visited a college called Hamline University.
+
+01:17:42.460 --> 01:17:45.100
+I believe it was in Indiana or Illinois,
+
+01:17:45.100 --> 01:17:47.180
+somewhere in the Midwest.
+
+01:17:47.180 --> 01:17:50.500
+And I attended a freshman orientation.
+
+01:17:50.500 --> 01:17:51.780
+Now listen to this.
+
+01:17:53.060 --> 01:17:55.580
+This was a freshman orientation.
+
+01:17:55.580 --> 01:18:00.220
+The administrators, the deans and the deanettes
+
+01:18:00.220 --> 01:18:02.860
+and the deputy assistant deans and deanettes,
+
+01:18:02.860 --> 01:18:06.540
+the third deputy assistant deans and deanettes,
+
+01:18:06.540 --> 01:18:10.340
+lined the students up according to their skin hues.
+
+01:18:10.340 --> 01:18:11.420
+Oh, boy.
+
+01:18:11.420 --> 01:18:16.180
+The blonde, blue-eyed white folks were at one end.
+
+01:18:16.180 --> 01:18:18.180
+The darkest African-Americans
+
+01:18:23.260 --> 01:18:26.020
+whose bloodlines had not yet been mixed
+
+01:18:26.020 --> 01:18:29.940
+with any of the whites on the other end.
+
+01:18:30.540 --> 01:18:33.220
+And the exercise was you had to tell
+
+01:18:33.220 --> 01:18:37.420
+how your race affected your success in life
+
+01:18:37.420 --> 01:18:38.780
+up until that point.
+
+01:18:41.380 --> 01:18:44.860
+I thought it was the most demeaning thing
+
+01:18:44.860 --> 01:18:47.340
+that I could imagine.
+
+01:18:47.340 --> 01:18:48.660
+Demeaning.
+
+01:18:48.660 --> 01:18:50.260
+I thought to myself,
+
+01:18:50.260 --> 01:18:53.060
+they could do the same about sexual orientation.
+
+01:18:53.060 --> 01:18:55.060
+They could do the same about religion.
+
+01:18:55.060 --> 01:18:57.060
+They could do the same about national origin.
+
+01:18:57.100 --> 01:18:59.980
+It would be demeaning no matter what.
+
+01:19:00.900 --> 01:19:03.300
+And the students actually
+
+01:19:04.660 --> 01:19:08.260
+verbalized how their race
+
+01:19:08.260 --> 01:19:10.540
+had either been a plus or a minus.
+
+01:19:10.540 --> 01:19:11.380
+They did it.
+
+01:19:11.380 --> 01:19:12.620
+They did.
+
+01:19:12.620 --> 01:19:14.340
+And I thought it was so demeaning,
+
+01:19:14.340 --> 01:19:18.660
+it just confirmed all of my distaste
+
+01:19:18.660 --> 01:19:22.340
+for this kind of approach.
+
+01:19:22.340 --> 01:19:24.180
+Let me ask you from the interviewer seat.
+
+01:19:24.180 --> 01:19:28.420
+So I get to do this podcast
+
+01:19:28.420 --> 01:19:32.540
+and I often have to think about giving a large platform
+
+01:19:32.540 --> 01:19:37.220
+and having a conversation with very controversial figures.
+
+01:19:37.220 --> 01:19:41.780
+And the level of controversy has been slowly increasing.
+
+01:19:41.780 --> 01:19:46.780
+What's the role of this medium to you?
+
+01:19:48.060 --> 01:19:50.340
+This medium of speech between two people
+
+01:19:50.340 --> 01:19:52.180
+and me speaking with a controversial figure,
+
+01:19:52.180 --> 01:19:54.220
+me or some other interviewer.
+
+01:19:54.220 --> 01:19:56.500
+What's the role of giving platform
+
+01:19:56.500 --> 01:19:57.940
+to controversial figures?
+
+01:19:57.940 --> 01:20:02.580
+Say members of the KKK or dictators,
+
+01:20:03.980 --> 01:20:05.860
+people who are seen as evil.
+
+01:20:05.860 --> 01:20:09.660
+Well, we want to face the world with reality.
+
+01:20:09.660 --> 01:20:13.620
+And the reality is that there are some unpleasantness,
+
+01:20:13.620 --> 01:20:16.180
+unpleasantnesses in the world.
+
+01:20:16.180 --> 01:20:18.100
+Running from genocide
+
+01:20:18.100 --> 01:20:20.620
+right through to ordinary discrimination
+
+01:20:21.580 --> 01:20:23.660
+to offensiveness.
+
+01:20:23.660 --> 01:20:26.900
+It's the real world as we know it exists.
+
+01:20:26.900 --> 01:20:28.420
+Are we afraid to say it?
+
+01:20:29.380 --> 01:20:31.980
+Do we want to make people think that we live in a world
+
+01:20:31.980 --> 01:20:34.060
+where those words are not used,
+
+01:20:34.060 --> 01:20:36.580
+where those animosities don't exist?
+
+01:20:38.060 --> 01:20:39.220
+The answer is no.
+
+01:20:39.220 --> 01:20:40.380
+But you can whitewash,
+
+01:20:40.380 --> 01:20:42.020
+you can normalize the use of those words
+
+01:20:42.020 --> 01:20:45.860
+and you can whitewash the acceptability of certain leaders.
+
+01:20:45.860 --> 01:20:49.060
+So for example, interviewing Hitler in 1938,
+
+01:20:49.100 --> 01:20:52.100
+1935, 1936, 1937, 38,
+
+01:20:52.100 --> 01:20:54.100
+those are all different dynamics there.
+
+01:20:54.100 --> 01:20:57.060
+But you can normalize this person
+
+01:20:57.060 --> 01:21:00.460
+and in so doing create enormous harm.
+
+01:21:00.460 --> 01:21:02.460
+Well, see, I don't see it as normalizing.
+
+01:21:02.460 --> 01:21:04.660
+I see it as exposing.
+
+01:21:04.660 --> 01:21:07.780
+If more people had taken mankind seriously,
+
+01:21:08.980 --> 01:21:11.820
+Franklin Roosevelt would have acted much sooner.
+
+01:21:12.700 --> 01:21:15.580
+He only got us into the war,
+
+01:21:15.580 --> 01:21:17.740
+asked Congress to get us into the war
+
+01:21:17.740 --> 01:21:20.860
+when the Japanese made the mistake of attacking Pearl Harbor.
+
+01:21:22.660 --> 01:21:25.900
+But there were some people in the State Department,
+
+01:21:25.900 --> 01:21:27.700
+there were some people in the administration
+
+01:21:27.700 --> 01:21:31.260
+who were trying to get Roosevelt
+
+01:21:31.260 --> 01:21:33.980
+to see what Hitler was really like
+
+01:21:33.980 --> 01:21:36.100
+and he was blind to it.
+
+01:21:36.100 --> 01:21:37.780
+This was one of the greatest presidents
+
+01:21:37.780 --> 01:21:39.620
+the United States ever had.
+
+01:21:39.620 --> 01:21:44.620
+He was blind to it until the Japanese attacked Pearl Harbor.
+
+01:21:45.140 --> 01:21:50.140
+So I think that words, unpleasant ideas,
+
+01:21:50.140 --> 01:21:51.860
+as expressed by Rhodes,
+
+01:21:51.860 --> 01:21:56.860
+are essential for communicating fact and truth and reality.
+
+01:21:58.220 --> 01:22:02.980
+And that's why I think that we should not whitewash language.
+
+01:22:02.980 --> 01:22:04.780
+We should not whitewash the fact
+
+01:22:04.780 --> 01:22:08.340
+that Jeffrey Epstein was pretty close to MIT.
+
+01:22:08.340 --> 01:22:09.180
+And Harvard.
+
+01:22:09.180 --> 01:22:10.020
+And Harvard.
+
+01:22:10.140 --> 01:22:10.980
+And Harvard.
+
+01:22:12.420 --> 01:22:17.340
+And reality actually means something.
+
+01:22:17.340 --> 01:22:18.980
+Yeah, but from the role of the interviewer,
+
+01:22:18.980 --> 01:22:21.620
+that's something I have to think a lot about.
+
+01:22:21.620 --> 01:22:24.500
+Whether interviewing Hitler, you said exposing.
+
+01:22:26.220 --> 01:22:29.820
+I think it's hard to know what Hitler's like in a room,
+
+01:22:29.820 --> 01:22:32.100
+but it's also hard to know,
+
+01:22:32.100 --> 01:22:33.420
+I've never met Jeffrey Epstein,
+
+01:22:33.420 --> 01:22:36.740
+it's hard to know what Jeffrey Epstein's like in a room,
+
+01:22:36.740 --> 01:22:39.620
+but I imagine to some degree they're charismatic figures.
+
+01:22:40.180 --> 01:22:43.020
+So exposing them in the interview setting
+
+01:22:43.020 --> 01:22:44.940
+is not an easy task.
+
+01:22:44.940 --> 01:22:49.300
+Well, interviewing is not an easy job.
+
+01:22:49.300 --> 01:22:50.140
+Yeah.
+
+01:22:51.100 --> 01:22:54.500
+It's not a good idea to have an interviewer be an idiot.
+
+01:22:59.140 --> 01:23:00.460
+I know exactly what you're saying
+
+01:23:00.460 --> 01:23:03.380
+and I know why you're looking at me directly as you say it.
+
+01:23:03.380 --> 01:23:04.860
+I appreciate that, Harvey.
+
+01:23:04.860 --> 01:23:08.620
+All right, let me ask about your friend,
+
+01:23:08.620 --> 01:23:12.380
+your colleague, Alan Dershowitz.
+
+01:23:12.380 --> 01:23:14.260
+And I'll also ask about your review
+
+01:23:14.260 --> 01:23:15.500
+of his most recent book.
+
+01:23:15.500 --> 01:23:17.420
+But before then, it'd be interesting
+
+01:23:18.740 --> 01:23:21.660
+to ask what you think of him as a human being, as a lawyer.
+
+01:23:21.660 --> 01:23:24.100
+He's quite an interesting case.
+
+01:23:24.100 --> 01:23:25.860
+He's represented some of the most controversial
+
+01:23:25.860 --> 01:23:26.700
+figures in history.
+
+01:23:26.700 --> 01:23:27.860
+Including Jeffrey Epstein.
+
+01:23:27.860 --> 01:23:30.180
+Including Jeffrey Epstein, Mike Tyson,
+
+01:23:30.180 --> 01:23:34.340
+Julian Assange, Jim Baker, and Jeffrey Epstein,
+
+01:23:34.340 --> 01:23:36.380
+and even Donald Trump.
+
+01:23:36.380 --> 01:23:38.140
+So he's an interesting figure.
+
+01:23:38.660 --> 01:23:39.500
+What do you think about that?
+
+01:23:39.500 --> 01:23:40.340
+Klaus von Buelow.
+
+01:23:41.620 --> 01:23:42.460
+What do you think?
+
+01:23:42.460 --> 01:23:44.660
+What do you think about him as a human being,
+
+01:23:44.660 --> 01:23:46.660
+as a lawyer, what he represents
+
+01:23:46.660 --> 01:23:48.900
+in terms of values and ideals?
+
+01:23:48.900 --> 01:23:51.220
+Well, he's a criminal defense lawyer.
+
+01:23:51.220 --> 01:23:53.780
+And the job of a criminal defense lawyer
+
+01:23:53.780 --> 01:23:56.380
+is to represent, accuse criminals.
+
+01:23:57.580 --> 01:24:01.100
+He is a lifelong Democrat.
+
+01:24:01.940 --> 01:24:03.060
+He didn't represent Trump
+
+01:24:03.060 --> 01:24:05.220
+because he agrees with him politically.
+
+01:24:05.220 --> 01:24:06.740
+Voted for Hillary, I believe you wrote.
+
+01:24:06.780 --> 01:24:08.820
+He voted for Hillary, yes.
+
+01:24:08.820 --> 01:24:10.620
+That's what he says, and I absolutely believe it.
+
+01:24:10.620 --> 01:24:12.820
+He's a liberal Democrat.
+
+01:24:14.620 --> 01:24:17.980
+But he's a criminal defense lawyer as well as a professor.
+
+01:24:17.980 --> 01:24:22.980
+And I've represented some very nasty people in my career.
+
+01:24:25.180 --> 01:24:28.060
+I wouldn't go out for coffee with them,
+
+01:24:28.060 --> 01:24:31.540
+but they have constitutional rights to representation.
+
+01:24:32.380 --> 01:24:33.860
+And you take that very seriously.
+
+01:24:33.860 --> 01:24:36.660
+Yes, you notice something that people don't understand,
+
+01:24:37.580 --> 01:24:38.900
+about Dershowitz.
+
+01:24:38.900 --> 01:24:41.580
+He was asked by Trump to represent him
+
+01:24:41.580 --> 01:24:43.980
+in the second impeachment as well.
+
+01:24:43.980 --> 01:24:45.820
+He turned him down.
+
+01:24:45.820 --> 01:24:47.580
+Why do you think he turned him down?
+
+01:24:47.580 --> 01:24:49.580
+So people should know he represented Trump
+
+01:24:49.580 --> 01:24:50.540
+in the first impeachment trial.
+
+01:24:50.540 --> 01:24:52.980
+He represented him only in the first.
+
+01:24:52.980 --> 01:24:55.380
+And he was successful in when Trump was impeached
+
+01:24:55.380 --> 01:24:57.780
+the second time, he asked Allen to represent him.
+
+01:24:59.420 --> 01:25:01.500
+Allen has had a lifelong policy
+
+01:25:01.500 --> 01:25:05.460
+of only representing somebody once, never twice.
+
+01:25:05.460 --> 01:25:06.860
+Why?
+
+01:25:06.860 --> 01:25:09.700
+Because he never wanted to be house counsel to the mafia.
+
+01:25:10.620 --> 01:25:15.620
+And so he, early on, had this position.
+
+01:25:15.980 --> 01:25:18.060
+He only represented somebody once.
+
+01:25:18.060 --> 01:25:22.220
+The mafia wants a lawyer who's an in-house counsel
+
+01:25:22.220 --> 01:25:24.460
+who represents them in all their cases.
+
+01:25:25.500 --> 01:25:27.100
+So that's the reason.
+
+01:25:27.100 --> 01:25:28.860
+And now Allen never publicly explained
+
+01:25:28.860 --> 01:25:29.900
+that I know it's a fact,
+
+01:25:29.900 --> 01:25:31.580
+because I've known from the day
+
+01:25:31.580 --> 01:25:34.020
+that we met at Harvard Law School, 1964.
+
+01:25:34.020 --> 01:25:36.100
+He was a first-year professor.
+
+01:25:36.100 --> 01:25:37.620
+I was a first-year student.
+
+01:25:37.620 --> 01:25:40.460
+We both had Brooklyn accidents, and we hit it off.
+
+01:25:41.380 --> 01:25:43.500
+We've been close friends ever since.
+
+01:25:43.500 --> 01:25:45.820
+So there's some kind of unethical line that's crossed
+
+01:25:45.820 --> 01:25:49.300
+when you continuously represent a client.
+
+01:25:49.300 --> 01:25:52.660
+Yeah, he thought it was not so much an ethical line.
+
+01:25:52.660 --> 01:25:55.260
+You have a right to represent mafia people.
+
+01:25:55.260 --> 01:25:56.900
+But he didn't want to be house counsel.
+
+01:25:56.900 --> 01:25:59.140
+He didn't want to be, you know,
+
+01:25:59.140 --> 01:26:00.980
+have them ask him for advice
+
+01:26:00.980 --> 01:26:03.260
+in advance of what they were doing.
+
+01:26:03.260 --> 01:26:06.100
+He was willing to represent somebody once,
+
+01:26:06.100 --> 01:26:07.740
+no matter how awful.
+
+01:26:07.740 --> 01:26:11.220
+Klaus von Buelow was accused of killing his wife.
+
+01:26:11.220 --> 01:26:12.980
+These are pretty nasty people.
+
+01:26:14.820 --> 01:26:19.740
+But he didn't want to be house counsel to any of them.
+
+01:26:19.740 --> 01:26:24.100
+So you wrote a review of Allen Dershowitz's new book
+
+01:26:24.100 --> 01:26:25.420
+on Donald Trump.
+
+01:26:25.420 --> 01:26:27.300
+The title of that book is Get Trump,
+
+01:26:27.300 --> 01:26:29.580
+The Threat to Civil Liberties Due Process
+
+01:26:29.580 --> 01:26:32.300
+and Our Constitutional Rule of Law.
+
+01:26:32.300 --> 01:26:35.220
+Can you summarize this book and your review of it?
+
+01:26:35.220 --> 01:26:36.820
+Yes, by the way, I co-authored it
+
+01:26:36.820 --> 01:26:39.740
+with my research assistant who's sitting right here.
+
+01:26:39.740 --> 01:26:40.580
+Emily.
+
+01:26:40.580 --> 01:26:41.420
+Yes.
+
+01:26:42.420 --> 01:26:47.420
+And I thought that the book was another example
+
+01:26:47.740 --> 01:26:51.860
+of the fact that everybody is entitled to a defense
+
+01:26:51.860 --> 01:26:56.140
+and that Allen's being involved with Trump
+
+01:26:56.140 --> 01:26:57.380
+was purely professional.
+
+01:26:57.380 --> 01:26:58.580
+It was not political.
+
+01:26:58.580 --> 01:27:00.140
+It was not philosophical.
+
+01:27:01.060 --> 01:27:05.980
+And I thought that the fact that he was being criticized,
+
+01:27:05.980 --> 01:27:10.220
+he was being shunned because of his connection to Trump,
+
+01:27:10.220 --> 01:27:13.820
+I found very interesting that this is a guy
+
+01:27:13.820 --> 01:27:15.460
+who represented such,
+
+01:27:18.220 --> 01:27:22.660
+I call them distasteful figures as Klaus von Buelow,
+
+01:27:24.020 --> 01:27:27.300
+as Mike Tyson,
+
+01:27:28.300 --> 01:27:32.340
+as O.J. Simpson, as Sheldon Siegel.
+
+01:27:34.580 --> 01:27:39.580
+And when he was considered to be a skillful lawyer,
+
+01:27:40.380 --> 01:27:41.940
+made his reputation,
+
+01:27:42.980 --> 01:27:45.140
+and then he represents Donald Trump,
+
+01:27:45.140 --> 01:27:47.460
+who to my knowledge never killed anybody,
+
+01:27:49.780 --> 01:27:52.420
+and he's suddenly shunned.
+
+01:27:52.420 --> 01:27:56.140
+I thought the hypocrisy of it, the political preening
+
+01:27:56.980 --> 01:28:00.740
+was very distasteful to me.
+
+01:28:02.540 --> 01:28:04.300
+And it was not only because he was my friend.
+
+01:28:04.300 --> 01:28:07.100
+If he wasn't my friend, I think I'd have the same view.
+
+01:28:08.740 --> 01:28:13.700
+The holier-than-thou nonsense, the hypocrisy of it.
+
+01:28:15.700 --> 01:28:18.180
+They wouldn't talk to him on Malthus Vien now.
+
+01:28:18.180 --> 01:28:19.660
+Allen and I are different.
+
+01:28:19.660 --> 01:28:21.140
+I'm not so sensitive.
+
+01:28:22.300 --> 01:28:25.140
+If someone doesn't want to talk to me, no problem,
+
+01:28:25.140 --> 01:28:26.620
+no problem at all.
+
+01:28:28.300 --> 01:28:31.940
+But Allen is, considering how controversial
+
+01:28:31.940 --> 01:28:33.420
+his life has been.
+
+01:28:33.420 --> 01:28:34.500
+He's somewhat sensitive.
+
+01:28:34.500 --> 01:28:37.780
+He's somewhat sensitive, and I've kept telling Allen,
+
+01:28:37.780 --> 01:28:40.340
+Allen, don't let it get to you.
+
+01:28:40.340 --> 01:28:42.300
+I can relate, I can definitely relate.
+
+01:28:42.300 --> 01:28:44.140
+Taking on some controversial conversations
+
+01:28:44.140 --> 01:28:45.380
+still wear my heart on my sleeve.
+
+01:28:45.380 --> 01:28:47.260
+It hurts, all of it hurts.
+
+01:28:47.260 --> 01:28:49.020
+But maybe the pain makes you a better
+
+01:28:50.300 --> 01:28:52.060
+student of human nature.
+
+01:28:52.060 --> 01:28:53.460
+Maybe that's the case for him.
+
+01:28:53.460 --> 01:28:57.420
+Nevertheless, the book makes a complicated
+
+01:28:57.420 --> 01:28:59.180
+and I think an interesting point.
+
+01:28:59.180 --> 01:29:02.500
+He opens the book with,
+
+01:29:02.500 --> 01:29:04.900
+now that Donald Trump has announced his candidacy
+
+01:29:04.900 --> 01:29:06.980
+for re-election as president,
+
+01:29:06.980 --> 01:29:09.860
+the unremitting efforts by his political opponents
+
+01:29:09.860 --> 01:29:13.340
+to, quote, get him, to stop him from running
+
+01:29:13.340 --> 01:29:15.380
+at any cost will only increase.
+
+01:29:15.380 --> 01:29:18.220
+These efforts may pose the most significant threat
+
+01:29:18.220 --> 01:29:20.540
+to civil liberties since McCarthyism.
+
+01:29:20.540 --> 01:29:21.580
+So is he right?
+
+01:29:21.620 --> 01:29:23.220
+He's absolutely right.
+
+01:29:23.220 --> 01:29:26.820
+Because these attempted, for example,
+
+01:29:26.820 --> 01:29:29.540
+the prosecution, the one prosecution
+
+01:29:29.540 --> 01:29:32.020
+that has been brought now is Alvin Bragg
+
+01:29:32.020 --> 01:29:33.980
+in the Manhattan.
+
+01:29:33.980 --> 01:29:35.900
+I have looked at that and I don't believe
+
+01:29:35.900 --> 01:29:38.020
+that Trump has committed a crime.
+
+01:29:38.020 --> 01:29:41.700
+And yet, Bragg was pressured to bring that.
+
+01:29:41.700 --> 01:29:43.620
+People in his office were threatening to quit
+
+01:29:43.620 --> 01:29:45.020
+if he didn't indict.
+
+01:29:45.020 --> 01:29:47.500
+Wholly improper, wholly unethical.
+
+01:29:48.580 --> 01:29:50.620
+And he's gonna lose the case.
+
+01:29:50.620 --> 01:29:52.180
+Has Trump committed crimes?
+
+01:29:52.180 --> 01:29:53.060
+Yes.
+
+01:29:53.060 --> 01:29:54.700
+Mostly they're tax crimes.
+
+01:29:57.740 --> 01:30:00.140
+He has cheated on taxes his whole career
+
+01:30:00.140 --> 01:30:01.980
+as far as I could tell.
+
+01:30:01.980 --> 01:30:06.900
+He could easily be indicted for state and federal taxes.
+
+01:30:06.900 --> 01:30:09.540
+But they're not as sexy.
+
+01:30:09.540 --> 01:30:13.980
+And I think that he's become a target
+
+01:30:15.940 --> 01:30:20.380
+by ambitious politicians, ambitious prosecutors.
+
+01:30:21.100 --> 01:30:24.500
+He has gotten some sympathy, which he doesn't deserve.
+
+01:30:24.500 --> 01:30:28.260
+And a lot of it is, pardon the phrase,
+
+01:30:28.260 --> 01:30:30.180
+political correctness.
+
+01:30:30.180 --> 01:30:33.860
+The better people are not supposed to be Trumpers.
+
+01:30:35.900 --> 01:30:39.020
+I had an interesting experience about Trump.
+
+01:30:39.020 --> 01:30:41.380
+I had two interesting experiences.
+
+01:30:41.380 --> 01:30:44.060
+The more recent one was I was in the house
+
+01:30:44.060 --> 01:30:49.060
+of Lawrence Summers, the former president of Harvard,
+
+01:30:49.740 --> 01:30:52.460
+who was driven out by political correctness, by the way.
+
+01:30:52.460 --> 01:30:54.780
+He insulted women biologists.
+
+01:30:56.820 --> 01:31:01.260
+I was in his house when he was still president of Harvard
+
+01:31:02.580 --> 01:31:07.580
+when the Trump-Hillary Clinton contest took place.
+
+01:31:09.300 --> 01:31:11.900
+And I was with Elsa.
+
+01:31:13.540 --> 01:31:18.100
+We were invited to Summers' house in Brookline.
+
+01:31:19.020 --> 01:31:23.780
+And it looked like Hillary was gonna win.
+
+01:31:23.780 --> 01:31:26.820
+And the Harvard faculty members, they were all celebrating.
+
+01:31:26.820 --> 01:31:29.460
+They were all figuring out what their cabinet positions
+
+01:31:29.460 --> 01:31:31.900
+were gonna be, blah, blah, blah, blah, blah.
+
+01:31:31.900 --> 01:31:34.860
+And then about 11.30 at night, all of a sudden,
+
+01:31:34.860 --> 01:31:37.980
+it was announced that in terms of electoral votes,
+
+01:31:37.980 --> 01:31:41.100
+Trump had just eeked out a victory,
+
+01:31:41.100 --> 01:31:43.380
+that Hillary beat him in the popular vote,
+
+01:31:43.380 --> 01:31:48.060
+but he had won the electoral college.
+
+01:31:49.020 --> 01:31:50.900
+There was immediate depression.
+
+01:31:54.420 --> 01:31:56.460
+Meaning it was like quiet over the room.
+
+01:31:56.460 --> 01:31:59.740
+The room became absolutely stone silent.
+
+01:32:01.260 --> 01:32:05.460
+And they were all disappointed.
+
+01:32:05.460 --> 01:32:07.460
+Well, that was a memorable moment.
+
+01:32:07.460 --> 01:32:11.060
+And it told me that they were a little bit
+
+01:32:11.060 --> 01:32:16.060
+too overconfident and they were savoring
+
+01:32:16.820 --> 01:32:20.100
+being part of a presidential administration.
+
+01:32:21.100 --> 01:32:22.860
+Ambition had been thwarted.
+
+01:32:24.060 --> 01:32:27.540
+I'm not a great fan of preening ambition.
+
+01:32:27.540 --> 01:32:30.340
+I think it blinds people to realities.
+
+01:32:30.340 --> 01:32:32.540
+And the resulting arrogance from such ambition.
+
+01:32:32.540 --> 01:32:34.500
+And the arrogance, yes.
+
+01:32:34.500 --> 01:32:36.820
+It's one of the reasons I didn't accept
+
+01:32:36.820 --> 01:32:40.180
+Jim Vorenberg's offer to be part of the academic community.
+
+01:32:40.180 --> 01:32:41.540
+I mean, I represent professors.
+
+01:32:41.540 --> 01:32:42.860
+I have friends who are professors.
+
+01:32:42.860 --> 01:32:43.860
+I represent students.
+
+01:32:43.860 --> 01:32:45.620
+I have friends who are students.
+
+01:32:47.020 --> 01:32:50.460
+And I have a great regard for universities
+
+01:32:50.460 --> 01:32:51.860
+and higher education.
+
+01:32:53.020 --> 01:32:55.620
+But I was not about to become part of a culture.
+
+01:32:55.620 --> 01:32:57.820
+I thought that it was not good for me
+
+01:32:57.820 --> 01:33:00.660
+and not good for the institution either.
+
+01:33:00.660 --> 01:33:02.900
+That can, a culture that can breed arrogance.
+
+01:33:02.900 --> 01:33:03.740
+Yes.
+
+01:33:03.740 --> 01:33:04.740
+Self-importance.
+
+01:33:04.740 --> 01:33:06.180
+Yep.
+
+01:33:06.180 --> 01:33:09.380
+And I, in a sense, the election of Donald Trump
+
+01:33:09.380 --> 01:33:11.460
+was a big FU to such.
+
+01:33:11.460 --> 01:33:12.300
+Correct.
+
+01:33:12.460 --> 01:33:17.460
+Which is why I think he managed to pull it off.
+
+01:33:19.220 --> 01:33:20.860
+To jump topics a little bit.
+
+01:33:20.860 --> 01:33:23.940
+What do you think about something you've written about?
+
+01:33:23.940 --> 01:33:26.460
+What do you think about the mass surveillance programs
+
+01:33:26.460 --> 01:33:30.100
+by the NSA and also probably by other organizations,
+
+01:33:30.100 --> 01:33:32.380
+CIA, FBI, and others?
+
+01:33:33.620 --> 01:33:36.540
+And broadly, what do you think about
+
+01:33:36.540 --> 01:33:40.020
+the importance of privacy for the American citizen?
+
+01:33:40.020 --> 01:33:45.020
+Okay, I believe that the FBI should be abolished
+
+01:33:46.940 --> 01:33:50.580
+because I believe that its culture was so corrupted
+
+01:33:50.580 --> 01:33:55.580
+by its first director, John Edgar Hoover, J. Edgar Hoover,
+
+01:33:58.100 --> 01:34:02.620
+that it is impossible to reform the FBI
+
+01:34:02.620 --> 01:34:05.380
+to make its agents honest,
+
+01:34:06.820 --> 01:34:09.700
+to force them to obey the Constitution,
+
+01:34:10.500 --> 01:34:13.420
+the first, fourth, and fifth amendments especially.
+
+01:34:16.020 --> 01:34:19.140
+And it's a culture that cannot be changed.
+
+01:34:20.460 --> 01:34:22.460
+Hoover established the culture
+
+01:34:22.460 --> 01:34:26.660
+and no FBI director since has been able to change it.
+
+01:34:27.740 --> 01:34:32.740
+If you go online, I did on YouTube a video
+
+01:34:33.740 --> 01:34:35.740
+for the ACLU of Massachusetts.
+
+01:34:35.740 --> 01:34:37.060
+It was when I was on the board.
+
+01:34:37.060 --> 01:34:39.060
+It was probably when I was president of the board.
+
+01:34:39.220 --> 01:34:41.220
+I was president of the board for two years.
+
+01:34:41.220 --> 01:34:44.340
+I was on the board for 20 years.
+
+01:34:44.340 --> 01:34:48.700
+And I did a video about advising people
+
+01:34:48.700 --> 01:34:51.940
+to never, ever, ever talk to an FBI agent
+
+01:34:51.940 --> 01:34:54.500
+when they come knocking on your door.
+
+01:34:54.500 --> 01:34:57.500
+Can you briefly explain the intuition?
+
+01:34:57.500 --> 01:34:58.340
+Yes.
+
+01:34:58.340 --> 01:34:59.460
+Why not to talk to an FBI agent?
+
+01:34:59.460 --> 01:35:01.340
+They have a system.
+
+01:35:01.340 --> 01:35:03.940
+When they come in and interview you,
+
+01:35:03.940 --> 01:35:06.220
+two agents show up, never one.
+
+01:35:07.220 --> 01:35:09.580
+One asks the question, the other one takes notes.
+
+01:35:09.580 --> 01:35:11.860
+The note-taking agent takes notes
+
+01:35:11.860 --> 01:35:13.260
+and it goes back to the office
+
+01:35:13.260 --> 01:35:17.940
+and types up a report called a Form 302,
+
+01:35:17.940 --> 01:35:22.940
+which is the official record of what was asked and answered.
+
+01:35:25.860 --> 01:35:30.140
+So when I have a client interviewed by the FBI,
+
+01:35:30.140 --> 01:35:35.140
+I show up and I always agree on the fact
+
+01:35:36.260 --> 01:35:38.460
+that I almost always agree to the interview.
+
+01:35:40.020 --> 01:35:43.660
+But I bring a tape recorder and I say,
+
+01:35:43.660 --> 01:35:45.100
+all right, I'm gonna tape this.
+
+01:35:45.100 --> 01:35:47.500
+And they say, well, by regulation,
+
+01:35:47.500 --> 01:35:50.020
+we're not allowed to do the interview of his tape.
+
+01:35:51.140 --> 01:35:53.900
+The record is the 302.
+
+01:35:53.900 --> 01:35:55.620
+The agent is taking notes.
+
+01:35:55.620 --> 01:35:58.900
+I say, well, I have a policy too.
+
+01:35:58.900 --> 01:36:01.860
+My policy is to never allow a client to be interviewed
+
+01:36:01.860 --> 01:36:03.100
+unless it's recorded.
+
+01:36:03.980 --> 01:36:05.580
+So it's unfortunate,
+
+01:36:05.580 --> 01:36:07.420
+but we're gonna have to end this meeting
+
+01:36:07.420 --> 01:36:09.220
+and the agents get up and leave.
+
+01:36:11.180 --> 01:36:15.220
+And I've never seen a Form 302
+
+01:36:15.220 --> 01:36:17.580
+that I consider to be accurate.
+
+01:36:17.580 --> 01:36:22.580
+The agents write down what they wish you had said
+
+01:36:23.140 --> 01:36:24.620
+rather than what you said.
+
+01:36:24.620 --> 01:36:28.740
+It is a wholly corrupt organization
+
+01:36:28.740 --> 01:36:31.620
+that has not gotten any better since Hoover died.
+
+01:36:31.660 --> 01:36:35.580
+And fundamentally, the corruption is in the culture
+
+01:36:35.580 --> 01:36:40.580
+that is resisting the Constitution of the United States
+
+01:36:40.980 --> 01:36:42.380
+the first and fourth and fifth.
+
+01:36:42.380 --> 01:36:46.060
+Correct, it's not financial corruption.
+
+01:36:46.060 --> 01:36:49.540
+It is corruption of the mission.
+
+01:36:50.580 --> 01:36:53.420
+And I think it should be abolished.
+
+01:36:53.420 --> 01:36:56.700
+And if we need a federal investigative agency,
+
+01:36:56.700 --> 01:36:59.060
+should be a new name, a new culture,
+
+01:36:59.100 --> 01:37:02.460
+wholly new members, a new director.
+
+01:37:02.460 --> 01:37:07.460
+And it's impossible to reform the FBI.
+
+01:37:08.340 --> 01:37:11.180
+Can you elaborate on what exactly is broken about the FBI?
+
+01:37:11.180 --> 01:37:16.180
+Is it the famous saying from Stalin's KGB head,
+
+01:37:18.220 --> 01:37:20.700
+Barry, show me the man and I'll show you the crime?
+
+01:37:20.700 --> 01:37:21.540
+Right.
+
+01:37:21.540 --> 01:37:23.100
+Is it that kind of process of-
+
+01:37:23.100 --> 01:37:24.260
+It's that kind of process.
+
+01:37:24.260 --> 01:37:25.580
+They decide who's guilty
+
+01:37:25.580 --> 01:37:27.660
+and then they go about concocting a case
+
+01:37:27.660 --> 01:37:31.740
+against the person who they want to get.
+
+01:37:31.740 --> 01:37:34.420
+So the goal is not to find the truth or-
+
+01:37:35.260 --> 01:37:37.780
+It's to solve the case and close it
+
+01:37:37.780 --> 01:37:40.300
+and enhance their reputations.
+
+01:37:40.300 --> 01:37:43.860
+But to show that an innocent man is guilty
+
+01:37:43.860 --> 01:37:46.980
+is also solving the case from their perspective.
+
+01:37:47.860 --> 01:37:52.860
+So to falsely convict or falsely imprison an innocent man
+
+01:37:53.420 --> 01:37:55.540
+is also solving the case.
+
+01:37:55.540 --> 01:37:57.020
+Well, it closes the case
+
+01:37:57.020 --> 01:37:59.820
+if they falsely imprison an innocent man.
+
+01:37:59.820 --> 01:38:02.380
+They're interested in closing cases.
+
+01:38:02.380 --> 01:38:03.420
+So that's the FBI,
+
+01:38:03.420 --> 01:38:07.180
+but broadly speaking about the surveillance aspect of this,
+
+01:38:07.180 --> 01:38:11.020
+what are your views on the right
+
+01:38:11.020 --> 01:38:13.820
+that an American citizen has to privacy?
+
+01:38:13.820 --> 01:38:18.260
+Well, wiretapping and electronic surveillance
+
+01:38:18.260 --> 01:38:20.260
+are very, very intrusive.
+
+01:38:21.260 --> 01:38:25.180
+And I think that the circumstance
+
+01:38:26.540 --> 01:38:28.860
+that these tools are used should be narrowed.
+
+01:38:30.060 --> 01:38:33.020
+For example, they're used in a lot of drug cases.
+
+01:38:33.860 --> 01:38:36.740
+Since I don't think drugs should be illegal in any event,
+
+01:38:36.740 --> 01:38:40.380
+I certainly think that it's a terrible violation of privacy
+
+01:38:41.580 --> 01:38:45.380
+to use wiretapping in a drug case.
+
+01:38:46.460 --> 01:38:49.220
+I could see it in cases of murder,
+
+01:38:51.260 --> 01:38:55.100
+possibly in cases of serious extortion,
+
+01:38:56.140 --> 01:39:00.420
+but on other kinds of crimes where they wiretapped,
+
+01:39:00.420 --> 01:39:01.780
+especially drug cases,
+
+01:39:01.780 --> 01:39:04.220
+I believe drugs should all be legalized anyway.
+
+01:39:05.780 --> 01:39:10.780
+I think the price we pay as a society is not worth it.
+
+01:39:13.420 --> 01:39:17.260
+On the Wikipedia page for nothing to hide, you're cited.
+
+01:39:17.260 --> 01:39:18.820
+In fact, your book that you gave me today,
+
+01:39:18.980 --> 01:39:21.380
+Three Felonies a Day, is cited.
+
+01:39:21.380 --> 01:39:22.780
+So nothing to hide argument.
+
+01:39:22.780 --> 01:39:26.620
+That's an argument that if you're a well-behaved citizen,
+
+01:39:27.540 --> 01:39:28.620
+you have nothing to hide,
+
+01:39:28.620 --> 01:39:30.980
+and therefore your privacy can be violated.
+
+01:39:30.980 --> 01:39:34.460
+Well, the problem is that under the federal criminal code,
+
+01:39:35.980 --> 01:39:37.980
+particularly the federal criminal code,
+
+01:39:40.780 --> 01:39:43.940
+it is very easy to be charged with a crime.
+
+01:39:43.940 --> 01:39:44.780
+Now, why?
+
+01:39:45.620 --> 01:39:48.060
+Under the Constitution,
+
+01:39:48.060 --> 01:39:50.100
+the federal government does not have
+
+01:39:50.100 --> 01:39:53.300
+plenary criminal jurisdiction.
+
+01:39:53.300 --> 01:39:54.500
+That's up to the state.
+
+01:39:56.420 --> 01:39:59.980
+How is it that the feds indict
+
+01:39:59.980 --> 01:40:02.260
+in so many areas of American life?
+
+01:40:03.340 --> 01:40:06.900
+It's because the Supreme Court has allowed the following
+
+01:40:06.900 --> 01:40:11.060
+absolutely insane situation to prevail.
+
+01:40:11.060 --> 01:40:13.460
+Anything can be made a federal crime
+
+01:40:13.460 --> 01:40:17.220
+if in the course of the commission of the crime,
+
+01:40:18.660 --> 01:40:23.660
+the means of interstate communication or travel are used.
+
+01:40:25.500 --> 01:40:27.900
+That means that if you commit a crime,
+
+01:40:27.900 --> 01:40:30.980
+which ordinarily would be a state crime,
+
+01:40:30.980 --> 01:40:34.940
+and you use the telephone or you send a letter,
+
+01:40:34.940 --> 01:40:37.260
+it suddenly becomes federal.
+
+01:40:37.380 --> 01:40:40.380
+That means that the limitation that the founding fathers
+
+01:40:40.380 --> 01:40:44.100
+who wrote the Constitution intended
+
+01:40:44.100 --> 01:40:48.100
+to keep the feds out of daily life
+
+01:40:48.980 --> 01:40:51.820
+and to give that jurisdiction to the state
+
+01:40:51.820 --> 01:40:54.420
+has been completely thwarted.
+
+01:40:54.420 --> 01:40:58.420
+Because I can't think of a case
+
+01:40:58.420 --> 01:41:01.340
+where somebody doesn't use the telephone
+
+01:41:01.340 --> 01:41:04.540
+in the course of the commission of the crime.
+
+01:41:04.580 --> 01:41:06.260
+The feds doesn't use the telephone
+
+01:41:06.260 --> 01:41:09.980
+in the course of planning,
+
+01:41:09.980 --> 01:41:13.180
+discussing something that's arguably criminal.
+
+01:41:14.060 --> 01:41:18.220
+And so this limited authority, the federal government,
+
+01:41:20.540 --> 01:41:25.540
+to bring charges in criminal cases is illusory.
+
+01:41:26.300 --> 01:41:28.420
+The feds can indict a ham sandwich.
+
+01:41:29.420 --> 01:41:31.220
+So basically everybody's guilty.
+
+01:41:31.220 --> 01:41:36.220
+And if the feds wanna bring you in, they can.
+
+01:41:36.860 --> 01:41:37.700
+They can find a way.
+
+01:41:37.700 --> 01:41:42.700
+And that allows them to terrorize people who are dissidents.
+
+01:41:42.900 --> 01:41:43.900
+Yeah.
+
+01:41:43.900 --> 01:41:47.540
+What is broken, what works
+
+01:41:47.540 --> 01:41:49.500
+about the American criminal justice system
+
+01:41:49.500 --> 01:41:51.180
+from your perspective?
+
+01:41:51.180 --> 01:41:52.180
+The jury system.
+
+01:41:52.180 --> 01:41:53.020
+The jury system?
+
+01:41:53.020 --> 01:41:53.860
+Yes.
+
+01:41:53.860 --> 01:41:54.900
+You like the jury system.
+
+01:41:54.900 --> 01:41:57.340
+Everyday citizens representing.
+
+01:41:57.340 --> 01:42:01.500
+12 ordinary people have to agree unanimously
+
+01:42:03.100 --> 01:42:04.140
+in order to convict.
+
+01:42:05.540 --> 01:42:07.940
+What do you think about the highest court in the land,
+
+01:42:07.940 --> 01:42:08.860
+the Supreme Court?
+
+01:42:08.860 --> 01:42:10.180
+What works and what is broken
+
+01:42:10.180 --> 01:42:12.300
+about the Supreme Court as an institution?
+
+01:42:12.300 --> 01:42:13.940
+What are its strengths and weaknesses?
+
+01:42:13.940 --> 01:42:18.940
+Well, the Supreme Court is unfortunately fairly political.
+
+01:42:21.500 --> 01:42:26.500
+And the current Supreme Court is overruling precedence
+
+01:42:27.460 --> 01:42:30.380
+which it's really improper.
+
+01:42:30.380 --> 01:42:34.460
+I mean, precedence should not be overruled so easily.
+
+01:42:35.980 --> 01:42:40.780
+It's about to overrule the affirmative action.
+
+01:42:40.780 --> 01:42:42.900
+Now I'm opposed to affirmative action.
+
+01:42:42.900 --> 01:42:46.420
+I think I made that clear earlier in our discussion.
+
+01:42:46.420 --> 01:42:49.060
+But still it's a precedent
+
+01:42:49.060 --> 01:42:52.980
+and it should be given some respect.
+
+01:42:52.980 --> 01:42:57.980
+But in order to propagate a more conservative agenda,
+
+01:43:04.700 --> 01:43:06.420
+the court is treating precedent
+
+01:43:06.420 --> 01:43:09.260
+as if it doesn't have any role.
+
+01:43:09.260 --> 01:43:11.700
+And that's a huge mistake.
+
+01:43:13.460 --> 01:43:16.500
+Some of the congressmen on the democratic side
+
+01:43:16.500 --> 01:43:19.020
+are looking to enlarge the court
+
+01:43:19.020 --> 01:43:22.500
+in order to basically do what Franklin Roosevelt
+
+01:43:22.540 --> 01:43:23.980
+was not able to do.
+
+01:43:26.100 --> 01:43:30.860
+And that has changed the court's philosophy.
+
+01:43:31.780 --> 01:43:34.340
+But I think that's very short-sighted
+
+01:43:34.340 --> 01:43:38.460
+because this is a long game.
+
+01:43:38.460 --> 01:43:40.900
+This is a republic we have here.
+
+01:43:40.900 --> 01:43:45.100
+And anyone who tries to, for example,
+
+01:43:45.100 --> 01:43:47.340
+enlarge the court from nine to 12
+
+01:43:47.340 --> 01:43:51.900
+in order to get more liberals on the court,
+
+01:43:51.940 --> 01:43:55.660
+then some other administration will try to enlarge it
+
+01:43:55.660 --> 01:43:59.020
+from 12 to 15 to get more liberals on the court.
+
+01:43:59.020 --> 01:44:03.820
+You'd have a constant fiddling
+
+01:44:03.820 --> 01:44:06.300
+with a very important institution.
+
+01:44:06.300 --> 01:44:08.420
+So the law should have more lasting power
+
+01:44:08.420 --> 01:44:11.420
+than the bickering, the political bickering of the day.
+
+01:44:11.420 --> 01:44:12.340
+Correct.
+
+01:44:12.340 --> 01:44:17.340
+Let me ask you, you've lived one heck of a life
+
+01:44:17.460 --> 01:44:20.340
+and fought a lot of battles
+
+01:44:20.340 --> 01:44:23.700
+and continue to do so with the Harvard Board of Overseers.
+
+01:44:23.700 --> 01:44:25.900
+So first of all, thank you for that.
+
+01:44:25.900 --> 01:44:30.260
+But we're all human, we're all mortal.
+
+01:44:30.260 --> 01:44:31.660
+Do you ponder your death?
+
+01:44:31.660 --> 01:44:32.940
+Do you ponder your mortality?
+
+01:44:32.940 --> 01:44:33.940
+Are you afraid of it?
+
+01:44:33.940 --> 01:44:34.900
+Well, let me say this.
+
+01:44:34.900 --> 01:44:37.300
+My father died at 48.
+
+01:44:37.300 --> 01:44:38.660
+He died because he smoked.
+
+01:44:38.660 --> 01:44:40.260
+He died at 48 because he smoked
+
+01:44:40.260 --> 01:44:42.540
+four packs of camels a day.
+
+01:44:42.540 --> 01:44:45.260
+He got a massive heart attack at 43.
+
+01:44:45.260 --> 01:44:48.980
+He continued to smoke despite that.
+
+01:44:48.980 --> 01:44:49.820
+He died at 48.
+
+01:44:49.820 --> 01:44:52.540
+So I did not expect to live this long
+
+01:44:52.540 --> 01:44:53.820
+because I thought it was genetic.
+
+01:44:53.820 --> 01:44:55.540
+It turns out it was cigarettes.
+
+01:44:56.500 --> 01:44:57.620
+So here I am.
+
+01:44:57.620 --> 01:45:00.620
+I'm going to be 81 on May 10th.
+
+01:45:00.620 --> 01:45:02.620
+I was born on May 10th, 1942.
+
+01:45:02.620 --> 01:45:05.180
+It was just Mother's Day coincidentally.
+
+01:45:06.660 --> 01:45:09.740
+And I realized I'm not going to live forever.
+
+01:45:09.740 --> 01:45:14.740
+I also take pride in the fact that I have demonstrated
+
+01:45:15.060 --> 01:45:17.580
+that a lawyer does not have to go to the law firm
+
+01:45:17.580 --> 01:45:19.700
+in order to manage to make it.
+
+01:45:20.540 --> 01:45:22.220
+You can make your own, write your own,
+
+01:45:22.220 --> 01:45:24.220
+what's the word, write your own ticket.
+
+01:45:25.700 --> 01:45:26.580
+I've done that.
+
+01:45:28.900 --> 01:45:32.020
+I agree that I've had an elite education.
+
+01:45:32.020 --> 01:45:34.900
+I went to Princeton and Harvard Law School.
+
+01:45:34.900 --> 01:45:36.700
+But I don't think you have to necessarily
+
+01:45:36.700 --> 01:45:40.020
+go to elite institutions in order to really make it.
+
+01:45:40.020 --> 01:45:41.220
+You need to work hard.
+
+01:45:42.260 --> 01:45:44.220
+But you shouldn't put yourself in a place
+
+01:45:44.220 --> 01:45:47.140
+where you're not going to feel comfortable
+
+01:45:47.140 --> 01:45:48.980
+and what's the word, empowered.
+
+01:45:49.020 --> 01:45:53.020
+Like I refuse to take Javorenberg's invitation
+
+01:45:54.940 --> 01:45:57.540
+for a tail-tracking position at Harvard Law School.
+
+01:46:02.740 --> 01:46:06.900
+I'll tell you one other story that illustrates this.
+
+01:46:08.140 --> 01:46:10.220
+I was originally pre-med.
+
+01:46:10.220 --> 01:46:12.500
+Freshman, it was about four years at Princeton
+
+01:46:12.500 --> 01:46:14.140
+I was in the pre-med program.
+
+01:46:14.140 --> 01:46:14.980
+Why?
+
+01:46:15.860 --> 01:46:20.460
+Because my parents wanted me to marry
+
+01:46:20.460 --> 01:46:22.620
+the daughter of our family physician.
+
+01:46:24.140 --> 01:46:28.940
+And the idea was, I was going to go to medical school.
+
+01:46:28.940 --> 01:46:31.300
+I was going to go into medical practice with him
+
+01:46:31.300 --> 01:46:32.980
+in Hackensack, New Jersey.
+
+01:46:35.060 --> 01:46:37.140
+We had moved from Brooklyn at the time.
+
+01:46:37.140 --> 01:46:39.340
+Long story why we had to move from Brooklyn.
+
+01:46:39.340 --> 01:46:42.220
+It had to do with my father's having a problem
+
+01:46:42.260 --> 01:46:44.860
+with the furrier's union and having his life threatened.
+
+01:46:46.380 --> 01:46:48.220
+And we moved to Maywood, New Jersey
+
+01:46:48.220 --> 01:46:51.500
+because he got a job in a fur shop in Passaic, New Jersey.
+
+01:46:52.940 --> 01:46:55.940
+And a family physician, they had three daughters.
+
+01:46:55.940 --> 01:46:58.380
+The oldest of whom was my age.
+
+01:46:58.380 --> 01:47:00.100
+She went to Hackensack High School.
+
+01:47:01.060 --> 01:47:03.100
+I went to Bogota High School.
+
+01:47:03.100 --> 01:47:05.380
+They're both in North Burden County.
+
+01:47:06.980 --> 01:47:11.180
+And the idea was that she and I were going to marry.
+
+01:47:12.020 --> 01:47:14.740
+I was going to become, I was going to go to medical school.
+
+01:47:14.740 --> 01:47:19.100
+I was going to take, become a partner of her father
+
+01:47:19.100 --> 01:47:21.220
+in his medical practice in Hackensack.
+
+01:47:22.100 --> 01:47:25.140
+When he retired, I was going to inherit the practice.
+
+01:47:25.140 --> 01:47:28.940
+This scenario was concocted by Carolyn's mother
+
+01:47:28.940 --> 01:47:29.820
+and my mother.
+
+01:47:32.380 --> 01:47:35.940
+In my sophomore year at Princeton,
+
+01:47:35.940 --> 01:47:39.100
+I won a fellowship to spend that summer
+
+01:47:39.100 --> 01:47:42.060
+between my sophomore and junior year in Paris.
+
+01:47:42.060 --> 01:47:43.460
+I was fluent by then.
+
+01:47:44.700 --> 01:47:47.100
+I had taken an accelerated French course
+
+01:47:47.100 --> 01:47:48.700
+my freshman and sophomore year.
+
+01:47:50.140 --> 01:47:52.460
+And I went to Paris.
+
+01:47:53.540 --> 01:47:55.580
+It was my first time out of the country.
+
+01:47:57.380 --> 01:48:02.380
+And I spent the entire summer working,
+
+01:48:03.900 --> 01:48:05.340
+supporting myself there.
+
+01:48:05.900 --> 01:48:10.900
+The airfare and I earned money for room board.
+
+01:48:12.940 --> 01:48:15.020
+And I thought about my life and I decided,
+
+01:48:15.020 --> 01:48:17.340
+number one, I didn't want to be a physician.
+
+01:48:17.340 --> 01:48:19.220
+I wanted to be a lawyer.
+
+01:48:19.220 --> 01:48:22.140
+Number two, I didn't want to marry Carolyn.
+
+01:48:23.540 --> 01:48:24.820
+And I came back.
+
+01:48:24.820 --> 01:48:27.620
+I changed from pre-med to pre-law.
+
+01:48:28.660 --> 01:48:30.900
+I broke up with Carolyn,
+
+01:48:30.900 --> 01:48:33.580
+who was by that time at school at Douglas
+
+01:48:33.580 --> 01:48:34.940
+right down the road from Princeton.
+
+01:48:35.540 --> 01:48:40.060
+And she had followed me or I had followed her.
+
+01:48:40.060 --> 01:48:45.060
+And my life suddenly took a wholly different term.
+
+01:48:46.980 --> 01:48:50.020
+So that summer in Paris,
+
+01:48:50.020 --> 01:48:55.020
+Paris had a outsize effect of my life.
+
+01:48:56.620 --> 01:49:01.180
+Every year, the Brattle Theater shows Casablanca
+
+01:49:01.180 --> 01:49:04.260
+where Bogart has this great line.
+
+01:49:04.340 --> 01:49:07.220
+He says, we'll always have Paris.
+
+01:49:08.180 --> 01:49:11.340
+And I think to myself, I always used to say to Elsa,
+
+01:49:11.340 --> 01:49:14.740
+we used to see Casablanca every Valentine's Day
+
+01:49:14.740 --> 01:49:17.260
+because it was such an important movie to me
+
+01:49:17.260 --> 01:49:21.700
+because Paris was transformative in my life.
+
+01:49:21.700 --> 01:49:25.140
+And we went to Paris every year during my vacation.
+
+01:49:25.140 --> 01:49:26.980
+We went to Paris.
+
+01:49:26.980 --> 01:49:29.580
+That was where she took some great pictures.
+
+01:49:30.900 --> 01:49:33.260
+The visor was this high and this high.
+
+01:49:33.420 --> 01:49:34.980
+We were hanging up in the house.
+
+01:49:36.060 --> 01:49:38.140
+And so I always,
+
+01:49:40.140 --> 01:49:42.220
+and even after Elsa's death,
+
+01:49:42.220 --> 01:49:45.260
+I've seen Casablanca twice now.
+
+01:49:45.260 --> 01:49:47.500
+She died in 2020.
+
+01:49:48.820 --> 01:49:52.780
+And I always think we'll always have Paris.
+
+01:49:53.860 --> 01:49:55.300
+We'll always have Paris.
+
+01:49:57.780 --> 01:50:00.700
+Well, Harvey, like I said,
+
+01:50:01.700 --> 01:50:05.340
+I hope you're very successful in your run
+
+01:50:05.340 --> 01:50:07.140
+for the Harvard Board of Overseers.
+
+01:50:07.140 --> 01:50:11.260
+I think what you stand for in the realm of freedom of speech
+
+01:50:11.260 --> 01:50:15.660
+is I think the thing that makes these universities
+
+01:50:15.660 --> 01:50:18.060
+great institutions in American culture.
+
+01:50:18.060 --> 01:50:22.140
+And I'll do everything I can to help you succeed.
+
+01:50:22.140 --> 01:50:25.180
+And I just am really grateful for all the work you've done.
+
+01:50:25.180 --> 01:50:26.900
+And I'm grateful that you would talk with me today.
+
+01:50:26.900 --> 01:50:28.340
+This is amazing.
+
+01:50:28.340 --> 01:50:29.780
+Thank you.
+
+01:50:29.780 --> 01:50:31.300
+Thanks for listening to this conversation
+
+01:50:31.300 --> 01:50:33.340
+with Harvey Silverglate.
+
+01:50:33.340 --> 01:50:34.500
+To support this podcast,
+
+01:50:34.500 --> 01:50:37.100
+please check out our sponsors in the description.
+
+01:50:37.100 --> 01:50:39.140
+And now let me leave you with some words
+
+01:50:39.140 --> 01:50:40.540
+from Harry S. Truman.
+
+01:50:41.380 --> 01:50:43.700
+Once the government is committed to the principle
+
+01:50:43.700 --> 01:50:46.220
+of silencing the voice of the opposition,
+
+01:50:46.220 --> 01:50:48.140
+it is only one way to go.
+
+01:50:48.140 --> 01:50:49.540
+And that is down the path
+
+01:50:49.540 --> 01:50:52.100
+of increasingly repressive measures
+
+01:50:52.100 --> 01:50:55.580
+until it becomes the source of terror to all its citizens
+
+01:50:55.580 --> 01:50:59.140
+and creates a country where everyone lives in fear.
+
+01:50:59.780 --> 01:51:03.340
+Thank you for listening and hope to see you next time.
+

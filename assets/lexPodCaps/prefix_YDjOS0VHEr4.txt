@@ -1,0 +1,7829 @@
+WEBVTT
+
+00:00.000 --> 00:02.360
+The ribosome, who I mentioned a little while back,
+
+00:02.360 --> 00:05.340
+can make an elephant one molecule at a time.
+
+00:05.340 --> 00:07.120
+Ribosomes are slow.
+
+00:07.120 --> 00:09.240
+They run at about one molecule a second,
+
+00:09.240 --> 00:11.440
+but ribosomes make ribosomes.
+
+00:11.440 --> 00:14.520
+So you have trillions of them and that makes an elephant.
+
+00:14.520 --> 00:16.560
+In the same way, these little assembly robots
+
+00:16.560 --> 00:20.200
+I'm describing can make giant structures at heart
+
+00:20.200 --> 00:23.160
+because the robot can make the robot.
+
+00:23.160 --> 00:26.720
+So more recently, two of my students, Amira and Miana,
+
+00:26.720 --> 00:29.160
+had a nature communication paper showing
+
+00:29.200 --> 00:33.760
+how this robot can be made out of the parts it's making
+
+00:33.760 --> 00:35.520
+so the robots can make the robot
+
+00:35.520 --> 00:38.180
+so you build up the capacity of robotic assembly.
+
+00:40.360 --> 00:43.520
+The following is a conversation with Neil Gershenfeld,
+
+00:43.520 --> 00:46.720
+the director of MIT's Center for Bits and Atoms,
+
+00:46.720 --> 00:49.900
+an amazing laboratory that is breaking down boundaries
+
+00:49.900 --> 00:52.560
+between the digital and physical worlds,
+
+00:52.560 --> 00:56.880
+fabricating objects and machines at all scales of reality,
+
+00:56.880 --> 00:59.880
+including robots and automata
+
+00:59.880 --> 01:02.200
+that can build copies of themselves
+
+01:02.200 --> 01:06.560
+and self-assemble into complex structures.
+
+01:06.560 --> 01:09.360
+His work inspires millions across the world
+
+01:09.360 --> 01:13.200
+as part of the maker movement to build cool stuff,
+
+01:13.200 --> 01:18.200
+to create the very act that makes life so beautiful and fun.
+
+01:19.900 --> 01:21.840
+This is Alex Friedman podcast.
+
+01:21.840 --> 01:23.800
+To support it, please check out our sponsors
+
+01:23.800 --> 01:24.960
+in the description.
+
+01:25.000 --> 01:28.520
+And now, dear friends, here's Neil Gershenfeld.
+
+01:29.500 --> 01:31.880
+You have spent your life working at the boundary
+
+01:31.880 --> 01:36.200
+between bits and atoms, so the digital and the physical.
+
+01:36.200 --> 01:38.960
+What have you learned about engineering
+
+01:38.960 --> 01:43.240
+and about nature of reality from working at this divide,
+
+01:43.240 --> 01:45.040
+trying to bridge this divide?
+
+01:45.040 --> 01:48.760
+I learned why von Neumann and Turing
+
+01:48.760 --> 01:51.320
+made fundamental mistakes.
+
+01:52.160 --> 01:53.000
+That's good stuff.
+
+01:53.000 --> 01:55.760
+I learned the secret of life.
+
+01:55.760 --> 01:57.160
+Yeah.
+
+01:57.160 --> 02:00.080
+I learned how to solve many of the world's
+
+02:00.080 --> 02:03.280
+most important problems, which all sound presumptuous,
+
+02:03.280 --> 02:05.440
+but all of those are things I learned at that boundary.
+
+02:05.440 --> 02:07.680
+Okay, so Turing and von Neumann, let's start there.
+
+02:07.680 --> 02:09.800
+Some of the most impactful, important humans
+
+02:09.800 --> 02:12.600
+who have ever lived in computing, why were they wrong?
+
+02:12.600 --> 02:17.600
+So I worked with Andy Gleason, who is Turing's counterpart.
+
+02:17.720 --> 02:20.120
+So just for background, if anybody doesn't know,
+
+02:20.120 --> 02:22.080
+Turing is credited with the modern architecture
+
+02:22.080 --> 02:25.880
+of computing, among many other things.
+
+02:25.880 --> 02:28.320
+Andy Gleason was his US counterpart,
+
+02:28.320 --> 02:31.600
+and you might not have heard of Andy Gleason,
+
+02:31.600 --> 02:33.880
+but you might have heard of the Hilbert problems,
+
+02:33.880 --> 02:36.360
+and Andy Gleason solved the fifth one.
+
+02:36.360 --> 02:39.440
+So he was a really notable mathematician.
+
+02:39.440 --> 02:41.320
+During the war, he was Turing's counterpart.
+
+02:41.320 --> 02:42.920
+Then von Neumann is credited
+
+02:42.920 --> 02:45.280
+with the modern architecture of computing,
+
+02:45.280 --> 02:47.760
+and one of his students was Marvin Minsky.
+
+02:47.800 --> 02:50.080
+So I could ask Marvin what Johnny was thinking,
+
+02:50.080 --> 02:52.880
+and I could ask Andy what Alan was thinking.
+
+02:52.880 --> 02:55.240
+And what came out from that,
+
+02:55.240 --> 02:58.040
+what I came to appreciate as background,
+
+02:58.040 --> 02:59.480
+I never understood the difference
+
+02:59.480 --> 03:01.880
+between computer science and physical science,
+
+03:01.880 --> 03:05.880
+but Turing's machine, that's the foundation
+
+03:05.880 --> 03:10.120
+of modern computing, has a simple physics mistake,
+
+03:10.120 --> 03:13.000
+which is the head is distinct from the tape.
+
+03:13.000 --> 03:14.840
+So in the Turing machine, there's a head
+
+03:14.840 --> 03:17.480
+that programmatically moves and reads and writes a tape.
+
+03:17.520 --> 03:19.160
+The head is distinct from the tape,
+
+03:19.160 --> 03:22.080
+which means persistence of information
+
+03:22.080 --> 03:25.120
+is separate from interaction with information.
+
+03:26.200 --> 03:30.160
+Then von Neumann wrote deeply and beautifully
+
+03:30.160 --> 03:32.680
+about many things, but not computing.
+
+03:32.680 --> 03:36.760
+He wrote a horrible memo called the first draft
+
+03:36.760 --> 03:38.640
+of a report on the EDVAC,
+
+03:38.640 --> 03:41.960
+which is how you program a very early computer.
+
+03:41.960 --> 03:46.040
+In it, he essentially roughly took Turing's architecture
+
+03:46.040 --> 03:47.600
+and built it into a machine.
+
+03:48.680 --> 03:53.560
+So the legacy of that is the computer somebody's using
+
+03:53.560 --> 03:55.880
+to watch this is spending much of its effort
+
+03:55.880 --> 03:59.600
+moving information from storage transistors
+
+03:59.600 --> 04:01.360
+to processing transistors,
+
+04:01.360 --> 04:04.040
+even though they have the same computational complexity.
+
+04:04.040 --> 04:08.440
+So in computer science, when you learn about computing,
+
+04:08.440 --> 04:10.880
+there's a ridiculous taxonomy
+
+04:10.880 --> 04:15.120
+of about a hundred different models of computation,
+
+04:15.120 --> 04:16.840
+but they're all fictions.
+
+04:16.840 --> 04:20.320
+In physics, a patch of space occupies space,
+
+04:20.320 --> 04:23.360
+it stores state, it takes time to transit,
+
+04:23.360 --> 04:24.720
+and you can interact.
+
+04:24.720 --> 04:28.120
+That is the only model of computation that's physical.
+
+04:28.120 --> 04:30.240
+Everything else is a fiction.
+
+04:30.240 --> 04:34.760
+So I really came to appreciate that a few years back
+
+04:34.760 --> 04:36.400
+when I did a keynote for the annual meeting
+
+04:36.400 --> 04:38.440
+of the supercomputer industry,
+
+04:38.440 --> 04:40.440
+and then went into the halls and spent time
+
+04:40.440 --> 04:42.280
+with the supercomputer builders
+
+04:42.280 --> 04:45.560
+and came to appreciate,
+
+04:45.560 --> 04:48.000
+oh, let's see, if you're familiar with the movie,
+
+04:48.000 --> 04:52.120
+The Metropolis, people would frolic upstairs in the gardens
+
+04:52.120 --> 04:54.520
+and down in the basement, people would move levers.
+
+04:54.520 --> 04:58.080
+And that's how computing exists today,
+
+04:58.080 --> 05:00.680
+that we pretend software is not physical,
+
+05:00.680 --> 05:02.600
+it's separate from hardware.
+
+05:02.600 --> 05:05.000
+And the whole canon of computer science
+
+05:05.000 --> 05:08.480
+is based on this fiction that bits aren't constrained
+
+05:08.480 --> 05:11.960
+by atoms, but all sorts of scaling issues
+
+05:11.960 --> 05:13.720
+in computing come from that boundary,
+
+05:13.720 --> 05:16.760
+but all sorts of opportunities come from that boundary.
+
+05:16.760 --> 05:18.720
+And so you can trace it all the way back
+
+05:18.720 --> 05:22.040
+to Turing's machine making this mistake
+
+05:22.040 --> 05:23.320
+between the head and the tape.
+
+05:23.320 --> 05:28.160
+Von Neumann, he never called it Von Neumann's architecture,
+
+05:28.160 --> 05:30.160
+he wrote about it in this dreadful memo,
+
+05:30.160 --> 05:31.080
+and then he wrote beautifully
+
+05:31.080 --> 05:32.920
+about other things we'll talk about.
+
+05:32.920 --> 05:35.040
+Now, to end a long answer,
+
+05:35.040 --> 05:38.120
+Turing and Von Neumann both knew this.
+
+05:38.120 --> 05:41.880
+So all of the canon of computer scientists credits them
+
+05:41.880 --> 05:45.240
+for what was never meant to be a computer architecture,
+
+05:45.240 --> 05:48.240
+both Turing and Von Neumann ended their life
+
+05:48.240 --> 05:52.240
+studying exactly how software becomes hardware.
+
+05:52.240 --> 05:55.240
+So Von Neumann studied self-reproducing automata,
+
+05:55.240 --> 05:58.360
+how a machine communicates its own construction.
+
+05:58.360 --> 06:02.280
+Turing studied morphogenesis, how genes give rise to form.
+
+06:02.280 --> 06:04.600
+They ended their life studying the embodiment
+
+06:04.600 --> 06:07.360
+of computation, something that's been forgotten
+
+06:07.360 --> 06:09.080
+by the canon of computing,
+
+06:09.080 --> 06:10.840
+but developed sort of off to the sides
+
+06:10.840 --> 06:12.880
+by a really interesting lineage.
+
+06:12.880 --> 06:16.200
+So there's no distinction between the head and the tape,
+
+06:16.200 --> 06:17.880
+between the computer and the computation,
+
+06:17.880 --> 06:19.480
+it is all computation.
+
+06:19.480 --> 06:22.800
+Right, so I never understood the difference
+
+06:22.800 --> 06:25.480
+between computer science and physical science,
+
+06:25.480 --> 06:29.040
+and working at that boundary helped lead to things
+
+06:29.040 --> 06:31.040
+like my lab was part of doing,
+
+06:31.040 --> 06:32.720
+with a number of interesting collaborators,
+
+06:32.720 --> 06:36.600
+the first faster than classical quantum computations,
+
+06:36.600 --> 06:38.360
+we were part of a collaboration
+
+06:38.360 --> 06:40.840
+creating the minimal synthetic organism
+
+06:40.840 --> 06:42.680
+where you design life in a computer.
+
+06:42.680 --> 06:45.440
+Those both involve domains
+
+06:45.440 --> 06:48.320
+where you just can't separate hardware from software.
+
+06:48.320 --> 06:51.120
+The embodiment of computation is embodied
+
+06:51.120 --> 06:52.800
+in these really profound ways.
+
+06:54.160 --> 06:58.400
+So the first quantum computations, synthetic life,
+
+06:58.400 --> 07:00.480
+so in the space of biology,
+
+07:00.480 --> 07:02.640
+the space of physics at the lowest level,
+
+07:02.640 --> 07:05.680
+and the space of biology at the lowest level.
+
+07:05.680 --> 07:09.200
+So let's talk about CBA, Center of Bits and Atoms.
+
+07:09.200 --> 07:11.320
+What's the origin story of this MIT,
+
+07:11.320 --> 07:16.280
+legendary MIT center that you're a part of creating?
+
+07:16.280 --> 07:19.760
+In high school, I really wanted to go to vocational school
+
+07:19.760 --> 07:24.080
+where you learn to weld and fix cars and build houses.
+
+07:24.080 --> 07:25.480
+And I was told, no, you're smart,
+
+07:25.480 --> 07:27.160
+you have to sit in a room.
+
+07:27.160 --> 07:28.320
+And nobody could explain to me
+
+07:28.320 --> 07:31.320
+why I couldn't go to vocational school.
+
+07:32.560 --> 07:35.120
+I then worked at Bell Labs,
+
+07:35.160 --> 07:39.440
+this wonderful place before deregulation, legendary place.
+
+07:39.440 --> 07:41.800
+And I would get union grievances
+
+07:41.800 --> 07:43.920
+because I would go into the workshop
+
+07:43.920 --> 07:44.880
+and try to make something.
+
+07:44.880 --> 07:46.040
+And they would say, no, you're smart,
+
+07:46.040 --> 07:48.680
+you have to tell somebody what to do.
+
+07:48.680 --> 07:52.160
+And it wasn't until MIT, and I'll explain how CBA started,
+
+07:52.160 --> 07:55.560
+but I could create CBA, that I came to understand
+
+07:55.560 --> 07:58.080
+this is a mistake that dates back to the Renaissance.
+
+07:58.080 --> 08:01.920
+So in the Renaissance, the liberal arts emerged.
+
+08:01.920 --> 08:04.440
+And liberal doesn't mean politically liberal.
+
+08:04.440 --> 08:07.600
+This was the path to liberation, birth of humanism.
+
+08:07.600 --> 08:10.400
+And so the liberal arts were the trivium, quadrivium,
+
+08:10.400 --> 08:12.920
+roughly language, natural science.
+
+08:12.920 --> 08:17.080
+And at that moment, what emerged
+
+08:17.080 --> 08:20.600
+was this dreadful concept of the illiberal arts.
+
+08:20.600 --> 08:22.600
+So anything that wasn't the liberal arts
+
+08:22.600 --> 08:25.560
+was for commercial gain and was just making stuff
+
+08:25.560 --> 08:28.440
+and wasn't valid for serious study.
+
+08:28.440 --> 08:31.760
+And so that's why we're left with learning to weld
+
+08:31.760 --> 08:34.080
+wasn't a subject for serious study.
+
+08:35.080 --> 08:38.320
+But the means of expression have changed since the Renaissance.
+
+08:38.320 --> 08:41.880
+So micro-machining or embedded coding
+
+08:41.880 --> 08:44.400
+is every bit as expressive as painting a painting
+
+08:44.400 --> 08:45.400
+or writing a sonnet.
+
+08:45.400 --> 08:49.400
+So never understanding this difference
+
+08:49.400 --> 08:52.000
+between computer science and physical science.
+
+08:53.480 --> 08:58.080
+The path that led me to create CBA with colleagues
+
+08:58.200 --> 09:01.880
+was I was what's called a junior fellow at Harvard.
+
+09:01.880 --> 09:04.200
+I was visiting MIT through Marvin
+
+09:04.200 --> 09:05.720
+because I was interested in the physics
+
+09:05.720 --> 09:07.000
+of musical instruments.
+
+09:08.520 --> 09:10.880
+This will be another slight digression.
+
+09:10.880 --> 09:13.800
+And Cornell, I would study physics
+
+09:13.800 --> 09:15.640
+and then I would cross the street
+
+09:15.640 --> 09:17.520
+and go to the music department where I played the bassoon
+
+09:17.520 --> 09:19.440
+and I would trim reeds and play the reeds.
+
+09:19.440 --> 09:21.840
+And they'd be beautiful, but then they'd get soggy.
+
+09:21.840 --> 09:23.320
+And then I discovered in the basement
+
+09:23.320 --> 09:25.960
+of the music department at Cornell was David Borden,
+
+09:26.920 --> 09:28.000
+who you might not have heard of,
+
+09:28.000 --> 09:29.880
+but is legendary in electronic music
+
+09:29.880 --> 09:32.120
+because he was really the first electronic musician.
+
+09:32.120 --> 09:35.920
+So Bob Moog, who invented Moog synthesizers,
+
+09:35.920 --> 09:37.400
+was a physics student at Cornell,
+
+09:37.400 --> 09:39.200
+like me crossing the street.
+
+09:39.200 --> 09:42.600
+And eventually he was kicked out and invented electronic music.
+
+09:42.600 --> 09:45.280
+David Borden was the first musician
+
+09:45.280 --> 09:46.760
+who created electronic music.
+
+09:46.760 --> 09:50.360
+So he's legendary for people like Phil Glass and Steve Reich.
+
+09:50.360 --> 09:52.720
+And so that got me thinking about,
+
+09:52.720 --> 09:55.400
+I would behave as a scientist in the music department,
+
+09:56.400 --> 09:59.240
+in the physics department, but not in the music department.
+
+09:59.240 --> 10:01.680
+Got me thinking about what's the computational capacity
+
+10:01.680 --> 10:03.800
+of a musical instrument.
+
+10:03.800 --> 10:07.120
+And through Marvin, he introduced me to Todd Backover
+
+10:07.120 --> 10:10.120
+at the Media Lab, who is just about to start a project
+
+10:10.120 --> 10:14.040
+with Yo-Yo Ma that led to a collaboration
+
+10:14.040 --> 10:17.280
+to instrument a cello, to extract Yo-Yo's data
+
+10:17.280 --> 10:20.280
+and bring it out into computational environments.
+
+10:20.280 --> 10:23.360
+What is the computational capacity of a musical instrument?
+
+10:23.360 --> 10:24.680
+As we continue on this tangent
+
+10:24.680 --> 10:26.120
+and when we shall return to CBA.
+
+10:26.120 --> 10:31.120
+Yeah, so one part of that is to understand the computing.
+
+10:33.000 --> 10:36.080
+And if you look at like the finest time scale
+
+10:36.080 --> 10:38.520
+and length scale you need to model the physics,
+
+10:38.520 --> 10:39.960
+it's not heroic.
+
+10:39.960 --> 10:42.880
+A good GPU can do teraflops today.
+
+10:42.880 --> 10:45.000
+That used to be a national class supercomputer,
+
+10:45.000 --> 10:46.280
+now it's just a GPU.
+
+10:46.280 --> 10:48.920
+And that's about, if you take the time scales
+
+10:48.920 --> 10:50.680
+and length scales relevant for the physics,
+
+10:50.680 --> 10:53.360
+that's about the scale of the physics computing.
+
+10:53.400 --> 10:56.480
+For Yo-Yo, what was really driving it was
+
+10:56.480 --> 10:59.480
+he's completely unsentimental about the Strad.
+
+10:59.480 --> 11:02.200
+It's not that it makes some magical wiggles
+
+11:02.200 --> 11:05.960
+in the sound wave, it's performance as a controller,
+
+11:05.960 --> 11:09.840
+how he can manipulate it as an interface device.
+
+11:09.840 --> 11:11.400
+Interface between what and what exactly?
+
+11:11.400 --> 11:12.840
+Him and sound.
+
+11:12.840 --> 11:13.880
+Okay, him and sound.
+
+11:13.880 --> 11:15.680
+So what it led to was,
+
+11:15.680 --> 11:18.040
+I had started by thinking about ops per second,
+
+11:18.040 --> 11:23.040
+but Yo-Yo's question was really resolution and bandwidth.
+
+11:23.120 --> 11:27.200
+It's how fast can you measure what he does
+
+11:27.200 --> 11:32.200
+and the bandwidth and the resolution
+
+11:32.880 --> 11:36.160
+of detecting his controls
+
+11:36.160 --> 11:38.400
+and then mapping them into sounds.
+
+11:38.400 --> 11:41.680
+And what we found, what he found was
+
+11:41.680 --> 11:44.080
+if you instrument everything he does
+
+11:44.080 --> 11:46.920
+and connect it to almost anything,
+
+11:46.920 --> 11:48.560
+it sounds like Yo-Yo,
+
+11:48.560 --> 11:51.160
+that the magic is in the control,
+
+11:51.160 --> 11:55.720
+not in ineffable details in how the wood wiggles.
+
+11:55.720 --> 11:57.560
+And so with Yo-Yo and Todd,
+
+11:57.560 --> 11:59.520
+that led to a piece and towards the end,
+
+11:59.520 --> 12:01.760
+I asked Yo-Yo what it would take for him
+
+12:01.760 --> 12:03.760
+to get rid of his Strad and use our stuff.
+
+12:03.760 --> 12:05.400
+And his answer was just logistics.
+
+12:05.400 --> 12:07.080
+It was at that time,
+
+12:07.080 --> 12:09.080
+our stuff was like a rack of electronics
+
+12:09.080 --> 12:12.560
+and lots of cables and some grad students to make it work.
+
+12:12.560 --> 12:16.080
+Once the technology becomes as invisible as the Strad,
+
+12:16.080 --> 12:19.040
+then sure, absolutely he would take it.
+
+12:19.160 --> 12:22.040
+And by the way, as a footnote on the footnote,
+
+12:22.040 --> 12:25.120
+an accident in the sensing of Yo-Yo's cello
+
+12:25.120 --> 12:27.800
+led to a hundred million dollar a year auto safety business
+
+12:27.800 --> 12:29.880
+to control airbags and cars.
+
+12:29.880 --> 12:31.240
+How did that work?
+
+12:31.240 --> 12:34.000
+I had to instrument the bow without interfering with it.
+
+12:34.000 --> 12:38.120
+So I set up local electromagnetic fields
+
+12:38.120 --> 12:42.080
+where I would detect how those fields
+
+12:42.080 --> 12:45.360
+interact with the bow he's playing.
+
+12:45.360 --> 12:47.760
+But we had a problem that his hand,
+
+12:47.760 --> 12:49.640
+whenever his hand got near the sensing fields,
+
+12:49.640 --> 12:51.040
+I would start sensing his hand
+
+12:51.040 --> 12:53.600
+rather than the materials on the bow.
+
+12:53.600 --> 12:57.480
+And I didn't quite understand what was going on
+
+12:57.480 --> 13:00.160
+with that interference.
+
+13:00.160 --> 13:04.920
+So my very first grad student ever, Josh Smith,
+
+13:04.920 --> 13:07.440
+did a thesis on tomography with electric fields,
+
+13:07.440 --> 13:10.400
+how to see in 3D with electric fields.
+
+13:10.400 --> 13:13.360
+Then through Todd and at that point,
+
+13:13.360 --> 13:15.720
+a research scientist in my lab, Joe Paradiso,
+
+13:15.720 --> 13:18.480
+it led to a collaboration with Penn and Teller,
+
+13:20.000 --> 13:23.040
+where we did a magic trick in Las Vegas to contact Houdini.
+
+13:23.040 --> 13:25.680
+And sort of these fields are sort of like,
+
+13:25.680 --> 13:27.120
+contacting spirits.
+
+13:28.200 --> 13:30.480
+So we did a magic trick in Las Vegas.
+
+13:30.480 --> 13:34.480
+And then the crazy thing that happened after that was,
+
+13:34.480 --> 13:37.800
+Phil Ritmuller came running into my lab.
+
+13:37.800 --> 13:42.160
+He worked with, this became with Honda and NEC,
+
+13:42.160 --> 13:45.640
+airbags were killing infants in rear-facing child seats,
+
+13:46.560 --> 13:49.520
+and cars need to distinguish a front-facing adult
+
+13:49.520 --> 13:52.520
+where you'd save the life versus a bag of groceries
+
+13:52.520 --> 13:53.880
+where you don't need to fire the airbag
+
+13:53.880 --> 13:56.360
+versus a rear-facing infant where you would kill it.
+
+13:56.360 --> 13:59.560
+And so the seat need to in effect see in 3D
+
+13:59.560 --> 14:01.120
+to understand the occupants.
+
+14:01.120 --> 14:05.080
+And so we took the Penn and Teller magic trick
+
+14:05.080 --> 14:08.600
+derived from Josh's thesis from Yo-Yo's cello
+
+14:08.600 --> 14:10.000
+to an auto show.
+
+14:10.000 --> 14:11.120
+And all the car companies said,
+
+14:11.120 --> 14:12.800
+great, when can we buy it?
+
+14:12.800 --> 14:14.480
+And so that became elicis,
+
+14:14.760 --> 14:16.800
+it was a hundred million dollar a year business
+
+14:16.800 --> 14:17.720
+making sensors.
+
+14:17.720 --> 14:20.080
+There wasn't a lot of publicity because it was in the car
+
+14:20.080 --> 14:22.160
+so the car didn't kill you.
+
+14:22.160 --> 14:24.480
+So they didn't sort of advertise,
+
+14:24.480 --> 14:26.720
+we have nice sensors so the car doesn't kill you.
+
+14:26.720 --> 14:28.880
+But it became a leading auto safety sensor.
+
+14:28.880 --> 14:30.600
+And that started from the cello
+
+14:30.600 --> 14:33.280
+and the question of the computational capacity
+
+14:33.280 --> 14:34.720
+of the musical instrument.
+
+14:34.720 --> 14:39.320
+So now to get back to MIT,
+
+14:39.320 --> 14:42.240
+I was spending a lot of outside time at IBM research
+
+14:42.240 --> 14:45.080
+that had gods of the foundations of computing.
+
+14:46.240 --> 14:48.240
+There's just amazing people there.
+
+14:48.240 --> 14:52.320
+And I'd always expected to go to IBM to take over a lab,
+
+14:52.320 --> 14:57.080
+but at the last minute pivoted and came to MIT
+
+14:57.080 --> 15:02.080
+to take a position in the media lab
+
+15:02.480 --> 15:05.480
+and start what became the predecessor to CBA.
+
+15:05.480 --> 15:09.920
+Media lab is well known for Nicholas Negroponte.
+
+15:09.920 --> 15:13.440
+What's less well known is the role of Jerry Wiesner.
+
+15:13.440 --> 15:15.720
+So Jerry was MIT's president
+
+15:15.720 --> 15:20.120
+before that Kennedy science advisor grand old man of science.
+
+15:20.120 --> 15:21.760
+At the end of his life,
+
+15:21.760 --> 15:25.920
+he was frustrated by how knowledge was segregated.
+
+15:25.920 --> 15:28.240
+And so he wanted to create a department
+
+15:28.240 --> 15:30.120
+of none of the above,
+
+15:30.120 --> 15:33.560
+a department for work that didn't fit in departments.
+
+15:33.560 --> 15:37.120
+And the media lab in a sense was a cover story
+
+15:37.120 --> 15:38.560
+for him to hide a department.
+
+15:39.320 --> 15:42.280
+As MIT's president towards the end of his tenure,
+
+15:42.280 --> 15:44.080
+if he said, I'm gonna make a department
+
+15:44.080 --> 15:45.600
+for things that don't fit in departments,
+
+15:45.600 --> 15:47.640
+the departments would have screamed.
+
+15:47.640 --> 15:49.440
+But everybody was sort of paying attention
+
+15:49.440 --> 15:50.960
+to Nicholas creating the media lab
+
+15:50.960 --> 15:53.680
+and Jerry kind of hid in it a department
+
+15:53.680 --> 15:55.240
+called media arts and sciences.
+
+15:55.240 --> 15:57.920
+It's really the department of none of the above.
+
+15:57.920 --> 16:00.880
+And Jerry explaining that and Nicholas then confirming
+
+16:00.880 --> 16:03.800
+it is really why I pivoted and went to MIT.
+
+16:04.800 --> 16:07.480
+Because my students who helped create quantum computing
+
+16:07.480 --> 16:11.400
+or synthetic life get degrees from media arts and sciences,
+
+16:11.400 --> 16:13.520
+this department of none of the above.
+
+16:14.560 --> 16:19.560
+So that led to coming to MIT with Todd and Joe Paradiso
+
+16:21.160 --> 16:23.000
+and Mike Hawley, we started a consortium
+
+16:23.000 --> 16:24.280
+called Things That Think.
+
+16:24.280 --> 16:27.280
+And this was around the birth of internet of things
+
+16:27.280 --> 16:29.800
+and RFID.
+
+16:29.800 --> 16:32.880
+But then we started doing things like work we can discuss
+
+16:32.880 --> 16:35.280
+that became the beginnings of quantum computing
+
+16:35.280 --> 16:37.320
+and cryptography and materials
+
+16:38.040 --> 16:39.880
+and logic and microfluidics.
+
+16:39.880 --> 16:44.880
+And those needed much more significant infrastructure
+
+16:45.240 --> 16:47.200
+and were much longer research arcs.
+
+16:47.200 --> 16:50.560
+So with a bigger team of about 20 people,
+
+16:50.560 --> 16:54.120
+we wrote a proposal to the NSF to assemble one of every tool
+
+16:54.120 --> 16:57.600
+to make anything of any size was roughly the proposal.
+
+16:57.600 --> 17:01.520
+One of any tool to make anything of any size.
+
+17:01.520 --> 17:05.520
+Yeah, so they're usually nanometers, micrometers,
+
+17:05.520 --> 17:07.800
+millimeters, meters are segregated,
+
+17:07.800 --> 17:10.640
+input and output is segregated.
+
+17:10.640 --> 17:12.960
+We wanted to look just very literally
+
+17:12.960 --> 17:16.920
+how digital becomes physical and physical becomes digital.
+
+17:16.920 --> 17:21.600
+And fortunately, we got NSF on a good day
+
+17:21.600 --> 17:25.520
+and they funded this facility of one of almost every tool
+
+17:25.520 --> 17:27.040
+to make anything.
+
+17:27.040 --> 17:32.040
+And so with a group of core colleagues
+
+17:32.800 --> 17:36.960
+that included Joe Jacobson, Ike Trang, Scott Manalis,
+
+17:36.960 --> 17:38.280
+we launched CBA.
+
+17:39.560 --> 17:42.840
+And so you're talking about nanoscale, microscale,
+
+17:42.840 --> 17:45.600
+nanostructures, microstructures, macrostructures,
+
+17:45.600 --> 17:48.200
+electron microscopes and focused ion beam probes
+
+17:48.200 --> 17:52.680
+for nanostructures, laser, micromachining and x-ray,
+
+17:52.680 --> 17:55.320
+microtomography for microstructures,
+
+17:55.320 --> 17:57.880
+multi-axis machining and 3D printing for macrostructures,
+
+17:57.880 --> 17:59.080
+just some examples.
+
+17:59.080 --> 18:00.680
+What are we talking about in terms of scale?
+
+18:00.680 --> 18:04.040
+How can we build tiny things and big things
+
+18:04.040 --> 18:04.880
+all in one place?
+
+18:04.880 --> 18:07.680
+Yeah, so a well-equipped research lab
+
+18:07.680 --> 18:09.880
+has the sort of tools we're talking about,
+
+18:09.880 --> 18:12.280
+but they're segregated in different places.
+
+18:12.280 --> 18:16.440
+They're typically also run by technicians
+
+18:16.440 --> 18:19.520
+where you then have an account and a project and you charge.
+
+18:19.520 --> 18:22.040
+All of these tools are essentially
+
+18:22.040 --> 18:23.400
+when you don't know what you're doing,
+
+18:23.400 --> 18:25.000
+not when you do know what you're doing,
+
+18:25.000 --> 18:28.240
+in that they're when you need to work across length scales
+
+18:28.240 --> 18:33.000
+where we don't, once projects are running in this facility,
+
+18:33.000 --> 18:36.320
+we don't charge for time,
+
+18:36.320 --> 18:38.960
+you don't make a formal proposal to schedule
+
+18:38.960 --> 18:40.800
+and the users really run the tools
+
+18:40.800 --> 18:42.920
+and it's for work that's kind of in co-eight
+
+18:42.920 --> 18:46.520
+that needs to span these disciplines and length scales.
+
+18:46.520 --> 18:51.520
+And so work in the project today,
+
+18:51.720 --> 18:55.840
+work in CBA today ranges from developing
+
+18:55.880 --> 18:59.200
+zeptojoule electronics for the lowest power computing
+
+18:59.200 --> 19:03.560
+to micro machining diamond to take 10 million RPM bearings
+
+19:03.560 --> 19:06.320
+for molecular spectroscopy studies
+
+19:06.320 --> 19:11.320
+up to exploring robots to build 100-meter structures in space.
+
+19:12.800 --> 19:15.920
+Okay, can we, the three things you just mentioned,
+
+19:15.920 --> 19:17.760
+let's start with the biggest.
+
+19:17.760 --> 19:20.360
+What are some of the biggest stuff you attempted
+
+19:20.360 --> 19:22.280
+to explore how to build in the lab?
+
+19:22.280 --> 19:26.080
+Sure, so viewed from one direction,
+
+19:26.080 --> 19:29.920
+what we're talking about is a crazy random seeming
+
+19:29.920 --> 19:32.680
+of almost unrelated projects.
+
+19:32.680 --> 19:34.360
+But if you rotate 90 degrees,
+
+19:34.360 --> 19:37.920
+it's really just a core thought over and over again,
+
+19:37.920 --> 19:41.280
+just very literally how bits and atoms relate,
+
+19:41.280 --> 19:44.640
+how digital and just going from digital to physical
+
+19:44.640 --> 19:45.760
+in many different domains,
+
+19:45.760 --> 19:48.720
+but it's really just the same idea over and over again.
+
+19:48.720 --> 19:50.760
+So to understand the biggest things,
+
+19:51.440 --> 19:56.440
+let me go back to bring in now Shannon
+
+19:56.920 --> 19:59.240
+as well as von Neumann.
+
+19:59.240 --> 20:00.080
+Claude Shannon.
+
+20:00.080 --> 20:02.560
+Yeah, so what is digital?
+
+20:04.200 --> 20:08.280
+The casual obvious answer is digital in one and zero,
+
+20:08.280 --> 20:09.680
+but that's wrong.
+
+20:09.680 --> 20:11.040
+There's a much deeper answer,
+
+20:11.040 --> 20:16.040
+which is Claude Shannon at MIT
+
+20:16.240 --> 20:18.480
+wrote the best master's thesis ever.
+
+20:18.480 --> 20:19.720
+In his master's thesis,
+
+20:19.720 --> 20:23.560
+he invented our modern notion of digital logic.
+
+20:23.560 --> 20:27.280
+Where it came from was Vannevar Bush
+
+20:28.200 --> 20:30.360
+was a grand old man at MIT.
+
+20:30.360 --> 20:33.320
+He created the post-war research establishment
+
+20:33.320 --> 20:35.480
+that led to the National Science Foundation.
+
+20:35.480 --> 20:38.600
+And he made an important mistake, which we can talk about,
+
+20:38.600 --> 20:41.840
+but he also made the differential analyzer,
+
+20:41.840 --> 20:44.080
+which was the last great analog computer.
+
+20:44.080 --> 20:46.160
+So it was a room full of gears and pulleys
+
+20:46.160 --> 20:48.960
+and the longer it ran, the worse the answer was.
+
+20:48.960 --> 20:52.480
+And Shannon worked on it as a student
+
+20:52.480 --> 20:55.040
+and he got so annoyed in his master's thesis,
+
+20:55.040 --> 20:57.640
+he invented digital logic.
+
+20:57.640 --> 20:59.680
+But he then went on to Bell Labs
+
+20:59.680 --> 21:03.040
+and what he did there was communication
+
+21:03.040 --> 21:05.160
+was beginning to expand.
+
+21:05.160 --> 21:07.480
+There was more demand for phone lines.
+
+21:07.480 --> 21:11.760
+And so there's a question about how many phone lines,
+
+21:11.760 --> 21:14.560
+you could phone messages you could send down a wire.
+
+21:15.400 --> 21:17.920
+And you could try to just make it better and better.
+
+21:17.920 --> 21:19.840
+He asked a question nobody had asked,
+
+21:19.840 --> 21:21.720
+which is rather than make it better and better,
+
+21:21.720 --> 21:23.760
+what's the limit to how good it can be?
+
+21:23.760 --> 21:26.840
+And he proved a couple things,
+
+21:26.840 --> 21:28.600
+but one of the main things he proved
+
+21:28.600 --> 21:32.640
+was a threshold theorem for channel capacity.
+
+21:32.640 --> 21:36.480
+And so what he showed was my voice to you right now
+
+21:36.480 --> 21:38.440
+is coming as a wave through sound
+
+21:38.440 --> 21:40.880
+and the further you get, the worse it sounds.
+
+21:40.880 --> 21:42.800
+But people watching this are getting it
+
+21:42.800 --> 21:46.160
+as packets of data in a network.
+
+21:47.680 --> 21:50.320
+When the computer they're watching this
+
+21:50.320 --> 21:52.760
+gets the packet of information,
+
+21:53.760 --> 21:56.920
+it can detect and correct an error.
+
+21:56.920 --> 22:00.800
+And what Shannon showed is if the noise in the cable
+
+22:00.800 --> 22:02.360
+to the people watching this
+
+22:02.360 --> 22:04.960
+is above a threshold, they're doomed.
+
+22:04.960 --> 22:07.440
+But if the noise is below a threshold,
+
+22:07.440 --> 22:10.280
+for a linear increase in the energy
+
+22:10.280 --> 22:12.400
+representing our conversation,
+
+22:12.400 --> 22:15.480
+the error rate goes down exponentially.
+
+22:15.480 --> 22:17.120
+Exponentials are fast.
+
+22:17.120 --> 22:19.520
+There's very few of them in engineering.
+
+22:19.520 --> 22:22.040
+And the exponential reduction of error
+
+22:22.040 --> 22:25.000
+below a threshold if you restore state
+
+22:25.000 --> 22:27.200
+is called a threshold theorem.
+
+22:27.200 --> 22:29.200
+That's what led to digital.
+
+22:29.200 --> 22:32.240
+That means unreliable things can work reliably.
+
+22:32.240 --> 22:34.840
+So Shannon did that for communication.
+
+22:34.840 --> 22:38.560
+Then von Neumann was inspired by that
+
+22:38.560 --> 22:40.760
+and applied it to computation.
+
+22:40.760 --> 22:43.040
+And he showed how an unreliable computer
+
+22:43.040 --> 22:45.720
+can operate reliably by using the same
+
+22:45.720 --> 22:48.080
+threshold property of restoring state.
+
+22:48.080 --> 22:49.520
+It was then forgotten many years.
+
+22:49.520 --> 22:51.240
+We had to rediscover it in effect
+
+22:51.240 --> 22:52.880
+in the quantum computing era
+
+22:52.880 --> 22:54.840
+when things are very unreliable again.
+
+22:55.880 --> 22:58.560
+But now to go back to how does this relate
+
+22:58.560 --> 23:00.520
+to the biggest things I've made.
+
+23:00.520 --> 23:05.520
+So in fabrication, MIT invented
+
+23:06.360 --> 23:10.080
+computer-controlled manufacturing in 1952.
+
+23:10.080 --> 23:12.360
+Jet aircraft were just emerging.
+
+23:12.360 --> 23:16.720
+There was a limit to turning cranks on a milling machine
+
+23:16.720 --> 23:19.680
+to make parts for jet aircraft.
+
+23:19.680 --> 23:21.000
+Now, this is a messy story.
+
+23:21.000 --> 23:23.640
+MIT actually stole computer-controlled machining
+
+23:23.640 --> 23:25.920
+from an inventor who brought it to MIT,
+
+23:25.920 --> 23:28.280
+wanted to do a joint project with the Air Force,
+
+23:28.280 --> 23:30.040
+and MIT effectively stole it from him.
+
+23:30.040 --> 23:32.400
+So it's kind of a messy history.
+
+23:32.400 --> 23:35.040
+But that sounds like the birth
+
+23:35.040 --> 23:37.960
+of computer-controlled machining, 1952.
+
+23:39.040 --> 23:42.160
+There are a number of inventors of 3D printing.
+
+23:42.160 --> 23:44.240
+One of the companies spun off from my lab
+
+23:44.240 --> 23:45.920
+by Max Lebowski is Form Labs,
+
+23:45.920 --> 23:48.800
+which is now a billion-dollar 3D printing company.
+
+23:48.800 --> 23:50.680
+That's the modern version.
+
+23:50.680 --> 23:53.240
+But all of that's analog,
+
+23:53.240 --> 23:56.120
+meaning the information is in the control computer.
+
+23:56.120 --> 23:58.040
+There's no information in the materials.
+
+23:58.040 --> 24:01.640
+And so it goes back to Vannevar Bush's analog computer.
+
+24:01.680 --> 24:04.480
+If you make a mistake in printing or machining,
+
+24:04.480 --> 24:06.920
+just the mistake accumulates.
+
+24:06.920 --> 24:11.920
+The real birth of computerized digital manufacturing
+
+24:12.120 --> 24:14.080
+is four billion years ago.
+
+24:14.080 --> 24:16.960
+That's the evolutionary age of the ribosome.
+
+24:16.960 --> 24:21.120
+So the way you're manufactured
+
+24:21.120 --> 24:26.120
+is there's a code that describes you, the genetic code.
+
+24:26.440 --> 24:30.600
+It goes to a micro machine, the ribosome,
+
+24:30.600 --> 24:32.320
+which is this molecular factory
+
+24:32.320 --> 24:36.360
+that builds the molecules that are you.
+
+24:37.320 --> 24:38.960
+The key thing to know about that
+
+24:38.960 --> 24:43.520
+is there are about 20 amino acids that get assembled.
+
+24:43.520 --> 24:45.360
+And in that machinery,
+
+24:45.360 --> 24:47.880
+it does everything Shannon and Von Neumann taught us.
+
+24:47.880 --> 24:49.560
+You detect and correct errors.
+
+24:49.560 --> 24:51.520
+So if you mix chemicals,
+
+24:51.520 --> 24:54.000
+the error rate is about a part in 100.
+
+24:54.000 --> 24:57.000
+When you elongate a protein in the ribosome,
+
+24:57.000 --> 24:59.080
+it's about a part in 10 to the four.
+
+24:59.080 --> 25:00.920
+When you replicate DNA,
+
+25:00.920 --> 25:03.200
+there's an extra level of error correction.
+
+25:03.200 --> 25:05.240
+It's a part in 10 to the eight.
+
+25:05.240 --> 25:08.520
+And so in the molecules that make you,
+
+25:08.520 --> 25:10.680
+you can detect and correct errors
+
+25:10.680 --> 25:12.720
+and you don't need a ruler to make you.
+
+25:12.720 --> 25:15.320
+The geometry comes from your parts.
+
+25:15.320 --> 25:19.440
+So now compare a child playing with Lego
+
+25:19.440 --> 25:21.680
+and a state of the art 3D printer
+
+25:21.680 --> 25:23.560
+or computerized milling machine.
+
+25:24.880 --> 25:27.160
+The tower made by a child
+
+25:27.160 --> 25:29.520
+is more accurate than their motor control
+
+25:29.520 --> 25:31.880
+because the act of snapping the bricks together
+
+25:31.880 --> 25:33.880
+gives you a constraint on the joints.
+
+25:35.000 --> 25:38.480
+You can join bricks made out of dissimilar materials.
+
+25:38.480 --> 25:40.120
+You don't need a ruler for Lego
+
+25:40.120 --> 25:42.960
+because the geometry locally gives you the global parts
+
+25:42.960 --> 25:44.520
+and there's no Lego trash.
+
+25:44.520 --> 25:47.560
+The parts have enough information to disassemble them.
+
+25:47.560 --> 25:52.200
+Those are exactly the properties of a digital code.
+
+25:52.200 --> 25:54.080
+The unreliable is made reliable.
+
+25:54.080 --> 25:55.440
+Yes, absolutely.
+
+25:55.440 --> 25:59.600
+So what the ribosome figured out four billion years ago
+
+25:59.600 --> 26:03.560
+is how to embody these digital properties,
+
+26:03.560 --> 26:08.160
+but not for communication or computation in effect,
+
+26:08.160 --> 26:09.920
+but for construction.
+
+26:09.920 --> 26:13.200
+So a number of projects in my lab
+
+26:13.200 --> 26:16.400
+have been studying the idea of digital materials.
+
+26:16.400 --> 26:20.360
+And think of a digital material just as Lego bricks.
+
+26:20.360 --> 26:24.320
+The precise meaning is a discrete set of parts
+
+26:24.320 --> 26:28.320
+reversibly joined with global geometry
+
+26:28.320 --> 26:30.560
+determined from local constraints.
+
+26:30.560 --> 26:33.360
+And so it's digitizing the materials.
+
+26:33.360 --> 26:34.600
+And so I'm coming back to
+
+26:34.600 --> 26:36.360
+what are the biggest things I've made.
+
+26:36.360 --> 26:38.760
+My lab was working with the aerospace industry.
+
+26:38.760 --> 26:42.000
+So Spirit Aero was Boeing's factories.
+
+26:42.000 --> 26:44.640
+They asked us for how to join composites.
+
+26:44.640 --> 26:46.440
+When you make a composite airplane,
+
+26:46.440 --> 26:48.840
+you make these giant wing and fuselage parts.
+
+26:48.840 --> 26:52.200
+And they asked us for a better way to stick them together
+
+26:52.200 --> 26:54.480
+because the joints were a place of failure.
+
+26:54.480 --> 26:57.480
+And what we discovered was
+
+26:57.480 --> 26:59.680
+instead of making a few big parts,
+
+26:59.680 --> 27:02.880
+if you make little loops of carbon fiber
+
+27:02.880 --> 27:06.200
+and you reversibly link them in joints
+
+27:06.200 --> 27:09.000
+and you do it in a special geometry
+
+27:09.000 --> 27:12.400
+that balances being under constrained and over constrained
+
+27:12.400 --> 27:14.760
+with just the right degrees of freedom,
+
+27:14.760 --> 27:16.400
+we set the world record
+
+27:16.400 --> 27:20.120
+for the highest modulus ultra light material
+
+27:20.160 --> 27:24.560
+just by in effect making carbon fiber Lego.
+
+27:24.560 --> 27:29.240
+So lightweight materials are crucial for energy efficiency.
+
+27:29.240 --> 27:32.280
+This let us make that the lightest weight
+
+27:32.280 --> 27:34.000
+high modulus material.
+
+27:34.000 --> 27:37.720
+We then showed that with just a few part types,
+
+27:37.720 --> 27:39.920
+we can tune the material properties
+
+27:39.920 --> 27:43.240
+and then you can create really wild robots
+
+27:43.240 --> 27:45.920
+that instead of having a tool the size of a jumbo jet
+
+27:45.920 --> 27:47.000
+to make a jumbo jet,
+
+27:47.000 --> 27:48.560
+you can make little robots
+
+27:48.560 --> 27:50.680
+that walk on these cellular structures
+
+27:50.680 --> 27:52.240
+to build the structures
+
+27:52.240 --> 27:54.600
+where they error correct their position on the structure
+
+27:54.600 --> 27:56.680
+and they navigate on the structure.
+
+27:56.680 --> 28:01.680
+And so using all of that with NASA,
+
+28:02.040 --> 28:04.560
+we made morphing airplanes.
+
+28:04.560 --> 28:08.400
+A former student Kenny Chung and Ben Jeanette
+
+28:08.400 --> 28:09.360
+made a morphing airplane
+
+28:09.360 --> 28:12.000
+the size of NASA Langley's biggest wind tunnel.
+
+28:12.000 --> 28:15.640
+With Toyota, we've made super efficiency race cars.
+
+28:15.640 --> 28:18.000
+We're right now looking at projects with NASA
+
+28:18.040 --> 28:20.200
+to build these for things like space telescopes
+
+28:20.200 --> 28:23.680
+and space habitats where the ribosome
+
+28:23.680 --> 28:25.200
+who I mentioned a little while back
+
+28:25.200 --> 28:28.160
+can make an elephant one molecule at a time.
+
+28:28.160 --> 28:29.960
+Ribosomes are slow.
+
+28:29.960 --> 28:32.080
+They run at about one molecule a second,
+
+28:32.080 --> 28:34.280
+but ribosomes make ribosomes.
+
+28:34.280 --> 28:37.200
+So you have thousands of them, trillions of them
+
+28:37.200 --> 28:38.640
+and that makes an elephant.
+
+28:38.640 --> 28:40.680
+In the same way, these little assembly robots
+
+28:40.680 --> 28:44.600
+I'm describing can make giant structures at heart
+
+28:44.600 --> 28:47.520
+because the robot can make the robot.
+
+28:47.520 --> 28:51.080
+So more recently, two of my students, Amira and Mianna,
+
+28:51.080 --> 28:53.480
+had a nature communication paper showing
+
+28:53.480 --> 28:58.040
+how this robot can be made out of the parts it's making
+
+28:58.040 --> 28:59.800
+so the robots can make the robot
+
+28:59.800 --> 29:02.320
+so you build up the capacity of robotic assembly.
+
+29:02.320 --> 29:03.160
+It can self-replicate.
+
+29:03.160 --> 29:05.120
+Can you linger on what that robot looks like?
+
+29:05.120 --> 29:08.560
+What is a robot that can walk along and do error correction
+
+29:08.560 --> 29:11.880
+and what is a robot that can self-replicate
+
+29:13.200 --> 29:14.800
+from the materials it is given?
+
+29:14.800 --> 29:15.640
+What does that look like?
+
+29:15.640 --> 29:17.000
+What are we talking about?
+
+29:17.000 --> 29:17.840
+That's fascinating.
+
+29:17.840 --> 29:21.720
+Yeah, the answer is different at different length scales.
+
+29:21.720 --> 29:24.600
+So to explain that, in biology,
+
+29:24.600 --> 29:28.600
+primary structure is the code in the messenger RNA
+
+29:28.600 --> 29:31.280
+that says what the ribosome should build.
+
+29:31.280 --> 29:33.880
+Secondary structure are geometrical motifs.
+
+29:33.880 --> 29:35.920
+They're things like helices or sheets.
+
+29:35.920 --> 29:38.600
+Tertiary structures are functional elements
+
+29:38.600 --> 29:41.000
+like electron donors or acceptors.
+
+29:41.000 --> 29:46.000
+Quaternary structure is things like molecular motors
+
+29:46.000 --> 29:47.200
+that are moving my mouth
+
+29:47.200 --> 29:49.520
+or making the synapses work in my brain.
+
+29:49.520 --> 29:51.480
+So there's that hierarchy of primary,
+
+29:51.480 --> 29:53.880
+secondary, tertiary, quaternary.
+
+29:53.880 --> 29:58.400
+Now what's interesting is if you want to buy electronics
+
+29:58.400 --> 30:02.160
+today from a vendor, there are hundreds of thousands
+
+30:02.160 --> 30:06.400
+of types of resistors or capacitors or transistors.
+
+30:06.400 --> 30:07.760
+Huge inventory.
+
+30:07.760 --> 30:09.960
+All of biology is just made from this inventory
+
+30:09.960 --> 30:11.680
+of 20 parts, the amino acids.
+
+30:11.680 --> 30:14.360
+And by composing them, you can create all of life.
+
+30:14.520 --> 30:19.520
+And so as part of this digitization of materials,
+
+30:20.680 --> 30:22.840
+we're in effect trying to create something
+
+30:22.840 --> 30:24.480
+like amino acids for engineering,
+
+30:24.480 --> 30:27.760
+creating all of technology from 20 parts.
+
+30:30.400 --> 30:31.280
+As another discretion,
+
+30:31.280 --> 30:34.840
+I helped start an office for science in Hollywood.
+
+30:34.840 --> 30:38.040
+And there was a fun thing for the movie, The Martian,
+
+30:38.040 --> 30:41.120
+where I did a program with Bill Nye and a few others
+
+30:41.120 --> 30:43.520
+on how to actually build a civilization on Mars
+
+30:43.520 --> 30:45.920
+that they described in a way that I like
+
+30:45.920 --> 30:49.000
+as I was talking about how to go to Mars without luggage.
+
+30:49.000 --> 30:52.840
+And at heart, it's sort of how to create life
+
+30:52.840 --> 30:54.280
+in non-living materials.
+
+30:54.280 --> 30:57.720
+So if you think about this primary, secondary, tertiary,
+
+30:57.720 --> 31:02.320
+quaternary structure, in my lab, we're doing that,
+
+31:02.320 --> 31:04.440
+but on different length scales for different purposes.
+
+31:04.440 --> 31:08.640
+So we're making micro robots out of like nanobricks
+
+31:08.640 --> 31:11.720
+and to make the robots to build
+
+31:11.720 --> 31:14.000
+large scale structures in space,
+
+31:14.000 --> 31:16.920
+the elements of the robots now are centimeters
+
+31:16.920 --> 31:19.360
+rather than micrometers.
+
+31:19.360 --> 31:23.200
+And so the assembly robots for the bigger structures are,
+
+31:25.640 --> 31:27.840
+there are the cells that make up the structure,
+
+31:27.840 --> 31:29.520
+but then we have functional cells.
+
+31:29.520 --> 31:32.400
+And so cells that can process and actuate,
+
+31:32.400 --> 31:35.320
+each cell can like move one degree of freedom
+
+31:35.320 --> 31:40.320
+or attach or detach or process.
+
+31:40.400 --> 31:43.080
+Now, those elements I just described,
+
+31:43.080 --> 31:45.280
+we can make out of the still smaller parts.
+
+31:45.280 --> 31:47.720
+So eventually there's a hierarchy of the little parts
+
+31:47.720 --> 31:51.080
+make little robots that make bigger parts of bigger robots
+
+31:51.080 --> 31:52.560
+up through that hierarchy.
+
+31:52.560 --> 31:54.400
+And that way you can move up the line scale.
+
+31:54.400 --> 31:57.320
+Right, early on I tried to go in a straight line
+
+31:57.320 --> 31:58.480
+from the bottom to the top,
+
+31:58.480 --> 32:00.400
+and that ended up being a bad idea.
+
+32:00.400 --> 32:02.880
+Instead, we're kind of doing all of these in parallel,
+
+32:02.880 --> 32:04.760
+and then they're growing together.
+
+32:04.800 --> 32:08.320
+And so to make the larger scale structures,
+
+32:08.320 --> 32:10.240
+like there's a lot of hype right now
+
+32:10.240 --> 32:11.520
+about 3D printing houses,
+
+32:11.520 --> 32:13.840
+where you have a printer the size of the house.
+
+32:13.840 --> 32:15.760
+We're right now working on using swarms
+
+32:15.760 --> 32:19.560
+of these table scale robots that walk on the structures
+
+32:19.560 --> 32:22.360
+to place the parts much more efficiently.
+
+32:22.360 --> 32:23.720
+That's amazing.
+
+32:23.720 --> 32:25.880
+But you're saying you can't for now go
+
+32:25.880 --> 32:27.840
+from the very small to the very large.
+
+32:27.840 --> 32:29.480
+That'll come.
+
+32:29.480 --> 32:30.800
+That'll come in stages.
+
+32:30.800 --> 32:33.000
+Can we just linger on this idea?
+
+32:33.000 --> 32:36.600
+Starting from von Neumann's self-replicating automata
+
+32:36.600 --> 32:39.640
+that you mentioned, it's just a beautiful idea.
+
+32:39.640 --> 32:41.600
+So that's at the heart of all of this.
+
+32:41.600 --> 32:42.920
+In the stack I described,
+
+32:42.920 --> 32:44.840
+so one student, Will Langford,
+
+32:44.840 --> 32:47.520
+made these micro robots out of little parts
+
+32:47.520 --> 32:50.720
+that then we're using for Mianna's bigger robots
+
+32:50.720 --> 32:52.200
+up through this hierarchy.
+
+32:52.200 --> 32:54.480
+And it's really realizing this idea
+
+32:54.480 --> 32:56.040
+of the self-reproducing automata.
+
+32:56.040 --> 32:58.480
+So von Neumann, when I complained
+
+32:58.480 --> 33:01.400
+about the von Neumann architecture,
+
+33:01.400 --> 33:02.800
+it's not fair to von Neumann
+
+33:03.600 --> 33:04.840
+because he never claimed it as his architecture.
+
+33:04.840 --> 33:07.320
+He really wrote about it in this one fairly dreadful memo
+
+33:07.320 --> 33:09.960
+that led to all sorts of lawsuits and fights
+
+33:09.960 --> 33:11.880
+about the early days of computing.
+
+33:11.880 --> 33:15.600
+He did beautiful work on reliable computation
+
+33:15.600 --> 33:17.080
+and on reliable devices.
+
+33:17.080 --> 33:18.480
+And towards the end of his life,
+
+33:18.480 --> 33:21.520
+what he studied was how,
+
+33:21.520 --> 33:24.080
+and I have to say this precisely,
+
+33:24.080 --> 33:27.520
+how a computation communicates its own construction.
+
+33:27.520 --> 33:29.000
+Yeah, so beautiful.
+
+33:29.000 --> 33:34.000
+So a computation can store a description
+
+33:34.040 --> 33:36.000
+of how to build itself.
+
+33:36.000 --> 33:38.680
+But now there's a really hard problem,
+
+33:38.680 --> 33:43.520
+which is if you have that in your mind,
+
+33:43.520 --> 33:46.600
+how do you transfer it
+
+33:46.600 --> 33:50.320
+and wake up a thing that then can contain it?
+
+33:50.320 --> 33:51.760
+So how do you give birth to a thing
+
+33:51.760 --> 33:53.680
+that knows how to make itself?
+
+33:53.680 --> 33:56.360
+And so with Stan Ulam,
+
+33:56.360 --> 34:00.280
+he invented cellular automata as a way to simulate these.
+
+34:01.760 --> 34:03.960
+But that was theoretical.
+
+34:03.960 --> 34:05.920
+Now the work I'm describing in my lab
+
+34:05.920 --> 34:08.480
+is fundamentally how to realize it,
+
+34:08.480 --> 34:13.160
+how to realize self-reproducing automata.
+
+34:13.160 --> 34:16.880
+And so this is something von Neumann thought very deeply
+
+34:16.880 --> 34:19.640
+and very beautifully about theoretically.
+
+34:19.640 --> 34:22.360
+And it's right at this intersection.
+
+34:22.360 --> 34:27.280
+It's not communication or computation or fabrication.
+
+34:27.280 --> 34:28.640
+It's right at this intersection
+
+34:28.640 --> 34:31.360
+where communication and computation meets fabrication.
+
+34:32.280 --> 34:35.280
+Now the reason self-reproducing automata
+
+34:35.280 --> 34:36.800
+intellectually is so important
+
+34:36.800 --> 34:38.480
+because this is the foundation of life.
+
+34:38.480 --> 34:42.080
+This is really just understanding the essence of how to life.
+
+34:42.080 --> 34:42.920
+And in effect,
+
+34:42.920 --> 34:45.360
+we're trying to create life in non-living material.
+
+34:45.360 --> 34:48.360
+The reason it's so important technologically
+
+34:48.360 --> 34:50.800
+is because that's how you scale capacity.
+
+34:50.800 --> 34:53.520
+That's how you can make an elephant from a ribosome
+
+34:53.520 --> 34:56.320
+because the assemblers make assemblers.
+
+34:56.320 --> 34:58.320
+So simple building blocks
+
+34:58.320 --> 35:01.160
+that inside themselves contain the information
+
+35:01.160 --> 35:03.400
+how to build more building blocks
+
+35:03.400 --> 35:08.240
+and between each other construct arbitrarily complex objects.
+
+35:08.240 --> 35:09.800
+Now let me give you the numbers.
+
+35:09.800 --> 35:11.840
+So let me relate this to right now
+
+35:11.840 --> 35:15.840
+we're living in AI mania explosion time.
+
+35:15.840 --> 35:18.960
+Let me relate that to what we're talking about.
+
+35:19.840 --> 35:22.360
+A hundred petaflop computer,
+
+35:22.360 --> 35:27.360
+which is a current generation supercomputer,
+
+35:27.400 --> 35:29.960
+not quite the biggest ones,
+
+35:29.960 --> 35:32.880
+does 10 to the 17 ops per second.
+
+35:32.880 --> 35:35.760
+Your brain does 10 to the 17 ops per second.
+
+35:35.760 --> 35:38.040
+It has about 10 to the 15 synapses
+
+35:38.040 --> 35:40.120
+and they run at about a hundred Hertz.
+
+35:40.120 --> 35:43.120
+So as of a year or two ago,
+
+35:43.120 --> 35:47.680
+the performance of a big computer matched a brain.
+
+35:47.680 --> 35:50.480
+So you could view AI as a breakthrough,
+
+35:50.480 --> 35:55.480
+but the real story is within about a year or two ago,
+
+35:55.760 --> 35:57.960
+and let's see that the supercomputer
+
+35:57.960 --> 36:01.480
+has about 10 to the 15 transistors in the processors,
+
+36:01.480 --> 36:03.360
+10 to the 15 transistors in the memory,
+
+36:03.360 --> 36:05.200
+which is the synapses in your brain.
+
+36:05.200 --> 36:07.760
+So the real breakthrough was the computers
+
+36:07.760 --> 36:11.640
+match the computational capacity of a brain.
+
+36:11.640 --> 36:13.120
+And so we'd be sort of derelict
+
+36:13.120 --> 36:15.520
+if they couldn't do about the same thing.
+
+36:15.520 --> 36:17.480
+But now the reason I'm mentioning that
+
+36:17.480 --> 36:22.480
+is the chip fab making the supercomputer
+
+36:23.320 --> 36:26.440
+is placing about 10 to the 10 transistors a second.
+
+36:27.360 --> 36:29.760
+While you're digesting your lunch right now,
+
+36:29.760 --> 36:33.800
+you're placing about 10 to the 18 parts per second.
+
+36:35.480 --> 36:39.120
+There's an eight order of magnitude difference.
+
+36:39.120 --> 36:42.440
+So in computational capacity, it's done, we've caught up.
+
+36:42.440 --> 36:45.040
+But there's eight orders of magnitude difference
+
+36:45.560 --> 36:47.600
+in the rate at which biology can build
+
+36:47.600 --> 36:50.840
+versus state of the art manufacturing can build.
+
+36:50.840 --> 36:52.960
+And that distinction is what we're talking about.
+
+36:52.960 --> 36:56.280
+That distinction is not analog,
+
+36:56.280 --> 36:58.800
+but this deep sense of digital fabrication,
+
+36:58.800 --> 37:01.120
+of embodying codes in construction.
+
+37:01.120 --> 37:02.880
+So a description doesn't describe a thing,
+
+37:02.880 --> 37:04.960
+but the description becomes the thing.
+
+37:04.960 --> 37:07.400
+So you're saying, I mean, this is one of the cases
+
+37:07.400 --> 37:10.440
+you're making that this is this third revolution.
+
+37:10.440 --> 37:12.560
+We've seen the Moore's law in communication,
+
+37:12.560 --> 37:15.320
+we've seen the Moore's law like type of growth
+
+37:15.320 --> 37:19.400
+in computation, and you're anticipating
+
+37:19.400 --> 37:22.160
+we're going to see that in digital fabrication.
+
+37:22.160 --> 37:23.200
+Can you actually, first of all,
+
+37:23.200 --> 37:26.440
+describe what you mean by this term, digital fabrication?
+
+37:26.440 --> 37:29.400
+So the casual meaning is the computer controls
+
+37:29.400 --> 37:31.480
+the tool to make something.
+
+37:31.480 --> 37:35.600
+And that was invented when MIT stole it in 1952.
+
+37:35.600 --> 37:36.560
+Yeah.
+
+37:36.560 --> 37:39.600
+There's the deep meaning of what the ribosome does
+
+37:39.600 --> 37:44.600
+of a digital description doesn't describe a thing,
+
+37:45.640 --> 37:48.080
+a digital description becomes the thing.
+
+37:48.080 --> 37:53.000
+That's the path to the Star Trek replicator.
+
+37:53.000 --> 37:56.280
+And that's the thing that doesn't exist yet.
+
+37:56.280 --> 37:58.520
+Now, I think the best way to understand
+
+37:58.520 --> 38:03.400
+what this roadmap looks like is to now bring in Fab Labs
+
+38:03.400 --> 38:04.760
+and how they relate to all of this.
+
+38:04.760 --> 38:05.960
+What are Fab Labs?
+
+38:05.960 --> 38:08.800
+So here's a sequence.
+
+38:09.000 --> 38:12.280
+With colleagues, I accidentally started a network
+
+38:12.280 --> 38:16.480
+of what's now 2,500 digital fabrication community labs
+
+38:16.480 --> 38:19.520
+called Fab Labs right now in 125 countries,
+
+38:19.520 --> 38:21.280
+and they double every year and a half.
+
+38:21.280 --> 38:24.240
+That's called Lass's law after Sherry Lasseter,
+
+38:24.240 --> 38:25.240
+who I'll explain.
+
+38:25.240 --> 38:26.520
+So here's the sequence.
+
+38:28.680 --> 38:31.080
+We started Center for Bits and Atoms
+
+38:31.080 --> 38:33.360
+to do the kind of research we're talking about.
+
+38:33.360 --> 38:36.880
+We had all of these machines and then had a problem.
+
+38:36.880 --> 38:38.880
+It would take a lifetime of classes
+
+38:38.880 --> 38:41.480
+to learn to use all the machines.
+
+38:41.480 --> 38:45.560
+So with colleagues who helped start CBA,
+
+38:45.560 --> 38:47.360
+we began a class modestly called
+
+38:47.360 --> 38:48.880
+How to Make Almost Anything.
+
+38:48.880 --> 38:50.160
+And there's no big agenda.
+
+38:50.160 --> 38:53.960
+It was aimed at a few research students to use the machines.
+
+38:53.960 --> 38:56.000
+And we were completely unprepared
+
+38:56.000 --> 38:57.800
+for the first time we taught it.
+
+38:57.800 --> 39:00.680
+We were swamped by, every year since,
+
+39:00.680 --> 39:02.680
+hundreds of students try to take the class.
+
+39:02.680 --> 39:05.560
+It's one of the most oversubscribed classes at MIT.
+
+39:06.560 --> 39:07.840
+Students would say things like,
+
+39:07.840 --> 39:09.280
+can you teach this at MIT?
+
+39:09.280 --> 39:10.480
+It seems too useful.
+
+39:10.480 --> 39:13.080
+It's just how to work these machines.
+
+39:13.080 --> 39:16.120
+And the students in the class,
+
+39:16.120 --> 39:18.880
+I would teach them all the skills to use all these tools.
+
+39:18.880 --> 39:20.960
+And then they would do projects integrating them.
+
+39:20.960 --> 39:21.800
+And they're amazing.
+
+39:21.800 --> 39:25.480
+So Kelly was a sculptor, no engineering background.
+
+39:25.480 --> 39:28.280
+Her project was, she made a device that saves up screams
+
+39:28.280 --> 39:30.640
+when you're mad and plays them back later.
+
+39:30.640 --> 39:31.480
+And-
+
+39:31.480 --> 39:33.320
+Saves up screams when you're mad
+
+39:33.320 --> 39:34.480
+and plays them back later.
+
+39:34.480 --> 39:37.560
+You scream into this device and it deadens the sound,
+
+39:37.560 --> 39:39.280
+records it, and then when it's convenient,
+
+39:39.280 --> 39:40.920
+releases your scream.
+
+39:40.920 --> 39:45.200
+Can we just pause on the brilliance of that invention?
+
+39:45.200 --> 39:46.320
+Creation?
+
+39:46.320 --> 39:48.160
+The art?
+
+39:48.160 --> 39:49.000
+I don't know.
+
+39:49.000 --> 39:49.840
+The brilliance?
+
+39:49.840 --> 39:50.680
+Who is this that created this?
+
+39:50.680 --> 39:51.520
+Kelly Dobson.
+
+39:51.520 --> 39:52.360
+Kelly Dobson.
+
+39:52.360 --> 39:54.200
+Gone on to do a number of interesting things.
+
+39:54.200 --> 39:57.120
+Mi Jin, who's gone on to do a number of interesting things,
+
+39:57.120 --> 39:59.840
+made a dress instrumented with sensors and spines.
+
+39:59.840 --> 40:01.280
+And when somebody creepy comes close,
+
+40:01.280 --> 40:02.880
+it would defend your personal space.
+
+40:02.880 --> 40:04.320
+They're also very useful.
+
+40:04.960 --> 40:07.920
+Another project early on was a web browser for parrots,
+
+40:07.920 --> 40:09.960
+which have the cognitive ability of a young child
+
+40:09.960 --> 40:11.680
+and lets parrots surf the internet.
+
+40:13.040 --> 40:15.640
+Another was an alarm clock you wrestle with
+
+40:15.640 --> 40:17.320
+and prove you're awake.
+
+40:17.320 --> 40:20.280
+And what connects all of these is,
+
+40:20.280 --> 40:23.360
+so MIT made the first real-time computer, the Whirlwind.
+
+40:23.360 --> 40:26.320
+That was transistorized as the TX.
+
+40:26.320 --> 40:30.520
+The TX was spun off from MIT as the PDP.
+
+40:30.520 --> 40:34.080
+PDPs were the mini computers
+
+40:34.080 --> 40:36.400
+that created the internet.
+
+40:36.400 --> 40:40.640
+So outside MIT was DEC, Prime, Wang, Data, General,
+
+40:40.640 --> 40:42.800
+the whole mini computer industry.
+
+40:42.800 --> 40:44.720
+The whole computing industry was there,
+
+40:44.720 --> 40:48.720
+and it all failed when computing became personal.
+
+40:48.720 --> 40:50.320
+Ken Olson, the head of digital,
+
+40:50.320 --> 40:52.840
+famously said, you don't need a computer at home.
+
+40:52.840 --> 40:54.080
+There's a little background to that,
+
+40:54.080 --> 40:58.640
+but DEC completely missed computing became personal.
+
+40:58.640 --> 41:01.640
+So I mention all of that because I was asking
+
+41:01.640 --> 41:03.360
+how to do digital fabrication,
+
+41:03.400 --> 41:04.680
+but not really why.
+
+41:04.680 --> 41:08.400
+The students in this how to make class were showing me
+
+41:08.400 --> 41:11.000
+that the killer app of digital fabrication
+
+41:11.000 --> 41:12.320
+is personal fabrication.
+
+41:12.320 --> 41:14.640
+Yeah, how do you jump to the personal fabrication?
+
+41:14.640 --> 41:16.880
+So Kelly didn't make the screen body
+
+41:16.880 --> 41:18.160
+because it was for a thesis.
+
+41:18.160 --> 41:20.200
+She wasn't writing a research paper.
+
+41:20.200 --> 41:23.120
+It wasn't a business model.
+
+41:23.120 --> 41:25.440
+She wanted, it was because she wanted one.
+
+41:25.440 --> 41:27.160
+It was personal expression,
+
+41:27.160 --> 41:29.560
+going back to me in vocational school,
+
+41:29.560 --> 41:33.000
+is personal expression in these new means of expression.
+
+41:33.520 --> 41:34.880
+So that's happened every year since.
+
+41:34.880 --> 41:36.200
+It literally is called,
+
+41:36.200 --> 41:37.560
+the course is literally called
+
+41:37.560 --> 41:40.680
+How to Make Almost Anything,
+
+41:40.680 --> 41:44.440
+a legendary course at MIT, every year.
+
+41:44.440 --> 41:48.560
+And it's grown to multiple labs at MIT
+
+41:48.560 --> 41:51.120
+with as many people involved in teaching as taking it.
+
+41:51.120 --> 41:53.600
+And there's even a Harvard lab for the MIT class.
+
+41:53.600 --> 41:58.600
+What have you learned about humans colliding
+
+41:58.680 --> 42:01.200
+with the fab lab, about the capacity of humans
+
+42:01.200 --> 42:02.480
+to be creative and to build?
+
+42:02.960 --> 42:03.960
+I mentioned Marvin.
+
+42:03.960 --> 42:06.520
+Another mentor at MIT, sadly no longer living,
+
+42:06.520 --> 42:08.120
+is Seymour Papert.
+
+42:08.120 --> 42:11.120
+So Papert studied with Piaget.
+
+42:11.120 --> 42:14.680
+He came to MIT to get access to the early,
+
+42:14.680 --> 42:18.000
+Piaget was a pioneer in how kids learn.
+
+42:18.000 --> 42:22.800
+Papert came to MIT to get access to the early computers
+
+42:22.800 --> 42:25.320
+with the goal of letting kids play with them.
+
+42:25.320 --> 42:27.400
+Piaget helped show kids are like scientists.
+
+42:27.400 --> 42:29.320
+They learn as scientists
+
+42:29.320 --> 42:31.320
+and it gets kind of throttled out of them.
+
+42:31.320 --> 42:32.880
+Seymour wanted to let kids
+
+42:32.880 --> 42:34.320
+have a broader landscape to play.
+
+42:34.320 --> 42:36.240
+Seymour's work led with Mitch Resnick
+
+42:36.240 --> 42:39.440
+to Lego, Logo, Mindstorms, all of that stuff.
+
+42:39.440 --> 42:41.000
+As fab lab spread,
+
+42:41.000 --> 42:43.560
+and we started creating educational programs
+
+42:43.560 --> 42:44.480
+for kids in them,
+
+42:44.480 --> 42:46.120
+Seymour said something really interesting.
+
+42:46.120 --> 42:47.040
+He made a gesture.
+
+42:47.040 --> 42:50.520
+He said, it was a thorn in his side
+
+42:50.520 --> 42:53.120
+that they invented what's called the turtle,
+
+42:53.120 --> 42:55.680
+a early robot kids could program
+
+42:55.680 --> 42:57.960
+to connect it to a mainframe computer.
+
+42:57.960 --> 43:01.320
+Seymour said, the goal was not for the kids
+
+43:01.320 --> 43:02.520
+to program the robot.
+
+43:02.520 --> 43:04.560
+It was for the kids to create the robot.
+
+43:05.480 --> 43:07.600
+And so in that sense, the fab labs,
+
+43:07.600 --> 43:09.400
+which for me were just this accident,
+
+43:09.400 --> 43:11.120
+he described as sort of this fulfillment
+
+43:11.120 --> 43:14.480
+of the arc of kids learn by experimenting.
+
+43:14.480 --> 43:16.920
+It was to give them the tools to create,
+
+43:16.920 --> 43:19.640
+not just assemble things and program things,
+
+43:19.640 --> 43:20.960
+but actually create.
+
+43:20.960 --> 43:23.200
+So coming to your question,
+
+43:23.200 --> 43:26.120
+what I've learned is
+
+43:27.080 --> 43:29.400
+MIT, a few years back,
+
+43:29.400 --> 43:32.760
+somebody added up businesses spun off from MIT,
+
+43:32.760 --> 43:34.480
+and it's the world's 10th economy.
+
+43:34.480 --> 43:36.520
+It falls between India and Russia.
+
+43:36.520 --> 43:39.720
+And I view that in a way as a bad number
+
+43:39.720 --> 43:41.640
+because it's only a few thousand people,
+
+43:41.640 --> 43:44.720
+and these aren't uniquely the 4,000 brightest people.
+
+43:44.720 --> 43:47.280
+It's just a productive environment for them.
+
+43:47.280 --> 43:50.720
+And what we found is in rural Indian villages
+
+43:50.720 --> 43:55.120
+in African shantytowns and Arctic hamlets,
+
+43:55.120 --> 43:59.800
+I find exactly precisely that profile.
+
+43:59.800 --> 44:04.200
+So Ling sided a few hours above Tromso,
+
+44:04.200 --> 44:05.840
+way above the Arctic circles.
+
+44:05.840 --> 44:07.360
+It's so far north the satellite dishes
+
+44:07.360 --> 44:09.440
+look at the ground, not the sky.
+
+44:09.440 --> 44:13.280
+Hans Christian in the lab was considered a problem
+
+44:13.280 --> 44:14.480
+in the local school
+
+44:14.480 --> 44:16.200
+because they couldn't teach him anything.
+
+44:16.200 --> 44:17.480
+I showed him a few projects.
+
+44:17.480 --> 44:18.360
+Next time I came back,
+
+44:18.360 --> 44:21.040
+he was designing and building little robot vehicles.
+
+44:21.040 --> 44:25.720
+And in South Africa,
+
+44:25.720 --> 44:27.120
+I mentioned Sochengovie,
+
+44:27.120 --> 44:28.360
+in this apartheid township,
+
+44:28.360 --> 44:30.480
+the local technical institute taught kids
+
+44:30.480 --> 44:31.920
+how to make bricks and fold sheets.
+
+44:31.920 --> 44:33.800
+It was punitive.
+
+44:33.800 --> 44:35.560
+But Chapiso in the fab lab
+
+44:35.560 --> 44:37.880
+was actually doing all the work of my MIT classes.
+
+44:37.880 --> 44:39.560
+And so over and over,
+
+44:39.560 --> 44:43.400
+we found precisely the same kind of bright
+
+44:43.400 --> 44:46.680
+in van of creativity.
+
+44:47.640 --> 44:52.120
+And historically, the answer was,
+
+44:52.120 --> 44:53.080
+you're smart, go away.
+
+44:53.080 --> 44:55.440
+It's sort of like me in vocational school.
+
+44:55.440 --> 44:57.160
+But in this lab network,
+
+44:57.160 --> 44:59.000
+what we could then do is in effect,
+
+44:59.000 --> 45:00.360
+bring the world to them.
+
+45:00.360 --> 45:02.320
+Now let's look at the scaling of all of this.
+
+45:02.320 --> 45:07.320
+So there's one earth, a thousand cities,
+
+45:07.320 --> 45:11.800
+a million towns, a billion people, a trillion things.
+
+45:11.800 --> 45:14.080
+There was one whirlwind computer,
+
+45:14.200 --> 45:17.280
+MIT made the first real-time computer.
+
+45:17.280 --> 45:19.840
+There were thousands of PDPs.
+
+45:19.840 --> 45:21.800
+There were millions of hobbyist computers
+
+45:21.800 --> 45:23.600
+that came from that.
+
+45:23.600 --> 45:25.120
+Billions of personal computers,
+
+45:25.120 --> 45:27.400
+trillions of internet of things.
+
+45:27.400 --> 45:30.160
+So now if we look at this fab lab story,
+
+45:30.160 --> 45:32.320
+1952 was the NC mill.
+
+45:33.560 --> 45:35.640
+There are now thousands of fab labs.
+
+45:35.640 --> 45:39.920
+And the fab lab costs exactly the same cost
+
+45:39.920 --> 45:42.480
+and complexity of the mini computer.
+
+45:42.480 --> 45:44.320
+So on the mini computer,
+
+45:44.320 --> 45:46.200
+it didn't fit in your pocket.
+
+45:46.200 --> 45:47.680
+It filled the room,
+
+45:47.680 --> 45:51.600
+but video games, email, word processing,
+
+45:51.600 --> 45:53.440
+really anything you do with the internet,
+
+45:53.440 --> 45:56.720
+anything you do with a computer today happened at that era
+
+45:56.720 --> 45:59.320
+because it got on the scale of a work group,
+
+45:59.320 --> 46:01.400
+not a corporation.
+
+46:01.400 --> 46:05.080
+In the same way, fab labs are like the mini computers
+
+46:05.080 --> 46:06.520
+inventing how does the world work
+
+46:06.520 --> 46:08.360
+if anybody can make anything.
+
+46:08.360 --> 46:11.360
+Then if you look at that scaling,
+
+46:11.840 --> 46:16.040
+labs today are transitioning from buying a machine
+
+46:16.040 --> 46:18.000
+to make machines making machines.
+
+46:18.000 --> 46:19.160
+So we're transitioning to,
+
+46:19.160 --> 46:22.320
+you can go to a fab lab not to make a project to make,
+
+46:22.320 --> 46:24.320
+but to make a new machine.
+
+46:24.320 --> 46:27.280
+So we talked about the deep sense of self-replication.
+
+46:27.280 --> 46:30.240
+There's a very practical sense of fab lab machines
+
+46:30.240 --> 46:32.480
+making fab lab machines.
+
+46:32.480 --> 46:37.480
+And so that's the equivalent of the hobbyist computer era,
+
+46:38.320 --> 46:41.440
+what it's called the Altair historically.
+
+46:41.440 --> 46:43.640
+Then the work we spent a while talking about
+
+46:43.640 --> 46:45.600
+about assemblers and self-assemblers,
+
+46:45.600 --> 46:49.680
+that's the equivalent of smartphones and internet of things.
+
+46:49.680 --> 46:53.880
+That's when, so the assemblers are like the smartphone
+
+46:53.880 --> 46:55.880
+where a smartphone today has the capacity
+
+46:55.880 --> 46:58.640
+of what used to be a supercomputer in your pocket.
+
+46:58.640 --> 47:02.360
+And then the smart thermostat on your wall
+
+47:02.360 --> 47:07.360
+has the power of the original PDP computer.
+
+47:07.480 --> 47:08.920
+Not metaphorically, but literally.
+
+47:08.920 --> 47:12.040
+And now there's trillions of those in the same sense
+
+47:12.040 --> 47:15.680
+that when we finally merge materials with the machines
+
+47:15.680 --> 47:16.600
+and the self-assembly,
+
+47:16.600 --> 47:19.120
+that's like the internet of things stage.
+
+47:19.120 --> 47:21.240
+But here's the important lesson.
+
+47:22.120 --> 47:24.840
+If you look at the computing analogy,
+
+47:24.840 --> 47:27.960
+computing expanded exponentially,
+
+47:27.960 --> 47:32.120
+but it really didn't fundamentally change.
+
+47:32.120 --> 47:36.000
+The core things happened in that transition
+
+47:36.000 --> 47:37.280
+in the mini computer era.
+
+47:38.120 --> 47:40.120
+So in the same sense, the research now
+
+47:40.120 --> 47:41.280
+we spent a while talking about
+
+47:41.280 --> 47:43.640
+is how we get to the replicator.
+
+47:43.640 --> 47:46.560
+Today, you can do all of that if you close your eyes
+
+47:46.560 --> 47:49.080
+and view the whole fab lab as a machine.
+
+47:49.080 --> 47:51.040
+In that room, you can make almost anything,
+
+47:51.040 --> 47:52.720
+but you need a lot of inputs.
+
+47:52.720 --> 47:55.600
+Bit by bit, the inputs will go down
+
+47:55.600 --> 47:57.360
+and the size of the room will go down
+
+47:57.360 --> 47:59.840
+as we go through each of these stages.
+
+47:59.840 --> 48:04.640
+So how difficult is it to create a self-replicating assembler,
+
+48:04.680 --> 48:09.640
+self-replicating machine that builds copies of itself
+
+48:09.640 --> 48:11.640
+or builds more complicated version of itself,
+
+48:11.640 --> 48:14.320
+which is kind of the dream towards which you're pushing
+
+48:14.320 --> 48:16.840
+in that generic arbitrary sense?
+
+48:16.840 --> 48:20.320
+I had a student, Nadia Peek with Jonathan Ward,
+
+48:20.320 --> 48:22.840
+who for me started this idea of
+
+48:22.840 --> 48:24.480
+how do we use the tools in my lab
+
+48:24.480 --> 48:25.720
+to make the tools in the lab?
+
+48:25.720 --> 48:26.720
+Yes.
+
+48:26.720 --> 48:29.480
+In a very clear sense,
+
+48:29.480 --> 48:31.800
+they are making self-reproducing machines.
+
+48:31.800 --> 48:34.520
+So one of the really cool things that's happened
+
+48:35.280 --> 48:38.000
+is there's a whole network of machine builders
+
+48:38.000 --> 48:38.880
+around the world.
+
+48:38.880 --> 48:43.080
+So there's Daniel now in Germany and Jens in Norway.
+
+48:43.080 --> 48:48.080
+And each of these people has learned the skills
+
+48:48.800 --> 48:50.920
+to go into a fab lab and make a machine.
+
+48:50.920 --> 48:54.040
+And so we've started creating a network of super fab.
+
+48:54.040 --> 48:55.520
+So the fab lab can make a machine,
+
+48:55.520 --> 48:57.600
+but it can't make a number of the precision parts
+
+48:57.600 --> 48:58.720
+of the machine.
+
+48:58.720 --> 49:01.960
+So in places like Bhutan or Kerala in the south of India,
+
+49:01.960 --> 49:04.000
+we've started creating super fab labs
+
+49:04.000 --> 49:05.880
+that have more advanced tools
+
+49:05.880 --> 49:07.840
+to make the parts of the machines
+
+49:07.840 --> 49:11.240
+so that the machines themselves become even cheaper.
+
+49:11.240 --> 49:15.680
+So that is self-reproducing machines,
+
+49:15.680 --> 49:18.240
+but you need to feed it things
+
+49:18.240 --> 49:20.640
+like bearings or microcontrollers.
+
+49:20.640 --> 49:21.880
+They can't make those parts.
+
+49:21.880 --> 49:24.400
+But other than that, they're making their own things.
+
+49:24.400 --> 49:26.320
+And I should note as a footnote,
+
+49:26.320 --> 49:29.560
+the stack I described of computers controlling machines
+
+49:29.560 --> 49:30.800
+to machine making machines,
+
+49:30.800 --> 49:32.600
+to assemblers to self-assemblers,
+
+49:32.600 --> 49:35.360
+we view that as fab one, two, three, four.
+
+49:35.360 --> 49:38.240
+So we're transitioning from fab one to fab two,
+
+49:38.240 --> 49:40.600
+and the research in the lab is three and four.
+
+49:40.600 --> 49:42.120
+At this fab two stage,
+
+49:42.120 --> 49:46.320
+a big component of this is sustainability
+
+49:46.320 --> 49:47.920
+in the material feedstocks.
+
+49:47.920 --> 49:51.560
+So Alicia, colleague in Chile, is leading a great effort
+
+49:51.560 --> 49:54.000
+looking at how you take forest products
+
+49:54.000 --> 49:55.680
+and coffee grounds and seashells
+
+49:55.680 --> 49:58.640
+and a range of locally available materials
+
+49:58.640 --> 50:02.480
+and produce the high-tech materials that go into the lab.
+
+50:02.480 --> 50:05.800
+So all of that is machine building today.
+
+50:05.800 --> 50:09.680
+Then back in the lab,
+
+50:09.680 --> 50:13.040
+what we can do today is we have robots
+
+50:13.040 --> 50:14.200
+that can build structures
+
+50:14.200 --> 50:17.640
+and can assemble more robots that build structures.
+
+50:17.640 --> 50:20.480
+We have finer resolution robots
+
+50:20.480 --> 50:23.080
+that can build micro-mechanical systems.
+
+50:23.080 --> 50:24.800
+So robots that can build robots
+
+50:24.800 --> 50:27.000
+that can walk and manipulate.
+
+50:27.000 --> 50:28.680
+And we're just now,
+
+50:28.680 --> 50:32.080
+we have a project at the layer below that
+
+50:32.600 --> 50:33.920
+where there's endless attention today
+
+50:33.920 --> 50:36.520
+to billion dollar chip fab investments.
+
+50:37.440 --> 50:41.280
+But a really interesting thing we pass through is
+
+50:41.280 --> 50:44.200
+today the smallest transistors you can buy
+
+50:44.200 --> 50:45.360
+as a single transistor,
+
+50:45.360 --> 50:47.400
+just commercially for electronics,
+
+50:47.400 --> 50:49.760
+is actually the size of an early transistor
+
+50:49.760 --> 50:51.840
+in an integrated circuit.
+
+50:51.840 --> 50:53.720
+So we're using these machines,
+
+50:53.720 --> 50:57.320
+making machines, making assemblers to place those parts
+
+50:57.320 --> 50:59.360
+to not use a billion dollar chip fab
+
+50:59.360 --> 51:00.520
+to make integrated circuits,
+
+51:00.520 --> 51:03.160
+but actually assemble little electronic components.
+
+51:03.160 --> 51:06.880
+So have a fine enough, precise enough actuators
+
+51:06.880 --> 51:10.160
+and manipulators that allow you to place these transistors.
+
+51:10.160 --> 51:12.560
+Right, that's a research project in my lab
+
+51:13.560 --> 51:16.320
+called Dice on Discrete Assembly of Integrated Electronics.
+
+51:16.320 --> 51:18.160
+And we're just at the point
+
+51:18.160 --> 51:20.480
+to really start to take seriously this notion
+
+51:20.480 --> 51:24.400
+of not having a chip fab make integrated electronics,
+
+51:24.400 --> 51:26.840
+but having not a 3D printer,
+
+51:26.840 --> 51:30.120
+but a thing that's a cross between a pick and place
+
+51:30.120 --> 51:32.240
+to make circuit boards in 2D.
+
+51:32.240 --> 51:34.920
+The 3D printer extrudes in 3D.
+
+51:34.920 --> 51:37.080
+We're making sort of a micro manipulator
+
+51:37.080 --> 51:38.200
+that acts like a printer,
+
+51:38.200 --> 51:41.400
+but it's placing to build electronics in 3D.
+
+51:41.400 --> 51:43.480
+But this micro manipulator is distributed,
+
+51:43.480 --> 51:44.400
+so there's a bunch of them,
+
+51:44.400 --> 51:46.280
+or is this one centralized thing?
+
+51:46.280 --> 51:47.680
+That's why that's a great question.
+
+51:47.680 --> 51:51.320
+So I have a prize that's almost but not been claimed
+
+51:51.320 --> 51:54.680
+for the students whose thesis can walk out of the printer.
+
+51:54.680 --> 51:55.640
+Oh, nice.
+
+51:55.640 --> 51:58.160
+So you have to print the thesis
+
+51:58.160 --> 52:01.600
+with the means to exit the printer,
+
+52:01.600 --> 52:05.840
+and it has to contain its description of the thesis
+
+52:05.840 --> 52:07.200
+that says how to do that.
+
+52:08.280 --> 52:09.760
+It's a really good,
+
+52:09.760 --> 52:12.200
+I mean, it's a fun example
+
+52:12.200 --> 52:13.520
+of exactly the thing we're talking about.
+
+52:13.520 --> 52:17.600
+And I've had a few students almost get to that.
+
+52:17.600 --> 52:20.920
+And so in what I'm describing,
+
+52:20.920 --> 52:23.400
+there's this stack where we're getting closer,
+
+52:23.400 --> 52:26.720
+but it's still quite a few years to really go from us.
+
+52:26.720 --> 52:28.880
+So there's a layer below the transistors
+
+52:28.880 --> 52:30.520
+where we assemble the base materials
+
+52:30.520 --> 52:32.240
+that become the transistor.
+
+52:32.240 --> 52:35.640
+We're now just at the edge of assembling the transistors
+
+52:35.640 --> 52:37.800
+to make the circuits.
+
+52:37.800 --> 52:41.680
+We can assemble the micro parts to make the micro robots.
+
+52:41.680 --> 52:43.680
+We can assemble the bigger robots.
+
+52:43.680 --> 52:44.600
+And in the coming years,
+
+52:44.600 --> 52:47.720
+we'll be patching together all of those scales.
+
+52:47.720 --> 52:52.640
+So do you see a vision of just endless billions of robots
+
+52:52.640 --> 52:53.840
+at the different scales,
+
+52:53.840 --> 52:56.840
+self-assembling, self-replicating,
+
+52:56.840 --> 52:58.840
+and building the more complicated structures?
+
+52:58.840 --> 53:00.480
+Yes.
+
+53:00.480 --> 53:03.320
+And the but to the yes but is,
+
+53:03.320 --> 53:04.920
+let me clarify two things.
+
+53:04.920 --> 53:09.920
+One is that immediately raises King Charles' fear
+
+53:10.120 --> 53:15.000
+of grey goo, of runaway mutant self-reproducing things.
+
+53:15.000 --> 53:17.280
+The reason why there are many things
+
+53:17.280 --> 53:19.040
+I can tell you to worry about,
+
+53:19.040 --> 53:21.200
+but that's not one of them,
+
+53:21.200 --> 53:25.600
+is if you want things to autonomously self-reproduce
+
+53:25.600 --> 53:26.720
+and take over the world,
+
+53:26.720 --> 53:29.000
+that means they need to compete with nature
+
+53:29.000 --> 53:32.840
+on using the resources of nature, of water and sunlight.
+
+53:32.840 --> 53:35.560
+And in light of everything I'm describing,
+
+53:35.560 --> 53:37.880
+biology knows everything I told you.
+
+53:37.880 --> 53:39.480
+Every single thing I explain,
+
+53:39.480 --> 53:41.200
+biology already knows how to do.
+
+53:43.120 --> 53:45.400
+What I'm describing isn't new for biology,
+
+53:45.400 --> 53:47.840
+it's new for non-biological systems.
+
+53:47.840 --> 53:50.440
+So in the digital era,
+
+53:50.440 --> 53:53.720
+the economic win ended up being centralized,
+
+53:53.720 --> 53:55.600
+the big platforms,
+
+53:55.600 --> 53:58.480
+in this world of machines that can make machines.
+
+53:58.480 --> 54:03.480
+I'm asked, for example, what's the killer opportunity?
+
+54:03.480 --> 54:05.560
+Who's gonna make all the money?
+
+54:05.560 --> 54:07.040
+Who to invest in?
+
+54:07.040 --> 54:08.920
+But if the machine can make the machine,
+
+54:08.920 --> 54:12.120
+it's not a great business to invest in the machine.
+
+54:13.480 --> 54:16.520
+In the same way that if you can produce,
+
+54:16.520 --> 54:19.680
+if you can think globally but produce locally,
+
+54:19.680 --> 54:23.280
+then the way the technology goes out into society
+
+54:23.280 --> 54:26.080
+isn't a function of central control,
+
+54:26.080 --> 54:27.880
+but is fundamentally distributed.
+
+54:27.880 --> 54:31.600
+Now, that raises an obvious kind of concern,
+
+54:31.600 --> 54:33.680
+which is, well, doesn't this mean you could make bombs
+
+54:33.680 --> 54:35.680
+and guns and all of that?
+
+54:35.680 --> 54:38.200
+The reason that's much less of a problem
+
+54:38.200 --> 54:41.960
+than you would think is making bombs and guns
+
+54:41.960 --> 54:45.240
+and all of that is a very well-met market need.
+
+54:45.240 --> 54:49.640
+Anywhere we go, there's a fine supply chain for weapons.
+
+54:50.600 --> 54:52.800
+You know, hobbyists have been making guns for ages
+
+54:52.800 --> 54:55.320
+and guns are available just about anywhere.
+
+54:55.320 --> 54:57.320
+So you could go into the lab and make a gun.
+
+54:57.320 --> 54:59.520
+Today, it's not a very good gun,
+
+54:59.520 --> 55:01.280
+and guns are easily available.
+
+55:01.280 --> 55:04.280
+And so generally, we run these lab and war zones.
+
+55:04.280 --> 55:09.280
+What we find is people don't go to them to make weapons,
+
+55:09.280 --> 55:10.720
+which you can already do anyway,
+
+55:10.720 --> 55:12.640
+it's an alternative to making weapons.
+
+55:12.640 --> 55:14.000
+Coming back to your question,
+
+55:14.000 --> 55:17.720
+I'd say the single most important thing I've learned is
+
+55:17.760 --> 55:18.960
+that the central resource of the planet
+
+55:18.960 --> 55:23.040
+is this amazing density of bright inventive people
+
+55:23.040 --> 55:24.560
+whose brains are underused.
+
+55:24.560 --> 55:29.560
+And you could view the social engineering of this lab work
+
+55:30.240 --> 55:32.320
+as creating the capacity for them.
+
+55:32.320 --> 55:37.040
+And so in the end, the way this is gonna impact society
+
+55:37.040 --> 55:38.840
+isn't gonna be command and control,
+
+55:38.840 --> 55:40.920
+it's how the world uses it.
+
+55:40.920 --> 55:43.480
+And it's been really gratifying for me
+
+55:43.480 --> 55:45.720
+to see just how it does.
+
+55:45.880 --> 55:48.080
+But what are the different ways
+
+55:48.080 --> 55:50.840
+the evolution of the exponential scaling
+
+55:50.840 --> 55:52.680
+of digital fabrication can evolve?
+
+55:52.680 --> 55:56.680
+So you said, yeah, self-replicating nanobots, right?
+
+55:56.680 --> 55:59.640
+This is the gray goo fear.
+
+55:59.640 --> 56:01.720
+It's a caricature of a fear,
+
+56:01.720 --> 56:03.640
+but nevertheless, there's interesting,
+
+56:03.640 --> 56:06.520
+just like you said, spam and all these kinds of things
+
+56:06.520 --> 56:10.000
+that came with the scaling of communication and computation.
+
+56:10.000 --> 56:11.840
+What are the different ways
+
+56:11.840 --> 56:15.000
+that malevolent actors will use this technology?
+
+56:15.240 --> 56:17.600
+Well, first, let me start with a benevolent story,
+
+56:17.600 --> 56:22.600
+which is trash is an analog concept.
+
+56:23.920 --> 56:25.720
+There's no trash in a forest,
+
+56:25.720 --> 56:28.440
+all the parts get disassembled and reused.
+
+56:28.440 --> 56:31.480
+Trash means something doesn't have enough information
+
+56:31.480 --> 56:33.880
+to tell you how to reuse it.
+
+56:33.880 --> 56:38.400
+It's as simple as there's no trash in a Lego room.
+
+56:38.400 --> 56:39.680
+When you assemble Lego,
+
+56:39.680 --> 56:42.800
+the Lego bricks have enough information to disassemble them.
+
+56:42.800 --> 56:44.440
+So one of the,
+
+56:44.440 --> 56:47.240
+so as you go through this fab1234 story,
+
+56:47.240 --> 56:51.120
+one of the implications of this transition
+
+56:51.120 --> 56:53.640
+to from printing to assembling.
+
+56:53.640 --> 56:56.200
+So the real breakthrough technologically
+
+56:56.200 --> 56:58.200
+isn't additive versus subtractive,
+
+56:58.200 --> 57:01.400
+which is a subject of a lot of attention and hype.
+
+57:02.320 --> 57:04.000
+3D printers are useful.
+
+57:05.200 --> 57:07.880
+We spun off companies like Forum Labs
+
+57:07.880 --> 57:09.760
+led by Max for 3D printing,
+
+57:09.760 --> 57:12.280
+but in a fab lab, it's one of maybe 10 machines.
+
+57:12.520 --> 57:15.040
+It's used, but it's only part of the machines.
+
+57:15.040 --> 57:17.000
+The real technological change
+
+57:17.000 --> 57:18.440
+is when we go from printing and cutting
+
+57:18.440 --> 57:22.080
+to assembling and disassembling.
+
+57:22.080 --> 57:26.480
+But that reduces inventories of hundreds of thousands
+
+57:26.480 --> 57:28.160
+of parts to just having a few parts
+
+57:28.160 --> 57:29.760
+to make almost anything.
+
+57:29.760 --> 57:31.760
+It reduces global supply chains
+
+57:31.760 --> 57:34.080
+to locally sourcing these building blocks.
+
+57:34.080 --> 57:35.720
+But one of the key implications
+
+57:35.720 --> 57:39.320
+is it gets rid of technological trash
+
+57:39.320 --> 57:41.960
+because you can disassemble and reuse the parts,
+
+57:42.600 --> 57:43.440
+not throw them away.
+
+57:43.440 --> 57:45.840
+And so initially that's of interest for things
+
+57:45.840 --> 57:48.640
+at the end of long supply chains, like satellites on orbit.
+
+57:48.640 --> 57:51.640
+But one of the things coming is eliminating technical trash
+
+57:51.640 --> 57:54.360
+through reuse of the building blocks.
+
+57:54.360 --> 57:56.760
+So like when you think about 3D printers,
+
+57:56.760 --> 57:59.880
+you're thinking about addition and subtraction.
+
+57:59.880 --> 58:03.600
+When you think about the other options available to you
+
+58:03.600 --> 58:05.760
+in that parameter space, as you call it,
+
+58:05.760 --> 58:09.440
+that's going to be assembly, disassembly, cutting, you said.
+
+58:09.480 --> 58:14.280
+So the 1952 NC mill was subtractive.
+
+58:14.280 --> 58:15.600
+You remove material.
+
+58:15.600 --> 58:19.040
+And 3D printing additive,
+
+58:19.040 --> 58:20.080
+and there's a couple of claims
+
+58:20.080 --> 58:21.760
+to the invention of 3D printing,
+
+58:21.760 --> 58:23.600
+that's closer to what's called net shape,
+
+58:23.600 --> 58:25.400
+which is you don't have to cut away the material
+
+58:25.400 --> 58:27.640
+you don't need, you just put material where you do need it.
+
+58:27.640 --> 58:30.040
+And so that's the 3D printing revolution.
+
+58:30.040 --> 58:34.520
+But there are all sorts of limitations on 3D printing
+
+58:34.520 --> 58:38.120
+to the kinds of materials you can print,
+
+58:38.160 --> 58:40.360
+the kind of functionality you can print.
+
+58:40.360 --> 58:42.680
+We're just not going to get to making
+
+58:44.920 --> 58:47.840
+everything in a cell phone on a single printer.
+
+58:47.840 --> 58:50.120
+But I do expect to make everything in a cell phone
+
+58:50.120 --> 58:51.120
+with an assembler.
+
+58:51.120 --> 58:54.320
+And so instead of printing and cutting technologically,
+
+58:54.320 --> 58:57.720
+it's this transition to assembling and disassembling.
+
+58:57.720 --> 59:00.240
+Going back to Shannon and von Neumann,
+
+59:00.240 --> 59:03.440
+going back to the ribosome four billion years ago.
+
+59:03.440 --> 59:06.360
+Now you come to malevolent.
+
+59:06.400 --> 59:09.000
+Let me tell you a story about,
+
+59:09.000 --> 59:11.480
+I was doing a briefing
+
+59:11.480 --> 59:15.440
+for the National Academy of Sciences group
+
+59:15.440 --> 59:19.000
+that advises the intelligence communities.
+
+59:19.000 --> 59:21.760
+And I talked about the kind of research we do.
+
+59:21.760 --> 59:22.760
+And at the very end,
+
+59:22.760 --> 59:27.520
+I showed a little video clip of Valentina in Ghana,
+
+59:27.520 --> 59:32.360
+making a local girl making surface mount electronics
+
+59:32.360 --> 59:33.400
+in the fab lab.
+
+59:33.400 --> 59:36.320
+And I showed that to this room full of people.
+
+59:37.280 --> 59:39.120
+One of the members of the intelligence community
+
+59:39.120 --> 59:41.160
+got up livid and said,
+
+59:41.160 --> 59:43.440
+how dare you waste our time
+
+59:43.440 --> 59:45.600
+showing us a young girl in an African village
+
+59:45.600 --> 59:47.520
+making surface mount electronics.
+
+59:47.520 --> 59:49.280
+We're looking at,
+
+59:49.280 --> 59:51.040
+we need to know about disruptive threats
+
+59:51.040 --> 59:52.760
+to the future of the United States.
+
+59:53.800 --> 59:56.680
+And somebody else got up in the room and yelled at him,
+
+59:56.680 --> 59:57.720
+and you idiot,
+
+59:57.720 --> 01:00:00.360
+I can't think of anything more important than this.
+
+01:00:00.360 --> 01:00:01.840
+But for two reasons.
+
+01:00:01.840 --> 01:00:03.280
+One reason was,
+
+01:00:04.920 --> 01:00:08.680
+because if we rely on informational superiority
+
+01:00:08.680 --> 01:00:09.600
+in the battlefield,
+
+01:00:09.600 --> 01:00:11.960
+it means other people could get access to it.
+
+01:00:11.960 --> 01:00:15.000
+But this intelligence person's point, bless him,
+
+01:00:15.000 --> 01:00:15.960
+wasn't that,
+
+01:00:15.960 --> 01:00:20.040
+it was getting at the root causes of conflict,
+
+01:00:20.040 --> 01:00:22.240
+is if this young girl in an African village
+
+01:00:22.240 --> 01:00:25.080
+could actually master surface mount electronics,
+
+01:00:25.080 --> 01:00:28.120
+it changes some of the most fundamental things
+
+01:00:28.120 --> 01:00:30.920
+about recruitment for terrorism,
+
+01:00:32.680 --> 01:00:34.680
+impact of economic migration,
+
+01:00:34.680 --> 01:00:36.600
+basic assumptions about an economy.
+
+01:00:36.600 --> 01:00:40.360
+It's just existential for the future of the planet.
+
+01:00:40.360 --> 01:00:44.440
+But we've just lived through a pandemic.
+
+01:00:44.440 --> 01:00:46.120
+I would love to linger on this
+
+01:00:46.120 --> 01:00:50.120
+because the possibilities that are positive are endless.
+
+01:00:50.120 --> 01:00:51.760
+But the possibilities and negative
+
+01:00:51.760 --> 01:00:54.040
+are still nevertheless extremely important.
+
+01:00:54.040 --> 01:00:56.200
+It's both positive and negative.
+
+01:00:56.200 --> 01:01:01.200
+What do you do with a large number of general assemblers?
+
+01:01:02.120 --> 01:01:04.920
+With the fab lab, you could roughly make a bio lab,
+
+01:01:04.920 --> 01:01:06.520
+then learn biotechnology.
+
+01:01:06.520 --> 01:01:07.920
+Now that's terrifying
+
+01:01:07.920 --> 01:01:12.040
+because making self-reproducing gray goo
+
+01:01:12.040 --> 01:01:14.280
+that outcompetes biology,
+
+01:01:14.280 --> 01:01:17.520
+I consider doomed because biology knows everything
+
+01:01:17.520 --> 01:01:19.960
+I'm describing and is really good at what it does.
+
+01:01:23.520 --> 01:01:25.880
+How to grow almost anything,
+
+01:01:25.880 --> 01:01:28.960
+you learn skills in biotechnology
+
+01:01:28.960 --> 01:01:32.760
+that let you make serious biological threats.
+
+01:01:32.760 --> 01:01:36.520
+And when you combine some of the innovations
+
+01:01:36.520 --> 01:01:38.080
+you see with large language models,
+
+01:01:38.080 --> 01:01:40.680
+some of the innovations you see with Alpha Fold,
+
+01:01:40.680 --> 01:01:44.880
+so applications of AI for designing biological systems
+
+01:01:44.880 --> 01:01:47.920
+for writing programs,
+
+01:01:47.920 --> 01:01:50.240
+which you can large language models increasingly.
+
+01:01:50.240 --> 01:01:53.040
+So there seems to be an interesting dance here
+
+01:01:53.040 --> 01:01:56.120
+of automating the design stage
+
+01:01:56.120 --> 01:01:58.920
+of complex systems using AI.
+
+01:01:58.920 --> 01:02:02.400
+And then that's the bits.
+
+01:02:02.400 --> 01:02:03.560
+And you can leap,
+
+01:02:03.560 --> 01:02:05.160
+now the innovations you're talking about,
+
+01:02:05.160 --> 01:02:08.520
+you can leap from the complex systems in the digital space
+
+01:02:08.520 --> 01:02:13.040
+to the printing, to the creation, to the assembly
+
+01:02:13.040 --> 01:02:18.040
+at scale of complex systems in the physical space.
+
+01:02:18.120 --> 01:02:20.480
+Yeah, so something to be scared about
+
+01:02:20.480 --> 01:02:23.320
+is a fab lab can make a bio lab,
+
+01:02:23.320 --> 01:02:25.480
+a bio lab can make biotechnology,
+
+01:02:25.480 --> 01:02:28.960
+somebody could learn to make a virus.
+
+01:02:28.960 --> 01:02:29.920
+That's scary.
+
+01:02:31.320 --> 01:02:33.840
+Unlike some of the things I said, I don't worry about,
+
+01:02:33.840 --> 01:02:37.080
+that's something I really worry about that is scary.
+
+01:02:37.080 --> 01:02:38.960
+Now, how do you deal with that?
+
+01:02:40.560 --> 01:02:45.560
+Prior threats, we dealt with command and control.
+
+01:02:45.960 --> 01:02:50.960
+So like early color copiers had unique codes
+
+01:02:51.920 --> 01:02:53.600
+and you could tell which copier made them.
+
+01:02:53.600 --> 01:02:56.400
+Eventually you couldn't keep up with that.
+
+01:02:56.400 --> 01:02:59.480
+There was a famous meeting at Isilomar
+
+01:02:59.480 --> 01:03:02.560
+in the early days of recombinant DNA
+
+01:03:02.560 --> 01:03:06.480
+where that community recognized the dangers
+
+01:03:06.480 --> 01:03:09.800
+of what it was doing and put in place a regime
+
+01:03:09.800 --> 01:03:11.240
+to help manage it.
+
+01:03:11.240 --> 01:03:14.520
+And so that led to the kind of research management.
+
+01:03:14.520 --> 01:03:18.080
+So MIT has an office that supervises research
+
+01:03:18.080 --> 01:03:19.840
+and it works with the national office.
+
+01:03:19.840 --> 01:03:23.480
+That works if you can identify who's doing it and where.
+
+01:03:24.360 --> 01:03:26.360
+It doesn't work in this world we're describing.
+
+01:03:26.360 --> 01:03:28.840
+So anybody could do this anywhere.
+
+01:03:28.840 --> 01:03:33.840
+And so what we found is you can't contain this,
+
+01:03:34.600 --> 01:03:37.000
+it's already out, you can't forbid
+
+01:03:37.000 --> 01:03:39.240
+because there isn't command and control.
+
+01:03:39.240 --> 01:03:41.520
+The most useful thing you can do
+
+01:03:41.520 --> 01:03:44.240
+is provide incentives for transparency.
+
+01:03:45.720 --> 01:03:49.880
+But really the heart of what we do is you could do this
+
+01:03:49.920 --> 01:03:53.880
+by yourself in a basement for nefarious reasons
+
+01:03:53.880 --> 01:03:56.120
+or you could come into a place in the light
+
+01:03:56.120 --> 01:03:57.880
+where you get help and you get community
+
+01:03:57.880 --> 01:03:59.600
+and you get resources.
+
+01:03:59.600 --> 01:04:02.520
+And there's an incentive to do it in the open,
+
+01:04:02.520 --> 01:04:03.480
+not in the dark.
+
+01:04:03.480 --> 01:04:06.280
+And that might sound naive,
+
+01:04:06.280 --> 01:04:10.240
+but in the sort of places we're working,
+
+01:04:12.440 --> 01:04:16.480
+again, bad people do bad things in these places already,
+
+01:04:16.480 --> 01:04:20.800
+but providing openness and providing transparency
+
+01:04:20.800 --> 01:04:22.480
+is a key part of managing these.
+
+01:04:22.480 --> 01:04:27.280
+And so it transitions from regulating risks as regulation
+
+01:04:27.280 --> 01:04:30.120
+to soft power to manage them.
+
+01:04:30.120 --> 01:04:32.040
+So there's so much potential for good,
+
+01:04:32.040 --> 01:04:35.360
+so much capacity for good that fab labs
+
+01:04:35.360 --> 01:04:40.360
+and the ability and the tools of creation
+
+01:04:41.200 --> 01:04:42.800
+really unlock that potential.
+
+01:04:43.800 --> 01:04:47.640
+Yeah, and I don't say that as sort of dewy-eyed naive.
+
+01:04:47.640 --> 01:04:50.600
+I say that empirically from just years
+
+01:04:50.600 --> 01:04:52.240
+of seeing how this plays out in communities.
+
+01:04:52.240 --> 01:04:54.800
+I wonder if it's the early days of personal computers though
+
+01:04:54.800 --> 01:04:56.880
+before we get spam, right?
+
+01:04:56.880 --> 01:05:00.120
+In the end, most fundamentally,
+
+01:05:01.360 --> 01:05:06.360
+literally the mother of all problems is who designed us.
+
+01:05:06.960 --> 01:05:11.960
+So assume success in that we're gonna transition
+
+01:05:11.960 --> 01:05:13.760
+to the machines, making the machines,
+
+01:05:13.760 --> 01:05:16.280
+and all of these new sort of social systems
+
+01:05:16.280 --> 01:05:18.000
+we're describing will help manage them
+
+01:05:18.000 --> 01:05:20.320
+and curate them and democratize them.
+
+01:05:22.040 --> 01:05:25.120
+If we close the gap I just led off with
+
+01:05:25.120 --> 01:05:27.880
+of 10 to the 10 to 10 to the 18,
+
+01:05:27.880 --> 01:05:29.960
+between ChipFab and you,
+
+01:05:31.160 --> 01:05:34.160
+we're ultimately in many ways,
+
+01:05:34.680 --> 01:05:37.840
+we're ultimately in marrying communication,
+
+01:05:37.840 --> 01:05:39.360
+computation and fabrication
+
+01:05:39.360 --> 01:05:42.280
+gonna be able to create unimaginable complexity.
+
+01:05:44.720 --> 01:05:48.280
+And how do you design that?
+
+01:05:48.280 --> 01:05:53.280
+And so I'd say the deepest of all questions
+
+01:05:53.840 --> 01:05:55.360
+that I've been working on
+
+01:05:57.800 --> 01:06:00.520
+goes back to the oldest part of our genome.
+
+01:06:00.520 --> 01:06:05.520
+So in our genome, what are called Hox genes
+
+01:06:06.080 --> 01:06:09.600
+and these are morpho genes
+
+01:06:10.600 --> 01:06:15.600
+and nowhere in your genome is the number five.
+
+01:06:16.320 --> 01:06:19.600
+It doesn't store the fact that you have five fingers.
+
+01:06:19.600 --> 01:06:22.440
+What it stores is what's called a developmental program.
+
+01:06:22.440 --> 01:06:24.280
+It's a series of steps.
+
+01:06:24.280 --> 01:06:26.800
+And the steps have the character of like,
+
+01:06:26.800 --> 01:06:30.440
+grow up a gradient or break symmetry.
+
+01:06:31.320 --> 01:06:33.600
+And at the end of that developmental program,
+
+01:06:33.600 --> 01:06:35.200
+you have five fingers.
+
+01:06:35.200 --> 01:06:40.200
+So you are stored not as a body plan,
+
+01:06:42.240 --> 01:06:45.280
+but as a growth plan.
+
+01:06:45.280 --> 01:06:47.520
+And there's two reasons for that.
+
+01:06:47.520 --> 01:06:50.560
+One reason is just compression.
+
+01:06:50.560 --> 01:06:54.680
+Billions of genes can place trillions of cells.
+
+01:06:54.680 --> 01:06:58.360
+But the much deeper one is evolution
+
+01:06:58.360 --> 01:07:00.320
+can randomly perturb.
+
+01:07:00.320 --> 01:07:02.600
+Almost anything you did randomly in the genome
+
+01:07:02.600 --> 01:07:06.880
+would be fatal or inconsequential, but not interesting.
+
+01:07:06.880 --> 01:07:10.960
+But when you modify things in these developmental programs,
+
+01:07:10.960 --> 01:07:14.160
+you go from like webs for swimming to fingers,
+
+01:07:14.160 --> 01:07:17.120
+or you go from walking to wings for flying.
+
+01:07:17.120 --> 01:07:19.640
+It's a space in which search is interesting.
+
+01:07:19.640 --> 01:07:24.640
+So this is the heart of the success of AI.
+
+01:07:24.680 --> 01:07:28.080
+In part, it was the scaling we talked about a while ago.
+
+01:07:28.080 --> 01:07:31.480
+And in part, it was the representations
+
+01:07:31.480 --> 01:07:34.760
+for which search is effective.
+
+01:07:35.720 --> 01:07:38.840
+AI has found good representations.
+
+01:07:38.840 --> 01:07:40.680
+It hasn't found new ways to search,
+
+01:07:40.680 --> 01:07:43.160
+but it's found good representations of search.
+
+01:07:43.160 --> 01:07:44.960
+And you're saying that's what biology,
+
+01:07:44.960 --> 01:07:47.400
+that's what evolution has done
+
+01:07:47.400 --> 01:07:50.120
+is creative representations, structures,
+
+01:07:50.120 --> 01:07:52.560
+biological structures through which search
+
+01:07:52.720 --> 01:07:53.560
+is effective.
+
+01:07:53.560 --> 01:07:58.160
+And so the developmental programs in the genome
+
+01:07:58.160 --> 01:08:02.160
+beautifully encapsulate the lessons of AI.
+
+01:08:02.160 --> 01:08:05.760
+And this is, it's embodied, it's molecular intelligence.
+
+01:08:05.760 --> 01:08:08.920
+It's AI embodied in our genome.
+
+01:08:08.920 --> 01:08:13.440
+It's every bit as profound as the cognition in our brain,
+
+01:08:13.440 --> 01:08:17.600
+but now this is sort of thinking in molecular thinking
+
+01:08:17.600 --> 01:08:19.400
+in how you design.
+
+01:08:19.400 --> 01:08:21.400
+And so it's a very interesting way
+
+01:08:22.360 --> 01:08:23.200
+to design.
+
+01:08:23.200 --> 01:08:26.160
+And so I'd say the most fundamental problem
+
+01:08:26.160 --> 01:08:29.680
+we're working on is it's kind of tautological
+
+01:08:29.680 --> 01:08:33.360
+that when you design a phone, you design the phone.
+
+01:08:33.360 --> 01:08:35.280
+You represent the design of the phone.
+
+01:08:35.280 --> 01:08:37.880
+But that actually fails when you get to the sort
+
+01:08:37.880 --> 01:08:40.360
+of complexity that we're talking about.
+
+01:08:40.360 --> 01:08:43.440
+And so there's this profound transition to come.
+
+01:08:43.440 --> 01:08:46.240
+Once I can have self-reproducing assemblers
+
+01:08:46.240 --> 01:08:49.360
+placing 10 to the 18 parts,
+
+01:08:49.360 --> 01:08:54.360
+you need to not sort of metaphorically, but create life
+
+01:08:55.160 --> 01:08:58.600
+in that you need to learn how to evolve.
+
+01:08:58.600 --> 01:09:01.800
+But evolutionary design has a really misleading
+
+01:09:01.800 --> 01:09:04.440
+trivial meaning.
+
+01:09:04.440 --> 01:09:08.480
+It's not as simple as you randomly mutate things.
+
+01:09:08.480 --> 01:09:12.080
+It's this much more deep embodiment of AI
+
+01:09:12.080 --> 01:09:13.800
+and morphogenesis.
+
+01:09:13.800 --> 01:09:16.360
+Is there a way for us to continue
+
+01:09:16.360 --> 01:09:19.000
+the kind of evolutionary design that led us to this place
+
+01:09:19.640 --> 01:09:21.760
+from the early days of bacteria, single cell organism,
+
+01:09:21.760 --> 01:09:24.480
+to ribosomes and the 20 amino acids?
+
+01:09:24.480 --> 01:09:26.840
+You mean for human augmentation?
+
+01:09:26.840 --> 01:09:30.560
+For life, I mean, what would you call assemblers
+
+01:09:30.560 --> 01:09:32.600
+that are self-replicating and placing parts?
+
+01:09:32.600 --> 01:09:37.600
+What is the dynamic complex things built
+
+01:09:38.680 --> 01:09:39.880
+with digital fabrication?
+
+01:09:39.880 --> 01:09:40.720
+What is that?
+
+01:09:40.720 --> 01:09:41.600
+That's life.
+
+01:09:41.600 --> 01:09:44.160
+Yeah, so ultimately, absolutely,
+
+01:09:45.400 --> 01:09:47.600
+if you add up everything I'm talking about,
+
+01:09:47.600 --> 01:09:51.520
+it's building up to creating life in non-living materials.
+
+01:09:51.520 --> 01:09:56.120
+And I don't view this as copying life.
+
+01:09:56.120 --> 01:09:58.320
+I view it as deriving life.
+
+01:09:58.320 --> 01:10:00.800
+I didn't start from how does biology work
+
+01:10:00.800 --> 01:10:02.680
+and then I'm gonna copy it.
+
+01:10:02.680 --> 01:10:05.960
+I start from how to solve problems
+
+01:10:05.960 --> 01:10:09.720
+and then it leads me to, in a sense, rediscover biology.
+
+01:10:09.720 --> 01:10:13.040
+So if you go back to Valentina in Ghana
+
+01:10:13.040 --> 01:10:15.080
+making her circuit board,
+
+01:10:15.080 --> 01:10:17.160
+she still needs a chip fab very far away
+
+01:10:17.160 --> 01:10:19.880
+to make the processor on her circuit board.
+
+01:10:19.880 --> 01:10:22.720
+For her to make the processor locally,
+
+01:10:22.720 --> 01:10:24.840
+for all the reasons we described,
+
+01:10:24.840 --> 01:10:29.360
+you actually need the deep things we were just talking about.
+
+01:10:29.360 --> 01:10:32.160
+And so it really does lead you.
+
+01:10:32.160 --> 01:10:37.160
+So let's see, there's a wonderful series of books by Gingery.
+
+01:10:38.560 --> 01:10:41.200
+Book one is How to Make a Charcoal Furnace
+
+01:10:41.200 --> 01:10:44.720
+and at the end of book seven, you have a machine shop.
+
+01:10:44.720 --> 01:10:47.480
+So it's sort of how you do
+
+01:10:47.480 --> 01:10:50.080
+your own personal industrial revolution.
+
+01:10:50.080 --> 01:10:55.000
+ISRU is what NASA calls in situ resource utilization
+
+01:10:55.000 --> 01:10:56.760
+and that's how do you go to a planet
+
+01:10:56.760 --> 01:10:59.920
+and create a civilization.
+
+01:10:59.920 --> 01:11:02.840
+ISRU has essentially assumed Gingery.
+
+01:11:02.840 --> 01:11:04.880
+You go through the industrial revolution
+
+01:11:04.880 --> 01:11:08.560
+and you create the inventory of 100,000 resistors.
+
+01:11:08.560 --> 01:11:10.520
+What we're finding is the way,
+
+01:11:10.520 --> 01:11:13.680
+the minimum building blocks for a civilization
+
+01:11:13.680 --> 01:11:16.920
+is roughly 20 parts.
+
+01:11:16.920 --> 01:11:18.800
+So what's interesting about the amino acids
+
+01:11:18.800 --> 01:11:20.400
+is they're not interesting.
+
+01:11:20.400 --> 01:11:23.840
+They're hydrophobic or hydrophilic, basic or acidic.
+
+01:11:23.840 --> 01:11:26.440
+They have typical but not extremal properties,
+
+01:11:26.440 --> 01:11:29.720
+but they're good enough you can combine them to make you.
+
+01:11:29.720 --> 01:11:31.880
+So what this is leading towards
+
+01:11:31.880 --> 01:11:36.880
+is technology doesn't need enormous global supply chains.
+
+01:11:37.000 --> 01:11:40.160
+It just needs about 20 properties you can compose
+
+01:11:40.160 --> 01:11:43.760
+to create all technology as the minimum building blocks
+
+01:11:43.760 --> 01:11:45.880
+for a technological civilization.
+
+01:11:45.880 --> 01:11:49.400
+So there's going to be 20 basic building blocks
+
+01:11:49.400 --> 01:11:52.880
+based on which the self-replicating assemblers can work.
+
+01:11:52.880 --> 01:11:55.160
+Right, and I say that not philosophically,
+
+01:11:55.160 --> 01:11:58.360
+just empirically, sort of that's where it's heading.
+
+01:11:58.360 --> 01:12:02.880
+And I like thinking about how you bootstrap
+
+01:12:02.880 --> 01:12:04.800
+a civilization on Mars, that problem.
+
+01:12:04.800 --> 01:12:07.320
+There's a fun video on bonus material for the movie
+
+01:12:08.000 --> 01:12:10.560
+with a neat group of people, we talk about it
+
+01:12:10.560 --> 01:12:12.680
+because it has really profound implications
+
+01:12:12.680 --> 01:12:15.240
+back here on Earth about how we live sustainably.
+
+01:12:16.280 --> 01:12:18.720
+What is that civilization on Mars looks like
+
+01:12:18.720 --> 01:12:22.600
+that's using ISRU, that's using these 20 building blocks
+
+01:12:22.600 --> 01:12:24.120
+and does self-assembly?
+
+01:12:24.120 --> 01:12:27.120
+Yeah, go through primary, secondary, tertiary, quaternary.
+
+01:12:28.800 --> 01:12:33.800
+You extract properties like conducting, insulating,
+
+01:12:34.000 --> 01:12:39.000
+semi-conducting, magnetic, dielectric, flexural.
+
+01:12:40.640 --> 01:12:43.000
+These are the kind of roughly 20 properties.
+
+01:12:44.360 --> 01:12:49.360
+With those, those are enough for us to assemble logic
+
+01:12:51.080 --> 01:12:53.480
+and they're enough for us to assemble actuation.
+
+01:12:54.440 --> 01:12:58.720
+With logic and actuation, we can make micro robots.
+
+01:12:59.720 --> 01:13:03.280
+The micro robots can build bigger robots.
+
+01:13:03.320 --> 01:13:07.640
+The bigger robots can then take the building block materials
+
+01:13:07.640 --> 01:13:09.440
+and make the structural elements
+
+01:13:09.440 --> 01:13:12.480
+that you then do to make construction.
+
+01:13:12.480 --> 01:13:14.080
+And then you boot up through the stages
+
+01:13:14.080 --> 01:13:16.400
+of a technological civilization.
+
+01:13:16.400 --> 01:13:20.560
+By the way, where in the span of logic and actuation
+
+01:13:20.560 --> 01:13:22.360
+did the sensing come in?
+
+01:13:22.360 --> 01:13:23.520
+Oh, I skipped over that.
+
+01:13:23.520 --> 01:13:28.520
+But my favorite sensor is a step response.
+
+01:13:28.560 --> 01:13:32.400
+So if you just make a step and measure the response
+
+01:13:32.400 --> 01:13:37.200
+to the electric field, that ranges from user interfaces
+
+01:13:37.200 --> 01:13:40.000
+to positioning to material properties.
+
+01:13:40.000 --> 01:13:43.280
+And if you do it at higher frequencies, you get chemistry.
+
+01:13:43.280 --> 01:13:44.200
+And you can get all of that
+
+01:13:44.200 --> 01:13:46.800
+just from a step in an electric field.
+
+01:13:46.800 --> 01:13:51.800
+So for example, once you have time resolution in logic,
+
+01:13:51.920 --> 01:13:54.600
+something as simple as two electrodes
+
+01:13:54.600 --> 01:13:58.200
+let you do amazingly capable sensing.
+
+01:13:58.200 --> 01:14:00.640
+So we've been talking about all the work I do.
+
+01:14:00.640 --> 01:14:04.360
+There's a story about how it happens.
+
+01:14:04.360 --> 01:14:06.480
+Where do ideas come from?
+
+01:14:06.480 --> 01:14:07.480
+That's an interesting story.
+
+01:14:07.480 --> 01:14:08.560
+Where do ideas come from?
+
+01:14:08.560 --> 01:14:12.160
+So I had mentioned Vannevar Bush
+
+01:14:12.160 --> 01:14:16.960
+and he wrote a really influential thing
+
+01:14:16.960 --> 01:14:18.520
+called The Endless Frontier.
+
+01:14:18.520 --> 01:14:22.200
+So science won World War II.
+
+01:14:22.200 --> 01:14:26.320
+The more known story is nuclear bombs.
+
+01:14:26.320 --> 01:14:28.880
+The less well-known story is the Rad Lab.
+
+01:14:28.920 --> 01:14:32.680
+So at MIT, an amazing group of people invented radar
+
+01:14:32.680 --> 01:14:35.280
+which is really credited as winning the war.
+
+01:14:35.280 --> 01:14:39.480
+So after the war, a grand old man from MIT
+
+01:14:39.480 --> 01:14:44.480
+and was charged with science won the war.
+
+01:14:44.800 --> 01:14:48.280
+How do we maintain that edge?
+
+01:14:48.280 --> 01:14:51.600
+And the report he wrote led to
+
+01:14:51.600 --> 01:14:53.520
+the National Science Foundation
+
+01:14:53.520 --> 01:14:55.440
+and the modern notion we take for granted
+
+01:14:55.440 --> 01:14:57.160
+but didn't really exist before then
+
+01:14:57.160 --> 01:15:01.560
+of public funding of research or research agencies.
+
+01:15:02.560 --> 01:15:07.200
+In it, he made again what I consider an important mistake
+
+01:15:07.200 --> 01:15:11.040
+which is he described basic research
+
+01:15:11.040 --> 01:15:15.080
+leads to applied research, leads to applications,
+
+01:15:15.080 --> 01:15:18.520
+leads to commercialization, leads to impact.
+
+01:15:18.520 --> 01:15:21.920
+And so we need to invest in that pipeline.
+
+01:15:22.760 --> 01:15:25.920
+The reason I considered a mistake
+
+01:15:25.920 --> 01:15:30.880
+is almost all of the examples we've been talking about
+
+01:15:30.880 --> 01:15:33.280
+in my lab went backwards.
+
+01:15:33.280 --> 01:15:36.600
+That the basic research came from applications.
+
+01:15:37.520 --> 01:15:41.600
+And further, almost all of the examples
+
+01:15:41.600 --> 01:15:46.200
+we've been talking about came fundamentally from mistakes.
+
+01:15:46.200 --> 01:15:51.200
+So essentially everything I've ever worked on has failed
+
+01:15:52.160 --> 01:15:54.640
+but in failing something better happened.
+
+01:15:54.640 --> 01:15:57.600
+So the way I like to describe it is
+
+01:15:57.600 --> 01:16:00.200
+ready aim fire is you do your homework,
+
+01:16:01.600 --> 01:16:05.440
+you aim carefully at a target you want to accomplish
+
+01:16:05.440 --> 01:16:06.640
+and if everything goes right,
+
+01:16:06.640 --> 01:16:08.880
+you then hit the target and succeed.
+
+01:16:09.840 --> 01:16:13.640
+What I do, you can think of as ready fire aim.
+
+01:16:13.640 --> 01:16:16.600
+So you do a lot of work to get ready,
+
+01:16:16.600 --> 01:16:19.480
+then you close your eyes and you don't really think
+
+01:16:19.680 --> 01:16:21.160
+about where you're aiming
+
+01:16:21.160 --> 01:16:23.400
+but you look very carefully at where you did aim.
+
+01:16:23.400 --> 01:16:28.400
+Where you aim after you fire and the reason
+
+01:16:28.960 --> 01:16:33.720
+that's so important is if you do ready aim fire,
+
+01:16:33.720 --> 01:16:37.080
+the best you can hope is hit what you aim at.
+
+01:16:37.080 --> 01:16:39.040
+So let me give you some examples.
+
+01:16:39.040 --> 01:16:41.840
+Because this is a source of great-
+
+01:16:41.840 --> 01:16:43.760
+You're full of good lines today.
+
+01:16:43.760 --> 01:16:45.560
+Source of great frustration.
+
+01:16:45.560 --> 01:16:47.160
+Source of great frustration.
+
+01:16:47.160 --> 01:16:51.280
+So I mentioned the early quantum computing.
+
+01:16:51.280 --> 01:16:53.480
+So quantum computing is this power
+
+01:16:53.480 --> 01:16:55.680
+of using quantum mechanics to make computers
+
+01:16:55.680 --> 01:16:58.880
+that for some problems are dramatically more powerful
+
+01:16:58.880 --> 01:17:01.000
+than classical computers.
+
+01:17:01.000 --> 01:17:04.520
+Before it started, there was a really interesting group
+
+01:17:04.520 --> 01:17:09.520
+of people who knew a lot about physics and computing
+
+01:17:09.520 --> 01:17:12.560
+that were inventing what became quantum computing
+
+01:17:12.560 --> 01:17:14.120
+before it was clear anything,
+
+01:17:14.120 --> 01:17:15.600
+there was an opportunity there.
+
+01:17:15.600 --> 01:17:18.320
+It was just studying how those relate.
+
+01:17:18.320 --> 01:17:21.320
+Here's how it fits to the ready fire aim.
+
+01:17:21.320 --> 01:17:24.240
+I was doing really short-term work in my lab
+
+01:17:24.240 --> 01:17:25.920
+on shoplifting tags.
+
+01:17:27.640 --> 01:17:30.960
+This was really before there was modern RFID.
+
+01:17:30.960 --> 01:17:35.400
+And so how you put tags in objects to sense them,
+
+01:17:35.400 --> 01:17:37.480
+something we just take for granted commercially.
+
+01:17:37.480 --> 01:17:39.600
+And there was a problem of how you can sense
+
+01:17:39.600 --> 01:17:41.480
+multiple objects at the same time.
+
+01:17:42.880 --> 01:17:47.880
+And so I was studying how you can remotely sense materials
+
+01:17:48.680 --> 01:17:51.480
+to make low-cost tags that could let you distinguish
+
+01:17:51.480 --> 01:17:53.680
+multiple objects simultaneously.
+
+01:17:53.680 --> 01:17:55.880
+To do that, you need non-linearity
+
+01:17:55.880 --> 01:17:58.200
+so that the signal is modulated.
+
+01:17:59.400 --> 01:18:03.120
+And so I was looking for material sources of non-linearity
+
+01:18:03.120 --> 01:18:08.120
+and that led me to look at how nuclear spins interact.
+
+01:18:08.600 --> 01:18:12.040
+Just for spin resonance,
+
+01:18:12.040 --> 01:18:16.280
+the sort of things you use when you go in an MRI machine.
+
+01:18:16.280 --> 01:18:18.400
+And so I was studying how to use that.
+
+01:18:18.400 --> 01:18:20.880
+And it turns out that it was a bad idea.
+
+01:18:20.880 --> 01:18:25.880
+You couldn't remotely use it for shoplifting tags,
+
+01:18:27.040 --> 01:18:29.920
+but I realized you could compute.
+
+01:18:29.920 --> 01:18:34.920
+And so with a group of colleagues
+
+01:18:34.920 --> 01:18:36.640
+thinking about early quantum computing,
+
+01:18:36.760 --> 01:18:38.240
+like David DiVincenzo and Charlie Bennett,
+
+01:18:38.240 --> 01:18:40.080
+was articulating what are the properties
+
+01:18:40.080 --> 01:18:41.480
+you need to compute.
+
+01:18:41.480 --> 01:18:43.760
+And then looking at how to make the tags,
+
+01:18:43.760 --> 01:18:46.320
+it turns out the tags were a terrible idea
+
+01:18:46.320 --> 01:18:51.320
+for sensing objects in a supermarket checkout,
+
+01:18:52.440 --> 01:18:54.600
+but I realized they were computing.
+
+01:18:54.600 --> 01:18:56.760
+So with Ike Chuang and a few other people,
+
+01:18:56.760 --> 01:19:00.440
+we realized we could program nuclear spins to compute.
+
+01:19:00.440 --> 01:19:03.880
+And so that's what we use to do Grover's search algorithm.
+
+01:19:04.080 --> 01:19:07.200
+And then it was used for a Shor's factoring algorithm.
+
+01:19:07.200 --> 01:19:08.560
+And it worked out.
+
+01:19:08.560 --> 01:19:11.240
+The systems we did it in nuclear magnetic resonance
+
+01:19:11.240 --> 01:19:14.160
+don't scale beyond a few qubits,
+
+01:19:14.160 --> 01:19:16.400
+but the techniques have lived on.
+
+01:19:16.400 --> 01:19:20.200
+And so all the current quantum computing techniques
+
+01:19:20.200 --> 01:19:24.720
+grew out of the ways we would talk to these spins.
+
+01:19:24.720 --> 01:19:26.600
+But I'm telling this whole story
+
+01:19:26.600 --> 01:19:30.600
+because it came from a bad way to make a shoplifting tag.
+
+01:19:31.000 --> 01:19:32.240
+Starting with an application,
+
+01:19:32.240 --> 01:19:35.800
+mistakes led to the fundamental science.
+
+01:19:35.800 --> 01:19:37.800
+I mean, can you just link on that?
+
+01:19:37.800 --> 01:19:41.800
+I mean, just using nuclear spins to do computation,
+
+01:19:41.800 --> 01:19:46.800
+like what gave you the guts to try to think through this,
+
+01:19:48.640 --> 01:19:51.520
+from a digital fabrication perspective, actually,
+
+01:19:51.520 --> 01:19:53.120
+how to leap from one to the other?
+
+01:19:53.120 --> 01:19:55.520
+I wouldn't call it guts, I would call it collaboration.
+
+01:19:55.520 --> 01:19:58.880
+So at IBM, there was this,
+
+01:19:59.360 --> 01:20:02.560
+there was this amazing group of like,
+
+01:20:02.560 --> 01:20:05.000
+I mentioned Charlie Bennett and David DiVincenzo
+
+01:20:05.000 --> 01:20:07.160
+and Ralph Landauer and Nabil Amir.
+
+01:20:07.160 --> 01:20:10.640
+And these were all gods of thinking
+
+01:20:10.640 --> 01:20:13.000
+about physics and computing.
+
+01:20:13.000 --> 01:20:18.000
+So I yelled at the whole computer industry
+
+01:20:18.160 --> 01:20:22.840
+being based on a fiction, Metropolis,
+
+01:20:22.840 --> 01:20:24.280
+programmers frolicking in the garden
+
+01:20:24.280 --> 01:20:26.320
+while somebody moves levers in the basement.
+
+01:20:26.320 --> 01:20:28.760
+There's a complete parallel history
+
+01:20:29.600 --> 01:20:34.600
+of Maxwell to Boltzmann to Szilard to Landauer to Bennett.
+
+01:20:37.080 --> 01:20:39.200
+Most people won't know most of these names,
+
+01:20:39.200 --> 01:20:41.960
+but this whole parallel history thinking deeply
+
+01:20:41.960 --> 01:20:44.320
+about how computation and physics relate.
+
+01:20:44.320 --> 01:20:48.720
+So I was collaborating with that whole group of people.
+
+01:20:48.720 --> 01:20:53.360
+And then at MIT, I was in this high traffic environment.
+
+01:20:53.360 --> 01:20:55.760
+I wasn't deeply inspired to think about
+
+01:20:55.760 --> 01:20:57.680
+better ways to detect shoplifting tags,
+
+01:20:57.680 --> 01:21:01.200
+but stumbled across companies that needed help with that
+
+01:21:01.200 --> 01:21:02.680
+and was thinking about it.
+
+01:21:02.680 --> 01:21:05.200
+And then I realized those two worlds intersected
+
+01:21:05.200 --> 01:21:07.680
+and we could use the failed approach
+
+01:21:07.680 --> 01:21:09.840
+for the shoplifting tags
+
+01:21:09.840 --> 01:21:14.560
+to make early quantum computing algorithms.
+
+01:21:14.560 --> 01:21:16.240
+And this kind of stumbling is fundamental
+
+01:21:16.240 --> 01:21:18.040
+to the Fab Lab idea, right?
+
+01:21:18.040 --> 01:21:19.960
+Right, here's one more example.
+
+01:21:19.960 --> 01:21:22.960
+With the student Manu, we talked about ribosomes.
+
+01:21:22.960 --> 01:21:24.880
+And I was trying to build a ribosome
+
+01:21:25.880 --> 01:21:29.600
+that worked on fluids so that I could place
+
+01:21:29.600 --> 01:21:31.680
+the little parts we're talking about.
+
+01:21:31.680 --> 01:21:35.360
+And it kept failing because bubbles would come
+
+01:21:35.360 --> 01:21:37.200
+into our system and the bubbles would make
+
+01:21:37.200 --> 01:21:38.800
+the whole thing stop working.
+
+01:21:38.800 --> 01:21:40.200
+And we spent about half a year trying
+
+01:21:40.200 --> 01:21:42.120
+to get rid of the bubbles.
+
+01:21:42.120 --> 01:21:44.040
+Then Manu said, wait a minute,
+
+01:21:44.040 --> 01:21:47.120
+the bubbles are actually better than what we're doing.
+
+01:21:47.120 --> 01:21:48.600
+We should just use the bubbles.
+
+01:21:48.600 --> 01:21:52.280
+And so we invented how to do universal object
+
+01:21:52.440 --> 01:21:55.760
+with logic with little bubbles and fluid.
+
+01:21:55.760 --> 01:21:59.680
+Okay, you have to explain this microfluidic bubble logic.
+
+01:21:59.680 --> 01:22:01.000
+Please, how does this work?
+
+01:22:03.000 --> 01:22:03.840
+It's super interesting.
+
+01:22:03.840 --> 01:22:06.560
+Yeah, and so I'll come back and explain it.
+
+01:22:06.560 --> 01:22:10.600
+But what it led to was we showed fluids could do,
+
+01:22:12.080 --> 01:22:13.880
+it'd been known fluid could do logic,
+
+01:22:13.880 --> 01:22:17.520
+like your old automobile transmissions do logic,
+
+01:22:17.520 --> 01:22:18.640
+but that's macroscopic.
+
+01:22:18.640 --> 01:22:19.960
+It didn't work at little scales.
+
+01:22:19.960 --> 01:22:20.920
+We showed with these bubbles,
+
+01:22:20.920 --> 01:22:23.000
+we could do it at little scales.
+
+01:22:23.000 --> 01:22:24.480
+Then I'm gonna come back and explain it.
+
+01:22:24.480 --> 01:22:27.320
+But what came out of that is Manu then showed
+
+01:22:27.320 --> 01:22:30.960
+you could make a 50 cent microscope using little bubbles.
+
+01:22:30.960 --> 01:22:34.520
+And then the techniques we developed are what we use
+
+01:22:34.520 --> 01:22:37.840
+to transplant genomes to make synthetic life.
+
+01:22:37.840 --> 01:22:39.880
+All came out of the failure
+
+01:22:39.880 --> 01:22:43.640
+of trying to make the genome, the ribosome.
+
+01:22:43.640 --> 01:22:46.560
+Now, so the way the bubble logic works is
+
+01:22:47.320 --> 01:22:52.320
+in a little channel, fluid at small scales is fairly viscous.
+
+01:22:56.720 --> 01:23:00.120
+It's sort of like pushing jello, think of it as.
+
+01:23:02.320 --> 01:23:06.840
+If a bubble gets stuck, the fluid has to detour around it.
+
+01:23:07.920 --> 01:23:12.920
+So now imagine a channel that has two wells and one bubble.
+
+01:23:13.080 --> 01:23:15.240
+If the bubble is in one well,
+
+01:23:15.240 --> 01:23:17.760
+the fluid has to go in the other channel.
+
+01:23:17.760 --> 01:23:19.240
+If the fluid is in the other well,
+
+01:23:19.240 --> 01:23:21.280
+it has to go in the first channel.
+
+01:23:21.280 --> 01:23:26.280
+So the position of the bubble can switch,
+
+01:23:27.040 --> 01:23:30.280
+it's a switch, it can switch the fluid between two channels.
+
+01:23:30.280 --> 01:23:32.400
+So now we have one element, a switch.
+
+01:23:32.400 --> 01:23:34.760
+And it's also a memory because you can detect
+
+01:23:34.760 --> 01:23:37.200
+whether or not a bubble is stored there.
+
+01:23:37.200 --> 01:23:40.560
+Then if two bubbles meet,
+
+01:23:41.520 --> 01:23:44.200
+if you have two channels crossing,
+
+01:23:44.200 --> 01:23:45.920
+a bubble can go through one way
+
+01:23:45.920 --> 01:23:47.960
+or a bubble can go through the other way.
+
+01:23:47.960 --> 01:23:50.840
+But if two bubbles come together,
+
+01:23:50.840 --> 01:23:53.000
+then they push on each other and one goes one way
+
+01:23:53.000 --> 01:23:54.400
+and one goes the other way.
+
+01:23:54.400 --> 01:23:57.480
+That's a logic operation, that's a logic gate.
+
+01:23:57.480 --> 01:23:59.240
+So we now have a switch, we have a memory,
+
+01:23:59.240 --> 01:24:00.280
+and we have a logic gate,
+
+01:24:00.280 --> 01:24:01.120
+and that's everything you need
+
+01:24:01.120 --> 01:24:03.400
+to make a universal computer.
+
+01:24:03.400 --> 01:24:05.760
+I mean, the fact that you did that with bubbles
+
+01:24:05.760 --> 01:24:10.760
+and microfluid is just kind of brilliant.
+
+01:24:12.120 --> 01:24:14.800
+Well, so I mean, to stay with that example,
+
+01:24:16.560 --> 01:24:20.080
+what we proposed to do was to make a fluidic ribosome
+
+01:24:20.080 --> 01:24:21.760
+and the project crashed and burned.
+
+01:24:21.760 --> 01:24:23.240
+It was a disaster.
+
+01:24:24.480 --> 01:24:26.200
+This is what came out of it.
+
+01:24:26.200 --> 01:24:30.680
+And so it was precisely ready fire aim
+
+01:24:30.680 --> 01:24:32.760
+in that we had to do a lot of homework
+
+01:24:32.760 --> 01:24:36.000
+to be able to make these microfluidic systems.
+
+01:24:36.000 --> 01:24:38.920
+The fire part was we didn't think too hard
+
+01:24:38.920 --> 01:24:40.040
+about making the ribosome.
+
+01:24:40.040 --> 01:24:41.520
+We just tried to do it.
+
+01:24:41.520 --> 01:24:43.840
+The aim part was we realized the ribosome failed,
+
+01:24:43.840 --> 01:24:45.560
+but something better had happened.
+
+01:24:45.560 --> 01:24:48.720
+And if you look all across research funding,
+
+01:24:48.720 --> 01:24:53.480
+research management, it doesn't anticipate this.
+
+01:24:53.480 --> 01:24:56.360
+So fail fast is familiar,
+
+01:24:56.360 --> 01:25:01.080
+but fail fast tends to miss ready and aim.
+
+01:25:01.080 --> 01:25:02.200
+You can't just fail.
+
+01:25:02.200 --> 01:25:05.240
+You have to do your homework before the fail part
+
+01:25:05.240 --> 01:25:08.080
+and you have to do the aim part after the fail part.
+
+01:25:08.080 --> 01:25:09.960
+And so the whole language of research
+
+01:25:09.960 --> 01:25:12.160
+is about like milestones and deliverables.
+
+01:25:12.160 --> 01:25:14.960
+That works when you're going down a straight line,
+
+01:25:14.960 --> 01:25:17.560
+but it doesn't work for this kind of discovery.
+
+01:25:17.560 --> 01:25:20.240
+And to leap to something you said that's really important
+
+01:25:20.240 --> 01:25:23.920
+is I view part of what the FabLab network is doing
+
+01:25:23.920 --> 01:25:28.120
+is giving more people the opportunity to fail.
+
+01:25:29.000 --> 01:25:34.000
+You've said that geometry is really important in biology.
+
+01:25:37.560 --> 01:25:39.840
+What does fabrication biology look like?
+
+01:25:39.840 --> 01:25:41.760
+Why is geometry important?
+
+01:25:41.760 --> 01:25:46.400
+So molecular biology is dominated by geometry.
+
+01:25:46.400 --> 01:25:48.400
+That's why the protein folding is so important
+
+01:25:48.400 --> 01:25:53.200
+that the geometry gives the function.
+
+01:25:53.200 --> 01:25:56.920
+And there's this hierarchical construction
+
+01:25:56.920 --> 01:26:00.320
+of as you go through primary, secondary, tertiary, quaternary,
+
+01:26:00.320 --> 01:26:03.360
+the shapes of the molecules
+
+01:26:03.360 --> 01:26:05.960
+make the shape of the molecular machines.
+
+01:26:05.960 --> 01:26:08.040
+And they really are exquisite machines.
+
+01:26:08.040 --> 01:26:13.040
+If you look at how your muscles move,
+
+01:26:13.680 --> 01:26:15.600
+if you were to see a simulation of it,
+
+01:26:15.600 --> 01:26:20.000
+it would look like a improbable science fiction cyborg world
+
+01:26:20.000 --> 01:26:24.080
+of these little walking robots that walk on a discrete lattice.
+
+01:26:24.080 --> 01:26:26.280
+They're really exquisite machines.
+
+01:26:26.760 --> 01:26:30.520
+And then from there, there's this whole hierarchical stack of,
+
+01:26:30.520 --> 01:26:32.240
+once you get to the top of that,
+
+01:26:32.240 --> 01:26:36.040
+you then start making organelles that make cells,
+
+01:26:36.040 --> 01:26:39.440
+that make organs through the stack of that hierarchy.
+
+01:26:41.280 --> 01:26:43.520
+Just stepping back, does it amaze you
+
+01:26:43.520 --> 01:26:45.360
+that from small building blocks
+
+01:26:45.360 --> 01:26:49.280
+where amino acids you mentioned, molecules,
+
+01:26:49.280 --> 01:26:51.400
+let's go to the very beginning of hydrogen and helium
+
+01:26:51.400 --> 01:26:53.080
+at the start of this universe,
+
+01:26:53.080 --> 01:26:57.560
+that we're able to build up such complex
+
+01:26:57.560 --> 01:27:00.760
+and beautiful things like our human brain?
+
+01:27:00.760 --> 01:27:04.760
+So studying thermodynamics,
+
+01:27:05.640 --> 01:27:07.920
+which is exactly the question of
+
+01:27:10.080 --> 01:27:13.840
+batteries run out and need recharging.
+
+01:27:15.560 --> 01:27:20.360
+Equipment, cars get old and fail,
+
+01:27:20.360 --> 01:27:23.360
+yet life doesn't.
+
+01:27:23.360 --> 01:27:27.040
+And that's why there's a sense in which life
+
+01:27:27.040 --> 01:27:28.840
+seems to violate thermodynamics,
+
+01:27:28.840 --> 01:27:30.120
+although of course it doesn't.
+
+01:27:30.120 --> 01:27:33.360
+It seems to resist the march towards entropy somehow.
+
+01:27:33.360 --> 01:27:36.480
+Right, and so Maxwell,
+
+01:27:36.480 --> 01:27:40.880
+who helped give rise to the science of thermodynamics,
+
+01:27:40.880 --> 01:27:45.600
+posited a problem that was so infuriating
+
+01:27:45.600 --> 01:27:48.080
+it led to a series of suicides.
+
+01:27:48.080 --> 01:27:52.440
+There was a series of advisors and advisees,
+
+01:27:53.760 --> 01:27:56.680
+three in a row that all ended up committing suicide
+
+01:27:56.680 --> 01:27:59.120
+that happened to work on this problem.
+
+01:27:59.120 --> 01:28:04.120
+And Maxwell's demon is this simple but infamous problem
+
+01:28:07.560 --> 01:28:11.640
+where right now in this room we're surrounded by molecules
+
+01:28:11.640 --> 01:28:13.480
+and they run at different velocities.
+
+01:28:14.480 --> 01:28:18.480
+Imagine a container that has a wall
+
+01:28:18.480 --> 01:28:21.600
+and it's got gas on both sides and a little door.
+
+01:28:21.600 --> 01:28:26.000
+And if the door is a molecular sized creature
+
+01:28:26.000 --> 01:28:28.280
+and it could watch the molecules coming,
+
+01:28:28.280 --> 01:28:31.320
+and when a fast molecule is coming, it opens the door.
+
+01:28:31.320 --> 01:28:34.800
+When a slow molecule is coming, it closes the door.
+
+01:28:34.800 --> 01:28:36.800
+After it does that for a while,
+
+01:28:36.800 --> 01:28:39.160
+one side is hot, one is cold.
+
+01:28:39.160 --> 01:28:42.640
+When something is hot and is cold, you can make an engine.
+
+01:28:42.640 --> 01:28:44.880
+And so you close that and you make an engine
+
+01:28:44.880 --> 01:28:45.920
+and you make energy.
+
+01:28:47.160 --> 01:28:51.600
+So the demon is violating thermodynamics
+
+01:28:51.600 --> 01:28:55.080
+because it's never touching the molecule,
+
+01:28:56.040 --> 01:28:58.600
+yet by just opening and closing the door,
+
+01:28:58.600 --> 01:29:00.840
+it can make arbitrary amounts of energy
+
+01:29:01.800 --> 01:29:03.560
+and power a machine.
+
+01:29:03.560 --> 01:29:05.320
+And in thermodynamics, you can't do that.
+
+01:29:05.320 --> 01:29:06.680
+So that's Maxwell's demon.
+
+01:29:07.640 --> 01:29:11.640
+That problem is connected to everything we just spoke about
+
+01:29:11.640 --> 01:29:12.800
+for the last few hours.
+
+01:29:12.800 --> 01:29:17.800
+So Leo Szilard around early 1900s was a deep physicist
+
+01:29:24.480 --> 01:29:29.480
+who then had a lot to do with also post-war
+
+01:29:29.760 --> 01:29:32.400
+anti-nuclear things.
+
+01:29:32.680 --> 01:29:37.320
+Things, but he reduced Maxwell's demon
+
+01:29:37.320 --> 01:29:38.720
+to a single molecule.
+
+01:29:38.720 --> 01:29:41.720
+So the molecule, there's only one molecule
+
+01:29:41.720 --> 01:29:44.920
+and the question is, which side of the partition is it on?
+
+01:29:44.920 --> 01:29:48.960
+That led to the idea of one bit of information.
+
+01:29:48.960 --> 01:29:53.560
+So Shannon credited Szilard's analysis of Maxwell's demon
+
+01:29:53.560 --> 01:29:55.480
+for the invention of the bit.
+
+01:29:57.120 --> 01:30:00.920
+For many years, people tried to explain Maxwell's demon
+
+01:30:00.920 --> 01:30:04.880
+by the energy in the demon looking at the molecule
+
+01:30:05.760 --> 01:30:08.440
+or the energy to open and close the door
+
+01:30:08.440 --> 01:30:11.040
+and nothing ever made sense.
+
+01:30:11.040 --> 01:30:13.720
+Finally, Rolf Landauer,
+
+01:30:13.720 --> 01:30:16.480
+one of the colleagues I mentioned at IBM,
+
+01:30:16.480 --> 01:30:18.360
+finally solved the problem.
+
+01:30:19.240 --> 01:30:23.920
+He showed that you can explain Maxwell's demon
+
+01:30:23.920 --> 01:30:27.120
+by you need the mind of the demon.
+
+01:30:28.120 --> 01:30:33.040
+When the demon open and closes the door,
+
+01:30:33.040 --> 01:30:36.080
+as long as it remembers what it did,
+
+01:30:36.080 --> 01:30:39.600
+you can run the whole thing backwards.
+
+01:30:39.600 --> 01:30:41.680
+But when the demon forgets,
+
+01:30:42.800 --> 01:30:45.960
+then you can't run it backwards
+
+01:30:45.960 --> 01:30:49.080
+and that's where you get dissipation
+
+01:30:49.080 --> 01:30:51.920
+and that's where you get the violation of thermodynamics.
+
+01:30:51.920 --> 01:30:54.440
+And so the explanation of Maxwell's demon
+
+01:30:54.440 --> 01:30:56.800
+is that it's in the demon's brain.
+
+01:30:57.520 --> 01:31:02.240
+So then Rolf's colleague Charlie at IBM
+
+01:31:03.560 --> 01:31:06.240
+then shocked Rolf by showing
+
+01:31:06.240 --> 01:31:10.040
+you can compute with arbitrarily low energy.
+
+01:31:10.040 --> 01:31:13.200
+So one of the things that's not well covered
+
+01:31:13.200 --> 01:31:18.200
+is that the big computers used for big machine learning,
+
+01:31:19.160 --> 01:31:22.040
+the data centers used tens of megawatts of power.
+
+01:31:22.040 --> 01:31:23.760
+They use as much power as a city.
+
+01:31:24.600 --> 01:31:27.720
+Charlie showed you can actually compute
+
+01:31:27.720 --> 01:31:30.800
+with arbitrarily low amounts of energy
+
+01:31:30.800 --> 01:31:34.480
+by making computers that can go backwards as well as forwards.
+
+01:31:35.680 --> 01:31:39.120
+And what limits the speed of the computer
+
+01:31:39.120 --> 01:31:42.320
+is how fast you want an answer
+
+01:31:42.320 --> 01:31:45.040
+and how certain you want the answer to be.
+
+01:31:45.040 --> 01:31:47.440
+But we're orders of magnitude away from that.
+
+01:31:47.440 --> 01:31:50.320
+So I have a student, Cameron, working with Lincoln Labs
+
+01:31:50.320 --> 01:31:53.120
+on making superconducting computers
+
+01:31:53.160 --> 01:31:56.840
+that operate near this Landauer limit
+
+01:31:56.840 --> 01:31:59.040
+that are orders of magnitude more efficient.
+
+01:32:00.200 --> 01:32:01.840
+So stepping back to all of that,
+
+01:32:01.840 --> 01:32:05.680
+that whole tour was driven by your question about life
+
+01:32:05.680 --> 01:32:10.000
+and right at the heart of it is Maxwell's demon.
+
+01:32:10.000 --> 01:32:14.360
+Life exists because it can locally violate thermodynamics.
+
+01:32:14.360 --> 01:32:16.480
+It can locally violate thermodynamics
+
+01:32:16.480 --> 01:32:18.880
+because of intelligence
+
+01:32:18.880 --> 01:32:21.640
+and it's molecular intelligence
+
+01:32:21.640 --> 01:32:25.760
+that I would even go out on a limb to say,
+
+01:32:25.760 --> 01:32:29.680
+we can already see we're beginning to come to the end
+
+01:32:29.680 --> 01:32:32.280
+of this current AI phase.
+
+01:32:32.280 --> 01:32:34.000
+So depending on how you count,
+
+01:32:34.000 --> 01:32:36.960
+this is I'd say the fifth AI boom bust cycle.
+
+01:32:37.920 --> 01:32:40.200
+And you can already, it's exploding,
+
+01:32:40.200 --> 01:32:42.840
+but you can already see where it's heading,
+
+01:32:42.840 --> 01:32:46.880
+how it's going to saturate what happens on the far side.
+
+01:32:48.080 --> 01:32:50.920
+The big thing that's not yet on horizons
+
+01:32:50.920 --> 01:32:55.920
+is embodied AI, molecular intelligence.
+
+01:32:56.200 --> 01:32:59.000
+So to step back to this AI story,
+
+01:33:00.920 --> 01:33:05.120
+there was automation and that was gonna change everything.
+
+01:33:05.120 --> 01:33:07.120
+Then there were expert systems.
+
+01:33:09.800 --> 01:33:14.000
+There was then the first phase of the neural network systems.
+
+01:33:14.000 --> 01:33:16.560
+There've been about five of these.
+
+01:33:16.560 --> 01:33:19.320
+In each case, on the slope up,
+
+01:33:19.320 --> 01:33:21.000
+it's gonna change everything.
+
+01:33:21.840 --> 01:33:24.800
+Each case, what happens is on the slope down,
+
+01:33:25.960 --> 01:33:28.360
+we sort of move the goal posts
+
+01:33:28.360 --> 01:33:29.920
+and it becomes sort of irrelevant.
+
+01:33:29.920 --> 01:33:33.280
+So a good example is going up,
+
+01:33:33.280 --> 01:33:35.320
+computer chess was gonna change everything.
+
+01:33:35.320 --> 01:33:36.600
+Once computers could play chess,
+
+01:33:36.600 --> 01:33:38.520
+that fundamentally changes the world.
+
+01:33:38.520 --> 01:33:41.560
+Now on the downside, computers play chess.
+
+01:33:41.560 --> 01:33:44.440
+Winning at chess is no longer seen as a unique human thing,
+
+01:33:44.440 --> 01:33:48.120
+but people still play chess.
+
+01:33:48.120 --> 01:33:51.200
+This new phase is gonna take a new chunk of things
+
+01:33:51.200 --> 01:33:53.000
+that we thought computers couldn't do,
+
+01:33:53.000 --> 01:33:54.440
+now computers will be able to do.
+
+01:33:54.440 --> 01:33:56.360
+They have roughly our brain capacity,
+
+01:33:57.800 --> 01:34:01.120
+but we'll keep thinking as well as computers.
+
+01:34:02.240 --> 01:34:03.720
+And as I described,
+
+01:34:03.720 --> 01:34:06.000
+while we've been going through these five boom busts,
+
+01:34:06.000 --> 01:34:08.440
+if you just look at the numbers of ops per second,
+
+01:34:08.440 --> 01:34:11.920
+bits storage, bits of IO, that's the more interesting one.
+
+01:34:11.920 --> 01:34:12.880
+That's been steady
+
+01:34:12.880 --> 01:34:14.920
+and that's what finally caught up to people.
+
+01:34:14.920 --> 01:34:17.880
+But as we've talked about a couple of times,
+
+01:34:17.880 --> 01:34:20.680
+there's eight orders of magnitude to go,
+
+01:34:20.680 --> 01:34:24.120
+not in the intelligence in the transistors or in the brain,
+
+01:34:24.120 --> 01:34:25.800
+but in the embodied intelligence,
+
+01:34:25.800 --> 01:34:27.440
+in the intelligence in our body.
+
+01:34:27.440 --> 01:34:30.480
+So the intelligent constructions of physical systems
+
+01:34:30.480 --> 01:34:32.640
+that would embody the intelligence
+
+01:34:32.640 --> 01:34:34.800
+versus contain it within the computation.
+
+01:34:34.800 --> 01:34:38.200
+Right, and there's a brain centrism
+
+01:34:38.200 --> 01:34:42.800
+that assumes our intelligence is centered in our brain.
+
+01:34:43.440 --> 01:34:45.200
+In endless ways in this conversation,
+
+01:34:45.200 --> 01:34:47.480
+we've been talking about molecular intelligence.
+
+01:34:47.480 --> 01:34:49.640
+Our molecular systems
+
+01:34:49.640 --> 01:34:53.040
+do a deep kind of artificial intelligence.
+
+01:34:53.040 --> 01:34:56.680
+All the things you think of as artificial intelligence does
+
+01:34:56.680 --> 01:35:01.680
+in representing knowledge, storing knowledge,
+
+01:35:01.720 --> 01:35:04.560
+searching over knowledge, adapting to knowledge,
+
+01:35:04.560 --> 01:35:06.840
+our molecular systems do,
+
+01:35:06.840 --> 01:35:11.080
+but the output isn't just a thought, it's us.
+
+01:35:11.080 --> 01:35:13.000
+It's the evolution of us.
+
+01:35:13.000 --> 01:35:18.000
+And the real horizon to come is now embodying AI,
+
+01:35:18.160 --> 01:35:20.800
+not just a processor and a robot,
+
+01:35:20.800 --> 01:35:25.800
+but building systems that really can grow and evolve.
+
+01:35:27.440 --> 01:35:29.600
+So we've been speaking about this boundary
+
+01:35:29.600 --> 01:35:31.800
+between bits and atoms.
+
+01:35:31.800 --> 01:35:34.760
+So let me ask you about one of the big mysteries
+
+01:35:34.760 --> 01:35:35.960
+of consciousness.
+
+01:35:36.800 --> 01:35:41.800
+Do you think it comes from somewhere between that boundary?
+
+01:35:41.840 --> 01:35:43.760
+I won't name names,
+
+01:35:43.760 --> 01:35:46.080
+but if you know who I'm talking about,
+
+01:35:46.080 --> 01:35:47.280
+it's probably clear.
+
+01:35:47.280 --> 01:35:49.520
+I once did a drive,
+
+01:35:49.520 --> 01:35:53.760
+in fact, up to the Mussolini era villa outside Torino
+
+01:35:54.880 --> 01:35:58.000
+in the early days of what became quantum computing
+
+01:35:58.000 --> 01:36:01.640
+with a famous person
+
+01:36:01.640 --> 01:36:04.440
+who thinks about quantum mechanics and consciousness.
+
+01:36:04.440 --> 01:36:07.720
+And we had the most infuriating conversation
+
+01:36:07.720 --> 01:36:10.320
+that went roughly along the lines of
+
+01:36:12.120 --> 01:36:14.880
+consciousness is weird,
+
+01:36:14.880 --> 01:36:17.280
+quantum mechanics is weird,
+
+01:36:17.280 --> 01:36:20.560
+therefore quantum mechanics explains consciousness.
+
+01:36:20.560 --> 01:36:24.360
+That was roughly the logical process.
+
+01:36:24.360 --> 01:36:26.120
+And you're not satisfied with that process?
+
+01:36:26.120 --> 01:36:29.600
+No, and I say that very precisely in the following sense.
+
+01:36:29.600 --> 01:36:32.880
+I was a program manager somewhat by accident
+
+01:36:32.880 --> 01:36:37.880
+in a DARPA program on quantum biology.
+
+01:36:38.560 --> 01:36:43.560
+And so biology trivially uses quantum mechanics
+
+01:36:44.080 --> 01:36:45.800
+and that were made out of atoms.
+
+01:36:45.800 --> 01:36:49.360
+But the distinction is in quantum computing,
+
+01:36:49.360 --> 01:36:53.160
+quantum information, you need quantum coherence.
+
+01:36:53.160 --> 01:36:56.080
+And there's a lot of muddled thinking about
+
+01:36:56.080 --> 01:36:58.800
+like collapse of the wave function
+
+01:36:58.800 --> 01:37:01.960
+and claims of quantum computing that garbles
+
+01:37:01.960 --> 01:37:06.960
+just quantum coherence that you can think of it
+
+01:37:08.080 --> 01:37:10.560
+as a wave that has very special properties,
+
+01:37:10.560 --> 01:37:12.760
+but these wave like properties.
+
+01:37:12.760 --> 01:37:16.640
+And so there's a small set of places
+
+01:37:16.640 --> 01:37:21.080
+where biology uses quantum mechanics in that deeper sense.
+
+01:37:21.080 --> 01:37:26.080
+One is how light is converted to energy in photo systems.
+
+01:37:27.360 --> 01:37:29.240
+It looks like one is all faction,
+
+01:37:29.240 --> 01:37:31.840
+how your nose is able to tell different smells.
+
+01:37:33.280 --> 01:37:37.240
+Probably one has to do with how birds navigate,
+
+01:37:38.280 --> 01:37:40.200
+how they sense magnetic fields.
+
+01:37:41.320 --> 01:37:44.640
+That involves a coupling between a very weak energy
+
+01:37:44.640 --> 01:37:48.080
+with a magnetic field, coupling into chemical reactions.
+
+01:37:48.080 --> 01:37:50.680
+And there's a beautiful system.
+
+01:37:51.880 --> 01:37:56.160
+Standard in chemistry is magnetic fields
+
+01:37:56.160 --> 01:37:58.200
+like this can't influence chemistry,
+
+01:37:58.200 --> 01:38:00.040
+but there are biological circuits
+
+01:38:00.040 --> 01:38:02.240
+that are carefully balanced with two pathways
+
+01:38:02.240 --> 01:38:04.560
+that become unbalanced with magnetic fields.
+
+01:38:04.560 --> 01:38:08.000
+So each of these areas are expensive for biology.
+
+01:38:08.000 --> 01:38:09.680
+It has to consume resources
+
+01:38:09.680 --> 01:38:11.520
+to use quantum mechanics in this way.
+
+01:38:12.600 --> 01:38:14.600
+So again, those are places where we know
+
+01:38:14.600 --> 01:38:16.680
+there's quantum mechanics in biology.
+
+01:38:16.680 --> 01:38:20.320
+In cognition, there's just no evidence.
+
+01:38:20.320 --> 01:38:25.320
+There's no evidence of anything quantum mechanical going on
+
+01:38:25.320 --> 01:38:26.880
+in how cognition works.
+
+01:38:26.880 --> 01:38:27.720
+Consciousness.
+
+01:38:27.720 --> 01:38:30.880
+Well, I'm saying cognition, I'm not saying consciousness,
+
+01:38:30.880 --> 01:38:34.440
+but to get from cognition to consciousness.
+
+01:38:35.400 --> 01:38:38.840
+So McCullough and Pitts made a model of neurons
+
+01:38:40.280 --> 01:38:43.520
+that led to perceptrons
+
+01:38:43.520 --> 01:38:46.120
+that then through a couple of boom busts
+
+01:38:46.120 --> 01:38:48.400
+led to deep learning.
+
+01:38:48.400 --> 01:38:50.240
+One of the interesting things about that sequence
+
+01:38:50.240 --> 01:38:54.960
+is it diverged off of the quantum mechanics
+
+01:38:55.640 --> 01:39:00.120
+so deep neural networks used in machine learning
+
+01:39:00.120 --> 01:39:03.200
+diverged from trying to understand how the brain works.
+
+01:39:04.600 --> 01:39:09.040
+What makes them work, what's emerged is,
+
+01:39:09.040 --> 01:39:10.720
+it's a really interesting story.
+
+01:39:10.720 --> 01:39:13.120
+This may be too much of a technical detail,
+
+01:39:13.120 --> 01:39:15.320
+but it has to do with function approximation.
+
+01:39:17.240 --> 01:39:18.640
+We had talked about exponentials.
+
+01:39:18.640 --> 01:39:23.640
+A deep network needs an exponentially larger,
+
+01:39:24.080 --> 01:39:27.160
+shallow network to do the same function.
+
+01:39:27.160 --> 01:39:29.840
+And that exponential is what gives the power
+
+01:39:29.840 --> 01:39:31.480
+to deep networks.
+
+01:39:31.480 --> 01:39:34.800
+But what's interesting is the sort of lessons
+
+01:39:34.800 --> 01:39:37.440
+about building these deep architectures
+
+01:39:37.440 --> 01:39:41.320
+and how to train them have really interesting echoes
+
+01:39:41.320 --> 01:39:43.280
+to how brains work.
+
+01:39:43.280 --> 01:39:45.320
+And there's an interesting conversation
+
+01:39:45.320 --> 01:39:48.200
+that's sort of coming back of neuroscientists
+
+01:39:48.200 --> 01:39:49.560
+looking over the shoulder
+
+01:39:49.560 --> 01:39:51.360
+of people training these deep networks,
+
+01:39:51.440 --> 01:39:54.760
+seeing interesting echoes for how the brain works,
+
+01:39:54.760 --> 01:39:56.640
+interesting parallels with it.
+
+01:39:56.640 --> 01:40:01.520
+And so I didn't say consciousness, I just said cognition,
+
+01:40:01.520 --> 01:40:05.160
+but I don't know any experimental evidence
+
+01:40:05.160 --> 01:40:07.520
+that points to anything in neurobiology
+
+01:40:07.520 --> 01:40:10.040
+that says we need quantum mechanics.
+
+01:40:10.040 --> 01:40:15.040
+And I view the question about whether a large language model
+
+01:40:16.040 --> 01:40:21.040
+is conscious as silly in that biology is full of hacks
+
+01:40:28.320 --> 01:40:29.440
+and it works.
+
+01:40:30.400 --> 01:40:33.680
+There's no evidence we have that there's anything
+
+01:40:33.680 --> 01:40:37.040
+deeper going on than just this sort of stacking up
+
+01:40:37.040 --> 01:40:38.360
+of hacks in the brain.
+
+01:40:38.360 --> 01:40:40.800
+And somehow consciousness is one of the hacks
+
+01:40:40.800 --> 01:40:42.640
+or an emergent property of the hacks.
+
+01:40:42.680 --> 01:40:43.520
+Absolutely.
+
+01:40:43.520 --> 01:40:47.680
+And just numerically I said big computations
+
+01:40:47.680 --> 01:40:50.440
+now have the degrees of freedom of the brain.
+
+01:40:50.440 --> 01:40:53.200
+And they're showing a lot of the phenomenology
+
+01:40:53.200 --> 01:40:57.040
+of what we think is properties of what a brain can do.
+
+01:40:59.720 --> 01:41:02.360
+And I don't see any reason to invoke anything else.
+
+01:41:02.360 --> 01:41:04.840
+That makes you wonder what kind of beautiful stuff
+
+01:41:04.840 --> 01:41:06.840
+digital fabrication will create.
+
+01:41:06.840 --> 01:41:08.800
+If biology created a few hacks
+
+01:41:08.800 --> 01:41:11.400
+on top of which consciousness and cognition,
+
+01:41:11.400 --> 01:41:15.400
+some of the things we love about human beings was created.
+
+01:41:15.400 --> 01:41:19.920
+It makes you wonder what kind of beauty in the complexity
+
+01:41:19.920 --> 01:41:21.880
+can create digital fabrication.
+
+01:41:21.880 --> 01:41:23.640
+There's an early peak at that,
+
+01:41:23.640 --> 01:41:26.720
+which is there's a misleading term,
+
+01:41:26.720 --> 01:41:29.160
+which is generative design.
+
+01:41:29.160 --> 01:41:32.760
+Generative design is where you don't tell a computer
+
+01:41:32.760 --> 01:41:33.760
+how to design something,
+
+01:41:33.760 --> 01:41:36.400
+you tell the computer what you want it to do.
+
+01:41:36.400 --> 01:41:40.920
+That doesn't work, that only works in limited subdomains.
+
+01:41:41.000 --> 01:41:44.040
+You can't do really complex functionality that way.
+
+01:41:44.040 --> 01:41:46.080
+The one place it's matured though
+
+01:41:46.080 --> 01:41:48.520
+is topology optimization for structure.
+
+01:41:48.520 --> 01:41:52.200
+So let's say you wanted to make a bicycle or a table.
+
+01:41:53.600 --> 01:41:55.800
+You describe the loads on it
+
+01:41:55.800 --> 01:41:57.920
+and it figures out how to design it.
+
+01:41:57.920 --> 01:42:01.560
+And what it makes are beautiful organic looking things.
+
+01:42:01.560 --> 01:42:04.440
+These are things that look like they grew in a forest
+
+01:42:04.440 --> 01:42:07.040
+and they look like they grew in a forest
+
+01:42:07.040 --> 01:42:08.920
+because that's sort of exactly what they are,
+
+01:42:08.920 --> 01:42:12.880
+that they're solving the ways of how you handle loads
+
+01:42:12.880 --> 01:42:14.200
+in the same way biology does.
+
+01:42:14.200 --> 01:42:17.000
+And so you get things that look like trees and shells
+
+01:42:17.000 --> 01:42:17.840
+and all of that.
+
+01:42:17.840 --> 01:42:19.920
+And so that's a peak at this transition
+
+01:42:19.920 --> 01:42:24.920
+from we design to we teach the machines how to design.
+
+01:42:27.040 --> 01:42:28.040
+What can you say about,
+
+01:42:28.040 --> 01:42:30.480
+because you mentioned cellular automata earlier,
+
+01:42:30.480 --> 01:42:32.480
+about from this example you just gave
+
+01:42:32.480 --> 01:42:34.360
+and in general the observation you can make
+
+01:42:34.360 --> 01:42:35.800
+by looking at cellular automata,
+
+01:42:35.800 --> 01:42:40.320
+that from simple rules and simple building blocks
+
+01:42:40.320 --> 01:42:43.480
+can emerge arbitrary complexity.
+
+01:42:43.480 --> 01:42:48.480
+Do you understand what that is, how that can be leveraged?
+
+01:42:48.680 --> 01:42:53.680
+So understand what it is is much easier than it sounds.
+
+01:42:54.280 --> 01:42:55.920
+I complained about Turing's machine
+
+01:42:55.920 --> 01:42:57.280
+making a physics mistake,
+
+01:42:57.280 --> 01:43:01.560
+but Turing never intended it to be a computer architecture.
+
+01:43:01.560 --> 01:43:06.240
+He used it just to prove results about uncomputability.
+
+01:43:07.360 --> 01:43:10.800
+What Turing did on what is computation is exquisite,
+
+01:43:10.800 --> 01:43:11.800
+is gorgeous.
+
+01:43:12.920 --> 01:43:16.360
+He gave us our notion of computational universality
+
+01:43:16.360 --> 01:43:21.360
+and something that sounds deep and turns out to be trivial
+
+01:43:21.640 --> 01:43:26.640
+is it's really easy to show almost everything
+
+01:43:26.960 --> 01:43:29.240
+as computationally universal.
+
+01:43:29.240 --> 01:43:33.240
+So Norm Margulis wrote a beautiful paper
+
+01:43:34.760 --> 01:43:37.720
+with Tom Toffoli showing in a cellular,
+
+01:43:37.720 --> 01:43:41.600
+a cellular automata world is like the game of life
+
+01:43:41.600 --> 01:43:43.840
+where you just move tokens around.
+
+01:43:45.520 --> 01:43:48.600
+They showed that modeling billiard balls
+
+01:43:48.600 --> 01:43:52.360
+on a billiard table with cellular automata
+
+01:43:52.360 --> 01:43:53.800
+is a universal computer.
+
+01:43:54.800 --> 01:43:59.520
+To be universal, you need a persistent state,
+
+01:43:59.520 --> 01:44:03.000
+you need a nonlinear operation to interact them,
+
+01:44:04.600 --> 01:44:07.480
+and you need connectivity.
+
+01:44:08.280 --> 01:44:11.320
+So that's what you need to show computational universality.
+
+01:44:11.320 --> 01:44:15.560
+So they showed that a CA modeling billiard balls
+
+01:44:15.560 --> 01:44:17.520
+is a universal computer.
+
+01:44:17.520 --> 01:44:21.600
+Chris Moore went on to show that instead of chaos,
+
+01:44:21.960 --> 01:44:26.960
+let's see, Turing showed they're problems in computation
+
+01:44:27.080 --> 01:44:29.160
+that you can't solve,
+
+01:44:29.160 --> 01:44:31.280
+that they're harder than you can't predict,
+
+01:44:31.280 --> 01:44:34.640
+they're actually in a deep reason, they are unsolvable.
+
+01:44:36.080 --> 01:44:39.240
+Chris Moore showed it's very easy to make physical systems
+
+01:44:39.240 --> 01:44:43.320
+that are uncomputable, that what the physics system does,
+
+01:44:43.320 --> 01:44:45.400
+just bouncing balls and surfaces,
+
+01:44:45.400 --> 01:44:48.760
+you can make systems that solve uncomputable problems.
+
+01:44:48.960 --> 01:44:52.520
+And so almost any non-trivial physical system
+
+01:44:52.520 --> 01:44:54.680
+is computationally universal.
+
+01:44:54.680 --> 01:44:57.640
+So the first part of the answer to your question is,
+
+01:44:57.640 --> 01:45:00.560
+this comes back to my comment about
+
+01:45:00.560 --> 01:45:02.880
+how do you bootstrap a civilization,
+
+01:45:02.880 --> 01:45:06.720
+you just don't need much to be computationally universal.
+
+01:45:06.720 --> 01:45:10.720
+So then there isn't today a notion
+
+01:45:10.720 --> 01:45:14.040
+of like fabricational universality
+
+01:45:14.040 --> 01:45:16.280
+or fabricational complexity.
+
+01:45:16.280 --> 01:45:18.400
+The sort of numbers I've been giving you
+
+01:45:18.400 --> 01:45:21.800
+about you eating lunch versus the chip fab,
+
+01:45:21.800 --> 01:45:26.480
+sort of that's in the same spirit of what Shannon did,
+
+01:45:26.480 --> 01:45:31.480
+but once you connect computational universality
+
+01:45:32.120 --> 01:45:35.240
+to kind of fabricational universality,
+
+01:45:35.240 --> 01:45:39.240
+you then get the ability to grow and adapt and evolve.
+
+01:45:40.480 --> 01:45:42.560
+Because that evolution happens in the physical space
+
+01:45:42.560 --> 01:45:43.400
+and that's ultimately-
+
+01:45:43.400 --> 01:45:45.720
+And so that's why, for me,
+
+01:45:45.720 --> 01:45:49.720
+the heart of this whole conversation is morphogenesis.
+
+01:45:49.720 --> 01:45:51.960
+So just to come back to that,
+
+01:45:53.800 --> 01:45:58.800
+what Turing ended his sadly cut short life studying
+
+01:46:02.240 --> 01:46:05.640
+was how genes give rise to form.
+
+01:46:05.640 --> 01:46:10.480
+So how the relatively, in effect,
+
+01:46:10.480 --> 01:46:12.200
+small amount of information in the genome
+
+01:46:12.200 --> 01:46:15.560
+can give rise to the complexity of who you are.
+
+01:46:15.560 --> 01:46:20.560
+And that's where what resides is this molecular intelligence,
+
+01:46:22.680 --> 01:46:25.000
+which is first how to describe you,
+
+01:46:25.000 --> 01:46:29.400
+but then how to describe you such that you can exist
+
+01:46:29.400 --> 01:46:33.600
+and you can reproduce and you can grow and you can evolve.
+
+01:46:33.600 --> 01:46:38.600
+And so that's the seat of our molecular intelligence.
+
+01:46:38.800 --> 01:46:41.120
+The maker revolution in biology.
+
+01:46:41.120 --> 01:46:44.320
+Yeah, it really is.
+
+01:46:44.320 --> 01:46:45.160
+It really is.
+
+01:46:45.160 --> 01:46:49.360
+And that's where you can't separate communication,
+
+01:46:49.360 --> 01:46:50.960
+computation, and fabrication.
+
+01:46:50.960 --> 01:46:53.760
+You can't separate computer science and physical science.
+
+01:46:53.760 --> 01:46:56.000
+You can't separate hardware and software.
+
+01:46:56.000 --> 01:46:58.360
+They all intersect right at that place.
+
+01:46:59.600 --> 01:47:02.680
+Do you think of our universe as just one giant computation?
+
+01:47:04.640 --> 01:47:08.880
+I would even kind of say quantum computing is overhyped
+
+01:47:08.880 --> 01:47:10.600
+in that there's a few things
+
+01:47:10.600 --> 01:47:12.400
+quantum computing is gonna be good at.
+
+01:47:12.400 --> 01:47:14.160
+One is breaking crypto systems,
+
+01:47:14.160 --> 01:47:16.080
+but we know how to make new crypto systems.
+
+01:47:16.080 --> 01:47:19.000
+What it's really good at is modeling other quantum systems.
+
+01:47:19.000 --> 01:47:23.240
+So for studying nanotechnology, it's gonna be powerful.
+
+01:47:24.400 --> 01:47:27.200
+But quantum computing is not going to disrupt
+
+01:47:27.200 --> 01:47:29.000
+and change everything.
+
+01:47:29.000 --> 01:47:33.080
+But the reason I say that is this interesting group
+
+01:47:33.080 --> 01:47:36.600
+of strange people who helped invent quantum computing
+
+01:47:36.600 --> 01:47:39.360
+before it was clear anything was there.
+
+01:47:40.360 --> 01:47:42.200
+One of the main reasons they did it
+
+01:47:42.200 --> 01:47:46.440
+wasn't to make a computer that can break a crypto system.
+
+01:47:46.440 --> 01:47:48.840
+It was you could turn this backwards.
+
+01:47:48.840 --> 01:47:52.280
+You could be surprised quantum mechanics can compute,
+
+01:47:52.280 --> 01:47:55.280
+or you can go in the opposite direction
+
+01:47:55.280 --> 01:47:58.520
+and say if quantum mechanics can compute,
+
+01:48:00.000 --> 01:48:01.840
+that's a description of nature.
+
+01:48:01.840 --> 01:48:05.240
+So physics is written
+
+01:48:05.240 --> 01:48:08.320
+in terms of partial differential equations.
+
+01:48:08.320 --> 01:48:13.320
+That is an information technology from two centuries ago.
+
+01:48:17.520 --> 01:48:21.240
+The equations of physics are not,
+
+01:48:21.240 --> 01:48:22.720
+this would sound very strange to say,
+
+01:48:22.720 --> 01:48:24.080
+but the equations of physics,
+
+01:48:24.080 --> 01:48:26.160
+Schrodinger's equations and Maxwell's equations
+
+01:48:26.160 --> 01:48:28.760
+and all of them are not fundamental.
+
+01:48:28.760 --> 01:48:31.000
+They're a representation of physics
+
+01:48:31.000 --> 01:48:33.800
+that was accessible to us in the era
+
+01:48:33.800 --> 01:48:35.760
+of having a pencil and a piece of paper.
+
+01:48:38.360 --> 01:48:41.520
+They have a fundamental problem,
+
+01:48:41.520 --> 01:48:45.600
+which is if you make a dot on a piece of paper,
+
+01:48:45.600 --> 01:48:48.560
+in traditional physics theory,
+
+01:48:48.560 --> 01:48:51.880
+there's infinite information in that dot.
+
+01:48:51.880 --> 01:48:55.400
+A point has infinite information.
+
+01:48:56.720 --> 01:49:00.760
+That can't be true because information
+
+01:49:01.120 --> 01:49:05.960
+is a fundamental resource that's connected to energy.
+
+01:49:05.960 --> 01:49:09.960
+And in fact, one of my favorite questions
+
+01:49:09.960 --> 01:49:13.160
+you can ask a cosmologist to trip them up
+
+01:49:13.160 --> 01:49:17.760
+is ask is information a conserved quantity in the universe?
+
+01:49:17.760 --> 01:49:20.240
+Was all the information created in the Big Bang
+
+01:49:20.240 --> 01:49:21.920
+or can the universe create information?
+
+01:49:21.920 --> 01:49:24.800
+And I've yet to meet a cosmologist
+
+01:49:24.800 --> 01:49:29.240
+who doesn't stutter and not clearly know
+
+01:49:29.240 --> 01:49:31.880
+how to handle that existential question.
+
+01:49:31.880 --> 01:49:35.160
+But sort of putting that to a side,
+
+01:49:35.160 --> 01:49:38.040
+in physics theory, the way it's taught,
+
+01:49:39.720 --> 01:49:43.280
+information comes late.
+
+01:49:43.280 --> 01:49:46.440
+You're taught about X, a variable,
+
+01:49:46.440 --> 01:49:48.240
+which can contain infinite information,
+
+01:49:48.240 --> 01:49:50.360
+but physically that's unrealistic.
+
+01:49:50.360 --> 01:49:53.960
+And so physics theories have to find ways to cut that off.
+
+01:49:53.960 --> 01:49:57.880
+So instead, there are a number of people
+
+01:49:58.800 --> 01:50:03.240
+who start with a theory of the universe
+
+01:50:03.240 --> 01:50:06.680
+should start with information and computation
+
+01:50:06.680 --> 01:50:09.560
+as the fundamental resources that explain nature.
+
+01:50:09.560 --> 01:50:11.720
+And then you build up from that
+
+01:50:11.720 --> 01:50:15.800
+to something that looks like throwing baseballs down a slope.
+
+01:50:15.800 --> 01:50:20.800
+And so in that sense, the work on physics and computation
+
+01:50:22.120 --> 01:50:24.640
+has many applications that we've been talking about,
+
+01:50:24.640 --> 01:50:29.040
+but more deeply, it's really getting at new ways
+
+01:50:29.040 --> 01:50:31.200
+to think about how the universe works.
+
+01:50:31.200 --> 01:50:32.760
+And there are a number of things
+
+01:50:32.760 --> 01:50:34.840
+that are hard to do in traditional physics
+
+01:50:34.840 --> 01:50:36.920
+that make more sense when you start
+
+01:50:36.920 --> 01:50:39.160
+with information and computation
+
+01:50:39.160 --> 01:50:41.240
+as the root of physical theory.
+
+01:50:41.240 --> 01:50:42.600
+So information and computation
+
+01:50:42.600 --> 01:50:46.040
+being the real fundamental thing in the universe.
+
+01:50:46.040 --> 01:50:49.000
+Right, that information is a resource.
+
+01:50:49.000 --> 01:50:52.880
+You can't have infinite information in finite space.
+
+01:50:53.720 --> 01:50:56.320
+Information propagates and interacts.
+
+01:50:56.320 --> 01:50:58.760
+And from there, you erect the scaffolding of physics.
+
+01:50:58.760 --> 01:51:01.520
+Now it happens, the words I just said
+
+01:51:01.520 --> 01:51:04.320
+look a lot like quantum field theories.
+
+01:51:05.560 --> 01:51:08.560
+But there's an interesting way where instead of starting
+
+01:51:08.560 --> 01:51:13.040
+with differential equations to get to quantum field theories
+
+01:51:13.040 --> 01:51:16.200
+and quantum field theories, you get to quantization.
+
+01:51:18.360 --> 01:51:21.280
+If you start from computation and information,
+
+01:51:21.280 --> 01:51:24.720
+you begin sort of quantized and you build up from there.
+
+01:51:24.720 --> 01:51:26.880
+And so that's the sense in which
+
+01:51:28.560 --> 01:51:31.240
+absolutely I think about the universe as a computer.
+
+01:51:31.240 --> 01:51:34.120
+The easy way to understand that is
+
+01:51:36.000 --> 01:51:38.880
+just almost anything is computationally universal,
+
+01:51:38.880 --> 01:51:41.920
+but the deep way is it's a real fundamental way
+
+01:51:41.920 --> 01:51:43.880
+to understand how the universe works.
+
+01:51:45.880 --> 01:51:47.560
+Let me go a little bit to the personal
+
+01:51:47.560 --> 01:51:50.440
+and with the Center of Bits and Atoms.
+
+01:51:51.560 --> 01:51:52.400
+You have
+
+01:51:54.560 --> 01:51:57.920
+worked with, the students you've worked with
+
+01:51:57.920 --> 01:52:00.360
+have gone on to do some incredible things in this world,
+
+01:52:00.360 --> 01:52:02.840
+including build supercomputers that power
+
+01:52:03.880 --> 01:52:05.520
+Facebook and Twitter and so on.
+
+01:52:06.400 --> 01:52:08.760
+What advice would you give to young people?
+
+01:52:08.760 --> 01:52:11.160
+What advice have you given them
+
+01:52:11.160 --> 01:52:14.120
+how to have one heck of a great career,
+
+01:52:14.120 --> 01:52:15.920
+one heck of a great life?
+
+01:52:15.920 --> 01:52:17.360
+One important one is
+
+01:52:20.560 --> 01:52:23.520
+if you look at junior faculty trying to get tenure
+
+01:52:23.520 --> 01:52:25.440
+at a place like MIT,
+
+01:52:25.440 --> 01:52:28.400
+the ones who try to figure out how to get tenure
+
+01:52:28.400 --> 01:52:30.720
+are miserable and don't get tenure.
+
+01:52:30.720 --> 01:52:33.400
+And the ones who don't try to figure it out
+
+01:52:33.400 --> 01:52:34.720
+are happy and do get it.
+
+01:52:36.320 --> 01:52:39.160
+You have to love what you're doing and believe in it
+
+01:52:39.160 --> 01:52:42.960
+and nothing else could possibly be
+
+01:52:42.960 --> 01:52:44.480
+what you wanna be doing with your life
+
+01:52:44.480 --> 01:52:46.560
+and it gets you out of bed in the morning.
+
+01:52:46.560 --> 01:52:49.160
+And again, it sounds naive, but
+
+01:52:52.080 --> 01:52:54.280
+within the limited domain I'm describing now
+
+01:52:54.280 --> 01:52:57.280
+of getting tenure at MIT, that's a key attribute to it.
+
+01:52:57.280 --> 01:52:58.480
+And then same sense,
+
+01:52:59.680 --> 01:53:04.200
+if you take the outlier students we're talking about,
+
+01:53:04.200 --> 01:53:06.040
+99 out of 100 come to me and say,
+
+01:53:06.040 --> 01:53:07.520
+your work is very fascinating,
+
+01:53:07.520 --> 01:53:11.120
+I'd be interesting to work for you.
+
+01:53:11.120 --> 01:53:13.400
+And one out of 100 come and say,
+
+01:53:14.640 --> 01:53:18.400
+you're wrong, here's your mistake,
+
+01:53:18.400 --> 01:53:20.280
+here's what you should have been doing.
+
+01:53:23.560 --> 01:53:26.480
+They just sort of say, I'm here and get to work.
+
+01:53:26.480 --> 01:53:29.840
+And again, I don't know how far this resource goes.
+
+01:53:29.840 --> 01:53:33.760
+So I've said I consider the world's greatest resource
+
+01:53:33.760 --> 01:53:36.040
+this engine of bright inventive people
+
+01:53:36.040 --> 01:53:39.200
+of which we only see a tiny little iceberg of it.
+
+01:53:39.200 --> 01:53:41.040
+And everywhere we open these labs,
+
+01:53:41.040 --> 01:53:43.280
+they come out of the woodwork.
+
+01:53:43.320 --> 01:53:45.920
+We didn't create all these educational programs,
+
+01:53:45.920 --> 01:53:47.760
+all these other things I'm describing.
+
+01:53:47.760 --> 01:53:51.160
+We tried to partner everywhere with local schools
+
+01:53:51.160 --> 01:53:53.640
+and local companies and kept tripping over dysfunction
+
+01:53:53.640 --> 01:53:55.240
+and find we had to create the environment
+
+01:53:55.240 --> 01:53:56.800
+where people like this can flourish.
+
+01:53:56.800 --> 01:54:00.040
+And so I don't know if this is everyone,
+
+01:54:00.040 --> 01:54:02.520
+if it's 1% of society, what the fraction is,
+
+01:54:02.520 --> 01:54:05.600
+but it's so many orders of magnitude bigger
+
+01:54:05.600 --> 01:54:07.000
+than we see today.
+
+01:54:07.000 --> 01:54:08.360
+We've been racing to keep up with it
+
+01:54:08.360 --> 01:54:10.320
+to take advantage of that resource.
+
+01:54:10.320 --> 01:54:11.760
+Something tells me it's a very large
+
+01:54:11.760 --> 01:54:13.240
+fraction of the population.
+
+01:54:13.240 --> 01:54:15.640
+I mean, the thing that gives me most hope
+
+01:54:15.640 --> 01:54:18.800
+for the future is that population.
+
+01:54:18.800 --> 01:54:21.160
+Once a year, this whole lab network meets
+
+01:54:21.160 --> 01:54:24.040
+and it's my favorite gathering, it's in Bhutan this year,
+
+01:54:24.040 --> 01:54:26.680
+because it's every body shape,
+
+01:54:26.680 --> 01:54:28.800
+it's every language, every geography,
+
+01:54:28.800 --> 01:54:31.640
+but it's the same person in all those packages.
+
+01:54:31.640 --> 01:54:36.640
+It's the same sense of bright inventive joy and discovery.
+
+01:54:36.920 --> 01:54:38.320
+If there's people listening to this
+
+01:54:38.320 --> 01:54:41.640
+and they're just overwhelmed with how exciting this is,
+
+01:54:41.640 --> 01:54:43.200
+which I think there would be,
+
+01:54:43.200 --> 01:54:44.240
+how can they participate?
+
+01:54:44.240 --> 01:54:45.080
+How can they help?
+
+01:54:45.080 --> 01:54:48.160
+How can they encourage young people or themselves
+
+01:54:48.160 --> 01:54:50.880
+to build stuff, to create stuff?
+
+01:54:50.880 --> 01:54:51.920
+Yeah, that's a great question.
+
+01:54:51.920 --> 01:54:56.920
+So this is part of a much bigger maker movement
+
+01:54:58.720 --> 01:55:00.520
+that has a lot of embodiments.
+
+01:55:00.520 --> 01:55:03.320
+The part I've been involved in, this FabLab network,
+
+01:55:03.320 --> 01:55:06.160
+you can think of as a curated part that works as a network.
+
+01:55:06.160 --> 01:55:09.200
+So you don't benefit in a gym
+
+01:55:09.200 --> 01:55:11.720
+if somebody exercises in another gym,
+
+01:55:11.720 --> 01:55:14.800
+but in the Fab network, you do in a sense benefit
+
+01:55:14.800 --> 01:55:17.400
+when somebody works in another lab
+
+01:55:17.400 --> 01:55:19.480
+in the way it functions as a network.
+
+01:55:19.480 --> 01:55:23.520
+So you can come to cba.mit.edu
+
+01:55:23.520 --> 01:55:26.280
+to see the research we're talking about.
+
+01:55:26.280 --> 01:55:29.400
+There's a Fab Foundation run by Sherry Lassiter
+
+01:55:29.400 --> 01:55:31.440
+at fabfoundation.org.
+
+01:55:31.440 --> 01:55:35.280
+Fablabs.io is a portal into this lab network.
+
+01:55:36.760 --> 01:55:39.480
+fabacademy.org is this distributed,
+
+01:55:39.480 --> 01:55:41.920
+hands-on educational program.
+
+01:55:41.920 --> 01:55:44.880
+fab.city is the platform of cities producing
+
+01:55:44.880 --> 01:55:45.720
+what they consume.
+
+01:55:45.720 --> 01:55:48.560
+Those are all nodes in this network.
+
+01:55:48.560 --> 01:55:50.280
+So you can learn with Fab Academy
+
+01:55:50.280 --> 01:55:53.000
+and you can perhaps launch or help launch
+
+01:55:53.000 --> 01:55:54.600
+or participate in launching a Fab Lab.
+
+01:55:54.600 --> 01:55:59.120
+Well, and in particular, from one to a thousand,
+
+01:55:59.120 --> 01:56:00.640
+we carefully counted labs.
+
+01:56:00.640 --> 01:56:03.000
+Now we're going from a thousand to a million,
+
+01:56:03.000 --> 01:56:05.240
+where it ceases to become interesting to count them.
+
+01:56:05.280 --> 01:56:07.960
+And in the thousand to the million,
+
+01:56:07.960 --> 01:56:12.840
+what's interesting about that stage is technologically,
+
+01:56:12.840 --> 01:56:15.200
+you go to a lab not to get access to the machine,
+
+01:56:15.200 --> 01:56:17.840
+but you go to the lab to make the machine.
+
+01:56:17.840 --> 01:56:20.120
+But the other thing interesting in it
+
+01:56:20.120 --> 01:56:22.560
+is we have an interesting collaboration
+
+01:56:22.560 --> 01:56:26.360
+on a Fab Lab in a box.
+
+01:56:26.360 --> 01:56:30.680
+And this came out of a collaboration with SolidWorks
+
+01:56:30.680 --> 01:56:34.880
+on how you can put a Fab Lab in a box,
+
+01:56:34.880 --> 01:56:37.720
+which is not just the tools, but the knowledge.
+
+01:56:37.720 --> 01:56:42.040
+So you open the box and the box contains the knowledge
+
+01:56:42.040 --> 01:56:45.600
+of how to use it as well as the tools within it,
+
+01:56:45.600 --> 01:56:47.240
+so that the knowledge can propagate.
+
+01:56:47.240 --> 01:56:50.000
+And so we have an interesting group of people working on,
+
+01:56:50.880 --> 01:56:52.880
+the original Fab Labs, we'd have a whole team
+
+01:56:52.880 --> 01:56:56.240
+to get involved in the setting up and training.
+
+01:56:56.240 --> 01:56:58.680
+And the Fab Academy is a real in-depth,
+
+01:56:58.680 --> 01:57:01.000
+deep technical program in the training.
+
+01:57:01.000 --> 01:57:02.320
+But in this next phase,
+
+01:57:02.320 --> 01:57:06.040
+how sort of the lab itself knows how to do the lab.
+
+01:57:06.040 --> 01:57:11.040
+That it's, we've talked deeply about the intelligence
+
+01:57:11.600 --> 01:57:14.520
+in fabrication, but in a much more accessible one
+
+01:57:14.520 --> 01:57:19.480
+about how the AI in the lab in a fact
+
+01:57:19.480 --> 01:57:23.280
+becomes a collaborator with you in this near term
+
+01:57:23.280 --> 01:57:24.440
+to help get started.
+
+01:57:24.440 --> 01:57:28.440
+And for people wanting to connect,
+
+01:57:28.440 --> 01:57:31.040
+it can seem like a big step, a big threshold,
+
+01:57:31.040 --> 01:57:32.840
+but we've gotten to thousands of these
+
+01:57:32.840 --> 01:57:35.200
+and they're doubling exactly that way
+
+01:57:35.200 --> 01:57:37.560
+just from people opting in.
+
+01:57:37.560 --> 01:57:40.440
+And in so doing, driving towards this kind of idea
+
+01:57:40.440 --> 01:57:43.800
+of personal digital fabrication.
+
+01:57:43.800 --> 01:57:46.480
+Yeah, and it's not utopia, it's not free,
+
+01:57:46.480 --> 01:57:51.480
+but come back to today, we separately have education,
+
+01:57:52.480 --> 01:57:55.440
+we have big business, we have startups,
+
+01:57:55.440 --> 01:57:57.880
+we have entertainment, sort of each of these things
+
+01:57:57.880 --> 01:57:59.600
+are segregated.
+
+01:57:59.600 --> 01:58:01.880
+When you have global connection
+
+01:58:01.880 --> 01:58:04.080
+to one of these local facilities,
+
+01:58:04.080 --> 01:58:07.720
+in that you can do play and art and education
+
+01:58:07.720 --> 01:58:09.400
+and create infrastructure.
+
+01:58:10.560 --> 01:58:13.640
+You can make many of the things you consume.
+
+01:58:13.640 --> 01:58:15.000
+You could make it for yourself,
+
+01:58:15.000 --> 01:58:16.720
+it could be done on a community school,
+
+01:58:16.720 --> 01:58:19.120
+it could be done on a regional scale.
+
+01:58:20.280 --> 01:58:24.240
+It really, I'd say the research we spent
+
+01:58:24.240 --> 01:58:27.720
+the last few hours talking about, I thought was hard.
+
+01:58:27.720 --> 01:58:32.720
+And in a sense, I mean, it's non-trivial,
+
+01:58:32.720 --> 01:58:35.280
+but in a sense, it's just sort of playing out,
+
+01:58:35.280 --> 01:58:36.520
+we're turning the crank.
+
+01:58:36.520 --> 01:58:39.080
+What I didn't think was hard is
+
+01:58:40.320 --> 01:58:43.600
+if anybody can make almost anything anywhere,
+
+01:58:43.600 --> 01:58:45.440
+how do you live, how do you learn,
+
+01:58:45.440 --> 01:58:47.440
+how do you work, how you play?
+
+01:58:47.440 --> 01:58:50.960
+These very basic assumptions about how society functions.
+
+01:58:50.960 --> 01:58:54.800
+There's a way in which it's kind of back to the future
+
+01:58:54.800 --> 01:58:59.800
+in that this mode where work is money is consumption
+
+01:58:59.960 --> 01:59:03.640
+and consumption is shopping by selecting
+
+01:59:03.640 --> 01:59:07.320
+is only a kind of a few decade old stretch.
+
+01:59:08.880 --> 01:59:12.960
+In some ways, we're getting back to a Sami village
+
+01:59:12.960 --> 01:59:17.240
+in North Norway is deeply sustainable,
+
+01:59:18.400 --> 01:59:22.000
+but rather than just reverting to living
+
+01:59:22.040 --> 01:59:24.280
+the way we did a few thousand years ago,
+
+01:59:25.520 --> 01:59:27.120
+being connected globally,
+
+01:59:27.120 --> 01:59:30.680
+having the benefits of modern society,
+
+01:59:30.680 --> 01:59:34.480
+but connecting it back to older notions of sustainability.
+
+01:59:35.680 --> 01:59:38.880
+I hadn't remotely anticipated
+
+01:59:38.880 --> 01:59:40.680
+just how fundamentally that challenge
+
+01:59:40.680 --> 01:59:43.800
+is how a society functions and how interesting
+
+01:59:43.800 --> 01:59:47.840
+and how hard it is to figure out how we can make that work.
+
+01:59:47.840 --> 01:59:50.480
+And it's possible that this kind of process
+
+01:59:51.440 --> 01:59:54.880
+will give a deeper sense of meaning to each person.
+
+01:59:54.880 --> 01:59:58.080
+Let me violently agree in two ways.
+
+01:59:58.080 --> 02:00:03.080
+One way is this community making
+
+02:00:05.280 --> 02:00:09.360
+crosses many sensitive sectarian boundaries
+
+02:00:09.360 --> 02:00:10.960
+in many parts of the world
+
+02:00:10.960 --> 02:00:15.640
+where there's just implicit or explicit conflict,
+
+02:00:15.680 --> 02:00:18.760
+but sort of this act of making
+
+02:00:18.760 --> 02:00:22.720
+seems to transcend a lot of historical divisions.
+
+02:00:22.720 --> 02:00:24.440
+I don't say that philosophically,
+
+02:00:24.440 --> 02:00:26.440
+I just say that as an observation.
+
+02:00:26.440 --> 02:00:30.040
+And I think there's something really fundamental
+
+02:00:30.040 --> 02:00:31.760
+in what you said, which is,
+
+02:00:32.760 --> 02:00:35.960
+deep in our brain is shaping our environment.
+
+02:00:39.440 --> 02:00:41.920
+A lot of what's strange about our society
+
+02:00:41.920 --> 02:00:44.120
+is the way that we can't do that.
+
+02:00:45.880 --> 02:00:49.000
+The act of shaping our environment
+
+02:00:49.000 --> 02:00:51.240
+touches something really, really deep
+
+02:00:51.240 --> 02:00:53.960
+that gets to the essence of who we are.
+
+02:00:55.000 --> 02:00:57.800
+That's again why I say that in a way,
+
+02:00:57.800 --> 02:01:00.240
+the most important thing made in these labs
+
+02:01:00.240 --> 02:01:01.480
+is making itself.
+
+02:01:02.720 --> 02:01:06.280
+What do you think if this shaping of our environment
+
+02:01:06.280 --> 02:01:07.240
+gets to something deep,
+
+02:01:07.240 --> 02:01:09.640
+what do you think is the meaning of it all?
+
+02:01:09.640 --> 02:01:11.240
+What's the meaning of life, Neil?
+
+02:01:12.240 --> 02:01:17.240
+I can tell you my insights into how life works.
+
+02:01:17.680 --> 02:01:21.960
+I can tell you my insights in how to make life
+
+02:01:21.960 --> 02:01:26.720
+meaningful and fulfilling and sustainable.
+
+02:01:29.080 --> 02:01:31.360
+I have no idea what the meaning of life is,
+
+02:01:31.360 --> 02:01:33.760
+but maybe that's the meaning of life.
+
+02:01:33.760 --> 02:01:35.640
+No, the uncertainty, the confusion.
+
+02:01:37.040 --> 02:01:38.880
+Because there's a magic to it all.
+
+02:01:38.880 --> 02:01:40.160
+Everything you've talked about,
+
+02:01:40.160 --> 02:01:43.880
+from starting from the basic elements with the big bang
+
+02:01:43.880 --> 02:01:45.400
+that somehow created the sun,
+
+02:01:45.400 --> 02:01:50.400
+that somehow set a few to thermodynamics and created life
+
+02:01:50.520 --> 02:01:52.680
+and all the ways that you've talked about,
+
+02:01:52.680 --> 02:01:54.840
+from ribosomes that created the machinery
+
+02:01:54.840 --> 02:01:55.960
+that created the machine,
+
+02:01:55.960 --> 02:01:57.680
+and then now the biological machine
+
+02:01:57.680 --> 02:02:00.400
+creating through digital fabrication,
+
+02:02:00.400 --> 02:02:02.360
+more complex artificial machines.
+
+02:02:02.360 --> 02:02:05.800
+All of that, there's a magic to that creative process.
+
+02:02:05.800 --> 02:02:09.480
+And we humans are smart enough to notice the magic.
+
+02:02:09.480 --> 02:02:13.200
+So you haven't said the S word yet.
+
+02:02:13.200 --> 02:02:14.040
+Which one is that?
+
+02:02:14.040 --> 02:02:14.880
+Singularity.
+
+02:02:14.880 --> 02:02:19.680
+Yeah, I'm not sure if Ray Kurzweil is listening,
+
+02:02:19.680 --> 02:02:20.680
+if he is, hi Ray.
+
+02:02:20.680 --> 02:02:23.200
+But I have a complex relationship with Ray
+
+02:02:23.200 --> 02:02:28.200
+because a lot of the things he projects I find annoying,
+
+02:02:28.640 --> 02:02:31.720
+but then he does his homework
+
+02:02:31.720 --> 02:02:34.520
+and then somewhat annoyingly he points out
+
+02:02:34.520 --> 02:02:38.320
+how almost everything I'm doing fits on his roadmaps.
+
+02:02:38.320 --> 02:02:39.160
+Yeah.
+
+02:02:39.760 --> 02:02:44.760
+And so the question is,
+
+02:02:45.360 --> 02:02:47.520
+are we heading towards a singularity?
+
+02:02:48.960 --> 02:02:52.960
+So I'd have to say I lean towards sigmoids
+
+02:02:52.960 --> 02:02:54.640
+rather than exponentials.
+
+02:02:56.280 --> 02:02:59.000
+We've done pretty well with sigmoids.
+
+02:02:59.000 --> 02:03:02.440
+Yeah, so sigmoids are things grow and they taper,
+
+02:03:02.440 --> 02:03:04.800
+and then there can be one after it and one after it.
+
+02:03:04.800 --> 02:03:09.800
+So I'll pass on whether there's enough of them
+
+02:03:10.360 --> 02:03:13.000
+that they diverge.
+
+02:03:13.000 --> 02:03:18.000
+But the selfish gene answer to the meaning of life
+
+02:03:19.840 --> 02:03:23.840
+is the meaning of life is the propagation of life.
+
+02:03:23.840 --> 02:03:28.840
+And so it was a step for atoms to assemble into a molecule,
+
+02:03:29.640 --> 02:03:34.640
+for molecules to assemble into a protocell,
+
+02:03:34.640 --> 02:03:38.200
+for the protocell to form to then form organelles,
+
+02:03:38.200 --> 02:03:43.200
+for the cells to form organs, the organs to form an organism.
+
+02:03:43.200 --> 02:03:47.200
+Then it was a step for organisms to form family units,
+
+02:03:47.200 --> 02:03:49.600
+then family units to form villages.
+
+02:03:49.600 --> 02:03:52.200
+You can view each of those as a stack
+
+02:03:52.200 --> 02:03:53.680
+in the level of organizations.
+
+02:03:53.680 --> 02:03:58.000
+So you can see that there's a whole bunch of things
+
+02:03:58.640 --> 02:04:02.120
+you could view everything we've spoken about
+
+02:04:02.120 --> 02:04:06.520
+as the imperative of life,
+
+02:04:07.680 --> 02:04:10.120
+just the next step in the hierarchy of that,
+
+02:04:10.120 --> 02:04:12.600
+in the fulfillment of the inexorable drive
+
+02:04:12.600 --> 02:04:14.400
+of the violation of thermodynamics.
+
+02:04:14.400 --> 02:04:18.000
+So you could view, I'm an embodiment of the will
+
+02:04:18.000 --> 02:04:20.360
+of the violation of thermodynamics speaking.
+
+02:04:21.960 --> 02:04:24.800
+The two of us having an old chat, yes.
+
+02:04:24.800 --> 02:04:25.920
+Yeah.
+
+02:04:25.920 --> 02:04:27.120
+And so it continues.
+
+02:04:27.120 --> 02:04:30.040
+And even then the singularity is just a transition
+
+02:04:30.040 --> 02:04:31.520
+up the ladder.
+
+02:04:31.520 --> 02:04:34.560
+There's nothing deeper to consciousness
+
+02:04:34.560 --> 02:04:39.560
+than it's a derived property of distributed problem solving.
+
+02:04:41.360 --> 02:04:46.360
+There's nothing deeper to life than embodied AI
+
+02:04:48.000 --> 02:04:50.440
+in morphogenesis.
+
+02:04:50.440 --> 02:04:53.880
+So why so much of this conversation in my life
+
+02:04:53.880 --> 02:04:57.240
+is involved in these fab labs.
+
+02:04:57.240 --> 02:05:00.000
+And initially it just started as outreach,
+
+02:05:00.000 --> 02:05:02.640
+then it started as keeping up with it.
+
+02:05:02.640 --> 02:05:05.640
+Then it turned to, it was rewarding.
+
+02:05:09.400 --> 02:05:12.840
+Then it turned to we're learning as much from these labs
+
+02:05:12.840 --> 02:05:14.280
+in as goes out to them.
+
+02:05:14.280 --> 02:05:15.480
+It began as outreach,
+
+02:05:15.480 --> 02:05:17.800
+but now more knowledge is coming back from the labs
+
+02:05:17.800 --> 02:05:19.400
+than is going into them.
+
+02:05:19.400 --> 02:05:24.400
+And then finally it ends with what I described
+
+02:05:25.280 --> 02:05:27.040
+as competing with myself at MIT,
+
+02:05:27.040 --> 02:05:30.880
+but a better way to say that is tapping the brain power
+
+02:05:30.880 --> 02:05:31.800
+of the planet.
+
+02:05:33.120 --> 02:05:35.280
+And so I guess for me personally,
+
+02:05:35.280 --> 02:05:37.560
+that's the meaning of my life.
+
+02:05:37.560 --> 02:05:39.640
+And maybe that's the meaning for the universe too.
+
+02:05:39.640 --> 02:05:43.840
+It's using us humans and our creations
+
+02:05:43.840 --> 02:05:46.880
+to understand itself in the way it's,
+
+02:05:47.560 --> 02:05:51.560
+whatever the creative process that created earth
+
+02:05:51.560 --> 02:05:53.160
+is competing with itself.
+
+02:05:53.160 --> 02:05:54.440
+Yeah.
+
+02:05:54.440 --> 02:05:56.360
+So you could take morphogenesis
+
+02:05:56.360 --> 02:05:58.120
+as a summary of this whole conversation,
+
+02:05:58.120 --> 02:06:00.360
+or you could take recursion.
+
+02:06:00.360 --> 02:06:03.400
+That in a sense, what we've been talking about
+
+02:06:03.400 --> 02:06:05.520
+is recursion all the way down.
+
+02:06:05.520 --> 02:06:08.840
+And in the end, I think this whole thing is pretty fun.
+
+02:06:08.840 --> 02:06:12.320
+It's short life is, but it's pretty fun.
+
+02:06:12.320 --> 02:06:13.920
+And so is this conversation.
+
+02:06:13.920 --> 02:06:14.920
+I mentioned to you offline,
+
+02:06:14.920 --> 02:06:17.280
+I'm going through some difficult stuff personally
+
+02:06:17.280 --> 02:06:20.560
+and your passion for what you do is just really inspiring.
+
+02:06:20.560 --> 02:06:23.720
+And it just lights up my mood and lights up my heart.
+
+02:06:23.720 --> 02:06:25.320
+And you're an inspiration for,
+
+02:06:25.320 --> 02:06:28.520
+I know thousands of people that work with you at MIT
+
+02:06:28.520 --> 02:06:30.160
+and millions of people across the world.
+
+02:06:30.160 --> 02:06:31.840
+It's a big honor that you sit with me today.
+
+02:06:31.840 --> 02:06:32.720
+This is really fun.
+
+02:06:32.720 --> 02:06:33.760
+This was a pleasure.
+
+02:06:34.720 --> 02:06:36.240
+Thanks for listening to this conversation
+
+02:06:36.240 --> 02:06:37.640
+with Neil Gershenfeld.
+
+02:06:37.640 --> 02:06:38.880
+To support this podcast,
+
+02:06:38.880 --> 02:06:41.600
+please check out our sponsors in the description.
+
+02:06:41.600 --> 02:06:43.600
+And now let me leave you with some words
+
+02:06:43.600 --> 02:06:44.960
+from Pablo Picasso.
+
+02:06:45.760 --> 02:06:48.240
+Every child is an artist.
+
+02:06:48.240 --> 02:06:51.400
+The challenge is staying an artist when you grow up.
+
+02:06:52.520 --> 02:06:55.640
+Thank you for listening and hope to see you next time.
+

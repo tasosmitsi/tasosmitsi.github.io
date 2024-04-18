@@ -1,0 +1,6923 @@
+WEBVTT
+
+00:00.000 --> 00:03.560
+So Big Dog became LS3, which is the big load carrying one.
+
+00:03.560 --> 00:07.960
+Just a quick pause, it can carry 400 pounds.
+
+00:07.960 --> 00:12.600
+It was designed to carry 400, but we had it carrying about 1,000 pounds.
+
+00:12.600 --> 00:14.920
+Of course you did, just to make sure.
+
+00:14.920 --> 00:17.200
+We had one carrying the other one, we had two of them.
+
+00:17.200 --> 00:18.920
+So we had one carrying the other one.
+
+00:18.920 --> 00:22.040
+So one of the things that stands out about the robots
+
+00:22.040 --> 00:25.200
+Boston Dynamics have created is how beautiful the movement is,
+
+00:25.280 --> 00:30.000
+how natural the walking is and running is,
+
+00:30.000 --> 00:32.200
+even flipping is, throwing is.
+
+00:32.200 --> 00:34.960
+So maybe you can talk about what's involved
+
+00:34.960 --> 00:37.640
+in making it look natural.
+
+00:37.640 --> 00:41.240
+Well, I think having good hardware is part of the story.
+
+00:41.240 --> 00:43.480
+And people who think you don't need
+
+00:43.480 --> 00:45.960
+to innovate hardware anymore are wrong.
+
+00:49.000 --> 00:52.320
+The following is a conversation with Mark Ryberg,
+
+00:52.400 --> 00:56.600
+a legendary roboticist, founder and longtime CEO of Boston Dynamics
+
+00:56.600 --> 01:00.440
+and recently the executive director of the newly created
+
+01:00.440 --> 01:04.840
+Boston Dynamics AI Institute that focuses on research
+
+01:04.840 --> 01:08.720
+and the cutting edge, on creating future generations of robots
+
+01:08.720 --> 01:12.440
+that are far better than anything that exists today.
+
+01:12.440 --> 01:16.240
+He has been leading the creation of incredible legged robots
+
+01:16.240 --> 01:22.200
+for over 40 years at CMU, at MIT, the legendary MIT
+
+01:22.200 --> 01:25.240
+leg lab, and then, of course, Boston Dynamics
+
+01:25.240 --> 01:29.240
+with amazing robots like Big Dog, Atlas, Spot, and Handle.
+
+01:29.240 --> 01:34.960
+This was a big honor and pleasure for me.
+
+01:34.960 --> 01:36.480
+This is the Lex Friedman podcast.
+
+01:36.480 --> 01:38.440
+To support it, please check out our sponsors
+
+01:38.440 --> 01:39.720
+in the description.
+
+01:39.720 --> 01:43.800
+And now, dear friends, here's Mark Ryberg.
+
+01:43.800 --> 01:47.080
+When did you first fall in love with robotics?
+
+01:47.080 --> 01:50.960
+Well, I was always a builder from a young age.
+
+01:51.280 --> 01:51.840
+I was lucky.
+
+01:51.840 --> 01:56.160
+My father was a frustrated engineer.
+
+01:56.160 --> 02:01.560
+And by that, I mean he wanted to be an aerospace engineer,
+
+02:01.560 --> 02:03.800
+but his mom from the old country thought
+
+02:03.800 --> 02:05.800
+that that would be like a grease monkey.
+
+02:05.800 --> 02:07.440
+And so she said no.
+
+02:07.440 --> 02:10.400
+So he became an accountant.
+
+02:10.400 --> 02:12.200
+But the result of that was our basement
+
+02:12.200 --> 02:16.800
+was always full of tools and equipment and electronics.
+
+02:16.800 --> 02:19.120
+And from a young age, I would watch
+
+02:19.120 --> 02:22.480
+him assembling an ICO kit or something like that.
+
+02:22.480 --> 02:27.120
+I still have a couple of his old ICO kits.
+
+02:27.120 --> 02:29.560
+But it was really during graduate school
+
+02:29.560 --> 02:35.200
+when I followed a professor back from class.
+
+02:35.200 --> 02:36.920
+It was Bertolt Horn at MIT.
+
+02:36.920 --> 02:40.520
+And I was taking an interim class.
+
+02:40.520 --> 02:43.240
+It's IAP, independent activities period.
+
+02:43.240 --> 02:45.680
+And I followed him back to his lab.
+
+02:45.720 --> 02:51.400
+And on the table was a VIKARM robot arm taken apart
+
+02:51.400 --> 02:53.360
+in probably 1,000 pieces.
+
+02:53.360 --> 02:58.680
+And when I saw that from that day on, I was a roboticist.
+
+02:58.680 --> 02:59.800
+Do you remember the year?
+
+02:59.800 --> 03:01.040
+1974.
+
+03:01.040 --> 03:02.040
+1974.
+
+03:02.040 --> 03:04.720
+So there's just this arm and pieces.
+
+03:04.720 --> 03:08.400
+And you saw the pieces, and you saw in your vision
+
+03:08.400 --> 03:11.280
+the arm when it's put back together
+
+03:11.280 --> 03:12.840
+and the possibilities that it holds.
+
+03:12.840 --> 03:15.760
+Somehow it spurred my imagination.
+
+03:15.760 --> 03:19.520
+I was in the brain and cognitive sciences department
+
+03:19.520 --> 03:21.640
+as a graduate student doing neurophysiology.
+
+03:21.640 --> 03:25.240
+I'd been an electrical engineer as an undergrad at Northeastern.
+
+03:25.240 --> 03:28.960
+And the neurophysiology wasn't really working for me.
+
+03:28.960 --> 03:30.920
+It wasn't conceptual enough.
+
+03:30.920 --> 03:35.000
+I couldn't see really how by looking at single neurons,
+
+03:35.000 --> 03:36.720
+you were going to get to a place where
+
+03:36.720 --> 03:40.440
+you could understand control systems or thought
+
+03:40.440 --> 03:41.960
+or anything like that.
+
+03:41.960 --> 03:45.320
+And the AI lab was always an appealing.
+
+03:45.320 --> 03:46.640
+This was before CSAIL, right?
+
+03:46.640 --> 03:47.520
+This was in the 70s.
+
+03:47.520 --> 03:51.720
+So the AI lab was always an appealing idea.
+
+03:51.720 --> 03:56.200
+And so when I went back to the AI lab following him
+
+03:56.200 --> 03:59.200
+and I saw the arm, I just thought, this is it.
+
+03:59.200 --> 04:00.400
+That's so interesting.
+
+04:00.400 --> 04:04.000
+The tension between the BCS, brain and cognitive science
+
+04:04.000 --> 04:07.160
+approach to understanding intelligence,
+
+04:07.160 --> 04:09.720
+and the robotics approach to understanding intelligence.
+
+04:09.720 --> 04:11.920
+Well, BCS is now morphed a bit, right?
+
+04:11.920 --> 04:15.120
+They have the Center for Brains, Minds, and Machines,
+
+04:15.120 --> 04:17.720
+which is trying to bridge that gap.
+
+04:17.720 --> 04:21.040
+And even when I was there, David Maher was in the AI lab.
+
+04:21.040 --> 04:24.360
+David Maher had models of the brain
+
+04:24.360 --> 04:26.600
+that were appealing both to biologists
+
+04:26.600 --> 04:28.760
+but also to computer people.
+
+04:28.760 --> 04:31.360
+So he was a visitor in the AI lab at the time.
+
+04:31.360 --> 04:34.160
+And I guess he became full time there.
+
+04:34.160 --> 04:36.080
+So that was the first time a bridge was
+
+04:36.080 --> 04:38.600
+made between those two groups.
+
+04:38.640 --> 04:39.960
+Then the bridge kind of went away.
+
+04:39.960 --> 04:42.200
+And then there was another time in the 80s.
+
+04:42.200 --> 04:45.600
+And then recently, the last five or so years,
+
+04:45.600 --> 04:48.160
+there's been a stronger connection.
+
+04:48.160 --> 04:50.360
+You said you were always kind of a builder.
+
+04:50.360 --> 04:53.720
+What stands out to you in memory of a thing you've built?
+
+04:53.720 --> 04:58.480
+Maybe a trivial thing that just kind of inspired you
+
+04:58.480 --> 05:02.640
+and the possibilities that this direction of work might hold.
+
+05:02.640 --> 05:05.160
+I mean, we were just doing gadgets when we were kids.
+
+05:05.160 --> 05:07.840
+I had a friend we were taking.
+
+05:08.720 --> 05:10.320
+I don't know if everybody remembers,
+
+05:10.320 --> 05:15.320
+but fluorescent lights had this little aluminum cylinder.
+
+05:16.160 --> 05:18.320
+I can't even remember what it's called now.
+
+05:18.320 --> 05:20.440
+That you needed a starter, I think it was.
+
+05:21.360 --> 05:24.240
+And we would take those apart, fill them with match heads,
+
+05:24.240 --> 05:27.040
+put a tail on it and make it into little rockets.
+
+05:27.040 --> 05:29.040
+So it wasn't always about function.
+
+05:29.040 --> 05:30.000
+It was, well.
+
+05:30.000 --> 05:32.040
+Well, rocket was pretty much.
+
+05:32.040 --> 05:33.720
+I guess that is pretty functional.
+
+05:33.720 --> 05:35.520
+But yeah, I guess that is a question.
+
+05:35.520 --> 05:37.360
+How much was it about function
+
+05:37.360 --> 05:39.760
+versus just creating something cool?
+
+05:39.760 --> 05:43.400
+I think it's still a balance between those two.
+
+05:43.400 --> 05:45.040
+There was a time though when I was,
+
+05:45.040 --> 05:46.920
+I guess I was probably already a professor
+
+05:46.920 --> 05:48.240
+or maybe late in graduate school
+
+05:48.240 --> 05:50.640
+when I thought that function was everything
+
+05:50.640 --> 05:55.640
+and that mobility, dexterity, perception and intelligence,
+
+05:56.080 --> 05:59.640
+those are sort of the key functionalities for robotics.
+
+05:59.640 --> 06:04.040
+That that's what mattered and nothing else mattered.
+
+06:04.040 --> 06:07.120
+And I even had kind of this platonic ideal
+
+06:08.080 --> 06:10.400
+that a robot, if you just looked at a robot
+
+06:10.400 --> 06:11.560
+and it wasn't doing anything,
+
+06:11.560 --> 06:12.960
+it would look like a pile of junk,
+
+06:12.960 --> 06:16.320
+which a lot of my robots looked like in those days.
+
+06:16.320 --> 06:18.400
+But then when it started moving,
+
+06:18.400 --> 06:21.280
+you'd get the idea that it had some kind of life
+
+06:21.280 --> 06:24.680
+or some kind of interest in its movement.
+
+06:24.680 --> 06:27.520
+And I think we purposely even designed the machines,
+
+06:27.520 --> 06:31.040
+not worrying about the aesthetics of the structure itself.
+
+06:31.800 --> 06:35.760
+But then it turns out that the aesthetics
+
+06:35.760 --> 06:38.640
+of the thing itself add and combine
+
+06:38.640 --> 06:42.400
+with the lifelike things that the robots can do.
+
+06:42.400 --> 06:45.640
+But the heart of it is making them do things
+
+06:45.640 --> 06:47.400
+that are interesting.
+
+06:47.400 --> 06:51.160
+So one of the things that underlies a lot of your work
+
+06:51.160 --> 06:53.800
+is that the robots you create,
+
+06:53.800 --> 06:57.600
+the systems you have created for over 40 years now
+
+06:57.600 --> 07:00.200
+have a kind of, they're not cautious.
+
+07:00.200 --> 07:03.000
+So a lot of robots that people know about
+
+07:03.000 --> 07:05.880
+move about this world very cautiously, carefully,
+
+07:05.880 --> 07:08.040
+very afraid of the world.
+
+07:08.040 --> 07:09.560
+A lot of the robots you built,
+
+07:09.560 --> 07:10.720
+especially in the early days,
+
+07:10.720 --> 07:13.560
+were very aggressive, under-extuated.
+
+07:13.560 --> 07:18.040
+They're hopping, they're wild, moving quickly.
+
+07:18.040 --> 07:20.800
+So what, is there a philosophy underlying that?
+
+07:20.800 --> 07:22.000
+Well, let me tell you about
+
+07:22.000 --> 07:24.200
+how I got started on legs at all.
+
+07:25.080 --> 07:26.600
+When I was still a graduate student,
+
+07:26.600 --> 07:28.680
+I went to a conference.
+
+07:28.680 --> 07:31.720
+It was a biological-legged locomotion conference,
+
+07:31.720 --> 07:33.560
+and I think it was in Philadelphia.
+
+07:33.560 --> 07:35.560
+So it was all biomechanics people,
+
+07:35.560 --> 07:37.440
+researchers who would look at muscle
+
+07:37.440 --> 07:40.200
+and maybe neurons and things like that.
+
+07:40.200 --> 07:42.480
+They weren't so much computational people,
+
+07:42.480 --> 07:44.160
+but they were more biomechanics.
+
+07:44.160 --> 07:45.800
+And maybe there were a thousand people there.
+
+07:45.800 --> 07:48.960
+And I went to a talk, one of the talks,
+
+07:48.960 --> 07:52.440
+all the talks were about the body of either animals
+
+07:52.440 --> 07:54.560
+or people and respiration, things like that.
+
+07:54.560 --> 07:56.880
+But one talk was by a robotics guy,
+
+07:56.880 --> 08:00.520
+and he showed a six-legged robot
+
+08:00.520 --> 08:03.520
+that walked very slowly.
+
+08:04.560 --> 08:06.920
+It always had at least three feet on the ground,
+
+08:06.920 --> 08:10.200
+so it worked like a table or a chair with tripod stability.
+
+08:10.200 --> 08:11.960
+And it moved really slowly.
+
+08:11.960 --> 08:14.000
+And I just looked at that and said,
+
+08:14.000 --> 08:16.280
+wow, that's wrong.
+
+08:16.280 --> 08:19.760
+That's not anything like how people and animals work
+
+08:19.760 --> 08:22.480
+because we bounce and fly.
+
+08:22.480 --> 08:24.320
+We have to predict what's gonna happen
+
+08:24.320 --> 08:25.560
+in order to keep our balance
+
+08:25.680 --> 08:28.760
+when we're taking a running step or something like that.
+
+08:28.760 --> 08:31.880
+We use the springiness in our legs,
+
+08:31.880 --> 08:34.320
+our muscles and our tendons and things like that
+
+08:34.320 --> 08:37.120
+as part of the story, the energy circulates.
+
+08:37.120 --> 08:39.680
+We don't just throw it away every time.
+
+08:39.680 --> 08:42.560
+So I'm not sure I understood all that when I first thought,
+
+08:42.560 --> 08:45.400
+but I definitely got inspired to say,
+
+08:46.400 --> 08:48.200
+let's try the opposite.
+
+08:48.200 --> 08:50.240
+And I didn't have a clue as to how to make
+
+08:50.240 --> 08:54.400
+a hopping robot work, not balance in 3D.
+
+08:55.760 --> 08:56.840
+In fact, when I started,
+
+08:56.840 --> 08:58.840
+it was all just about the energy of bouncing.
+
+08:58.840 --> 09:01.680
+And I was gonna have a springy thing in the leg
+
+09:01.680 --> 09:04.200
+and some actuator so that you could get
+
+09:04.200 --> 09:08.000
+an energy regime going of bouncing.
+
+09:08.000 --> 09:10.080
+And the idea that balance was an important part of it
+
+09:10.080 --> 09:12.280
+didn't come until a little later.
+
+09:12.280 --> 09:17.160
+And then I made the one like the Pogo stick robots.
+
+09:17.160 --> 09:20.200
+Now I think that we need to do that in manipulation.
+
+09:20.200 --> 09:22.840
+If you look at robot manipulation,
+
+09:22.840 --> 09:25.160
+we, a community, has been working on it
+
+09:25.160 --> 09:28.760
+for 50 years, we're nowhere near human levels
+
+09:28.760 --> 09:30.360
+of manipulation.
+
+09:30.360 --> 09:35.120
+I mean, it's come along, but I think it's all too safe.
+
+09:35.120 --> 09:39.160
+And I think trying to break out of that safety thing
+
+09:39.160 --> 09:42.880
+of static grasping, if you look at a lot of work
+
+09:42.880 --> 09:45.400
+that goes on, it's about the geometry of the part.
+
+09:45.400 --> 09:48.200
+And then you figure out how to move your hand
+
+09:48.200 --> 09:50.360
+so that you can position it with respect to that.
+
+09:50.360 --> 09:53.200
+And then you grasp it carefully and then you move it.
+
+09:53.200 --> 09:56.420
+Well, that's not anything like how people and animals work.
+
+09:56.420 --> 09:59.560
+We juggle in our hands, we have multiple objects
+
+09:59.560 --> 10:01.120
+and can sort them.
+
+10:02.520 --> 10:07.000
+So now to be fair, being more aggressive
+
+10:07.000 --> 10:09.320
+is gonna mean things aren't gonna work very well for a while.
+
+10:09.320 --> 10:13.320
+So it's a longer term approach to the problem.
+
+10:14.320 --> 10:16.040
+But that, and that's just theory now,
+
+10:16.040 --> 10:18.040
+maybe that won't pay off, but that's sort of
+
+10:18.040 --> 10:19.200
+how I'm trying to think about it,
+
+10:19.200 --> 10:22.960
+trying to encourage our group to go at it.
+
+10:22.960 --> 10:25.880
+Well, yeah, I mean, we'll talk about what it means to,
+
+10:25.880 --> 10:29.320
+what is the actual thing we're trying to optimize
+
+10:29.320 --> 10:30.600
+for a robot.
+
+10:30.600 --> 10:33.040
+Sometimes, especially with human-robot interaction,
+
+10:33.040 --> 10:36.280
+maybe flaws is a good thing.
+
+10:36.280 --> 10:38.640
+Perfection is not necessarily the right thing to be chasing.
+
+10:38.640 --> 10:42.360
+Just like you said, maybe being good at fumbling an object,
+
+10:43.240 --> 10:46.120
+being good at fumbling might be the right thing to optimize
+
+10:46.120 --> 10:50.080
+versus perfect modeling of the object
+
+10:50.080 --> 10:54.200
+and perfect movement of the arm to grasp that object,
+
+10:54.200 --> 10:56.440
+because maybe perfection is not supposed to exist
+
+10:56.440 --> 10:57.280
+in the real world.
+
+10:57.280 --> 10:59.240
+I don't know if you know my friend, Matt Mason,
+
+10:59.240 --> 11:02.800
+who is the director of the Robotics Institute
+
+11:02.800 --> 11:03.640
+at Carnegie Mellon,
+
+11:03.640 --> 11:06.000
+and we go back to graduate school together.
+
+11:06.000 --> 11:10.240
+But he analyzed a movie of Julia Childs
+
+11:10.240 --> 11:12.240
+doing a cooking thing.
+
+11:12.240 --> 11:14.660
+And she did, I think he said something like,
+
+11:14.660 --> 11:17.840
+there were 40 different ways that she handled a thing,
+
+11:17.840 --> 11:20.240
+and none of them was grasping.
+
+11:20.240 --> 11:24.480
+She would nudge, roll, flatten with her knife,
+
+11:24.480 --> 11:28.200
+things like that, and none of them was grasping.
+
+11:28.200 --> 11:30.320
+So, okay, let's go back to the early days.
+
+11:30.320 --> 11:33.880
+First of all, you've created and led the leg lab,
+
+11:33.880 --> 11:36.000
+the legendary leg lab at MIT.
+
+11:36.000 --> 11:38.440
+So what was that first hopping robot?
+
+11:38.440 --> 11:40.600
+But first of all, the leg lab actually started
+
+11:40.600 --> 11:42.000
+at Carnegie Mellon. Carnegie Mellon.
+
+11:42.000 --> 11:45.720
+So I was a professor there starting in 1980,
+
+11:46.680 --> 11:48.720
+to about 1986.
+
+11:48.720 --> 11:52.440
+And so that's where the first hopping machines were built,
+
+11:52.440 --> 11:55.000
+starting, I guess we got the first one working
+
+11:55.000 --> 11:58.000
+in about 1982, something like that.
+
+11:58.000 --> 11:59.920
+That was a simplified one.
+
+11:59.920 --> 12:03.440
+Then we got a three-dimensional one in 1983.
+
+12:03.440 --> 12:06.640
+The quadruped that we built at the leg lab,
+
+12:06.640 --> 12:10.880
+the first version, was built in about 1984 or five,
+
+12:10.880 --> 12:15.360
+and really only got going about 86 or so.
+
+12:15.400 --> 12:17.400
+It took years of development to get it to.
+
+12:17.400 --> 12:18.440
+Let's just pause here.
+
+12:18.440 --> 12:20.680
+For people who don't know, I'm talking to Mark Graeber,
+
+12:20.680 --> 12:22.440
+founder of Boston Dynamics.
+
+12:22.440 --> 12:25.400
+But before that, you were a professor
+
+12:25.400 --> 12:28.640
+developing some of the most incredible robots for 15 years,
+
+12:28.640 --> 12:30.840
+and before that, of course, a grad student and all that.
+
+12:30.840 --> 12:32.400
+So you've been doing this for a really long time.
+
+12:32.400 --> 12:34.120
+So you skipped over this,
+
+12:34.120 --> 12:36.280
+but go to the first hopping robot.
+
+12:36.280 --> 12:38.080
+There's videos of some of this.
+
+12:38.080 --> 12:39.640
+I mean, these are incredible robots.
+
+12:39.640 --> 12:43.560
+So you talked about the very first step
+
+12:43.600 --> 12:47.200
+was to get a thing hopping up and down.
+
+12:47.200 --> 12:50.040
+And then you realized, well, balancing is a thing
+
+12:50.040 --> 12:53.840
+you should care about, and it's actually a solvable problem.
+
+12:53.840 --> 12:56.240
+Can you just go through how to create that robot?
+
+12:56.240 --> 13:00.080
+What was involved in creating that robot?
+
+13:00.080 --> 13:03.520
+Well, I'm going to start on the, not the technical side,
+
+13:03.520 --> 13:07.200
+but the, I guess we could call it the motivational side
+
+13:07.200 --> 13:08.720
+or the funding side.
+
+13:08.720 --> 13:12.000
+So before Carnegie Mellon, I was actually at JPL,
+
+13:12.000 --> 13:14.240
+at the Jet Propulsion Lab for three years.
+
+13:14.240 --> 13:18.600
+And while I was there, I connected up with Ivan Sutherland,
+
+13:18.600 --> 13:23.200
+who is sometimes regarded as the father of computer graphics
+
+13:23.200 --> 13:25.120
+because of work he did both at MIT
+
+13:25.120 --> 13:28.240
+and then University of Utah and Evans and Sutherland.
+
+13:28.240 --> 13:32.200
+Anyway, I got to know him.
+
+13:32.200 --> 13:33.760
+And at one point he said,
+
+13:33.760 --> 13:38.760
+he encouraged me to do some kind of project at Caltech.
+
+13:38.760 --> 13:40.360
+Even though I was at JPL,
+
+13:40.360 --> 13:43.960
+those are kind of related institutions.
+
+13:43.960 --> 13:47.520
+And so I thought about it
+
+13:48.480 --> 13:51.880
+and I made up a list of three possible projects.
+
+13:51.880 --> 13:53.880
+And I purposely made the top one
+
+13:53.880 --> 13:56.040
+and the bottom one really boring sounding.
+
+13:56.040 --> 14:00.320
+And in the middle, I put a pogo stick robot.
+
+14:00.320 --> 14:02.120
+And when he looked at it,
+
+14:02.120 --> 14:07.120
+Ivan is a brilliant guy, brilliant engineer
+
+14:07.160 --> 14:09.320
+and real cultivator of people.
+
+14:09.320 --> 14:11.160
+He looked at it and knew right away
+
+14:11.160 --> 14:12.800
+what the thing that was worth doing.
+
+14:12.800 --> 14:15.000
+And so he had an endowed chair.
+
+14:15.000 --> 14:17.240
+So he had about $3,000 that he gave me
+
+14:17.240 --> 14:19.080
+to build the first model,
+
+14:19.080 --> 14:22.280
+which I went to the shop and with my own hands
+
+14:22.280 --> 14:26.520
+kind of made a first model, which didn't work
+
+14:26.520 --> 14:31.400
+and was just a beginning shot at it.
+
+14:31.400 --> 14:34.960
+And Ivan and I took that to Washington.
+
+14:34.960 --> 14:37.360
+And in those days, you could just walk into DARPA
+
+14:37.400 --> 14:40.440
+and walk down the hallway and see who's there.
+
+14:40.440 --> 14:43.680
+Ivan who had been there in his previous life.
+
+14:43.680 --> 14:46.720
+And so we walked around and we looked in the offices.
+
+14:46.720 --> 14:48.080
+Of course, I didn't know anything.
+
+14:48.080 --> 14:50.880
+I was basically a kid, but Ivan moved his way around
+
+14:50.880 --> 14:54.360
+and we found Craig Fields in his office.
+
+14:54.360 --> 14:56.120
+Craig later became the director of DARPA,
+
+14:56.120 --> 14:58.360
+but in those days, he was a program manager.
+
+14:58.360 --> 15:01.120
+And so we went in, I had a little Samsonite suitcase,
+
+15:01.120 --> 15:03.960
+we opened and it had just the skeleton
+
+15:04.000 --> 15:07.400
+of this one-legged hopping robot and we showed it to him.
+
+15:07.400 --> 15:11.640
+And you could almost see the drool going down his chin
+
+15:11.640 --> 15:12.560
+of excitement.
+
+15:12.560 --> 15:14.600
+And he sent me $250,000.
+
+15:14.600 --> 15:19.520
+He said, okay, I wanna fund this.
+
+15:19.520 --> 15:21.200
+And I was between institutions.
+
+15:21.200 --> 15:22.760
+I was just about to leave JPL
+
+15:22.760 --> 15:25.960
+and I hadn't decided yet where I was going next.
+
+15:25.960 --> 15:30.400
+And then when I landed at CMU, he sent $250,000,
+
+15:30.400 --> 15:34.040
+which in 1980 was a lot of research money.
+
+15:34.040 --> 15:36.440
+Did you see the possibility of where this is going?
+
+15:36.440 --> 15:38.880
+Why this is an important problem?
+
+15:38.880 --> 15:39.720
+No.
+
+15:39.720 --> 15:43.720
+The balance, I mean, it has to do with legged locomotion.
+
+15:43.720 --> 15:45.480
+I mean, it has to do with all these problems
+
+15:45.480 --> 15:49.800
+that the human body solves when we're walking, for example.
+
+15:49.800 --> 15:51.440
+Like all the fundamentals are there.
+
+15:51.440 --> 15:54.120
+Yeah, I mean, I think that was the motivation
+
+15:54.120 --> 15:57.040
+to try and get more at the fundamentals of how animals work.
+
+15:57.040 --> 16:00.160
+But the idea that it would result in machines
+
+16:00.880 --> 16:03.680
+that were anything like practical, like we're making now,
+
+16:03.680 --> 16:06.040
+that wasn't anywhere in my head now.
+
+16:06.040 --> 16:07.640
+You know, as an academic,
+
+16:07.640 --> 16:11.240
+I was mostly just trying to do the next thing,
+
+16:11.240 --> 16:14.600
+make some progress, impress my colleagues if I could.
+
+16:14.600 --> 16:15.440
+And have fun.
+
+16:15.440 --> 16:16.280
+And have fun.
+
+16:16.280 --> 16:17.400
+Pogo stick robot.
+
+16:17.400 --> 16:18.240
+Pogo stick robot.
+
+16:18.240 --> 16:19.720
+So what was on the technical side?
+
+16:19.720 --> 16:22.720
+What are some of the challenges of getting up,
+
+16:22.720 --> 16:25.880
+getting to the point where we saw, like in the video,
+
+16:25.880 --> 16:28.640
+the Pogo stick robot that's actually successfully hopping
+
+16:28.640 --> 16:31.560
+and then eventually doing flips and all this kind of stuff?
+
+16:31.560 --> 16:32.920
+Well, in the very early days,
+
+16:32.920 --> 16:37.240
+I needed some better engineering than I could do myself.
+
+16:37.240 --> 16:39.440
+And I hired Ben Brown.
+
+16:39.440 --> 16:42.960
+We each had our way of contributing to the design
+
+16:42.960 --> 16:46.520
+and we came up with a thing that could start to work.
+
+16:46.520 --> 16:47.800
+I had some stupid ideas
+
+16:47.800 --> 16:50.600
+about how the actuation system should work.
+
+16:50.600 --> 16:52.840
+And we sorted that out.
+
+16:52.840 --> 16:54.680
+It wasn't that hard to make it balanced
+
+16:54.680 --> 16:58.880
+once you get the physical machine to be working well enough
+
+16:58.880 --> 17:01.360
+and have enough control over the degrees of freedom.
+
+17:02.720 --> 17:04.160
+And then we very quickly, you know,
+
+17:04.160 --> 17:08.120
+we started out by having it floating on an inclined air table.
+
+17:08.120 --> 17:11.240
+And then that only gave us like six foot of travel.
+
+17:11.240 --> 17:13.000
+So once it started working,
+
+17:13.000 --> 17:15.960
+we switched to a thing that could run around the room
+
+17:15.960 --> 17:17.840
+on another device.
+
+17:17.840 --> 17:19.520
+It's hard to explain these without you seeing them,
+
+17:19.520 --> 17:22.480
+but you probably know what I'm talking about, a planarizer.
+
+17:22.480 --> 17:26.240
+And then the next big step was to make it work in 3D,
+
+17:26.240 --> 17:28.160
+which that was really the scary part.
+
+17:28.160 --> 17:29.520
+With these simple things,
+
+17:29.520 --> 17:32.680
+you know, people had inverted pendulums at the time for years
+
+17:32.680 --> 17:35.680
+and they could control them by driving a cart back and forth.
+
+17:35.680 --> 17:38.160
+But could you make it work in three dimensions
+
+17:38.160 --> 17:40.520
+while it's bouncing and all that?
+
+17:40.520 --> 17:43.760
+But it turned out, you know, not to be that hard to do,
+
+17:43.760 --> 17:46.560
+at least at the level of performance we achieved at the time.
+
+17:46.560 --> 17:48.200
+So, okay, you mentioned inverted pendulum,
+
+17:48.200 --> 17:53.200
+but like, can you explain how a hopping stick in 3D
+
+17:54.720 --> 17:57.920
+can control, can balance itself?
+
+17:57.920 --> 17:58.760
+Yeah, sure.
+
+17:58.760 --> 18:00.280
+What does the actuation look like?
+
+18:01.240 --> 18:02.400
+You know, the simple story is
+
+18:02.400 --> 18:04.440
+that there's three things going on.
+
+18:04.440 --> 18:06.480
+There's something making it bounce.
+
+18:06.480 --> 18:11.240
+And, you know, we had a system that was estimating
+
+18:11.240 --> 18:14.400
+how high the robot was off the ground and using that,
+
+18:14.400 --> 18:18.560
+you know, there's energy that can be in three places
+
+18:18.560 --> 18:19.760
+in a pogo stick.
+
+18:19.760 --> 18:22.840
+One is in the spring, one is in the altitude,
+
+18:22.840 --> 18:25.000
+and the other is in the velocity.
+
+18:25.000 --> 18:29.280
+And so when at the top of the hop, it's all in the height.
+
+18:29.280 --> 18:31.880
+And so you could just measure how high you're going
+
+18:31.880 --> 18:35.600
+and thereby have an idea of a lot about the cycle
+
+18:35.600 --> 18:38.840
+and you could decide whether to put more energy in or less.
+
+18:38.840 --> 18:40.360
+So that was one element.
+
+18:40.360 --> 18:43.640
+Then there's a part that you decide where to put the foot.
+
+18:43.640 --> 18:45.720
+And if you think when you're landing on the ground
+
+18:45.720 --> 18:47.400
+with respect to the center of mass,
+
+18:47.400 --> 18:49.440
+so if you think of a pole vaulter,
+
+18:49.440 --> 18:53.680
+the key thing the pole vaulter has to do is get its body
+
+18:53.680 --> 18:56.240
+to the right place when the pole gets stuck.
+
+18:56.240 --> 18:58.720
+If they're too far forward,
+
+18:58.720 --> 19:00.880
+they kind of get thrown backwards.
+
+19:00.880 --> 19:03.560
+If they're too far back, they go, you know, over.
+
+19:03.560 --> 19:06.760
+And what they need to do is get it so that they go mostly up
+
+19:06.760 --> 19:07.720
+to get over the thing.
+
+19:07.720 --> 19:10.880
+And, you know, high jumpers is the same kind of thing.
+
+19:10.880 --> 19:14.040
+So there's a calculation about where to put the foot.
+
+19:14.040 --> 19:16.480
+And we did something, you know, relatively simple.
+
+19:16.480 --> 19:18.840
+And then there's a third part to keep the body
+
+19:18.840 --> 19:20.320
+at an attitude that's upright.
+
+19:20.320 --> 19:22.040
+Because if it gets too far, you know,
+
+19:22.040 --> 19:24.800
+you could hop and just keep rotating around,
+
+19:24.800 --> 19:26.360
+but if it gets too far,
+
+19:26.360 --> 19:29.880
+then you run out of motion of the joints at the hips.
+
+19:29.880 --> 19:31.560
+So you have to do that.
+
+19:31.560 --> 19:34.000
+And we did that by applying a torque
+
+19:34.000 --> 19:35.360
+between the legs and the body
+
+19:35.360 --> 19:36.640
+every time the foot's on the ground.
+
+19:36.640 --> 19:38.720
+You only can do it while the foot's on the ground.
+
+19:38.760 --> 19:42.880
+In the air, you know, the physics don't work out.
+
+19:42.880 --> 19:45.360
+How far does it have to tilt before it's too late
+
+19:45.360 --> 19:47.200
+to be able to balance itself?
+
+19:47.200 --> 19:50.080
+Or is it impossible to balance itself, correct itself?
+
+19:50.080 --> 19:52.240
+Well, you're asking an interesting question
+
+19:52.240 --> 19:57.240
+because in those days, we didn't actually optimize things.
+
+19:58.680 --> 20:01.040
+And they probably could have gone much further than we did
+
+20:01.040 --> 20:02.760
+and then had higher performance.
+
+20:02.760 --> 20:04.440
+And we just kind of got, you know,
+
+20:04.440 --> 20:06.960
+a sketch of a solution and worked on that.
+
+20:06.960 --> 20:09.320
+And then in years since, some people working for us,
+
+20:09.320 --> 20:10.840
+some people working for others,
+
+20:10.840 --> 20:14.640
+people came up with all kinds of equations for,
+
+20:14.640 --> 20:17.960
+or, you know, algorithms for how to do a better job,
+
+20:17.960 --> 20:19.840
+be able to go faster.
+
+20:19.840 --> 20:22.200
+One of my students worked on getting things to go faster.
+
+20:22.200 --> 20:26.160
+Another one worked on climbing over obstacles.
+
+20:26.160 --> 20:28.440
+Cause when you're running, it's one,
+
+20:28.440 --> 20:29.960
+on the open ground, it's one thing.
+
+20:29.960 --> 20:32.680
+If you're running like up a stair,
+
+20:32.680 --> 20:34.640
+you have to adjust where you are,
+
+20:34.640 --> 20:36.080
+otherwise things don't work out right.
+
+20:36.080 --> 20:37.800
+You land your foot on the edge of the step.
+
+20:37.800 --> 20:40.320
+So there's other degrees of freedom to control
+
+20:40.320 --> 20:41.920
+if you're getting to, you know,
+
+20:41.920 --> 20:44.120
+more realistic, practical situations.
+
+20:44.120 --> 20:46.160
+I think it's really interesting to ask about the early days
+
+20:46.160 --> 20:49.120
+because, you know, believing in yourself,
+
+20:49.120 --> 20:51.120
+believing that there's something interesting here.
+
+20:51.120 --> 20:54.000
+And then you mentioned finding somebody else, Ben Brown.
+
+20:54.000 --> 20:55.600
+What's that like finding other people
+
+20:55.600 --> 20:59.000
+with whom you can build this crazy idea
+
+20:59.000 --> 21:00.400
+and actually make it work?
+
+21:00.400 --> 21:02.600
+Probably the smartest thing I ever did
+
+21:02.600 --> 21:04.160
+is to find the other people.
+
+21:04.160 --> 21:05.520
+I mean, when I look at it now, you know,
+
+21:05.520 --> 21:06.760
+I look at Boston Dynamics
+
+21:06.760 --> 21:10.000
+and all the really excellent engineering there,
+
+21:10.000 --> 21:12.480
+you know, people who really make stuff work.
+
+21:12.480 --> 21:16.320
+You know, I'm only the dreamer.
+
+21:16.320 --> 21:20.920
+So when you talk about pogo stick robot or legged robots,
+
+21:20.920 --> 21:24.240
+whether it's quadrupeds or humanoid robots,
+
+21:24.240 --> 21:26.800
+did people doubt that this is possible?
+
+21:26.800 --> 21:29.240
+Did you experience a lot of people around you kind of-
+
+21:29.240 --> 21:31.480
+I don't know if they doubted whether it was possible,
+
+21:31.480 --> 21:34.560
+but I think they thought it was a waste of time.
+
+21:34.560 --> 21:36.600
+Oh, it's not even an interesting problem.
+
+21:36.600 --> 21:39.720
+I think for a lot of people, you know, people who were,
+
+21:39.720 --> 21:41.680
+I think it's been both though.
+
+21:41.680 --> 21:45.200
+Some people, I think, I felt like they were saying,
+
+21:45.200 --> 21:47.440
+oh, you know, why are you wasting your time
+
+21:47.440 --> 21:49.280
+on this stupid problem?
+
+21:49.280 --> 21:51.240
+And then, but then I've been at many things
+
+21:51.240 --> 21:53.960
+where people have told me it's been an inspiration
+
+21:53.960 --> 21:58.960
+to go out and, you know, attack these harder things.
+
+21:59.880 --> 22:03.160
+And I think it has turned out,
+
+22:03.160 --> 22:04.960
+I think legged locomotion has turned out
+
+22:04.960 --> 22:06.400
+to be a useful thing.
+
+22:06.400 --> 22:10.080
+Did you ever have like doubt about bringing Atlas to life,
+
+22:10.080 --> 22:14.080
+for example, or with Big Dog, just every step of the way,
+
+22:14.080 --> 22:18.000
+did you have doubt like, this is too hard of a problem?
+
+22:19.040 --> 22:21.760
+I mean, at first I wasn't an enthusiast for the humanoids
+
+22:21.760 --> 22:24.360
+because again, it goes back to saying,
+
+22:24.360 --> 22:26.000
+what's the functionality?
+
+22:26.000 --> 22:28.920
+And the form wasn't as important as the functionality.
+
+22:29.760 --> 22:34.760
+And also, you know, there's an aspect to humanoid robots
+
+22:35.160 --> 22:38.080
+that's about, all about the cosmetics
+
+22:38.080 --> 22:40.040
+where there isn't really other functionality.
+
+22:40.040 --> 22:43.880
+And that kind of is off-putting for me as a roboticist.
+
+22:43.880 --> 22:46.040
+I think the functionality really matters.
+
+22:46.040 --> 22:49.640
+So probably that's why I avoided human robots,
+
+22:49.640 --> 22:51.800
+humanoid robots to start with.
+
+22:51.800 --> 22:54.680
+But I'll tell you, now, you know,
+
+22:54.680 --> 22:55.880
+after we started working on them,
+
+22:55.880 --> 22:58.400
+you could see that the connection and the impact
+
+22:59.280 --> 23:02.400
+with other people, whether they're lay people
+
+23:02.400 --> 23:04.640
+or even other technical people,
+
+23:04.640 --> 23:08.240
+there's a special thing that goes on.
+
+23:08.240 --> 23:09.880
+Even though most of the humanoid robots
+
+23:09.880 --> 23:11.520
+aren't that much like a person.
+
+23:11.520 --> 23:15.640
+But we anthropomorphize and we see the humanity.
+
+23:15.640 --> 23:20.080
+But also like with Spot, you can see, not the humanity,
+
+23:20.080 --> 23:24.080
+but whatever we find compelling about social interactions,
+
+23:24.080 --> 23:25.240
+they're in Spot as well.
+
+23:25.240 --> 23:26.960
+I'll tell you, you know, I go around giving talks
+
+23:26.960 --> 23:29.520
+and take Spot to a lot of them.
+
+23:29.520 --> 23:30.760
+And it's amazing.
+
+23:30.760 --> 23:32.840
+The media likes to say that they're terrifying
+
+23:32.840 --> 23:34.400
+and that people are afraid.
+
+23:34.400 --> 23:39.000
+And YouTube commenters like to say that it's frightening.
+
+23:39.000 --> 23:41.400
+But when you take a Spot out there,
+
+23:41.400 --> 23:42.720
+now maybe it's self-selecting,
+
+23:42.720 --> 23:45.440
+but you get a crowd of people who wanna take pictures,
+
+23:45.440 --> 23:48.680
+wanna pose for selfies, wanna operate the robot,
+
+23:48.680 --> 23:52.680
+wanna pet it, wanna put clothes on it, it's amazing.
+
+23:52.680 --> 23:53.920
+Yeah, I love Spot.
+
+23:53.920 --> 23:56.760
+So if we move around history a little bit,
+
+23:57.600 --> 24:00.680
+so you said, I think in the early days of Boston Dynamics,
+
+24:00.680 --> 24:04.720
+that you quietly worked on making a running version of Aibo,
+
+24:04.720 --> 24:06.600
+Sony's robot dog.
+
+24:06.600 --> 24:10.040
+It's just an interesting little tidbit of history for me.
+
+24:12.480 --> 24:15.160
+What stands out to you in memory from that task?
+
+24:15.160 --> 24:17.600
+For people who don't know that little dog robot
+
+24:17.600 --> 24:20.880
+moves slowly, how did that become big dog?
+
+24:20.880 --> 24:22.240
+What was involved there?
+
+24:22.240 --> 24:24.080
+What was the dance between how do we make
+
+24:24.080 --> 24:25.840
+this cute little dog versus a thing
+
+24:25.840 --> 24:27.440
+that can actually carry a lot of payload
+
+24:27.440 --> 24:29.200
+and move fast and stuff like that?
+
+24:29.200 --> 24:31.840
+What the connection was is that at that point,
+
+24:31.840 --> 24:33.320
+Boston Dynamics was mostly
+
+24:33.320 --> 24:35.520
+a physics-based simulation company.
+
+24:35.520 --> 24:39.360
+So when I left MIT to start Boston Dynamics,
+
+24:39.360 --> 24:40.520
+there was a few years of overlap,
+
+24:40.520 --> 24:42.640
+but the concept wasn't to start a robot company.
+
+24:42.640 --> 24:47.000
+The concept was to use this dynamic simulation tool
+
+24:47.000 --> 24:50.380
+that we developed to do robotics for other things.
+
+24:51.280 --> 24:54.680
+But working with Sony, we got back into robotics
+
+24:54.680 --> 24:57.600
+by doing the Aibo runner, by, we programmed,
+
+24:57.600 --> 25:00.360
+we made some tools for programming Curio,
+
+25:00.360 --> 25:03.400
+which was a small humanoid this big
+
+25:03.400 --> 25:06.600
+that could do some dancing and other kinds of fun stuff.
+
+25:06.600 --> 25:08.540
+And I don't think it ever reached the market,
+
+25:08.540 --> 25:10.440
+even though they did show it.
+
+25:12.120 --> 25:14.040
+When I look back, I say that we got us back
+
+25:14.040 --> 25:14.920
+where we belonged.
+
+25:14.920 --> 25:17.760
+Yeah, you rediscovered the soul of the company.
+
+25:17.760 --> 25:18.960
+That's right.
+
+25:18.960 --> 25:21.200
+And so from there, it was always about robots.
+
+25:21.200 --> 25:22.040
+Yeah.
+
+25:23.040 --> 25:28.040
+So you started Boston Dynamics in 1992, right?
+
+25:28.080 --> 25:30.900
+What are some fond memories from the early days?
+
+25:31.920 --> 25:36.560
+One of the robots that we built wasn't actually a robot.
+
+25:36.560 --> 25:40.360
+It was a surgical simulator, but it had force feedback.
+
+25:40.360 --> 25:43.480
+So it had all the techniques of robotics.
+
+25:43.480 --> 25:47.800
+And you looked down into this mirror, it actually was,
+
+25:47.800 --> 25:49.600
+and it looked like you were looking down
+
+25:49.600 --> 25:51.360
+onto the body you were working on.
+
+25:51.360 --> 25:52.760
+Your hands were underneath the mirror,
+
+25:52.760 --> 25:55.120
+so they were where you were looking.
+
+25:55.120 --> 25:57.560
+And you had tools in your hands that were connected
+
+25:57.560 --> 25:59.680
+up to these force feedback devices
+
+25:59.680 --> 26:03.800
+made by another MIT spin-out, Sensible Technologies.
+
+26:03.800 --> 26:05.400
+So they made the force feedback device.
+
+26:05.400 --> 26:08.440
+We attached the tools and we wrote all the software
+
+26:08.440 --> 26:09.480
+and did all the graphics.
+
+26:09.480 --> 26:11.740
+So we had 3D computer graphics.
+
+26:11.740 --> 26:14.500
+It was in the old days when, this was in the late 90s,
+
+26:14.500 --> 26:17.480
+when you had a silicon graphics computer
+
+26:17.480 --> 26:18.760
+that was about this big.
+
+26:19.760 --> 26:22.920
+It was the heater in the office, basically.
+
+26:22.920 --> 26:26.760
+And we were doing surgical operations,
+
+26:26.760 --> 26:30.600
+anastomosis, which was stitching tubes together,
+
+26:30.600 --> 26:33.680
+tubes like blood vessels or other things in their body.
+
+26:33.680 --> 26:37.200
+And you could feel, and you could see the tissues move,
+
+26:37.200 --> 26:38.720
+and it was really exciting.
+
+26:38.720 --> 26:41.960
+And the idea was to make a trainer to teach surgeons
+
+26:41.960 --> 26:42.860
+how to do stuff.
+
+26:42.860 --> 26:46.400
+We built a scoring system because we interviewed surgeons
+
+26:46.400 --> 26:49.280
+that told us what you're supposed to do
+
+26:49.280 --> 26:50.360
+and what you're not supposed to do.
+
+26:50.360 --> 26:52.520
+You're not supposed to tear the tissue.
+
+26:52.520 --> 26:54.360
+You're not supposed to touch it in any place
+
+26:54.360 --> 26:56.120
+except for where you're trying to engage.
+
+26:56.120 --> 26:57.680
+There were a bunch of rules.
+
+26:57.680 --> 27:00.200
+So we built this thing and took it to a trade show,
+
+27:00.200 --> 27:02.480
+a surgical trade show.
+
+27:02.480 --> 27:04.960
+And the surgeons were practically lined up.
+
+27:04.960 --> 27:07.560
+Well, we kept a score and we posted their scores
+
+27:07.560 --> 27:08.800
+like on a video game.
+
+27:08.800 --> 27:10.800
+And those guys are so competitive
+
+27:10.800 --> 27:13.640
+that they really, really loved doing it.
+
+27:13.640 --> 27:14.480
+And they would come around
+
+27:14.480 --> 27:16.020
+and they'd see someone's score was higher there,
+
+27:16.020 --> 27:18.020
+so they would come back.
+
+27:18.020 --> 27:20.460
+But we figured out shortly after
+
+27:20.460 --> 27:22.900
+that we thought surgeons were gonna pay us
+
+27:22.900 --> 27:24.840
+to get trained on these things.
+
+27:24.840 --> 27:27.820
+And the surgeons thought we should pay them
+
+27:27.820 --> 27:31.620
+in order to, so they could teach us about the thing.
+
+27:31.620 --> 27:34.140
+And there was no money from the surgeons.
+
+27:34.140 --> 27:35.300
+And we looked at it and thought,
+
+27:35.300 --> 27:37.260
+well, maybe we could sell it to hospitals
+
+27:37.260 --> 27:39.260
+that would teach, train their surgeons.
+
+27:39.260 --> 27:40.900
+And then we said, well, we're this,
+
+27:40.900 --> 27:42.960
+at the time we were probably a 12 person company
+
+27:42.960 --> 27:44.860
+or maybe 15 people, I don't remember.
+
+27:45.700 --> 27:49.420
+There's no way we could go after a marketing activity.
+
+27:49.420 --> 27:51.900
+The company was all bootstrapped in those years.
+
+27:51.900 --> 27:54.540
+We never had investors until Google bought us,
+
+27:54.540 --> 27:56.460
+which was after 20 years.
+
+27:56.460 --> 28:00.420
+So we didn't have any resources to go after hospitals.
+
+28:00.420 --> 28:05.220
+So at one day, Rob and I were looking at that
+
+28:05.220 --> 28:07.780
+and we said, we'd built another simulator
+
+28:07.780 --> 28:09.980
+for knee arthroscopy.
+
+28:09.980 --> 28:11.740
+And we said, this isn't gonna work.
+
+28:11.740 --> 28:14.700
+And we killed it and we moved on.
+
+28:15.540 --> 28:17.100
+And that was really a milestone in the company
+
+28:17.100 --> 28:20.260
+because we sort of understood who we were
+
+28:20.260 --> 28:22.260
+and what would work and what wouldn't,
+
+28:22.260 --> 28:24.940
+even though technically it was really a fascinating thing.
+
+28:24.940 --> 28:26.500
+What was that meeting like?
+
+28:26.500 --> 28:30.020
+Where you're just like sitting at a table, you know what?
+
+28:30.020 --> 28:30.860
+Probably.
+
+28:30.860 --> 28:32.520
+We're going to pivot completely.
+
+28:32.520 --> 28:34.900
+We're going to let go of this thing
+
+28:34.900 --> 28:36.540
+we put so much hard work into
+
+28:37.380 --> 28:39.020
+and then go back to the thing.
+
+28:39.020 --> 28:42.060
+It just always felt right once we did it.
+
+28:42.060 --> 28:45.340
+Just look at each other and said, let's build robots.
+
+28:45.340 --> 28:47.900
+What was the first robot you built
+
+28:47.900 --> 28:51.340
+under the flag of Boston Dynamics, big dog?
+
+28:51.340 --> 28:54.660
+Well, there was the IBO runner,
+
+28:54.660 --> 28:55.900
+but it wasn't even a whole robot.
+
+28:55.900 --> 28:59.100
+It was just legs that we took off the legs on IBOs
+
+28:59.100 --> 29:01.660
+and attached the legs we'd made.
+
+29:01.660 --> 29:05.640
+And we got that working and showed it to the Sony people.
+
+29:06.580 --> 29:09.060
+We worked pretty closely with Sony in those years.
+
+29:09.060 --> 29:11.500
+One of the interesting things is that
+
+29:11.540 --> 29:15.780
+it was before the internet and Zoom and anything like that.
+
+29:15.780 --> 29:19.420
+So we had six ISDN lines installed
+
+29:19.420 --> 29:21.700
+and we would have a telecon every week
+
+29:21.700 --> 29:25.240
+that worked at very low frame rate, something like 10 Hertz.
+
+29:27.180 --> 29:31.740
+English across the boundary with Japan was a challenge,
+
+29:31.740 --> 29:34.520
+trying to understand what each of us was saying
+
+29:34.520 --> 29:39.260
+and have meetings every week for several years doing that.
+
+29:39.260 --> 29:42.020
+And it was a pleasure working with them.
+
+29:42.020 --> 29:43.660
+They were really supporters.
+
+29:43.660 --> 29:46.700
+They seemed to like us and what we were doing.
+
+29:46.700 --> 29:47.860
+That was the real transition
+
+29:47.860 --> 29:49.780
+from us being a simulation company
+
+29:49.780 --> 29:51.860
+into being a robotics company again.
+
+29:51.860 --> 29:55.060
+It was a quadruped, the legs were four legs or two legs?
+
+29:55.060 --> 29:56.340
+Yeah, no, four legs, yeah.
+
+29:56.340 --> 29:58.600
+And what did you learn from that experience
+
+29:58.600 --> 30:02.880
+of building basically a fast moving quadruped?
+
+30:03.800 --> 30:06.100
+Mostly we learned that something that small
+
+30:06.940 --> 30:09.340
+doesn't look very exciting when it's running.
+
+30:09.340 --> 30:10.580
+It's like it's scampering.
+
+30:10.580 --> 30:12.740
+And you had to watch a slow-mo
+
+30:12.740 --> 30:14.780
+for it to look like it was interesting.
+
+30:14.780 --> 30:17.660
+If you watch it fast, it was just like a-
+
+30:17.660 --> 30:18.500
+That's funny.
+
+30:18.500 --> 30:21.020
+One of my things was to show stuff in video
+
+30:21.020 --> 30:23.580
+from the very early days of the hopping machines.
+
+30:25.060 --> 30:26.340
+And so I was always focused on
+
+30:26.340 --> 30:28.020
+how's this gonna look through the viewfinder?
+
+30:28.020 --> 30:31.520
+And running IBO didn't look so cool through the viewfinder.
+
+30:32.480 --> 30:36.400
+So what came next in terms of,
+
+30:36.400 --> 30:38.000
+what was a big next milestone
+
+30:38.000 --> 30:40.120
+in terms of a robot you built?
+
+30:40.120 --> 30:42.760
+I mean, you got to say that Big Dog was,
+
+30:42.760 --> 30:44.720
+sort of put us on the map
+
+30:44.720 --> 30:47.140
+and got our heads really pulled together.
+
+30:47.140 --> 30:48.840
+We scaled up the company.
+
+30:48.840 --> 30:53.480
+Big Dog was the result of Alan Rudolph at DARPA
+
+30:53.480 --> 30:57.200
+starting a biodynamics program.
+
+30:57.200 --> 31:00.380
+And he put out a request for proposals
+
+31:00.380 --> 31:05.080
+and I think there were 42 proposals written
+
+31:05.080 --> 31:06.700
+and three got funded.
+
+31:06.700 --> 31:08.100
+One was Big Dog.
+
+31:08.100 --> 31:10.260
+One was a climbing robot rise.
+
+31:10.260 --> 31:11.940
+And that put things in motion.
+
+31:11.940 --> 31:14.360
+We hired Martin Buehler.
+
+31:14.360 --> 31:17.940
+He was a professor in Montreal at McGill.
+
+31:17.940 --> 31:21.540
+He was incredibly important for getting Big Dog
+
+31:21.540 --> 31:23.600
+out of the lab and into the mud,
+
+31:23.600 --> 31:27.460
+which is a key step to really be willing to go out there
+
+31:27.460 --> 31:30.060
+and build it, break it, fix it,
+
+31:30.740 --> 31:32.300
+which is sort of one of our mottos at the company.
+
+31:32.300 --> 31:34.420
+So testing in the real world.
+
+31:34.420 --> 31:35.980
+For people who don't know, Big Dog,
+
+31:35.980 --> 31:36.900
+maybe you can correct me,
+
+31:36.900 --> 31:41.460
+but it's a big quadruped, four-legged robot.
+
+31:41.460 --> 31:44.500
+It looks big, could probably carry a lot of weight.
+
+31:44.500 --> 31:47.500
+Not the most weight that Boston Dynamics have built,
+
+31:47.500 --> 31:48.720
+but a lot.
+
+31:48.720 --> 31:50.160
+Well, it was the first thing that worked.
+
+31:50.160 --> 31:51.940
+So let's see, if we go back to the leg lab,
+
+31:51.940 --> 31:53.580
+we'd built a quadruped
+
+31:53.580 --> 31:55.660
+that could do many of the things that Big Dog did,
+
+31:55.660 --> 31:59.420
+but it had a hydraulic pump sitting in the room
+
+31:59.420 --> 32:01.220
+with hoses connected to the robot.
+
+32:01.220 --> 32:03.900
+It had a VAX computer in the next room.
+
+32:03.900 --> 32:04.980
+It needed its own room
+
+32:04.980 --> 32:07.420
+because it was this giant thing with air conditioning,
+
+32:07.420 --> 32:12.120
+and it had this very complicated bus connected to the robot.
+
+32:12.120 --> 32:14.460
+And the robot itself just had the actuators.
+
+32:14.460 --> 32:18.860
+It had gyroscopes for sensing and some other sensors,
+
+32:18.860 --> 32:22.220
+but all the power and computing was off board.
+
+32:22.220 --> 32:26.580
+Big Dog had all that stuff integrated on the platform.
+
+32:26.580 --> 32:28.360
+It had a gasoline engine for power,
+
+32:28.360 --> 32:31.920
+which was a very complicated thing to undertake.
+
+32:31.920 --> 32:34.760
+It had to convert the rotation of the engine
+
+32:34.760 --> 32:38.960
+into hydraulic power, which is how we actuated it.
+
+32:38.960 --> 32:42.240
+So there was a lot of learning just on the,
+
+32:42.240 --> 32:43.960
+building the physical robot
+
+32:43.960 --> 32:46.400
+and the system integration for that.
+
+32:46.400 --> 32:49.120
+And then there was the controls of it.
+
+32:49.120 --> 32:51.020
+So for Big Dog, you brought it all together
+
+32:51.020 --> 32:53.080
+onto one platform.
+
+32:53.080 --> 32:54.640
+And then, so you could-
+
+32:54.640 --> 32:55.720
+You could take it out in the woods.
+
+32:55.720 --> 32:57.080
+Yeah, and you did.
+
+32:57.080 --> 32:57.920
+We did.
+
+32:58.480 --> 33:01.280
+We spent a lot of time down at the Marine Corps base
+
+33:01.280 --> 33:03.440
+in Quantico where there was a trail
+
+33:03.440 --> 33:05.720
+called the Guadalcanal Trail.
+
+33:05.720 --> 33:09.720
+And our milestone that DARPA had specified
+
+33:09.720 --> 33:12.680
+was that we could go on this one particular trail
+
+33:12.680 --> 33:15.400
+that involved a lot of challenge.
+
+33:15.400 --> 33:16.560
+And we spent a lot of time,
+
+33:16.560 --> 33:19.560
+our team spent a lot of time down there.
+
+33:19.560 --> 33:20.640
+Those were fun days.
+
+33:20.640 --> 33:22.080
+Hiking with the robot.
+
+33:22.080 --> 33:23.760
+What did you learn about what it takes
+
+33:23.760 --> 33:27.640
+to balance a robot like that on a trail?
+
+33:28.400 --> 33:29.240
+On a hiking trail in the woods.
+
+33:29.240 --> 33:32.080
+Basically, forget the woods, just the real world.
+
+33:32.080 --> 33:35.160
+That's the big leap into testing in the real world.
+
+33:35.160 --> 33:36.240
+Yeah.
+
+33:36.240 --> 33:38.280
+As challenging as the woods were,
+
+33:39.160 --> 33:44.160
+working inside of a home or in an office is really harder.
+
+33:45.280 --> 33:46.120
+Yeah.
+
+33:46.120 --> 33:46.960
+Because when you're in the woods,
+
+33:46.960 --> 33:49.800
+you can actually take any path up the hill.
+
+33:49.800 --> 33:52.320
+All you have to do is avoid the obstacles.
+
+33:52.320 --> 33:54.560
+There's no such thing as damaging the woods,
+
+33:54.560 --> 33:57.160
+at least, you know, to first order.
+
+33:57.160 --> 33:59.520
+Whereas if you're in a house, you can't leave scuff marks.
+
+33:59.520 --> 34:00.840
+You can't bang into the walls.
+
+34:00.840 --> 34:03.000
+The robots aren't very comfortable bumping into the walls,
+
+34:03.000 --> 34:05.280
+especially in the early days.
+
+34:05.280 --> 34:08.040
+So I think those were actually bigger challenges
+
+34:08.040 --> 34:10.280
+once we faced them.
+
+34:10.280 --> 34:13.200
+It was mostly, you know, getting the systems
+
+34:13.200 --> 34:16.760
+to work well enough together, the hardware systems to work.
+
+34:16.760 --> 34:17.960
+And the controls.
+
+34:17.960 --> 34:20.760
+In those days, we did have a human operator
+
+34:20.760 --> 34:23.640
+who did all the visual perception
+
+34:23.640 --> 34:25.320
+going up the Guadalcanal Trail.
+
+34:25.320 --> 34:27.520
+So there was an operator who was right there,
+
+34:27.520 --> 34:29.800
+who was very skilled at,
+
+34:29.800 --> 34:31.760
+even though the robot was balancing itself
+
+34:31.760 --> 34:33.720
+and placing its own feet,
+
+34:33.720 --> 34:36.360
+if the operator didn't do the right thing, it wouldn't go.
+
+34:36.360 --> 34:39.160
+But years later, we went back with one of the electric,
+
+34:39.160 --> 34:41.240
+the precursor to Spot,
+
+34:41.240 --> 34:44.840
+and we had advanced the controls and everything so much
+
+34:44.840 --> 34:47.760
+that an amateur, complete amateur,
+
+34:47.760 --> 34:50.240
+could operate the robot the first time,
+
+34:50.240 --> 34:52.080
+up and down and up and down,
+
+34:52.080 --> 34:54.360
+whereas it had taken us years to get there
+
+34:54.360 --> 34:55.920
+in the previous robot.
+
+34:55.920 --> 34:57.240
+So if you fast forward,
+
+34:57.240 --> 34:59.520
+Big Dog eventually became Spot.
+
+34:59.520 --> 35:01.240
+So Big Dog became LS3,
+
+35:01.240 --> 35:03.080
+which is the big load carrying one.
+
+35:03.080 --> 35:04.640
+Just a quick pause.
+
+35:04.640 --> 35:07.480
+It can carry 400 pounds.
+
+35:07.480 --> 35:09.040
+It was designed to carry 400,
+
+35:09.040 --> 35:12.160
+but we had it carrying about 1,000 pounds at one time.
+
+35:12.160 --> 35:13.600
+Of course you did.
+
+35:13.600 --> 35:14.440
+Just to make sure.
+
+35:14.440 --> 35:15.960
+We had one carrying the other one.
+
+35:15.960 --> 35:16.800
+We had two of them.
+
+35:16.800 --> 35:18.440
+So we had one carrying the other one.
+
+35:18.440 --> 35:19.280
+There's a little clip of that.
+
+35:19.280 --> 35:20.880
+We should put that out somewhere.
+
+35:20.880 --> 35:22.640
+That's from like 20 years ago.
+
+35:22.640 --> 35:24.040
+Wow.
+
+35:24.600 --> 35:26.360
+And it can go for very long distances.
+
+35:26.360 --> 35:28.200
+It can travel 20 miles.
+
+35:28.200 --> 35:29.400
+Yeah.
+
+35:29.400 --> 35:30.400
+Gasoline.
+
+35:30.400 --> 35:31.880
+Gasoline, yeah.
+
+35:31.880 --> 35:33.760
+And that eventually just, okay, sorry.
+
+35:33.760 --> 35:38.120
+So LS3, then how did that lead to Spot?
+
+35:38.120 --> 35:43.120
+So Big Dog and LS3 had engine power and hydraulic actuation.
+
+35:46.840 --> 35:51.840
+Then we made a robot that was electric power.
+
+35:52.600 --> 35:56.960
+So there's a battery driving a motor, driving a pump,
+
+35:56.960 --> 35:59.400
+but still hydraulic actuation.
+
+35:59.400 --> 36:00.480
+Larry sort of asked us,
+
+36:00.480 --> 36:02.400
+could you make something that weighed 60 pounds
+
+36:02.400 --> 36:04.440
+that would not be so intimidating
+
+36:04.440 --> 36:07.200
+if you had it in a house where there were people?
+
+36:07.200 --> 36:10.040
+And that was the inspiration behind the Spot,
+
+36:10.040 --> 36:11.320
+pretty much as it exists today.
+
+36:11.320 --> 36:13.360
+We did a prototype the same size.
+
+36:13.360 --> 36:18.360
+That was the first all electric, non-hydraulic robot.
+
+36:19.160 --> 36:20.760
+What was the conversation with Larry Page like
+
+36:20.800 --> 36:21.960
+about?
+
+36:21.960 --> 36:25.760
+So here's a guy that kind of is very product focused
+
+36:25.760 --> 36:28.760
+and can see a vision for like what the future holds.
+
+36:28.760 --> 36:31.640
+That's just interesting kind of a side.
+
+36:31.640 --> 36:34.200
+What was the brainstorm about the future robotics
+
+36:34.200 --> 36:35.600
+with him like?
+
+36:35.600 --> 36:37.720
+I mean, it was almost as simple as what I just said.
+
+36:37.720 --> 36:39.800
+He, you know, we were having a meeting.
+
+36:39.800 --> 36:41.320
+He said, yeah, geez, you know,
+
+36:41.320 --> 36:42.840
+do you think you could make a smaller one
+
+36:42.840 --> 36:44.160
+that wouldn't be so intimidating?
+
+36:44.160 --> 36:45.480
+Well, you know, like a big dog.
+
+36:45.480 --> 36:46.880
+Yeah.
+
+36:46.880 --> 36:47.920
+If it was in your house.
+
+36:47.920 --> 36:50.120
+And I said, yeah, we could do that.
+
+36:50.400 --> 36:52.640
+And we started and did.
+
+36:52.640 --> 36:54.120
+Is there a lot of technical challenges
+
+36:54.120 --> 36:57.120
+to go from hydraulic to electric?
+
+36:57.120 --> 36:59.160
+You know, I had been in love with hydraulics
+
+36:59.160 --> 37:02.160
+and still love hydraulics.
+
+37:02.160 --> 37:03.640
+You know, it's a great technology.
+
+37:03.640 --> 37:07.680
+It's too bad that the somehow the world out there
+
+37:07.680 --> 37:12.640
+looks at it like it's old fashioned or that it's icky.
+
+37:12.640 --> 37:13.760
+And it's true that you do.
+
+37:13.760 --> 37:16.120
+It is very hard to keep it from having some amount
+
+37:16.120 --> 37:18.920
+of dripping from time to time.
+
+37:18.920 --> 37:21.400
+But if you look at the performance, you know,
+
+37:21.400 --> 37:24.320
+how strong you can get in a lightweight package.
+
+37:24.320 --> 37:26.640
+And of course we did a huge amount of innovation.
+
+37:26.640 --> 37:29.520
+Most of hydraulic control,
+
+37:29.520 --> 37:32.640
+that is the valve that controls the flow of oil,
+
+37:32.640 --> 37:36.360
+had been designed in the fifties for airplanes.
+
+37:36.360 --> 37:39.880
+It had been made robust enough, safe enough
+
+37:39.880 --> 37:41.000
+that you could count on it
+
+37:41.000 --> 37:44.640
+so that humans could fly in airplanes.
+
+37:44.640 --> 37:47.560
+And very little innovation had happened.
+
+37:47.560 --> 37:48.640
+You know, that might not be fair
+
+37:48.640 --> 37:49.760
+to the people who make the valves.
+
+37:49.760 --> 37:52.240
+I'm sure that they did innovate.
+
+37:52.240 --> 37:54.320
+But the basic design had stayed the same
+
+37:54.320 --> 37:56.240
+and there was so much more you could do.
+
+37:56.240 --> 37:59.480
+And so our engineers designed valves,
+
+37:59.480 --> 38:03.480
+the ones that are in Atlas, for instance,
+
+38:03.480 --> 38:05.280
+that had new kinds of circuits.
+
+38:05.280 --> 38:06.880
+They sort of did some of the computing
+
+38:06.880 --> 38:09.280
+that could get you much more efficient use.
+
+38:09.280 --> 38:10.800
+They were much smaller and lighter
+
+38:10.800 --> 38:13.760
+so that the whole robot could be smaller and lighter.
+
+38:13.760 --> 38:16.480
+We made a hydraulic power supply
+
+38:16.480 --> 38:18.960
+that had a bunch of components
+
+38:18.960 --> 38:20.600
+integrated in this tiny package.
+
+38:20.600 --> 38:23.320
+It's about this big, the size of a football,
+
+38:23.320 --> 38:25.880
+weighs five kilograms
+
+38:25.880 --> 38:28.920
+and it produces five kilowatts of power.
+
+38:28.920 --> 38:31.080
+Of course it has to have a battery operating,
+
+38:31.080 --> 38:34.240
+but it's got a motor, a pump, filters,
+
+38:34.240 --> 38:37.760
+heat exchanger to keep it cool, some valves,
+
+38:37.760 --> 38:39.760
+all in this tiny little package.
+
+38:39.760 --> 38:44.280
+So hydraulics could still have a ways to go.
+
+38:44.280 --> 38:47.280
+One of the things that stands out about the robots
+
+38:47.280 --> 38:48.520
+Boston Dynamics have created
+
+38:48.520 --> 38:50.440
+is how beautiful the movement is,
+
+38:50.440 --> 38:55.160
+how natural the walking is and running is,
+
+38:55.160 --> 38:57.360
+even flipping is, throwing is.
+
+38:57.360 --> 39:00.120
+So maybe you can talk about what's involved
+
+39:00.120 --> 39:02.840
+in making it look natural.
+
+39:02.840 --> 39:06.400
+Well, I think having good hardware is part of the story
+
+39:06.400 --> 39:08.640
+and people who think you don't need
+
+39:08.640 --> 39:12.240
+to innovate hardware anymore are wrong, in my opinion.
+
+39:13.040 --> 39:14.440
+So I think one of the things,
+
+39:14.440 --> 39:16.640
+certainly in the early years for me,
+
+39:16.640 --> 39:18.040
+taking a dynamic approach,
+
+39:18.040 --> 39:21.120
+where you think about what's the evolution
+
+39:21.120 --> 39:24.880
+of the motion of the thing gonna be in the future
+
+39:24.880 --> 39:28.160
+and having a prediction of that that's used at the time
+
+39:28.160 --> 39:30.240
+that you're giving signals to it,
+
+39:30.240 --> 39:32.000
+as opposed to it all being servoing,
+
+39:32.000 --> 39:33.880
+which is servoing is sort of backward looking.
+
+39:33.880 --> 39:36.080
+It says, okay, where am I now?
+
+39:36.080 --> 39:37.920
+I'm gonna try and adjust for that.
+
+39:37.920 --> 39:40.400
+But you really need to think about what's coming.
+
+39:40.400 --> 39:44.040
+So how far ahead do you have to look in time?
+
+39:44.040 --> 39:44.880
+It's interesting.
+
+39:44.880 --> 39:47.720
+I think that the number is only a couple of seconds
+
+39:47.720 --> 39:48.880
+for a spot.
+
+39:48.880 --> 39:52.880
+So there's a limited horizon type approach
+
+39:52.880 --> 39:54.840
+where you're recalculating,
+
+39:54.840 --> 39:57.960
+assuming what's gonna happen in the next second
+
+39:57.960 --> 39:59.280
+or a second and a half.
+
+39:59.280 --> 40:01.080
+And then you keep iterating,
+
+40:01.080 --> 40:03.400
+the next, even though a 10th of a second later,
+
+40:03.400 --> 40:05.240
+you'll say, okay, let's do that again
+
+40:05.240 --> 40:06.440
+and see what's happening.
+
+40:06.440 --> 40:08.240
+And you're looking at what the obstacles are,
+
+40:08.240 --> 40:10.120
+where the feet are gonna be placed,
+
+40:11.000 --> 40:12.800
+you have to coordinate a lot of things
+
+40:12.800 --> 40:16.280
+if you have obstacles and you're balancing at the same time.
+
+40:16.280 --> 40:19.320
+And it's that limited horizon type calculation
+
+40:19.320 --> 40:20.960
+that's doing a lot of that.
+
+40:20.960 --> 40:23.300
+But if you're doing something like a somersault,
+
+40:23.300 --> 40:25.340
+you're looking out a lot further, right?
+
+40:25.340 --> 40:26.880
+If you wanna stick the landing,
+
+40:26.880 --> 40:28.240
+you have to get the right,
+
+40:28.240 --> 40:30.680
+you have to, at the time of launch,
+
+40:30.680 --> 40:34.640
+have momentum and rotation,
+
+40:34.640 --> 40:36.080
+all those things coordinated
+
+40:36.080 --> 40:38.240
+so that a landing is within reach.
+
+40:38.280 --> 40:40.480
+How hard is it to stick a landing?
+
+40:40.480 --> 40:44.040
+I mean, it's very much under-actuated.
+
+40:44.040 --> 40:47.400
+Like you, once you've in the air,
+
+40:47.400 --> 40:51.320
+you don't have as much control about anything.
+
+40:51.320 --> 40:54.320
+So how hard is it to get that to work?
+
+40:54.320 --> 40:57.520
+First of all, it did flips with a hopping robot.
+
+40:57.520 --> 40:58.940
+If you look at the first time
+
+40:58.940 --> 41:00.960
+we ever made a robot do a somersault,
+
+41:00.960 --> 41:03.800
+it was in a planar robot.
+
+41:03.800 --> 41:06.680
+It had a boom, so it was restricted
+
+41:06.680 --> 41:09.040
+to the surface of a sphere, we call that planar.
+
+41:09.040 --> 41:10.560
+So it could move fore and aft,
+
+41:10.560 --> 41:12.880
+it could go up and down, and it could rotate.
+
+41:12.880 --> 41:14.920
+And so the calculation of what you need to do
+
+41:14.920 --> 41:19.100
+to stick a landing isn't all that complicated.
+
+41:19.100 --> 41:20.740
+You have to look at, you know,
+
+41:20.740 --> 41:22.760
+you have to get time to make the rotation.
+
+41:22.760 --> 41:25.700
+So how high you jump gives you time.
+
+41:27.240 --> 41:29.960
+You look at how quickly you can rotate.
+
+41:29.960 --> 41:32.160
+And so, you know, if you get those two right,
+
+41:32.160 --> 41:34.680
+then when you land, you have the feet in the right place.
+
+41:34.680 --> 41:37.360
+And you have to get rid of all that rotational
+
+41:37.360 --> 41:39.640
+and linear momentum.
+
+41:39.640 --> 41:42.300
+But, you know, that's not too hard to figure out.
+
+41:42.300 --> 41:46.360
+And we made, you know, back in about 1985 or six,
+
+41:46.360 --> 41:50.380
+I can't remember, we had a simple robot doing somersaults.
+
+41:50.380 --> 41:53.440
+To do it in 3D, really the calculation is the same,
+
+41:53.440 --> 41:54.680
+you just have to be balancing
+
+41:54.680 --> 41:55.880
+and the other degrees of freedom.
+
+41:55.880 --> 41:57.120
+If you're just doing a somersault,
+
+41:57.120 --> 41:59.280
+it's just a planar thing.
+
+41:59.280 --> 42:01.960
+Roy Murab was my graduate student when we were at MIT,
+
+42:02.000 --> 42:04.760
+which is when we made, you know, a two-legged robot
+
+42:04.760 --> 42:06.800
+do a 3D somersault for the first time.
+
+42:08.120 --> 42:10.800
+There we, in order to get enough rotation rate,
+
+42:10.800 --> 42:13.740
+you needed to do tucking also, you know,
+
+42:13.740 --> 42:15.960
+withdraw the legs in order to accelerate it.
+
+42:15.960 --> 42:18.280
+And he did some really fascinating work
+
+42:18.280 --> 42:21.800
+on how you stabilize more complicated maneuvers.
+
+42:21.800 --> 42:23.040
+You remember he was a gymnast,
+
+42:23.040 --> 42:25.520
+a champion gymnast before he'd come to me.
+
+42:25.520 --> 42:29.720
+So he had the physical abilities and he was, you know,
+
+42:29.720 --> 42:32.560
+an engineer so he could translate some of that
+
+42:32.560 --> 42:37.040
+into the math and the algorithms that you need to do that.
+
+42:37.040 --> 42:38.600
+He knew how humans do it,
+
+42:38.600 --> 42:41.160
+he just had to get robots to do the same.
+
+42:41.160 --> 42:42.600
+Unfortunately though,
+
+42:42.600 --> 42:45.600
+humans don't really know how they do it, right?
+
+42:45.600 --> 42:49.640
+We were coached, we have ways of learning,
+
+42:49.640 --> 42:53.000
+but do we really understand in a physics way
+
+42:53.000 --> 42:54.600
+what we're doing?
+
+42:54.600 --> 42:57.800
+Probably most gymnasts and athletes don't know.
+
+42:57.800 --> 43:00.400
+So in some way, by building robots,
+
+43:00.400 --> 43:03.120
+you are in part understanding how humans do it,
+
+43:03.120 --> 43:04.440
+like walking.
+
+43:04.440 --> 43:08.200
+Most of us walk without considering how we walk really,
+
+43:08.200 --> 43:10.280
+and how we make it so natural and efficient,
+
+43:10.280 --> 43:11.120
+all those kinds of things.
+
+43:11.120 --> 43:13.140
+Atlas still doesn't walk like a person,
+
+43:13.140 --> 43:15.560
+and it still doesn't walk quite as gracefully as a person,
+
+43:15.560 --> 43:18.480
+even though it's been getting closer and closer.
+
+43:18.480 --> 43:21.260
+The running might be close to a human,
+
+43:21.260 --> 43:23.600
+but the walking is still a challenge.
+
+43:23.600 --> 43:24.800
+That's interesting, right?
+
+43:24.800 --> 43:26.800
+That running is closer to a human.
+
+43:26.840 --> 43:29.360
+It just shows that the more aggressive
+
+43:29.360 --> 43:34.000
+and the more you leap into the unknown,
+
+43:34.000 --> 43:35.080
+the more natural it is.
+
+43:35.080 --> 43:37.640
+I mean, walking is kind of falling always, right?
+
+43:37.640 --> 43:39.640
+And something weird about the knee,
+
+43:39.640 --> 43:43.200
+that you can kind of do this folding and unfolding,
+
+43:43.200 --> 43:44.600
+and get it to work out just,
+
+43:44.600 --> 43:46.440
+a human can get it to work out just right,
+
+43:46.440 --> 43:48.120
+there's compliances.
+
+43:48.120 --> 43:50.620
+Compliance means springiness in the design
+
+43:50.620 --> 43:52.840
+that are important to how it all works.
+
+43:52.840 --> 43:53.920
+Well, we used to have a motto
+
+43:53.920 --> 43:55.740
+at the Boston Dynamics in the early days,
+
+43:55.740 --> 43:58.180
+which was, you have to run before you can walk.
+
+44:00.540 --> 44:02.020
+That's a good motto.
+
+44:02.020 --> 44:05.020
+Because you also had Wildcat,
+
+44:05.020 --> 44:07.460
+which was one of the along the way towards Spot,
+
+44:07.460 --> 44:10.500
+which is a quadruped that went 19 miles an hour
+
+44:10.500 --> 44:12.060
+on flat terrain.
+
+44:12.060 --> 44:14.620
+Is that the fastest you've ever built?
+
+44:14.620 --> 44:17.060
+Might be the fastest quadruped in the world, I don't know.
+
+44:17.060 --> 44:18.900
+For a quadruped, probably.
+
+44:18.900 --> 44:21.180
+Of course, it was probably the loudest too.
+
+44:21.180 --> 44:24.220
+So we had this little racing go-kart engine on it,
+
+44:24.220 --> 44:27.540
+and we would get people from three buildings away,
+
+44:27.540 --> 44:31.820
+sending us complaining about how loud it was.
+
+44:31.820 --> 44:33.540
+So at the leg lab,
+
+44:33.540 --> 44:36.160
+I believe most of the robots didn't have knees.
+
+44:39.300 --> 44:42.020
+How do you figure out what is the right number of actuators?
+
+44:42.020 --> 44:44.100
+What are the joints to have?
+
+44:44.100 --> 44:46.060
+What do you need to have?
+
+44:46.060 --> 44:47.500
+We humans have knees,
+
+44:47.500 --> 44:51.220
+and all kinds of interesting stuff on the feet.
+
+44:51.220 --> 44:53.740
+The toe is an important part, I guess, for humans.
+
+44:54.340 --> 44:55.540
+Or maybe it's not.
+
+44:55.540 --> 44:57.020
+I injured my toe recently,
+
+44:57.020 --> 44:59.140
+and it made running very unpleasant.
+
+44:59.140 --> 45:01.020
+So that seems to be kind of important.
+
+45:01.020 --> 45:04.500
+So how do you figure out for efficiency, for function,
+
+45:04.500 --> 45:07.780
+for aesthetics, how many joints to have,
+
+45:07.780 --> 45:09.260
+how many actuators to have?
+
+45:09.260 --> 45:10.700
+Well, it's always a balance
+
+45:10.700 --> 45:14.100
+between wanting to get where you really want to get,
+
+45:14.100 --> 45:18.660
+and what's practical to do based on your resources,
+
+45:18.660 --> 45:20.780
+or what you know, and all that.
+
+45:20.780 --> 45:24.620
+So, I mean, the whole idea of the Poga stick
+
+45:24.620 --> 45:26.420
+was to do simplification.
+
+45:26.420 --> 45:28.620
+Obviously, it didn't look like a human.
+
+45:28.620 --> 45:31.940
+I think a technical scientist could appreciate
+
+45:31.940 --> 45:33.900
+that we were capturing some of the things
+
+45:33.900 --> 45:35.900
+that are important in human locomotion
+
+45:35.900 --> 45:40.340
+without it looking like it, without having a knee, an ankle.
+
+45:40.340 --> 45:43.220
+I'll tell you the first sketch that Ben Brown made
+
+45:44.100 --> 45:45.840
+when we were talking about building this thing
+
+45:45.840 --> 45:48.100
+was a very complicated thing
+
+45:48.100 --> 45:51.220
+with zillions of springs, lots of joints.
+
+45:51.220 --> 45:54.900
+It looked like much more like a kangaroo
+
+45:54.900 --> 45:57.500
+or an ostrich or something like that,
+
+45:57.500 --> 46:00.300
+things we were paying a lot of attention to at the time.
+
+46:01.580 --> 46:03.940
+Yeah, so my job was to say,
+
+46:03.940 --> 46:08.020
+okay, well, let's do something simpler to get started,
+
+46:08.020 --> 46:10.300
+and maybe we'll get there at some point.
+
+46:10.300 --> 46:12.820
+I just love the idea that you two
+
+46:12.820 --> 46:14.700
+were studying kangaroos and ostriches.
+
+46:14.700 --> 46:16.500
+Oh yeah, we did.
+
+46:16.540 --> 46:21.540
+We filmed and digitized data from horses.
+
+46:21.700 --> 46:25.340
+I did a dissection of an ostrich at one point,
+
+46:25.340 --> 46:27.740
+which has absolutely remarkable legs.
+
+46:27.740 --> 46:28.820
+Dumb question.
+
+46:28.820 --> 46:33.560
+Do ostriches have a lot of musculature on the legs or no?
+
+46:33.560 --> 46:35.260
+Most of it's up in the feathers,
+
+46:35.260 --> 46:37.200
+but there's a huge amount going on in the feathers,
+
+46:37.200 --> 46:38.860
+including a knee joint.
+
+46:38.860 --> 46:40.140
+The knee joint's way up there.
+
+46:40.140 --> 46:42.060
+The thing that's halfway down the leg
+
+46:42.060 --> 46:46.480
+that looks like a backwards knee is actually the ankle.
+
+46:47.480 --> 46:49.040
+The thing on the ground which looks like the foot
+
+46:49.040 --> 46:52.760
+is actually the toes, it's an extended toe.
+
+46:52.760 --> 46:57.760
+But the basic morphology is the same in all these animals.
+
+46:58.920 --> 47:02.880
+What do you think is the most beautiful movement
+
+47:02.880 --> 47:03.720
+of an animal?
+
+47:03.720 --> 47:06.560
+Like what animal do you think is the coolest?
+
+47:06.560 --> 47:07.680
+Land animal, that's cool,
+
+47:07.680 --> 47:08.720
+because fish is pretty cool,
+
+47:08.720 --> 47:11.800
+like the water, but like leggy locomotion.
+
+47:11.800 --> 47:15.000
+You know, the slo-mos of cheetahs running are incredible.
+
+47:15.000 --> 47:20.000
+You know, there's so much back motion and, you know, grace,
+
+47:20.780 --> 47:22.680
+and of course they're moving very fast.
+
+47:24.080 --> 47:25.680
+The animals running away from the cheetah
+
+47:25.680 --> 47:26.740
+are pretty exciting.
+
+47:26.740 --> 47:29.480
+You know, the pronghorn, which, you know,
+
+47:29.480 --> 47:33.500
+they do this all four legs at once jump called the prong
+
+47:33.500 --> 47:36.760
+to kind of confuse the, especially if there's a group of them
+
+47:36.760 --> 47:39.240
+to confuse whoever's chasing them.
+
+47:39.240 --> 47:41.000
+So they do like a misdirection type of thing?
+
+47:41.000 --> 47:42.880
+Yep, they do a misdirection thing.
+
+47:42.880 --> 47:45.120
+The front-on views of the cheetahs running fast
+
+47:45.120 --> 47:48.520
+where the tail is whipping around to help in the turns,
+
+47:48.520 --> 47:51.360
+to help us stabilize in the turns, that's pretty exciting.
+
+47:51.360 --> 47:53.360
+Because they spend a lot of time in the air, I guess,
+
+47:53.360 --> 47:55.000
+as they're running that fast.
+
+47:55.000 --> 47:56.960
+But they also turn very fast.
+
+47:56.960 --> 47:58.800
+Is that a tail thing or is that,
+
+47:58.800 --> 48:00.400
+do you have to have contact with ground?
+
+48:00.400 --> 48:02.560
+Everything in the body is probably helping turn
+
+48:02.560 --> 48:04.860
+because they're chasing something that's trying to get away
+
+48:04.860 --> 48:07.880
+that's also zigzagging around.
+
+48:07.880 --> 48:10.700
+But I would be remiss if I didn't say, you know,
+
+48:10.700 --> 48:12.900
+humans are pretty good too.
+
+48:12.900 --> 48:15.860
+You know, you watch gymnasts, especially these days,
+
+48:15.860 --> 48:19.420
+they're doing just incredible stuff.
+
+48:19.420 --> 48:22.220
+Well, like, especially like Olympic level gymnasts.
+
+48:22.220 --> 48:24.420
+See, but there could be, I think there could be cheetahs
+
+48:24.420 --> 48:25.260
+that are Olympic level.
+
+48:25.260 --> 48:28.220
+We might be watching the average cheetah versus like,
+
+48:28.220 --> 48:30.300
+there could be like a really special cheetah
+
+48:30.300 --> 48:31.140
+that can do like-
+
+48:31.140 --> 48:32.300
+You're right.
+
+48:32.300 --> 48:35.340
+When did the knees first come into play
+
+48:35.340 --> 48:37.620
+in you building legged robots?
+
+48:37.620 --> 48:38.580
+In Big Dog.
+
+48:38.580 --> 48:39.420
+Big Dog.
+
+48:39.580 --> 48:42.940
+Big Dog came first and then Little Dog was later.
+
+48:42.940 --> 48:47.180
+And you know, there's a big compromise there.
+
+48:47.180 --> 48:50.340
+Human knees have multiple muscles
+
+48:50.340 --> 48:52.900
+and you could argue that there's,
+
+48:54.780 --> 48:57.700
+I mean, it's a technical thing about negative work.
+
+48:57.700 --> 49:00.380
+When you're contracting a joint,
+
+49:00.380 --> 49:03.740
+but you're pushing out, that's negative work.
+
+49:03.740 --> 49:05.780
+And if you don't have a place to store that,
+
+49:05.780 --> 49:08.100
+it can be very expensive to do negative work.
+
+49:08.780 --> 49:10.660
+And in Big Dog, there was no place
+
+49:10.660 --> 49:13.980
+to store negative work in the knees.
+
+49:14.860 --> 49:19.500
+But Big Dog also had pogo stick springs down below.
+
+49:19.500 --> 49:23.660
+So part of the action was to comply in a bouncing motion.
+
+49:23.660 --> 49:27.020
+You know, later on in spot, we took that out.
+
+49:27.020 --> 49:29.900
+As we got further and further away from the leg lab,
+
+49:29.900 --> 49:33.860
+we had more, you know, energy driven controls.
+
+49:34.820 --> 49:36.900
+Is there something to be said about like knees
+
+49:36.900 --> 49:40.740
+that go forward versus backward?
+
+49:40.740 --> 49:41.580
+Sure.
+
+49:41.580 --> 49:45.460
+There's this idea called the passive dynamics,
+
+49:45.460 --> 49:48.620
+which says that although you can use computers
+
+49:48.620 --> 49:51.020
+and actuators to make a motion,
+
+49:51.020 --> 49:54.220
+a mechanical system can make a motion just by itself
+
+49:54.220 --> 49:56.300
+if it gets stimulated the right way.
+
+49:57.740 --> 50:02.740
+So Tad McGeer in the, I think in the mid 80s,
+
+50:03.020 --> 50:05.980
+maybe it was in the late 80s, started to work on that.
+
+50:05.980 --> 50:09.380
+And he made this legged system
+
+50:09.380 --> 50:11.780
+that could walk down an inclined plane
+
+50:11.780 --> 50:14.660
+where the legs folded and unfolded and swung forward,
+
+50:14.660 --> 50:17.100
+you know, do the whole walking motion
+
+50:17.100 --> 50:19.500
+where the only thing, there was no computer.
+
+50:19.500 --> 50:22.140
+There were some adjustments to the mechanics
+
+50:22.140 --> 50:24.860
+so that there were dampers and springs in some places
+
+50:24.860 --> 50:28.420
+that helped the mechanical action happen.
+
+50:28.420 --> 50:30.700
+It was essentially a mechanical computer.
+
+50:30.700 --> 50:34.060
+And the idea, the interesting idea there is
+
+50:34.060 --> 50:38.380
+that it's not all about the brain dictating to the body
+
+50:38.380 --> 50:39.420
+what the body should do.
+
+50:39.420 --> 50:42.460
+The body is a participant in the motion.
+
+50:42.460 --> 50:46.180
+So a great design for a robot has a mechanical component
+
+50:46.180 --> 50:49.620
+where the movement is efficient even without a brain.
+
+50:49.620 --> 50:50.540
+Yes.
+
+50:50.540 --> 50:52.140
+How do you design that?
+
+50:52.140 --> 50:54.660
+I think that these days, most robots aren't doing that.
+
+50:54.660 --> 50:58.620
+Most robots are basically using the computer
+
+50:58.620 --> 51:00.500
+to govern the motion.
+
+51:00.500 --> 51:03.940
+Now the brain though is taking into account
+
+51:04.820 --> 51:07.020
+what the mechanical thing can do
+
+51:07.020 --> 51:08.180
+and how it's going to behave.
+
+51:08.180 --> 51:11.660
+Otherwise it would have to really forcefully move
+
+51:11.660 --> 51:13.580
+everything around all the time,
+
+51:13.580 --> 51:15.860
+which probably some solutions do,
+
+51:15.860 --> 51:18.380
+but I think you end up with a more efficient
+
+51:18.380 --> 51:21.260
+and more graceful thing if you're taking into account
+
+51:21.260 --> 51:23.260
+what the machine wants to do.
+
+51:23.260 --> 51:25.380
+So this might be a good place to mention
+
+51:25.380 --> 51:28.700
+that you're now leading up
+
+51:28.700 --> 51:32.980
+the Boston Dynamics AI Institute, newly formed,
+
+51:33.020 --> 51:37.060
+which is focused more on designing the robots of the future.
+
+51:38.180 --> 51:39.700
+I think one of the things,
+
+51:39.700 --> 51:42.340
+maybe you can tell me the big vision for what's going on,
+
+51:42.340 --> 51:47.140
+but one of the things is this idea that hardware
+
+51:47.140 --> 51:50.300
+still matters with organic design and so on.
+
+51:50.300 --> 51:52.060
+Maybe before that, can you zoom out
+
+51:52.060 --> 51:55.900
+and tell me what the vision is for the AI Institute?
+
+51:57.300 --> 52:00.260
+I like to talk about intelligence having two parts,
+
+52:00.260 --> 52:04.100
+an athletic part and a cognitive part.
+
+52:04.100 --> 52:07.180
+And I think Boston Dynamics, in my view,
+
+52:07.180 --> 52:08.540
+has sort of set the standard
+
+52:08.540 --> 52:12.060
+for what athletic intelligence can be.
+
+52:12.060 --> 52:13.340
+And it has to do with all the things
+
+52:13.340 --> 52:17.260
+we've been talking about, the mechanical design,
+
+52:17.260 --> 52:19.940
+the real time control, the energetics
+
+52:19.940 --> 52:21.420
+and that kind of stuff.
+
+52:21.420 --> 52:24.580
+But obviously people have another kind of intelligence
+
+52:24.580 --> 52:26.940
+and animals have another kind of intelligence.
+
+52:26.940 --> 52:28.180
+We can make a plan.
+
+52:29.140 --> 52:31.380
+Our meeting started at 9.30.
+
+52:31.380 --> 52:34.940
+I looked up on Google Maps how long it took to walk over here.
+
+52:34.940 --> 52:36.820
+It was 20 minutes.
+
+52:36.820 --> 52:40.420
+So I decided, okay, I'd leave my house at nine,
+
+52:40.420 --> 52:41.420
+which is what I did.
+
+52:42.780 --> 52:43.740
+Simple intelligence,
+
+52:43.740 --> 52:46.260
+but we use that kind of stuff all the time.
+
+52:46.260 --> 52:48.940
+It's sort of what we think of as going on in our heads.
+
+52:50.260 --> 52:53.260
+And I think that's in short supply for robots.
+
+52:53.260 --> 52:55.380
+Most robots are pretty dumb.
+
+52:55.620 --> 52:58.660
+And as a result, it takes a lot of skilled people
+
+52:58.660 --> 53:01.300
+to program them to do everything they do.
+
+53:02.180 --> 53:03.900
+And it takes a long time.
+
+53:03.900 --> 53:08.220
+And if robots are gonna satisfy our dreams,
+
+53:08.220 --> 53:09.420
+they need to be smarter.
+
+53:11.180 --> 53:16.180
+So the AI Institute is designed to combine
+
+53:16.820 --> 53:19.540
+that physicality of the athletic side
+
+53:19.540 --> 53:21.980
+with the cognitive side.
+
+53:21.980 --> 53:24.500
+So for instance, we're trying to make robots
+
+53:24.500 --> 53:27.380
+that can watch a human do a task,
+
+53:27.380 --> 53:29.700
+understand what they're seeing,
+
+53:29.700 --> 53:31.220
+and then do the task itself.
+
+53:31.220 --> 53:36.220
+So sort of OJT on-the-job training for robots as a paradigm.
+
+53:37.620 --> 53:40.020
+Now, that's pretty hard,
+
+53:40.020 --> 53:42.180
+and it's sort of science fiction,
+
+53:42.180 --> 53:46.100
+but our idea is to work on a longer timeframe
+
+53:46.100 --> 53:48.940
+and work on solving those kinds of problems.
+
+53:48.940 --> 53:50.060
+And I have a whole list of things
+
+53:50.060 --> 53:53.100
+that are kind of like in that vein.
+
+53:53.100 --> 53:57.540
+Maybe we can just take many of the things you mentioned,
+
+53:57.540 --> 53:59.260
+just take it as a tangent.
+
+53:59.260 --> 54:02.100
+First of all, athletic intelligence is a super cool term.
+
+54:03.580 --> 54:05.620
+And that really is intelligence.
+
+54:05.620 --> 54:07.740
+We humans kind of take it for granted
+
+54:07.740 --> 54:10.220
+that we're so good at walking and moving about the world.
+
+54:10.220 --> 54:13.340
+And using our hands, the mechanics of interacting
+
+54:13.340 --> 54:16.660
+with all these parts, these two things.
+
+54:16.660 --> 54:18.620
+You've never touched those things before, right?
+
+54:18.620 --> 54:20.300
+Well, I've touched ones like this.
+
+54:20.300 --> 54:21.780
+Look at all the things I can do, right?
+
+54:21.940 --> 54:25.660
+I can juggle them, this way I can rotate it without looking.
+
+54:25.660 --> 54:27.540
+I could fetch these things out of my pocket
+
+54:27.540 --> 54:29.140
+and figure out which one was which
+
+54:29.140 --> 54:30.620
+and all that kind of stuff.
+
+54:30.620 --> 54:33.420
+And I don't think we have much of a clue
+
+54:33.420 --> 54:35.300
+how all that works yet.
+
+54:35.300 --> 54:37.460
+Right, and I really like putting that
+
+54:37.460 --> 54:41.380
+under the banner of athletic intelligence.
+
+54:41.380 --> 54:44.340
+What are the big open problems in athletic intelligence?
+
+54:44.340 --> 54:48.780
+So Boston Dynamics with Spot, with Atlas,
+
+54:48.780 --> 54:51.500
+just have shown time and time again,
+
+54:52.180 --> 54:54.900
+push the limits of what we think is possible with robots.
+
+54:54.900 --> 54:58.420
+But where do we stand actually, if we kind of zoom out?
+
+54:58.420 --> 54:59.820
+What are the big open problems
+
+54:59.820 --> 55:01.580
+on the athletic intelligence side?
+
+55:01.580 --> 55:04.220
+I mean, one question you could ask, it isn't my question,
+
+55:04.220 --> 55:06.740
+but are they commercially viable?
+
+55:08.380 --> 55:10.180
+Will they increase productivity?
+
+55:10.180 --> 55:12.860
+And I think we're getting very close to that.
+
+55:13.860 --> 55:15.940
+I don't think we're quite there still.
+
+55:15.940 --> 55:20.020
+Most of the robotics companies, it's a struggle.
+
+55:20.020 --> 55:22.260
+It's really the lack of the cognitive side
+
+55:22.260 --> 55:25.060
+that probably is the biggest barrier at the moment,
+
+55:25.060 --> 55:27.860
+even for the physically successful robots.
+
+55:27.860 --> 55:30.940
+But your question's, I mean, you can always do a thing
+
+55:30.940 --> 55:34.900
+that's more efficient, lighter, more reliable.
+
+55:34.900 --> 55:36.580
+I'd say reliability.
+
+55:36.580 --> 55:40.260
+I know that Spot, they've been working very hard
+
+55:40.260 --> 55:44.380
+on getting the tail of the reliability curve up
+
+55:44.380 --> 55:46.180
+and they've made huge progress.
+
+55:46.260 --> 55:50.380
+So the robots, there's 1,500 of them out there now,
+
+55:50.380 --> 55:54.580
+many of them being used in practical applications
+
+55:54.580 --> 55:59.580
+day in and day out, where they have to work reliably.
+
+56:00.060 --> 56:02.660
+And it's very exciting that they've done that,
+
+56:02.660 --> 56:03.780
+but it takes a huge effort
+
+56:03.780 --> 56:07.220
+to get that kind of reliability in the robot.
+
+56:07.220 --> 56:10.580
+There's cost too, you'd like to get the cost down.
+
+56:10.580 --> 56:12.220
+Spots are still pretty expensive
+
+56:13.660 --> 56:15.980
+and I don't think that they have to be,
+
+56:16.780 --> 56:19.940
+but it takes a different kind of activity to do that.
+
+56:21.060 --> 56:25.900
+Now that, I think that Boston Dynamics
+
+56:25.900 --> 56:28.420
+is owned primarily by Hyundai now,
+
+56:28.420 --> 56:32.620
+and I think that the skills of Hyundai in making cars
+
+56:32.620 --> 56:36.740
+can be brought to bear in making robots
+
+56:36.740 --> 56:38.700
+that are less expensive and more reliable
+
+56:38.700 --> 56:39.820
+and those kinds of things.
+
+56:39.820 --> 56:43.820
+So on the cognitive side for the Eye Institute,
+
+56:44.100 --> 56:47.860
+what's the trade-off between moonshot projects for you
+
+56:47.860 --> 56:50.580
+and maybe incremental progress?
+
+56:50.580 --> 56:51.580
+That's a good question.
+
+56:51.580 --> 56:53.780
+I think we're using the paradigm
+
+56:53.780 --> 56:56.100
+called stepping stones to moonshots.
+
+56:56.100 --> 57:00.260
+I don't believe, that was in my original proposal
+
+57:00.260 --> 57:02.900
+for the Institute, stepping stones to moonshots.
+
+57:02.900 --> 57:05.580
+I think if you go more than a year
+
+57:05.580 --> 57:10.060
+without seeing a tangible status report of where you are,
+
+57:10.060 --> 57:12.180
+which is the stepping stone,
+
+57:12.180 --> 57:14.100
+and it could be a simplification, right?
+
+57:14.100 --> 57:16.140
+You don't necessarily have to solve
+
+57:16.140 --> 57:18.180
+all the problems of your target goal,
+
+57:18.180 --> 57:21.060
+even though your target goal is going to take several years.
+
+57:22.460 --> 57:25.420
+Those stepping stone results give you feedback,
+
+57:25.420 --> 57:26.380
+give motivation,
+
+57:26.380 --> 57:29.580
+because usually there's some success in there.
+
+57:29.580 --> 57:33.500
+And so that's the mantra we've been working on.
+
+57:33.500 --> 57:37.820
+And that's pretty much how I'd say Boston Dynamics has worked
+
+57:38.820 --> 57:43.180
+where you make progress and show it as you go.
+
+57:43.180 --> 57:45.780
+Show it to yourself, if not to the world.
+
+57:45.780 --> 57:47.340
+What does success look like?
+
+57:47.340 --> 57:50.740
+What are some of the milestones you're chasing?
+
+57:51.900 --> 57:54.660
+Well, with Watch, Understand, Do,
+
+57:54.660 --> 57:56.380
+the project I mentioned before,
+
+57:56.380 --> 57:59.860
+we've broken that down into getting some progress
+
+57:59.860 --> 58:03.020
+with what does meaningfully watching something mean,
+
+58:04.020 --> 58:06.700
+breaking down an observation of a person
+
+58:06.700 --> 58:11.500
+doing something into the components, segmenting.
+
+58:11.500 --> 58:12.580
+You watch me do something,
+
+58:12.580 --> 58:14.460
+I'm going to pick up this thing and put it down here
+
+58:14.460 --> 58:15.740
+and stack this on it.
+
+58:15.740 --> 58:18.660
+Well, it's not obvious if you just look at the raw data,
+
+58:19.900 --> 58:21.900
+what the sequence of acts are.
+
+58:21.900 --> 58:24.700
+It's really a creative, intelligent act for you
+
+58:24.700 --> 58:26.740
+to break that down into the pieces
+
+58:26.740 --> 58:29.140
+and understand them in a way so you could say,
+
+58:29.260 --> 58:31.500
+okay, what skill do I need
+
+58:31.500 --> 58:34.180
+to accomplish each of those things?
+
+58:34.180 --> 58:37.380
+So we're working on the front end of that kind of a problem
+
+58:37.380 --> 58:41.300
+where we observe and translate the,
+
+58:41.300 --> 58:43.460
+if it may be video, it may be live
+
+58:43.460 --> 58:47.060
+into a description of what we think is going on
+
+58:47.060 --> 58:49.460
+and then trying to map that into skills to accomplish that.
+
+58:49.460 --> 58:51.260
+And we've been developing skills as well.
+
+58:51.260 --> 58:53.540
+So we have kind of multiple stabs
+
+58:53.540 --> 58:55.460
+at the pieces of doing that.
+
+58:55.500 --> 58:59.540
+And this is usually video of humans manipulating objects
+
+58:59.540 --> 59:01.500
+with their hands kind of thing?
+
+59:01.500 --> 59:03.220
+We're starting out with bicycle repair,
+
+59:03.220 --> 59:05.380
+some simple bicycle repair tasks.
+
+59:05.380 --> 59:06.460
+That seems complicated.
+
+59:06.460 --> 59:07.460
+That seems really complicated.
+
+59:07.460 --> 59:10.260
+It is, but there's some parts of it that aren't,
+
+59:10.260 --> 59:14.300
+like putting the seat in into the,
+
+59:14.300 --> 59:16.420
+you have a tube that goes inside of another tube
+
+59:16.420 --> 59:19.740
+and there's a latch, that should be within range.
+
+59:19.740 --> 59:23.420
+Is it possible to observe, to watch a video like this
+
+59:23.420 --> 59:25.060
+without having an explicit model
+
+59:25.060 --> 59:26.620
+of what a bicycle looks like?
+
+59:26.620 --> 59:27.900
+I think it is.
+
+59:27.900 --> 59:29.420
+And I think that's the kind of thing
+
+59:29.420 --> 59:30.900
+that people don't recognize.
+
+59:30.900 --> 59:33.220
+Let me translate it to navigation.
+
+59:35.100 --> 59:38.900
+I think the basic paradigm for navigating a space
+
+59:38.900 --> 59:41.100
+is to get some kind of sensor that tells you
+
+59:41.100 --> 59:43.260
+where an obstacle is and what's open,
+
+59:43.260 --> 59:46.220
+build a map and then go through the space.
+
+59:46.220 --> 59:48.540
+But if we were doing on the job training
+
+59:48.540 --> 59:49.980
+where I was giving you a task,
+
+59:49.980 --> 59:51.940
+I wouldn't have to say anything about the room, right?
+
+59:51.940 --> 59:54.980
+We came in here, all we did is adjust the chair
+
+59:54.980 --> 59:57.100
+but we didn't say anything about the room
+
+59:57.100 --> 59:58.820
+and we could navigate it.
+
+59:58.820 --> 01:00:00.620
+So I think there's opportunities to build
+
+01:00:00.620 --> 01:00:02.980
+that kind of navigation skill into robots
+
+01:00:03.980 --> 01:00:07.380
+and we're hoping to be able to do that.
+
+01:00:07.380 --> 01:00:10.460
+So operate successfully under a lot of uncertainty.
+
+01:00:10.460 --> 01:00:13.180
+Yeah, and lack of specification.
+
+01:00:13.180 --> 01:00:14.620
+Lack of specification.
+
+01:00:14.620 --> 01:00:16.700
+I mean, that's what sort of intelligence is, right?
+
+01:00:16.700 --> 01:00:20.180
+Kind of dealing with understanding a situation
+
+01:00:20.180 --> 01:00:22.260
+even though it wasn't explained.
+
+01:00:22.260 --> 01:00:24.460
+So how big of a role does machine learning
+
+01:00:25.620 --> 01:00:26.820
+play in all of this?
+
+01:00:26.820 --> 01:00:29.340
+Is this more and more learning-based?
+
+01:00:32.220 --> 01:00:35.860
+Since chat GBT, which is a year ago, basically,
+
+01:00:36.900 --> 01:00:39.620
+there's a huge interest in that
+
+01:00:39.620 --> 01:00:42.540
+and a huge optimism about it.
+
+01:00:42.540 --> 01:00:44.300
+And I think that there's a lot of things
+
+01:00:44.300 --> 01:00:46.580
+that machine learn, that kind of machine learning.
+
+01:00:46.580 --> 01:00:47.780
+Now, Chris, there's lots of different kinds
+
+01:00:47.780 --> 01:00:48.860
+of machine learning.
+
+01:00:48.860 --> 01:00:52.460
+I think there's a lot of interest and optimism about it.
+
+01:00:52.460 --> 01:00:56.340
+I think the facts on the ground are that
+
+01:00:56.340 --> 01:00:58.620
+doing physical things with physical robots
+
+01:00:58.620 --> 01:01:00.900
+is a little bit different than language
+
+01:01:00.900 --> 01:01:04.620
+and the tokens sort of don't exist.
+
+01:01:04.620 --> 01:01:07.660
+You know, pixel values aren't like words
+
+01:01:08.860 --> 01:01:12.500
+but I think that there's a lot that can be done there.
+
+01:01:12.500 --> 01:01:16.740
+We have several people working
+
+01:01:16.740 --> 01:01:18.380
+on machine learning approaches.
+
+01:01:18.380 --> 01:01:19.220
+I don't know if you know,
+
+01:01:19.220 --> 01:01:22.340
+but we opened an office in Zurich recently
+
+01:01:22.340 --> 01:01:25.540
+and Marco Hutter, who's one of the real leaders
+
+01:01:25.540 --> 01:01:28.740
+in reinforcement learning for robots,
+
+01:01:28.740 --> 01:01:31.340
+is the director of that office.
+
+01:01:31.340 --> 01:01:36.340
+He's still half time at ETH, the university there
+
+01:01:36.620 --> 01:01:39.340
+where he has an unbelievably fantastic lab
+
+01:01:39.340 --> 01:01:42.300
+and then he's half time leading,
+
+01:01:42.300 --> 01:01:45.500
+will be leading off efforts in the Zurich office.
+
+01:01:45.500 --> 01:01:48.300
+So we have a healthy learning component
+
+01:01:49.220 --> 01:01:51.820
+but there's part of me that still says
+
+01:01:51.820 --> 01:01:53.140
+if you look out in the world
+
+01:01:53.140 --> 01:01:56.860
+at what the most impressive performances are,
+
+01:01:56.860 --> 01:01:58.500
+they're still pretty much,
+
+01:02:00.140 --> 01:02:01.460
+I hate to use the word traditional
+
+01:02:01.460 --> 01:02:02.460
+but that's what everybody's calling it,
+
+01:02:02.460 --> 01:02:05.540
+traditional controls like model predictive control.
+
+01:02:07.540 --> 01:02:10.100
+The Atlas performances that you've seen
+
+01:02:10.100 --> 01:02:11.900
+are mostly model predictive control.
+
+01:02:11.900 --> 01:02:13.340
+They've started to do some learning stuff
+
+01:02:13.340 --> 01:02:14.700
+that's really incredible.
+
+01:02:14.700 --> 01:02:16.460
+I don't know if it's all been shown yet
+
+01:02:16.860 --> 01:02:20.380
+over time and then Marco has done some great stuff
+
+01:02:20.380 --> 01:02:21.580
+and others.
+
+01:02:21.580 --> 01:02:25.060
+So especially for the athletic intelligence piece,
+
+01:02:25.060 --> 01:02:27.060
+the traditional approach seems to be the one
+
+01:02:27.060 --> 01:02:29.220
+that still performs the best.
+
+01:02:29.220 --> 01:02:31.580
+I think we're gonna find a mating of the two
+
+01:02:31.580 --> 01:02:33.420
+and we'll have the best of both worlds
+
+01:02:33.420 --> 01:02:36.060
+and we're working on that at the Institute too.
+
+01:02:36.060 --> 01:02:37.980
+If I can talk to you about teams,
+
+01:02:37.980 --> 01:02:40.020
+you've built an incredible team of Boston Dynamics
+
+01:02:40.020 --> 01:02:43.180
+before at MIT and CMU and Boston Dynamics
+
+01:02:43.180 --> 01:02:45.100
+and now at the AI Institute
+
+01:02:45.100 --> 01:02:48.860
+and you said that there's four components to a great team,
+
+01:02:48.860 --> 01:02:52.260
+technical, fearlessness, diligence,
+
+01:02:52.260 --> 01:02:55.060
+intrepidness and fun, technical fun.
+
+01:02:55.060 --> 01:02:56.220
+Can you explain each?
+
+01:02:56.220 --> 01:02:58.220
+Technical fearlessness, what do you mean by that?
+
+01:02:58.220 --> 01:03:01.380
+Sure, technical fearlessness means being willing
+
+01:03:01.380 --> 01:03:04.460
+to take on a problem that you don't know how to solve
+
+01:03:04.460 --> 01:03:09.460
+and study it, figure out an entry point,
+
+01:03:10.780 --> 01:03:12.220
+maybe a simplified version
+
+01:03:12.220 --> 01:03:14.980
+or a simplified solution or something,
+
+01:03:15.820 --> 01:03:19.820
+learn from the stepping stone and go back
+
+01:03:19.820 --> 01:03:24.820
+and eventually make a solution that meets your goals.
+
+01:03:26.500 --> 01:03:28.220
+And I think that's really important.
+
+01:03:28.220 --> 01:03:29.620
+The fearlessness comes into play
+
+01:03:29.620 --> 01:03:32.500
+because some of it has never been done before.
+
+01:03:32.500 --> 01:03:34.380
+Yeah, and you don't know how to do it
+
+01:03:34.380 --> 01:03:37.020
+and there's easier stuff to do in life.
+
+01:03:38.660 --> 01:03:43.220
+So, I mean, I don't know, watch, understand, do.
+
+01:03:43.260 --> 01:03:45.860
+It's a mountain of a challenge.
+
+01:03:45.860 --> 01:03:48.580
+So that's the really big challenge you're tackling now.
+
+01:03:48.580 --> 01:03:52.300
+Can we watch humans at scale and have robots
+
+01:03:52.300 --> 01:03:57.300
+by watching humans become effective actors in the world?
+
+01:03:57.380 --> 01:03:59.740
+Yeah, I mean, we have others like that.
+
+01:03:59.740 --> 01:04:02.340
+We have one called Inspect, Diagnose, Fix.
+
+01:04:02.340 --> 01:04:06.460
+Like, you know, you call up the Maytag repairman.
+
+01:04:06.460 --> 01:04:08.260
+Okay, he's the one who you don't have to call,
+
+01:04:08.260 --> 01:04:12.780
+but you know, you call up the dishwasher repair person
+
+01:04:12.860 --> 01:04:16.180
+and they come to your house and they look at your machine.
+
+01:04:16.180 --> 01:04:18.900
+It's already been actually figured out
+
+01:04:18.900 --> 01:04:20.060
+that something doesn't work,
+
+01:04:20.060 --> 01:04:21.780
+but they have to kind of examine it
+
+01:04:21.780 --> 01:04:25.260
+and figure out what's wrong and then fix it.
+
+01:04:25.260 --> 01:04:28.340
+And I think robots should be able to do that.
+
+01:04:30.340 --> 01:04:32.580
+Boston Dynamics already has spot robots
+
+01:04:33.580 --> 01:04:37.140
+collecting data on machines, things like thermal data,
+
+01:04:37.140 --> 01:04:40.460
+reading the gauges, listening to them, getting sounds.
+
+01:04:40.460 --> 01:04:44.020
+And that data are used to determine
+
+01:04:44.020 --> 01:04:45.980
+whether they're healthy or not.
+
+01:04:45.980 --> 01:04:49.140
+But the interpretation isn't done by the robots yet.
+
+01:04:49.140 --> 01:04:54.140
+And certainly the diagnosing and the fixing isn't done yet,
+
+01:04:54.580 --> 01:04:55.500
+but I think it could be.
+
+01:04:55.500 --> 01:04:58.060
+And that's bringing the AI and combining it
+
+01:04:58.060 --> 01:05:00.860
+with the physical skills to do it.
+
+01:05:00.860 --> 01:05:02.940
+And you're referring to the fixing in the physical world.
+
+01:05:02.940 --> 01:05:04.420
+I can't wait until you can fix
+
+01:05:04.420 --> 01:05:05.980
+the psychological problems of humans
+
+01:05:05.980 --> 01:05:08.820
+and show up and do therapy.
+
+01:05:08.820 --> 01:05:10.300
+Yeah, that's a different thing.
+
+01:05:11.140 --> 01:05:13.340
+Well, that's all part of the same thing.
+
+01:05:13.340 --> 01:05:14.460
+Again, humanity.
+
+01:05:15.820 --> 01:05:17.740
+Maybe, maybe.
+
+01:05:17.740 --> 01:05:19.060
+You mean convincing you it's okay
+
+01:05:19.060 --> 01:05:20.940
+that the dishwasher's broken just through the hands?
+
+01:05:20.940 --> 01:05:21.780
+Oh yeah.
+
+01:05:21.780 --> 01:05:23.820
+The marketing approach.
+
+01:05:23.820 --> 01:05:25.060
+Yeah, exactly.
+
+01:05:25.060 --> 01:05:28.460
+It's all, yeah, don't sweat the small stuff.
+
+01:05:29.820 --> 01:05:31.540
+Yeah, as opposed to fixing the dishwasher,
+
+01:05:31.540 --> 01:05:32.620
+it'll convince you that it's okay
+
+01:05:32.620 --> 01:05:34.260
+that the dishwasher's broken.
+
+01:05:34.260 --> 01:05:35.620
+It's a different approach.
+
+01:05:37.540 --> 01:05:38.500
+Diligence.
+
+01:05:38.500 --> 01:05:39.940
+Why is diligence important?
+
+01:05:40.580 --> 01:05:42.460
+Well, if you want a real robot solution,
+
+01:05:42.460 --> 01:05:46.900
+it can't be a very narrow solution
+
+01:05:46.900 --> 01:05:49.340
+that's gonna break at the first variation
+
+01:05:49.340 --> 01:05:52.460
+in what the robot does or the environment
+
+01:05:52.460 --> 01:05:55.020
+if it wasn't exactly as you expected it.
+
+01:05:55.020 --> 01:05:56.060
+So how do you get there?
+
+01:05:56.060 --> 01:06:01.060
+I think having an approach that leaves you unsatisfied
+
+01:06:01.220 --> 01:06:03.740
+until you've embraced the bigger problem
+
+01:06:03.740 --> 01:06:06.380
+is the diligence I'm talking about.
+
+01:06:06.380 --> 01:06:09.660
+And again, I'll point out Boss Dynamics.
+
+01:06:10.660 --> 01:06:15.140
+Some of the videos that we had showing the engineer
+
+01:06:15.140 --> 01:06:17.460
+making it hard for the robot to do its task.
+
+01:06:18.860 --> 01:06:20.540
+Spot opening a door,
+
+01:06:20.540 --> 01:06:22.620
+and then the guy gets there and pushes on the door
+
+01:06:22.620 --> 01:06:24.420
+so it doesn't open the way it's supposed to,
+
+01:06:24.420 --> 01:06:27.420
+pulling on the rope that's attached to the robot
+
+01:06:27.420 --> 01:06:30.460
+so its navigation has been screwed up.
+
+01:06:30.460 --> 01:06:32.580
+We have one where the robot's climbing stairs
+
+01:06:32.580 --> 01:06:34.500
+and the engineer is tugging on a rope
+
+01:06:34.500 --> 01:06:36.860
+that's pulling it back down the stairs.
+
+01:06:36.860 --> 01:06:37.980
+That's totally different
+
+01:06:37.980 --> 01:06:40.300
+than just the robot seeing the stairs,
+
+01:06:40.300 --> 01:06:43.700
+making a model, putting its feet carefully on each step.
+
+01:06:43.700 --> 01:06:46.700
+But that's what probably robotics needs to succeed.
+
+01:06:46.700 --> 01:06:50.220
+And having that broader idea
+
+01:06:50.220 --> 01:06:52.260
+that you wanna come up with a robust solution
+
+01:06:52.260 --> 01:06:54.780
+is what I meant by diligence.
+
+01:06:54.780 --> 01:06:56.580
+So really testing it in all conditions,
+
+01:06:56.580 --> 01:06:59.140
+perturbing the system in all kinds of ways.
+
+01:06:59.140 --> 01:07:02.100
+And as a result, creating some epic videos,
+
+01:07:02.100 --> 01:07:04.780
+the legendary. The fun part, the hockey stick.
+
+01:07:04.780 --> 01:07:06.780
+And then yes, tugging on Spot
+
+01:07:06.780 --> 01:07:09.060
+as it's trying to open the door.
+
+01:07:09.060 --> 01:07:12.740
+I mean, it's great testing, but it's also,
+
+01:07:14.220 --> 01:07:18.300
+I don't know, it's just somehow extremely compelling
+
+01:07:18.300 --> 01:07:21.260
+demonstration of robotics in video form.
+
+01:07:21.260 --> 01:07:22.980
+I learned something very early on
+
+01:07:22.980 --> 01:07:26.500
+with the first three-dimensional hopping machine.
+
+01:07:26.500 --> 01:07:28.900
+If you just show a video of it hopping,
+
+01:07:30.140 --> 01:07:31.540
+it's a so what.
+
+01:07:31.540 --> 01:07:33.700
+If you show it falling over a couple of times
+
+01:07:33.700 --> 01:07:36.860
+and you can see how easily and fast it falls over,
+
+01:07:36.860 --> 01:07:39.380
+then you appreciate what the robot's doing
+
+01:07:39.380 --> 01:07:41.620
+when it's doing its thing.
+
+01:07:41.620 --> 01:07:44.140
+So I think the reaction you just gave
+
+01:07:44.140 --> 01:07:48.660
+to the robot getting kind of interfered with
+
+01:07:48.660 --> 01:07:50.820
+or tested while it's going through the door,
+
+01:07:50.820 --> 01:07:53.300
+it's showing you the scope of the solution.
+
+01:07:53.300 --> 01:07:55.340
+The limits of the system,
+
+01:07:55.340 --> 01:07:57.660
+the challenges involved in failure.
+
+01:07:57.660 --> 01:07:59.820
+If it's shown both failure and success
+
+01:07:59.820 --> 01:08:02.980
+makes you appreciate the success, yeah.
+
+01:08:02.980 --> 01:08:04.700
+And then just the way the videos are done
+
+01:08:04.700 --> 01:08:06.100
+in Ball State Dynamics are incredible
+
+01:08:06.100 --> 01:08:07.580
+because they're not, there's no flash,
+
+01:08:07.580 --> 01:08:10.020
+there's no extra production.
+
+01:08:10.020 --> 01:08:13.060
+It's just raw testing of the robot.
+
+01:08:13.060 --> 01:08:16.900
+Well, I was the final edit for most of the videos
+
+01:08:16.900 --> 01:08:21.900
+up until about three years ago or four years ago.
+
+01:08:22.780 --> 01:08:27.420
+And my theory of the video is no explanation.
+
+01:08:27.420 --> 01:08:32.300
+If they can't see it, then it's not the right thing.
+
+01:08:32.300 --> 01:08:35.460
+And if you do something worth showing,
+
+01:08:35.460 --> 01:08:36.420
+then let them see it.
+
+01:08:36.420 --> 01:08:41.420
+Don't interfere with a bunch of titles that slow you down
+
+01:08:42.300 --> 01:08:44.300
+or a bunch of distraction.
+
+01:08:44.300 --> 01:08:47.940
+Just do something worth showing and then show it.
+
+01:08:47.940 --> 01:08:48.780
+That's brilliant.
+
+01:08:48.780 --> 01:08:52.500
+It's hard though for people to buy into that.
+
+01:08:53.460 --> 01:08:55.860
+Yeah, I mean, people always want to add more stuff,
+
+01:08:55.860 --> 01:08:59.380
+but the simplicity of just do something worth showing
+
+01:08:59.380 --> 01:09:01.020
+and show it, that's brilliant.
+
+01:09:01.020 --> 01:09:02.660
+And don't add extra stuff.
+
+01:09:02.660 --> 01:09:07.660
+People have criticized, especially the big dog videos
+
+01:09:07.860 --> 01:09:11.180
+where there's a human driving the robot.
+
+01:09:11.180 --> 01:09:13.180
+And I understand the criticism now.
+
+01:09:13.180 --> 01:09:14.580
+At the time, we wanted to just show,
+
+01:09:14.580 --> 01:09:16.980
+look, this thing's using its legs to get up the hill.
+
+01:09:16.980 --> 01:09:18.860
+So we focused on showing that,
+
+01:09:18.860 --> 01:09:22.500
+which was, we thought, the story.
+
+01:09:22.500 --> 01:09:23.780
+The fact that there was a human,
+
+01:09:23.780 --> 01:09:25.340
+so they were thinking about autonomy,
+
+01:09:25.340 --> 01:09:27.940
+whereas we were thinking about the mobility.
+
+01:09:28.900 --> 01:09:32.380
+And so, we've adjusted to a lot of things
+
+01:09:32.380 --> 01:09:36.260
+that we see that people care about, trying to be honest.
+
+01:09:36.260 --> 01:09:38.500
+We've always tried to be honest.
+
+01:09:38.500 --> 01:09:42.540
+But also just show cool stuff in this raw form,
+
+01:09:42.540 --> 01:09:44.220
+the limits of the system,
+
+01:09:44.220 --> 01:09:46.700
+the see the system be perturbed and be robust
+
+01:09:46.700 --> 01:09:49.100
+and resilient and all that kind of stuff.
+
+01:09:49.100 --> 01:09:51.460
+And dancing with some music.
+
+01:09:54.820 --> 01:09:57.740
+Intrepidness and fun, so intrepid.
+
+01:09:58.300 --> 01:10:00.460
+It might be the most important ingredient.
+
+01:10:00.460 --> 01:10:03.380
+And that is, robotics is hard.
+
+01:10:03.380 --> 01:10:05.620
+It's not gonna work right, right away.
+
+01:10:05.620 --> 01:10:08.420
+So don't be discouraged is all it really means.
+
+01:10:08.420 --> 01:10:10.940
+So usually when I talk about these things,
+
+01:10:10.940 --> 01:10:14.420
+I show videos and I show a long string of outtakes.
+
+01:10:14.420 --> 01:10:19.420
+And you have to have courage to be intrepid
+
+01:10:19.620 --> 01:10:23.700
+when you work so hard, you built your machine,
+
+01:10:23.700 --> 01:10:26.260
+and then you're trying and it just doesn't do
+
+01:10:26.260 --> 01:10:29.460
+what you thought it would do, what you want it to do.
+
+01:10:29.460 --> 01:10:34.460
+And you have to stick to it and keep trying.
+
+01:10:34.740 --> 01:10:38.180
+How long, I mean, we don't often see that,
+
+01:10:38.180 --> 01:10:40.940
+the story behind Spot and Atlas.
+
+01:10:42.540 --> 01:10:44.420
+How many failures was there along the way
+
+01:10:44.420 --> 01:10:48.060
+to get a working Atlas, a working Spot in the early days,
+
+01:10:48.060 --> 01:10:49.580
+even working Big Dog?
+
+01:10:49.580 --> 01:10:53.220
+There's a video of Atlas climbing three big steps.
+
+01:10:53.220 --> 01:10:55.660
+And it's very dynamic and it's really exciting,
+
+01:10:55.660 --> 01:10:57.340
+a real accomplishment.
+
+01:10:57.340 --> 01:11:01.700
+It took 109 tries and we have video of every one of them.
+
+01:11:01.700 --> 01:11:03.340
+We shoot everything.
+
+01:11:03.340 --> 01:11:05.460
+Again, we, this is at Boston Dynamics.
+
+01:11:08.060 --> 01:11:09.940
+So it took 109 tries.
+
+01:11:09.940 --> 01:11:13.500
+But once it did it, it had a high percentage of success.
+
+01:11:13.500 --> 01:11:15.980
+So it's not like we're cheating by just showing
+
+01:11:15.980 --> 01:11:19.940
+the best one, but we do show the evolved performance,
+
+01:11:19.940 --> 01:11:21.740
+not everything along the way.
+
+01:11:21.740 --> 01:11:23.740
+But everything along the way is informative
+
+01:11:23.740 --> 01:11:28.740
+and it shows sort of, there's stupid things that go wrong,
+
+01:11:29.540 --> 01:11:32.180
+like the robot just, when you say go
+
+01:11:32.180 --> 01:11:35.020
+and it collapses right there on the start,
+
+01:11:35.020 --> 01:11:37.780
+that doesn't have to do with the steps.
+
+01:11:37.780 --> 01:11:39.460
+Or the perception didn't work right,
+
+01:11:39.460 --> 01:11:41.260
+so you miss the target when you jump,
+
+01:11:41.260 --> 01:11:44.460
+or something breaks and there's oil flying everywhere.
+
+01:11:45.900 --> 01:11:46.740
+But that's fun.
+
+01:11:46.740 --> 01:11:50.260
+Yeah, so the hardware failures and maybe some soft.
+
+01:11:50.260 --> 01:11:52.900
+Lots of control of evolution during that time.
+
+01:11:52.900 --> 01:11:57.060
+I think it took six weeks to get those 109 trials,
+
+01:11:57.060 --> 01:12:00.500
+because there was programming going on.
+
+01:12:00.500 --> 01:12:03.540
+It was actually robot learning,
+
+01:12:03.540 --> 01:12:06.460
+but there were humans in the loop helping with the learning.
+
+01:12:06.460 --> 01:12:08.940
+So all data driven, but.
+
+01:12:08.940 --> 01:12:11.420
+Okay, and so, and you always are learning
+
+01:12:11.420 --> 01:12:12.700
+from that failure, so.
+
+01:12:12.700 --> 01:12:13.540
+Right.
+
+01:12:14.900 --> 01:12:19.020
+And how do you protect Atlas from not getting damaged
+
+01:12:19.020 --> 01:12:22.260
+from 109 attempts?
+
+01:12:23.820 --> 01:12:25.380
+It's remarkable.
+
+01:12:25.380 --> 01:12:27.580
+One of the accomplishments of Atlas
+
+01:12:27.580 --> 01:12:29.900
+is that the engineers have made a machine
+
+01:12:29.900 --> 01:12:33.380
+that's robust enough that it can take that kind of testing
+
+01:12:33.380 --> 01:12:34.660
+where it's falling and stuff.
+
+01:12:34.660 --> 01:12:36.140
+And it doesn't break every time.
+
+01:12:36.140 --> 01:12:37.580
+It still breaks.
+
+01:12:37.580 --> 01:12:41.900
+And part of the paradigm is to have people to repair stuff.
+
+01:12:41.900 --> 01:12:43.060
+You gotta figure that in
+
+01:12:43.060 --> 01:12:44.900
+if you're gonna do this kind of work.
+
+01:12:46.860 --> 01:12:48.460
+I sometimes criticize the people
+
+01:12:48.460 --> 01:12:50.500
+who have their gold plated thing
+
+01:12:50.500 --> 01:12:51.820
+and they keep it on the shelf
+
+01:12:52.220 --> 01:12:54.180
+and they're afraid to kind of use it.
+
+01:12:54.180 --> 01:12:55.380
+I don't think you can make progress
+
+01:12:55.380 --> 01:12:56.980
+if you're working that way.
+
+01:12:56.980 --> 01:12:58.980
+You need to be ready to have it break
+
+01:12:58.980 --> 01:13:00.820
+and go in there and fix it.
+
+01:13:00.820 --> 01:13:01.900
+It's part of the thing.
+
+01:13:01.900 --> 01:13:04.740
+Plan your budget so you have spare parts
+
+01:13:04.740 --> 01:13:07.620
+and a crew and all that stuff.
+
+01:13:07.620 --> 01:13:10.980
+Yeah, if it falls 109 times, it's okay.
+
+01:13:10.980 --> 01:13:11.820
+Wow.
+
+01:13:12.980 --> 01:13:14.940
+So Intrepid, truly.
+
+01:13:14.940 --> 01:13:16.180
+And that applies to Spot,
+
+01:13:16.180 --> 01:13:17.020
+that applies to all the other.
+
+01:13:17.020 --> 01:13:18.180
+It applies to everything.
+
+01:13:18.180 --> 01:13:20.180
+I think it applies to everything anybody tries to do
+
+01:13:20.180 --> 01:13:21.380
+that's worth doing.
+
+01:13:22.220 --> 01:13:24.740
+And especially with systems in the real world, right?
+
+01:13:24.740 --> 01:13:25.900
+Yeah.
+
+01:13:25.900 --> 01:13:27.060
+And so fun.
+
+01:13:27.060 --> 01:13:31.460
+Fun, technical fun, I usually say, have technical fun.
+
+01:13:31.460 --> 01:13:36.340
+I think that life as an engineer is really satisfying.
+
+01:13:36.340 --> 01:13:37.740
+I think you get to,
+
+01:13:39.420 --> 01:13:41.700
+to some degree, it can be like craft's work
+
+01:13:41.700 --> 01:13:43.500
+where you get to do things with your own hands
+
+01:13:43.500 --> 01:13:46.700
+or your own design or whatever your media is.
+
+01:13:46.700 --> 01:13:49.740
+And it's very satisfying to be able to just do the work
+
+01:13:49.740 --> 01:13:53.140
+unlike a lot of people who have to do something
+
+01:13:53.140 --> 01:13:54.060
+that they don't like doing.
+
+01:13:54.060 --> 01:13:56.140
+I think engineers typically get to do something
+
+01:13:56.140 --> 01:13:59.940
+that they like and there's a lot of satisfaction from that.
+
+01:13:59.940 --> 01:14:03.620
+Then there's, in many cases,
+
+01:14:03.620 --> 01:14:07.100
+you can have impact on the world somehow
+
+01:14:07.100 --> 01:14:09.820
+because you've done something that other people admire,
+
+01:14:09.820 --> 01:14:13.540
+which is different from the craft fun of building a thing.
+
+01:14:14.460 --> 01:14:19.460
+So that's the second way that being engineer is good.
+
+01:14:19.500 --> 01:14:22.140
+I think the third thing is that if you're lucky
+
+01:14:22.140 --> 01:14:25.540
+to be working in a team where you're getting the benefit
+
+01:14:25.540 --> 01:14:29.180
+of other people's skills that are helping you do your thing,
+
+01:14:29.180 --> 01:14:31.900
+none of us has all the skills needed to do
+
+01:14:32.940 --> 01:14:34.540
+most of these projects.
+
+01:14:34.540 --> 01:14:37.660
+And if you have a team where you're working well
+
+01:14:37.660 --> 01:14:40.060
+with the others, that can be very satisfying.
+
+01:14:40.060 --> 01:14:43.100
+And then if you're an engineer, you also usually get paid.
+
+01:14:43.100 --> 01:14:46.340
+And so you kind of get paid four times
+
+01:14:46.340 --> 01:14:47.900
+in my view of the world.
+
+01:14:47.900 --> 01:14:49.500
+So what could be better than that?
+
+01:14:49.500 --> 01:14:50.980
+Get paid to have fun.
+
+01:14:50.980 --> 01:14:53.340
+I mean, what do you love about engineering?
+
+01:14:53.340 --> 01:14:55.820
+When you say engineering, what does that mean to you exactly?
+
+01:14:55.820 --> 01:15:00.300
+What is this kind of big thing that we call engineering?
+
+01:15:00.300 --> 01:15:03.420
+I think it's both being a scientist
+
+01:15:03.420 --> 01:15:06.300
+or getting to use science at the same time
+
+01:15:06.300 --> 01:15:08.420
+as being kind of an artist or a creator,
+
+01:15:08.420 --> 01:15:09.740
+because you're making some,
+
+01:15:09.740 --> 01:15:13.380
+scientists only get to study what's out there
+
+01:15:13.380 --> 01:15:16.660
+and engineers get to make stuff that didn't exist before.
+
+01:15:16.660 --> 01:15:18.780
+And so it's really, I think, a higher calling,
+
+01:15:18.780 --> 01:15:20.540
+even though I think most, you know,
+
+01:15:20.540 --> 01:15:23.060
+the public out there thinks science is top
+
+01:15:23.060 --> 01:15:24.700
+and engineering is somehow secondary,
+
+01:15:24.700 --> 01:15:26.580
+but I think it's the other way around.
+
+01:15:26.580 --> 01:15:28.180
+And at the cutting edge, I think,
+
+01:15:28.180 --> 01:15:29.980
+when you talk about robotics,
+
+01:15:31.020 --> 01:15:34.500
+there is a possibility to do art
+
+01:15:34.500 --> 01:15:37.380
+in that you do like the first of its kind thing.
+
+01:15:37.380 --> 01:15:39.860
+So then there's the production at scale,
+
+01:15:39.860 --> 01:15:41.260
+which is it's own beautiful thing,
+
+01:15:41.260 --> 01:15:44.620
+but when you do the first new robot or the first new thing,
+
+01:15:44.660 --> 01:15:47.540
+that's the possibility to create something totally new.
+
+01:15:47.540 --> 01:15:48.380
+That is art.
+
+01:15:48.380 --> 01:15:49.740
+I mean, bringing metal to life
+
+01:15:49.740 --> 01:15:52.700
+or a machine to life is kind of, is fun.
+
+01:15:52.700 --> 01:15:56.860
+And, you know, it was fun doing the dancing videos
+
+01:15:56.860 --> 01:16:00.300
+where got a huge, you know, public response
+
+01:16:00.300 --> 01:16:01.300
+and we're going to do more.
+
+01:16:01.300 --> 01:16:02.140
+We're going to do some,
+
+01:16:02.140 --> 01:16:05.580
+we're doing some at the Institute and we'll do more.
+
+01:16:05.580 --> 01:16:07.100
+Well, that metal to life moment,
+
+01:16:07.100 --> 01:16:08.820
+I mean, to me, that's still magical.
+
+01:16:08.820 --> 01:16:13.820
+Like when inanimate objects comes to life,
+
+01:16:13.820 --> 01:16:15.780
+that's still like, to me,
+
+01:16:15.780 --> 01:16:18.060
+it's to this day is still an incredible moment.
+
+01:16:18.060 --> 01:16:21.660
+The human intelligence can create systems
+
+01:16:21.660 --> 01:16:25.980
+that instill life or whatever that is
+
+01:16:25.980 --> 01:16:27.660
+into inanimate objects.
+
+01:16:27.660 --> 01:16:30.260
+It's really, it's truly magical,
+
+01:16:30.260 --> 01:16:32.620
+especially when it's at the scale
+
+01:16:32.620 --> 01:16:36.220
+that humans can perceive and appreciate like directly.
+
+01:16:37.140 --> 01:16:39.140
+But I think sort of with it going back
+
+01:16:39.140 --> 01:16:40.820
+to the pieces of that,
+
+01:16:40.820 --> 01:16:42.720
+you know, you design a linkage
+
+01:16:42.720 --> 01:16:45.160
+that turns out to be half the weight
+
+01:16:45.160 --> 01:16:48.480
+and just as strong, that's very satisfying.
+
+01:16:48.480 --> 01:16:50.280
+And, you know, there are people who do that
+
+01:16:50.280 --> 01:16:53.600
+and it's a creative act.
+
+01:16:53.600 --> 01:16:58.000
+What to you is the most beautiful about robotics?
+
+01:16:59.400 --> 01:17:01.440
+Sorry for the big romantic question.
+
+01:17:01.440 --> 01:17:03.320
+I think having the robots move in a way
+
+01:17:03.320 --> 01:17:08.320
+that's evocative of life is pretty exciting.
+
+01:17:08.480 --> 01:17:09.600
+So the elegance of movement.
+
+01:17:09.600 --> 01:17:11.880
+Yeah, or if it's a high performance act
+
+01:17:11.880 --> 01:17:16.120
+where it's doing it faster, bigger than other robots.
+
+01:17:16.120 --> 01:17:18.400
+Usually we're not doing it bigger, faster than people,
+
+01:17:18.400 --> 01:17:22.120
+but we're getting there in a few narrow dimensions.
+
+01:17:22.120 --> 01:17:27.120
+So faster, bigger, smoother, more elegant, more graceful.
+
+01:17:27.680 --> 01:17:30.200
+I mean, I'd like to do dancing that starts,
+
+01:17:30.200 --> 01:17:31.960
+you know, we're nowhere near
+
+01:17:31.960 --> 01:17:34.800
+the dancing capabilities of a human.
+
+01:17:34.800 --> 01:17:36.760
+We've been having a ballerina in
+
+01:17:36.760 --> 01:17:39.600
+who's kind of a well-known ballerina
+
+01:17:39.600 --> 01:17:42.000
+and she's been programming the robot.
+
+01:17:42.000 --> 01:17:43.880
+We've been working on the tools that can make it
+
+01:17:43.880 --> 01:17:47.400
+so that she can use her way of talking,
+
+01:17:47.400 --> 01:17:49.480
+you know, way of doing a choreography
+
+01:17:49.480 --> 01:17:51.400
+or something like that, more accessible
+
+01:17:53.440 --> 01:17:55.480
+to get the robot do things.
+
+01:17:55.480 --> 01:17:58.200
+And starting to produce some interesting stuff.
+
+01:17:58.200 --> 01:18:00.840
+Well, we should mention that there is a choreography tool.
+
+01:18:00.840 --> 01:18:02.240
+There is.
+
+01:18:02.240 --> 01:18:05.080
+I mean, I guess I saw versions of it,
+
+01:18:06.560 --> 01:18:07.400
+which is pretty cool.
+
+01:18:07.400 --> 01:18:10.600
+You can kind of, at slices of time,
+
+01:18:10.600 --> 01:18:13.280
+control different parts at the high level,
+
+01:18:13.280 --> 01:18:15.040
+the movement of the robot.
+
+01:18:15.040 --> 01:18:17.520
+We hope to take that forward and make it, you know,
+
+01:18:17.520 --> 01:18:21.880
+more tuned to how the dance world wants to talk,
+
+01:18:21.880 --> 01:18:25.360
+wants to communicate and get better performances.
+
+01:18:25.360 --> 01:18:28.800
+I mean, we've done a lot, but there's still a lot possible.
+
+01:18:28.800 --> 01:18:30.680
+And I'd like to have performances
+
+01:18:30.680 --> 01:18:33.080
+where the robots are dancing with people.
+
+01:18:33.080 --> 01:18:36.960
+So right now, almost everything that we've done on dancing,
+
+01:18:37.720 --> 01:18:40.160
+is to a fixed time base.
+
+01:18:40.160 --> 01:18:42.640
+So once you press go, the robot does its thing
+
+01:18:42.640 --> 01:18:43.760
+and plays its thing.
+
+01:18:43.760 --> 01:18:46.800
+It's not listening, it's not watching,
+
+01:18:46.800 --> 01:18:48.960
+but I think it should do those things.
+
+01:18:48.960 --> 01:18:53.360
+I think I would love to see a professional ballerina,
+
+01:18:53.360 --> 01:18:54.960
+like alone in a room with a robot,
+
+01:18:54.960 --> 01:18:56.680
+slowly teaching the robot.
+
+01:18:56.680 --> 01:19:00.000
+Just actually the process of a clueless robot,
+
+01:19:00.000 --> 01:19:03.720
+trying to figure out a small little piece of a dance.
+
+01:19:03.720 --> 01:19:06.600
+So it's not like, because right now Atlas and Spot
+
+01:19:06.640 --> 01:19:10.760
+have done like perfect dancing to a beat and so on,
+
+01:19:10.760 --> 01:19:13.120
+one, you know, to a degree.
+
+01:19:13.120 --> 01:19:17.520
+But like the learning process of interacting with a human
+
+01:19:17.520 --> 01:19:19.480
+would be like incredible to watch.
+
+01:19:19.480 --> 01:19:21.040
+One of the cool things going on,
+
+01:19:21.040 --> 01:19:23.880
+you know that there's a class at Brown University
+
+01:19:23.880 --> 01:19:25.280
+called Choreo Robotics.
+
+01:19:25.280 --> 01:19:29.200
+Sydney Skybetter is a dancer, choreographer,
+
+01:19:29.200 --> 01:19:32.280
+and he teamed up with Stephanie Tellex,
+
+01:19:32.280 --> 01:19:34.320
+who's a computer science professor.
+
+01:19:34.320 --> 01:19:35.680
+And they taught this class,
+
+01:19:35.720 --> 01:19:38.600
+I think they have some graduate students help them teach it,
+
+01:19:38.600 --> 01:19:41.880
+where they have two spots and people come in.
+
+01:19:41.880 --> 01:19:44.840
+I think it's 50-50 of computer science people
+
+01:19:44.840 --> 01:19:46.240
+and dance people.
+
+01:19:46.240 --> 01:19:50.640
+And they program performances that are very interesting.
+
+01:19:50.640 --> 01:19:53.120
+I show some of them sometimes when I give a talk.
+
+01:19:53.120 --> 01:19:55.480
+And making that process of a human teaching the robot
+
+01:19:55.480 --> 01:19:57.640
+more efficient, more intuitive,
+
+01:19:57.640 --> 01:20:00.760
+maybe language, part movement.
+
+01:20:00.760 --> 01:20:02.520
+That'd be fascinating, that'd be really fascinating.
+
+01:20:02.520 --> 01:20:05.360
+Because I mean, one of the things I've kind of realized
+
+01:20:05.360 --> 01:20:10.360
+is humans communicate with movement a lot.
+
+01:20:11.400 --> 01:20:12.760
+It's not just language.
+
+01:20:12.760 --> 01:20:14.240
+There's a lot, there's body language.
+
+01:20:14.240 --> 01:20:16.640
+There's so many intricate little things.
+
+01:20:16.640 --> 01:20:17.960
+Totally.
+
+01:20:17.960 --> 01:20:20.240
+And like that, you know,
+
+01:20:20.240 --> 01:20:23.560
+to watch a human and a spot communicate back and forth
+
+01:20:23.560 --> 01:20:26.000
+with movement is, I mean,
+
+01:20:26.000 --> 01:20:28.760
+there's just so many wonderful possibilities there.
+
+01:20:28.760 --> 01:20:30.640
+But it's also a challenge, you know.
+
+01:20:30.880 --> 01:20:35.040
+We get asked to have our robots perform
+
+01:20:35.040 --> 01:20:38.200
+with famous dancers.
+
+01:20:38.200 --> 01:20:40.120
+And they can, you know,
+
+01:20:40.120 --> 01:20:42.760
+they have 200 degrees of freedom or something, right?
+
+01:20:42.760 --> 01:20:44.800
+Every little ripple and thing.
+
+01:20:44.800 --> 01:20:46.200
+And they have all this head and neck
+
+01:20:46.200 --> 01:20:47.760
+and shoulders and stuff.
+
+01:20:47.760 --> 01:20:50.200
+And the robots mostly don't have all that stuff.
+
+01:20:50.200 --> 01:20:55.200
+And it's a daunting challenge to not look stupid,
+
+01:20:56.040 --> 01:20:58.640
+you know, physically stupid next to them.
+
+01:20:58.640 --> 01:21:01.760
+So we've pretty much avoided that kind of performance,
+
+01:21:01.760 --> 01:21:04.120
+but we'll get to it.
+
+01:21:04.120 --> 01:21:06.040
+I think even with the limited degrees of freedom,
+
+01:21:06.040 --> 01:21:09.400
+we could still have some sass and flavor and so on.
+
+01:21:09.400 --> 01:21:11.840
+You can figure out your own thing, even if you can't.
+
+01:21:11.840 --> 01:21:13.040
+And we can reverse things.
+
+01:21:13.040 --> 01:21:16.240
+Like if you watch a human do robot animation,
+
+01:21:16.240 --> 01:21:18.160
+which is a dance style where, you know,
+
+01:21:18.160 --> 01:21:19.400
+you jerk around sort of,
+
+01:21:19.400 --> 01:21:23.000
+and you pop and pop and lock and all that stuff.
+
+01:21:23.000 --> 01:21:26.480
+I think the robots could show up the humans
+
+01:21:26.480 --> 01:21:29.960
+by, you know, doing unstable oscillations
+
+01:21:29.960 --> 01:21:32.480
+and things that are faster than a person could.
+
+01:21:32.480 --> 01:21:36.360
+So that's sort of on my, you know, my plan,
+
+01:21:36.360 --> 01:21:39.000
+but we haven't quite gotten there yet.
+
+01:21:39.000 --> 01:21:40.800
+You mentioned about building teams
+
+01:21:40.800 --> 01:21:42.240
+and robotics teams and so on.
+
+01:21:42.240 --> 01:21:44.040
+How do you find great engineers?
+
+01:21:44.040 --> 01:21:46.000
+How do you hire great engineers?
+
+01:21:46.000 --> 01:21:47.560
+I think you even need to have an environment
+
+01:21:47.560 --> 01:21:49.120
+where interesting engineers,
+
+01:21:49.120 --> 01:21:50.240
+well, you know, it's a chicken and egg.
+
+01:21:50.240 --> 01:21:51.120
+If you have an environment
+
+01:21:51.120 --> 01:21:53.440
+where interesting engineering is going on,
+
+01:21:53.440 --> 01:21:55.480
+then engineers want to work there.
+
+01:21:55.480 --> 01:21:59.920
+And, you know, I think it took a long time
+
+01:21:59.920 --> 01:22:01.760
+to develop that at Boston Dynamics.
+
+01:22:01.760 --> 01:22:05.880
+In fact, when we started, although, you know,
+
+01:22:05.880 --> 01:22:08.920
+I had the experience of building things in the leg lab,
+
+01:22:08.920 --> 01:22:11.360
+both at CMU and at MIT,
+
+01:22:11.360 --> 01:22:15.560
+we weren't that sophisticated of an engineering thing
+
+01:22:15.560 --> 01:22:17.680
+compared to what Boston Dynamics is now.
+
+01:22:18.960 --> 01:22:20.400
+But it was our ambition to do that.
+
+01:22:20.400 --> 01:22:23.960
+And, you know, Sarcos was another robot company.
+
+01:22:23.960 --> 01:22:26.560
+So I always thought of us as being
+
+01:22:26.560 --> 01:22:29.120
+this much on the computing side
+
+01:22:29.120 --> 01:22:31.480
+and this much on the hardware side.
+
+01:22:31.480 --> 01:22:32.760
+And they were like this.
+
+01:22:33.880 --> 01:22:36.040
+And then over the years, we, you know,
+
+01:22:36.040 --> 01:22:41.040
+I think we achieved the same or better levels of engineering.
+
+01:22:41.040 --> 01:22:43.040
+Meanwhile, you know, Sarcos got acquired
+
+01:22:43.040 --> 01:22:44.880
+and then they went through all kinds of changes.
+
+01:22:44.880 --> 01:22:48.420
+And I don't know exactly what their current status is, but.
+
+01:22:49.640 --> 01:22:52.560
+So it took many years is part of the answer.
+
+01:22:53.400 --> 01:22:56.080
+I think you get, you got to find people who love it.
+
+01:22:56.080 --> 01:22:59.120
+In the early days, we paid a little less.
+
+01:22:59.120 --> 01:23:00.840
+So we only got people who were doing it
+
+01:23:00.840 --> 01:23:03.200
+because they really loved it.
+
+01:23:03.200 --> 01:23:06.760
+We also hired people who might not have professional degrees,
+
+01:23:06.760 --> 01:23:09.320
+you know, people who were building bicycles
+
+01:23:09.320 --> 01:23:10.880
+and building kayaks.
+
+01:23:10.880 --> 01:23:14.720
+We have some people who come from that kind of the maker world.
+
+01:23:14.720 --> 01:23:18.320
+And that's really important for the kind of work we do
+
+01:23:18.320 --> 01:23:20.080
+to have that be part of the mix.
+
+01:23:20.080 --> 01:23:23.040
+Whatever that is, the, whatever the magic ingredient
+
+01:23:23.040 --> 01:23:25.200
+that makes a great builder maker.
+
+01:23:25.200 --> 01:23:26.040
+Yeah.
+
+01:23:26.040 --> 01:23:26.880
+That's the big part of it.
+
+01:23:26.880 --> 01:23:29.480
+People who took, who repaired the car, the cars
+
+01:23:29.480 --> 01:23:32.880
+or built or motorcycles or whatever in their garages
+
+01:23:32.880 --> 01:23:33.960
+when they were kids.
+
+01:23:33.960 --> 01:23:36.400
+There's a kind of like the robotics students,
+
+01:23:36.400 --> 01:23:39.080
+grad students and just roboticists that I know
+
+01:23:39.080 --> 01:23:40.400
+and I hang out with.
+
+01:23:40.400 --> 01:23:45.280
+There's a kind of endless energy and like,
+
+01:23:45.280 --> 01:23:47.080
+there's just, they're just happy.
+
+01:23:47.080 --> 01:23:49.600
+Like say, I compare it in another group of people
+
+01:23:50.120 --> 01:23:52.880
+that are people that skydive professionally.
+
+01:23:52.880 --> 01:23:56.360
+There's just like a excitement and general energy
+
+01:23:56.360 --> 01:23:58.440
+that I think probably has to do with the fact
+
+01:23:58.440 --> 01:24:02.520
+that they're just constantly, first of all, fail a lot.
+
+01:24:02.520 --> 01:24:05.040
+And then the joy of building a thing
+
+01:24:05.040 --> 01:24:06.800
+that you eventually works.
+
+01:24:06.800 --> 01:24:08.160
+Yeah, talking about being happy,
+
+01:24:08.160 --> 01:24:10.360
+there used to be a time when I was doing
+
+01:24:10.360 --> 01:24:13.400
+the machine shop work myself back in those JPL
+
+01:24:13.400 --> 01:24:14.800
+and Caltech days.
+
+01:24:14.800 --> 01:24:17.800
+When if I came home smelling like the machine shop,
+
+01:24:17.800 --> 01:24:19.280
+you know, cause it's an oily place.
+
+01:24:19.880 --> 01:24:22.040
+My wife would say, oh, you had a good day today.
+
+01:24:22.040 --> 01:24:24.440
+Cause you could tell that that's where I've been.
+
+01:24:24.440 --> 01:24:27.280
+You've done, you've actually built something.
+
+01:24:27.280 --> 01:24:29.480
+You've done something in the physical world.
+
+01:24:30.520 --> 01:24:32.120
+And probably the videos help, right?
+
+01:24:32.120 --> 01:24:35.480
+The videos help show off what robotics is.
+
+01:24:35.480 --> 01:24:38.880
+Oh, you know, at Boston Dynamics, it put us on the map.
+
+01:24:40.480 --> 01:24:43.840
+We, I remember interviewing some sales guy
+
+01:24:43.840 --> 01:24:47.200
+and he was from a company and he said, well,
+
+01:24:47.200 --> 01:24:48.520
+no one's ever heard of my company,
+
+01:24:48.520 --> 01:24:52.760
+but we have products, you know, really good products.
+
+01:24:52.760 --> 01:24:55.000
+You guys, everybody knows who you are,
+
+01:24:55.000 --> 01:24:58.280
+but you don't have any products at all, which was true.
+
+01:24:58.280 --> 01:25:01.360
+So it was, and you know, we thank YouTube for that.
+
+01:25:01.360 --> 01:25:04.160
+YouTube came, we caught the YouTube wave
+
+01:25:04.160 --> 01:25:06.800
+and it had a huge impact on our company.
+
+01:25:06.800 --> 01:25:10.840
+I mean, it's a big impact on not just in your company,
+
+01:25:10.840 --> 01:25:15.040
+but on robotics in general and helping people understand,
+
+01:25:15.040 --> 01:25:18.440
+inspire what is possible with robots.
+
+01:25:19.280 --> 01:25:21.480
+Inspire imagination, fear and everything.
+
+01:25:21.480 --> 01:25:24.080
+The full spectrum of human emotion was aroused,
+
+01:25:24.080 --> 01:25:27.920
+which is great, which is great for the entirety of humanity
+
+01:25:27.920 --> 01:25:29.920
+and also is probably inspiring for young people
+
+01:25:29.920 --> 01:25:31.840
+that want to get into AI and robotics.
+
+01:25:33.080 --> 01:25:35.480
+Let me ask you about some competitors.
+
+01:25:35.480 --> 01:25:36.320
+Sure.
+
+01:25:36.320 --> 01:25:38.000
+You've been a complimentary of Elon
+
+01:25:38.000 --> 01:25:40.240
+and Tesla's work on the Optimus robot,
+
+01:25:41.320 --> 01:25:43.400
+with their humanoid robot.
+
+01:25:43.400 --> 01:25:45.360
+What do you think of their efforts there
+
+01:25:45.360 --> 01:25:46.560
+with the humanoid robot?
+
+01:25:47.560 --> 01:25:52.640
+You know, I really admire Elon as a technologist.
+
+01:25:52.640 --> 01:25:55.000
+I think that what he did with Tesla
+
+01:25:55.000 --> 01:25:58.040
+it was just totally mind boggling
+
+01:25:58.040 --> 01:26:01.960
+that he could go from this totally niche area
+
+01:26:01.960 --> 01:26:06.800
+that less than 1% of anybody seemed to be interested
+
+01:26:06.800 --> 01:26:09.760
+to making it so that essentially every car company
+
+01:26:09.760 --> 01:26:13.440
+in the world is trying to do what he's done.
+
+01:26:13.440 --> 01:26:14.920
+So you got to give it to him.
+
+01:26:15.080 --> 01:26:16.360
+Then look at SpaceX.
+
+01:26:17.760 --> 01:26:20.680
+He's basically replaced NASA, if you could.
+
+01:26:20.680 --> 01:26:23.320
+That might be a little exaggeration, but not by much.
+
+01:26:24.640 --> 01:26:26.480
+So you got to admire the guy
+
+01:26:26.480 --> 01:26:31.000
+and I wouldn't count him out for anything.
+
+01:26:31.000 --> 01:26:36.000
+I don't think Optimus today is where Atlas is, for instance.
+
+01:26:37.680 --> 01:26:39.120
+I don't know, it's a little hard to compare him
+
+01:26:39.120 --> 01:26:40.880
+to the other companies.
+
+01:26:41.840 --> 01:26:44.360
+You know, I visited Figure.
+
+01:26:44.360 --> 01:26:46.960
+I think they're doing well and they have a good team.
+
+01:26:49.600 --> 01:26:52.760
+I've visited Eptronic and I think they have a good team
+
+01:26:52.760 --> 01:26:53.920
+and they're doing well.
+
+01:26:55.080 --> 01:26:58.120
+But Elon has a lot of resources.
+
+01:26:58.120 --> 01:27:00.960
+He has a lot of ambition.
+
+01:27:00.960 --> 01:27:03.120
+I'd like to take some credit for his ambition.
+
+01:27:03.120 --> 01:27:06.760
+I think if I read between the lines,
+
+01:27:06.760 --> 01:27:10.360
+it's hard not to think that him seeing what Atlas is doing
+
+01:27:10.360 --> 01:27:12.080
+is a little bit of an inspiration.
+
+01:27:12.080 --> 01:27:13.400
+I hope so.
+
+01:27:13.400 --> 01:27:16.960
+Do you think Atlas and Optimus will hang out at some point?
+
+01:27:16.960 --> 01:27:18.000
+I would love to host that.
+
+01:27:18.000 --> 01:27:21.240
+You know, now that I'm not at Boston Dynamics,
+
+01:27:21.240 --> 01:27:23.560
+I'm not officially connected.
+
+01:27:23.560 --> 01:27:26.120
+I am on the board, but I'm not officially connected.
+
+01:27:26.120 --> 01:27:27.760
+I would love to host a-
+
+01:27:27.760 --> 01:27:28.600
+Robot meetups?
+
+01:27:28.600 --> 01:27:29.880
+A road up meetup, yeah.
+
+01:27:31.280 --> 01:27:33.840
+Does the AI Institute work with spots
+
+01:27:33.840 --> 01:27:36.880
+and Atlas is it focused on spots mostly right now
+
+01:27:36.880 --> 01:27:37.720
+as a platform?
+
+01:27:37.720 --> 01:27:39.040
+We have a bunch of different robots.
+
+01:27:39.040 --> 01:27:40.600
+We bought everything we could buy.
+
+01:27:40.600 --> 01:27:43.880
+So we have spots.
+
+01:27:43.880 --> 01:27:45.600
+I think we have a good size fleet in them.
+
+01:27:45.600 --> 01:27:47.800
+I don't know how many it is, but a good size fleet.
+
+01:27:47.800 --> 01:27:49.640
+We have a couple of Animal robots.
+
+01:27:50.960 --> 01:27:53.400
+You know, Animal is a company founded by Marco Hunter,
+
+01:27:53.400 --> 01:27:55.280
+even though he's not that involved anymore,
+
+01:27:55.280 --> 01:27:56.800
+but we have a couple of those.
+
+01:27:56.800 --> 01:27:58.720
+We have a bunch of arms like, you know,
+
+01:27:58.720 --> 01:28:02.120
+Frank is and US Robotics.
+
+01:28:03.120 --> 01:28:05.120
+Cause you know, even though we have ambitions
+
+01:28:05.120 --> 01:28:07.560
+to build stuff and we are starting to build stuff,
+
+01:28:09.040 --> 01:28:11.400
+you know, day one getting off the ground,
+
+01:28:11.400 --> 01:28:13.280
+we just, you know, just bought stuff.
+
+01:28:14.280 --> 01:28:17.600
+I love this like robot playground you've built.
+
+01:28:17.600 --> 01:28:19.200
+You can come over and take a look if you want.
+
+01:28:19.200 --> 01:28:20.040
+That's great.
+
+01:28:20.040 --> 01:28:21.400
+So it's like all these kinds of robots,
+
+01:28:21.400 --> 01:28:23.360
+legged, arms.
+
+01:28:23.360 --> 01:28:24.560
+It doesn't feel that much like,
+
+01:28:24.560 --> 01:28:26.560
+well, there's some areas that feel like a playground,
+
+01:28:26.560 --> 01:28:29.640
+but it's not like they're all frolic together.
+
+01:28:31.000 --> 01:28:35.640
+Hey, again, maybe you'll arrange it, a robot meetup.
+
+01:28:36.400 --> 01:28:39.080
+But in general, what's your view on competition
+
+01:28:39.080 --> 01:28:41.080
+in this space for, especially like humanoid
+
+01:28:41.080 --> 01:28:42.320
+and legged robots.
+
+01:28:42.320 --> 01:28:45.160
+Are you excited by the competition
+
+01:28:45.160 --> 01:28:46.880
+or the friendly competition?
+
+01:28:47.760 --> 01:28:51.280
+I think that it doesn't, you know,
+
+01:28:51.280 --> 01:28:54.880
+I don't think about competition that much.
+
+01:28:54.880 --> 01:28:56.680
+You know, I'm not a commercial guy.
+
+01:28:56.680 --> 01:28:58.480
+I think for many years at Boston,
+
+01:28:58.480 --> 01:29:01.320
+you know, the many years I was at Boston Dynamics,
+
+01:29:01.320 --> 01:29:02.840
+we didn't think about competition.
+
+01:29:02.840 --> 01:29:04.400
+We were just kind of doing our thing.
+
+01:29:04.400 --> 01:29:07.280
+There wasn't like there were products out there
+
+01:29:07.280 --> 01:29:09.200
+that we were competing with.
+
+01:29:09.200 --> 01:29:12.640
+Maybe there was some competition for DARPA funding,
+
+01:29:12.640 --> 01:29:16.200
+which we got a lot of, got very good at getting.
+
+01:29:16.200 --> 01:29:20.560
+But even there, in a couple of cases
+
+01:29:20.560 --> 01:29:21.800
+where we might've competed,
+
+01:29:21.800 --> 01:29:24.520
+we ended up just being the robot provider.
+
+01:29:24.520 --> 01:29:26.600
+That is for the little dog program.
+
+01:29:26.600 --> 01:29:28.680
+You know, we just made the robots.
+
+01:29:28.680 --> 01:29:30.880
+We didn't participate as developers,
+
+01:29:30.880 --> 01:29:32.520
+except for developing the robot.
+
+01:29:32.520 --> 01:29:36.840
+And in the DARPA Robotics Challenge, we didn't compete.
+
+01:29:36.840 --> 01:29:38.920
+We provided the robots.
+
+01:29:38.920 --> 01:29:43.760
+So, you know, in the AI world now,
+
+01:29:43.760 --> 01:29:45.320
+now that we're working on cognitive stuff,
+
+01:29:45.320 --> 01:29:47.920
+it feels much more like a competition.
+
+01:29:47.920 --> 01:29:52.320
+You know, the entry requirements
+
+01:29:52.320 --> 01:29:54.640
+in terms of computing hardware
+
+01:29:54.640 --> 01:29:58.160
+and the skills of the team are,
+
+01:29:58.160 --> 01:30:02.280
+and hiring talent, it's a much tougher place.
+
+01:30:02.280 --> 01:30:04.960
+So I think much more about competition now
+
+01:30:04.960 --> 01:30:06.400
+on the cognitive side.
+
+01:30:06.400 --> 01:30:08.480
+On the physical side, it doesn't feel like
+
+01:30:08.480 --> 01:30:11.040
+it's that much about competition yet.
+
+01:30:11.040 --> 01:30:13.160
+Obviously with 10 humanoid companies out there,
+
+01:30:13.160 --> 01:30:15.320
+10 or 12, I mean, there's probably others
+
+01:30:15.320 --> 01:30:16.520
+that I don't know about.
+
+01:30:18.440 --> 01:30:20.600
+They're definitely in competition,
+
+01:30:20.600 --> 01:30:22.200
+will be in competition.
+
+01:30:22.200 --> 01:30:26.720
+How much room is there for a quadruped
+
+01:30:26.720 --> 01:30:30.960
+and especially a humanoid robot to become cheaper?
+
+01:30:30.960 --> 01:30:35.040
+So like cutting costs and like how low can you go?
+
+01:30:36.720 --> 01:30:39.000
+And how much of it is just mass production?
+
+01:30:39.000 --> 01:30:42.440
+So questions of, you know, Hyundai,
+
+01:30:42.440 --> 01:30:46.200
+like how to produce versus like engineering innovation,
+
+01:30:46.200 --> 01:30:47.920
+how to simplify?
+
+01:30:47.920 --> 01:30:49.760
+I think there's a huge way to go.
+
+01:30:49.760 --> 01:30:51.520
+I don't think we've seen the bottom of it
+
+01:30:51.520 --> 01:30:53.760
+or the bottom in terms of lower prices.
+
+01:30:55.760 --> 01:30:57.600
+You know, I think you should be totally optimistic
+
+01:30:57.600 --> 01:31:00.600
+that at Asymptote, things don't have to be anything
+
+01:31:00.600 --> 01:31:02.880
+like as expensive as they are now.
+
+01:31:02.880 --> 01:31:04.760
+Back to competition, I wanted to say one thing.
+
+01:31:04.760 --> 01:31:06.560
+I think in the quadruped space,
+
+01:31:06.560 --> 01:31:09.480
+having other people selling quadrupeds
+
+01:31:09.480 --> 01:31:11.800
+is a great thing for Boston Dynamics
+
+01:31:11.800 --> 01:31:14.440
+because the question, I believe the question
+
+01:31:14.440 --> 01:31:17.520
+in the user's minds is which quadruped do I want?
+
+01:31:17.520 --> 01:31:20.280
+It's not, oh, can a quadruped, do I want a quadruped?
+
+01:31:20.280 --> 01:31:22.520
+Can a quadruped do my job?
+
+01:31:22.520 --> 01:31:23.520
+It's much more like that,
+
+01:31:23.520 --> 01:31:25.880
+which is a great place for it to be.
+
+01:31:25.880 --> 01:31:29.400
+Then you're just, you know, doing the things
+
+01:31:29.440 --> 01:31:31.320
+that you normally do to make your product better
+
+01:31:31.320 --> 01:31:34.800
+and compete and selling and all that stuff.
+
+01:31:34.800 --> 01:31:37.320
+And that'll be the way it is with humanoids at some point.
+
+01:31:37.320 --> 01:31:40.280
+Well, there's a lot of humanoids and you're just not even,
+
+01:31:40.280 --> 01:31:43.960
+it's like iPhone versus Android
+
+01:31:43.960 --> 01:31:46.760
+and people are just buying both and it's kind of just.
+
+01:31:46.760 --> 01:31:47.840
+Yeah.
+
+01:31:47.840 --> 01:31:48.680
+You're not really.
+
+01:31:48.680 --> 01:31:50.440
+You're creating the category,
+
+01:31:50.440 --> 01:31:52.680
+or the category is happening.
+
+01:31:52.680 --> 01:31:55.280
+I mean, right now, the use cases, you know,
+
+01:31:55.280 --> 01:31:59.080
+that's the key thing, having realistic use cases
+
+01:31:59.080 --> 01:32:03.600
+that are money-making in robotics is a big challenge.
+
+01:32:03.600 --> 01:32:05.520
+You know, there's the warehouse use case.
+
+01:32:05.520 --> 01:32:08.240
+That's probably the only thing that makes anybody any money
+
+01:32:08.240 --> 01:32:09.960
+in robotics at this point.
+
+01:32:09.960 --> 01:32:11.360
+There's gotta be a moment.
+
+01:32:11.360 --> 01:32:12.360
+There's old-fashioned robots.
+
+01:32:12.360 --> 01:32:14.880
+I mean, there's fixed arms doing manufacturing.
+
+01:32:14.880 --> 01:32:17.600
+I don't wanna say that they're not making money.
+
+01:32:17.600 --> 01:32:20.800
+Industrial robotics, yes, but there's gotta be a moment
+
+01:32:20.800 --> 01:32:23.360
+when social robotics starts making real money,
+
+01:32:23.360 --> 01:32:26.200
+meaning like a spa-type robot in the home
+
+01:32:26.200 --> 01:32:28.680
+and there's tens of millions of them in the home
+
+01:32:29.320 --> 01:32:30.160
+and they're like, you know,
+
+01:32:30.160 --> 01:32:31.000
+I don't know how many dogs there are
+
+01:32:31.000 --> 01:32:33.760
+in the United States as pets, but this feels.
+
+01:32:33.760 --> 01:32:34.600
+Many.
+
+01:32:34.600 --> 01:32:35.440
+Many.
+
+01:32:35.440 --> 01:32:37.720
+It feels like there's something we love
+
+01:32:37.720 --> 01:32:40.920
+about having a intelligent companion with us
+
+01:32:40.920 --> 01:32:42.840
+that remembers us, that's excited to see us,
+
+01:32:42.840 --> 01:32:44.080
+all that kind of stuff.
+
+01:32:44.080 --> 01:32:47.200
+But it's also true that the company's making those things.
+
+01:32:47.200 --> 01:32:49.640
+There've been a lot of failures in recent times, right?
+
+01:32:49.640 --> 01:32:53.000
+There's that one year when I think three of them went under.
+
+01:32:53.000 --> 01:32:56.200
+So it's not that easy to do that, right?
+
+01:32:56.200 --> 01:33:01.200
+Getting performance, safety, and cost
+
+01:33:01.520 --> 01:33:04.600
+all to be where they need to be at the same time is,
+
+01:33:05.920 --> 01:33:07.240
+that's hard.
+
+01:33:07.240 --> 01:33:09.120
+But also some of it is, like you said,
+
+01:33:09.120 --> 01:33:13.040
+you can have a product, but people might not be aware of it.
+
+01:33:13.040 --> 01:33:14.960
+So like also part of it is the videos
+
+01:33:14.960 --> 01:33:17.440
+or however you connect with the public,
+
+01:33:17.440 --> 01:33:20.920
+the culture and create the category.
+
+01:33:20.920 --> 01:33:22.920
+Make people realize this is the thing you want.
+
+01:33:22.920 --> 01:33:23.760
+Because from, you know,
+
+01:33:23.760 --> 01:33:25.840
+there's a lot of negative perceptions you can have.
+
+01:33:26.400 --> 01:33:28.560
+So if you really want a system with a camera
+
+01:33:28.560 --> 01:33:30.960
+in your home walking around, right?
+
+01:33:32.640 --> 01:33:34.120
+If it's presented correctly
+
+01:33:34.120 --> 01:33:36.720
+and if there's like the right kind of boundaries around it
+
+01:33:36.720 --> 01:33:38.760
+that you understand how it works and so on,
+
+01:33:38.760 --> 01:33:40.760
+that a lot of people would want to.
+
+01:33:40.760 --> 01:33:43.400
+And if they don't, they might be suspicious of it.
+
+01:33:43.400 --> 01:33:45.040
+So that's an important one.
+
+01:33:45.040 --> 01:33:46.520
+Like we all use smartphones
+
+01:33:46.520 --> 01:33:48.960
+and that has a camera that's looking at us.
+
+01:33:48.960 --> 01:33:50.680
+That has two or three or four.
+
+01:33:50.680 --> 01:33:51.520
+And it's listening.
+
+01:33:51.760 --> 01:33:56.160
+Very few people are, you know, suspicious about it.
+
+01:33:56.160 --> 01:33:58.000
+They kind of take it for granted and so on.
+
+01:33:58.000 --> 01:34:00.000
+I think robots would be the same kind of way.
+
+01:34:00.000 --> 01:34:00.840
+I agree.
+
+01:34:02.040 --> 01:34:06.920
+So as you work on the cognitive aspect of these robots,
+
+01:34:06.920 --> 01:34:10.160
+do you think we'll ever get to human level
+
+01:34:10.160 --> 01:34:11.840
+or superhuman level intelligence?
+
+01:34:13.160 --> 01:34:16.600
+There's been a lot of conversations about this recently
+
+01:34:16.600 --> 01:34:19.640
+given the rapid development in large language models.
+
+01:34:21.600 --> 01:34:25.200
+I think that intelligence is a lot of different things.
+
+01:34:25.200 --> 01:34:26.720
+And I think some things,
+
+01:34:26.720 --> 01:34:29.080
+computers are already smarter than people.
+
+01:34:29.080 --> 01:34:32.040
+And some things, they're not even close.
+
+01:34:32.040 --> 01:34:34.600
+And, you know, I think you'd need a menu
+
+01:34:34.600 --> 01:34:39.600
+of detailed categories to come up with that.
+
+01:34:41.080 --> 01:34:45.360
+But I also think that the conversation
+
+01:34:45.360 --> 01:34:49.320
+that seems to be happening about AGI puzzles me.
+
+01:34:49.320 --> 01:34:52.480
+It's sort of, so I ask you a question.
+
+01:34:52.480 --> 01:34:55.600
+Do you think there's anybody smarter than you in the world?
+
+01:34:55.600 --> 01:34:56.920
+Absolutely, yes.
+
+01:34:56.920 --> 01:34:58.280
+Do you find that threatening?
+
+01:34:58.280 --> 01:34:59.200
+No.
+
+01:34:59.200 --> 01:35:02.640
+So I don't understand even if computers
+
+01:35:02.640 --> 01:35:04.160
+were smarter than people,
+
+01:35:04.160 --> 01:35:06.840
+why we should assume that that's a threat.
+
+01:35:08.440 --> 01:35:10.520
+Especially since they could easily be smarter
+
+01:35:10.520 --> 01:35:13.680
+but still available to us or under our control,
+
+01:35:13.680 --> 01:35:17.240
+which is basically how computers generally are.
+
+01:35:17.280 --> 01:35:22.280
+I think the fears that they would be 10X, 100X smarter
+
+01:35:22.760 --> 01:35:27.760
+and operating under different morals and ethical codes
+
+01:35:28.240 --> 01:35:30.480
+than humans naturally do.
+
+01:35:30.480 --> 01:35:35.480
+And so almost become misaligned in unintended ways
+
+01:35:35.600 --> 01:35:39.320
+and therefore harm humans in ways we just can't predict.
+
+01:35:39.320 --> 01:35:43.360
+And even if we program them to do a thing,
+
+01:35:43.360 --> 01:35:45.440
+as on the way of doing that thing,
+
+01:35:45.440 --> 01:35:47.160
+they would cause a lot of harm.
+
+01:35:48.040 --> 01:35:51.760
+And when they're 100X, 1,000X, 10,000X smarter than us,
+
+01:35:51.760 --> 01:35:53.040
+we won't be able to stop it
+
+01:35:53.040 --> 01:35:55.720
+or we won't be able to even see the harm as it's happening
+
+01:35:55.720 --> 01:35:57.520
+until it's too late, that kind of stuff.
+
+01:35:57.520 --> 01:36:01.200
+So you can construct all kinds of possible trajectories
+
+01:36:01.200 --> 01:36:04.480
+of how the world ends because of super intelligent systems.
+
+01:36:05.560 --> 01:36:08.320
+It's a little bit like that line in the Oppenheimer movie
+
+01:36:09.680 --> 01:36:12.600
+where they contemplate whether the first time
+
+01:36:12.600 --> 01:36:14.400
+they set off a reaction,
+
+01:36:14.400 --> 01:36:19.400
+all matter on earth is gonna go up.
+
+01:36:19.720 --> 01:36:22.000
+I don't remember what the verb they used was
+
+01:36:22.000 --> 01:36:25.480
+for the chain reaction, right?
+
+01:36:27.240 --> 01:36:30.200
+Yeah, I guess it's possible,
+
+01:36:30.200 --> 01:36:35.000
+but I personally don't think it's worth worrying about that.
+
+01:36:35.000 --> 01:36:37.920
+I think that it's an opportunity,
+
+01:36:37.920 --> 01:36:40.240
+balancing opportunities and risk.
+
+01:36:40.240 --> 01:36:42.320
+I think if you take any technology,
+
+01:36:43.160 --> 01:36:44.840
+there's opportunity and risk.
+
+01:36:44.840 --> 01:36:47.080
+And it's easy to, I'll point at the car.
+
+01:36:48.240 --> 01:36:53.240
+They pollute and about 1.25 million people
+
+01:36:54.240 --> 01:36:57.440
+get killed every year around the world because of them.
+
+01:36:58.360 --> 01:37:01.880
+Despite that, I think they're a boon to humankind,
+
+01:37:01.880 --> 01:37:04.760
+very useful, many of us love them.
+
+01:37:06.120 --> 01:37:08.400
+And those technical problems can be solved.
+
+01:37:08.400 --> 01:37:10.360
+I think they are becoming safer.
+
+01:37:10.360 --> 01:37:11.920
+I think they're becoming less polluting,
+
+01:37:12.440 --> 01:37:13.400
+but at least some of them are.
+
+01:37:14.760 --> 01:37:17.520
+And every technology you can name
+
+01:37:17.520 --> 01:37:19.280
+has a story like that in my opinion.
+
+01:37:20.360 --> 01:37:22.880
+What's the story behind the Hawaiian shirt?
+
+01:37:22.880 --> 01:37:26.080
+Is it a fashion statement, philosophical statement?
+
+01:37:26.080 --> 01:37:27.920
+Is it just a statement of rebellion?
+
+01:37:30.120 --> 01:37:31.480
+Engineering statement?
+
+01:37:31.480 --> 01:37:34.080
+It was born of me being a contrarian.
+
+01:37:34.080 --> 01:37:36.160
+Yes, it's a symbol.
+
+01:37:36.160 --> 01:37:40.080
+Someone told me once that I was wearing one
+
+01:37:40.080 --> 01:37:41.840
+when I only had one or two.
+
+01:37:42.800 --> 01:37:44.640
+And they said, oh, those things are so old fashioned,
+
+01:37:44.640 --> 01:37:46.080
+you can't wear that mark.
+
+01:37:46.080 --> 01:37:48.440
+And I stopped wearing them for about a week.
+
+01:37:48.440 --> 01:37:52.520
+And then I said, I'm not gonna let them tell me what to do.
+
+01:37:52.520 --> 01:37:55.720
+And so every day since pretty much,
+
+01:37:55.720 --> 01:37:58.600
+that was years ago, that was 20 years ago,
+
+01:37:58.600 --> 01:38:00.480
+15 years ago probably.
+
+01:38:00.480 --> 01:38:02.040
+That says something about your personality.
+
+01:38:02.040 --> 01:38:04.200
+That's great, that's your nut.
+
+01:38:04.200 --> 01:38:06.480
+It took me a while to realize I was a contrarian,
+
+01:38:06.480 --> 01:38:08.400
+but it can be a useful tool.
+
+01:38:09.400 --> 01:38:12.240
+Have you had people tell you on the robotic side
+
+01:38:12.240 --> 01:38:14.920
+that like, I don't think you could do this?
+
+01:38:14.920 --> 01:38:17.160
+That kind of negative motivation.
+
+01:38:21.040 --> 01:38:23.600
+I'd rather talk about, there's a guy,
+
+01:38:23.600 --> 01:38:25.000
+when we were doing a lot of DARPA work,
+
+01:38:25.000 --> 01:38:28.480
+there was a Marine, Ed Tovar, who's still around.
+
+01:38:30.880 --> 01:38:33.000
+What he would always say is when someone would say,
+
+01:38:33.000 --> 01:38:35.440
+oh, you can't do that, he'd say, why not?
+
+01:38:36.640 --> 01:38:37.680
+And it's a great question.
+
+01:38:37.920 --> 01:38:39.880
+I ask all the time when I'm thinking,
+
+01:38:39.880 --> 01:38:43.800
+oh, we're not gonna do that, and I say, why not?
+
+01:38:43.800 --> 01:38:48.800
+And I give him credit for opening my eyes to resisting that.
+
+01:38:50.880 --> 01:38:52.400
+So yeah, yeah, the Hawaiian shirt
+
+01:38:52.400 --> 01:38:55.120
+is almost like a symbol of why not.
+
+01:38:55.120 --> 01:38:59.480
+Okay, what advice would you give to young folks
+
+01:38:59.480 --> 01:39:01.040
+that are trying to figure out
+
+01:39:01.040 --> 01:39:02.520
+what they wanna do with their life,
+
+01:39:02.520 --> 01:39:04.480
+how to have a life they can be proud of,
+
+01:39:04.480 --> 01:39:06.560
+they can have a career they can be proud of?
+
+01:39:06.560 --> 01:39:09.760
+When I was teaching at MIT, for a while,
+
+01:39:09.760 --> 01:39:12.960
+I had undergraduate advisees where people
+
+01:39:12.960 --> 01:39:17.160
+would have to meet with me once a semester or something,
+
+01:39:17.160 --> 01:39:20.840
+and they frequently would ask what they should do.
+
+01:39:20.840 --> 01:39:23.920
+And I think the advice I used to give was something like,
+
+01:39:24.800 --> 01:39:27.320
+well, if you had no constraints on you,
+
+01:39:28.440 --> 01:39:31.400
+no resource constraints, no opportunity constraints,
+
+01:39:31.400 --> 01:39:35.440
+and no skill constraints, what could you imagine doing?
+
+01:39:35.480 --> 01:39:39.480
+And I said, well, start there and see how close you can get,
+
+01:39:39.480 --> 01:39:42.560
+what's realistic for how close you can get.
+
+01:39:42.560 --> 01:39:45.280
+The other version of that is try and figure out
+
+01:39:45.280 --> 01:39:47.040
+what you wanna do and do that,
+
+01:39:47.040 --> 01:39:49.400
+because I don't think, a lot of people think
+
+01:39:49.400 --> 01:39:50.640
+that they're in a channel, right,
+
+01:39:50.640 --> 01:39:52.760
+and there's only limited opportunities,
+
+01:39:52.760 --> 01:39:56.880
+but it's usually wider than they think.
+
+01:39:56.880 --> 01:39:59.040
+Yeah, the opportunities really are limitless,
+
+01:39:59.040 --> 01:40:04.040
+but at the same time, you want to pick a thing, right?
+
+01:40:04.520 --> 01:40:09.520
+And it's the diligence, and really, really pursue it, right?
+
+01:40:09.720 --> 01:40:10.840
+Really pursue it.
+
+01:40:13.680 --> 01:40:16.680
+Because sometimes the really special stuff happens
+
+01:40:16.680 --> 01:40:18.200
+after years of pursuit.
+
+01:40:18.200 --> 01:40:21.720
+Yeah, oh, absolutely, it can take a while.
+
+01:40:21.720 --> 01:40:24.800
+I mean, you've been doing this for 40 plus years.
+
+01:40:24.800 --> 01:40:26.520
+Some people think I'm in a rut, right?
+
+01:40:26.520 --> 01:40:27.360
+Why don't I do?
+
+01:40:27.360 --> 01:40:31.760
+And in fact, some of the inspiration for the AI Institute
+
+01:40:31.800 --> 01:40:35.320
+is to say, okay, I've been working on locomotion
+
+01:40:35.320 --> 01:40:39.920
+for however many years it was, let's do something else.
+
+01:40:39.920 --> 01:40:44.920
+And it's a really fascinating and interesting challenge.
+
+01:40:45.520 --> 01:40:47.640
+And you're hoping to show it off also
+
+01:40:47.640 --> 01:40:50.120
+in the same way as we've done with Boston Dynamics?
+
+01:40:50.120 --> 01:40:51.840
+Just about to start showing some stuff off, yeah.
+
+01:40:51.840 --> 01:40:53.360
+I hope we have a YouTube channel.
+
+01:40:53.360 --> 01:40:55.040
+I mean, one of the challenges is it's one thing
+
+01:40:55.040 --> 01:40:59.080
+to show athletic skills on YouTube.
+
+01:40:59.080 --> 01:41:02.560
+Showing cognitive function is a lot harder,
+
+01:41:02.560 --> 01:41:04.560
+and I haven't quite figured out yet
+
+01:41:04.560 --> 01:41:05.600
+how that's gonna work.
+
+01:41:06.760 --> 01:41:07.920
+There might be a way.
+
+01:41:07.920 --> 01:41:08.760
+There's a way.
+
+01:41:08.760 --> 01:41:09.600
+There's a way.
+
+01:41:09.600 --> 01:41:10.440
+Why not?
+
+01:41:10.440 --> 01:41:15.440
+I also do think sucking at a task is also compelling.
+
+01:41:16.120 --> 01:41:19.080
+Like the incremental improvement,
+
+01:41:19.080 --> 01:41:21.560
+a robot being really terrible at a task
+
+01:41:21.560 --> 01:41:23.280
+and then slowly becoming better.
+
+01:41:23.280 --> 01:41:25.320
+Even in athletic intelligence, honestly,
+
+01:41:25.320 --> 01:41:26.800
+learning to walk and falling
+
+01:41:27.040 --> 01:41:29.240
+and slowly figuring that out,
+
+01:41:29.240 --> 01:41:32.440
+I think there's something extremely compelling about that.
+
+01:41:32.440 --> 01:41:35.440
+We like flaws, especially with the cognitive task.
+
+01:41:35.440 --> 01:41:36.560
+It's okay to be clumsy.
+
+01:41:36.560 --> 01:41:39.640
+It's okay to be confused and a little silly
+
+01:41:39.640 --> 01:41:40.960
+and all that kind of stuff.
+
+01:41:41.760 --> 01:41:45.240
+It feels like in that space is where we can...
+
+01:41:45.240 --> 01:41:46.240
+There's charm.
+
+01:41:46.240 --> 01:41:47.080
+There's charm.
+
+01:41:49.000 --> 01:41:50.880
+There's charm and there's something inspiring
+
+01:41:50.880 --> 01:41:54.800
+about a robot sucking and then becoming less terrible
+
+01:41:54.800 --> 01:41:56.960
+slowly at a task.
+
+01:41:56.960 --> 01:41:57.960
+I think you're right.
+
+01:41:57.960 --> 01:42:01.080
+That kind of reveals something about ourselves.
+
+01:42:02.160 --> 01:42:04.080
+Ultimately, that's what's one of the coolest things
+
+01:42:04.080 --> 01:42:05.720
+about robots is it's kind of a mirror
+
+01:42:05.720 --> 01:42:08.840
+about what makes humans special.
+
+01:42:08.840 --> 01:42:11.960
+Just by watching how hard it is to make a robot
+
+01:42:11.960 --> 01:42:13.560
+do the things that humans do,
+
+01:42:13.560 --> 01:42:15.120
+you realize how special we are.
+
+01:42:17.880 --> 01:42:20.120
+What do you think is the meaning of this whole thing?
+
+01:42:20.120 --> 01:42:21.040
+Why are we here?
+
+01:42:22.200 --> 01:42:23.040
+Mark?
+
+01:42:24.040 --> 01:42:26.240
+Do you ever ask about the big questions
+
+01:42:26.240 --> 01:42:28.720
+as you try to create these humanoid,
+
+01:42:28.720 --> 01:42:31.880
+human-like intelligence systems?
+
+01:42:31.880 --> 01:42:32.720
+I don't know.
+
+01:42:32.720 --> 01:42:34.760
+I think you have to have fun while you're here.
+
+01:42:34.760 --> 01:42:36.040
+That's about all I know.
+
+01:42:37.040 --> 01:42:40.200
+It would be a waste not to, right?
+
+01:42:40.200 --> 01:42:43.160
+The ride is pretty short, so might as well have fun.
+
+01:42:45.160 --> 01:42:47.080
+Mark, I'm a huge fan of yours.
+
+01:42:47.080 --> 01:42:48.920
+It's a huge honor that you would talk with me.
+
+01:42:48.920 --> 01:42:51.880
+This is really amazing and your work for many decades
+
+01:42:52.040 --> 01:42:52.880
+has been amazing.
+
+01:42:52.880 --> 01:42:56.080
+I can't wait to see what you do at the AI Institute.
+
+01:42:56.080 --> 01:43:00.600
+I'm gonna be waiting impatiently for the videos
+
+01:43:00.600 --> 01:43:03.560
+and the demos and the next robot meetup
+
+01:43:03.560 --> 01:43:07.160
+for maybe Atlas and Optimus to hang out.
+
+01:43:07.160 --> 01:43:08.360
+I would love to do that.
+
+01:43:08.360 --> 01:43:09.480
+That would be fun.
+
+01:43:09.480 --> 01:43:10.800
+Thank you so much for talking to me.
+
+01:43:10.800 --> 01:43:11.640
+Thank you.
+
+01:43:11.640 --> 01:43:13.240
+It was fun talking to you.
+
+01:43:13.240 --> 01:43:16.040
+Thanks for listening to this conversation with Mark Riebert.
+
+01:43:16.040 --> 01:43:18.640
+To support this podcast, please check out our sponsors
+
+01:43:18.640 --> 01:43:20.000
+in the description.
+
+01:43:20.040 --> 01:43:21.760
+And now, let me leave you with some words
+
+01:43:21.760 --> 01:43:23.240
+from Arthur C. Clarke.
+
+01:43:24.240 --> 01:43:27.400
+Whether we're based on carbon or on silicon
+
+01:43:27.400 --> 01:43:29.760
+makes no fundamental difference.
+
+01:43:29.760 --> 01:43:34.760
+We should each be treated with appropriate respect.
+
+01:43:34.760 --> 01:43:38.000
+Thank you for listening and hope to see you next time.
+

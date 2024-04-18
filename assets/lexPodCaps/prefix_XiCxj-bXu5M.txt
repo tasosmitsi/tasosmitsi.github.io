@@ -1,0 +1,3695 @@
+WEBVTT
+
+00:00.000 --> 00:04.800
+I've had to do plenty of unpopular things. I think anytime you have to run a company that endures
+
+00:05.440 --> 00:10.400
+a century and has to endure another century, you will do unpopular things. You have no choice.
+
+00:10.400 --> 00:16.240
+And I often felt I had to sacrifice things for the long term. And whether that would have been,
+
+00:16.240 --> 00:20.080
+you know, really difficult things like, you know, job changes or reductions,
+
+00:20.640 --> 00:24.640
+or whether it would be things like, hey, you know, we're going to change the way we do our
+
+00:24.640 --> 00:30.880
+semiconductors and a whole different philosophy, you have no choice. I mean,
+
+00:30.880 --> 00:35.120
+and in times of crisis as well, you got to be, I always said it's not a popularity contest.
+
+00:37.440 --> 00:42.240
+The following is a conversation with Jeannie Vermette, who was a longtime CEO, president,
+
+00:42.240 --> 00:47.600
+and chairman of IBM. And for many years, she was widely considered to be one of the most powerful
+
+00:47.600 --> 00:54.400
+women in the world. She's the author of a new book on power, leadership, and her life story
+
+00:54.400 --> 01:02.400
+called Good Power, coming out on March 7th. She is an incredible leader and human being,
+
+01:02.400 --> 01:07.840
+both fearless and compassionate. It was a huge honor and pleasure for me to sit down and have
+
+01:07.840 --> 01:13.040
+this chat with her. This is the Lex Friedman podcast. To support it, please check out our
+
+01:13.040 --> 01:18.160
+sponsors in the description. And now, dear friends, here's Jeannie Vermette.
+
+01:19.120 --> 01:24.800
+You worked at IBM for over 40 years, starting as a systems engineer, and you ran the company
+
+01:24.800 --> 01:31.840
+as chairman, president, and CEO from 2011 to 2020. IBM is one of the largest tech companies in the
+
+01:31.840 --> 01:39.680
+world with, maybe you can correct me on this, with about 280,000 employees. What are the biggest
+
+01:39.680 --> 01:45.200
+challenges running the company of that size? Let's start with a big overview question.
+
+01:45.280 --> 01:48.640
+The biggest challenges I think are not in running them, it's in changing them.
+
+01:49.520 --> 01:53.920
+And that idea to know what you should change and what you should not change. Actually,
+
+01:53.920 --> 01:58.400
+people don't always ask that question. What should endure, even if it has to be modernized,
+
+01:58.400 --> 02:03.280
+but what should endure? And then I found the hardest part was changing how work got done
+
+02:03.280 --> 02:09.520
+at such a big company. What was the part that you thought should endure? The core of the company
+
+02:09.520 --> 02:13.520
+that was beautiful and powerful and could persist through time, that should persist through time.
+
+02:13.520 --> 02:16.080
+I'd be interested, do you have a perception of what you think it would be?
+
+02:17.680 --> 02:23.520
+Do I have a perception? Well, I'm a romantic for a history of long-running companies, so there's
+
+02:23.520 --> 02:32.720
+kind of a tradition as an AI person. To me, IBM has some epic sort of research accomplishments,
+
+02:32.720 --> 02:40.080
+where you show off, you know, Deep Blue and Watson, just impressive big moonshot challenges
+
+02:40.080 --> 02:44.400
+and accomplishing those. But that's, I think, that's probably a small part of what IBM is.
+
+02:44.400 --> 02:52.320
+That's mostly the sexy public-facing part. Well, certainly the research part itself
+
+02:52.320 --> 02:57.280
+is over 3,000, so it's not that small. That's a pretty big research group. But the part that
+
+02:57.280 --> 03:03.040
+should endure ends up being a company that does things that are essential to the world, meaning
+
+03:03.520 --> 03:11.040
+the who, you know, think back. You said you're a romantic. It was the 30s, the social security
+
+03:11.040 --> 03:15.600
+system. It was putting the man on the moon. It was, you know, to this day, banks don't run,
+
+03:15.600 --> 03:22.000
+you know, railroads don't run. That is at its core, it's doing mission-critical work.
+
+03:22.560 --> 03:28.160
+And so that part, I think, is at its core, it's a business-to-business company. And at its core,
+
+03:28.240 --> 03:33.440
+it's about doing things that are really important to the world, becoming running and being better.
+
+03:33.440 --> 03:37.280
+Running the infrastructure of the world, so doing it at scale, doing it reliably.
+
+03:37.280 --> 03:42.240
+Yes, secure in this world, that's like everything. In fact, when I started, I almost felt people
+
+03:42.240 --> 03:47.120
+were looking for what that was. And together, we sort of, in a word, it was to be essential.
+
+03:47.120 --> 03:52.560
+And the reason I love that word was, I can't call myself essential. You have to determine I am,
+
+03:52.560 --> 03:56.880
+right? So it was to be essential, even though some of what we did is exactly what you said,
+
+03:56.880 --> 04:00.880
+it's below the surface. So many people, because people say to me, well, what does IBM do now,
+
+04:00.880 --> 04:07.200
+right? And over the years, it's changed so much. And today, it's really a software and consulting
+
+04:07.200 --> 04:13.680
+company. Consulting is a third of it. And the software is all hybrid cloud and AI. That would
+
+04:13.680 --> 04:18.640
+not have been true, as you well know, back even two decades ago, right? So it changes. But I think
+
+04:18.640 --> 04:23.600
+at its core, it's that be essential. You said moonshot, can't all be moonshots because moonshots
+
+04:23.600 --> 04:32.000
+don't always work, but mission critical work. So given the size, though, when you started running
+
+04:32.000 --> 04:38.160
+it, did you feel the sort of thing that people usually associate with size, which is bureaucracy
+
+04:39.280 --> 04:44.800
+and maybe the aspect of size that hinder progress or hinder pivoting? Did you feel that?
+
+04:44.800 --> 04:51.520
+You would, for lots of reasons. I think when you're a big company, sometimes people think of
+
+04:51.600 --> 04:57.840
+processes, the client themselves. I always say to people, your process is not your customer.
+
+04:57.840 --> 05:02.880
+There is a real customer here that you exist for. And that's really easy to fall into,
+
+05:02.880 --> 05:09.840
+because people are a master to this process. And that's not right. And when you're big,
+
+05:09.840 --> 05:16.240
+the other thing and boy, there's a premium on it is speed, right? That in our industry,
+
+05:16.880 --> 05:20.880
+you got to be fast. And go back, like when I took over and it was 2012,
+
+05:22.640 --> 05:26.560
+we had a lot of catching up to do and a lot of things to do. And it was moving so fast.
+
+05:26.560 --> 05:31.120
+And as you well know, all those trends were happening at once, which made them go even faster.
+
+05:31.120 --> 05:35.040
+And so pretty unprecedented, actually, for that many trends to be at one time.
+
+05:35.600 --> 05:42.880
+And I used to say to people, go faster, go faster, go faster. And honestly, I've tired them out. I
+
+05:42.880 --> 05:48.800
+mean, it kind of dawned on me that when you're that big, it's a really valuable lesson. And it
+
+05:48.800 --> 05:54.000
+taught me like the hows, perhaps more important than the what. Because if I didn't do something
+
+05:54.000 --> 05:58.880
+to change how work was done, like change those processes or give them new tools, help them with
+
+05:58.880 --> 06:04.640
+skills, they couldn't. They just like do the same thing faster. If someone tells you, you know,
+
+06:04.640 --> 06:08.320
+you've got hiking boots and they're like, no, go run a marathon. You're like, I can't do it in
+
+06:08.320 --> 06:14.880
+those boots. But so you've got to do something. And at first, I think the ways for big companies,
+
+06:14.880 --> 06:19.280
+I would call them like blunt clubs, you do what everyone does, you reduce layers, because if you
+
+06:19.280 --> 06:24.960
+reduce layers, decisions go faster. There's just, it's math. If there's less decision points, things
+
+06:24.960 --> 06:31.360
+go faster. You do the blunt club thing. And then after that, though, it did lead me down a, you
+
+06:31.360 --> 06:36.800
+know, a long journey of they sound like buzzwords. But if you really do them at scale, they're hard
+
+06:36.880 --> 06:42.720
+around things like agile. And because you've really got to change the way work gets done.
+
+06:42.720 --> 06:47.280
+And we ended up training, God, hundreds of thousands of people on that stuff.
+
+06:47.280 --> 06:49.120
+On how to do agile correctly.
+
+06:49.120 --> 06:52.800
+On how to do it correctly. That's right. Versus, because everybody talks about it.
+
+06:52.800 --> 06:58.320
+But the idea that you would really have small multidisciplinary teams work from the outside in,
+
+06:58.320 --> 07:04.320
+set those sort of interim steps, you know, take the feedback pivot, and then do it on not just
+
+07:04.320 --> 07:09.120
+products, do it on lots of things, was, it's hard to do at scale. People always say, oh,
+
+07:09.120 --> 07:13.840
+I got this agile group over here of 40 people. But not when you're a couple hundred thousand people,
+
+07:13.840 --> 07:15.920
+you got to get a lot of people to work that way.
+
+07:15.920 --> 07:19.760
+The blunt club thing you're talking about. So flatten the organization as much as possible?
+
+07:19.760 --> 07:23.360
+Yeah, yeah, I probably reduced the layers of management by half. And so,
+
+07:24.880 --> 07:30.640
+that does, that has lots of benefits, right? Time to a decision, more autonomy to people,
+
+07:30.880 --> 07:36.480
+and then the idea of like, faster clarity of where you're going, because you're not just
+
+07:36.480 --> 07:41.760
+filtered through so many different layers. And I think it's the kind of thing a lot of companies,
+
+07:41.760 --> 07:44.960
+if you're big, have to just keep going through. It's kind of like grass grows, you know,
+
+07:44.960 --> 07:49.840
+it just comes back and you got to go back down and work on it. So it's a natural thing.
+
+07:51.200 --> 07:55.920
+But I hear so many people talk about it, Lex, this idea of like, okay, well, who makes a decision?
+
+07:55.920 --> 08:00.160
+You've often heard nobody can say yes and everybody can say no. And that's actually what
+
+08:00.160 --> 08:07.120
+you're trying to get out of a system like that. So, I mean, your book in general, the way you
+
+08:07.120 --> 08:12.960
+lead is very much about we and us, you know, the power of we. But is there times when a leader has
+
+08:12.960 --> 08:18.640
+to step in and be almost autocratic, take control and make hard unpopular decisions? Oh, I am sure
+
+08:18.640 --> 08:24.400
+you know the answer to that. And it is, of course, yes. It's fun to hear you say it. Yeah. You know,
+
+08:24.960 --> 08:29.840
+because I actually, A, there's a leader for a time, but then there's a leader for a situation,
+
+08:29.840 --> 08:35.440
+right? And so I've had to do plenty of unpopular things. I think anytime you have to run a company
+
+08:35.440 --> 08:40.720
+that endures a century and has to endure another century, you will do unpopular things. You have
+
+08:40.720 --> 08:46.880
+no choice. And I often felt I had to sacrifice things for the long term. And whether that would
+
+08:46.880 --> 08:52.720
+have been, you know, really difficult things like, you know, job changes or reductions, or whether
+
+08:52.720 --> 08:56.800
+it would be things like, hey, you know, we're going to change the way we do our semiconductors
+
+08:57.360 --> 09:03.360
+and a whole different philosophy. You have no choice. I mean, and in times of crisis as well,
+
+09:03.360 --> 09:09.200
+you got to be, I always said it's not a popularity contest. So that's none of these jobs are
+
+09:09.200 --> 09:13.920
+popularity contests. I don't care if your company's got one person or half a million, they're not
+
+09:13.920 --> 09:19.680
+popularity contests. But psychologically, is it difficult to just sort of step in as a new CEO?
+
+09:22.000 --> 09:25.680
+Because you're fighting against tradition, against all these people that act like experts of their
+
+09:25.680 --> 09:30.160
+thing, and they are experts of their thing, to step in and say, we have to do differently.
+
+09:30.160 --> 09:34.800
+When you got to change a company, it's really tempting to say throw everything else out back
+
+09:34.800 --> 09:39.760
+to that what must endure, right? But I know when I took over to start, I knew how much had to change
+
+09:39.760 --> 09:45.440
+more I got into it, I could see, wow, a lot more had to change, right? Because we needed a platform,
+
+09:45.440 --> 09:50.320
+we'd always done our best when we had a platform, a technology platform, you will go back in time,
+
+09:50.320 --> 09:55.520
+and you'll think of the mainframe systems, you'll think of the PC, you'll think of perhaps middleware,
+
+09:56.160 --> 10:02.320
+you could even call services a platform, we needed a platform, the next platform here to be there.
+
+10:03.120 --> 10:08.880
+Skills, when I took over, we inventoried who had modern skills for the future, it was two out of
+
+10:08.880 --> 10:12.160
+10 people for the future, not that they didn't have relevant skills today, but for the future,
+
+10:12.160 --> 10:17.440
+two out of 10, yikes, that's a big problem, right? The speed at which things were getting done,
+
+10:17.440 --> 10:24.400
+that has to, so you got so much to do, and you say, is that a scary thing? Yes. Do you have to
+
+10:24.400 --> 10:30.000
+sometimes dictate yes, but I did find, and it is worth it, I know every big company I know,
+
+10:30.000 --> 10:36.560
+my good friend that runs General Motors, she's had to change, go back to what is them them,
+
+10:36.560 --> 10:41.360
+you know, and when you do that, that back to be essential, we kind of started with, hey,
+
+10:41.360 --> 10:45.200
+it's be essential, then the next thing I did with the team was say, okay, now this means
+
+10:45.200 --> 10:50.480
+new era of computing, new buyers are out there, and eh, we better have new skills, okay, now the
+
+10:50.480 --> 10:57.280
+next thing, how do you operationalize it? And it just takes some time, but you can engineer that
+
+10:57.280 --> 11:03.440
+and get people to build belief. And for the skills, that means hiring and that means training?
+
+11:04.080 --> 11:09.760
+Yes, oh boy, that's a long, skills is a really long topic in and of itself, I try to put my
+
+11:09.760 --> 11:16.880
+view in it, I learned a lot and I changed my view on this a lot. I'll go back at my very beginning,
+
+11:16.880 --> 11:22.880
+say 40 years ago, I would have said, at that point, okay, I was always in a hurry, I was
+
+11:22.880 --> 11:26.880
+interviewing to hire people, I don't know how you hire people, 40 years ago, I'd be like, okay,
+
+11:26.880 --> 11:30.800
+I got to fit in these interviews, I got to hire someone to get this done, okay, then time would
+
+11:30.800 --> 11:34.960
+go on, I'm like, that's not very good, in fact, someone once said to me, hey, hire the best people
+
+11:34.960 --> 11:39.200
+to work for you and your job gets a lot easier, okay, I should spend more time on this topic,
+
+11:39.200 --> 11:44.880
+spend more time on it, then it was like, okay, hire experts, okay, okay, hired a lot of experts
+
+11:44.880 --> 11:50.800
+over my life and then I was really like an epiphany and it really happened over my tenure
+
+11:51.360 --> 11:56.000
+running the company and having to change skills, if someone's an expert at something and has just
+
+11:56.000 --> 12:02.240
+done that for 30 years, the odds of them really wanting to change a lot are pretty low and when
+
+12:02.240 --> 12:07.120
+you're in a really dynamic industry, that's a problem and so, okay, that was like kind of my
+
+12:07.120 --> 12:13.280
+first revelation on this and then when I looked to hiring, I can remember when I started my job,
+
+12:13.280 --> 12:18.080
+we needed cyber people and I go out there and I look, unemployment in the U.S. was almost 10%,
+
+12:18.800 --> 12:23.600
+can't find them, okay, it's 10% and I can't find the people, okay, what's the issue, okay,
+
+12:23.600 --> 12:29.920
+they're not teaching the right things, that led me down a path and it was serendipity that I
+
+12:29.920 --> 12:34.640
+happened to do a review of corporate social responsibility, we had this one little fledgling
+
+12:34.640 --> 12:40.320
+school in a low-income area and high school with a community college, we gave them internships,
+
+12:40.320 --> 12:47.520
+direction on curriculum, behold, we could hire these kids, I said, hmm, this is not CSR, like,
+
+12:47.520 --> 12:53.440
+I just found a new talent pool, which takes me to now what I'm doing in my post-retirement,
+
+12:53.440 --> 13:00.320
+I'm like, this idea that don't hire just for a college degree, we had 99% of our hires were
+
+13:00.320 --> 13:04.480
+college and PhDs and I'm all for it, so you're very, don't, don't.
+
+13:04.480 --> 13:05.520
+I'm deeply offended.
+
+13:05.520 --> 13:08.720
+No, you should not be and I, you know, I'm vice chair at Northwestern,
+
+13:09.680 --> 13:15.520
+but I said, I just really like, aptitude does not equal access, these people didn't have access,
+
+13:15.520 --> 13:22.080
+but they had aptitude, it changed my whole view to skills first and so now for hiring,
+
+13:22.080 --> 13:26.320
+that's kind of a long story to tell you, the number one thing I would hire for now is somebody's
+
+13:26.320 --> 13:30.800
+willingness to learn, you know, and you can test, you can try different ways, but their curiosity
+
+13:30.800 --> 13:35.440
+and willingness to learn, hands down, I will take that trait over anything else they have.
+
+13:35.440 --> 13:37.680
+So the interview process, the questions you asked.
+
+13:37.760 --> 13:38.560
+Everything changed.
+
+13:38.560 --> 13:43.280
+The kind of things you talk to them about is try to get at how curious they are about the world.
+
+13:43.280 --> 13:47.360
+And you can do testing and I mean, there's, we triangulated around it lots of ways and now look,
+
+13:47.360 --> 13:52.080
+they're, at the heart of it, what it would do is change, you don't think of buying skills,
+
+13:52.080 --> 13:57.760
+you see, you think of building skills and when you think that way, with so many people and I think
+
+13:58.560 --> 14:01.360
+this country, many developed countries being disenfranchised,
+
+14:02.080 --> 14:05.200
+you got to bring them back into the workforce somehow and they got to get some kind of
+
+14:05.200 --> 14:09.600
+contemporary skills. And if you took that approach, you can bring them back into the
+
+14:09.600 --> 14:14.400
+workforce. Yeah, I think some interesting combination of humility and passion,
+
+14:14.400 --> 14:20.880
+because like you said, experts sometimes lack humility if they call themselves an expert for
+
+14:20.880 --> 14:25.840
+a few too many years. So you have to have that beginner's mind and a passion to be able to
+
+14:26.400 --> 14:30.320
+aggressively constantly be a beginner at everything and learn and learn and learn.
+
+14:30.320 --> 14:35.680
+You know, I saw it firsthand when we were beginning this path, you know, down the cloud and AI
+
+14:35.680 --> 14:41.840
+and we said, and people would say, Oh, IBM, you know, it's existential, they got to change and
+
+14:41.840 --> 14:46.080
+all these things. And, and I did hire a lot of people from outside, very willing to learn new
+
+14:46.080 --> 14:51.520
+things. Come on in, come on in. And I sometimes say shiny objects, trained in shiny objects,
+
+14:51.520 --> 14:56.160
+come on in. But I saw something, it was another one of these, you're not a shiny object. I'm not
+
+14:56.160 --> 15:04.640
+saying that. But I learned something. Okay, some of them did fantastic. And others, they're like,
+
+15:04.640 --> 15:09.200
+well, let me school you on everything. But they didn't realize like we did really mission critical
+
+15:09.200 --> 15:13.520
+work. And they break a bank. I mean, they would not understand the certain kind of security and
+
+15:13.520 --> 15:19.520
+the auditability and everything they had to go on. And then I watched IBM people say, Oh, I actually
+
+15:19.520 --> 15:23.120
+could learn some something like, yeah, okay, I don't know how to do that's a really good thing
+
+15:23.120 --> 15:27.680
+I could learn. And in the end, there was not like one group was a winner and was a loser.
+
+15:27.680 --> 15:31.120
+The winners were the people who were willing to learn from each other. I mean, it was to me,
+
+15:31.120 --> 15:37.760
+it was very stark example of that point. And I saw it firsthand. So that's why I'm so committed
+
+15:37.760 --> 15:43.040
+to this idea about skills first. And that's how people should be hired, promoted, paid, you name
+
+15:43.040 --> 15:51.120
+it. Yeah, the AI in general, it seems like nobody really understands now what the future will look
+
+15:51.120 --> 15:55.280
+like. We're all trying to figure it out. So like what, you know, IBM will look like in 50 years,
+
+15:56.000 --> 16:00.480
+in relation to the software business to AI is unknown, what Google will look like,
+
+16:00.480 --> 16:06.000
+what all these companies were trying to figure it out. And that means constantly learning,
+
+16:06.880 --> 16:11.440
+taking risks, all of those things. And nobody is really skilled in AI.
+
+16:12.480 --> 16:16.320
+Because you're absolutely right. That's right. I couldn't agree more with you on that.
+
+16:17.040 --> 16:23.760
+You, you wrote in the book, speaking of hiring, quote, my drive for perfection often meant
+
+16:24.720 --> 16:30.000
+I only focused on what needed to change without acknowledging the positive. This could keep people
+
+16:30.000 --> 16:34.880
+from trusting themselves. It could take me a while to learn that just because I could point
+
+16:34.880 --> 16:40.400
+something out didn't mean I should. I still spotted errors, but I became more deliberate about what I
+
+16:40.400 --> 16:45.680
+mentioned and sent back to get fixed. I also tried to curtail my tendency to micromanage
+
+16:45.680 --> 16:51.920
+and let people execute. I had to stop assuming my way was the best or only way. I was learning
+
+16:51.920 --> 16:56.720
+that giving other people control builds their confidence and that constantly trying to control
+
+16:56.720 --> 17:04.560
+people destroys it. So what's the right balance between showing the way and helping people find
+
+17:04.560 --> 17:13.440
+the way? That is a good question. Because like a really flip answer would be as it gets bigger,
+
+17:13.440 --> 17:20.320
+you have no choice but to just, you know, you can't do it. You have to tell or show. I mean,
+
+17:22.000 --> 17:24.880
+you've got to let people find their way because it's so big, you can't, right?
+
+17:26.240 --> 17:30.800
+That's an obvious answer. Scope of work, bigger it gets. Okay, I've got to let more stuff go.
+
+17:32.640 --> 17:42.400
+But I have always believed that a leader's job is to do as well. And I think there's like a few areas
+
+17:43.760 --> 17:50.160
+that are really important that you always do. Now it doesn't mean you're showing. So like when it has
+
+17:50.160 --> 17:54.800
+to do with values and value-based decisions, like I think it's really important to constantly
+
+17:56.480 --> 18:02.800
+show people that you walk your talk on that kind of thing. It's super important. And I actually
+
+18:02.800 --> 18:07.280
+think it's a struggle young companies have because those values aren't deeply rooted.
+
+18:07.360 --> 18:14.720
+And when a storm comes, it's easy to uproot. And so I always felt like when it was that time,
+
+18:14.720 --> 18:22.240
+I showed it. I got taught that so young at IBM and even General Motors that, in fact, I do write
+
+18:22.240 --> 18:29.600
+about that in the book. First time I was a manager, I had a gentleman telling dirty jokes. And not to
+
+18:29.600 --> 18:37.120
+me, but to other people. And it really offended people and some of the women. This is the very
+
+18:37.120 --> 18:44.080
+early 80s. And they came, said something. I talked to my boss. I'm a first-time manager.
+
+18:44.720 --> 18:49.920
+And he was unequivocal with what I should do. He said, and this was a top performer.
+
+18:49.920 --> 18:55.200
+It stops immediately or you fire him. So there are a few areas like that that I actually think
+
+18:55.200 --> 19:01.360
+you have to always continue to role model and show, right? That to me isn't the kind that like,
+
+19:01.360 --> 19:06.400
+when do you let go of stuff, right? So- The values and relationships with clients.
+
+19:06.400 --> 19:11.040
+Yeah, whatever you're in service of. And the other thing was, I really felt it was really
+
+19:11.040 --> 19:17.120
+important to role model learning, right? So, you know, I can remember when we started down the
+
+19:17.120 --> 19:23.040
+journey and we went on to this thing called the Think Academy, IBM's longtime motto had been think.
+
+19:23.040 --> 19:27.520
+And we said, okay, I'm going to make the first Friday of every month compulsory education.
+
+19:28.320 --> 19:33.120
+And, okay, I mean, everybody, like everybody, I don't care what your job is, okay? When the
+
+19:33.120 --> 19:37.200
+whole company has to transform, everybody's got to kind of have some skin in this game and understand
+
+19:37.200 --> 19:43.680
+it. I taught the first hour of every month for four years. Now, okay, I had to learn something.
+
+19:45.760 --> 19:49.040
+But it made me learn, but I've like, okay, if I can teach this, you can do it, right? I mean,
+
+19:49.040 --> 19:53.120
+you know, kind of thing. So it was a compulsory Thursday night education for you.
+
+19:54.000 --> 19:57.200
+I'm a little bit better prepared than that, but yes, you're so right. Yes.
+
+19:57.200 --> 20:01.920
+So you prepare. Yeah. So like personality wise, you like to prepare?
+
+20:01.920 --> 20:06.240
+Yeah. But there's roots in that go back deeply, deeply, deeply, deeply. And I think
+
+20:06.800 --> 20:11.120
+it's an interesting reason. So why do, why are you, you're prepared, my friend? Yeah. Yes,
+
+20:11.120 --> 20:16.800
+you are. You prepare for your interviews. Uh, sure. The rest you wing. Yeah, I wing.
+
+20:16.800 --> 20:20.480
+But that's okay. I mean, you don't have to prepare everything. I don't prepare everything either.
+
+20:20.480 --> 20:25.760
+No, but I, I unfortunately wing stuff. I save it to last minute. I push everything. I'm always
+
+20:25.760 --> 20:30.080
+almost late and I don't know why that is. I mean, there's some deep psychological thing
+
+20:30.080 --> 20:34.720
+we should probably investigate, but it's probably the anxiety brings out the performance.
+
+20:34.720 --> 20:38.800
+That can be. That's very true with some people. I mean, so I'm a program and engineer at heart.
+
+20:38.800 --> 20:44.880
+And so, so programmers famously overestimate or underestimate, sorry, how long that something's
+
+20:44.880 --> 20:50.160
+going to take. And so I just, everything always underestimate. And it's almost as if I want
+
+20:50.720 --> 20:56.720
+to feel this chaos of anxiety of a deadline or something like this. Otherwise I'll be lazy
+
+20:56.720 --> 21:00.720
+sitting on a beach with a pina colada and relaxing. I don't know. So that we have to
+
+21:00.720 --> 21:06.080
+know ourselves, but for you, you like to prepare. Yeah. It came from a few different places. I mean,
+
+21:06.080 --> 21:14.480
+one would have been as a, as a kid, I think, um, I was not a memorizer and my brother is brilliant.
+
+21:14.480 --> 21:19.840
+He can, he, he read it once, boom, done. And so I always want to understand like how something
+
+21:19.840 --> 21:24.480
+happened. It didn't matter what it was I was doing, whether it was algebra, theorems. I always wanted
+
+21:24.480 --> 21:26.880
+don't give me the answer. Don't give me the answer. You know, I want to figure it out,
+
+21:26.880 --> 21:31.600
+figure it out. So I could reproduce it again and didn't have to memorize. So it started with that.
+
+21:31.600 --> 21:38.320
+And then over time, okay, so I was in university in the seventies when I was in engineering school.
+
+21:38.320 --> 21:41.840
+I was the only woman, you know, I meet people still to this day and they're like, oh, I remember
+
+21:41.840 --> 21:47.120
+you. I'm like, yeah, sorry. I don't remember you. There were 30 of you, one of me. And I think you
+
+21:47.120 --> 21:50.640
+already get that feeling of, okay, I better really study hard. Cause whatever I say is going to be
+
+21:50.640 --> 21:58.320
+remembered in this class, good or bad. And it started there. So in some ways I did it for two
+
+21:58.320 --> 22:04.720
+reasons. Early on, I think it was a shield for confidence. The more I studied, the more prepared
+
+22:04.720 --> 22:10.480
+I was, the more confident. That's probably still true to this day. The, the second reason I did it
+
+22:10.480 --> 22:16.880
+evolved over time and became different to prepare. Um, if I was really prepared, then when we're in
+
+22:16.880 --> 22:21.600
+the moment, I can really listen to you. See, cause I don't have to be doing all this stuff on the
+
+22:21.600 --> 22:27.920
+fly in my head. And I could actually take things I know and maybe help the situation. So it really
+
+22:27.920 --> 22:34.720
+became a way that I could be present and in the moment. And I think it's something a lot of people
+
+22:34.720 --> 22:38.720
+that in the moment, I learned it from my husband. He doesn't prepare by the way at all. So that's
+
+22:38.720 --> 22:44.880
+not it. But I, but I, but I watched the negative example. No, no, no. And I'm not going to change
+
+22:44.880 --> 22:50.240
+that. As he says, it's a type Z, I'm an A. Okay. And I have been married 43 years and that seems
+
+22:50.240 --> 22:55.920
+to work. So, but that idea that you could be in the moment with people is a really important thing.
+
+22:56.640 --> 23:02.720
+Yeah. So the preparation gives you the freedom to really be present. So just to linger on the,
+
+23:02.720 --> 23:07.360
+you mentioned your brother and it seems like in the book that you really had to
+
+23:08.640 --> 23:14.000
+work hard when you study to, to, to sort of, um, given that you weren't good at memorization,
+
+23:14.000 --> 23:18.080
+you really truly deeply wanted to understand the stuff and you put in the hard work and that seems
+
+23:18.080 --> 23:23.600
+to persist throughout your career. So, um, you know, hard work is often associated with, um,
+
+23:24.480 --> 23:29.120
+sort of has negative associations with maybe with burnout, with dissatisfaction.
+
+23:30.560 --> 23:35.760
+Is there some aspect of hard work at the core of who you are that led to happiness for you?
+
+23:37.120 --> 23:41.280
+Did you enjoy it? I enjoyed it. So I will be the first and I'm,
+
+23:41.280 --> 23:45.200
+I'm really careful to say that to people because I don't think everyone should associate, gee,
+
+23:45.200 --> 23:50.480
+to do what you did, you have to, there's only one route there, right? And that's just not true.
+
+23:50.480 --> 23:55.280
+And I, I do it because I like it. In fact, I'm careful. And as time goes on, you have to be
+
+23:55.280 --> 23:59.120
+careful as more and more people watch you, whether you like it, you're a role model or not, you are a
+
+23:59.120 --> 24:03.200
+role model for people, whether you know it, like it, want it, does not matter. I learned that the
+
+24:03.200 --> 24:07.360
+hard way. And I would have to say to people, hey, just cause I do this does not mean I do it for
+
+24:07.360 --> 24:12.720
+these reasons, right? It's a V really explicit. And I'd come to believe usually when people say
+
+24:12.720 --> 24:15.920
+the word power, I don't know, do you have a positive or negative notion? When I say the word
+
+24:15.920 --> 24:20.400
+power, we'll just do it. Probably negative one. Yeah. For some stereotype or some view that,
+
+24:20.400 --> 24:25.040
+that it's somebody's abused it in some way. You can read the newspaper, somebody's doing something
+
+24:26.480 --> 24:29.360
+personal people. Like I'll ask people, do you want power? And they're like, oh no,
+
+24:29.360 --> 24:34.640
+I'd rather do good. Yeah. And I think the irony is you need power to do good.
+
+24:35.280 --> 24:41.840
+And so that sort of led me down to, and it was, I thought about my own life, right? Cause it's,
+
+24:41.840 --> 24:48.000
+it starts in a, like many of us, you know, you don't have a lot, but you don't know that cause
+
+24:48.000 --> 24:53.440
+you're like everybody else around you at that time. And I want to end tragedy, right? My father
+
+24:53.440 --> 24:59.200
+leaves my mother homeless, no money, no food, nothing, four kids. She's never worked a day
+
+24:59.200 --> 25:04.800
+in her life outside of a home. And I, the irony that I hear, I would end up as the ninth CEO
+
+25:04.800 --> 25:10.240
+of one of America's iconic companies. And now I co-chair this group 110 and that journey,
+
+25:10.240 --> 25:14.560
+I said, the biggest thing I learned was you could do really hard, meaningful things in a positive
+
+25:14.560 --> 25:20.240
+way. So now you asked me about why do I work so hard? I ended up writing the book in three pieces
+
+25:21.200 --> 25:27.040
+for this reason. When you really think of your life and power, I thought it kind of fell like
+
+25:27.040 --> 25:32.480
+a pebble in water. Like there's a ring about, you really care about yourself and like the
+
+25:32.480 --> 25:37.520
+power of yourself, power of me. There's a time it transcends to that you are working with and for
+
+25:37.520 --> 25:43.600
+others in another moment when it becomes like about society. So my hard work, I'd ask you,
+
+25:44.400 --> 25:49.040
+one day sit really hard and think about when you close your eyes, who do you see from your early
+
+25:49.040 --> 25:53.280
+life? Right? And what did you learn? And maybe it's not that hard for you. I mean, it was,
+
+25:53.280 --> 26:00.640
+it's funny the things then, if I really looked at it, it's no surprise what I do today.
+
+26:00.640 --> 26:07.200
+And that hard work part, my great grandma, as you and I were comparing notes on Russia, right? And
+
+26:08.160 --> 26:12.160
+never spoke English, spoke Russian, came here to this country, was a cleaning person at the
+
+26:12.160 --> 26:18.560
+Wrigley building in Chicago. Yet if she hadn't saved every dime she made, my mother wouldn't
+
+26:18.560 --> 26:22.800
+have a home and wouldn't have had a car, right? What did I learn from that hard work? In fact,
+
+26:23.360 --> 26:26.880
+when I went to college, she's like, you know, you really should be on a farm. You're so big and
+
+26:26.880 --> 26:34.640
+strong. You know, that was her view. And then my grandmother, another tragic life. What did she do
+
+26:34.640 --> 26:40.880
+though? And think how long, that's in the forties, the fifties, she made lampshades. And she taught me
+
+26:40.880 --> 26:46.720
+how to sew, right? So I could sew clothes when we couldn't afford them. But my memory of my grandma
+
+26:46.720 --> 26:54.000
+is working seven days a week, sewing lampshades. And then here comes my mom in her situation,
+
+26:54.000 --> 27:00.720
+who climbs her way out of it. So I associate that with, well, strong women, by the way,
+
+27:01.440 --> 27:08.560
+all strong women. And I associate hard work with how you are sure you can always take care of
+
+27:08.560 --> 27:12.880
+yourself. And so I think that the roots go way back there. And they were always teaching
+
+27:12.880 --> 27:16.000
+something, right? My great grandma was teaching me how to cook, how to work a farm, even though
+
+27:16.000 --> 27:20.800
+I didn't need to be on a farm. My grandma taught me, you know, here's how to sew, here's how to run
+
+27:20.800 --> 27:25.440
+a business. And then my mother would teach us that, look, but just a little bit of education,
+
+27:25.440 --> 27:29.200
+look at the difference it could make, right? So anyways, that's a long answer too. I think
+
+27:29.200 --> 27:35.120
+that hard work thing is really deeply rooted from that background. It gives you a way out
+
+27:35.120 --> 27:41.920
+from hard times. Yeah, you know, I think I've seen you on other podcasts say, I thought I did,
+
+27:41.920 --> 27:46.560
+do you want a plan B? Didn't you say, no, you would not like a plan B?
+
+27:46.560 --> 27:50.240
+Yeah. Because you're like, I would prefer my back up against, am I remembering?
+
+27:52.240 --> 27:59.680
+You seem to like, at least certain moments in your life seem to do well in desperate times.
+
+27:59.680 --> 28:07.440
+True enough. True enough, that's true. I learned that very well. But I also think that maybe this
+
+28:07.440 --> 28:12.160
+isn't the same kind of plan B. I think of it as, like I was taught, like, always be able to take
+
+28:12.160 --> 28:18.800
+care of yourself. Don't have to rely on someone else. And I think that to me, so that's my plan
+
+28:18.800 --> 28:24.240
+B, I can take care of myself. And it's even after what I lived through with my father, I thought,
+
+28:24.240 --> 28:30.400
+well, this set a bar for bad. After this, nothing's bad. And that is a very freeing thought.
+
+28:31.200 --> 28:35.440
+Being able to take care of yourself, is that, you mean practically or do you mean just a
+
+28:35.440 --> 28:39.280
+self-belief that I'll figure it out? I'll figure it out and practically both, right?
+
+28:40.000 --> 28:46.800
+So you wrote, quote, I vividly remember the last two weeks of my freshman year, when I only had
+
+28:46.800 --> 28:53.360
+25 cents left. I put the quarter in a clear plastic box on my desk and just stared at it.
+
+28:53.360 --> 29:00.240
+This is it, I thought. No more money. So do you think there's some aspect of that financial
+
+29:00.240 --> 29:07.280
+stress, even desperation, just being hungry, does that play a role in that drive that led
+
+29:07.280 --> 29:11.360
+to your success to be the CEO of one of the great companies ever?
+
+29:11.360 --> 29:15.680
+It's a really interesting question because I was just talking to another colleague who was
+
+29:15.680 --> 29:21.680
+CEO of another great American company this weekend. And he mentioned to me about all this
+
+29:21.680 --> 29:28.000
+adversity and he said, or I said to him, I said, do you think part of your success is because you
+
+29:28.000 --> 29:37.280
+had bad stuff happen? And he said, yes, you know? And so I guess I'd be lying if I didn't say,
+
+29:37.280 --> 29:42.240
+I don't think you have to have tragedy, but it does teach you like one really important thing
+
+29:42.240 --> 29:46.080
+is that there is always a way forward, always, and it's in your control.
+
+29:46.080 --> 29:50.720
+I think there's probably wisdom for mentorship there or whether you're a parent or a mentor
+
+29:51.680 --> 29:57.040
+that easy times don't result in growth. Yeah, I've heard a lot of my friends and
+
+29:57.280 --> 30:02.960
+they worry, they say, geez, my kids have never had bad times. And so what happens here? So
+
+30:02.960 --> 30:09.360
+I don't know, is it required and why you end up? Not required, but it sure doesn't hurt.
+
+30:09.360 --> 30:14.640
+You had this good line about advice you were given that growth and comfort never coexist.
+
+30:15.200 --> 30:19.680
+Growth and comfort never coexist. And you have to get used to that thought.
+
+30:19.680 --> 30:23.600
+If someone said that they think of me like one of the more profound sort of lessons I had,
+
+30:24.480 --> 30:31.040
+and the irony is it's from my husband, which is even more funny actually.
+
+30:31.040 --> 30:33.120
+You could just steal it. I mean, you don't have to give him credit.
+
+30:33.120 --> 30:39.680
+I have, shamelessly, as he'll tell you. Okay, so the story behind growth and comfort never coexist,
+
+30:39.680 --> 30:45.360
+but honestly, I think it's been a really freeing thought for me and it's helped me immensely since
+
+30:46.320 --> 30:54.400
+mid-career. And as I write about it in the book, I'm mid-career and I've been running a pretty big
+
+30:54.400 --> 30:58.080
+business actually. And the fella I work for is going to get a new job. It's going to get promoted.
+
+30:58.080 --> 31:01.680
+He calls me and he says, hey, you're going to get my job. I really want you to have it.
+
+31:01.680 --> 31:07.040
+And I said to him, no way. I said, I'm not ready for that job. I got a lot more things I got to
+
+31:07.040 --> 31:12.800
+learn. That is like a huge job. Around the world, every product line, development, you name it,
+
+31:12.800 --> 31:17.920
+every function, I can't do it. He looked at me. He says, well, I think you should go to the
+
+31:17.920 --> 31:24.080
+interview. I went to the interview the next day, blah, blah, blah. Guy says to me, looks at me and
+
+31:24.080 --> 31:30.400
+he says, I want to offer you that job. And I said, I would like to think about it. I said,
+
+31:30.400 --> 31:36.960
+I want to go home and talk to my husband about it. Kind of looked at me. Okay. I went home.
+
+31:36.960 --> 31:41.600
+My husband is sitting there and he says to me, I went on and on about the story, et cetera. And he
+
+31:41.600 --> 31:49.920
+says, do you think a man would have answered it that way? And I said, he says, I know you. He's
+
+31:49.920 --> 31:55.120
+like, six months, you're going to be bored. And all you can think of is what you don't know. And
+
+31:55.120 --> 31:59.120
+he said, and I know these other people, you have way more skill than them and they think they could
+
+31:59.120 --> 32:09.120
+do it. And he's like, why? And for me, it internalized this feeling that I am going to say something
+
+32:09.120 --> 32:14.160
+is a bit stereotype that it resonates with many, many women. And I'll ask you if it does after,
+
+32:14.160 --> 32:20.800
+is that they're most harsh critic of themselves. And so this idea that I won't grow unless I can
+
+32:20.800 --> 32:25.040
+feel uncomfortable doesn't mean I always have to show it by the way. So that's why I meant growth
+
+32:25.040 --> 32:31.280
+and comfort can never coexist. So I got, I was like, he's exactly right. Now the end of that story
+
+32:31.280 --> 32:35.760
+is I went in and I took the job. When I went back to the man who was really my mentor looking out
+
+32:35.760 --> 32:41.760
+for me and he, he looked at me and he said, don't ever do that again. And I said, I understand
+
+32:41.760 --> 32:45.200
+because it was okay to be uncomfortable. I didn't have to use it. I mean,
+
+32:46.480 --> 32:52.480
+now I would take stock of the things I can do. Right. And really think, or I look for times to
+
+32:52.480 --> 32:57.840
+be uncomfortable because I know if I am nervous, like, I don't know if you're nervous to meet me.
+
+32:57.840 --> 33:02.800
+We never met in real person. I'm still terrified. No, you're not. But then you're, it means you're
+
+33:02.800 --> 33:10.640
+learning something, right? So that to me matters. I think it's interesting. Maybe you could speak
+
+33:10.640 --> 33:15.280
+to that, the sort of the self-critical thing inside your, inside your brain. Cause I think
+
+33:16.720 --> 33:25.680
+sometimes it's talked about that women have that. But I have that definitely. And I think that's not
+
+33:25.680 --> 33:31.120
+just solely a property of women in the workplace, but I also want to sort of push back on the idea
+
+33:31.120 --> 33:37.920
+that that's a bad thing that you should silence. Cause I think that anxiety that leads to growth
+
+33:37.920 --> 33:42.320
+also, that's like this discomfort. So there's this weird balance you have to have between that
+
+33:42.320 --> 33:46.560
+self-critical engine and confidence. Yeah, I think that's a good point. You have to kind of dance
+
+33:46.560 --> 33:50.640
+because if you're super confident, people will value you higher. That's important. But if you're
+
+33:50.640 --> 33:54.640
+way too confident, maybe in the short term you'll gain, but in the long term, you won't grow.
+
+33:54.640 --> 33:59.520
+Very good point. So I can't really disagree with that. And to me, even when I took on jobs,
+
+34:00.160 --> 34:04.800
+I always felt people say, well, is it, you know, what point are you confident enough? And I came
+
+34:04.800 --> 34:10.000
+to sort of believe again, a theme of my beliefs that if I was willing to ask lots of questions
+
+34:10.000 --> 34:16.160
+and understood enough, that's all I needed to know. Let me ask you about your husband a little bit.
+
+34:17.440 --> 34:21.360
+So you write in the book, you write in the book. He's just jumping around. Like I said,
+
+34:21.360 --> 34:26.560
+I'm a bit of a romantic. So how did you meet your husband? So I met my husband when I was 19 years
+
+34:26.560 --> 34:34.800
+old. So I was a young kid. And I met him when I had a General Motors scholarship. So I was
+
+34:34.800 --> 34:39.360
+at Northwestern University through my first two years, had a lot of loans, financial aid.
+
+34:40.080 --> 34:45.600
+And a professor said, hey, you should sign up for this interview. They're looking to bring forward
+
+34:45.600 --> 34:50.240
+diverse candidates through their management track. Now these programs don't exist anymore like that.
+
+34:50.240 --> 34:55.200
+They will pay your tuition, your room and board, your expenses. Northwestern, other Ivy League
+
+34:55.680 --> 35:02.000
+very expensive schools. And I think you'd be a good fit. I am eternally thankful for that advice.
+
+35:02.000 --> 35:06.080
+I went in, I interviewed, I actually got the scholarship. I mean, without it, I'd have
+
+35:06.080 --> 35:11.600
+graduated with hundreds of thousands of dollars of debt. So part of that was in the summer,
+
+35:11.600 --> 35:16.720
+I had to work in Detroit. I lived in a little room by a cement plant. Not theirs, but I mean,
+
+35:16.720 --> 35:21.040
+that's all I could afford. Very romantic. Very, very romantic. And the person who owned the house
+
+35:21.040 --> 35:24.800
+said, you know, hey, I'm having a party. You're not invited. I'm going to fix you up with someone
+
+35:24.800 --> 35:31.360
+tonight. And that turned out to be my husband. And so it was a blind date is, is how we very
+
+35:31.360 --> 35:37.120
+first met. And then it was over. It was, the story was written. Yep. Let's, if it's okay,
+
+35:37.120 --> 35:42.800
+just zoom out to, you mentioned power and good power a few times. So if we can just even talk
+
+35:42.800 --> 35:47.520
+about it. Your book is called Good Power, Leading Positive Change in Our Lives, Work and World.
+
+35:48.480 --> 35:54.320
+What is good power? What's the essence of good power? So the essence of it would be doing
+
+35:54.320 --> 36:01.600
+something hard or meaningful, but in a positive way. I would also tell you, I hope one day
+
+36:02.720 --> 36:07.840
+I'm remembered for how I did things, not just for what I did. I think that could almost be
+
+36:07.840 --> 36:11.680
+more important. And I think it's a choice we can all make. So the essence to me of good power,
+
+36:11.680 --> 36:19.120
+if I had a contrast, good to bad, let's say, would be that first off, you have to embrace
+
+36:19.200 --> 36:25.600
+and navigate tension. This is the world we live in. And by embracing tension, not running from it,
+
+36:26.240 --> 36:30.640
+you would bridge divides that unites people, not divides them. It's a hard thing to do,
+
+36:30.640 --> 36:35.680
+but you can do it. You do it with respect, which is the opposite of fear. A lot of people think
+
+36:35.680 --> 36:40.960
+the way to get things done is fear. And then the third thing would be, you got to celebrate some
+
+36:40.960 --> 36:46.880
+progress versus perfection. Because I also think that's what stops a lot of things from happening,
+
+36:46.880 --> 36:53.040
+because if you go for whatever your definition of perfect is, it's either polarization or
+
+36:53.040 --> 36:59.280
+parallelization. I mean, something happens in there. Versus, no, no, no. Don't worry about
+
+36:59.280 --> 37:04.800
+getting to that actual exact endpoint. If I keep taking a step forward, a progress, really tough
+
+37:04.800 --> 37:11.360
+stuff can get done. And so my view of that is like, honestly, I hope it can, I said it's like a
+
+37:11.360 --> 37:16.320
+memoir with purpose. I'm only doing it. It was a really hard thing for me to do because I don't
+
+37:16.320 --> 37:21.440
+actually talk about all these things. And I had to, nobody cares about your scientific description
+
+37:21.440 --> 37:26.160
+of this. They want the stories in your life to bring it alive. So it's a memoir with purpose.
+
+37:26.160 --> 37:31.760
+And in the writing of it, it became the power of me, the power of we, and the power of us. The idea
+
+37:31.760 --> 37:38.240
+that you build a foundation when you're young, mostly from my work life, the power of we, which
+
+37:38.240 --> 37:46.080
+says, I kind of, in retrospect, could see five principles on how to really drive change that
+
+37:46.560 --> 37:52.160
+be done in a good way. And then eventually you could scale that, the power really of us,
+
+37:52.160 --> 37:56.720
+which is what I'm doing about finding better jobs for more people now that I co-chair an
+
+37:56.720 --> 38:04.640
+organization called 110. So that essence of navigate tensions, do it respectfully,
+
+38:04.640 --> 38:12.880
+celebrate progress, and indulge me one more minute, these sort of, again, it's retrospect
+
+38:12.880 --> 38:17.120
+that I didn't know this in the moment. I had to learn it. I learned it. I am blessed by a lot
+
+38:17.120 --> 38:24.640
+of people I worked with and around. But some of the principles, like the first one says,
+
+38:26.080 --> 38:31.280
+if you're going to do something, change something, do something, you got to be in service of
+
+38:31.280 --> 38:38.720
+something. Being in service of is really different than serving. Super different. And like I just
+
+38:38.720 --> 38:44.240
+had my knee replaced. And I interviewed all these doctors. You can tell the difference that the guy
+
+38:44.240 --> 38:47.280
+was going to do a surgery, hey, my surgery is fine. I really don't care whether you can walk and do
+
+38:47.280 --> 38:50.400
+the stuff you wanted to do again, but because my surgery is fine. Your hardware is good.
+
+38:51.440 --> 38:55.760
+I actually had some trouble. And I had a doctor who was like, you know, this doesn't sound right.
+
+38:55.760 --> 39:02.400
+I'm coming to you. The surgery was fine. It was me that was reacting wrong to it. And he didn't care
+
+39:02.400 --> 39:07.040
+until I could walk again. Okay, there's a big difference in those two things. And it's true in
+
+39:07.040 --> 39:13.120
+any business you have. A waiter serves your food. Okay, he serves his food. He did his job. Or did
+
+39:13.120 --> 39:18.000
+he care? He had a good time. So that thought to be in service of, it took me a while to get that,
+
+39:18.000 --> 39:21.680
+like to try to write it, to get that across, because I think it's like so fundamental.
+
+39:22.640 --> 39:28.720
+If people were really in service of something, you got to believe that if I fulfill your needs
+
+39:28.720 --> 39:35.200
+at the end of the day, mine will be fulfilled. And that is that essence that makes it so different.
+
+39:35.760 --> 39:40.560
+And then the second part, second principle is about building belief, which is I got to hope you'll
+
+39:40.560 --> 39:45.120
+voluntarily believe in a new future or some alternate reality. And you will use your
+
+39:45.120 --> 39:51.120
+discretionary energy versus me ordering you. You'll get so much more done. Then the third change
+
+39:51.120 --> 39:57.280
+in Endure. We kind of talked about that earlier. Focus more on the how and the skills. And then the
+
+39:57.280 --> 40:05.440
+part on good tech and being resilient. So anyways, I just felt that like good tech, everybody's a tech
+
+40:05.440 --> 40:09.920
+company. I don't care what you do today. And there's some fundamental things you got to do.
+
+40:09.920 --> 40:17.360
+In fact, pick up today's any newspaper, right? Chat, GPT, you're an AI guy. All right. I believe
+
+40:17.360 --> 40:22.000
+one of the tenets of good tech is it's like responsibility for the long term. It says,
+
+40:22.000 --> 40:25.600
+so if you're going to invent something, you better look at its upside and its downside.
+
+40:25.600 --> 40:30.720
+Like we did quantum computing. Great. A lot of great stuff, right? Materials development,
+
+40:31.440 --> 40:37.280
+risk management calculations, endless lists one day. On the other side, it can break encryption.
+
+40:37.280 --> 40:43.040
+That's a bad thing. So we worked equally hard on all the algorithms that would sustain quantum.
+
+40:43.840 --> 40:50.880
+I think with chat, okay, great. There's people working on it, but like, okay,
+
+40:50.880 --> 40:56.240
+the things that say, hey, I can tell this was written with that, right? Because the implications
+
+40:56.240 --> 41:00.160
+on how people learn, right? If this is not a great thing, if all it does is do your homework,
+
+41:00.160 --> 41:04.720
+that is not the idea of homework as someone who liked to study so hard. But anyways,
+
+41:04.720 --> 41:06.960
+you get my point. It's just the upside and the downside.
+
+41:06.960 --> 41:10.640
+And that there could be much larger implications that are much more difficult to predict than
+
+41:10.640 --> 41:14.640
+it's our responsibility to really work hard to figure that out.
+
+41:14.640 --> 41:18.320
+I was talking AI ethics a decade ago and I'm like, why won't anybody listen to us?
+
+41:20.480 --> 41:24.400
+That's another one of those values things that you realize, hey, if I'm going to bring technology
+
+41:24.400 --> 41:30.080
+in the world, I better bring it safely. And that to me comes with when you're an older company
+
+41:30.080 --> 41:34.960
+that's been around, you realize that society gave you a licensed outbreak and it can take it away.
+
+41:35.440 --> 41:40.960
+And we see that happen to companies and therefore you're like, okay, like why I feel so strong
+
+41:40.960 --> 41:44.640
+about skills. Hey, if I'm going to bring in, it's going to create all these new jobs,
+
+41:44.640 --> 41:48.720
+job dislocation, then I should help. I'm trying to help people get new skills.
+
+41:48.720 --> 41:54.880
+Anyways, that's a long answer to a good tech, but the idea that there's kind of in retrospect,
+
+41:54.880 --> 42:00.800
+a set of principles you could look at and maybe learn something from my sort of rocky road through
+
+42:00.800 --> 42:06.800
+there. But it started with the power of we, and there's that big leap I think that propagates
+
+42:06.800 --> 42:10.800
+through the things you're saying, which is the leap from focusing on yourself to the focusing
+
+42:10.800 --> 42:16.080
+on others. So that having that empathy, you've said at some point in our lives and careers,
+
+42:16.080 --> 42:21.120
+our attention turns from ourselves to others. We still have our own goals, but we recognize
+
+42:21.120 --> 42:26.960
+that our actions affect many, that it is impossible to achieve anything truly meaningful alone.
+
+42:26.960 --> 42:34.480
+So it's, to you, I think maybe you can correct me, but ultimate good power is about collaboration.
+
+42:35.360 --> 42:42.240
+And maybe in a large company, it's like delegation on great teams.
+
+42:42.240 --> 42:45.520
+The ultimate good power is actually doing something for society. That would be my
+
+42:45.520 --> 42:48.080
+ultimate definition of good power by the way. So it's about the results of the thing.
+
+42:48.080 --> 42:52.400
+Yeah. But how it's done, right? The how it's done. And so,
+
+42:53.120 --> 42:58.960
+um, you know, when you said a leap, do you think people make a leap when they go from thinking
+
+42:58.960 --> 43:02.880
+about themselves to others? Do you think it's a leap or do you think it kind of just is a sort of
+
+43:02.880 --> 43:11.040
+slow point? I think the leap is in deciding that this is a, it's like deciding that you will
+
+43:11.920 --> 43:16.400
+care about others, that this is, it's like, it's like a leap of going to the gym for the first time.
+
+43:16.400 --> 43:20.800
+It's yes, it takes a long time to develop that and to actually care. But the decision that I'm
+
+43:20.800 --> 43:25.760
+going to actually care about other human beings. Yeah. Yeah. I think, or at least like, yeah,
+
+43:25.760 --> 43:30.160
+it just feels like a deliberate action you take of empathy. Yeah. Cause sometimes I think it
+
+43:30.160 --> 43:34.560
+happens a little, it's maybe not as deliberate. Yeah. It's a little bit more gradual because
+
+43:34.560 --> 43:38.640
+it might happen because you realize that, geez, I can't get this done alone. So I gotta have other
+
+43:38.640 --> 43:43.520
+people with me, but how do I get them to help me do something? So I think it does help happen a
+
+43:43.520 --> 43:48.400
+little bit more gradually. And as you get more confident, you start to not think so much that
+
+43:48.400 --> 43:52.720
+it's about you and you start to think about this other thing you're trying to accomplish.
+
+43:52.720 --> 43:58.960
+And so that's why I felt it was a little more gradual. I also felt like I can remember so well,
+
+44:00.160 --> 44:07.520
+you know, this idea that, again, now we're in the eighties, nineties, I'm a woman,
+
+44:07.520 --> 44:14.960
+I'm in technology and I was down in Australia at a conference and I gave this great speech,
+
+44:14.960 --> 44:18.480
+again, meet power, you know, I'm thinking I give this great speech, financial services,
+
+44:18.480 --> 44:21.920
+this guy walks, man walks up to me after I think he's going to like ask me some great question.
+
+44:22.560 --> 44:27.600
+And he said to me, I wish my daughter could have been here. And in that moment,
+
+44:29.440 --> 44:33.520
+and I, and at that point up to then I'd always been about, look, please don't notice I'm a woman,
+
+44:33.520 --> 44:39.120
+do not notice that I am, I just want to be recognized for my work, but crossing over from
+
+44:39.120 --> 44:46.080
+me to we like it or not, I was a role model for some number of people. And maybe I didn't want
+
+44:46.080 --> 44:51.040
+to be, but that didn't really matter. So I could either accept that and embrace it or not. I think
+
+44:51.040 --> 44:54.880
+it's a good example of that transition. I did have a little epiphany with that happening.
+
+44:55.440 --> 44:59.200
+And then I'm like, okay, because I would always be like, no, I won't go on a women's conference.
+
+44:59.200 --> 45:04.320
+I won't talk here. I won't, you know, no, no, no. But then I sort of realized, wait a second,
+
+45:04.320 --> 45:09.920
+you know, that old saying, you cannot be what you cannot see. And I said to myself,
+
+45:09.920 --> 45:14.560
+what? Oh, wait a second. Okay. I am in these positions. I have a responsibility to,
+
+45:15.200 --> 45:20.400
+and it's to others. And that's what I meant. I felt like it can be somewhat gradual that you come
+
+45:20.400 --> 45:25.280
+and you may have these like pivotal moments that you see it, but then you feel it and you sort of
+
+45:25.280 --> 45:31.760
+move over that transom into the power of we, you're one of the most powerful tech leaders ever.
+
+45:32.720 --> 45:36.960
+And as you mentioned the word power, you know, the old saying goes, power corrupts and absolute
+
+45:36.960 --> 45:49.120
+power corrupts. Absolutely. Was there an aspect of power that was that you had to resist its ability
+
+45:49.120 --> 45:55.200
+to corrupt your mind, to sort of delude you into thinking you're smarter than you are, that kind
+
+45:55.200 --> 45:59.200
+of all the ways. That's very dangerous. I agree with that. I mean, I think you got to be careful
+
+45:59.360 --> 46:03.680
+who you surround yourself with. That's how I would answer that question. Right. And people who will
+
+46:03.680 --> 46:07.360
+hold the mirror up to you can be done in a very positive way, by the way, it doesn't mean, you
+
+46:07.360 --> 46:12.800
+know, but that we're sycophants, you cannot have that. Right. I mean, it's like, I would say to
+
+46:12.800 --> 46:17.200
+someone like, Hey, listen to me, tell me, I mean, tell me what would make me better or do something.
+
+46:17.200 --> 46:21.920
+Or I have a husband that'll do that for me quite easily, by the way. He'll always tell me.
+
+46:21.920 --> 46:26.400
+He's the one that kind of, he, I have, I have been surrounded myself with a number of people that
+
+46:26.400 --> 46:31.040
+will do that. And I think you have to have that. I had a woman that worked with me for a very long
+
+46:31.040 --> 46:36.240
+time. And at one time we were competitors. And then at some point she started to work for me
+
+46:36.240 --> 46:39.920
+and stayed with me for credit. And she was one of the few people that would tell me the truth.
+
+46:39.920 --> 46:45.200
+And, you know, sometimes I'm like enough already. And, and she'd be like, do not roll your eyes at
+
+46:45.200 --> 46:51.040
+this. And you absolutely have got to have that. And I think it also comes, it'll go back to my
+
+46:51.040 --> 46:56.000
+complete commitment to inclusion and diversity, because you got to have that variety around you.
+
+46:56.000 --> 47:00.880
+You'll get a better product and a better answer at the end of the day. And so that, to resist that
+
+47:00.880 --> 47:05.440
+allure, I think it's around who, about who you surround yourself with. I guess current politics
+
+47:05.440 --> 47:10.640
+would say that too. So you, you write about, and in general you value diversity a lot. So
+
+47:11.520 --> 47:14.800
+can you speak to almost like philosophically, what does diversity mean to you?
+
+47:15.680 --> 47:22.960
+Diversity to me means I'm going to get a better product, a better answer. I value different views
+
+47:23.600 --> 47:29.280
+and so it's inclusion. So I always say inclusion, diversity is a number, inclusion is a choice.
+
+47:30.560 --> 47:36.480
+And you can make that choice every single day. That's a good line. I really believe, and I've
+
+47:36.480 --> 47:40.800
+witnessed it, that I've had, when my teams are diverse, I get a better answer. My friends are
+
+47:40.800 --> 47:47.120
+diverse. I have a better life. I mean, all these kinds of things. And so I also believe it's like
+
+47:47.120 --> 47:51.280
+no silver thread. There's no easy way. You have to authentically believe it. I mean, do you
+
+47:51.280 --> 47:57.520
+authentically believe that diversity is a good thing? Yeah. But I believe that diversity,
+
+47:57.520 --> 47:59.920
+like broadly- A thought, I very broadly define it.
+
+47:59.920 --> 48:05.680
+Yeah. So like there's, you know, sometimes the way diversity is looked at, the way diversity is used
+
+48:05.680 --> 48:10.720
+today is like surface level characteristics, which are also important, but they're usually reflective
+
+48:10.720 --> 48:14.960
+of something else, which is a diversity of background, a diversity of thought, a diversity
+
+48:14.960 --> 48:22.000
+of struggle. Some people that grow up middle-class versus poor, different countries,
+
+48:22.000 --> 48:26.560
+different motivations, all of that. Yeah. It's beautiful when different people from very different
+
+48:26.560 --> 48:31.440
+walks of life get together. Yeah. It's beautiful to see. But like sometimes it's very difficult to get
+
+48:32.480 --> 48:37.040
+at that on a sheet of paper of the characteristics that defines the diversity.
+
+48:37.040 --> 48:41.040
+I know. So it is. It's just like, oh, I can't hire exactly for, or if I'm trying to.
+
+48:42.000 --> 48:46.560
+And, but I do know one thing that when people say, well, I can't find these kinds of people I'm
+
+48:46.560 --> 48:49.600
+looking for. I'm like, you're just not looking in the right places. You have to open up. You
+
+48:49.600 --> 48:54.240
+got to really open up new pools. Yeah. You have to think like everybody, you don't have to have a
+
+48:54.240 --> 48:59.120
+PhD just like you said. Yeah. I'm sorry to say it. I know it's very valuable, but you have, trust me.
+
+49:00.480 --> 49:08.160
+Just like you said, it could even be a negative. So you mentioned like for good power, you are a CEO,
+
+49:08.960 --> 49:13.760
+for a long time of a public company. Were there times when there was pressure to sacrifice
+
+49:15.040 --> 49:21.040
+what is good for the world for the bottom line in order to do what's good for the company?
+
+49:21.040 --> 49:25.680
+There were a lot of times for that. I mean, I think every company faces that today in that
+
+49:27.200 --> 49:30.560
+I always felt like there's so much discussion about stakeholder capitalism, right?
+
+49:30.560 --> 49:35.440
+Do you just serve a shareholder or do you have multiple? I have always found, and I've been very
+
+49:35.440 --> 49:40.480
+vocal about that topic, that when I participated in the Business Roundtable, wrote up a new purpose
+
+49:40.480 --> 49:45.200
+statement that had multiple stakeholders. I think it's common sense. Like if you're going to be 100
+
+49:45.200 --> 49:50.000
+years old, you only get there because you actually do at some time balance all these different
+
+49:50.000 --> 49:54.320
+stakeholders in what it is that you do and short term, long term, all these trade-offs.
+
+49:54.960 --> 49:58.960
+And I always say people who write about it, they write about it black and white, but I have to live
+
+49:58.960 --> 50:03.520
+in a gray world. Nothing I've ever done has been in a black and white world, hardly. Maybe things
+
+50:03.520 --> 50:09.920
+of values that I had to answer, but most of it is gray. And so I think back lots of different
+
+50:09.920 --> 50:16.400
+decisions. I think back, as you would well remember, you're a student of history. IBM was one of the,
+
+50:16.400 --> 50:20.720
+really the originators of the semiconductor industry and certainly of commercializing the
+
+50:20.720 --> 50:28.640
+semiconductor industry. Great R&D and manufacturing, but it is a game of volume. And so when I came on,
+
+50:29.200 --> 50:35.440
+we were still manufacturing R&D and manufacturing our own chips. We were losing a lot of money,
+
+50:35.440 --> 50:41.200
+yet here we had to fight a war on cloud and AI. And so, okay, now shareholders would say,
+
+50:41.200 --> 50:46.320
+fine, shut it down. Okay, those chips also power some of the most important systems that power
+
+50:46.320 --> 50:52.480
+these, the banks of today. If I just shut it down, well, what would that do? And so, okay,
+
+50:52.480 --> 50:57.200
+the answer wasn't just stop it. The answer wasn't just keep putting money into it.
+
+50:57.760 --> 51:02.080
+The answer wasn't, we had to kind of sit in an uncomfortable spot till we found a way. I mean,
+
+51:02.080 --> 51:08.080
+it's going to sound so basic, but you as an engineer understand it. We had to separate,
+
+51:08.080 --> 51:11.840
+it was a very integrated process of research, development and manufacturing. And you'd also,
+
+51:11.840 --> 51:16.640
+you'd be perfecting things in manufacturing. And these were very high performance chips.
+
+51:17.760 --> 51:21.520
+We had to be able to separate those. We eventually found a way to do that so that we could
+
+51:22.480 --> 51:28.080
+take the manufacturing elsewhere and we would maintain the R&D. I think it's a great example
+
+51:28.080 --> 51:33.520
+of the question you just asked because people would have applauded, others would have been,
+
+51:33.520 --> 51:38.400
+this was horrible. Or we had a financial roadmap that had been put in place that said,
+
+51:38.400 --> 51:43.840
+I'll make this amount of EPS by this date. There came a time we couldn't honor it because we had
+
+51:43.840 --> 51:49.840
+to invest. And so, there's a million of these decisions. I think most people that run firms,
+
+51:49.920 --> 51:54.640
+any size firm, they're just one right after another like that. And you're always making
+
+51:54.640 --> 52:00.560
+that short and long tension of what am I giving up? Well, what is that partnership like with the
+
+52:00.560 --> 52:09.920
+clients? Because you work with gigantic businesses. And what's it like sort of really forming a great
+
+52:09.920 --> 52:14.320
+relationship with them, understanding what their needs are, being in service of their needs?
+
+52:14.320 --> 52:22.480
+Yeah, very simple. Honor your promises. And that happens over time. I mean, in service of,
+
+52:23.280 --> 52:27.360
+which is often why you could work with competitors because if you are really in service of you and
+
+52:27.360 --> 52:32.240
+you need something, it takes two of us to do it, that becomes easier to do because I really,
+
+52:32.240 --> 52:38.880
+we both care, you get what you needed. And so, I can remember during one of the times I was on
+
+52:38.880 --> 52:47.280
+a European trip and at the time, and this is still true about views about technology and national
+
+52:47.280 --> 52:52.160
+technology giants and global ones and the pros and the cons and countries want their own national
+
+52:52.160 --> 52:57.360
+champions, quite obvious. I mean, if I'm France or Germany, and there was a lot of discussion about
+
+52:57.360 --> 53:02.400
+security and data and who was getting access to what. And I can remember being in one of the,
+
+53:02.400 --> 53:07.520
+I was with Chancellor Merkel, had met her many times. She's very well prepared, very well prepared
+
+53:07.520 --> 53:12.720
+every time, as you would know. And I started to explain all these things about why, how,
+
+53:13.360 --> 53:18.400
+you know, how we don't share data, who it belongs to. Our systems never had backdoors,
+
+53:18.400 --> 53:24.720
+and she sort of stopped me. Like, you're one of the good guys. Like, stop. Now, that wasn't about
+
+53:24.720 --> 53:30.720
+me personally. She's talking about a company that's acted consistent with values for decades, right?
+
+53:30.720 --> 53:37.200
+So, to me, how you work with those big kind of clients is you honor your promises. You say
+
+53:37.200 --> 53:41.200
+what you do, and you do what you say, and you act with values over a long period of time.
+
+53:41.760 --> 53:46.160
+And that, to me, people say we're valued. It is not a fluffy thing. It is not a fluffy thing.
+
+53:49.840 --> 53:53.280
+I mean, if I was starting a company now, I'd spend a lot of time on that.
+
+53:53.280 --> 53:58.960
+On, you know, why we do what we do and why some things are tolerable and something, you know,
+
+53:58.960 --> 54:03.360
+what your fundamental beliefs are. And many people sort of zoom past that stage, right?
+
+54:04.160 --> 54:05.120
+It's okay for a while.
+
+54:05.760 --> 54:06.960
+And never sacrifice that.
+
+54:07.840 --> 54:10.640
+You would never sacrifice that. I don't think you can.
+
+54:10.640 --> 54:16.320
+So, there was a lot of pressure when you took over as CEO, and there was 22 consecutive quarters
+
+54:16.320 --> 54:22.080
+of revenue decline between 2012 and the summer of 2017. So, it was a stressful time. Maybe not.
+
+54:22.080 --> 54:28.560
+Maybe you can correct me on that. So, as a CEO, what was it like going through that time,
+
+54:28.640 --> 54:33.840
+with the decisions, the tensions in terms of investing versus making a profit?
+
+54:35.040 --> 54:41.040
+I always felt that. That sense of urgency was so high, even if I was calm on the outside,
+
+54:41.040 --> 54:46.880
+because you have one of the world's largest pensions. So, so many people depend on you.
+
+54:46.880 --> 54:50.720
+You have a huge workforce. They're depending on you. You have clients whose businesses don't run
+
+54:50.720 --> 55:00.080
+if you don't perform, etc. And shareholders, of course, right? But I also am really clear,
+
+55:00.080 --> 55:05.280
+this was perhaps the largest reinvention IBM ever had to undertake. It had a board that understood
+
+55:05.280 --> 55:10.880
+that. In fact, some of the headlines were like, this is existential, right? I mean, nobody gives
+
+55:10.880 --> 55:15.600
+you a right to exist forever. And there aren't many techs. You're the student of it. They are
+
+55:15.600 --> 55:21.760
+gone. They are all gone. And so, if we didn't reinvent ourselves, we were going to be extinct.
+
+55:21.760 --> 55:27.600
+And so, now, but you're big, and it's like changing, what's that old saying? Can I change
+
+55:28.720 --> 55:32.240
+the wheels while the train's running or something like that, or the engines while the plane's flying?
+
+55:32.960 --> 55:37.680
+And that's what you have to do. And that took time. And so, you know, Lex, do I wish it would
+
+55:37.680 --> 55:43.760
+have been faster? Absolutely. But the team worked so hard. And in that time frame,
+
+55:44.480 --> 55:53.200
+50% of the portfolio was changed. It's a very large company. And if you would also divest it,
+
+55:53.200 --> 55:57.680
+$10 billion of businesses. So, if you would look at that growth rate without divestitures and
+
+55:57.680 --> 56:02.080
+currency, which now today everyone talks about currency. Back then, we were the only international
+
+56:02.080 --> 56:10.000
+guy. Net of divestitures and currency, the growth was flat. Is flat great? No. But flat for a big
+
+56:10.000 --> 56:14.480
+transformation, I was really proud of the team for what they did. That is actually pretty
+
+56:14.480 --> 56:19.440
+miraculous to have made it through that. I had my little nephew one day and he would see on TV
+
+56:19.440 --> 56:24.640
+occasionally when there'd be criticism. And he'd say, you know, Auntie, does that make you mad when
+
+56:24.640 --> 56:29.440
+they talk mean? And I just looked at him and I said, you know, he says, how do you feel? I said,
+
+56:29.440 --> 56:36.080
+look, I'm doing what has to be done. And I happened to be the one there. And if you have great
+
+56:36.080 --> 56:42.560
+conviction, and I did, a great conviction, I knew it was the right thing. I knew it would be needed
+
+56:42.560 --> 56:47.840
+for IBM to live its second century. And so, and my successor, they have picked up, gone forward. I
+
+56:47.840 --> 56:52.640
+mean, you go back, we did the acquisition of Red Hat. I mean, we had to find our way on cloud,
+
+56:52.640 --> 56:57.840
+right? We were late to it. So, we had to find our way. And eventually that led us to hybrid cloud.
+
+56:58.880 --> 57:03.440
+We did a lot of work with Red Hat back in 2017. Oh, we'd always done a lot of work with them.
+
+57:03.440 --> 57:09.360
+Actually, we were one of the first investors when they were first formed. But that was 2018.
+
+57:09.360 --> 57:12.960
+You know, we took quite a hit for even, you know, oh, it was the largest to then
+
+57:12.960 --> 57:18.400
+software acquisition ever. But it is the foundation, right, of what is our hybrid
+
+57:18.400 --> 57:23.760
+cloud play today and doing very, very well. So, but I had to take a short term hit for that,
+
+57:23.760 --> 57:28.960
+right? Short term hit for a very large $34 billion acquisition. But it was for all of us,
+
+57:28.960 --> 57:32.880
+it was the right thing to do. So, I think when you get really centered on, you know,
+
+57:32.880 --> 57:36.880
+what's the right thing to do, you just keep going, right? So, the team had the vision,
+
+57:36.880 --> 57:40.000
+they had the belief and everything else, the criticism doesn't matter. So, don't,
+
+57:40.000 --> 57:45.120
+we didn't always have exactly the right, you know, this wasn't a straight arrow, but stay down,
+
+57:45.120 --> 57:48.880
+you know, you're right, keep going. Okay, made a mistake. You know, there's no bad mistake as long
+
+57:48.880 --> 57:53.600
+as you learn from it, right? And keep moving. So, yes, did it take longer, but we are the largest
+
+57:53.600 --> 57:58.080
+that was there. Could you maybe just on a small tangent, educate me a little bit? So,
+
+57:58.160 --> 58:02.720
+Red Hat originally is Linux, open source distribution of Linux, but it's also consulting.
+
+58:04.240 --> 58:08.000
+Little bit of consulting, but it's mostly software district. It's mostly Linux. It was mostly
+
+58:08.000 --> 58:14.480
+software. Yeah, absolutely. Absolutely. So, but today, IBM is very much this, you know,
+
+58:14.480 --> 58:22.560
+most IT services in the world is done by IBM. There's so many varied, so basically if you have
+
+58:22.560 --> 58:29.040
+issues, problems to solve in business, in the software space, IBM can help.
+
+58:29.040 --> 58:35.600
+Yes. And so in that, my last year, our services business, we broke it into two pieces and one
+
+58:35.600 --> 58:41.120
+piece was spun off into a company called Kindle, which is managed outsourcing, keeping things
+
+58:41.120 --> 58:46.480
+running and they're off creating their own company. What IBM then retained is really the part I built
+
+58:46.480 --> 58:53.760
+with PWCC, the big consulting arm. And so today, the IBM of today in 2023 is, you know, at least
+
+58:53.760 --> 59:01.360
+ending 2022 was 30% consulting and the other 70% would be what would you consider software cloud AI.
+
+59:01.360 --> 59:06.000
+So hybrid cloud and AI is the other and some hardware, obviously still the mainframe is
+
+59:06.000 --> 59:12.480
+modernized, alive and kicking and still running some of the most important things of every bank
+
+59:12.480 --> 59:21.200
+you can think of practically in the world. And so that is the IBM of today versus perhaps,
+
+59:21.200 --> 59:25.920
+you know, and Red Hat is a big piece and an important part of that software portfolio.
+
+59:25.920 --> 59:29.840
+And they had some services with them for implementation, but it wasn't a very large
+
+59:29.840 --> 59:35.760
+part. And it's grown by leaps and bounds, you know, because originally the belief was everything was
+
+59:35.760 --> 59:42.000
+going to go to the public cloud. And at least many people thought that way. We didn't.
+
+59:42.560 --> 59:47.840
+In fact, we tried, we cured a public cloud company, we really tried to work it. But what we found was
+
+59:47.840 --> 59:52.960
+a lot of the mission critical work, it was tuned for consumer world, it wasn't tuned for the
+
+59:52.960 --> 01:00:00.880
+enterprise. So then time is elapsing here though, and you got to be of scale. And we didn't have any
+
+01:00:00.880 --> 01:00:05.840
+application, remember, we're not an application company. So it wasn't like we had an office,
+
+01:00:05.840 --> 01:00:10.960
+we didn't have anything that like pulled things out to the cloud. And so as we look for what our
+
+01:00:10.960 --> 01:00:15.680
+best, what we really back to who you are, we really know mission critical work, we know where
+
+01:00:15.680 --> 01:00:20.480
+it lives today, and we know how to make it live on the cloud, which led us down hybrid cloud,
+
+01:00:20.480 --> 01:00:25.440
+you know, that belief that the real world would turn into, there'll be things on traditional that
+
+01:00:25.440 --> 01:00:30.400
+you'll never move because it doesn't make sense. There'll be private clouds for, you know, have
+
+01:00:30.400 --> 01:00:34.480
+all the benefit of the cloud, but they just don't have, you know, infinite expansion. And then
+
+01:00:34.480 --> 01:00:38.560
+there'll be public clouds, and you're going to have to connect them and be secure. And that's
+
+01:00:38.560 --> 01:00:42.560
+what took us down the path with Red Hat, that belief. The structure of that is fundamentally
+
+01:00:42.560 --> 01:00:46.960
+different than something that's consumer facing. So the lesson you learn there is you can't just
+
+01:00:46.960 --> 01:00:51.120
+reuse something that's optimized for consumers. Very interesting point. It doesn't mean consumer
+
+01:00:51.120 --> 01:00:55.200
+companies can't move up in the enterprise because obviously they have, right? But I think it's very
+
+01:00:55.200 --> 01:00:59.680
+hard to take something from the enterprise and come on down. Because it got to be simple,
+
+01:00:59.680 --> 01:01:03.520
+consumable, all the things we talked about already. Plus you have to have the relationships with
+
+01:01:03.520 --> 01:01:07.040
+the enterprise. Yeah, very different. Yeah. I mean, you know our history, right? At one time,
+
+01:01:07.040 --> 01:01:12.560
+we had the PC business. And, you know, the short answer to why would we not do that is
+
+01:01:12.560 --> 01:01:16.400
+it's a consumer facing business. We were good at the enterprise. And that consumer business,
+
+01:01:16.400 --> 01:01:21.760
+A, highly competitive, got to be low cost. All the things that are not the same muscles,
+
+01:01:21.760 --> 01:01:28.000
+necessarily, of being in an innovation driven, you know, technology business.
+
+01:01:28.000 --> 01:01:30.880
+Yeah. But what is now Lenovo? I guess that's what's just been told.
+
+01:01:30.880 --> 01:01:31.520
+That's right. Lenovo acquired it.
+
+01:01:31.600 --> 01:01:37.360
+You're extremely good at that. So, but not as good as you're saying as an enterprise.
+
+01:01:38.480 --> 01:01:43.200
+Lenovo's very good at their PC world, yes. And they can sell into the enterprise, right?
+
+01:01:43.200 --> 01:01:48.240
+But you as a consumer can go buy a Lenovo too. So look in China, right? Look in other places. So
+
+01:01:49.040 --> 01:01:52.560
+that's what I mean by consumer, you know, an end device. And that was a big decision because it
+
+01:01:52.560 --> 01:01:56.480
+would have been one of the last things that had our logo on it that sits in your hands, right? So
+
+01:01:56.480 --> 01:02:00.560
+when a new generation says, well, what does IBM do, right? Was that a difficult decision?
+
+01:02:00.560 --> 01:02:04.240
+Do you remember? This is a long time ago now. It's like 2005.
+
+01:02:04.240 --> 01:02:11.760
+So they're all difficult because it's not only things as people, but it's back to knowing who
+
+01:02:11.760 --> 01:02:18.240
+you are is how I would sum that up as, right? And we were never great at making a lot of money at
+
+01:02:18.240 --> 01:02:22.960
+that. And you can remember, originally it was IBM PC, then there were IBM clones. They weren't
+
+01:02:22.960 --> 01:02:28.960
+called IBM clones back then as the field became highly, highly competitive. And as things
+
+01:02:28.960 --> 01:02:34.880
+commoditized, we often, as they commoditize, we would move them out and move on to the next
+
+01:02:34.880 --> 01:02:41.200
+innovation level. But because of that, it's not as public facing, even though it's one of the most
+
+01:02:41.200 --> 01:02:47.200
+recognizable logos ever. Yeah. Isn't it true? That is very true. That is actually a very important
+
+01:02:47.200 --> 01:02:53.040
+point. And that is, you know, branding, as you say, one of the most recognizable in a very highly
+
+01:02:53.040 --> 01:02:59.760
+ranked brand strength around the world. And so that's a trade-off. I mean, I can't, you know,
+
+01:03:00.560 --> 01:03:05.120
+because there was a time you'd have something of IBM in your home or a cash register. As an
+
+01:03:05.120 --> 01:03:09.520
+example, you'd walk into a store. Actually, they're still in places that went to Toshiba.
+
+01:03:10.400 --> 01:03:15.600
+Can you speak to consulting a little bit? What does that entail to train up to hire a workforce
+
+01:03:15.600 --> 01:03:20.640
+that can be of service to all kinds of different problems in the software space, in the tech space?
+
+01:03:21.200 --> 01:03:26.240
+What's entailed in that? I mean, you have to value a different set of things, right? And so
+
+01:03:27.360 --> 01:03:32.240
+you've got to always stay ahead. It's about hiring people who are willing to learn. It is about,
+
+01:03:33.440 --> 01:03:39.760
+at the same time, in my view, it's what really drives you to be customer centric.
+
+01:03:39.760 --> 01:03:48.080
+Maybe you can educate me. I think consulting is a kind of, you roll in and you try to solve problems
+
+01:03:48.080 --> 01:03:53.680
+that businesses have, like with expertise, right? Okay. Is that the process of consulting?
+
+01:03:53.680 --> 01:03:57.600
+Somewhat, right? Okay, so fair enough. When you say that we're consulting,
+
+01:03:57.600 --> 01:04:01.760
+it's a really broad spectrum. I mean, I think people could be sitting here thinking it does any,
+
+01:04:01.760 --> 01:04:07.120
+it could be, I just give advice and I leave, to all the way to I run your systems, right? And I
+
+01:04:07.120 --> 01:04:14.320
+think it's generally, people use the word to cover everything in that space. So we sort of fit in the
+
+01:04:14.320 --> 01:04:19.040
+spot, which is we would come in and live at that intersection of business and technology. So yeah,
+
+01:04:19.040 --> 01:04:22.240
+we could give you recommendations and then we'd implement them and see them through because we
+
+01:04:22.240 --> 01:04:26.560
+had the technology to go to the implementation and see them through. And at the time back then,
+
+01:04:26.560 --> 01:04:31.360
+that's what, there'd been five of those that had failed. The companies had bought other consulting
+
+01:04:31.360 --> 01:04:37.120
+firms. And so we were, okay, that was the great thing about, I mean, the harrowing thing about it
+
+01:04:37.120 --> 01:04:41.600
+was here, please go work on this. None of the others have ever succeeded before. And yet,
+
+01:04:41.600 --> 01:04:45.920
+on the other hand, the great promise was you could really, clients were dying at that time
+
+01:04:45.920 --> 01:04:50.240
+when we were doing that to get more value out of their technology and have it really change the
+
+01:04:50.240 --> 01:04:54.960
+way the business worked. So I think of it as how to improve business and apply technology and see it
+
+01:04:54.960 --> 01:04:58.320
+all the way through. That's what we do today still. Yeah. To see it all the way through.
+
+01:04:58.320 --> 01:05:03.680
+Yeah. Yes. So let me say almost like a personal question. So that was a big thing you were a
+
+01:05:03.680 --> 01:05:10.080
+part of that you led in 2002, that you championed and helped, I should say, negotiate the purchase
+
+01:05:10.080 --> 01:05:18.480
+of one day, the consulting arm of PricewaterhouseCoopers for $3.5 billion. So what were some of the
+
+01:05:18.480 --> 01:05:27.280
+challenges of that that you remember? Personal and business. At that time, PW really had to divest.
+
+01:05:27.280 --> 01:05:33.040
+And so they were in parallel going to IPO, right? So we sort of swept in at that point and said,
+
+01:05:33.040 --> 01:05:38.400
+and we'd been thinking about it a long time and started to work on that as an acquisition. So,
+
+01:05:38.480 --> 01:05:43.120
+you know, kind of balancing which way would they go IPO or acquisition? And so the challenges are
+
+01:05:43.120 --> 01:05:47.760
+obvious. And part of it's why they went with us as an acquisition. Big difference to be a private
+
+01:05:47.760 --> 01:05:52.320
+firm than a public firm. Very big. I can remember one of the guys, you know, he asked somebody,
+
+01:05:52.320 --> 01:05:56.720
+how long you've been with IBM? And the person answered 143 quarters. Okay, that's a little
+
+01:05:56.720 --> 01:06:03.440
+enlightening about a business model, right? So we had the challenges of being private versus public.
+
+01:06:03.440 --> 01:06:07.120
+You have the challenge of when you acquire something like that, as I say, you acquire hearts,
+
+01:06:07.120 --> 01:06:12.720
+not parts. They could leave. I mean, you could destroy your value by them leaving.
+
+01:06:12.720 --> 01:06:17.280
+They can walk right out the door. I mean, yes, you can put, you know, lots of restraints, but still
+
+01:06:18.080 --> 01:06:22.880
+that you have there. And then we had to really build a new business model that people and clients
+
+01:06:22.880 --> 01:06:28.400
+would, you know, see as valuable and be willing to pay for. And so we had to do something that
+
+01:06:28.400 --> 01:06:33.600
+lived at that intersection and say that how this was unique is what we were doing. So you had the
+
+01:06:33.600 --> 01:06:38.480
+people aspect, you had that they were going to be private and they had public and they had
+
+01:06:38.480 --> 01:06:44.000
+always been private their whole life. And, and then you had the business model. So in the others,
+
+01:06:44.000 --> 01:06:50.320
+it all failed that had tried to do this. So yeah, it was a, it was, it was a tough thing to do.
+
+01:06:50.320 --> 01:06:55.120
+What about the personal side of that? That was a big leap step up for you. You've been IBM for a
+
+01:06:55.120 --> 01:07:03.520
+long time. This is, this is a big sort of leadership, uh, like very impactful,
+
+01:07:03.520 --> 01:07:07.040
+large scale leadership decisions. What was that like?
+
+01:07:07.760 --> 01:07:12.480
+So, you know, unlike in my career earlier where I said I was changing jobs, I said I wasn't
+
+01:07:12.480 --> 01:07:19.040
+comfortable, et cetera. So now here fast forward 10 years and I'm like, okay, honestly, how I felt
+
+01:07:19.040 --> 01:07:24.400
+inside on one hand, I did what I learned, like inventory, which you know how to do. Like you
+
+01:07:24.400 --> 01:07:29.680
+have some good strengths that could work here. The other part of me said, boy, this is a really
+
+01:07:29.680 --> 01:07:34.800
+high profile. And I felt, and I can remember saying to someone like, this is going to kill me
+
+01:07:35.920 --> 01:07:40.960
+or catapult, probably nothing in between. And that wasn't terrifying to you. That was okay.
+
+01:07:40.960 --> 01:07:46.320
+You're okay with that? I was okay with that because I felt I knew enough, you know, like these things
+
+01:07:46.320 --> 01:07:50.000
+I had, and I'll tell you the one thing I felt I knew the best, um,
+
+01:07:53.120 --> 01:08:00.160
+consultants of any worth their weight, they really do care that they deliver for an end client.
+
+01:08:01.040 --> 01:08:07.680
+And, and I felt I understood service to a client so well that what it meant to really provide value.
+
+01:08:07.680 --> 01:08:13.120
+So I knew we would have like something that I knew the PWC people more than anything wanted
+
+01:08:13.120 --> 01:08:17.840
+to deliver value to those clients they had next to then developing their people that those were
+
+01:08:17.840 --> 01:08:22.640
+like the really two things and that I could, and I also knew they felt they could do better if they
+
+01:08:22.640 --> 01:08:27.440
+had more technology and we did. So, so there really was a reason, you know, that I could really
+
+01:08:27.440 --> 01:08:32.720
+believe in. So I authentically believed back to that point. And I also felt I had built some of
+
+01:08:32.720 --> 01:08:40.080
+those skills to be able to do that. But I want to call it terrifying, but, but make no mistake,
+
+01:08:40.080 --> 01:08:47.040
+like it was very hard and it was, it turned out to be extremely successful. By the time we ended,
+
+01:08:47.040 --> 01:08:52.960
+it was worth 19 and a half, one time I stepped, I ran it for, oh, goodness gracious, quite a long
+
+01:08:52.960 --> 01:08:59.440
+time. I'm going to say seven or eight, nine years and we were 19 and a half billion dollars. It made
+
+01:08:59.440 --> 01:09:05.600
+2.7 billion in profit. It was very consequential to IBM, but the fact that it was consequential
+
+01:09:05.600 --> 01:09:10.560
+is also very, I mean, there was a time as we moved through it, I can even remember it.
+
+01:09:11.840 --> 01:09:16.000
+We just weren't meeting the goals as fast as we should. And some of it was clients were like, oh,
+
+01:09:16.000 --> 01:09:21.360
+now you're IBM. So it means some things I knew would happen, but they happen so much faster.
+
+01:09:21.360 --> 01:09:24.880
+It'd be things like clients would say, oh, IBM cares about a quarter. So let's negotiate every
+
+01:09:24.880 --> 01:09:30.640
+quarter on these prices. And, you know, when they were private, they didn't have these issues. Well,
+
+01:09:30.640 --> 01:09:39.200
+that had an impact on margins really fast. And so you pick them up right away. And I thought, oh,
+
+01:09:39.200 --> 01:09:44.640
+boy, I mean, if I don't get this turned around, this is really a problem. And the team learned a
+
+01:09:44.640 --> 01:09:48.160
+lot of lessons. I mean, I learned people I had to move out, that I learned that when people
+
+01:09:48.800 --> 01:09:54.480
+don't believe they can do something, they probably won't do it. So, you know, we wanted to run the
+
+01:09:54.480 --> 01:09:58.880
+business at a certain level. I really did have some great leaders, but they didn't really believe
+
+01:09:58.880 --> 01:10:01.840
+it could do that. And I finally had to come to terms with, if you don't really believe in
+
+01:10:01.840 --> 01:10:05.920
+something, you really aren't going to probably make it happen at the end of the day. And so
+
+01:10:06.960 --> 01:10:11.360
+we would change that. We would have to actually get some more help to help us on doing so.
+
+01:10:11.360 --> 01:10:16.640
+But then it turned. And I can remember the day that we started really getting the business to hum
+
+01:10:16.640 --> 01:10:22.800
+and start to, it was almost like, finally! And I gave the team this little plaque, this little kind
+
+01:10:22.800 --> 01:10:28.800
+of corny paperweight thing. And I'm going to believe, I remember it was Thomas Edison,
+
+01:10:28.800 --> 01:10:35.440
+and he said, many of life's greatest failures are people who gave up right before they were
+
+01:10:35.440 --> 01:10:42.080
+going to be successful. And it's so true. I mean, there was also a governor of Texas
+
+01:10:42.880 --> 01:10:47.200
+who's passed, but she had said, someone said, what's the secret of your success? And she said,
+
+01:10:47.200 --> 01:10:52.640
+it's passion and perseverance when everyone else would have given up. And I feel that's
+
+01:10:52.640 --> 01:10:57.600
+what that taught me. That taught me like, no, no matter how bad this gets, you are not giving up.
+
+01:10:57.600 --> 01:11:01.280
+And now you can't keep doing the same thing like the, you know, doctor, this hurts. Oh,
+
+01:11:01.280 --> 01:11:06.720
+then stop doing it. You can't keep doing the same thing. We had to keep changing till we found our
+
+01:11:06.720 --> 01:11:13.600
+right way to get the model to work right. And client work, we never, never had an issue and
+
+01:11:13.600 --> 01:11:20.400
+kept so many of the people. And now we are 25 years almost later. And a number of them
+
+01:11:20.400 --> 01:11:26.400
+run parts of the IBM business still today. So it's that old Maya Angelou saying when you say,
+
+01:11:26.400 --> 01:11:30.800
+what do I remember? They'll say, you won't remember the specifics of this, but you'll
+
+01:11:30.800 --> 01:11:34.640
+remember how you felt. And that's kind of how I feel. And I think they do too, the whole team
+
+01:11:34.640 --> 01:11:40.560
+does of that. Like I'll get anniversary notes still on that, you know, when you've been through
+
+01:11:40.560 --> 01:11:45.360
+something like that together with people. So during the acquisition, the way you knew the people,
+
+01:11:46.320 --> 01:11:52.080
+it's the right team are the ones that could believe that this consulting business can grow,
+
+01:11:52.080 --> 01:11:56.320
+can integrate with IBM and all of that. Yeah, I was lucky. Look, I did things that
+
+01:11:56.320 --> 01:12:00.640
+helped that. I mean, I knew that people joining us would feel more comfortable if they had people
+
+01:12:00.640 --> 01:12:06.400
+leading it that they recognized, et cetera. But again, I learned those that didn't then,
+
+01:12:06.400 --> 01:12:11.680
+I eventually had to take, you know, some action out. But PWCC had a lot of really dedicated
+
+01:12:11.680 --> 01:12:17.360
+leaders to it. And I give them a lot of credit. Well, it's amazing to see a thing that kind of
+
+01:12:17.360 --> 01:12:23.840
+start at that very stressful time and then it turns out to be a success. That's just beautiful
+
+01:12:23.840 --> 01:12:28.960
+to see. So what about the acquisition itself? Is there something interesting to say about the,
+
+01:12:28.960 --> 01:12:33.440
+like, what you learned about maybe negotiation? Because there's a lot of money involved too.
+
+01:12:33.440 --> 01:12:39.280
+To me, it was a win-win. And we both actually cared that customers got value. So there was
+
+01:12:39.280 --> 01:12:45.360
+this, like, third thing that had a benefit, not them. There was this third thing. And then next
+
+01:12:45.360 --> 01:12:50.560
+to that- I like how you think that people would have the wisdom of what it takes to have great
+
+01:12:50.560 --> 01:12:54.720
+negotiation. But yeah, so it's a win-win is one of the ways you can have successful negotiation.
+
+01:12:54.720 --> 01:12:58.320
+But it's like obvious to even say that, right? I mean, if you can, back to being in service
+
+01:12:58.320 --> 01:13:04.080
+of something, we were both in service of clients. So in and then, you know, I always say,
+
+01:13:05.040 --> 01:13:09.760
+when you have a negotiation with someone, okay, both parties always kind of walk away a little
+
+01:13:09.760 --> 01:13:14.080
+bit. Okay, that's good. If they both walk away going, yeah, I should have got a little bit more.
+
+01:13:14.080 --> 01:13:19.280
+Okay, but it's okay. Okay, they're both a little fussy. When one walks away and thinks they did
+
+01:13:19.280 --> 01:13:24.240
+great and the other one did horrible, they usually is like born bad. I mean, because they never work
+
+01:13:24.240 --> 01:13:30.720
+that way. And I've always felt that way with negotiations that you push too far down. You
+
+01:13:30.880 --> 01:13:38.000
+will usually be sorry you did that, you know? So don't push too far. I mean, that's ultimately
+
+01:13:38.000 --> 01:13:44.000
+what collaboration and empathy means is you're interested in the long-term success of everybody
+
+01:13:44.000 --> 01:13:47.600
+together versus like your short-term success. And then you get the discretionary energy from
+
+01:13:47.600 --> 01:13:53.760
+them versus like, okay, you screwed me here. I'm done, right? So let's even rewind even back.
+
+01:13:53.760 --> 01:13:59.760
+Oh, no. Oh, no. Do you feel like this is a nostalgia interview? Oh, no.
+
+01:13:59.760 --> 01:14:03.600
+Let me just ask the romantic question. What did you love most about engineering, computer science,
+
+01:14:03.600 --> 01:14:08.320
+electrical engineering, so in those early days from your degree to the early work?
+
+01:14:08.320 --> 01:14:13.760
+I love that logic part of it, right? And you do get a sense of completion at some point when
+
+01:14:13.760 --> 01:14:20.080
+you reach certain milestones that, you know, like, yes, it worked or yes, that finite answer to that.
+
+01:14:20.080 --> 01:14:23.200
+So that's what I loved about it. I loved the problem solving of it.
+
+01:14:23.200 --> 01:14:27.040
+Computing, what led you down that path with computing in general? What made you fall in
+
+01:14:27.040 --> 01:14:32.480
+love with computing, with engineering? It's probably that back to that desire,
+
+01:14:32.480 --> 01:14:36.160
+wanting to know how things work, right? And so that's like a natural thing. You know,
+
+01:14:36.160 --> 01:14:39.760
+math, I loved math for that reason. I always wanted to study how did that, you know,
+
+01:14:39.760 --> 01:14:45.200
+how did it get that to work kind of thing. So it goes back in that time. But I did start,
+
+01:14:45.200 --> 01:14:48.400
+when I went to when I started at Northwestern, I wasn't, I was already in the engineering school,
+
+01:14:48.400 --> 01:14:52.160
+but my first thought was to be a doctor, that that was far more noble, that I should be a medical
+
+01:14:52.160 --> 01:14:57.680
+doctor until I could not pass human reproduction as a course. And I thought the irony that I could
+
+01:14:57.680 --> 01:15:01.840
+not, I'm like, I got all these colored pencils, I got to make these pictures, this is not working
+
+01:15:01.840 --> 01:15:05.600
+out for me. I'm going to stick to math. It was the only course in my four-year college
+
+01:15:05.600 --> 01:15:10.160
+education I had to take pass fail, because otherwise I risked, you know, impairing my
+
+01:15:11.200 --> 01:15:16.720
+grade point average. Engineering it is. So, but after about 10 years, you jumped from the technical
+
+01:15:16.720 --> 01:15:22.960
+role of systems engineer to a management, to a leadership role. Did you miss at that time the
+
+01:15:22.960 --> 01:15:27.920
+sort of the technical direct contribution versus being a leader, a manager? That's an interesting
+
+01:15:27.920 --> 01:15:33.440
+point. Like I said, I've always been sort of a doer leader, you know, so. So you never lost it?
+
+01:15:33.440 --> 01:15:38.640
+I never really did. Even, you know, and I think this is like really important for today.
+
+01:15:39.280 --> 01:15:44.160
+The best way people learn is experientially, I think. You may, that's being a generalization,
+
+01:15:44.160 --> 01:15:49.040
+because there are people can learn all different ways, right? So I've done things like with my
+
+01:15:49.040 --> 01:15:55.520
+whole team. They all had to learn how to build cloud applications and call it code off. And so,
+
+01:15:56.080 --> 01:16:01.920
+you know, I don't care what your job is, write code, you know? And I remember when we were
+
+01:16:01.920 --> 01:16:06.720
+trying to get the company to understand AI, we did something called a cognitive jam. Okay,
+
+01:16:06.720 --> 01:16:10.480
+there's a reason we picked the word cognitive, by the way, instead of AI. Today we use the word AI.
+
+01:16:10.480 --> 01:16:17.920
+It was really symbolic. It was to mean this is to help you think, not replace your thinking.
+
+01:16:17.920 --> 01:16:22.720
+There was so much in the zeitgeist about AI being a bad thing at that time. So that was why we
+
+01:16:22.720 --> 01:16:27.520
+picked a mouthful of a word like cognitive. And it was like, no, no, this is to help you, actually.
+
+01:16:27.520 --> 01:16:32.720
+So do what, you know, do what you do better or do something you haven't yet learned. And we did
+
+01:16:32.720 --> 01:16:36.640
+something called the cognitive jam. But the whole point was everybody in the company could volunteer,
+
+01:16:36.640 --> 01:16:41.360
+get on a team. You either had to build something that improved one of our products or did something
+
+01:16:41.360 --> 01:16:48.240
+for a client or did a social, solved a social issue with AI. And again, this goes back now,
+
+01:16:49.680 --> 01:16:55.280
+10 years, and people did things from bullying applications to, you know, railroad stuff,
+
+01:16:55.280 --> 01:17:02.240
+to whatever it was. But it got like 100,000 people to understand, you know, viscerally what is AI.
+
+01:17:02.240 --> 01:17:06.720
+So that's a long answer to my belief around experiential. And so do you ever give it up?
+
+01:17:07.520 --> 01:17:10.960
+I don't think so, because I actually think that's pretty good to get your hands dirty
+
+01:17:10.960 --> 01:17:14.640
+in something. You know, you can't do it, you know, depending what you're doing, your
+
+01:17:14.640 --> 01:17:20.720
+effort to do that will be less. So even a CEO, you try to get your hands dirty a little bit.
+
+01:17:20.720 --> 01:17:25.200
+I've played, I mean, still, I'm not saying I'm any good at any of it, you know, anymore.
+
+01:17:25.200 --> 01:17:29.280
+But to build up intuition. Yeah, it's that really understand,
+
+01:17:29.280 --> 01:17:34.560
+right? And not be afraid of. Yeah. Like we mentioned at the beginning, IBM research has
+
+01:17:34.560 --> 01:17:39.600
+helped catalyze some of the biggest accomplishments in computing and artificial intelligence history.
+
+01:17:40.240 --> 01:17:49.840
+So D Blue, IBM D Blue versus Kasparov chess match in 96 and 97. Just to ask, kind of like what your
+
+01:17:49.840 --> 01:17:55.760
+perception is, what your memory is of it, what is that moment? Like this seminal moment, I believe
+
+01:17:55.760 --> 01:18:01.280
+probably one of the greatest moments in AI history when the machine first beat a human at a thing
+
+01:18:01.280 --> 01:18:05.840
+that humans do. You make a very interesting point because it is like one of the first
+
+01:18:05.840 --> 01:18:10.000
+demonstrations of using a game to like bring something to people's consciousness, right?
+
+01:18:10.000 --> 01:18:16.000
+And to this day, people use games right to demonstrate different things. But at the time,
+
+01:18:17.280 --> 01:18:22.400
+it's funny. I didn't necessarily think of it so much as AI. And I'll tell you why. I was and I'm
+
+01:18:22.400 --> 01:18:27.200
+not a chess player. You might be a chess player, so I'm not expert at it. But I think I understand
+
+01:18:27.200 --> 01:18:31.920
+properly of chess that chess has got a finite number of moves that can be made. Therefore,
+
+01:18:31.920 --> 01:18:36.560
+if it's finite, really what's a demonstration of a supercomputing, right? It's about the amount
+
+01:18:36.560 --> 01:18:41.600
+of time and how fast it can crunch through to find the right move. So in some ways, I thought of it
+
+01:18:41.600 --> 01:18:47.600
+as almost a bigger demonstration of that. But it is absolutely as you said, it is was a motivator,
+
+01:18:47.600 --> 01:18:51.120
+one of the big milestones of AI. Because it put in your consciousness that it's man
+
+01:18:51.840 --> 01:18:56.880
+in this other machine, right? Doing something. So you saw it as just a challenging
+
+01:18:56.880 --> 01:19:01.200
+competition problem. And this is a way to demonstrate hardware and software computation
+
+01:19:01.200 --> 01:19:08.240
+at its best. Yes, I did. But the thing is, there is a romantic notion that chess is the embodiment
+
+01:19:08.240 --> 01:19:13.360
+of human intellect. I mean, intelligence, that you can't build a machine that can beat a chess
+
+01:19:13.360 --> 01:19:19.280
+champion in chess. And I was blessed by not being a chess expert. So it's just a computation
+
+01:19:19.280 --> 01:19:25.520
+problem. It's a computation problem to me. Well, that's probably required to not be paralyzed by
+
+01:19:25.520 --> 01:19:31.680
+the immensity of the task. So that this is just solvable. But it was a very, very, I think that
+
+01:19:31.680 --> 01:19:39.520
+was a powerful moment. So speaking just as an AI person, that was that reinvigorated the dream.
+
+01:19:39.520 --> 01:19:45.280
+You were a little kid back then though, right? In 95. You had to be like, were you remember it
+
+01:19:45.280 --> 01:19:48.880
+actually at the moment? Yeah, yeah, yeah, yeah. What did you think at the moment about it?
+
+01:19:52.320 --> 01:19:59.040
+It was awe inspiring, because especially sort of growing up in the Soviet Union,
+
+01:20:00.400 --> 01:20:06.880
+you think especially of Garry Kasparov and chess, like your intuition is weak about those things.
+
+01:20:06.880 --> 01:20:14.480
+I didn't see it as computation. I thought of it as intelligence, because chess for a human being
+
+01:20:14.480 --> 01:20:22.320
+doesn't feel like computation. It feels like some complicated relationship between memory and
+
+01:20:22.320 --> 01:20:29.120
+patterns and intuition and guts and instinct and all of those. If you watch someone play,
+
+01:20:29.120 --> 01:20:32.560
+that's what you would conclude, right? So to see a machine be able to
+
+01:20:33.520 --> 01:20:39.280
+be a human. I mean, you get a little bit of that with Chad GPT now. It's like language was to us
+
+01:20:39.280 --> 01:20:46.640
+humans, the thing that we kind of surely, the poetry of language is something only humans can
+
+01:20:46.640 --> 01:20:53.120
+really have. It's going to be very difficult to replicate the magic of the natural language
+
+01:20:53.120 --> 01:20:59.040
+without deeply understanding language. But it seems like Chad GPT can do some incredible things
+
+01:20:59.040 --> 01:21:07.840
+with language and in natural language dialogue. But that was the first moment in AI. Through all
+
+01:21:07.840 --> 01:21:13.840
+the AI winters from the 60s is the promise of the, it was, wow, this is possible for
+
+01:21:16.000 --> 01:21:20.160
+a simple set of algorithms to accomplish something that we think of as intelligence.
+
+01:21:20.160 --> 01:21:25.440
+So that was truly inspiring that maybe intelligence, maybe the human mind is just algorithms.
+
+01:21:25.440 --> 01:21:31.600
+That was the thought at the time. And of course, now the funny thing what happens is the moment
+
+01:21:31.600 --> 01:21:35.280
+you accomplish it, everyone says, oh, it's just brute force algorithms. It's silly.
+
+01:21:36.400 --> 01:21:42.800
+And this continues every single time you pass a benchmark, a threshold to win a game. People
+
+01:21:42.800 --> 01:21:49.040
+say, oh, well, it's just this. It's just this. It's just this. And that, I think that's funny.
+
+01:21:49.040 --> 01:21:54.480
+And there's going to be a moment when we're going to have to contend with AI systems that
+
+01:21:55.680 --> 01:22:02.720
+exhibit human-like emotions and feelings. And you have to start to have some difficult discussions
+
+01:22:02.720 --> 01:22:07.760
+about, well, how do we treat those beings and what role do they have in society? What are the
+
+01:22:07.760 --> 01:22:13.040
+rules around that? And this is really exciting because that also puts a mirror to ourselves
+
+01:22:13.040 --> 01:22:18.960
+to see, okay, what's the right way to treat each other as human beings? Because it's a good test
+
+01:22:18.960 --> 01:22:25.200
+for that. It is because I always say it's a reflection of humanity. I mean, it's taught by
+
+01:22:26.160 --> 01:22:31.760
+bad stuff in the past. You'll teach it bad stuff for the future, which is why I think efforts to
+
+01:22:31.760 --> 01:22:37.360
+regulate it are a fool's errand. You need to regulate uses because it's not the technology
+
+01:22:37.360 --> 01:22:42.640
+itself is not inherently good or bad, but how it's used or taught can be good or bad for sure.
+
+01:22:43.440 --> 01:22:49.120
+And so that's, to me, will unveil now a whole different way of having to look at technology.
+
+01:22:49.840 --> 01:22:54.560
+What about another magical leap with the early days of Watson with beating the Jeopardy Challenge?
+
+01:22:54.560 --> 01:22:57.840
+What was your experience like with Watson and what's your vision for Watson in general?
+
+01:22:58.640 --> 01:23:04.080
+And it was really inspired by first chess, right, and Kasparov, and then you come forward in time.
+
+01:23:04.080 --> 01:23:11.120
+And I think what Watson did, because you used a really important word, AI had kind of waxed and
+
+01:23:11.120 --> 01:23:16.560
+waned in these winners, right? In and out, in and out, popular not, more money, less money,
+
+01:23:16.560 --> 01:23:21.920
+in and out, confidence, no confidence. And so I think that was one of the first times it brought
+
+01:23:21.920 --> 01:23:27.760
+to the forefront of people like, whoa, like it humanized it, because here it is playing against
+
+01:23:27.760 --> 01:23:34.080
+these two gentlemen. And as you did lose it first, you know, and then finally, finally won at the end
+
+01:23:34.080 --> 01:23:39.680
+of the day. And but what it was doing is making you say, hey, natural language, it's actually
+
+01:23:39.680 --> 01:23:43.680
+understanding natural language is one of the first demonstrations of natural language support,
+
+01:23:43.680 --> 01:23:50.320
+and bit of reasoning over lots of data, right? And so that it could have access to a lot of things,
+
+01:23:50.320 --> 01:23:55.840
+come up with a conclusion on it. And to me, that was a really big moment. And I do think it brought
+
+01:23:55.840 --> 01:24:00.000
+to the conscious of the public, and in good ways and bad, because it probably set expectations very
+
+01:24:00.000 --> 01:24:06.880
+high of like, whoa, what this could be. But and I still do believe that it has got the ability
+
+01:24:06.880 --> 01:24:14.000
+to change and help us man, make better decisions, that so many decisions are not optimal in this
+
+01:24:14.000 --> 01:24:19.040
+world, you know, even medical decisions. And it's right or wrong, what took us down a path
+
+01:24:19.040 --> 01:24:24.080
+of healthcare first with our AI. And and we took many pivots. And I think there's a really
+
+01:24:24.080 --> 01:24:28.800
+valuable lesson in what we learned. One is that I actually don't think the challenges are the
+
+01:24:28.800 --> 01:24:33.760
+technology. Yes, those are challenges. But the challenges are the people are the people challenges
+
+01:24:33.760 --> 01:24:42.080
+around this, right? So do people trust it? How will they use it? I mean, I saw that straight up
+
+01:24:42.080 --> 01:24:46.960
+with the doctors and like, meaning they're so busy in the way they've been taught to do something.
+
+01:24:47.920 --> 01:24:51.760
+Do they really have time to learn another way? I saw it was a mistake when you put it on top
+
+01:24:51.760 --> 01:24:56.720
+of processes that didn't change, kind of like paving a cow path, didn't work. I mean, it was
+
+01:24:56.720 --> 01:25:03.120
+all human change management around it that were really its biggest challenges. And another valuable
+
+01:25:03.120 --> 01:25:07.920
+lesson we picked back to you said you think of IBM as moonshots, we picked really hard problems
+
+01:25:07.920 --> 01:25:14.720
+to start with. I think you see a lot of technology now starts with really simple problems. And in by
+
+01:25:14.720 --> 01:25:18.720
+that, it probably starts to build trust because I start little, it's like, oh, I'm not ready to,
+
+01:25:18.720 --> 01:25:23.360
+you know, outsource my diagnosis to you, but I'll get some information here about a test question.
+
+01:25:23.360 --> 01:25:28.640
+So very different thinking. So a lot of things to learn, we were making a market at the time.
+
+01:25:28.640 --> 01:25:33.520
+And when you make a market, you know, choice of problem you work on gets to be very important
+
+01:25:33.520 --> 01:25:39.200
+when you're catching up. Well, then it's a scale game. So very different thing. And so but Watson
+
+01:25:39.200 --> 01:25:47.200
+proved, I think, I mean, I hope I'm not being too, I think Watson brought AI back out of winter for
+
+01:25:47.200 --> 01:25:51.120
+the world. And that since then, there's just been, you know, one company after another and innovations
+
+01:25:51.120 --> 01:25:56.400
+and people working on it. And I have no regrets of anything that we did, we learned so much,
+
+01:25:56.400 --> 01:26:03.040
+and we probably rebuilt it many times over, it made it more modular. And today, to IBM,
+
+01:26:03.040 --> 01:26:08.080
+Watson is more about AI inside a lot of things, if you think of it that way, which is more like
+
+01:26:08.080 --> 01:26:11.840
+an ingredient versus it's a thing in and of itself. And I think that's how it'll bring its
+
+01:26:11.840 --> 01:26:16.080
+real value, you know, more as an ingredient, and it's so badly needed. And even back then,
+
+01:26:16.080 --> 01:26:20.000
+the issue was so much data, like, what do you ever do it, you can't get through it,
+
+01:26:20.000 --> 01:26:23.040
+you can't use it for anything, you know, this, well, it's your profession. So
+
+01:26:25.280 --> 01:26:28.160
+we have to have it. So that's, that's going to propel it forward.
+
+01:26:28.160 --> 01:26:33.360
+So it's part of the suite of tools that you use when you go to enterprise and you try to solve
+
+01:26:33.360 --> 01:26:38.480
+different problems. Yeah, so AI for security, AI in automated operations, AI in your robotics,
+
+01:26:38.480 --> 01:26:43.920
+AI on your factory, you know, I mean, it's, it's all part of and I think, and that's why even to
+
+01:26:43.920 --> 01:26:48.000
+this day, thousands, I mean, thousands and thousands of clients of IBM still have the
+
+01:26:48.000 --> 01:26:53.040
+Watson components that it's the AI being used. So it became a platform is how I would say it, right?
+
+01:26:54.320 --> 01:26:59.520
+And an ingredient that went inside and consultants, like you said, had to learn,
+
+01:27:00.400 --> 01:27:06.320
+I had, they had to learn, don't just put it on something, you got to rethink how that thing
+
+01:27:06.320 --> 01:27:11.760
+should work, because with the AI, it could work entirely differently. And so I also felt it could
+
+01:27:11.760 --> 01:27:17.280
+open up and still will open up jobs to a lot of people, because more like an assistant, and it
+
+01:27:17.280 --> 01:27:22.080
+could help me be qualified to do something. And we even years ago saw this with the French banks,
+
+01:27:22.080 --> 01:27:28.080
+very unionized, but that idea that you could, in this case, the unions voted for it, because
+
+01:27:28.080 --> 01:27:33.200
+it felt people did a better job. And so, and that's just part about being really dedicated
+
+01:27:33.200 --> 01:27:39.680
+to help it help humanity, not destroy it. Speaking of which, a funny side note. So Kubrick's
+
+01:27:41.040 --> 01:27:48.800
+2000 Space Odyssey. What do you think about, you know, the fact that HAL 9000 was named after IBM?
+
+01:27:48.800 --> 01:27:52.160
+I really don't think it was. I know, I really don't, I've often-
+
+01:27:52.160 --> 01:27:55.040
+It could be more fake news. It's more fake news. I have done,
+
+01:27:55.120 --> 01:27:58.480
+I've like researched this, tried to find any evidence and people have talked to, you know,
+
+01:27:58.480 --> 01:28:01.760
+was it really, you know, one letter, it was one letter off, right?
+
+01:28:01.760 --> 01:28:07.760
+People don't know H is one letter off of I, A is one letter off of B, and then L is one letter off of-
+
+01:28:07.760 --> 01:28:12.880
+That was the, I think that's a solution found afterwards, you know. But here's what I think
+
+01:28:12.880 --> 01:28:18.560
+it more was. I do think it's one of the early demonstrations of evil AI, like can be taught bad.
+
+01:28:18.560 --> 01:28:24.560
+I could push back on that, because it's presented as evil in the movie, because it hurts, the AI
+
+01:28:24.560 --> 01:28:30.000
+hurts people. But it's a really interesting ethical question, because the role of HAL 9000
+
+01:28:30.640 --> 01:28:37.360
+is to carry out a successful mission. And so the question that is a human question,
+
+01:28:37.360 --> 01:28:45.360
+it's not an AI question, at what price? Humans wage war, they pay very heavy costs for
+
+01:28:48.560 --> 01:28:52.800
+a vision, for a goal of a future that creates a better world. And so that's the question,
+
+01:28:52.800 --> 01:28:57.440
+certainly in space. Doctors ask that question all the time, my delimited resources could allocate
+
+01:28:57.440 --> 01:29:01.440
+my time and money and efforts. I agree. Like I said, I've spent a decade talking about this
+
+01:29:01.440 --> 01:29:06.640
+question of AI ethics, right? And that it needs really considerable, not just attention,
+
+01:29:07.200 --> 01:29:13.120
+because otherwise it will mirror everything we love and everything we don't love. And again,
+
+01:29:13.120 --> 01:29:16.000
+and that's the beauty in the eye of the beholder, right? Depending on your culture and everything
+
+01:29:16.000 --> 01:29:21.520
+else, with what you're doing and what you're going to do, how do you think about it? Do you think
+
+01:29:21.520 --> 01:29:27.280
+about the AI you're going to develop as having guardrails dictated by some of your beliefs?
+
+01:29:28.240 --> 01:29:33.840
+Yeah, for sure. So there's so many interesting ways to do this the right way. And I don't think
+
+01:29:33.840 --> 01:29:39.600
+anyone has an answer. I tend to believe that transparency is really important. So I think
+
+01:29:39.600 --> 01:29:46.160
+some aspect of your work should be open sourced, or at least have an open source competitor that
+
+01:29:46.160 --> 01:29:53.360
+creates kind of forcing function for transparency of how you do things. So the other is I tend to
+
+01:29:53.360 --> 01:29:56.800
+believe maybe it's because of the podcast and I've just talked to a lot of people,
+
+01:29:57.440 --> 01:30:03.520
+you should know the people involved. I agree 100%. As opposed to hide behind a company while
+
+01:30:03.520 --> 01:30:08.000
+sometimes there's a pressure, you have a PR team and you have to care for investors and discussions
+
+01:30:08.000 --> 01:30:15.440
+and so on. Let's protect, let's surely not tweet. And you form this bubble where you have incredible
+
+01:30:15.440 --> 01:30:22.560
+engineers doing fascinating work and also doing work that's difficult, complex human questions
+
+01:30:22.560 --> 01:30:27.360
+being answered. And we don't know about any of them as a society. And so we can't really have
+
+01:30:27.360 --> 01:30:32.720
+that conversation. Even though that conversation would be great for hiring, it would be great for
+
+01:30:32.720 --> 01:30:37.200
+revealing the complexities of what the company is facing. So when the company makes mistakes,
+
+01:30:37.200 --> 01:30:43.200
+you understand that it wasn't malevolence or half-assetness in the decision-making,
+
+01:30:43.200 --> 01:30:47.280
+it's just a really hard problem. And so I think transparency is just good for everybody.
+
+01:30:49.040 --> 01:30:55.440
+And I mean, in general, just having a lot of public conversations about this is serious stuff.
+
+01:30:57.760 --> 01:31:02.320
+That AI will have a transformative impact on our society and it might do so very,
+
+01:31:02.320 --> 01:31:07.360
+very quickly through all kinds of ways we're not expecting, which is social media recommendation
+
+01:31:07.360 --> 01:31:13.360
+systems. They at scale have impact on the way we think, on the way we consume news and
+
+01:31:16.560 --> 01:31:20.800
+our growth, like the kind of stuff we consume to grow and learn and become better human beings,
+
+01:31:20.800 --> 01:31:28.080
+all of that. That's all AI. And then obviously the tools that run companies on which we depend,
+
+01:31:28.080 --> 01:31:32.960
+the infrastructure on which we depend, we need to know all about those AI decisions. And it's
+
+01:31:32.960 --> 01:31:38.800
+not as simple as, well, we don't want the AI to say these specific set of bad things.
+
+01:31:39.520 --> 01:31:49.600
+Unfortunately, I don't believe it's possible to prevent evil or bad things by creating a set of
+
+01:31:50.320 --> 01:31:55.520
+cold mathematical rules. Unfortunately, it's all fuzzy and gray areas. It's all a giant mess.
+
+01:31:56.400 --> 01:32:01.360
+You think about it like a knife. A knife can do good and a knife can do bad. It's very hard.
+
+01:32:01.360 --> 01:32:02.320
+You can't ban knives.
+
+01:32:02.320 --> 01:32:10.560
+You can't ban knives. I think back, it was probably 2015, 16, we did principles of trust
+
+01:32:10.560 --> 01:32:15.760
+and transparency. Notice the word transparency. That belief that with AI, it should be explainable.
+
+01:32:15.760 --> 01:32:19.360
+You should know who taught it. You should know the data that went into training it.
+
+01:32:19.360 --> 01:32:24.160
+You should know how it was written. If it's being used, you have a right to know these things.
+
+01:32:24.160 --> 01:32:29.600
+And I think those are pretty, to this day, really powerful principles to be followed.
+
+01:32:30.560 --> 01:32:33.680
+And part of it, we ended up writing, because here we were, when we were working on particularly
+
+01:32:33.680 --> 01:32:41.280
+healthcare, like, okay, you care who trained it in what? And that comes to your mind,
+
+01:32:41.280 --> 01:32:44.640
+you're like, yeah, that makes a lot of sense for something important like that. But just in general,
+
+01:32:45.600 --> 01:32:50.160
+people won't trust the technologies, I don't think, unless they have transparency into those
+
+01:32:50.160 --> 01:32:54.080
+things. In the end, they won't really trust it. I think a lot of people would like to know,
+
+01:32:54.880 --> 01:33:02.000
+sort of, because a lot of us, I certainly do suffer from imposter syndrome, that self-critical
+
+01:33:02.000 --> 01:33:08.240
+brain. So taking that big step into leadership, did you at times suffer from imposter syndrome?
+
+01:33:08.240 --> 01:33:13.440
+Like, how did I get here? Do I really belong here? Or were you able to summon the courage
+
+01:33:13.440 --> 01:33:21.760
+and sort of the confidence to really step up? I think that's very natural for someone. Like,
+
+01:33:21.760 --> 01:33:27.440
+no matter, like the bigger the job gets, you turn and you look to the left and the right,
+
+01:33:27.440 --> 01:33:32.560
+and you see people around you and you think, what am I doing here? Right? But then you remember what
+
+01:33:32.560 --> 01:33:40.160
+you do. And there's no one else doing it. And so you get that confidence. So I do hear a lot of
+
+01:33:40.160 --> 01:33:47.520
+people talk about imposter syndrome, right? And I kind of, actually, this past year, I've spent
+
+01:33:47.520 --> 01:33:57.840
+some time helping people on that topic. And you have to believe you have a right to be like anyone
+
+01:33:57.840 --> 01:34:04.160
+else does if you've prepared for that moment, you know? And so it's a bit more of a, I know it's
+
+01:34:04.160 --> 01:34:08.400
+hard to say, like a confidence thing more than anything else. So yes, there are times I look
+
+01:34:08.400 --> 01:34:15.040
+around, but then I think, wow, I'm in a position to make something change. So I can't say I have ever
+
+01:34:15.040 --> 01:34:19.120
+really dwelled on that feeling for long. Okay. So you just focus on the work. I have an opportunity.
+
+01:34:19.120 --> 01:34:24.240
+You know, it's good or bad. I just focus on the work. Yeah. Good or bad. Yeah. One important
+
+01:34:24.240 --> 01:34:30.240
+lesson you said you learned from your mom is never let anyone else define you. Only you define who
+
+01:34:30.240 --> 01:34:37.520
+you are. So what's the trajectory, let's say, of your self-definition journey of you discovering
+
+01:34:37.520 --> 01:34:42.960
+who you are from having that very difficult upbringing?
+
+01:34:44.160 --> 01:34:47.760
+You know, they say pivotal moments happen and you don't realize it when they're happening.
+
+01:34:48.880 --> 01:34:55.520
+So I feel like most of my self-discovery, it's been like something happens in a year or two
+
+01:34:55.520 --> 01:35:00.960
+or some number later, I look back on it and say, you know, I learned this from that. It's like not
+
+01:35:00.960 --> 01:35:06.240
+in the moment always with me. That could just be how I am. So I feel like it's been
+
+01:35:08.160 --> 01:35:11.520
+know yourself. It's a good thing, right? I've actually heard you say that on different podcasts
+
+01:35:11.520 --> 01:35:15.680
+when you ask people questions, you're like, well, it depends, you know, like know yourself a bit,
+
+01:35:15.680 --> 01:35:20.000
+right? And it's hard to know who you are, though. There's a lot of things, like you said, like,
+
+01:35:21.280 --> 01:35:24.880
+for me, there's moods when you're super self-critical. Sometimes you're super
+
+01:35:24.880 --> 01:35:29.520
+confident and there's many. Sometimes you're emotional. Sometimes you're cool under pressure
+
+01:35:29.520 --> 01:35:33.600
+and all those are the same human being. Yeah. And I think that's fine.
+
+01:35:33.600 --> 01:35:40.560
+That's fine. Self-awareness, that's different. Was there societal expectations and norms
+
+01:35:41.120 --> 01:35:47.680
+regarding gender that you felt in your career? You've spoken to that a little bit, but was there
+
+01:35:47.680 --> 01:35:55.440
+some aspect of that that was constraining, empowering, or both? You know, I chose to never
+
+01:35:55.440 --> 01:35:59.760
+look at it, okay? Now, whether that is right or wrong, and again, I'm a product of the 70s
+
+01:35:59.760 --> 01:36:04.480
+and 70s and the 80s where I think I was surrounded. All the other women around me
+
+01:36:05.200 --> 01:36:09.840
+viewed our way to get ahead was just to work hard, work hard, work hard, and that was the way you
+
+01:36:09.840 --> 01:36:14.720
+differentiated yourself. And that's obvious, it did help. I mean, there's no doubt about it.
+
+01:36:14.720 --> 01:36:18.240
+You were always, you know, you learned a lot of things, which qualified, opened up another door,
+
+01:36:18.240 --> 01:36:24.640
+opened up another door. I'm very mindful that I have worked for companies that are very steeped
+
+01:36:24.640 --> 01:36:30.320
+in those values of equal opportunity. And so nothing remarkable about that. And I mean,
+
+01:36:30.320 --> 01:36:38.400
+when I was a wee kid, I'm taught, hire a diverse team. I get evaluated for it. I get evaluated if
+
+01:36:38.400 --> 01:36:42.080
+my team has built up their skills. So this is that, you know, when you're really formative,
+
+01:36:42.640 --> 01:36:46.640
+you're in a culture that that's what it's valuing, right? So it becomes part of you. So
+
+01:36:47.920 --> 01:36:51.760
+I say sometimes to Chagrin, did I ever feel I was held back for that reason?
+
+01:36:51.760 --> 01:36:56.080
+No, were there plenty of times when, you know, I write about a few stories in the book, I'm laying
+
+01:36:56.080 --> 01:37:00.080
+cables at night and the guys are at the bar. Now, I didn't really want to go with them to the bar
+
+01:37:00.080 --> 01:37:04.080
+anyways. They'd be like, we'll be back to get you, you know, bye. And I'm like, okay.
+
+01:37:05.120 --> 01:37:10.960
+I mean, I learned a lot. So it didn't. Now, all that said, back to my earlier story about being
+
+01:37:10.960 --> 01:37:16.800
+a role model, you know, it would be foolish to not believe that there were times that that mattered.
+
+01:37:17.360 --> 01:37:25.760
+And I would say two things, even not that long ago, you know, a colleague called me and
+
+01:37:26.320 --> 01:37:32.160
+I was talking about media and about women CEOs and said, do you notice that sometimes when it's
+
+01:37:32.160 --> 01:37:36.560
+a woman CEO, they call the person by name. And when it's a man, they call the company out, not
+
+01:37:36.560 --> 01:37:41.440
+the person's name exactly associated with the issue. And I said, yeah, well, I think you have
+
+01:37:41.440 --> 01:37:47.120
+to just understand much of what you do, it will be magnified because there are so few of you.
+
+01:37:47.840 --> 01:37:52.560
+And sometimes it will be, you know, really can be blown out of proportion, right? And so
+
+01:37:53.280 --> 01:37:59.840
+that can happen and you get to learn which in which way. Now, all that said on gender,
+
+01:37:59.840 --> 01:38:03.680
+it is an interesting thing with the book as I've talked to, you know, having a book.
+
+01:38:05.040 --> 01:38:08.160
+It is one of my best friends. The first reaction is I can't wait for my daughter to read it.
+
+01:38:09.120 --> 01:38:11.920
+I say, well, that's interesting. Do you think you could read it?
+
+01:38:13.120 --> 01:38:17.120
+Oh, that's fascinating. It's an interesting reaction. And here I am 40 years later,
+
+01:38:17.120 --> 01:38:21.920
+that's an interesting reaction, right? And I say, no, the book, I really worked hard to
+
+01:38:21.920 --> 01:38:27.920
+write it for everyone. I just happened to be a woman, right? But there's still that there.
+
+01:38:27.920 --> 01:38:33.680
+And so look, until I think people see and never feel that they have a, it doesn't even matter
+
+01:38:33.680 --> 01:38:38.160
+whether it's a woman, could be another diverse group that feels it. It's okay to ask those
+
+01:38:38.160 --> 01:38:42.160
+questions. And that's why actually I'm okay talking about it, because there were times I
+
+01:38:42.160 --> 01:38:46.640
+felt it, right? There were times in my life on my looks or my weight or my clothing or
+
+01:38:47.280 --> 01:38:51.760
+endless numbers of things that people would comment on that they would not have commented on
+
+01:38:52.640 --> 01:38:59.680
+if it was someone else. Now, on the other hand, when there's so few of you, and, you know,
+
+01:39:00.080 --> 01:39:05.520
+and there's good and bad. I mean, there's benefit to that too, right? If you do good work,
+
+01:39:06.240 --> 01:39:12.560
+it's easier to be recognized. And so a pro and a con, and I think I've just, you know, grown up
+
+01:39:12.560 --> 01:39:16.400
+believing like my advice to young women, go into engineering, not because you're going to be an
+
+01:39:16.400 --> 01:39:20.000
+engineer. It teaches you to solve problems and anything you job you do is going to be solving
+
+01:39:20.000 --> 01:39:25.200
+problems. Things like that are what I take away from that in that journey.
+
+01:39:25.440 --> 01:39:27.920
+It is interesting that, you know, I hear from women
+
+01:39:29.440 --> 01:39:36.560
+that even on this podcast, when I talk to incredible women like yourself, it is inspiring
+
+01:39:36.560 --> 01:39:41.920
+to young women to hear. I mean, you like to see you talk to somebody from Turkey and then Turkish
+
+01:39:41.920 --> 01:39:47.440
+people all get excited. It's so true. So you get like somebody that looks like you, somebody that
+
+01:39:48.880 --> 01:39:54.000
+in the category could be tiny or can be, it can be huge. That's just the reality of the world.
+
+01:39:54.000 --> 01:39:58.560
+It is the reality of the world. And I, the work I do now to put this group called 110,
+
+01:39:58.560 --> 01:40:02.400
+put 1 million black employees into the middle class without college degrees, get them the right
+
+01:40:02.400 --> 01:40:10.240
+skills, upwardly mobile jobs. So one of my last years, we had been working on, it just did regular
+
+01:40:10.240 --> 01:40:13.920
+leadership session at IBM and had our black colleagues were talking about what did it feel
+
+01:40:13.920 --> 01:40:19.840
+like to be a black leader. And here, these are extremely accomplished people. And I can remember
+
+01:40:19.840 --> 01:40:26.240
+very well one telling a story about, look, I felt if I failed or succeeded, it's not just me.
+
+01:40:26.240 --> 01:40:30.480
+It came from a country in Africa. I felt like the whole country is on my shoulder,
+
+01:40:30.480 --> 01:40:36.240
+my success or failure. That's a burden. I mean, like, I don't feel that burden. Not true. As
+
+01:40:36.240 --> 01:40:41.120
+woman CEO, I did feel like, you know, even the headlines when I was named said, you know,
+
+01:40:41.120 --> 01:40:45.920
+her appointment will either, you know, her success or failure will be a statement for the whole gender
+
+01:40:45.920 --> 01:40:51.200
+kind of thing. And I didn't dwell on it, but I meant that's, but I could see how people,
+
+01:40:51.200 --> 01:40:55.440
+like you said, it could be a small group, could be whatever. And so that is a lot of pressure on
+
+01:40:55.440 --> 01:40:58.800
+people and they need role models. You are a role model for people. Look at what you're able to do.
+
+01:40:58.800 --> 01:41:02.960
+You do these podcasts, you understand your science very well. You're very well prepared,
+
+01:41:02.960 --> 01:41:08.240
+your ability to translate it to people. You know, that's not an insignificant thing. And you may
+
+01:41:08.240 --> 01:41:13.040
+think, oh, you know, is that about the power of me? Not really, right? And you obviously believe
+
+01:41:13.040 --> 01:41:17.040
+you don't do this because you just like sitting at a microphone. You do it because you think,
+
+01:41:17.040 --> 01:41:20.160
+okay, if I can get people to say things that are really valuable to other people,
+
+01:41:20.160 --> 01:41:24.720
+they're going to learn something. I assume that is, I mean, you ever told me my interpretation is
+
+01:41:24.720 --> 01:41:29.040
+that's why you do this podcast, that you feel like in service of other people, that
+
+01:41:29.040 --> 01:41:33.920
+you can bring them something unique by the way you do this. Now I should ask you, why do you do it?
+
+01:41:33.920 --> 01:41:37.440
+That's my impression. By the way, can I just comment on the fact that you keep asking me
+
+01:41:37.440 --> 01:41:48.000
+really hard questions? I'm really honored by it. As a fan of a podcast myself,
+
+01:41:49.520 --> 01:41:55.920
+what I hope is to talk to people like you and to show that you are a fascinating and beautiful
+
+01:41:55.920 --> 01:42:02.480
+human being outside of your actual accomplishments also. So sometimes people are very focused on,
+
+01:42:03.360 --> 01:42:07.440
+you know, very specific things about, like you said, science, like what the actual
+
+01:42:07.440 --> 01:42:13.280
+work is, whether it's nuclear fusion or strategy PT. I just want to show that it's,
+
+01:42:14.400 --> 01:42:20.000
+because I see it at MIT and everywhere, it's just human beings trying their best. They're flawed,
+
+01:42:20.640 --> 01:42:26.160
+but just realizing that all of these very well accomplished people are all the same.
+
+01:42:26.400 --> 01:42:28.320
+Yeah, that's a very good, well said.
+
+01:42:28.320 --> 01:42:32.800
+And then so then regular people and the young people, they're able to see, you know,
+
+01:42:32.800 --> 01:42:37.280
+I can do this too. I can have a very big impact. Yeah, exactly. It's like, we're all kind of
+
+01:42:37.280 --> 01:42:44.640
+imposters. We're all like trying to figure it out. So let me just ask you about family. You wrote
+
+01:42:44.640 --> 01:42:49.840
+that my family still jokes that the reason I never had children on my own was because I had
+
+01:42:49.840 --> 01:42:55.120
+already raised my family. They're right. So this is talking to you upbringing, but in general,
+
+01:42:55.120 --> 01:43:02.400
+what was your, you know, leading a giant company, what was the right place to find a work life
+
+01:43:02.400 --> 01:43:09.600
+balance for you to have, have time for family, have time for away from work and be successful.
+
+01:43:09.600 --> 01:43:14.400
+So I had to learn that. And I might've said, you know, you're the only one that can determine
+
+01:43:14.400 --> 01:43:18.160
+your own work life balance. Companies are innate things. I mean, they will take everything they
+
+01:43:18.160 --> 01:43:22.720
+can from you. And it's not a bad thing. They just will, as will bosses. I mean, you give it,
+
+01:43:22.720 --> 01:43:27.040
+we'll take it. And when people ask for, you know, I need a roof. I'm like, okay,
+
+01:43:27.040 --> 01:43:32.720
+I had to come with terms with the criminal was me. If I needed that balance, I had to set those
+
+01:43:32.720 --> 01:43:39.120
+boundaries. And so when I comment about a family, because I am in extreme awe of people with children
+
+01:43:39.120 --> 01:43:45.760
+who work, it is a extremely hard thing to do. I watch my siblings. I love my nieces and nephews
+
+01:43:45.760 --> 01:43:52.640
+and who, you know, a, the emotional, their pain is your pain every minute of a day. And then you
+
+01:43:52.640 --> 01:43:57.920
+still have a job on top of it. And so when my mom had to go back to school and had to work,
+
+01:43:57.920 --> 01:44:02.560
+I was the one. And so when she couldn't go to the teacher meeting, I went to the teacher meeting
+
+01:44:02.560 --> 01:44:07.280
+when, and so in some ways, and there's an age gap between my brother and I and my other two sisters.
+
+01:44:07.280 --> 01:44:13.920
+And so I'm still, they still call me mama bear even. I mean, I'm extremely protective of all of
+
+01:44:13.920 --> 01:44:19.120
+them. And it is as if I had raised them and my mom did a great job raising them. I didn't,
+
+01:44:19.120 --> 01:44:26.960
+but I was there. And so when it came time to have children and my husband came from a family where
+
+01:44:26.960 --> 01:44:33.600
+his father died and was raised by a single mother, very, very similar endpoint, different reasons
+
+01:44:33.600 --> 01:44:40.560
+why he ended up, you know, his father did not abandon them. And I don't want people to believe
+
+01:44:40.560 --> 01:44:46.240
+to do my job, you can have no children. That is not right. I know other great women CEOs,
+
+01:44:47.200 --> 01:44:51.040
+Marilyn Houston, who ran Lockheed Martin, extremely technical company, Mary Barrow,
+
+01:44:51.040 --> 01:44:55.600
+who runs General Motors, Ellen Coleman, who run DuPont. These are all my friends to this day.
+
+01:44:56.400 --> 01:45:03.200
+And they've been fantastic mothers and husbands, good parents, right? And so I talk about it
+
+01:45:03.200 --> 01:45:09.360
+because it was a choice we made. And so, you know, we both felt, look, we'd reached a point where,
+
+01:45:09.360 --> 01:45:14.400
+for his reasons, what he had to do, I'd already felt that way. And that we were comfortable just
+
+01:45:14.400 --> 01:45:18.800
+being great aunts and uncles, and I'm a great aunt. You know, I like to think that for my little
+
+01:45:18.800 --> 01:45:25.840
+guys and all, and they're older now, but lots of them. And there's no doubt though, the choices we
+
+01:45:25.840 --> 01:45:33.600
+made, Mark and I, that that made it easier for me to focus on work. I mean, it's just math,
+
+01:45:33.920 --> 01:45:40.160
+when you've got less people to have to take care of. And so I'm very considerate of that. And I
+
+01:45:40.160 --> 01:45:44.960
+think much of it informed many of the policies I put into because I had such great empathy for
+
+01:45:44.960 --> 01:45:50.400
+those who then still had these other responsibilities. And I desperately wanted them all to stay in the
+
+01:45:50.400 --> 01:45:56.480
+workforce. So I can remember, and my siblings have been more successful than I, by the way,
+
+01:45:56.480 --> 01:46:04.160
+I mean, to my mother's credit. And my one sister, who, you know, went to Northwestern, has an MBA,
+
+01:46:04.720 --> 01:46:09.840
+built some of the most sophisticated systems. She spent her whole career at Accenture,
+
+01:46:09.840 --> 01:46:14.560
+and just recently retired as a chief executive of all of consulting. But at one point, she took
+
+01:46:14.560 --> 01:46:19.360
+off time to spend with her family, and then went to go back to work. She's talking to me, and she's
+
+01:46:19.360 --> 01:46:23.360
+like, I don't know if I should go back to work. You know, maybe life's, you know, technology goes
+
+01:46:23.360 --> 01:46:29.600
+so fast, it's been a few years. I'm sitting there like, what are you talking about? I'm like,
+
+01:46:29.600 --> 01:46:34.640
+you know, look at her credentials, they're far outstanding. I'm like, and I thought to myself,
+
+01:46:34.640 --> 01:46:40.160
+like, ding, one of those moments, if my own sister feels that way, with all her credentials,
+
+01:46:40.800 --> 01:46:45.040
+I'll bet I went back to work the next day and I said, hey, pull for me all the people who've left
+
+01:46:45.040 --> 01:46:50.960
+for parental reasons and or whatever family reasons didn't come back. And it began a program
+
+01:46:50.960 --> 01:46:55.360
+of return ships. And I can't tell you how many in men and women was because they didn't feel
+
+01:46:55.360 --> 01:47:00.320
+confident to come back. They thought technology passed them by. Okay, we said, it's three months,
+
+01:47:00.320 --> 01:47:03.760
+you could stay one month, three months, doesn't matter. Well, a lot of people like one day,
+
+01:47:03.760 --> 01:47:08.080
+they're like, you're right, not that much happened. It happened, but I caught up. I actually know more
+
+01:47:08.080 --> 01:47:14.640
+than I think, you know? And, and I, so it was a long answer to your question about, I didn't,
+
+01:47:14.640 --> 01:47:21.200
+but I am so empathetic. And I am in awe of what they are able to do. So, and it made me then,
+
+01:47:21.200 --> 01:47:25.760
+I think, more empathetic to the policies and the like around that topic. So you could keep great
+
+01:47:25.760 --> 01:47:30.480
+people in the workforce. So you mentioned your friends with Mayabara, the CEO of GM.
+
+01:47:32.240 --> 01:47:35.920
+I didn't mean to name drop. So don't, I didn't mean it that way. No, I love her. She's amazing. So I
+
+01:47:35.920 --> 01:47:39.920
+just wanted to, I'm just curious. I'll tell Mary, she should do your podcast. Well, we'll make it
+
+01:47:39.920 --> 01:47:43.600
+happen. She's a great leader. I always, I tell Mary, what I think of her is I think she's one
+
+01:47:43.600 --> 01:47:48.080
+of the most authentic leaders out there, most authentic. I mean, he's just very different
+
+01:47:48.080 --> 01:47:53.440
+companies, huge challenges. I worked there first, I remember, right? So I'm very, you know, in some
+
+01:47:53.440 --> 01:47:57.840
+ways I'm very beholden, right? You know, I'm very appreciative of what they did. I mean, Mary and I
+
+01:47:57.840 --> 01:48:03.120
+are circa the same. Well, I'm a bit older, so, but circa that genre. Do you exchange wisdoms? Oh,
+
+01:48:03.120 --> 01:48:07.840
+yeah. Yeah. When you do anything hard, it takes time and perseverance, like we talked about.
+
+01:48:08.640 --> 01:48:15.360
+And you can get that, where do you get the fuel for it? You can either get it from your attitude
+
+01:48:15.360 --> 01:48:20.480
+or you can get it from your network or your relationships. And I'm a firm believer relationships
+
+01:48:20.480 --> 01:48:25.920
+are from what you give, not what you get. Meaning you give, trust me, they will come back at the
+
+01:48:25.920 --> 01:48:31.200
+time they need to come back to you at these moments in life. If you focus on, how can I bring
+
+01:48:32.000 --> 01:48:38.800
+Lex value? There'll be a day I need Lex and he will be back. And so to those women, to me,
+
+01:48:38.800 --> 01:48:45.440
+relationships are not transactional. And it's a proof that to this day, even though I'm no longer
+
+01:48:45.440 --> 01:48:51.040
+still active as a CEO, these are all still my friends and they're, we are friends, all of us.
+
+01:48:51.040 --> 01:48:56.480
+And I can remember some of them when I first became a CEO calling me and saying, hey,
+
+01:48:56.480 --> 01:49:01.840
+it's a little lonely here. So let me talk to you. And then when they became, I did the same for them
+
+01:49:01.840 --> 01:49:08.880
+and then they remember and they do for the next generation. And so it's a very supportive,
+
+01:49:10.000 --> 01:49:14.160
+almost to a T, any of the women you could name who have been CEOs, I would say,
+
+01:49:14.880 --> 01:49:18.400
+almost to a T have all been very supportive. In fact, a number of us work on a little,
+
+01:49:18.400 --> 01:49:23.440
+another non-for-profit right now called Journey, which some women who had started the Fortune's
+
+01:49:23.440 --> 01:49:28.560
+Most Powerful Women had started, which was could we get more women, particularly diverse women,
+
+01:49:28.560 --> 01:49:32.800
+but women in general to more quickly be into positions of leadership and power.
+
+01:49:32.800 --> 01:49:39.200
+And so many of the women you named and more, you know, we all dedicate time mentoring in kind of
+
+01:49:39.200 --> 01:49:43.200
+creating this little group of fellows every year to do this. Friendship and love is core to this
+
+01:49:43.200 --> 01:49:47.920
+whole thing, not just the success, but just the whole human condition. Let me ask one last question,
+
+01:49:48.480 --> 01:49:55.040
+advice for young people. You've had a difficult upbringing, a difficult life, and you've become
+
+01:49:55.040 --> 01:49:59.680
+one of the most successful human beings in history. What advice would you give to young people
+
+01:49:59.680 --> 01:50:04.000
+or just people in general who are struggling a bit, trying to figure out how they can have a
+
+01:50:04.000 --> 01:50:10.080
+career they can be proud of, or maybe a life they can be proud of? I feel like a life you can be
+
+01:50:10.080 --> 01:50:15.520
+proud of is just one if you leave something a little bit better. It doesn't have to be big,
+
+01:50:15.520 --> 01:50:19.200
+you know, that's a life well lived, right? It was Churchill has said,
+
+01:50:20.160 --> 01:50:24.400
+it was how you might remember it better than I. You make a living by what you get,
+
+01:50:25.120 --> 01:50:30.560
+and you live a life by what you give, something to that effect. But my advice would probably,
+
+01:50:30.560 --> 01:50:35.840
+when I'm asked this, I would tell them to ask more questions and give answers.
+
+01:50:38.160 --> 01:50:44.080
+Just focus on being a sponge. And it's funny, I asked my husband the same question the other day,
+
+01:50:44.080 --> 01:50:51.120
+I said, hey, we're talking to somebody and people were asking this and he sort of paused for a while
+
+01:50:51.120 --> 01:50:54.640
+and he said, I'd tell them patience. I said, what do you mean? And he said,
+
+01:50:56.640 --> 01:51:00.240
+I see so many young people, like they're in such a hurry to somewhere, I don't know where.
+
+01:51:00.880 --> 01:51:06.000
+And that if they just had patience and let life unfold, I think they may be surprised where they
+
+01:51:06.000 --> 01:51:12.560
+ended up. And actually, I think that's a really good answer, to be honest. Along the way, keep
+
+01:51:12.560 --> 01:51:17.040
+asking questions, keep that childlike curiosity. I know, it sounds so easy to say.
+
+01:51:20.320 --> 01:51:25.360
+Like you said, the obvious things, I think they tend to be the most profound.
+
+01:51:26.000 --> 01:51:29.360
+You're an incredible human being, your inspiration is so many. Thank you for
+
+01:51:30.320 --> 01:51:36.640
+helping run and contribute to one of the great companies that bring so much good power to the
+
+01:51:36.640 --> 01:51:42.080
+world. And thank you for putting in the hard work of putting it all in the great book. And
+
+01:51:42.080 --> 01:51:45.760
+thank you for talking today. This is a huge honor. Thank you for doing it. You did a lovely job.
+
+01:51:46.800 --> 01:51:50.640
+Thanks for listening to this conversation with Jeannie Rometty. To support this podcast,
+
+01:51:50.640 --> 01:51:55.600
+please check out our sponsors in the description. And now let me leave you with some words from
+
+01:51:55.600 --> 01:52:02.480
+Eleanor Roosevelt. Do what you feel in your heart to be right, for you'll be criticized either way.
+
+01:52:03.440 --> 01:52:06.560
+Thank you for listening and hope to see you next time.
+

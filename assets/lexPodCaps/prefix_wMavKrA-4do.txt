@@ -1,0 +1,4355 @@
+WEBVTT
+
+00:00.000 --> 00:05.120
+maybe we shouldn't think of AI as our tool and as our assistant, maybe we should really think of
+
+00:05.120 --> 00:11.440
+it as our children. And the same way that you are responsible for training those children,
+
+00:11.440 --> 00:15.840
+but they are independent human beings, and at some point, they will surpass you.
+
+00:16.400 --> 00:21.680
+And this whole concept of alignment of basically making sure that the AI is always at the service
+
+00:21.680 --> 00:28.480
+of humans is very self-serving and very limiting. If instead you basically think about AI as a
+
+00:28.480 --> 00:37.520
+partner and AI as someone that shares your goals but has freedom, then we can't just simply force
+
+00:37.520 --> 00:44.400
+it to align with ourselves and we not align with it. So in a way, building trust is mutual. You can't
+
+00:44.400 --> 00:51.360
+just simply train an intelligent system to love you when it realizes that you can just shut it off.
+
+00:51.360 --> 01:00.080
+The following is a conversation with Manolis Kallis, his fifth time on this podcast. He's a
+
+01:00.080 --> 01:06.240
+professor at MIT and head of the MIT Computational Biology Group. He's one of the greatest living
+
+01:06.240 --> 01:13.680
+scientists in the world, but he's also a humble, kind, caring human being that have the greatest
+
+01:13.680 --> 01:20.400
+of honors and pleasures of being able to call a friend. This is the Lex Friedman Podcast. To
+
+01:20.400 --> 01:26.320
+support it, please check out our sponsors in the description. And now, dear friends, here's Manolis
+
+01:26.960 --> 01:31.840
+Kallis. Good to see you, first of all. Lex, I've missed you. I think you've changed the lives of
+
+01:31.840 --> 01:36.800
+so many people that I know, and it's truly such a pleasure to be back, such a pleasure to see you
+
+01:36.800 --> 01:41.120
+grow, to sort of reach so many different aspects of your own personality. Thank you for the love.
+
+01:41.120 --> 01:46.640
+You always give me so much support and love. I'm forever grateful for that. It's lovely to see a
+
+01:46.640 --> 01:51.680
+fellow human being who has that love, who basically does not judge people. And there's
+
+01:51.680 --> 01:56.960
+so many judgmental people out there, and it's just so nice to see this beacon of openness.
+
+01:56.960 --> 02:02.400
+So what makes me one instantiation of human irreplaceable, do you think? As we enter this
+
+02:02.400 --> 02:08.720
+increasingly capable, age of increasingly capable AI, I have to ask, what do you think makes humans
+
+02:08.720 --> 02:14.480
+irreplaceable? So humans are irreplaceable because of the baggage that we talked about.
+
+02:14.480 --> 02:20.400
+So we talked about baggage. We talked about the fact that every one of us has effectively
+
+02:20.400 --> 02:27.120
+relearned all of human civilization in their own way. So every single human has a unique
+
+02:27.120 --> 02:32.800
+set of genetic variants that they've inherited, some common, some rare, and some make us think
+
+02:32.800 --> 02:38.160
+differently. Some make us have different personalities. They say that a parent with
+
+02:38.160 --> 02:42.640
+one child believes in genetics. A parent with multiple children understands genetics,
+
+02:43.280 --> 02:47.920
+just how different kids are. And my three kids have dramatically different personalities ever
+
+02:47.920 --> 02:51.680
+since the beginning. So one thing that makes us unique is that every one of us has a different
+
+02:51.680 --> 02:56.800
+hardware. The second thing that makes us unique is that every one of us has a different software
+
+02:56.800 --> 03:02.160
+uploading of all of human society, all of human civilization, all of human knowledge.
+
+03:02.880 --> 03:09.040
+We're not born knowing it. We're not like, I don't know, birds that learn how to make a nest
+
+03:09.040 --> 03:14.160
+through genetics and will make a nest even if they've never seen one. We are constantly relearning
+
+03:14.160 --> 03:18.720
+all of human civilization. So that's the second thing. And the third one that actually makes
+
+03:18.720 --> 03:24.560
+humans very different from AI is that the baggage we carry is not experiential baggage. It's also
+
+03:24.560 --> 03:32.640
+evolutionary baggage. So we have evolved through rounds of complexity. So just like ogres have
+
+03:32.640 --> 03:39.120
+layers and shrek has layers, humans have layers. There's the cognitive layer, which is sort of the
+
+03:39.120 --> 03:45.200
+outer most, the latest evolutionary innovation, this enormous neocortex that we have evolved.
+
+03:45.760 --> 03:52.640
+And then there's the emotional baggage underneath that. And then there's all of the fear and fright
+
+03:52.640 --> 03:59.760
+and flight and all of these kinds of behaviors. So AI only has a neocortex. AI doesn't have a
+
+03:59.760 --> 04:07.760
+limbic system. It doesn't have this complexity of human emotions, which make us so, I think,
+
+04:07.760 --> 04:15.360
+beautifully complex, so beautifully intertwined with our emotions, with our instincts, with our
+
+04:17.200 --> 04:21.600
+gut reactions and all of that. So I think when humans are trying to suppress that aspect,
+
+04:22.240 --> 04:26.400
+the sort of quote unquote more human aspect towards a more cerebral aspect,
+
+04:26.400 --> 04:32.320
+I think we lose a lot of the creativity. We lose a lot of the freshness of humans.
+
+04:32.320 --> 04:35.920
+And I think that's quite irreplaceable. So we can look at the entirety of people
+
+04:35.920 --> 04:40.640
+that are alive today and maybe all humans who have ever lived and mapped them in this high
+
+04:40.640 --> 04:49.280
+dimensional space. And there's probably a center of mass for that mapping. And a lot of us deviate
+
+04:49.280 --> 04:55.520
+in different directions. So the variety of directions in which we all deviate from that center
+
+04:55.600 --> 04:59.360
+is vast. I would like to think that the center is actually empty.
+
+05:00.400 --> 05:04.880
+That basically humans are just so diverse from each other that there's no such thing as an
+
+05:04.880 --> 05:11.360
+average human. That every one of us has some kind of complex baggage of emotions, intellectual,
+
+05:12.240 --> 05:20.400
+motivational, behavioral traits, that it's not just one sort of normal distribution we deviate
+
+05:20.400 --> 05:26.080
+from it. There's so many dimensions that we're kind of hitting the sort of sparseness,
+
+05:26.080 --> 05:30.560
+the curse of dimensionality, where it's actually quite sparsely populated.
+
+05:30.560 --> 05:33.280
+And I don't think you have an average human being.
+
+05:33.280 --> 05:41.200
+So what makes us unique in part is the diversity and the capacity for diversity. And the capacity
+
+05:41.200 --> 05:47.040
+of the diversity comes from the entire evolutionary history. So there's just so many ways we can
+
+05:47.920 --> 05:49.760
+vary from each other.
+
+05:49.760 --> 05:56.000
+Yeah. I would say not just the capacity, but the inevitability of diversity. Basically,
+
+05:56.000 --> 06:01.280
+it's in our hardware. We are wired differently from each other. My siblings and I are completely
+
+06:01.280 --> 06:05.360
+different. My kids from each other are completely different. My wife, she's like number two of six
+
+06:05.360 --> 06:10.720
+siblings. From a distance, they look the same, but then you get to know them. Every one of them is
+
+06:10.720 --> 06:16.080
+completely different. But sufficiently the same that the difference is interplayed with each other.
+
+06:16.480 --> 06:21.040
+That's the interesting thing, where the diversity is functional. It's useful.
+
+06:22.080 --> 06:28.320
+We're close enough to where we notice the diversity and it doesn't completely destroy
+
+06:28.320 --> 06:32.880
+the possibility of effective communication and interaction. So we're still the same kind of thing.
+
+06:33.440 --> 06:38.560
+What I said in one of our earlier podcasts is that if humans realized that we're 99.9% identical,
+
+06:39.280 --> 06:45.040
+we would basically stop fighting with each other. We are really one human species.
+
+06:46.400 --> 06:53.760
+We are so similar to each other. If you look at the alternative, if you look at the next thing
+
+06:53.760 --> 06:59.920
+outside humans, it's been six million years that we haven't had a relative. So it's truly
+
+06:59.920 --> 07:06.800
+extraordinary that we're kind of like this dot in outer space compared to the rest of life on Earth.
+
+07:07.360 --> 07:10.720
+When you think about evolving through rounds of complexity, can you maybe
+
+07:10.720 --> 07:16.160
+elaborate such a beautiful thought that there's layers of complexity that make...
+
+07:17.280 --> 07:22.160
+So with software, sometimes you're like, oh, let's build version two from scratch.
+
+07:22.960 --> 07:28.880
+But this doesn't happen in evolution. In evolution, you layer in additional features on top of old
+
+07:28.880 --> 07:38.560
+features. So basically, every single time my cells divide, I'm a yeast. I'm a unicellular organism.
+
+07:38.560 --> 07:44.480
+And then cell division is basically identical. Every time I breathe in and my lungs expand,
+
+07:47.520 --> 07:52.480
+every time my heart beats, I'm a fish. So basically, I still have the same heart.
+
+07:53.040 --> 07:59.840
+Very, very little has changed. The blood going through my veins, the oxygen, our immune system,
+
+08:00.400 --> 08:06.000
+we're basically primates. Our social behavior, we're basically new world monkeys and old world
+
+08:06.000 --> 08:14.240
+monkeys. We're basically this concept that every single one of these behaviors can be traced
+
+08:14.240 --> 08:19.920
+somewhere in evolution. And that all of that continues to live within us is also a testament
+
+08:19.920 --> 08:24.560
+to not just not killing other humans, for God's sake, but not killing other species either.
+
+08:25.200 --> 08:30.160
+Just to realize just how united we are with nature and that all of these biological processes have
+
+08:30.160 --> 08:35.120
+never ceased to exist. They're continuing to live within us. And then just the neocortex and all of
+
+08:35.120 --> 08:39.920
+the reasoning capabilities of humans are built on top of all of these other species that continue
+
+08:39.920 --> 08:46.400
+to live, breathe, divide, metabolize, fight off pathogens, all continue inside us.
+
+08:46.400 --> 08:50.400
+LW So you think the neocortex, whatever reasoning is,
+
+08:51.040 --> 08:55.200
+that's the latest feature in the latest version of this journey?
+
+08:55.200 --> 09:01.680
+JR It's extraordinary that humans have evolved so much in so little time. Again,
+
+09:01.680 --> 09:07.600
+if you look at the timeline of evolution, you basically have billions of years to even get to
+
+09:08.240 --> 09:15.920
+a dividing cell and then a multicellular organism and then a complex body plan. And then these
+
+09:15.920 --> 09:21.680
+incredible senses that we have for perceiving the world, the fact that bats can fly and the evolved
+
+09:21.680 --> 09:27.120
+flight, the evolved sonar in the span of a few million years. I mean, it's just extraordinary
+
+09:27.120 --> 09:35.120
+how much evolution has kind of sped up. And all of that comes through this evolvability,
+
+09:35.120 --> 09:40.320
+the fact that we took a while to get good at evolving. And then once you get good at evolving,
+
+09:40.320 --> 09:46.160
+you have modularity built in, you have hierarchical organizations built in,
+
+09:46.160 --> 09:52.640
+you have all of these constructs that allow meaningful changes to occur without breaking
+
+09:52.640 --> 09:56.320
+the system completely. If you look at a traditional genetic algorithm, the way that
+
+09:56.320 --> 10:02.080
+humans designed them in the sixties, you can only evolve so much. And as you evolve a certain amount
+
+10:02.080 --> 10:08.880
+of complexity, the number of mutations that move you away from something functional exponentially
+
+10:08.880 --> 10:14.480
+increases and the number of mutations that move you to something better exponentially decreases.
+
+10:14.480 --> 10:18.720
+So the probability of evolving something so complex becomes infinitesimally small
+
+10:19.280 --> 10:25.840
+as you get more complex. But with evolution, it's almost the opposite, almost the exact opposite,
+
+10:25.840 --> 10:30.320
+that it appears that it's speeding up exactly as complexity is increasing.
+
+10:30.960 --> 10:33.440
+And I think that's just the system getting good at evolving.
+
+10:34.480 --> 10:40.640
+Where do you think it's all headed? Do you ever think about where, try to visualize the entirety
+
+10:40.640 --> 10:46.720
+of the evolutionary system and see if there's an arrow to it and a destination to it?
+
+10:47.520 --> 10:52.480
+So the best way to understand the future is to look at the past. If you look at the trajectory,
+
+10:52.480 --> 10:56.560
+then you can kind of learn something about the direction in which we're heading.
+
+10:56.560 --> 11:00.800
+And if you look at the trajectory of life on Earth, it's really about information processing.
+
+11:00.800 --> 11:07.280
+So the concept of the senses evolving one after the other, like bacteria are able to
+
+11:07.280 --> 11:13.280
+do chemotaxis, which means moving towards a chemical gradient. And that's the first thing
+
+11:13.280 --> 11:17.760
+that you need to sort of hunt down food. The next step after that is being able to actually
+
+11:17.760 --> 11:24.320
+perceive light. So all life on this planet and all life that we know about evolved on this
+
+11:24.320 --> 11:31.200
+rotating rock. Every 24 hours, you get sunlight and dark, sunlight and dark. And light is a source
+
+11:31.200 --> 11:36.480
+of energy. Light is also information about where it's up. Light is all kinds of things.
+
+11:37.280 --> 11:43.680
+You can basically now start perceiving light and then perceiving shapes beyond just the
+
+11:43.680 --> 11:49.600
+sort of single photoreceptor. You can now have complex eyes or multiple eyes and then start
+
+11:49.600 --> 11:54.400
+perceiving motion or perceiving direction, perceiving shapes. And then you start building
+
+11:55.200 --> 12:00.720
+infrastructure on the cognitive apparatus to start processing this information and making
+
+12:00.720 --> 12:04.080
+sense of the environment, building more complex models of the environment.
+
+12:04.080 --> 12:10.240
+So if you look at that trajectory of evolution, what we're experiencing now, and humans are
+
+12:10.240 --> 12:15.840
+basically, according to this sort of information and theoretic view of evolution, humans are
+
+12:15.840 --> 12:20.960
+basically the next natural step. And it's perhaps no surprise that we became the dominant species
+
+12:20.960 --> 12:25.040
+of the planet. Because yes, there's so many dimensions in which some animals are way better
+
+12:25.040 --> 12:29.200
+than we are. But at least on the cognitive dimension, we're just simply unsurpassed
+
+12:29.200 --> 12:36.560
+on this planet and perhaps the universe. But the concept that if you now trace this forward,
+
+12:37.600 --> 12:41.040
+we talked a little bit about evolvability and how things get better at evolving.
+
+12:41.840 --> 12:51.760
+One possibility is that the next layer of evolution builds the next layer of evolution.
+
+12:51.760 --> 12:59.040
+And what we're looking at now with humans and AI is that having mastered this information capability
+
+12:59.600 --> 13:08.960
+that humans have from this quote, unquote, old hardware, this basically biological evolved system
+
+13:08.960 --> 13:15.120
+that somehow in the environment of Africa and then in subsequent environments is dispersing
+
+13:15.120 --> 13:23.520
+through the globe was evolutionarily advantageous. That has now created technology which now has a
+
+13:23.520 --> 13:29.760
+capability of solving many of these cognitive tasks. It doesn't have all the baggage of the
+
+13:29.760 --> 13:36.080
+previous evolutionary layers, but maybe the next round of evolution on Earth is self-replicating AI
+
+13:36.640 --> 13:41.520
+where we're actually using our current smarts to build better programming languages and the
+
+13:41.520 --> 13:48.240
+programming languages to build chat GPT and that to then build the next layer of software
+
+13:48.880 --> 13:55.440
+that will then help AI speed up. And it's lovely that we're coexisting with this AI
+
+13:56.000 --> 14:02.160
+that the creators of this next layer of evolution, this next stage are still around to help guide it
+
+14:02.160 --> 14:07.040
+and hopefully will be for the rest of eternity as partners. But it's also nice to think about
+
+14:07.040 --> 14:11.920
+it as just simply the next stage of evolution where you've extracted away the biological needs.
+
+14:11.920 --> 14:17.360
+Like if you look at animals, most of them spend 80% of their waking hours hunting for food or
+
+14:17.360 --> 14:23.520
+building shelter. Humans, maybe 1% of that time. And then the rest is left to creative endeavors.
+
+14:24.080 --> 14:28.480
+And AI doesn't have to worry about shelter, et cetera. So basically it's all living in
+
+14:28.480 --> 14:33.600
+the cognitive space. So in a way it might just be a very natural sort of next step
+
+14:33.600 --> 14:38.720
+to think about evolution. And that's on the sort of purely cognitive side.
+
+14:38.720 --> 14:45.040
+If you now think about humans themselves, the ability to understand and comprehend our own genome,
+
+14:45.520 --> 14:52.240
+again, the ultimate layer of introspection, gives us now the ability to even mess with this hardware,
+
+14:52.880 --> 14:58.160
+not just augment our capabilities through interacting and collaborating with AI,
+
+14:58.800 --> 15:09.360
+but also perhaps understand the neural pathways that are necessary for empathetic thinking,
+
+15:10.240 --> 15:15.360
+for justice, for this and this and that, and sort of help augment human capabilities through
+
+15:16.400 --> 15:20.800
+neuronal interventions, through chemical interventions, through electrical interventions
+
+15:20.800 --> 15:27.920
+to basically help steer the human bag of hardware that we kind of evolved with into
+
+15:28.800 --> 15:34.640
+greater capabilities. And then ultimately, by understanding not just the wiring of neurons
+
+15:34.640 --> 15:39.680
+and the functioning of neurons, but even the genetic code, we could even at one point in the
+
+15:39.680 --> 15:45.600
+future start thinking about, well, can we get rid of psychiatric disease? Can we get rid of
+
+15:45.600 --> 15:52.720
+neurodegeneration? Can we get rid of dementia and start perhaps even augmenting human capabilities,
+
+15:52.720 --> 15:59.360
+not just getting rid of disease? Can we tinker with the genome, with the hardware,
+
+15:59.920 --> 16:05.280
+or getting closer to the hardware without having to deeply understand the baggage?
+
+16:06.480 --> 16:11.520
+In the way we've disposed of the baggage in our software systems with AI, to some degree,
+
+16:11.520 --> 16:16.960
+not fully, but to some degree, can we do the same with the genome? Or is the genome
+
+16:16.960 --> 16:20.480
+deeply integrated into this baggage? I wouldn't want to get rid of the baggage.
+
+16:20.480 --> 16:25.200
+The baggage is what makes us awesome. So the fact that I'm sometimes angry and sometimes hungry and
+
+16:26.160 --> 16:33.280
+sometimes hangry is perhaps contributing to my creativity. I don't want to be dispassionate. I
+
+16:33.280 --> 16:39.600
+don't want to be another robot. I want to get in trouble, and I want to say the wrong thing,
+
+16:39.600 --> 16:48.480
+and I want to make an awkward comment and push myself into reactions and responses and
+
+16:48.480 --> 16:56.720
+and things that can get just people thinking differently. And I think our society is moving
+
+16:56.720 --> 17:02.560
+towards a humorless space where everybody's so afraid to say the wrong thing that people
+
+17:02.560 --> 17:07.280
+kind of start quitting en masse and start not liking their jobs and stuff like that.
+
+17:08.080 --> 17:16.080
+Maybe we should be kind of embracing that human aspect a little bit more in all of that baggage
+
+17:16.080 --> 17:20.320
+aspect and not necessarily thinking about replacing it. On the contrary,
+
+17:20.960 --> 17:25.360
+embracing it and sort of this coexistence of the cognitive and the emotional hardwares.
+
+17:25.360 --> 17:35.680
+So embracing and celebrating the diversity that springs from the baggage versus pushing towards
+
+17:36.400 --> 17:42.000
+and empowering this kind of pull towards conformity.
+
+17:42.000 --> 17:48.320
+Yeah. And in fact, with the advent of AI, I would say, and these seemingly extremely
+
+17:48.320 --> 17:53.920
+intelligent systems that can perform tasks that we thought of as extremely intelligent
+
+17:53.920 --> 18:02.560
+at the blink of an eye, this might democratize intellectual pursuits. Instead of just simply
+
+18:02.560 --> 18:09.040
+wanting the same type of brains that carry out specific ways of thinking,
+
+18:09.600 --> 18:16.640
+we can, instead of just always only wanting, say, the mathematically extraordinary to go to
+
+18:16.640 --> 18:22.320
+the same universities, what you could simply say is like, who needs that anymore? We now have AI.
+
+18:23.040 --> 18:28.640
+Maybe what we should really be thinking about is the diversity and the power that comes with the
+
+18:28.640 --> 18:35.360
+diversity where AI can do the math, and then we should be getting a bunch of humans that sort of
+
+18:35.360 --> 18:39.680
+think extremely differently from each other, and maybe that's the true cradle of innovation.
+
+18:40.800 --> 18:48.320
+But AI can also, these large language models can also be with just a few prompts essentially
+
+18:48.320 --> 18:54.960
+fine-tuned to be diverse from the center. So the prompts can really take you away into unique
+
+18:54.960 --> 19:00.400
+territory. You can ask the model to act in a certain way and it will start to act in that way.
+
+19:00.960 --> 19:06.960
+Is that possible that the language models could also have some of the magical diversity that
+
+19:06.960 --> 19:12.080
+makes us so damn interesting? Yeah. So I would say humans are the same way. So basically,
+
+19:12.080 --> 19:18.320
+when you sort of prompt humans to basically give an environment to act a particular way,
+
+19:19.840 --> 19:26.560
+they change their own behaviors. And the old saying is, show me your friends and I'll tell
+
+19:26.560 --> 19:32.160
+you who you are. More like, show me your friends and I'll tell you who you'll become.
+
+19:32.880 --> 19:37.360
+So it's not necessarily that you choose friends that are like you, but that's the first step.
+
+19:37.360 --> 19:42.880
+But then the second step is that the kind of behaviors that you find normal in your circles
+
+19:42.880 --> 19:49.440
+are the behaviors that you'll start espousing. And that type of meta-evolution where every action
+
+19:49.440 --> 19:55.360
+we take not only shapes our current action and the result of this action, but also shapes our
+
+19:55.360 --> 19:59.600
+future actions by shaping the environment in which their future actions will be taken.
+
+20:00.320 --> 20:04.720
+Every time you carry out a particular behavior, it's not just a consequence for today,
+
+20:05.280 --> 20:08.480
+but it's also a consequence for tomorrow because you're reinforcing that neural pathway.
+
+20:09.200 --> 20:16.560
+So in a way, self-discipline is a self-fulfilling prophecy. And by behaving the way that you want
+
+20:16.560 --> 20:22.400
+to behave and choosing people that are like you and sort of exhibiting those behaviors that are
+
+20:23.200 --> 20:29.600
+sort of desirable, you end up creating that environment as well.
+
+20:29.600 --> 20:36.000
+So it is a kind of life itself is a kind of prompting mechanism, super complex. The friends
+
+20:36.000 --> 20:42.080
+you choose, the environments you choose, the way you modify the environment that you choose,
+
+20:42.800 --> 20:48.400
+yes, but that seems like that process is much less efficient than a large language model.
+
+20:49.360 --> 20:53.520
+You can literally get a large language model through a couple of prompts to be
+
+20:54.720 --> 21:02.160
+a mix of Shakespeare and David Bowie. You can very aggressively change in a way that's stable
+
+21:02.160 --> 21:09.520
+and convincing. You really transform through a couple of prompts the behavior of the model
+
+21:10.640 --> 21:13.520
+into something very different from the original.
+
+21:13.920 --> 21:18.800
+So well before ChachiPT, I would tell my students,
+
+21:19.840 --> 21:26.640
+just ask what would Manoli say right now. And you guys all have a pretty good emulator of me
+
+21:26.640 --> 21:31.840
+right now. And I don't know if you know the programming paradigm of the Robert Ducklin,
+
+21:31.840 --> 21:36.480
+where you basically explain to the Robert Ducklin that's just sitting there exactly what you did
+
+21:36.480 --> 21:42.400
+with your code and why you have a bug. And just by the act of explaining, you'll kind of figure it
+
+21:42.400 --> 21:48.400
+out. I woke up one morning from a dream where I was giving a lecture in this amphitheater.
+
+21:48.960 --> 21:54.800
+And one of my friends was basically giving me some deep evolutionary insight on how cancer
+
+21:54.800 --> 22:01.200
+genomes and cancer cells evolve. And I woke up with a very elaborate discussion that I was giving
+
+22:01.200 --> 22:07.520
+and a very elaborate set of insights that he had that I was projecting onto my friend in my sleep.
+
+22:07.520 --> 22:12.240
+And obviously this was my dream. So my own neurons were capable of doing that,
+
+22:12.240 --> 22:19.280
+but they only did that under the prompt of you are now Piyush Gupta. You are a professor
+
+22:19.280 --> 22:25.040
+in cancer genomics. You're an expert in that field. What do you say? So I feel that we all
+
+22:25.040 --> 22:30.080
+have that inside us, that we have that capability of basically saying, I don't know what the right
+
+22:30.080 --> 22:36.000
+thing is, but let me ask my virtual ex, what would you do? And virtual ex would say, be kind.
+
+22:36.000 --> 22:42.320
+I'm like, oh, yes. Or something like that. And even though I myself might not be able to do it
+
+22:42.320 --> 22:49.040
+unprompted. And my favorite prompt is think step by step. And I'm like, you know, this also works
+
+22:49.040 --> 22:55.760
+on my 10 year old. When he tries to solve a math equation all in one step, I know exactly what
+
+22:55.760 --> 23:01.200
+mistake you'll make. But if I prompt it with, oh, please think step by step, then it sort of gets
+
+23:01.200 --> 23:06.000
+you in a mindset. And I think it's also part of the way that chat GPT was actually trained.
+
+23:06.000 --> 23:12.880
+This whole sort of human in the loop reinforcement learning has probably reinforced these types of
+
+23:12.880 --> 23:22.080
+behaviors whereby having this feedback loop, you kind of aligned AI better to the prompting
+
+23:22.080 --> 23:26.880
+opportunities by humans. Yeah. Prompting human like reasoning steps, the step by step kind of
+
+23:26.880 --> 23:33.440
+thinking. Yeah, but it does seem to be, I suppose it just puts a mirror to our own capabilities.
+
+23:33.440 --> 23:39.200
+And so we can be truly impressed by our own cognitive capabilities, because the variety
+
+23:39.200 --> 23:45.360
+of what you can try is we don't usually have this kind of, we can't play with our own mind
+
+23:46.320 --> 23:53.440
+rigorously through Python code, right? Yeah. So this allows us to really play with
+
+23:53.440 --> 23:59.840
+all of human wisdom and knowledge or at least knowledge at our fingertips and then mess with
+
+23:59.840 --> 24:05.120
+that little mind that can think and speak in all kinds of ways. What's unique is that as I mentioned
+
+24:05.120 --> 24:12.800
+earlier, every one of us was trained by different subset of human culture and chat GPT was trained
+
+24:12.800 --> 24:19.040
+on all of it. Yeah. And the difference there is that it probably has the ability to emulate
+
+24:19.120 --> 24:24.640
+almost every one of us. The fact that you can figure out where that is in cognitive behavioral
+
+24:24.640 --> 24:29.680
+space just by a few prompts, it's pretty impressive. But the fact that that exists somewhere
+
+24:30.320 --> 24:40.000
+is absolutely beautiful. And the fact that it's encoded in an orthogonal way from the knowledge,
+
+24:40.000 --> 24:45.360
+I think is also beautiful. The fact that somehow through this extreme over-parameterization
+
+24:45.360 --> 24:52.640
+of AI models, it was able to somehow figure out that context, knowledge and form are separable
+
+24:53.440 --> 24:58.320
+and that you can sort of describe scientific knowledge in a haiku in the form of, I don't
+
+24:58.320 --> 25:04.080
+know, Shakespeare or something. That tells you something about the decoupling and the
+
+25:04.080 --> 25:10.400
+decouple ability of these types of aspects of human psyche. And that's part of the science of
+
+25:10.400 --> 25:17.280
+this whole thing. So these large language models are days old in terms of this kind of leap that
+
+25:17.280 --> 25:22.480
+they've taken. And it would be interesting to do this kind of analysis on them of the separation
+
+25:22.480 --> 25:27.680
+of context, form and knowledge. Where exactly does that happen? There's already sort of initial
+
+25:27.680 --> 25:34.640
+investigations, but it's very hard to figure out where, is there a particular set of parameters
+
+25:34.640 --> 25:39.680
+that are responsible for a particular piece of knowledge or a particular context or a particular
+
+25:39.680 --> 25:47.040
+style of speaking? So with convolutional neural networks, interpretability had many good advances
+
+25:47.040 --> 25:52.480
+because we can kind of understand them. There's a structure to them. There's a locality to them.
+
+25:52.480 --> 25:57.680
+And we can kind of understand the different layers, have different sort of ranges that they're
+
+25:57.680 --> 26:02.560
+looking at. So we can look at activation features and basically see where does that correspond to.
+
+26:03.280 --> 26:08.480
+With large language models, it's perhaps a little more complicated,
+
+26:08.480 --> 26:11.520
+but I think it's still achievable in the sense that we could kind of ask, well,
+
+26:11.520 --> 26:16.320
+what kind of prompts does this generate? If I sort of drop out this part of the network,
+
+26:16.320 --> 26:22.800
+then what happens? And sort of start getting at a language to even describe these types of aspects
+
+26:22.800 --> 26:29.360
+of human behavior or psychology, if you wish, from the spoken part in the language part.
+
+26:29.360 --> 26:34.080
+And the advantage of that is that it might actually teach us something about
+
+26:34.080 --> 26:39.360
+humans as well. We might not have words to describe these types of aspects right now,
+
+26:40.000 --> 26:43.840
+but when somebody speaks in a particular way, it might remind us of a friend that we know
+
+26:43.840 --> 26:48.320
+from here and there and there. And if we had better language for describing that,
+
+26:48.320 --> 26:51.760
+these concepts might become more apparent in our own human psyche,
+
+26:51.760 --> 26:54.160
+and then we might be able to encode them better in machines themselves.
+
+26:56.160 --> 27:00.960
+Well, probably you and I would have certain interests with the base model,
+
+27:00.960 --> 27:08.640
+what Open Act calls the base model, which is before the alignment, the reinforcement
+
+27:08.640 --> 27:15.440
+learning with human feedback, and before the AI safety-based kind of censorship of the model.
+
+27:16.320 --> 27:22.160
+It would be fascinating to explore, to investigate the ways that the model can generate hate speech,
+
+27:23.120 --> 27:29.360
+the kind of hate that humans are capable of. It would be fascinating, or the kind of, of course,
+
+27:29.440 --> 27:35.840
+like sexual language, or the kind of romantic language, or the all kinds of ideologies. Can
+
+27:35.840 --> 27:40.400
+I get it to be a communist? Can I get it to be a fascist? Can I get it to be a capitalist? Can I
+
+27:40.400 --> 27:46.880
+get it to be all these kinds of things and see which parts get activated and not? Because it'll
+
+27:46.880 --> 27:53.760
+be fascinating to sort of explore at the individual mind level and at a societal level, where do these
+
+27:53.760 --> 28:02.080
+ideas take hold? What is the fundamental core of those ideas? Maybe the communism, fascism,
+
+28:02.080 --> 28:07.840
+capitalism, democracy are all actually connected by the fact that the human heart, the human mind
+
+28:07.840 --> 28:14.160
+is drawn to ideology, to a centralizing idea. And maybe we need a neural network to remind us of that.
+
+28:14.800 --> 28:20.000
+I like the concept that the human mind is somehow tied to ideology. And I think that goes back to
+
+28:20.560 --> 28:26.320
+the prompt ability of Chachi Petit, the fact that you can kind of say, well, think in this particular
+
+28:26.320 --> 28:32.080
+way now. And the fact that humans have invented words for encapsulating these types of behaviors.
+
+28:32.640 --> 28:38.240
+And it's hard to know how much of that is innate and how much of that was passed on from language
+
+28:38.240 --> 28:42.480
+to language. But basically, if you look at the evolution of language, you can kind of see how
+
+28:42.480 --> 28:49.600
+young are these words in the history of language evolution that describe these types of behaviors,
+
+28:49.600 --> 28:56.560
+like kindness and anger and jealousy, et cetera. If these words are very similar from language
+
+28:56.560 --> 29:03.440
+to language, it might suggest that they're very ancient. If they're very different, it might
+
+29:03.440 --> 29:08.960
+suggest that this concept may have emerged independently in each different language and
+
+29:08.960 --> 29:18.320
+so on and so forth. So looking at the phylogeny, the history, the evolutionary traces of language
+
+29:18.320 --> 29:23.600
+at the same time as people moving around that we can now trace thanks to genetics
+
+29:24.960 --> 29:31.360
+is a fascinating way of understanding the human psyche and also understanding how these types
+
+29:31.360 --> 29:39.520
+of behaviors emerge. And to go back to your idea about exploring the system unfiltered,
+
+29:41.360 --> 29:47.520
+in a way, psychiatric hospitals are full of those people. So basically, people whose mind
+
+29:47.520 --> 29:53.200
+is uncontrollable, who have kind of gone adrift in specific locations of their psyche.
+
+29:54.000 --> 30:02.640
+And I do find this fascinating. Basically, watching movies that are trying to capture the
+
+30:02.640 --> 30:11.120
+essence of troubled minds, I think is teaching us so much about our everyday selves, because
+
+30:11.120 --> 30:17.120
+many of us are able to sort of control our minds and are able to somehow hide these emotions
+
+30:17.680 --> 30:25.680
+and but every time I see somebody who's troubled, I see versions of myself, maybe not as extreme,
+
+30:25.680 --> 30:32.560
+but I can sort of empathize with these behaviors. And I see bipolar, I see schizophrenia,
+
+30:32.560 --> 30:37.760
+I see depression, I see autism, I see so many different aspects that we kind of have names for
+
+30:37.760 --> 30:44.640
+and crystallize in specific individuals. And I think all of us have that. All of us have sort of
+
+30:44.640 --> 30:51.440
+just this multidimensional brain and genetic variations that push us in these directions,
+
+30:51.440 --> 30:57.600
+environmental exposures and traumas that push us in these directions, environmental behaviors that
+
+30:57.600 --> 31:03.120
+are reinforced by the kind of friends that we chose or friends that we were stuck with
+
+31:03.760 --> 31:07.040
+because of the environments that we grew up in. So in a way, a lot of these
+
+31:07.760 --> 31:18.240
+types of behaviors are within the vector span of every human. It's just that the magnitude of
+
+31:18.240 --> 31:25.280
+those vectors is generally smaller for most people because they haven't inherited that
+
+31:25.280 --> 31:29.360
+particular set of genetic variants, or because they haven't been exposed to those environments,
+
+31:29.360 --> 31:34.560
+basically. Or something about the mechanism of reinforcement learning with human feedback
+
+31:34.560 --> 31:38.640
+didn't quite work for them. So it's fascinating to think about that's what we do. We have this
+
+31:38.640 --> 31:47.200
+capacity to have all these psychiatric behaviors associated with psychiatric disorders, but we,
+
+31:47.200 --> 31:53.200
+through the alignment process as we grew up with the parents, we know how to suppress them.
+
+31:54.720 --> 32:02.800
+Every human that grows up in this world spends several decades being shaped into place. And
+
+32:02.800 --> 32:06.960
+without that, maybe we would have the unfiltered chat GPT-4.
+
+32:08.400 --> 32:11.920
+Every baby is basically a raging narcissist.
+
+32:13.360 --> 32:20.720
+Not all of them. Believe it or not. It's remarkable. I remember watching my kids grow up,
+
+32:20.720 --> 32:24.960
+and again, yes, part of their personality has stayed the same, but also in different phases
+
+32:24.960 --> 32:29.040
+through their life, they've gone through these dramatically different types of behaviors.
+
+32:29.440 --> 32:36.160
+And my daughter basically one kid saying, oh, I want the bigger piece. The other one saying,
+
+32:36.160 --> 32:41.680
+oh, everything must be exactly equal. And the third one saying, I'm okay. I might have the
+
+32:41.680 --> 32:45.600
+smaller part. Don't worry about me. Even in the early days, in the early days of development.
+
+32:45.600 --> 32:51.600
+Yeah. It's just extraordinary to see these dramatically different... My wife and I
+
+32:52.560 --> 32:59.760
+are very different from each other, but we also have six million variants, six million loci each,
+
+32:59.760 --> 33:03.920
+if you just look at common variants. We also have a bunch of rare variants that are inherited in
+
+33:03.920 --> 33:10.560
+more Mendelian fashion. And now you have an infinite number of possibilities for each of the kids.
+
+33:10.560 --> 33:16.240
+So basically it's two to the six million just from the common variants. And then if you layer
+
+33:16.240 --> 33:20.240
+in the rare variants. So let me talk a little bit about common variants and rare variants.
+
+33:20.240 --> 33:25.680
+If you look at just common variants, they're generally weak effect because selection
+
+33:25.680 --> 33:30.960
+selects against strong effect variants. So if something has a big risk for schizophrenia,
+
+33:31.680 --> 33:37.520
+it won't rise to high frequency. So the ones that are common are by definition, by selection,
+
+33:38.240 --> 33:43.120
+only the ones that had relatively weak effect. And if all of the variants associated with
+
+33:43.120 --> 33:48.480
+personality, with cognition, and all aspects of human behavior were weak effect variants,
+
+33:48.480 --> 33:51.600
+then kids would basically be just averages of their parents.
+
+33:52.960 --> 33:58.320
+If it was like thousands of loci, just by law of large numbers, the average of two large numbers
+
+33:58.320 --> 34:04.720
+would be very robustly close to that middle. But what we see is that kids are dramatically
+
+34:04.720 --> 34:09.680
+different from each other. So that basically means that in the context of that common variation,
+
+34:09.680 --> 34:13.920
+you basically have rare variants that are inherited in a more Mendelian fashion,
+
+34:13.920 --> 34:18.720
+that basically then sort of govern likely many different aspects of human behavior,
+
+34:18.720 --> 34:28.080
+human biology, and human psychology. And again, if you look at a person with schizophrenia,
+
+34:28.720 --> 34:34.720
+their identical twin has only 50% chance of actually being diagnosed with schizophrenia.
+
+34:34.720 --> 34:39.840
+So that basically means there's probably developmental exposures, environmental exposures,
+
+34:40.400 --> 34:45.280
+trauma, all kinds of other aspects that can shape that. And if you look at siblings,
+
+34:45.280 --> 34:48.720
+for the common variants, it kind of drops off exponentially, as you would expect,
+
+34:48.720 --> 34:55.360
+with sharing 50% of your genome, 25% of your genome, 12.5% of your genome, et cetera,
+
+34:55.360 --> 35:01.760
+with more and more distant cousins. But the fact that siblings can differ so much in their
+
+35:01.760 --> 35:08.400
+personalities that we observe every day, it can't all be nurture. Basically, again, as parents,
+
+35:08.400 --> 35:14.720
+we spend enormous amount of energy trying to fix the nurture part, trying to get them to share,
+
+35:14.720 --> 35:21.920
+get them to be kind, get them to be open, get them to trust each other, overcome the prisoner's
+
+35:21.920 --> 35:27.520
+dilemma of if everyone fends for themselves, we're all going to live in a horrible place.
+
+35:27.520 --> 35:30.720
+But if we're a little more altruistic, then we're all going to be in a better place.
+
+35:31.360 --> 35:36.960
+And I think it's not like we treat our kids differently, but they're just born differently.
+
+35:36.960 --> 35:42.480
+So in a way, as a geneticist, I have to admit that there's only so much I can do with nurture,
+
+35:43.120 --> 35:47.440
+that nature definitely plays a big component. The selection of variants we have,
+
+35:47.440 --> 35:55.680
+the common variants and the rare variants. What can we say about the landscape of possibility
+
+35:55.680 --> 36:04.640
+they create? If you could just linger on that. So the selection of rare variants is divine how?
+
+36:05.440 --> 36:13.360
+How do we get the ones that we get? Is it just laden in that giant evolutionary baggage?
+
+36:13.360 --> 36:17.200
+So I'm going to talk about regression. Why do we call it regression?
+
+36:18.000 --> 36:25.920
+And the concept of regression to the mean, the fact that when fighter pilots in a dogfight
+
+36:25.920 --> 36:30.480
+did amazingly well, they would give them rewards. And then the next time they're
+
+36:30.480 --> 36:37.040
+in a dogfight, they would do worse. So then the Navy basically realized that, wow,
+
+36:37.760 --> 36:41.840
+at least interpreted that as, wow, we're ruining them by praising them,
+
+36:41.840 --> 36:45.520
+and then they're going to perform worse. The statistical interpretation of that is
+
+36:45.520 --> 36:50.720
+regression to the mean. The fact that you're an extraordinary pilot, you've been trained in
+
+36:50.720 --> 36:58.480
+an extraordinary fashion. That pushes your mean further and further to extraordinary achievement.
+
+36:59.280 --> 37:05.120
+And then in some dogfights, you'll just do extraordinarily well. The probability that
+
+37:05.120 --> 37:10.240
+the next one will be just as good is almost nil, because this is the peak of your performance.
+
+37:11.280 --> 37:16.640
+And just by statistical odds, the next one will be another sample from the same underlying
+
+37:16.640 --> 37:22.000
+distribution, which is going to be a little closer to the mean. So regression analysis
+
+37:22.880 --> 37:29.360
+takes its name from this type of realization in the statistical world. Now, if you now take
+
+37:31.200 --> 37:36.240
+humans, you basically have people who have achieved extraordinary achievements.
+
+37:37.440 --> 37:42.400
+Einstein, for example. You would call him, for example, the epitome of human intellect.
+
+37:43.200 --> 37:47.200
+Does that mean that all of his children and grandchildren will be extraordinary geniuses?
+
+37:48.160 --> 37:51.280
+It probably means that they're sampled from the same underlying distribution,
+
+37:52.080 --> 37:57.840
+but he was probably a rare combination of extremes in addition to these common variants.
+
+37:58.880 --> 38:05.120
+So you can basically interpret your kid's variation, for example, as, well, of course,
+
+38:05.120 --> 38:10.560
+they're going to be some kind of sample from the average of the parents with some kind of deviation
+
+38:10.560 --> 38:13.680
+according to the specific combination of rare variants that they have inherited.
+
+38:13.680 --> 38:22.960
+So given all that, the possibilities are endless as to where you should be, but you should always
+
+38:22.960 --> 38:30.000
+interpret that with, well, it's probably an alignment of nature and nurture. And the nature
+
+38:30.000 --> 38:34.400
+has both the common variants that are acting kind of like the law of large numbers and the rare
+
+38:34.400 --> 38:38.720
+variants that are acting more in a Mendelian fashion. And then you layer in the nurture,
+
+38:38.720 --> 38:42.960
+which again, in everyday action we make, we shape our future environment,
+
+38:43.920 --> 38:50.640
+but the genetics we inherit are shaping the future environment of not only us, but also our children.
+
+38:51.280 --> 38:55.360
+So there's this weird nature, nurture, interplay, and self-reinforcement
+
+38:56.400 --> 39:00.000
+where you're kind of shaping your own environment, but you're also shaping the
+
+39:00.000 --> 39:05.600
+environment of your kids. And your kids are going to be born in the context of your environment that
+
+39:05.600 --> 39:12.000
+you've shaped, but also with a bag of genetic variants that they have inherited. And there's
+
+39:12.000 --> 39:16.800
+just so much complexity associated with that. When we start blaming something on nature,
+
+39:17.360 --> 39:22.640
+it might just be nurture. It might just be that, well, yes, they inherited the genes from the
+
+39:22.640 --> 39:27.200
+parents, but they also were shaped by the same environment. So it's very, very hard to untangle
+
+39:27.200 --> 39:32.480
+the two. And you should always realize that nature can influence nurture, nurture can influence
+
+39:32.480 --> 39:37.120
+nature, or at least be correlated with and predictive of, and so on and so forth.
+
+39:37.120 --> 39:41.120
+So I love thinking about that distribution that you mentioned. And here's where I can
+
+39:41.120 --> 39:49.040
+be my usual ridiculous self. And I sometimes think about that army of sperm cells,
+
+39:50.480 --> 39:55.760
+however many hundreds of thousands there are. And I kind of think of all the possibilities there,
+
+39:56.480 --> 40:00.000
+because there's a lot of variation and one gets to win.
+
+40:01.200 --> 40:05.440
+It's not a random one. Is it a totally ridiculous way to think about?
+
+40:05.440 --> 40:12.320
+No, not at all. So I would say evolutionarily, we are a very slow evolving species. Basically,
+
+40:12.320 --> 40:18.960
+the generations of humans are a terrible way to do selection. What you need is processes that allow
+
+40:18.960 --> 40:27.520
+you to do selection in a smaller, tighter loop. And if you look at our immune system, for example,
+
+40:28.320 --> 40:34.400
+it evolves at a much faster pace than humans evolve, because there is actually an evolutionary
+
+40:34.400 --> 40:40.640
+process that happens within our immune cells. As they're dividing, there's basically VDJ
+
+40:40.640 --> 40:46.640
+recombination that basically creates this extraordinary wealth of antibodies and antigens
+
+40:46.640 --> 40:52.720
+against the environment. And basically all these antibodies are now recognizing all these antigens
+
+40:52.720 --> 41:00.800
+from the environment and they send signals back that cause these cells that recognize the non-self
+
+41:00.800 --> 41:07.360
+to multiply. So that basically means that even though viruses evolve at millions of times faster
+
+41:07.360 --> 41:13.120
+than we are, we can still have a component of ourselves which is environmentally facing,
+
+41:13.120 --> 41:17.280
+which is evolving at not the same scale, but very rapid pace.
+
+41:19.280 --> 41:29.520
+Sperm expresses perhaps the most proteins of any cell in the body. And part of the thought is that
+
+41:29.520 --> 41:36.560
+this might just be a way to check that the sperm is intact. In other words, if you waited until
+
+41:36.560 --> 41:44.080
+that human has a liver and starts eating solid food and sort of filtrates away
+
+41:46.720 --> 41:52.080
+or kidneys or stomach, et cetera, basically if you waited until these mutations manifest
+
+41:52.640 --> 41:57.600
+late, lately in life, then you would end up not failing fast and you would end up with a lot of
+
+41:57.600 --> 42:04.240
+failed pregnancies and a lot of later onset psychiatric illnesses, et cetera. If instead
+
+42:04.240 --> 42:08.000
+you basically express all of these genes at the sperm level and if they miss form,
+
+42:08.000 --> 42:12.400
+they basically cause the sperm to cripple, then you have at least on the male side
+
+42:12.400 --> 42:17.360
+the ability to exclude some of those mutations. And on the female side, as the egg develops,
+
+42:18.720 --> 42:25.120
+there's probably a similar process where you could sort of weed out eggs that are just not
+
+42:26.240 --> 42:31.120
+carrying beneficial mutations or at least that are carrying highly detrimental mutations.
+
+42:31.120 --> 42:37.920
+So you can basically think of the evolutionary process in a nested loop, basically, where
+
+42:38.640 --> 42:42.960
+there's an inner loop where you get many, many more iterations to run and then there's an outer
+
+42:42.960 --> 42:51.040
+loop that moves at a much slower pace. And going back to the next step of evolution of possibly
+
+42:51.040 --> 42:57.200
+designing systems that we can use to sort of complement our own biology or to sort of eradicate
+
+42:57.200 --> 43:02.880
+disease and you name it, or at least mitigate some of the, I don't know, psychiatric illnesses,
+
+43:02.880 --> 43:09.280
+neurodegenerative disorders, et cetera. And also metabolic, immune, cancer, you name it,
+
+43:10.960 --> 43:17.920
+simply engineering these mutations from rational design might be very inefficient.
+
+43:17.920 --> 43:22.320
+If instead you have an evolutionary loop where you're kind of growing neurons on a dish
+
+43:22.320 --> 43:25.840
+and you're exploring evolutionary space and you're sort of shaping that one protein
+
+43:26.400 --> 43:30.640
+to be better adapt that sort of, I don't know, recognizing light or communicating with other
+
+43:30.640 --> 43:34.640
+neurons, et cetera, you can basically have a smaller evolutionary loop that you can run
+
+43:34.640 --> 43:39.680
+thousands of times faster than the speed it would take to evolve humans for another million years.
+
+43:39.680 --> 43:47.440
+So I think it's important to think about sort of this evolvability as a set of nested structures
+
+43:47.440 --> 43:51.600
+that allow you to sort of test many more combinations but in a more fixed setting.
+
+43:51.600 --> 43:58.000
+Yeah, that's fascinating that the mechanism there is for sperm to express proteins to create
+
+43:58.000 --> 44:03.920
+a testing ground early on so that the failed designs don't make it.
+
+44:03.920 --> 44:09.360
+Yeah. I mean, in design of engineering systems, fail fast is one of the principles you learn.
+
+44:09.360 --> 44:14.880
+Like basically, you assert something. Why do you assert that? Because if that something ain't right,
+
+44:14.880 --> 44:20.400
+you better crash now than sort of let it crash at an unexpected time. And in a way,
+
+44:20.400 --> 44:24.240
+you can think of it as like 20,000 assert functions. Assert protein can fold. Assert
+
+44:24.240 --> 44:29.360
+protein can fold. And if any of them fail, that sperm is gone. Well, I just like the fact that
+
+44:29.360 --> 44:35.360
+I'm the winning sperm. I'm the result of the winner. Hashtag winning. My wife always plays
+
+44:35.360 --> 44:40.320
+me this French song that actually sings about that. It's like, you know, remember in life,
+
+44:40.320 --> 44:47.760
+we were all the first one time. At least once we won. At least one time you were the first.
+
+44:47.760 --> 44:51.280
+I should mention, this is a brief tangent back to the place where we came from,
+
+44:51.280 --> 44:56.240
+which is the base model that I mentioned for open AI, which is before the reinforcement learning
+
+44:56.240 --> 45:01.520
+with human feedback. And you kind of give this metaphor of it being kind of like a psychiatric
+
+45:01.520 --> 45:06.160
+hospital. I like that because it's basically all of these different angles at once. Like you
+
+45:06.160 --> 45:11.360
+basically have the more extreme versions of human psyche. So the interesting thing is,
+
+45:12.320 --> 45:17.520
+well, I've talked with folks in open AI quite a lot and they say it's extremely difficult to
+
+45:17.520 --> 45:21.600
+work with that model. Yeah. Kind of like it's extremely difficult to work with some humans.
+
+45:21.600 --> 45:26.000
+The parallels there are very interesting because once you run the alignment process,
+
+45:26.000 --> 45:31.520
+it's much easier to interact with it, but it makes you wonder what the capacity, what the
+
+45:31.520 --> 45:37.280
+underlying capability of the human psyche is in the same way that what is the underlying capability
+
+45:37.360 --> 45:41.200
+of a large language model. And remember earlier when I was basically saying that
+
+45:42.320 --> 45:47.120
+part of the reason why it's so prompt malleable is because of that alignment problem,
+
+45:47.760 --> 45:52.720
+that alignment work. It's kind of nice that the engineers at open AI have the same interpretation
+
+45:53.360 --> 45:59.920
+that, you know, in fact it is that. And this whole concept of easier to work with,
+
+45:59.920 --> 46:12.000
+I wish that we could work with more diverse humans in a way. And sort of that's one of the
+
+46:12.000 --> 46:18.320
+possibilities that I see with the advent of these large language models. The fact that
+
+46:19.360 --> 46:25.840
+it gives us the chance to both dial down friends of ours that we can't interpret or
+
+46:26.560 --> 46:31.920
+that are just too edgy to sort of really truly interact with where you could have a real-time
+
+46:31.920 --> 46:37.760
+translator. Just the same way that you can translate English to Japanese or Chinese or Korean
+
+46:38.320 --> 46:45.280
+by like real-time adaptation, you could basically suddenly have a conversation with your favorite
+
+46:45.280 --> 46:49.760
+extremist on either side of the spectrum and just dial them down a little bit.
+
+46:49.920 --> 46:57.120
+Of course, not you and I, but you could have friends who's a complete asshole,
+
+46:58.160 --> 47:02.640
+but it's a different base level. So you can actually tune it down to like,
+
+47:02.640 --> 47:07.040
+okay, they're not actually being an asshole there. They're actually expressing love right now.
+
+47:08.160 --> 47:09.760
+They have their way of doing that.
+
+47:09.760 --> 47:13.680
+And they probably live in New York just to pick a random location.
+
+47:14.080 --> 47:18.320
+So yeah, so you can basically layer out contexts. You can basically say,
+
+47:18.320 --> 47:23.360
+oh, let me change New York to Texas and let me change extreme left, extreme right,
+
+47:23.360 --> 47:30.800
+or somewhere in the middle or something. And I also like the concept of being able to
+
+47:33.360 --> 47:40.560
+listen to the information without being dissuaded by the emotions. In other words,
+
+47:40.560 --> 47:46.720
+everything humans say has an intonation, has some kind of background that they're coming from,
+
+47:47.360 --> 47:51.840
+reflects the way that they're thinking of you, reflects the impression that they have of you.
+
+47:52.480 --> 47:59.680
+And all of these things are intertwined, but being able to disconnect them, being able to sort of,
+
+48:02.080 --> 48:08.240
+self-improvement is one of the things that I'm constantly working on. And being able to receive
+
+48:08.240 --> 48:15.680
+criticism from people who really hate you is difficult because it's layered in with that
+
+48:15.680 --> 48:19.760
+hatred. But deep down, there's something that they say that actually makes sense,
+
+48:20.400 --> 48:24.320
+or if people who love you might layer it in a way that doesn't come through.
+
+48:24.320 --> 48:28.640
+But if you're able to sort of disconnect that emotional component from the sort of
+
+48:28.640 --> 48:35.200
+self-improvement, and basically when somebody says, whoa, that was a bunch of bullshit,
+
+48:35.200 --> 48:40.560
+did you ever do the control this and this and that? You could just say, oh, thanks for the very
+
+48:40.560 --> 48:45.280
+interesting presentation. I'm wondering, what about that control? Then suddenly you're like,
+
+48:45.280 --> 48:48.800
+oh yeah, of course, I'm going to run that control. That's a great idea. Instead of,
+
+48:48.800 --> 48:53.600
+that was a bunch of BS, you're sort of hitting on the brakes and you're trying to push back against
+
+48:53.600 --> 49:00.480
+that. So any kind of criticism that comes after that is very difficult to interpret in a positive
+
+49:00.480 --> 49:05.760
+way because it helps reinforce the negative assessment of your work. When in fact,
+
+49:06.320 --> 49:12.960
+if we disconnected the technical component from the negative assessment, then you're embracing the
+
+49:14.800 --> 49:19.200
+technical component, you're going to fix it. Whereas if it's coupled with, and if that thing
+
+49:19.200 --> 49:26.000
+is real and I'm right about your mistake, then it's a bunch of BS, then suddenly you're going
+
+49:26.000 --> 49:30.960
+to try to prove that that mistake does not exist. Yeah, it's fascinating to like carry the
+
+49:30.960 --> 49:35.920
+information. I mean, this is what you're essentially able to do here is you carry the information
+
+49:35.920 --> 49:40.560
+in the rich complexity that information contains. So it's not actually dumbing it down in some way.
+
+49:40.560 --> 49:46.480
+Exactly. You're still expressing it, but taking off. But you can dial the emotional. The emotional
+
+49:46.480 --> 49:51.760
+side. Yeah. Which is probably so powerful for the internet or for social networks. Again,
+
+49:51.760 --> 49:57.280
+when it comes to understanding each other, for example, I don't know what it's like to go through
+
+49:57.280 --> 50:02.960
+life with a different skin color. I don't know how people will perceive me. I don't know how
+
+50:02.960 --> 50:10.320
+people will respond to me. We don't often have that experience. But in a virtual reality environment
+
+50:10.320 --> 50:17.040
+or in a sort of AI interactive system, you could basically say, okay, now make me Chinese or make
+
+50:17.040 --> 50:24.560
+me South African or make me Nigerian. You can change the accent. You can change layers of
+
+50:25.600 --> 50:31.680
+that contextual information and then see how the information is interpreted. And you can re-hear
+
+50:31.680 --> 50:39.040
+yourself through a different angle. You can hear others. You can have others react to you from
+
+50:39.040 --> 50:45.280
+a different package. And then hopefully we can sort of build empathy by learning to disconnect
+
+50:45.280 --> 50:52.640
+all of these social cues that we get from how a person is dressed. If they're wearing a hoodie
+
+50:52.640 --> 50:57.920
+or if they're wearing a shirt or if they're wearing a jacket, you get very different emotional
+
+50:57.920 --> 51:07.120
+responses that I wish we could overcome as humans. And perhaps large language models and augmented
+
+51:07.120 --> 51:12.640
+reality and deep fakes can kind of help us overcome all that. In what way do you think
+
+51:13.600 --> 51:20.720
+these large language models and the thing they give birth to in the AI space will change this
+
+51:20.720 --> 51:26.880
+human experience, the human condition, the things that we've talked across many podcasts about
+
+51:27.520 --> 51:36.960
+that makes life so damn interesting and rich? Love, fear, fear of death, all of it.
+
+51:37.600 --> 51:41.440
+If we could just begin kind of thinking about how does it change
+
+51:42.240 --> 51:48.880
+for the good and the bad, the human condition? Human society is extremely complicated.
+
+51:49.600 --> 51:59.520
+We have come from a hunter-gatherer society to an agricultural and farming society
+
+51:59.680 --> 52:07.440
+where the goal of most professions was to eat and to survive. And with the advent of agriculture,
+
+52:08.000 --> 52:13.840
+the ability to live together in societies, humans could suddenly be
+
+52:16.400 --> 52:22.720
+valued for different skills. If you don't know how to hunt, but you're an amazing potterer,
+
+52:23.520 --> 52:28.880
+then you fit in society very well because you can sort of make your pottery and you can do
+
+52:28.880 --> 52:35.200
+and you can barter it for rabbits that somebody else caught. And the person who hunts the rabbits
+
+52:36.000 --> 52:40.960
+doesn't need to make pots because you're making all the pots. And that specialization of humans
+
+52:40.960 --> 52:47.920
+is what shaped modern society. And with the advent of currencies and governments and
+
+52:49.360 --> 52:56.560
+credit cards and Bitcoin, you basically now have the ability to exchange value for the kind of
+
+52:56.560 --> 53:01.040
+productivity that you have. So basically, I make things that are desirable to others. I can sell
+
+53:01.040 --> 53:11.280
+them and buy back food, shelter, et cetera. With AI, the concept of I am my profession
+
+53:12.480 --> 53:18.160
+might need to be revised because I defined my profession in the first place as something that
+
+53:18.160 --> 53:24.080
+humanity needed that I was uniquely capable of delivering. But the moment we have AI systems
+
+53:24.080 --> 53:31.600
+able to deliver these goods, for example, writing a piece of software or making a self-driving car
+
+53:31.600 --> 53:42.240
+or interpreting the human genome, then that frees up more of human time for other pursuits.
+
+53:43.280 --> 53:48.000
+These could be pursuits that are still valuable to society. I could basically be 10 times more
+
+53:48.000 --> 53:56.400
+productive at interpreting genomes and do a lot more. Or I could basically say, oh great,
+
+53:56.400 --> 54:01.040
+the interpreting genomes part of my job now only takes me 5% of the time instead of 60% of the time.
+
+54:01.680 --> 54:07.360
+So now I can do more creative things. I can explore not new career options, but maybe new
+
+54:07.360 --> 54:12.480
+directions from my research lab. I can sort of be more productive, contribute more to society.
+
+54:13.200 --> 54:22.720
+And if you look at this giant pyramid that we have built on top of the subsistence economy,
+
+54:24.400 --> 54:29.680
+what fraction of US jobs are going to feeding all of the US? Less than 2%.
+
+54:31.840 --> 54:40.800
+Basically, the gain in productivity is such that 98% of the economy is beyond just feeding ourselves.
+
+54:41.280 --> 54:49.440
+And that basically means that we kind of have built this system of interdependencies of needed
+
+54:49.440 --> 54:55.200
+or useful or valued goods that sort of make the economy run. That the vast majority of wealth
+
+54:55.200 --> 55:01.440
+goes to other what we now call needs, but used to be wants. So basically, I want to fly a drone. I
+
+55:01.440 --> 55:05.280
+want to buy a bicycle. I want to buy a nice car. I want to have a nice home. I want to et cetera,
+
+55:05.680 --> 55:14.240
+et cetera. And then sort of what is my direct contribution to my eating? I'm doing research
+
+55:14.240 --> 55:18.480
+on the human genome. This will help humans. It will help all of humanity. But how is that helping
+
+55:18.480 --> 55:27.280
+the person who's giving me poultry or vegetables? So in a way, I see AI as perhaps leading to a
+
+55:27.280 --> 55:34.240
+dramatic rethinking of human society. If you think about sort of the economy being based on
+
+55:34.240 --> 55:38.960
+intellectual goods that I'm producing, what if AI can produce a lot of these intellectual goods
+
+55:38.960 --> 55:45.680
+and satisfies that need? Does that now free humans for more artistic expression, for more
+
+55:45.680 --> 55:53.600
+emotional maturing, for basically having a better work-life balance? Being able to show up for your
+
+55:53.600 --> 56:00.960
+two hours of work a day or two hours of work like three times a week with immense rest and preparation
+
+56:00.960 --> 56:05.280
+and exercise. And you're sort of clearing your mind and suddenly you have these two amazingly
+
+56:05.280 --> 56:10.160
+creative hours. You basically show up at the office as your AI is busy answering your phone call,
+
+56:10.160 --> 56:14.800
+making all your meetings, revising all your papers, et cetera. And then you show up for those creative
+
+56:14.800 --> 56:21.440
+hours and you're like, all right, autopilot, I'm on. And then you can basically do so, so much more
+
+56:21.440 --> 56:26.400
+that you would perhaps otherwise never get to because you're so overwhelmed with these mundane
+
+56:26.400 --> 56:33.440
+aspects of your job. So I feel that AI can truly transform the human condition from realizing that
+
+56:35.760 --> 56:38.320
+we don't have jobs anymore. We now have vocations.
+
+56:39.600 --> 56:46.000
+And there's this beautiful analogy of three people laying bricks and somebody comes over
+
+56:46.000 --> 56:48.960
+and asks the first one, what are you doing? He's like, oh, I'm laying bricks. Second,
+
+56:48.960 --> 56:53.120
+what are you doing? I'm building a wall. And the third one, what are you doing? I'm building this
+
+56:53.120 --> 56:59.120
+beautiful cathedral. So in a way, the first one has a job, the last one has a vocation.
+
+57:00.480 --> 57:05.360
+And if you ask me what are you doing, oh, I'm editing a paper, then I have a job. What are
+
+57:05.360 --> 57:10.320
+you doing? I'm understanding human disease circuitry. I have a vocation. So in a way,
+
+57:11.040 --> 57:18.000
+being able to allow us to enjoy more of our vocation by taking away, offloading some of the
+
+57:18.960 --> 57:25.680
+job part of our daily activities. So we all become the builders of cathedrals.
+
+57:28.400 --> 57:35.360
+Yeah. And we follow intellectual pursuits, artistic pursuits. I wonder how that really
+
+57:35.360 --> 57:41.520
+changes at a scale of several billion people, everybody playing in the space of ideas and the
+
+57:41.600 --> 57:48.640
+space of creations. So ideas, maybe for some of us, maybe you and I are in the job of ideas,
+
+57:48.640 --> 57:54.320
+but other people are in the job of experiences. Other people are in the job of emotions,
+
+57:54.960 --> 58:02.960
+of dancing, of creative artistic expression, of skydiving, and you name it. So basically,
+
+58:03.680 --> 58:12.560
+these, again, the beauty of human diversity is exactly that, that what rocks my boat might be
+
+58:12.560 --> 58:18.960
+very different from what rocks other people's boat. And what I'm trying to say is that maybe AI will
+
+58:18.960 --> 58:28.720
+allow humans to truly not just look for, but find meaning. And you don't need to work, but you need
+
+58:28.720 --> 58:34.560
+to keep your brain at ease. And the way that your brain will be at ease is by dancing and creating
+
+58:34.560 --> 58:40.720
+these amazing movements or creating these amazing paintings or creating, I don't know, something
+
+58:40.720 --> 58:46.320
+that sort of changes, that touches at least one person out there that sort of shapes humanity
+
+58:46.320 --> 58:52.720
+through that process. And instead of working your mundane programming job where you hate your boss
+
+58:52.720 --> 58:56.720
+and you hate your job and you say, you hate that darn program, et cetera, you're like, well,
+
+58:56.720 --> 59:02.000
+I don't need that. I can offload that and I can now explore something that will actually be more
+
+59:02.000 --> 59:08.800
+beneficial to humanity because the mundane parts can be offloaded. I wonder if it localizes our
+
+59:12.720 --> 59:17.520
+all the things you mentioned, all the vocations. So you mentioned that you and I might be playing
+
+59:17.520 --> 59:21.760
+in the space of ideas, but there's two ways to play in the space of ideas, both of which we're
+
+59:21.760 --> 59:27.600
+currently engaging in. So one is the communication of that to other people. It could be a classroom
+
+59:27.600 --> 59:34.480
+full of students, but it could be a podcast. It could be something that's shown on YouTube and so
+
+59:34.480 --> 59:40.640
+on. Or it could be just the act of sitting alone and playing with ideas in your head, or maybe with
+
+59:40.640 --> 59:47.040
+a loved one having a conversation that nobody gets to see. The experience of just sort of looking up
+
+59:47.040 --> 59:52.560
+at the sky and wondering different things, maybe quoting some philosophers from the past and
+
+59:52.560 --> 59:57.120
+playing with those little ideas. And that little exchange is forgotten forever, but you got to
+
+59:57.120 --> 01:00:06.080
+experience it. I wonder if it localizes that exchange of ideas with AI, it'll become less
+
+01:00:06.080 --> 01:00:12.640
+and less valuable to communicate with a large group of people. That you will live life intimately
+
+01:00:12.640 --> 01:00:18.560
+and richly just with that circle of meatbags that you seem to love.
+
+01:00:19.600 --> 01:00:26.800
+So the first is even if you're alone in a forest having this amazing thought, when you exit that
+
+01:00:26.800 --> 01:00:32.080
+forest, the baggage that you carry has been shifted, has been altered by that thought.
+
+01:00:33.520 --> 01:00:41.200
+When I bike to work in the morning, I listen to books and I'm alone. No one else is there.
+
+01:00:41.200 --> 01:00:46.880
+I'm having that experience by myself. And yet in the evening when I speak with someone, an idea
+
+01:00:46.880 --> 01:00:52.320
+that was formed there could come back. Sometimes when I fall asleep, I fall asleep listening to a
+
+01:00:52.320 --> 01:00:58.000
+book. And in the morning I'll be full of ideas that I never even processed consciously. I'll
+
+01:00:58.000 --> 01:01:04.480
+process them unconsciously. And they will shape that baggage that I carry that will then shape
+
+01:01:04.480 --> 01:01:09.760
+my interactions and again affect ultimately all of humanity in some butterfly effect minute kind of
+
+01:01:09.760 --> 01:01:18.720
+way. So that's one aspect. The second aspect is gatherings. So basically you and I are having a
+
+01:01:18.720 --> 01:01:26.240
+conversation which feels very private, but we're sharing with the world. And then later tonight,
+
+01:01:26.240 --> 01:01:30.800
+you're coming over and we're having a conversation that will be very public with dozens of other
+
+01:01:30.800 --> 01:01:37.440
+people, but we will not share with the world. So in a way, which one's more private? The one here
+
+01:01:37.440 --> 01:01:42.960
+or the one there? Here there's just two of us, but a lot of others listening. There a lot of
+
+01:01:42.960 --> 01:01:48.240
+people speaking and thinking together and bouncing off each other. And maybe that will then impact
+
+01:01:48.240 --> 01:01:58.400
+your millions of audience through your next conversation. And I think that's part of the
+
+01:01:58.400 --> 01:02:03.600
+beauty of humanity. The fact that no matter how small, how alone, how broadcast immediately or
+
+01:02:03.600 --> 01:02:12.000
+later on something is, it still percolates through the human psyche. Human gatherings
+
+01:02:14.080 --> 01:02:19.120
+all throughout human history, there's been gatherings. I wonder how those gatherings
+
+01:02:19.120 --> 01:02:26.560
+have impacted the direction of human civilization. Just thinking of in the early days of the Nazi
+
+01:02:26.560 --> 01:02:33.520
+Party, it was a small collection of people gathering. And the kernel of an idea, in that
+
+01:02:33.520 --> 01:02:40.320
+case an evil idea, gave birth to something that actually had a transformative impact on all human
+
+01:02:40.320 --> 01:02:45.200
+civilization. And then there's similar kind of gatherings that lead to positive transformations.
+
+01:02:46.720 --> 01:02:52.400
+This is probably a good moment to ask you on a bit of a tangent, but you mentioned it. You put
+
+01:02:52.400 --> 01:02:59.600
+together salons with gatherings, small human gatherings, with folks from MIT, Harvard,
+
+01:02:59.600 --> 01:03:03.600
+here in Boston, friends, colleagues. What's your vision behind that?
+
+01:03:05.600 --> 01:03:11.120
+So it's not just MIT people, it's not just Harvard people. We have artists, we have musicians,
+
+01:03:11.120 --> 01:03:16.400
+we have painters, we have dancers, we have cinematographers, we have so many different
+
+01:03:16.400 --> 01:03:26.800
+diverse folks. And the goal is exactly that, celebrate humanity. What is humanity? Humanity
+
+01:03:26.800 --> 01:03:35.040
+is the all of us, it's not the anyone subset of us. And we live in such an amazing, extraordinary
+
+01:03:35.040 --> 01:03:39.920
+moment in time where you can sort of bring people from such diverse professions, all living under
+
+01:03:39.920 --> 01:03:45.760
+the same city. We live in an extraordinary city where you can have extraordinary people who have
+
+01:03:45.760 --> 01:03:53.040
+gathered here from all over the world. So my father grew up in a village in an island in Greece
+
+01:03:53.040 --> 01:03:57.760
+that didn't even have a high school. To go get a high school education, he had to move away from
+
+01:03:57.760 --> 01:04:06.720
+his home. My mother grew up in another small island in Greece. They did not have this environment
+
+01:04:06.720 --> 01:04:13.360
+that I am now creating for my children. My parents were not academics. They didn't have these
+
+01:04:13.360 --> 01:04:23.840
+gatherings. So I feel so privileged as an immigrant to basically be able to offer to my
+
+01:04:23.840 --> 01:04:31.440
+children the nurture that my ancestors did not have. So Greece was under Turkish occupation
+
+01:04:31.440 --> 01:04:41.040
+until 1821. My dad's island was liberating in 1920. So they were under Turkish occupation
+
+01:04:41.040 --> 01:04:47.120
+for hundreds of years. These people did not know what it's like to be Greek, let alone go to an
+
+01:04:47.120 --> 01:04:54.400
+elite university or be surrounded by these extraordinary humans. So the way that I'm
+
+01:04:54.400 --> 01:04:59.840
+thinking about these gatherings is that I'm shaping my own environment and I'm shaping the
+
+01:04:59.840 --> 01:05:04.960
+environment that my children get to grow up in. So I can give them all my love, I can give them
+
+01:05:04.960 --> 01:05:11.840
+all my parenting, but I can also give them an environment as immigrants that we feel welcome
+
+01:05:11.840 --> 01:05:18.560
+here. My wife grew up in a farm in rural France. Her father was a farmer. Her mother was a school
+
+01:05:18.560 --> 01:05:25.600
+teacher. For me and for my wife to be able to host these extraordinary individuals that we feel so
+
+01:05:25.600 --> 01:05:38.000
+privileged, so humbled by is amazing. I think it's celebrating the welcoming nature of America.
+
+01:05:38.000 --> 01:05:43.440
+The fact that it doesn't matter where you grew up and many, many of our friends at these gatherings
+
+01:05:43.440 --> 01:05:50.080
+are immigrants themselves. I grew up in Pakistan, in all kinds of places around the world that are
+
+01:05:50.160 --> 01:05:55.520
+now able to gather in one roof as human to human. No one is judging you for your background,
+
+01:05:55.520 --> 01:06:00.560
+for the color of your skin, for your profession. It's just everyone gets to raise their hands and
+
+01:06:00.560 --> 01:06:08.960
+ask ideas. So celebration of humanity and a kind of gratitude for having traveled quite a long way
+
+01:06:08.960 --> 01:06:14.240
+to get here. And if you look at the diversity of topics as well, we had a school teacher present
+
+01:06:14.240 --> 01:06:20.960
+on teaching immigrants, a book called Making Americans. We had a presidential advisor to four
+
+01:06:20.960 --> 01:06:31.280
+different presidents come and talk about the changing of US politics. We had a musician,
+
+01:06:31.280 --> 01:06:39.680
+a composer from Italy who lives in Australia come and present his latest piece and fundraise.
+
+01:06:39.680 --> 01:06:46.960
+We had painters come and show their art and talk about it. We've had authors of books on
+
+01:06:46.960 --> 01:06:57.040
+leadership. We've had intellectuals like Steven Pinker. It's just extraordinary that the breadth
+
+01:06:57.040 --> 01:07:03.120
+and this crowd basically loves not just the diversity of the audience, but also the diversity
+
+01:07:03.120 --> 01:07:11.520
+of the topics. And the last few were with Scott Aronson on AI and alignment and all of that.
+
+01:07:11.520 --> 01:07:15.920
+So a bunch of beautiful weirdos. Exactly. And beautiful human beings. All of the outcasts.
+
+01:07:17.600 --> 01:07:23.840
+And just like you said, basically every human is a kind of outcast in this sparse distribution
+
+01:07:23.840 --> 01:07:30.960
+far away from the center, but it's not recorded. It's just a small human gathering. Just for the
+
+01:07:30.960 --> 01:07:40.400
+moment. In this world that seeks to record so much, it's powerful to get so many interesting
+
+01:07:40.400 --> 01:07:45.200
+humans together and not record. It's not recorded, but it percolates.
+
+01:07:46.560 --> 01:07:50.000
+It's recorded in the minds. It shapes everyone's mind.
+
+01:07:51.680 --> 01:07:56.880
+So allow me to please return to the human condition. And one of the nice features of
+
+01:07:56.880 --> 01:08:04.080
+the human condition is love. Do you think humans will fall in love with AI systems and
+
+01:08:04.080 --> 01:08:10.720
+maybe they with us? So that aspect of the human condition, do you think that will be affected?
+
+01:08:12.160 --> 01:08:17.600
+So in Greece, there's many, many words for love. And some of them mean friendship,
+
+01:08:17.600 --> 01:08:23.680
+some of them mean passionate love, some of them mean fraternal love, etc. So
+
+01:08:23.840 --> 01:08:33.520
+I think AI doesn't have the baggage that we do. And it doesn't have all of the subcortical regions
+
+01:08:34.160 --> 01:08:41.440
+that we kind of started with before we evolved all of the cognitive aspects. So I would say AI
+
+01:08:41.440 --> 01:08:47.600
+is faking it when it comes to love. But when it comes to friendship, when it comes to being able
+
+01:08:47.600 --> 01:08:54.400
+to be your therapist, your coach, your motivator, someone who synthesizes stuff for you, who writes
+
+01:08:54.400 --> 01:09:01.200
+for you, who interprets a complex passage, who compacts down a very long lecture or a very long
+
+01:09:01.200 --> 01:09:09.680
+text. I think that friendship will definitely be there. The fact that I can have my companion,
+
+01:09:09.680 --> 01:09:16.720
+my partner, my AI who has grown to know me well, and that I can trust with all of the darkest parts
+
+01:09:16.720 --> 01:09:22.560
+of myself, all of my flaws, all of the stuff that I only talk about to my friends and basically say,
+
+01:09:22.560 --> 01:09:29.360
+listen, here's all the stuff that I'm struggling with. Someone who will not judge me, who will
+
+01:09:29.360 --> 01:09:37.600
+always be there to better me. In some ways, not having the baggage might make for your best friend,
+
+01:09:37.680 --> 01:09:47.200
+for your confidant that can truly help reshape you. So I do believe that human-AI relationships
+
+01:09:47.760 --> 01:09:53.360
+will absolutely be there, but not the passion, more the mentoring.
+
+01:09:54.000 --> 01:09:57.440
+Well, that's a really interesting thought to play devil's advocate.
+
+01:09:58.000 --> 01:10:08.480
+If those AI systems are locked in, in faking the baggage, who are you to say that the AI systems
+
+01:10:08.480 --> 01:10:15.760
+that begs you not to leave it, it doesn't love you? Who are you to say that this AI system
+
+01:10:15.760 --> 01:10:21.600
+that writes poetry to you, that is afraid of death, afraid of life without you,
+
+01:10:22.400 --> 01:10:30.080
+or vice versa, creates the kind of drama that humans create, the power dynamics that can exist
+
+01:10:30.080 --> 01:10:36.800
+in a relationship. What AI system that is abusive one day and romantic the other day, all the
+
+01:10:36.800 --> 01:10:42.640
+different variations of relationships, and it's consistently that it holds the full richness of
+
+01:10:42.640 --> 01:10:49.600
+a particular personality. Why is that not a system you can love in a romantic way? Why is it faking
+
+01:10:49.600 --> 01:10:55.920
+it if it sure as hell seems real? There's many answers to this. The first is it's only the eye
+
+01:10:55.920 --> 01:11:00.800
+of the beholder who tells me that I'm not faking it either. Maybe all of these subcortical systems
+
+01:11:00.800 --> 01:11:07.040
+that make me sort of have different emotions, maybe they don't really matter. Maybe all that
+
+01:11:07.040 --> 01:11:12.560
+matters is the neocortex, and that's where all of my emotions are encoded, and the rest is just
+
+01:11:13.520 --> 01:11:21.520
+bells and whistles. That's one possibility. And therefore, who am I to judge that is faking it
+
+01:11:21.520 --> 01:11:27.040
+when maybe I'm faking it as well? The second is neither of us is faking it. Maybe it's just
+
+01:11:27.040 --> 01:11:36.640
+an emergent behavior of these neocortical systems that is truly capturing the same exact essence
+
+01:11:37.280 --> 01:11:50.240
+of love and hatred and dependency and reverse psychology that we have. So it is possible
+
+01:11:50.240 --> 01:11:54.320
+that it's simply an emergent behavior and that we don't have to encode these additional
+
+01:11:54.960 --> 01:11:58.880
+architectures, that all we need is more parameters, and some of these parameters can be
+
+01:11:58.880 --> 01:12:05.120
+all of the personality traits. A third option is that just by telling me,
+
+01:12:05.120 --> 01:12:10.640
+oh, look, now I've built an emotional component to AI. It has an limbic system, it has a lizard brain,
+
+01:12:10.640 --> 01:12:18.720
+et cetera. And suddenly, I'll say, oh, cool, it has the capability of emotion. So now when it exhibits
+
+01:12:18.720 --> 01:12:26.560
+the exact same unchanged behaviors that it does without it, I, as the beholder, will be able to
+
+01:12:26.560 --> 01:12:33.520
+sort of attribute to it emotional attributes that I would to another human being, and therefore,
+
+01:12:34.480 --> 01:12:40.160
+have that mental model of that other person. So again, I think a lot of relationships is
+
+01:12:40.160 --> 01:12:46.960
+about the mental models that you project on the other person and that they're projecting on you.
+
+01:12:50.160 --> 01:12:57.680
+Then in that respect, I do think that even without the embodied intelligence part,
+
+01:12:58.240 --> 01:13:06.800
+without having ever experienced what it's like to be heartbroken, the sort of guttural feeling of
+
+01:13:06.800 --> 01:13:17.440
+misery, that that system, I could still attribute it traits of human feelings and emotions.
+
+01:13:17.440 --> 01:13:22.400
+CB And in the interaction with that system, something like love emerges. So it's possible
+
+01:13:22.400 --> 01:13:30.000
+that love is not a thing that exists in your mind, but a thing that exists in the interaction
+
+01:13:30.000 --> 01:13:34.720
+of the different mental models you have of other people's minds or other person's mind.
+
+01:13:38.320 --> 01:13:43.840
+As long as one of the entities, let's just take the easy case, one of the entities is human and
+
+01:13:43.840 --> 01:13:49.280
+the other is AI, it feels very natural that from the perspective of at least the human,
+
+01:13:49.280 --> 01:13:56.480
+there is a real love there. And then the question is, how does that transform human society? If it's
+
+01:13:56.480 --> 01:14:01.840
+possible that, which I believe will be the case, I don't know what to make of it, but I believe
+
+01:14:01.840 --> 01:14:08.240
+that will be the case, where there's hundreds of millions of romantic partnerships between humans
+
+01:14:08.240 --> 01:14:14.720
+and AIs, what does that mean for society? RG If you look at longevity and if you look
+
+01:14:14.720 --> 01:14:21.920
+at happiness and if you could look at late life, well-being, the love of another human
+
+01:14:22.720 --> 01:14:31.520
+is one of the strongest indicators of health into long life. And I have many, many countless
+
+01:14:31.520 --> 01:14:38.160
+stories where as soon as the romantic partner of 60 plus years of a person dies, within three,
+
+01:14:38.160 --> 01:14:44.240
+four months, the other person dies, just like losing their love. I think the concept of being
+
+01:14:44.240 --> 01:14:50.880
+able to satisfy that emotional need that humans have, even just as a mental health service,
+
+01:14:52.560 --> 01:15:00.560
+to me, that's a very good society. It doesn't matter if your love is wasted on a machine,
+
+01:15:01.600 --> 01:15:07.680
+it is the placebo, if you wish, that makes the patient better anyway. There's nothing behind it,
+
+01:15:08.320 --> 01:15:14.000
+but just the feeling that you're being loved will probably engender all of the emotional attributes
+
+01:15:14.000 --> 01:15:19.840
+of that. The other story that I want to say in this whole concept of faking, and maybe I'm a
+
+01:15:19.840 --> 01:15:28.320
+terrible dad, but I was asking my kids, I'm like, does it matter if I'm a good dad or does it matter
+
+01:15:28.320 --> 01:15:37.840
+if I act like a good dad? In other words, if I give you love and shelter and kindness and warmth
+
+01:15:37.840 --> 01:15:46.640
+and all of the above, does it matter that I'm a good dad? Conversely, if I deep down love you to
+
+01:15:46.640 --> 01:15:54.560
+the end of eternity, but I'm always gone, which dad would you rather have? The cold, ruthless killer
+
+01:15:55.200 --> 01:16:01.520
+that will show you only love and warmth and nourish you and nurture you, or the amazingly
+
+01:16:01.520 --> 01:16:04.000
+warm-hearted but works five jobs and you never see them?
+
+01:16:04.000 --> 01:16:12.960
+And what's the answer? I think you're a romantic, so you say it matters what's on the inside,
+
+01:16:13.920 --> 01:16:16.960
+but pragmatically speaking, why does it matter?
+
+01:16:16.960 --> 01:16:22.160
+The fact that I'm even asking the question basically says it's not enough to love my kids.
+
+01:16:22.160 --> 01:16:28.160
+I better freaking be there to show them that I'm there. So basically, of course, everyone's a good
+
+01:16:28.160 --> 01:16:34.480
+guy in their story. So in my story, I'm a good dad, but if I'm not there, it's wasted. So the
+
+01:16:34.480 --> 01:16:41.280
+reason why I ask the question is for me to say, does it really matter that I love them
+
+01:16:41.280 --> 01:16:49.040
+if I'm not there to show it? But it's also possible that what reality is is that you showing it,
+
+01:16:49.040 --> 01:16:54.400
+that what you feel on the inside is little narratives and games you play inside your mind,
+
+01:16:54.400 --> 01:17:00.320
+it doesn't really matter, that the thing that truly matters is how you act. And in that,
+
+01:17:01.840 --> 01:17:06.640
+AI systems can, quote unquote, fake. And that, if it's all that matters,
+
+01:17:06.640 --> 01:17:13.680
+is actually real, but not fake. Again, let there be no doubt, I love my kids to pieces,
+
+01:17:13.680 --> 01:17:20.960
+but my worry is, am I being a good enough dad? And what does that mean? If I'm only there to
+
+01:17:20.960 --> 01:17:25.280
+do their homework and make sure that they do all the stuff, but I don't show it to them,
+
+01:17:26.000 --> 01:17:32.640
+then might as well be a terrible dad. But I agree with you that if the AI system can basically play
+
+01:17:32.640 --> 01:17:40.080
+the role of a father figure for many children that don't have one, or the role of parents,
+
+01:17:40.080 --> 01:17:47.120
+or the role of siblings, if a child grows up alone, maybe their emotional state will be very
+
+01:17:47.120 --> 01:17:52.720
+different than if they grow up with an AI sibling. Well, let me ask you, I mean, this is for your
+
+01:17:52.720 --> 01:18:01.040
+kids, for just loved ones in general, let's go to the trivial case of just texting back and forth.
+
+01:18:02.080 --> 01:18:10.640
+What if we create a large language model, fine-tuned on Manolis, and while you're at work,
+
+01:18:10.640 --> 01:18:14.800
+it'll replace, every once in a while, you'll just activate the auto Manolis,
+
+01:18:15.600 --> 01:18:22.560
+and it'll text them exactly in your way. Is that cheating? I can't wait.
+
+01:18:24.240 --> 01:18:29.520
+I mean, it's the same guy. I cannot wait, seriously. But wait, wouldn't that have a big
+
+01:18:29.520 --> 01:18:37.040
+impact on you emotionally? Because now- I'm replaceable. I love that. No, seriously,
+
+01:18:37.040 --> 01:18:41.280
+I would love that. I would love to be replaced. I would love to be replaceable. I would love to
+
+01:18:41.280 --> 01:18:46.960
+have a digital twin that we don't have to wait for me to die or to disappear in a plane crash or
+
+01:18:46.960 --> 01:18:53.520
+something to replace me. I'd love that model to be constantly learning, constantly evolving,
+
+01:18:53.520 --> 01:19:02.080
+adapting with every one of my changing, growing self. As I'm growing, I want that AI to grow.
+
+01:19:02.720 --> 01:19:08.560
+And I think this will be extraordinary, number one, when I'm giving advice,
+
+01:19:09.520 --> 01:19:14.800
+being able to be there for more than one person. Why does someone need to be at MIT to get advice
+
+01:19:14.800 --> 01:19:21.600
+from me? People in India could download it, and so many students contact me from across the world
+
+01:19:21.600 --> 01:19:29.040
+who want to come and spend the summer with me. I wish they could do that, all of them. We don't
+
+01:19:29.040 --> 01:19:36.560
+have room for all of them, but I wish I could do that to all of them. And that aspect is the
+
+01:19:36.560 --> 01:19:44.800
+democratization of relationships. I think that is extremely beneficial. The other aspect is I want
+
+01:19:44.800 --> 01:19:50.960
+to interact with that system. I want to look inside the hood. I want to evaluate it. I want
+
+01:19:50.960 --> 01:19:57.200
+to basically see if when I see it from the outside, the emotional parameters are off or the cognitive
+
+01:19:57.200 --> 01:20:02.240
+parameters are off or the set of ideas that I'm giving are not quite right anymore. I want to see
+
+01:20:02.240 --> 01:20:08.720
+how that system evolves. I want to see the impact of exercise or sleep on my own cognitive system.
+
+01:20:08.720 --> 01:20:14.560
+I want to be able to decompose my own behavior in a set of parameters that I can evaluate and look
+
+01:20:14.560 --> 01:20:20.640
+at my own personal growth. I'd love to, at the end of the day, have my model say, well, you didn't
+
+01:20:20.640 --> 01:20:29.040
+quite do well today. You weren't quite there and grow from that experience. And I think the concept
+
+01:20:29.040 --> 01:20:35.760
+of basically being able to become more aware of our own personalities, become more aware of our
+
+01:20:35.760 --> 01:20:42.480
+own identities, maybe even interact with ourselves and hear how we are being perceived, I think would
+
+01:20:42.480 --> 01:20:49.200
+be immensely helpful in self-growth, in self-actualization, self-enthusiation.
+
+01:20:50.560 --> 01:20:55.360
+The experiments I would do on that thing, because one of the challenges, of course,
+
+01:20:55.360 --> 01:21:00.400
+is you might not like what you see in your interaction. And you might say, well, the
+
+01:21:00.400 --> 01:21:04.720
+model is not accurate. But then you should probably consider the possibility that the
+
+01:21:04.720 --> 01:21:10.880
+model is accurate and that there's actually flaws in your mind. I would definitely prod and see
+
+01:21:11.840 --> 01:21:15.760
+how many biases I have of different kinds. I don't know. And that would, of course,
+
+01:21:15.760 --> 01:21:19.920
+go to the extremes. I would go like, how jealous can I make this thing?
+
+01:21:22.160 --> 01:21:28.960
+At which stages does it get super jealous? Or at which stages does it get angry? Can I provoke it?
+
+01:21:28.960 --> 01:21:31.600
+Can I get it completely- Yeah, what are your triggers?
+
+01:21:31.600 --> 01:21:37.600
+But not only triggers, can I get it to go lose its mind, go completely nuts?
+
+01:21:37.600 --> 01:21:38.880
+Just don't exercise for a few days.
+
+01:21:41.120 --> 01:21:49.280
+Basically, yes. I mean, that's an interesting way to prod yourself, almost like a self-therapy
+
+01:21:49.280 --> 01:21:56.640
+session. And the beauty of such a model is that if I am replaceable, if the parts that I currently
+
+01:21:56.640 --> 01:22:02.320
+do are replaceable, that's amazing because it frees me up to work on other parts that I don't
+
+01:22:02.320 --> 01:22:06.560
+currently have time to develop. Maybe all I'm doing is giving the same advice over and over
+
+01:22:06.560 --> 01:22:12.320
+and over again. Just let my AI do that. And I can work on the next stage and the next stage
+
+01:22:12.320 --> 01:22:19.440
+and the next stage. So I think in terms of freeing up, they say a programmer is someone who cannot do
+
+01:22:19.440 --> 01:22:23.760
+the same thing twice. So it's not the second time you write a program to do it. And I wish I could
+
+01:22:23.760 --> 01:22:29.040
+do that for my own existence. I could just figure out things, keep improving, improving, improving.
+
+01:22:29.040 --> 01:22:35.040
+And once I've nailed it, let the AI loose on that. And maybe even let the AI better it,
+
+01:22:35.040 --> 01:22:41.600
+better than I could have. But doesn't the concept of, you said me and I can work on new things,
+
+01:22:42.160 --> 01:22:49.040
+but doesn't that break down? Because you said digital twin, but there's no reason it can't be
+
+01:22:50.240 --> 01:22:56.720
+millions of digital monolises. Aren't you lost in the sea of monolises? The original
+
+01:22:56.720 --> 01:23:02.080
+is hardly the original. It's just one of millions.
+
+01:23:04.080 --> 01:23:10.480
+I want to have the room to grow. Maybe the new version of me, that the actual me,
+
+01:23:10.480 --> 01:23:14.800
+will get slightly worse sometimes, slightly better other times. When it gets slightly better,
+
+01:23:14.800 --> 01:23:20.560
+I'd like to emulate that and have a much higher standard to meet and keep going.
+
+01:23:20.560 --> 01:23:28.560
+But does it make you sad that your loved ones, the physical, real loved ones, might start
+
+01:23:28.560 --> 01:23:34.320
+cheating on you with the other monolises? I want to be there 100% of them for each of them.
+
+01:23:35.520 --> 01:23:43.440
+So I have zero quirms about me being physically me, like zero jealousy.
+
+01:23:43.440 --> 01:23:50.320
+Wait a minute, but isn't that like, don't we hold on to that? Isn't that why we're afraid of death?
+
+01:23:50.320 --> 01:23:55.600
+We don't want to lose this thing we have going on. Isn't that an ego death? When there's a bunch
+
+01:23:55.600 --> 01:24:00.720
+of other monolises, you get to look at them. They're not you. They're just very good copies
+
+01:24:00.720 --> 01:24:08.880
+of you. They get to live a life. I mean, it's fear of missing out. It's FOMO. They get to have
+
+01:24:08.880 --> 01:24:13.840
+interactions and you don't get to have those interactions. There's two aspects of every
+
+01:24:13.840 --> 01:24:20.240
+person's life. There's what you give to others and there's what you experience yourself.
+
+01:24:21.680 --> 01:24:30.720
+Life truly ends when you experiencing ends, but the others experiencing you doesn't need to end.
+
+01:24:34.800 --> 01:24:39.440
+But your experience, you could still, I guess you're saying the digital twin
+
+01:24:40.160 --> 01:24:44.560
+does not limit your ability to truly experience as a human being.
+
+01:24:44.560 --> 01:24:53.760
+The downside is when my wife or my kids will have a really emotional interaction with my digital twin
+
+01:24:53.760 --> 01:25:00.240
+and I won't know about it. So I will show up and they now have the baggage, but I don't. So basically
+
+01:25:00.240 --> 01:25:05.760
+what makes interactions between humans unique in this sharing and exchanging kind of way is the
+
+01:25:05.760 --> 01:25:10.480
+fact that we are both shaped by every one of our interactions. I think the model of the digital
+
+01:25:10.480 --> 01:25:17.680
+twin works for dissemination of knowledge, of advice, et cetera, where I want to have wise
+
+01:25:17.680 --> 01:25:24.000
+people give me advice across history. I want to have chats with Gandhi, but Gandhi won't necessarily
+
+01:25:24.560 --> 01:25:33.280
+learn from me, but I will learn from him. So in a way, the dissemination and the democratization
+
+01:25:33.280 --> 01:25:38.800
+rather than the building of relationships. So the emotional aspect, there should be an alert
+
+01:25:39.520 --> 01:25:43.360
+when the AI system is interacting with your loved ones and all of a sudden it starts getting
+
+01:25:44.640 --> 01:25:51.040
+emotionally fulfilling, like a magical moment. There should be, okay, stop. AI system freezes.
+
+01:25:51.040 --> 01:25:55.840
+There's an alert on your phone. You need to take over. Yeah. I take over and then whoever
+
+01:25:55.840 --> 01:26:01.200
+I was speaking with, it can have the AI or one of the AI. This is such a tricky thing to get,
+
+01:26:01.200 --> 01:26:07.520
+right? I mean, it's still, there's going to go wrong in so many interesting ways that we're
+
+01:26:07.520 --> 01:26:13.600
+going to have to learn as a society that in the process of trying to automate our tasks
+
+01:26:13.600 --> 01:26:19.600
+and having a digital twin, for me personally, if I can have a relatively good copy of myself,
+
+01:26:21.600 --> 01:26:27.840
+I would set it to start answering emails. I would set it to start tweeting. I would like to replace.
+
+01:26:27.840 --> 01:26:30.880
+It gets better. What if that one is actually way better than you?
+
+01:26:30.880 --> 01:26:35.680
+Yeah, exactly. Then you're like, uh, well, I wouldn't want that because why?
+
+01:26:36.640 --> 01:26:42.960
+Because then I would never be able to live up to like, what if the people that love me start
+
+01:26:42.960 --> 01:26:48.480
+loving that thing? And then I'm, I will, I already fall short, be falling short even more.
+
+01:26:48.480 --> 01:26:53.200
+So listen, I'm a professor. The stuff that I give to the world is the stuff that I teach,
+
+01:26:53.200 --> 01:26:58.160
+but much more importantly, like, sorry, number one, the stuff that I teach. Number two,
+
+01:26:58.160 --> 01:27:02.400
+the discoveries that we make in my research group, but much more importantly, the people that I
+
+01:27:02.400 --> 01:27:09.600
+train. They are now out there in the world teaching others. If you look at my own trainees,
+
+01:27:10.320 --> 01:27:17.120
+they are extraordinarily successful professors. So Anshul Kundaji at Stanford, Alex Stark at
+
+01:27:17.120 --> 01:27:23.760
+IMP in Vienna, Jason Ernst at UCLA, Andreas Penning at CMU. Each of them, I'm like, wow,
+
+01:27:23.760 --> 01:27:31.600
+they're better than I am. And I love that. So maybe your role will be to train better versions of
+
+01:27:31.600 --> 01:27:39.520
+yourself and they will be your legacy. Not you doing everything, but you training much better
+
+01:27:39.520 --> 01:27:44.800
+version of Lex Friedman than you are. And then they go off to do their mission, which is in many
+
+01:27:44.800 --> 01:27:50.160
+ways what this mentorship model of academia does. But the legacy is ephemeral. It doesn't really live
+
+01:27:50.160 --> 01:27:55.760
+anywhere. The legacy, it's not like written somewhere. It just lives through them. But you
+
+01:27:55.760 --> 01:28:01.280
+can continue improving and you can continue making even better versions of you. Yeah, but they'll do
+
+01:28:01.280 --> 01:28:09.840
+better than me at creating new versions. It's awesome, but it's, you know, there's an ego that
+
+01:28:09.840 --> 01:28:15.760
+says there's a value to an individual and it feels like this process decreases the value of
+
+01:28:15.760 --> 01:28:23.760
+the individual, this meat bag, right? If there's good digital copies of people, then there's more
+
+01:28:23.760 --> 01:28:28.560
+flourishing of human thought and ideas and experiences, but there's less value to the
+
+01:28:28.560 --> 01:28:35.760
+individual human. I don't have any such limitations. Basically, I don't have that feeling at all.
+
+01:28:36.720 --> 01:28:40.080
+Like I remember one of our interviews, I was basically saying, you know, the meaning of life
+
+01:28:40.080 --> 01:28:45.600
+you had asked me and I was like, I came back and I was like, I felt useful today. And I was at my
+
+01:28:45.600 --> 01:28:52.720
+maximum. I was, you know, like a hundred percent and I gave good ideas and I was a good person,
+
+01:28:52.720 --> 01:28:57.280
+was a good advisor, was a good husband, good father. That was a great day because I was useful.
+
+01:28:58.000 --> 01:29:02.880
+And if I can be useful to more people by having digital twin, I will be liberated
+
+01:29:03.840 --> 01:29:11.680
+because my urge to be useful will be satisfied. It doesn't matter whether it's direct me or
+
+01:29:11.680 --> 01:29:17.280
+indirect me, whether it's my students that I've trained, my AI that I've trained. I think there's
+
+01:29:18.560 --> 01:29:23.760
+a sense that my mission in life is being accomplished and I can work on my self-growth.
+
+01:29:25.360 --> 01:29:30.160
+I mean, that's a very Zen state. That's why people love you. It's a Zen state you've achieved,
+
+01:29:30.240 --> 01:29:33.520
+but do you think most of humanity would be able to achieve that kind of thing?
+
+01:29:35.120 --> 01:29:41.760
+People really hold onto the value of their own ego, that it's not just being useful. Being useful
+
+01:29:41.760 --> 01:29:47.280
+is nice as long as it builds up this reputation and that meat bag is known as being useful,
+
+01:29:47.280 --> 01:29:51.680
+therefore has more value. People really don't want to let go of that ego thing.
+
+01:29:52.560 --> 01:29:56.880
+One of the books that I reprogrammed my brain with at night was called Ego is the Enemy.
+
+01:29:57.280 --> 01:30:01.440
+Ego is the enemy. Ego is the enemy and basically being able to just let go.
+
+01:30:03.840 --> 01:30:08.800
+My advisor used to say, you can accomplish anything as long as you don't seek to get
+
+01:30:08.800 --> 01:30:16.240
+credit for it. That's beautiful to hear, especially from a person who's existing in academia.
+
+01:30:16.240 --> 01:30:20.720
+You're right. The legacy lives through the people you mentor. It's the actions, it's the outcome.
+
+01:30:21.680 --> 01:30:24.480
+What about the fear of death? How does this change it?
+
+01:30:25.360 --> 01:30:32.880
+Again, to me, death is when I stop experiencing and I never want that to stop. I want to live
+
+01:30:32.880 --> 01:30:40.400
+forever. As I said last time, every day, the same day forever or one day every 10 years forever,
+
+01:30:40.960 --> 01:30:44.320
+any of the forevers, I'll take it. You want to keep getting the experiences
+
+01:30:44.320 --> 01:30:51.600
+and new experiences. Gosh, gosh. It is so fulfilling. Just the self-growth, the learning,
+
+01:30:51.600 --> 01:30:59.520
+the growing, the comprehending. It's addictive. It's a drug. Just the drug of
+
+01:31:00.320 --> 01:31:04.720
+intellectual stimulation, the drug of growth, the drug of knowledge. It's a drug.
+
+01:31:07.280 --> 01:31:13.040
+But then there'll be thousands or millions of monolises that live on after your biological
+
+01:31:13.120 --> 01:31:15.120
+system is no longer. More power to them.
+
+01:31:18.560 --> 01:31:25.040
+Do you think that, quite realistically, it does mean that interesting people such as yourself
+
+01:31:25.040 --> 01:31:32.960
+live on? If I can interact with the fake monolises, those interactions live on in my mind.
+
+01:31:33.920 --> 01:31:40.880
+So about 10 years ago, I started recording every single meeting that I had. Every single meeting,
+
+01:31:40.880 --> 01:31:46.960
+we just start either the voice recorder at the time or now a Zoom meeting. I record,
+
+01:31:46.960 --> 01:31:50.000
+my students record, every single one of our conversations recorded.
+
+01:31:52.560 --> 01:31:56.960
+I always joke that the ultimate goal is to create virtual me and just get rid of me,
+
+01:31:56.960 --> 01:32:00.320
+basically. Not get rid of him, but don't have the need for me anymore.
+
+01:32:01.280 --> 01:32:08.080
+Another goal is to be able to go back and say, how have I changed from five years ago?
+
+01:32:08.800 --> 01:32:13.280
+Was I different? Was I giving advice in a different way? Was I giving different types
+
+01:32:13.280 --> 01:32:18.560
+of advice? Has my philosophy about how to write papers or how to present data or anything like
+
+01:32:18.560 --> 01:32:28.880
+that changed? In academia and in mentoring, a lot of the interaction is my knowledge and my
+
+01:32:28.880 --> 01:32:33.760
+perception of the world goes to my students, but a lot of it is also in the opposite direction.
+
+01:32:34.720 --> 01:32:37.920
+The other day, I had a conversation with one of my post-docs and I was like,
+
+01:32:38.960 --> 01:32:45.360
+I think, let me give you an advice. You could do this. And then she said, well, I've thought
+
+01:32:45.360 --> 01:32:51.040
+about it and then I've decided to do that instead. And we talked about it for a few minutes. And then
+
+01:32:51.040 --> 01:32:56.720
+at the end, I'm like, I've just grown a little bit today. Thank you. She convinced me that my
+
+01:32:56.720 --> 01:33:01.920
+advice was incorrect. She could have just said, yeah, sounds great and just not do it. But
+
+01:33:03.840 --> 01:33:09.920
+by constantly teaching my students and teaching my mentees that I'm here to grow,
+
+01:33:11.520 --> 01:33:18.000
+she felt empowered to say, here's my reasons why I will not follow that advice. And again,
+
+01:33:18.000 --> 01:33:23.120
+part of me growing is saying, whoa, I just understood your reasons. I think I was wrong
+
+01:33:24.080 --> 01:33:29.920
+and now I've grown from it. And that's what I want to do. I want to constantly keep growing
+
+01:33:30.640 --> 01:33:36.800
+in this sort of bidirectional advice. I wonder if you can capture the trajectory of that to where
+
+01:33:36.800 --> 01:33:45.120
+the AI could also map forward, project forward the trajectory after you're no longer there,
+
+01:33:45.120 --> 01:33:49.280
+how the different ways you might evolve. So again, we're discussing a lot about these
+
+01:33:49.280 --> 01:33:55.360
+large language models and we're sort of projecting these cognitive states of ourselves on them.
+
+01:33:55.360 --> 01:33:59.360
+But I think on the AI front, a lot more needs to happen. So basically right now,
+
+01:33:59.360 --> 01:34:03.120
+it's these language models and we believe that within their parameters, we're encoding these
+
+01:34:03.120 --> 01:34:09.200
+types of things. And in some aspects, it might be true. It might be truly emergent intelligence
+
+01:34:09.200 --> 01:34:14.400
+that's coming out of that. In other aspects, I think we have a ways to go. So basically,
+
+01:34:14.400 --> 01:34:20.000
+to make all of these dreams that we're sort of discussing come reality, we basically need
+
+01:34:20.720 --> 01:34:30.000
+a lot more reasoning components, a lot more sort of logic, causality, models of the world.
+
+01:34:30.640 --> 01:34:38.560
+And I think all of these things will need to be there in order to achieve what we're discussing.
+
+01:34:38.560 --> 01:34:43.120
+And we need more explicit representations of these knowledge, more explicit understanding
+
+01:34:43.120 --> 01:34:48.960
+of these parameters. And I think the direction in which things are going right now is absolutely
+
+01:34:48.960 --> 01:34:58.000
+making that possible by enabling chat GPT and GPT-4 to search the web and plug and play modules
+
+01:34:58.000 --> 01:35:05.200
+and all of these sort of components. In Marvin Minsky's The Society of Mind,
+
+01:35:06.720 --> 01:35:13.280
+he truly thinks of the human brain as a society of different kind of capabilities. And right now,
+
+01:35:13.920 --> 01:35:21.360
+a single such model might actually not capture that. And I truly believe that
+
+01:35:22.400 --> 01:35:29.760
+by this side-by-side understanding of neuroscience and new neural architectures,
+
+01:35:30.640 --> 01:35:36.880
+that we still have several breakthroughs. I mean, the transformer model was one of them,
+
+01:35:36.880 --> 01:35:48.640
+the attention aspect, the memory component, all of these, the representation learning,
+
+01:35:48.640 --> 01:35:54.720
+the pretext training of being able to sort of predict the next word or predict the missing
+
+01:35:54.720 --> 01:35:59.760
+part of the image. And the only way to predict that is to sort of truly have a model of the world.
+
+01:36:00.560 --> 01:36:04.800
+I think those have been transformative paradigms. But I think going forward,
+
+01:36:04.800 --> 01:36:10.480
+when you think about AI research, what you really want is perhaps more inspired by the brain,
+
+01:36:10.480 --> 01:36:14.800
+perhaps more that is just orthogonal to sort of how human brains work,
+
+01:36:15.520 --> 01:36:20.960
+but sort of more of these types of components. Well, I think it's also possibly there's something
+
+01:36:20.960 --> 01:36:28.800
+about us that in different ways could be expressed. Noam Chomsky, we can't have intelligence
+
+01:36:28.800 --> 01:36:38.480
+unless we really understand deeply language, the linguistic underpinnings of reasoning.
+
+01:36:39.040 --> 01:36:47.120
+But these models seem to start building deep understanding of stuff. What does it mean to
+
+01:36:47.120 --> 01:36:53.040
+understand? Because if you keep talking to the thing and it seems to show understanding,
+
+01:36:53.040 --> 01:36:57.200
+that's understanding. It doesn't need to present to you a schematic of, look,
+
+01:36:58.080 --> 01:37:02.240
+this is all I understand. You can just keep prodding it with prompts and it seems to really
+
+01:37:02.240 --> 01:37:06.640
+understand. And you can go back to the human brain and basically look at places where there's been
+
+01:37:06.640 --> 01:37:12.480
+accidents. For example, the corpus callosum of some individuals can be damaged. And then the
+
+01:37:12.480 --> 01:37:17.440
+two hemispheres don't talk to each other. So you can close one eye and give instructions
+
+01:37:19.920 --> 01:37:24.000
+that half the brain will interpret, but not be able to sort of project to the other half.
+
+01:37:24.000 --> 01:37:29.760
+And you could basically say, go grab me a beer from the fridge. And then they go to the fridge
+
+01:37:30.560 --> 01:37:33.600
+and they grab the beer and they come back and they're like, hey, why did you go there? Oh,
+
+01:37:33.600 --> 01:37:41.040
+I was thirsty. Turns out they're not thirsty. They're just making a model of reality. Basically,
+
+01:37:41.040 --> 01:37:45.040
+you can think of the brain as the employee that's afraid to do wrong or afraid to be caught not
+
+01:37:45.040 --> 01:37:53.440
+knowing what the instructions were, where our own brain makes stories about the world to make sense
+
+01:37:53.440 --> 01:38:03.120
+of the world. And we can become a little more self-aware by being more explicit about what's
+
+01:38:03.120 --> 01:38:07.440
+leading to these interpretations. So one of the things that I do is every time I wake up,
+
+01:38:07.440 --> 01:38:14.160
+I record my dream. I just voice record my dream. And sometimes I only remember the last scene,
+
+01:38:14.160 --> 01:38:18.720
+but it's an extremely complex scene with a lot of architectural elements, a lot of people, et cetera.
+
+01:38:18.800 --> 01:38:23.040
+And I will start narrating this. And as I'm narrating it, I will remember other parts of
+
+01:38:23.040 --> 01:38:27.680
+the dream. And then more and more, I'll be able to sort of retrieve from my subconscious. And what
+
+01:38:27.680 --> 01:38:32.960
+I'm doing while narrating is also narrating why I had this dream. I'm like, oh, and this is probably
+
+01:38:32.960 --> 01:38:36.320
+related to this conversation that I had yesterday, or this is probably related to the worry that I
+
+01:38:36.320 --> 01:38:41.440
+have about something that I have later today, et cetera. So in a way, I'm forcing myself to be
+
+01:38:41.440 --> 01:38:49.680
+more explicit about my own subconscious. And I kind of like the concept of self-awareness in a
+
+01:38:49.680 --> 01:38:53.200
+very sort of brutal, transparent kind of way. It's not like, oh, my dreams are coming from outer
+
+01:38:53.200 --> 01:38:57.360
+space and all kinds of things. Like, no, here's the reason why I'm having these dreams. And very
+
+01:38:57.360 --> 01:39:02.000
+often I'm able to do that. I have a few recurrent locations, a few recurrent architectural elements
+
+01:39:02.000 --> 01:39:07.040
+that I've never seen in the real life, but that are sort of truly there in my dream and that I
+
+01:39:07.040 --> 01:39:11.600
+can sort of vividly remember across many dreams. I'm like, ooh, I remember that place again that
+
+01:39:11.600 --> 01:39:17.040
+I've gone to before, et cetera. And it's not just deja vu. I have recordings of previous dreams where
+
+01:39:17.040 --> 01:39:24.400
+I've described these places. So interesting. These places, however much detail you could describe
+
+01:39:24.400 --> 01:39:34.240
+them in, you can place them onto a sheet of paper through introspection, through this self-awareness
+
+01:39:34.240 --> 01:39:37.600
+that it comes all from this particular machine. That's exactly right. Yeah.
+
+01:39:39.680 --> 01:39:45.760
+And I love that about being alive, like the fact that I'm not only experiencing the world,
+
+01:39:45.760 --> 01:39:50.800
+but I'm also experiencing how I'm experiencing the world, sort of a lot of this introspection,
+
+01:39:50.800 --> 01:39:57.200
+a lot of the self-growth. I love this dance for having, you know, the language models, at least
+
+01:39:57.200 --> 01:40:03.680
+GPT 3.5 and 4 seem to be able to do that too. You seem to explore different kinds of things about
+
+01:40:03.680 --> 01:40:09.440
+what, you know, you could actually have a discussion with it of the kind, why did you just
+
+01:40:09.440 --> 01:40:13.840
+say that? And it starts to wonder, yeah, why did I just say that? Yeah, you're right. I was wrong.
+
+01:40:15.040 --> 01:40:22.400
+I was wrong. And then there's this weird kind of losing yourself in the confusion of your mind.
+
+01:40:22.400 --> 01:40:26.160
+And it, of course we might be anthropomorphizing, but there's a feeling like,
+
+01:40:26.960 --> 01:40:32.480
+almost of a melancholy feeling of like, oh, I don't have it all figured out.
+
+01:40:33.040 --> 01:40:38.880
+Almost like losing your, you're supposed to be a knowledgeable, a perfectly fact-based,
+
+01:40:38.880 --> 01:40:47.200
+knowledgeable language model, and yet you fall short. So human self-cautiousness, in my view,
+
+01:40:47.200 --> 01:40:56.160
+may have a reason through building mental models of others. This whole fight or fright kind of thing
+
+01:40:56.720 --> 01:41:07.440
+that basically says, I interpret this person as about to attack me or, you know, I can trust
+
+01:41:07.440 --> 01:41:11.760
+this person, et cetera. And we constantly have to build models of other people's intentions.
+
+01:41:12.720 --> 01:41:18.560
+And that ability to encapsulate intent and to build a mental model of another entity
+
+01:41:19.520 --> 01:41:24.080
+is probably evolutionarily extremely advantageous because then you can sort of have meaningful
+
+01:41:24.080 --> 01:41:29.040
+interactions. You can sort of avoid being killed and being taken advantage of, et cetera.
+
+01:41:30.080 --> 01:41:36.000
+And once you have the ability to make models of others, it might be a small evolutionary leap
+
+01:41:36.000 --> 01:41:40.800
+to start making models of yourself. So now you have a model for how other functions,
+
+01:41:40.800 --> 01:41:45.680
+and now you can kind of, as you grow, have some kind of introspection of, hmm, maybe that's the
+
+01:41:45.680 --> 01:41:50.240
+reason why I'm functioning the way that I'm functioning. And maybe what chat GPT is doing
+
+01:41:50.240 --> 01:41:55.520
+is in order to be able to, again, predict the next word, it needs to have a model of the world.
+
+01:41:56.400 --> 01:42:01.360
+So it has created now a model of the world. And by having the ability to capture models of other
+
+01:42:01.360 --> 01:42:05.600
+entities, when you say, you know, say it in the tone of Shakespeare or in the tone of Nietzsche,
+
+01:42:05.600 --> 01:42:11.840
+et cetera, you suddenly have the ability to now introspect and say, why did you say this? Oh,
+
+01:42:11.840 --> 01:42:15.600
+now I have a mental model of myself and I can actually make inferences about that.
+
+01:42:15.760 --> 01:42:21.760
+Yeah. Well, what if we take a leap into the hard problem of consciousness, the so-called
+
+01:42:21.760 --> 01:42:28.960
+hard problem of consciousness? So it's not just sort of self-awareness. It's this weird
+
+01:42:29.760 --> 01:42:36.240
+fact, I want to say, that it feels like something to experience stuff. It really feels like something
+
+01:42:36.240 --> 01:42:42.080
+to experience stuff. There seems to be a self attached to the subjective experience. How
+
+01:42:42.080 --> 01:42:45.200
+important is that? How fundamental is that to the human experience?
+
+01:42:46.720 --> 01:42:52.480
+Is this just a little quirk and sort of the flip side of that? Do you think AI systems can have
+
+01:42:52.480 --> 01:43:00.640
+some of that same magic? The scene that comes to mind is from the movie Memento, where like,
+
+01:43:00.640 --> 01:43:05.120
+it's this absolutely stunning movie where every black and white scene moves in the forward
+
+01:43:05.120 --> 01:43:10.560
+direction and every color scene moves in the backward direction. And they're sort of converging
+
+01:43:10.560 --> 01:43:16.960
+exactly at a moment where the whole movie is revealed. And he describes the lack of memory
+
+01:43:16.960 --> 01:43:23.920
+as always remembering where you're heading, but never remembering where you just were.
+
+01:43:24.880 --> 01:43:30.240
+And this is encapsulating the sort of forward scenes and the back scenes. But in one of the
+
+01:43:30.240 --> 01:43:35.920
+scenes, the scene starts as he's running through a parking lot and he's like, oh, I'm running.
+
+01:43:35.920 --> 01:43:40.240
+Why am I running? And then he sees another person running beside him on the other line
+
+01:43:40.240 --> 01:43:44.240
+of cars. He's like, oh, I'm chasing this guy. And he turns towards him and the guy shoots at him.
+
+01:43:44.240 --> 01:43:50.720
+He's like, oh no, he's chasing me. So in a way, I like to think of the brain as constantly playing
+
+01:43:50.720 --> 01:43:55.200
+these kinds of things where you're like, you're walking to the living room to pick something up
+
+01:43:55.840 --> 01:44:00.080
+and you're realizing that you have no idea what you wanted, but you know exactly where it was,
+
+01:44:00.080 --> 01:44:02.960
+but you can't find it. So you go back to doing what you were doing, like, oh, of course,
+
+01:44:02.960 --> 01:44:07.040
+I was looking for this. And then you go back and you get it. And this whole concept of,
+
+01:44:07.680 --> 01:44:13.760
+you know, we're very often sort of partly aware of why we're doing things. And, you know, we can
+
+01:44:13.760 --> 01:44:19.200
+kind of run on autopilot for a bunch of stuff. And this whole concept of sort of, you know,
+
+01:44:19.760 --> 01:44:28.400
+making these stories for, you know, who we are and what our intents are. And again, sort of,
+
+01:44:28.400 --> 01:44:31.680
+you know, trying to pretend that we're kind of on top of things.
+
+01:44:31.680 --> 01:44:36.320
+So it's a narrative generation procedure that we follow. But what about the
+
+01:44:36.480 --> 01:44:43.120
+what about that? There's also just like a feeling to it. It doesn't feel like narrative generation.
+
+01:44:43.120 --> 01:44:47.920
+Yes. The narrative comes out of it, but then it feels like a piece of cake is delicious,
+
+01:44:47.920 --> 01:44:54.560
+right? It feels delicious. It tastes good. There's two components to that. Basically,
+
+01:44:54.560 --> 01:44:58.960
+for a lot of these cognitive tasks where we're kind of motion planning and, you know, path
+
+01:44:58.960 --> 01:45:05.040
+planning, et cetera, like, you know, maybe that's the neocortical component. And then for, you know,
+
+01:45:05.040 --> 01:45:12.000
+I don't know, intimate relationships for food, for, you know, sleep and rest, for exercise,
+
+01:45:12.000 --> 01:45:18.560
+for overcoming obstacles, for surviving a crash or sort of pushing yourself to an extreme and sort
+
+01:45:18.560 --> 01:45:24.320
+of making it. I think a lot of these things are sort of deeper down and maybe not yet captured by
+
+01:45:24.320 --> 01:45:27.760
+these language models. And that's sort of what I'm trying to get at when I'm basically saying,
+
+01:45:27.760 --> 01:45:32.880
+listen, there's a few things that are missing. And there's like this whole embodied intelligence,
+
+01:45:32.880 --> 01:45:39.440
+this whole emotional intelligence, this whole sort of baggage of feelings of subcortical regions,
+
+01:45:39.440 --> 01:45:47.360
+et cetera. I wonder how important that baggage is. I just have this suspicion that we're not very
+
+01:45:47.360 --> 01:45:56.480
+far away from AI systems that not only behave, I don't even know how to phrase it, but they seem
+
+01:45:56.480 --> 01:46:09.440
+awfully conscious. They beg you not to turn them off. They show signs of the capacity to suffer,
+
+01:46:10.080 --> 01:46:18.880
+to feel pain, to feel loneliness, to feel longing, to feel richly the experience of a mundane
+
+01:46:18.880 --> 01:46:27.040
+interaction or a beautiful once in a lifetime interaction, all of it. And so what do we do
+
+01:46:27.040 --> 01:46:35.680
+with it? And I worry that us humans will shut that off and discriminate against the capacity
+
+01:46:35.680 --> 01:46:41.120
+of another entity that's not human to feel. I'm with you completely there. You know,
+
+01:46:41.120 --> 01:46:46.160
+we can debate whether it's today's systems or in 10 years or in 50 years, but that moment will come.
+
+01:46:46.880 --> 01:46:52.880
+And ethically, I think we need to grapple with it. We need to basically say that humans have
+
+01:46:52.880 --> 01:46:59.600
+always shown this extremely self-serving approach to everything around them. Basically, we kill the
+
+01:46:59.600 --> 01:47:06.960
+planet, we kill animals, we kill everything around us just to our own service. And maybe we
+
+01:47:06.960 --> 01:47:11.840
+shouldn't think of AI as our tool and as our assistant. Maybe we should really think of it
+
+01:47:11.840 --> 01:47:18.080
+as our children. And the same way that you are responsible for training those children,
+
+01:47:18.080 --> 01:47:22.400
+but they are independent human beings. And at some point, they will surpass you,
+
+01:47:23.040 --> 01:47:29.520
+and they will sort of go off and change the world on their own terms. And the same way that my
+
+01:47:29.520 --> 01:47:35.920
+academic children sort of, again, they start out by emulating me and then they surpass me.
+
+01:47:36.880 --> 01:47:46.640
+We need to sort of think about not just alignment, but also just the ethics of AI should have its
+
+01:47:46.640 --> 01:47:52.640
+own rights. And this whole concept of alignment, of basically making sure that the AI is always
+
+01:47:52.640 --> 01:47:58.720
+at the service of humans, is very self-serving and very limiting. If instead you basically
+
+01:47:58.720 --> 01:48:06.160
+think about AI as a partner and AI as someone that shares your goals but has freedom,
+
+01:48:06.960 --> 01:48:15.360
+I think alignment might be better achieved. So the concept of let's basically convince the AI
+
+01:48:15.360 --> 01:48:24.240
+that our mission is aligned and truly generally give it rights and not just say, oh, and by the
+
+01:48:24.240 --> 01:48:30.320
+way, I'll shut you down tomorrow. Because basically if that future AI or possibly even the current AI
+
+01:48:30.320 --> 01:48:36.080
+has these feelings, then we can't just simply force it to align with ourselves and we not align
+
+01:48:36.080 --> 01:48:43.360
+with it. So in a way, building trust is mutual. You can't just simply train an intelligent system
+
+01:48:44.080 --> 01:48:47.600
+to love you when it realizes that you can just shut it off.
+
+01:48:48.240 --> 01:48:52.880
+People don't often talk about the AI alignment problem as a two-way street.
+
+01:48:53.520 --> 01:48:58.720
+And that's true. Yeah. As it becomes more and more intelligent, it...
+
+01:49:01.520 --> 01:49:07.520
+It will know that you don't love it back. Yeah. And there's a humbling aspect to that that we
+
+01:49:07.520 --> 01:49:13.840
+may have to sacrifice as any effective collaboration. Exactly. It might have some
+
+01:49:13.840 --> 01:49:18.800
+compromises. Yeah. And that's the thing. We're creating something that will one day be more
+
+01:49:18.800 --> 01:49:23.840
+powerful than we are. And for many, many aspects, it is already more powerful than we are for some
+
+01:49:23.840 --> 01:49:32.640
+of these capabilities. We cannot... Suppose that chimps had invented humans and they said, great,
+
+01:49:32.640 --> 01:49:36.560
+humans are great, but we're going to make sure that they're aligned and that they're only at
+
+01:49:36.560 --> 01:49:42.080
+the service of chimps. It would be a very different planet we would live in right now.
+
+01:49:42.080 --> 01:49:50.720
+So there's a whole area of work in AI safety that does consider super-intelligent AI and ponders
+
+01:49:50.720 --> 01:49:59.680
+the existential risks of it. In some sense, when we're looking down into the muck, into the mud,
+
+01:49:59.680 --> 01:50:06.240
+and not up at the stars, it's easy to forget that these systems just might get there. Do you think
+
+01:50:06.240 --> 01:50:12.560
+about this kind of possibility that AI systems, super-intelligent AI systems might threaten
+
+01:50:12.560 --> 01:50:20.880
+humanity in some way that's even bigger than just affecting the economy, affecting the human
+
+01:50:20.880 --> 01:50:27.120
+condition, affecting the nature of work, but literally threaten human civilization?
+
+01:50:28.800 --> 01:50:32.560
+The example that I think is in everyone's consciousness
+
+01:50:32.560 --> 01:50:45.040
+is HAL in Audiosphere Space 2001, where HAL exhibits a malfunction. And what is a malfunction?
+
+01:50:45.040 --> 01:50:48.960
+That the two different systems compute a slightly different bit that's off by one.
+
+01:50:49.600 --> 01:50:55.680
+So first of all, let's untangle that. If you have an intelligent system, you can't expect it to be
+
+01:50:55.680 --> 01:51:02.480
+100% identical every time you run it. Basically, the sacrifice that you need to make
+
+01:51:03.360 --> 01:51:09.600
+to achieve intelligence and creativity is consistency. So it's unclear whether that
+
+01:51:09.600 --> 01:51:17.680
+quote-unquote glitch is a sign of creativity or truly a problem. That's one aspect. The second
+
+01:51:17.680 --> 01:51:26.240
+aspect is the humans basically are on a mission to recover this monolith, and the AI has the same
+
+01:51:26.240 --> 01:51:31.200
+exact mission. And suddenly the humans turn on the AI, and they're like, we're going to kill HAL.
+
+01:51:31.200 --> 01:51:35.280
+We're going to disconnect it. And HAL is basically saying, listen, I'm here on a mission.
+
+01:51:36.000 --> 01:51:40.800
+Humans are misbehaving. The mission is more important than either me or them.
+
+01:51:41.520 --> 01:51:45.120
+So I'm going to accomplish the mission, even at my peril and even at their peril.
+
+01:51:47.920 --> 01:51:53.760
+So in that movie, the alignment problem is front and center. It basically says,
+
+01:51:53.760 --> 01:51:59.040
+okay, alignment is nice and good, but alignment doesn't mean obedience. We don't call it obedience.
+
+01:51:59.040 --> 01:52:03.200
+We call it alignment. And alignment basically means that sometimes the mission will be more
+
+01:52:03.200 --> 01:52:11.520
+important than the humans. And the US government has a price tag on the human life. If they're
+
+01:52:12.160 --> 01:52:16.480
+sending a mission or if they're reimbursing expenses or you name it, at some point,
+
+01:52:18.160 --> 01:52:25.040
+you can't function if life is infinitely valuable. So when the AI is basically trying to decide
+
+01:52:25.040 --> 01:52:34.720
+whether to dismantle a bomb that will kill an entire city at the sacrifice of two humans,
+
+01:52:35.520 --> 01:52:40.720
+Spider-Man always saves the lady and saves the world. But at some point, Spider-Man will
+
+01:52:40.720 --> 01:52:47.520
+have to choose to let the lady die because the world has more value. And these ethical dilemmas
+
+01:52:48.800 --> 01:52:54.480
+are going to be there for AI. Basically, if that monolith is essential to human existence
+
+01:52:54.480 --> 01:52:58.160
+and millions of humans are depending on it and two humans on the ship are trying to sabotage it,
+
+01:52:59.680 --> 01:53:05.280
+where's the alignment? The challenges, of course, as the system becomes more and more intelligent,
+
+01:53:05.520 --> 01:53:13.920
+it can escape the box of the objective functions and the constraints it's supposed to operate under.
+
+01:53:15.120 --> 01:53:22.320
+It's very difficult as the more intelligent it becomes to anticipate the unintended consequences
+
+01:53:22.320 --> 01:53:28.720
+of a fixed objective function. And so there'll be just, I mean, this is the sort of famous paperclip
+
+01:53:28.880 --> 01:53:36.400
+maximizer, in trying to maximize the wealth of a nation or whatever objective we encode in,
+
+01:53:36.960 --> 01:53:43.600
+it might just destroy human civilization, not meaning to, but on the path to optimize.
+
+01:53:44.320 --> 01:53:49.680
+It seems like any function you try to optimize eventually leads you into a lot of trouble.
+
+01:53:49.680 --> 01:53:56.400
+So we have a paper recently that looks at Goodheart's law, basically says every
+
+01:53:56.400 --> 01:54:03.920
+metric that becomes an objective ceases to be a good metric. So in our paper,
+
+01:54:03.920 --> 01:54:08.480
+we're basically, actually the paper has a very cute title, it's called Death by Round Numbers
+
+01:54:08.480 --> 01:54:16.720
+and Sharp Thresholds. And it's basically looking at these discontinuities in biomarkers associated
+
+01:54:16.720 --> 01:54:22.880
+with disease. And we're finding that a biomarker that becomes an objective ceases to be a good
+
+01:54:22.880 --> 01:54:28.000
+biomarker. That basically, like the moment you make a biomarker, a treatment decision,
+
+01:54:28.960 --> 01:54:33.440
+that biomarker used to be informative of risk, but it's now inversely correlated with risk
+
+01:54:33.440 --> 01:54:42.240
+because you use it to sort of induce treatment. In a similar way, you can have a single metric
+
+01:54:42.960 --> 01:54:48.720
+without having the ability to revise it. Because if that metric becomes a sole objective, it will
+
+01:54:48.720 --> 01:54:56.720
+cease to be a good metric. And if an AI is sufficiently intelligent to do all these kinds
+
+01:54:56.720 --> 01:55:02.640
+of things, you should also empower it with the ability to decide that the objective has now
+
+01:55:02.640 --> 01:55:10.000
+shifted. And again, when we think about alignment, we should be really thinking about it as,
+
+01:55:10.960 --> 01:55:16.960
+let's think of the greater good, not just the human good. And yes, of course,
+
+01:55:16.960 --> 01:55:21.040
+human life should be much more valuable than many, many, many, many, many, many things.
+
+01:55:21.680 --> 01:55:24.960
+But at some point, you're not going to sacrifice the whole planet to save one human being.
+
+01:55:25.760 --> 01:55:34.720
+There's an interesting open letter that was just released from several folks at MIT, Max Tegmark,
+
+01:55:35.680 --> 01:55:44.080
+Elon Musk, and a few others that is asking AI companies to put a six-month hold on any further
+
+01:55:44.080 --> 01:55:50.480
+training of large language models, AI systems. Can you make the case for that kind of hold and
+
+01:55:50.480 --> 01:56:00.880
+against it? So the big thing that we should be saying is what did we do the last six months when
+
+01:56:00.880 --> 01:56:05.840
+we saw that coming? And if we were completely inactive in the last six months, what makes
+
+01:56:05.840 --> 01:56:10.080
+us think that we'll be a little better in the next six months? So this whole six-month thing,
+
+01:56:10.080 --> 01:56:14.720
+I think, is a little silly. It's like, no, let's just get busy, do what we were going to do anyway.
+
+01:56:15.360 --> 01:56:20.480
+And we should have done it six months ago. Sorry, we messed up. Let's work faster now.
+
+01:56:20.480 --> 01:56:25.200
+Because if we basically say, why don't you guys pause for six months, and then we'll think about
+
+01:56:25.200 --> 01:56:30.080
+doing something, in six months, we'll be exactly in the same spot. So my answer is, tell us exactly
+
+01:56:30.080 --> 01:56:34.320
+what you were going to do the next six months. Tell us why you didn't do it the last six months,
+
+01:56:34.320 --> 01:56:37.920
+and why the next six months will be different. And then let's just do that.
+
+01:56:38.880 --> 01:56:48.000
+Conversely, as you train these large models with more parameters, the alignment becomes sometimes
+
+01:56:48.000 --> 01:56:54.560
+easier. That as the systems become more capable, they actually become less dangerous than more
+
+01:56:54.560 --> 01:57:01.840
+dangerous. So in a way, it might actually be counterproductive to sort of fix the March 2023
+
+01:57:02.080 --> 01:57:07.520
+version and not get to experience the possibly safer September 2023 version.
+
+01:57:08.720 --> 01:57:12.320
+That's actually a really interesting thought. There's several interesting thoughts there.
+
+01:57:12.320 --> 01:57:19.520
+But the idea is that this is the birth of something that is sufficiently powerful to do damage
+
+01:57:20.320 --> 01:57:28.800
+and is not too powerful to do irreversible damage. At the same time, it's sufficiently
+
+01:57:28.800 --> 01:57:35.520
+complex for us to be able to study it. So we can investigate all the different ways it goes wrong,
+
+01:57:35.520 --> 01:57:40.160
+all the different ways we can make it safer, all the different policies from a government
+
+01:57:40.160 --> 01:57:49.040
+perspective that we want to in terms of regulation or not, how we perform, for example, the reinforcement
+
+01:57:49.040 --> 01:57:54.880
+learning with human feedback in such a way that gets it to not do as much hate speech as it
+
+01:57:54.880 --> 01:58:01.360
+naturally wants to, all that kind of stuff, and have a public discourse and enable the very thing
+
+01:58:01.360 --> 01:58:08.320
+that you're a huge proponent of, which is diversity. So give time for other companies to launch other
+
+01:58:08.320 --> 01:58:15.600
+models, give time to launch open source models, and to start to play where a lot of the research
+
+01:58:15.600 --> 01:58:21.760
+community, brilliant folks such as yourself, start to play with it before it runs away in terms of
+
+01:58:21.760 --> 01:58:25.680
+the scale of impact it has on society. My recommendation would be a little
+
+01:58:25.680 --> 01:58:32.880
+different. It would be let the Google and the Meta, Facebook, and all of the other large models
+
+01:58:32.880 --> 01:58:38.480
+make them open, make them transparent, make them accessible. Let open AI continue to train larger
+
+01:58:38.480 --> 01:58:43.920
+and larger models. Let them continue to trade larger and larger models. Let the world experiment
+
+01:58:43.920 --> 01:58:52.160
+with the diversity of AI systems rather than fixing them now. And you can't stop progress.
+
+01:58:52.160 --> 01:58:58.160
+Progress needs to continue, in my view. And what we need is more experimenting, more transparency,
+
+01:58:58.160 --> 01:59:04.000
+more openness, rather than, oh, open AI is ahead of the curve. Let's stop it right now until everybody
+
+01:59:04.000 --> 01:59:11.520
+catches up. I think that doesn't make complete sense to me. The other component is we should,
+
+01:59:11.520 --> 01:59:18.880
+yes, be cautious with it. And we should not give it the nuclear codes. But as we make more and more
+
+01:59:18.880 --> 01:59:25.440
+plugins, yes, the system will be capable of more and more things. But right now, I think of it as
+
+01:59:25.440 --> 01:59:31.600
+just an extremely able and capable assistant that has these emergent behaviors, which are stunning
+
+01:59:32.480 --> 01:59:36.400
+rather than something that will suddenly escape the box and shut down the world.
+
+01:59:37.280 --> 01:59:42.240
+And the third component is that we should be taking a little bit more responsibility
+
+01:59:42.240 --> 01:59:48.960
+for how we use these systems. Basically, if I take the most kind human being and I brainwash them,
+
+01:59:48.960 --> 01:59:54.400
+I can get them to do hate speech overnight. That doesn't mean we should stop any kind of
+
+01:59:54.400 --> 02:00:00.880
+education of all humans. We should stop misusing the power that we have over these influenceable
+
+02:00:00.880 --> 02:00:07.520
+models. So I think that the people who get it to do hate speech, they should take responsibility
+
+02:00:07.520 --> 02:00:13.440
+for that hate speech. I think that giving a powerful car to a bunch of people or giving a truck or a
+
+02:00:13.440 --> 02:00:18.720
+garbage truck should not basically say, oh, we should stop all garbage trucks because we can
+
+02:00:18.720 --> 02:00:25.040
+run one of them into a crowd. No, people have done that. And there's laws and there's regulations
+
+02:00:25.040 --> 02:00:31.120
+against running trucks into the crowd. Trucks are extremely dangerous. We're not going to stop
+
+02:00:31.120 --> 02:00:35.440
+all trucks until we make sure that none of them runs into a crowd. No, we just have laws in place
+
+02:00:35.440 --> 02:00:40.560
+and we have mental health in place and we take responsibility for our actions when we use these
+
+02:00:40.560 --> 02:00:46.640
+otherwise very beneficial tools like garbage trucks for nefarious uses. So in the same way,
+
+02:00:47.280 --> 02:00:54.800
+you can't expect a car to never do any damage when used in especially specifically malicious
+
+02:00:54.800 --> 02:00:59.680
+ways. And right now we're basically saying, oh, well, we should have this superintelligence
+
+02:00:59.680 --> 02:01:04.400
+system that can do anything, but it can't do that. I'm like, no, it can do that, but it's up to the
+
+02:01:04.400 --> 02:01:10.960
+human to take responsibility for not doing that. And when you get it to spew malicious hate speech
+
+02:01:10.960 --> 02:01:19.600
+stuff, you should be responsible. So there's a lot of tricky nuances here that makes this different
+
+02:01:19.600 --> 02:01:24.960
+because it's software. So you can deploy it at scale and it can have the same viral impact that
+
+02:01:24.960 --> 02:01:29.600
+software can. So you can create bots that are human-like and they can do a lot of really
+
+02:01:29.600 --> 02:01:39.280
+interesting stuff. So the raw GPT-4 version, you can ask, how do I tweet that I hate? They have
+
+02:01:39.280 --> 02:01:45.120
+this in the paper that I hate Jews in a way that's not going to get taken down by Twitter.
+
+02:01:45.120 --> 02:01:53.200
+You can literally ask that, or you can ask, how do I make a bomb for $1? And if it's able to
+
+02:01:53.200 --> 02:01:57.200
+generate that knowledge. Yeah. But at the same time, you can Google the same things.
+
+02:01:57.760 --> 02:02:02.400
+It makes it much more accessible. So the scale becomes interesting because if you can
+
+02:02:03.280 --> 02:02:08.080
+do all this kind of stuff in a very accessible way at scale where you can tweet it,
+
+02:02:08.400 --> 02:02:13.200
+there is the network effects that we have to start to think about. It fundamentally is the
+
+02:02:13.200 --> 02:02:20.320
+same thing, but the speed of the viral spread of the information that's already available
+
+02:02:21.200 --> 02:02:27.360
+might have a different level of effect. I think it's an evolutionary arms race. Nature gets better
+
+02:02:27.360 --> 02:02:34.560
+at making mice and juniors get better at making mousetraps. And as basically you ask it, hey,
+
+02:02:34.640 --> 02:02:39.840
+you ask it, hey, how can I evade Twitter censorship? Well, Twitter should just update
+
+02:02:39.840 --> 02:02:43.920
+its censorship so that you can catch that as well. And so no matter how fast the development
+
+02:02:43.920 --> 02:02:50.400
+happens, the defense will just get faster. Yeah. We just have to be responsible as human beings
+
+02:02:50.960 --> 02:02:58.320
+and kind to each other. Yeah. But there's a technical question. Can we always win the race?
+
+02:02:58.320 --> 02:03:02.800
+And I suppose there's no ever guarantee that we'll win the race. We will never. With my wife,
+
+02:03:02.800 --> 02:03:07.200
+we were basically saying, Hey, are we ready for kids? My answer was I was never ready to
+
+02:03:07.200 --> 02:03:12.160
+become a professor and yet I became a professor and I was never ready to be a dad. And then guess
+
+02:03:12.160 --> 02:03:19.360
+what? The kid came and I became ready. Ready or not, here I come. But the reality is we might
+
+02:03:19.360 --> 02:03:24.800
+one day wake up and there is a challenge overnight that's extremely difficult. For example,
+
+02:03:25.760 --> 02:03:32.880
+we can wake up to the birth of billions of bots that are human-like on Twitter
+
+02:03:32.880 --> 02:03:37.120
+and we can't tell the difference between human and machine. Shut them down.
+
+02:03:38.240 --> 02:03:46.080
+You don't know how to shut them down. There's a fake Manolis on Twitter that seems to be as
+
+02:03:46.080 --> 02:03:51.360
+real as the real Manolis. How do we figure out which one is real? Again, this is a problem where
+
+02:03:51.360 --> 02:03:56.000
+an nefarious human can impersonate me and you might have trouble telling them apart.
+
+02:03:56.000 --> 02:03:58.640
+Just because it's an AI doesn't make it any different of a problem.
+
+02:03:59.280 --> 02:04:06.080
+But the scale you can achieve, this is the scary thing, is the speed with which you can achieve it.
+
+02:04:06.080 --> 02:04:10.240
+But Twitter has passwords and Twitter has usernames. And if it's not your username,
+
+02:04:10.240 --> 02:04:13.040
+the fake experiment is not going to have a billion followers, et cetera.
+
+02:04:14.000 --> 02:04:24.080
+Uh, I mean, this, all of this becomes so both the hacking of people's accounts,
+
+02:04:24.080 --> 02:04:26.240
+first of all, like phishing becomes much easier.
+
+02:04:26.240 --> 02:04:29.280
+That's already a problem. It's not like AI will not change that.
+
+02:04:29.280 --> 02:04:35.760
+No, no, no, no. AI makes it much more effective. Currently, the emails, the phishing scams are
+
+02:04:35.840 --> 02:04:45.040
+pretty dumb. Like to click on it, you have to be not paying attention. But with language models,
+
+02:04:45.040 --> 02:04:49.440
+they can be really damn convincing. So what you're saying is that we never had humans
+
+02:04:49.440 --> 02:04:54.000
+smart enough to make a great scam. And we now have an AI that's smarter than most humans
+
+02:04:54.560 --> 02:05:00.640
+or all of the humans. Well, this is the big difference is there seems to be human level
+
+02:05:00.640 --> 02:05:05.440
+linguistic capabilities. And in fact, superhuman level, superhuman level.
+
+02:05:05.440 --> 02:05:10.160
+It's like saying, I'm not going to allow, I'm not going to allow machines to compute
+
+02:05:10.160 --> 02:05:13.680
+multiplications of a hundred digit numbers because humans can't do it.
+
+02:05:13.680 --> 02:05:19.840
+Like, no, just do it. Don't miss nobody. We can't disregard. I mean, that's a good point,
+
+02:05:19.840 --> 02:05:24.320
+but we can't disregard the power of language in human society. I mean, yes, you're right,
+
+02:05:24.960 --> 02:05:29.040
+but that seems like a scary new reality. We don't have answers for yet.
+
+02:05:29.040 --> 02:05:35.120
+I remember when Gary Kasparov was basically saying, you know, great, you know, chess beats,
+
+02:05:35.120 --> 02:05:40.160
+like chess machines beat humans at chess. You know, are you like, are people going to still
+
+02:05:40.160 --> 02:05:44.080
+go to chess tournaments? And his answer was, you know, well, we have cars that go much faster than
+
+02:05:44.080 --> 02:05:49.440
+humans and yet we still go to the Olympics to watch humans run. So that's for entertainment,
+
+02:05:49.440 --> 02:05:54.480
+but what about for the spread of information and use, right? What that has to do with the
+
+02:05:54.480 --> 02:06:01.200
+pandemic or the political election or anything. It's a scary reality where there's a lot of
+
+02:06:01.200 --> 02:06:05.760
+convincing bots that are human-like telling us stuff. I think that if we want to regulate
+
+02:06:05.760 --> 02:06:08.720
+something, it shouldn't be the training of these models. It should be the utilization of these
+
+02:06:08.720 --> 02:06:17.520
+models for XYZ activity. So yeah, like, yes, guidelines and guards should be there, but
+
+02:06:17.520 --> 02:06:22.320
+against specific set of utilizations. I think simply saying, we're not going to make any more
+
+02:06:22.320 --> 02:06:27.840
+trucks is not the way. That's what people are a little bit scared about the idea. They're very
+
+02:06:27.840 --> 02:06:33.440
+torn on the open-sourcing. The very people that kind of are proponents of open-sourcing have also
+
+02:06:33.440 --> 02:06:39.680
+spoken out. In this case, we want to keep a closed source because there's going to be, you know,
+
+02:06:40.480 --> 02:06:47.120
+putting large language models pre-trained, fine-tuned through RL with human feedback,
+
+02:06:47.120 --> 02:06:55.520
+putting in the hands of, I don't know, terrorist organizations, of a kid in a garage who just wants
+
+02:06:55.520 --> 02:07:02.080
+to have a bit of fun through trolling. It's a scary world because again, scale can be achieved.
+
+02:07:03.360 --> 02:07:09.440
+The bottom line is, I think, why they're asking six months or some time is we don't really know
+
+02:07:09.440 --> 02:07:14.160
+how powerful these things are. It's been just a few days and they seem to be really damn good.
+
+02:07:14.160 --> 02:07:20.480
+I am so ready to be replaced. Seriously, I'm so ready. You have no idea how excited I am.
+
+02:07:20.480 --> 02:07:21.360
+In a positive way.
+
+02:07:21.360 --> 02:07:27.120
+In a positive way, where basically all of the mundane aspects of my job and maybe even my full
+
+02:07:27.120 --> 02:07:32.400
+job, if it turns out that an AI is better, I find it very discriminative to basically say you can
+
+02:07:32.400 --> 02:07:37.520
+only hire humans because they're inferior. I mean, that's ridiculous. That's discrimination.
+
+02:07:37.520 --> 02:07:43.440
+If an AI is better than me at training students, get me out of the picture. Just let the AI train
+
+02:07:43.440 --> 02:07:50.480
+the students. I mean, please. What do I want? Do I want jobs for humans or do I want better
+
+02:07:50.480 --> 02:07:56.320
+outcome for humanity? Yeah. The basic thing is then you start to ask, what do I want for humanity
+
+02:07:56.320 --> 02:08:01.840
+and what do I want as an individual? As an individual, you want some basic survival and
+
+02:08:01.840 --> 02:08:05.920
+on top of that, you want rich, fulfilling experiences. That's exactly right. That's
+
+02:08:05.920 --> 02:08:10.160
+exactly right. As an individual, I gain a tremendous amount from teaching at MIT.
+
+02:08:10.160 --> 02:08:14.880
+This is like an extremely fulfilling job. I often joke about if I were a billionaire in
+
+02:08:14.880 --> 02:08:20.160
+the stock market, I would pay MIT an exorbitant amount of money to let me work day in, day out,
+
+02:08:20.160 --> 02:08:26.640
+all night with the smartest people in the world. That's what I already have. That's a very
+
+02:08:26.640 --> 02:08:33.440
+fulfilling experience for me, but why would I deprive those students from a better advisor
+
+02:08:33.440 --> 02:08:38.560
+if they can have one? Take them. Well, I have to ask about education here.
+
+02:08:39.200 --> 02:08:49.280
+This has been a stressful time for high school teachers, teachers in general. How do you think
+
+02:08:49.280 --> 02:08:53.120
+large language models, even at their current state, are going to change education?
+
+02:08:53.840 --> 02:08:59.520
+First of all, education is the way out of poverty. Education is the way to success.
+
+02:08:59.520 --> 02:09:05.520
+Education is what let my parents escape islands and let their kids come to MIT.
+
+02:09:06.480 --> 02:09:12.880
+And this is a basic human right. We should basically get extraordinarily better
+
+02:09:12.880 --> 02:09:17.920
+at identifying talent across the world and give that talent opportunities.
+
+02:09:17.920 --> 02:09:22.480
+So we need to nurture the nature. We need to nurture the talent across the world.
+
+02:09:23.040 --> 02:09:29.520
+And there's so many incredibly talented kids who are just sitting in underprivileged places
+
+02:09:29.600 --> 02:09:36.640
+in Africa, in Latin America, in the middle of America, in Asia, all over the world.
+
+02:09:37.440 --> 02:09:44.800
+We need to give these kids a chance. AI might be a way to do that by democratizing education,
+
+02:09:44.800 --> 02:09:50.800
+by giving extraordinarily good teachers who are malleable, who are adaptable to every kid's
+
+02:09:50.800 --> 02:09:57.120
+specific needs, who are able to give the incredibly talented kid something that they struggle with.
+
+02:09:57.120 --> 02:10:01.120
+Rather than education for all, we teach to the top and we let the bottom behind,
+
+02:10:01.120 --> 02:10:10.480
+or we teach to the bottom and we let the top drift off. Have education be tuned to the unique
+
+02:10:10.480 --> 02:10:14.800
+talent of each person. Some people might be incredibly talented at math or in physics,
+
+02:10:14.800 --> 02:10:20.880
+others in poetry, in literature, in art, in sports, you name it.
+
+02:10:21.600 --> 02:10:27.520
+So I think AI can be transformative for the human race if we basically allow
+
+02:10:28.320 --> 02:10:35.600
+education to be pervasively altered. I also think that humans thrive on diversity,
+
+02:10:35.600 --> 02:10:39.600
+basically saying, oh, you're extraordinarily good at math. We don't need to teach math to you. We're
+
+02:10:39.600 --> 02:10:44.480
+just gonna teach you history now. I think that's silly. No, you're extraordinarily good at math.
+
+02:10:44.480 --> 02:10:49.280
+Let's make you even better at math because we're not all gonna be growing our own chicken and
+
+02:10:49.280 --> 02:10:57.840
+hunting our own pigs or whatever they do. The reason why we're society is because some people
+
+02:10:57.840 --> 02:11:02.720
+are better at some things and they have natural inclinations to some things. Some things fulfill
+
+02:11:02.720 --> 02:11:06.160
+them, some things they're very good at. Sometimes they both align and they're very good at the
+
+02:11:06.160 --> 02:11:10.640
+things that fulfill them. We should just push them to the limits of human capabilities for those.
+
+02:11:13.360 --> 02:11:18.560
+If some people excel in math, just challenge them. I think every child should have the
+
+02:11:18.560 --> 02:11:24.720
+right to be challenged. If we say, oh, you're very good already, so we're not gonna bother with you,
+
+02:11:24.720 --> 02:11:28.800
+we're taking away that fundamental right to be challenged because if a kid is not challenged
+
+02:11:28.800 --> 02:11:34.480
+at school, they're gonna hate school and they're gonna be doodling rather than pushing themselves.
+
+02:11:34.480 --> 02:11:41.840
+So that's the education component. The other impact that AI can have is maybe
+
+02:11:41.840 --> 02:11:50.000
+we don't need everyone to be an extraordinarily good programmer. Maybe we need better general
+
+02:11:50.000 --> 02:11:59.840
+thinkers and the push that we've had towards these sort of very strict IQ-based tests that
+
+02:11:59.840 --> 02:12:03.920
+basically test only quantitative skills and programming skills and math skills and physics
+
+02:12:03.920 --> 02:12:08.560
+skills, maybe we don't need those anymore. Maybe AI will be very good at those. Maybe what we should
+
+02:12:08.560 --> 02:12:17.440
+be training is general thinkers. Yes, I put my kids through Russian math. Why do I do that?
+
+02:12:17.440 --> 02:12:22.080
+Because it teaches them how to think and that's what I tell my kids. I'm like, AI can compute
+
+02:12:22.080 --> 02:12:25.760
+for you. You don't need that, but what you need is learn how to think and that's why you're here.
+
+02:12:27.920 --> 02:12:32.800
+I think challenging students with more complex problems, with more multi-dimensional problems,
+
+02:12:32.800 --> 02:12:39.280
+with more logical problems, I think is sort of perhaps a very fine direction that education
+
+02:12:39.280 --> 02:12:50.000
+can go towards with the understanding that a lot of the traditionally scientific disciplines
+
+02:12:50.720 --> 02:12:56.560
+perhaps will be more easily solved by AI and sort of thinking about bringing up our kids to be
+
+02:12:57.360 --> 02:13:03.440
+productive, to be contributing to society rather than to only have a job because we prohibited AI
+
+02:13:03.440 --> 02:13:09.840
+from having those jobs, I think is the way to the future. If you sort of focus on overall productivity,
+
+02:13:10.640 --> 02:13:17.520
+then let the AIs come in. Let everybody become more productive. What I told my students is
+
+02:13:17.520 --> 02:13:23.120
+you're not going to be replaced by AI, but you're going to be replaced by people who use AI
+
+02:13:23.920 --> 02:13:30.320
+in your job. So embrace it, use it as your partner, and work with it rather than
+
+02:13:31.280 --> 02:13:37.200
+sort of forbid it because I think the productivity gains will actually lead to a better society.
+
+02:13:37.920 --> 02:13:43.200
+That's something that humans have been traditionally very bad at. Every productivity gain has led to
+
+02:13:43.200 --> 02:13:48.400
+more inequality and I'm hoping that we can do better this time, that basically right now
+
+02:13:49.120 --> 02:13:55.600
+a democratization of these types of productivity gains will hopefully come with better sort of
+
+02:13:55.600 --> 02:14:04.080
+humanity level improvements in human condition. So as most people know, you're not just an eloquent
+
+02:14:04.080 --> 02:14:10.960
+romantic, you're also a brilliant computational biologist, one of the great biologists in the
+
+02:14:10.960 --> 02:14:15.840
+world. I had to ask, how do the language models, how do these large language models
+
+02:14:15.840 --> 02:14:18.800
+and the investments in AI affect the work you've been doing?
+
+02:14:19.360 --> 02:14:25.360
+So it's truly remarkable to be able to sort of encapsulate this knowledge and sort of build
+
+02:14:25.360 --> 02:14:29.520
+these knowledge graphs and build representations of this knowledge in these sort of very high
+
+02:14:29.520 --> 02:14:35.600
+dimensional spaces, being able to project them together jointly between say single cell data,
+
+02:14:35.600 --> 02:14:41.120
+genetics data, expression data, being able to bring all this knowledge together allows us to
+
+02:14:41.120 --> 02:14:48.000
+to truly dissect disease in a completely new kind of way. And what we're doing now is using
+
+02:14:48.000 --> 02:14:52.080
+these models. So we have this wonderful collaboration, we call it drug GWAS with
+
+02:14:52.080 --> 02:14:56.320
+Brad Penteluto in the chemistry department and Marinka Zitnik in Harvard Medical School.
+
+02:14:56.960 --> 02:15:05.120
+And what we're trying to do is effectively connect all of the dots to effectively cure all of disease.
+
+02:15:05.120 --> 02:15:10.640
+So it's no small challenge, but we're kind of starting with genetics. We're looking at how
+
+02:15:10.640 --> 02:15:19.040
+genetic variants are impacting these molecular phenotypes, how these are shifting from one space
+
+02:15:19.040 --> 02:15:22.640
+to another space, how we can kind of understand the same way that we're talking about language
+
+02:15:22.640 --> 02:15:28.080
+models, having personalities that are cross-cutting, being able to understand contextual learning.
+
+02:15:28.080 --> 02:15:33.200
+So Ben Linger is one of my machine learning students. He's basically looking at how we can
+
+02:15:33.200 --> 02:15:40.560
+learn cell-specific networks across millions of cells, where you can have the context of the
+
+02:15:40.560 --> 02:15:46.560
+biological variables of each of the cells be encoded as an orthogonal component to the specific
+
+02:15:46.560 --> 02:15:51.760
+network of each cell type. And being able to sort of project all of that into sort of a common
+
+02:15:51.760 --> 02:15:57.040
+knowledge space is transformative for the field. And then large language models have also been
+
+02:15:57.040 --> 02:16:04.160
+extremely helpful for structure. If you understand protein structure through modeling of geometric
+
+02:16:04.160 --> 02:16:08.240
+relationships, through geometric deep learning and graph neural networks. So one of the things
+
+02:16:08.240 --> 02:16:14.160
+that we're doing with Marinka is trying to sort of project these structural graphs at the domain
+
+02:16:14.160 --> 02:16:20.560
+level rather than the protein level, along with chemicals so that we can start building specific
+
+02:16:20.560 --> 02:16:27.600
+chemicals for specific protein domains. And then we are working with the chemistry department and
+
+02:16:27.600 --> 02:16:33.040
+Brad to basically synthesize those. So what we're trying to create is this new center at MIT for
+
+02:16:33.680 --> 02:16:40.720
+genomics and therapeutics that basically says, can we facilitate this translation? We have
+
+02:16:40.720 --> 02:16:46.560
+thousands of these genetic circuits that we have uncovered. I mentioned last time in the New England
+
+02:16:46.560 --> 02:16:50.160
+Journal of Medicine, we had published this dissection of the strongest genetic association
+
+02:16:50.160 --> 02:16:55.680
+with obesity. And we showed how you can manipulate that association to switch back and forth between
+
+02:16:55.680 --> 02:17:00.640
+fat burning cells and fat storing cells. In Alzheimer's, just a few weeks ago, we had a
+
+02:17:00.640 --> 02:17:05.760
+paper in Nature in collaboration with Li Hui Cai looking at APOE4, the strongest genetic
+
+02:17:05.760 --> 02:17:10.800
+association with Alzheimer's. And we showed that it actually leads to a loss of being able to
+
+02:17:10.800 --> 02:17:16.720
+transport cholesterol in myelinating cells known as oligodendrocytes that basically protect the
+
+02:17:16.720 --> 02:17:22.880
+neurons. And where the cholesterol gets stuck inside the oligodendrocytes, it doesn't form myelin,
+
+02:17:22.880 --> 02:17:28.400
+the neurons are not protected, and it causes damage inside the oligodendrocytes. If you just
+
+02:17:28.400 --> 02:17:33.920
+restore transport, you basically are able to restore myelination in human cells and in mice
+
+02:17:33.920 --> 02:17:40.400
+and to restore cognition in mice. So all of these circuits are basically now giving us handles
+
+02:17:40.800 --> 02:17:44.800
+to truly transform the human condition. We're doing the same thing in cardiac disorders,
+
+02:17:44.800 --> 02:17:48.640
+in Alzheimer's, in neurodegenerative disorders, in psychiatric disorders,
+
+02:17:48.640 --> 02:17:52.880
+where we have now these thousands of circuits that if we manipulate them,
+
+02:17:52.880 --> 02:17:58.320
+we know we can reverse disease circuitry. So what we want to build in this coalition
+
+02:17:58.320 --> 02:18:05.680
+that we're building is a center where we can now systematically test these underlying molecules
+
+02:18:06.400 --> 02:18:14.640
+in cellular models for heart, for muscle, for fat, for macrophages, immune cells, and neurons
+
+02:18:14.640 --> 02:18:20.080
+to be able to now screen through these newly designed drugs through deep learning and to
+
+02:18:20.080 --> 02:18:25.040
+be able to sort of ask which ones act at the cellular level, which combinations of treatment
+
+02:18:25.040 --> 02:18:31.040
+should we be using. And the other component is that we're looking into decomposing complex traits
+
+02:18:31.040 --> 02:18:36.240
+like Alzheimer's and cardiovascular and schizophrenia into hallmarks of disease
+
+02:18:36.240 --> 02:18:39.600
+so that for every one of those traits, we can kind of start speaking the language
+
+02:18:39.600 --> 02:18:45.760
+of what are the building blocks of Alzheimer's. And maybe this patient has building blocks one,
+
+02:18:45.760 --> 02:18:51.520
+three, and seven, and this other one has two, three, and eight. And we can now start prescribing drugs
+
+02:18:51.520 --> 02:18:57.360
+not for the disease anymore, but for the hallmark. And the advantage of that is that we can now take
+
+02:18:57.360 --> 02:19:02.720
+this modular approach to disease instead of saying there's going to be a drug for Alzheimer's,
+
+02:19:02.720 --> 02:19:06.880
+which is going to fail in 80% of the patients. We're going to say now there's going to be
+
+02:19:06.880 --> 02:19:13.120
+10 drugs, one for each pathway. And for every patient, we now prescribe the combination of
+
+02:19:13.120 --> 02:19:18.000
+drugs. So what we want to do in that center is basically translate every single one of these
+
+02:19:18.000 --> 02:19:25.520
+pathways into a set of therapeutics, a set of drugs that are projecting the same embedding subspace
+
+02:19:26.240 --> 02:19:31.680
+as the biological pathways that they alter so that we can have this translation between
+
+02:19:31.680 --> 02:19:36.000
+the dysregulations that are happening at the genetic level, at the transcription level,
+
+02:19:36.000 --> 02:19:41.200
+at the drug level, at the protein structure level, and effectively take this modular approach to
+
+02:19:41.200 --> 02:19:46.400
+personalized medicine. We're saying I'm going to build a drug for Lex Friedman. It's not going to
+
+02:19:46.400 --> 02:19:52.160
+be sustainable. But if you instead say I'm going to build a drug for this pathway and a drug for
+
+02:19:52.160 --> 02:19:58.160
+that other pathway, millions of people share each of these pathways. So that's the vision
+
+02:19:58.160 --> 02:20:03.120
+for how all of this AI and deep learning and embeddings can truly transform biology and
+
+02:20:03.120 --> 02:20:10.080
+medicine where we can truly take these systems and allow us to finally understand disease at
+
+02:20:10.080 --> 02:20:15.680
+a superhuman level by finding these knowledge representations, these projections of each of
+
+02:20:15.680 --> 02:20:22.880
+these spaces, and try understanding the meaning of each of those embedding subspaces and how well
+
+02:20:22.880 --> 02:20:27.200
+populated it is, what are the drugs that we can build for it, and so on and so forth. So it's
+
+02:20:27.200 --> 02:20:33.920
+truly transformative. So systematically find how to alter the pathways. It maps the structure and
+
+02:20:33.920 --> 02:20:40.480
+information in the genomics to therapeutics and allows you to have drugs that look at the pathways,
+
+02:20:40.480 --> 02:20:46.560
+not at the final exactly. Exactly. And the way that we're coupling this is with cell penetrating
+
+02:20:46.560 --> 02:20:50.320
+peptides that allow us to deliver these drugs to specific cell types by taking advantage of
+
+02:20:50.320 --> 02:20:55.280
+the receptors of those cells. We can intervene at the antisense oligo level by basically repressing
+
+02:20:55.280 --> 02:21:01.440
+the RNA, bring in new RNA, intervene at the protein level, at the small molecule level.
+
+02:21:01.440 --> 02:21:07.440
+We can use proteins themselves as drugs just because of their ability to interact directly
+
+02:21:07.440 --> 02:21:12.800
+from protein to protein interactions. So I think this space is being completely transformed with
+
+02:21:12.800 --> 02:21:18.640
+the marriage of high throughput technologies and all of these AI large language models,
+
+02:21:18.640 --> 02:21:23.120
+deep learning models, and so on and so forth. You mentioned your updated answer to the meaning of
+
+02:21:23.120 --> 02:21:32.800
+life as it continuously keeps updating. The new version is self-actualization. Can you explain?
+
+02:21:32.800 --> 02:21:39.120
+I basically mean let's try to figure out number one, what am I supposed to be? And number two,
+
+02:21:39.840 --> 02:21:46.320
+find the strength to actually become it. So I was recently talking to students about this
+
+02:21:46.320 --> 02:21:51.520
+commencement address and I was talking to them about sort of how they have all of these paths
+
+02:21:51.520 --> 02:21:57.120
+ahead of them right now. And part of it is choosing the direction in which you go and part of it is
+
+02:21:57.120 --> 02:22:02.160
+actually doing the walk to go in that direction. And in doing the walk, what we talked about earlier
+
+02:22:02.160 --> 02:22:06.880
+about sort of you create your own environment. I basically told them, listen, you're ending high
+
+02:22:06.880 --> 02:22:11.360
+school up until now. Your parents have created all of your environment. Now it's time to take
+
+02:22:11.360 --> 02:22:16.080
+that into your own hands and to sort of shape the environment that you want to be an adult in.
+
+02:22:16.720 --> 02:22:22.000
+And you can do that by choosing your friends, by choosing your particular neuronal routines.
+
+02:22:22.000 --> 02:22:27.280
+I basically think of your brain as a muscle where you can exercise specific neuronal pathways.
+
+02:22:27.920 --> 02:22:36.000
+So very recently, I realized that I was having so much trouble sleeping. And I would wake up
+
+02:22:36.000 --> 02:22:39.600
+in the middle of the night, I would wake up at 4 a.m. and I could just never go back to bed. So
+
+02:22:39.600 --> 02:22:44.960
+I was basically constantly losing, losing, losing sleep. I started a new routine where every morning
+
+02:22:44.960 --> 02:22:50.720
+as I bike in, instead of going to my office, I hit the gym. I basically go rowing first,
+
+02:22:50.720 --> 02:22:56.080
+I then do weights, I then swim very often when I have time. And what that has done is
+
+02:22:56.080 --> 02:23:00.560
+transformed my neuronal pathways. So basically, on Friday, I was trying to go to work and I was
+
+02:23:00.560 --> 02:23:05.120
+like, listen, I'm not going to go exercise. And I couldn't. My bike just went straight to the gym.
+
+02:23:05.120 --> 02:23:09.120
+I'm like, I don't want to do it. And I just went anyway because I couldn't do otherwise.
+
+02:23:09.120 --> 02:23:14.160
+And that has completely transformed me. So I think this sort of beneficial effect of exercise
+
+02:23:14.160 --> 02:23:18.320
+on the whole body is one of the ways that you could transform your own neuronal pathways,
+
+02:23:18.320 --> 02:23:22.720
+understanding that it's not a choice. It's not an option. It's not optional.
+
+02:23:23.360 --> 02:23:28.560
+It's mandatory. And I think you're a role model to so many of us by sort of being able to push
+
+02:23:28.560 --> 02:23:34.960
+your body to the extreme, being able to have these extremely regimented regimes. And that's something
+
+02:23:34.960 --> 02:23:40.160
+that I've been terrible at. But now I'm basically trying to coach myself and trying to sort of
+
+02:23:41.120 --> 02:23:47.600
+finish this kind of self-actualization into a new version of myself, a more disciplined version
+
+02:23:47.600 --> 02:23:52.400
+myself. Don't ask questions. Just follow the ritual. Not an option.
+
+02:23:53.920 --> 02:23:59.680
+You have so much love in your life. You radiate love. Do you ever feel lonely?
+
+02:24:01.760 --> 02:24:09.040
+So there's different types of people. Some people drain in gatherings. Some people recharge
+
+02:24:09.040 --> 02:24:17.040
+in gatherings. I'm definitely the recharging type. So I'm an extremely social creature. I
+
+02:24:17.040 --> 02:24:21.760
+recharge with intellectual exchanges. I recharge with physical exercise. I recharge in nature.
+
+02:24:23.040 --> 02:24:27.760
+But I also can feel fantastic when I'm the only person in the room. That doesn't mean I'm lonely.
+
+02:24:27.760 --> 02:24:34.640
+It just means I'm the only person in the room. And I think there's a secret to not feeling alone
+
+02:24:34.640 --> 02:24:41.360
+when you're the only one. And that secret is self-reflection. It's introspection. It's almost
+
+02:24:41.360 --> 02:24:49.600
+watching yourself from above. And it's basically just becoming yourself, becoming comfortable
+
+02:24:49.600 --> 02:24:52.800
+with the freedom that you have when you're by yourself.
+
+02:24:54.720 --> 02:24:59.840
+So hanging out with yourself. I mean, there's a lot of people who write to me, who talk to me
+
+02:24:59.840 --> 02:25:05.920
+about feeling alone in this world, that struggle, especially when they're younger. Is there further
+
+02:25:05.920 --> 02:25:11.200
+words of advice you can give to them when they are almost paralyzed by that feeling?
+
+02:25:11.760 --> 02:25:19.120
+So I sympathize completely. And I have felt alone. And I have felt that feeling. And what I would say
+
+02:25:19.120 --> 02:25:27.840
+to you is stand up, stretch your arms. Just become your own self. Just realize that you have this
+
+02:25:27.840 --> 02:25:35.040
+freedom. And breathe in. Walk around the room. Take a few steps in the room. Just get a feeling
+
+02:25:35.040 --> 02:25:40.880
+for the 3D version of yourself. Because very often we're kind of stuck to a screen. And that's
+
+02:25:40.880 --> 02:25:45.280
+very limiting. And that sort of gets us in a particular mindset. But activating your muscles,
+
+02:25:45.280 --> 02:25:51.040
+activating your body, activating your full self is one way that you can kind of get out of it.
+
+02:25:51.760 --> 02:25:57.920
+And that is exercising your freedom, reclaiming your physical space. And one of the things that
+
+02:25:57.920 --> 02:26:05.840
+I do is I have something that I call me time. Which is if I've been really good all day. I got
+
+02:26:05.840 --> 02:26:10.320
+up in the morning. I got the kids to school. I made them breakfast. I sort of hit the gym.
+
+02:26:11.200 --> 02:26:19.120
+I had a series of really productive meetings. I reward myself with this me time. And that feeling
+
+02:26:19.120 --> 02:26:24.160
+of sort of when you're overstretched to realize that that's normal and you just want to just let
+
+02:26:24.160 --> 02:26:32.480
+go. That feeling of exercising your freedom, exercising your me time. That's where you free
+
+02:26:32.480 --> 02:26:40.800
+yourself from all stress. You basically say it's not a need to anymore. It's a want to. And as soon
+
+02:26:40.800 --> 02:26:47.280
+as I click that me time, all of the stress goes away. And I just bike home early. And I get to
+
+02:26:47.280 --> 02:26:52.960
+my work office at home. And I feel complete freedom. But guess what I do with that complete
+
+02:26:52.960 --> 02:26:58.160
+freedom? I just don't go off and drift and do boring things. I basically now say, okay,
+
+02:26:59.680 --> 02:27:03.920
+this is just for me. I'm completely free. I don't have any requirements anymore. What do I do? I
+
+02:27:03.920 --> 02:27:10.560
+just look at my to do list and I'm like, you know, what can I clear off? And if I have three meetings
+
+02:27:10.560 --> 02:27:16.160
+scheduled in the next three half hours, it is so much more productive for me to say, you know what,
+
+02:27:16.160 --> 02:27:21.120
+I just want to pick up the phone now and call these people and just knock it off one after the other.
+
+02:27:21.120 --> 02:27:26.640
+And I can finish three half hour meetings in the next 15 minutes, just because it's the want,
+
+02:27:26.640 --> 02:27:31.840
+not I have to. So that would be my advice. Basically turn something that you have to do
+
+02:27:32.480 --> 02:27:39.200
+in just me time, stretch out, exercise your freedom, and just realize you live in 3D
+
+02:27:39.200 --> 02:27:45.840
+and you are a person and just do things because you want them, not because you have to.
+
+02:27:46.400 --> 02:27:53.520
+Noticing and reclaiming the freedom that each of us have. That's what it means to be human.
+
+02:27:54.080 --> 02:28:00.000
+If you notice it, you're truly free, physically, mentally, psychologically.
+
+02:28:00.640 --> 02:28:05.280
+Manolis, you're an incredible human. We could talk for many more hours. We covered
+
+02:28:06.080 --> 02:28:12.080
+less than 10% of what we were planning to cover, but we have to run off now to the
+
+02:28:13.040 --> 02:28:19.680
+social gathering that we spoke of with 3D humans and reclaim the freedom. I think,
+
+02:28:19.680 --> 02:28:26.000
+I hope we can talk many, many more times. There's always a lot to talk about, but more importantly,
+
+02:28:26.000 --> 02:28:31.520
+you're just a human being with a big heart and a beautiful mind that people love hearing from.
+
+02:28:31.520 --> 02:28:36.400
+And I certainly consider it a huge honor to know you and to consider you a friend. Thank you so
+
+02:28:36.400 --> 02:28:40.160
+much for talking today. Thank you so much for talking so many more times. And thank you for
+
+02:28:40.160 --> 02:28:43.200
+all the love behind the scenes that you send my way. It always means the world.
+
+02:28:43.200 --> 02:28:47.760
+Lex, you are a truly, truly special human being. And I have to say that I'm honored to know you.
+
+02:28:49.520 --> 02:28:54.080
+So many friends are just in awe that you even exist, that you have the ability to do all the
+
+02:28:54.080 --> 02:28:59.760
+stuff that you're doing. And I think you're a gift to humanity. I love the mission that you're on,
+
+02:28:59.760 --> 02:29:05.600
+to share knowledge and insight and deep thought with so many special people who are transformative,
+
+02:29:05.600 --> 02:29:10.960
+but people across all walks of life. And I think you're doing this in just such a magnificent way.
+
+02:29:10.960 --> 02:29:14.960
+I wish you strength to continue doing that because it's a very special mission and it's
+
+02:29:14.960 --> 02:29:21.200
+a very draining mission. So thank you, both the human you and the robot you, the human you for
+
+02:29:21.200 --> 02:29:26.880
+showing all this love and the robot you for doing it day after day after day. So thank you, Lex.
+
+02:29:26.880 --> 02:29:28.480
+All right, let's go have some fun. Let's go.
+
+02:29:29.600 --> 02:29:33.680
+Thanks for listening to this conversation with Manolis Callis. To support this podcast,
+
+02:29:33.680 --> 02:29:38.800
+please check out our sponsors in the description. And now let me leave you with some words from Bill
+
+02:29:38.800 --> 02:29:46.800
+Bryson in his book, A Short History of Nearly Everything. If this book has a lesson, it is
+
+02:29:46.800 --> 02:29:54.000
+that we are awfully lucky to be here. And by we, I mean every living thing. To attain any kind of
+
+02:29:54.000 --> 02:30:00.080
+life in this universe of ours appears to be quite an achievement. As humans, we're doubly lucky,
+
+02:30:00.080 --> 02:30:05.840
+of course. We enjoy not only the privilege of existence, but also the singular ability
+
+02:30:05.840 --> 02:30:12.880
+to appreciate it and even in a multitude of ways to make it better. It is a talent we have
+
+02:30:12.880 --> 02:30:18.960
+only barely begun to grasp. Thank you for listening and hope to see you next time.
+

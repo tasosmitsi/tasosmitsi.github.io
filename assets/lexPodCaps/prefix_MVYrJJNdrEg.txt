@@ -1,0 +1,3077 @@
+WEBVTT
+
+00:00.000 --> 00:05.720
+The following is a conversation with Mark Zuckerberg inside the metaverse.
+
+00:05.720 --> 00:10.040
+Mark and I are hundreds of miles apart from each other in physical space,
+
+00:10.040 --> 00:12.480
+but it feels like we're in the same room
+
+00:12.480 --> 00:19.480
+because we appear to each other as photorealistic codec avatars in 3D with spatial audio.
+
+00:19.480 --> 00:21.760
+This technology is incredible,
+
+00:21.760 --> 00:25.240
+and I think it's the future of how human beings connect to each other
+
+00:25.240 --> 00:28.440
+in a deeply meaningful way on the Internet.
+
+00:28.480 --> 00:35.560
+These avatars can capture many of the nuances of facial expressions that we humans use
+
+00:35.560 --> 00:38.200
+to communicate emotion to each other.
+
+00:38.200 --> 00:43.800
+Now, I just need to work on upgrading my emotion-expressing capabilities
+
+00:43.800 --> 00:46.240
+of the underlying human.
+
+00:46.240 --> 00:48.840
+This is the Lex Friedman Podcast,
+
+00:48.840 --> 00:52.640
+and now, dear friends, here's Mark Zuckerberg.
+
+00:58.440 --> 01:00.440
+This is so great.
+
+01:03.240 --> 01:06.240
+Lighting change? Wow.
+
+01:06.240 --> 01:08.240
+Oh, yeah, we can put the light anywhere.
+
+01:10.240 --> 01:12.840
+And it doesn't feel awkward to be really close to you.
+
+01:12.840 --> 01:16.840
+No, it does. I actually moved you back a few feet before you got into the headset.
+
+01:16.840 --> 01:18.840
+You were like right here.
+
+01:18.840 --> 01:20.840
+I don't know what you're talking about.
+
+01:20.840 --> 01:22.840
+I don't know what you're talking about.
+
+01:22.840 --> 01:24.840
+I don't know what you're talking about.
+
+01:25.840 --> 01:27.840
+You were like right here.
+
+01:27.840 --> 01:32.440
+I don't know if people can see this, but this is incredible.
+
+01:32.440 --> 01:34.440
+The realism here is just incredible.
+
+01:35.840 --> 01:37.840
+Where am I? Where are you, Mark?
+
+01:37.840 --> 01:39.640
+Where are we?
+
+01:39.640 --> 01:41.040
+You're in Austin, right?
+
+01:41.040 --> 01:43.040
+No, I mean this place.
+
+01:43.040 --> 01:49.040
+We're shrouded by darkness with ultra-realistic face,
+
+01:49.040 --> 01:51.440
+and it just feels like we're in the same room.
+
+01:51.440 --> 01:54.440
+This is really the most incredible thing I've ever seen.
+
+01:54.440 --> 01:57.040
+And sorry to be in your personal space.
+
+01:57.040 --> 01:59.040
+We have done jujitsu before.
+
+01:59.040 --> 02:01.040
+I was commenting to the team before that.
+
+02:01.040 --> 02:06.040
+I feel like we've choked each other from further distances
+
+02:06.040 --> 02:08.040
+than it feels like we are right now.
+
+02:08.040 --> 02:10.040
+I mean, this is just really incredible.
+
+02:10.040 --> 02:12.040
+I don't know how to describe it with words.
+
+02:12.040 --> 02:17.040
+It really feels like we're in the same room.
+
+02:17.040 --> 02:19.040
+It feels like the future.
+
+02:19.040 --> 02:22.040
+This is truly, truly incredible.
+
+02:22.040 --> 02:23.040
+I just wanted to take it in.
+
+02:23.240 --> 02:24.240
+I'm still getting used to it.
+
+02:24.240 --> 02:25.640
+It's like, it's you.
+
+02:25.640 --> 02:27.440
+It's really you.
+
+02:27.440 --> 02:31.440
+But you're not here with me, right?
+
+02:31.440 --> 02:34.440
+You're there wearing a headset, and I'm wearing a headset.
+
+02:34.440 --> 02:36.440
+It's really, really incredible.
+
+02:36.440 --> 02:40.840
+So what, can you describe what it takes currently
+
+02:40.840 --> 02:44.040
+for us to appear so photorealistic to each other?
+
+02:44.040 --> 02:46.440
+Yeah, so I mean for background,
+
+02:46.440 --> 02:51.440
+we both did these scans for this research project
+
+02:51.440 --> 02:54.440
+that we have at Meta called Kodak Avatars.
+
+02:54.440 --> 02:58.440
+And the idea is that instead of actually,
+
+02:58.440 --> 03:00.440
+instead of our avatars being cartoony,
+
+03:00.440 --> 03:02.440
+and instead of actually transmitting a video,
+
+03:02.440 --> 03:06.440
+what it does is we've sort of scanned ourselves
+
+03:06.440 --> 03:09.440
+in a lot of different expressions,
+
+03:09.440 --> 03:14.440
+and we've built a computer model of sort of each of our faces
+
+03:14.440 --> 03:18.440
+and bodies and the different expressions that we make
+
+03:18.440 --> 03:21.440
+and collapse that into a Kodak
+
+03:21.440 --> 03:24.440
+that then when you have the headset on your head,
+
+03:24.440 --> 03:27.440
+it sees your face, it sees your expression,
+
+03:27.440 --> 03:32.440
+and it can basically send an encoded version
+
+03:32.440 --> 03:34.440
+of what you're supposed to look like over the wire.
+
+03:34.440 --> 03:37.440
+So in addition to being photorealistic,
+
+03:37.440 --> 03:40.440
+it's also actually much more bandwidth efficient
+
+03:40.440 --> 03:43.440
+than transmitting a full video
+
+03:43.440 --> 03:47.440
+or especially a 3D immersive video of a whole scene like this.
+
+03:47.440 --> 03:49.440
+And it captures everything.
+
+03:49.440 --> 03:52.440
+Like the flaws, like to me,
+
+03:52.440 --> 03:54.440
+the subtleties of the human face,
+
+03:54.440 --> 03:57.440
+like even the flaws, that's all amazing.
+
+03:57.440 --> 04:00.440
+It makes you, it makes it so much more immersive.
+
+04:00.440 --> 04:02.440
+It makes you realize that like perfection
+
+04:02.440 --> 04:04.440
+isn't the thing that leads to immersion.
+
+04:04.440 --> 04:07.440
+It's like the little subtle flaws like freckles
+
+04:07.440 --> 04:10.440
+and like variations in color and just...
+
+04:10.440 --> 04:11.440
+Yeah, wrinkles.
+
+04:11.440 --> 04:13.440
+All stuff about noses.
+
+04:13.440 --> 04:15.440
+Yeah, asymmetry.
+
+04:15.440 --> 04:17.440
+And just the different, like the corners of the eyes,
+
+04:17.440 --> 04:20.440
+like what your eyes do when you smile, all that kind of stuff.
+
+04:20.440 --> 04:22.440
+Yeah, eyes are a huge part of it.
+
+04:22.440 --> 04:26.440
+Yeah, I mean, there's all the studies that most of communication,
+
+04:26.440 --> 04:28.440
+even when people are speaking,
+
+04:28.440 --> 04:30.440
+is not actually the words that they're saying, right?
+
+04:30.440 --> 04:32.440
+It's kind of the expression and all that.
+
+04:32.440 --> 04:37.440
+And we try to capture that with the kind of classical
+
+04:37.440 --> 04:39.440
+expressive avatar system that we have.
+
+04:39.440 --> 04:41.440
+That's the kind of more cartoon-designed one.
+
+04:41.440 --> 04:43.440
+You can kind of put those kind of expressions
+
+04:43.440 --> 04:44.440
+on those faces as well.
+
+04:44.440 --> 04:46.440
+But there's obviously a certain realism
+
+04:46.440 --> 04:49.440
+that comes with delivering kind of this photorealistic experience
+
+04:49.440 --> 04:52.440
+that, I don't know, I just think it's really magical.
+
+04:52.440 --> 04:55.440
+I mean, this gets to kind of the core of what the vision
+
+04:55.440 --> 04:58.440
+around virtual and augmented reality is,
+
+04:58.440 --> 04:59.440
+of like delivering a sense of presence,
+
+04:59.440 --> 05:01.440
+as if you're there together,
+
+05:01.440 --> 05:03.440
+no matter where you actually are in the world.
+
+05:03.440 --> 05:07.440
+And I mean, this experience, I think, is a good embodiment of that,
+
+05:07.440 --> 05:09.440
+where it's like, I mean, we're in two completely different states,
+
+05:09.440 --> 05:11.440
+halfway across the country,
+
+05:11.440 --> 05:14.440
+and it just looks like you're just sitting right in front of me.
+
+05:14.440 --> 05:16.440
+It's pretty wild.
+
+05:16.440 --> 05:19.440
+Yeah, I mean, it's almost getting emotional.
+
+05:19.440 --> 05:24.440
+It feels like a totally fundamentally new experience.
+
+05:24.440 --> 05:27.440
+For me to have this kind of conversation with loved ones,
+
+05:27.440 --> 05:29.440
+it would just change everything.
+
+05:29.440 --> 05:33.440
+Maybe just to elaborate, I went to Pittsburgh
+
+05:33.440 --> 05:35.440
+and went through the whole scanning procedure,
+
+05:35.440 --> 05:38.440
+which has so much incredible technology,
+
+05:38.440 --> 05:41.440
+so software and hardware going on,
+
+05:41.440 --> 05:43.440
+but it is a lengthy process.
+
+05:43.440 --> 05:46.440
+So what's your vision for the future of this
+
+05:46.440 --> 05:49.440
+in terms of making this more accessible to people?
+
+05:49.440 --> 05:53.440
+You know, it starts off with a small number of people
+
+05:53.440 --> 05:56.440
+doing these very detailed scans, right?
+
+05:56.440 --> 05:59.440
+Which is, that's the version that you did and that I did,
+
+05:59.440 --> 06:01.440
+and before there were a lot of people
+
+06:01.440 --> 06:04.440
+who we've done this kind of a scan for,
+
+06:04.440 --> 06:10.440
+we probably need to kind of over-collect expressions
+
+06:10.440 --> 06:12.440
+when we're doing the scanning,
+
+06:12.440 --> 06:15.440
+because we haven't figured out how much we can reduce that down
+
+06:15.440 --> 06:17.440
+to a really streamlined process
+
+06:17.440 --> 06:21.440
+and extrapolate from the scans that have already been done.
+
+06:21.440 --> 06:24.440
+But the goal, and we have a project that's working on this already,
+
+06:24.440 --> 06:28.440
+is just to do a very quick scan with your cell phone
+
+06:28.440 --> 06:30.440
+where you just take your phone,
+
+06:30.440 --> 06:33.440
+kind of wave it in front of your face for a couple of minutes,
+
+06:33.440 --> 06:37.440
+say a few sentences, make a bunch of expressions,
+
+06:37.440 --> 06:41.440
+but overall have the whole process just be two to three minutes
+
+06:41.440 --> 06:44.440
+and then produce something that's of the quality of what we have right now.
+
+06:44.440 --> 06:47.440
+So I think that that's one of the big challenges that remains,
+
+06:47.440 --> 06:49.440
+and right now we have the ability to do the scans
+
+06:49.440 --> 06:53.440
+if you have hours to sit for one,
+
+06:53.440 --> 06:55.440
+and with today's technology,
+
+06:55.440 --> 06:58.440
+I mean you're using a meta headset that exists,
+
+06:58.440 --> 07:00.440
+it's a product that's kind of for sale now,
+
+07:00.440 --> 07:02.440
+you can drive these with that,
+
+07:02.440 --> 07:09.440
+but the production of these scans in a very efficient way
+
+07:09.440 --> 07:12.440
+is one of the last pieces that we still need to really nail.
+
+07:12.440 --> 07:14.440
+And then obviously there's all the experiences around it,
+
+07:14.440 --> 07:16.440
+I mean right now we're kind of sitting in a dark room,
+
+07:16.440 --> 07:20.440
+which is familiar for your podcast,
+
+07:20.440 --> 07:23.440
+but I think part of the vision for this over time
+
+07:23.440 --> 07:28.440
+is not just having this be like a video call,
+
+07:28.440 --> 07:32.440
+I mean that's fine, it's cool, it feels like it's immersive,
+
+07:32.440 --> 07:35.440
+but you can do a video call on your phone.
+
+07:35.440 --> 07:37.440
+The thing that you can do in the metaverse
+
+07:37.440 --> 07:39.440
+that is different from what you can do on a phone
+
+07:39.440 --> 07:42.440
+is like doing stuff where you're physically there together
+
+07:42.440 --> 07:44.440
+and participating in things together,
+
+07:44.440 --> 07:46.440
+and we could play games like this,
+
+07:46.440 --> 07:50.440
+we could have meetings like this in the future,
+
+07:50.440 --> 07:54.440
+once you get mixed reality and augmented reality,
+
+07:54.440 --> 07:56.440
+we could have codec avatars like this
+
+07:56.440 --> 07:58.440
+and go into a meeting and have some people physically there
+
+07:58.440 --> 08:02.440
+and have some people show up in this photorealistic form
+
+08:02.440 --> 08:05.440
+superimposed on the physical environment.
+
+08:05.440 --> 08:07.440
+I think that stuff like that is going to be super powerful.
+
+08:07.440 --> 08:10.440
+So we've got to still build out all those kind of applications
+
+08:10.440 --> 08:12.440
+and the use cases around it, but I don't know,
+
+08:12.440 --> 08:16.440
+I think it's going to be a pretty wild next few years around this.
+
+08:16.440 --> 08:20.440
+I'm actually almost at a loss of words, this is just so incredible.
+
+08:20.440 --> 08:21.440
+This is truly incredible.
+
+08:21.440 --> 08:24.440
+I hope that people watching this can get a glimpse
+
+08:24.440 --> 08:26.440
+of how incredible it is.
+
+08:26.440 --> 08:28.440
+It really feels like we're in the same room.
+
+08:28.440 --> 08:31.440
+There is that, I guess there's an uncanny valley
+
+08:31.440 --> 08:34.440
+that seems to have been crossed here.
+
+08:34.440 --> 08:36.440
+It looks like you.
+
+08:36.440 --> 08:41.440
+There's still a bunch of tuning that I think we'll want to do
+
+08:41.440 --> 08:46.440
+where different people emote to different extents.
+
+08:46.440 --> 08:51.440
+So I think one of the big questions is when you smile,
+
+08:51.440 --> 08:55.440
+how wide is your smile and how wide do you want your smile to be?
+
+08:55.440 --> 08:59.440
+And I think getting that to be tuned on a per-person basis
+
+08:59.440 --> 09:05.440
+is going to be one of the things that we're going to need to figure out.
+
+09:05.440 --> 09:09.440
+It's like to what extent do you want to give people control over that?
+
+09:09.440 --> 09:13.440
+Some people might prefer a version of themselves
+
+09:13.440 --> 09:17.440
+that's more emotive in their avatar than their actual faces.
+
+09:17.440 --> 09:21.440
+For example, I always get a lot of critique and shit
+
+09:21.440 --> 09:26.440
+for having a relatively stiff expression.
+
+09:26.440 --> 09:31.440
+But I might feel pretty happy, but just make a pretty small smile.
+
+09:31.440 --> 09:37.440
+For me, it's like I'd want to have my avatar really be able to better express
+
+09:37.440 --> 09:42.440
+how I'm feeling than how I can do physically.
+
+09:42.440 --> 09:44.440
+So I think there's a question about how you want to tune that.
+
+09:44.440 --> 09:47.440
+But overall, yeah, we want to start from the baseline
+
+09:47.440 --> 09:50.440
+of capturing how people actually emote and express themselves.
+
+09:50.440 --> 09:54.440
+And I think the initial version of this has been pretty impressive.
+
+09:54.440 --> 09:59.440
+And like you said, I do think we're kind of beyond the uncanny valley here.
+
+09:59.440 --> 10:04.440
+And it does feel like you. It doesn't feel weird or anything like that.
+
+10:04.440 --> 10:08.440
+I mean, that's going to be the meme that the two most monotone people
+
+10:08.440 --> 10:10.440
+are in a metaverse together.
+
+10:10.440 --> 10:14.440
+But I think that actually makes it more difficult.
+
+10:14.440 --> 10:19.440
+The amazing thing here is that the subtleties of the expression of the eyes,
+
+10:19.440 --> 10:22.440
+you know, people say I'm monotone and emotionless, but I'm not.
+
+10:22.440 --> 10:29.440
+It's just maybe my expression of emotion is more subtle usually like with the eyes.
+
+10:29.440 --> 10:32.440
+And that's one of the things I've noticed is just how expressive
+
+10:32.440 --> 10:35.440
+the subtle movement of the corners of the eyes are
+
+10:35.440 --> 10:38.440
+in terms of displaying happiness or boredom or all that kind of stuff.
+
+10:38.440 --> 10:41.440
+I am curious to see, just because I've never done one of these before,
+
+10:41.440 --> 10:44.440
+I've never done a podcast as one of these codec avatars.
+
+10:44.440 --> 10:49.440
+And I'm curious to see what people think of it because, you know,
+
+10:49.440 --> 10:53.440
+one of the issues that we've had in some of the VR and mixed reality work
+
+10:53.440 --> 10:56.440
+is it tends to feel a lot more profound when you're in it
+
+10:56.440 --> 10:59.440
+than the 2D videos capturing the experience.
+
+10:59.440 --> 11:02.440
+So I think that this one, because it's photorealistic,
+
+11:02.440 --> 11:07.440
+may look kind of as amazing in 2D for people watching it as it feels.
+
+11:07.440 --> 11:09.440
+I think to be in it.
+
+11:09.440 --> 11:13.440
+But we've certainly had this issue where a lot of the other things,
+
+11:13.440 --> 11:16.440
+it's like you feel this sense of immersion when you're in it
+
+11:16.440 --> 11:18.440
+that doesn't quite translate to a 2D screen.
+
+11:18.440 --> 11:21.440
+But I'm curious to see what people think.
+
+11:21.440 --> 11:27.440
+Yeah, I'm curious to see if people could see that my heart is actually beating fast now.
+
+11:27.440 --> 11:34.440
+This is super interesting that such intimacy of conversation can be achieved remotely.
+
+11:34.440 --> 11:38.440
+There's been, you know, I don't do a remote podcast for this reason.
+
+11:38.440 --> 11:41.440
+And this is like, breaks all of that.
+
+11:41.440 --> 11:45.440
+This feels like just an incredible transition to something else,
+
+11:45.440 --> 11:47.440
+to a different kind of communication.
+
+11:47.440 --> 11:51.440
+It breaks all barriers, like geographic physical barriers.
+
+11:51.440 --> 11:54.440
+You mentioned, do you have a sense of timeline
+
+11:54.440 --> 11:57.440
+in terms of how many difficult things have to be solved
+
+11:57.440 --> 12:02.440
+to make this more accessible to like scanning with a smartphone?
+
+12:02.440 --> 12:06.440
+Yeah, I mean, I think we'll probably roll this out progressively over time.
+
+12:06.440 --> 12:10.440
+So it's not going to be like we roll it out and one day everyone has a codec avatar.
+
+12:10.440 --> 12:13.440
+We want to get more people scanned and into the system.
+
+12:13.440 --> 12:18.440
+And then we want to start integrating it into each one of our apps, right?
+
+12:18.440 --> 12:22.440
+Making it so that, you know, I think that for a lot of the work style things,
+
+12:22.440 --> 12:25.440
+productivity, I think that this is going to make a ton of sense.
+
+12:25.440 --> 12:27.440
+In a lot of game environments, I mean, this could be fine,
+
+12:27.440 --> 12:29.440
+but games tend to have their own style, right?
+
+12:29.440 --> 12:34.440
+Where you almost want to fit more with the aesthetic style of the game.
+
+12:34.440 --> 12:36.440
+But I think for doing meetings,
+
+12:36.440 --> 12:39.440
+and one of the things that we get a lot of feedback on work rooms,
+
+12:39.440 --> 12:42.440
+where people are pretty blown away by the experience
+
+12:42.440 --> 12:45.440
+and this feeling that you can like be remote,
+
+12:45.440 --> 12:48.440
+but feel like you're physically there around a table with people.
+
+12:48.440 --> 12:51.440
+But then, you know, we get some feedback that people have a hard time
+
+12:51.440 --> 12:54.440
+with the fact that the avatars are so expressive
+
+12:54.440 --> 12:58.440
+and don't feel as realistic in that environment.
+
+12:58.440 --> 13:01.440
+I think something like this could make a very big difference
+
+13:01.440 --> 13:02.440
+for those remote meetings.
+
+13:02.440 --> 13:04.440
+And especially with Quest 3 coming out,
+
+13:04.440 --> 13:07.440
+which is going to be the first mainstream mixed reality product, right?
+
+13:07.440 --> 13:10.440
+Where you're really taking digital, you know,
+
+13:10.440 --> 13:13.440
+expressions of either a person or objects
+
+13:13.440 --> 13:16.440
+and overlaying them on the physical world.
+
+13:16.440 --> 13:20.440
+I think the ability to do kind of remote meetings and things like that,
+
+13:20.440 --> 13:23.440
+where you're just remote hang sessions with friends,
+
+13:23.440 --> 13:25.440
+I think that that's going to be very exciting.
+
+13:25.440 --> 13:27.440
+So, yeah, rolling it out over the next few years.
+
+13:27.440 --> 13:31.440
+It's not ready to be like a kind of mainstream product yet,
+
+13:31.440 --> 13:34.440
+but we just want to keep tuning in, keep getting more scans in there
+
+13:34.440 --> 13:37.440
+and keep, you know, kind of rolling it out into more of the features.
+
+13:37.440 --> 13:41.440
+But, yeah, I mean, definitely in the next few years,
+
+13:41.440 --> 13:44.440
+you'll be seeing a bunch more experiences like this.
+
+13:44.440 --> 13:47.440
+Yeah, I would love to see some celebrities scanned
+
+13:47.440 --> 13:49.440
+and some non-celebrities.
+
+13:49.440 --> 13:52.440
+Just more people to experience this.
+
+13:52.440 --> 13:54.440
+I would love to see that.
+
+13:55.440 --> 13:58.440
+I mean, on my mind, I'm literally at a loss of words
+
+13:58.440 --> 14:03.440
+because it's very difficult to just convey how incredible this is,
+
+14:03.440 --> 14:07.440
+how I feel the emotion, how I feel the presence,
+
+14:07.440 --> 14:09.440
+how I feel the subtleties of the emotion
+
+14:09.440 --> 14:12.440
+in terms of work meetings or any kind of,
+
+14:12.440 --> 14:14.440
+in terms of podcasts, this is awesome.
+
+14:14.440 --> 14:17.440
+I don't even need your arms or legs.
+
+14:17.440 --> 14:19.440
+Well, we've got to get that.
+
+14:19.440 --> 14:22.440
+I mean, that's its own challenge.
+
+14:22.440 --> 14:25.440
+And part of the question is also, so you have the scan,
+
+14:25.440 --> 14:29.440
+then it takes a certain amount of compute to go drive that,
+
+14:29.440 --> 14:33.440
+both for the sensors on the headset and then rendering it.
+
+14:33.440 --> 14:35.440
+So one of the things that we're working through
+
+14:35.440 --> 14:38.440
+is what is the level of fidelity that is optimal?
+
+14:38.440 --> 14:41.440
+You could do the full body in kind of a codec,
+
+14:41.440 --> 14:45.440
+and that can be quite intensive,
+
+14:45.440 --> 14:48.440
+but one of the things that we're thinking about is like,
+
+14:48.440 --> 14:51.440
+all right, maybe you can kind of stitch
+
+14:51.440 --> 14:54.440
+a somewhat lower fidelity version of your body,
+
+14:54.440 --> 14:58.440
+but still have the main kind of the major movements.
+
+14:58.440 --> 15:01.440
+But your face is really the thing
+
+15:01.440 --> 15:03.440
+that we have the most resolution on, right,
+
+15:03.440 --> 15:06.440
+in terms of being able to read and express emotions.
+
+15:06.440 --> 15:10.440
+I mean, like you said, if you move your eyebrows like a millimeter,
+
+15:10.440 --> 15:12.440
+I mean, that really changes the expression
+
+15:12.440 --> 15:15.440
+and what you're emoting, whereas, you know,
+
+15:15.440 --> 15:19.440
+I mean, moving your arm like an inch
+
+15:19.440 --> 15:21.440
+probably doesn't matter quite as much.
+
+15:21.440 --> 15:24.440
+So yes, I think that we do want to get all of that into here,
+
+15:24.440 --> 15:27.440
+and that'll be some of the work over the next period as well.
+
+15:27.440 --> 15:30.440
+So you mentioned Quest 3. That's coming out.
+
+15:30.440 --> 15:32.440
+I've gotten a chance to try that too. That's awesome.
+
+15:32.440 --> 15:34.440
+So how did you pull off the mix?
+
+15:34.440 --> 15:37.440
+So it's not just virtual reality, it's mixed reality.
+
+15:37.440 --> 15:39.440
+Yeah, I mean, I think it's going to be the first
+
+15:39.440 --> 15:41.440
+mainstream mixed reality device.
+
+15:41.440 --> 15:44.440
+I mean, obviously we shipped Quest Pro last year,
+
+15:44.440 --> 15:46.440
+but it was $1,500.
+
+15:46.440 --> 15:49.440
+And part of what I'm super proud of is, you know,
+
+15:49.440 --> 15:52.440
+we try to innovate not just on pushing the state of the art
+
+15:52.440 --> 15:54.440
+and delivering new capabilities,
+
+15:54.440 --> 15:56.440
+but making it so it can be available to everyone.
+
+15:56.440 --> 16:00.440
+And, you know, we have this and it's coming out, it's $500.
+
+16:00.440 --> 16:03.440
+And in some ways, I think the mixed reality
+
+16:03.440 --> 16:06.440
+is actually better in Quest 3 than it was
+
+16:06.440 --> 16:08.440
+than what we're using right now in Quest Pro.
+
+16:08.440 --> 16:11.440
+So I'm really proud of the team for being able to deliver
+
+16:11.440 --> 16:13.440
+that kind of an innovation and get it out.
+
+16:13.440 --> 16:18.440
+But some of this is just software you tune over time
+
+16:18.440 --> 16:20.440
+and get to be better.
+
+16:20.440 --> 16:22.440
+Part of it is you put together a product and you figure out
+
+16:22.440 --> 16:25.440
+what are the bottlenecks in terms of making it a good experience.
+
+16:25.440 --> 16:28.440
+So we got the resolution for the mixed reality cameras
+
+16:28.440 --> 16:32.440
+and sensors to be multiple times better in Quest 3.
+
+16:32.440 --> 16:34.440
+And we just figured that that made a very big difference
+
+16:34.440 --> 16:36.440
+when we saw the experience that we were able to put together
+
+16:36.440 --> 16:38.440
+for Quest Pro.
+
+16:38.440 --> 16:40.440
+And part of it is also that, you know,
+
+16:40.440 --> 16:43.440
+Qualcomm just came out with their next-generation chipset
+
+16:43.440 --> 16:46.440
+for VR and MR that we worked with them
+
+16:46.440 --> 16:48.440
+on a kind of custom version of it.
+
+16:48.440 --> 16:51.440
+But that was available this year for Quest 3
+
+16:51.440 --> 16:53.440
+and it wasn't available in Quest Pro.
+
+16:53.440 --> 16:57.440
+So in a way, Quest 3, even though it's not the Pro product,
+
+16:57.440 --> 17:00.440
+actually has a stronger chipset in it than the Pro line
+
+17:00.440 --> 17:02.440
+at a third of the cost.
+
+17:02.440 --> 17:05.440
+So I'm really excited to get this in people's hands.
+
+17:05.440 --> 17:09.440
+It does all the VR stuff that Quest 2 and the others have done too.
+
+17:09.440 --> 17:12.440
+It does it better because the display is better
+
+17:12.440 --> 17:15.440
+and the chip is better, so you'll get better graphics.
+
+17:15.440 --> 17:20.440
+It's 40% thinner, so it's just more comfortable as well.
+
+17:20.440 --> 17:23.440
+But the MR is really the big capability shift.
+
+17:23.440 --> 17:26.440
+And part of what's exciting about the whole space right now
+
+17:26.440 --> 17:29.440
+is, you know, this isn't like smartphones
+
+17:29.440 --> 17:31.440
+where companies put out a new smartphone every year
+
+17:31.440 --> 17:33.440
+and you can almost barely tell the difference
+
+17:33.440 --> 17:35.440
+between that and the one the year before it.
+
+17:35.440 --> 17:38.440
+Now, for this, each time we put out a new headset,
+
+17:38.440 --> 17:40.440
+it has like a major new capability.
+
+17:40.440 --> 17:44.440
+And the big one now is mixed reality,
+
+17:44.440 --> 17:47.440
+the ability to basically take digital representations of people
+
+17:47.440 --> 17:51.440
+or objects and superimpose them on the world.
+
+17:51.440 --> 17:55.440
+And basically, you know, I mean, there's one version of this
+
+17:55.440 --> 17:59.440
+is you're going to kind of have these augments or holograms
+
+17:59.440 --> 18:02.440
+and experiences that you can kind of bring into your living room
+
+18:02.440 --> 18:05.440
+or a meeting space or an office.
+
+18:05.440 --> 18:07.440
+Another thing that I just think is going to be
+
+18:07.440 --> 18:10.440
+a much kind of simpler innovation
+
+18:10.440 --> 18:13.440
+is that there are a lot of VR experiences today
+
+18:13.440 --> 18:15.440
+that don't need to be fully immersive.
+
+18:15.440 --> 18:17.440
+And, you know, if you're playing a shooter game
+
+18:17.440 --> 18:19.440
+or you're doing a fitness experience,
+
+18:19.440 --> 18:22.440
+sometimes people get worried about swinging their arms around.
+
+18:22.440 --> 18:24.440
+Like, am I going to hit a lamp or something?
+
+18:24.440 --> 18:27.440
+You know, and am I going to run into something?
+
+18:27.440 --> 18:29.440
+So having that in mixed reality
+
+18:29.440 --> 18:32.440
+actually is just a lot more comfortable for people, right?
+
+18:32.440 --> 18:35.440
+You kind of still get the immersion and the 3D experience,
+
+18:35.440 --> 18:37.440
+and you can have an experience
+
+18:37.440 --> 18:39.440
+that just wouldn't be possible in the physical world alone.
+
+18:39.440 --> 18:41.440
+But by being anchored to
+
+18:41.440 --> 18:43.440
+and being able to see the physical world around you,
+
+18:43.440 --> 18:45.440
+it's like, it just feels so much safer and more secure.
+
+18:45.440 --> 18:47.440
+And I think a lot of people are really going to enjoy that too.
+
+18:47.440 --> 18:50.440
+So, yeah, I'm really excited to see how people use it.
+
+18:50.440 --> 18:53.440
+But, yeah, Quest 3 coming out later this fall.
+
+18:53.440 --> 18:55.440
+Yeah, and I got to experience it
+
+18:55.440 --> 18:58.440
+with other people sitting around, and there's a lot of furniture.
+
+18:58.440 --> 19:00.440
+And so you get to see that furniture, you get to see those people,
+
+19:00.440 --> 19:02.440
+and you get to see those people
+
+19:02.440 --> 19:06.440
+enjoy the ridiculousness of you swinging your arms.
+
+19:06.440 --> 19:08.440
+I mean, presumably they're friends of yours.
+
+19:08.440 --> 19:11.440
+Even if they make fun of you, there's a lot of love behind that.
+
+19:11.440 --> 19:13.440
+And I got to experience that.
+
+19:13.440 --> 19:16.440
+That's a really fundamentally different experience than just pure VR
+
+19:16.440 --> 19:19.440
+with zombies coming out of walls.
+
+19:19.440 --> 19:21.440
+Yeah, it's like someone shooting at you,
+
+19:21.440 --> 19:25.440
+and you hide behind your real couch in order to duck the fire, yeah.
+
+19:25.440 --> 19:27.440
+It's incredible how it's all integrated,
+
+19:27.440 --> 19:31.440
+but also subtle stuff like in a room with no windows,
+
+19:31.440 --> 19:33.440
+you can add windows to it, and you can look outside
+
+19:33.440 --> 19:35.440
+as the zombies run towards you.
+
+19:35.440 --> 19:37.440
+But it's still a nice view outside.
+
+19:37.440 --> 19:39.440
+Yeah.
+
+19:39.440 --> 19:43.440
+And so that's pulled off by having cameras on the outside of the headset
+
+19:43.440 --> 19:45.440
+that do the pass-through.
+
+19:45.440 --> 19:49.440
+That technology is incredible to do that on a small headset.
+
+19:49.440 --> 19:51.440
+Yeah, it's not just the cameras.
+
+19:51.440 --> 19:55.440
+You basically need multiple cameras to capture the different angles
+
+19:55.440 --> 19:58.440
+and sort of the three-dimensional space.
+
+19:58.440 --> 20:02.440
+And then it's a pretty complex compute problem, an AI problem,
+
+20:02.440 --> 20:04.440
+to map that to your perspective, right?
+
+20:04.440 --> 20:06.440
+Because the cameras aren't exactly where your eyes are,
+
+20:06.440 --> 20:09.440
+because no two people's eyes are going to be in exactly the same place.
+
+20:09.440 --> 20:13.440
+You kind of need to get that to line up,
+
+20:13.440 --> 20:16.440
+and then do that basically in real time,
+
+20:16.440 --> 20:20.440
+and then generate something that kind of feels natural,
+
+20:20.440 --> 20:24.440
+and then superimpose whatever digital objects you want to put there.
+
+20:24.440 --> 20:28.440
+So yeah, it's a very interesting technical challenge,
+
+20:28.440 --> 20:32.440
+and I think we'll continue tuning this for the years to come as well.
+
+20:32.440 --> 20:35.440
+But I'm pretty excited to get this out,
+
+20:35.440 --> 20:38.440
+because I think Quest 3 is going to be the first device like this
+
+20:38.440 --> 20:41.440
+that millions of people are going to get that's mixed reality.
+
+20:41.440 --> 20:44.440
+And it's only when you have millions of people using something
+
+20:44.440 --> 20:46.440
+that you start getting the whole developer community
+
+20:46.440 --> 20:49.440
+really starting to experiment and build stuff,
+
+20:49.440 --> 20:52.440
+because now there are going to be people who actually use it.
+
+20:52.440 --> 20:55.440
+So I think we'll get some of that flywheel going with Quest Pro,
+
+20:55.440 --> 20:58.440
+but I think it'll really get accelerated once Quest 3 gets out there.
+
+20:58.440 --> 21:01.440
+So yeah, I'm pretty excited about this one.
+
+21:01.440 --> 21:05.440
+Plus there's hand tracking, so you don't need to have a control.
+
+21:05.440 --> 21:08.440
+So the cameras aren't just doing the pass-through
+
+21:08.440 --> 21:11.440
+of the entire physical reality around you.
+
+21:11.440 --> 21:14.440
+It's also tracking the details of your hands
+
+21:14.440 --> 21:17.440
+in order to use that for gesture recognition, this kind of stuff.
+
+21:17.440 --> 21:20.440
+Yeah, we've been able to get way further on hand recognition
+
+21:20.440 --> 21:23.440
+in a shorter period of time than I expected.
+
+21:23.440 --> 21:25.440
+So that's been pretty cool.
+
+21:25.440 --> 21:31.440
+Did you see the demo experience that we built around learning to play piano?
+
+21:31.440 --> 21:33.440
+Yeah, it's incredible.
+
+21:33.440 --> 21:37.440
+You're basically playing piano on a table, and that's without any controller.
+
+21:37.440 --> 21:42.440
+And how well it matches physical reality with no latency,
+
+21:42.440 --> 21:45.440
+and it's tracking your hands with no latency,
+
+21:45.440 --> 21:49.440
+and it's tracking all the people around you with no latency,
+
+21:49.440 --> 21:52.440
+integrating physical reality and digital reality.
+
+21:52.440 --> 21:56.440
+Obviously that connects exactly to this Kodak avatar,
+
+21:56.440 --> 22:03.440
+which is in parallel, allows us to have ultra-realistic copies of ourselves
+
+22:03.440 --> 22:05.440
+in this mixed reality.
+
+22:05.440 --> 22:11.440
+So it's all converging towards an incredible digital experience in the metaverse.
+
+22:11.440 --> 22:14.440
+To me, obviously, I love the intimacy of conversations,
+
+22:14.440 --> 22:16.440
+so even this is awesome.
+
+22:16.440 --> 22:20.440
+Do you have other ideas of what this unlocks,
+
+22:20.440 --> 22:24.440
+of something like Kodak avatar unlocks in terms of applications,
+
+22:24.440 --> 22:28.440
+in terms of things we're able to do?
+
+22:28.440 --> 22:31.440
+Well, there's what you can do with avatars overall
+
+22:31.440 --> 22:36.440
+in terms of superimposing digital objects on the physical world.
+
+22:36.440 --> 22:40.440
+And then there's kind of psychologically what is having photorealistic do.
+
+22:40.440 --> 22:45.440
+So I think we're moving towards a world where we're going to have
+
+22:45.440 --> 22:48.440
+something that looks like normal glasses,
+
+22:48.440 --> 22:52.440
+where you can just see the physical world, but you also see holograms.
+
+22:52.440 --> 22:58.440
+And in that world, I think that they're going to be not too far off,
+
+22:58.440 --> 23:01.440
+maybe by the end of this decade.
+
+23:01.440 --> 23:04.440
+We'll be living in a world where there are kind of as many holograms
+
+23:04.440 --> 23:07.440
+when you walk into a room as there are physical objects.
+
+23:07.440 --> 23:10.440
+And it really raises this interesting question about
+
+23:10.440 --> 23:14.440
+what are...
+
+23:14.440 --> 23:19.440
+A lot of people have this phrase where they call the physical world the real world.
+
+23:19.440 --> 23:23.440
+And I kind of think increasingly the physical world is super important,
+
+23:23.440 --> 23:27.440
+but I actually think the real world is the combination of the physical world
+
+23:27.440 --> 23:29.440
+and the digital world coming together.
+
+23:29.440 --> 23:33.440
+But until this technology, they were sort of separate.
+
+23:33.440 --> 23:36.440
+It's like you access the digital world through a screen,
+
+23:36.440 --> 23:39.440
+and maybe it's a small screen that you carry around,
+
+23:39.440 --> 23:42.440
+or maybe it's a bigger screen when you sit down at your desk
+
+23:42.440 --> 23:44.440
+and strap in for a long session.
+
+23:44.440 --> 23:47.440
+But they're kind of fundamentally divorced and disconnected.
+
+23:47.440 --> 23:50.440
+And I think part of what this technology is going to do
+
+23:50.440 --> 23:53.440
+is bring those together into a single coherent experience
+
+23:53.440 --> 23:55.440
+of what the modern real world is,
+
+23:55.440 --> 23:58.440
+which is it's got to be physical because we're physical beings.
+
+23:58.440 --> 24:01.440
+So the physical world is always going to be super important.
+
+24:01.440 --> 24:06.440
+But increasingly, I think a lot of the things that we kind of think of
+
+24:06.440 --> 24:08.440
+can be digital holograms.
+
+24:08.440 --> 24:11.440
+I mean, any screen that you have can be a hologram.
+
+24:11.440 --> 24:15.440
+Any media, any book, art,
+
+24:15.440 --> 24:19.440
+can basically be just as effective as a hologram as a physical object.
+
+24:19.440 --> 24:24.440
+Any game that you're playing, a board game or any kind of physical game,
+
+24:24.440 --> 24:28.440
+cards, ping pong, things like that, they're often a lot better as holograms
+
+24:28.440 --> 24:31.440
+because you can just kind of snap your fingers and instantiate them
+
+24:31.440 --> 24:34.440
+and have them show up.
+
+24:34.440 --> 24:36.440
+It's like you have a ping pong table show up in your living room,
+
+24:36.440 --> 24:39.440
+but then you can snap your fingers and have it be gone.
+
+24:39.440 --> 24:42.440
+So that's super powerful.
+
+24:42.440 --> 24:45.440
+So I think that it's actually an amazing thought experiment
+
+24:45.440 --> 24:48.440
+of how many physical things we have today
+
+24:48.440 --> 24:52.440
+that could actually be better as interactive holograms.
+
+24:52.440 --> 24:57.440
+But then beyond that, I think the most important thing obviously is people.
+
+24:57.440 --> 25:00.440
+So the ability to have these mixed hangouts,
+
+25:00.440 --> 25:03.440
+whether they're social or meetings,
+
+25:03.440 --> 25:07.440
+where you show up to a conference room, you're wearing glasses
+
+25:07.440 --> 25:09.440
+or a headset in the very near term,
+
+25:09.440 --> 25:14.440
+but hopefully over the next five years glasses or so.
+
+25:14.440 --> 25:18.440
+And you're there physically, some people are there physically,
+
+25:18.440 --> 25:20.440
+but other people are just there as holograms,
+
+25:20.440 --> 25:23.440
+and it feels like it's them who are right there.
+
+25:23.440 --> 25:26.440
+And also, by the way, another thing that I think is going to be fascinating
+
+25:26.440 --> 25:31.440
+about being able to blend together the digital and physical worlds in this way
+
+25:31.440 --> 25:36.440
+is we're also going to be able to embody AIs as well.
+
+25:36.440 --> 25:40.440
+So I think you'll also have meetings in the future where you're basically,
+
+25:40.440 --> 25:42.440
+maybe you're sitting there physically,
+
+25:42.440 --> 25:45.440
+and then you have a couple of other people who are there as holograms,
+
+25:45.440 --> 25:49.440
+and then you have Bob, the AI, who's an engineer on your team
+
+25:49.440 --> 25:56.440
+who's helping with things, and he can now be embodied as a realistic avatar as well
+
+25:56.440 --> 25:58.440
+and just join the meeting in that way.
+
+25:58.440 --> 26:02.440
+So I think that that's going to be pretty compelling as well.
+
+26:02.440 --> 26:05.440
+So then, okay, so what can you do with photorealistic avatars
+
+26:05.440 --> 26:10.440
+compared to kind of the more expressive ones that we have today?
+
+26:10.440 --> 26:16.440
+Well, I think a lot of this actually comes down to acceptance of the technology.
+
+26:16.440 --> 26:22.440
+And because all of the stuff that we're doing, I mean, the motion of your eyebrows,
+
+26:22.440 --> 26:25.440
+the motion of your eyes, the cheeks and all of that,
+
+26:25.440 --> 26:29.440
+there's actually no reason why you couldn't do that on an expressive avatar too.
+
+26:29.440 --> 26:31.440
+I mean, it wouldn't look exactly like you,
+
+26:31.440 --> 26:34.440
+but you could make a cartoon version of yourself
+
+26:34.440 --> 26:37.440
+and still have it be almost as expressive.
+
+26:37.440 --> 26:42.440
+But I do think that there's this bridge between the current state
+
+26:42.440 --> 26:45.440
+of most of our interactions in the physical world
+
+26:45.440 --> 26:50.440
+and where we're getting in the future with this kind of hybrid physical and digital world
+
+26:50.440 --> 26:54.440
+where I think it's going to be a lot easier for people
+
+26:54.440 --> 26:59.440
+to kind of take some of these experiences seriously
+
+26:59.440 --> 27:01.440
+with the photorealistic avatars to start.
+
+27:01.440 --> 27:04.440
+And then I'm actually really curious to see where it goes longer term.
+
+27:04.440 --> 27:07.440
+I could see a world where people stick to the photorealistic
+
+27:07.440 --> 27:10.440
+and maybe they modify them to make them a little bit more interesting,
+
+27:10.440 --> 27:14.440
+but maybe fundamentally we like photorealistic things.
+
+27:14.440 --> 27:19.440
+But I can also see a world that once people get used to the photorealistic avatars
+
+27:19.440 --> 27:21.440
+and they get used to these experiences,
+
+27:21.440 --> 27:24.440
+that I actually think that there could be a world
+
+27:24.440 --> 27:29.440
+where people actually prefer being able to express themselves
+
+27:29.440 --> 27:35.440
+in kind of ways that aren't so tied to their physical reality.
+
+27:35.440 --> 27:38.440
+And so that's one of the things that I'm really curious about.
+
+27:38.440 --> 27:41.440
+And I don't know, in a bunch of our internal experiments on this,
+
+27:41.440 --> 27:45.440
+one of the things that I thought was psychologically pretty interesting
+
+27:45.440 --> 27:50.440
+is people have no issues blending photorealistic stuff and not.
+
+27:50.440 --> 27:54.440
+So for this specific scene that we're in now,
+
+27:54.440 --> 27:57.440
+we happen to sort of being in a dark room.
+
+27:57.440 --> 28:00.440
+I think part of that aesthetic decision, I think,
+
+28:00.440 --> 28:02.440
+was based on the way you like to do your podcast.
+
+28:02.440 --> 28:10.440
+But we've done experiences like this where you have a cartoony background,
+
+28:10.440 --> 28:13.440
+but photorealistic people who you're talking to.
+
+28:13.440 --> 28:18.440
+And people just seem to think that that is completely normal.
+
+28:18.440 --> 28:21.440
+It doesn't bother you. It doesn't feel like it's weird.
+
+28:21.440 --> 28:25.440
+Another thing that we've experienced with is basically
+
+28:25.440 --> 28:28.440
+you have a photorealistic avatar that you're talking to,
+
+28:28.440 --> 28:32.440
+and then right next to them you have an expressive kind of cartoon avatar.
+
+28:32.440 --> 28:35.440
+And that actually is pretty normal too.
+
+28:35.440 --> 28:40.440
+It's not that weird to basically being interacting with different people
+
+28:40.440 --> 28:42.440
+in different modes like that.
+
+28:42.440 --> 28:44.440
+I'm not sure. I think it'll be an interesting question.
+
+28:44.440 --> 28:48.440
+To what extent these photorealistic avatars are like
+
+28:48.440 --> 28:52.440
+a key part of just transitioning from being comfortable in the physical world
+
+28:52.440 --> 28:55.440
+to this kind of new, modern real world
+
+28:55.440 --> 28:58.440
+that kind of includes both the digital and physical,
+
+28:58.440 --> 29:01.440
+or if this is like the long-term way that it stays.
+
+29:01.440 --> 29:04.440
+I think that they're going to be useless for both the expressive
+
+29:04.440 --> 29:05.440
+and the photorealistic over time.
+
+29:05.440 --> 29:07.440
+I just don't know what the balance is going to be.
+
+29:07.440 --> 29:10.440
+Yeah, it's a really good, interesting philosophical question.
+
+29:10.440 --> 29:14.440
+But to me, in the short term, the photorealistic is amazing.
+
+29:14.440 --> 29:17.440
+To where I would prefer, like you said the work room,
+
+29:17.440 --> 29:19.440
+but like on a beach with a beer,
+
+29:19.440 --> 29:25.440
+to see a buddy of mine remotely on a chair next to me drinking a beer.
+
+29:25.440 --> 29:30.440
+I mean, that, as realistic as possible, is an incredible experience.
+
+29:30.440 --> 29:32.440
+So I don't want any fake hats on him.
+
+29:32.440 --> 29:35.440
+I don't want any just chilling with a friend,
+
+29:35.440 --> 29:37.440
+drinking beer, looking at the ocean,
+
+29:37.440 --> 29:39.440
+while not being in the same place together.
+
+29:39.440 --> 29:45.440
+That experience is just a fundamentally,
+
+29:45.440 --> 29:49.440
+it's just a high-quality experience, a friendship.
+
+29:49.440 --> 29:52.440
+Whatever we seek in friendship, it seems to be present there
+
+29:52.440 --> 29:54.440
+in the same kind of realism I'm seeing right now.
+
+29:54.440 --> 29:56.440
+This is totally a game changer.
+
+29:56.440 --> 30:00.440
+So to me, I can see myself sticking with this for a long time.
+
+30:00.440 --> 30:03.440
+Yeah, and I mean, it's also novel,
+
+30:03.440 --> 30:06.440
+and it's also a technological feat, right?
+
+30:06.440 --> 30:10.440
+Being able to pull this off, it's like a pretty impressive,
+
+30:10.440 --> 30:14.440
+and I think to some degree it's just this kind of awesome experience.
+
+30:14.440 --> 30:16.440
+But I'm already, sorry to interrupt,
+
+30:16.440 --> 30:20.440
+I'm already forgetting that you're not real.
+
+30:20.440 --> 30:23.440
+Like this really, so it's novel.
+
+30:23.440 --> 30:26.440
+This is just an avatar version of me.
+
+30:26.440 --> 30:29.440
+That's a deep philosophical question, yes.
+
+30:29.440 --> 30:33.440
+So I put this on this morning, and I was like, all right,
+
+30:34.440 --> 30:37.440
+it's like, okay, so my hair is a little shorter in this
+
+30:37.440 --> 30:39.440
+than my physical hair is right now.
+
+30:39.440 --> 30:41.440
+I probably need to go get a haircut.
+
+30:41.440 --> 30:44.440
+And I actually did happen to shave this morning,
+
+30:44.440 --> 30:48.440
+but if I hadn't, I could still have this photorealistic avatar
+
+30:48.440 --> 30:55.440
+that is more cleanly shaven, even if I'm a few days in physically.
+
+30:55.440 --> 30:59.440
+So I do think that there are going to start to be these subtle questions
+
+30:59.440 --> 31:04.440
+that seep in where the avatar is realistic in the sense of this is
+
+31:04.440 --> 31:07.440
+kind of what you looked like at the time of capture,
+
+31:07.440 --> 31:10.440
+but it's not necessarily temporally accurate
+
+31:10.440 --> 31:13.440
+to exactly what you look like in this moment.
+
+31:13.440 --> 31:18.440
+And I think that there are going to end up being a bunch of questions
+
+31:18.440 --> 31:22.440
+that come from that over time that I think are going to be fascinating too.
+
+31:22.440 --> 31:25.440
+You mean just like the nature of identity of who we are?
+
+31:26.440 --> 31:29.440
+You know how people do like summer beach body,
+
+31:29.440 --> 31:31.440
+where the people will be for the scan,
+
+31:31.440 --> 31:34.440
+they'll try to lose some weight and look their best and sexiest
+
+31:34.440 --> 31:36.440
+with the nice hair and everything like that.
+
+31:39.440 --> 31:43.440
+It does raise the question of if a lot of people are interacting
+
+31:43.440 --> 31:46.440
+with the digital version of ourselves, who are we really?
+
+31:46.440 --> 31:51.440
+Are we the entity driving the avatar or are we the avatar?
+
+31:51.440 --> 31:55.440
+Well, I think our physical bodies also fluctuate and change over time too.
+
+31:55.440 --> 31:59.440
+So I think there's a similar question of which version of that are we?
+
+32:02.440 --> 32:08.440
+And it's an interesting identity question because it's like weight fluctuates
+
+32:08.440 --> 32:10.440
+or things like that.
+
+32:10.440 --> 32:14.440
+I think most people don't tend to think of themselves as the...
+
+32:14.440 --> 32:17.440
+I don't know, it's an interesting psychological question.
+
+32:17.440 --> 32:19.440
+Maybe a lot of people do think about themselves
+
+32:19.440 --> 32:21.440
+as the kind of worst version.
+
+32:21.440 --> 32:25.440
+But I think a lot of people probably think about themselves as the best version.
+
+32:25.440 --> 32:28.440
+And then it's like what you are on a day-to-day basis
+
+32:28.440 --> 32:33.440
+doesn't necessarily map to either of those.
+
+32:33.440 --> 32:38.440
+Yeah, there will definitely be a bunch of social scientists
+
+32:38.440 --> 32:42.440
+and psychologists.
+
+32:42.440 --> 32:45.440
+Really, there's going to be a lot to understand about
+
+32:45.440 --> 32:48.440
+how our perception of ourselves and others
+
+32:49.440 --> 32:51.440
+has shifted from this.
+
+32:51.440 --> 32:55.440
+Well, this might be a bit of a complicated and a dark question,
+
+32:55.440 --> 32:59.440
+but one of the first feelings I had experiencing this
+
+32:59.440 --> 33:01.440
+is I would love to talk to loved ones.
+
+33:01.440 --> 33:04.440
+And the next question I have is I would love to talk to people
+
+33:04.440 --> 33:07.440
+who are no longer here that are loved ones.
+
+33:07.440 --> 33:11.440
+So if you look into the future, is that something you think about
+
+33:11.440 --> 33:14.440
+when people pass away but they can still exist in the metaverse?
+
+33:14.440 --> 33:17.440
+You can still have, you know, talk to your father,
+
+33:17.440 --> 33:20.440
+talk to your grandfather and grandmother and a mother
+
+33:20.440 --> 33:22.440
+once they pass away.
+
+33:22.440 --> 33:26.440
+The power of that experience is one of the first things my mind jumps to
+
+33:26.440 --> 33:30.440
+because it's like this is so real.
+
+33:30.440 --> 33:34.440
+Yeah, I think that there are a lot of norms and things
+
+33:34.440 --> 33:36.440
+that people have to figure out around that.
+
+33:36.440 --> 33:38.440
+There's probably some balance where, you know,
+
+33:38.440 --> 33:42.440
+if someone has lost a loved one and is grieving,
+
+33:42.440 --> 33:48.440
+there may be ways in which being able to interact
+
+33:48.440 --> 33:50.440
+or relive certain memories could be helpful,
+
+33:50.440 --> 33:54.440
+but then there's also probably an extent to which it could become unhealthy.
+
+33:54.440 --> 33:57.440
+And I mean, I'm not an expert in that,
+
+33:57.440 --> 34:00.440
+so I think we'd have to study that and understand it in more detail.
+
+34:00.440 --> 34:07.440
+We have a fair amount of experience with how to handle death and identity
+
+34:07.440 --> 34:11.440
+and people's digital content through social media already, unfortunately,
+
+34:11.440 --> 34:18.440
+where unfortunately people who use our services die every day
+
+34:18.440 --> 34:22.440
+and their families often want to have access to their profiles.
+
+34:22.440 --> 34:24.440
+And we have whole protocols that we go through
+
+34:24.440 --> 34:29.440
+where there are certain parts of it that we try to memorialize,
+
+34:29.440 --> 34:32.440
+so that way the family can get access to it,
+
+34:32.440 --> 34:34.440
+so that way the account doesn't just go away immediately.
+
+34:34.440 --> 34:37.440
+But then there are other things that are important kind of private things
+
+34:37.440 --> 34:39.440
+that that person has, like we're not going to give the family access
+
+34:39.440 --> 34:42.440
+to someone's messages, you know, for example.
+
+34:42.440 --> 34:46.440
+So yeah, I think that there's some best practices,
+
+34:46.440 --> 34:50.440
+I think, from the current digital world that we'll carry over,
+
+34:50.440 --> 34:54.440
+but yeah, I think that this will enable some different things.
+
+34:54.440 --> 34:58.440
+Another version of this is how this intersects with AIs, right?
+
+34:58.440 --> 35:04.440
+And one of the things that we're really focused on
+
+35:04.440 --> 35:08.440
+is we want the world to evolve in a way
+
+35:08.440 --> 35:11.440
+where there isn't like a single AI superintelligence,
+
+35:11.440 --> 35:15.440
+but where a lot of people are empowered by having AI tools
+
+35:15.440 --> 35:18.440
+to do their jobs and make their lives better.
+
+35:18.440 --> 35:24.440
+And if you're a creator, right, and if you run a podcast like you do,
+
+35:24.440 --> 35:29.440
+then you have a big community of people who are super interested to talk to you.
+
+35:29.440 --> 35:32.440
+I know you'd love to cultivate that community
+
+35:32.440 --> 35:36.440
+and you interact with them online outside of the podcast as well,
+
+35:36.440 --> 35:39.440
+but there's way more demand both to interact with you
+
+35:39.440 --> 35:42.440
+and I'm sure you'd love to interact with the community more,
+
+35:42.440 --> 35:45.440
+but you just are limited by the number of hours in the day.
+
+35:45.440 --> 35:50.440
+So at some point, I think, making it so that you could build
+
+35:50.440 --> 35:55.440
+an AI version of yourself that could interact with people,
+
+35:55.440 --> 35:57.440
+not after you die, but while you're here,
+
+35:57.440 --> 36:03.440
+to help people kind of fulfill this desire to interact with you
+
+36:03.440 --> 36:05.440
+and your desire to build a community.
+
+36:05.440 --> 36:09.440
+And there's a lot of interesting questions around that.
+
+36:09.440 --> 36:12.440
+And that's obviously, it's not just in the metaverse.
+
+36:12.440 --> 36:17.440
+I think we'd want to make that work across all the messaging platforms,
+
+36:17.440 --> 36:20.440
+WhatsApp and Messenger and Instagram Direct,
+
+36:20.440 --> 36:24.440
+but there's certainly a version of that where if you could have
+
+36:24.440 --> 36:27.440
+an avatar version of yourself in the metaverse that people can interact with
+
+36:27.440 --> 36:30.440
+and you could define that sort of an AI version,
+
+36:30.440 --> 36:33.440
+where people know that they're interacting with an AI,
+
+36:33.440 --> 36:36.440
+that it's not the kind of physical version of you,
+
+36:36.440 --> 36:39.440
+but maybe that AI, even if they know it's an AI, is the next best thing
+
+36:39.440 --> 36:44.440
+because they're probably not going to necessarily all get to interact with you directly.
+
+36:44.440 --> 36:47.440
+I think that that could be a really compelling experience.
+
+36:47.440 --> 36:50.440
+There's a lot of things that we need to get right about it,
+
+36:50.440 --> 36:56.440
+that we're not ready to release the version that a creator can kind of build
+
+36:56.440 --> 36:59.440
+a version of themselves yet, but we're starting to experiment with it
+
+36:59.440 --> 37:04.440
+in terms of releasing a number of AIs that people can interact with in different ways.
+
+37:04.440 --> 37:10.440
+And I think that that is also just going to be a very powerful set of capabilities
+
+37:10.440 --> 37:12.440
+that people have over time.
+
+37:12.440 --> 37:19.440
+So you've made major strides in developing these early AI personalities
+
+37:19.440 --> 37:23.440
+with the idea where you can talk to them across the meta apps
+
+37:23.440 --> 37:28.440
+and have interesting, unique kind of conversations.
+
+37:28.440 --> 37:31.440
+Can you describe your vision there in these early strides
+
+37:31.440 --> 37:33.440
+and what are some technical challenges there?
+
+37:33.440 --> 37:38.440
+Yeah, so a lot of the vision comes from this idea that
+
+37:38.440 --> 37:43.440
+I don't think we necessarily want there to be one big super intelligence.
+
+37:43.440 --> 37:48.440
+We want to empower everyone to both have more fun, accomplish their business goals,
+
+37:48.440 --> 37:51.440
+everything that they're trying to do.
+
+37:51.440 --> 37:55.440
+And we don't tend to have one person that we work with on everything,
+
+37:55.440 --> 37:59.440
+and I don't think in the future we're going to have one AI that we work with.
+
+37:59.440 --> 38:03.440
+I think you're going to want a variety of these.
+
+38:03.440 --> 38:06.440
+So there are a bunch of different uses.
+
+38:06.440 --> 38:09.440
+Some will be kind of more assistant-oriented.
+
+38:09.440 --> 38:13.440
+There's a sort of the kind of plain and simple one that we're building
+
+38:13.440 --> 38:15.440
+that's called just Meta AI.
+
+38:15.440 --> 38:19.440
+It's simple. You can chat with it in any of your threads.
+
+38:19.440 --> 38:21.440
+It doesn't have a face.
+
+38:21.440 --> 38:27.440
+It's just kind of more vanilla and neutral and kind of factual,
+
+38:27.440 --> 38:29.440
+but it can help you with a bunch of stuff.
+
+38:29.440 --> 38:35.440
+Then there are a bunch of cases that are more kind of business-oriented.
+
+38:35.440 --> 38:38.440
+So let's say you want to contact a small business.
+
+38:38.440 --> 38:44.440
+Similarly, that business probably doesn't want to have to staff someone to man the phones,
+
+38:44.440 --> 38:47.440
+and you probably don't want to wait on the phone to talk to someone,
+
+38:47.440 --> 38:50.440
+but having someone who you can just talk to in a natural way,
+
+38:50.440 --> 38:53.440
+who can help you if you're having an issue with a product
+
+38:53.440 --> 38:57.440
+or if you want to make a reservation or if you want to buy something online.
+
+38:57.440 --> 39:01.440
+Having the ability to do that and have a natural conversation
+
+39:01.440 --> 39:05.440
+rather than navigate some website or have to call someone and wait on hold
+
+39:05.440 --> 39:07.440
+is going to be really good both for the businesses
+
+39:07.440 --> 39:11.440
+and for normal people who want to interact with businesses.
+
+39:11.440 --> 39:13.440
+So I think stuff like that makes sense.
+
+39:13.440 --> 39:18.440
+Then there are going to be a bunch of use cases that I think are just fun.
+
+39:18.440 --> 39:23.440
+I think there will be AIs that can tell jokes,
+
+39:23.440 --> 39:25.440
+so you can put them into chat thread with friends.
+
+39:25.440 --> 39:28.440
+I think a lot of this, because we're like a social company,
+
+39:28.440 --> 39:32.440
+we're fundamentally around helping people connect in different ways.
+
+39:32.440 --> 39:37.440
+Part of what I'm excited about is how do you enable these kind of AIs
+
+39:37.440 --> 39:41.440
+to facilitate connection between two people or more,
+
+39:41.440 --> 39:45.440
+put them in a group chat, make the group chat more interesting
+
+39:45.440 --> 39:50.440
+around whatever your interests are, sports, fashion, trivia.
+
+39:50.440 --> 39:55.440
+Video games. I love the idea of playing, I think you mentioned, Baldur's Gate,
+
+39:55.440 --> 40:00.440
+an incredible game, just having an AI that you play together with.
+
+40:00.440 --> 40:03.440
+I mean, that seems like a small thing,
+
+40:03.440 --> 40:07.440
+but it could deeply enrich the gaming experience.
+
+40:07.440 --> 40:11.440
+I do think that AIs will make the NPCs a lot better in games too,
+
+40:11.440 --> 40:14.440
+so that's a separate thing that I'm pretty excited about.
+
+40:14.440 --> 40:19.440
+But yeah, I mean, one of the AIs that we've built
+
+40:19.440 --> 40:22.440
+that just in our internal testing people have loved the most
+
+40:22.440 --> 40:28.440
+is like an adventure text-based, like a dungeon master.
+
+40:28.440 --> 40:30.440
+Yeah, nice.
+
+40:30.440 --> 40:35.440
+And I think part of what has been fun, we talked about this a bit,
+
+40:35.440 --> 40:39.440
+but we've gotten some real kind of cultural figures
+
+40:39.440 --> 40:41.440
+to play a bunch of these folks
+
+40:41.440 --> 40:43.440
+and be the embodiment and the avatar of them.
+
+40:43.440 --> 40:47.440
+So Snoop Dogg is the dungeon master, which I think is just hilarious.
+
+40:47.440 --> 40:51.440
+Yes, in terms of the next steps of, you know,
+
+40:51.440 --> 40:54.440
+if you mentioned Snoop, to create a Snoop AI,
+
+40:54.440 --> 40:58.440
+so basically AI personality replica, a copy,
+
+40:58.440 --> 41:03.440
+or not a copy, maybe inspired by Snoop.
+
+41:03.440 --> 41:06.440
+What are some of the technical challenges of that?
+
+41:06.440 --> 41:10.440
+What does that experience look like for Snoop to be able to create that AI?
+
+41:10.440 --> 41:15.440
+So starting off, creating new personas is easier
+
+41:15.440 --> 41:21.440
+because it doesn't need to stick exactly to what, you know,
+
+41:21.440 --> 41:24.440
+that physical person would want, how they'd want to be represented, right?
+
+41:24.440 --> 41:26.440
+It's like it's just a new character that we created.
+
+41:26.440 --> 41:28.440
+So even though there's a Snoop in that case,
+
+41:28.440 --> 41:31.440
+he's basically an actor, right?
+
+41:31.440 --> 41:34.440
+He's playing the dungeon master, but it's not Snoop Dogg, right?
+
+41:34.440 --> 41:37.440
+It's whoever the dungeon master is.
+
+41:37.440 --> 41:43.440
+If you want to actually make it so that you have an AI embodying a real creator,
+
+41:43.440 --> 41:46.440
+there's a whole set of things that you need to do
+
+41:46.440 --> 41:52.440
+to make sure that AI is not going to say things that the creator doesn't want, right?
+
+41:52.440 --> 41:58.440
+And that the AI is going to know things
+
+41:58.440 --> 42:01.440
+and be able to represent things in the way that the creator would want,
+
+42:01.440 --> 42:04.440
+the way that the creator would know.
+
+42:05.440 --> 42:14.440
+So I think that it's less of a question around having the avatar express them.
+
+42:14.440 --> 42:17.440
+I mean, that I think where, you know, it's like, well,
+
+42:17.440 --> 42:22.440
+we have our kind of V1 of that that will release soon after Kinect,
+
+42:22.440 --> 42:24.440
+but that'll get better over time.
+
+42:24.440 --> 42:29.440
+But a lot of this is really just about continuing to make the models for these AIs
+
+42:29.440 --> 42:32.440
+so that they're just more and more, I don't know,
+
+42:32.440 --> 42:36.440
+you could say like reliable or predictable in terms of what they'll communicate.
+
+42:36.440 --> 42:41.440
+So that way, you know, when you want to create the Lex assistant AI
+
+42:41.440 --> 42:46.440
+that your community can talk to, you can, you know,
+
+42:46.440 --> 42:48.440
+you don't program them like normal computers.
+
+42:48.440 --> 42:53.440
+You're training them. They're AI models, not kind of normal computer programs.
+
+42:53.440 --> 42:56.440
+But you want to get it to be predictable enough
+
+42:56.440 --> 42:59.440
+so that way you can set some parameters for it.
+
+42:59.440 --> 43:03.440
+And even if it isn't perfect all the time,
+
+43:03.440 --> 43:06.440
+you want it to generally be able to stay within those bounds.
+
+43:06.440 --> 43:12.440
+So that's a lot of what I think we need to nail for the creators.
+
+43:12.440 --> 43:15.440
+And that's why that one's actually a much harder problem, I think,
+
+43:15.440 --> 43:19.440
+than starting with new characters that you're creating from scratch.
+
+43:19.440 --> 43:25.440
+So that one, I think, will probably start releasing sometime next year,
+
+43:25.440 --> 43:29.440
+not this year, but experimenting with existing characters and the assistant
+
+43:29.440 --> 43:32.440
+and games and a bunch of different personalities
+
+43:32.440 --> 43:35.440
+and experimenting with some small businesses.
+
+43:35.440 --> 43:38.440
+I think that that stuff will be ready to do this year,
+
+43:38.440 --> 43:41.440
+and we're rolling it out, you know, basically right after Connect.
+
+43:41.440 --> 43:46.440
+Yeah, I'm deeply entertained by the possibility of me sitting down with myself
+
+43:46.440 --> 43:51.440
+and saying, hey, man, like, you need to stop the dad jokes or whatever.
+
+43:51.440 --> 43:58.440
+The idea of a podcast between you and AI Assistant Lex podcast.
+
+43:58.440 --> 44:05.440
+I mean, there is just even the experience of a Kodak avatar being able to freeze yourself,
+
+44:05.440 --> 44:10.440
+like, basically first mimic yourself so everything you do, you get to see yourself do it.
+
+44:10.440 --> 44:12.440
+That's a surreal experience.
+
+44:12.440 --> 44:16.440
+It feels like if I was like an ape looking in a mirror for the first time,
+
+44:16.440 --> 44:18.440
+realizing, like, oh, that's you.
+
+44:18.440 --> 44:23.440
+But then freezing that and being able to look around like I'm looking at you,
+
+44:23.440 --> 44:26.440
+it's a, I don't know how to put it into words,
+
+44:26.440 --> 44:28.440
+but it just feels like a fundamentally new experience.
+
+44:28.440 --> 44:31.440
+Like, I'm seeing maybe color for the first time.
+
+44:31.440 --> 44:38.440
+I'm seeing, I'm experiencing a new way of seeing the world for the first time
+
+44:38.440 --> 44:42.440
+because it's physical reality, but it's digital.
+
+44:42.440 --> 44:48.440
+Like, and realizing that that's possible is just blowing my mind.
+
+44:48.440 --> 44:52.440
+This is really exciting because I lived most of my life, you know,
+
+44:52.440 --> 44:59.440
+before the internet and experiencing the internet, experiencing voice communication and video communication.
+
+44:59.440 --> 45:02.440
+You think like, well, there's a ceiling to this,
+
+45:02.440 --> 45:05.440
+but this is making me feel like there might not be,
+
+45:05.440 --> 45:11.440
+there might be that blend of physical reality and digital reality that's actually what the future is.
+
+45:11.440 --> 45:12.440
+Yeah, I think so.
+
+45:12.440 --> 45:14.440
+It's a weird experience.
+
+45:14.440 --> 45:19.440
+It feels like the early days of like a totally new way of living.
+
+45:19.440 --> 45:26.440
+And like, there's a lot of people that kind of complain, well, you know, the internet, it's not, that's not reality.
+
+45:26.440 --> 45:29.440
+You need to turn all that off and go, you know, in nature.
+
+45:29.440 --> 45:36.440
+But this feels like this will make those people happy, I feel like, because it feels real, the flaws and everything.
+
+45:37.440 --> 45:44.440
+Yeah, well, I mean, a big part of how we're trying to design these new computing products is that they should be physical.
+
+45:44.440 --> 45:50.440
+I think that's a big part of the issue with computers and TVs and even phones is like, yeah,
+
+45:50.440 --> 45:56.440
+I mean, maybe you can interact with them in different places, but they're fundamentally like you're sitting, you're still.
+
+45:56.440 --> 45:58.440
+And I mean, people are just not meant to be that way.
+
+45:58.440 --> 46:05.440
+I mean, I think you and I have this shared passion for sports and martial arts and doing stuff like that.
+
+46:05.440 --> 46:06.440
+You're just moving around.
+
+46:06.440 --> 46:10.440
+It's like so much of what makes us people is like you move around.
+
+46:10.440 --> 46:12.440
+You're not we're not just like a brain in a tank.
+
+46:12.440 --> 46:16.440
+It's where the human experience is a physical one.
+
+46:16.440 --> 46:21.440
+And so it's not just about having the immersive expression of the digital world.
+
+46:21.440 --> 46:24.440
+It's about being able to really natively bring that together.
+
+46:24.440 --> 46:31.440
+And I do really think that the real world is this mix of the physical and the digital.
+
+46:31.440 --> 46:35.440
+There's too much digital at this point for it to just be solid to a small screen.
+
+46:35.440 --> 46:37.440
+But the physical is too important.
+
+46:37.440 --> 46:41.440
+So you don't want to just sit down all day long at a desk.
+
+46:41.440 --> 46:46.440
+So I think that this is yeah, I do think this is the future.
+
+46:46.440 --> 46:55.440
+I think the kind of philosophical way that I would want the world to work in the future is a much more coherently blended physical and digital world.
+
+46:55.440 --> 47:02.440
+There may be some difficult philosophically unethical questions we have to figure out as a society.
+
+47:02.440 --> 47:04.440
+Maybe you can comment on this.
+
+47:04.440 --> 47:13.440
+So the metaverse seems to enable sort of unlock a lot of experiences that we don't have in the physical world.
+
+47:13.440 --> 47:18.440
+And the question is like what is and isn't allowed in the metaverse?
+
+47:18.440 --> 47:24.440
+In video games, we allow all kinds of crazy stuff.
+
+47:24.440 --> 47:29.440
+And in physical reality, a lot of that is illegal.
+
+47:29.440 --> 47:34.440
+So where's that line? Where's that gray area between video game and physical reality?
+
+47:34.440 --> 47:36.440
+Do you have a sense of that?
+
+47:36.440 --> 47:42.440
+Well, I think there are content policies and things like that in terms of what people are allowed to create.
+
+47:42.440 --> 47:49.440
+But a lot of the rules around physical, I think you try to have a society that is as free as possible,
+
+47:49.440 --> 47:57.440
+meaning that people can do as much of what they want unless you're going to do damage to other people and infringe on their rights.
+
+47:57.440 --> 48:02.440
+And the idea of damage is somewhat different in a digital environment.
+
+48:02.440 --> 48:08.440
+I mean, when I get into some world with my friends, the first thing we start doing is shooting each other,
+
+48:08.440 --> 48:12.440
+which obviously we would not do in the physical world because you'd hurt each other.
+
+48:12.440 --> 48:17.440
+But in a game that's like just it's almost, you know, it's like just fun.
+
+48:17.440 --> 48:22.440
+And even like the lobby of a game, right, it's like it's just it's not even bearing on the game,
+
+48:22.440 --> 48:26.440
+which is kind of like a funny sort of humorous thing to do.
+
+48:26.440 --> 48:30.440
+So it's like, is that problematic? I don't think so, because it's fundamentally it's not.
+
+48:30.440 --> 48:32.440
+You're not causing harm in that world.
+
+48:32.440 --> 48:38.440
+So I think that the part of the question that I think we need to figure out is
+
+48:38.440 --> 48:44.440
+what are the ways where things could have been harmful in the physical world that will now be freed from that?
+
+48:44.440 --> 48:48.440
+And therefore, there should be fewer restrictions in the digital world.
+
+48:48.440 --> 48:54.440
+And then there might be new ways in which there could be harm in the digital world that there weren't the case before.
+
+48:54.440 --> 48:56.440
+So there's more anonymity, right?
+
+48:56.440 --> 48:59.440
+You know, when you when you show up to a restaurant or something,
+
+48:59.440 --> 49:02.440
+it's like all the norms where you pay the bill at the end.
+
+49:02.440 --> 49:08.440
+It's because, you know, you you you have one identity and the you know, if you if you stiff them,
+
+49:08.440 --> 49:13.440
+then like life is a repeat game and that's not going to work out well for you.
+
+49:13.440 --> 49:18.440
+But in a digital world where you can be anonymous and show up in different ways,
+
+49:18.440 --> 49:22.440
+I think the incentive to act like a good citizen can be a lot less.
+
+49:22.440 --> 49:24.440
+And that causes a lot of issues and toxic behavior.
+
+49:24.440 --> 49:26.440
+So that needs to get sorted out.
+
+49:26.440 --> 49:32.440
+So I think in terms of what is allowed, I think you want to just look at what what what are the the damages.
+
+49:32.440 --> 49:37.440
+But then there's also other things that are not related to kind of harm,
+
+49:37.440 --> 49:43.440
+less about what should be allowed and more about what will be possible that are more about the laws of physics.
+
+49:43.440 --> 49:47.440
+It's like if you wanted to travel to see me in person,
+
+49:47.440 --> 49:52.440
+you'd have to get on a plane and and that would like take a few hours to get here.
+
+49:53.440 --> 49:58.440
+Whereas, you know, we could just jump in a conference room and put on these headsets
+
+49:58.440 --> 50:04.440
+and we're basically teleported into a space where we're you know, it feels like we're together.
+
+50:04.440 --> 50:09.440
+So that's a very novel experience that that it breaks down some things
+
+50:09.440 --> 50:14.440
+that previously would have defied the laws of physics for what it would take to get together.
+
+50:14.440 --> 50:17.440
+And I think that that will create a lot of new opportunities.
+
+50:17.440 --> 50:22.440
+So one of the things that I'm curious about is there are all these debates right now
+
+50:22.440 --> 50:25.440
+about remote work or people being together.
+
+50:25.440 --> 50:30.440
+And I think this gets us a lot closer to being able to work physically in different places,
+
+50:30.440 --> 50:33.440
+but actually have it feel like we're together.
+
+50:33.440 --> 50:39.440
+So I think the dream is that is that people will one day be able to just work wherever they want,
+
+50:39.440 --> 50:43.440
+but we'll have all the same opportunities because you'll be able to feel like you're physically together.
+
+50:43.440 --> 50:48.440
+We're not there today with with with just video conferencing and the basic technologies that we have.
+
+50:48.440 --> 50:53.440
+But I think part of the idea is that with something like this, over time you can get closer to that.
+
+50:53.440 --> 50:55.440
+And that would open up a lot of opportunities, right?
+
+50:55.440 --> 51:00.440
+Because then people could live physically where they want while still being able to get the benefits
+
+51:00.440 --> 51:05.440
+of being physically or kind of feeling like you're together with people at work,
+
+51:05.440 --> 51:10.440
+all the ways that that helps to build more culture and build better relationships and build trust,
+
+51:10.440 --> 51:15.440
+which are the real issues that if you're not seeing people in person ever.
+
+51:15.440 --> 51:22.440
+So, yeah, I don't know. I think it's going to be it's very hard from first principles to think about all the implications
+
+51:22.440 --> 51:29.440
+of of a technology like this and all the good and the things that you need to mitigate.
+
+51:29.440 --> 51:33.440
+So you try to do your best to kind of envision what things are going to be like
+
+51:33.440 --> 51:38.440
+and accentuate the things that they're going to be awesome and hopefully mitigate some of the downside things.
+
+51:39.440 --> 51:43.440
+But the reality is that we're going to be building this out one year at a time.
+
+51:43.440 --> 51:44.440
+It's going to take a while.
+
+51:44.440 --> 51:50.440
+So we're going to just get to see how it evolves and what developers and different folks do with it.
+
+51:50.440 --> 51:58.440
+If you could comment, this might be a bit of a very specific technical question, but Llama 2 is incredible.
+
+51:58.440 --> 52:01.440
+You've released it recently.
+
+52:01.440 --> 52:06.440
+There's already been a lot of exciting developments around it.
+
+52:06.440 --> 52:13.440
+Is there what what's your sense about its release and is there a Llama 3 in the future?
+
+52:13.440 --> 52:17.440
+Yeah, I mean, I think on the last podcast that we did together,
+
+52:17.440 --> 52:21.440
+we were talking about the debate that we were having around open sourcing Llama 2.
+
+52:21.440 --> 52:24.440
+And I'm glad that we did.
+
+52:24.440 --> 52:31.440
+You know, I think at this point, there's the value of open sourcing a foundation model like Llama 2
+
+52:31.440 --> 52:36.440
+is significantly greater than the risks.
+
+52:36.440 --> 52:42.440
+And in my view, I mean, we spent a lot of time doing a very rigorous assessment of that and red teaming it.
+
+52:42.440 --> 52:44.440
+But I'm very glad that we released Llama 2.
+
+52:44.440 --> 52:52.440
+I think the reception has been it's just been really exciting to see how excited people have been about it.
+
+52:52.440 --> 52:58.440
+And it's gotten way more downloads and usage than I would have even expected.
+
+52:58.440 --> 53:01.440
+And I was pretty optimistic about it.
+
+53:01.440 --> 53:04.440
+That's that's been great.
+
+53:04.440 --> 53:07.440
+Llama 3.
+
+53:07.440 --> 53:10.440
+I mean, there's always another model that we're training.
+
+53:10.440 --> 53:17.440
+So, I mean, it's you know, for right now, we built we train Llama 2 and we released it as an open source model.
+
+53:17.440 --> 53:24.440
+And right now, the priority is building that into a bunch of the consumer products, all the different AIs
+
+53:24.440 --> 53:30.440
+and a bunch of different products that we're basically building as consumer products.
+
+53:30.440 --> 53:32.440
+Because Llama 2 by itself, it's not a consumer product, right?
+
+53:32.440 --> 53:36.440
+It's more of a piece of infrastructure that people could build things with.
+
+53:36.440 --> 53:44.440
+So that's been the big priority is kind of continuing to fine tune and kind of just get Llama 2
+
+53:44.440 --> 53:52.440
+and its little the branches that we built off of it ready for consumer products that hopefully,
+
+53:52.440 --> 53:57.440
+you know, hundreds of millions of people will will enjoy using those those products and billions one day.
+
+53:57.440 --> 54:02.440
+But yeah, I mean, we're also working on on the future foundation models.
+
+54:02.440 --> 54:08.440
+And I don't have anything new or news news on that.
+
+54:08.440 --> 54:12.440
+I don't know. I don't know exactly when it's going to be ready.
+
+54:12.440 --> 54:17.440
+I think just like we had a debate around Llama 2 and open sourcing it,
+
+54:17.440 --> 54:22.440
+I think we'll need to have a similar debate and process to red team this and make sure that this is safe.
+
+54:22.440 --> 54:27.440
+But and my hope is that we'll be able to to open source this next version when it's ready to.
+
+54:27.440 --> 54:32.440
+But but that's not that we're not we're not, you know, close to doing that this month.
+
+54:32.440 --> 54:37.440
+I mean, this is that's just it's a thing that we're we're still somewhat early in working on.
+
+54:37.440 --> 54:45.440
+Well, in general, thank you so much for open sourcing Llama 2 and for being transparent about all the exciting developments around AIs.
+
+54:45.440 --> 54:51.440
+I feel like that's contributing to a really awesome conversation about where we go with AI.
+
+54:51.440 --> 55:01.440
+And obviously, it's really interesting to see all the same kind of technology integrated into these personalized AI systems with the AI personas,
+
+55:01.440 --> 55:07.440
+which I think when you put in people's hands and they get to have conversations with these AI personas,
+
+55:07.440 --> 55:14.440
+you get to see like interesting failure cases like where things are dumb or they go into weird directions.
+
+55:14.440 --> 55:18.440
+And we get to learn as a society together what's what's too far.
+
+55:18.440 --> 55:24.440
+What's interesting, what's fun, how much personalization is good, how much generic is good.
+
+55:24.440 --> 55:27.440
+And we get to learn all of this. You probably don't know this yourself.
+
+55:27.440 --> 55:30.440
+Like we have to all figure it out by using it, right?
+
+55:30.440 --> 55:38.440
+Yeah, I mean, part of what we're trying to do with the initial AIs launch is having a diversity of different use cases
+
+55:38.440 --> 55:41.440
+just so that people can try different things, because I don't know what's going to work.
+
+55:41.440 --> 55:45.440
+I mean, are people going to like playing the text based adventure games?
+
+55:45.440 --> 55:55.440
+Are they going to like having a comedian who can add jokes to threads or they can want to interact with historical figures?
+
+55:56.440 --> 56:00.440
+You know, we made we made one of Jane Austen and one of Marcus Aurelius.
+
+56:00.440 --> 56:03.440
+And I'm curious to see how that goes.
+
+56:03.440 --> 56:07.440
+I'm excited for both. Yeah, as a big fan, I'm excited for both.
+
+56:07.440 --> 56:13.440
+I have conversations with them. I mean, yeah, that's you know, and I am also excited to see, you know, the Internet.
+
+56:13.440 --> 56:16.440
+I don't know if you heard can get kind of weird.
+
+56:16.440 --> 56:19.440
+And I applaud them for it. So yeah, yeah.
+
+56:19.440 --> 56:22.440
+So it'd be nice to see how weird they take it.
+
+56:22.440 --> 56:24.440
+What kind of memes are generated from this?
+
+56:24.440 --> 56:28.440
+And I think all of it is a especially in these early stages of development.
+
+56:28.440 --> 56:37.440
+As we progress towards AGI, it's good to learn by by playing with those systems and interacting with them at like a large scale, like you said.
+
+56:37.440 --> 56:41.440
+Yeah, totally. I mean, that's why we're starting out with a set.
+
+56:41.440 --> 56:46.440
+And then we're also working on this platform that we call A.I.
+
+56:46.440 --> 56:57.440
+Studio that's going to make it so that over time, anyone will be able to create one of these eyes, almost like they create any other UGC content across the platform.
+
+56:57.440 --> 57:08.440
+So I'm excited about that. I think that to some degree, we're not going to see the full potential of this until you just have the full creativity of the whole community being able to build stuff.
+
+57:08.440 --> 57:11.440
+But there's a lot of a lot of stuff that we need to get right.
+
+57:11.440 --> 57:14.440
+So I'm excited to take this in stages.
+
+57:14.440 --> 57:20.440
+I don't I don't think anyone out there is really doing what we're doing here.
+
+57:20.440 --> 57:26.440
+I think that there are there are people who are who are doing kind of like fictional or consumer oriented character type stuff.
+
+57:26.440 --> 57:38.440
+But the extent to which we're building it out with the avatars and expressiveness and and making it so that they can interact across all the different apps.
+
+57:38.440 --> 57:44.440
+And they'll have profiles and we'll be able to engage people on Instagram and Facebook.
+
+57:44.440 --> 57:49.440
+I think it's it's just it's it's going to be really fun.
+
+57:49.440 --> 57:59.440
+Well, I'm still so we're talking about AI, but I'm still blown away this entire time that I'm talking to Mark Zuckerberg and you're not here, but you feel like you're here.
+
+57:59.440 --> 58:05.440
+I've done quite a few intimate conversations with people alone in a room, and this feels like that.
+
+58:05.440 --> 58:10.440
+I keep forgetting for long stretches of time that like we're not in the same room.
+
+58:10.440 --> 58:25.440
+And for me to imagine a future where I can with a snap of a finger do that with anyone in my life, the way we can just call right now and have this kind of shallow 2D experience to have this experience like we're sitting next to each other.
+
+58:25.440 --> 58:38.440
+It's like I don't I don't think I can I don't think we can even imagine what how that changes things where you can immediately have intimate one on one conversations with anyone.
+
+58:38.440 --> 58:43.440
+That's that might like in a way we might not even predict change civilization.
+
+58:43.440 --> 58:49.440
+Well, I mean, this is a lot of the thesis behind the whole metaverse is giving people the ability to feel like you're present with someone.
+
+58:49.440 --> 58:55.440
+I mean, this is like the main thing I talk about all the time, but I do think that there's a lot to process about it.
+
+58:55.440 --> 58:58.440
+I mean, from my perspective, I mean, I'm definitely here.
+
+58:58.440 --> 59:01.440
+We're just not we're we're not physically in the same place.
+
+59:01.440 --> 59:04.440
+It's not like you're you're not talking to an AI, right?
+
+59:04.440 --> 59:15.440
+You know, this is so I think the thing that's novel is the ability to convey through technology a sense of almost physical presence.
+
+59:15.440 --> 59:22.440
+So the thing that is not physically real is is us being in the same physical place.
+
+59:22.440 --> 59:25.440
+But but but kind of everything else is.
+
+59:25.440 --> 59:33.440
+And I think that gets to this somewhat philosophical question about what is the nature of kind of the modern real world.
+
+59:33.440 --> 59:40.440
+And I just think that that's it really is this combination of physical world and the presence that we feel.
+
+59:41.440 --> 59:51.440
+But also being able to combine that with this increasingly rich and powerful and capable digital world that we have and and all of the innovation that's getting created there.
+
+59:51.440 --> 01:00:00.440
+So I think it's super exciting because I mean, the digital world is just is just increasing in its capability and our ability to do awesome things.
+
+01:00:00.440 --> 01:00:02.440
+But the physical world is so profound.
+
+01:00:02.440 --> 01:00:07.440
+And that's a lot of what makes us human is is that we're we're physical beings.
+
+01:00:07.440 --> 01:00:10.440
+I don't think we want to run away from that and just spend all day on a screen.
+
+01:00:10.440 --> 01:00:17.440
+And that's like it's one of the reasons why I care so much about about helping to shape and accelerate these future computing platforms.
+
+01:00:17.440 --> 01:00:19.440
+I just think this is so powerful.
+
+01:00:19.440 --> 01:00:25.440
+And it's it's you know, even though the current version of this is like you're wearing a headset,
+
+01:00:25.440 --> 01:00:32.440
+I just think this is going to be by far the most human and social computing platform that has ever existed.
+
+01:00:32.440 --> 01:00:35.440
+And that's what makes me excited.
+
+01:00:35.440 --> 01:00:48.440
+Yeah, I think just to linger on this kind of changing nature of reality, like of what is real, maybe shifting it towards the sort of consciousness.
+
+01:00:48.440 --> 01:00:57.440
+So what is real is the subjective experience of a thing that makes it feel real versus necessarily being in the same physical space,
+
+01:00:57.440 --> 01:01:03.440
+because it feels like we're in the same physical space and the conscious experience of it.
+
+01:01:03.440 --> 01:01:13.440
+That's probably what is real, not like that the space time, like the physics of it, like you're basically breaking physics and focusing on the consciousness.
+
+01:01:13.440 --> 01:01:14.440
+That's what's real.
+
+01:01:14.440 --> 01:01:16.440
+This is whatever is going on inside my head.
+
+01:01:16.440 --> 01:01:25.440
+But there are a lot of social and psychological things that go along with that experience that was previously only physical presence, right?
+
+01:01:25.440 --> 01:01:32.440
+I think there's like an intimacy, a trust, you know, there's a level of communication,
+
+01:01:32.440 --> 01:01:42.440
+because so much of communication is nonverbal and is based on expressions that you're kind of you're sharing with someone when you're in this kind of environment.
+
+01:01:42.440 --> 01:01:52.440
+And before those things would have only been possible, you know, had I gotten on a plane and flown to Austin and sat physically with you in the same place.
+
+01:01:52.440 --> 01:02:03.440
+So I think we're basically short cutting those laws of physics and delivering the social and psychological benefits of being able to be present
+
+01:02:03.440 --> 01:02:10.440
+and feel like you're there with another person, which I think are real benefits to anyone in the world.
+
+01:02:10.440 --> 01:02:14.440
+And I think that that, like you said, I think that is going to be a very profound thing.
+
+01:02:14.440 --> 01:02:25.440
+And that a lot of that is that's the promise of of the metaverse and what you know why I just I think that that's the next frontier for what we're working on.
+
+01:02:25.440 --> 01:02:31.440
+You know, I started working on social networks when they were primarily text or the first version of Facebook, your profile.
+
+01:02:31.440 --> 01:02:35.440
+You know, you had one photo and the rest of it was like lists of things that you were interested in.
+
+01:02:35.440 --> 01:02:42.440
+And and then we kind of went through the period where we're doing photos and now we're kind of in the period where most of the content is video.
+
+01:02:42.440 --> 01:02:56.440
+But there's a clear trend where over time, the way that we want to express ourselves and and kind of get insight and content about the world around us gets increasingly just richer and more vivid.
+
+01:02:56.440 --> 01:03:07.440
+And I think the ability to be immersed and feel present with the people around you or the people who you care about is, from my perspective, clearly the next frontier.
+
+01:03:07.440 --> 01:03:11.440
+It just so happens that it's incredibly technologically difficult, right?
+
+01:03:11.440 --> 01:03:16.440
+It requires building up these new computing platforms and completely new software stacks to deliver that.
+
+01:03:16.440 --> 01:03:20.440
+But I kind of feel like that's what we're here to do as a company.
+
+01:03:20.440 --> 01:03:25.440
+Well, I really love the connection you have to the conversation.
+
+01:03:25.440 --> 01:03:29.440
+And so for me, this photo realism is really, really exciting.
+
+01:03:29.440 --> 01:03:35.440
+I'm I'm really excited for this future and thank you for building it.
+
+01:03:35.440 --> 01:03:42.440
+Thanks to you and thanks to the amazing meta teams that I've met, the engineers and just everybody I've met here.
+
+01:03:42.440 --> 01:03:46.440
+Thank you for helping to build this future.
+
+01:03:46.440 --> 01:03:51.440
+And thank you, Mark, for talking to me inside the metaverse.
+
+01:03:51.440 --> 01:03:53.440
+This is blowing my mind. I can't quite express.
+
+01:03:53.440 --> 01:03:59.440
+I would love to measure my heart rate this whole time would be hilarious if you're actually like sitting on a beach right now.
+
+01:03:59.440 --> 01:04:01.440
+I'm not. I'm in a conference room.
+
+01:04:01.440 --> 01:04:05.440
+OK, well, I'm at a beach and not wearing any pants.
+
+01:04:05.440 --> 01:04:09.440
+I'm really sorry about that for anyone else who's watching me in physical space.
+
+01:04:09.440 --> 01:04:11.440
+Anyway, thank you so much for talking today.
+
+01:04:11.440 --> 01:04:13.440
+This is this this really blew my mind.
+
+01:04:13.440 --> 01:04:15.440
+It's one of the most incredible experiences in my life.
+
+01:04:15.440 --> 01:04:16.440
+So thank you for giving that to me.
+
+01:04:16.440 --> 01:04:17.440
+Awesome. Awesome.
+
+01:04:17.440 --> 01:04:18.440
+Glad you got to check it out.
+
+01:04:18.440 --> 01:04:20.440
+And it's always fun to talk.
+
+01:04:20.440 --> 01:04:22.440
+All right. I'll catch you soon.
+
+01:04:22.440 --> 01:04:23.440
+See you later.
+
+01:04:23.440 --> 01:04:27.440
+This is so, so amazing, man.
+
+01:04:27.440 --> 01:04:29.440
+This is so amazing.
+

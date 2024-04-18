@@ -1,0 +1,3413 @@
+WEBVTT
+
+00:00.000 --> 00:07.520
+I hope with my books I'm saying this isn't a how-to guide, but this is somebody you can walk
+
+00:07.520 --> 00:14.560
+alongside. You can see Einstein growing up Jewish in Germany. You can see
+
+00:14.560 --> 00:22.720
+Jennifer Doudna growing up as an outsider or Leonardo da Vinci or Elon Musk in really
+
+00:22.720 --> 00:29.200
+violent South Africa with a psychologically difficult father and getting off the train
+
+00:29.200 --> 00:35.520
+when he goes to anti-apartheid concert with his brother and there's a man with a knife sticking
+
+00:35.520 --> 00:39.680
+out of his head and they step into the pool of blood and it's sticking on their souls.
+
+00:40.400 --> 00:48.560
+This causes, you know, scars that last the rest of your life and the question is not
+
+00:49.120 --> 00:53.200
+how do you avoid getting scarred? It's, you know, how do you deal with it?
+
+00:53.200 --> 01:01.520
+The following is a conversation with Walter Isaacson, one of the greatest biography writers
+
+01:01.520 --> 01:07.840
+ever, having written incredible books on Albert Einstein, Steve Jobs, Leonardo da Vinci,
+
+01:07.840 --> 01:14.160
+Jennifer Doudna, Benjamin Franklin, Henry Kissinger, and now a new one on Elon Musk.
+
+01:15.120 --> 01:20.000
+We talked for hours on and off the mic. I'm sure we'll talk many more times.
+
+01:20.000 --> 01:26.800
+Walter is a truly special writer, thinker, observer, and human being. I highly recommend
+
+01:26.800 --> 01:33.760
+people read his new book on Elon. I'm sure there will be short-term controversy, but in the long
+
+01:33.760 --> 01:39.040
+term, I think it will inspire millions of young people, especially with difficult childhoods,
+
+01:39.040 --> 01:44.480
+with hardship in their surroundings or in their own minds, to take on the hardest problems in
+
+01:44.480 --> 01:49.600
+the world and to build solutions to those problems, no matter how impossible the odds.
+
+01:50.640 --> 01:56.560
+In this conversation, Walter and I cover all of his books and use personal stories from them to
+
+01:56.560 --> 02:02.960
+speak to the bigger principles of striving for greatness in science, in tech, engineering, art,
+
+02:02.960 --> 02:09.840
+politics, and life. There are many things in the new Elon book that I felt are best saved for when
+
+02:09.840 --> 02:17.040
+I speak to Elon directly again on this podcast, which will be soon enough. Perhaps it's also good
+
+02:17.040 --> 02:24.400
+to mention here that my friendships, like with Elon, nor any other influence like money, access,
+
+02:24.400 --> 02:31.600
+fame, power, will ever result in me sacrificing my integrity, ever. I do like to celebrate the
+
+02:31.600 --> 02:38.720
+good in people, to empathize and to understand, but I also like to call people out on their bullshit
+
+02:39.280 --> 02:47.040
+with respect and with compassion. If I fail, I fail due to a lack of skill, not a lack of integrity.
+
+02:47.040 --> 02:53.280
+I'll work hard to improve. This is the Lex Friedman Podcast. To support it, please check out
+
+02:53.280 --> 02:58.880
+our sponsors in the description. And now, dear friends, here's Walter Isaacson.
+
+02:59.920 --> 03:05.520
+What is the role of a difficult childhood in the lives of great men and women, great minds?
+
+03:05.520 --> 03:10.880
+Is that a requirement? Is it a catalyst or is it just a simple coincidence of fate?
+
+03:10.880 --> 03:15.360
+Well, it's not a requirement. Some people with happy childhoods who do quite well,
+
+03:16.160 --> 03:22.640
+but it certainly is true that a lot of really driven people are driven because they're
+
+03:22.640 --> 03:28.880
+harnessing the demons of their childhood. Even Barack Obama's sentence in his memoirs,
+
+03:28.880 --> 03:34.080
+which is I think every successful man is either trying to live up to the expectations of his
+
+03:34.080 --> 03:40.080
+father or live down the sins of his father. And for Elon, it's especially true because he had
+
+03:40.080 --> 03:45.520
+both a violent and difficult childhood and a very psychologically problematic father.
+
+03:46.240 --> 03:54.400
+He's got those demons dancing around in his head and by harnessing them, it's part of the reason
+
+03:55.040 --> 04:01.360
+that he does riskier, more adventurous, wilder things than maybe I would ever do.
+
+04:01.920 --> 04:09.360
+You've written that Elon talked about his father and that at times it felt like mental torture,
+
+04:10.480 --> 04:13.760
+the interaction with him during his childhood. Can you describe some of the
+
+04:14.720 --> 04:16.080
+things you've learned?
+
+04:16.080 --> 04:23.600
+Yeah. Well, Elon and Kimball would tell me that, for example, when Elon got bullied
+
+04:23.600 --> 04:28.800
+on the playground and one day was pushed down some concrete steps and had his face
+
+04:28.800 --> 04:33.520
+pummeled so badly that Kimball said, I couldn't really recognize him. He was in a hospital for
+
+04:33.520 --> 04:40.400
+almost a week. But when he came home, Elon had to stand in front of his father and his father
+
+04:40.400 --> 04:47.360
+berated him for more than an hour and said he was stupid and took the side of the person who had
+
+04:47.360 --> 04:48.240
+beaten him.
+
+04:48.240 --> 04:51.440
+That's probably one of the more traumatic events of Elon's life.
+
+04:51.440 --> 04:57.920
+Yes. And there's also Veld School, which is a sort of paramilitary camp that young South African
+
+04:57.920 --> 05:05.760
+boys got sent to. And at one point, he was scrawny. He has very bad at picking up social
+
+05:05.760 --> 05:12.880
+cues and emotional cues. He talks about being Asperger's. And so he gets traumatized at a camp
+
+05:12.880 --> 05:17.920
+like that. But the second time he went, he had gotten bigger. He had shot up to almost six feet
+
+05:17.920 --> 05:22.320
+and he learned a little bit of judo. And he realized that if he was getting beaten up,
+
+05:23.120 --> 05:27.440
+it might hurt him, but he would just punch the person in the nose as hard as possible.
+
+05:27.920 --> 05:33.440
+So that sense of always punching back has also been ingrained in Elon.
+
+05:33.440 --> 05:39.280
+I spent a lot of time talking to Errol Musk, his father. Elon doesn't talk to Errol Musk anymore,
+
+05:39.280 --> 05:47.360
+his father, nor does Kimball. It's been years. And Errol doesn't even have Elon's email. So a
+
+05:47.360 --> 05:53.520
+lot of times, Errol will be sending me emails. And Errol had one of those Jekyll and Hyde
+
+05:53.600 --> 06:02.240
+personalities. He was a great mind of engineering and especially material science. He knew how to
+
+06:02.240 --> 06:09.520
+build a wilderness camp in South Africa using mica and how it would not conduct the heat.
+
+06:09.520 --> 06:17.440
+But he also would go into these dark periods in which he would just be psychologically abusive.
+
+06:18.000 --> 06:25.760
+And of course, May Musk says to me, his mother, who divorced Errol early on, said,
+
+06:25.760 --> 06:31.600
+the danger for Elon is that he becomes his father. And every now and then you've been with him so
+
+06:31.600 --> 06:38.480
+much. Lex, and you know him well, he'll even talk to you about the demons, about Diablo dancing in
+
+06:38.480 --> 06:44.880
+his hat. I mean, he gets it. He's self-aware. But you've probably seen him at times where
+
+06:45.440 --> 06:54.880
+those demons take over and he goes really dark and really quiet. And Grimes says, I can tell
+
+06:54.880 --> 07:00.320
+a minute or two in advance when demon mode is about to happen. And he'll go a bit dark.
+
+07:00.320 --> 07:07.040
+I was here at Austin, wanted dinner with a group. And you could tell suddenly something had triggered
+
+07:07.040 --> 07:13.040
+him and he was going to go dark. I've watched it in meetings where somebody will say, we can't make
+
+07:13.040 --> 07:21.200
+that part for less than $200 or no, that's wrong. And he'll berate them. And then he steps out of
+
+07:21.200 --> 07:26.960
+it. As you know that too, the huge snap out where suddenly he's showing you a Monty Python skit on
+
+07:26.960 --> 07:32.800
+his phone and he's joking about things. So I think coming out of the childhood, there were just many
+
+07:32.800 --> 07:39.440
+facets, maybe even many personalities, the engineering mode, the silly mode, the charismatic mode,
+
+07:39.440 --> 07:45.360
+the visionary mode, but also the demon and dark mode. A quote you cited about Elon really stood
+
+07:45.360 --> 07:52.000
+out to me. I forget who it was from, but inside the man, he's still there as a child, the child
+
+07:52.000 --> 08:00.000
+standing in front of his dad. That was Tallulah, his second wife. And she's great. She's an English
+
+08:00.000 --> 08:06.000
+actress. They've been married twice actually. And Tallulah said that's just him from his childhood.
+
+08:06.000 --> 08:14.160
+He's a drama addict. Kimball says that as well. And I asked why. And Tallulah said,
+
+08:16.000 --> 08:24.320
+for him, love and family are associated with those psychological torments. And in many ways,
+
+08:24.320 --> 08:31.280
+he'll channel. Tallulah would be with him in 2008 when the company was going bankrupt,
+
+08:31.280 --> 08:37.200
+whatever it may have been or later. And he would be so stressed, he would vomit.
+
+08:37.840 --> 08:43.360
+And then he would channel things that his father had said, use phrases his father had said to him.
+
+08:44.160 --> 08:50.720
+And so she told me, deep inside the man is this man child still standing in front of his father.
+
+08:51.680 --> 08:57.440
+To what degree is that true for many of us, do you think? I think it's true, but in many different
+
+08:57.440 --> 09:05.200
+ways. I'll say something personal, which is I was blessed, and perhaps it's a bit of a downside too,
+
+09:05.760 --> 09:09.600
+with the fact that I had the greatest father you could ever imagine. And mother, they were the
+
+09:09.600 --> 09:14.800
+kindest people you'd ever want to meet. I grew up in a magical place in New Orleans. My dad was an
+
+09:14.800 --> 09:25.360
+engineer, an electrical engineer. And he was always kind. Perhaps I'm not quite as driven or
+
+09:25.360 --> 09:31.440
+as crazed. I don't have to prove things. So I get to write about Elon Musk. I get to write about
+
+09:32.160 --> 09:38.560
+Einstein or Steve Jobs or Leonardo da Vinci, who as you know, was totally torn by demons
+
+09:38.560 --> 09:44.160
+and had different difficult childhood situations, not even legitimized by his father.
+
+09:44.880 --> 09:51.600
+So sometimes those of us who are lucky enough to have really gentle, sweet childhood,
+
+09:51.600 --> 09:58.240
+we grow up with fewer demons, but we grow up with fewer drives. And we end up maybe
+
+09:59.120 --> 10:06.640
+being Boswell and not being Dr. Johnson. We end up being the observer, not being the doer.
+
+10:07.360 --> 10:15.840
+And so I always respect those who are in the arena. You don't see yourself as a man in the arena.
+
+10:15.840 --> 10:23.520
+I've had a gentle, sweet career, and I've got to cover really interesting people.
+
+10:23.520 --> 10:28.800
+But I've never shot off a rocket that might someday get to Mars. I've never moved us into
+
+10:28.800 --> 10:33.360
+the air of electric vehicles. I've never stayed up all night on the factory floor.
+
+10:34.320 --> 10:41.840
+I don't have quite either the drives or the
+
+10:44.960 --> 10:52.160
+addiction to risk. I mean, Elon's addicted to risk. He's addicted to adventure. Me, if I
+
+10:52.160 --> 10:57.360
+see something that's risky, I spend some time calculating, okay, upside, downside here.
+
+10:58.080 --> 11:04.640
+But that's another reason that people like Elon Musk get stuff done,
+
+11:05.520 --> 11:08.560
+and people like me write about the Elon Musk's.
+
+11:09.360 --> 11:15.840
+One other aspect of this, given a difficult childhood, whether it's Elon or Da Vinci,
+
+11:18.240 --> 11:24.160
+I wonder if there's some wisdom, some advice almost that you can draw,
+
+11:24.160 --> 11:27.360
+that you can give to people with difficult childhoods.
+
+11:28.000 --> 11:33.920
+I think all of us have demons, even those of us who grew up in a magical part of New
+
+11:33.920 --> 11:43.520
+Orleans with sweet parents. And we all have demons. And rule one in life is harness your demons.
+
+11:43.520 --> 11:49.600
+Know that you're ambitious or not ambitious or you're lazy or whatever. Leonardo Da Vinci
+
+11:49.600 --> 12:01.520
+knew he was a procrastinator. I think it's usual to know what's eaten at you, know how to harness it.
+
+12:04.080 --> 12:08.720
+Also know what you're good at. I'll take Musk as another example.
+
+12:10.240 --> 12:16.880
+I'm a little bit more like Kimball Musk than Elon. I maybe got over endowed with the empathy gene.
+
+12:17.440 --> 12:23.600
+And what does that mean? Well, it means that I was okay when I ran Time magazine. It was a group
+
+12:23.600 --> 12:30.480
+of about 150 people on the editorial floors and I knew them all and we had a jolly time.
+
+12:30.480 --> 12:37.520
+When I went to CNN, I was not very good at being a manager or an executive of an organization.
+
+12:38.960 --> 12:46.640
+I cared a little bit too much that people didn't get annoyed at me or mad at me.
+
+12:46.880 --> 12:51.520
+Elon said that about John McNeil, for example, who was president of Tesla.
+
+12:51.520 --> 12:55.600
+It's in the book. I talked to John McNeil a long time and he says,
+
+12:57.360 --> 13:03.600
+Elon just would fire people, be really rough on people. He didn't have the empathy for the people
+
+13:03.600 --> 13:09.040
+in front of him. And Elon says, yeah, that's right. And John McNeil couldn't fire people.
+
+13:09.040 --> 13:14.880
+He cared more about pleasing the people in front of him than pleasing the entire enterprise or
+
+13:14.880 --> 13:21.760
+getting things done. Being over endowed with a desire to please people can make you less tough
+
+13:21.760 --> 13:27.920
+of a manager. And that doesn't mean there aren't great people who are over endowed.
+
+13:27.920 --> 13:34.400
+Ben Franklin? Over endowed with the desire to please people. The worst criticism of him
+
+13:34.400 --> 13:40.880
+from John Adams and others was that he was insinuating, which kind of meant he was always
+
+13:40.880 --> 13:46.480
+trying to get people to like him. But that turned out to be a good thing.
+
+13:46.480 --> 13:50.800
+When they can't figure out the big state, little state issue at the Constitutional Convention,
+
+13:50.800 --> 13:56.480
+when they can't figure out the Treaty of Paris, whatever it is, he brings people together and
+
+13:57.040 --> 14:04.080
+that is his superpower. So to get back to the lessons you asked, and the first was harness
+
+14:04.080 --> 14:11.680
+your demons. The second is to know your strengths and your superpower. My superpower
+
+14:12.320 --> 14:16.720
+is definitely not being a tough manager. After running CNN for a while, I said, okay,
+
+14:17.280 --> 14:21.040
+I think I've proven I don't really enjoy this or know how to do this well.
+
+14:24.160 --> 14:28.720
+Do I have other talents? Yeah, I think I have the talent to observe people really closely,
+
+14:29.360 --> 14:35.440
+to write about it in a straight, but I hope interesting narrative style. That's a power.
+
+14:35.440 --> 14:41.360
+It's totally different from running an organization. It took me until three years of running CNN that I
+
+14:41.360 --> 14:53.440
+realized I'm not cut to be an executive in a really high intense situations. Elon Musk is cut
+
+14:53.440 --> 14:59.840
+to be an executive in highly intense situations, so much so that when things get less intense,
+
+14:59.840 --> 15:05.280
+when they actually are making enough cars and rockets are going up and landing,
+
+15:06.160 --> 15:11.040
+he thinks of something else so he can surge and have more intensity. He's addicted to intensity
+
+15:13.280 --> 15:18.560
+and that's his superpower, which is a lot greater than the superpower of being a good observer.
+
+15:18.720 --> 15:27.680
+I think also to build on that, it's not just addiction to risk and drama. There's always a
+
+15:27.680 --> 15:38.160
+big mission above it. I would say it's an empathy towards people in the big picture.
+
+15:39.040 --> 15:45.040
+It's an empathy towards humanity more than the empathy towards the three or four humans who
+
+15:45.040 --> 15:50.720
+might be sitting in the conference room with you. That's a big deal. You see that in a lot
+
+15:50.720 --> 16:00.480
+of people. You see it in Bill Gates, Larry Summers, Elon Musk. They always have empathy
+
+16:01.040 --> 16:08.320
+for these great goals of humanity and at times they can be clueless about the emotions of the
+
+16:08.320 --> 16:16.080
+people in front of them or callous sometimes. Musk, as you said, is driven by mission more than any
+
+16:16.080 --> 16:24.800
+person I've ever seen. It's not only mission, it's like cosmic missions, meaning he's got three
+
+16:24.800 --> 16:33.680
+really big missions. One is to make humans a space-faring civilization, make us multi-planetary,
+
+16:33.680 --> 16:40.400
+or get us to Mars. Number two is to bring us into the era of sustainable energy,
+
+16:40.400 --> 16:46.080
+to bring us into the era of electric vehicles and solar roofs and battery packs.
+
+16:47.040 --> 16:53.680
+Third is to make sure that artificial intelligence is safe and is aligned with human values.
+
+16:54.480 --> 16:59.680
+Every now and then I'd talk to him and we'd be talking about Starlink satellites or whatever
+
+17:00.320 --> 17:04.720
+or he would be pushing the people in front of him in SpaceX and saying,
+
+17:04.720 --> 17:08.880
+if you do this, we'll never get to Mars in our lifetime. Then he would give the lecture
+
+17:08.880 --> 17:14.400
+how important it was for human consciousness to get to Mars in our lifetime. I'm thinking,
+
+17:14.400 --> 17:19.680
+okay, this is the pep talk of somebody trying to inspire a team or maybe it's a type of
+
+17:21.040 --> 17:27.280
+pontification you do on a podcast. But on the 20th time I watched him, I realized, okay,
+
+17:27.280 --> 17:36.000
+I believe it. He actually is driven by this. He is frustrated and angry that because of this
+
+17:36.000 --> 17:41.840
+particular minor engineering decision, the big mission is not going to be accomplished. It's
+
+17:41.840 --> 17:50.400
+not a pep talk. It's a literal frustration. An impatience, a frustration, and it's also
+
+17:50.640 --> 17:59.600
+just probably the most deeply ingrained thing in him is his mission. He joked at one point to me
+
+17:59.600 --> 18:05.280
+about how much he loved reading comics as a kid. He said, all the people in the comic books,
+
+18:05.840 --> 18:09.920
+they're trying to save the world, but they're wearing their underpants on the outside and they
+
+18:09.920 --> 18:14.160
+look ridiculous. Then he paused and said, but they are trying to save the world.
+
+18:14.800 --> 18:24.560
+Whether it's Starlink in Ukraine or Starship going to Mars or trying to get a global new Tesla,
+
+18:25.120 --> 18:32.960
+I think he's got this epic sense of the role he's going to play in helping humanity on big things.
+
+18:34.880 --> 18:42.800
+Like the characters in the comic books, it's sometimes ridiculous, but it also is sometimes
+
+18:42.800 --> 18:45.200
+true. When I was reading this part of the book,
+
+18:47.440 --> 18:53.280
+I was thinking of all the young people who are struggling in this way. I think a lot of people
+
+18:53.280 --> 18:57.200
+are in different ways, whether they grow up without a father, whether they grow up
+
+18:57.200 --> 19:01.520
+with physical, emotional, mental abuse, or demons of any kind, as you talked about.
+
+19:02.160 --> 19:08.000
+It's really painful to read, but also really damn inspiring that if you
+
+19:08.400 --> 19:17.600
+sort of walk side by side with those demons, if you don't let that pain break you or somehow
+
+19:17.600 --> 19:22.240
+channel it, if you can put it this way, that you can do great things in this world.
+
+19:22.240 --> 19:29.760
+Well, that's an epic view of why we write biography, which is more epic than I'd even
+
+19:29.760 --> 19:35.040
+thought of. So I say thank you, because in some ways what you're trying to do is say,
+
+19:35.040 --> 19:42.960
+okay, Leonardo, you talk about being a misfit, he's born illegitimate in the village of Vincci,
+
+19:42.960 --> 19:49.680
+and he's gay, and he's left-handed, and he's distracted, and his father won't legitimize him.
+
+19:50.640 --> 19:58.720
+And then he wanders off to the town of Florence, and he becomes the greatest artist and engineer
+
+19:59.440 --> 20:04.960
+of that part of the Renaissance. And then he's born illegitimate,
+
+20:05.120 --> 20:12.560
+I hope this book inspires. Jennifer Doudna, the gene editing pioneer who helps discover CRISPR,
+
+20:13.120 --> 20:20.400
+gene editing tool, which my book, The Code Breaker, she grew up feeling like a misfit in Hawaii,
+
+20:20.400 --> 20:26.400
+in a Polynesian village, being the only white person, and also trying to live up to a father
+
+20:26.400 --> 20:32.960
+who pushed her. So if people can read the books, and I should have said about Jennifer Doudna,
+
+20:32.960 --> 20:38.800
+my point was that she was told by her school guidance counselor, no, girls don't do science.
+
+20:38.800 --> 20:44.320
+Science is not for girls. You're not going to do math or science. And so it pushes her to say,
+
+20:44.320 --> 20:50.640
+all right, I'm going to do math and science. Just to interrupt real quick, but Jennifer Doudna,
+
+20:50.640 --> 20:55.920
+you've written an amazing book about her, Nobel Prize winner, CRISPR developer, just incredible,
+
+20:55.920 --> 21:00.800
+one of the great scientists in the 21st century. Right. And I'm talking about when Jennifer
+
+21:00.800 --> 21:07.360
+Doudna was young, and she felt really, really out of place. Like you and me and a lot of people,
+
+21:07.360 --> 21:13.360
+when they fill in that way, they read books, they curl up with the book. So her father drops a book
+
+21:13.360 --> 21:18.800
+on her bed called The Double Helix, the book by James Watson on the discovery of the structure
+
+21:18.800 --> 21:28.160
+of DNA by him and Rosalind Franklin and Francis Crick. And she realizes, oh my God, girls can
+
+21:28.160 --> 21:38.720
+become scientists. My school guidance counselor is wrong. So I think books, like she read this book,
+
+21:38.720 --> 21:44.880
+and even if it's a comic books, like Elon Musk read, books can sometimes inspire you.
+
+21:45.600 --> 21:52.240
+And every one of my books is about people who are totally innovative, who weren't just smart,
+
+21:52.240 --> 21:57.040
+because none of us are going to be able to match Einstein and mental processing power,
+
+21:57.760 --> 22:04.160
+but we can be as curious as he was and creative and think out of the box the way he did,
+
+22:04.160 --> 22:09.920
+or Steve Jobs put it, think different. And so I hope with my books, I'm saying,
+
+22:11.840 --> 22:17.120
+this isn't a how-to guide, but this is somebody you can walk alongside. You can see
+
+22:18.080 --> 22:25.600
+Einstein growing up Jewish in Germany. You can see Jennifer Doudna growing up as an outsider,
+
+22:25.600 --> 22:34.160
+Leonardo da Vinci, or Elon Musk in really violent South Africa with a psychologically difficult
+
+22:34.160 --> 22:39.760
+father and getting off the train when he goes to anti-apartheid concert with his brother.
+
+22:39.760 --> 22:45.920
+And there's a man with a knife sticking out of his head and they step into the pool of blood
+
+22:45.920 --> 22:53.840
+and it's sticking on their souls. This causes scars that last the rest of your life.
+
+22:54.800 --> 23:00.800
+And the question is not, how do you avoid getting scarred? It's, how do you deal with it?
+
+23:01.360 --> 23:11.040
+Einstein too, one of my, it's hard to pick my favorite of your biographies, but Einstein,
+
+23:12.000 --> 23:16.160
+I mean, you really paint a picture of another, I don't want to call them a misfit,
+
+23:17.280 --> 23:22.800
+but a person who doesn't necessarily have a standard trajectory through life of success.
+
+23:23.760 --> 23:31.840
+So, and that's extremely inspiring. I don't know exactly what question to ask. There's a million.
+
+23:31.840 --> 23:36.400
+Well, I'll talk about the misfit for a second because we talked about Leonardo being that way.
+
+23:36.640 --> 23:43.200
+Einstein is Jewish in Germany at a time when it starts getting difficult. He's slow in learning
+
+23:43.200 --> 23:48.240
+how to talk and he's a visual thinker. So he's always daydreaming and imagining things.
+
+23:49.040 --> 23:54.560
+The first time he applies to the Zurich Polytech, because he runs away from the German
+
+23:55.520 --> 24:02.000
+education system because it's too much learning by rote, he gets rejected by the Zurich Polytech.
+
+24:02.000 --> 24:05.680
+Now it's the second best school in Zurich and they're rejecting Einstein. I tried to
+
+24:05.680 --> 24:11.600
+find, but couldn't in the name of the admissions counselor at the Zurich Polytech, like you rejected
+
+24:11.600 --> 24:19.200
+Einstein. And then he doesn't finish in the top half of his class. And once he does and he goes
+
+24:19.200 --> 24:24.320
+to graduate school, they don't accept his dissertation. So he can't get a job. He's not
+
+24:24.320 --> 24:31.520
+teaching it. He even tries about 14 different high schools, gymnasium to get a job and they won't take
+
+24:31.520 --> 24:38.400
+him. So he's a third class examiner in the Swiss patent office in 1905. Third class because they've
+
+24:38.400 --> 24:44.240
+rejected his doctoral dissertation. And so he can't be second class or first class because he
+
+24:44.240 --> 24:49.840
+doesn't have a doctoral degree. And yet he's sitting there in the stool in the patent office in 1905
+
+24:50.400 --> 24:58.000
+and writes three papers that totally transform science. And if you're thinking about being
+
+24:58.960 --> 25:05.120
+misunderstood or unappreciated, in 1906 he's still a third class patent. In 1907 he still is.
+
+25:05.120 --> 25:11.440
+It takes until 1909 before people realize that this notion of the theory of relativity might be
+
+25:11.440 --> 25:17.840
+correct and it might upend all of Newtonian physics. How is it possible for three of the
+
+25:17.840 --> 25:22.640
+greatest papers in the history of science to be written in one year by this one person? Is there
+
+25:22.640 --> 25:29.760
+some insights, wisdoms you draw? Plus he, out of a day job, is a patent examiner. And there's really
+
+25:29.760 --> 25:34.960
+three papers but there's also an addendum because once you figure out quantum theory and then you
+
+25:34.960 --> 25:40.080
+figure out relativity and you're understanding Maxwell's equations and the speed of light,
+
+25:41.440 --> 25:46.800
+he does a little addendum. That's the most famous equation in all of physics which is E
+
+25:46.800 --> 25:54.960
+equals MC squared. So it's a pretty good year. It partly starts because he's a visual thinker and
+
+25:54.960 --> 26:01.360
+I think it was helpful that he was at the patent office rather than being the acolyte of some
+
+26:01.360 --> 26:07.120
+professor at the academy where he was supposed to follow the rules. And so the patent office said
+
+26:07.120 --> 26:12.320
+doing devices to synchronize clocks because the Swiss have just gone on standard time zones and
+
+26:12.320 --> 26:18.320
+Swiss people, as you know, tend to be rather Swiss. They care if it strikes the hour in Basel,
+
+26:18.320 --> 26:22.640
+it should do the same and burn at the exact instant. So you have to send a light signal
+
+26:22.640 --> 26:28.960
+between two distant clocks. And he's visualizing what it'll look like to ride alongside a light
+
+26:28.960 --> 26:33.680
+beam. He says, well, if you catch up with it, if you go almost as fast, it'll look stationary.
+
+26:33.680 --> 26:40.000
+But Maxwell's equations don't allow for that. And he said, he's making my palm sweat that I was so
+
+26:40.000 --> 26:45.920
+worried. And so he finally figures out because he's looking at these devices to synchronize clocks
+
+26:45.920 --> 26:52.480
+that if you're traveling really, really fast, what looks synchronous to you or synchronized to you
+
+26:52.480 --> 26:57.920
+is different than for somebody traveling really fast in the other direction. And he makes a mental
+
+26:57.920 --> 27:03.920
+leap that time that the speed of light is always constant, but time is relative depending on your
+
+27:03.920 --> 27:11.120
+state of motion. So it was that type of out of the box thinking, those leaps that made 1905 his
+
+27:11.120 --> 27:18.960
+miracle year. Likewise with Musk. I mean, after General Motors and Ford, everybody gives up on
+
+27:18.960 --> 27:26.800
+electric vehicles to just say, I know how we're going to have a path to change the entire
+
+27:26.800 --> 27:32.720
+trajectory of the world into the era of electric vehicles. And then when he comes back from Russia
+
+27:32.720 --> 27:39.440
+where he tried to buy a little rocket ship so he could send a experimental greenhouse to Mars and
+
+27:39.440 --> 27:44.400
+they were poking fun of him and actually spit on him at one point in a drunken lunch.
+
+27:45.040 --> 27:51.920
+This is very fortuitous because on the ride back home on the plane, on the Delta Airlines flight,
+
+27:52.480 --> 27:57.600
+he's like doing the calculations of how much materials, how much metal, how much fuel,
+
+27:58.240 --> 28:06.640
+how much would it really cost? And so he's visualizing things that other people would
+
+28:06.640 --> 28:13.040
+just say is impossible. It's what Steve Jobs' friends called the reality distortion field.
+
+28:13.040 --> 28:18.560
+And it drove people crazy. It drove them mad, but it also drove them to do things they didn't think
+
+28:18.560 --> 28:23.840
+they would be able to do. You said visual thinking. I wonder if you've seen parallels
+
+28:23.840 --> 28:34.400
+of the different styles and kinds of thinking that operate the minds of these people.
+
+28:34.400 --> 28:41.040
+So is there parallels you see between Elon, Steve Jobs, Einstein, Da Vinci,
+
+28:41.040 --> 28:46.400
+specifically in how they think? I think they were all visual thinkers,
+
+28:46.400 --> 28:52.640
+perhaps coming from slight handicaps as children, meaning Leonardo was left-handed and a little
+
+28:52.640 --> 29:00.560
+bit dyslectic, I think. And certainly Einstein had a career. He would repeat things. He was
+
+29:00.560 --> 29:07.760
+slow in learning to talk. So I think visualizing helps a lot. And with Musk,
+
+29:08.880 --> 29:15.920
+I see it all the time when I'm walking the factory lines with him or in product development where
+
+29:16.000 --> 29:22.560
+he'll look at, say, the heat shield under the Raptor engine of a Starship booster.
+
+29:23.520 --> 29:28.160
+And he'll say, why does it have to be this way? Couldn't we trim it this way or make it
+
+29:28.160 --> 29:34.000
+or even get rid of this part of it? And he can visualize the material science. There's small
+
+29:34.000 --> 29:41.040
+anecdotes in my book, but at one point he's on the Tesla line and they're trying to get 5,000 cars
+
+29:41.040 --> 29:48.480
+a week in 2018. It's a life or death situation. And he's looking at the machines that are bolting
+
+29:48.480 --> 29:55.680
+something to the chassis. And he insists that Lars Moravey, one of his great lieutenants,
+
+29:56.640 --> 30:04.000
+and they have to summon him. And he says, why are there six bolts here? And Lars and others explain,
+
+30:04.000 --> 30:09.760
+well, for the crash tests or anything else, the pressure would be in this way, so you have to.
+
+30:09.760 --> 30:14.640
+And they were blah, blah, blah, blah, blah. And he said, no. If you visualize it,
+
+30:14.640 --> 30:21.840
+you'll see if there's a crash, the force would go this way and that way. And it can be done
+
+30:21.840 --> 30:27.280
+with four bolts. Now, that sounds risky. And they go test it and they engineer it,
+
+30:27.280 --> 30:32.880
+but it turns out to be right. I know that seems minor, but I could give you 500 of those,
+
+30:32.960 --> 30:41.600
+where in any given day, he's visualizing the physics of an engineering or manufacturing
+
+30:41.600 --> 30:48.400
+problem. That sounds pretty mundane. But for me, if you say what makes him special,
+
+30:48.400 --> 30:54.160
+there's a mission-driven thing. I give you a lot of reasons. But one of the reasons is
+
+30:54.880 --> 31:01.360
+he cares not just about the design of the product, but visualizing the manufacturing
+
+31:01.760 --> 31:07.120
+of the product, the machine that makes the machine. And that's what we failed to do in America
+
+31:07.120 --> 31:12.480
+for the past 40 years. We outsourced so much manufacturing. I don't think you can be a good
+
+31:12.480 --> 31:18.400
+innovator if you don't know how to make the stuff you're designing. And that's why Musk puts his
+
+31:18.400 --> 31:25.840
+designer's desk right next to the assembly lines in the factories so that they have to visualize
+
+31:25.840 --> 31:29.920
+what they drew as it becomes the physical object.
+
+31:29.920 --> 31:35.200
+So understanding everything from the physics all the way up to the software. It's like end to end.
+
+31:35.200 --> 31:42.560
+Well, having an end to end control is important, certainly with Steve Jobs. I'm looking at my iPhone
+
+31:42.560 --> 31:49.360
+here. It's a big deal. That hardware only works with Apple software. And for a while, the iTunes
+
+31:49.360 --> 31:58.720
+store. So he has an end to end that makes it like a Zen garden in Kyoto. Very carefully curated,
+
+31:58.720 --> 32:06.480
+but a thing of beauty. For Musk, when he first was at Tesla and before he was the CEO, when he
+
+32:06.480 --> 32:13.360
+was just the executive chairman and basically the finance person funding it, they were outsourcing
+
+32:13.360 --> 32:17.520
+everything. They were making the batteries in Japan and the battery pack would be at some
+
+32:17.520 --> 32:23.440
+barbecue shop in Thailand. And that sent to the Lotus factory in England to be put into
+
+32:23.440 --> 32:31.680
+a Lotus Elise chassis. And that was a nightmare. You did not have end to end control of the
+
+32:31.680 --> 32:37.920
+manufacturing process. So he goes to the other extreme. He gets a factory in Fremont from Toyota
+
+32:38.720 --> 32:44.560
+and he wants to do everything in-house. The software in-house, the painting in-house,
+
+32:45.120 --> 32:54.480
+you know, the battery. He makes his own batteries. And I think that end to end control is part of
+
+32:54.480 --> 33:03.200
+his personality. I mean, there's a, but it's also what allows Tesla to be innovative.
+
+33:03.760 --> 33:12.800
+Yeah, I got to see and understand in detail one example of that, which is the development
+
+33:12.800 --> 33:20.160
+of the brain of the car in autopilot, going from mobile eye to in-house building the autopilot
+
+33:20.160 --> 33:31.040
+system to basically getting rid of all sensors that are not rich in data to make it AI friendly,
+
+33:31.680 --> 33:36.720
+sort of saying that we can do it all with vision. And like you said, removing some of the bolts.
+
+33:36.720 --> 33:41.680
+So sometimes it's small things, but sometimes it's really big things like getting rid of radar.
+
+33:41.680 --> 33:47.120
+Well, vision only, getting rid of radar is huge and everybody's against it. Everybody,
+
+33:47.120 --> 33:51.680
+and they're still fighting it a bit. They're still trying to do in next generation some form
+
+33:51.680 --> 33:58.160
+of radar, but it gets back to the first principles. We're talking about visualizing. Well, he starts
+
+33:59.600 --> 34:04.640
+with the first principles and the first principles of physics involve things like,
+
+34:04.640 --> 34:10.480
+well, humans drive with only visual input. They don't have radar. They don't have LIDAR.
+
+34:10.480 --> 34:18.880
+They don't have sonar. And so there is no reason in the laws of physics that make it so that vision
+
+34:18.880 --> 34:26.640
+only won't be successful in creating self-driving. Now that becomes an article of faith to him and
+
+34:26.640 --> 34:34.400
+he gets a lot of pushback. And he's, by the way, not been that successful in meeting his deadlines
+
+34:34.400 --> 34:42.320
+of getting self-driving. He's way too optimistic. But it was that first principles of get rid
+
+34:42.320 --> 34:48.160
+of unnecessary things. Now you would think LIDAR, why not use it? Like, why not use a crush? It's
+
+34:48.160 --> 34:53.280
+like, yeah, we can do things vision only, but when I look at the stars at night, I use a telescope
+
+34:53.280 --> 35:00.000
+too. Well, you could use LIDAR, but you can't do millions of cars that way at scale. At a certain
+
+35:00.000 --> 35:05.120
+point, you have to make it not only a good product, but a product that goes to scale.
+
+35:05.120 --> 35:09.040
+And you can't make it based on maps like Google Maps, because it'll never be able to
+
+35:10.160 --> 35:16.240
+then drive from New Orleans to Slidell where I want to go when it's too hot in New Orleans.
+
+35:17.200 --> 35:24.080
+Take, for example, full self-drive. He has been obsessed with what he calls the robo taxi.
+
+35:24.080 --> 35:29.120
+We're going to build the next generation car without a steering wheel, without pedals,
+
+35:29.120 --> 35:33.200
+because it's going to be full self-drive. You just summon it. You won't need to drive it.
+
+35:34.000 --> 35:38.320
+Well, over and over again, all these people I've told you about, you know, Lars Marravi
+
+35:38.320 --> 35:42.320
+and Drew Baglino and others, they're saying, okay, fine, that sounds really good. But,
+
+35:43.280 --> 35:49.520
+you know, it ain't happened yet. We need to build a $25,000 mass market global car
+
+35:50.080 --> 35:57.120
+that's just normal with a steering wheel. And yeah, he finally turned around a few months ago
+
+35:57.120 --> 36:02.400
+and said, let's do it. And then he starts focusing on how's the assembly line going to work? How are
+
+36:02.400 --> 36:07.600
+we going to do it? And make it the same platform for robo taxi so you can have the same assembly.
+
+36:07.600 --> 36:15.200
+Likewise, for full self-drive, they were doing it by coding hundreds of thousands of lines of code
+
+36:15.200 --> 36:19.040
+that would say things like, if you see a red light, stop. If there's a blinking light,
+
+36:19.040 --> 36:23.920
+if there are two yellow lines, do this. If there's a bike lane, do this. If there's a crosswalk,
+
+36:23.920 --> 36:30.320
+do that. Well, that's really hard to do. Naly's doing it through artificial intelligence and
+
+36:30.320 --> 36:39.840
+machine learning only. FSD12 will be based on the billion or so frames from Tesla each week of Tesla
+
+36:39.840 --> 36:44.480
+drivers and saying, what happened when a human was in this situation? What did the human do?
+
+36:44.480 --> 36:49.280
+And let's only pick the best humans, the five-star drivers, the Uber drivers, as Elon says.
+
+36:50.000 --> 36:58.160
+And so that's him changing his mind and going to first principles, but saying, all right,
+
+36:58.160 --> 37:03.600
+I'm even going to change full self-driving so that it's not rules-based. It becomes
+
+37:03.600 --> 37:10.480
+AI-based. Just like ChatGPT doesn't try to answer your question, who are the five best popes or
+
+37:10.480 --> 37:22.160
+something? ChatGPT does it by having ingested billions of pieces of writing that people have
+
+37:22.160 --> 37:27.840
+done. This will be AI, but real world done by ingesting video. Sometimes it feels like
+
+37:29.040 --> 37:35.520
+he and others, they're building things in this world successfully, are basically confidently
+
+37:35.520 --> 37:42.560
+exploring a dark room with a very confident, ambitious vision of what that room actually
+
+37:42.560 --> 37:51.120
+looks like. They're just walking straight into the darkness. There's no painful toys or Legos on
+
+37:51.120 --> 37:57.280
+the ground. I'm just going to walk. I know exactly how far the wall is. And then very quickly willing
+
+37:57.280 --> 38:04.640
+to adjust as they run into, they step on the Lego and their body is filled with a lot of pain.
+
+38:04.640 --> 38:10.480
+What I mean by that is this kind of evolution that seems to happen where you discover really
+
+38:10.480 --> 38:21.520
+good ideas along the way that allow you to pivot. To me, since a few years ago when you could see
+
+38:21.520 --> 38:28.560
+with Andhra Karpathy, the software 2.0 evolution of autopilot, it became obvious to me that this is
+
+38:28.560 --> 38:37.120
+not about the car. This is about Optimus, the robot. If we look back 100 years from now,
+
+38:38.080 --> 38:44.160
+the car will be remembered as a cool car, nice transportation, but the autopilot won't be the
+
+38:44.160 --> 38:51.200
+thing that controls the car. It will be the thing that allows embodied AI systems to understand the
+
+38:51.200 --> 39:00.480
+world broadly. That kind of approach and you kind of stumble into it. Will Tesla be a car company?
+
+39:01.200 --> 39:06.640
+Will it be an AI company? Will it be a robotics company? Will it be a home robotics company?
+
+39:06.640 --> 39:12.080
+Will it be an energy company? You kind of slowly discover this as you confidently
+
+39:15.120 --> 39:20.640
+push forward with a vision. It's interesting to watch that kind of evolution as long as it's
+
+39:20.640 --> 39:25.440
+backed by this confidence. There are a couple of things that are required for that.
+
+39:25.440 --> 39:30.480
+One is being adventurous. One doesn't enter a dark room without a flashlight and a map
+
+39:30.480 --> 39:35.280
+unless you're a risk taker, unless you're adventurous. The second is to have iterative
+
+39:35.920 --> 39:43.360
+brain cycles where you can process information and do a feedback loop and make it work.
+
+39:43.360 --> 39:49.760
+The third, and this is what we fail to do a lot in the United States and perhaps around the world,
+
+39:50.480 --> 39:56.160
+is when you take risks, you have to realize you're going to blow things up.
+
+39:57.920 --> 40:05.360
+First three rockets, the Falcon rockets that NASA does, they blow up. Even Starship,
+
+40:05.360 --> 40:11.760
+three and a half minutes, but then it blows up the first time. I think Boeing and NASA and others
+
+40:11.760 --> 40:19.280
+have become unwilling to enter your dark room without knowing exactly where the exit is and
+
+40:19.280 --> 40:25.440
+the lighted path to the exit. The people who created America, whenever they came over,
+
+40:26.480 --> 40:33.120
+whether the Mayflower is refugees from the Nazis, they took a lot of risks to get here.
+
+40:33.920 --> 40:45.600
+Now, I think we have more referees than we have risk takers, more lawyers and regulators and others
+
+40:45.600 --> 40:50.720
+saying you can't do that, that's too risky, than people willing to innovate. You need both.
+
+40:51.600 --> 41:00.880
+I think you're also right on 50, 100 years from now, what Musk will be most remembered for beside
+
+41:00.880 --> 41:10.080
+space travel is real world AI. Not just Optimus the robot, but Optimus the robot and the self-driving
+
+41:10.080 --> 41:20.240
+car, they're pretty much the same. They're using GPU clusters or dojo chips or whatever it may be
+
+41:20.240 --> 41:26.720
+to process real world data. We all got, and you did on your podcast, quite excited about large
+
+41:26.720 --> 41:35.200
+language model, generative predictive text AI. That's fine, especially if you want to
+
+41:35.200 --> 41:42.000
+chat with your chat bot, but the holy grail is artificial general intelligence. The tough part
+
+41:42.000 --> 41:53.920
+of that is real world AI. That's where Optimus the robot or full self-drive are, I think, far ahead
+
+41:54.480 --> 42:04.720
+of anybody else. Well, I like how you said chit chat. I would say for one of the greatest writers
+
+42:04.720 --> 42:11.440
+ever, it's funny that you spoke about language and the mastery of languages as merely chit chat.
+
+42:12.240 --> 42:17.280
+People have fallen in love over some words. People have gone to wars over some words. I think words
+
+42:17.280 --> 42:22.640
+have a lot of power. It's actually an interesting question where the wisdom of the world, the wisdom
+
+42:22.640 --> 42:28.800
+of humanity is in the words or is it in the visuals, is it in the physical? I don't really-
+
+42:28.800 --> 42:29.760
+It's in mathematics.
+
+42:30.720 --> 42:34.160
+Maybe it all boils down to math, and in the end, this kind of discussion about
+
+42:34.880 --> 42:42.080
+real world AI versus language is all the same. Maybe. I've gotten a chance to hang out quite a
+
+42:42.080 --> 42:49.600
+bit in the metaverse with Mr. Mark Zuckerberg recently, and boy is the realism in there.
+
+42:50.560 --> 42:58.960
+The thing that's coming up in the future is incredible. I got scanned in Pittsburgh
+
+42:59.680 --> 43:06.240
+for 10 hours into the metaverse, and there's a virtual version of me,
+
+43:06.240 --> 43:08.480
+and I got to hang out with that virtual version.
+
+43:09.120 --> 43:10.080
+Do you like yourself?
+
+43:10.640 --> 43:18.880
+Well, I never like myself, but it was easier to like that other guy. That was interesting.
+
+43:18.960 --> 43:19.760
+Did he like you?
+
+43:21.120 --> 43:22.400
+He didn't seem to care much.
+
+43:23.440 --> 43:24.800
+It's actually lack of the empathy.
+
+43:28.080 --> 43:34.720
+It made me start to question even more than before, like, well, how important is this
+
+43:34.720 --> 43:41.760
+physical reality? Because I got to see myself and other people in that metaverse,
+
+43:42.720 --> 43:51.280
+the details of the face, all the things that you think, maybe if you look yourself in the mirror,
+
+43:51.280 --> 43:55.840
+our imperfections, all this kind of stuff. When I was looking at myself and at others,
+
+43:55.840 --> 44:04.800
+all those things are beautiful, and it was real, and it was intense, and it was scary because
+
+44:04.800 --> 44:07.520
+you're like, well, are you allowed to murder people in the metaverse?
+
+44:08.320 --> 44:14.560
+Because what are you allowed to do? Because you can replicate a lot of those things, and
+
+44:15.440 --> 44:20.560
+you start to question what are the fundamental things that make life worth living here as we
+
+44:20.560 --> 44:21.440
+know it as humans.
+
+44:21.440 --> 44:26.320
+Have you talked to Elon about his views of we're living in a simulation, maybe,
+
+44:26.320 --> 44:28.080
+and how you would figure out if that's true?
+
+44:28.720 --> 44:36.160
+Yes, there's a constant lighthearted but also a serious sense that this is all a bit of a game.
+
+44:36.160 --> 44:41.760
+One of my theories on Elon, a minor theory, is that he read Hitchhiker's Guide to the
+
+44:41.760 --> 44:48.160
+Galaxy once too often. And as you know, there's a scene in there that says
+
+44:50.240 --> 44:55.600
+that there's a theory about the universe that if anybody ever discovers the secrets of
+
+44:55.600 --> 45:01.280
+meanings of the universe, it will be replaced by an even more complex universe. And then the
+
+45:01.280 --> 45:06.000
+next line Douglas Adams writes is, and there's another theory that this has already happened.
+
+45:06.880 --> 45:11.440
+So I'm going to try to get my head around that, but I know that Elon Musk tries to.
+
+45:11.440 --> 45:13.680
+Well, there's a humor to that.
+
+45:13.680 --> 45:19.120
+There's an enormous humor to Hitchhiker's Guide. I really think that helped Musk out of the darkest
+
+45:19.120 --> 45:24.880
+of his periods to have sort of the sense of fun of figuring out what life is all about.
+
+45:24.880 --> 45:29.760
+I wonder if there's a smaller side we could say, just having gotten to know Elon very well,
+
+45:30.320 --> 45:37.520
+the silliness, the willingness to engage in the absurdity of it all and have fun.
+
+45:38.720 --> 45:46.000
+What is that? Is that just a quirk of personality or is that a fundamental aspect of a human
+
+45:46.000 --> 45:47.920
+who's running six plus companies?
+
+45:47.920 --> 45:53.520
+Well, it's a relief valve, just like video games and polytopia and Elden Ring, a release
+
+45:53.520 --> 46:02.400
+valve for him. And he does have an explosive sense of humor, as you know. And the weird thing is
+
+46:02.400 --> 46:08.240
+when he makes the abrupt transition from dark demon mode and you're in the conference room
+
+46:08.880 --> 46:14.640
+and he has really become upset about something. And not only they're dark vibes, but there's
+
+46:14.640 --> 46:20.560
+dark words emanating and he's saying your resignation will be accepted if you die, etc.
+
+46:21.440 --> 46:29.200
+And then something pops and he pulls out his phone and pulls up a Bonnie Python skit,
+
+46:29.200 --> 46:36.160
+like the School of Silly Walks or whichever. And then he starts laughing again and things break.
+
+46:38.960 --> 46:45.280
+It's almost as if he has different modes, the emulation of human mode, the engineering mode,
+
+46:46.000 --> 46:50.960
+the dark and demon mode, and certainly there is the silly and giddy mode.
+
+46:53.280 --> 46:59.040
+Yeah, you've actually opened the Elon book with quotes from Elon and from Steve Jobs.
+
+46:59.600 --> 47:03.680
+So Elon's quote is, to anyone I've offended, I just want to say, this is on SNL,
+
+47:04.320 --> 47:09.200
+I just want to say I reinvented electric cars and I'm sending people to Mars on a rocket ship.
+
+47:09.920 --> 47:14.400
+Did you also think I was going to be a chill normal dude? And then the quote from Steve Jobs,
+
+47:14.400 --> 47:19.440
+of course, is the people who are crazy enough to think they can change the world are the ones
+
+47:20.000 --> 47:28.880
+who do. So what do you think is the role of the old madness and genius? What do you think is the
+
+47:28.880 --> 47:35.360
+role of crazy in this? Well, first of all, let's both stipulate that Musk is crazy at times.
+
+47:35.360 --> 47:43.200
+I mean, and then let's figure out, and I try to do it through storytelling, not through
+
+47:44.080 --> 47:52.000
+highfalutin preaching, where that craziness works. Give me a story, tell me an anecdote,
+
+47:52.000 --> 48:01.120
+tell me where he's crazy. And the almost final example, AI, but him shooting off Starship for
+
+48:01.120 --> 48:08.000
+the first time. In between an aborted countdown and the shoot off, he goes to Miami to an ad sales
+
+48:08.000 --> 48:12.240
+conference and meets Linda Iaccarino for the first time, makes her the CEO. I mean, there's a very
+
+48:12.240 --> 48:21.120
+impulsiveness to him. Then he flies back, they launch Starship, and you realize that there's a
+
+48:21.120 --> 48:29.600
+drive and there are demons and there's also craziness. And you sometimes want to pull those
+
+48:29.600 --> 48:35.280
+out. You want to take away his phone so he doesn't tweet at 3 a.m. You want to say,
+
+48:35.280 --> 48:41.600
+quit being so crazy. But then you realize there's a wonderful line of Shakespeare in
+
+48:41.600 --> 48:47.440
+Measure for Measure at the very end. He says, even the best are molded out of faults.
+
+48:48.320 --> 48:55.200
+And so you take the faults of Musk, for example, which includes a craziness that can be endearing,
+
+48:55.200 --> 49:04.320
+but also craziness that's just like effing crazy, as well as this drive and demon mode.
+
+49:05.760 --> 49:11.120
+I don't know that you can take that strand out of the fabric and the fabric remains whole.
+
+49:12.720 --> 49:19.520
+I wonder, sometimes it saddens me that we live in a society that doesn't celebrate even
+
+49:19.600 --> 49:26.080
+the darker aspects of crazy in acknowledging that it all comes in one package. It's the man
+
+49:26.080 --> 49:31.280
+in their universe is the critic. And the man in their universe is the regulator to make it more
+
+49:31.280 --> 49:41.280
+prosaic. Well, let me ask about not just the crazy, but the cruelty. You've written one
+
+49:41.280 --> 49:47.920
+reporting on Steve Jobs was told you that the big question to ask was, did he have to be so mean,
+
+49:47.920 --> 49:54.400
+so rough and cruel, so drama addicted? What is this answer for Steve Jobs? Did he
+
+49:54.960 --> 50:01.440
+have to be so cruel? For Jobs, I asked Was at the end of my reporting, because that's what he said
+
+50:01.440 --> 50:08.960
+at the beginning. We're doing the launch of, I think, the iPad 2, it may have been. Steve is
+
+50:08.960 --> 50:15.360
+emaciated because he's been sick. And so I say to Was, what's the answer to your question? And he
+
+50:15.360 --> 50:20.400
+said, well, if I had been running Apple, I would have been nicer to everybody. Everybody got stuck
+
+50:20.400 --> 50:25.120
+after. We've been like a family. And then I don't know if you know Was, he's like a teddy bear. He
+
+50:25.120 --> 50:30.240
+paused, he smiled and he said, but if I had been running Apple, I don't think we would have done
+
+50:30.240 --> 50:41.680
+the Macintosh or the iPhone. So yeah, you have to sometimes be rough. And Jobs said the same thing
+
+50:41.680 --> 50:48.240
+that Musk said to me, which is he said, people like you love wearing velvet gloves. I don't
+
+50:48.240 --> 50:53.520
+know that I've worn velvet gloves often, but you like people to like you, you like to sweet talk
+
+50:53.520 --> 51:00.720
+things, you sugar coat things. He says, I'm just a working class kid and I don't have that luxury.
+
+51:00.720 --> 51:05.840
+If something sucks, I got to tell people it sucks or I got a team of B players. Well, Musk is that
+
+51:05.840 --> 51:12.560
+way as well. And it gets back to what I said earlier, which is, yeah, I probably would wear
+
+51:12.560 --> 51:18.720
+velvet gloves if I could find them at my haberdasher. And I do try to sugar coat things,
+
+51:19.680 --> 51:26.000
+but when I was running CNN, it needed to be reshaped. It needed to be broken. It needed to
+
+51:26.000 --> 51:33.760
+have certain things blown up and I didn't do it. So bad on me, but it made me realize, okay,
+
+51:33.840 --> 51:38.800
+I'll just write about the people who can do it. Well, that thing of saying, I think probably
+
+51:38.800 --> 51:43.280
+both of them, but Elon's certainly saying things like that is the stupidest thing I've ever heard.
+
+51:44.720 --> 51:50.240
+By the way, I've heard Jeff Bezos say that. I've heard Bill Gates say that. I've heard Steve Jobs
+
+51:50.240 --> 51:54.720
+say it. I've heard Steve Jobs say it about a smoothie. They were making it a Whole Foods or
+
+51:54.720 --> 52:00.640
+something. People, they use the word stupid really often. And you know who else used it?
+
+52:00.640 --> 52:05.440
+Errol Musk. He kept making Elon stand in front of him and saying that's the stupidest thing.
+
+52:05.440 --> 52:08.240
+You're the stupidest person. You'll never amount to anything.
+
+52:11.200 --> 52:18.800
+I don't know. As John McNeil, the president of Tesla said, do you have to be that way?
+
+52:19.440 --> 52:25.200
+Probably not. There are a lot of successful people who are much kinder, but
+
+52:26.080 --> 52:34.480
+it's sometimes necessary to be much more brutal and honest, brutally honest, I would say,
+
+52:35.040 --> 52:40.640
+than people like who are when boss of the year trophies.
+
+52:41.520 --> 52:47.200
+Well, as you said, this kind of idea did also send a signal. This idea of Steve Jobs of eight
+
+52:47.200 --> 52:52.960
+players, it did send a signal to everybody. It was a kind of encouragement to everybody.
+
+52:53.920 --> 52:56.640
+It was a kind of encouragement to the people that are all in.
+
+52:57.280 --> 53:01.440
+Right. And that happened to Twitter. When we went to Twitter headquarters the day before
+
+53:02.000 --> 53:09.280
+the takeover, he was having Andrew and James, his two young cousins and other people from the
+
+53:09.280 --> 53:14.720
+autopilot team, going over lines of code. And Musk himself sat there with a laptop on the second
+
+53:14.720 --> 53:20.000
+floor of the building, looking at the lines of code that had been written by Twitter engineers.
+
+53:20.640 --> 53:26.160
+And they decided they were going to fire 85% of them because they had to be all in.
+
+53:26.160 --> 53:32.240
+And this notion of psychological safety and mental days off and working remotely, he said,
+
+53:33.360 --> 53:40.960
+and then it came up, actually one of his, I think it was one of the cousins or maybe Ross
+
+53:40.960 --> 53:46.560
+Nordine came up with the idea of let's not be so rough and just fire all these people.
+
+53:46.560 --> 53:50.800
+Let's ask them, do you really want to be all in? Because this is going to be hardcore. It's going
+
+53:50.800 --> 53:57.360
+to be intense. You get to choose. But by midnight tonight, we want you to check the box. I'm hardcore,
+
+53:57.360 --> 54:03.600
+all in. I'll be there in person. I'll work. Or that's not for me. I've got a family. I've got
+
+54:03.600 --> 54:09.520
+work balance. And you've got different type of people that way and different stages of their life.
+
+54:09.520 --> 54:16.160
+I was a little bit more hardcore and all in when I was in my 20s than when I was in my 50s.
+
+54:16.400 --> 54:22.720
+You write about this. It's a really nice idea, actually, that there's two camps and you find out,
+
+54:23.360 --> 54:29.120
+I wonder how true this is. It rings true. You can just ask people, which camp are you in?
+
+54:29.120 --> 54:35.680
+Are you the kind of person that prides themselves and enjoy staying up till 2 a.m. programming or
+
+54:35.680 --> 54:42.240
+whatever? Or do you see the value of quote unquote, about life, work-life balance, all this kind of
+
+54:42.240 --> 54:50.400
+stuff? And it's interesting. People probably divide themselves in different stages of life
+
+54:50.400 --> 54:55.280
+and you can just ask them. And it makes sense for certain companies in certain stages of
+
+54:55.280 --> 54:57.280
+their development to be like, we only want hardcore people.
+
+54:57.280 --> 55:01.920
+Or certain teams. It doesn't even have to be a whole company. And you're right. It goes back
+
+55:01.920 --> 55:07.920
+to what I was saying about rule. The first secret is sort of know thyself. Obviously, it comes from
+
+55:07.920 --> 55:17.920
+Plato and everything comes from Plato and Socrates. And decide, in this stage of my life,
+
+55:19.200 --> 55:26.080
+do I want to be a hackathon all in all night and change the world? Or do I want to bring wisdom
+
+55:26.080 --> 55:32.800
+and stability but also have balance? I think it's good to have different companies with different
+
+55:32.800 --> 55:39.760
+styles. The problem was Twitter was at almost one extreme with yoga studios and mental health days
+
+55:39.760 --> 55:46.640
+off and enshrining psychological safety as one of the mantras that people should never feel
+
+55:46.640 --> 55:52.640
+psychologically threatened. And I remember the bitter laugh he unleashed when he kept hearing
+
+55:52.640 --> 56:00.640
+that word. He said, no, I like the words hardcore. I like intensity. I like an intense sense of
+
+56:00.640 --> 56:06.320
+urgency as our operating principle. Well, yeah, there are people that way as well. So know who
+
+56:06.320 --> 56:11.760
+you are and know what type of team you want to build. Versus psychological safety and too many
+
+56:11.760 --> 56:18.560
+birds everywhere. Oh, yeah. A lot of times Musk did things. I go, what the hell? And among them
+
+56:18.560 --> 56:22.880
+was changing the name Twitter and getting rid of the birds. I said, hey, man, there's a lot invested
+
+56:22.880 --> 56:29.760
+in that brand. But when I watched him, he thought, okay, these sweet little chirpy birds tweeting away
+
+56:29.760 --> 56:38.400
+and the name Twitter, it's not hardcore. It's not intense. And so for better and for worse,
+
+56:38.400 --> 56:46.800
+I think he's taking acts into the hardcore realm with people who post hardcore things,
+
+56:47.280 --> 57:02.080
+with people with hardcore views. It's not a polite playpen for the blue checked anointed elite.
+
+57:03.120 --> 57:06.880
+And I thought, okay, this is going to be bad. The whole thing is going to fall apart. Well,
+
+57:06.880 --> 57:13.600
+it has had problems, but the hardcore intensity of it has also meant that there's new things
+
+57:13.600 --> 57:21.280
+happening there. So it's very Elon Musk to not like this sweetness of birds chirping and tweeting
+
+57:21.280 --> 57:29.120
+and saying, I want something more hardcore. As you've written in referring to the previous
+
+57:29.120 --> 57:36.160
+Twitter CEO, Elon said Twitter needs a fire-breathing dragon. I think this is a good
+
+57:36.160 --> 57:41.840
+opportunity to maybe go through some of the memorable moments of the Twitter saga as you've
+
+57:41.840 --> 57:48.560
+written about extensively in your book, from the early days of considering the acquisition
+
+57:48.560 --> 57:52.960
+to how it went through to the details of, like you mentioned, the engineering teams.
+
+57:53.600 --> 58:00.880
+Well, at the beginning of 2022, he was riding high. But as we say, he's a drama addict. He
+
+58:00.880 --> 58:06.400
+doesn't like to ghost. And Tesla sold a million vehicles. I think 33
+
+58:06.960 --> 58:14.000
+boosters, you know, Falcon 9s have been shot up and landed safely in the past few months.
+
+58:16.000 --> 58:24.480
+And he was the richest person on earth and times person of the year. And yet, he'd said, you know,
+
+58:24.480 --> 58:29.120
+I'm still want to put all my chips back on the table. I want to keep taking risks. I
+
+58:29.120 --> 58:35.680
+don't want to savor things. He had sold all of his houses. So he starts secretly buying shares
+
+58:35.680 --> 58:42.480
+of Twitter. January, February, March becomes public at a certain point. He has to declare it.
+
+58:43.440 --> 58:50.800
+And we were here in Austin at Gigafactory on the mezzanine. And he was trying to figure out,
+
+58:50.800 --> 58:55.200
+well, where do I go from here? And at that time, this early April,
+
+58:55.760 --> 58:59.840
+they were going to offer him a board seat. And he was going to do a standstill agreement
+
+58:59.840 --> 59:04.720
+and stop at 10% or something. Now remember, you know, we were standing around. It was
+
+59:04.720 --> 59:11.040
+Luke Nozick, whom you know well, Ken Hallery, some of his friends on that mezzanine here.
+
+59:11.040 --> 59:18.080
+And all afternoon and then late into the evening at dinner is like, should we do this? And I didn't
+
+59:18.080 --> 59:23.360
+say anything. I'm just the observer. But everybody else is saying, excuse me, why do you want to own
+
+59:23.360 --> 59:30.960
+Twitter? And Griffin, his son, joined at dinner. And May, for some reason, was in town. And like,
+
+59:30.960 --> 59:35.120
+everybody says, no, we don't use Twitter. Why would you do that? And May said, well,
+
+59:35.120 --> 59:41.200
+I use Twitter. And it's almost like, okay, the demographics are people my age or May's age.
+
+59:42.880 --> 59:47.040
+And so it looked like he wasn't going to pursue it. They offered him a board seat.
+
+59:48.160 --> 59:57.920
+And then he went off to Hawaii to Larry Ellison's house, which he sometimes uses.
+
+59:57.920 --> 01:00:04.400
+He was meeting a friend, Angela Bassett, an actress. And instead of enjoying three days of
+
+01:00:04.400 --> 01:00:11.600
+vacation, he just became supercharged and started firing off text messages, including the fire,
+
+01:00:12.160 --> 01:00:17.280
+breathing dragon one. I think, you know, he used that phrase a few times that Parag wasn't the
+
+01:00:17.280 --> 01:00:23.280
+person who was going to take Twitter to a new level. And then by the time he gets to Vancouver,
+
+01:00:23.280 --> 01:00:28.960
+where Grimes meets him, they stay up all night playing Elden Ring. He was doing a TED Talk.
+
+01:00:29.600 --> 01:00:35.760
+And then at 530, he finishes playing the Elden Ring and sends out that, I've made an offer.
+
+01:00:36.880 --> 01:00:42.000
+Even when he comes back, people are trying to intervene and say, excuse me, why are you doing
+
+01:00:42.000 --> 01:00:50.160
+it? And so it was a rocky period between late April and October when the deal closed. And people
+
+01:00:50.160 --> 01:00:54.800
+ask me all the time, well, did he want to get out of the deal? I said, which Elon are you talking
+
+01:00:54.800 --> 01:01:00.560
+about at what time of day? Because every time in the morning when he'd say, oh, the Delaware
+
+01:01:00.560 --> 01:01:05.600
+court is going to force me to do it. It's horrible. Talk to his lawyers. You can win this case. Get me
+
+01:01:05.600 --> 01:01:12.800
+out of it. He met here in Austin with three or four investment bankers, Blair Efron at Centerview,
+
+01:01:12.800 --> 01:01:18.240
+Bob Steele at Pirella Weinberg. And they offered him options. Do you want to get out? Do you want
+
+01:01:18.240 --> 01:01:25.040
+to stay in? Do you want to reduce the price? And I think he was mercurial. There were times he would
+
+01:01:25.040 --> 01:01:29.360
+text me or say to me, this is going to be great. It's going to be the accelerant
+
+01:01:30.240 --> 01:01:37.600
+to do x.com the way we thought about 20 years ago. And so it's not until they finally tell
+
+01:01:37.600 --> 01:01:43.440
+him at the beginning of October, right when Optimus the robot is being unveiled in California,
+
+01:01:43.440 --> 01:01:48.320
+actually, that the lawyers say, you're not going to probably win this case,
+
+01:01:49.840 --> 01:01:55.360
+better go through with the deal. And by then he's not only made his peace with it, he's kind of
+
+01:01:55.360 --> 01:02:05.040
+happy with it at time. Eventually, the deal is going to close on I think a Friday morning. I
+
+01:02:05.040 --> 01:02:10.240
+have it in the book. And we're there on Thursday and he's wandering around looking at the stay
+
+01:02:10.240 --> 01:02:18.160
+woke t-shirts and psychological safety lingo they're all using. And he and his lawyers and
+
+01:02:18.160 --> 01:02:27.280
+bankers hatched a plan to do a flash close. And the reason for that was if they closed the deal
+
+01:02:27.840 --> 01:02:35.680
+after the markets had closed for the day, and he could send a letter to Parag and two others,
+
+01:02:35.680 --> 01:02:40.160
+firing them, quote, for cause. And this will be something the courts will have to figure out.
+
+01:02:41.520 --> 01:02:46.400
+Then he could save 200 million or so. And it was both the money, but for him a matter,
+
+01:02:46.400 --> 01:02:53.040
+I won't say of principle, but of, hey, they misled me about the numbers. I got forced into doing it.
+
+01:02:53.040 --> 01:03:00.400
+So I'm going to try this jujitsu maneuver and be able to get some money out of them.
+
+01:03:00.400 --> 01:03:07.280
+Then when he takes over, it's kind of a wild scene. Him trying to decide in three different
+
+01:03:07.280 --> 01:03:13.440
+rounds how to get the staff down to 15% of what it was. Him deciding on Christmas Eve
+
+01:03:13.440 --> 01:03:19.520
+after he'd been at a meeting where they told him we can't get rid of that Sacramento server farm
+
+01:03:19.520 --> 01:03:25.680
+because it's need of a redundancy. He says, no, it's not. And he's flying here to Austin.
+
+01:03:26.320 --> 01:03:30.240
+And young James says, why don't we just do it ourselves? He turns the plane around,
+
+01:03:30.240 --> 01:03:34.960
+they land in Sacramento, and he pulls them out himself. So it was a manic period.
+
+01:03:34.960 --> 01:03:42.640
+We should also say that underneath of that, there was a running desire to, or a consideration to
+
+01:03:42.640 --> 01:03:48.480
+perhaps start a new company to build a social media company from scratch.
+
+01:03:48.480 --> 01:03:53.520
+Well, Kimball wanted to do that. And Kimball here at a wonderful restaurant in Austin at lunch is
+
+01:03:53.520 --> 01:03:58.960
+like, hey, why are you buying Twitter? Let's start one from scratch and do it on the blockchain.
+
+01:03:59.760 --> 01:04:03.040
+Now, it took him a while, and you can argue it one way or the other,
+
+01:04:04.000 --> 01:04:09.600
+to come to the conclusion that the blockchain was not fast enough and responsive time enough
+
+01:04:09.600 --> 01:04:16.240
+to be able to handle a billion tweets in a day or so. He gets mad when they keep trying to get
+
+01:04:16.240 --> 01:04:21.120
+him to talk to Sam Bankman Fried, who's trying to say, I'll invest, but we have to do it on the
+
+01:04:21.120 --> 01:04:28.720
+blockchain. Kimball is still in favor of starting a new one and doing it on blockchain based.
+
+01:04:29.840 --> 01:04:35.840
+In retrospect, I think starting a new media company would have been better. He wouldn't
+
+01:04:35.840 --> 01:04:43.920
+have had the baggage or the legacy that he's breaking now in breaking the way Twitter had been.
+
+01:04:44.480 --> 01:04:52.320
+But it's hard to have millions and hundreds of millions of true users, not just trolls,
+
+01:04:53.040 --> 01:04:58.240
+and start from scratch as others have found, as Macedon and Blue Sky and
+
+01:04:58.800 --> 01:05:03.120
+Threads. I mean, Threads even had a base, so it would have been hard.
+
+01:05:03.760 --> 01:05:10.160
+Yeah. And to do that in the way he did requires another part that you write about with the three
+
+01:05:10.160 --> 01:05:16.720
+musketeers and the whole engineering, the firing and the bringing in the engineers to try to go
+
+01:05:16.720 --> 01:05:21.520
+hardcore. So there's a lot of interesting questions to ask there, but the high level,
+
+01:05:21.520 --> 01:05:30.000
+can you just comment about that part of the saga, which is bringing in the engineers and seeing
+
+01:05:30.000 --> 01:05:37.360
+what can we do here? Right. He brought in the engineers and figured that the amount of people
+
+01:05:37.360 --> 01:05:44.240
+doing Tesla, full self-driving, autopilot, and all the software there was about one-tenth
+
+01:05:44.240 --> 01:05:51.040
+of what was doing software for Twitter. And he said, this can't be the case. And he fired 85%
+
+01:05:51.040 --> 01:05:57.200
+in three different rounds. The first was just firing people because they looked at the coding
+
+01:05:57.200 --> 01:06:04.080
+and they had a team of people from Tesla's autopilot team grading the codes of all that
+
+01:06:04.080 --> 01:06:11.120
+was written in the past year or so. Then he fired people who didn't seem to be totally all-in or
+
+01:06:11.120 --> 01:06:20.640
+loyal, and then another round of layoffs. So at each step of the way, almost everybody said,
+
+01:06:20.640 --> 01:06:26.480
+that's enough. It's going to destroy things. Yeah. From Alex Spiro, his lawyer to Jared
+
+01:06:26.480 --> 01:06:32.320
+Burchill, he's like, whoa, whoa, whoa. And even Andrew and James, the young cousins who are
+
+01:06:32.320 --> 01:06:36.320
+tasked with making a list and figuring out who's going to bed, say, we've done enough.
+
+01:06:36.320 --> 01:06:43.440
+We're going to be in real trouble. And they were partly right. I mean, there was degradation of the
+
+01:06:44.240 --> 01:06:53.760
+service some, but not as much as half the services I use half the time. I wake up each morning and
+
+01:06:54.880 --> 01:06:58.480
+hit the app and okay, still there. What do you think? Was that too much?
+
+01:06:59.040 --> 01:07:04.320
+I think that he has an algorithm that we mentioned earlier that begins with question every
+
+01:07:04.320 --> 01:07:11.120
+requirement. What's up to is delete, delete, delete, delete every part. And then a corollary
+
+01:07:11.120 --> 01:07:18.240
+to that is if you don't end up adding back 20% of what you deleted, then you didn't delete enough
+
+01:07:18.240 --> 01:07:24.800
+in the first round because you were too timid. Well, so you ask me, did he overdo it? He probably
+
+01:07:24.800 --> 01:07:31.680
+overdid it by 20%, which is his formula. And they're probably trying to hire people now
+
+01:07:31.680 --> 01:07:35.520
+to keep things going. But it sends a strong signal
+
+01:07:36.400 --> 01:07:40.640
+to people that are hired back or the people that are still there, the API idea. Yeah. And what
+
+01:07:40.640 --> 01:07:46.720
+Steve Jobs and many other great leaders felt and certainly Bezos and certainly in the early days
+
+01:07:46.720 --> 01:07:54.080
+of Microsoft, Bill Gates, it was hardcore only A players. So how much of Elon's success would
+
+01:07:54.080 --> 01:07:59.680
+you say Elon's and Steve Jobs' success is the hiring and managing of great teams?
+
+01:07:59.680 --> 01:08:05.200
+When I asked Steve Jobs at one point, what was the best product you ever created? I thought he'd say
+
+01:08:06.400 --> 01:08:13.920
+maybe the Macintosh or maybe the iPhone. He said, no, those products are hard. The best thing I ever
+
+01:08:13.920 --> 01:08:19.840
+created was the team that made those products. And that's the hard part is creating a team.
+
+01:08:19.840 --> 01:08:29.360
+And he did. From Johnny Ive to Tim Cook and Eddie Q and Phil Schiller. Elon has done a good job
+
+01:08:29.360 --> 01:08:37.520
+bringing in people. Gwynne Shotwell, obviously, Linda Iaccarino, she can navigate through the
+
+01:08:37.520 --> 01:08:47.920
+current crises. Certainly, stellar people at SpaceX like Marc Jancosa and then at Tesla like
+
+01:08:47.920 --> 01:08:58.560
+Drew Baglino and Lars Marravey and Tom Zhu and many others. He's not as much of a team collaborator
+
+01:08:58.560 --> 01:09:04.560
+as say Benjamin Franklin, who by the way, that's the best team ever created, which is the founders.
+
+01:09:04.560 --> 01:09:09.600
+And you had to have really smart people like Jefferson and Madison and really passionate
+
+01:09:09.600 --> 01:09:15.680
+people like John Adams and his cousin Samuel and really a guy of high rectitude like Washington.
+
+01:09:15.680 --> 01:09:21.200
+But you also needed a Ben Franklin who could bring everybody together and forge a team out
+
+01:09:21.200 --> 01:09:27.520
+of them and make them compromise with each other. Musk is a magnet for awesome talent.
+
+01:09:28.400 --> 01:09:35.920
+Magnet. Interesting. But there's the priorities of hiring based on excellence,
+
+01:09:35.920 --> 01:09:39.360
+trustworthiness and drive. These are things you've described throughout the book.
+
+01:09:40.320 --> 01:09:50.320
+There's a pretty concrete and rigorous set of ideas based on which the hiring is done.
+
+01:09:50.320 --> 01:09:57.680
+Oh, yeah. And he has a very good spidey intuitive sense just looking at people
+
+01:09:58.720 --> 01:10:03.600
+who could, I mean not looking at them, but studying them who could be good. One of his
+
+01:10:03.600 --> 01:10:13.760
+ways of operating is what he calls a skip level meeting. And let's take a very specific thing,
+
+01:10:13.760 --> 01:10:19.360
+like the Raptor engine, which is powering the Starship. And it wasn't going well,
+
+01:10:19.360 --> 01:10:22.880
+it looked like a spaghetti bush and it was going to be hard to manufacture.
+
+01:10:22.880 --> 01:10:29.840
+And he got rid of the people who were in charge of that team. And I remember that he spent
+
+01:10:30.480 --> 01:10:34.960
+a couple of months doing what he calls skip level, which means instead of meeting with his
+
+01:10:34.960 --> 01:10:42.160
+direct reports on the Raptor team, he would meet with the people one level below them.
+
+01:10:42.880 --> 01:10:49.200
+And so he would skip a level and meet with them. And he said, and I just ask them what they're
+
+01:10:49.200 --> 01:10:54.160
+doing and I drill them with questions. And he said, and this is how I figure out who's going
+
+01:10:54.160 --> 01:10:58.640
+to emerge. He said it was particularly difficult. I was sitting in those meetings because people
+
+01:10:58.640 --> 01:11:04.560
+wearing masks, it was during the height of COVID. And he said it made it a little bit harder for him
+
+01:11:04.560 --> 01:11:13.440
+because he has to get the input. But I watched as a young kid, dreadlocks named Jacob McKenzie,
+
+01:11:13.440 --> 01:11:20.160
+he's in the book, is sitting there and he's a bit like you, engineering mindset speaks in a bit of
+
+01:11:20.160 --> 01:11:25.760
+a monotone. Musk would ask a question and he would give an answer and the answer would be very
+
+01:11:25.760 --> 01:11:32.560
+straightforward. And he didn't get rattled. He was like this. And Musk said one day, called him up
+
+01:11:32.560 --> 01:11:37.600
+at 3 a.m., well, I won't say 3 a.m., but after midnight, said, you still around? And Jake said,
+
+01:11:37.600 --> 01:11:42.320
+yeah, I'm still at work. And he said, okay, I'm going to make you in charge of the team building
+
+01:11:42.320 --> 01:11:50.400
+Raptor. And that was like a big surprise. But Jacob McKenzie has now gotten a version of Raptor and
+
+01:11:50.400 --> 01:11:57.040
+where they're building them at least one a week and they're pretty awesome. And that's where his
+
+01:11:57.040 --> 01:12:05.520
+talent, Musk's talent for finding the right person and promoting them, that's where it is.
+
+01:12:05.520 --> 01:12:10.480
+And promoting it in a way where it's like, here's the ball, here, catch.
+
+01:12:11.600 --> 01:12:18.000
+And you run with it. I've interacted with quite a few folks from even just the Model X,
+
+01:12:18.320 --> 01:12:24.480
+the all throughout, where people on paper don't seem like they would be able to run the thing and
+
+01:12:24.480 --> 01:12:29.200
+they run it extremely successfully. And he does it wrong sometimes. He's had a horrible track record
+
+01:12:29.200 --> 01:12:37.120
+with the solar roof division. Wonderful guy named Brian Dow. I really liked him. And when they were
+
+01:12:37.120 --> 01:12:43.360
+doing the battery factory surge in Nevada, Musk got rid of two or three people and there's Brian
+
+01:12:43.360 --> 01:12:48.080
+Dow, can do, can do, can do. He stays up all night and he gets promoted and runs it.
+
+01:12:48.080 --> 01:12:52.480
+And so finally Musk goes through two or three people running the solar roof division,
+
+01:12:53.200 --> 01:12:57.920
+finally calls up Brian Dow. I was sitting in Musk's house in Boca Chica, that little tiny
+
+01:12:58.560 --> 01:13:07.280
+two bedroom he has, and he offers Brian Dow the job of running solar roof. And Brian there, okay,
+
+01:13:07.280 --> 01:13:15.040
+can do, can do. And two or three times Musk insisted that they install a solar roof in one
+
+01:13:15.040 --> 01:13:21.440
+of those houses in Boca Chica. This is this tiny village at the south end of Texas. And late at
+
+01:13:21.440 --> 01:13:27.040
+night, I mean, I'd have to climb up to the top of the roof on these ladders and stand on this peaked
+
+01:13:27.040 --> 01:13:35.360
+roof as Musk is there saying, why do we need four screws to put in this single leg? And Brian was
+
+01:13:35.360 --> 01:13:41.200
+just sweating and doing everything. But then after a couple of months, it wasn't going well and boom,
+
+01:13:42.560 --> 01:13:50.240
+Musk just fired him. So I always try to learn what is it that makes those who stay thrive?
+
+01:13:51.200 --> 01:13:53.200
+What's the lesson there? What do you think?
+
+01:13:53.200 --> 01:13:58.160
+Well, I think it's self-knowledge like an Andy Krebs or others. They say,
+
+01:13:59.600 --> 01:14:04.480
+I am hardcore. I really want to get a rocket to Mars and that's more important than anything else.
+
+01:14:05.920 --> 01:14:12.160
+One of the people, I think it's Tim Zeman. I hope when he hears this, I'm getting him the right
+
+01:14:12.160 --> 01:14:18.080
+person who took time. It was working for Tesla autopilot and it was just so intense. He took
+
+01:14:18.080 --> 01:14:24.160
+some time off and then went to another company. He said, I was burned out at Tesla, but then I
+
+01:14:24.160 --> 01:14:29.600
+was bored at the next place. So I called, I think it was Ashok at Tesla and said, can I come back?
+
+01:14:29.600 --> 01:14:34.160
+He said, sure. He said, I learned about myself. I'd rather be burned out than bored.
+
+01:14:34.960 --> 01:14:42.640
+That's a good line. Can you just linger on one of the three that seem interesting to you in terms
+
+01:14:42.640 --> 01:14:47.200
+of excellence, trustworthiness and drive? Which one do you think is the most important and the
+
+01:14:47.200 --> 01:14:52.480
+hardest to get at? The trustworthiness is an interesting one. Are you ride or die kind of
+
+01:14:52.480 --> 01:14:57.920
+thing? Yeah. I think that especially when it came to taking over Twitter, he thought half the people
+
+01:14:57.920 --> 01:15:02.560
+there were disloyal and he was wrong. About two thirds were disloyal, not just half.
+
+01:15:04.240 --> 01:15:10.000
+It was how do we weed out those? He did something and made the firing squad, I call it,
+
+01:15:10.000 --> 01:15:16.400
+or the musketeers, I think is my nickname for them, which is the young cousins and two or three other
+
+01:15:16.400 --> 01:15:21.680
+people. He made them look at the Slack messages. These people had posted, everybody at Twitter had
+
+01:15:21.680 --> 01:15:28.800
+posted. They went through hundreds of Slack messages. If anybody posted on the internal Slack,
+
+01:15:29.840 --> 01:15:35.600
+that jerk Elon Musk is going to take over and I'm afraid that he's a maniac or something,
+
+01:15:36.640 --> 01:15:44.560
+they would be on the list because they want all in loyal. They did not look at private Slack
+
+01:15:44.560 --> 01:15:51.360
+messages. I guess people who are posting on a corporate Slack board should be aware that your
+
+01:15:51.360 --> 01:15:57.360
+company can look at them, but that's more than I would have done or most people would have done.
+
+01:15:58.640 --> 01:16:03.360
+That was to figure out who's deeply committed and loyal. I think that was mainly the case
+
+01:16:03.920 --> 01:16:11.840
+at Twitter. He doesn't sit around at SpaceX saying who's loyal to me. At other places,
+
+01:16:13.120 --> 01:16:20.160
+it's excellence, but that's pretty well a given. Everybody is like a Marc Gencosa,
+
+01:16:20.160 --> 01:16:25.680
+just whip smart. It's are you hardcore and all in, especially if you have to move to this
+
+01:16:26.560 --> 01:16:32.480
+bit of a town in the south tip of Texas called Boca Chica, you got to be all in.
+
+01:16:33.600 --> 01:16:40.320
+That's the drive, the last piece. You, in terms of collaborating, one of the great teams of all time
+
+01:16:40.320 --> 01:16:44.720
+with Ben Franklin, I like that. I thought it was the Beatles, but Ben Franklin is pretty good.
+
+01:16:44.720 --> 01:16:45.920
+Oh, no, no, no.
+
+01:16:46.160 --> 01:16:48.000
+I'm sorry. I'm sorry to offend you so much.
+
+01:16:48.000 --> 01:16:53.040
+Read the Constitution and read Abbey Road. They're both good, but they're in a different league.
+
+01:16:53.040 --> 01:16:59.600
+Yeah, a different league. One of the many things that comes to mind with Ben Franklin is incredible
+
+01:16:59.600 --> 01:17:09.920
+time management. Is there something you could say about Ben Franklin and about Steve Jobs?
+
+01:17:09.920 --> 01:17:14.800
+I think the interesting thing with Elon is that he, as you write, runs six companies.
+
+01:17:16.560 --> 01:17:19.120
+Depends how you count. Starlink is its own thing. I don't know.
+
+01:17:21.200 --> 01:17:24.640
+What can you say about these people in terms of time management?
+
+01:17:24.640 --> 01:17:33.280
+Well, Musk is in a league of his own in the way he does it. First of all, Steve Jobs had to run
+
+01:17:33.280 --> 01:17:41.840
+Pixar and Apple for a while, but Musk, every couple of hours, is switching his mindset from
+
+01:17:42.480 --> 01:17:47.280
+how to implant the neural link chip and what will the robot that implants it in the brain
+
+01:17:47.280 --> 01:17:55.200
+look like and how fast can we make it move, and then the heat shield on the Raptor, or switching
+
+01:17:55.200 --> 01:18:02.080
+to human imitation, machine learning, full self-drive. On the night that the Twitter board
+
+01:18:03.680 --> 01:18:11.040
+agreed to the deal, this is huge around the world. I'm sure you remember. Musk buys Twitter.
+
+01:18:11.040 --> 01:18:16.880
+It wasn't when the deal closed. It was when the Twitter accepted his offer. I thought, okay,
+
+01:18:17.840 --> 01:18:28.240
+but then he went to Boca Chica, to South Texas, and spent time fixating, if I remember correctly,
+
+01:18:28.240 --> 01:18:36.400
+a valve in the Raptor engine that had a methane leak issue, and what were the possible ways to
+
+01:18:36.400 --> 01:18:44.400
+fix it. All the engineers in that room, I assume, are thinking about, this guy just bought Twitter.
+
+01:18:44.400 --> 01:18:53.760
+Should we say something? Then he goes with Kimball to a roadside joint in Brownsville,
+
+01:18:53.760 --> 01:18:58.080
+and just sits in the front and listens to music with nobody noticing really him being there.
+
+01:18:59.120 --> 01:19:06.000
+One of the things that's one of his strengths, and sort of weaknesses in a way, is in a given day,
+
+01:19:06.000 --> 01:19:15.680
+he'll focus serially, sequentially on many different things. He will worry about
+
+01:19:17.760 --> 01:19:24.320
+uploading video onto x.com, or the payment system, and then immediately switch over
+
+01:19:24.880 --> 01:19:32.960
+to some issue with the FAA giving a permit for Starship, or with how to deal with Starlink
+
+01:19:32.960 --> 01:19:41.760
+and the CIA. When he's focused on any of these things, you cannot distract him. It's not like
+
+01:19:41.760 --> 01:19:47.920
+he's also thinking about dealing with Starlink, but I've got to also worry about the Tesla decision
+
+01:19:47.920 --> 01:19:57.200
+on the new $25,000 car. Now, he'll, in between these sessions, process information, then let off
+
+01:19:57.200 --> 01:20:05.760
+steam. For better or worse, he lets off steam by either playing a friend in polytopia, or fire
+
+01:20:05.760 --> 01:20:14.720
+off some tweets, which is often not a healthy thing, but it's a release for him. I once said
+
+01:20:14.720 --> 01:20:21.280
+he was a great multitasker, and that was a mistake. People corrected me. He's a serial tasker,
+
+01:20:21.280 --> 01:20:29.120
+which means focuses intensely on a task for an hour, almost has a, what do they call it,
+
+01:20:29.120 --> 01:20:34.560
+at restaurants where they give you a palate cleanser. He does some palate cleanser with
+
+01:20:34.560 --> 01:20:40.000
+polytopia, and then focuses on the next task. Is there some wisdom about time management
+
+01:20:40.640 --> 01:20:44.880
+that you can draw from that? There are some things that these people do, and you say, okay,
+
+01:20:44.880 --> 01:20:49.200
+I can be that way. I can be more curious. I can question every rule and regulation.
+
+01:20:50.160 --> 01:20:59.840
+I just don't think anybody should try to emulate Musk's time management style, because it takes
+
+01:20:59.840 --> 01:21:04.240
+a certain set of teams who know how to deal with everything else other than the thing he's focusing
+
+01:21:04.240 --> 01:21:14.640
+on, and a certain mind that can shift, just like his moods can shift. You and I go through
+
+01:21:14.800 --> 01:21:19.680
+transitions. Also, if I'm thinking about what I'm going to say on this podcast, I'm also thinking
+
+01:21:19.680 --> 01:21:26.480
+about the email my daughter just sent about a house that she's looking at. I'm multitasking.
+
+01:21:26.480 --> 01:21:33.520
+He doesn't actually do that. He single tasks sequentially with a focus that's hardcore.
+
+01:21:33.520 --> 01:21:37.840
+I don't know. I think there's wisdom to draw from that. First of all, he makes me,
+
+01:21:38.640 --> 01:21:43.600
+Franklin makes me feel that way, that there's a lot of hours in the day. There's a lot of
+
+01:21:43.600 --> 01:21:50.080
+minutes in the day. There's no excuse not to get a lot done, and it requires just an extreme focus,
+
+01:21:51.200 --> 01:21:56.560
+an extreme focus and an urgency. I think the fierce urgency
+
+01:21:58.160 --> 01:22:07.440
+that drives him is important, and it's sometimes ginned up. Like I say, the fierce urgency of
+
+01:22:07.440 --> 01:22:15.840
+getting to Mars. On a Friday night at the launch pad in Boca Chica at 10 PM, there are only a few
+
+01:22:15.840 --> 01:22:19.280
+people working because it's a Friday night. They're not supposed to launch for another
+
+01:22:19.280 --> 01:22:26.160
+eight months. He orders a surge. He says, I want 200 people here by tomorrow working on this pad.
+
+01:22:26.800 --> 01:22:30.720
+We have to have a fierce sense of urgency or we will never get to Mars.
+
+01:22:31.280 --> 01:22:43.120
+That sense of urgency is also a vibrancy that's really taking on life fully. To me,
+
+01:22:43.120 --> 01:22:51.680
+that's the lesson is even the mundane can be full of this richness. You just have to really
+
+01:22:52.960 --> 01:22:59.680
+take it in intensely. The switching enables that kind of intensity because most of us can't hold
+
+01:22:59.760 --> 01:23:04.160
+that intensity in any one task for a prolonged period of time. Maybe that's also a lesson.
+
+01:23:05.440 --> 01:23:10.560
+Right. I guess it goes back to also know who you are, meaning there are people who
+
+01:23:12.080 --> 01:23:16.480
+can focus intensely and there are people who can see patterns across many things.
+
+01:23:16.480 --> 01:23:23.440
+Look, Leonardo da Vinci, he was not all that focused. He was easily distracted.
+
+01:23:23.440 --> 01:23:23.920
+Procrastinated.
+
+01:23:23.920 --> 01:23:28.640
+It's why he has more unfinished paintings than finished paintings in his canon.
+
+01:23:30.560 --> 01:23:39.440
+But his ability to see patterns across nature and to in some ways process, procrastinate,
+
+01:23:39.440 --> 01:23:49.760
+be distracted, that helped him some, but Musk is not that way. Every few months there's a new
+
+01:23:49.760 --> 01:23:54.240
+surge. You don't know where it'll be, but you'll be on solar roofs and all of a sudden we'll have
+
+01:23:54.240 --> 01:24:00.320
+a surge and there has to be 100 solar roofs built or this has to be done by tomorrow or
+
+01:24:01.040 --> 01:24:08.560
+make a starship dome by dawn and surge and do it. There are people who are built that way.
+
+01:24:08.560 --> 01:24:16.640
+It is inspiring, but also let's appreciate that there are people who can be really good,
+
+01:24:16.640 --> 01:24:30.800
+but also can savor the success, savor the moment, savor the quiet sometimes. Musk's big failing
+
+01:24:30.800 --> 01:24:38.800
+is he can't savor the moment or success and that's the flip side of hardcore intensity.
+
+01:24:40.000 --> 01:24:45.440
+In Innovators, another book of yours that I love, you write about individuals and about groups.
+
+01:24:46.240 --> 01:24:52.720
+So one of the questions the book addresses is, is it individuals or is it groups that turn the tides
+
+01:24:52.720 --> 01:24:59.760
+of history? When Henry Kissinger was on the shuttle missions for the Middle East Peace,
+
+01:24:59.760 --> 01:25:07.600
+is the first book I ever wrote, he said, when I was a professor at Harvard, I thought that history
+
+01:25:07.600 --> 01:25:14.800
+was determined by great forces and groups of people, but when I see it up close, I see what
+
+01:25:14.800 --> 01:25:20.640
+a difference an individual can make. He's talking about Sadat and Golda Meir probably talking about
+
+01:25:20.640 --> 01:25:28.240
+himself too, or at least in his mind. And we biographers have this dirty secret that we know,
+
+01:25:28.240 --> 01:25:32.720
+we distort history a bit by making the narrative too driven by an individual.
+
+01:25:33.760 --> 01:25:38.240
+But sometimes it is driven by an individual. Musk is a case like that. And sometimes,
+
+01:25:38.240 --> 01:25:44.480
+as I did with the Innovators, there's teams and people who build on each other and Gordon Moore
+
+01:25:44.480 --> 01:25:49.760
+and Bob Noyce, then getting Andy Grove and doing the microchip, which then comes out,
+
+01:25:49.760 --> 01:25:57.120
+and Wozniak and Jobs find it at some electronics store and they decide to build the Apple.
+
+01:25:59.120 --> 01:26:07.440
+And so sometimes there are flows of forces and groups of people. I guess I err a little
+
+01:26:07.440 --> 01:26:14.880
+bit on the side of looking at what Steve Jobs and Elon Musk and Albert Einstein can do.
+
+01:26:16.800 --> 01:26:20.400
+And I also try to figure out if they hadn't been around, would the forces of history and
+
+01:26:20.400 --> 01:26:26.640
+the groups of people have done it without them? That's a good historical question as somebody
+
+01:26:26.640 --> 01:26:32.400
+loves history. And you think about special relativity, one of the 1905 papers.
+
+01:26:32.400 --> 01:26:39.440
+Even after he writes it, it's four years before people truly get what he's saying, which is,
+
+01:26:39.440 --> 01:26:44.000
+it's not just how you observe time is relative, it's time itself is relative.
+
+01:26:44.560 --> 01:26:50.160
+And on the general theory, which he does a decade later, I'm not sure we would have gotten that yet.
+
+01:26:51.840 --> 01:26:57.280
+What about moving us into the era of an iPhone in which it's so beautiful that you can't live
+
+01:26:57.280 --> 01:27:04.080
+without a thousand songs in your pocket, email and the internet in your pocket and a phone?
+
+01:27:06.480 --> 01:27:11.040
+There are a lot of brain dead people from Panasonic to Motorola who didn't get that,
+
+01:27:11.040 --> 01:27:16.160
+and it may have been a while. I certainly think it's true of the era of electric vehicles.
+
+01:27:16.720 --> 01:27:22.160
+Jim and Ford, all the great people there, they crossed the boat. And I mean that literally,
+
+01:27:22.240 --> 01:27:28.480
+they ended up smashing them because they decided to discontinue it. Likewise, nobody was sending
+
+01:27:28.480 --> 01:27:37.760
+up rockets. Our space shuttle was about to be grounded 12 years ago. And so Musk does things,
+
+01:27:39.120 --> 01:27:43.360
+and there'll be people who say and read the book, if they read the book, they'll see the full story.
+
+01:27:43.360 --> 01:27:47.520
+Well, they say it wasn't Musk who did Tesla, it was Martin Abahart or Mark Tarpenning. No, no, no.
+
+01:27:48.400 --> 01:27:55.840
+There were people who had helped create the shells of companies and other things. And they
+
+01:27:56.400 --> 01:28:02.560
+were all deserved to be called co-founders. But the guy who actually gets us to a million electric
+
+01:28:02.560 --> 01:28:12.240
+vehicles a year is Elon Musk. And without him, I don't think we... Look, if anybody five years from
+
+01:28:12.240 --> 01:28:20.480
+now buys a car that's gasoline powered, we'll think, that's quaint, that's odd. I mean,
+
+01:28:20.480 --> 01:28:25.120
+suddenly we've changed. We're not going to do it. 90% of that is Elon Musk.
+
+01:28:25.920 --> 01:28:33.200
+We're all mortal. When and how do you think Elon will retire from the insanely productive schedule
+
+01:28:33.200 --> 01:28:41.360
+he's on now? I would think that he would hate to retire. I think that he can't live without the
+
+01:28:41.360 --> 01:28:53.040
+pressure, the drama, the all in feeling. It's never been anything that seemed to have crossed
+
+01:28:53.040 --> 01:28:59.520
+his mind. He's never said, maybe I love Larry Ellison's house on the beach in Hawaii. Maybe I
+
+01:28:59.520 --> 01:29:05.600
+should spend time in doing. Instead, he says things like, I learned early on that vacations will kill
+
+01:29:05.600 --> 01:29:12.000
+you. He gets malaria when he goes on vacation. I mean, he goes on vacation at one point and they
+
+01:29:12.000 --> 01:29:16.240
+oust him from PayPal. And then he goes to Africa at one point, he gets malaria. He says, I've learned,
+
+01:29:16.240 --> 01:29:19.920
+vacations kill you. Lesson learned. Well, it's interesting because the projects are
+
+01:29:20.960 --> 01:29:25.040
+hundred plus year projects. Many of these. One of the weird things
+
+01:29:27.200 --> 01:29:34.880
+is watching him think incredibly long-term. One of the meetings every week early on,
+
+01:29:34.880 --> 01:29:43.200
+when I was watching him, was Mars colonizer. And we did through a two-hour meeting about what would
+
+01:29:43.200 --> 01:29:50.400
+the governance structure be on Mars? What would people wear? How would the robots work? And
+
+01:29:51.600 --> 01:29:58.320
+would there be democracy or should there be a different form of governance?
+
+01:29:59.120 --> 01:30:02.720
+I'm sitting there saying, what are they doing? What are they talking about?
+
+01:30:02.720 --> 01:30:06.720
+And they're trying to build rocket ships and everything else. They are worrying about the
+
+01:30:06.720 --> 01:30:14.240
+governance structure of Mars. And likewise, whenever he's in a tense moment, like there's
+
+01:30:14.240 --> 01:30:19.120
+a rocket that's about to be launched, he'll start asking people something in the way future,
+
+01:30:19.120 --> 01:30:26.000
+like the new lead engine or something. If we're going to build that, do we have enough materials
+
+01:30:26.000 --> 01:30:36.880
+ready to order? Or he'll just ask questions. Like when he's building robotaxi, the global car,
+
+01:30:36.880 --> 01:30:42.880
+the $25,000 inexpensive global car, that's not a total passion. He was talked into doing that.
+
+01:30:43.520 --> 01:30:48.800
+His passion is robotaxis, but his passion is how are we going to make this factory
+
+01:30:48.880 --> 01:30:56.640
+to do a million cars a year? So even the robotaxi is a longer range vision. I mean, he's been
+
+01:30:56.640 --> 01:31:03.680
+touting it since 2016, but we're not. There are no robotaxis. I mean, there's
+
+01:31:03.680 --> 01:31:09.360
+Waymo maybe doing a little experiment, but there's not cars being manufactured without
+
+01:31:09.360 --> 01:31:15.360
+steering wheels that are going to take over the highways. Yeah, so he's always looking way into
+
+01:31:15.360 --> 01:31:23.440
+the future is my point. I just hope that there's a lot of Da Vinci's and Steve Jobs's and
+
+01:31:24.320 --> 01:31:29.920
+Einstein's and Elon Musk's that carry the flame forward. That's one of the reasons you write
+
+01:31:29.920 --> 01:31:36.000
+books about these people is so that if you're a young woman in a school where you're not being
+
+01:31:36.000 --> 01:31:41.680
+told to do science and you read the code breaker about Jennifer Doudna, you say, okay, I can be
+
+01:31:41.680 --> 01:31:48.880
+that. And when you say, oh, maybe I'll be a regulator or you say, oh no, maybe I'll be the
+
+01:31:48.880 --> 01:31:55.360
+person who pushes the boundaries, who pushes the lines, who pushes, as Steve Jobs said, the human
+
+01:31:55.360 --> 01:32:05.600
+race. Let me ask you about your mind, your genius, your process. I'll give you two out of three.
+
+01:32:05.600 --> 01:32:10.720
+All right. Take me through your process of writing a biography. I mean, the full of it
+
+01:32:11.360 --> 01:32:20.240
+and not just writing a biography, but understanding deeply, which your books have done for
+
+01:32:20.960 --> 01:32:25.920
+the human story and the bigger ideas underlying the human story. So you've written biographies,
+
+01:32:25.920 --> 01:32:34.240
+both of individuals, which are hardly individuals. It's a really big, complex picture and biographies
+
+01:32:34.240 --> 01:32:43.280
+of ideas that involve individuals. Well, step one for me is trying to figure out how the mind works.
+
+01:32:45.680 --> 01:32:51.600
+What causes Einstein to make that leap for Elon Musk to say stainless steel while he's looking at
+
+01:32:51.600 --> 01:32:59.360
+a carbon fiber rocket? Or how do you make the mental leap? Because I write about smart people,
+
+01:32:59.360 --> 01:33:03.360
+smart people are a dime a dozen. They don't usually amount to much. You have to be creative,
+
+01:33:03.360 --> 01:33:09.200
+imaginative, to think different, as Jobs would say. And so what makes people creative? What makes
+
+01:33:09.200 --> 01:33:15.680
+them take imaginative leaps? That's the key question you got to ask. You also ask the questions like
+
+01:33:15.680 --> 01:33:21.200
+you've asked earlier, which is what demons are jangling in their head and how do they harness
+
+01:33:21.200 --> 01:33:28.400
+them into drives? So you look at all that and you try to observe really carefully the person.
+
+01:33:29.360 --> 01:33:39.920
+One of the more mundane things I do is a lot of writers try to give you a lot of their opinions
+
+01:33:40.640 --> 01:33:48.080
+and preach or whatever. As I said, this mentor said two people types come out, preachers,
+
+01:33:48.080 --> 01:33:57.680
+storytellers. Be a storyteller. I try, whenever I'm trying to convey a thought,
+
+01:33:58.560 --> 01:34:06.160
+there's six magic words that I almost should have written on a card pinned above my desk,
+
+01:34:06.160 --> 01:34:15.440
+which is let me tell you a story. So if somebody says, how does Elon Musk figure out good talent
+
+01:34:16.480 --> 01:34:21.200
+as you did? I think, well, let me tell you the story. I'll tell you the story of Jake McKenzie.
+
+01:34:22.080 --> 01:34:27.360
+Or this is not something I invented. I mean, this is the way the good Lord does it in the Bible. I
+
+01:34:27.360 --> 01:34:33.440
+mean, has the best opening lead sentence ever, you know, in the beginning, comma, and then it's
+
+01:34:33.440 --> 01:34:39.920
+stories. And secondly, to pick up on that lead sentence in the beginning, make it chronological.
+
+01:34:40.880 --> 01:34:49.840
+Everybody in the 40th year of their life has grown from the 39th year and the 38th year.
+
+01:34:49.840 --> 01:34:56.560
+And so you want to show how people evolve and grow. I had the greatest of all nonfiction
+
+01:34:56.560 --> 01:35:02.080
+narrative editors, Alice Mayhew at Simon Schuster, who, among other things, created
+
+01:35:02.080 --> 01:35:06.400
+All the President's Men with Woodward and Bernstein. But she had a note she'd put in the
+
+01:35:06.400 --> 01:35:14.080
+margins of my books that was a tick to, and it meant all things in good time. Keep it chronological.
+
+01:35:14.080 --> 01:35:16.720
+If it's good enough for the Bible, it's good enough for you.
+
+01:35:16.720 --> 01:35:21.840
+Interesting. To me, like, that's a small note, but to you, it's extremely important.
+
+01:35:21.840 --> 01:35:26.160
+Because it's the framework for how you structure things, but also how you understand things,
+
+01:35:26.160 --> 01:35:34.560
+which is if you keep it a chronological narrative, then you're showing how a person has grown
+
+01:35:34.560 --> 01:35:43.040
+from one experience you've talked about to the next one. And that moral growth, creative growth,
+
+01:35:43.040 --> 01:35:52.480
+risk-taking growth, wisdom, that's the essences of creativity. But you can't do it, you know,
+
+01:35:52.480 --> 01:36:00.080
+there's a term, Bildungsroman, which is a book that carries a narrative and tells how people
+
+01:36:00.080 --> 01:36:08.480
+learn something. I'm a big believer in narrative. If you're an academic, sometimes, not today,
+
+01:36:08.480 --> 01:36:14.160
+but like 20 years ago, 30 years ago, there were two things you thought were bad. One was
+
+01:36:15.600 --> 01:36:21.680
+having a great person theory of history in which you decided to do biography. I had a great
+
+01:36:21.680 --> 01:36:27.120
+professor when I was in college. Her name was Doris Kearns. She later married Dick Goodwin.
+
+01:36:27.760 --> 01:36:35.120
+And she, when she was going for tenure at the university, wrote a biography of Lyndon Johnson
+
+01:36:35.120 --> 01:36:41.840
+in the American dream. And they denied her tenure because it was beneath the dignity of the academy
+
+01:36:41.840 --> 01:36:49.520
+to write history through one person. That's great. It opened up the field of biography
+
+01:36:49.520 --> 01:36:58.480
+to us non-academics, starting with David McCullough, Bob Caro, but maybe John Meacham
+
+01:36:58.480 --> 01:37:03.760
+and myself are in a new generation. And certainly there's a generation coming after us.
+
+01:37:04.560 --> 01:37:14.000
+But the second thing besides telling it through people, which is the academy tended to disdain
+
+01:37:14.000 --> 01:37:18.960
+what they called imposing a narrative and what you made it storytelling.
+
+01:37:18.960 --> 01:37:24.720
+Cause that meant you were leaving things out and making it into a narrative. Well,
+
+01:37:25.760 --> 01:37:32.800
+that's how we form our views of the world. Well, let me ask you this question in terms of
+
+01:37:32.800 --> 01:37:43.040
+gathering an understanding. How much of it is one observing and how much of it is interviews?
+
+01:37:44.400 --> 01:37:49.600
+Yeah. And obviously depends on the subject. I mean, with a Ben Franklin, it's all based on
+
+01:37:49.600 --> 01:37:55.200
+archives and every, of course we have 40 volumes of letters he wrote. That was a good old days
+
+01:37:55.200 --> 01:38:02.240
+when every day you'd write 20 letters. The must book is based much more on observation than almost
+
+01:38:02.240 --> 01:38:10.720
+any of my books because he opened up in a way that was breathtaking to me. Even when he'd be
+
+01:38:10.720 --> 01:38:18.080
+sitting playing polytopia or seething at other people, you know, he'd have me just sitting there
+
+01:38:18.080 --> 01:38:23.600
+watching. I mean, I spent a lot of time with Jennifer Dowd on her side. I went to her lab
+
+01:38:23.600 --> 01:38:30.640
+and edited a human gene and you know, with a pipette and a test tube, but I would say I spent
+
+01:38:31.760 --> 01:38:38.320
+30 hours with her. I can't count, you know, a hundred hours or more just observing mosque.
+
+01:38:39.040 --> 01:38:49.280
+And I'm not sure that any biographer, perhaps since Boswell took on Dr. Johnson, has ever had
+
+01:38:49.920 --> 01:39:01.280
+quite as much up close, meaning five feet away at all times, access. And because of that,
+
+01:39:01.280 --> 01:39:06.400
+I'll go back to what I said a moment ago, I try to get out of the way of the story. It's not about
+
+01:39:06.400 --> 01:39:13.280
+me. I try to just say, okay, here's what happened. Here's this story. Here's what happened the night
+
+01:39:13.280 --> 01:39:17.360
+he came in to Twitter for the first time and let you form your own judgment.
+
+01:39:18.160 --> 01:39:24.400
+What about the interviews? You've had a lot of conversations. You give acknowledgement
+
+01:39:24.400 --> 01:39:31.840
+to the people you've done interviews with. Well, one, I have to ask as an aspiring
+
+01:39:31.840 --> 01:39:40.800
+interviewer myself, how? People love to talk. People just love, you know that. And I've had
+
+01:39:40.800 --> 01:39:47.440
+140, maybe 150 people, they're all listed in the back. One of the little things that people won't
+
+01:39:47.440 --> 01:39:53.040
+notice, but I'll say it now, is all of them are on the record. Getting them to talk is easy. They
+
+01:39:53.040 --> 01:39:58.160
+all want to talk about mosque. But then at a certain point say, I don't put anonymous quotes
+
+01:39:58.160 --> 01:40:05.840
+in my book. I cite things. I say, if you're tough enough and you've gone through this,
+
+01:40:05.840 --> 01:40:10.400
+and a lot of times it takes two or three calls back. Somebody will tell me, I say, oh no, no,
+
+01:40:10.400 --> 01:40:16.960
+no, I don't want to. But I think it's important to know where everything came from. And with
+
+01:40:16.960 --> 01:40:23.200
+mosques, I had that from the very beginning because I was a Time Magazine reporter. I'd worked
+
+01:40:23.280 --> 01:40:28.960
+reporter for the Times-Picayune on New Orleans. First day on the job, I had to go cover a murder.
+
+01:40:28.960 --> 01:40:35.600
+And I phoned in the story from a payphone and my editor, the city editor said, well,
+
+01:40:35.600 --> 01:40:40.320
+did you talk to the family? I went, no, Billy. I mean, the family, the daughter just got,
+
+01:40:40.320 --> 01:40:45.360
+he said, go knock on the door. I knocked on the door. An hour later, they were still talking.
+
+01:40:45.360 --> 01:40:51.120
+They were bringing me out her yearbook. Lesson one I learned, people want to talk if you're
+
+01:40:51.120 --> 01:40:57.040
+willing to just listen. And whether it be Henry Kissinger, you just push the button and say,
+
+01:40:57.040 --> 01:41:02.880
+Kissinger, and people tell you the stories all the way through Elon Musk. Everybody talked,
+
+01:41:02.880 --> 01:41:07.920
+everybody in his family, everybody he fired, everybody. I mean, I think it's important to
+
+01:41:07.920 --> 01:41:12.960
+listen to people. And the other thing I learned as a reporter back when I was covering politics in
+
+01:41:12.960 --> 01:41:18.800
+New Hampshire and the early campaigns, I learned from two or three great reporters, a guy named
+
+01:41:18.800 --> 01:41:24.640
+David Broder and Tim Russert, the late NBC guy. They do what was called door knocking. You just
+
+01:41:24.640 --> 01:41:29.440
+walk in a neighborhood, knock on a door and ask people about the election. But they said,
+
+01:41:29.440 --> 01:41:36.000
+here's the secret. Don't ask any leading questions. Don't have any premise. Just say, hey,
+
+01:41:36.000 --> 01:41:42.400
+I'm trying to figure out this election, what's going on? What do you think? And then stay silent.
+
+01:41:42.400 --> 01:41:50.560
+With Musk, a third secret. You know this well. He'll go silent at times. Sometimes a minute,
+
+01:41:50.560 --> 01:41:57.200
+two minutes, four minutes. Don't try to fill the silences. If you're a listener, you gotta learn,
+
+01:41:58.400 --> 01:42:02.880
+okay, he's not saying anything for four minutes. I can outlast him.
+
+01:42:02.880 --> 01:42:06.960
+It's tough. As humans, it's very tough. Respecting the silence is really, really difficult.
+
+01:42:07.920 --> 01:42:13.120
+I have, speaking of demons, when there's silence, all the demons show up in my head.
+
+01:42:14.240 --> 01:42:19.440
+The fear, I think, is if I don't say anything, it's boring. And if I say something, it's going
+
+01:42:19.440 --> 01:42:24.400
+to be stupid. And that's the basic engine that just keeps running. Not on the podcast,
+
+01:42:24.400 --> 01:42:29.120
+well, on the podcast, but also in human interaction. And so I think there's that
+
+01:42:29.120 --> 01:42:34.960
+nervous energy when interacting with people. You can never go wrong by staying silent
+
+01:42:35.760 --> 01:42:42.960
+if there's nothing you have to say. Not something I've mastered, but I do, when I'm a reporter,
+
+01:42:42.960 --> 01:42:54.720
+try to master that, which is don't ask complex questions. Don't interject. And when somebody
+
+01:42:54.720 --> 01:43:00.880
+hasn't fully answered the question, don't say, well, let me, just stay silent. And then they'll
+
+01:43:00.880 --> 01:43:06.320
+keep talking. Just give them a chance to keep talking, even if they've kind of finished still.
+
+01:43:06.320 --> 01:43:13.120
+Sometimes they haven't given you enough. Instead of following up, I'll just nod and keep waiting.
+
+01:43:13.120 --> 01:43:18.000
+You're making it sound simple. Is there a secret to getting people to open up more?
+
+01:43:18.000 --> 01:43:26.240
+I'm somewhat lucky because I started off working for a daily newspaper, and people back then,
+
+01:43:27.200 --> 01:43:32.480
+they want to talk to the newspaper reporter. But you also have a way about you. I feel like you have
+
+01:43:33.600 --> 01:43:41.600
+a cowboy in a saloon. You just kind of want to talk. I don't know what it is. I don't know
+
+01:43:41.600 --> 01:43:46.080
+if it's developed or you're born with it, but it feels like I want to tell you a story of some sort.
+
+01:43:46.080 --> 01:43:56.320
+Go ahead and tell me a story. A couple things. I did learn to be more quiet. I'm sure I know
+
+01:43:56.320 --> 01:44:05.680
+when I was younger, or even I'll see videos of me at news things where I'm always trying
+
+01:44:05.680 --> 01:44:13.040
+to interject a question. And so you learn to be quieter sometimes. I haven't mastered it.
+
+01:44:13.040 --> 01:44:20.640
+I haven't learned it enough. You learn to be naturally curious. Many reporters today,
+
+01:44:20.640 --> 01:44:26.560
+when they ask a question, are either trying to play gotcha or trying to get a news scoop or trying
+
+01:44:26.560 --> 01:44:39.440
+to gig something that can make a lead. And if you actually are curious and you really want to know
+
+01:44:39.520 --> 01:44:46.000
+the answer to a question, then people can tell that you asked it because you want the answer,
+
+01:44:46.000 --> 01:44:52.000
+not because you're playing a game with them. I'm sure some of them off the record,
+
+01:44:52.000 --> 01:44:59.920
+some of them on the record, you had maybe just some incredible conversations. I was going to say
+
+01:44:59.920 --> 01:45:03.840
+some of the greatest conversations ever, but who knows? Some of the best conversations ever are
+
+01:45:03.840 --> 01:45:08.720
+probably somewhere in South America between two drunk people that we never get to hear.
+
+01:45:08.720 --> 01:45:16.640
+So I don't know. But is there a device you can give from what you've learned to somebody like
+
+01:45:16.640 --> 01:45:20.800
+me on how to have good conversation, especially when it's recorded?
+
+01:45:21.680 --> 01:45:26.080
+Well, to be actually curious. I mean, every question you've asked me is because I think
+
+01:45:26.080 --> 01:45:32.480
+you actually want to know the answer and you've done your homework to be open and not to have an
+
+01:45:32.480 --> 01:45:39.840
+agenda. I mean, we all suffer from there being too many agendas in the world today.
+
+01:45:41.040 --> 01:45:46.320
+Yeah. So that's just genuine curiosity. But there's something, when you talk about just
+
+01:45:46.320 --> 01:45:55.600
+one-on-one interaction, whether it's Elon or Steve Jobs, there's something beautiful about that
+
+01:45:55.600 --> 01:46:04.800
+person's mind. And it feels like it's possible to reveal that, to discover that together
+
+01:46:06.560 --> 01:46:10.960
+efficiently. And that's kind of the goal of a conversation.
+
+01:46:10.960 --> 01:46:18.720
+Well, I mean, look, you're amongst the top podcasters and interviewers in the world today.
+
+01:46:19.440 --> 01:46:26.080
+You have an earnestness to you. Ben Franklin is the person who taught me,
+
+01:46:27.120 --> 01:46:32.560
+I mean, by reading him, the most about on conversation. He wrote a wonderful essay
+
+01:46:32.560 --> 01:46:45.120
+on that. It includes on silence. But it includes trying to ask sincere questions rather than
+
+01:46:45.520 --> 01:46:57.600
+get a point across. I mean, it's somewhat Socratic, but whenever he wanted to start
+
+01:46:57.600 --> 01:47:04.560
+a fireman's corps in Philadelphia, he would go to his group that he called the Leather Apron Club,
+
+01:47:05.360 --> 01:47:11.040
+and they would pose a question. Why don't we have it? What would it take? What would be good?
+
+01:47:11.040 --> 01:47:15.520
+What would be good? And then the second part is to make sure that you listen.
+
+01:47:15.520 --> 01:47:23.040
+And if somebody has even just the germ of an idea, give them credit for it. Like as Joe said,
+
+01:47:24.000 --> 01:47:36.160
+the real problem is this. And I do think that if I'm in situations, and I just mean even a
+
+01:47:36.160 --> 01:47:43.600
+dinner or something, I'm with somebody, I'm usually curious, and the conversation will
+
+01:47:43.600 --> 01:47:52.240
+proceed with questions. And I guess it's also because I'm pretty interested in what anybody's
+
+01:47:52.240 --> 01:48:00.880
+doing, whoever I happen to be with. And that's a talent you have, which is you're pretty genuine
+
+01:48:00.880 --> 01:48:08.320
+in your interests. There are people like Benjamin Franklin, like the, I'll say Charlie Rose,
+
+01:48:08.320 --> 01:48:13.200
+even though he's in disfavor, who are interested in a huge number of subjects. And I think that
+
+01:48:13.200 --> 01:48:21.760
+helps as well to be interested in basketball and opera and physics and metaphysics. That was a Ben
+
+01:48:21.760 --> 01:48:27.120
+Franklin. That was a Leonardo trick, which is they wanted to know everything you could possibly know
+
+01:48:27.120 --> 01:48:35.200
+about every subject, no problem. But there's a different aspect of this, which is that I would
+
+01:48:35.200 --> 01:48:42.800
+love to hear how you've solved it or if you faced it. You're certainly disarming. See, I'm like
+
+01:48:42.800 --> 01:48:46.400
+peppering you with compliments here, trying to get you- That's a very disarming method.
+
+01:48:46.400 --> 01:48:51.280
+Yeah. I've recently talked to Benjamin Netanyahu. We'll talk again. We unfortunately,
+
+01:48:51.280 --> 01:48:55.360
+because of scheduling and complexities, only had one hour, which is very difficult,
+
+01:48:55.920 --> 01:49:02.720
+very difficult with a charismatic politician. I understand this, but he's also a charismatic
+
+01:49:02.720 --> 01:49:09.840
+talker, which is very difficult to break through in one hour. But people have built up walls,
+
+01:49:09.840 --> 01:49:14.800
+whether it's because of demons or because of their politicians, and so they have agendas and
+
+01:49:14.800 --> 01:49:20.880
+narratives and so on, and so to break through those. I wonder if there's some advice, some
+
+01:49:20.880 --> 01:49:27.040
+wisdom you've learned of how to sort of wear down through water or whatever
+
+01:49:29.360 --> 01:49:34.400
+method the walls that we've built up as individuals. I mean, you call it disarming,
+
+01:49:34.400 --> 01:49:40.000
+which I don't know that I am, but disarming basically means you're taking down their shields
+
+01:49:40.000 --> 01:49:49.760
+also. And you know when people have a shield and you try to give them comfort. I had zero of that
+
+01:49:49.760 --> 01:49:56.480
+problem with Elon Musk. I mean, it was like disarming to me, which is I kept waiting to say,
+
+01:49:56.480 --> 01:50:12.800
+okay, he's got a shell or he won't do that. But he was almost crazily open and did not seem to
+
+01:50:12.800 --> 01:50:25.120
+want to be spinning or hiding or faking things. And I've been lucky. Doudna was that way. Steve
+
+01:50:25.120 --> 01:50:32.480
+Jobs was that way. But you have to put in time too. In other words, you can't say, okay, there's a
+
+01:50:32.480 --> 01:50:37.680
+one hour interview and I'm going to break down every wall. It's like on your fifth visit.
+
+01:50:38.320 --> 01:50:41.440
+Yes. Well, actually that's one of the things in my situation. You learn
+
+01:50:43.120 --> 01:50:47.200
+fifth visit is very nice, but sometimes you don't get a fifth visit. Sometimes it's just the first
+
+01:50:47.200 --> 01:50:54.320
+day. And I think what it boils down to, and we said disarming, but there's something about this
+
+01:50:54.320 --> 01:51:02.400
+person that you trust. I think a lot of it just boils down to trust in some deep human way.
+
+01:51:03.040 --> 01:51:10.320
+I think with many of the people I've spoken with, sometimes the trust happens after the interview,
+
+01:51:10.320 --> 01:51:15.520
+which is really sad because it's like, oh man. I've never been in your situation where I have
+
+01:51:15.520 --> 01:51:26.400
+a show. I usually have many cracks at the wheel. I'm not a first date person. But then I'm lucky.
+
+01:51:27.280 --> 01:51:33.840
+I say lucky, but I'm in print. Print is a couple thousand year old medium,
+
+01:51:33.840 --> 01:51:38.640
+but there are those of us who love it. Well, the nature of the podcast medium is
+
+01:51:38.640 --> 01:51:45.600
+that I'm a one night stand kind of girl. Let me ask you about objectivity. You followed Elon.
+
+01:51:48.560 --> 01:51:52.240
+I don't even know if you would say you're front. You have to be careful with words like that,
+
+01:51:52.240 --> 01:52:01.280
+but there's an intimacy. And how do you remain objective? Do you want to remain objective
+
+01:52:01.920 --> 01:52:06.400
+while telling a deeply human story? Yeah. I mean, I want to be honest,
+
+01:52:06.400 --> 01:52:15.760
+which I think is akin to being objective. I try to keep in mind, who am I writing for?
+
+01:52:16.480 --> 01:52:23.840
+I'm not writing for Elon Musk. As I say, I haven't sent him the book. I don't think he's read it yet.
+
+01:52:26.080 --> 01:52:35.040
+I've got one person I'm writing for, the open-minded reader. And if I can put in
+
+01:52:35.840 --> 01:52:41.440
+a story and say, well, that will piss off the subject or that will really make the subject
+
+01:52:41.520 --> 01:52:49.360
+happy, that's irrelevant. Or I try to make that a minor consideration. Will the reader
+
+01:52:51.440 --> 01:52:54.960
+have a better understanding because I've put this story in the book?
+
+01:52:57.280 --> 01:53:06.720
+I'm a bit of a romantic. So to me, even your Einstein book had lessons on romance and
+
+01:53:06.720 --> 01:53:13.040
+relationships. So how important are romantic relationships to the success of great men,
+
+01:53:13.040 --> 01:53:20.240
+great women, great minds? Well, sometimes people who affect the course of humanity
+
+01:53:21.040 --> 01:53:26.800
+have better relationships with humanity than they do with the humans sitting around them. Einstein
+
+01:53:26.800 --> 01:53:36.800
+had two interesting relationships with wives. Maleva, his first wife, was a sounding board and
+
+01:53:36.800 --> 01:53:43.600
+helped with the mathematics of the special relativity paper in particular. But he didn't
+
+01:53:43.600 --> 01:53:52.560
+treat her well. I mean, he made her sign a letter that she wouldn't interrupt him. And finally,
+
+01:53:52.560 --> 01:53:56.480
+when she wanted a divorce, he couldn't afford it because he was still a patent clerk.
+
+01:53:57.760 --> 01:54:03.920
+And so he offered her a deal, which is, I think, totally amazing. He said,
+
+01:54:03.920 --> 01:54:10.800
+one of these days, one of those papers from 1905 is going to win the Nobel Prize. If we get a
+
+01:54:10.800 --> 01:54:18.720
+divorce, I'll give you the money. That was a lot of money, back then, like a million dollars now
+
+01:54:18.720 --> 01:54:24.080
+or something. And she's smart. She's a scientist. She consults with a few other scientists. And
+
+01:54:24.080 --> 01:54:30.800
+after a week or so, she takes the bet. Is that until, what, 1919 that he wins his Nobel Prize?
+
+01:54:33.120 --> 01:54:37.280
+And she gets all the money. She buys three apartment buildings in Zurich.
+
+01:54:38.400 --> 01:54:45.520
+With his second wife, Elsa, it was more a partnership of convenience. It was not
+
+01:54:46.240 --> 01:54:52.720
+a romantic love, but he knew. And that's sometimes what people need in life, is just a partner.
+
+01:54:53.200 --> 01:54:55.920
+I mean, somebody who's going to handle the stuff you're not going to handle.
+
+01:54:56.720 --> 01:55:05.280
+So I guess if you look at my books, they're not great inspiring guides to personal relationships.
+
+01:55:06.240 --> 01:55:11.040
+Let me ask you about, actually, the process of writing itself. When you've observed,
+
+01:55:11.040 --> 01:55:17.360
+when you've listened, when you've collected all the information, what's maybe even just the silly
+
+01:55:17.360 --> 01:55:23.440
+mundane question of what do you eat for breakfast before you start writing? When do you write?
+
+01:55:23.440 --> 01:55:28.800
+First of all, breakfast is not my favorite meal. And those people who tell you that you have to
+
+01:55:28.800 --> 01:55:36.000
+start with a hearty breakfast, I look askance. And morning is not my favorite day part. So I
+
+01:55:36.000 --> 01:55:45.040
+write at night. And because I love narrative, it's easy to structure a book, which is I can make a
+
+01:55:46.000 --> 01:55:53.520
+outline that if I printed it out or notes would be 100 pages, but everything's in order.
+
+01:55:54.160 --> 01:56:02.560
+In other words, if there's a burning man and he's coming back from Grimes and then there's a solar
+
+01:56:02.560 --> 01:56:11.200
+roof thing and then there's something, I put it all in order day by day as an outline. And that
+
+01:56:11.200 --> 01:56:17.840
+disciplines me when I'm starting to write to follow the mantra from Alice Mayhew, my first
+
+01:56:17.840 --> 01:56:22.560
+editor, which is all things in good time. Don't get ahead of the story. Don't have to flashback.
+
+01:56:24.640 --> 01:56:29.920
+And then after you get it so that it's all chronological, then you have to do some
+
+01:56:29.920 --> 01:56:37.520
+clustering. You have to say, okay, we're going to do the decision to do Starship or to
+
+01:56:37.520 --> 01:56:44.960
+build a factory in Texas or to whatever. And then you sometimes have the organizational problem of,
+
+01:56:44.960 --> 01:56:51.200
+yeah, and that gets us all the way up to here. Do I keep that in that chapter or do I wait
+
+01:56:51.840 --> 01:56:56.240
+until later when it's better chronologically? But those are easy.
+
+01:56:56.880 --> 01:57:02.000
+Well, what about the actual process of telling the story?
+
+01:57:02.720 --> 01:57:08.960
+Well, that's the mantra I mentioned earlier, which is whenever I get pause or I don't know
+
+01:57:08.960 --> 01:57:16.720
+how to say something, I just say, let me tell you a story. And then I find the actual anecdote,
+
+01:57:16.720 --> 01:57:24.240
+the story, the tale that encompasses what I'm trying to convey. And then I don't say what I'm
+
+01:57:24.240 --> 01:57:30.560
+trying to convey. I don't have a transition sentence that says, Elon sometimes changes
+
+01:57:30.560 --> 01:57:36.560
+mind so often he couldn't remember whether he had changed his mind. You don't need transition
+
+01:57:36.560 --> 01:57:43.680
+sentences. You just say, all right, here's the point I need to make next. And so you start with
+
+01:57:43.680 --> 01:57:49.520
+a sentence that says, one day in January in the factory in Texas, comma.
+
+01:57:50.800 --> 01:57:58.560
+Well, one of the things that I'd love to ask you is for advice for young people. To me,
+
+01:57:59.280 --> 01:58:08.000
+first advice would be to read biographies in a sense because they help you understand of all
+
+01:58:08.000 --> 01:58:13.840
+the different ways you can live a life well lived. But from having written biographies,
+
+01:58:13.840 --> 01:58:20.880
+having studied so many great men and women, what advice could you give to people of how to live
+
+01:58:22.080 --> 01:58:27.920
+this life? Well, I keep going back to the classics and Plato and Aristotle and Socrates.
+
+01:58:29.120 --> 01:58:34.960
+And I guess it's Plato's maxim, but he may be quoting Socrates, that the unexamined life is
+
+01:58:34.960 --> 01:58:43.280
+not worth living. And it gets back to the know thyself, which is you don't have to figure out
+
+01:58:43.280 --> 01:58:49.040
+what is the big meaning of it all. But you have to figure out why you're doing what you're doing.
+
+01:58:49.040 --> 01:58:56.960
+And that requires something that I did not have enough of when I was young,
+
+01:58:57.920 --> 01:59:05.200
+which is self-awareness and examining every motive, everything I do.
+
+01:59:07.520 --> 01:59:17.760
+Where does the examination lead you? Is it to a shift in life trajectory?
+
+01:59:17.760 --> 01:59:24.320
+I mean, it's not for me sort of, all right, I've now decided having been a journalist,
+
+01:59:24.320 --> 01:59:30.960
+I'll run a think tank or I'll run a network or I'll write a bio. It is actually something
+
+01:59:30.960 --> 01:59:38.240
+that's more useful on an hourly basis. Like, why am I about to say that to somebody? Or why
+
+01:59:38.880 --> 01:59:48.320
+am I going to do this particular act? What's my true motive here? And also,
+
+01:59:48.960 --> 01:59:53.280
+in the broader sense, to learn, as I did after a couple of years at CNN,
+
+01:59:56.560 --> 02:00:02.800
+my examination of my life is that I'm not great at running complex organizations.
+
+02:00:03.680 --> 02:00:08.720
+I'm not great as a manager. Given the choice, I'd rather somebody else have to manage me
+
+02:00:08.720 --> 02:00:14.480
+than me have to manage people. But it took me a while to figure that out. And I was probably
+
+02:00:14.480 --> 02:00:20.800
+too ambitious when I was young and at Time Magazine. That was when I was green and,
+
+02:00:21.680 --> 02:00:29.120
+oh well, that was when I was in my salad days in green and judgment. And it was like chasing
+
+02:00:29.120 --> 02:00:37.360
+the next level at Time Incorporated, whatever it might be. And then one day I caught the brass
+
+02:00:37.360 --> 02:00:42.400
+ring and I became an editor and then the top editor. And after a while, I realized
+
+02:00:44.080 --> 02:00:50.320
+that wasn't really totally what I'm suited to be, especially when I got put in charge of CNN.
+
+02:00:51.440 --> 02:00:57.600
+I mean, all young people are almost by definition in their salad days in green and judgment. But
+
+02:00:57.920 --> 02:01:03.760
+you learn what's motivating you. And then you learn to ask,
+
+02:01:04.960 --> 02:01:09.200
+but is that really what I want? Should I be careful of what I'm wishing for?
+
+02:01:12.320 --> 02:01:19.520
+One of the big examinations you can do is the fact that you and everybody dies one day.
+
+02:01:20.720 --> 02:01:25.040
+How much you alter, Isaacson? Think about death. Are you afraid of it?
+
+02:01:26.000 --> 02:01:29.680
+No, and I don't think about it a lot. But I do think about Steve Jobs's,
+
+02:01:29.680 --> 02:01:33.920
+let me tell you a story, which is the wonderful Steve Jobs story of,
+
+02:01:34.880 --> 02:01:40.160
+I think after he was diagnosed, but before it was public. And he gave both a Stanford talk,
+
+02:01:40.160 --> 02:01:49.040
+but other things in which he said, the fact that we are going to die gives you focus and gives you
+
+02:01:49.040 --> 02:01:54.960
+meaning. And Elon Musk has said that to me, which is a lot of the tech bros out in the
+
+02:01:55.120 --> 02:02:02.240
+Silicon Valley that are looking for ways to live forever. I can think, Musk says, of nothing worse.
+
+02:02:03.360 --> 02:02:08.560
+We read the myth of Sisyphus and we know how bad it is to be condemned to eternal life.
+
+02:02:10.240 --> 02:02:17.840
+So there was an ancient Greece, the person who walked behind the king and said,
+
+02:02:17.840 --> 02:02:28.400
+memento mori, remember you're going to die. And it kept people from losing it a bit.
+
+02:02:28.960 --> 02:02:30.640
+Do you think about legacy?
+
+02:02:30.640 --> 02:02:37.360
+The lucky thing about being a biographer is that you kind of know what your legacy is. There's
+
+02:02:37.360 --> 02:02:44.160
+going to be a shelf and it'll be of interesting people. And you will have inspired a 17-year-old
+
+02:02:44.800 --> 02:02:54.720
+biology student somewhere to be the next great biochemist or somebody to start a company like
+
+02:02:54.720 --> 02:03:04.720
+Elon Musk. And what I think more about, I won't say giving back, that's such a trite thing.
+
+02:03:05.360 --> 02:03:12.560
+I moved back to New Orleans for a reason. First of all, the hurricane hit. And after Katrina,
+
+02:03:12.560 --> 02:03:19.200
+I was asked to be vice chair of the recovery authority. And I realized everything I've got
+
+02:03:19.200 --> 02:03:28.160
+going for me, it all comes from this beautiful gem of a troubled city. The wonderful high school
+
+02:03:28.160 --> 02:03:36.080
+I went to, the wonderful streets where I learned to ride a bike, and it's got challenges.
+
+02:03:36.080 --> 02:03:43.040
+I'm never going to solve challenges at the grand global level, but I can go back home
+
+02:03:43.760 --> 02:03:51.520
+and say part of my legacy is going to be I tried to pay it back to my hometown, even by teaching
+
+02:03:51.520 --> 02:03:56.800
+at Tulane, which I don't do as a favor. I enjoy the hell out of it. But it's like, all right,
+
+02:03:56.800 --> 02:04:02.240
+I'm part of a community. And I think we lose that in America because people who are lonely are
+
+02:04:02.240 --> 02:04:06.960
+lonely because they're not part of a community. But I've got all my high school kids, friends,
+
+02:04:06.960 --> 02:04:12.240
+they're all still in New Orleans. I've got my family, but I also have Tulane institutions in
+
+02:04:12.240 --> 02:04:17.680
+New Orleans that have been there forever. And if I can get involved in helping the school system
+
+02:04:17.680 --> 02:04:23.840
+in New Orleans, of helping the youth empowerment programs, of helping the innovation center at
+
+02:04:23.840 --> 02:04:29.760
+Tulane, I was even on the city planning commission, which worries about zoning ordinances for
+
+02:04:29.760 --> 02:04:36.000
+short term rentals. Go figure. But it was like, no, immerse myself in my community because my
+
+02:04:36.000 --> 02:04:47.040
+community was just so awesomely good at allowing me to become who I became and has trouble year
+
+02:04:47.040 --> 02:04:54.480
+by year, hurricane by hurricane, making sure that each new generation can be creative. And it's a
+
+02:04:54.480 --> 02:05:01.120
+city of creativity from jazz to the food to the architecture. So when I think of, I won't say
+
+02:05:01.120 --> 02:05:06.960
+legacy, but what am I going to do to pay it forward, which is a lower level way of saying
+
+02:05:06.960 --> 02:05:12.800
+legacy, I pay it forward by going back to the place where I began and trying to know it for
+
+02:05:12.800 --> 02:05:20.560
+the first time. That was a rip off of a TS Eliot line. I don't want you to think I thought of that
+
+02:05:20.560 --> 02:05:26.880
+one. I always cite your sources. I appreciate it. TS Eliot, if you ever need to figure it out,
+
+02:05:27.680 --> 02:05:33.680
+the four quartets, that part at the end, which is, we shall not cease from exploration. And the end
+
+02:05:33.680 --> 02:05:38.960
+of all of our exploring will be to return to the place we started and know it for the first time
+
+02:05:39.760 --> 02:05:45.680
+through the unknown but half remembered gate. It's just beautiful. And that's been an inspiration
+
+02:05:46.640 --> 02:05:55.760
+of what do you do in, I guess if it's a Shakespeare play, you'd call it act five.
+
+02:05:56.960 --> 02:06:03.840
+Well, you go back to the place where you came and don't sit there worrying about legacy,
+
+02:06:03.840 --> 02:06:07.440
+but you'll sit there saying, how do I make sure that somebody else can have
+
+02:06:07.840 --> 02:06:12.560
+a magical trajectory starting in New Orleans?
+
+02:06:14.000 --> 02:06:19.200
+Well, to me, you're one of the greatest storytellers of all time. I've been a huge fan.
+
+02:06:19.200 --> 02:06:22.320
+Definitely not true, but it's so sweet of you. See, you can be-
+
+02:06:22.320 --> 02:06:33.040
+Brutally interrupting. I think probably Ben Franklin, so for I don't know how many years,
+
+02:06:33.040 --> 02:06:38.960
+15 years, Einstein all the way through today has been a huge fan of yours. And you're one of the
+
+02:06:38.960 --> 02:06:46.240
+people that I thought surely would not lower themselves to appear and have a conversation
+
+02:06:46.240 --> 02:06:53.280
+with me. And it's just a giant gift to me. Hey, I flew into Austin for this because I am a big fan,
+
+02:06:54.080 --> 02:06:58.160
+and especially a big fan because you take people seriously and you care.
+
+02:06:58.880 --> 02:07:02.720
+Thank you a thousand times. Thank you for respecting me and for inspiring
+
+02:07:02.720 --> 02:07:07.600
+just millions of people with your stories. Again, an incredible story telling, incredible human.
+
+02:07:07.600 --> 02:07:09.840
+And thank you for talking today. Thank you, Alex.
+
+02:07:10.880 --> 02:07:14.880
+Thanks for listening to this conversation with Walter Isaacson. To support this podcast,
+
+02:07:14.880 --> 02:07:20.560
+please check out our sponsors in the description. And now let me leave you with one of my favorite
+
+02:07:20.560 --> 02:07:27.680
+quotes from Carl Jung. People will do anything, no matter how absurd, in order to avoid facing
+
+02:07:27.680 --> 02:07:34.240
+their own souls. One does not become enlightened by imagining figures of light, but by making the
+
+02:07:34.240 --> 02:07:40.560
+darkness conscious. Thank you for listening and hope to see you next time.
+
