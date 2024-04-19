@@ -25,7 +25,7 @@ The following is a conversation with Jeremy Suri,
 a historian at UT Austin.
 
 00:17.940 --> 00:19.820
-This is the Lex Friedman podcast.
+This is the Lex Fridman podcast.
 
 00:19.820 --> 00:21.700
 To support it, please check out our sponsors
@@ -5047,7 +5047,7 @@ from tough questions.
 So just to restate,
 
 01:10:14.020 --> 01:10:17.860
-I am for the Lex Friedman interview
+I am for the Lex Fridman interview
 
 01:10:17.860 --> 01:10:20.140
 of those sorts of figures.

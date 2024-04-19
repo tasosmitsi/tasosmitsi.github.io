@@ -4,7 +4,7 @@ WEBVTT
 The following is a conversation with Elon Musk, his fourth time on this, the
 
 00:05.480 --> 00:07.080
-Lex Friedman podcast.
+Lex Fridman podcast.
 
 00:20.680 --> 00:21.660
 I thought you were going to finish it.
