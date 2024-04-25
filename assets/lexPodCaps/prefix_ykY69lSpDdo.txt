@@ -1,0 +1,3938 @@
+WEBVTT
+
+00:00.000 --> 00:02.800
+By the time it gets to 2045,
+
+00:02.800 --> 00:05.320
+we'll be able to multiply our intelligence
+
+00:05.320 --> 00:07.680
+many millions fold.
+
+00:07.680 --> 00:10.800
+And it's just very hard to imagine what that will be like.
+
+00:13.560 --> 00:16.840
+The following is a conversation with Ray Kurzweil,
+
+00:16.840 --> 00:19.480
+author, inventor, and futurist,
+
+00:19.480 --> 00:22.280
+who has an optimistic view of our future
+
+00:22.280 --> 00:24.320
+as a human civilization,
+
+00:24.320 --> 00:27.280
+predicting that exponentially improving technologies
+
+00:27.280 --> 00:29.880
+will take us to a point of a singularity,
+
+00:29.880 --> 00:33.480
+beyond which super-intelligent artificial intelligence
+
+00:33.480 --> 00:38.360
+will transform our world in nearly unimaginable ways.
+
+00:38.360 --> 00:41.280
+18 years ago, in the book Singularity is Near,
+
+00:41.280 --> 00:44.000
+he predicted that the onset of the singularity
+
+00:44.000 --> 00:47.360
+will happen in the year 2045.
+
+00:47.360 --> 00:50.800
+He still holds to this prediction and estimate.
+
+00:50.800 --> 00:53.440
+In fact, he's working on a new book on this topic
+
+00:53.440 --> 00:55.640
+that will hopefully be out next year.
+
+00:56.520 --> 00:58.320
+This is the Lex Fridman podcast.
+
+00:58.320 --> 01:00.360
+To support it, please check out our sponsors
+
+01:00.360 --> 01:01.640
+in the description.
+
+01:01.640 --> 01:05.360
+And now, dear friends, here's Ray Kurzweil.
+
+01:06.360 --> 01:10.960
+In your 2005 book titled The Singularity is Near,
+
+01:10.960 --> 01:15.400
+you predicted that the singularity will happen in 2045.
+
+01:15.400 --> 01:17.600
+So now, 18 years later,
+
+01:17.600 --> 01:19.280
+do you still estimate that the singularity
+
+01:19.280 --> 01:22.480
+will happen on 2045?
+
+01:22.480 --> 01:24.960
+And maybe first, what is the singularity,
+
+01:24.960 --> 01:27.760
+the technological singularity, and when will it happen?
+
+01:27.760 --> 01:31.640
+Singularity is where computers really change our view
+
+01:31.640 --> 01:35.840
+of what's important and change who we are.
+
+01:35.840 --> 01:39.560
+But we're getting close to some salient things
+
+01:39.560 --> 01:42.800
+that will change who we are.
+
+01:42.800 --> 01:45.680
+A key thing is 2029,
+
+01:45.680 --> 01:49.040
+when computers will pass the Turing test.
+
+01:50.120 --> 01:51.520
+And there's also some controversy
+
+01:51.520 --> 01:53.680
+whether the Turing test is valid.
+
+01:53.680 --> 01:55.080
+I believe it is.
+
+01:56.000 --> 01:57.920
+Most people do believe that,
+
+01:57.920 --> 01:59.680
+but there's some controversy about that.
+
+01:59.680 --> 02:04.680
+But Stanford got very alarmed at my prediction about 2029.
+
+02:06.520 --> 02:10.520
+I made this in 1999 in my book.
+
+02:10.520 --> 02:12.440
+The Age of Spiritual Machines.
+
+02:12.440 --> 02:15.600
+And then you repeated the prediction in 2005.
+
+02:15.600 --> 02:16.600
+In 2005.
+
+02:16.600 --> 02:17.520
+Yeah.
+
+02:17.520 --> 02:19.480
+So they held an international conference,
+
+02:19.480 --> 02:21.160
+you might have been aware of it,
+
+02:21.160 --> 02:26.160
+of AI experts in 1999 to assess this view.
+
+02:26.600 --> 02:30.880
+So people gave different predictions and they took a poll.
+
+02:30.880 --> 02:34.240
+It was really the first time that AI experts worldwide
+
+02:34.240 --> 02:36.600
+were polled on this prediction.
+
+02:37.720 --> 02:39.960
+And the average poll was 100 years.
+
+02:41.400 --> 02:44.320
+20% believed it would never happen.
+
+02:44.320 --> 02:48.120
+And that was the view in 1999.
+
+02:48.120 --> 02:50.640
+80% believed it would happen,
+
+02:51.120 --> 02:53.160
+but not within their lifetimes.
+
+02:53.160 --> 02:55.760
+There's been so many advances in AI
+
+02:56.880 --> 03:01.800
+that the poll of AI experts has come down over the years.
+
+03:01.800 --> 03:05.360
+So a year ago, something called Meticulous,
+
+03:05.360 --> 03:07.040
+which you may be aware of,
+
+03:07.040 --> 03:11.520
+assesses different types of experts on the future.
+
+03:11.520 --> 03:16.400
+They again assessed what AI experts then felt.
+
+03:16.400 --> 03:18.880
+And they were saying 2042.
+
+03:18.880 --> 03:20.400
+For the Turing test.
+
+03:21.360 --> 03:22.480
+So it's coming down.
+
+03:22.480 --> 03:25.080
+And I was still saying 2029.
+
+03:25.080 --> 03:30.080
+A few weeks ago, they again did another poll and it was 2030.
+
+03:31.800 --> 03:36.800
+So AI experts now basically agree with me.
+
+03:36.800 --> 03:38.040
+I haven't changed at all.
+
+03:38.040 --> 03:39.880
+I've stayed with 2029.
+
+03:41.520 --> 03:43.280
+And AI experts now agree with me,
+
+03:43.280 --> 03:45.520
+but they didn't agree at first.
+
+03:45.520 --> 03:48.800
+So Alan Turing formulated the Turing test
+
+03:48.880 --> 03:50.960
+and articulated the Turing test and...
+
+03:50.960 --> 03:54.440
+Right, now what he said was very little about it.
+
+03:54.440 --> 03:55.880
+I mean, the 1950 paper
+
+03:55.880 --> 03:58.560
+where he had articulated the Turing test,
+
+03:58.560 --> 04:03.560
+there's like a few lines that talk about the Turing test.
+
+04:06.800 --> 04:11.800
+And it really wasn't very clear how to administer it.
+
+04:12.000 --> 04:16.480
+And he said if they did it in like 15 minutes,
+
+04:16.480 --> 04:17.640
+that would be sufficient,
+
+04:17.640 --> 04:20.600
+which I don't really think is the case.
+
+04:20.600 --> 04:22.920
+These large language models now,
+
+04:22.920 --> 04:25.520
+some people are convinced by it already.
+
+04:25.520 --> 04:28.400
+I mean, you can talk to it and have a conversation with him.
+
+04:28.400 --> 04:30.400
+You can actually talk to it for hours.
+
+04:31.720 --> 04:35.320
+So it requires a little more depth.
+
+04:35.320 --> 04:38.080
+There's some problems with large language models
+
+04:38.080 --> 04:39.560
+which we can talk about.
+
+04:41.800 --> 04:46.440
+But some people are convinced by the Turing test.
+
+04:46.440 --> 04:50.160
+Now, if somebody passes the Turing test,
+
+04:50.160 --> 04:52.160
+what are the implications of that?
+
+04:52.160 --> 04:53.720
+Does that mean that they're sentient,
+
+04:53.720 --> 04:56.280
+that they're conscious or not?
+
+04:56.280 --> 05:00.880
+It's not necessarily clear what the implications are.
+
+05:00.880 --> 05:05.880
+Anyway, I believe 2029, that's six, seven years from now,
+
+05:07.640 --> 05:10.360
+we'll have something that passes the Turing test
+
+05:10.360 --> 05:12.480
+and a valid Turing test,
+
+05:12.480 --> 05:15.320
+meaning it goes for hours, not just a few minutes.
+
+05:15.320 --> 05:16.600
+Can you speak to that a little bit?
+
+05:16.600 --> 05:21.160
+What is your formulation of the Turing test?
+
+05:21.160 --> 05:23.920
+You've proposed a very difficult version of the Turing test.
+
+05:23.920 --> 05:25.440
+So what does that look like?
+
+05:25.440 --> 05:28.560
+Basically, it's just to assess it over several hours
+
+05:30.760 --> 05:34.160
+and also have a human judge
+
+05:34.160 --> 05:36.440
+that's fairly sophisticated
+
+05:36.440 --> 05:39.200
+on what computers can do and can't do.
+
+05:40.800 --> 05:43.800
+If you take somebody who's not that sophisticated,
+
+05:43.840 --> 05:47.280
+or even an average engineer,
+
+05:48.400 --> 05:52.120
+they may not really assess various aspects of it.
+
+05:52.120 --> 05:55.720
+So you really want the human to challenge the system.
+
+05:55.720 --> 05:57.080
+Exactly, exactly.
+
+05:57.080 --> 05:58.560
+On its ability to do things
+
+05:58.560 --> 06:00.840
+like common sense reasoning, perhaps.
+
+06:00.840 --> 06:04.720
+That's actually a key problem with large language models.
+
+06:04.720 --> 06:07.720
+They don't do these kinds of tests
+
+06:08.560 --> 06:13.560
+that would involve assessing chains of reasoning.
+
+06:15.960 --> 06:17.600
+But you can lose track of that.
+
+06:17.600 --> 06:18.760
+If you talk to them,
+
+06:18.760 --> 06:21.240
+they actually can talk to you pretty well
+
+06:21.240 --> 06:23.240
+and you can be convinced by it.
+
+06:23.240 --> 06:25.920
+But it's somebody that would really convince you
+
+06:25.920 --> 06:30.920
+that it's a human, whatever that takes.
+
+06:30.920 --> 06:33.240
+Maybe it would take days or weeks,
+
+06:34.520 --> 06:36.040
+but it would really convince you
+
+06:36.040 --> 06:36.880
+that it's human.
+
+06:39.120 --> 06:43.560
+Large language models can appear that way.
+
+06:43.560 --> 06:47.840
+You can read conversations and they appear pretty good.
+
+06:47.840 --> 06:50.440
+There are some problems with it.
+
+06:50.440 --> 06:52.440
+It doesn't do math very well.
+
+06:53.320 --> 06:56.400
+You can ask, well, how many legs did 10 elephants have?
+
+06:56.400 --> 06:58.240
+And they'll tell you, well, okay,
+
+06:58.240 --> 07:00.680
+each elephant has four legs and 10 elephants,
+
+07:00.680 --> 07:01.840
+so it's 40 legs.
+
+07:01.840 --> 07:04.160
+And you go, okay, that's pretty good.
+
+07:04.320 --> 07:06.560
+How many legs do 11 elephants have?
+
+07:06.560 --> 07:09.840
+And they don't seem to understand the question.
+
+07:09.840 --> 07:12.520
+Do all humans understand that question?
+
+07:12.520 --> 07:14.240
+No, that's the key thing.
+
+07:14.240 --> 07:17.680
+I mean, how advanced a human do you want it to be?
+
+07:17.680 --> 07:19.600
+But we do expect a human
+
+07:19.600 --> 07:22.560
+to be able to do multi-chain reasoning,
+
+07:22.560 --> 07:26.400
+to be able to take a few facts and put them together,
+
+07:26.400 --> 07:28.240
+not perfectly.
+
+07:28.240 --> 07:31.080
+And we see that in a lot of polls
+
+07:31.080 --> 07:32.480
+that people don't do that.
+
+07:32.560 --> 07:35.560
+So it's not very well-defined,
+
+07:35.560 --> 07:38.000
+but it's something where it really would convince you
+
+07:38.000 --> 07:39.320
+that it's a human.
+
+07:39.320 --> 07:42.520
+Is your intuition that large language models
+
+07:42.520 --> 07:45.880
+will not be solely the kind of system
+
+07:45.880 --> 07:49.080
+that passes the Turing test in 2029?
+
+07:49.080 --> 07:49.920
+Do we need something else?
+
+07:49.920 --> 07:52.200
+No, I think it will be a large language model,
+
+07:52.200 --> 07:55.160
+but they have to go beyond what they're doing now.
+
+07:56.600 --> 07:59.320
+I mean, I think it will be a large language model,
+
+07:59.360 --> 08:01.560
+but they have to go beyond what they're doing now.
+
+08:02.920 --> 08:04.360
+I think we're getting there.
+
+08:05.720 --> 08:09.480
+And another key issue is if somebody actually
+
+08:09.480 --> 08:12.160
+passes the Turing test validly,
+
+08:12.160 --> 08:13.600
+I would believe they're conscious.
+
+08:13.600 --> 08:15.000
+And not everybody would say that.
+
+08:15.000 --> 08:17.400
+So, okay, we can pass the Turing test,
+
+08:17.400 --> 08:20.040
+but we don't really believe that it's conscious.
+
+08:20.040 --> 08:21.480
+That's a whole nother issue.
+
+08:23.080 --> 08:24.880
+But if it really passes the Turing test,
+
+08:24.880 --> 08:26.680
+I would believe that it's conscious.
+
+08:27.520 --> 08:32.520
+But I don't believe that of large language models today.
+
+08:32.760 --> 08:35.520
+If it appears to be conscious,
+
+08:35.520 --> 08:38.240
+that's as good as being conscious, at least for you,
+
+08:38.240 --> 08:40.720
+in some sense.
+
+08:40.720 --> 08:45.280
+I mean, consciousness is not something that's scientific.
+
+08:47.120 --> 08:48.880
+I mean, I believe you're conscious,
+
+08:49.760 --> 08:51.080
+but it's really just a belief.
+
+08:51.080 --> 08:52.800
+And we believe that about other humans
+
+08:52.800 --> 08:55.480
+that at least appear to be conscious.
+
+08:57.400 --> 09:00.480
+When you go outside of shared human assumption,
+
+09:01.720 --> 09:03.640
+like are animals conscious?
+
+09:04.520 --> 09:06.200
+Some people believe they're not conscious.
+
+09:06.200 --> 09:08.680
+Some people believe they are conscious.
+
+09:08.680 --> 09:13.680
+And would a machine that acts just like a human be conscious?
+
+09:14.520 --> 09:16.200
+I mean, I believe it would be.
+
+09:17.040 --> 09:20.720
+But that's really a philosophical belief.
+
+09:20.720 --> 09:22.680
+It's not, you can't prove it.
+
+09:22.680 --> 09:25.480
+I can't take an entity and prove that it's conscious.
+
+09:25.480 --> 09:30.360
+There's nothing that you can do that would indicate that.
+
+09:30.360 --> 09:32.760
+It's like saying a piece of art is beautiful.
+
+09:32.760 --> 09:36.640
+You can say it, multiple people can experience
+
+09:36.640 --> 09:41.320
+a piece of art is beautiful, but you can't prove it.
+
+09:41.320 --> 09:44.840
+But it's also an extremely important issue.
+
+09:44.840 --> 09:47.040
+I mean, imagine if you had something
+
+09:47.040 --> 09:52.040
+where nobody's conscious, the world may as well not exist.
+
+09:55.680 --> 10:00.080
+And so some people, like say Marvin Rinsky,
+
+10:02.640 --> 10:05.920
+said, well, consciousness is not logical,
+
+10:05.920 --> 10:08.400
+it's not scientific, and therefore we should dismiss it.
+
+10:08.400 --> 10:13.400
+And any talk about consciousness is just not to be believed.
+
+10:15.480 --> 10:19.520
+But when he actually engaged with somebody who was conscious,
+
+10:19.520 --> 10:22.600
+he actually acted as if they were conscious.
+
+10:22.600 --> 10:24.240
+He didn't ignore that.
+
+10:24.240 --> 10:26.880
+He acted as if consciousness does matter.
+
+10:26.880 --> 10:30.480
+Exactly, whereas he said it didn't matter.
+
+10:30.480 --> 10:34.040
+Well, that's Marvin Rinsky, he's full of contradictions.
+
+10:34.040 --> 10:37.640
+But that's true of a lot of people as well.
+
+10:37.640 --> 10:39.640
+But to you, consciousness matters.
+
+10:39.640 --> 10:42.160
+But to me, it's very important.
+
+10:42.160 --> 10:45.680
+But I would say it's not a scientific issue.
+
+10:47.520 --> 10:49.280
+It's a philosophical issue.
+
+10:49.280 --> 10:50.640
+And people have different views,
+
+10:50.640 --> 10:52.800
+and some people believe that anything
+
+10:52.800 --> 10:54.480
+that makes a decision is conscious.
+
+10:54.480 --> 10:56.760
+So your light switch is conscious.
+
+10:56.760 --> 10:59.400
+It's the level of consciousness that's low,
+
+10:59.400 --> 11:03.360
+not very interesting, but that's a consciousness.
+
+11:05.120 --> 11:09.120
+So a computer that makes a more interesting decision
+
+11:09.120 --> 11:11.640
+still not at human levels, but it's also conscious
+
+11:11.640 --> 11:14.640
+and at a higher level than your light switch.
+
+11:14.640 --> 11:15.960
+So that's one view.
+
+11:17.360 --> 11:20.080
+There's many different views of what consciousness is.
+
+11:20.120 --> 11:22.920
+So if a system passes the Turing test,
+
+11:24.640 --> 11:29.640
+it's not scientific, but in issues of philosophy,
+
+11:30.040 --> 11:32.640
+things like ethics start to enter the picture.
+
+11:32.640 --> 11:35.520
+Do you think there would be,
+
+11:35.520 --> 11:38.960
+we would start contending as a human species
+
+11:39.960 --> 11:42.840
+about the ethics of turning off such a machine?
+
+11:43.720 --> 11:46.480
+Yeah, I mean, that's definitely come up.
+
+11:47.400 --> 11:52.400
+Hasn't come up in reality yet, but I'm talking about 2029.
+
+11:52.400 --> 11:54.160
+It's not that many years from now.
+
+11:56.080 --> 11:58.480
+So what are our obligations to it?
+
+11:59.960 --> 12:03.240
+It has a different, I mean, a computer that's conscious,
+
+12:03.240 --> 12:06.240
+it has a little bit different connotations than a human.
+
+12:12.680 --> 12:15.600
+We have a continuous consciousness.
+
+12:15.600 --> 12:19.640
+We're in an entity that does not last forever.
+
+12:22.080 --> 12:27.080
+Now, actually, a significant portion of humans still exist
+
+12:27.400 --> 12:29.240
+and are therefore still conscious,
+
+12:31.760 --> 12:34.880
+but anybody who is over a certain age
+
+12:34.880 --> 12:37.160
+doesn't exist anymore.
+
+12:37.160 --> 12:40.320
+That wouldn't be true of a computer program.
+
+12:40.320 --> 12:42.000
+You could completely turn it off
+
+12:42.000 --> 12:44.000
+and a copy of it could be stored
+
+12:44.000 --> 12:46.120
+and you could recreate it.
+
+12:46.120 --> 12:49.920
+And so it has a different type of validity.
+
+12:51.160 --> 12:52.920
+You could actually take it back in time.
+
+12:52.920 --> 12:55.840
+You could eliminate its memory and have it go over again.
+
+12:55.840 --> 12:59.800
+I mean, it has a different kind of connotation
+
+12:59.800 --> 13:01.800
+than humans do.
+
+13:01.800 --> 13:04.400
+Well, perhaps you can do the same thing with humans.
+
+13:04.400 --> 13:06.880
+It's just that we don't know how to do that yet.
+
+13:06.880 --> 13:09.400
+It's possible that we figure out all of these things
+
+13:09.400 --> 13:10.800
+on the machine first,
+
+13:11.080 --> 13:13.560
+but that doesn't mean the machine isn't conscious.
+
+13:14.400 --> 13:16.440
+I mean, if you look at the way people react,
+
+13:16.440 --> 13:20.800
+say, three CPO or other machines
+
+13:20.800 --> 13:22.440
+that are conscious in movies,
+
+13:23.840 --> 13:25.720
+they don't actually present how it's conscious,
+
+13:25.720 --> 13:29.000
+but we see that they are a machine
+
+13:29.000 --> 13:32.000
+and people will believe that they are conscious
+
+13:32.000 --> 13:33.520
+and they'll actually worry about it
+
+13:33.520 --> 13:35.400
+if they get into trouble and so on.
+
+13:36.400 --> 13:39.720
+So, 2029 is going to be the first year
+
+13:39.920 --> 13:42.400
+when a major thing happens
+
+13:42.400 --> 13:45.200
+and that will shake our civilization
+
+13:45.200 --> 13:48.960
+to start to consider the role of AI in this world.
+
+13:48.960 --> 13:49.800
+Well, yes and no.
+
+13:49.800 --> 13:53.240
+I mean, this one guy at Google claimed
+
+13:53.240 --> 13:57.120
+that the machine was conscious.
+
+13:57.120 --> 13:59.000
+But that's just one person.
+
+13:59.000 --> 13:59.840
+Right.
+
+13:59.840 --> 14:01.840
+When it starts to happen to scale.
+
+14:01.840 --> 14:03.200
+Well, that's exactly right
+
+14:03.200 --> 14:06.520
+because most people have not taken that position.
+
+14:06.520 --> 14:07.680
+I don't take that position.
+
+14:07.760 --> 14:08.920
+I don't take that position.
+
+14:08.920 --> 14:13.600
+I mean, I've used different things
+
+14:16.600 --> 14:20.520
+like this and they don't appear to me to be conscious.
+
+14:20.520 --> 14:22.840
+As we eliminate various problems
+
+14:22.840 --> 14:25.840
+of these large language models,
+
+14:26.960 --> 14:30.480
+more and more people will accept that they're conscious.
+
+14:30.480 --> 14:33.040
+So, when we get to 2029,
+
+14:33.040 --> 14:36.280
+I think a large fraction of people
+
+14:36.280 --> 14:38.080
+will believe that they're conscious.
+
+14:39.040 --> 14:41.000
+So, it's not gonna happen all at once.
+
+14:42.400 --> 14:44.360
+I believe it would actually happen gradually
+
+14:44.360 --> 14:46.200
+and it's already started to happen.
+
+14:47.280 --> 14:52.280
+And so, that takes us one step closer to the singularity.
+
+14:52.320 --> 14:55.520
+Another step then is in the 2030s
+
+14:55.520 --> 14:59.800
+when we can actually connect our neocortex,
+
+14:59.800 --> 15:04.800
+which is where we do our thinking, to computers.
+
+15:04.880 --> 15:09.280
+And I mean, just as this actually gains a lot
+
+15:09.280 --> 15:12.200
+to being connected to computers
+
+15:12.200 --> 15:15.320
+that will amplify its abilities,
+
+15:15.320 --> 15:17.360
+I mean, if this did not have any connection,
+
+15:17.360 --> 15:19.560
+it would be pretty stupid.
+
+15:19.560 --> 15:21.840
+It could not answer any of your questions.
+
+15:21.840 --> 15:24.400
+If you're just listening to this, by the way,
+
+15:24.400 --> 15:29.400
+Ray's holding up the all-powerful smartphone.
+
+15:29.720 --> 15:32.440
+So, we're gonna do that directly from our brains.
+
+15:33.440 --> 15:34.960
+I mean, these are pretty good.
+
+15:34.960 --> 15:37.640
+These already have amplified our intelligence.
+
+15:37.640 --> 15:39.920
+I'm already much smarter than I would otherwise be
+
+15:39.920 --> 15:41.400
+if I didn't have this.
+
+15:42.560 --> 15:44.160
+Because I remember my first book,
+
+15:44.160 --> 15:45.840
+The Age of Intelligent Machines.
+
+15:48.960 --> 15:52.000
+There was no way to get information from computers.
+
+15:52.000 --> 15:55.320
+I actually would go to a library, find a book,
+
+15:55.320 --> 15:58.360
+find the page that had an information I wanted,
+
+15:58.360 --> 15:59.880
+and I'd go to the copier
+
+15:59.920 --> 16:04.360
+and my most significant information tool
+
+16:04.360 --> 16:08.480
+was a roll of quarters where I could feed the copier.
+
+16:08.480 --> 16:13.280
+So, we're already greatly advanced that we have these things.
+
+16:13.280 --> 16:15.440
+There's a few problems with it.
+
+16:15.440 --> 16:17.280
+First of all, I constantly put it down
+
+16:17.280 --> 16:19.680
+and I don't remember where I put it.
+
+16:19.680 --> 16:21.200
+I've actually never lost it,
+
+16:21.200 --> 16:26.080
+but you have to find it and then you have to turn it on.
+
+16:26.080 --> 16:28.160
+So, there's a certain amount of steps.
+
+16:28.320 --> 16:30.120
+It would actually be quite useful
+
+16:30.120 --> 16:33.440
+if someone would just listen to your conversation
+
+16:33.440 --> 16:34.280
+and say,
+
+16:36.200 --> 16:39.440
+oh, that's so-and-so actress
+
+16:39.440 --> 16:41.120
+and tell you what you're talking about.
+
+16:41.120 --> 16:43.160
+So, going from active to passive
+
+16:43.160 --> 16:46.240
+where it just permeates your whole life.
+
+16:46.240 --> 16:47.280
+Yeah, exactly.
+
+16:47.280 --> 16:49.560
+The way your brain does when you're awake.
+
+16:49.560 --> 16:51.240
+Your brain is always there.
+
+16:51.240 --> 16:52.080
+Right.
+
+16:52.080 --> 16:53.720
+Now, that's something that could actually
+
+16:53.720 --> 16:55.840
+just about be done today
+
+16:55.840 --> 16:57.400
+where you would listen to your conversation,
+
+16:57.440 --> 16:58.600
+understand what you're saying,
+
+16:58.600 --> 17:01.840
+understand what you're not missing
+
+17:01.840 --> 17:03.600
+and give you that information.
+
+17:04.520 --> 17:07.280
+But another step is to actually go inside your brain.
+
+17:07.280 --> 17:08.120
+Yeah.
+
+17:09.720 --> 17:12.720
+And there are some prototypes
+
+17:12.720 --> 17:15.280
+where you can connect your brain.
+
+17:15.280 --> 17:17.840
+They actually don't have the amount of bandwidth
+
+17:17.840 --> 17:19.160
+that we need.
+
+17:19.160 --> 17:21.960
+They can work, but they work fairly slowly.
+
+17:21.960 --> 17:26.080
+So, if it actually would connect to your neocortex
+
+17:27.440 --> 17:30.160
+and the neocortex which I describe
+
+17:30.160 --> 17:31.760
+and how to create a mind,
+
+17:33.000 --> 17:34.800
+the neocortex is actually,
+
+17:36.680 --> 17:39.960
+it has different levels and as you go up the levels,
+
+17:39.960 --> 17:41.800
+it's kind of like a pyramid.
+
+17:41.800 --> 17:44.320
+The top level is fairly small
+
+17:44.320 --> 17:46.520
+and that's the level where you wanna connect
+
+17:47.840 --> 17:50.160
+these brain extenders.
+
+17:53.880 --> 17:56.440
+So, I believe that will happen in the 2030s.
+
+17:56.480 --> 17:58.120
+We'll actually,
+
+17:58.120 --> 18:01.600
+so just the way this is greatly amplified
+
+18:01.600 --> 18:03.520
+by being connected to the cloud,
+
+18:04.440 --> 18:07.480
+we can connect our own brain to the cloud
+
+18:07.480 --> 18:12.480
+and just do what we can do by using this machine.
+
+18:14.280 --> 18:15.720
+Do you think it would look like
+
+18:15.720 --> 18:18.960
+the brain-computer interface of like Neuralink?
+
+18:18.960 --> 18:19.800
+So, would it be?
+
+18:19.800 --> 18:22.480
+Well, Neuralink's an attempt to do that.
+
+18:22.480 --> 18:24.920
+It doesn't have the bandwidth that we need.
+
+18:25.880 --> 18:27.600
+Yet, right?
+
+18:27.600 --> 18:29.200
+Right, but I think,
+
+18:30.280 --> 18:31.960
+I mean, they're gonna get permission for this
+
+18:31.960 --> 18:34.880
+because there are a lot of people who absolutely need it
+
+18:34.880 --> 18:36.960
+because they can't communicate.
+
+18:36.960 --> 18:40.280
+I know a couple of people like that who have ideas
+
+18:40.280 --> 18:44.560
+and they cannot move their muscles and so on,
+
+18:44.560 --> 18:45.760
+they can't communicate.
+
+18:47.560 --> 18:51.080
+So, for them, this would be very valuable,
+
+18:52.000 --> 18:53.360
+but we could all use it.
+
+18:54.360 --> 18:56.200
+Basically, it'd be,
+
+18:58.560 --> 19:02.040
+turn us into something that would be like we have a phone,
+
+19:02.040 --> 19:04.720
+but it would be in our minds,
+
+19:04.720 --> 19:06.920
+it would be kind of instantaneous.
+
+19:06.920 --> 19:09.000
+And maybe communication between two people
+
+19:09.000 --> 19:13.640
+would not require this low bandwidth mechanism of language.
+
+19:13.640 --> 19:15.280
+Yes, exactly.
+
+19:15.280 --> 19:16.880
+We don't know what that would be,
+
+19:16.880 --> 19:21.880
+although we do know that computers can share information
+
+19:22.360 --> 19:24.600
+like language instantly.
+
+19:24.600 --> 19:28.840
+They can share many, many books in a second,
+
+19:28.840 --> 19:31.160
+so we could do that as well.
+
+19:31.160 --> 19:34.240
+If you look at what our brain does,
+
+19:34.240 --> 19:39.080
+it actually can manipulate different parameters.
+
+19:40.240 --> 19:43.600
+So, we talk about these large language models.
+
+19:46.560 --> 19:48.320
+I mean, I had written that
+
+19:48.640 --> 19:52.600
+it requires a certain amount of information
+
+19:52.600 --> 19:55.000
+in order to be effective,
+
+19:56.120 --> 19:59.560
+and that we would not see AI really being effective
+
+19:59.560 --> 20:01.160
+until it got to that level.
+
+20:01.960 --> 20:03.880
+And we had large language models
+
+20:03.880 --> 20:07.000
+that were like 10 billion bytes, didn't work very well.
+
+20:07.000 --> 20:09.080
+They finally got to 100 billion bytes,
+
+20:09.080 --> 20:10.600
+and now they work fairly well,
+
+20:10.600 --> 20:13.720
+and now we're going to a trillion bytes.
+
+20:13.720 --> 20:14.560
+If you say,
+
+20:14.680 --> 20:16.280
+a trillion bytes,
+
+20:16.280 --> 20:21.280
+if you say lambda has 100 billion bytes,
+
+20:22.520 --> 20:23.520
+what does that mean?
+
+20:23.520 --> 20:27.160
+Well, what if you had something that had one byte,
+
+20:27.160 --> 20:28.960
+one parameter?
+
+20:28.960 --> 20:30.520
+Maybe you want to tell whether or not
+
+20:30.520 --> 20:34.000
+something's an elephant or not.
+
+20:34.000 --> 20:37.680
+And so you put in something that would detect its trunk.
+
+20:37.680 --> 20:39.160
+If it has a trunk, it's an elephant.
+
+20:39.160 --> 20:41.720
+If it doesn't have a trunk, it's not an elephant.
+
+20:41.880 --> 20:44.440
+And that would work fairly well.
+
+20:44.440 --> 20:46.360
+There's a few problems with it.
+
+20:47.880 --> 20:49.720
+Really wouldn't be able to tell what the trunk is,
+
+20:49.720 --> 20:50.680
+but anyway.
+
+20:50.680 --> 20:54.160
+And maybe other things other than elephants have trunks.
+
+20:54.160 --> 20:55.640
+You might get really confused.
+
+20:55.640 --> 20:57.000
+Yeah, exactly.
+
+20:57.000 --> 20:58.840
+I'm not sure which animals have trunks,
+
+20:58.840 --> 21:02.440
+but you know, that's how you define a trunk.
+
+21:02.440 --> 21:03.960
+But yeah, that's one parameter.
+
+21:05.000 --> 21:06.440
+You can do okay.
+
+21:06.440 --> 21:08.800
+So these things have 100 billion parameters,
+
+21:08.800 --> 21:12.240
+so they're able to deal with very complex issues.
+
+21:12.240 --> 21:14.040
+All kinds of trunks.
+
+21:14.040 --> 21:16.240
+Human beings actually have a little bit more than that,
+
+21:16.240 --> 21:18.000
+but they're getting to the point
+
+21:18.000 --> 21:20.040
+where they can emulate humans.
+
+21:22.440 --> 21:27.440
+If we were able to connect this to our neocortex,
+
+21:27.600 --> 21:32.600
+we would basically add more of these abilities
+
+21:33.400 --> 21:35.400
+to make distinctions,
+
+21:35.400 --> 21:37.600
+and it could ultimately be much smarter
+
+21:37.600 --> 21:39.680
+and also be attached to information
+
+21:39.680 --> 21:42.240
+that we feel is reliable.
+
+21:43.800 --> 21:45.280
+So that's where we're headed.
+
+21:45.280 --> 21:49.120
+So you think that there will be a merger in the 30s,
+
+21:49.120 --> 21:50.880
+an increasing amount of merging
+
+21:50.880 --> 21:55.960
+between the human brain and the AI brain.
+
+21:55.960 --> 21:56.880
+Exactly.
+
+21:57.720 --> 22:02.360
+And the AI brain is really an emulation of human beings.
+
+22:02.360 --> 22:04.560
+I mean, that's why we're creating them.
+
+22:04.560 --> 22:07.280
+Because human beings act the same way,
+
+22:07.960 --> 22:09.640
+and this is basically to amplify them.
+
+22:09.640 --> 22:11.680
+I mean, this amplifies our brain.
+
+22:13.840 --> 22:15.600
+It's a little bit clumsy to interact with,
+
+22:15.600 --> 22:16.760
+but it definitely,
+
+22:18.360 --> 22:21.880
+way beyond what we had 15 years ago.
+
+22:21.880 --> 22:23.560
+But the implementation becomes different,
+
+22:23.560 --> 22:25.720
+just like a bird versus the airplane.
+
+22:26.680 --> 22:30.600
+Even though the AI brain is an emulation,
+
+22:30.600 --> 22:34.360
+it starts adding features we might not otherwise have,
+
+22:34.360 --> 22:38.520
+like ability to consume a huge amount of information quickly,
+
+22:38.520 --> 22:43.080
+like look up thousands of Wikipedia articles in one take.
+
+22:43.080 --> 22:44.200
+Exactly.
+
+22:44.200 --> 22:46.040
+And we can get, for example,
+
+22:46.040 --> 22:48.120
+to issues like simulated biology,
+
+22:48.120 --> 22:53.120
+where it can simulate many different things at once.
+
+22:56.720 --> 22:59.560
+We already had one example of simulated biology,
+
+22:59.560 --> 23:01.440
+which is the Moderna vaccine.
+
+23:04.520 --> 23:10.000
+And that's going to be now the way in which we create medications.
+
+23:11.120 --> 23:15.840
+But they were able to simulate what each example of an mRNA
+
+23:15.840 --> 23:17.720
+would do to a human being,
+
+23:17.720 --> 23:20.440
+and they were able to simulate that quite reliably.
+
+23:21.360 --> 23:26.200
+And we actually simulated billions of different mRNA sequences.
+
+23:27.040 --> 23:28.960
+And they found the ones that were the best,
+
+23:28.960 --> 23:30.400
+and they created the vaccine.
+
+23:31.040 --> 23:34.080
+And they did, and talk about doing that quickly,
+
+23:34.080 --> 23:35.720
+they did that in two days.
+
+23:36.240 --> 23:37.800
+Now, how long would a human being take
+
+23:37.800 --> 23:40.960
+to simulate billions of different mRNA sequences?
+
+23:40.960 --> 23:42.760
+I don't know that we could do it at all,
+
+23:42.760 --> 23:45.080
+but it would take many years.
+
+23:45.760 --> 23:47.160
+They did it in two days.
+
+23:48.440 --> 23:52.760
+And one of the reasons that people didn't like vaccines
+
+23:53.760 --> 23:55.520
+is because it was done too quickly.
+
+23:55.520 --> 23:56.920
+It was done too fast.
+
+23:58.240 --> 24:01.280
+And they actually included the time it took to test it out,
+
+24:01.280 --> 24:02.920
+which was 10 months.
+
+24:02.920 --> 24:06.320
+So they figured, okay, it took 10 months to create this.
+
+24:06.320 --> 24:07.920
+Actually, it took us two days.
+
+24:09.080 --> 24:11.840
+And we also will be able to ultimately do the tests
+
+24:11.840 --> 24:13.600
+in a few days as well.
+
+24:14.160 --> 24:16.520
+Oh, because we can simulate how the body will respond to it.
+
+24:16.520 --> 24:17.360
+Yeah.
+
+24:17.360 --> 24:19.040
+That's a little bit more complicated
+
+24:19.040 --> 24:22.880
+because the body has a lot of different elements,
+
+24:22.880 --> 24:24.640
+and we have to simulate all of that.
+
+24:25.480 --> 24:27.480
+But that's coming as well.
+
+24:27.480 --> 24:30.200
+So ultimately, we could create it in a few days
+
+24:30.200 --> 24:32.880
+and then test it in a few days, and it would be done.
+
+24:33.880 --> 24:38.560
+And we can do that with every type of medical insufficiency
+
+24:38.560 --> 24:39.560
+that we have.
+
+24:40.160 --> 24:41.920
+So curing all diseases,
+
+24:43.760 --> 24:47.400
+improving certain functions of the body,
+
+24:48.800 --> 24:53.000
+supplements, drugs for recreation,
+
+24:53.000 --> 24:56.320
+for health, for performance, for productivity, all that.
+
+24:56.320 --> 24:57.920
+Well, that's where we're headed.
+
+24:57.920 --> 25:00.520
+Because I mean, right now, we have a very inefficient way
+
+25:00.520 --> 25:02.280
+of creating these new medications.
+
+25:03.880 --> 25:05.520
+But we've already shown it,
+
+25:05.520 --> 25:07.960
+and the Moderna vaccine is actually the best
+
+25:09.000 --> 25:10.880
+of the vaccines we've had.
+
+25:11.880 --> 25:14.280
+And it literally took two days to create.
+
+25:15.640 --> 25:18.880
+And we'll get to the point where we can test it out also quickly.
+
+25:19.560 --> 25:21.440
+Are you impressed by AlphaFold
+
+25:21.440 --> 25:25.160
+and the solution to the protein folding,
+
+25:25.160 --> 25:29.520
+which essentially is simulating, modeling
+
+25:30.000 --> 25:34.280
+this primitive building block of life, which is a protein,
+
+25:34.280 --> 25:36.000
+and its 3D shape?
+
+25:36.000 --> 25:38.960
+It's pretty remarkable that they can actually predict
+
+25:38.960 --> 25:41.120
+what the 3D shape of these things are.
+
+25:41.960 --> 25:46.120
+But they did it with the same type of neural net,
+
+25:46.120 --> 25:50.360
+the one, for example, the GO test.
+
+25:51.240 --> 25:52.680
+So it's all the same?
+
+25:52.680 --> 25:54.040
+It's all the same.
+
+25:54.040 --> 25:57.840
+They took that same thing and just changed the rules to chess.
+
+25:58.800 --> 26:01.560
+And within a couple of days,
+
+26:01.560 --> 26:05.560
+it now played a master level of chess greater than any human being.
+
+26:09.080 --> 26:11.800
+And the same thing then worked for AlphaFold,
+
+26:13.360 --> 26:14.680
+which no human had done.
+
+26:14.680 --> 26:16.720
+I mean, human beings could do,
+
+26:16.720 --> 26:20.400
+the best humans could maybe do 15, 20 percent
+
+26:22.520 --> 26:25.040
+of figuring out what the shape would be.
+
+26:25.720 --> 26:31.280
+And after a few takes, it ultimately did just about 100 percent.
+
+26:32.480 --> 26:35.440
+Do you still think the singularity will happen in 2045?
+
+26:37.520 --> 26:39.520
+And what does that look like?
+
+26:40.160 --> 26:45.920
+You know, once we can amplify our brain with computers directly,
+
+26:46.560 --> 26:49.360
+which will happen in the 2030s, it's going to keep growing.
+
+26:49.760 --> 26:50.960
+It's another whole theme,
+
+26:50.960 --> 26:54.080
+which is the exponential growth of computing power.
+
+26:54.880 --> 26:59.560
+Yeah, so looking at price performance of computation from 1939 to 2021.
+
+26:59.680 --> 27:02.880
+Right. So that starts with the very first computer
+
+27:02.880 --> 27:05.360
+actually created by a German during World War II.
+
+27:06.480 --> 27:09.360
+You might have thought that that might be significant,
+
+27:09.360 --> 27:13.840
+but actually the Germans didn't think computers were significant
+
+27:13.840 --> 27:16.680
+and they completely rejected it.
+
+27:16.680 --> 27:19.320
+The second one is also the ZUSA II.
+
+27:20.240 --> 27:23.200
+And by the way, we're looking at a plot with the X axis
+
+27:23.200 --> 27:27.800
+being the year from 1935 to 2025.
+
+27:28.480 --> 27:34.320
+And on the Y axis and log scale is computation per second per constant dollar.
+
+27:34.640 --> 27:36.600
+So dollar normalized inflation.
+
+27:37.600 --> 27:41.760
+And it's growing linearly on the log scale, which means it's growing exponentially.
+
+27:41.800 --> 27:44.680
+The third one was the British computer,
+
+27:44.680 --> 27:47.120
+which the Allies did take very seriously,
+
+27:47.640 --> 27:51.080
+and it cracked the German code
+
+27:51.680 --> 27:54.720
+and enables the British to win the Battle of Britain,
+
+27:55.440 --> 27:57.640
+which otherwise absolutely would not have happened
+
+27:57.640 --> 28:00.560
+if they hadn't cracked the code using that computer.
+
+28:02.000 --> 28:03.560
+But that's an exponential graph.
+
+28:03.560 --> 28:06.440
+So a straight line on that graph is exponential growth.
+
+28:07.200 --> 28:10.760
+And you see 80 years of exponential growth.
+
+28:11.520 --> 28:15.120
+And I would say about every five years,
+
+28:15.120 --> 28:19.080
+and this happened shortly before the pandemic, people saying,
+
+28:19.320 --> 28:22.280
+well, they call it Moore's law, which is not the correct
+
+28:23.120 --> 28:25.400
+because that's not all Intel.
+
+28:25.400 --> 28:29.080
+In fact, this started decades before Intel was even created.
+
+28:29.600 --> 28:33.320
+It wasn't with transistors formed into a grid.
+
+28:34.080 --> 28:37.080
+It's not just transistor count or transistor size.
+
+28:37.160 --> 28:42.400
+Right. It started with relays, then went to vacuum tubes,
+
+28:43.120 --> 28:45.760
+then went to individual transistors
+
+28:46.640 --> 28:48.600
+and then to integrated circuits.
+
+28:49.840 --> 28:54.000
+And the integrated circuits actually starts
+
+28:54.000 --> 28:55.400
+like in the middle of this graph.
+
+28:56.680 --> 28:58.760
+And it has nothing to do with Intel.
+
+28:58.760 --> 29:02.000
+Intel actually was a key part of this.
+
+29:02.920 --> 29:06.960
+But a few years ago, they stopped making the fastest chips.
+
+29:08.960 --> 29:13.800
+But if you take the fastest chip of any technology in that year,
+
+29:14.520 --> 29:15.880
+you get this kind of graph.
+
+29:16.560 --> 29:19.520
+And it's definitely continuing for 80 years.
+
+29:19.720 --> 29:23.640
+So you don't think Moore's law broadly defined is dead.
+
+29:24.800 --> 29:29.200
+It's been declared dead multiple times throughout this process.
+
+29:29.200 --> 29:32.480
+I don't like the term Moore's law because it has nothing to do
+
+29:32.480 --> 29:34.640
+with Moore or with Intel.
+
+29:34.640 --> 29:40.320
+But yes, the exponential growth of computing is continuing
+
+29:41.480 --> 29:43.920
+and has never stopped from various sources.
+
+29:43.920 --> 29:45.760
+I mean, it went through World War II.
+
+29:45.760 --> 29:48.440
+It went through global recessions.
+
+29:49.120 --> 29:50.480
+It's just continuing.
+
+29:53.480 --> 29:58.080
+And if you continue that out along with software gains,
+
+29:58.080 --> 30:02.920
+which is all another issue, and they really multiply,
+
+30:02.920 --> 30:04.400
+whatever you get from software gains,
+
+30:04.400 --> 30:09.880
+you multiply by the computer gains, you get faster and faster speed.
+
+30:10.880 --> 30:15.480
+This is actually the fastest computer models that have been created.
+
+30:15.800 --> 30:19.440
+And that actually expands roughly twice a year,
+
+30:19.440 --> 30:21.840
+like every six months, it expands by two.
+
+30:22.800 --> 30:27.760
+So we're looking at a plot from 2010 to 2022.
+
+30:28.280 --> 30:31.000
+On the x-axis is the publication date of the model
+
+30:31.360 --> 30:34.160
+and perhaps sometimes the actual paper associated with it.
+
+30:34.160 --> 30:39.280
+And on the y-axis is training, compute and flops.
+
+30:40.160 --> 30:46.320
+And so basically, this is looking at the increase in not transistors,
+
+30:46.320 --> 30:51.120
+but the computational power of neural networks.
+
+30:51.400 --> 30:54.240
+Yeah, it's the computational power that created these models.
+
+30:55.000 --> 30:58.600
+And that's doubled every six months, which is even faster.
+
+30:58.600 --> 31:00.600
+The transistor division. Yeah.
+
+31:02.040 --> 31:06.160
+Now, actually, since it goes faster than the amount of cost,
+
+31:06.800 --> 31:11.680
+this has actually become a greater investment to create these.
+
+31:12.160 --> 31:15.720
+But at any rate, by the time it gets to 2045,
+
+31:16.560 --> 31:20.400
+we'll be able to multiply our intelligence, many millions fold.
+
+31:21.400 --> 31:24.360
+And it's just very hard to imagine what that will be like.
+
+31:24.960 --> 31:28.040
+And that's the singularity where we can't even imagine.
+
+31:28.320 --> 31:30.400
+Right. That's why we call it the singularity,
+
+31:30.400 --> 31:32.680
+because the singularity in physics,
+
+31:32.680 --> 31:35.080
+something gets sucked into its singularity
+
+31:35.080 --> 31:36.880
+and you can't tell what's going on in there
+
+31:37.720 --> 31:40.080
+because no information can get out of it.
+
+31:40.400 --> 31:42.080
+There's various problems with that.
+
+31:42.080 --> 31:44.000
+But that's the idea.
+
+31:44.000 --> 31:48.680
+It's too it's too much beyond what we can imagine.
+
+31:48.880 --> 31:50.840
+Do you think it's possible we don't notice
+
+31:52.080 --> 31:55.120
+that what the singularity actually feels like
+
+31:56.280 --> 31:59.600
+is we just live through it.
+
+31:59.600 --> 32:01.920
+With exponentially increasing
+
+32:02.920 --> 32:05.320
+cognitive capabilities.
+
+32:05.320 --> 32:08.240
+And we almost, because everything is moving so quickly,
+
+32:08.240 --> 32:13.240
+don't aren't really able to introspect that our life has changed.
+
+32:13.560 --> 32:17.360
+Yeah. But I mean, we will have that much greater capacity
+
+32:17.360 --> 32:18.440
+to understand things.
+
+32:18.440 --> 32:22.760
+So we should be able to look back, looking at history, understand history.
+
+32:23.080 --> 32:25.560
+But we will need people
+
+32:25.560 --> 32:28.560
+basically like you and me to actually think about these things.
+
+32:29.120 --> 32:33.400
+But we might be distracted by all the other sources of entertainment and fun
+
+32:34.040 --> 32:39.240
+because the exponential power of intellect is growing.
+
+32:39.240 --> 32:41.560
+But also, there'll be a lot of fun.
+
+32:44.040 --> 32:46.520
+The amount of ways you can have, you know, I mean,
+
+32:46.520 --> 32:48.960
+we already have a lot of fun with computer games and so on.
+
+32:48.960 --> 32:51.520
+They're really quite remarkable.
+
+32:51.520 --> 32:57.440
+What do you think about the digital world, the metaverse, virtual reality?
+
+32:57.760 --> 32:59.240
+Will that have a component in this?
+
+32:59.240 --> 33:01.760
+Or will most of our advancement be in physical reality?
+
+33:01.960 --> 33:04.600
+Well, that's a little bit like second life.
+
+33:04.600 --> 33:07.040
+Although the second life actually didn't work very well
+
+33:07.040 --> 33:09.520
+because it couldn't actually handle too many people.
+
+33:09.520 --> 33:14.400
+And I don't think the metaverse has come to being.
+
+33:14.400 --> 33:16.840
+I think there will be something like that.
+
+33:16.840 --> 33:20.880
+It won't necessarily be from that one company.
+
+33:21.280 --> 33:23.640
+I mean, there's going to be competitors.
+
+33:23.640 --> 33:25.880
+But yes, we're going to live increasingly online,
+
+33:26.680 --> 33:29.120
+and particularly if our brains are online.
+
+33:29.120 --> 33:31.480
+I mean, how could we not be online?
+
+33:31.480 --> 33:34.880
+Do you think it's possible that given this merger with AI,
+
+33:34.880 --> 33:41.800
+most of our meaningful interactions will be in this virtual world?
+
+33:42.600 --> 33:45.680
+Most of our life, we fall in love, we make friends,
+
+33:46.240 --> 33:49.360
+we come up with ideas, we do collaborations, we have fun.
+
+33:49.360 --> 33:52.760
+I actually know somebody who's marrying somebody that they never met.
+
+33:53.000 --> 33:54.000
+Yeah.
+
+33:54.600 --> 33:57.600
+I think they just met her briefly before the wedding.
+
+33:57.600 --> 34:01.280
+But she actually fell in love with this other person,
+
+34:02.720 --> 34:05.000
+never having met them.
+
+34:06.160 --> 34:09.240
+And I think the love is real.
+
+34:09.240 --> 34:11.440
+So that's a beautiful story.
+
+34:11.440 --> 34:14.960
+But do you think that story is one that might be experienced
+
+34:14.960 --> 34:18.360
+as opposed to by hundreds of thousands of people,
+
+34:18.360 --> 34:21.480
+but instead by hundreds of millions of people?
+
+34:22.120 --> 34:23.760
+I mean, it really gives you appreciation
+
+34:23.760 --> 34:26.960
+for these virtual ways of communicating.
+
+34:28.280 --> 34:33.400
+And if anybody can do it, then it's really not such a freak story.
+
+34:34.680 --> 34:37.400
+So I think more and more people will do that.
+
+34:37.400 --> 34:41.160
+But that's turning our back on our entire history of evolution.
+
+34:41.960 --> 34:45.480
+The old days, we used to fall in love by holding hands
+
+34:46.600 --> 34:49.040
+and sitting by the fire, that kind of stuff.
+
+34:49.520 --> 34:54.640
+Well, I actually have five patents on where you can hold hands,
+
+34:54.640 --> 34:57.040
+even if you're separated.
+
+34:57.040 --> 34:58.040
+Great.
+
+34:58.640 --> 35:01.920
+So the touch, the sense, it's all just senses.
+
+35:01.920 --> 35:02.920
+It's all just...
+
+35:02.920 --> 35:04.720
+Yeah, I mean, touch is...
+
+35:04.720 --> 35:07.120
+It's not just that you're touching someone or not.
+
+35:07.120 --> 35:11.480
+There's a whole way of doing it, and it's very subtle.
+
+35:11.480 --> 35:15.040
+But ultimately, we can emulate all of that.
+
+35:16.040 --> 35:18.440
+Are you excited by that future?
+
+35:18.440 --> 35:20.440
+Do you worry about that future?
+
+35:22.040 --> 35:24.440
+I have certain worries about the future, but not...
+
+35:24.440 --> 35:25.440
+Not that?
+
+35:25.440 --> 35:26.440
+Virtual touch.
+
+35:28.440 --> 35:30.040
+Well, I agree with you.
+
+35:30.040 --> 35:32.840
+You described six stages in the evolution
+
+35:32.840 --> 35:35.440
+of information processing in the universe,
+
+35:35.440 --> 35:37.840
+as you started to describe.
+
+35:37.840 --> 35:41.440
+Can you maybe talk through some of those stages,
+
+35:41.440 --> 35:44.640
+from the physics and chemistry to DNA and brains,
+
+35:44.640 --> 35:50.040
+and then to the very end, to the very beautiful end of this process?
+
+35:50.040 --> 35:52.640
+Well, it actually gets more rapid.
+
+35:53.440 --> 35:56.040
+So physics and chemistry, that's how we started.
+
+35:58.040 --> 36:00.440
+So at the very beginning of the universe...
+
+36:00.440 --> 36:04.040
+We had lots of electrons and various things traveling around.
+
+36:05.440 --> 36:09.040
+And that took, actually, many billions of years.
+
+36:09.040 --> 36:13.640
+Kind of jumping ahead here to kind of some of the last stages,
+
+36:13.640 --> 36:16.640
+where we have things like love and creativity.
+
+36:16.640 --> 36:19.640
+It's really quite remarkable that that happens.
+
+36:20.640 --> 36:26.640
+But finally, physics and chemistry created biology and DNA.
+
+36:27.640 --> 36:31.040
+And now you had actually one type of molecule
+
+36:31.040 --> 36:34.640
+that described the cutting edge of this process.
+
+36:34.640 --> 36:38.640
+And we go from physics and chemistry to biology.
+
+36:40.240 --> 36:43.240
+And finally, biology created brains.
+
+36:44.240 --> 36:48.240
+I mean, not everything that's created by biology has a brain.
+
+36:49.240 --> 36:52.240
+But eventually, brains came along.
+
+36:52.240 --> 36:54.240
+And all of this is happening faster and faster.
+
+36:54.240 --> 36:55.240
+Yeah.
+
+36:56.240 --> 37:00.240
+It created increasingly complex organisms.
+
+37:00.240 --> 37:05.840
+Another key thing is actually not just brains, but our thumb.
+
+37:08.840 --> 37:13.840
+Because there's a lot of animals with brains even bigger than humans.
+
+37:14.840 --> 37:16.840
+I mean, elephants have a bigger brain.
+
+37:16.840 --> 37:18.840
+Whales have a bigger brain.
+
+37:19.840 --> 37:24.840
+But they've not created technology, because they don't have a thumb.
+
+37:24.840 --> 37:28.840
+So that's one of the really key elements in the evolution of humans.
+
+37:28.840 --> 37:35.840
+This physical manipulator device that's useful for puzzle solving in the physical's reality.
+
+37:35.840 --> 37:38.840
+So I could think, I could look at a tree and go,
+
+37:38.840 --> 37:42.840
+oh, well, I could actually strip that branch down and eliminate the leaves
+
+37:42.840 --> 37:46.840
+and carve a tip on it, and it would create technology.
+
+37:47.840 --> 37:51.840
+And you can't do that if you don't know how to do that.
+
+37:51.840 --> 37:55.840
+And you can't do that if you don't have a thumb.
+
+37:58.840 --> 38:06.840
+So thumbs then created technology, and technology also had a memory.
+
+38:07.840 --> 38:13.840
+And now those memories are competing with the scale and scope of human beings.
+
+38:14.840 --> 38:16.840
+And ultimately, we'll go beyond it.
+
+38:17.840 --> 38:26.840
+And then we're going to merge human technology with human intelligence
+
+38:26.840 --> 38:32.840
+and understand how human intelligence works, which I think we already do.
+
+38:32.840 --> 38:37.840
+And we're putting that into our human technology.
+
+38:38.840 --> 38:42.840
+So create the technology inspired by our own intelligence
+
+38:42.840 --> 38:46.840
+and then that technology supersedes us in terms of its capabilities.
+
+38:46.840 --> 38:49.840
+And we ride along. Or do you ultimately see it as...
+
+38:49.840 --> 38:52.840
+And we ride along, but a lot of people don't see that.
+
+38:52.840 --> 38:55.840
+They say, well, you've got humans, and you've got machines,
+
+38:55.840 --> 38:59.840
+and there's no way we can ultimately compete with humans.
+
+38:59.840 --> 39:01.840
+And you can already see that.
+
+39:01.840 --> 39:06.840
+Lee Soudal, who's like the best Go player in the world,
+
+39:06.840 --> 39:08.840
+says he's not going to play Go anymore.
+
+39:09.840 --> 39:14.840
+Because playing Go for human, that was like the ultimate in intelligence,
+
+39:14.840 --> 39:16.840
+because no one else could do that.
+
+39:17.840 --> 39:21.840
+But now a machine can actually go way beyond him.
+
+39:21.840 --> 39:24.840
+And so he says, well, there's no point playing it anymore.
+
+39:24.840 --> 39:28.840
+That may be more true for games than it is for life.
+
+39:29.840 --> 39:33.840
+I think there's a lot of benefit to working together with AI in regular life.
+
+39:33.840 --> 39:37.840
+So if you were to put a probability on it,
+
+39:37.840 --> 39:42.840
+is it more likely that we merge with AI, or AI replaces us?
+
+39:42.840 --> 39:47.840
+A lot of people just think computers come along and they compete with them.
+
+39:47.840 --> 39:50.840
+We can't really compete, and that's the end of it.
+
+39:51.840 --> 39:56.840
+As opposed to them increasing our abilities.
+
+39:56.840 --> 40:01.840
+And if you look at most technology, it increases our abilities.
+
+40:03.840 --> 40:05.840
+I mean, look at the history of work.
+
+40:06.840 --> 40:09.840
+Look at what people did 100 years ago.
+
+40:10.840 --> 40:12.840
+Does any of that exist anymore?
+
+40:13.840 --> 40:18.840
+I mean, if you were to predict that all of these jobs would go away
+
+40:18.840 --> 40:20.840
+and would be done by machines, people would say,
+
+40:20.840 --> 40:26.840
+well, no one's going to have jobs, and it's going to be massive unemployment.
+
+40:28.840 --> 40:32.840
+But I show in this book that's coming out,
+
+40:33.840 --> 40:36.840
+that the amount of people that are working,
+
+40:36.840 --> 40:40.840
+even as a percentage of the population, has gone way up.
+
+40:41.840 --> 40:45.840
+We're looking at the X-axis year from 1774 to 2024,
+
+40:45.840 --> 40:50.840
+and on the Y-axis, personal income per capita in constant dollars,
+
+40:50.840 --> 40:52.840
+and it's growing super linearly.
+
+40:53.840 --> 40:57.840
+Yeah, 2021 constant dollars, and it's gone way up.
+
+40:57.840 --> 41:00.840
+That's not what you would predict,
+
+41:00.840 --> 41:03.840
+given that we would predict that all these jobs would go away.
+
+41:04.840 --> 41:09.840
+But the reason it's gone up is because we've basically enhanced our own capabilities
+
+41:09.840 --> 41:13.840
+by using these machines, as opposed to them just competing with us.
+
+41:13.840 --> 41:18.840
+That's a key way in which we're going to be able to become far smarter than we are now
+
+41:18.840 --> 41:25.840
+by increasing the number of different parameters we can consider in making a decision.
+
+41:25.840 --> 41:28.840
+I was very fortunate, I am very fortunate,
+
+41:28.840 --> 41:36.840
+to be able to get a glimpse preview of your upcoming book, Singularities Nearer,
+
+41:36.840 --> 41:44.840
+and one of the themes outside of just discussing the increasing exponential growth of technology,
+
+41:44.840 --> 41:49.840
+one of the themes is that things are getting better in all aspects of life,
+
+41:49.840 --> 41:53.840
+and you talk just about this.
+
+41:53.840 --> 41:57.840
+One of the things you're saying is with jobs, so let me just ask about that.
+
+41:57.840 --> 42:03.840
+There is a big concern that automation, especially powerful AI,
+
+42:03.840 --> 42:07.840
+will get rid of jobs, people will lose jobs,
+
+42:07.840 --> 42:13.840
+and as you were saying, the senses throughout the history of the 20th century,
+
+42:13.840 --> 42:16.840
+automation did not do that, ultimately.
+
+42:16.840 --> 42:19.840
+So the question is, will this time be different?
+
+42:19.840 --> 42:23.840
+Right, that is the question, will this time be different?
+
+42:23.840 --> 42:29.840
+And it really has to do with how quickly we can merge with this type of intelligence.
+
+42:29.840 --> 42:39.840
+Whether Lambda or GPT-3 is out there, and maybe it's overcome some of its key problems,
+
+42:39.840 --> 42:48.840
+and we really haven't enhanced human intelligence, that might be a negative scenario.
+
+42:48.840 --> 42:55.840
+But I mean, that's why we create technologies, to enhance ourselves,
+
+42:55.840 --> 42:58.840
+and I believe we will be enhanced.
+
+42:58.840 --> 43:08.840
+We're not just going to sit here with 300 million modules in our neocortex,
+
+43:08.840 --> 43:13.840
+we're going to be able to go beyond that,
+
+43:13.840 --> 43:24.840
+because that's useful, but we can multiply that by 10, 100, 1000, a million.
+
+43:24.840 --> 43:29.840
+And you might think, well, what's the point of doing that?
+
+43:29.840 --> 43:35.840
+It's like asking somebody that's never heard music, well, what's the value of music?
+
+43:35.840 --> 43:40.840
+I mean, you can't appreciate it until you've created it.
+
+43:40.840 --> 43:47.840
+There's some worry that there will be a wealth disparity, a class or wealth disparity.
+
+43:47.840 --> 43:54.840
+Only the rich people will be, basically, the rich people will first have access to this kind of thing,
+
+43:54.840 --> 44:01.840
+and then because of this kind of thing, because the ability to merge will get richer exponentially faster.
+
+44:01.840 --> 44:05.840
+And I say that's just like cell phones.
+
+44:05.840 --> 44:09.840
+There's like 4 billion cell phones in the world today.
+
+44:09.840 --> 44:14.840
+In fact, when cell phones first came out, you had to be fairly wealthy.
+
+44:14.840 --> 44:16.840
+They weren't very inexpensive.
+
+44:16.840 --> 44:19.840
+You had to have some wealth in order to afford them.
+
+44:19.840 --> 44:22.840
+Yeah, there were these big, sexy phones.
+
+44:22.840 --> 44:25.840
+And they didn't work very well. They did almost nothing.
+
+44:25.840 --> 44:34.840
+So you can only afford these things if you're wealthy at a point where they really don't work very well.
+
+44:34.840 --> 44:41.840
+So achieving scale and making it inexpensive is part of making the thing work well.
+
+44:41.840 --> 44:47.840
+Exactly. So these are not totally cheap, but they're pretty cheap.
+
+44:47.840 --> 44:51.840
+I mean, you can get them for a few hundred dollars.
+
+44:51.840 --> 44:54.840
+Especially given the kind of things it provides for you.
+
+44:54.840 --> 44:59.840
+There's a lot of people in the third world that have very little, but they have a smartphone.
+
+44:59.840 --> 45:01.840
+Yeah, absolutely.
+
+45:01.840 --> 45:03.840
+And the same will be true with AI.
+
+45:03.840 --> 45:06.840
+I mean, I see homeless people have their own cell phones.
+
+45:06.840 --> 45:13.840
+Yeah. So your sense is any kind of advanced technology will take the same trajectory.
+
+45:13.840 --> 45:17.840
+Right. It ultimately becomes cheap and will be affordable.
+
+45:17.840 --> 45:26.840
+I probably would not be the first person to put something in my brain to connect to computers.
+
+45:26.840 --> 45:29.840
+Because I think it will have limitations.
+
+45:29.840 --> 45:35.840
+But once it's really perfected, at that point it will be pretty inexpensive.
+
+45:35.840 --> 45:38.840
+I think it will be pretty affordable.
+
+45:38.840 --> 45:44.840
+So in which other ways, as you outline your book, is life getting better?
+
+45:44.840 --> 45:50.840
+I mean, I have 50 charts in there where everything is getting better.
+
+45:50.840 --> 45:57.840
+I think there's a kind of cynicism about, even if you look at extreme poverty, for example.
+
+45:57.840 --> 46:02.840
+For example, this is actually a poll taken on extreme poverty.
+
+46:02.840 --> 46:07.840
+And the people were asked, has poverty gotten better or worse?
+
+46:07.840 --> 46:16.840
+And the options are increased by 50%, increased by 25%, remain the same, decreased by 25%, decreased by 50%.
+
+46:16.840 --> 46:20.840
+If you're watching this or listening to this, try to vote for yourself.
+
+46:20.840 --> 46:26.840
+70% thought it had gotten worse. And that's the general impression.
+
+46:26.840 --> 46:31.840
+88% thought it had gotten worse or remained the same.
+
+46:31.840 --> 46:38.840
+Only 1% thought it decreased by 50%. And that is the answer. It actually decreased by 50%.
+
+46:38.840 --> 46:44.840
+So only 1% of people got the right optimistic estimate of how poverty is...
+
+46:44.840 --> 46:50.840
+Right. And this is the reality. And it's true of almost everything you look at.
+
+46:50.840 --> 46:54.840
+You don't want to go back 100 years or 50 years.
+
+46:54.840 --> 47:00.840
+Things were quite miserable then, but we tend not to remember that.
+
+47:00.840 --> 47:07.840
+So literacy rate increasing over the past few centuries across all the different nations,
+
+47:07.840 --> 47:11.840
+nearly to 100% across many of the nations in the world.
+
+47:11.840 --> 47:15.840
+It's gone way up. Average years of education have gone way up.
+
+47:15.840 --> 47:23.840
+Life expectancy is also increasing. Life expectancy was 48 in 1900.
+
+47:23.840 --> 47:25.840
+And it's over 80 now.
+
+47:25.840 --> 47:32.840
+And it's going to continue to go up, particularly as we get into more advanced stages of simulated biology.
+
+47:32.840 --> 47:37.840
+For life expectancy, these trends are the same for at birth, age 1, age 5, age 10.
+
+47:37.840 --> 47:39.840
+So it's not just the infant mortality.
+
+47:39.840 --> 47:44.840
+And I have 50 more graphs in the book about all kinds of things.
+
+47:45.840 --> 47:54.840
+Even spread of democracy, which might bring up some sort of controversial issues, it still has gone way up.
+
+47:54.840 --> 47:58.840
+Well, that one has gone way up, but that one is a bumpy road, right?
+
+47:58.840 --> 48:04.840
+Exactly. And somebody might represent democracy and go backwards.
+
+48:04.840 --> 48:10.840
+But we basically had no democracies before the creation of the United States,
+
+48:10.840 --> 48:16.840
+which is a little over two centuries ago, which in the scale of human history isn't that long.
+
+48:16.840 --> 48:22.840
+Do you think superintelligence systems will help with democracy?
+
+48:22.840 --> 48:24.840
+So what is democracy?
+
+48:24.840 --> 48:37.840
+Democracy is giving a voice to the populace and having their ideas, having their beliefs, having their views represented?
+
+48:37.840 --> 48:40.840
+Well, I hope so.
+
+48:40.840 --> 48:50.840
+I mean, we've seen social networks can spread conspiracy theories, which have been quite negative.
+
+48:50.840 --> 48:57.840
+For example, being against any kind of stuff that would help your health.
+
+48:57.840 --> 49:06.840
+So those kinds of ideas have on social media, what you notice is they increase engagement.
+
+49:06.840 --> 49:09.840
+So dramatic division increases engagement.
+
+49:09.840 --> 49:16.840
+Do you worry about AI systems that will learn to maximize that division?
+
+49:16.840 --> 49:21.840
+I mean, I do have some concerns about this.
+
+49:21.840 --> 49:30.840
+And I have a chapter in the book about the perils of advanced AI.
+
+49:30.840 --> 49:36.840
+Spreading misinformation on social networks is one of them, but there are many others.
+
+49:36.840 --> 49:46.840
+What's the one that worries you the most that we should think about to try to avoid?
+
+49:46.840 --> 49:50.840
+Well, it's hard to choose.
+
+49:50.840 --> 49:57.840
+We do have the nuclear power that evolved when I was a child, I remember.
+
+49:57.840 --> 50:03.840
+And we would actually do these drills against a nuclear war.
+
+50:03.840 --> 50:10.840
+We'd get under our desks and put our hands behind our heads to protect us from a nuclear war.
+
+50:10.840 --> 50:14.840
+It seemed to work. We're still around.
+
+50:14.840 --> 50:16.840
+You're protected.
+
+50:16.840 --> 50:19.840
+But that's still a concern.
+
+50:19.840 --> 50:26.840
+And there are key dangerous situations that can take place in biology.
+
+50:26.840 --> 50:32.840
+Someone could create a virus that's very...
+
+50:32.840 --> 50:41.840
+I mean, we have viruses that are hard to spread and they can be very dangerous.
+
+50:41.840 --> 50:48.840
+And we have viruses that are easy to spread, but they're not so dangerous.
+
+50:49.840 --> 50:57.840
+Somebody could create something that would be very easy to spread and very dangerous and be very hard to stop.
+
+50:57.840 --> 51:03.840
+It could be something that would spread without people noticing because people could get it.
+
+51:03.840 --> 51:05.840
+They'd have no symptoms.
+
+51:05.840 --> 51:07.840
+And then everybody would get it.
+
+51:07.840 --> 51:10.840
+And then symptoms would occur maybe a month later.
+
+51:11.840 --> 51:25.840
+And that actually doesn't occur normally because if we were to have a problem with that, we wouldn't exist.
+
+51:25.840 --> 51:36.840
+So the fact that humans exist means that we don't have viruses that can spread easily and kill us because otherwise we wouldn't exist.
+
+51:36.840 --> 51:38.840
+Yeah, viruses don't want to do that.
+
+51:38.840 --> 51:43.840
+They want to spread and keep the host alive somewhat.
+
+51:43.840 --> 51:47.840
+So you can describe various dangers with biology.
+
+51:47.840 --> 51:55.840
+Also nanotechnology, which we actually haven't experienced yet, but there are people that are creating nanotechnology.
+
+51:55.840 --> 51:57.840
+And I described that in the book.
+
+51:57.840 --> 52:06.840
+Now you're excited by the possibilities of nanotechnology, of nanobots, of being able to do things inside our body, inside our mind that's going to help.
+
+52:06.840 --> 52:09.840
+What's exciting, what's terrifying about nanobots?
+
+52:09.840 --> 52:24.840
+What's exciting is that that's a way to communicate with our neocortex because each neocortex is pretty small and you need a small entity that can actually get in there and establish a communication channel.
+
+52:24.840 --> 52:39.840
+And that's going to really be necessary to connect our brains to AI within ourselves because otherwise it would be hard for us to compete with them in a high bandwidth way.
+
+52:39.840 --> 52:40.840
+Yeah, yeah.
+
+52:40.840 --> 52:48.840
+And that's key, actually, because a lot of the things like Neuralink are really not high bandwidth yet.
+
+52:48.840 --> 52:51.840
+So nanobots is the way you achieve high bandwidth.
+
+52:51.840 --> 52:54.840
+How much intelligence would those nanobots have?
+
+52:54.840 --> 52:56.840
+Yeah, they don't need a lot.
+
+52:56.840 --> 53:03.840
+Just enough to basically establish communication channel to one nanobot.
+
+53:03.840 --> 53:13.840
+So it's primarily about communication between external computing devices and our biological thinking machine.
+
+53:13.840 --> 53:16.840
+What worries you about nanobots?
+
+53:16.840 --> 53:18.840
+Is it similar to with the viruses?
+
+53:18.840 --> 53:21.840
+Well, I mean, this is the great GU challenge.
+
+53:21.840 --> 53:22.840
+Yes.
+
+53:22.840 --> 53:46.840
+If you had a nanobot that wanted to create any kind of entity and repeat itself and was able to operate in a natural environment, it could turn everything into that entity and basically destroy all
+
+53:46.840 --> 53:51.840
+its biological life.
+
+53:51.840 --> 53:54.840
+So you mentioned nuclear weapons.
+
+53:54.840 --> 53:57.840
+Yeah.
+
+53:57.840 --> 54:05.840
+I'd love to hear your opinion about the 21st century and whether you think we might destroy ourselves.
+
+54:06.840 --> 54:28.840
+If it has changed by looking at what's going on in Ukraine, that we could have a hot war with nuclear powers involved and the tensions building and the seeming forgetting of how terrifying and destructive nuclear weapons are.
+
+54:28.840 --> 54:33.840
+Do you think humans might destroy ourselves in the 21st century?
+
+54:33.840 --> 54:35.840
+And if we do, how?
+
+54:35.840 --> 54:37.840
+And how do I avoid it?
+
+54:37.840 --> 54:44.840
+I don't think that's going to happen despite the terrors of that war.
+
+54:44.840 --> 54:49.840
+It is a possibility, but I mean, I don't.
+
+54:49.840 --> 54:51.840
+It's unlikely in your mind.
+
+54:51.840 --> 54:52.840
+Yeah.
+
+54:52.840 --> 55:04.840
+Even with the tensions we've had with this one nuclear power plant that's been taken over, it's very tense.
+
+55:04.840 --> 55:09.840
+But I don't actually see a lot of people worrying that that's going to happen.
+
+55:09.840 --> 55:11.840
+I think we'll avoid that.
+
+55:11.840 --> 55:15.840
+We had two nuclear bombs go off in 45.
+
+55:15.840 --> 55:20.840
+So now we're 77 years later.
+
+55:20.840 --> 55:21.840
+Yeah, we're doing pretty good.
+
+55:21.840 --> 55:26.840
+We've never had another one go off through anger.
+
+55:26.840 --> 55:30.840
+People forget the lessons of history.
+
+55:30.840 --> 55:31.840
+Well, yeah.
+
+55:31.840 --> 55:33.840
+I mean, I am worried about it.
+
+55:33.840 --> 55:36.840
+I mean, that is definitely a challenge.
+
+55:36.840 --> 55:46.840
+But you believe that we'll make it out and ultimately super intelligent AI will help us make it out as opposed to destroy us.
+
+55:46.840 --> 55:48.840
+I think so.
+
+55:48.840 --> 55:51.840
+But we do have to be mindful of these dangers.
+
+55:51.840 --> 55:55.840
+And there are other dangers besides nuclear weapons.
+
+55:55.840 --> 56:10.840
+So to get back to merging with AI, will we be able to upload our mind in a computer in a way where we might even transcend the constraints of our bodies?
+
+56:10.840 --> 56:16.840
+So copy our mind into a computer and leave the body behind?
+
+56:16.840 --> 56:20.840
+Let me describe one thing I've already done with my father.
+
+56:20.840 --> 56:22.840
+That's a great story.
+
+56:22.840 --> 56:24.840
+So we created a technology.
+
+56:24.840 --> 56:25.840
+This is public.
+
+56:25.840 --> 56:32.840
+Came out, I think, six years ago, where you could ask any question.
+
+56:32.840 --> 56:39.840
+And the release product, which I think is still on the market, it would read 200,000 books.
+
+56:39.840 --> 56:47.840
+And then and then find the one sentence in 200,000 books that best answered your question.
+
+56:47.840 --> 56:50.840
+It's actually quite interesting.
+
+56:50.840 --> 56:55.840
+You can ask all kinds of questions and you get the best answer in 200,000 books.
+
+56:55.840 --> 57:08.840
+But I was also able to take it and not go through 200,000 books, but go through a book that I put together, which is basically everything my father had written.
+
+57:08.840 --> 57:18.840
+So everything he had written, I had gathered, and we created a book, everything that Frederick Israel had written.
+
+57:18.840 --> 57:28.840
+Now, I didn't think this actually would work that well, because stuff he'd written was stuff about how to lay out.
+
+57:29.840 --> 57:54.840
+I mean, he did directed choral groups and music groups, and he would be laying out how the people should, where they should sit and how to fund this and all kinds of things that really didn't seem that interesting.
+
+57:54.840 --> 58:02.840
+And yet, when you ask a question, it would go through it and it would actually give you a very good answer.
+
+58:02.840 --> 58:06.840
+So I said, well, you know, who's the most interesting composer?
+
+58:06.840 --> 58:08.840
+And he said, well, definitely Brahms.
+
+58:08.840 --> 58:15.840
+He would go on about how Brahms was fabulous and talk about the importance of music education.
+
+58:16.840 --> 58:21.840
+So you could have essentially a question and answer, a conversation with him.
+
+58:21.840 --> 58:33.840
+I could have a conversation with him, which was actually more interesting than talking to him, because if you talked to him, he'd be concerned about how they're going to lay out this property to give a choral group.
+
+58:33.840 --> 58:36.840
+He'd be concerned about the day-to-day versus the big questions.
+
+58:36.840 --> 58:38.840
+Exactly, yeah.
+
+58:38.840 --> 58:42.840
+And you did ask about the meaning of life, and he answered, love.
+
+58:42.840 --> 58:45.840
+Yeah.
+
+58:45.840 --> 58:48.840
+Do you miss him?
+
+58:48.840 --> 58:52.840
+Yes, I do.
+
+58:52.840 --> 59:06.840
+You know, you get used to missing somebody after 52 years, and I didn't really have intelligent conversations with him until later in life.
+
+59:06.840 --> 59:15.840
+In the last few years, he was sick, which meant he was home a lot, and I was actually able to talk to him about different things like music and other things.
+
+59:15.840 --> 59:19.840
+And so I miss that very much.
+
+59:19.840 --> 59:24.840
+What did you learn about life from your father?
+
+59:24.840 --> 59:28.840
+What part of him is with you now?
+
+59:28.840 --> 59:36.840
+He was devoted to music, and when he would create something to music, it put him in a different world.
+
+59:36.840 --> 59:41.840
+Otherwise, he was very shy.
+
+59:41.840 --> 59:49.840
+And if people got together, he tended not to interact with people, just because of his shyness.
+
+59:49.840 --> 59:54.840
+But when he created music, he was like a different person.
+
+59:54.840 --> 59:58.840
+Do you have that in you, that kind of light that shines?
+
+59:58.840 --> 01:00:05.840
+I mean, I got involved with technology at like age five.
+
+01:00:05.840 --> 01:00:08.840
+And you fell in love with it in the same way he did with music?
+
+01:00:08.840 --> 01:00:10.840
+Yeah.
+
+01:00:10.840 --> 01:00:15.840
+I remember this actually happened with my grandmother.
+
+01:00:15.840 --> 01:00:25.840
+She had a manual typewriter, and she wrote a book, One Life is Not Enough, which is actually a good title for a book I might write.
+
+01:00:25.840 --> 01:00:28.840
+And it was about a school she had created.
+
+01:00:28.840 --> 01:00:32.840
+Well, actually, her mother created it.
+
+01:00:32.840 --> 01:00:41.840
+So my mother's mother's mother created the school in 1868, and it was the first school in Europe that provided higher education for girls.
+
+01:00:41.840 --> 01:00:43.840
+It went through 14th grade.
+
+01:00:43.840 --> 01:00:50.840
+If you were a girl and you were lucky enough to get an education at all, it would go through like ninth grade.
+
+01:00:50.840 --> 01:00:54.840
+And many people didn't have any education as a girl.
+
+01:00:54.840 --> 01:00:57.840
+This went through 14th grade.
+
+01:00:57.840 --> 01:01:00.840
+Her mother created it.
+
+01:01:00.840 --> 01:01:02.840
+She took it over.
+
+01:01:02.840 --> 01:01:10.840
+And the book was about the history of the school and her involvement with it.
+
+01:01:10.840 --> 01:01:18.840
+When she presented it to me, I was not so interested in the story of the school.
+
+01:01:18.840 --> 01:01:23.840
+But I was totally amazed with this manual typewriter.
+
+01:01:23.840 --> 01:01:31.840
+I mean, here was something you could put a blank piece of paper into, and you could turn it into something that looked like it came from a book.
+
+01:01:31.840 --> 01:01:35.840
+And you could actually type on it, and it looked like it came from a book.
+
+01:01:35.840 --> 01:01:37.840
+It was just amazing to me.
+
+01:01:37.840 --> 01:01:41.840
+And I could see actually how it worked.
+
+01:01:41.840 --> 01:01:45.840
+And I was also interested in magic.
+
+01:01:45.840 --> 01:01:51.840
+But in magic, if somebody actually knows how it works, the magic goes away.
+
+01:01:51.840 --> 01:01:55.840
+The magic doesn't stay there if you actually understand how it works.
+
+01:01:55.840 --> 01:01:57.840
+But he was technology.
+
+01:01:57.840 --> 01:01:59.840
+I didn't have that word when I was five or six.
+
+01:01:59.840 --> 01:02:01.840
+And the magic was still there for you?
+
+01:02:01.840 --> 01:02:05.840
+The magic was still there, even if you knew how it worked.
+
+01:02:05.840 --> 01:02:16.840
+So I became totally interested in this and then went around, collected little pieces of mechanical objects from bicycles, from broken radios.
+
+01:02:16.840 --> 01:02:19.840
+I would go through the neighborhood.
+
+01:02:19.840 --> 01:02:25.840
+This was an era where you would allow five or six-year-olds who like run through the neighborhood and do this.
+
+01:02:25.840 --> 01:02:27.840
+We don't do that anymore.
+
+01:02:27.840 --> 01:02:29.840
+But I didn't know how to put them together.
+
+01:02:29.840 --> 01:02:36.840
+I said, if I could just figure out how to put these things together, I could solve any problem.
+
+01:02:36.840 --> 01:02:40.840
+And I actually remember talking to these very old girls.
+
+01:02:40.840 --> 01:02:44.840
+I think they were 10.
+
+01:02:44.840 --> 01:02:49.840
+And telling them, if I could just figure this out, we could fly, we could do anything.
+
+01:02:49.840 --> 01:02:55.840
+And they said, well, you have quite an imagination.
+
+01:02:55.840 --> 01:03:09.840
+And then when I was in third grade, so I was like eight, created like a virtual reality theater where people could come on stage and they could move their arms.
+
+01:03:09.840 --> 01:03:12.840
+And all of it was controlled through one control box.
+
+01:03:12.840 --> 01:03:16.840
+It was all done with mechanical technology.
+
+01:03:16.840 --> 01:03:20.840
+And it was a big hit in my third grade class.
+
+01:03:20.840 --> 01:03:27.840
+And then I went on to do things in junior high school science fairs and high school science fairs.
+
+01:03:27.840 --> 01:03:30.840
+I won the Westinghouse Science Talent Search.
+
+01:03:30.840 --> 01:03:38.840
+So, I mean, I became committed to technology when I was five or six years old.
+
+01:03:38.840 --> 01:03:45.840
+You've talked about how you use lucid dreaming to think, to come up with ideas as a source of creativity.
+
+01:03:45.840 --> 01:03:48.840
+Could you maybe talk through that?
+
+01:03:48.840 --> 01:03:53.840
+Maybe the process of how to, you've invented a lot of things.
+
+01:03:53.840 --> 01:03:57.840
+You've came up and thought through some very interesting ideas.
+
+01:03:57.840 --> 01:04:06.840
+What advice would you give or can you speak to the process of thinking, of how to think, how to think creatively?
+
+01:04:06.840 --> 01:04:11.840
+Well, I mean, sometimes I will think through in a dream and try to interpret that.
+
+01:04:11.840 --> 01:04:28.840
+But I think the key issue that I would tell younger people is to put yourself in the position that what you're trying to create already exists.
+
+01:04:28.840 --> 01:04:35.840
+And then you're explaining how it works.
+
+01:04:35.840 --> 01:04:37.840
+Exactly.
+
+01:04:37.840 --> 01:04:38.840
+That's really interesting.
+
+01:04:38.840 --> 01:04:45.840
+You paint a world that you would like to exist, you think it exists, and reverse engineer that.
+
+01:04:45.840 --> 01:04:49.840
+And then you actually imagine you're giving a speech about how you created this.
+
+01:04:49.840 --> 01:04:56.840
+Well, you'd have to then work backwards as to how you would create it in order to make it work.
+
+01:04:56.840 --> 01:04:57.840
+That's brilliant.
+
+01:04:57.840 --> 01:05:03.840
+And that requires some imagination too, some first principles thinking.
+
+01:05:03.840 --> 01:05:05.840
+You have to visualize that world.
+
+01:05:05.840 --> 01:05:07.840
+That's really interesting.
+
+01:05:07.840 --> 01:05:15.840
+And generally when I talk about things we're trying to invent, I would use the present tense as if it already exists.
+
+01:05:15.840 --> 01:05:21.840
+Not just to give myself that confidence, but everybody else who's working on it.
+
+01:05:21.840 --> 01:05:30.840
+We just have to kind of do all the steps in order to make it actual.
+
+01:05:30.840 --> 01:05:34.840
+How much of a good idea is about timing?
+
+01:05:34.840 --> 01:05:40.840
+How much is it about your genius versus that its time has come?
+
+01:05:40.840 --> 01:05:42.840
+Timing is very important.
+
+01:05:42.840 --> 01:05:46.840
+I mean, that's really why I got into futurism.
+
+01:05:46.840 --> 01:05:49.840
+I wasn't inherently a futurist.
+
+01:05:49.840 --> 01:05:53.840
+That was not really my goal.
+
+01:05:53.840 --> 01:05:57.840
+That's really to figure out when things are feasible.
+
+01:05:57.840 --> 01:06:00.840
+We see that now with large scale models.
+
+01:06:00.840 --> 01:06:08.840
+The very large scale models like GPT-3, it started two years ago.
+
+01:06:08.840 --> 01:06:10.840
+Four years ago, it wasn't feasible.
+
+01:06:10.840 --> 01:06:17.840
+In fact, they did create GPT-2, which didn't work.
+
+01:06:17.840 --> 01:06:26.840
+So it required a certain amount of timing having to do with this exponential growth of computing power.
+
+01:06:26.840 --> 01:06:33.840
+So futurism in some sense is a study of timing, trying to understand how the world will evolve.
+
+01:06:33.840 --> 01:06:37.840
+And when will the capacity for certain ideas emerge?
+
+01:06:37.840 --> 01:06:43.840
+And that's become a thing in itself and to try to time things in the future.
+
+01:06:43.840 --> 01:06:49.840
+But really, its original purpose was to time my products.
+
+01:06:49.840 --> 01:07:00.840
+I mean, I did OCR in the 1970s because OCR doesn't require a lot of computation.
+
+01:07:00.840 --> 01:07:02.840
+Optical character recognition.
+
+01:07:02.840 --> 01:07:05.840
+Yeah. So we were able to do that in the 70s.
+
+01:07:05.840 --> 01:07:13.840
+And I waited till the 80s to address speech recognition since that requires more computation.
+
+01:07:13.840 --> 01:07:16.840
+So you were thinking through timing when you're developing those things.
+
+01:07:16.840 --> 01:07:17.840
+Yeah.
+
+01:07:17.840 --> 01:07:19.840
+Has its time come?
+
+01:07:19.840 --> 01:07:20.840
+Yeah.
+
+01:07:20.840 --> 01:07:26.840
+And that's how you've developed that brain power to start to think in a futurist sense.
+
+01:07:26.840 --> 01:07:31.840
+When, how will the world look like in 2045 and work backwards?
+
+01:07:31.840 --> 01:07:32.840
+Yeah.
+
+01:07:32.840 --> 01:07:33.840
+And how it gets there?
+
+01:07:33.840 --> 01:07:41.840
+But that has become a thing in itself because looking at what things will be like in the future
+
+01:07:41.840 --> 01:07:50.840
+reflects such dramatic changes in how humans will live, that was worth communicating also.
+
+01:07:50.840 --> 01:07:57.840
+So you developed that muscle of predicting the future and then applied broadly
+
+01:07:57.840 --> 01:08:05.840
+and started to discuss how it changes the world of technology, how it changes the world of human life on Earth.
+
+01:08:05.840 --> 01:08:11.840
+In Danielle, one of your books, you write about someone who has the courage to question assumptions
+
+01:08:11.840 --> 01:08:15.840
+that limit human imagination to solve problems.
+
+01:08:15.840 --> 01:08:21.840
+And you also give advice on how each of us can have this kind of courage.
+
+01:08:21.840 --> 01:08:26.840
+Well, it's good that you picked that quote because I think that does symbolize what Danielle is about.
+
+01:08:26.840 --> 01:08:32.840
+Courage. So how can each of us have that courage to question assumptions?
+
+01:08:32.840 --> 01:08:42.840
+I mean, we see that when people can go beyond the current realm and create something that's new.
+
+01:08:42.840 --> 01:08:48.840
+I mean, take Uber, for example, before that existed, you never thought that that would be feasible.
+
+01:08:48.840 --> 01:08:53.840
+And it did require changes in the way people work.
+
+01:08:53.840 --> 01:09:03.840
+Is there practical advice you give in the book about what each of us can do to be a Danielle?
+
+01:09:03.840 --> 01:09:14.840
+Well, she looks at the situation and tries to imagine how she can overcome various obstacles.
+
+01:09:14.840 --> 01:09:23.840
+And then she goes for it. And she's a very good communicator, so she can communicate these ideas to other people.
+
+01:09:23.840 --> 01:09:31.840
+And there's practical advice of learning to program and recording your life and things of this nature.
+
+01:09:31.840 --> 01:09:38.840
+Become a physicist. So you list a bunch of different suggestions of how to throw yourself into this world.
+
+01:09:38.840 --> 01:09:51.840
+Yeah, I mean, it's kind of an idea how young people can actually change the world by learning all of these different skills.
+
+01:09:51.840 --> 01:09:59.840
+And at the core of that is the belief that you can change the world, that your mind, your body can change the world.
+
+01:09:59.840 --> 01:10:01.840
+Yeah, that's right.
+
+01:10:01.840 --> 01:10:05.840
+And not letting anyone else tell you otherwise.
+
+01:10:05.840 --> 01:10:07.840
+That's very good. Exactly.
+
+01:10:07.840 --> 01:10:20.840
+When we upload the story you told about your dad and having a conversation with him, we're talking about uploading your mind to the computer.
+
+01:10:20.840 --> 01:10:24.840
+Do you think we'll have a future with something you call afterlife?
+
+01:10:24.840 --> 01:10:32.840
+We'll have avatars that mimic increasingly better and better our behavior, our appearance, all that kind of stuff.
+
+01:10:32.840 --> 01:10:35.840
+Even those are perhaps no longer with us.
+
+01:10:35.840 --> 01:10:41.840
+Yes. I mean, we need some information about them.
+
+01:10:41.840 --> 01:10:52.840
+I mean, I think about my father. I have what he wrote. He didn't have a word processor, so he didn't actually write that much.
+
+01:10:52.840 --> 01:11:00.840
+And our memories of him aren't perfect. So how do you even know if you've created something that's satisfactory?
+
+01:11:00.840 --> 01:11:07.840
+You could do a Frederick Kurzweil Turing test. It seems like Frederick Kurzweil to me.
+
+01:11:07.840 --> 01:11:13.840
+But the people who remember him, like me, don't have a perfect memory.
+
+01:11:13.840 --> 01:11:24.840
+Is there such a thing as a perfect memory? Maybe the whole point is for him to make you feel a certain way.
+
+01:11:24.840 --> 01:11:27.840
+Yeah. Well, I think that would be the goal.
+
+01:11:27.840 --> 01:11:34.840
+And that's the connection we have with loved ones. It's not really based on very strict definition of truth.
+
+01:11:34.840 --> 01:11:40.840
+It's more about the experiences we share, and they get morphed through memory, but ultimately they make us smile.
+
+01:11:40.840 --> 01:11:45.840
+I think we definitely can do that, and that would be very worthwhile.
+
+01:11:45.840 --> 01:11:50.840
+So do you think we'll have a world of replicants, of copies?
+
+01:11:50.840 --> 01:11:54.840
+There'll be a bunch of Ray Kurzweils. I could hang out with one.
+
+01:11:54.840 --> 01:12:00.840
+I can download it for five bucks and have a best friend, Ray.
+
+01:12:00.840 --> 01:12:06.840
+And you, the original copy, wouldn't even know about it.
+
+01:12:06.840 --> 01:12:15.840
+First of all, do you think that world is feasible, and do you think there's ethical challenges there?
+
+01:12:15.840 --> 01:12:19.840
+Like, how would you feel about me hanging out with Ray Kurzweil and you not knowing about it?
+
+01:12:19.840 --> 01:12:25.840
+It doesn't strike me as a problem.
+
+01:12:25.840 --> 01:12:29.840
+Which you, the original?
+
+01:12:29.840 --> 01:12:32.840
+Would that cause a problem for you?
+
+01:12:32.840 --> 01:12:36.840
+No, I would really very much enjoy it.
+
+01:12:36.840 --> 01:12:42.840
+No, not just hanging out with me, but if somebody hanging out with you, a replicant of you.
+
+01:12:42.840 --> 01:12:53.840
+Well, I think I would start, it sounds exciting, but then what if they start doing better than me and take over my friend group?
+
+01:12:53.840 --> 01:13:04.840
+Because they may be an imperfect copy, or they may be more social, all these kinds of things.
+
+01:13:04.840 --> 01:13:09.840
+And then I become like the old version that's not nearly as exciting.
+
+01:13:09.840 --> 01:13:13.840
+Maybe they're a copy of the best version of me on a good day.
+
+01:13:13.840 --> 01:13:24.840
+But if you hang out with a replicant of me, and that turned out to be successful, I'd feel proud of that person because it was based on me.
+
+01:13:24.840 --> 01:13:31.840
+But it is a kind of death of this version of you.
+
+01:13:31.840 --> 01:13:35.840
+Well, not necessarily. I mean, you can still be alive, right?
+
+01:13:35.840 --> 01:13:41.840
+Okay, so it's like having kids and you're proud that they've done even more than you were able to do.
+
+01:13:41.840 --> 01:13:46.840
+Yeah, exactly.
+
+01:13:46.840 --> 01:13:53.840
+It does bring up new issues, but it seems like an opportunity.
+
+01:13:53.840 --> 01:13:58.840
+Well, that replicant should probably have the same rights as you do.
+
+01:13:58.840 --> 01:14:09.840
+Well, that gets into a whole issue because when a replicant occurs, they're not necessarily going to have your rights.
+
+01:14:09.840 --> 01:14:20.840
+And if a replicant occurs to somebody who's already dead, do they have all the obligations that the original person had?
+
+01:14:20.840 --> 01:14:25.840
+Do they have all the agreements that they had?
+
+01:14:25.840 --> 01:14:29.840
+I think you're going to have to have laws that say yes.
+
+01:14:29.840 --> 01:14:35.840
+If you want to create a replicant, they have to have all the same rights as human rights.
+
+01:14:35.840 --> 01:14:41.840
+Well, you don't know. Someone can create a replicant and say, well, it's a replicant, but I didn't bother getting their rights.
+
+01:14:41.840 --> 01:14:46.840
+But that would be illegal. I mean, if you do that, you have to do that in the black market.
+
+01:14:46.840 --> 01:14:49.840
+If you want to get an official replicant...
+
+01:14:49.840 --> 01:14:54.840
+It's not so easy. Suppose you create multiple replicants.
+
+01:14:54.840 --> 01:15:04.840
+The original rights may be for one person and not for a whole group of people.
+
+01:15:04.840 --> 01:15:13.840
+Sure. So there has to be at least one and then all the other ones kind of share the rights.
+
+01:15:13.840 --> 01:15:18.840
+Yeah, I just don't I don't think that that's very difficult to conceive for us humans.
+
+01:15:18.840 --> 01:15:24.840
+Because the idea that we don't create a replicant that has certain.
+
+01:15:24.840 --> 01:15:32.840
+I mean, I've talked to people about this, including my wife, who would like to get back her father.
+
+01:15:32.840 --> 01:15:37.840
+And she doesn't worry about who has rights to what.
+
+01:15:37.840 --> 01:15:44.840
+She should have somebody that she could visit with and give her some satisfaction.
+
+01:15:44.840 --> 01:15:48.840
+They wouldn't. She wouldn't care about any of these other rights.
+
+01:15:48.840 --> 01:15:52.840
+What does your wife think about multiple record as well?
+
+01:15:52.840 --> 01:15:57.840
+If you had that discussion, I wouldn't address that with her.
+
+01:15:57.840 --> 01:15:59.840
+I think I think ultimately that's an important question.
+
+01:15:59.840 --> 01:16:04.840
+Loved ones, how they feel about there's a there's something about love.
+
+01:16:04.840 --> 01:16:11.840
+That's the key thing, right? If the loved ones rejected, it's not going to work very well.
+
+01:16:11.840 --> 01:16:18.840
+So the loved ones really are the key determinant, whether or not this works or not.
+
+01:16:18.840 --> 01:16:21.840
+But there's also ethical rules.
+
+01:16:21.840 --> 01:16:26.840
+We have to contend with idea and we have to contend with that idea with A.I.
+
+01:16:26.840 --> 01:16:33.840
+But what's going to motivate it is I mean, I talked to people who really miss people who are gone
+
+01:16:33.840 --> 01:16:39.840
+and they would love to get something back, even if it isn't perfect.
+
+01:16:39.840 --> 01:16:46.840
+And that's what's going to motivate this.
+
+01:16:46.840 --> 01:16:50.840
+And that person lives on in some form.
+
+01:16:50.840 --> 01:16:58.840
+And the more data we have, the more we're able to reconstruct that person and allow them to live on.
+
+01:16:58.840 --> 01:17:02.840
+And eventually, as we go forward, we're going to have more and more of this data
+
+01:17:02.840 --> 01:17:10.840
+because we're going to have nanobots that are inside our neocortex and we're going to collect a lot of data.
+
+01:17:10.840 --> 01:17:14.840
+In fact, anything that's data is always collected.
+
+01:17:14.840 --> 01:17:22.840
+There is something a little bit sad, which is becoming or maybe it's hopeful,
+
+01:17:22.840 --> 01:17:27.840
+which is more and more common these days, which when a person passes away,
+
+01:17:27.840 --> 01:17:34.840
+you have their Twitter account, you know, and you have the last tweet they tweeted, like something.
+
+01:17:34.840 --> 01:17:37.840
+And you can recreate them now with large language models and so on.
+
+01:17:37.840 --> 01:17:44.840
+I mean, you can create somebody that's just like them and can actually continue to communicate.
+
+01:17:44.840 --> 01:17:50.840
+I think that's really exciting because I think in some sense, like if I were to die today,
+
+01:17:50.840 --> 01:17:55.840
+in some sense, I would continue on if I continued tweeting.
+
+01:17:55.840 --> 01:17:58.840
+I tweet, therefore I am.
+
+01:17:58.840 --> 01:18:03.840
+Yeah, well, I mean, that's one of the advantages of a replicant.
+
+01:18:03.840 --> 01:18:09.840
+They can recreate the communications of that person.
+
+01:18:09.840 --> 01:18:16.840
+Do you hope, do you think, do you hope humans will become a multiplanetary species?
+
+01:18:16.840 --> 01:18:23.840
+You've talked about the phases, the six epochs, and one of them is reaching out into the stars in part.
+
+01:18:23.840 --> 01:18:33.840
+Yes, but the kind of attempts we're making now to go to other planetary objects
+
+01:18:33.840 --> 01:18:38.840
+doesn't excite me that much because it's not really advancing anything.
+
+01:18:38.840 --> 01:18:40.840
+It's not efficient enough?
+
+01:18:40.840 --> 01:18:47.840
+Yeah, we're also putting out other human beings,
+
+01:18:47.840 --> 01:18:52.840
+which is a very inefficient way to explore these other objects.
+
+01:18:53.840 --> 01:18:59.840
+What I'm really talking about in the sixth epoch, the universe wakes up.
+
+01:18:59.840 --> 01:19:04.840
+It's where we can spread our superintelligence throughout the universe.
+
+01:19:04.840 --> 01:19:10.840
+And that doesn't mean sending very soft squishy creatures like humans.
+
+01:19:10.840 --> 01:19:13.840
+The universe wakes up.
+
+01:19:13.840 --> 01:19:18.840
+We would send intelligence masses of nanobots,
+
+01:19:18.840 --> 01:19:28.840
+which can then go out and colonize these other parts of the universe.
+
+01:19:28.840 --> 01:19:34.840
+Do you think there's intelligent alien civilizations out there that our bots might meet?
+
+01:19:34.840 --> 01:19:37.840
+My hunch is no.
+
+01:19:37.840 --> 01:19:40.840
+Most people say yes, absolutely.
+
+01:19:40.840 --> 01:19:42.840
+The universe is too big.
+
+01:19:42.840 --> 01:19:46.840
+And they'll cite the Drake equation.
+
+01:19:46.840 --> 01:19:51.840
+And I think in Singularity is Near,
+
+01:19:51.840 --> 01:19:59.840
+I have two analyses of the Drake equation, both with very reasonable assumptions.
+
+01:19:59.840 --> 01:20:06.840
+And one gives you thousands of advanced civilizations in each galaxy,
+
+01:20:06.840 --> 01:20:12.840
+and another one gives you one civilization, and we know of one.
+
+01:20:12.840 --> 01:20:20.840
+A lot of the analyses are forgetting the exponential growth of computation,
+
+01:20:20.840 --> 01:20:29.840
+because we've gone from where the fastest way I could send a message to somebody was with a pony,
+
+01:20:29.840 --> 01:20:34.840
+which was what, like a century and a half ago,
+
+01:20:34.840 --> 01:20:38.840
+to the advanced civilization we have today.
+
+01:20:38.840 --> 01:20:42.840
+And if you accept what I've said, go forward a few decades,
+
+01:20:42.840 --> 01:20:47.840
+you're going to have an absolutely fantastic amount of civilization compared to a pony,
+
+01:20:47.840 --> 01:20:50.840
+and that's in a couple hundred years.
+
+01:20:50.840 --> 01:20:58.840
+Yeah, the speed and the scale of information transfer is growing exponentially in a blink of an eye.
+
+01:20:58.840 --> 01:21:01.840
+Now think about these other civilizations.
+
+01:21:01.840 --> 01:21:05.840
+They're going to be spread out at cosmic times.
+
+01:21:05.840 --> 01:21:09.840
+So if something is like ahead of us or behind us,
+
+01:21:09.840 --> 01:21:16.840
+it could be ahead of us or behind us by maybe millions of years, which isn't that much.
+
+01:21:16.840 --> 01:21:23.840
+I mean, the world is billions of years old, 14 billion or something.
+
+01:21:23.840 --> 01:21:30.840
+So even a thousand years, if two or three hundred years is enough to go from a pony
+
+01:21:30.840 --> 01:21:35.840
+to a fantastic amount of civilization, we would see that.
+
+01:21:35.840 --> 01:21:43.840
+So of other civilizations that have occurred, some might be behind us, but some might be ahead of us.
+
+01:21:43.840 --> 01:21:49.840
+If they're ahead of us, they're ahead of us by thousands, millions of years,
+
+01:21:49.840 --> 01:21:55.840
+they would be so far beyond us, they would be doing galaxy-wide engineering.
+
+01:21:55.840 --> 01:21:59.840
+But we don't see anything doing galaxy-wide engineering.
+
+01:21:59.840 --> 01:22:07.840
+So either they don't exist or this very universe is a construction of an alien species.
+
+01:22:07.840 --> 01:22:11.840
+We're living inside a video game.
+
+01:22:11.840 --> 01:22:18.840
+Well, that's another explanation that, yes, you've got some teenage kids in another civilization.
+
+01:22:18.840 --> 01:22:24.840
+Do you find compelling the simulation hypothesis as a thought experiment that we're living in a simulation?
+
+01:22:24.840 --> 01:22:28.840
+The universe is computational.
+
+01:22:28.840 --> 01:22:34.840
+So we are an example in a computational world.
+
+01:22:34.840 --> 01:22:38.840
+Therefore, it is a simulation.
+
+01:22:38.840 --> 01:22:44.840
+It doesn't necessarily mean an experiment by some high school kid in another world,
+
+01:22:44.840 --> 01:22:49.840
+but it nonetheless is taking place in a computational world.
+
+01:22:49.840 --> 01:22:57.840
+And everything that's going on is basically a form of computation.
+
+01:22:57.840 --> 01:23:05.840
+So you really have to define what you mean by this whole world being a simulation.
+
+01:23:05.840 --> 01:23:11.840
+Well, then it's the teenager that makes the video game.
+
+01:23:11.840 --> 01:23:23.840
+You know, us humans with our current limited cognitive capability have strived to understand ourselves and we have created religions.
+
+01:23:23.840 --> 01:23:29.840
+We think of God, whatever that is.
+
+01:23:29.840 --> 01:23:34.840
+Do you think God exists? And if so, who is God?
+
+01:23:34.840 --> 01:23:42.840
+I alluded to this before. We started out with lots of particles going around.
+
+01:23:42.840 --> 01:23:52.840
+And there's nothing that represents love and creativity.
+
+01:23:52.840 --> 01:23:57.840
+And somehow we've gotten into a world where love actually exists.
+
+01:23:57.840 --> 01:24:02.840
+And that has to do actually with consciousness because you can't have love without consciousness.
+
+01:24:02.840 --> 01:24:04.840
+So to me, that's God.
+
+01:24:04.840 --> 01:24:18.840
+The fact that we have something where love, where you can be devoted to someone else and really feel that love, that's God.
+
+01:24:18.840 --> 01:24:28.840
+And if you look at the Old Testament, it was actually created by several different rabbinets in there.
+
+01:24:28.840 --> 01:24:33.840
+And I think they've identified three of them.
+
+01:24:33.840 --> 01:24:47.840
+One of them dealt with God as a person that you can make deals with and he gets angry and he wrecks vengeance on various people.
+
+01:24:47.840 --> 01:24:57.840
+But two of them actually talk about God as a symbol of love and peace and harmony and so forth.
+
+01:24:57.840 --> 01:25:08.840
+That's how they describe God. So that's my view of God, not as a person in the sky that you can make deals with.
+
+01:25:08.840 --> 01:25:15.840
+It's whatever the magic that goes from basic elements to things that consciousness and love.
+
+01:25:15.840 --> 01:25:23.840
+Do you think one of the things I find extremely beautiful and powerful is cellular automata, which you also touch on.
+
+01:25:23.840 --> 01:25:32.840
+Do you think whatever the heck happens in cellular automata where interesting, complicated objects emerge, God is in there too?
+
+01:25:32.840 --> 01:25:37.840
+The emergence of love in this seemingly primitive universe?
+
+01:25:37.840 --> 01:25:47.840
+Well, that's the goal of creating a replicant, is that they would love you and you would love them.
+
+01:25:47.840 --> 01:25:51.840
+There wouldn't be much point of doing it if that didn't happen.
+
+01:25:51.840 --> 01:26:01.840
+But all of it, I guess what I'm saying about cellular automata is it's primitive building blocks and they somehow create beautiful things.
+
+01:26:01.840 --> 01:26:06.840
+Is there some deep truth to that about how our universe works?
+
+01:26:06.840 --> 01:26:12.840
+Is the emergence from simple rules, beautiful complex objects can emerge?
+
+01:26:12.840 --> 01:26:19.840
+Is that the thing that made us as we went through all the six phases of reality?
+
+01:26:19.840 --> 01:26:21.840
+That's a good way to look at it.
+
+01:26:21.840 --> 01:26:29.840
+It does make some point to the whole value of having a universe.
+
+01:26:29.840 --> 01:26:34.840
+Do you think about your own mortality? Are you afraid of it?
+
+01:26:34.840 --> 01:26:48.840
+Yes, but I keep going back to my idea of being able to expand human life quickly enough in advance of our getting there.
+
+01:26:48.840 --> 01:26:55.840
+Longevity escape velocity, which we're not quite at yet.
+
+01:26:55.840 --> 01:27:03.840
+But I think we're actually pretty close, particularly with, for example, doing simulated biology.
+
+01:27:03.840 --> 01:27:08.840
+I think we can probably get there within, say, by the end of this decade.
+
+01:27:08.840 --> 01:27:10.840
+And that's my goal.
+
+01:27:10.840 --> 01:27:12.840
+And that's my goal.
+
+01:27:12.840 --> 01:27:15.840
+Do you hope to achieve the longevity escape velocity?
+
+01:27:15.840 --> 01:27:20.840
+Do you hope to achieve immortality?
+
+01:27:20.840 --> 01:27:22.840
+Well, immortality is hard to say.
+
+01:27:22.840 --> 01:27:25.840
+I can't really come on your program saying I've done it.
+
+01:27:25.840 --> 01:27:31.840
+I've achieved immortality because it's never forever.
+
+01:27:31.840 --> 01:27:34.840
+A long time, a long time of living well.
+
+01:27:34.840 --> 01:27:42.840
+But we'd like to actually advance human life expectancy, advance my life expectancy more than a year every year.
+
+01:27:42.840 --> 01:27:46.840
+And I think we can get there within by the end of this decade.
+
+01:27:46.840 --> 01:27:48.840
+How do you think we do it?
+
+01:27:48.840 --> 01:27:57.840
+So there's practical things in Transcend, the Nine Steps to Living Well Forever, your book, you describe just that.
+
+01:27:57.840 --> 01:28:01.840
+There's practical things like health, exercise, all those things.
+
+01:28:01.840 --> 01:28:07.840
+I mean, we live in a body that doesn't last forever.
+
+01:28:07.840 --> 01:28:10.840
+There's no reason why it can't, though.
+
+01:28:10.840 --> 01:28:16.840
+And we're discovering things, I think, that will extend it.
+
+01:28:16.840 --> 01:28:22.840
+But you do have to deal with, I mean, I've got various issues.
+
+01:28:22.840 --> 01:28:28.840
+I went to Mexico 40 years ago, developed Salmonella.
+
+01:28:28.840 --> 01:28:36.840
+I created pancreatitis, which gave me a strange form of diabetes.
+
+01:28:36.840 --> 01:28:44.840
+It's not type 1 diabetes because that's an autoimmune disorder that destroys your pancreas.
+
+01:28:44.840 --> 01:28:46.840
+I don't have that.
+
+01:28:46.840 --> 01:28:55.840
+But it's also not type 2 diabetes because type 2 diabetes is your pancreas works fine, but your cells don't absorb the insulin well.
+
+01:28:55.840 --> 01:28:57.840
+I don't have that either.
+
+01:28:57.840 --> 01:29:05.840
+The pancreatitis I had partially damaged my pancreas, but it was a one-time thing.
+
+01:29:05.840 --> 01:29:08.840
+It didn't continue.
+
+01:29:08.840 --> 01:29:11.840
+And I've learned now how to control it.
+
+01:29:11.840 --> 01:29:18.840
+So that's just something that I had to do in order to continue to exist.
+
+01:29:18.840 --> 01:29:22.840
+Since your particular biological system, you had to figure out a few hacks.
+
+01:29:22.840 --> 01:29:26.840
+And the idea is that science would be able to do that much better, actually.
+
+01:29:26.840 --> 01:29:27.840
+Yeah.
+
+01:29:27.840 --> 01:29:33.840
+So I mean, I do spend a lot of time just tinkering with my own body to keep it going.
+
+01:29:33.840 --> 01:29:40.840
+So I do think I'll last till the end of this decade, and I think we'll achieve longevity escape velocity.
+
+01:29:40.840 --> 01:29:45.840
+I think that will start with people who are very diligent about this.
+
+01:29:45.840 --> 01:29:50.840
+Eventually, it'll become sort of routine that people will be able to do it.
+
+01:29:50.840 --> 01:30:00.840
+So if you're talking about kids today or even people in their 20s or 30s, that's really not a very serious problem.
+
+01:30:00.840 --> 01:30:09.840
+I have had some discussions with relatives who were like almost 100 and saying,
+
+01:30:09.840 --> 01:30:15.840
+well, we're working on it as quickly as possible, but I don't know if that's going to work.
+
+01:30:15.840 --> 01:30:22.840
+Is there a case, this is a difficult question, but is there a case to be made against living forever,
+
+01:30:22.840 --> 01:30:28.840
+that a finite life, that mortality is a feature, not a bug,
+
+01:30:28.840 --> 01:30:41.840
+that living a shorter, so dying makes ice cream taste delicious, makes life intensely beautiful, more than...
+
+01:30:41.840 --> 01:30:54.840
+Most people believe that way, except if you present a death of anybody they care about or love, they find that extremely depressing.
+
+01:30:54.840 --> 01:31:05.840
+And I know people who feel that way 20, 30, 40 years later, they still want them back.
+
+01:31:05.840 --> 01:31:15.840
+So, I mean, death is not something to celebrate, but we've lived in a world where people just accept this.
+
+01:31:15.840 --> 01:31:20.840
+Life is short. You see it all the time on TV. Life's short. You have to take advantage of it.
+
+01:31:20.840 --> 01:31:26.840
+And nobody accepts the fact that you could actually go beyond normal lifetimes.
+
+01:31:26.840 --> 01:31:34.840
+But any time we talk about death or a death of a person, even one death is a terrible tragedy.
+
+01:31:34.840 --> 01:31:42.840
+If you have somebody that lives to 100 years old, we still love them in return.
+
+01:31:42.840 --> 01:31:55.840
+And there's no limitation to that. In fact, these kinds of trends are going to provide greater and greater opportunity for everybody, even if we have more people.
+
+01:31:55.840 --> 01:32:03.840
+So, let me ask about an alien species or a super intelligent AI 500 years from now that will look back.
+
+01:32:04.840 --> 01:32:12.840
+And remember Ray Kurzweil version zero, before the replicants spread.
+
+01:32:12.840 --> 01:32:20.840
+How do you hope they remember you in a Hitchhiker's Guide to the Galaxy summary of Ray Kurzweil?
+
+01:32:20.840 --> 01:32:22.840
+What do you hope your legacy is?
+
+01:32:22.840 --> 01:32:25.840
+Well, I mean, I do hope to be around.
+
+01:32:25.840 --> 01:32:27.840
+Some version of you, yes.
+
+01:32:27.840 --> 01:32:30.840
+Do you think you'll be the same person around?
+
+01:32:30.840 --> 01:32:35.840
+I mean, am I the same person I was when I was 20 or 10?
+
+01:32:35.840 --> 01:32:38.840
+You would be the same person in that same way.
+
+01:32:38.840 --> 01:32:41.840
+But yes, we're different.
+
+01:32:41.840 --> 01:32:52.840
+All we have of that, all you have of that person is your memories, which are probably distorted in some way.
+
+01:32:52.840 --> 01:32:56.840
+Maybe you just remember the good parts, depending on your psyche.
+
+01:32:56.840 --> 01:33:02.840
+Maybe you might focus on the bad parts, might focus on the good parts.
+
+01:33:02.840 --> 01:33:03.840
+Right.
+
+01:33:03.840 --> 01:33:11.840
+But I mean, I'd still have a relationship to the way I was when I was earlier, when I was younger.
+
+01:33:11.840 --> 01:33:18.840
+How will you and the other super intelligent AIs remember you of today from 500 years ago?
+
+01:33:18.840 --> 01:33:25.840
+What do you hope to be remembered by this version of you before the singularity?
+
+01:33:25.840 --> 01:33:32.840
+I think it's expressed well in my books, trying to create some new realities that people will accept.
+
+01:33:32.840 --> 01:33:49.840
+I mean, that's something that gives me great pleasure and greater insight into what makes humans valuable.
+
+01:33:49.840 --> 01:33:56.840
+I'm not the only person who's tempted to comment on that.
+
+01:33:56.840 --> 01:34:06.840
+And optimism that permeates your work, optimism about the future, is ultimately that optimism paves the way for building a better future.
+
+01:34:06.840 --> 01:34:09.840
+Yeah, I agree with that.
+
+01:34:09.840 --> 01:34:18.840
+So you asked your dad about the meaning of life, and he said, love, let me ask you the same question.
+
+01:34:18.840 --> 01:34:20.840
+What's the meaning of life?
+
+01:34:20.840 --> 01:34:22.840
+Why are we here?
+
+01:34:22.840 --> 01:34:34.840
+This beautiful journey that we're on in phase four, reaching for phase five of this evolution and information processing, why?
+
+01:34:34.840 --> 01:34:48.840
+I think I'd give the same answers as my father, because if there were no love and we didn't care about anybody, there'd be no point to existing.
+
+01:34:48.840 --> 01:34:50.840
+Love is the meaning of life.
+
+01:34:50.840 --> 01:34:54.840
+The AI version of your dad had a good point.
+
+01:34:54.840 --> 01:34:57.840
+Well, I think that's a beautiful way to end it, right?
+
+01:34:57.840 --> 01:34:58.840
+Thank you for your work.
+
+01:34:58.840 --> 01:35:00.840
+Thank you for being who you are.
+
+01:35:00.840 --> 01:35:05.840
+Thank you for dreaming about a beautiful future and creating it along the way.
+
+01:35:05.840 --> 01:35:10.840
+And thank you so much for spending a really valuable time with me today.
+
+01:35:10.840 --> 01:35:11.840
+This was awesome.
+
+01:35:11.840 --> 01:35:12.840
+Well, it's my pleasure.
+
+01:35:12.840 --> 01:35:18.840
+And you have some great insights, both into me and into humanity as well.
+
+01:35:18.840 --> 01:35:20.840
+So I appreciate that.
+
+01:35:20.840 --> 01:35:23.840
+Thanks for listening to this conversation with Ray Korswaal.
+
+01:35:23.840 --> 01:35:27.840
+To support this podcast, please check out our sponsors in the description.
+
+01:35:27.840 --> 01:35:31.840
+And now let me leave you with some words from Isaac Asimov.
+
+01:35:57.840 --> 01:36:02.840
+Thank you for listening and hope to see you next time.
+

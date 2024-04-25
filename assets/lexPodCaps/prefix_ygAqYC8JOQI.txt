@@ -1,0 +1,3230 @@
+WEBVTT
+
+00:00.000 --> 00:08.320
+If you could talk to Vladimir Putin once again now, what kind of things would you talk about here?
+
+00:08.320 --> 00:09.920
+What kind of questions would you ask?
+
+00:12.560 --> 00:17.520
+The following is a conversation with Oliver Stone. He's one of the greatest filmmakers of all time
+
+00:17.520 --> 00:23.920
+with three Oscar wins and 11 Oscar nominations. His films tell stories of war and power.
+
+00:24.720 --> 00:30.320
+Fearlessly and often controversially shining light on the dark parts of American and global history.
+
+00:31.200 --> 00:38.080
+His films include Platoon, Wall Street, Born on the Fourth of July, Scarface, JFK, Nixon,
+
+00:38.080 --> 00:44.960
+Alexander, W, Snowden, and documentaries where he has interviewed some of the most powerful
+
+00:44.960 --> 00:51.680
+and consequential people in the world including Fidel Castro, Hugo Chavez, and Vladimir Putin.
+
+00:52.480 --> 00:57.440
+And in this conversation, Oliver and I mostly focus our discussion on Vladimir Putin,
+
+00:57.440 --> 01:03.200
+Russia, and the war in Ukraine. My goal with these conversations is to understand the human
+
+01:03.200 --> 01:10.000
+being before me. To understand not just what they think but how they think. To steal man their ideas
+
+01:10.000 --> 01:15.440
+and to steal man the devil's advocate. All in service of understanding, not derision.
+
+01:16.400 --> 01:21.440
+I have done this poorly in the past. I'm still struggling with this, but I'm working hard
+
+01:21.440 --> 01:29.280
+to do better. I believe the moment we draw lines between good people and evil people will lose
+
+01:29.280 --> 01:36.400
+our ability to see that we're all one people in the most fundamental of ways and lose track of
+
+01:36.400 --> 01:42.000
+the deep truth expressed by the old Solzhenitsyn line that I've returned to time and time again.
+
+01:43.120 --> 01:46.880
+That the line between good and evil runs through the heart of every man.
+
+01:47.280 --> 01:53.040
+Oliver Stone has a perspective that he extensively documents in his powerful controversial series,
+
+01:53.040 --> 02:00.160
+The Untold History of the United States. That imperialism and the military industrial complex
+
+02:00.160 --> 02:05.440
+paved the path to absolute power and thus corrupt the minds of the leaders and institutions that
+
+02:05.440 --> 02:12.240
+wield it. From this perspective, the way out of the humanitarian crisis and human suffering in
+
+02:13.200 --> 02:19.280
+Ukraine and the way out from the pull of the beating drums of nuclear war is not simple to
+
+02:19.280 --> 02:26.560
+understand, but we must because all of humanity hangs in the balance. I will talk to many people
+
+02:26.560 --> 02:31.520
+who seek to understand the way out of this growing catastrophe, including to historians,
+
+02:31.520 --> 02:36.640
+to leaders, and perhaps most importantly to people on the ground in Ukraine and Russia.
+
+02:37.440 --> 02:42.960
+Not just about war and suffering, but about life, friendship, family, love, and hope.
+
+02:44.560 --> 02:49.920
+This is the Lex Fridman Podcast. To support it, please check out our sponsors in the description.
+
+02:49.920 --> 02:53.200
+And now, dear friends, here's Oliver Stone.
+
+02:54.320 --> 02:58.480
+You're working on a documentary now about nuclear energy.
+
+02:58.480 --> 02:59.040
+Yes.
+
+02:59.040 --> 03:03.680
+So it's interesting to talk about this. Energy is such a big part of the world,
+
+03:04.400 --> 03:08.800
+about geopolitics of the world, about the way the world is. What do you think is the
+
+03:08.800 --> 03:11.200
+role of nuclear energy in the 21st century?
+
+03:11.200 --> 03:14.560
+Good question. First of all, obviously, everyone's talking about climate change,
+
+03:14.560 --> 03:20.000
+right? So here I wake up to that a few years ago, and clearly we're concerned.
+
+03:21.760 --> 03:28.400
+I picked up a book by Josh Goldstein and his co-author who's Swedish. Those two wrote a book
+
+03:28.400 --> 03:34.640
+called Bright Future. A Bright Future came out a few years ago, and I lapped it up. It was a book,
+
+03:34.640 --> 03:43.360
+fact-based, clear, not too long and not too technical. It was very clear that they were
+
+03:43.360 --> 03:52.320
+in favor of all kinds of renewables, renewable energy, yes. They made it very clear how dangerous
+
+03:52.320 --> 04:01.600
+oil and gas were, methane, and made it very clear to the layman like me, and at the same time said
+
+04:01.600 --> 04:08.720
+that this renewables can work so far, but the gap is enormous as to how much electricity the world
+
+04:08.720 --> 04:15.920
+is going to need in 2050 and beyond. Two, three, four times we don't even know the damage, but we
+
+04:15.920 --> 04:21.600
+have India, we have China, we have Africa, we have Asia coming onto the scene wanting more and more
+
+04:21.600 --> 04:27.440
+electricity. So they addressed the problem as a global one, not just as often in the United States
+
+04:27.440 --> 04:33.360
+you get the ethnocentric United States point of view that we know we're doing well, blah, blah,
+
+04:33.360 --> 04:38.960
+blah. We're not doing well, but we sell that to people that were comfortable. We spend more
+
+04:38.960 --> 04:46.960
+energy than anybody in this country per capita than anybody, and at the same time we don't seem
+
+04:46.960 --> 04:50.560
+to understand the global picture. So that's what they did, and they made me very worried.
+
+04:50.560 --> 04:56.400
+So the only way to close that gap, the only way in their mind is nuclear energy and talking about
+
+04:56.400 --> 05:05.760
+a gap of building a huge amount of reactors over the next 30 years and starting now. They make that
+
+05:05.760 --> 05:12.240
+point over and over again. So obviously this country, the United States is not going to go
+
+05:12.240 --> 05:18.640
+in that direction because it just is incapable of having that kind of will, political will,
+
+05:18.640 --> 05:25.440
+and fear is a huge factor. And still a lot of shibboleths, a lot of myths about
+
+05:26.000 --> 05:32.240
+nuclear energy have confused and confounded the landscape. The environmentalists have played a
+
+05:32.240 --> 05:39.280
+huge role in doing good things, many good things, but also confusing and confounding the landscape
+
+05:39.280 --> 05:46.240
+and making accusations against nuclear energy that were exaggerated. So taking all these
+
+05:47.040 --> 05:50.720
+things into consideration, we set about making this documentary, which is about
+
+05:51.520 --> 05:55.920
+finished now, almost finishing. It's an hour and 40 minutes, and that was a hard part,
+
+05:55.920 --> 06:00.640
+getting it down from about three and a half hours to about this something more manageable.
+
+06:00.640 --> 06:02.560
+And is it interviews?
+
+06:02.560 --> 06:06.960
+It's interviews among others, but essentially we went to Russia, we went to France,
+
+06:06.960 --> 06:11.200
+which is the most perhaps advanced nuclear country in the world, Russia
+
+06:11.920 --> 06:19.680
+and the United States. We went to the Idaho Laboratory and talked to the scientists there,
+
+06:19.680 --> 06:24.240
+as well as the Department of Energy people that are handling this. Idaho is one of the
+
+06:24.240 --> 06:27.760
+experimental labs. The United States is probably one of the most advanced, and they're doing a
+
+06:27.760 --> 06:35.520
+lot of advanced nuclear there. We also, we studied, well, Russia gave us a lot of insight.
+
+06:36.400 --> 06:40.320
+We're very cooperative because they have some of the most advanced nuclear,
+
+06:40.960 --> 06:45.520
+actually the probably most advanced nuclear reactor in the world at Beloyarsk, the Ural Mountains.
+
+06:46.320 --> 06:53.440
+So we did an investigation there. And in France, they have some very advanced
+
+06:54.400 --> 06:57.520
+nuclear reactors, and they're building. Now they're building again.
+
+06:59.280 --> 07:04.400
+The Green Party came into power, just not into power, but became a factor in France,
+
+07:04.400 --> 07:08.800
+and there was a motion. When Hollande was president, they started to move away from it.
+
+07:08.800 --> 07:16.400
+Actually, they were beginning to just abandon, they let, not complete their, in other words,
+
+07:16.960 --> 07:21.760
+close down some of the nuclear reactors. There was talk of that, but thank God France did not do
+
+07:21.760 --> 07:28.720
+that. And Macron came in and recently reversed it, and they're building as fast as they can now,
+
+07:28.720 --> 07:35.840
+especially with the Ukraine war going on. There's an awareness that Russia will not be providing,
+
+07:36.480 --> 07:42.480
+may not be providing the energy Europe needs. So, and then China is the other one too. That's
+
+07:42.480 --> 07:48.560
+the other factor. I'm talking about the big boys. They have doing tremendous work and fast,
+
+07:48.560 --> 07:54.800
+which is very hopeful. But of course, China is building in all directions at once. Coal continues
+
+07:54.800 --> 08:05.280
+to be huge in China, and methane too. But basically coal, coal in India, in China,
+
+08:05.280 --> 08:12.960
+the biggest users of coal. And we know, as you know, Germany went back to coal a few years ago.
+
+08:12.960 --> 08:18.560
+So all these factors, it's fascinating picture globally. So we try to achieve a consensus that
+
+08:18.560 --> 08:24.800
+where nuclear can work and where it will be working, it will be used more and more.
+
+08:24.800 --> 08:31.600
+The question is how much carbon dioxide China and Russia will be putting out. France is the only one
+
+08:31.600 --> 08:37.120
+that's not putting it out. The United States has not changed with all the talk and all the nonsense
+
+08:37.120 --> 08:43.120
+about renewables and the new lifestyle and all this. It's great for your guilt complex,
+
+08:43.120 --> 08:48.400
+but it doesn't do anything for the total accumulation of carbon dioxide in the world.
+
+08:48.560 --> 08:52.480
+Who's going to lead the way on nuclear, do you think? You mentioned Russia, France,
+
+08:52.480 --> 08:54.720
+China, United States. Who's going to lead?
+
+08:54.720 --> 08:59.360
+I don't think it's going to be a United Nations kind of thing because the world doesn't seem
+
+08:59.360 --> 09:07.120
+capable of uniting. We go to these conferences, Kyoto, and we talk and we agree, but then we
+
+09:07.120 --> 09:10.160
+don't actually enforce. I don't think it's going to happen that way. I think it's
+
+09:10.880 --> 09:15.280
+going to be an individual race with countries. They're going to just do it for their own self
+
+09:15.280 --> 09:22.000
+interests like China is doing it. The thing is if it works, and I'm praying that it will really
+
+09:22.000 --> 09:27.760
+work on a big scale, China will back away from coal naturally. The same thing will be true of India.
+
+09:27.760 --> 09:32.880
+They will see the benefits because if you go to India, you see the cities, the pollution,
+
+09:32.880 --> 09:39.680
+you walk around in that stuff and there's no hope in this and you sense it. So people
+
+09:39.680 --> 09:43.760
+will move in this direction naturally because nuclear is clean energy.
+
+09:45.200 --> 09:51.760
+The amount of casualties of nuclear is the lowest on the industrial scale for energy producing
+
+09:52.400 --> 09:59.600
+from coal down to oil, everything. The lowest casualty rate, very lowest, 0.002 or something is
+
+09:59.600 --> 10:06.720
+nuclear. So not that many people have died from nuclear, not that many. I think 50 people at
+
+10:06.720 --> 10:13.360
+Chernobyl, which was the worst accident, nobody had died at Fukushima. Nobody died at Three Mile
+
+10:13.360 --> 10:21.040
+Island and that's what you hear all over and over again, these accidents. The environmentalists have
+
+10:21.040 --> 10:28.160
+sold us the idea that they're dangerous. A lot of environmentalists thank God of changing it.
+
+10:28.160 --> 10:33.840
+They've come off that routine and they've saying, we were wrong. We've done a lot of good work.
+
+10:33.840 --> 10:40.560
+Greenpeace did a lot of good work. Wales, saving this, saving that. But they admit themselves,
+
+10:40.560 --> 10:45.600
+not they don't, but people who have been in the organization have said, we were wrong.
+
+10:46.480 --> 10:55.200
+In 1956, we show the articles in the New York Times that came out, the Rockefeller Foundation,
+
+10:56.080 --> 11:03.840
+which of course is a big producer of oil, the Rockefeller family. The foundation came out
+
+11:05.760 --> 11:13.680
+with a study which was weighted. They tipped the scale, put a thumb on the scale, but
+
+11:13.680 --> 11:22.080
+it was a scientific expose of radiation in the study that came out printed in the New York Times
+
+11:22.080 --> 11:27.360
+because the New York Times publisher Salzburger was on their board. He was one of the board members.
+
+11:27.920 --> 11:37.760
+So they got a lot of strong publicity condemning radiation which started the process of doubting
+
+11:37.760 --> 11:43.280
+nuclear energy. The radiation levels that they pointed out were very minor. And of course,
+
+11:43.280 --> 11:49.760
+if you go into a scientific analysis of this now with what we know, it's just not true. But it
+
+11:49.760 --> 11:56.320
+tilted the scale back in the 50s, 60s and started the questioning the nuclear business.
+
+11:56.320 --> 11:58.800
+Do you think that was malevolence or incompetence?
+
+11:58.800 --> 12:03.920
+No, I think it was competition. I don't think it was conspiracy as much as it was essentially.
+
+12:03.920 --> 12:10.640
+We don't want this nuclear energy is going to end the dominance of oil. Absolutely. And it will.
+
+12:10.640 --> 12:14.960
+It will anyway because it's the only sane way for the world to proceed. But the world
+
+12:15.920 --> 12:22.560
+will have to learn through adversity. So in other words, the situation could get worse,
+
+12:23.440 --> 12:28.080
+much worse. And certain countries are just going to have to adapt like we always do.
+
+12:28.080 --> 12:32.000
+When things become too hard, you have to change your thinking.
+
+12:33.200 --> 12:35.040
+And humans are pretty good at that.
+
+12:35.040 --> 12:39.920
+Yes. Talking about human nature, they're very adept at that. Germany, for example,
+
+12:40.880 --> 12:45.040
+when the Fukushima happened, they went out of the nuclear business. That was shocking to me.
+
+12:46.480 --> 12:51.760
+They just pulled out and they destroyed several of their nuclear reactors that were still
+
+12:51.760 --> 13:03.120
+functioning and put up coal and oil and replaced it. And as a result, Germany drifted into this
+
+13:03.120 --> 13:09.600
+place next to France. Their electricity bills went up and France stayed the same. They don't
+
+13:10.240 --> 13:14.320
+have a different system in Europe, but more or less no question that France was doing a lot
+
+13:14.320 --> 13:20.720
+better than Germany. And now with this Ukraine issue, it's a very interesting fulcrum point
+
+13:20.720 --> 13:29.120
+whether Germany is... What direction they're going to go now? How can they keep going with coal?
+
+13:29.120 --> 13:29.760
+They just can't.
+
+13:30.720 --> 13:41.920
+What's the connection between oil, coal, nuclear and war? Energy and conflict. When you look at
+
+13:41.920 --> 13:46.320
+the 21st century, when you were doing this documentary, were you thinking of nuclear
+
+13:46.320 --> 13:53.600
+as a way to power the world, but is it also to avoid conflict over resources? Is there
+
+13:53.600 --> 13:58.080
+some aspect to energy being a source of conflict that we're trying to avoid?
+
+13:59.760 --> 14:11.920
+I don't have the energy, the history of energy at my fingertips and it's a very long history here,
+
+14:11.920 --> 14:19.040
+but I would say apparently not. It does seem that individually each country can answer its needs
+
+14:19.920 --> 14:27.600
+by building. And up until now, we haven't had conflict except in this issue of Russia supplying
+
+14:27.600 --> 14:36.720
+Europe. Obviously, the pipeline Nord Stream 2 has been closed and Nord Stream 1 is also
+
+14:36.720 --> 14:45.040
+probably going to be phased out. And the concept of Russia supplying gas to Europe is now up in
+
+14:45.040 --> 14:51.520
+air and who knows what's going to happen. I just don't see how Europe can get away from using
+
+14:52.320 --> 14:57.520
+Russian gas. But Russian gas is not the solution because it's methane too and it goes up into
+
+14:57.520 --> 15:05.600
+the atmosphere. Methane in the short term is worse than coal, worse. There's all kinds of
+
+15:05.600 --> 15:12.800
+charts we show in the film. We try not to be too overfactual, but methane is not the answer.
+
+15:12.800 --> 15:22.800
+It's a short-term answer. Will countries go to war over energy is a question that I'm trying to
+
+15:22.800 --> 15:28.400
+think of all the wars that happened. You could say Germany, of course, during World War II needed
+
+15:28.400 --> 15:35.840
+oil very badly and it dictated their strategy with Romania, et cetera, and getting the oil
+
+15:35.840 --> 15:42.640
+fields open. I haven't thought that one through. I'd have to make a documentary on it to really
+
+15:42.640 --> 15:49.040
+understand how energy and war interface. It's always part of the calculation,
+
+15:49.040 --> 15:54.560
+but it's a question of how much. That's the question. I just have to ask because you
+
+15:54.560 --> 16:00.160
+mentioned your mom is from France. You've traveled for this documentary and you traveled in general
+
+16:00.160 --> 16:07.680
+throughout the world in Russia, Ukraine. What are the defining characteristics of these cultures?
+
+16:07.680 --> 16:15.280
+Let's go with Russia. As I told you, I'm half Ukrainian, half Russian. I came from that part
+
+16:15.280 --> 16:21.440
+of the world. What are some interesting, beautiful aspects of the culture of Russia and Ukraine?
+
+16:21.440 --> 16:28.080
+I can't really speak honestly of Ukraine. I was there only in 1983 when I visited the
+
+16:28.080 --> 16:34.720
+Soviet Union under the communism. Kiev was beautiful and was one of the nicer places I went,
+
+16:34.720 --> 16:41.840
+but they were very much stultified by the communist system. They all were. The best places
+
+16:41.840 --> 16:48.880
+to visit in Russia were always in the south, whether Georgia or the Muslim countries.
+
+16:48.880 --> 16:54.880
+It was always a better culture in terms of comfort, but communism was rough and that was the end of
+
+16:54.880 --> 17:00.880
+it pretty much. Brezhnev regime and Andropov and Gorbachev was three years in the future when I
+
+17:00.880 --> 17:07.760
+was there. I can't talk about Ukraine, and they're not been friendly to me since, of course, since I
+
+17:07.760 --> 17:14.720
+made the Putin interviews. Ukraine has banned me, I believe. They've been very tough on people who
+
+17:14.720 --> 17:21.360
+are critical. I think the Russian people have been very special to me, perhaps because of my
+
+17:21.360 --> 17:25.600
+European upbringing, but I enjoy talking to them. I find them very open, very generous,
+
+17:26.240 --> 17:30.480
+and they appreciate support. They appreciate people who say,
+
+17:31.520 --> 17:37.360
+I understand why your government is doing this or this or this. I've tried to stay open-minded and
+
+17:37.360 --> 17:41.840
+listen to both sides. The thing that I have seen as an American is, of course,
+
+17:41.840 --> 17:50.480
+this American enmity towards Russia from the very beginning. I grew up in 1946. In the 50s,
+
+17:51.680 --> 17:56.080
+it was so anti-Russian. They were everywhere. They were in our schools. They were in our
+
+17:56.080 --> 18:02.640
+State Department. They were spying on us. They were stealing the country from us. That was the way
+
+18:02.640 --> 18:08.640
+the American right wing, not even the right wing, I'd say the Republican Party, pictured the
+
+18:08.640 --> 18:16.480
+Russians. They were actively engaged in infiltrating America and changing our thinking. Television
+
+18:16.480 --> 18:22.080
+shows were based on this. It was very much the J. Edgar Hoover mentality that communism was even
+
+18:22.080 --> 18:29.440
+behind the student protests of the 1960s. This was the direction in which the FBI and the CIA were
+
+18:29.440 --> 18:36.640
+thinking. I grew up with a prejudice. It took me many years. My father was a Republican,
+
+18:37.520 --> 18:40.640
+and he was a stockbroker, and he was a very intelligent man. Even he,
+
+18:41.200 --> 18:46.640
+because he was a World War II soldier, he was a colonel, had fallen under the influence.
+
+18:47.360 --> 18:53.200
+In order to be successful in American business in the 1950s, you had to have a very strong
+
+18:53.200 --> 18:59.360
+anti-Soviet line. Very strong. You wouldn't get ahead. If you expressed any kind of,
+
+19:00.320 --> 19:05.920
+let's end this Cold War, any kind of activity of that nature, you'd be cast aside as a pinko or
+
+19:05.920 --> 19:12.240
+somebody who was not completely on the board with the American way of doing business,
+
+19:12.240 --> 19:20.800
+which was capitalism works, communism doesn't. In particular, communism was embodied by the Soviet
+
+19:20.800 --> 19:30.080
+Union as the enemy. Hence, the narrative behind the Cold War.
+
+19:30.720 --> 19:38.480
+That's correct. It basically lasted. You saw the ups and downs of it. When Reagan came in,
+
+19:39.440 --> 19:45.600
+first of all, we had the crisis of 1962 with the Cuban Missile Crisis, and Kennedy proved himself
+
+19:45.600 --> 19:50.560
+to be a warrior for peace. He resolved that with Khrushchev. That was a big moment,
+
+19:50.560 --> 19:56.480
+huge moment, and people don't give him credit enough for really saving us from a war that
+
+19:56.480 --> 20:02.000
+could have affected all of mankind. But it still didn't avert?
+
+20:02.720 --> 20:08.560
+No, because the moment he was killed, honestly, there was a lot of, we can talk about that. As
+
+20:08.560 --> 20:16.400
+you know, I've made a film, JFK Revisited is a documentary released this year about the movie
+
+20:16.400 --> 20:23.520
+I made in 1991. But the moment he was killed, I would argue that Lyndon Johnson went back
+
+20:23.520 --> 20:27.840
+immediately to the old way of thinking, the old way of doing business, which was the Eisenhower
+
+20:29.360 --> 20:34.000
+Truman way, which we had adapted since World War II. That was an interim.
+
+20:34.560 --> 20:41.680
+You have to think about it. Roosevelt dies in 45. Roosevelt has an interim of 15 years where he
+
+20:44.560 --> 20:50.240
+has more of a democratic regime, more liberal. He recognizes the Soviet Union for the first time
+
+20:50.880 --> 20:56.000
+since the revolution, and he actually has a relationship with them. He sends ambassadors
+
+20:56.000 --> 21:03.040
+who are friendly, and he has a relationship with Stalin, et cetera, and at Yalta,
+
+21:04.160 --> 21:07.040
+and at Tehran, rather, is where he had the relationship.
+
+21:07.840 --> 21:10.800
+Do you think if JFK lived, we would not have a Cold War?
+
+21:10.800 --> 21:16.960
+No, absolutely not. And we go into great depth on that in the film, and I urge you to see it,
+
+21:16.960 --> 21:21.840
+because it goes into all the issues around the world. Kennedy was being very much an anti-imperialist,
+
+21:21.840 --> 21:26.960
+it turns out, and many people don't understand that. But you have to look at all his policies
+
+21:26.960 --> 21:32.480
+in the Middle East with Nasser. He had a relationship with Sukarno in Indonesia,
+
+21:33.760 --> 21:37.040
+with Latin America. He made a big effort with the Alliance for Progress.
+
+21:38.480 --> 21:47.120
+When Africa, above all, with Lumumba, he was very shocked at his death and tried to defend the
+
+21:47.120 --> 21:52.080
+integrity of the Belgian Congo with Dag Hammarskjöld of the UN. He made a big effort.
+
+21:52.800 --> 21:58.000
+Unfortunately, it didn't work out, because Dag Hammarskjöld was killed, and then Kennedy was
+
+21:58.000 --> 22:05.120
+killed, and Congo descended into the chaos of Joseph Mobutu's dictatorship. But Kennedy was
+
+22:05.120 --> 22:11.360
+very active in terms of, as an Irishman, not as an Englishman, he was an Irishman. And I say that
+
+22:11.360 --> 22:15.040
+because, well, we'll come back to that, because Mr. Joe Biden is an Irishman, but it's a different
+
+22:15.040 --> 22:19.760
+kind of an Irishman. They're both Catholic Irish, but Kennedy really made an effort
+
+22:20.800 --> 22:28.880
+to change the imperialist mindset that still was very strong in America and Europe.
+
+22:29.840 --> 22:36.720
+Lyndon Johnson changed back to the old policy, and we were never able to really keep big talk
+
+22:36.720 --> 22:43.120
+going with the Russians. Briefly had it with Carter, but then Brzezinski came in. Brzezinski
+
+22:43.120 --> 22:48.640
+was his national security advisor. He was put there by Rockefeller, and Brzezinski was a Pole.
+
+22:48.640 --> 22:54.400
+He got revenge from Poland. Poland has always been attacking Russia, as far as I remember,
+
+22:54.400 --> 22:59.840
+back to another century. I mean, the two world wars that occupied Russia, and so tragically,
+
+23:01.120 --> 23:08.000
+entry points were always through Poland and Ukraine. So Brzezinski got his revenge, and
+
+23:08.000 --> 23:15.120
+Carter ended up being an enemy of the Soviet Union. And as Brzezinski took pride in it,
+
+23:15.120 --> 23:20.720
+he created the atmosphere, the trap for the Soviets to go into Afghanistan in 79. That
+
+23:20.720 --> 23:30.000
+trap was set, he said, in 1978. So there was never except for brief moments of periods of
+
+23:30.560 --> 23:36.640
+detente with the Soviets. And I grew up under that. I didn't really know anything of this
+
+23:37.200 --> 23:42.480
+going on, because I was learning. I was educating myself as I was going, learning movies and trying
+
+23:42.480 --> 23:49.200
+to be a dramatist and this and that. So I wasn't thinking about this. Then when Reagan came in,
+
+23:49.200 --> 23:54.160
+I was worried again, because it was the old beat, which was there, the most evil empire.
+
+23:54.720 --> 23:59.360
+I mean, it goes on in American history. It doesn't end. Reagan got a lot of points for that.
+
+24:00.000 --> 24:07.920
+And of course, when Gorbachev came in, it was a beautiful moment for the world. It was a great
+
+24:07.920 --> 24:12.960
+surprise. It was probably the best years for America, at least from my point of view,
+
+24:12.960 --> 24:22.880
+in terms of this relaxation in the mood. 1986 to 1991 were great years in terms of ability
+
+24:22.880 --> 24:28.640
+to believe, once again, that there could be a peace dividend. But the world changed again
+
+24:28.640 --> 24:34.880
+in 1991, 92. There's an internal mechanism. Who knows? You could blame the United States.
+
+24:34.880 --> 24:42.560
+You could blame Russia. Gorbachev was perhaps not the right man to try to administer that country
+
+24:42.560 --> 24:48.320
+at that point. He had great visions. He was a man of peace, but it was very difficult to hold
+
+24:48.320 --> 24:53.440
+together such a huge empire. So vision is not enough to hold together the Soviet Union.
+
+24:53.440 --> 24:59.200
+I think the details are interesting. I followed up on that a little bit because I was recently in
+
+24:59.200 --> 25:05.360
+countries like Kazakhstan, talked about the negotiations that were going on and
+
+25:06.400 --> 25:11.200
+the breakup of the Soviet Union. It's a very interesting story because it involves everything.
+
+25:11.200 --> 25:16.080
+Ukraine, of course, everything is going on now. Some, what is it, 30 million Russians were left
+
+25:16.080 --> 25:21.840
+outside of the Soviet Union when it collapsed. They had no home anymore. They were homes in
+
+25:21.840 --> 25:28.800
+other countries such as in Ukraine. So it's an interesting story with repercussions today.
+
+25:30.080 --> 25:37.200
+Kazakhstan is a good example of keeping a balance, keeping it neutral. He played both sides
+
+25:37.760 --> 25:46.240
+and because Yeltsin wanted him to join the Russian Confederation in a certain way where
+
+25:47.200 --> 25:51.680
+he'd be supporting against Gorbachev. There's a whole inward battle there.
+
+25:53.280 --> 26:02.160
+I think the Ukraine came along with Yeltsin as well as, I'm sorry, I don't remember now,
+
+26:02.160 --> 26:09.440
+but two other regions came with him and that was a block that broke up the Soviet Union. It was
+
+26:09.440 --> 26:17.760
+Yeltsin's plan to make the Russian Federation and they did. I would love to return back to JFK
+
+26:17.760 --> 26:23.520
+eventually because he's such a fascinating figure in the history of human civilization.
+
+26:23.520 --> 26:31.040
+But let me ask you, fast forward, in 2000, Yeltsin was no longer president and Vladimir Putin became
+
+26:31.040 --> 26:37.120
+president. You did a series of interviews with Vladimir Putin, as you mentioned,
+
+26:37.760 --> 26:44.800
+over a period of two years, from 2015 to 2017. Let me ask with a high-level question.
+
+26:45.760 --> 26:53.920
+What was your goal with that conversation? Came out in 2017. I guess I started them in 2014.
+
+26:55.360 --> 27:00.640
+At that point, the Snowden affair had happened and I was working on a movie on Snowden.
+
+27:00.640 --> 27:06.080
+That happened in 2013. Ukraine happened in 2014.
+
+27:09.760 --> 27:16.160
+One thing after another, by 2014, Putin was enemy number again, becoming a wanted man on
+
+27:16.160 --> 27:24.880
+the American list. He was certainly in the top five. But the animosity towards Putin had been
+
+27:24.880 --> 27:30.880
+growing since 2007 at Munich. I remember that speech when he made it. It's in my documentary.
+
+27:30.880 --> 27:36.160
+It's a four-hour documentary, four different conversations. We talked over two years,
+
+27:36.160 --> 27:42.960
+two and a half years. But I remember that image of him at Munich making a very important speech
+
+27:42.960 --> 27:51.760
+about world harmony, about the balance necessary in the world. I remember the sneer on John McCain's
+
+27:51.760 --> 27:58.000
+face. He was in Munich, obviously eyeballing Putin and hating him. It was so evident that
+
+27:58.000 --> 28:03.120
+McCain had no belief whatsoever. He was almost treating him like these are the communists are
+
+28:03.120 --> 28:07.440
+back. We know that Putin was not a communist. We know that Putin is very much a market man.
+
+28:09.360 --> 28:12.480
+He made it very clear and tried to keep an open climate,
+
+28:13.200 --> 28:18.160
+a new relationship with Europe. But certain people in the United States always saw that
+
+28:18.160 --> 28:22.720
+as a threat, like Putin is trying to take Europe away from us as if we own it,
+
+28:22.720 --> 28:27.360
+as if we have the right to own it. But Putin was making the point. It's very important about
+
+28:27.360 --> 28:34.800
+sovereignty. Sovereignty for countries is crucial for this new world to have balance.
+
+28:34.800 --> 28:40.160
+That's sovereignty for China, sovereignty for Russia, sovereignty for Iran, sovereignty for
+
+28:40.960 --> 28:46.400
+Venezuela, sovereignty for Cuba. This is an idea that's crucial to the new world. I think the
+
+28:46.400 --> 28:54.000
+United States has never accepted that. Sovereignty is not an idea that they can allow. You have to be
+
+28:56.000 --> 29:02.240
+obedient to the United States idea of so-called democracy and freedom. But
+
+29:03.520 --> 29:08.080
+it's much more important is sovereignty for these countries. And the United States has not
+
+29:08.080 --> 29:12.960
+obeyed that, has not even acknowledged it. And it never comes up.
+
+29:13.440 --> 29:17.920
+So from the perspective of the United States, when power centers arise in the world,
+
+29:19.840 --> 29:25.760
+you start to oppose those, not because of the ideas, but because they have,
+
+29:25.760 --> 29:30.720
+but merely because they have power. Isn't that at the heart of the doctrine of the
+
+29:31.360 --> 29:37.200
+neoconservatives? In the Pact for the New American Century, they wrote that in 1996,
+
+29:38.080 --> 29:43.040
+they said there shall be no emergence of a rival power. It was very clear it was about power.
+
+29:43.840 --> 29:50.320
+And they've stuck to that doctrine, which is if you start to get dangerous in any way or have power,
+
+29:50.320 --> 29:56.800
+we're going to knock you out. Now that won't work. I don't believe it can work. And that is,
+
+29:56.800 --> 30:02.560
+fortunately, a policy the United States is following. And the neoconservatives group,
+
+30:02.560 --> 30:07.920
+which is very small, but it's very strong, apparently, and their idea has resonated.
+
+30:07.920 --> 30:14.400
+It was behind the George Bush's invasion of Iraq. It was part of not only Iraq,
+
+30:14.400 --> 30:19.440
+but cleaning out the whole world, draining the swamp, going to Afghanistan first. And then,
+
+30:19.440 --> 30:26.400
+although Iraq had nothing to do with Al Qaeda's attack, going after Iraq. And of course,
+
+30:26.480 --> 30:37.280
+60-some other countries where terrorism had some signs of wherever America judged would be a
+
+30:37.280 --> 30:41.920
+dangerous country, we had the right. You're either with us or against us. Now that is a
+
+30:41.920 --> 30:46.800
+disastrous policy and led to one thing after another. The Iraq War never learned a lesson.
+
+30:47.840 --> 30:53.360
+The neoconservatives were never fired, never thrown out of office. The people who prosecuted
+
+30:53.360 --> 31:00.080
+that war are still around. Many of them are still around. And they're obviously guiding America now.
+
+31:00.080 --> 31:02.560
+Let me return to this question of power.
+
+31:03.440 --> 31:09.600
+Don't forget the sneer that I saw there. That emblemized the United States reaction. Also,
+
+31:09.600 --> 31:16.320
+there were several other American representatives who were laughing, kind of mocking Putin. It was
+
+31:16.320 --> 31:26.800
+very serious. I felt there was a divide there. In a certain sense, the Europe reaction to Putin
+
+31:26.800 --> 31:34.000
+is crucial. And they were more with him back then. And a big thing for America was always to keep
+
+31:34.000 --> 31:39.520
+NATO, to keep Europe in its pocket as a satellite. And with this recent war, of course, they've
+
+31:39.520 --> 31:45.760
+succeeded beyond their dreams. The Russians have fulfilled the fantasy of the United States
+
+31:45.760 --> 31:51.520
+to finally be this aggressor that they have pictured for years. We can talk about that later.
+
+31:51.520 --> 31:59.120
+But at that time, Europe had significant support for Putin, and the United States
+
+31:59.920 --> 32:02.880
+was sneering at Putin. That's correct. You can say that.
+
+32:09.760 --> 32:14.240
+There was uncertainty as to the direction, as to the future of Russia. And that's exactly when
+
+32:14.240 --> 32:19.920
+you interviewed Vladimir Putin. I wanted to know what they thought,
+
+32:19.920 --> 32:26.240
+because we couldn't get the information war that the United States was fighting against Russia. It
+
+32:26.240 --> 32:34.240
+was in evidence back then. It was full out. The condemnation of Russia on all fronts. I never saw
+
+32:34.240 --> 32:39.280
+a positive article about Putin. Although when I traveled in the world, and I traveled a lot
+
+32:39.280 --> 32:44.880
+doing documentaries, it was very clear in the Middle East, in Africa, in Asia, there was respect
+
+32:44.880 --> 32:50.480
+for him. That he was a man who was getting his job done in the interests of Russia. He was,
+
+32:50.480 --> 32:57.920
+as I said in the documentary, a son of Russia. Very much so. In the positive sense, a son of Russia.
+
+32:57.920 --> 33:05.680
+Not that he's out there trying to destroy the interests of other countries. No. That he was
+
+33:05.680 --> 33:12.720
+out there to provoke the interests of Russia, but at the same time, keep a balance. Keep the
+
+33:12.720 --> 33:18.000
+world into a harmony. This has always been his picture. Peace was always his idea. In other
+
+33:18.000 --> 33:23.040
+words, he always referred to the United States in all these interviews as our partners. And I said,
+
+33:23.040 --> 33:28.480
+will you stop using that word? They're not. And he was a little bit slow in waking up to
+
+33:29.200 --> 33:34.880
+what the United States was doing. Well, that said, he's one of the most powerful men in the world.
+
+33:35.840 --> 33:43.520
+He was at that time. And let me ask you the human question. As the old adage goes,
+
+33:43.520 --> 33:51.120
+power corrupts and absolute power corrupts absolutely. Did you see any corroding effects
+
+33:51.120 --> 33:56.800
+of power on the man? Forget the political leader. I'm just the human being that carries that power
+
+33:56.800 --> 34:03.520
+on his shoulders for so many years. Keep in mind that he's been, unlike most modern leaders,
+
+34:03.520 --> 34:12.000
+he's been in office off and on because Medvedev was president and he was not literally in charge.
+
+34:14.880 --> 34:19.920
+He took another appointment at that point, but he was still very much involved. But for 20 years,
+
+34:19.920 --> 34:25.840
+more or less, he's been at the administrator of the state, the protector of the state.
+
+34:26.480 --> 34:32.480
+And he's apparently done a good enough job that the Russian people have kept him there. Because
+
+34:32.480 --> 34:37.040
+contrary to what many people think, I really believe that if the Russian people didn't want
+
+34:37.040 --> 34:42.240
+him, he would be out. I firmly believe that. I don't think you can go against the will of
+
+34:42.240 --> 34:47.200
+the people. Now, it expresses itself in many ways at the ballot box and so forth, but also in other
+
+34:47.200 --> 34:54.640
+ways in Russia. There's a strong currents of opinion. So contrary to what the position of
+
+34:54.640 --> 34:59.760
+him as a dictator, he wouldn't last if he was unpopular, number one. Number two, Russia is
+
+34:59.760 --> 35:05.600
+much more divided than people know. There's other factors in Russia. There are always tensions
+
+35:06.560 --> 35:12.560
+around the Kremlin who has power, who doesn't have power. That's been going on for a hundred years.
+
+35:12.560 --> 35:20.400
+But the factions in Russia are very much there. So when people refer to Russia as Putin,
+
+35:20.400 --> 35:26.080
+they're mistaken. And they do this regularly in the New York papers and all this. They say,
+
+35:26.080 --> 35:30.320
+Putin did this. Putin did that. Putin's doing that. But it's Russia that's doing it.
+
+35:31.920 --> 35:37.600
+There's a distinction there. It's changed. In the old days, I would read about Khrushchev,
+
+35:37.600 --> 35:44.000
+but it was never Khrushchev personally. It was about the Soviet Union. There was respect
+
+35:44.000 --> 35:51.760
+for a country. And when it started to get personal with Putin, it changed. And our thinking
+
+35:51.760 --> 35:57.360
+changed in a negative way. We no longer respected it as a country. We were seeing it as a man.
+
+35:57.360 --> 36:02.640
+And the man we had trashed repeatedly, repeatedly as a poisoner, as a murderer,
+
+36:02.640 --> 36:06.960
+and none of which has ever been proven, but which has always been repeated and repeated
+
+36:06.960 --> 36:12.480
+to the point at which it becomes like an Orwell mantra. It becomes like he is, of course, a bad
+
+36:12.480 --> 36:20.560
+guy. Can I just ask you as a great filmmaker, as a human being, what was it like talking to one of
+
+36:20.560 --> 36:26.960
+the most powerful men in the world? Honestly, I'm not naive. I've talked to a lot of powerful
+
+36:26.960 --> 36:32.800
+people. In the movie business, there are powerful people, and many of them are corrupted. I've talked
+
+36:32.800 --> 36:38.720
+to many people in my life. I've been in the military. I've had other jobs. I have to say,
+
+36:38.720 --> 36:45.280
+I found them to be a human being. I just found them to be reasonable, calm. I never saw them lose
+
+36:45.520 --> 36:51.200
+temper. You have to understand that most people in the western way of doing business
+
+36:51.760 --> 36:58.320
+get emotional. I don't see that. I saw him as a balanced man, as a man who had studied this like
+
+36:58.320 --> 37:04.320
+you had. There's a calmness to you. It comes from studying the world and having a rational
+
+37:04.320 --> 37:09.440
+response to it. It's interesting. His two daughters, one of them is very scientific,
+
+37:09.440 --> 37:14.880
+and the other one is doing very well in another profession, but they're a thinking family.
+
+37:15.280 --> 37:20.320
+His wife, too, was. I can't talk for the new wife because I don't know about it,
+
+37:20.320 --> 37:27.200
+but he kept his family with great respect. He's raised his daughters right. He served Yeltsin
+
+37:27.200 --> 37:33.040
+the way he looked at it. He served Yeltsin well, and he never trashed Yeltsin. Certainly,
+
+37:33.040 --> 37:38.880
+a lot of people did, but I asked him repeatedly, was he an alcoholic and this or that, but he
+
+37:38.880 --> 37:48.720
+wouldn't even go that far. Just respect. This man, Yeltsin, was in many ways ridiculed by the
+
+37:48.720 --> 37:54.560
+Russians. He turned over the power because he felt like he was overwhelmed. He turned over the power
+
+37:54.560 --> 37:59.840
+to this man because why? How many people had he fired before him? Several. Several prime ministers,
+
+37:59.840 --> 38:06.800
+this or that. Why did he turn power over to Mr. Putin? Because he respected him for his work ethic
+
+38:07.600 --> 38:16.000
+and his balance, his maturity. That's what I can say is I saw in him. A poor person from a poor
+
+38:16.000 --> 38:21.840
+family who worked his way up through the KGB. Americans keep saying he's a KGB agent, but
+
+38:22.880 --> 38:28.160
+it's like saying George Bush was a CIA agent, but he became a president. You grow. You grow
+
+38:28.160 --> 38:34.560
+in your life. He went from the KGB to this technocratic position. He dealt with many
+
+38:34.560 --> 38:40.800
+problems, including the Chechnyan War, which was a very difficult situation, as well as
+
+38:41.520 --> 38:47.680
+the Russian submarine problem. Several things happened early that gave him a lot of experience
+
+38:47.680 --> 38:51.920
+and he handled them all pretty well. Do you think he was an honest man?
+
+38:51.920 --> 38:57.360
+I do. Now, of course, the question of money, the charge is that he's the richest man in the world,
+
+38:57.360 --> 39:03.440
+ludicrous. He certainly doesn't live like it or act like it. If you're rich, I've been around a
+
+39:03.440 --> 39:07.360
+lot of rich people in my life. You probably have too. In America, you run into them.
+
+39:07.360 --> 39:11.760
+So many of them are arrogant. I'm actually good friends now with
+
+39:11.760 --> 39:15.040
+the richest man in the world. Of course. I saw your interview with Mr.
+
+39:16.400 --> 39:23.680
+Musk, who I appreciate. At least he speaks freely. I'm positive about him owning Twitter
+
+39:23.680 --> 39:30.160
+because Twitter has become censorship city, as has all the major tech. The censorship that we
+
+39:30.160 --> 39:34.560
+are now seeing in the United States is so un-American and shocking to me.
+
+39:34.560 --> 39:40.800
+And he's a resistance to that. Yeah, I like Musk for that. Just for that only. But I also appreciate
+
+39:40.800 --> 39:48.960
+him, his adventuresome, his nature and his desire to explore the world and to ask questions.
+
+39:48.960 --> 39:56.080
+Yeah. There's certain ways you sound when you speak freely. There's certain ways you sound.
+
+39:56.080 --> 40:01.520
+A man sounds when he speaks freely, and he speaks freely, and it's refreshing.
+
+40:02.400 --> 40:06.240
+No matter whether you're rich or not, it doesn't matter. When you speak freely,
+
+40:06.240 --> 40:11.680
+it's a beautiful thing. Actually, Musk, and a major point on going back to nuclear energy,
+
+40:11.680 --> 40:17.040
+you know, he never believed in it at first, apparently. He was going for batteries, right?
+
+40:17.040 --> 40:20.720
+And he did put a lot of money into batteries. He made them bigger and bigger batteries. But
+
+40:21.440 --> 40:25.280
+it just, as Bill Gates has said, it's just, it's not going to get us there.
+
+40:25.280 --> 40:29.760
+Yeah. And now I think Musk is on another path. He understands the need for nuclear.
+
+40:29.760 --> 40:34.960
+Yeah, he's a supporter of nuclear. We're jumping around.
+
+40:34.960 --> 40:39.840
+Putin never asked for one thing. Never. It was an interview. It was free form.
+
+40:39.840 --> 40:46.960
+Ask anything you want. No restrictions, no rules. As with Castro, frankly, Castro did the same thing
+
+40:46.960 --> 40:50.800
+as their Chavez. So I've had good luck in interviewing free-ranging subjects, people
+
+40:50.800 --> 40:57.840
+willing to express themselves. He's much more guarded than Castro or Chavez, because as you
+
+40:57.840 --> 41:02.720
+know, he's setting government policy when he speaks, and anything he says can be taken out
+
+41:02.720 --> 41:07.280
+of context. But there was no restrictions on what to talk about, none of that.
+
+41:07.280 --> 41:13.200
+Nor any desire to see anything before we published it. No need to check it with them.
+
+41:13.200 --> 41:22.800
+Do you think he watched the final product? Yes, I do. But I don't think he made judgments
+
+41:22.800 --> 41:28.560
+on it. I think he was pleased. He doesn't go either way. You see, he's pleased. I mean,
+
+41:28.560 --> 41:34.160
+it went well. He's happy for us. But I don't think he had great enthusiasm, expressed it to me.
+
+41:34.720 --> 41:38.960
+He trusted me. And you can see the way he dealt with me each time. He warmed up to me
+
+41:39.920 --> 41:46.560
+four times. The first time it might have been a little stiff. You don't know who you're
+
+41:46.560 --> 41:53.200
+dealing with and so forth. I understand that. But he's used to it now. He's done a lot of press.
+
+41:53.200 --> 41:59.040
+The worst press he's done, frankly, has been the American press. And not because of his fault,
+
+41:59.040 --> 42:03.120
+but because of the way they have treated him. If you look at the interviews, they're awful.
+
+42:03.600 --> 42:09.120
+They put, first of all, I noticed one thing as a filmmaker right away, they use an overdub. They
+
+42:09.120 --> 42:13.920
+put a Russian speaker for everything he says. He was much harsher. He speaks Russian in a much
+
+42:13.920 --> 42:20.160
+harsher manner than actually Putin does. On my interview, I left him in his original language
+
+42:20.160 --> 42:25.200
+with translator. And I think that's important because he expresses himself very clearly
+
+42:25.200 --> 42:30.640
+and calmly. When you listen to the American broadcast, it's a belligerent person who looks
+
+42:30.640 --> 42:37.120
+like he's about to bang his shoe on the table. And secondly, the questions are highly aggressive
+
+42:37.120 --> 42:43.280
+from the beginning. There's no sense of rapport. There's no sense of, well, it's why Mr. Putin,
+
+42:43.280 --> 42:47.680
+did you poison this person? Why Mr. Putin, did you kill this person? Why are you a murderer?
+
+42:47.680 --> 42:55.440
+I mean, it's blunt, negative television. Yeah, it's not just aggressive. So I obviously speak
+
+42:55.440 --> 43:02.880
+Russian. So I get to appreciate both the original and the translation. And it's not just aggressive.
+
+43:02.880 --> 43:09.040
+It's very shallow. They're not looking to understand. To me, aggression is okay if that's
+
+43:09.040 --> 43:16.240
+the way you want to approach it. But there should be underlying kind of empathy for another human
+
+43:16.240 --> 43:23.120
+being in order to be able to understand. And so some of the worst interviews I've ever listened
+
+43:23.120 --> 43:29.440
+to is by American press of Vladimir Putin. So NBC and all those kinds of organizations,
+
+43:29.440 --> 43:34.560
+it's very painful to watch. And you saw the reception to the Putin interviews in America
+
+43:34.560 --> 43:42.480
+was hostile without seeing it. So many people criticized my series without having seen it.
+
+43:44.000 --> 43:49.600
+I went on a show, a television show with this famous coal bearer. He's very famous in America.
+
+43:49.600 --> 43:54.000
+And I was shocked on the show to find out that he hadn't seen anything of the four hours. He was
+
+43:54.000 --> 44:01.360
+just attacking Putin. And he threw me. I was complicit. Therefore, I was a Putin supporter.
+
+44:01.360 --> 44:09.680
+And the show was a disaster. It's one of my worst television shows. Actually, I had to just shut up
+
+44:09.680 --> 44:15.120
+and get off the air. I mean, at some point, it was embarrassing because the audience too was clapping
+
+44:15.120 --> 44:19.920
+for Kobe on anything he said. Well, as an interviewer in that situation,
+
+44:19.920 --> 44:26.320
+because between you and Vladimir Putin, there was camaraderie, there was joking, there was...
+
+44:28.480 --> 44:35.040
+Are you worried? Do you put that into the calculation when you're making a film
+
+44:35.760 --> 44:42.880
+with somebody that could be lying to you, that could be evil? When you talk about Castro,
+
+44:42.880 --> 44:49.920
+you talk about... So are you worried about how charisma of a man across the table from you
+
+44:50.560 --> 44:55.600
+can do you? No, I take that into account. I absolutely take that into account. I mean,
+
+44:55.600 --> 45:01.680
+doing Castro, he's a wonderful speaker. He's charismatic. So is Chavez. Look at those
+
+45:01.680 --> 45:07.600
+interviews. I took it into account. But Putin doesn't play that game. He doesn't charm you.
+
+45:07.600 --> 45:15.440
+He doesn't try to overwhelm you with his bon ami at all. He just says, ask your question,
+
+45:15.440 --> 45:20.640
+I'll give you my answer straight. Here it is. And he analyzes it. This is the history of NATO. This
+
+45:20.640 --> 45:25.600
+is the history of our relationship with the United States. How many times have we tried to talk to
+
+45:25.600 --> 45:30.960
+them about such and such and such and such and each time we get nowhere? In fact, it's a very...
+
+45:32.720 --> 45:37.360
+I would like to get along with the United States so much. He's saying it so clearly
+
+45:37.360 --> 45:42.640
+in all his words. So to play devil's advocate. But he's not making a big deal about it. But
+
+45:42.640 --> 45:48.560
+there is a charisma in the calmness. Yes, there is. So like, let's just calm everything down.
+
+45:48.560 --> 45:57.280
+It's simple facts. You can call... So there's like the Hitler thing, which is screaming,
+
+45:57.840 --> 46:03.360
+being very loud, charismatic, strong message and so on. And then there's a Putin-style...
+
+46:03.360 --> 46:06.880
+I'm not comparing those two. There's the Putin-style communication of calmness.
+
+46:08.000 --> 46:13.120
+And that, at least to me, my personality, that can be very captivating. It's bringing everything
+
+46:13.120 --> 46:18.320
+down. The facts are simple. But then when you say the facts are simple, you can now start lying
+
+46:18.320 --> 46:23.040
+and you don't know what's true and what's not. Well, it behooves you to do some research.
+
+46:23.040 --> 46:27.600
+Yes. And frankly, when it comes to research, you're going to have a problem because if you
+
+46:28.160 --> 46:32.880
+go to the Americanized versions of Russian history, you're going to run into a problem.
+
+46:33.360 --> 46:39.440
+And that includes even Wikipedia. They will tell you things that are just not factually supported.
+
+46:39.440 --> 46:45.600
+So it was a problem in terms of if you read all the books in the American library about Putin,
+
+46:45.600 --> 46:50.400
+there's nothing positive about it. They're awful. They're awful. And a lot of them...
+
+46:51.200 --> 46:56.000
+I had a good relationship with Professor Stephen Cohen, who's the most, I think, one of the most
+
+46:56.000 --> 47:02.560
+informed men on Russia. He'd done a lot of research all his life and knew Gorbachev very well.
+
+47:02.640 --> 47:08.720
+And was very analytical about all these situations that happened before his death
+
+47:08.720 --> 47:18.080
+in 2019. I'm not quite sure when Stephen died, but I knew him well. And he gave me the best
+
+47:18.080 --> 47:23.760
+information I could get. I would go to Stephen and I'd say, I'm confused here. Tell me the
+
+47:23.760 --> 47:28.720
+history of this accusation of poisoning against this person and so forth. And he'd explain it to
+
+47:28.720 --> 47:34.080
+me in, I think, the clearest ways that I understood. And he said to me once, he said,
+
+47:34.080 --> 47:38.400
+most of these people who go to Russia and write this stuff about Putin are going off the internet.
+
+47:38.400 --> 47:44.800
+The internet has really been a source of a lot of fractured facts here. He said, pure analysis. You
+
+47:44.800 --> 47:52.080
+have to go back to the texts, all the documents, and to really fully understand. But he spoke
+
+47:52.080 --> 48:03.280
+Russian. And his wife and him, Katerina Vanhoval, who's an editor, publisher of The Nation magazine,
+
+48:03.280 --> 48:09.360
+would go to Russia several times a year and talk to their friend Gorbachev. And Gorbachev's an
+
+48:09.360 --> 48:13.760
+interesting character. I talked to him, interviewed him, not interviewed him, but talked to him at
+
+48:13.760 --> 48:19.360
+length. And I like him very much. And I saw the divide, as you saw in the Putin interviews between
+
+48:19.360 --> 48:25.360
+Gorbachev and Putin early on in the interviews, you sense Putin doesn't really care for Gorbachev
+
+48:25.360 --> 48:30.720
+because in his point of view, he screwed up the administration of Russia and is responsible for so
+
+48:30.720 --> 48:37.920
+much of the disaster of leaving all those people outside the Soviet Union. So these are problems
+
+48:37.920 --> 48:45.840
+that continue into the future. But they see each other at the, or he sees, he knows he's there at
+
+48:45.840 --> 48:54.480
+the May Day Parade, we filmed, and his attitude is funny, it's very human. He says, you know,
+
+48:54.480 --> 49:00.080
+he's welcome, he's got his pension, he's a pensioner, he's done his duty. There's no
+
+49:02.720 --> 49:08.320
+animus towards him. Even when Gorbachev in the early days, as you remember, criticized
+
+49:08.320 --> 49:15.440
+for his manners in terms of democracy. But I don't know that that becomes a quarrel. But frankly,
+
+49:15.440 --> 49:22.640
+by the end of the situation, it's very clear that Gorbachev has now moved closer and closer to the,
+
+49:22.640 --> 49:29.600
+says Russia is now really under attack. He sees where the United States has made a concerted
+
+49:29.600 --> 49:36.240
+effort to undermine Putin. And he's repeated this several times about Ukraine. I think you've seen
+
+49:36.240 --> 49:42.880
+what he said, you can quote it. And Gorbachev is, we have no respect for Gorbachev even at this
+
+49:42.880 --> 49:49.200
+juncture. When can you see Gorbachev's ideas printed in most American newspapers? Very rarely,
+
+49:49.200 --> 49:54.400
+very rarely, and recently not at all. So Gorbachev, who was our hero back in,
+
+49:54.400 --> 50:00.960
+an American hero back in 1980s, has now been condemned to the garbage can, so to speak,
+
+50:00.960 --> 50:06.080
+of history. Well, in this complicated geopolitical picture you just outlined,
+
+50:07.040 --> 50:16.800
+can we talk about the recent invasion of Ukraine? You wrote on Facebook a pretty eloquent analysis,
+
+50:17.840 --> 50:28.160
+I think on March 3rd. Let me just read a small section of that just to give context and maybe
+
+50:28.160 --> 50:34.800
+we can talk a little bit more about both Russia and the man Putin. You wrote, although the United
+
+50:34.800 --> 50:39.680
+States has many wars of aggression on its conscience, it doesn't justify Mr. Putin's
+
+50:39.680 --> 50:46.320
+aggression in Ukraine. A dozen wrongs don't make a right. Russia was wrong to invade.
+
+50:46.320 --> 50:53.040
+It has made too many mistakes. One, underestimating Ukraine resistance. Two, overestimating the
+
+50:53.040 --> 50:58.400
+military ability to achieve its objective. Three, underestimating Europe's reaction,
+
+50:58.400 --> 51:03.520
+especially Germany, upping its military contribution to NATO, which they've resisted
+
+51:03.520 --> 51:09.840
+for some 20 years. Even Switzerland has joined the cause. Russia will be more isolated than
+
+51:09.840 --> 51:15.680
+ever from the West. Four, underestimating the enhanced power of NATO, which will now
+
+51:15.680 --> 51:22.640
+put more pressure on Russia's borders. Five, probably putting Ukraine into NATO. Six,
+
+51:22.640 --> 51:28.080
+underestimating the damage to its own economy and certainly creating more internal resistance
+
+51:28.080 --> 51:35.920
+in Russia. Seven, creating a major readjustment of power in its oligarch class. Eight, putting
+
+51:35.920 --> 51:45.200
+cluster and vacuum bombs into play. Nine, and underestimating the power of social media worldwide.
+
+51:45.200 --> 51:53.280
+And you go on for a while giving a much broader picture of the history and the geopolitics of all
+
+51:53.280 --> 52:02.640
+of this. So now, a little bit later, two months later, what are your thoughts about the invasion
+
+52:04.000 --> 52:12.720
+of Ukraine? Well, it's very hard to be honest in this regard because the West has brought down
+
+52:12.720 --> 52:20.080
+a curtain here and anyone who questions the invasion of Ukraine and its consequences
+
+52:20.080 --> 52:29.120
+is an enemy of the people. It's become so difficult. I've never seen in my lifetime ever
+
+52:29.920 --> 52:39.680
+such a wall of propaganda as I've seen in the West. And that includes France, too,
+
+52:39.680 --> 52:45.520
+because I was there recently in England. England is, of course, really vociferous.
+
+52:46.320 --> 52:52.320
+It's shocking to me how quickly Europe moved in this direction and that includes Germany.
+
+52:52.320 --> 52:57.520
+I have German friends who expressed to me their shock over Ukraine. I have Italian friends,
+
+52:57.520 --> 53:02.720
+same thing. And Italy, of course, has been perhaps the most understanding and compassionate of
+
+53:02.720 --> 53:11.120
+countries. So it's quite evident that there's a united and this attests to the power of the
+
+53:11.120 --> 53:17.600
+United States. And of course, you have Finland, which has generally been reasonable jumping in,
+
+53:17.600 --> 53:24.240
+talking about joining NATO and Sweden, too. Generally, there's been some more restraint
+
+53:25.200 --> 53:31.760
+in Europe. That's what surprised me the most, Europe, how quickly they fell into this NATO
+
+53:31.760 --> 53:38.000
+basket, which is very dangerous for Europe, very dangerous. This goes back to my idea of what I
+
+53:38.000 --> 53:44.400
+was saying earlier about sovereignty. These countries don't really give me a sense that
+
+53:44.400 --> 53:48.000
+they have sovereignty over their own countries. They don't feel...
+
+53:48.000 --> 53:49.680
+European nations.
+
+53:50.720 --> 53:56.800
+I'm obviously intuition here is working. I just don't feel that they have freedom to say what
+
+53:56.800 --> 54:03.200
+they really think and they're scared to say it. When the United States invaded Iraq in 2003,
+
+54:03.680 --> 54:08.640
+I remember with great, in a sense, satisfaction that at least France,
+
+54:09.280 --> 54:14.240
+Chirac, who I had not really know much about, stood up and said, the United States, we're not
+
+54:14.240 --> 54:19.600
+going to join you in this expedition, basically into madness. Schroeder and Germany, same thing.
+
+54:20.480 --> 54:26.000
+Of course, Putin condemned the invasion and Putin had been an ally of the United States
+
+54:26.000 --> 54:31.520
+since 9-11, if you remember correctly, and had called Bush and they were getting along. So
+
+54:31.520 --> 54:39.120
+even Putin said, don't go into Iraq. This is not the solution. He didn't oppose Afghanistan,
+
+54:39.120 --> 54:47.520
+but he opposed Iraq. So Chirac and Schroeder stood for the old Europe. I remember de Gaulle,
+
+54:47.520 --> 54:52.480
+Charles de Gaulle. He was independent of the United States. Charles de Gaulle pulled France
+
+54:52.480 --> 54:57.520
+out of NATO because he saw the dangers of NATO, which is to say, you have to fight an American
+
+54:57.520 --> 55:04.960
+war. When they say, and they put nuclear weapons on your territory in England and France
+
+55:04.960 --> 55:13.040
+and Italy and Germany, when they do that, you're hitched to this superpower and you have no
+
+55:13.040 --> 55:17.920
+say in what they're going to do. If they declare war and they use your territory,
+
+55:17.920 --> 55:22.560
+you're going to be involved in a major conflict. I'm talking about sovereignty. Where is that
+
+55:22.560 --> 55:28.960
+sovereignty? They don't have it. That has influenced their mindset for years now, since
+
+55:28.960 --> 55:37.920
+1940, while de Gaulle was in the 60s. He actually reversed the whole flow and I think it was Sarkozy
+
+55:37.920 --> 55:47.520
+who put France back into NATO. Now it's Macron, I hope because he was talking to Putin, would at
+
+55:47.520 --> 55:54.320
+least have an independent viewpoint that could be helpful here. He rolled it up. He may have told
+
+55:54.320 --> 55:58.240
+Putin something else, but within days he had rolled it up and gone along with the United States
+
+55:58.240 --> 56:04.640
+position, which was enforced by the United States in a very fierce way. The propaganda, as I say,
+
+56:04.640 --> 56:10.160
+I don't know how much time you spent in America, but it was vicious and everything was anti-Russian.
+
+56:10.160 --> 56:17.600
+Russia were killing all these people, were shooting down civilians, although there was
+
+56:17.600 --> 56:22.640
+no proof of it. These are the accidents of war, but all of a sudden it was a campaign of
+
+56:22.640 --> 56:27.520
+criminality and they were talking about bringing Putin into a war crime trial.
+
+56:27.520 --> 56:32.400
+Well, why didn't they talk like that when Iraq was going on and Bush was killing far more people?
+
+56:33.280 --> 56:39.680
+Or for that matter, why were they not talking about the killings in Donbas and Lugansk during
+
+56:39.680 --> 56:48.560
+that 2014 to 2022 period? It's a crime. There were so many people that were killed,
+
+56:49.440 --> 56:51.520
+many of them innocent, many of them innocent.
+
+56:51.520 --> 57:02.080
+What would be the way for Vladimir Putin to stop the killing in Donbas without the invasion of Ukraine?
+
+57:02.080 --> 57:05.600
+Yeah, that's a very good question and I've asked that several times and
+
+57:06.400 --> 57:13.280
+I have not talked to him since about two years now. It's a very good question.
+
+57:13.280 --> 57:17.920
+What's the mistakes? What the human mistakes and the leadership mistakes mean?
+
+57:17.920 --> 57:22.320
+It's a very good question. You see, what the American press has not said and the Western
+
+57:22.320 --> 57:29.360
+press has not said is that on February 24, that was on that day when they invaded. The day before,
+
+57:29.360 --> 57:36.640
+if you check the logs of the European organization that was supervising, it was in the field in
+
+57:36.640 --> 57:43.600
+Ukraine. These are neutral observers. They were seeing heavier and heavier artillery fire going
+
+57:45.360 --> 57:56.160
+into Donbas from the Ukrainian side. Apparently, Ukraine had 110,000 troops on the border. They
+
+57:56.160 --> 58:03.440
+were about to invade Donbas. That was the plan. That's what I think. Russia, because of the buildup
+
+58:03.440 --> 58:15.040
+on the border of Donbas, brought 130,000 troops to the area near Donbas. You have buildup of forces
+
+58:15.040 --> 58:19.600
+on both sides, but you wouldn't know that from reading the press in the West. You'd believe that
+
+58:19.600 --> 58:26.880
+the Russians suddenly put all these men into the situation with the idea of invading Ukraine,
+
+58:26.880 --> 58:32.480
+not only Donbas, but invading all of Ukraine and getting rid of the decapitating the government
+
+58:32.480 --> 58:36.800
+there, which is all assumption. We don't know what they would intend it to do.
+
+58:36.800 --> 58:43.920
+But you at the time, is that a lot of people thought that all the talk of the invasion,
+
+58:44.720 --> 58:49.120
+Russian invasion of Ukraine is just propaganda. It's not going to happen.
+
+58:49.120 --> 58:51.600
+It's very likely to happen. I think many of us thought that the
+
+58:51.600 --> 58:56.960
+United States is building this up into an invasion. In other words, that is the nature of
+
+58:56.960 --> 59:01.680
+false flag operations. When you create this propaganda, they are going to invade,
+
+59:01.680 --> 59:06.800
+they are going to invade. Then when they invaded, the United States was completely ready and all
+
+59:06.800 --> 59:11.040
+their allies were completely ready for the invasion, correct? So why did Putin do that?
+
+59:11.040 --> 59:16.720
+He fell theoretically into this trap set by the United States. Here you're telling
+
+59:16.720 --> 59:18.960
+all your allies across the board, they're going to invade.
+
+59:21.200 --> 59:28.320
+Why do you think he did it? Is it madness or is it strategic calculation?
+
+59:28.320 --> 59:34.160
+Perhaps. This one I cannot answer you faithfully because first of all, we don't know what he was
+
+59:34.160 --> 59:39.280
+told. If he was indeed getting the right intelligence estimates from what I said earlier
+
+59:39.280 --> 59:49.280
+in that essay I wrote, you would think he was not well informed perhaps about the degree of
+
+59:49.920 --> 59:58.240
+cooperation he would get from the Ukrainian Russians in Ukraine. That would be one factor,
+
+59:58.240 --> 01:00:06.880
+that he didn't assess the operation correctly. Remember this, Mr. Putin has had this cancer
+
+01:00:07.840 --> 01:00:11.840
+and I think he's licked it, but he's also been isolated because of COVID.
+
+01:00:13.040 --> 01:00:18.640
+Some people would argue that the isolation from normal activity, which he was meeting people
+
+01:00:18.640 --> 01:00:23.840
+face to face, but all of a sudden he was meeting people across the table 100 yards away or whatever,
+
+01:00:23.840 --> 01:00:30.000
+10 yards away, it was very hard. Perhaps he lost touch with, contact with people.
+
+01:00:30.000 --> 01:00:34.240
+So it's not just power, it's the very simple fact that you're just distant from humans.
+
+01:00:34.240 --> 01:00:40.960
+I'm speculating, I don't know. I see that and perhaps he thought in his mind that there would
+
+01:00:40.960 --> 01:00:53.040
+be a faster resolution because the evidence had been that the Ukrainian army had folded
+
+01:00:53.040 --> 01:00:58.240
+so many times and that they were only backed up and they were stiffened by the resistance of the
+
+01:00:58.240 --> 01:01:05.520
+Nazi-oriented Azov battalions. That was a factor, of course, and that is a big factor for the
+
+01:01:05.520 --> 01:01:11.360
+Russians because these people are very tough. What people don't understand is that Ukraine
+
+01:01:11.360 --> 01:01:18.800
+since 2014 has been a terror state. They've been run. Anytime a Ukrainian has expressed any
+
+01:01:22.400 --> 01:01:27.680
+understanding of the Russian-Ukrainian position, they've been threatened by the state.
+
+01:01:28.240 --> 01:01:33.840
+From 2014 to 2022, there's been a set of hideous murders that people don't even know about in the
+
+01:01:33.840 --> 01:01:41.360
+West. Journalists, people who speak out, liberals, people who I interviewed, Victor Medvedev, who
+
+01:01:41.360 --> 01:01:46.480
+they make out to be some kind of horrible person, but Medvedev was a very important figure in the
+
+01:01:46.480 --> 01:01:52.800
+administration of Khushma, the first Ukrainian prime minister in the 1990s, and he did a great
+
+01:01:52.800 --> 01:01:57.440
+job on the economy. He was a very thoughtful man. If you'll see my interview, it's called Ukraine
+
+01:01:57.440 --> 01:02:02.240
+Revealed. He's very thoughtful about the future of Ukraine. He doesn't want to go back and join
+
+01:02:02.240 --> 01:02:07.840
+Russia. He wants it to be an independent country. Ukraine is independent and he wants it to be a
+
+01:02:07.840 --> 01:02:13.120
+functioning economic democracy, more or less a democracy, if you can get that, but between
+
+01:02:13.760 --> 01:02:19.680
+that exists in a neutral state, a neutral state, which Ukraine used to be before 2014. It was
+
+01:02:19.680 --> 01:02:27.920
+neutral from 1991 to 2014, neutral, very important. Under Poroshenko, it just
+
+01:02:27.920 --> 01:02:33.200
+immediately went into an anti-Soviet Cold War position as an ally of the United States.
+
+01:02:36.800 --> 01:02:43.440
+My point was that it was a very dangerous place in Ukraine. People were being killed,
+
+01:02:44.080 --> 01:02:49.840
+death squads were out there. Medvedev, they stripped him of his television stations very
+
+01:02:49.840 --> 01:02:55.440
+suddenly. This is Zelensky, the new president. Zelensky was elected on a peace platform.
+
+01:02:55.440 --> 01:03:01.520
+Remember that. 70% of the country was for him to make peace with Russia. Did he ever even try to
+
+01:03:01.520 --> 01:03:09.200
+make peace with Russia? Did he attend any of the Minsk 2 agreements? Did he pay any attention to
+
+01:03:09.200 --> 01:03:13.600
+Putin? Did he go to Russia? No, not at all. The moment he got into office,
+
+01:03:13.600 --> 01:03:25.600
+I'm convinced that the militant sector of the right sector parties of Ukraine, let him know
+
+01:03:25.600 --> 01:03:30.320
+that you will not make a deal with Russia. There'll be no concessions to Russia. This is
+
+01:03:30.320 --> 01:03:36.080
+very dangerous. This is where this attitude that's very, very hostile to Russia has hurt us. The whole
+
+01:03:36.080 --> 01:03:43.040
+world is being hurt by this. No one calls them out. No one calls them out. Zelensky backed off
+
+01:03:43.760 --> 01:03:48.880
+from his platform running for president. As president, he has been ineffective,
+
+01:03:48.880 --> 01:03:53.760
+did nothing to promote it. On the contrary, he went the other way and seemed to support
+
+01:03:53.760 --> 01:04:00.400
+the Ukrainian aggression. Well, he found his support in this war. You've revealed through
+
+01:04:00.400 --> 01:04:07.840
+your work some of the most honest and dark aspects of war. Nevertheless, this is a war
+
+01:04:07.840 --> 01:04:16.480
+and there's a humanitarian crisis. Millions of people, refugees escaping Ukraine. What do you
+
+01:04:16.480 --> 01:04:26.080
+think about the human cost of this war initiated by whoever, just as you write, whatever the context,
+
+01:04:26.080 --> 01:04:32.480
+whatever NATO, whatever pressure, as you wrote, Russia was wrong to invade.
+
+01:04:33.680 --> 01:04:37.600
+Okay, yeah. Let's get back to that original question. You said, what was he thinking at
+
+01:04:37.600 --> 01:04:46.160
+that time? We never answered that. Now, by the way, among those people who have been
+
+01:04:47.120 --> 01:04:53.840
+ruined by this war, you have to include the 2014 to 2022 Ukrainian Russians. 14,000
+
+01:04:55.760 --> 01:05:01.440
+were killed, not necessarily by some of them by maybe accident and this and that, but certainly
+
+01:05:01.440 --> 01:05:08.880
+a large number of that is responsible to the Ukrainian military and the Nazi related battalions
+
+01:05:08.880 --> 01:05:13.680
+who have done a good job of death squatting that whole area. Remember, I did a film about Salvador.
+
+01:05:13.760 --> 01:05:17.520
+I know a little bit about death squads and how they work and I know about paramilitaries
+
+01:05:17.520 --> 01:05:22.720
+because in South America, they're all over the place. America supports, hates Venezuela,
+
+01:05:22.720 --> 01:05:26.880
+goes on about Venezuela. Do they tell you anything about Colombia, its next door neighbor?
+
+01:05:26.880 --> 01:05:31.680
+Colombia for years has been plagued by paramilitaries that are right wing and the
+
+01:05:31.680 --> 01:05:35.440
+United States has said nothing about them except occasionally there's a newspaper report now.
+
+01:05:37.120 --> 01:05:41.280
+This support of death squads by the United States is all over the world. It's not just
+
+01:05:41.280 --> 01:05:47.600
+in South America and Central America where we see plenty of evidence of it. It's here too and this
+
+01:05:47.600 --> 01:05:53.120
+is what's horrible about this whole thing, this hypocrisy of America that they can support such
+
+01:05:53.120 --> 01:06:01.360
+evil, such evil. Now, going back to your larger question about, yes, it's a terrible refugee
+
+01:06:01.360 --> 01:06:05.680
+disaster, but again, we have to get the numbers. Let's get the numbers and get the evidence because
+
+01:06:06.640 --> 01:06:12.000
+I would ask you, I'm not sure at this point whether more civilians were killed before 2022
+
+01:06:12.000 --> 01:06:18.160
+in Donbass than have been killed in this latest. So we can't talk about this without, we can't
+
+01:06:18.160 --> 01:06:22.720
+talk about the invasion in Ukraine without considering the full war between Russia and Ukraine
+
+01:06:22.720 --> 01:06:30.880
+since 2014. That's correct, absolutely and take the toll on both sides and you might be surprised
+
+01:06:30.880 --> 01:06:37.360
+by the result. I think the Russian military, of course, I'm not there and this is speculation.
+
+01:06:37.360 --> 01:06:42.560
+The Russian military has slowed down and part of that reason is not to keep the civilian corridors
+
+01:06:42.560 --> 01:06:48.320
+open and I think the Ukrainian military has made it more difficult on purpose, especially some of
+
+01:06:48.320 --> 01:06:52.960
+these battalions that are death squad battalions have gone out of their way to keep the civilians
+
+01:06:52.960 --> 01:07:00.160
+locked into these cities in danger because it's in their interest to do so. So there's no reason why
+
+01:07:00.160 --> 01:07:05.920
+Ukrainian military who have killed Ukrainian civilians for years would change their policies.
+
+01:07:05.920 --> 01:07:11.040
+They would have no compunctions about wiping out, for example, people with white armbands in Bukha.
+
+01:07:12.480 --> 01:07:19.120
+Okay, as to what Putin was thinking at the time, I wondered this and I still do. I said,
+
+01:07:19.120 --> 01:07:26.560
+okay, so Putin can say, let's say the Ukrainian government wants to now invade
+
+01:07:26.560 --> 01:07:32.000
+Donbass. This is on February 23 and they have artillery that pepper in the whole place. They're
+
+01:07:32.000 --> 01:07:39.520
+going to go in and they're going to get Donbass back. What do you do? You have Russian separatists
+
+01:07:39.520 --> 01:07:48.880
+who are Russian Ukrainians who are on who are going to fight. How far do you go in supporting
+
+01:07:48.880 --> 01:07:52.960
+them? Can Russia at this point say, well, we can't help you. You have to get along. You have to
+
+01:07:52.960 --> 01:07:58.240
+somehow, you have to be absorbed by the Kiev. You're going to be absorbed by them and they're
+
+01:07:58.240 --> 01:08:01.840
+going to be, they're not going to give you autonomy and you have to live with them.
+
+01:08:02.480 --> 01:08:06.320
+And there's going to be a price to pay. You could do that and you can also say, well, we open our
+
+01:08:06.320 --> 01:08:12.480
+borders to Donbass. You can come into our country, you can leave and we will help you to resettle.
+
+01:08:13.680 --> 01:08:18.480
+And that would be a reasonable approach. So you take it to the next stage, as Putin's thinking,
+
+01:08:18.480 --> 01:08:25.120
+you take it to the next stage. You stall. Of course, there's this pressure on Putin from
+
+01:08:25.120 --> 01:08:29.840
+inside his own government to say, what are you going to do? I mean, you can't do this. There's
+
+01:08:29.840 --> 01:08:34.880
+a lot of nationalists in Russia. They would certainly bring, it would be to his, they'd say
+
+01:08:34.880 --> 01:08:39.520
+Putin is weak and that's the biggest rap you can never give a Russian leader is you're weak,
+
+01:08:39.520 --> 01:08:44.240
+you can't get anything done. So there would have been some damage, but let's say he goes with that
+
+01:08:44.240 --> 01:08:50.320
+and he says, okay, we know what the United States intention is. It's to get rid of me,
+
+01:08:50.320 --> 01:08:55.520
+regime change and to get another Yeltsin in. That's what they want. And they will go to any
+
+01:08:55.520 --> 01:09:00.960
+ends. They will destroy Ukraine if necessary, but they want regime change in Russia. And then
+
+01:09:00.960 --> 01:09:05.440
+after they do that, of course, they'll go after China, but that's the ultimate policy of the
+
+01:09:05.440 --> 01:09:11.520
+United States. This is a country that has no compunctions about going all the way and it
+
+01:09:11.520 --> 01:09:16.640
+will use hypocrisy in all the news propaganda in the world to get what it wants. This is the
+
+01:09:16.640 --> 01:09:24.480
+equivalent, frankly, of Germany's goals in World War II, world domination. There's no question in
+
+01:09:24.480 --> 01:09:30.800
+my mind, but we're going about it in our way as opposed to Hitler's way. So just to finish your
+
+01:09:30.800 --> 01:09:36.800
+thought, where do they go? What's stage two? Okay. Let's say they take, Ukraine takes back Donbass.
+
+01:09:37.520 --> 01:09:43.120
+Let's say people get killed in large quantities. So we're now to the next stage. We're finished
+
+01:09:43.120 --> 01:09:47.680
+with the Minsk 2 agreements that were never adhered to. So what does Russia do? They wait
+
+01:09:47.680 --> 01:09:53.920
+for the next aggression, which is going to come in one form or another, perhaps in Georgia. I
+
+01:09:53.920 --> 01:10:02.240
+don't know what the US is thinking, but the US cannot say Russia has done anything. They have
+
+01:10:02.240 --> 01:10:09.760
+not used violence to stop Donbass from belonging back to Ukraine, right? So you're in a new setup
+
+01:10:09.760 --> 01:10:16.320
+now. It's a whole thing rearranges. But you still have nuclear weapons and you still have Russian
+
+01:10:16.880 --> 01:10:22.320
+nuclear weapons and they're serious weapons. They're very well developed, crude, but not as
+
+01:10:22.320 --> 01:10:28.800
+refined as the American nuclear force, but powerful. That becomes another game. Then you open another
+
+01:10:28.800 --> 01:10:34.400
+chess board and you still haven't been condemned. The sanctions haven't been imposed. It's a new
+
+01:10:34.400 --> 01:10:40.480
+game. Could he have lived with that? That's the question I ask myself. So you see ultimately
+
+01:10:40.480 --> 01:10:45.920
+Ukraine today as a battleground for the proxy war between Russia and the United States? The United
+
+01:10:45.920 --> 01:10:51.840
+States would have then NATO-ized Ukraine or certainly put more weapons in. The United States
+
+01:10:51.840 --> 01:10:59.600
+has already done a lot in Ukraine with intelligence, with training advisors. The intelligence aspect of
+
+01:10:59.600 --> 01:11:04.880
+the Ukrainian army has been raised enormously by the United States contribution. Is it possible for
+
+01:11:04.880 --> 01:11:12.400
+you to steal man, to play devil's advocate against yourself and say that Vladimir Zelensky is fighting
+
+01:11:12.400 --> 01:11:18.960
+for the sovereignty of his nation and in a way against Russia, but also against the United States,
+
+01:11:18.960 --> 01:11:26.400
+it just happens that for now the United States is a useful ally, but ultimately the man, the leader,
+
+01:11:27.040 --> 01:11:33.360
+is fighting for the sovereignty of his nation? He thinks so. Yes, and he could say that, but he's
+
+01:11:33.360 --> 01:11:39.280
+not acknowledging that the sovereignty of his nation was stolen in 2014 with a coup d'etat that
+
+01:11:41.040 --> 01:11:48.080
+brought this right sector into power. They have controlled the country since then. It's thuggery
+
+01:11:48.080 --> 01:11:54.240
+what they've done. The Medvedev case is a case in point. They just take what they need. They go to
+
+01:11:54.240 --> 01:12:02.240
+a house and how many people have been killed? Serious people, journalists killed by these
+
+01:12:02.240 --> 01:12:06.560
+battalions. That's what people don't realize. In other words, you can't speak out. A person like
+
+01:12:06.560 --> 01:12:14.000
+me would have been on the death list on day five. There's no opposition to Zelensky, so he doesn't
+
+01:12:14.000 --> 01:12:20.320
+have a real sovereignty. It was a stolen sovereignty. Do you think President Zelensky
+
+01:12:20.320 --> 01:12:28.400
+would accept an interview with you today? Actually, since I made Ukraine on Fire documentary,
+
+01:12:28.400 --> 01:12:37.680
+which perhaps you've seen, which records the incidents of 2014 and the Maidan demonstrations
+
+01:12:37.680 --> 01:12:43.040
+and shows you the dishonesty behind it. No, I think that they've been very negative and
+
+01:12:43.600 --> 01:12:51.120
+they would kill me if I was in Ukraine. These people are very tough. These are as rough as
+
+01:12:51.120 --> 01:12:56.080
+they come, in my opinion, and I've seen rough in my life. These guys are not playing with
+
+01:12:56.080 --> 01:13:01.520
+fair at all. These are death squads. No, I don't think and Zelensky would have nothing to do with
+
+01:13:01.520 --> 01:13:07.600
+it, but of course, it would be dangerous for me and they've been very hostile in their policies
+
+01:13:08.240 --> 01:13:12.720
+any Ukrainians abroad are also threatened. In other words, you could be in Paris,
+
+01:13:12.720 --> 01:13:18.320
+but if you speak out too much, I think Ukrainians know that they're going to be targeted.
+
+01:13:18.880 --> 01:13:24.640
+I think that's part of the reason they don't talk. You have to take the anti-Russian line,
+
+01:13:24.640 --> 01:13:29.680
+but I think a lot of them are divided. You think you would be killed and Zelensky
+
+01:13:29.680 --> 01:13:35.440
+wouldn't even know about it. If I was killed certainly abroad, no, they wouldn't kill me
+
+01:13:35.440 --> 01:13:40.240
+abroad. I think they'd figure out a way. No, no, no, no. If you travel to Ukraine, I mean.
+
+01:13:40.240 --> 01:13:46.320
+I wouldn't get in, except through Donbass. There are some Americans in Donbass who are
+
+01:13:46.320 --> 01:13:50.720
+reporting on the war there and I read their reports. Actually, they're pretty interesting
+
+01:13:50.720 --> 01:13:54.800
+because they show you the cruelty of what's going on, but never mentioned in the West.
+
+01:13:54.800 --> 01:13:59.920
+Never. That's what's so strange about this. This is a modern world that we're living in,
+
+01:13:59.920 --> 01:14:04.560
+yet this information is not coming out to the mass of the people. On the contrary, the United
+
+01:14:04.560 --> 01:14:13.360
+States has closed down all the information centers that are possible alternative news
+
+01:14:13.360 --> 01:14:19.920
+getting to the American people. They've seriously made an effort and the BBC, English, and France.
+
+01:14:19.920 --> 01:14:26.000
+I was shocked when France closed RT down because RT is actually pretty good. Yes, they may. There
+
+01:14:26.000 --> 01:14:31.520
+are distortions, but you know as well as I do because you speak that RT has done a very
+
+01:14:32.240 --> 01:14:36.720
+brave job of putting correspondents into the field in very dangerous positions and they've
+
+01:14:36.720 --> 01:14:42.560
+gotten great footage of some of the violence that's going on. Well, given the wall of propaganda in
+
+01:14:42.560 --> 01:14:49.200
+the West, I also see the wall of propaganda in Russia, the wall of propaganda in China,
+
+01:14:49.200 --> 01:14:54.000
+the wall of propaganda in India. What do we do with these walls of propaganda?
+
+01:14:54.000 --> 01:14:58.800
+Yes, let's talk about Russia because you would know more about it, but my last experience there,
+
+01:14:59.360 --> 01:15:05.360
+newspapers, it was more interesting. Put it this way, when I went to Venezuela, the United States
+
+01:15:05.360 --> 01:15:11.040
+was saying back then that Chavez controlled the press. I get to Venezuela and there's nothing but
+
+01:15:11.040 --> 01:15:17.120
+criticism of Chavez in the press. It was owned by the oligarchs of Venezuela and who hated them,
+
+01:15:17.120 --> 01:15:23.440
+so it was across the board. That's why Chavez opened the state television, spent more money on
+
+01:15:23.440 --> 01:15:30.240
+it and advertised his point of view through state television. But in Russia, there is,
+
+01:15:30.240 --> 01:15:36.000
+what I saw was criticism. I met with a publisher who got the Nobel Prize of that famous newspaper
+
+01:15:36.800 --> 01:15:42.880
+and his point of view at that time when I spoke to him a few years ago was we're operating. There
+
+01:15:42.880 --> 01:15:49.040
+is criticism of him, but you can't call for the overthrow of the government, nor in Venezuela,
+
+01:15:49.040 --> 01:15:51.840
+nor in the United States for that matter. If you call for the overthrow of
+
+01:15:52.480 --> 01:15:55.440
+the government of the United States, you're going to be in deep trouble.
+
+01:15:55.440 --> 01:15:59.920
+Well, all right, so to push back on that, it's interesting. It's so interesting because
+
+01:16:00.720 --> 01:16:06.320
+we mentioned Elon Musk and there's a way that people sound when they speak freely.
+
+01:16:06.320 --> 01:16:12.640
+When I speak to, I have family in Ukraine, I have family in Russia. When I speak to people in Russia,
+
+01:16:12.640 --> 01:16:19.760
+let's put my family aside, when I speak to people in Russia, I think there's fear.
+
+01:16:19.760 --> 01:16:28.960
+I think they don't. Sometimes when you call for the overthrow of government, that's important,
+
+01:16:28.960 --> 01:16:33.200
+not because you necessarily believe for the overthrow of the government, but you just need
+
+01:16:33.200 --> 01:16:41.760
+to test, test the power centers and make sure they're responsive to the people. I feel like
+
+01:16:41.760 --> 01:16:51.680
+there's a mix of fear and apathy that has a different texture than it does in the United
+
+01:16:51.680 --> 01:17:01.360
+States. That worries me because I would like to see the flourishing of a people in all places.
+
+01:17:01.360 --> 01:17:07.920
+Well, as I said, my impression was that there's far more freedom in the press than was pictured
+
+01:17:07.920 --> 01:17:12.080
+by the West. That means different points of view because the Russians are always arguing
+
+01:17:12.080 --> 01:17:17.600
+with themselves. I've never seen a country that's so contentious. There's more intellectuals in
+
+01:17:17.600 --> 01:17:23.680
+Moscow and the cities than you can believe. You know the Russian people there. They've been
+
+01:17:23.680 --> 01:17:28.480
+fighting government for years back from the 1870s. It was czarist times. They're always
+
+01:17:28.480 --> 01:17:34.960
+plotting against the government. The intelligentsia is known through history as being contentious and
+
+01:17:34.960 --> 01:17:40.800
+anti-government in many ways. We see the same thing, educated people turning against Russia.
+
+01:17:40.800 --> 01:17:44.560
+I don't appreciate those people because I think they're very spoiled and they don't understand
+
+01:17:44.560 --> 01:17:50.080
+some of the stuff that's going on in the West. But we have a lot of Russians in Europe and America
+
+01:17:51.120 --> 01:17:56.800
+that attack Russia and sometimes don't understand that they are under pressure from the United
+
+01:17:56.800 --> 01:18:02.400
+States and they don't understand the size of the pressure. That's why Putin connects with the people
+
+01:18:02.400 --> 01:18:10.560
+because he represents more the common man who's saying to you, your interests are threatened.
+
+01:18:10.560 --> 01:18:15.520
+Russia is threatened. We are representing only the interests of Russia. We're not an empire.
+
+01:18:15.520 --> 01:18:20.640
+We're not going to expand. He has no empire intentions although the West paints it as empire.
+
+01:18:21.760 --> 01:18:26.000
+I see no evidence of it. Why didn't he do something in all these years?
+
+01:18:26.000 --> 01:18:30.800
+Nothing. He did nothing except defend the country in Georgia and in Chechnya.
+
+01:18:30.800 --> 01:18:34.160
+So the imperialist imperative is coming more from the West.
+
+01:18:35.280 --> 01:18:41.120
+It's the imperialist agenda. Going back to, I'm sorry, where we left our discussion off. I mean,
+
+01:18:41.120 --> 01:18:46.160
+I was going to go on with America not only being censored as closed down now,
+
+01:18:46.880 --> 01:18:52.880
+closed down and you say it's not fear. Well, it is fear. I am scared because if you get your
+
+01:18:52.880 --> 01:18:58.960
+Facebook page suspended or your YouTube, your Twitter account thrown off, a lot of good people
+
+01:18:58.960 --> 01:19:04.880
+are getting their thrown off. You can't speak out. It affects your business. It goes back to
+
+01:19:04.880 --> 01:19:12.960
+the 1950s when my father's world, when you could not express any sympathy for a Soviet Union without
+
+01:19:12.960 --> 01:19:18.480
+endangering your job, without basically being not trusted. You had to be part of the program to get
+
+01:19:18.480 --> 01:19:24.480
+along, to go along. Same thing when the United Kingdom, I mean, for all their talk, there's Boris
+
+01:19:24.480 --> 01:19:29.840
+Johnson is an idiot, but all their talk about, do you remember with their policies with the IRA
+
+01:19:29.840 --> 01:19:34.800
+in Ireland when Ireland was threatening them? They cut off the IRA completely. Jerry Adams,
+
+01:19:34.800 --> 01:19:40.160
+who was a wonderful guy, I met him, was not allowed to even be heard in Britain
+
+01:19:40.160 --> 01:19:45.440
+during certain years. In France, all constantly through the Algerian War, the Algerians were not
+
+01:19:45.440 --> 01:19:51.280
+allowed to be heard. The Algerian War for Independence divided France greatly. You could
+
+01:19:51.280 --> 01:19:57.440
+not even show Paz of Glory, a World War I film in France for, I don't know, 20 years after it came
+
+01:19:57.440 --> 01:20:03.840
+out. Censorship is a way of life. When democracies also feel threatened, they are much more fragile
+
+01:20:03.840 --> 01:20:08.640
+than they pretend to be. A healthy democracy would take all the criticism in the world and shrug it
+
+01:20:08.640 --> 01:20:12.640
+off and say, okay, that's what's good about our country. Well, I'd like to see that in America.
+
+01:20:13.200 --> 01:20:19.280
+There are times that it's been like that, but it's so scary now. So it is scary. That's what
+
+01:20:19.280 --> 01:20:25.520
+I was trying to say. It's not unscary to me. In China, I would say to you, yes, it's much
+
+01:20:25.520 --> 01:20:32.320
+scarier to me because there is the internet wall that they cut off. I got into problems in China
+
+01:20:32.320 --> 01:20:37.440
+too because I said something years ago about you have to discover your own history. You have to be
+
+01:20:37.440 --> 01:20:43.280
+honest about Mao. You have to go back and admit, let's make a movie about Mao. That upset them
+
+01:20:44.000 --> 01:20:50.400
+and show his negatives. So China has been much more sensitive than Russia about criticism,
+
+01:20:50.400 --> 01:20:56.560
+much more. And it is a source of problems. But on the other hand, China has a lot of grievances,
+
+01:20:56.560 --> 01:21:01.520
+a lot going back to the 19th century and the British imperialism of that era and the American
+
+01:21:01.520 --> 01:21:10.480
+imperialism. If you could talk to Vladimir Putin once again now, what kind of things would you talk
+
+01:21:10.480 --> 01:21:19.520
+about here? What kind of questions would you ask? Well, one thing I would certainly ask is what you
+
+01:21:19.520 --> 01:21:25.600
+were thinking on February 23. And I would ask him to reply to my question about what if you took
+
+01:21:25.600 --> 01:21:31.440
+this to phase two, you surrendered in Donbass, no ego about it. You just surrendered. It's in
+
+01:21:31.440 --> 01:21:37.120
+your interest to your country. And you invited all the refugees from Donbass into Russia as much as
+
+01:21:37.120 --> 01:21:44.160
+they can. What would you do now? What's the US next move? And in your opinion, how are you going
+
+01:21:44.160 --> 01:21:50.320
+to – okay, where are we going to go? That would be the key question because it's – but he didn't
+
+01:21:50.320 --> 01:21:57.840
+go that way. He chose to take the sanctions and to go this way. Why he did that is a key question for
+
+01:21:57.840 --> 01:22:05.200
+our time. Perhaps it was a mistake. Perhaps it was his judgment. Perhaps, as I said, but I don't –
+
+01:22:05.200 --> 01:22:08.560
+knowing the man I did, I don't think so. I think it was calculated.
+
+01:22:09.360 --> 01:22:15.200
+Now, this is projection and speculation, but there is something different about him in the past
+
+01:22:15.920 --> 01:22:19.200
+several months. It could be the COVID thing, the isolation that you mentioned.
+
+01:22:20.080 --> 01:22:27.120
+I've listened to a lot of interviews and speeches in Russian. And there's something about power
+
+01:22:27.120 --> 01:22:30.480
+over time that can change you, that can isolate you.
+
+01:22:30.640 --> 01:22:37.840
+When I was there – no, he'd been in office for already 15 years. He had power. He didn't misuse
+
+01:22:37.840 --> 01:22:42.720
+it in my opinion. He was very even. I saw him go on television and talk to his fellows the same way
+
+01:22:42.720 --> 01:22:48.800
+he always talked to them. He grew with it. He grew in intelligence and knowledge because he had
+
+01:22:48.800 --> 01:22:54.640
+dealings with the whole world. Now, people had come to him. He was very well known in Africa and
+
+01:22:54.640 --> 01:23:02.880
+Middle East, certainly Syria. And I just never saw misuse of his power. I saw humility in him,
+
+01:23:02.880 --> 01:23:10.480
+actually. So perhaps there was a calculation and he calculated wrong in terms of what happens if
+
+01:23:10.480 --> 01:23:15.840
+he doesn't invade. Perhaps there was a calculation. Perhaps he had a calm and clear mind
+
+01:23:16.800 --> 01:23:22.560
+and he calculated wrong. Well, he also made the point that he – the talk of Zelensky saying,
+
+01:23:22.800 --> 01:23:27.200
+nuclear weapons were going to come into Ukraine. There was talk about that right before
+
+01:23:27.200 --> 01:23:29.680
+the invasion too. And certainly that would have set off alarms.
+
+01:23:31.120 --> 01:23:37.360
+The United States is already kind of doing that by not only putting its intelligence and its heavy
+
+01:23:37.360 --> 01:23:42.320
+weaponry into Ukraine, but you've got to deal with the question. The next question that comes up,
+
+01:23:42.320 --> 01:23:49.360
+the most immediate question is, is the United States going to start? And I'm saying this is good.
+
+01:23:50.320 --> 01:23:54.720
+They're making a lot of noise in the United States press about Russia using nuclear weapons
+
+01:23:54.720 --> 01:24:01.040
+and chemical weapons. That's a lot of noise. Again, going back to my analogy, when the United
+
+01:24:01.040 --> 01:24:05.840
+States starts that, it starts the conversation going. It's in the interest of the United States
+
+01:24:07.280 --> 01:24:18.080
+for Russia to be pinned with any kind of chemical or nuclear incident. For example, it'd be very
+
+01:24:18.800 --> 01:24:25.920
+not simple, but it would be possible to explode a nuclear device in Donbass and kill thousands of
+
+01:24:25.920 --> 01:24:31.600
+people. And we would not know right away who did it, but of course the blame would go right to Russia,
+
+01:24:33.120 --> 01:24:37.600
+even if it didn't make sense, if there was no motivation for it. It would just be blamed on
+
+01:24:37.600 --> 01:24:42.880
+Russia. The United States might well be the one who does that false flag operation. It would not
+
+01:24:42.880 --> 01:24:50.240
+be beyond them. It would be a very dramatic solution to sealing this war off as a major
+
+01:24:50.240 --> 01:24:52.560
+victory for the United States. That's terrifying.
+
+01:24:52.560 --> 01:24:58.640
+No, but it can happen. It can happen at one kiloton device, low yield. It's possible.
+
+01:24:59.360 --> 01:25:03.920
+When you walk across that line, you can potentially never walk back.
+
+01:25:04.880 --> 01:25:11.040
+Well, I think the United States is calculating that it's a dangerous, yes, I agree, but I think the
+
+01:25:11.040 --> 01:25:16.160
+neoconservative arrogance is such that they really believe they can push their advantage
+
+01:25:16.160 --> 01:25:22.320
+to the max now because of all these propaganda successes up to now. The Ukrainian army could
+
+01:25:22.320 --> 01:25:26.400
+be wiped out for all we know. There's all this lefters or neo-Nazi brigades, but they're being
+
+01:25:26.400 --> 01:25:31.760
+advised very well by US, and they're sending the weapons in, or huge amounts of weapons.
+
+01:25:31.760 --> 01:25:36.960
+What about American budget? No one talks about how much money we're giving to Ukraine. It's a
+
+01:25:36.960 --> 01:25:48.160
+billion dollars already in weaponry, and not most of it just poured in. The Russian defense budget
+
+01:25:48.160 --> 01:25:54.160
+is 60-some billion dollars a year. It's nothing compared to the United States, one-fifteenth of
+
+01:25:54.160 --> 01:26:02.080
+it, but yet we've put so much weaponry into Ukraine. The money we've spent on Ukraine is
+
+01:26:02.080 --> 01:26:09.280
+equivalent almost to what we spent on COVID in our own country. It's astounding the distortion
+
+01:26:09.280 --> 01:26:15.040
+of our priorities. There's also chemical. Don't forget, chemical is probably the easier way to
+
+01:26:15.040 --> 01:26:24.560
+go, but in Syria there was far too many incidents of America in its quest to demonize Assad and
+
+01:26:24.560 --> 01:26:30.320
+the Russians of all these chemical attacks that were happening that they were vowing came from
+
+01:26:30.320 --> 01:26:38.480
+Russia. In spite of the fact that Russia signed the agreement on chemical arms and
+
+01:26:39.920 --> 01:26:46.320
+apparently destroyed its stock several years ago, it's strange that the strangest incidents
+
+01:26:46.320 --> 01:26:52.800
+happened in Syria. You go back to trace every one, good journalism was done. The White Helmets got
+
+01:26:52.800 --> 01:26:59.200
+a lot of fame, but they were corrupted. Many good journalists tried to point out the inconsistencies
+
+01:26:59.200 --> 01:27:07.840
+in the American accusations. Robert Perry among them, who was one of my mentors at Consortium
+
+01:27:07.840 --> 01:27:13.280
+Press, a lot of good journalists. You'd have to go back, but like you would trace each time,
+
+01:27:13.280 --> 01:27:18.720
+they made an accusation against Putin of murder. You need that same kind of Sherlock Holmes
+
+01:27:18.720 --> 01:27:23.600
+intensity investigation, and they don't do it because the United Nations or the chemical,
+
+01:27:24.560 --> 01:27:30.640
+not the United Nations as much as the chemical people, the organization has been tampered with.
+
+01:27:30.640 --> 01:27:36.960
+If you remember correctly, there was accusations that the Chemical Investigative Unit, I don't know
+
+01:27:36.960 --> 01:27:42.800
+the name of it, was tampered with, and people quit. People who were working on that commission
+
+01:27:42.800 --> 01:27:47.840
+quit and said that this is not legit. It's very interesting. That Syria story is wacko.
+
+01:27:48.640 --> 01:27:53.120
+So the United States is willing to use chemical in Syria freely. It did it three, four times.
+
+01:27:53.120 --> 01:27:58.160
+If you remember correctly, Trump was challenged that he did not attack after a chemical incident
+
+01:27:58.160 --> 01:28:04.560
+in Syria. All these newscasters in the United States, the most heaviest of them were saying,
+
+01:28:04.560 --> 01:28:12.720
+well, President Trump is now finally acting like a real precedent when he drops missiles in Syria.
+
+01:28:12.720 --> 01:28:17.840
+They actually said that. In other words, they wanted Trump to go to war on Syria, but he didn't.
+
+01:28:17.840 --> 01:28:27.600
+Chemical weapons, nuclear is really terrifying. Do you think now combine this with the fascinating
+
+01:28:27.600 --> 01:28:36.240
+choice in your interviews with Vladimir Putin to watch Stanley Kubrick's Dr. Strange Love,
+
+01:28:36.240 --> 01:28:42.160
+or How I Learned to Stop Warring and Love the Bomb, and given the fact that you did that,
+
+01:28:42.160 --> 01:28:50.400
+now looking at the fact that the word nuclear, and it feels like the world hangs on the brink
+
+01:28:50.400 --> 01:28:55.600
+of nuclear war, do you think that's overstating the case?
+
+01:28:55.600 --> 01:29:00.000
+No. That's what worried me from the beginning, and that's probably why I got involved in all
+
+01:29:00.000 --> 01:29:08.000
+this stuff, because I go back to the 60s when we were so close to nuclear war. I lived through
+
+01:29:08.000 --> 01:29:15.440
+that period, and I thought, as many people did, that it was going to come now. So I've lived
+
+01:29:15.440 --> 01:29:22.000
+through that. I didn't sense the period in 83 when Reagan took us to the edge, if you remember
+
+01:29:22.000 --> 01:29:27.280
+correctly. Abel Archer was an exercise that almost brought us to an end, because the Russians were
+
+01:29:27.840 --> 01:29:33.200
+really paranoid at that point, and they were responding to our military exercise on Abel
+
+01:29:33.200 --> 01:29:37.120
+Archer. There was also the Korean airliner they went down. There were numerous incidents in the
+
+01:29:37.120 --> 01:29:45.200
+80s, but I never felt the fear. I thought Reagan was testing the limits, but perhaps if I'd been
+
+01:29:45.200 --> 01:29:49.360
+younger, I would have felt it. But anyway, no, we come close. The United States has risked this
+
+01:29:49.360 --> 01:29:54.880
+several times. If I told you, it would be hard for you to believe, if I could set a scene for you in
+
+01:29:54.880 --> 01:30:03.360
+a drama in 1962 when Kennedy has a meeting with the Joint Chiefs of Staff and the CIA, and they
+
+01:30:03.360 --> 01:30:14.720
+talk about a plan, a military plan, to first strike the Soviet Union and China. It was an
+
+01:30:14.720 --> 01:30:24.000
+Eisenhower plan that had been put into potential operation in the early 60s or 50s, late 50s,
+
+01:30:24.720 --> 01:30:31.440
+SIOP 62. This was an attack on the Soviet Union, first strike. That's why the United States has
+
+01:30:31.440 --> 01:30:38.480
+never given up the concept of first strike. It's interesting that the Russian nuclear policy posture
+
+01:30:38.480 --> 01:30:46.000
+is more defensive than the American one, which leaves options open. The same options are open
+
+01:30:46.000 --> 01:30:53.920
+in neoconservative agreements that we see from the late 90s where they say the emergence of a rival
+
+01:30:53.920 --> 01:30:59.520
+power will not be tolerated. That's a very broad statement, and it allows you to do a lot,
+
+01:31:00.480 --> 01:31:06.240
+including nuclear. You have to understand the United States is always – first of all,
+
+01:31:06.240 --> 01:31:12.720
+it breaks so many treaties. We know that from the Putin story about the anti-ballistic missile
+
+01:31:12.720 --> 01:31:18.000
+treaty in 2002, and then the INF treaty. They broke that one. That was the intermediate
+
+01:31:18.720 --> 01:31:24.240
+missile. That was 2019. I don't know when they broke it off, but the United States has not been
+
+01:31:24.240 --> 01:31:31.280
+very faithful on its nuclear agreements. I don't know that we can even deal with the United States
+
+01:31:31.280 --> 01:31:35.440
+diplomatically. It seems to be impossible. Now, it brings me to Biden.
+
+01:31:37.040 --> 01:31:38.800
+Yes. Another Irishman.
+
+01:31:38.800 --> 01:31:44.400
+This is the opposite of Kennedy. Kennedy was a Catholic Irish anti-imperialist. Biden seems
+
+01:31:44.400 --> 01:31:51.360
+to be the opposite. He seems to be a get along, go along guy who's been not only old, but he's also
+
+01:31:51.360 --> 01:31:57.360
+gone along with this program, which I voted for Biden because I feared Trump, but I thought Biden
+
+01:31:57.360 --> 01:32:02.720
+at a certain age would mellow. I really did. He's not mellowed. Apparently, he's still listening
+
+01:32:02.720 --> 01:32:09.280
+to these people, and he believes them. It seems that horrible woman, Victoria Nuland,
+
+01:32:09.280 --> 01:32:15.920
+who was undersecretary of state, he appointed her to this sector of the world. She's very influential,
+
+01:32:15.920 --> 01:32:21.120
+and she's been one of the worst people on Ukraine. She obviously is behind the coup.
+
+01:32:21.680 --> 01:32:31.200
+She was the one who boasted that we got our man in, Yatsenuk, and also, remember the famous
+
+01:32:31.200 --> 01:32:35.520
+statement, fuck the EU, all these things. But she's back, and she said the other day about,
+
+01:32:37.200 --> 01:32:42.800
+if the Russians use nuclear weaponry of any kind, there's going to be a horrible price to pay.
+
+01:32:43.920 --> 01:32:48.640
+She was out of the blue. I said, what the hell is she doing? She's talking nuclear all of a sudden.
+
+01:32:48.720 --> 01:32:54.640
+And then since that day, everybody in the US press, all the shows have gone talk nuclear,
+
+01:32:54.640 --> 01:33:06.640
+nuclear, nuclear. Secretary of State has done it, Blinken. It scares you. If you think about it,
+
+01:33:06.640 --> 01:33:11.280
+the United States scares me. So that's the military industrial complex machine,
+
+01:33:11.280 --> 01:33:16.240
+fully functional, fully operational behind this whole thing. Is that what's the blame?
+
+01:33:16.240 --> 01:33:20.560
+It certainly is. That's why I showed him Strangelove, because I wanted him to show him.
+
+01:33:20.560 --> 01:33:24.720
+I wanted Mr. Putin to say, look at this film. You never saw it. How can you not say you don't?
+
+01:33:24.720 --> 01:33:32.160
+It's a seminal film in American history to those people who care, and it shows you Kubrick had a
+
+01:33:32.160 --> 01:33:40.560
+pacifist, thank God, anti-war mentality, which he showed in Bars of Glory, as well as Strangelove.
+
+01:33:41.040 --> 01:33:49.360
+And it's such a dire, well-done scenario that I wanted Mr. Putin to be aware of the way the United
+
+01:33:49.360 --> 01:33:56.400
+States thinks. Yeah, the absurdity of escalation, the absurdity of war at the largest scale,
+
+01:33:56.400 --> 01:34:01.760
+the absurdity of nuclear war, especially. Can we walk back from the brink of nuclear war?
+
+01:34:03.600 --> 01:34:05.120
+Can we. Can we?
+
+01:34:05.120 --> 01:34:07.520
+Yes. Yes. What's the path to walk back?
+
+01:34:07.520 --> 01:34:17.760
+Reason and diplomacy. There's no reason. Talk to the guy. Mr. Biden, why don't you calm down
+
+01:34:17.760 --> 01:34:22.880
+and go and talk to Mr. Putin in Moscow? Why don't you just sit across the table from him
+
+01:34:22.880 --> 01:34:28.160
+and try to have a discussion without falling into ideologies and stuff like that?
+
+01:34:29.440 --> 01:34:35.680
+Can I ask you for advice? You did some of the most difficult interviews ever. Do you have advice
+
+01:34:36.640 --> 01:34:40.880
+that you can give to someone like me or anyone hoping to understand something about
+
+01:34:40.880 --> 01:34:47.120
+a human being sitting across from them about what it takes to do a good interview?
+
+01:34:47.680 --> 01:34:48.320
+You're doing one.
+
+01:34:50.160 --> 01:34:56.720
+Well, no, but there's, listen, there's levels to this game. And interviewing somebody like
+
+01:34:56.720 --> 01:35:04.400
+Vladimir Putin, also language barrier, sit across from the man, tried to keep an open mind,
+
+01:35:06.000 --> 01:35:10.880
+tried to also ask challenging questions, but not challenging with an agenda,
+
+01:35:10.880 --> 01:35:15.040
+but seeking to understand and understand deeply. How do you do that?
+
+01:35:15.840 --> 01:35:20.800
+Seeking the truth. It's very simple. Seeking the truth. Being a questioner like you are,
+
+01:35:20.800 --> 01:35:26.880
+you want to know what is really going on. I could not get anywhere with Biden or Bush
+
+01:35:26.880 --> 01:35:31.440
+or for that matter, Obama. They'd be opaque with me. There's no interview possible with the
+
+01:35:31.440 --> 01:35:35.680
+president of the United States because he's got to stand for all the stuff that they stand for,
+
+01:35:36.320 --> 01:35:40.560
+which is imperialism, which is control of the world. How can you defend that?
+
+01:35:40.560 --> 01:35:43.280
+You can't, no one's going to come out and say that they're always going to blame
+
+01:35:44.080 --> 01:35:47.040
+the enemy. They're going to blame Iran. They're going to blame China.
+
+01:35:47.760 --> 01:35:51.040
+So with some people, it may not be possible to break through the opaque.
+
+01:35:52.160 --> 01:35:55.680
+Have you ever seen an interview with the president besides being personable
+
+01:35:57.360 --> 01:36:00.080
+where he actually discussed American policy?
+
+01:36:00.640 --> 01:36:06.240
+Not really, but maybe after their president. I could see Obama being able to do such an
+
+01:36:06.240 --> 01:36:11.680
+interview. I could see George W being able to do such an interview, or are they not able to reflect
+
+01:36:11.680 --> 01:36:18.480
+at all? George W hasn't shown much conscience in thinking about what he's done. You've seen that.
+
+01:36:18.480 --> 01:36:24.080
+You ever see my movie W? I think that's one of my best movies because it shows a man who's just out
+
+01:36:24.080 --> 01:36:30.320
+of his depth. He has a conscience at the end of the movie, if you remember correctly. He talks
+
+01:36:30.320 --> 01:36:36.240
+to his wife and he says, I don't get it. I'm trying to do good in the world. I believe in good
+
+01:36:36.240 --> 01:36:42.880
+and why do people not understand that kind of complaint as if he can't get outside himself to
+
+01:36:42.880 --> 01:36:48.160
+understand the way other people think. Empathy, walking like a dramatist is what I do. You walk
+
+01:36:48.160 --> 01:36:53.120
+in the footsteps of other people. When I did a movie about Richard Nixon, it wasn't because I
+
+01:36:53.120 --> 01:36:57.840
+liked him. It was because I wanted to. I think I understood a part of him because of my father
+
+01:36:57.840 --> 01:37:02.560
+and I think I wanted to walk in his footsteps. That's not to say I sympathize with him because
+
+01:37:02.560 --> 01:37:07.520
+I didn't. I don't think he helped the American cause at all, but it was empathize as opposed
+
+01:37:07.520 --> 01:37:11.840
+to sympathize. Same thing with Bush. People were shocked when I did the Bush movie. They said,
+
+01:37:11.840 --> 01:37:21.360
+how can you be in any way receptive to this guy? That's wrong. Dramatists don't have political
+
+01:37:21.360 --> 01:37:27.520
+positions. They walk in the shoes of. That's why Bush movie perhaps was surprising and many
+
+01:37:27.520 --> 01:37:36.240
+people didn't care for it. You've got to go there. If you did a movie about a villain,
+
+01:37:36.240 --> 01:37:46.000
+you have to go there. You have to walk in their shoes. Villains usually see themselves as the
+
+01:37:46.000 --> 01:37:53.360
+hero. You have to consider what it is like to live in a world where this person is the hero.
+
+01:37:55.600 --> 01:38:01.600
+Is that a burden? Is that hard? Not for George W. Bush. He's bitching because they didn't understand
+
+01:38:01.600 --> 01:38:08.720
+him, but he had a good vision, he said, of democracy. Democracy forgives a lot of sins.
+
+01:38:09.600 --> 01:38:12.160
+Can I ask you a hard question on that? Yes, sure.
+
+01:38:13.120 --> 01:38:18.160
+So because empathy is so important to a great interview, let's ask the most challenging
+
+01:38:18.160 --> 01:38:24.080
+version of empathy, which is when you're sitting across from a man on the brink of war that
+
+01:38:25.280 --> 01:38:30.880
+leads to tens of millions of deaths, which is Hitler. So if you could interview Hitler in 1939,
+
+01:38:32.080 --> 01:38:38.960
+as the drums of war start to beat, or 1941, when they're already full on war,
+
+01:38:38.960 --> 01:38:44.320
+but there's still a lot of pacifists, there's still a lot of people unsure what are the
+
+01:38:44.320 --> 01:38:49.520
+motivations behind what Hitler's doing, how would you do that interview?
+
+01:38:49.520 --> 01:38:53.440
+Well, it depends when you do it. If you do it in 1938, I certainly would have...
+
+01:38:54.400 --> 01:38:58.560
+No, if you sit down across from Hitler, you empathize. What is your beef?
+
+01:38:59.760 --> 01:39:05.280
+Where have you been? What is your consciousness? Why do you hate Jewish people? Why...
+
+01:39:06.240 --> 01:39:13.680
+All these questions that come up, his sense of grievance as a result of World War I,
+
+01:39:13.680 --> 01:39:19.600
+there's justifications there, et cetera. And by the way, Churchill was trying to make a deal with
+
+01:39:19.600 --> 01:39:25.120
+him in 1938. That's a fact that people don't know, is Churchill himself. And there was still the
+
+01:39:25.120 --> 01:39:34.320
+desire in England to make peace with Germany, and it was seen as a possible... What Churchill
+
+01:39:34.320 --> 01:39:40.160
+really wanted was Hitler to go against Russia, and anything to destroy the Bolsheviks. So,
+
+01:39:40.160 --> 01:39:47.360
+he was using Hitler as much as he could to go after Russia, but Hitler was too elusive to pin
+
+01:39:47.360 --> 01:39:52.480
+him down. But if you remember, Hitler was very kind at the end of the... Kind is not the right
+
+01:39:52.480 --> 01:40:01.680
+word, did not go after the British Empire when he had France, and he could have. He had another
+
+01:40:01.680 --> 01:40:08.160
+objective, which was obviously the East. So, Hitler's goal, I think... He always had an
+
+01:40:08.160 --> 01:40:17.440
+admiration for England. It's an interesting story, always. And the Empire. Yes. And certainly,
+
+01:40:17.440 --> 01:40:22.720
+Churchill... We have no doubts now from history, revisionism, that Churchill's interest, main
+
+01:40:22.720 --> 01:40:27.920
+interest, was not Germany. It was the British Empire, and preserve it to India, the road to
+
+01:40:27.920 --> 01:40:34.240
+India and all that, and Middle East. Churchill fought the entire war with the concept of
+
+01:40:34.240 --> 01:40:38.960
+preserving the British Empire. All his goals, he sent America on a goose chase into Italy,
+
+01:40:39.840 --> 01:40:44.160
+you could argue, instead of establishing a sincere second front in Western Europe.
+
+01:40:47.600 --> 01:40:52.000
+Interesting man. So, I would have tried to get... I think I would have approached it the same way.
+
+01:40:52.560 --> 01:40:58.000
+In 1939, it would have been a different story, because at that point, he'd attacked Poland,
+
+01:40:58.000 --> 01:41:05.200
+and in 1940, France. So, it's another ballgame. But certainly, at whatever point you talk to him,
+
+01:41:05.200 --> 01:41:10.240
+I would try to understand his point. So, I'm not judging you, Hitler. I'm saying to you,
+
+01:41:10.240 --> 01:41:13.600
+tell me what you're thinking. Why are you invading Russia? What's your thought?
+
+01:41:13.600 --> 01:41:17.920
+That's all an interviewer should do. He shouldn't be expressing his contempt for Hitler,
+
+01:41:17.920 --> 01:41:23.120
+which is like an American journalist interviewing Putin. I'm getting brownie points for
+
+01:41:23.120 --> 01:41:28.720
+expressing my contempt for you. That doesn't wash with me. That's ugly.
+
+01:41:28.720 --> 01:41:30.160
+Yeah. Seek to understand.
+
+01:41:30.160 --> 01:41:30.660
+Yes.
+
+01:41:32.240 --> 01:41:36.720
+This is a technical question, but was language a barrier as an interviewer?
+
+01:41:36.720 --> 01:41:43.040
+To some degree. It's very hard to learn Russian, but they have excellent translators in the Kremlin.
+
+01:41:43.680 --> 01:41:51.280
+They are people who are trained very seriously for months or years. These people are young,
+
+01:41:51.280 --> 01:41:55.440
+and they're very bright. I was very impressed with the Russian translator.
+
+01:41:55.440 --> 01:42:02.400
+It's interesting. I'm impressed as well, but there's a humor that's lost. There's a wit,
+
+01:42:02.400 --> 01:42:09.200
+a dry wit. There's stuff said between the lines. That's not actually how much content,
+
+01:42:09.200 --> 01:42:20.240
+but it's more the things that make communication more frictionless. There's a sadness to a Russian
+
+01:42:20.240 --> 01:42:25.600
+humor that permeates all things, and that sometimes is lost in translation. The translation is a
+
+01:42:25.600 --> 01:42:31.520
+little bit colder, meaning it just conveys the facts. Would you call it sardonic humor?
+
+01:42:31.520 --> 01:42:36.240
+I would say so, yeah. It's interesting, but I think you could see that from facial expressions
+
+01:42:36.240 --> 01:42:42.560
+when you're sitting across from the person, and you can feel it. Let me ask you in general,
+
+01:42:43.760 --> 01:42:51.760
+what's the role of love in the human condition, in your life, in life in general? You looked at
+
+01:42:51.760 --> 01:42:58.240
+some of the darkest aspects of human nature. What's the role of this, one of the more beautiful
+
+01:42:58.240 --> 01:43:03.360
+aspects of human nature? Without love, I don't think I'd be able to carry on. I think that
+
+01:43:03.360 --> 01:43:13.040
+love is the greatest. The ability to love is the greatest virtue you can have. It's the ability
+
+01:43:13.040 --> 01:43:18.320
+to share with another, with your family, with your children, with your wife, with your lover,
+
+01:43:18.320 --> 01:43:23.680
+your partner. It's an ability to extend yourself into the world, and it brings empathy with it.
+
+01:43:24.800 --> 01:43:31.040
+If you love well, I think you expand it to the human race, too. It's the strength behind the
+
+01:43:31.040 --> 01:43:41.120
+great novelists, the great artists of our time. I think part of the reason, I suppose,
+
+01:43:41.120 --> 01:43:45.520
+we're scared of science sometimes is because the scientists sometimes don't express that clearly.
+
+01:43:45.520 --> 01:43:54.400
+You can lose that when you focus on the facts, on empirical data, on the science of things.
+
+01:43:54.400 --> 01:43:58.160
+You can lose the humanity that's between the lines.
+
+01:43:58.240 --> 01:44:01.920
+I'm often struck by when I talk to scientists, and I've talked to a few,
+
+01:44:01.920 --> 01:44:06.800
+and how arrogant they can be about they don't talk to you if you don't understand their world,
+
+01:44:06.800 --> 01:44:10.480
+and they talk to each other, and there's an arrogance, a closed circle kind of thing.
+
+01:44:10.480 --> 01:44:15.280
+Oh, he's not at my level. There's no discussion to be had with this person. He's a human being.
+
+01:44:16.080 --> 01:44:22.880
+That arrogance is terrifying to me because it's next door neighbor to close-mindedness,
+
+01:44:22.960 --> 01:44:27.360
+which then can be used by charismatic leaders as it was in Nazi Germany
+
+01:44:27.360 --> 01:44:36.080
+to commit some of the worst atrocities. The scientists can be used as pawns in a very cruel
+
+01:44:36.080 --> 01:44:42.320
+game. What advice would you give to young people? You've done, first of all, some of the greatest
+
+01:44:42.320 --> 01:44:52.080
+films ever. You've lived a heck of a life. You were fearless and bold in asking some really
+
+01:44:52.080 --> 01:44:56.960
+difficult questions of this world. What advice would you give to young people today, high school,
+
+01:44:56.960 --> 01:45:03.920
+college, about career, how to have a career they can be proud of, or how to have a life they can
+
+01:45:03.920 --> 01:45:11.840
+be proud of? Well, I have three children, so obviously I'm not necessarily the best advisor
+
+01:45:11.840 --> 01:45:18.080
+in the world. I do find that the children, I've raised them with a sense of freedom, and they do
+
+01:45:18.080 --> 01:45:23.600
+what they want. In the end, it's their life, their destiny, their character. That's what comes out.
+
+01:45:24.400 --> 01:45:31.120
+You can try to influence it, but you can try to get your daughter to wake up at a certain hour
+
+01:45:31.120 --> 01:45:40.080
+in the day, but it never works. I long ago gave up on that, and my children are all grown now.
+
+01:45:40.080 --> 01:45:46.000
+But aside from that, I think if I was a teacher in a school and teaching film,
+
+01:45:46.640 --> 01:45:53.520
+I'd say to the students, get an education. You can't just look at film because it's not
+
+01:45:53.520 --> 01:45:57.600
+a full education. It's not the spectrum. I don't think you should teach film as a...
+
+01:45:59.120 --> 01:46:05.760
+I think you need a base in other worlds. One of the greatest courses I took at NYU was,
+
+01:46:05.760 --> 01:46:10.160
+and I was a war veteran on the GI Bill, so I was older than the other students.
+
+01:46:10.720 --> 01:46:17.280
+I took a class outside the film school in Greek classics because I hadn't had much history,
+
+01:46:18.000 --> 01:46:23.440
+and I wanted to know more about the world of Homer and so forth. The teacher opened my eyes
+
+01:46:23.440 --> 01:46:29.520
+to so much in that class, and I wrote about it in my memoir. It's called Chasing the Light,
+
+01:46:29.520 --> 01:46:36.480
+about Professor Leahy and what he did to me. He gave me the concepts clearly of consciousness,
+
+01:46:36.480 --> 01:46:46.640
+which is the Homeric theme of Odysseus, and also lethe, L-E-T-H-E, which is sleep,
+
+01:46:47.200 --> 01:46:56.240
+and how most of the crew, Odysseus' crew, were experiencing lethe and how necessary it was to
+
+01:46:56.240 --> 01:47:03.760
+stay awake. It's not just film. You have to learn the world as much as you can when you're young.
+
+01:47:06.880 --> 01:47:11.760
+So that, I think, is the basis of a good education, and a classic one is important.
+
+01:47:14.320 --> 01:47:19.120
+A basis. I think then you go on and you can learn computer if you want to,
+
+01:47:19.120 --> 01:47:25.600
+but that's specialization. If you're a computer geek, is that a life? Does that give you enough
+
+01:47:25.600 --> 01:47:32.000
+satisfaction? Do you get the joy out of people? No, just like filmmaking is a skill.
+
+01:47:32.480 --> 01:47:39.520
+You need to have the broad background to understand the world, literature, history.
+
+01:47:44.080 --> 01:47:47.440
+One of the things about being human is life is finite.
+
+01:47:48.400 --> 01:47:53.120
+It ends. Do you think about your death? Are you afraid of your death?
+
+01:47:53.120 --> 01:47:56.480
+Yeah, sure. Absolutely. You have to come to terms with death,
+
+01:47:56.480 --> 01:48:00.160
+and that's a tough one for many people. It's always there. I'm older than you,
+
+01:48:00.160 --> 01:48:04.880
+obviously, and I'm getting closer to it. It couldn't happen any day, actually. When you
+
+01:48:04.880 --> 01:48:08.400
+get to a certain age, you can't assume that you're going to be alive tomorrow.
+
+01:48:08.400 --> 01:48:11.200
+So I try to deal with that. Are you afraid of it?
+
+01:48:12.240 --> 01:48:17.440
+Much less so than I was when I was younger. Remember, I was in Vietnam, but I thought I
+
+01:48:17.440 --> 01:48:22.560
+dealt with it there, but when I came back, I realized that I wanted to live. So yes,
+
+01:48:22.560 --> 01:48:27.120
+I've learned over time to get more and more used to it and get ready for it.
+
+01:48:27.760 --> 01:48:33.040
+What's a good answer to the question of why live? So the realization that you wanted to live,
+
+01:48:34.480 --> 01:48:37.760
+what was the reason to live? Because it was better than being
+
+01:48:37.760 --> 01:48:42.880
+one of those corpses that I saw in the jungle. I saw how finite death is.
+
+01:48:45.200 --> 01:48:50.400
+Are there things in your life you regret? Oh, sure. Too many.
+
+01:48:51.120 --> 01:48:59.760
+Is there something you wish you could have done differently? If you could go back to do one thing
+
+01:48:59.760 --> 01:49:04.480
+differently or that it regrets all- Did you ask Musk this? I'm curious. What do you say?
+
+01:49:05.600 --> 01:49:12.640
+Offline all the time. No, no. You'd be curious to know.
+
+01:49:12.640 --> 01:49:16.400
+He's an engineer too, and engineers really value mistakes.
+
+01:49:17.200 --> 01:49:21.360
+Engineers value mistakes and errors because that's an opportunity to learn.
+
+01:49:22.480 --> 01:49:26.400
+This is what you do with systems is you test them, then test them, and test them,
+
+01:49:26.400 --> 01:49:31.120
+and errors is just information. Well, the same thing is true in its way of filmmaking.
+
+01:49:31.120 --> 01:49:37.200
+There are certain things you learn as you build films and you make mistakes. It's like putting
+
+01:49:37.200 --> 01:49:43.120
+an engine together and you, oh, the film is flawed in that way, you know it. Other people may or may
+
+01:49:43.120 --> 01:49:49.120
+not see it, but the car runs or it made money or it didn't make money. It can be good and it
+
+01:49:49.120 --> 01:49:55.280
+didn't make money, but the point is that everything is a build. Every film is a construction. Same thing
+
+01:49:55.280 --> 01:50:04.160
+as he goes through on a Tesla, we go through on each film. But films are art. Yeah, the thing is
+
+01:50:04.160 --> 01:50:09.520
+one film does not lead to a lifetime guarantee of copyright.
+
+01:50:10.240 --> 01:50:21.920
+Well, yeah, you have the movie game, as you've called it, is a complicated and cruel game.
+
+01:50:22.480 --> 01:50:26.400
+But it takes enormous amount of work, enormous amount of work to make a film.
+
+01:50:26.400 --> 01:50:33.280
+People underestimate that. It's extremely complicated to have something be successful
+
+01:50:33.280 --> 01:50:40.880
+because it has so many elements of luck involved and reception and so forth.
+
+01:50:41.920 --> 01:50:47.440
+What do you think, I apologize for the absurd question, but what do you think is the meaning
+
+01:50:47.440 --> 01:50:54.080
+of life? Why are we here? The why. I think to realize ourselves, to realize more of what you
+
+01:50:54.080 --> 01:51:02.160
+are, to realize what life is, to appreciate it, to grow, to honor our life, to honor the concept of
+
+01:51:02.160 --> 01:51:08.160
+life and to understand how precious life is. The preciousness of life, as the Buddhists say,
+
+01:51:08.800 --> 01:51:14.480
+and of course, the immediacy of death all around us. The causes of death are all around us.
+
+01:51:16.080 --> 01:51:24.400
+Our life is like, as they say, is like a lantern in a strong breeze among the existing, among the
+
+01:51:24.400 --> 01:51:31.600
+causes of death. So life is so precious. At the same time, immediacy of death and then, of course,
+
+01:51:31.600 --> 01:51:38.080
+the continuation of life in whatever form it's going to take. But in this life, to wake up to
+
+01:51:38.080 --> 01:51:42.320
+the preciousness of it, to the preciousness. Yeah, that's a wonderful thing. By the way,
+
+01:51:42.320 --> 01:51:49.760
+I didn't have that when I was young. I took it for granted. Oliver, like I said, I'm a huge fan.
+
+01:51:49.760 --> 01:51:56.400
+You're an incredible human being, one of the greatest artists ever. So it's a huge honor that
+
+01:51:56.400 --> 01:52:02.720
+you sit with me and talk so deeply and honestly about some very difficult topics. Again,
+
+01:52:03.360 --> 01:52:06.720
+you're an inspiration and it's an honor that you will spend your valuable time with me.
+
+01:52:06.720 --> 01:52:08.960
+Thank you very much. Thanks for talking to me. Fun being here.
+
+01:52:09.840 --> 01:52:13.760
+Thanks for listening to this conversation with Oliver Stone. To support this podcast,
+
+01:52:13.760 --> 01:52:18.400
+please check out our sponsors in the description. And now, let me leave you with some words from
+
+01:52:18.400 --> 01:52:25.920
+Oliver Stone in the untold history of the United States. To fail is not tragic. To be human is.
+
+01:52:26.400 --> 01:52:30.560
+Thank you for listening and hope to see you next time.
+

@@ -1,0 +1,6152 @@
+WEBVTT
+
+00:00.000 --> 00:03.520
+The following is a conversation with Ye, the legendary artist,
+
+00:03.520 --> 00:08.160
+producer and designer formerly known as Kanye West on this,
+
+00:08.400 --> 00:10.120
+the Lex Fridman podcast.
+
+00:11.320 --> 00:14.800
+Based off of our connection and just you being a friend,
+
+00:15.200 --> 00:20.040
+I need to show you my two tech companies and get your
+
+00:20.040 --> 00:23.560
+perspective on it. Because now I have friends that can give a perspective.
+
+00:23.560 --> 00:25.160
+Like when I would work on albums,
+
+00:25.160 --> 00:27.720
+I had other friends that worked on albums and they would give me their
+
+00:27.720 --> 00:28.560
+perspectives on it.
+
+00:28.680 --> 00:29.520
+You want to do this?
+
+00:30.080 --> 00:31.400
+We are doing it. This is part of it.
+
+00:31.400 --> 00:34.240
+This is part of it. Absolutely. All right. Beautiful. Oh,
+
+00:34.240 --> 00:36.480
+what I wanted to finish the thing is, okay,
+
+00:36.480 --> 00:37.880
+you're going to ask me different questions,
+
+00:38.200 --> 00:42.000
+but I'm about growing and building and bringing the idea to life.
+
+00:42.000 --> 00:43.840
+So when I see you, I say, Oh,
+
+00:43.840 --> 00:48.680
+this guy understands how to hire engineers where I'm coming
+
+00:48.680 --> 00:52.360
+from, coming from Hollywood, coming from press, coming from media,
+
+00:52.920 --> 00:57.520
+all of the guys, you know, that so many of the guys that have been like voices
+
+00:57.520 --> 00:59.760
+and faces and talking heads, whatever,
+
+01:00.280 --> 01:03.800
+have not understood how to engineer product.
+
+01:03.800 --> 01:07.480
+And that's the reason why I was able to jump past everyone in the entertainment
+
+01:07.480 --> 01:11.920
+field and become, you know, whatever the net worth is, 11 billion.
+
+01:11.960 --> 01:14.960
+I'm going to stop putting the whole black thing on my worth.
+
+01:14.960 --> 01:18.440
+Like, let's just see where I am on the scale of life,
+
+01:18.440 --> 01:22.680
+because that's a cop out for me to say Rich is Black Guy of all time,
+
+01:22.680 --> 01:26.000
+because that's feeding into the same, you know,
+
+01:26.080 --> 01:29.360
+trauma economy that Black Lives Matter feeds into.
+
+01:29.680 --> 01:31.880
+That's why I love and respect engineers.
+
+01:32.400 --> 01:37.200
+That's the only thing that we really need to teach in school is engineering.
+
+01:37.480 --> 01:39.600
+We don't need to teach history.
+
+01:39.600 --> 01:42.800
+We don't need to teach anything that is subjective.
+
+01:43.320 --> 01:46.960
+It needs to only be engineering taught in school
+
+01:47.320 --> 01:49.800
+and everything else needs to be recessed.
+
+01:49.800 --> 01:51.040
+Nothing at all.
+
+01:51.040 --> 01:55.000
+Any force, subjective information is just to weaken
+
+01:55.000 --> 01:57.840
+and indoctrinate our species.
+
+01:57.880 --> 01:59.720
+And that's what schools do now.
+
+01:59.720 --> 02:01.880
+As an engineer, I love hearing you say that.
+
+02:01.880 --> 02:04.600
+But to push back, history is not
+
+02:05.440 --> 02:09.040
+the interpretation of history might be subjective, but history has some facts
+
+02:09.320 --> 02:12.920
+and they're useful to give a grounding to the way you do engineering.
+
+02:12.960 --> 02:16.080
+I don't 100% believe in anything,
+
+02:16.320 --> 02:19.880
+any concept of the future or any concept of history,
+
+02:20.160 --> 02:23.160
+because history was just written by the victors. Yeah.
+
+02:23.400 --> 02:28.760
+So if I see stuff happen on the day that later that day is reported wrong.
+
+02:29.160 --> 02:32.160
+So how wrong is something reported a thousand years ago?
+
+02:32.640 --> 02:36.800
+And why would we argue about something that's not in the now?
+
+02:37.120 --> 02:40.360
+Because that's the only thing that everyone can agree upon,
+
+02:40.360 --> 02:42.920
+is that it is now right now.
+
+02:43.120 --> 02:45.720
+Yeah, you try not to make the mistakes of the past.
+
+02:46.200 --> 02:49.080
+That's the usefulness of history, the limited usefulness.
+
+02:49.240 --> 02:52.800
+The biggest mistake from the past that we keep making is looking at the past.
+
+02:53.320 --> 02:57.080
+Too much giving too much value to the past, too much value to the past.
+
+02:57.080 --> 02:59.600
+We are now we are now we are here.
+
+02:59.600 --> 03:02.240
+We are one species. We are one race.
+
+03:03.240 --> 03:06.800
+We're here. And it's time.
+
+03:06.800 --> 03:08.520
+And the leadership is changing
+
+03:08.520 --> 03:13.520
+because you have Elon as a leader, Ye as a leader, and we are the top leaders.
+
+03:14.040 --> 03:16.640
+We're more influential than the presidents.
+
+03:16.640 --> 03:18.680
+So you're a human being.
+
+03:19.360 --> 03:21.320
+With the engineering challenges before you,
+
+03:21.360 --> 03:23.600
+with stem player, with parlor.
+
+03:24.560 --> 03:26.880
+What's the hardest thing in front of you on the engineering front?
+
+03:26.880 --> 03:28.640
+That's the first sentence
+
+03:28.640 --> 03:32.200
+that any of our species needs to hear when they're born.
+
+03:32.880 --> 03:36.320
+You are a human being with engineering challenges.
+
+03:36.520 --> 03:40.920
+And I consider considered challenges to be opportunities in front of you.
+
+03:41.240 --> 03:42.760
+Literally like, let me see a piece of paper.
+
+03:42.760 --> 03:43.720
+I need to write that down.
+
+03:43.720 --> 03:47.040
+That's the beginning of our new species constitution.
+
+03:48.880 --> 03:50.320
+I'm going to do the paper like this.
+
+03:50.320 --> 03:53.480
+Why put in widescreen this this for Ridley?
+
+03:56.680 --> 03:59.520
+You are.
+
+04:01.320 --> 04:04.400
+No, let me like you are.
+
+04:05.760 --> 04:08.160
+A being.
+
+04:11.360 --> 04:12.640
+With.
+
+04:14.920 --> 04:16.080
+In.
+
+04:17.080 --> 04:19.920
+Je nearing.
+
+04:22.120 --> 04:23.840
+Opportunities.
+
+04:24.200 --> 04:26.800
+Or challenges, opportunities.
+
+04:29.240 --> 04:31.320
+I'm sorry, I don't spell as good as John Legend.
+
+04:33.600 --> 04:35.800
+Opportunities.
+
+04:37.080 --> 04:38.200
+And.
+
+04:40.200 --> 04:42.000
+Before you.
+
+04:43.000 --> 04:45.080
+I like the before because it can mean
+
+04:45.080 --> 04:48.240
+actually can mean forward or before you.
+
+04:48.840 --> 04:52.880
+This right here, I've always said I'm the top five writer in human existence.
+
+04:53.360 --> 04:57.760
+But this is like this right here is pushing me to like number four, number three.
+
+04:59.040 --> 05:01.080
+It's a good because who would you say is the top?
+
+05:01.080 --> 05:02.760
+It's top writer in human existence.
+
+05:02.760 --> 05:04.360
+We know who it is. That's subjective.
+
+05:04.360 --> 05:06.040
+Who is that? It's factual, though.
+
+05:06.040 --> 05:08.840
+It's like, OK, who's the top person in tech history?
+
+05:09.680 --> 05:11.480
+It's not subjective.
+
+05:11.760 --> 05:15.040
+Well, there's a non subjective answer
+
+05:15.960 --> 05:17.200
+to both of those.
+
+05:17.200 --> 05:19.720
+Both of those people have influence.
+
+05:20.560 --> 05:23.520
+30% of our existence.
+
+05:23.520 --> 05:27.600
+So the influence is the main metric of greatness.
+
+05:27.600 --> 05:29.240
+OK, one person. Yeah.
+
+05:29.240 --> 05:32.520
+30% of our language was the English language was written by them.
+
+05:32.520 --> 05:35.760
+The other person, 30% of the products we use was led by them.
+
+05:36.640 --> 05:38.560
+So they're just out of our language.
+
+05:38.560 --> 05:42.000
+Oh, Shakespeare and it was and then the product, product, product, product.
+
+05:42.000 --> 05:44.400
+But but Steve Jobs. Yeah.
+
+05:46.240 --> 05:48.640
+You put Steve above like Elan's of the world
+
+05:49.120 --> 05:52.680
+because Steve is a designer, not he's a designer engineer,
+
+05:52.680 --> 05:55.480
+but he's a designer, he's a visionary in the design space.
+
+05:55.760 --> 05:58.080
+Well, I would lean to him because I'm not an engineer, right?
+
+05:58.080 --> 05:59.760
+So I'm more like then you're an engineer.
+
+05:59.760 --> 06:02.840
+If Steve is an engineer, you're an engineer, essentially.
+
+06:03.200 --> 06:06.400
+He's a cultural engineer, like the people who run
+
+06:06.400 --> 06:09.520
+the emotions of the world and run the world off of people's emotions
+
+06:09.520 --> 06:12.520
+right now are social engineers.
+
+06:12.880 --> 06:17.600
+And social engineering is so important, like like city design.
+
+06:17.640 --> 06:20.120
+There's a fancier word for that.
+
+06:20.120 --> 06:25.200
+But I was I was in Oxnard last night to see Anthony Jeselnik.
+
+06:25.840 --> 06:29.280
+And I got to find out what his opening joke was
+
+06:29.560 --> 06:32.160
+because I'm doing interviews and I'm thinking I'm funny.
+
+06:33.000 --> 06:36.440
+And I like that he said he just kept on saying 20 year anniversary.
+
+06:36.440 --> 06:38.360
+I've been doing this for 20 years.
+
+06:38.360 --> 06:43.000
+And his opening joke was so high level.
+
+06:43.240 --> 06:45.400
+I realized that I wasn't funny.
+
+06:45.400 --> 06:49.240
+I realized that this dude is a professional at what he does.
+
+06:49.240 --> 06:50.600
+And so many things are subjective.
+
+06:50.600 --> 06:51.560
+I always talk about this.
+
+06:51.560 --> 06:55.120
+It's like, you know, people are arguing like it's Emily Ratajkowski,
+
+06:55.120 --> 06:57.920
+the hottest, you know, person.
+
+06:57.960 --> 06:59.480
+And I'm like.
+
+07:00.680 --> 07:03.000
+That's such a subjective thing.
+
+07:03.000 --> 07:06.200
+But like, if you go and shoot three pointers with Steph Curry,
+
+07:06.200 --> 07:08.760
+it's not subjective, right?
+
+07:08.760 --> 07:13.520
+Or if you go and compare bank accounts with Elon, it's not subjective.
+
+07:13.880 --> 07:16.720
+And another thing that's not subjective porn.
+
+07:18.480 --> 07:19.640
+What about it?
+
+07:19.640 --> 07:21.640
+Dick size is not subjective.
+
+07:21.640 --> 07:23.040
+You can measure.
+
+07:24.040 --> 07:29.920
+But porn is more about more than just dick size
+
+07:29.920 --> 07:33.360
+and greatness is more than the size of the bank account, right?
+
+07:33.640 --> 07:37.160
+So there's a subjective greatness is subjective, though. Right.
+
+07:37.480 --> 07:40.000
+So do you do you care about the stuff
+
+07:41.160 --> 07:44.640
+that's objective or subjective more?
+
+07:44.640 --> 07:46.760
+Because greatness to me is what matters.
+
+07:47.000 --> 07:50.200
+The bank account comes and goes.
+
+07:50.200 --> 07:53.880
+The impact on our society, like you said, social engineering,
+
+07:53.880 --> 07:56.440
+the impact on the collective intelligence of our species,
+
+07:56.960 --> 08:00.040
+that what permeates throughout the rest of time.
+
+08:00.080 --> 08:03.440
+I like what you said, the impact.
+
+08:04.800 --> 08:06.400
+I'm taking notes.
+
+08:06.400 --> 08:09.840
+How would you say the impact on collective intelligence of our species?
+
+08:10.320 --> 08:15.000
+Impact on the collective.
+
+08:15.000 --> 08:22.240
+And to have the chance.
+
+08:22.240 --> 08:25.680
+When Ye is writing down the words that came out of my dumb mouth,
+
+08:26.280 --> 08:28.680
+I have made it in life.
+
+08:30.800 --> 08:34.280
+There's a lot of people that have kind of like sit through, sat through.
+
+08:34.280 --> 08:36.280
+I wanted to wear a different color hoodie because I was just tired
+
+08:36.280 --> 08:37.920
+of seeing this hoodie in all the interviews.
+
+08:37.920 --> 08:42.680
+And there's a lot of kids that are with me.
+
+08:42.680 --> 08:43.800
+They see what I'm saying.
+
+08:43.800 --> 08:46.960
+Yeah. And they had to sit through all of the muck
+
+08:47.120 --> 08:49.320
+of all the previous interviews to get to this.
+
+08:50.040 --> 08:56.960
+Every interview has been just an emotional.
+
+08:57.800 --> 09:00.000
+It's just like been an argument up to this point.
+
+09:00.560 --> 09:03.640
+This is the first of.
+
+09:05.440 --> 09:09.000
+This is the next frontier of where our species is going to head.
+
+09:09.560 --> 09:12.080
+It starts here. It starts with you, Lex.
+
+09:12.080 --> 09:16.440
+So this is the first time I heard you say the word engineering,
+
+09:16.440 --> 09:18.720
+at least so many times, which I love hearing.
+
+09:19.080 --> 09:20.840
+So this is where you're at.
+
+09:20.840 --> 09:22.880
+You're like that newborn.
+
+09:22.880 --> 09:25.840
+You're a being with engineering opportunities.
+
+09:25.880 --> 09:29.360
+Yeah. And we're all a newborn because in Christianity, we say born again.
+
+09:29.360 --> 09:30.880
+We're all newborns.
+
+09:30.880 --> 09:35.000
+And everyone can everyone shell like the word can
+
+09:36.600 --> 09:40.520
+shell. The only thing about shell is like it kind of dictates
+
+09:40.520 --> 09:43.480
+and can kind of kind of lets people off the hook.
+
+09:43.800 --> 09:48.840
+So I haven't found the perfect post Shakespeare and post Steve Jobs
+
+09:48.840 --> 09:54.040
+and post Elon and post Yay and post Drake way to communicate this.
+
+09:56.120 --> 10:00.160
+But we update and we do.
+
+10:00.160 --> 10:03.400
+And what the current media structure?
+
+10:04.080 --> 10:05.760
+No, it's not actually nothing that's holding us.
+
+10:05.760 --> 10:08.840
+There's nothing actually holding us back because I'm still alive.
+
+10:09.480 --> 10:13.280
+I'm still alive. Like they could have killed me at,
+
+10:13.400 --> 10:15.560
+you know, George Bush don't care about black people.
+
+10:15.760 --> 10:19.440
+They could have killed me at Beyonce had the best video.
+
+10:19.920 --> 10:21.440
+But we're here now.
+
+10:21.440 --> 10:24.280
+So we just keep on leaning and leaning and leaning.
+
+10:24.280 --> 10:26.800
+And there's these things where I just think about, you know,
+
+10:26.800 --> 10:29.600
+there'll be times when I'm at war.
+
+10:29.600 --> 10:34.840
+And every now and then, when the when the bomb stopped going off
+
+10:34.840 --> 10:39.040
+and all the headlines and the smearing and all that stuff going off,
+
+10:39.040 --> 10:42.120
+I think about my family and I think about Kim
+
+10:42.760 --> 10:45.360
+and I think about how, you know,
+
+10:45.720 --> 10:49.320
+King Koopa has her in the castle right now and just on
+
+10:50.280 --> 10:53.280
+Mario Brothers, you know how it is, just go for the princess
+
+10:53.520 --> 10:54.960
+and you get to this level.
+
+10:54.960 --> 10:58.880
+And it's like, I'm like, I sung the song wrong. Right.
+
+10:59.120 --> 11:01.520
+And then they take the princess again.
+
+11:01.520 --> 11:03.480
+Which one are you, Mario? Yeah.
+
+11:05.840 --> 11:10.520
+What's your favorite thing, the thing you love the most about Kim
+
+11:11.200 --> 11:13.920
+from a Mario perspective and the princess?
+
+11:15.400 --> 11:17.360
+Looking back.
+
+11:17.360 --> 11:20.240
+Was there a moment she's definitely my favorite of all time.
+
+11:20.440 --> 11:23.360
+Yeah. Was there a moment that,
+
+11:23.880 --> 11:28.280
+you know, like that catches you off guard and you say, I love this human being.
+
+11:35.600 --> 11:37.560
+Yeah, I mean.
+
+11:38.320 --> 11:44.200
+It's just the DNA is like she's a mix of Rob and Chris.
+
+11:45.600 --> 11:46.960
+Can you explain?
+
+11:46.960 --> 11:51.480
+I mean, that's like a really high pool right there.
+
+11:53.800 --> 11:56.040
+Those are like two geniuses.
+
+11:58.840 --> 12:03.280
+So, OK, so like the entire of a history of evolution
+
+12:03.280 --> 12:07.560
+of the human species created this DNA that created this being.
+
+12:07.800 --> 12:09.200
+There's a life there.
+
+12:09.200 --> 12:12.160
+There's a set of memories in the history that brought you together.
+
+12:12.160 --> 12:14.760
+And you're like, damn, I like this DNA.
+
+12:15.760 --> 12:19.720
+Yeah. So certain people have just like high DNA.
+
+12:19.760 --> 12:22.680
+Ivanka Trump has high DNA.
+
+12:22.680 --> 12:25.320
+You know, it's like, how's your DNA?
+
+12:25.320 --> 12:26.320
+Pretty good.
+
+12:27.160 --> 12:29.360
+I think we've seen that. It's been proven.
+
+12:30.000 --> 12:32.440
+I mean, but look at my look at my mom and look at my dad.
+
+12:32.840 --> 12:36.200
+You know, me and my dad have a water purification center in the D.R.
+
+12:37.360 --> 12:40.520
+right now, and my dad is the original Steve Jobs.
+
+12:40.560 --> 12:45.560
+And he was blocked by people around him and people were using him
+
+12:45.560 --> 12:48.640
+and taking advantage and, you know, not believing in his vision.
+
+12:48.640 --> 12:50.880
+He's my dad's the educated version of Ye.
+
+12:52.520 --> 12:55.520
+What did you learn about life from your dad?
+
+12:55.520 --> 12:57.040
+And my dad got girls, too.
+
+12:57.040 --> 12:58.600
+But those are small details.
+
+12:58.600 --> 13:02.280
+That's a big detail, being that I found my dad's
+
+13:02.680 --> 13:04.480
+playboy when I was five years old.
+
+13:04.480 --> 13:08.320
+It greatly affected my motivation.
+
+13:09.080 --> 13:09.960
+Yeah. All right.
+
+13:09.960 --> 13:11.800
+So that's part of the engine that drives.
+
+13:11.800 --> 13:12.680
+Yay. Absolutely.
+
+13:12.680 --> 13:16.160
+I remember when Pharrell was first in all the videos
+
+13:16.800 --> 13:21.160
+and my girl was like girls like Pharrell.
+
+13:21.240 --> 13:23.360
+And I was like, I want girls to like me, too.
+
+13:23.800 --> 13:27.720
+Funny that that's behind all the ambition, all the drive.
+
+13:28.440 --> 13:30.520
+That's how we make people.
+
+13:30.560 --> 13:32.320
+That's how people are made.
+
+13:32.320 --> 13:34.920
+It's the desire to be loved.
+
+13:34.920 --> 13:38.880
+Is that at the individual level, just being noticed
+
+13:39.000 --> 13:41.040
+and also at the societal level of scale?
+
+13:41.400 --> 13:45.280
+Well, now. I've I've gone past.
+
+13:45.280 --> 13:49.240
+I'm like at that place where Nikolai Tesla was
+
+13:50.800 --> 13:55.840
+later into his career, where it wasn't about being loved.
+
+13:55.840 --> 14:00.040
+It wasn't about sitting at the dinner parties next to Anna Wintour and stuff.
+
+14:00.320 --> 14:03.880
+It was about getting the idea across.
+
+14:04.400 --> 14:07.240
+So I have these cells.
+
+14:09.120 --> 14:12.400
+That are very and I just keep on saying, really, Scott,
+
+14:12.400 --> 14:17.000
+but really, Scott has a special anointing.
+
+14:17.000 --> 14:19.600
+It isn't just sci fi what he's doing.
+
+14:19.600 --> 14:21.760
+There's something in there just like George Lucas.
+
+14:23.920 --> 14:25.640
+There's something different that's there.
+
+14:25.800 --> 14:29.040
+So. What are you drawing?
+
+14:29.040 --> 14:33.440
+I'm drawing these new living cells that we will exist in.
+
+14:34.480 --> 14:36.520
+And this is over.
+
+14:37.400 --> 14:39.160
+OK, let's do like.
+
+14:42.000 --> 14:46.360
+I don't like talking about money because, like, manmade money up anyway,
+
+14:46.360 --> 14:50.320
+it's like four quadrillion respected dollars,
+
+14:50.320 --> 14:52.440
+and then you have other forms of currency.
+
+14:52.480 --> 14:55.040
+Of course, social currency is super important right now,
+
+14:55.040 --> 15:02.400
+but this is a drawing and it's at a pretty good place now.
+
+15:02.400 --> 15:05.160
+This will be 40,000 square feet.
+
+15:05.160 --> 15:06.800
+I want to start just talking in meters.
+
+15:06.800 --> 15:12.240
+I just think we should go to anything to restore the Tower of Basel.
+
+15:12.240 --> 15:13.880
+Like they said when the.
+
+15:15.880 --> 15:17.920
+I'm just draw a person here for scale.
+
+15:18.920 --> 15:20.520
+Yeah, that would be great.
+
+15:20.760 --> 15:22.840
+So. Yeah, that would help.
+
+15:23.960 --> 15:26.680
+OK. What do you think of that?
+
+15:26.680 --> 15:29.680
+Look at my purse and see the scale in this room.
+
+15:29.680 --> 15:32.040
+All right. So.
+
+15:32.040 --> 15:35.320
+Wait, the dot is the person. Yeah.
+
+15:35.320 --> 15:38.000
+I'm saying it's 40,000 square feet.
+
+15:38.000 --> 15:41.320
+But that would be like one of the parts of the cell.
+
+15:41.320 --> 15:42.960
+OK, so it's a screen.
+
+15:42.960 --> 15:47.560
+It doesn't go all the all the way to the top, and it's one hole for light.
+
+15:47.560 --> 15:50.440
+But the water and the light and air all come in from the top.
+
+15:50.440 --> 15:53.560
+So that's like, like the mouth.
+
+15:53.960 --> 15:56.680
+And then this is the belly button.
+
+15:56.680 --> 15:59.520
+We're God's iPhone. We're his greatest creation.
+
+16:00.960 --> 16:02.640
+So this is all connected.
+
+16:02.640 --> 16:03.560
+These are all connected.
+
+16:03.560 --> 16:06.240
+Yes, I'm drawing how these other cells go next to each other.
+
+16:06.240 --> 16:08.120
+What's the vision here?
+
+16:09.320 --> 16:12.560
+Happiness that we talk about, like, what's the motivation like?
+
+16:12.560 --> 16:16.440
+Yeah, there's a motivation somewhere in the back of my mind of.
+
+16:17.600 --> 16:20.160
+My family and.
+
+16:21.040 --> 16:26.080
+If it's like where Moses smite the rock and God didn't allow him
+
+16:26.800 --> 16:31.760
+to get to the promised land, because the promised land is family.
+
+16:32.320 --> 16:33.440
+That is the problem.
+
+16:33.440 --> 16:35.160
+That is Earth.
+
+16:35.160 --> 16:38.360
+I mean, that's heaven on Earth is family. Family is heaven.
+
+16:38.360 --> 16:39.720
+That's the promised land.
+
+16:39.720 --> 16:41.920
+And for your family to be together.
+
+16:43.440 --> 16:46.520
+So say I smite the rock and God doesn't let me
+
+16:47.280 --> 16:48.920
+have my family back.
+
+16:48.920 --> 16:52.320
+My mission and life is still to.
+
+16:53.600 --> 16:59.840
+Promote families at all costs and make families existence easier.
+
+16:59.840 --> 17:02.720
+So you take this thing, you put localized
+
+17:03.400 --> 17:07.600
+a localized farm, save us in community that we we do localized growing.
+
+17:07.600 --> 17:12.520
+And then we partner with Big Pharma and all and say, hey,
+
+17:12.520 --> 17:16.160
+you're actually going to make more money by making better food.
+
+17:17.120 --> 17:18.920
+Because at the end of day, you want money right now.
+
+17:18.920 --> 17:22.320
+It's like everyone knows that between the pesticides
+
+17:22.320 --> 17:24.400
+and between the medical industry, and especially America,
+
+17:24.400 --> 17:25.800
+that we're keeping people sick.
+
+17:25.800 --> 17:28.960
+And we know that McDonald's makes food that kills people.
+
+17:28.960 --> 17:32.680
+And, you know, Coca-Cola selling, you know, sugar water and all this like.
+
+17:34.360 --> 17:37.000
+Just in case I haven't pissed off enough people in power.
+
+17:37.040 --> 17:39.880
+Yeah. OK, so you're going to piss off the sugar.
+
+17:39.880 --> 17:43.400
+And anybody that's powered on sugar sugar with sugar, what's the health
+
+17:43.760 --> 17:46.920
+was actually a document documentary on sugar.
+
+17:47.440 --> 17:49.640
+It wasn't about how bad meat was.
+
+17:50.000 --> 17:54.000
+It was like a reverse documentary on sugar or refer.
+
+17:54.000 --> 17:55.720
+I don't know if you call it a reverse, like a sub.
+
+17:55.720 --> 17:58.400
+But if you watch it again, when they show sugar and it's just
+
+17:59.160 --> 18:01.440
+the sugar looks super clean.
+
+18:02.960 --> 18:05.960
+Yeah, as I state, as I state these things,
+
+18:06.560 --> 18:09.400
+I know that I know I have protection.
+
+18:10.120 --> 18:12.280
+If I have God's protection,
+
+18:12.280 --> 18:14.200
+that's why I'm here to this date. Right.
+
+18:14.200 --> 18:17.880
+So it it's for me to have this platform
+
+18:17.880 --> 18:20.840
+and express exactly what I feel because it's kids out there.
+
+18:21.240 --> 18:22.800
+Right. That
+
+18:24.960 --> 18:28.400
+it's kids that are going to save the world through engineering and through facts.
+
+18:29.160 --> 18:34.920
+And I've got to get download as much of the information
+
+18:34.920 --> 18:38.680
+and as much of the don't be afraid to state your facts
+
+18:39.120 --> 18:42.800
+is the biggest thing, because the world is being ran by fear.
+
+18:43.080 --> 18:45.680
+And that is no, actually, God runs the world.
+
+18:45.680 --> 18:49.560
+But there's just like little cloud, this patina of our ego
+
+18:50.680 --> 18:53.800
+that deals with the money and the car and the girl we're dating
+
+18:53.800 --> 18:56.400
+and all this in the clothes you wear and spending too much on clothes.
+
+18:56.400 --> 18:58.560
+And a lot of stuff that I've been involved with promoting.
+
+18:58.560 --> 19:01.280
+So now what I'm promoting is you have the idea.
+
+19:01.280 --> 19:06.320
+You say it out loud like you like if you had Tourette's say your truth out loud.
+
+19:06.320 --> 19:10.120
+If you hate, yeah, you hate me, say that out loud, say whatever you feel
+
+19:10.880 --> 19:16.480
+out loud, like you say it nonviolently, you know, nonviolent,
+
+19:16.760 --> 19:19.840
+not if I have to say that, like, as you know, you know,
+
+19:20.320 --> 19:24.520
+as a shout out to Alex Jones, you know, and Trump, where they try to say
+
+19:24.520 --> 19:27.480
+that when they say their truths out loud, that it's inciting violence.
+
+19:27.480 --> 19:29.720
+So let's be like really clear.
+
+19:29.720 --> 19:33.880
+I'm saying that they have a criminalized free thought.
+
+19:34.400 --> 19:38.600
+The, you know, they I hate when people use they like they gets to blame
+
+19:38.600 --> 19:40.120
+for everything, right? It's always they.
+
+19:40.120 --> 19:42.120
+Yeah. Who the who the fuck is that?
+
+19:42.120 --> 19:45.000
+Exactly. The problem is they's us.
+
+19:45.520 --> 19:47.080
+Yeah. Well, I love that.
+
+19:47.080 --> 19:49.680
+What we needed to do is turn I to we.
+
+19:50.680 --> 19:54.160
+So we take the responsibility and turn they to us.
+
+19:54.600 --> 19:58.240
+So we take accountability to us.
+
+19:59.640 --> 20:01.960
+They I to we and they to us.
+
+20:02.680 --> 20:03.760
+And that relates.
+
+20:03.760 --> 20:05.240
+It's a language at the same time.
+
+20:05.240 --> 20:08.040
+You've seen the language of our surroundings.
+
+20:08.440 --> 20:12.400
+You're seeing the language of one of the things.
+
+20:12.400 --> 20:17.360
+OK, let's go back to the cell explanation, because I'm also doing it.
+
+20:17.400 --> 20:20.520
+What's that thing when Elon just put all the information open
+
+20:20.520 --> 20:23.400
+and people could figure out they could figure it out and open source?
+
+20:23.400 --> 20:24.000
+Yeah, open source.
+
+20:24.000 --> 20:28.640
+So I'm open sourcing this idea right now so that, you know,
+
+20:29.520 --> 20:32.880
+engineers and anointed people,
+
+20:33.840 --> 20:37.600
+beings, anointed beings can collectively contribute
+
+20:37.600 --> 20:39.920
+to this to push our species forward.
+
+20:41.880 --> 20:47.520
+So where I've got to with my research is that there will be a hole at the top
+
+20:48.120 --> 20:52.040
+that allows natural light, natural air,
+
+20:52.600 --> 20:55.760
+and there's a constant water system.
+
+20:55.760 --> 20:59.080
+So it becomes like a water city where it's a constant flow.
+
+20:59.880 --> 21:01.920
+That's not it's it's regenerative.
+
+21:01.920 --> 21:03.480
+It's not wasting the water.
+
+21:03.480 --> 21:05.200
+And it's just a constant flow.
+
+21:05.200 --> 21:08.360
+So I put the toilet really close to where this
+
+21:09.800 --> 21:13.040
+this I don't want to call it a wave pool,
+
+21:13.040 --> 21:15.080
+but in the pool, the water is not still.
+
+21:15.080 --> 21:17.760
+So that exists in in water.
+
+21:19.000 --> 21:19.400
+Yeah.
+
+21:19.400 --> 21:22.480
+About water. Well, the living room is that you have two rooms.
+
+21:22.480 --> 21:23.680
+You have the dry room,
+
+21:23.680 --> 21:26.240
+which people would call the living room before.
+
+21:26.240 --> 21:27.960
+And then you have the wet room.
+
+21:30.800 --> 21:33.600
+How is that a source of happiness?
+
+21:33.600 --> 21:37.480
+What is what is broken about our world today that that gives you
+
+21:37.480 --> 21:40.680
+in terms of the pursuit of happiness, which is one of the things
+
+21:40.880 --> 21:45.680
+all of our previous declaration of all of our buildings are based on just
+
+21:47.480 --> 21:49.720
+the industry and the economy.
+
+21:49.720 --> 21:53.480
+And then people lean into what people are used to seeing.
+
+21:54.600 --> 21:59.280
+Like what we think is attractive, because then you go back to
+
+22:00.440 --> 22:03.880
+the, you know, women who give life.
+
+22:04.360 --> 22:08.240
+So everyone wants to be attractive.
+
+22:09.480 --> 22:11.560
+To the attractive.
+
+22:11.560 --> 22:14.560
+And that's the reason why the media
+
+22:15.360 --> 22:20.200
+goes and gets, you know, Bella Hadid, Kim Kardashian,
+
+22:21.200 --> 22:23.120
+Emily Ratajkowski.
+
+22:27.520 --> 22:29.640
+Those are the only ones I'm going to.
+
+22:29.640 --> 22:30.760
+There's more.
+
+22:30.760 --> 22:33.800
+There's more, but I'm I'm thinking of ones that I think are attractive.
+
+22:33.800 --> 22:35.560
+Yeah, it is subjective.
+
+22:35.560 --> 22:36.520
+Yeah, because it's subjective.
+
+22:36.520 --> 22:39.720
+So to my subjective, which I think I think
+
+22:41.320 --> 22:43.960
+the only guys that could argue with me on
+
+22:45.480 --> 22:48.920
+my opinion on girls would be Brad and Leo,
+
+22:49.560 --> 22:53.160
+because we're the only ones with the track record, you know, everything else.
+
+22:53.160 --> 22:55.040
+So for everybody else is subjective.
+
+22:55.040 --> 22:59.920
+We've got history. So are you are you are you happy?
+
+23:01.240 --> 23:03.200
+Absolutely. I'm just here.
+
+23:03.200 --> 23:05.640
+It's actually.
+
+23:09.440 --> 23:12.520
+It's difficult to make me.
+
+23:13.160 --> 23:15.560
+Unhappy, not to deal with frustrations,
+
+23:16.560 --> 23:18.680
+but when those frustrations are, it's like
+
+23:20.200 --> 23:24.120
+when you've allowed people to be in your life that shouldn't be there
+
+23:24.720 --> 23:27.160
+and then they do the thing you knew they were going to do
+
+23:27.160 --> 23:30.200
+and you're screaming at them, but you really need to scream at yourself.
+
+23:32.520 --> 23:36.520
+Yeah, so you realize anything that's like anger or frustration,
+
+23:36.960 --> 23:39.640
+that's something that's wrong with you that needs to be dealt with.
+
+23:41.160 --> 23:44.920
+Yes, like right now, OK, say I got this pattern cutter
+
+23:44.920 --> 23:49.280
+that I wanted to remove
+
+23:49.280 --> 23:53.040
+because I felt like she was copying our patterns into the computer.
+
+23:53.240 --> 23:55.000
+And I didn't know why she wanted to do that.
+
+23:55.000 --> 23:57.160
+And I just wanted to do the patterns by hand.
+
+23:57.920 --> 24:01.480
+And then, you know, you mean like automating the patterns?
+
+24:01.520 --> 24:05.520
+Yeah. And my head of it, because they just that's the whole thing.
+
+24:05.520 --> 24:11.320
+It's like. It's a war of it's a war of human beings and robots.
+
+24:11.760 --> 24:13.240
+But that makes it more efficient, right?
+
+24:13.240 --> 24:14.400
+You don't like the efficiency.
+
+24:14.400 --> 24:17.280
+You like the creativity of the singular nature of the pattern.
+
+24:17.680 --> 24:20.080
+I believe that the human beings.
+
+24:20.520 --> 24:22.880
+And I'm saying this to you as a person who makes robots
+
+24:22.880 --> 24:25.040
+and a person is friends with you. I'm deeply offended right now.
+
+24:25.280 --> 24:27.600
+Yeah. Well, you know, I'll let it go.
+
+24:27.840 --> 24:31.760
+OK. So, yeah, I believe that they hate robots.
+
+24:33.320 --> 24:35.320
+I'm not going to put that out there. It's a joke.
+
+24:35.320 --> 24:37.960
+Robots have feelings, too. Yeah. Yeah, that's right.
+
+24:37.960 --> 24:39.480
+That was also a joke.
+
+24:39.480 --> 24:42.400
+Was it we need to clarify that for future robots?
+
+24:43.560 --> 24:46.560
+But the pattern cutter, the pattern cutter, you don't like that.
+
+24:46.720 --> 24:50.360
+I had to be that that's you can't have that part of your life.
+
+24:51.440 --> 24:57.520
+That's not what I'm my everything that I'm doing is for.
+
+25:01.520 --> 25:04.280
+The sake of the human race.
+
+25:05.840 --> 25:10.880
+There's things in capitalism, there's things in technology.
+
+25:11.240 --> 25:18.160
+Well, tech technology and original human species can exist.
+
+25:19.320 --> 25:23.200
+And a peaceful way.
+
+25:23.200 --> 25:25.960
+As long as the people that know how to make robots
+
+25:26.280 --> 25:28.920
+aren't using their robots to control the humans.
+
+25:30.040 --> 25:33.000
+Lex, definitely something you have to be concerned about
+
+25:33.000 --> 25:35.400
+as we become more technologically savvy.
+
+25:35.400 --> 25:39.240
+That, my friend, is why engineering isn't everything
+
+25:39.800 --> 25:43.560
+that you have to desperately study the lessons of history.
+
+25:44.120 --> 25:49.440
+In Nazi Germany, science was used to create atrocities.
+
+25:50.880 --> 25:54.960
+Engineering, the same engineering could be a tool of war.
+
+25:55.520 --> 25:57.560
+We are still in the Holocaust.
+
+25:58.960 --> 26:01.240
+A friend, a Jewish friend of mine said.
+
+26:03.000 --> 26:05.640
+The come go visit the Holocaust Museum.
+
+26:05.640 --> 26:09.000
+And my response was, let's visit our Holocaust Museum,
+
+26:09.000 --> 26:10.640
+Planned Parenthood.
+
+26:10.640 --> 26:14.440
+With all due respect, I grew up in the Soviet Union.
+
+26:15.120 --> 26:16.800
+I'm Jewish.
+
+26:18.560 --> 26:23.720
+Parts of my family perished in the Holocaust of Nazi Germany.
+
+26:24.440 --> 26:27.520
+I have to push back that there is a difference
+
+26:28.240 --> 26:33.240
+of the atrocities at that scale, at that time on an entire people.
+
+26:33.240 --> 26:35.560
+I was going to say the number, that's the difference.
+
+26:35.560 --> 26:36.680
+It's not the number.
+
+26:36.720 --> 26:42.920
+Because six million, well, also, African-Americans are actually Jew also.
+
+26:42.920 --> 26:44.480
+The lost tribe of Israel.
+
+26:44.480 --> 26:45.480
+I can push back on that, too.
+
+26:45.480 --> 26:47.920
+OK, so, well, everyone came from Africa.
+
+26:48.560 --> 26:49.720
+I am African.
+
+26:49.720 --> 26:51.600
+I'm basically African-American.
+
+26:51.600 --> 26:52.400
+We're brothers.
+
+26:52.400 --> 26:54.120
+And we're both Jew, and we're brothers.
+
+26:54.800 --> 26:56.360
+We're human.
+
+26:56.360 --> 26:58.520
+Six million people died in the Holocaust.
+
+26:58.520 --> 27:01.400
+Over 20 million have died by the hands of abortion.
+
+27:01.720 --> 27:06.000
+And the media promotes the My Body, My Choice,
+
+27:06.400 --> 27:10.240
+which is actually still a promotion for Planned Parenthood.
+
+27:10.960 --> 27:16.760
+50% of black deaths a year is actually abortion.
+
+27:16.760 --> 27:18.920
+It's not the cop with the knee.
+
+27:19.200 --> 27:21.480
+It's not black on black violence and gang violence.
+
+27:21.480 --> 27:22.600
+It's not heart attacks.
+
+27:22.600 --> 27:23.800
+It's actually abortion.
+
+27:23.800 --> 27:29.600
+The most dangerous place for a black person in America is in their mother's stomach.
+
+27:32.080 --> 27:35.680
+There's 900 to a million abortions in the United States a year.
+
+27:36.600 --> 27:38.080
+I hear you.
+
+27:38.520 --> 27:45.360
+But there's something about the rape, the torture, the murder of children,
+
+27:45.360 --> 27:51.240
+women, men, the complete humiliation and just the suffering
+
+27:51.240 --> 27:53.480
+that was endured during World War II.
+
+27:53.480 --> 27:57.320
+That's what we deal with on our TVs right now with black people.
+
+27:58.200 --> 28:04.120
+Soros would use black trauma economy for to win an election.
+
+28:05.080 --> 28:09.560
+And what I love is having a healthy conversation as opposed to there's certain things,
+
+28:09.560 --> 28:12.680
+you know, boom, this drops, people are going to have pussy hats on.
+
+28:12.680 --> 28:14.120
+Boom, this drops.
+
+28:14.120 --> 28:17.280
+It's going to be black people and white people with signs.
+
+28:17.280 --> 28:18.360
+Boom, this drops.
+
+28:18.360 --> 28:22.800
+So hey, China, hey, Left Agenda, hey.
+
+28:22.800 --> 28:27.080
+What we're going to do is say that our species can have a healthy conversation.
+
+28:28.840 --> 28:30.120
+Can I just linger on this?
+
+28:30.240 --> 28:33.040
+Because when you say Jewish media,
+
+28:33.040 --> 28:38.520
+it there's a echo of a pain that people feel that reminds you.
+
+28:39.040 --> 28:41.440
+You're saying it's redundant, right?
+
+28:41.440 --> 28:43.160
+No, I'm not saying it's redundant.
+
+28:43.160 --> 28:44.280
+I'm saying it's redundant.
+
+28:44.280 --> 28:45.760
+You're saying it's redundant.
+
+28:45.760 --> 28:49.480
+It's a saying it's something that I'm saying that it's something that Joseph
+
+28:49.480 --> 28:53.520
+Goebbels, the propaganda minister of Nazi Germany, said.
+
+28:53.800 --> 28:58.760
+I'm saying it's been said so many times in order to murder
+
+28:58.760 --> 29:02.240
+and torture Jewish people
+
+29:02.880 --> 29:05.200
+that it just rings wrong.
+
+29:05.200 --> 29:09.600
+And that's just like the N word when spoken by people
+
+29:09.600 --> 29:11.720
+that have the same skin color as me.
+
+29:12.120 --> 29:15.720
+It reminds people of a very dark time.
+
+29:15.800 --> 29:19.120
+I know if Jewish people would accept that I'm Jew,
+
+29:19.320 --> 29:21.720
+then they would see what I'm saying in a different way.
+
+29:21.960 --> 29:23.160
+They would hear it in a different way.
+
+29:23.160 --> 29:25.960
+But see the people you saying you're Jewish.
+
+29:26.560 --> 29:28.000
+No, I'm Jew, not Jewish.
+
+29:28.000 --> 29:29.480
+Jewish means like that of a Jew.
+
+29:29.480 --> 29:31.360
+I'm saying I'm Jew. You're Jew.
+
+29:31.360 --> 29:33.960
+Blood of Christ. That comes from right.
+
+29:34.840 --> 29:36.920
+But that are you
+
+29:38.920 --> 29:43.400
+are you a follower of the philosophy of the black Hebrew Israelites?
+
+29:44.360 --> 29:46.480
+Because that's where the idea comes from.
+
+29:47.760 --> 29:51.880
+Not all of those folks are extremists, but some are extremists.
+
+29:51.920 --> 29:54.880
+I'm a follower of the idea.
+
+29:54.960 --> 29:59.440
+I have a vague idea that all people came from Africa.
+
+30:00.320 --> 30:03.360
+But what I wanted to do now, OK,
+
+30:03.880 --> 30:07.600
+now I could Andy Kaufman this about seven more minutes
+
+30:08.160 --> 30:10.360
+and then tell you what it is.
+
+30:10.360 --> 30:12.920
+What should I count? Let's count seven minutes.
+
+30:13.160 --> 30:16.000
+No, I did this to do a spoiler alert.
+
+30:16.160 --> 30:17.360
+Sure. Spoiler.
+
+30:17.360 --> 30:19.320
+What's the first thing I said at the beginning?
+
+30:21.160 --> 30:23.880
+We're talking about engineering and humans were all.
+
+30:23.880 --> 30:26.880
+And I said, and then what did I say we shouldn't focus on?
+
+30:27.200 --> 30:29.960
+Race. Not just that.
+
+30:29.960 --> 30:32.680
+I said they shouldn't teach this in school.
+
+30:32.680 --> 30:36.360
+History, the history, because what they do,
+
+30:36.400 --> 30:40.680
+what schools are doing is exactly what the CIA does
+
+30:40.960 --> 30:43.080
+with Pixar films and Disney films.
+
+30:43.720 --> 30:46.640
+They make Bambi's mom die in the beginning.
+
+30:46.720 --> 30:52.560
+Right. And off that pain comes a purchase of ice cream.
+
+30:52.760 --> 30:54.200
+Off that pain comes.
+
+30:54.200 --> 30:56.360
+I need some more toys. Off that pain comes.
+
+30:56.360 --> 30:57.360
+I need a bigger house.
+
+30:57.360 --> 30:58.760
+Off that pain comes.
+
+30:58.760 --> 31:01.600
+I need more girls than my wife. Off that pain comes.
+
+31:01.800 --> 31:05.840
+So they put that pain in to make us
+
+31:06.760 --> 31:10.080
+now we're the orphans of capitalism, to make us be consumers.
+
+31:10.400 --> 31:14.120
+And we need to be a community, not just consumers.
+
+31:14.400 --> 31:18.520
+So I could have went another seven minutes by being a person
+
+31:19.720 --> 31:21.840
+who presents himself in a way that says,
+
+31:22.000 --> 31:25.640
+well, I don't have to feel your pain because I also have pain, too,
+
+31:25.640 --> 31:26.960
+that's not being recognized.
+
+31:26.960 --> 31:29.120
+And in every interview, when I say, well,
+
+31:29.120 --> 31:32.200
+why did I get to the point of putting up the tweet?
+
+31:32.200 --> 31:35.880
+No one wants to understand why I got to that point.
+
+31:36.040 --> 31:37.320
+Right. Pain. You had pain.
+
+31:37.320 --> 31:38.760
+Yeah. But no one in your heart.
+
+31:38.760 --> 31:41.200
+But the let's say this.
+
+31:41.200 --> 31:45.760
+Undoubtedly, Jewish people have a lot of movies
+
+31:46.280 --> 31:48.720
+about that pain.
+
+31:49.040 --> 31:53.560
+And black people have a lot of movies about the pain of slavery.
+
+31:53.880 --> 31:59.280
+Right. It's almost impossible to find a movie about Mansa Munsa.
+
+31:59.640 --> 32:03.200
+When you go to the African History Museum in Washington, D.C.,
+
+32:03.440 --> 32:09.320
+it doesn't start with the idea of Africans being kings.
+
+32:09.720 --> 32:12.960
+It starts with the idea of Africans being slaves.
+
+32:13.200 --> 32:15.840
+But here's another interesting point about this.
+
+32:16.240 --> 32:19.400
+This was said to me one time and it stuck with me as a family member of mine.
+
+32:20.840 --> 32:24.360
+With Africans, how many times you've heard like a rapper, you know,
+
+32:24.360 --> 32:27.000
+talk about we were kings.
+
+32:28.960 --> 32:31.160
+That's incorrect.
+
+32:31.160 --> 32:33.120
+If we're a Jew.
+
+32:34.280 --> 32:38.040
+If we're a Jew, and since we are, we weren't the kings,
+
+32:38.640 --> 32:41.360
+we were the slaves that Moses freed.
+
+32:42.360 --> 32:46.360
+Africans have always said we've heard you've listened to rap music
+
+32:46.360 --> 32:49.800
+and hear black people say we kings, we blood of the pharaohs.
+
+32:51.080 --> 32:55.720
+And if we are Jew, then we weren't.
+
+32:56.600 --> 32:58.880
+We were the people that Moses freed.
+
+33:00.320 --> 33:04.080
+And when we talk about have you heard black people talk about 400 years of slavery?
+
+33:05.000 --> 33:07.800
+All right. That is in rep.
+
+33:07.800 --> 33:10.160
+And we're having this history lesson, right?
+
+33:10.160 --> 33:11.600
+And history doesn't matter.
+
+33:11.600 --> 33:15.920
+You're exploring ancient history and drawing deep wisdom from it.
+
+33:16.520 --> 33:19.240
+And at the same time, saying we need to forget all of it.
+
+33:20.120 --> 33:22.440
+We need to put that behind us. Absolutely.
+
+33:23.680 --> 33:25.720
+We need to forget it and we need to move forward.
+
+33:26.240 --> 33:30.720
+There is so much wisdom to draw from history, even the 20th century.
+
+33:31.200 --> 33:36.960
+Look at this communism without the lessons of history of the 20th century.
+
+33:37.440 --> 33:40.040
+Communism sounds like a great idea.
+
+33:40.040 --> 33:42.800
+Except that some of the worst atrocities
+
+33:43.520 --> 33:46.760
+conducted by Stalin and Mao that killed
+
+33:48.160 --> 33:51.480
+50, 100 plus million people, not just killed,
+
+33:51.480 --> 33:56.120
+tortured starvation where people the cannibalism, they ate each other.
+
+33:56.400 --> 33:58.000
+They ate their children.
+
+33:58.000 --> 34:00.720
+There's there's just dark people.
+
+34:00.960 --> 34:04.520
+People should read some books on this on the Hollander more.
+
+34:04.640 --> 34:07.480
+See, 1930s, I disagree with that lesson.
+
+34:07.720 --> 34:10.320
+We would. And now it's becoming more popular.
+
+34:10.440 --> 34:11.480
+Marxism and communism.
+
+34:11.480 --> 34:13.680
+I'm not disagreeing that that happened.
+
+34:13.680 --> 34:16.680
+I'm disagreeing that.
+
+34:16.680 --> 34:20.520
+We need to harp on the things that happen, because the truth is
+
+34:20.880 --> 34:25.520
+I'm giving a fact 50 percent today of
+
+34:26.360 --> 34:28.960
+that say, you don't call black people, do you?
+
+34:28.960 --> 34:35.200
+Right. Black people's deaths today is abortion today right now.
+
+34:35.520 --> 34:38.600
+Like that. It's not racism.
+
+34:39.040 --> 34:41.080
+That's too wide of a term.
+
+34:41.080 --> 34:44.560
+It's genocide and population control
+
+34:44.880 --> 34:49.680
+that black people are in today in America that is promoted
+
+34:49.960 --> 34:53.880
+by the music and the media that black people make
+
+34:54.240 --> 34:58.120
+that Jewish record labels get paid off of or media companies
+
+34:58.560 --> 34:59.880
+record labels, media company also.
+
+34:59.880 --> 35:00.920
+So let's give it a wider.
+
+35:00.920 --> 35:03.880
+You know, I agree with Martin Luther King.
+
+35:04.600 --> 35:07.440
+I have a dream, too, Martin, that one day
+
+35:07.440 --> 35:11.040
+was would not be judged by the color of your skin
+
+35:11.720 --> 35:16.600
+or your race, black or Jew, but by the content of your character,
+
+35:16.600 --> 35:20.200
+all the assholes that fucked you over in the music industry, fuck
+
+35:21.240 --> 35:24.320
+artists over in the music industry are individuals.
+
+35:24.520 --> 35:26.120
+They're not Jews.
+
+35:26.120 --> 35:28.360
+Can you can you say they are they are Jewish?
+
+35:29.120 --> 35:32.920
+It doesn't. They're human with opportunities
+
+35:33.520 --> 35:35.440
+and they took those opportunities.
+
+35:35.440 --> 35:37.400
+I don't care if they're Jewish.
+
+35:37.400 --> 35:40.120
+Do you feel like I should release that pain and separate it?
+
+35:41.480 --> 35:44.640
+Yes. OK, so if that OK, so if you're saying
+
+35:44.640 --> 35:48.960
+I should release that pain and separate it, then I'm telling you
+
+35:49.200 --> 35:53.560
+you should release your pain and separate it and we could get to this
+
+35:53.840 --> 35:59.080
+the list of how you are being with engineering opportunities.
+
+35:59.120 --> 36:00.120
+That's 100 percent.
+
+36:00.120 --> 36:02.520
+I see what you're doing that exactly you're doing.
+
+36:02.760 --> 36:05.160
+The pain. I'm going to let it go.
+
+36:05.480 --> 36:07.680
+Engineering challenges. I get it.
+
+36:07.680 --> 36:11.120
+One of the problems you highlight is people get fucked over in the
+
+36:11.120 --> 36:14.920
+in the music industry and get fucked over in the media.
+
+36:15.040 --> 36:17.000
+Get fucked over all over the place.
+
+36:17.000 --> 36:17.840
+They create it.
+
+36:17.840 --> 36:20.720
+There is a there is a Jewish trainer
+
+36:21.520 --> 36:25.920
+that brought me to the hospital and put in press that I went to the hospital.
+
+36:25.920 --> 36:30.280
+I got friends that off of exhaustion, a Jewish doctor, they died.
+
+36:30.280 --> 36:33.120
+I don't think Jewish because they were right.
+
+36:33.440 --> 36:39.040
+Diagnose me with bipolar disorder and shot me with medication
+
+36:39.040 --> 36:41.640
+and put me on medication, then put it in the press.
+
+36:41.960 --> 36:44.920
+And every time, even if I wore the wrong color hat
+
+36:45.160 --> 36:47.840
+that a nigger is not supposed to wear, right.
+
+36:48.720 --> 36:52.120
+Then they immediately say he's off of his shit.
+
+36:52.120 --> 36:54.360
+He's off his meds, he's off his rocker.
+
+36:54.360 --> 36:59.640
+And it's literally used as a scarlet letter control mechanism for the people
+
+36:59.640 --> 37:03.480
+understand the kids, the colleges, the high schools.
+
+37:03.960 --> 37:06.480
+What do you think they put me right now?
+
+37:07.560 --> 37:10.640
+They put me as the prophet, not the leader.
+
+37:10.880 --> 37:13.040
+It doesn't have to be the leader, right, because we need
+
+37:13.040 --> 37:16.200
+we need a more intelligent person to be the leader.
+
+37:16.320 --> 37:19.400
+But at least, right, they put me as the prophet.
+
+37:19.400 --> 37:22.200
+They put me as the only person that would say this.
+
+37:22.200 --> 37:25.680
+And I'm just saying that was four Jewish members
+
+37:25.920 --> 37:31.360
+that controlled my voice because for the fact that 90 percent
+
+37:31.360 --> 37:35.640
+of black people in entertainment, from sports to music, to acting,
+
+37:36.000 --> 37:40.480
+are in some way tied into Jewish business people,
+
+37:40.680 --> 37:46.280
+meaning that in some way, just like if if Ram is sitting next to Obama
+
+37:46.280 --> 37:50.640
+or Jared sitting next to Trump, there's a Jewish person right there
+
+37:50.640 --> 37:55.560
+controlling the country, the Jewish controlling
+
+37:55.920 --> 38:00.880
+that who gets the best video or not, controlling what the media says about me.
+
+38:00.880 --> 38:02.840
+The person is not Jewish.
+
+38:02.840 --> 38:04.760
+Let me just say one thing. But they are, though.
+
+38:04.760 --> 38:07.000
+That's the only thing. It just so happens that they are.
+
+38:07.440 --> 38:08.840
+It just happens that they are.
+
+38:08.840 --> 38:10.800
+That doesn't mean that I hate them.
+
+38:10.800 --> 38:12.920
+That just means that they are.
+
+38:12.920 --> 38:19.160
+But it's a it's a dog whistle to let me just say, as I would love to add
+
+38:19.760 --> 38:22.840
+more love to the world, I would love you to do that
+
+38:23.120 --> 38:26.080
+as a person with a big voice, with a big, powerful voice
+
+38:26.080 --> 38:27.760
+that a lot of people look up to.
+
+38:27.760 --> 38:31.840
+And when you say Jewish media, it's funny how this world works that way.
+
+38:31.840 --> 38:35.800
+When you say Jewish media or Jews are controlling
+
+38:35.800 --> 38:40.400
+the voice of black artists, black people, black artists.
+
+38:40.440 --> 38:43.160
+And when you say that, I'm not allowed to say it out loud.
+
+38:43.160 --> 38:44.160
+You can say it.
+
+38:44.160 --> 38:48.160
+There's a large number of people that are hurting and have anger
+
+38:48.160 --> 38:50.440
+and even have hate in their heart.
+
+38:50.440 --> 38:55.160
+When they when they hear Jewish media, they start that hate
+
+38:55.160 --> 38:57.440
+starts being directed towards the Jewish people.
+
+38:58.920 --> 39:00.760
+Do you acknowledge that?
+
+39:00.760 --> 39:02.520
+That's do you understand?
+
+39:02.520 --> 39:05.240
+Can you feel the hate in the world?
+
+39:05.640 --> 39:10.200
+That's when that that comes to the surface when you say stuff like that.
+
+39:10.920 --> 39:13.720
+OK, I I feel that.
+
+39:14.800 --> 39:17.600
+When we go into therapy, my dad was a therapist
+
+39:17.600 --> 39:21.840
+and obviously I've got some therapy skills myself.
+
+39:21.840 --> 39:24.920
+A lot of people, my music is healing.
+
+39:24.920 --> 39:28.160
+These type of spa like existences are healing.
+
+39:28.520 --> 39:32.480
+The color palettes I use are healing and we can use healing words, right?
+
+39:33.560 --> 39:37.480
+What I really feel there,
+
+39:37.480 --> 39:40.680
+I feel that there is no accountability and no responsibility
+
+39:40.800 --> 39:45.760
+on Jewish people in media to at least start with owning up
+
+39:45.760 --> 39:49.040
+with the facts of what's dealt with and tell me
+
+39:49.360 --> 39:53.520
+if I say the facts out loud to the point of Ari Emanuel
+
+39:53.520 --> 39:57.720
+writing a letter in the Financial Times, trying to take food
+
+39:57.720 --> 40:00.840
+out of my children's mouth, telling people that they're not allowed
+
+40:00.840 --> 40:05.840
+to work with me, even Chris Como or Piers Morgan
+
+40:06.120 --> 40:09.080
+getting me to apologize and separate
+
+40:09.920 --> 40:14.760
+Jewish business people to from the families of the Jewish business people,
+
+40:14.760 --> 40:16.760
+which I did update.
+
+40:16.760 --> 40:18.480
+I did that. That already happened.
+
+40:18.480 --> 40:20.040
+And that was a shitty apology.
+
+40:20.040 --> 40:21.600
+That wasn't really an apology.
+
+40:21.600 --> 40:23.520
+But shout out to that conversation.
+
+40:23.520 --> 40:28.120
+I need to get on my knees and kiss the dick of Howard Stern.
+
+40:28.320 --> 40:30.520
+And you don't need to kiss anyone's dick.
+
+40:31.040 --> 40:32.960
+But that's what you guys are acting like.
+
+40:32.960 --> 40:36.720
+You guys look at that because you're talking about as a shitty opinion
+
+40:37.640 --> 40:40.960
+apology. But where's our fucking apology?
+
+40:41.320 --> 40:43.400
+Watch this. So we don't get.
+
+40:43.400 --> 40:45.680
+Thank you. Now, let's move on. Sorry.
+
+40:46.920 --> 40:48.960
+Oh, do I need to get on my knees or no?
+
+40:48.960 --> 40:51.640
+And kiss my dick. Oh, shit.
+
+40:52.200 --> 40:54.320
+So escalated quickly.
+
+40:54.320 --> 40:56.800
+So that's escalated quickly.
+
+40:56.880 --> 41:02.840
+So the so what I'm saying, where's our apology?
+
+41:02.920 --> 41:06.800
+But we can't get to apology because you're telling me
+
+41:06.800 --> 41:09.320
+there's no right way for me to word it.
+
+41:09.560 --> 41:12.840
+So tell me for me, a person who's been
+
+41:12.840 --> 41:16.880
+fucked all my deals and a person that has friends
+
+41:16.880 --> 41:20.600
+that never figured out how to make shoes with a German company
+
+41:20.800 --> 41:24.480
+that couldn't tell me to wear a BLM shirt and take off my red hat.
+
+41:24.520 --> 41:27.240
+Like what would have happened if I was at Nike? Right.
+
+41:29.320 --> 41:34.240
+Tell me exactly how to engineer the situation.
+
+41:34.240 --> 41:36.520
+I'll tell you exactly how you got a big voice.
+
+41:36.800 --> 41:39.840
+Have the balls as a man to call out the individuals.
+
+41:40.040 --> 41:41.080
+Don't call them Jews.
+
+41:41.080 --> 41:45.920
+Call them by their name and start a war against those individuals.
+
+41:45.920 --> 41:46.800
+They're not Jewish.
+
+41:46.800 --> 41:49.720
+But if that's the case, will you help me with that?
+
+41:50.120 --> 41:52.360
+Sure. OK. 100 percent.
+
+41:52.360 --> 41:55.240
+Assholes are asked. Well, let me like flip that, too.
+
+41:55.240 --> 41:57.240
+I don't understand the industry well.
+
+41:57.240 --> 42:00.200
+I see that people are fucking people over for sure.
+
+42:00.400 --> 42:01.720
+But how do you solve that?
+
+42:01.720 --> 42:05.440
+If you run, if you right now run the world's
+
+42:06.160 --> 42:09.240
+you're doing a million things, but say you ran also a record label.
+
+42:10.040 --> 42:11.240
+I have ran a record label.
+
+42:11.240 --> 42:14.840
+I've been ran by a record label where I was the face of a record label
+
+42:14.840 --> 42:18.040
+and had Big Sean and different people complaining to me.
+
+42:18.200 --> 42:20.160
+And I knew fuck about running a record label.
+
+42:20.160 --> 42:24.240
+I was simply just a talented producer and an influencer.
+
+42:24.520 --> 42:27.800
+I then started good music, but I wasn't the one running good music.
+
+42:27.800 --> 42:29.400
+How would you do it differently?
+
+42:29.400 --> 42:31.280
+This is something I propose.
+
+42:31.280 --> 42:33.040
+I would look at.
+
+42:33.480 --> 42:38.280
+The top 10 execs and three fields in sports,
+
+42:39.880 --> 42:42.560
+film and music.
+
+42:42.560 --> 42:44.880
+And I would look at the top 10
+
+42:47.400 --> 42:49.800
+clients, participants, talent.
+
+42:50.200 --> 42:53.840
+I would look at the top talent in each of those fields, the top 10 of them.
+
+42:54.280 --> 42:56.480
+And some of them are going to be Tom Brady.
+
+42:56.480 --> 42:57.960
+Some of them are going to be Taylor Swift.
+
+42:57.960 --> 43:00.040
+Some of them, they're not all going to be black, right? Some of them.
+
+43:00.280 --> 43:04.480
+So some of them will be Adele, right?
+
+43:05.680 --> 43:09.280
+And we'll look at all their contracts
+
+43:10.320 --> 43:14.280
+transparently and we'll compare the notes
+
+43:14.520 --> 43:17.400
+and re-engineer like it's a new constitution.
+
+43:17.720 --> 43:21.160
+Because when I told my dad, when I was 19, I was going to get into
+
+43:21.520 --> 43:23.560
+the music industry, he begged me not to.
+
+43:23.560 --> 43:25.760
+He said, I heard it's treacherous.
+
+43:25.760 --> 43:27.720
+Now I'm in a position where I've been through it.
+
+43:28.040 --> 43:31.360
+I saw it. I went out, made some money somewhere else.
+
+43:31.760 --> 43:33.360
+I saw my name get smeared.
+
+43:33.360 --> 43:35.560
+I saw my family get destroyed.
+
+43:35.560 --> 43:37.720
+I saw my reputation get destroyed.
+
+43:37.720 --> 43:41.880
+And I'm back here to have this kind of I'm back here as a being
+
+43:42.280 --> 43:43.880
+with engineering opportunities.
+
+43:43.880 --> 43:48.560
+So I would say if you say as a shitty apology, what is the version
+
+43:50.280 --> 43:52.760
+of the apology short of kissing Howard Stern's dick?
+
+43:53.760 --> 43:55.880
+I don't think anyone wants to kiss Howard Stern's dick.
+
+43:55.880 --> 43:56.680
+That's the whole point.
+
+43:56.680 --> 43:58.280
+Howard Stern, nobody wants to kiss your dick.
+
+43:58.280 --> 43:59.480
+So shut the fuck up.
+
+43:59.480 --> 44:02.200
+I said, by the way, I'm antagonize you, Howard Stern.
+
+44:02.640 --> 44:04.640
+I used to be a fan of you.
+
+44:04.640 --> 44:06.440
+Yeah, me too. Yeah.
+
+44:06.440 --> 44:08.440
+I'm still a fan sometimes.
+
+44:08.440 --> 44:11.080
+Now you're just doing click bait like everybody else.
+
+44:11.960 --> 44:15.000
+Now you're just a sad old man, Howard. All right.
+
+44:15.960 --> 44:21.120
+Now, Howard Stern, this is the first time anyone's said your name in years.
+
+44:21.600 --> 44:25.240
+Your own family doesn't say your name unless they're calling to get their bills paid.
+
+44:27.160 --> 44:28.760
+You're going hard.
+
+44:30.880 --> 44:32.560
+See, that's beautiful right there.
+
+44:32.560 --> 44:34.840
+That's much better than calling Jewish media.
+
+44:35.400 --> 44:36.920
+Go after individuals.
+
+44:36.920 --> 44:40.920
+OK, so after individual and you don't talk shit about me, talk shit about me.
+
+44:40.960 --> 44:43.240
+This is great. And you know what that is? Yeah. What's that?
+
+44:45.480 --> 44:47.760
+Engineering, that's an engineer's approach.
+
+44:47.760 --> 44:49.800
+Yeah. Engineers. Yeah. Yeah.
+
+44:49.800 --> 44:51.520
+You should learn some of that.
+
+44:51.520 --> 44:56.080
+We all can use our pain against each other, or we can say we're being
+
+44:56.720 --> 45:00.600
+with engineering opportunities and we can know about history.
+
+45:00.600 --> 45:03.280
+So let me change something we can have.
+
+45:05.240 --> 45:08.280
+A just to be judgmental, people say that should not judge.
+
+45:08.880 --> 45:10.360
+I was talking to Camille Vasquez.
+
+45:10.360 --> 45:12.160
+She says, I'm very judgmental. That's what we're doing.
+
+45:12.160 --> 45:17.080
+We I believe now you could go to Bible and one thing is going to say one thing.
+
+45:17.080 --> 45:19.720
+Another thing may be contradicted in a way.
+
+45:19.720 --> 45:23.280
+And then the pastor has to unpack it. I believe.
+
+45:23.640 --> 45:26.320
+That we are to judge.
+
+45:26.800 --> 45:31.760
+If you look at some food and it's got a fly coming out of it,
+
+45:32.240 --> 45:35.000
+you can then judge at that point.
+
+45:35.000 --> 45:36.920
+You're supposed to use your better judgment.
+
+45:36.920 --> 45:40.080
+But whenever someone doesn't want to change something they're doing,
+
+45:40.080 --> 45:42.840
+they'll say, don't judge me. Right.
+
+45:43.080 --> 45:45.960
+But as a species, you call it for me.
+
+45:45.960 --> 45:47.360
+You got the breakthrough.
+
+45:47.360 --> 45:51.120
+And by the way, it's only an engineer that I would respect
+
+45:51.480 --> 45:56.320
+to tell me of how of how to update how I'm communicating,
+
+45:56.520 --> 45:58.240
+because this started off. Right.
+
+45:58.240 --> 46:01.560
+I've been through all these interviews.
+
+46:02.600 --> 46:06.320
+Let me go to this. You said this was a sorry apology.
+
+46:06.880 --> 46:08.320
+I was very specific.
+
+46:08.320 --> 46:11.600
+I said the Jewish because, by the way, it's a barrage. Right.
+
+46:11.600 --> 46:14.520
+It's a thing where I don't even remember the names at a certain point. Right.
+
+46:14.760 --> 46:19.840
+It's like if a if a girl was getting raped by men,
+
+46:22.120 --> 46:27.040
+if that person is not 18, right, and she's getting raped since 14. Right.
+
+46:27.720 --> 46:33.560
+And she still got this face, this super like Irina Shake level face. Right.
+
+46:35.560 --> 46:38.320
+She might say, I hate men.
+
+46:39.240 --> 46:41.360
+That woman may say, I hate men.
+
+46:41.360 --> 46:44.000
+She might get to that point because she was raped.
+
+46:44.760 --> 46:48.280
+All my contracts and no one can say this is ramped up.
+
+46:48.920 --> 46:51.160
+Knowing Howard Stern can't say this is ramped up.
+
+46:51.160 --> 46:53.280
+Ari Emanuel can't say this is ramped up.
+
+46:53.280 --> 46:57.080
+George Soros knows damn well that I'm not ramped up.
+
+46:57.080 --> 47:02.040
+George Soros knows like, wow, this guy's like a younger guy
+
+47:02.040 --> 47:07.560
+that's looking at what I did and looking at how I control the world silently.
+
+47:07.920 --> 47:09.560
+And he's calling it out.
+
+47:09.560 --> 47:12.800
+And he's not using any of the fear tactics.
+
+47:12.800 --> 47:14.480
+I can't send his homeboys around him.
+
+47:14.480 --> 47:16.240
+I can't send his wife to him.
+
+47:16.280 --> 47:20.040
+This guy, that's what George Soros sees, right, when he's dealing with me.
+
+47:20.040 --> 47:23.800
+Right. So what you guys are actually asking me to do,
+
+47:23.800 --> 47:27.600
+I'm comparing myself to that 18 year old, beautiful
+
+47:28.600 --> 47:33.560
+woman that had been mistreated by men for four years of her life. Right.
+
+47:34.000 --> 47:39.400
+And you're saying, you know, as a man, you can't blame all men.
+
+47:39.600 --> 47:42.560
+And I'm saying as a responsible
+
+47:42.720 --> 47:50.520
+forward, philosopher, leader, OK, I'll drop the pain and I will specify
+
+47:50.520 --> 47:54.160
+because I'm up here. I lost my fucking family.
+
+47:54.280 --> 47:56.080
+I lost my kids.
+
+47:56.080 --> 47:58.640
+I lost my best friend in fashion.
+
+47:58.960 --> 48:01.440
+I lost I lost the black community.
+
+48:01.440 --> 48:04.880
+I lost, you know, people said I lost my mind.
+
+48:04.880 --> 48:07.320
+All of these things lost my reputation.
+
+48:07.320 --> 48:11.040
+And I'm up here just like, I just want my family.
+
+48:11.800 --> 48:14.680
+But I don't want my family to have to say
+
+48:14.880 --> 48:19.560
+what the left wants us to say, to have to say what China wants us to say.
+
+48:19.680 --> 48:23.240
+I want to be an American and protect my kids and protect my wife
+
+48:23.360 --> 48:28.280
+and raise my kids as Christians and have my wife be a Christian
+
+48:28.560 --> 48:31.640
+and innovate and America may rock and roll.
+
+48:31.640 --> 48:36.120
+I want to innovate as a creative person and be a successful American.
+
+48:36.320 --> 48:38.480
+But all of that had been taken away from me.
+
+48:38.480 --> 48:42.880
+So I'm coming back and I'm removing the PSTD right now, right?
+
+48:42.880 --> 48:46.320
+I'm standing up and saying the only way that we're going to be able to get past
+
+48:46.320 --> 48:51.960
+this and the way God is going to use me right now is for me to stop
+
+48:51.960 --> 48:56.640
+talking about the pain, stop talking about what happened and do something about it.
+
+48:56.720 --> 48:59.560
+And that's where I'm at right now in this moment.
+
+49:00.000 --> 49:01.520
+Like, yeah, people agree.
+
+49:01.520 --> 49:03.440
+At least there was something we could say.
+
+49:03.440 --> 49:06.120
+He has a reason of why he got to that tweet.
+
+49:06.440 --> 49:08.360
+And what you're doing for me today is saying,
+
+49:09.960 --> 49:12.960
+you know, that was a sorry apology.
+
+49:12.960 --> 49:14.520
+And let's specify.
+
+49:14.520 --> 49:19.560
+I'm not asking for anyone out here to empathize or sympathize
+
+49:19.920 --> 49:25.720
+for a, you know, a dude worth 11 billion dollars that can make money disappear.
+
+49:25.720 --> 49:29.760
+I mean, appear at a thin air and five different industries.
+
+49:30.080 --> 49:33.640
+You know, I'm not asking for the I'm not asking anybody to sympathize
+
+49:33.640 --> 49:38.120
+with someone who's married to Kim Kardashian, dated Irina Shayk.
+
+49:38.800 --> 49:44.040
+Like, I feel like I'm just not going to get the sympathy vote in this situation.
+
+49:44.320 --> 49:47.240
+Right. So I feel your pain.
+
+49:47.240 --> 49:49.800
+I feel like no one's going to feel my pain.
+
+49:49.800 --> 49:54.160
+Only only Brad and Leo can feel my pain. Right. So the so.
+
+49:55.560 --> 49:58.880
+But still, but here today, when you said as a sorry apology,
+
+49:59.800 --> 50:07.040
+what's the what's the apology that you're looking for as a as a Jewish engineer?
+
+50:07.360 --> 50:13.000
+And I say as Lex, let's not talk about you being Jewish as Lex.
+
+50:13.000 --> 50:18.520
+What's the apology that you want me to say to?
+
+50:18.920 --> 50:20.640
+Am I allowed to say Jewish?
+
+50:20.640 --> 50:23.560
+Tell me, is it anti-Semitic for you to say Jewish out loud?
+
+50:23.880 --> 50:28.320
+No, there's I don't like the allowed that presumes censorship.
+
+50:28.720 --> 50:30.200
+I think you choose.
+
+50:30.200 --> 50:31.560
+You have a powerful voice.
+
+50:31.560 --> 50:35.480
+Did I prove did I did I prove that there was censorship over the past two weeks?
+
+50:35.840 --> 50:38.160
+I proved you. Oh, drink champs.
+
+50:38.160 --> 50:40.440
+Who? Oh, my Lord.
+
+50:41.520 --> 50:44.840
+Oh, like Twitter and so on Twitter that has less to do.
+
+50:44.840 --> 50:47.880
+Drink champs that hurt you that drink champs
+
+50:49.280 --> 50:51.880
+that nor took it down, took down your conversation.
+
+50:53.720 --> 50:55.440
+It didn't hurt you.
+
+50:56.320 --> 50:58.800
+Man, you got to be honest about the free
+
+50:58.800 --> 51:01.600
+with still the kids we used to be.
+
+51:02.320 --> 51:08.080
+I put my hand on the stove to see if I still bleed
+
+51:08.720 --> 51:11.040
+and nothing hurts anymore.
+
+51:11.040 --> 51:13.440
+I feel kind of free.
+
+51:14.720 --> 51:18.200
+No, do you think?
+
+51:18.920 --> 51:22.960
+You know, I I went to Japan for two to three months, right?
+
+51:23.760 --> 51:27.200
+The day I had Sunday service,
+
+51:27.560 --> 51:31.760
+my kids are supposed to be there and my kids would know where to be found.
+
+51:32.280 --> 51:35.560
+And I text Kim and say, where are my kids?
+
+51:36.080 --> 51:38.440
+We get into an argument.
+
+51:38.440 --> 51:42.160
+And then I get a text from a number I don't know.
+
+51:42.560 --> 51:46.960
+And it's Pete Davidson bragging about being in bed with my wife.
+
+51:49.200 --> 51:50.200
+Then.
+
+51:50.720 --> 51:52.160
+Just fucking with you.
+
+51:52.160 --> 51:54.400
+Well, at that point, it's like.
+
+51:55.400 --> 51:58.800
+They're trying to put me in jail or put a friend of mine in jail.
+
+52:00.320 --> 52:02.320
+Because then I'm going to go
+
+52:02.320 --> 52:06.800
+surround the hotel and do all, you know, do something
+
+52:06.800 --> 52:09.480
+which would have me not be able to be here.
+
+52:09.880 --> 52:12.240
+And instead, I walked away from that situation.
+
+52:12.240 --> 52:15.040
+I went to Japan like the samurai that I am
+
+52:15.480 --> 52:17.440
+and went to the top of the mountain.
+
+52:17.440 --> 52:22.120
+And because I knew that, I mean, I knew there was no way
+
+52:22.760 --> 52:26.760
+she could love this dude, not just because he's ugly.
+
+52:26.760 --> 52:28.280
+He's not black. She likes black guys.
+
+52:28.280 --> 52:32.040
+Every guy that she, you know, is with looks exactly the same.
+
+52:32.040 --> 52:34.480
+Ray J, Reggie Bush.
+
+52:35.040 --> 52:38.880
+At that time, Kanye West, she has a type, just like how I have a type.
+
+52:38.880 --> 52:41.720
+Like a lot of my girls look kind of similar to her because in a video game
+
+52:41.720 --> 52:44.560
+character, people have people have their type, right?
+
+52:44.560 --> 52:47.160
+So I knew that this is the type of guy that she is.
+
+52:47.160 --> 52:51.480
+That this was like the princess has a type and she likes Mario.
+
+52:52.080 --> 52:53.440
+Right. There you go.
+
+52:53.440 --> 52:56.600
+As somebody cares for you and hopefully can be a friend.
+
+52:57.360 --> 53:01.800
+Yeah, I got to say these words and the words about Jews
+
+53:02.480 --> 53:05.160
+is not the words of a samurai,
+
+53:06.000 --> 53:07.640
+of a great man.
+
+53:07.640 --> 53:10.240
+I would say, you know, you said.
+
+53:11.680 --> 53:14.480
+Something that inspired that resonated with a lot of people
+
+53:14.480 --> 53:17.360
+when you said George Bush doesn't care about black people.
+
+53:18.080 --> 53:21.880
+I have to say, as somebody who cares for you, that, yay,
+
+53:22.440 --> 53:28.400
+the artist formerly known as Kanye West doesn't care about Jewish people.
+
+53:29.080 --> 53:33.600
+In the same way you spoke about George Bush being a politician
+
+53:33.760 --> 53:38.160
+and not giving a fuck about the poor people that suffered after Katrina,
+
+53:38.640 --> 53:42.280
+you're not giving a fuck about the suffering of the Jewish people
+
+53:42.280 --> 53:44.440
+across the world. Why am I not?
+
+53:45.080 --> 53:49.680
+Because you're feeding, you're giving strength, motivation.
+
+53:49.840 --> 53:53.080
+We already updated. I gave an apology. You said it wasn't good enough.
+
+53:53.280 --> 53:55.040
+Yeah, that's right. It's not you're telling me.
+
+53:55.040 --> 53:56.080
+No, I'm not going to.
+
+53:56.080 --> 53:58.040
+You don't need to kiss anyone's dick.
+
+53:58.040 --> 54:02.520
+Well, yeah, do you have to say it was wrong to say there is no Jewish media?
+
+54:02.640 --> 54:04.880
+There's no Jewish. There isn't.
+
+54:05.080 --> 54:10.000
+There's no control of the media by Jewish engineer, brother.
+
+54:10.000 --> 54:12.640
+If you're an engineer and you're not holding to the truth,
+
+54:12.640 --> 54:13.760
+that's not engineering.
+
+54:13.760 --> 54:17.600
+Engineering is not that's not that doesn't that's hate.
+
+54:17.600 --> 54:18.400
+That's engineering.
+
+54:18.400 --> 54:22.080
+You know, I'm going to build a better record label.
+
+54:22.120 --> 54:25.720
+It's called and I'm going to respect our stereotypes exist for a reason.
+
+54:25.720 --> 54:27.520
+Engineers don't do stereotypes.
+
+54:27.520 --> 54:29.000
+I do. Types are dumb.
+
+54:29.000 --> 54:32.440
+They allow you to channel hate towards the other.
+
+54:32.560 --> 54:34.920
+You know what the biggest thing is? Yeah.
+
+54:34.920 --> 54:38.760
+With something, a veteran that was sitting next to me,
+
+54:38.760 --> 54:42.000
+a cheesecake factory last night, he said,
+
+54:43.520 --> 54:48.360
+you know, the general justice, he serves for whoever is the president.
+
+54:48.840 --> 54:52.960
+Right. And he said, what's happening in politics is
+
+54:54.080 --> 54:57.120
+we're forgetting we're on the same side.
+
+54:57.120 --> 55:01.200
+We're forgetting this is someone is practically now he's a nurse.
+
+55:01.240 --> 55:04.920
+So he's still, you know, fighting for humanity in a way.
+
+55:04.960 --> 55:08.520
+He went from holding, you know, guns in battle
+
+55:08.520 --> 55:13.800
+to being a nurse and when people are battling for their lives.
+
+55:14.280 --> 55:18.480
+And he said, we're forgetting we're on the same side.
+
+55:18.960 --> 55:24.400
+This is a person that no matter who becomes president,
+
+55:24.520 --> 55:27.040
+he can still be told to go to war.
+
+55:28.040 --> 55:32.000
+And the chaos that's created by the media
+
+55:32.920 --> 55:36.560
+has split the country in half.
+
+55:36.920 --> 55:41.520
+And what we what us as beings with an engineer opportunity
+
+55:41.520 --> 55:44.920
+need to do right now is find the blue water.
+
+55:45.520 --> 55:49.080
+Where do we where are places that we agree on?
+
+55:49.520 --> 55:52.600
+And I want you to finish everything.
+
+55:53.000 --> 56:00.760
+Hey, I'm a let you finish everything that you want to express to me.
+
+56:01.080 --> 56:04.000
+Get off all I'm your I'm your scarecrow today.
+
+56:04.000 --> 56:06.720
+I'm your I'm your punching bag today for everything I did.
+
+56:06.960 --> 56:10.920
+And I want you to stand up for all of the hate that I'm your Al Gore.
+
+56:11.120 --> 56:12.640
+When he lost the election.
+
+56:12.640 --> 56:17.800
+Remember, he almost became a punching bag for the lady that had voted on him.
+
+56:18.120 --> 56:19.600
+And she just said all this stuff.
+
+56:19.600 --> 56:22.240
+And he's like, I know, I agree with you. Right.
+
+56:22.520 --> 56:26.720
+But there's nothing, you know, that he could do about it with this.
+
+56:26.720 --> 56:28.600
+It's like things that you're saying.
+
+56:28.600 --> 56:30.040
+I agree with you.
+
+56:30.040 --> 56:32.440
+You know, it's like if you sit some kids in the
+
+56:33.360 --> 56:35.880
+in the principal's office and I punch somebody, right.
+
+56:36.120 --> 56:40.040
+I took I took my hand right as.
+
+56:41.640 --> 56:45.800
+What it really means, even Ari Emmanuel had to say, this is a pop icon.
+
+56:46.000 --> 56:49.240
+Right. And I went and just punched.
+
+56:51.000 --> 56:56.320
+An entire people at one time or said that I was about to I went like this.
+
+56:56.960 --> 57:00.520
+Right. And I got blacked out, black mirrored, done.
+
+57:00.520 --> 57:02.800
+Right. And it's like, what were you even going to do?
+
+57:02.920 --> 57:05.640
+And why did you go like this?
+
+57:05.640 --> 57:09.040
+I went like this because.
+
+57:11.000 --> 57:15.480
+I can't even I would I would look insane to physically show you
+
+57:16.680 --> 57:21.520
+a metaphor, a physical representation
+
+57:21.920 --> 57:25.480
+of my last 20 years of what I've been through
+
+57:26.120 --> 57:29.600
+as a musician, as a father
+
+57:29.960 --> 57:32.240
+and as a black person with a political opinion.
+
+57:32.240 --> 57:35.920
+A great man still through the pain does the right thing.
+
+57:35.920 --> 57:37.960
+And I think the right thing
+
+57:37.960 --> 57:41.560
+is to not say that there's Jewish control of the media.
+
+57:41.680 --> 57:42.880
+And that's incorrect, though.
+
+57:42.880 --> 57:45.000
+That's a fucking lie. There is.
+
+57:45.000 --> 57:47.520
+And they did come and bully me and prove the point.
+
+57:47.600 --> 57:50.080
+Now, the reason you don't say it
+
+57:50.080 --> 57:54.160
+is because the world is much bigger than the forgive me,
+
+57:54.240 --> 57:56.880
+the narrow little world you exist in.
+
+57:57.200 --> 58:02.160
+Your impact stretches way past those little boardroom meetings over contracts.
+
+58:02.160 --> 58:04.240
+So what should I have done? What should I have done?
+
+58:04.240 --> 58:07.160
+Not say that you should be a strong man that doesn't mention
+
+58:07.520 --> 58:10.360
+that doesn't mention religion or people and then fight.
+
+58:10.800 --> 58:13.600
+Do you want to win this fight? I win. How do we win?
+
+58:13.640 --> 58:15.680
+Call out individual people built.
+
+58:15.680 --> 58:17.480
+That's one way because they have a big voice.
+
+58:17.480 --> 58:21.440
+The other voice that I prefer is to build another label.
+
+58:21.520 --> 58:26.920
+I feel like you're controlling my creative narrative and my
+
+58:27.160 --> 58:29.440
+because just like how you're telling me, I shouldn't have said that.
+
+58:29.720 --> 58:32.040
+Do you think there are people telling me I shouldn't have wore a red hat?
+
+58:34.000 --> 58:37.280
+No, because you asked me, what should I have done?
+
+58:37.360 --> 58:39.160
+You're supposed to be a scarecrow.
+
+58:39.160 --> 58:42.160
+So I thought I'm going to beat the shit out of the scarecrow with my words.
+
+58:42.200 --> 58:44.960
+Right. You let me. Yeah, it was consensual.
+
+58:45.160 --> 58:47.640
+The punching bag is a bad because scarecrow actually has a different.
+
+58:47.760 --> 58:50.000
+Yeah, that's right. I'm like, let's say a punching bag.
+
+58:50.000 --> 58:51.920
+I said scarecrow. Yeah.
+
+58:51.920 --> 58:55.720
+But every single person that I've sat with from the point
+
+58:55.720 --> 58:58.680
+when I wore the red hat to now has done the same thing.
+
+58:59.080 --> 59:02.960
+Sit in the principal's office and don't do what you're doing.
+
+59:03.360 --> 59:05.440
+We're in the generous closet right now together.
+
+59:05.760 --> 59:08.040
+And I'm not. The red hat is very different.
+
+59:08.240 --> 59:12.440
+The red hat is a you have a set of beliefs.
+
+59:12.480 --> 59:17.360
+You represent half the country that has a hope,
+
+59:17.760 --> 59:19.760
+a vision for the future of America.
+
+59:19.760 --> 59:23.000
+That's very different than without any purpose whatsoever.
+
+59:23.000 --> 59:25.440
+Saying Jewish media, Jewish control of the media.
+
+59:25.440 --> 59:27.520
+You said there's there's no purpose.
+
+59:27.520 --> 59:31.720
+So you're taking away my history and my reason of what my purpose was.
+
+59:33.120 --> 59:39.120
+I'm saying also, also, also, I'm speaking my voice, vocalize.
+
+59:39.120 --> 59:42.360
+Also, yeah, it's God's plan.
+
+59:42.920 --> 59:44.400
+There's a lot of things that open up.
+
+59:44.400 --> 59:45.440
+Let me tell you something that open up.
+
+59:45.440 --> 59:49.160
+There's a guy, like I told you, that was running stem player
+
+59:49.520 --> 59:50.880
+who I've had issues with.
+
+59:50.880 --> 59:53.280
+We hadn't got paid on certain things. Right.
+
+59:53.680 --> 59:59.640
+And he took his his IQ, his know how his engineering know how to.
+
+59:59.840 --> 01:00:04.640
+He basically was trying to adidas me with even though I was the bigger money
+
+01:00:04.640 --> 01:00:07.400
+in the situation that was fun and we funded together.
+
+01:00:07.800 --> 01:00:12.200
+And he hired these engineers and he said, well, because of your comments,
+
+01:00:12.200 --> 01:00:14.440
+we're not going to be able to hire anybody else.
+
+01:00:14.840 --> 01:00:17.320
+And I was like, well, how many Jewish people do we have in our company?
+
+01:00:17.320 --> 01:00:18.480
+He said, I don't know.
+
+01:00:18.480 --> 01:00:20.320
+He didn't say exactly. Right.
+
+01:00:20.320 --> 01:00:21.640
+I said, do we have black people?
+
+01:00:21.640 --> 01:00:23.040
+We said, yes.
+
+01:00:23.040 --> 01:00:24.880
+That's then how many said two.
+
+01:00:24.880 --> 01:00:29.480
+So we have like 60 full time employees, like 40 half time and part time.
+
+01:00:30.000 --> 01:00:33.160
+And I.
+
+01:00:35.840 --> 01:00:37.440
+I took as a responsibility.
+
+01:00:37.440 --> 01:00:42.120
+Let's let's let's let's take a step back from the us being one species and say,
+
+01:00:42.120 --> 01:00:44.520
+hey, you're Jewish. I'm black. Right.
+
+01:00:44.760 --> 01:00:48.040
+Why step back for this example, for the sake of this example?
+
+01:00:48.320 --> 01:00:51.160
+And I said, wow.
+
+01:00:51.160 --> 01:00:54.560
+I'm sure I can hire more than two black engineers.
+
+01:00:55.560 --> 01:01:00.920
+And what happens is because there are so many businessmen
+
+01:01:00.920 --> 01:01:06.400
+that just so happen to be Jewish that it's good business, right, just to monopolize.
+
+01:01:06.400 --> 01:01:08.920
+That's what people are looking. Everybody wants to be Elon. Right.
+
+01:01:09.160 --> 01:01:14.320
+So the I disagree with that.
+
+01:01:14.320 --> 01:01:16.360
+OK, well, let me finish this point.
+
+01:01:16.360 --> 01:01:18.080
+I'll let you finish a lot of what you finish.
+
+01:01:18.080 --> 01:01:21.880
+A lot of a lot of businessmen want to be as successful as Elon
+
+01:01:21.880 --> 01:01:26.040
+and as popular as Elon, a lot like just worded like that,
+
+01:01:26.440 --> 01:01:28.080
+which I hate the term a lot, actually.
+
+01:01:28.080 --> 01:01:29.560
+I want to be more specific, but I don't.
+
+01:01:29.560 --> 01:01:31.240
+I haven't done the math on it.
+
+01:01:31.240 --> 01:01:34.400
+Let's say some factually, for sure.
+
+01:01:34.440 --> 01:01:39.160
+There are some business people of all different walks and backgrounds
+
+01:01:39.360 --> 01:01:42.720
+that would like to be as rich and as popular as Elon Musk.
+
+01:01:43.280 --> 01:01:47.520
+So let me just take a step back from the we're one species into the
+
+01:01:47.640 --> 01:01:52.360
+we're separated by race, gender, socioeconomic class conversation
+
+01:01:52.360 --> 01:01:57.320
+and say as a black owner of two tech platforms, hardware and software,
+
+01:01:57.560 --> 01:02:00.000
+I need to take action.
+
+01:02:00.000 --> 01:02:01.960
+Let's not call it affirmative.
+
+01:02:01.960 --> 01:02:04.440
+Let's just say I need to take action
+
+01:02:04.800 --> 01:02:09.360
+and I need to take accountability and ensuring
+
+01:02:10.360 --> 01:02:13.880
+that black engineers
+
+01:02:14.840 --> 01:02:18.200
+are hired and guess what? Hired together.
+
+01:02:18.840 --> 01:02:22.080
+Because when the black people that are brilliant
+
+01:02:22.200 --> 01:02:26.360
+are separated from our culture, we forget who we are.
+
+01:02:26.560 --> 01:02:29.520
+And we'll get to a point where, you know,
+
+01:02:30.520 --> 01:02:32.800
+OJ will say I'm not black, I'm OJ.
+
+01:02:32.800 --> 01:02:37.560
+Because just to be on the golf course, we put on the golf shirt.
+
+01:02:38.080 --> 01:02:42.080
+But the golf shirt might not be something that our culture would have done.
+
+01:02:42.320 --> 01:02:47.200
+And now our culture in poor communities is,
+
+01:02:47.560 --> 01:02:49.120
+oh, everybody's got Draco on them.
+
+01:02:49.120 --> 01:02:51.040
+Everybody's got a gun on them.
+
+01:02:51.040 --> 01:02:54.480
+Oh, if you run up on me on the gas station, I'm going to kill you.
+
+01:02:54.520 --> 01:02:58.160
+Hey, you ain't got to talk to me like a man if I haven't killed
+
+01:02:58.160 --> 01:02:59.080
+at least five people.
+
+01:02:59.080 --> 01:03:01.360
+But you know what happens is we can kill five people.
+
+01:03:01.360 --> 01:03:04.960
+We could kill ten people and still be in the media
+
+01:03:05.480 --> 01:03:07.720
+as long as we play by the rules.
+
+01:03:07.720 --> 01:03:10.880
+Right. Because what will happen is any of these guys
+
+01:03:11.280 --> 01:03:14.760
+that have talked about killing people and different things,
+
+01:03:15.120 --> 01:03:16.920
+unless Trump had pardoned them. Right.
+
+01:03:16.920 --> 01:03:19.160
+But let's say even if Trump had pardoned them,
+
+01:03:19.160 --> 01:03:24.000
+they could still go to someone like a little boozy or Meek Mills
+
+01:03:24.200 --> 01:03:28.560
+or Puff Daddy, anybody, and say, hey, we need you to talk shit about.
+
+01:03:28.560 --> 01:03:30.200
+Yay. Right now.
+
+01:03:30.200 --> 01:03:33.480
+And also, you're not allowed if you do want to vote for Trump
+
+01:03:33.480 --> 01:03:36.200
+or vote outside of what this arrangement is,
+
+01:03:36.520 --> 01:03:38.720
+then we're going to put you in jail.
+
+01:03:39.440 --> 01:03:41.480
+It ain't that we're not going to bring you down.
+
+01:03:41.720 --> 01:03:43.920
+We have this on you.
+
+01:03:44.360 --> 01:03:47.600
+You get I'm saying if I had ever killed someone,
+
+01:03:48.240 --> 01:03:52.040
+if I wasn't the bitch with the pink polo on,
+
+01:03:52.240 --> 01:03:56.440
+I wouldn't be able to be the vocal man that I am today.
+
+01:03:56.920 --> 01:03:57.800
+You understand what I'm saying?
+
+01:03:57.800 --> 01:04:01.880
+This is the reason why I'm happy that my gangster disciple brothers
+
+01:04:02.160 --> 01:04:06.560
+kept me from the initiations, which made me feel like a pussy
+
+01:04:07.000 --> 01:04:09.200
+my whole life. Right.
+
+01:04:09.720 --> 01:04:14.520
+But now I am someone who legally can say this.
+
+01:04:14.920 --> 01:04:19.440
+Other people in my position, they legally cannot speak.
+
+01:04:20.280 --> 01:04:24.640
+They legally cannot speak or they will go to prison.
+
+01:04:25.760 --> 01:04:29.480
+I am in a bit of a glass prison because I don't have say so
+
+01:04:29.640 --> 01:04:32.880
+of where my children go to school.
+
+01:04:32.880 --> 01:04:37.040
+But I'm in a freedom place where I can have this conversation with you right now.
+
+01:04:37.560 --> 01:04:41.520
+And that is I don't like the word breakthrough.
+
+01:04:42.160 --> 01:04:45.120
+You know, that's God's hand on this situation.
+
+01:04:46.000 --> 01:04:48.600
+But you get what I'm saying about if I hadn't said the tweet,
+
+01:04:48.840 --> 01:04:51.600
+I wouldn't have had to take the accountability myself
+
+01:04:51.800 --> 01:04:55.600
+to hire black engineers into my two tech platforms.
+
+01:04:55.640 --> 01:04:56.920
+And do you get what I'm saying?
+
+01:04:56.920 --> 01:04:59.120
+That's a beautiful personal journey you're on.
+
+01:04:59.520 --> 01:05:00.640
+But do you get what I'm saying?
+
+01:05:00.640 --> 01:05:04.920
+That personal is for my people as a whole, as a small company,
+
+01:05:05.120 --> 01:05:07.760
+as a small company, as a tribal person.
+
+01:05:08.880 --> 01:05:11.920
+I believe that I am my people.
+
+01:05:12.840 --> 01:05:17.480
+And the thing that that businessmen have done to my people
+
+01:05:17.680 --> 01:05:21.320
+have pulled the brightest out of our tribes and siloed them
+
+01:05:21.560 --> 01:05:25.040
+and made us lose our culture and lose who they were.
+
+01:05:25.200 --> 01:05:29.800
+All the only thing I wanted to say a Virgil's funeral, which I wasn't allowed to.
+
+01:05:30.840 --> 01:05:35.280
+Right. It was a white pastor that talked the majority of the funeral.
+
+01:05:35.480 --> 01:05:38.800
+Half the funeral was pissed, pissed. Right.
+
+01:05:40.400 --> 01:05:44.440
+And and this pastor actually married me and Kim.
+
+01:05:44.440 --> 01:05:47.280
+Right. It looks like Justin Timberlake a little bit.
+
+01:05:47.280 --> 01:05:51.040
+And he talked half the funeral.
+
+01:05:51.040 --> 01:05:52.560
+He knew Virgil was passing,
+
+01:05:52.560 --> 01:05:55.880
+did a collaboration with him before he passed, by the way.
+
+01:05:56.160 --> 01:05:58.160
+Right. A clothing collaboration.
+
+01:05:58.160 --> 01:06:00.440
+I didn't know Virgil was passing.
+
+01:06:00.440 --> 01:06:03.280
+But the thing I wanted to say.
+
+01:06:03.280 --> 01:06:08.240
+I saw A$AP Rocky and I saw some other members of his gang,
+
+01:06:08.920 --> 01:06:11.840
+you know, in the audience at the funeral.
+
+01:06:12.400 --> 01:06:18.080
+And all I wanted to tell him is don't let them split the gang up.
+
+01:06:19.040 --> 01:06:21.440
+Don't let them split the gang up.
+
+01:06:22.440 --> 01:06:26.240
+When I did the first Yeezy,
+
+01:06:27.440 --> 01:06:32.920
+because I did Kanye West two fashion shows before as a high end luxury,
+
+01:06:32.920 --> 01:06:37.360
+all leather kind of designer, not all leather, but, you know, high end materials.
+
+01:06:37.360 --> 01:06:38.960
+Mink, this kind of thing.
+
+01:06:40.640 --> 01:06:44.480
+And then I came back with Yeezy, with Adidas.
+
+01:06:44.480 --> 01:06:49.960
+And this fashion show was so popular that Justin Bieber had to sit in the second row.
+
+01:06:49.960 --> 01:06:52.760
+Right. This thing had every name you could think of.
+
+01:06:52.760 --> 01:06:58.000
+It had Kim Kardashian, Kris Jenner, Kendall Jenner.
+
+01:06:58.000 --> 01:07:00.960
+It was Kylie's first fashion show she'd been in.
+
+01:07:00.960 --> 01:07:05.160
+And in the second fashion show, I put Kylie and Bella Hadid next to each other.
+
+01:07:05.160 --> 01:07:07.080
+In the fashion show, you had Puff Daddy.
+
+01:07:07.080 --> 01:07:11.320
+At that time, Puff Daddy had beef with Drake.
+
+01:07:11.320 --> 01:07:16.360
+Drake still came to the show and Yeezy had to break up the fight backstage.
+
+01:07:16.360 --> 01:07:19.960
+The designers, you had Jerry Lorenzo, that's head of Fear of God.
+
+01:07:19.960 --> 01:07:21.560
+You had Kim Shrobb, head of Skims.
+
+01:07:21.560 --> 01:07:23.880
+You have Virgil Abloh, head of Louis Vuitton.
+
+01:07:23.880 --> 01:07:29.960
+You had Demna, head of Balenciaga, all working for Yeezy,
+
+01:07:29.960 --> 01:07:32.360
+for the leader, for the philosophy.
+
+01:07:32.360 --> 01:07:35.800
+Yeezy, for the leader, for the philosopher, right?
+
+01:07:35.800 --> 01:07:38.920
+For the person that put, who put this together?
+
+01:07:38.920 --> 01:07:40.600
+Me, that's who, right?
+
+01:07:40.600 --> 01:07:46.600
+You had these people working for the King of New York, basically the boss, Yeezy, right?
+
+01:07:46.600 --> 01:07:50.920
+You had Jay-Z in the audience, Rihanna in the audience,
+
+01:07:52.360 --> 01:07:56.840
+Beyoncé in the audience, sitting next to Anna Wintour in this audience.
+
+01:07:56.840 --> 01:07:58.440
+And guess who heard wind of this?
+
+01:07:59.240 --> 01:08:02.680
+One of the richest men in the world, Bernard Arnault, caught wind of this.
+
+01:08:03.320 --> 01:08:04.600
+What's going on?
+
+01:08:04.600 --> 01:08:07.560
+They're building up something and we need to stop it.
+
+01:08:08.120 --> 01:08:14.840
+So then he met with me and politely offered me backing for my clothing line.
+
+01:08:15.400 --> 01:08:16.440
+It would be Kanye West.
+
+01:08:16.440 --> 01:08:20.600
+They would get 49%, 51%, I would get 49%.
+
+01:08:20.600 --> 01:08:24.360
+They'd have control and they were going to give me all of the support from Louis Vuitton.
+
+01:08:25.160 --> 01:08:27.640
+So I had to go to Adidas and I told Adidas,
+
+01:08:27.640 --> 01:08:31.240
+hey, let's indemnify the apparel.
+
+01:08:32.120 --> 01:08:34.440
+So Adidas, you're not going to do the apparel anymore.
+
+01:08:34.440 --> 01:08:38.040
+Hey, we had a good time, but we're going to run off with Giselle now, right?
+
+01:08:38.040 --> 01:08:41.000
+So that's like, you told your girl that and she's like,
+
+01:08:41.000 --> 01:08:42.280
+oh, I know we're supposed to.
+
+01:08:42.280 --> 01:08:43.880
+We had the proudest moment of our career.
+
+01:08:45.960 --> 01:08:49.240
+So then he offers me to deal and Alexander Arnault,
+
+01:08:49.240 --> 01:08:55.560
+who's went to gone on and rape and pillage from all of the talent that I had afterwards, said,
+
+01:08:56.200 --> 01:09:02.440
+before I tell Adidas to indemnify the apparel, can I get a written contract from your dad,
+
+01:09:02.440 --> 01:09:03.240
+Bernard Arnault?
+
+01:09:03.800 --> 01:09:07.000
+And he says, my dad will never go back on his word.
+
+01:09:07.000 --> 01:09:08.920
+So you already know where this thing is going, right?
+
+01:09:08.920 --> 01:09:10.280
+You can, spoiler alert, right?
+
+01:09:11.240 --> 01:09:12.360
+He went back on his word.
+
+01:09:12.360 --> 01:09:16.280
+So three months into the deal, I get Anna Winter.
+
+01:09:17.160 --> 01:09:18.840
+I say, who should I use for my lawyer?
+
+01:09:18.840 --> 01:09:21.080
+She picks my lawyer for me, right?
+
+01:09:21.720 --> 01:09:27.720
+I just found out even a couple of days that the lawyer demanded an airplane during negotiations.
+
+01:09:28.280 --> 01:09:30.120
+Had nothing to do with me, right?
+
+01:09:30.120 --> 01:09:32.440
+They said that Bernard Arnault got freaked out.
+
+01:09:32.440 --> 01:09:37.000
+And then Alexander Arnault calls me and says, the deal got dropped at the board.
+
+01:09:38.280 --> 01:09:45.160
+I went back and told my high maintenance wife, I was supposed to become this designer at Louis Vuitton
+
+01:09:45.160 --> 01:09:47.960
+or the Louis Vuitton group was going to back the Kanye West line,
+
+01:09:47.960 --> 01:09:49.960
+because that's how good I've done in fashion, babe.
+
+01:09:50.680 --> 01:09:52.200
+And now the deal is dropped.
+
+01:09:53.640 --> 01:09:54.520
+Now the deal is dropped.
+
+01:09:54.520 --> 01:10:00.760
+So then I did a second collection and we didn't have any support to be able to build the collection.
+
+01:10:00.760 --> 01:10:03.240
+Then I went and found a third collection.
+
+01:10:03.240 --> 01:10:03.800
+We did it.
+
+01:10:04.520 --> 01:10:05.720
+We took over MSG.
+
+01:10:05.720 --> 01:10:08.280
+Fourth collection went and the show started an hour late.
+
+01:10:09.480 --> 01:10:11.320
+Then a week later, Kim got robbed.
+
+01:10:11.880 --> 01:10:15.560
+Then I told Scooter Braun, my manager at that time, I say,
+
+01:10:16.200 --> 01:10:21.800
+I need to go to Japan.
+
+01:10:21.800 --> 01:10:22.840
+I'm tired.
+
+01:10:22.840 --> 01:10:23.320
+I'm tired.
+
+01:10:23.320 --> 01:10:25.400
+He says, no, you need to make more money.
+
+01:10:26.600 --> 01:10:31.160
+I do four more shows on a second leg of the tour.
+
+01:10:32.280 --> 01:10:35.400
+And I suffer from exhaustion and go to the hospital.
+
+01:10:35.960 --> 01:10:39.160
+And then get diagnosed with a disorder.
+
+01:10:39.880 --> 01:10:42.600
+This is the first time I ever suffered from exhaustion.
+
+01:10:42.600 --> 01:10:45.080
+By the way, I haven't been to the hospital since.
+
+01:10:46.120 --> 01:10:54.280
+I haven't been to the hospital since and haven't taken medication in two years.
+
+01:10:54.280 --> 01:10:57.800
+And I'm sure there'll be people in the media, we won't say,
+
+01:10:57.800 --> 01:10:59.640
+where phone will say, well, that's obvious.
+
+01:11:02.040 --> 01:11:03.480
+So right now I'm talking to you.
+
+01:11:04.360 --> 01:11:06.360
+I'm not on medication.
+
+01:11:06.360 --> 01:11:08.040
+I just go to sleep.
+
+01:11:08.040 --> 01:11:08.840
+I have sleep.
+
+01:11:08.840 --> 01:11:09.960
+Have you been able to sleep?
+
+01:11:13.080 --> 01:11:14.280
+That's too low hanging fruit for you.
+
+01:11:14.280 --> 01:11:16.440
+You're more, I expect more.
+
+01:11:16.440 --> 01:11:17.080
+I agree.
+
+01:11:17.080 --> 01:11:17.640
+I expect more.
+
+01:11:17.640 --> 01:11:17.960
+I agree.
+
+01:11:17.960 --> 01:11:18.440
+That was dumb.
+
+01:11:18.440 --> 01:11:19.000
+I regret it.
+
+01:11:19.000 --> 01:11:20.280
+It's not what I said.
+
+01:11:20.280 --> 01:11:24.280
+That's like Pierce Morgan trying to grab ratings.
+
+01:11:24.280 --> 01:11:25.960
+You got a whole life ahead of you.
+
+01:11:25.960 --> 01:11:27.160
+You got a whole life ahead of you.
+
+01:11:28.360 --> 01:11:29.800
+These guys are at the end of their life.
+
+01:11:29.800 --> 01:11:30.520
+Oh, good.
+
+01:11:32.040 --> 01:11:32.600
+So this story is-
+
+01:11:32.600 --> 01:11:33.720
+Call me out on my shit.
+
+01:11:33.720 --> 01:11:34.680
+I love it.
+
+01:11:34.680 --> 01:11:40.920
+But then, amidst that, the same guy that dropped my deal, Bernard Arnaud,
+
+01:11:40.920 --> 01:11:42.600
+goes and hires my best friend.
+
+01:11:42.600 --> 01:11:45.720
+Goes and hires my main engineer, right?
+
+01:11:45.720 --> 01:11:52.600
+It would have been like them hiring Elon from Peter before they figured out Paul,
+
+01:11:53.160 --> 01:11:54.600
+before they figured out PayPal.
+
+01:11:54.600 --> 01:11:59.400
+But it don't, Paul, it sounds like, Paul sounds like Paul.
+
+01:11:59.400 --> 01:12:00.360
+I just said it because I'm a Christian.
+
+01:12:00.360 --> 01:12:01.240
+I thought it was cool.
+
+01:12:01.240 --> 01:12:05.480
+But it would have been like, what if someone could have went in and took Elon away from
+
+01:12:05.480 --> 01:12:08.840
+Peter before they paid Paul, before they-
+
+01:12:08.840 --> 01:12:10.280
+I just could say PayPal.
+
+01:12:10.280 --> 01:12:11.880
+Before they figured out.
+
+01:12:11.960 --> 01:12:13.160
+Yeah, before they paid Paul.
+
+01:12:13.160 --> 01:12:14.200
+Before they-
+
+01:12:14.200 --> 01:12:15.160
+It's just too close.
+
+01:12:15.160 --> 01:12:15.800
+Yeah, too close.
+
+01:12:15.800 --> 01:12:18.360
+It just sounds so fresh that the fact that it's so close, right?
+
+01:12:18.360 --> 01:12:20.840
+And that's what happened, right?
+
+01:12:20.840 --> 01:12:23.000
+They broke the gang up.
+
+01:12:23.720 --> 01:12:27.480
+And I'm telling you right now, that hadn't happened.
+
+01:12:27.480 --> 01:12:28.840
+Virgil's alive.
+
+01:12:28.840 --> 01:12:29.800
+I'm still married.
+
+01:12:29.800 --> 01:12:30.360
+You know what I'm saying?
+
+01:12:30.360 --> 01:12:33.960
+The power structure was broken then, right?
+
+01:12:33.960 --> 01:12:35.080
+Because we were building some-
+
+01:12:35.080 --> 01:12:37.400
+Kylie wasn't a billionaire, you know what I mean?
+
+01:12:37.400 --> 01:12:44.680
+We were building something together that a French colonizer came in and caught it early
+
+01:12:45.400 --> 01:12:46.920
+and tried to destroy it.
+
+01:12:46.920 --> 01:12:51.800
+But the only thing is God is alive and I'm anointed.
+
+01:12:52.440 --> 01:12:58.280
+And even with those drawbacks, losing my wife, losing my friend, exhaustion,
+
+01:12:59.560 --> 01:13:04.040
+all of these late night tweets that piss off an entire group, you know, like this,
+
+01:13:04.040 --> 01:13:08.280
+the frustration still there.
+
+01:13:09.400 --> 01:13:13.320
+We work, I work for God and God runs the world and we'll see what happens.
+
+01:13:14.040 --> 01:13:19.000
+But in those words, don't you feel that being split up,
+
+01:13:19.000 --> 01:13:23.560
+don't you feel you're doing the thing that you stand against, which is playing victim?
+
+01:13:24.520 --> 01:13:29.400
+Aren't you playing victim to the forces in the world?
+
+01:13:29.400 --> 01:13:29.960
+I didn't play victim.
+
+01:13:29.960 --> 01:13:31.320
+I didn't even get a chance to play.
+
+01:13:31.320 --> 01:13:32.680
+I just said I was about to.
+
+01:13:32.680 --> 01:13:34.280
+I said like this, like-
+
+01:13:34.280 --> 01:13:36.200
+No, you played pretty damn well.
+
+01:13:36.200 --> 01:13:37.080
+What do you mean?
+
+01:13:37.080 --> 01:13:39.080
+What do you mean about to?
+
+01:13:39.080 --> 01:13:42.920
+You're like one of the greatest designers in history, fashion designers.
+
+01:13:43.960 --> 01:13:44.680
+You're playing.
+
+01:13:45.400 --> 01:13:46.280
+You are playing.
+
+01:13:46.280 --> 01:13:47.160
+What does that even mean?
+
+01:13:47.160 --> 01:13:48.600
+I thought you were referring to the tweet.
+
+01:13:49.800 --> 01:13:50.360
+All of them.
+
+01:13:51.080 --> 01:13:55.240
+There's a full set of things that you're under attack for,
+
+01:13:56.760 --> 01:13:59.480
+the tweet and everything beyond that.
+
+01:13:59.560 --> 01:14:05.880
+But like you're blaming, not blaming, but you're saying that the Jewish media,
+
+01:14:05.880 --> 01:14:12.040
+the Jewish regulators, the Jewish people, forget Jewish or not, it doesn't matter.
+
+01:14:12.040 --> 01:14:14.120
+It's playing victim, right?
+
+01:14:15.080 --> 01:14:19.960
+Ultimately, I am fighting a battle in the spiritual form.
+
+01:14:19.960 --> 01:14:24.040
+And anyone that believes in God and is looking at this interview would agree with that.
+
+01:14:24.680 --> 01:14:29.720
+And I just so happen to be a bright part of God's army.
+
+01:14:30.680 --> 01:14:32.760
+I'm fighting for us to live.
+
+01:14:32.760 --> 01:14:35.000
+The greatest gift is life itself.
+
+01:14:35.000 --> 01:14:36.680
+I am pro-life.
+
+01:14:37.400 --> 01:14:38.680
+I am pro-God.
+
+01:14:38.680 --> 01:14:44.600
+I believe that Jesus Christ is our Lord and Savior and died for our sins.
+
+01:14:47.720 --> 01:14:53.320
+What do you feel about another attack, another painful thing?
+
+01:14:53.320 --> 01:14:56.520
+I imagine super painful is Balenciaga pulling.
+
+01:14:59.720 --> 01:15:04.200
+You had a really close relationship and friendship with their creative director.
+
+01:15:05.080 --> 01:15:06.200
+How do you feel about all of it?
+
+01:15:08.360 --> 01:15:09.880
+I told you I sang the song.
+
+01:15:10.520 --> 01:15:13.480
+I sing another song from one of my mentor's future.
+
+01:15:14.040 --> 01:15:15.240
+I never feel pain.
+
+01:15:15.880 --> 01:15:17.240
+I didn't feel too much pain.
+
+01:15:17.720 --> 01:15:23.560
+There was a day where I was headed to Nashville to meet with George Farmer,
+
+01:15:23.560 --> 01:15:28.440
+who is the CEO of Parla, the day when we made the announcement.
+
+01:15:29.160 --> 01:15:36.440
+At that same day, Balenciaga was taking my imagery off of their site.
+
+01:15:37.400 --> 01:15:41.080
+And the drink champs was being taken down.
+
+01:15:42.360 --> 01:15:44.760
+And I said, this is the happiest day of my life.
+
+01:15:45.400 --> 01:15:47.560
+I love cutting the grass low.
+
+01:15:48.920 --> 01:15:50.120
+People wasn't really with you.
+
+01:15:50.120 --> 01:15:51.400
+They was part-time.
+
+01:15:51.400 --> 01:15:53.000
+People switch up when it's wartime.
+
+01:15:53.720 --> 01:15:59.720
+I'd rather have people who are really with me and not people who are just trying to use me.
+
+01:15:59.720 --> 01:16:03.240
+Listen, as a friend, somebody cares for you.
+
+01:16:03.240 --> 01:16:08.040
+You have to be really careful by the people, by all people, always.
+
+01:16:08.040 --> 01:16:12.680
+The people that are going to try to be close to you now, you don't know if you can trust them.
+
+01:16:12.680 --> 01:16:14.920
+With the Balenciaga, I have more to say about it, though.
+
+01:16:14.920 --> 01:16:15.420
+Yeah.
+
+01:16:16.760 --> 01:16:17.480
+Let's do this.
+
+01:16:18.200 --> 01:16:24.120
+Demna will still work for you someday.
+
+01:16:25.160 --> 01:16:27.080
+And this is just speeding the process up.
+
+01:16:27.880 --> 01:16:28.680
+Have you talked?
+
+01:16:29.320 --> 01:16:30.280
+Can you share if you've talked?
+
+01:16:31.080 --> 01:16:32.840
+Yes, I talked to Demna.
+
+01:16:32.840 --> 01:16:34.440
+We're kindred spirits.
+
+01:16:34.440 --> 01:16:36.760
+None of this can keep us away from each other.
+
+01:16:36.760 --> 01:16:39.320
+I brought Demna to Gap.
+
+01:16:39.720 --> 01:16:45.720
+I brought Demna to Gap to be able to bring the best product in the world.
+
+01:16:45.720 --> 01:16:47.880
+At that time, I wanted to go under $100.
+
+01:16:47.880 --> 01:16:50.120
+Now, I'm like, okay, we're going to go $20 a product.
+
+01:16:51.640 --> 01:16:57.640
+I brought Demna in to engineer.
+
+01:16:57.640 --> 01:17:01.400
+That's why I said engineer by Balenciaga, Easy Gap engineer by Balenciaga,
+
+01:17:01.400 --> 01:17:04.440
+to engineer the best product for the people.
+
+01:17:04.440 --> 01:17:14.280
+The people that they say are at the bottom of the Maslow hierarchy and need chart.
+
+01:17:15.160 --> 01:17:16.680
+They're at the bottom of the pyramid.
+
+01:17:20.360 --> 01:17:21.560
+Gap didn't want that.
+
+01:17:22.120 --> 01:17:23.640
+Balenciaga didn't want that.
+
+01:17:25.000 --> 01:17:26.760
+Our genders were not aligned.
+
+01:17:26.760 --> 01:17:32.120
+I was brought in to the Gap for political reasons and influence,
+
+01:17:32.680 --> 01:17:34.520
+like a Virgil, like a George Floyd.
+
+01:17:35.160 --> 01:17:38.840
+When popular celebrities are brought into Fortune 500 companies,
+
+01:17:38.840 --> 01:17:40.360
+it's not to raise the stock.
+
+01:17:41.080 --> 01:17:44.760
+It's to strengthen the position and influence.
+
+01:17:47.080 --> 01:17:51.640
+It's definitely not to be out here letting a nigga think he's Steve Jobs.
+
+01:17:55.960 --> 01:17:57.160
+Yeah, there's people like that.
+
+01:17:57.880 --> 01:18:01.960
+But you, as a great man, a visionary,
+
+01:18:03.560 --> 01:18:08.600
+your job is to understand that game and be one step ahead.
+
+01:18:09.720 --> 01:18:12.920
+Well, that's why I'm telling them that relationship,
+
+01:18:12.920 --> 01:18:14.760
+some relationships only last for a summer.
+
+01:18:16.680 --> 01:18:17.720
+Some last for a year.
+
+01:18:17.720 --> 01:18:19.160
+The relationship ran its course.
+
+01:18:20.120 --> 01:18:27.800
+You know, in that relationship, I invested a lot of my social capital and actual capital.
+
+01:18:28.680 --> 01:18:33.160
+I spent somewhere between $5 to $10 million, personally, on Balenciaga.
+
+01:18:33.880 --> 01:18:37.720
+How much money do you think Balenciaga had paid me in the past two years?
+
+01:18:39.000 --> 01:18:41.880
+Just take a really wild guess, a really wild-
+
+01:18:41.880 --> 01:18:42.600
+Less than that.
+
+01:18:43.720 --> 01:18:45.160
+Just take a super wild one.
+
+01:18:46.120 --> 01:18:49.640
+Just go to the furthest extent of your imagination.
+
+01:18:51.880 --> 01:18:53.000
+$1.2 million.
+
+01:18:54.440 --> 01:18:54.840
+Lower.
+
+01:18:56.840 --> 01:18:57.880
+$500,000.
+
+01:18:57.880 --> 01:18:58.280
+Lower.
+
+01:18:59.480 --> 01:18:59.880
+Zero.
+
+01:19:01.800 --> 01:19:09.160
+And actually, two weeks ago, I paid at a saint's account $862,000.
+
+01:19:09.240 --> 01:19:16.040
+Not in clothes, for me, from Balenciaga, from the store, in royalties to Balenciaga,
+
+01:19:16.600 --> 01:19:20.840
+where the deal had been engineered, where I was coming out of my pocket.
+
+01:19:20.840 --> 01:19:31.080
+So I paid, last year I paid Demna $3 million to design the collection, right?
+
+01:19:31.080 --> 01:19:39.000
+And we got it out of the Gap Marketing Fund, and he was going to deliver 160 skews or 120 skews.
+
+01:19:39.240 --> 01:19:45.880
+100 skews are separate items of clothing, styles of clothing.
+
+01:19:46.840 --> 01:19:49.080
+So he ended up delivering about 60.
+
+01:19:50.280 --> 01:19:52.520
+I feel like we're on the people's court because we actually are, right?
+
+01:19:52.520 --> 01:19:53.800
+We're in the court of public opinion.
+
+01:19:56.680 --> 01:19:58.760
+So he delivered about 60.
+
+01:19:58.760 --> 01:20:00.680
+There were all kinds of people that were working-
+
+01:20:00.680 --> 01:20:04.120
+Part of the reason why I had to get Demna, I didn't want to have to get-
+
+01:20:04.120 --> 01:20:05.400
+I wanted to compete with him.
+
+01:20:06.120 --> 01:20:07.640
+I didn't want to have to get him.
+
+01:20:08.280 --> 01:20:13.560
+When I made Stronger, I did it to compete with Timbaland and Justin Timberlake,
+
+01:20:13.560 --> 01:20:18.120
+because my fiance at that time liked Justin Timberlake just a little bit too much.
+
+01:20:18.120 --> 01:20:20.440
+So I made it to compete.
+
+01:20:20.440 --> 01:20:22.440
+And then we had the song out.
+
+01:20:22.440 --> 01:20:23.640
+It's number one on Apple.
+
+01:20:23.640 --> 01:20:24.760
+It's blowing up.
+
+01:20:24.760 --> 01:20:27.080
+I play it in a club and it sounds muddy.
+
+01:20:27.080 --> 01:20:31.560
+It doesn't sound the way Sexy Back sounded in the club.
+
+01:20:32.120 --> 01:20:42.680
+So I go to Pharrell Williams to do the drums and it sounds like a different record.
+
+01:20:42.680 --> 01:20:46.920
+I know it can't be a different record because I'm going to swap it out on radio, right?
+
+01:20:46.920 --> 01:20:49.240
+Then I go to Swiss Beats.
+
+01:20:49.240 --> 01:20:50.680
+It sounds like a different record.
+
+01:20:50.680 --> 01:21:00.760
+I go to Timbaland, the person who did Sexy Back, and he did it in five minutes
+
+01:21:00.760 --> 01:21:05.240
+and then spent the rest of the hour talking about how nobody could have done it except for him,
+
+01:21:05.960 --> 01:21:07.320
+running around the studio.
+
+01:21:07.320 --> 01:21:08.280
+I'm the best.
+
+01:21:08.280 --> 01:21:09.080
+No one could have done it.
+
+01:21:09.080 --> 01:21:10.120
+That's why he had to go to me.
+
+01:21:10.120 --> 01:21:11.560
+He had to go to the king.
+
+01:21:11.560 --> 01:21:13.240
+Well, he had a point, right?
+
+01:21:13.240 --> 01:21:14.440
+He had a point, right?
+
+01:21:15.480 --> 01:21:16.760
+What makes the song muddy?
+
+01:21:16.760 --> 01:21:17.400
+Is it the beat?
+
+01:21:17.400 --> 01:21:18.680
+It was in the drums.
+
+01:21:18.680 --> 01:21:20.840
+It was something that Timbaland had in those drums.
+
+01:21:20.840 --> 01:21:21.960
+Now watch this.
+
+01:21:23.400 --> 01:21:26.440
+I said I'm going Defqon3, right?
+
+01:21:27.160 --> 01:21:29.720
+And the actual- I spelled it wrong.
+
+01:21:29.720 --> 01:21:30.680
+I have a tendency to do that.
+
+01:21:30.680 --> 01:21:35.800
+I'm not quite John Legend, tight sweater level, spelling bee level.
+
+01:21:36.920 --> 01:21:42.360
+I feel a parallel to me going to Timbaland to when I said,
+
+01:21:42.360 --> 01:21:47.480
+hey, you as an engineer, I need to work with you as an engineer that is Jewish
+
+01:21:48.280 --> 01:21:53.560
+to look at these contracts and what my people, not just Black people,
+
+01:21:53.560 --> 01:21:56.840
+let's say artists, are dealing with in our contracts.
+
+01:21:56.840 --> 01:21:58.600
+These contracts need to be fixed.
+
+01:21:59.240 --> 01:22:03.160
+Everyone could be so mad at the messenger, right?
+
+01:22:03.160 --> 01:22:04.840
+Yay, you said it the wrong way.
+
+01:22:05.800 --> 01:22:07.320
+You're offensive.
+
+01:22:07.320 --> 01:22:10.200
+You're like Hitler now because you said it.
+
+01:22:10.200 --> 01:22:15.000
+You said this out loud, but it does not- you weren't getting enough sleep.
+
+01:22:15.000 --> 01:22:22.520
+All this shit does not negate the fact that we do have- Houston, we have a problem.
+
+01:22:23.720 --> 01:22:26.120
+Yeah, but we is just the music industry.
+
+01:22:26.920 --> 01:22:30.600
+Like, there's a lot of hate that was created by just saying that, you know?
+
+01:22:30.600 --> 01:22:33.800
+But you're saying what is just is everything to me, right?
+
+01:22:35.320 --> 01:22:37.800
+One person can mean everything to me, right?
+
+01:22:37.800 --> 01:22:40.360
+And for George Bush, winning an election was everything.
+
+01:22:40.360 --> 01:22:43.240
+And then when you said George Bush doesn't care about Black people,
+
+01:22:44.040 --> 01:22:45.960
+that you woke him up.
+
+01:22:45.960 --> 01:22:49.800
+You woke the people up to the fact that he was narrowly being selfish.
+
+01:22:51.480 --> 01:22:55.400
+There's a sense to which you're being corrupted by your own greatness.
+
+01:22:55.400 --> 01:22:58.360
+You're focusing too much on the industry that you've made great,
+
+01:22:58.920 --> 01:23:00.520
+that you've rose to the very top.
+
+01:23:01.160 --> 01:23:05.000
+One of the richest artists in history, one of the greatest designers-
+
+01:23:05.000 --> 01:23:08.440
+I'm not- I am the richest artist in history.
+
+01:23:09.320 --> 01:23:11.560
+Probably the richest artist in history.
+
+01:23:14.600 --> 01:23:16.840
+The funny thing is they're like, oh, rich is Black people.
+
+01:23:16.840 --> 01:23:22.120
+It's like, oh, also, richest actor, richest musician, richest fashion designer.
+
+01:23:22.120 --> 01:23:24.440
+Like, there's a bunch of riches in that one.
+
+01:23:24.440 --> 01:23:25.080
+You know what I'm saying?
+
+01:23:25.080 --> 01:23:30.280
+It's like richer than Ralph Lauren, like richer than Armani, like richest, like of that.
+
+01:23:30.280 --> 01:23:35.000
+But still low, because where do you put that, you know, like on the totem?
+
+01:23:35.560 --> 01:23:37.160
+Because I don't even want to-
+
+01:23:37.160 --> 01:23:39.000
+Man's bank account isn't everything.
+
+01:23:40.120 --> 01:23:44.600
+I would say you and I are equal in a certain deep sense.
+
+01:23:46.360 --> 01:23:48.120
+No matter what the bank account says.
+
+01:23:48.120 --> 01:23:57.400
+So I wanted to give you some theme music for your moments.
+
+01:23:57.400 --> 01:23:58.360
+It sounded a little muddy.
+
+01:23:58.360 --> 01:23:59.800
+Let me give you the Timberland version.
+
+01:24:01.480 --> 01:24:01.960
+Thank you.
+
+01:24:03.000 --> 01:24:03.160
+Okay.
+
+01:24:03.160 --> 01:24:04.120
+Play that at the club.
+
+01:24:04.120 --> 01:24:07.480
+So the other thing about like, say like Balenciaga is
+
+01:24:09.640 --> 01:24:11.880
+Demna will work with Ye someday.
+
+01:24:18.680 --> 01:24:23.800
+For Cedric and for Francois Pinot and Salma is a beautiful human being.
+
+01:24:27.640 --> 01:24:35.000
+Five years from now, you'll hear and know the name Ye and know things that we did.
+
+01:24:36.680 --> 01:24:40.440
+And Balenciaga is not going to make it onto your questions.
+
+01:24:41.560 --> 01:24:44.680
+Would you, as a gambling man, would you bet on that?
+
+01:24:44.680 --> 01:24:45.480
+I will bet on that.
+
+01:24:45.480 --> 01:24:46.520
+I can see it in your eyes.
+
+01:24:47.480 --> 01:24:48.120
+Let me ask you a-
+
+01:24:48.120 --> 01:24:49.160
+So it was sad.
+
+01:24:49.160 --> 01:24:53.400
+It was actually a sad day for me, not for me, but more for Balenciaga.
+
+01:24:55.000 --> 01:24:58.680
+When I heard that, I was just like, oh, shame.
+
+01:25:00.760 --> 01:25:04.600
+Let me ask you a silly question just about Demna.
+
+01:25:04.600 --> 01:25:09.320
+I read something that you two talked about, like buttons for a few hours.
+
+01:25:10.120 --> 01:25:11.480
+They're my gumdrop buttons.
+
+01:25:13.400 --> 01:25:14.600
+Just in that accent.
+
+01:25:14.600 --> 01:25:16.040
+Me and Demna only speak in Shrek.
+
+01:25:16.920 --> 01:25:19.800
+What's your philosophy with which you approach design?
+
+01:25:20.520 --> 01:25:23.160
+You are one of the great fashion designers of our time.
+
+01:25:23.960 --> 01:25:26.760
+How do you think about it?
+
+01:25:26.760 --> 01:25:27.800
+Do you have a philosophy?
+
+01:25:28.360 --> 01:25:35.400
+You know what I like about the zipper is the zipper hoodie replaces the dress shirt
+
+01:25:36.280 --> 01:25:42.520
+because you could get on your douchebag and unzip it and give it a little bit of that type of look.
+
+01:25:43.240 --> 01:25:44.920
+Which is the douchebag?
+
+01:25:47.400 --> 01:25:50.040
+The douchebags that go to Vegas unbutton their dress shirt.
+
+01:25:51.480 --> 01:25:58.680
+The problem with the pullover hoodie is you can't do the douchebag thing where you unbutton it,
+
+01:25:58.680 --> 01:26:02.920
+but then still get the stomach because the thing is the ultimate look would be like
+
+01:26:04.120 --> 01:26:10.520
+military tank pullover hoodie and if you get a little hot, you take off the hoodie,
+
+01:26:10.520 --> 01:26:12.440
+but you're crazy in shape.
+
+01:26:13.880 --> 01:26:15.400
+So it gives you that flexibility.
+
+01:26:15.400 --> 01:26:21.880
+Yeah, the zipper is giving some flexibility and it's like maybe you want to keep your jacket on.
+
+01:26:21.880 --> 01:26:24.360
+Let's consider a hoodie to be like a jacket.
+
+01:26:24.360 --> 01:26:31.080
+If you want to keep your jacket on, then you might want to do this as opposed to pulling it
+
+01:26:31.080 --> 01:26:31.560
+all the way off.
+
+01:26:34.120 --> 01:26:36.680
+And it's just comfort, but then you get, okay,
+
+01:26:37.400 --> 01:26:41.320
+can I do a jogging pant on this with elasticity?
+
+01:26:41.320 --> 01:26:47.400
+Now, people argue about climate, where we are with the climate, I take a responsibility as
+
+01:26:47.400 --> 01:27:00.840
+being the most influential designer of all time to say we're going to use biodegradable clothing.
+
+01:27:01.480 --> 01:27:10.840
+Now, the issue there is the elastic is not biodegradable.
+
+01:27:11.880 --> 01:27:19.640
+So that means it's actually better to use jeans and a belt than to have an elastic waistband
+
+01:27:20.920 --> 01:27:23.240
+because the elastic waistband is not biodegradable.
+
+01:27:24.200 --> 01:27:36.680
+So I use the planet as a big, the future of the planet is a big piece of the way I engineer
+
+01:27:37.400 --> 01:27:39.560
+and the way we talk about where designs are going.
+
+01:27:39.560 --> 01:27:44.600
+The constraints on your design and engineering is given by the planet, by the future of the planet.
+
+01:27:44.600 --> 01:27:49.000
+Yes. That could almost make Jewish people like me again.
+
+01:27:49.400 --> 01:27:54.600
+Every time you say Jewish people, I think I've been maybe reading a little too much about
+
+01:27:54.600 --> 01:28:04.280
+World War II, but man, I recommend you listen to some audiobooks or read some books on the Holocaust
+
+01:28:04.280 --> 01:28:12.760
+because like, it's heavy, it's heavy, it will put into context, would you impact of your words?
+
+01:28:13.320 --> 01:28:15.880
+Would you read books on the current Holocaust that
+
+01:28:16.040 --> 01:28:19.720
+would you read books on the current Holocaust that black people are in?
+
+01:28:22.600 --> 01:28:24.440
+What have you read about abortion?
+
+01:28:24.440 --> 01:28:30.120
+I've read a lot of short form writing and I've listened to a lot of debates
+
+01:28:31.240 --> 01:28:37.560
+because it's really humbling that the question of when does life begin
+
+01:28:38.440 --> 01:28:42.600
+is a really difficult question. For me as an engineer and scientist,
+
+01:28:43.560 --> 01:28:45.480
+it's a philosophical question.
+
+01:28:45.480 --> 01:28:49.640
+I mean, we could just go on population control, not like if abortion is right or wrong.
+
+01:28:50.280 --> 01:28:58.920
+We could say factually, the clinics were made by eugenics for population control,
+
+01:28:59.560 --> 01:29:05.480
+and it is controlling the population as is the never being given a 40 acres and a mule,
+
+01:29:05.480 --> 01:29:09.400
+so you don't have the opportunity. And when the people that do have the opportunity
+
+01:29:09.400 --> 01:29:14.680
+are separated from our people, our tribe and placed in suburban communities next to us,
+
+01:29:14.680 --> 01:29:21.560
+Chris Rocco put it, the dentist, and whitewashed and made to shut the fuck up and vote left or
+
+01:29:21.560 --> 01:29:30.680
+whatever niggas are supposed to do when we make it, as opposed to saying, okay, we're building
+
+01:29:31.720 --> 01:29:38.680
+schools, we're building up choirs, we're building up our own leagues, basketball teams,
+
+01:29:38.680 --> 01:29:46.920
+our own factories. We started the first sportswear factory in America since World War II
+
+01:29:48.440 --> 01:29:57.720
+was actually this factory I put in Cody. I'm 45 years old. We're on this journey right now.
+
+01:29:57.720 --> 01:30:03.800
+It's the other thing about this is people just in general, they love me so much. I'm actually a hard
+
+01:30:03.800 --> 01:30:09.720
+guy to really hate for a long period of time because of my huge cock.
+
+01:30:11.000 --> 01:30:14.760
+That's what I noticed. I didn't understand why you showed it to me when we first met,
+
+01:30:14.760 --> 01:30:21.640
+but now I understand. It's very nice. Congratulations. I know you don't talk
+
+01:30:21.640 --> 01:30:28.840
+about it, but your hat does say 24. If you run for president, what kind of ideas would you represent?
+
+01:30:28.840 --> 01:30:38.360
+That we're beings with engineering opportunities. I would represent
+
+01:30:38.360 --> 01:31:05.080
+just as you served the platform here. There's something that happened on my last run that
+
+01:31:05.480 --> 01:31:14.360
+I thought, I feel, I know was brilliant. It was noisy, but it was brilliant. I had one rally,
+
+01:31:15.160 --> 01:31:22.440
+and in the rally, I just let people come up and I gave them a platform. It's our responsibility
+
+01:31:23.240 --> 01:31:33.000
+to listen to the pain and hear the pain and understand even when we're the ones that cause
+
+01:31:33.800 --> 01:31:40.040
+the pain, like with my tweet. It's my responsibility to hear you and understand
+
+01:31:40.680 --> 01:31:46.120
+why you feel like that, but it's our responsibility as a people to understand each other,
+
+01:31:49.480 --> 01:31:58.520
+to give people a voice. People need the voice, and even right now, what I'm doing or how God is using
+
+01:31:58.520 --> 01:32:07.080
+me, I'm showing where our voices are being muted. There's professors that are actually intelligent,
+
+01:32:07.080 --> 01:32:14.760
+actually have multiple degrees that have been canceled from their schools, and they don't have
+
+01:32:14.760 --> 01:32:22.360
+a music industry or a fan base or shoe design or a smoking hot ex-wife to complain about.
+
+01:32:23.080 --> 01:32:27.960
+They've just got the truth of what they saw and what they dedicated to this country
+
+01:32:27.960 --> 01:32:35.400
+and to education that has been muted by schools that have been taken over with an agenda.
+
+01:32:37.080 --> 01:32:42.520
+You want the brightest minds to be these professors, and then you mute them, and they
+
+01:32:42.520 --> 01:32:50.040
+have nowhere to go. You might get a guy now that went from being someone's favorite professor
+
+01:32:50.040 --> 01:32:56.120
+to he's working at Starbucks like he was back in school or like he was back in high school.
+
+01:32:57.080 --> 01:33:01.960
+So even if that voice is about anger and hate, it still deserves to be heard.
+
+01:33:04.120 --> 01:33:10.280
+Yeah, it deserves to be heard, and we deserve to ask why. You have to ask why. I just feel like
+
+01:33:10.280 --> 01:33:19.080
+that's what's... I feel like that is sympathizing, Mr. Hugecock. I'm just saying that it just needs
+
+01:33:19.080 --> 01:33:26.680
+to be... You should change that name on Twitter while you're still allowed on there.
+
+01:33:26.680 --> 01:33:32.280
+Yeah. Do you think that would get censored? I feel like they definitely cut it down some inches.
+
+01:33:34.760 --> 01:33:41.720
+I'm pointing out this truth. No, I'm serious. This is not a Christian thing.
+
+01:33:42.040 --> 01:33:54.280
+Right? I wonder right there, when I say these jokes, is it something that... Because I do
+
+01:33:54.280 --> 01:34:02.920
+feel like laughter is the key. Engineering and laughter is the key to peace. When I go
+
+01:34:02.920 --> 01:34:11.000
+get my teeth cleaned and I have the nitrous, there's something that I want to go and hug,
+
+01:34:11.000 --> 01:34:16.360
+Chris Jenner. I want to go and hug Corey Gamble. I want to go and hug Howard Stern. No one wants
+
+01:34:16.360 --> 01:34:22.600
+to hug Howard Stern, but just if one... No, no, no. I would love to see you two hug it out
+
+01:34:23.320 --> 01:34:28.200
+and make up, even though all this shit talking back and forth. What about talking it out or is
+
+01:34:28.200 --> 01:34:33.800
+he going to be screaming at me? Yeah, judgmental and that kind of stuff. No, I hope there's love
+
+01:34:34.360 --> 01:34:45.720
+there. The thing is, I think Howard's just jealous. Not just jealous of my cock. He's also...
+
+01:34:48.440 --> 01:34:51.000
+He's jealous that I started my campaign earlier than him.
+
+01:34:52.680 --> 01:34:56.440
+You got to let go of that jealousy. You got to let go of that jealousy, Howard.
+
+01:34:57.400 --> 01:35:00.280
+Howard and everybody else. Jealousy is a natural human thing, man.
+
+01:35:00.760 --> 01:35:06.360
+I wonder just as a Christian, when I joke and say this stuff, it's like,
+
+01:35:07.000 --> 01:35:12.840
+am I being disobedient to God? Because as a boss, I'll talk to
+
+01:35:17.480 --> 01:35:22.360
+an employee and I'll be like, why didn't you just listen? Because I've got the bigger plan.
+
+01:35:23.240 --> 01:35:31.640
+So it's like me talking to God, were there things that I did in this interview that were disobedient
+
+01:35:31.640 --> 01:35:40.360
+to God? And for those things, I pray and I repent for anything that I've said that was disobedient
+
+01:35:40.360 --> 01:35:47.160
+to God. But humor is not one of them. Joking is... I feel like humor is the way we avoid so much
+
+01:35:47.240 --> 01:35:52.680
+suffering in the world. It's like a catalyst for love. It's a way to...
+
+01:35:54.120 --> 01:35:57.960
+People that have gone through some of the darkest trauma that I've ever met through war,
+
+01:35:57.960 --> 01:36:05.560
+I just came back from Ukraine, they're laughing. They're making jokes. That's the best way to deal
+
+01:36:05.560 --> 01:36:11.880
+with dark times. I don't know what it is about humans. I feel like humor, that's the best way
+
+01:36:11.880 --> 01:36:16.840
+to socially engineer a good future, I think, is humor. Not taking shit too seriously. That's
+
+01:36:16.840 --> 01:36:22.440
+the problem with censorship. One of the things that really suffer is humor. Jokes. Maybe going
+
+01:36:22.440 --> 01:36:27.800
+too far in the jokes. You mentioned Anthony Jeselnik. That guy goes hard. That guy goes
+
+01:36:27.800 --> 01:36:34.120
+really hard and it's great. He crosses all the lines and that's why he's a genius. And that's
+
+01:36:34.120 --> 01:36:37.960
+what people feel is refreshing when he does it. I don't know what it is.
+
+01:36:38.120 --> 01:36:43.560
+But then it's hurtful when I do it. But I'll tell you something that was interesting. I'm pretty sure
+
+01:36:44.520 --> 01:36:51.960
+Anthony doesn't like... Sorry for the assumption, but just most comedians I know didn't vote for
+
+01:36:51.960 --> 01:36:58.920
+Trump. That's interesting. Not saying there aren't comedians that did, but just the ones I know,
+
+01:36:58.920 --> 01:37:02.760
+because I live in California. But they have an appreciation for Trump because of the sense of
+
+01:37:02.760 --> 01:37:07.000
+humor. I got to ask you about parlor engineering, because I'm interested about that.
+
+01:37:10.440 --> 01:37:15.560
+Hey man, I'm actually trying to hold it together. You're pretty offensive towards a lot.
+
+01:37:17.400 --> 01:37:21.640
+I'm not looking to be offensive. I really want to bring people together and get these sales done.
+
+01:37:21.640 --> 01:37:24.680
+I know, but 100% I see your vision. How do we do that?
+
+01:37:24.680 --> 01:37:30.920
+But somebody who cares... Well, don't say Jewish media and Jewish controlled media.
+
+01:37:30.920 --> 01:37:31.400
+JM.
+
+01:37:38.360 --> 01:37:44.520
+It sounds too much like 1930s Nazi Germany that was leading up to the atrocities.
+
+01:37:45.560 --> 01:37:46.440
+He would say JM?
+
+01:37:47.000 --> 01:37:56.120
+Yeah, he was a brand of JM. That's right. No, it's just the implied, this memeified
+
+01:38:00.920 --> 01:38:06.680
+prejudice towards a group in a way that's going to lead to hate. I know you don't mean that. I
+
+01:38:06.680 --> 01:38:08.840
+know you have love in your heart. That's what I'm trying to...
+
+01:38:08.840 --> 01:38:16.040
+You know what was the prejudice towards a group that led to hate? BLM. BLM took a black person,
+
+01:38:17.320 --> 01:38:28.440
+showed his death on camera because, okay, there are examples of us being killed and being killed
+
+01:38:28.440 --> 01:38:35.960
+on camera, but if it was spread on camera, it was done on purpose by the media because
+
+01:38:38.600 --> 01:38:47.240
+14, 20 kids get killed in Chicago every week and it's not spread that much. They, like you said,
+
+01:38:48.120 --> 01:38:57.560
+singled out a person, directed everything on that person as the martyr and raised the people that
+
+01:38:57.560 --> 01:39:04.200
+hadn't had any. We didn't have our 40 acres and a mule. We didn't have a lot of things that black
+
+01:39:04.200 --> 01:39:10.680
+people have not ever been given. So once we're given just a little bit, like your life matters,
+
+01:39:12.120 --> 01:39:22.280
+then we literally like, okay, now we're being hurt. But actually the death toll is up. The city
+
+01:39:23.240 --> 01:39:29.240
+where this happened, it's completely been turned to a war zone. It's actually something like
+
+01:39:29.240 --> 01:39:37.800
+Candace Owens can actually specify this better, but it's like its own city or something. They made
+
+01:39:37.800 --> 01:39:44.200
+it not be a part of the actual state or something. It's like DC and stuff. It's like Washington DC
+
+01:39:44.440 --> 01:39:51.480
+now and stuff. And that has to be from a government that's got
+
+01:39:53.400 --> 01:39:59.640
+higher level agenda written all over it. Yeah, they're using the death of an individual. Yeah,
+
+01:40:00.200 --> 01:40:06.120
+sure. The media are. Not the Jewish media, the media. And that's the media is fucked up. That
+
+01:40:06.120 --> 01:40:15.880
+machine takes whatever tragedy and pushes it towards whatever narrative that gets more clicks
+
+01:40:15.880 --> 01:40:20.440
+and views and so on. Sure. And then politicians do the same. They use the media, they influence
+
+01:40:20.440 --> 01:40:32.360
+the media to tell a story. This is a simple thing I'll put. I believe that the idea of anti-Semitism
+
+01:40:32.360 --> 01:40:47.480
+and the closeness of the Holocaust is used by certain individuals in media to not take
+
+01:40:47.480 --> 01:40:56.680
+accountability for the bad things that are happening. And what's happening is there's a
+
+01:40:56.680 --> 01:41:03.000
+new frontier, meaning it used to be okay for somebody to be a billionaire. We thought about
+
+01:41:03.000 --> 01:41:10.360
+a billionaire. A lot of times you think I'm actually being out of shape, 20 years ago,
+
+01:41:10.360 --> 01:41:15.000
+30 years ago, like Onassis or something. You thought about it a different way. Now you think
+
+01:41:15.000 --> 01:41:21.080
+about a billionaire, you think about Elon, think Kim, think Ye. You think it's a new kind of
+
+01:41:21.160 --> 01:41:25.960
+billionaire. It's not just Soros is a billionaire. It's a new form of billionaire. Well,
+
+01:41:27.160 --> 01:41:34.200
+right now what I'm calling for the industry is I'm calling the industry out and saying like, hey,
+
+01:41:34.920 --> 01:41:41.400
+it just so happens that there's been times where I had my lawyer was Jewish, my regulator was
+
+01:41:41.400 --> 01:41:47.400
+Jewish, but like eight people that basically would collude and talk without me were in groups
+
+01:41:48.120 --> 01:41:51.800
+saying, okay, this is what the tour is going to be. This is his next house. And they were making
+
+01:41:51.800 --> 01:41:56.200
+all these decisions and they're making all this money. And at the end, I was like, I ended my tour
+
+01:41:56.200 --> 01:42:00.680
+and I don't have the money. And it just so happens that that's the case that what they were. But what
+
+01:42:00.680 --> 01:42:07.560
+I'm saying is if everyone can say, hey, you can't point out this fact, or we're going to say you're
+
+01:42:07.560 --> 01:42:14.520
+anti-Semitic and we're going to call you Hitler. I feel that there has to be at least 1% of
+
+01:42:14.600 --> 01:42:22.840
+safeguarding the ability to screw the artists based on saying it's anti-Semitic by pointing
+
+01:42:22.840 --> 01:42:30.920
+out that they just so happen to all be Jewish. And I don't think that's anti-Semitism. I just think
+
+01:42:30.920 --> 01:42:37.560
+that's, hey, this is another thing. Like, okay, the Kardashians, when you hear that, do you think
+
+01:42:37.560 --> 01:42:43.080
+male or do you think female? You think female. You get what I'm saying? You think this is the
+
+01:42:43.080 --> 01:42:50.280
+reality. This is why rap works. They're going to make an anti-women thing in a second. And it's
+
+01:42:50.280 --> 01:42:56.280
+going to say, well, if you point out that these five women, six women are having a meeting on where
+
+01:42:56.280 --> 01:43:02.120
+the Christmas party is and none of the ballplayers or rappers that they have babies with have any say
+
+01:43:02.120 --> 01:43:07.480
+so, so that Christmas happened at Courtney's house all eight years when I was there. And it
+
+01:43:07.480 --> 01:43:14.200
+never happened at anyone else's black family house. Right. If I'm the one that pointed it out,
+
+01:43:14.200 --> 01:43:20.120
+they just don't have they don't have their or your anti-Semitic word to say, shut the
+
+01:43:20.120 --> 01:43:26.440
+fuck up. Yeah, but this is the way it runs. This is the way we want to do it. If you say that though
+
+01:43:26.440 --> 01:43:33.080
+that women are silencing the black voice, yes, you're going to get the same response, but
+
+01:43:33.720 --> 01:43:40.520
+especially if historically resonance the fact that it's true. When you talk in groups
+
+01:43:41.560 --> 01:43:47.160
+that breeds hate, when you talk about individuals, it solves problems. You're an
+
+01:43:47.160 --> 01:43:53.640
+engineering. OK, but this is something I pointed out on Pierce. I said if a black person gets pulled
+
+01:43:53.640 --> 01:44:00.440
+over with a car and it's three other people in the car, they're also going to jail. They're not going
+
+01:44:00.440 --> 01:44:07.000
+to single them out. They're going to say you guys are all in collusion. I just described collusion
+
+01:44:07.000 --> 01:44:15.720
+five times in this interview and you keep on going back to this is like 1930. This is like this. This
+
+01:44:15.720 --> 01:44:24.040
+is like that. What I'm saying is, look, I want to work with you as an engineer to free my people.
+
+01:44:24.040 --> 01:44:31.160
+Can we start as a being with engineer opportunities right here? I am sorry to the
+
+01:44:31.160 --> 01:44:41.400
+people who had to be hurt and affected by that. Now we are here and I'm looking to solve it,
+
+01:44:41.400 --> 01:44:46.520
+but what happens is every time if I talk to any of these business people one by one,
+
+01:44:46.520 --> 01:44:50.360
+because mind you, I didn't get to the tweet by not having a conversation.
+
+01:44:50.360 --> 01:44:55.640
+I had the conversations beforehand before I got to the tweet. Now we're going to take it to the
+
+01:44:55.640 --> 01:45:03.000
+stage. Now we're on the world stage and you saw Ari Emanuel do exactly the kind of thing
+
+01:45:03.000 --> 01:45:08.120
+that I was saying had been done behind closed doors. Now he's doing it in open doors.
+
+01:45:08.120 --> 01:45:15.480
+They told Candace Owens I couldn't be on the daily wire. You can't even explain yourself
+
+01:45:16.280 --> 01:45:20.920
+and we don't care how you got to that point either and that's fucked up.
+
+01:45:21.640 --> 01:45:23.640
+They told Candace you can't be on daily wire.
+
+01:45:24.840 --> 01:45:30.280
+Yes, she did. That's what they said. You know what? You can have my voice raised or lower.
+
+01:45:30.280 --> 01:45:36.840
+I'm going to do it lower because what's happening to me by I put in your words, the media is saying,
+
+01:45:38.040 --> 01:45:44.360
+not only can you not explain yourself, we don't care how you got to that point,
+
+01:45:44.360 --> 01:45:48.600
+you need to apologize and you can't explain and that's the end of the story.
+
+01:45:48.600 --> 01:45:54.360
+So just apologize so we can have Mel Gibson do some more films is exactly what Ari Emanuel
+
+01:45:54.360 --> 01:46:00.920
+was saying. No one is looking to change the problem that led so many people to that same
+
+01:46:00.920 --> 01:46:05.240
+level of frustration and I just so happen to be the one that's not going to back up on it
+
+01:46:05.240 --> 01:46:13.000
+until this changes because you know what? I'm sorry I had a sleepy text. I'm sorry. I'm sorry.
+
+01:46:13.560 --> 01:46:25.000
+I'm sorry that I put that I was 5'12 or 5'11 on Tinder. Okay, my cock is not 14 inches. I lied.
+
+01:46:25.000 --> 01:46:34.600
+Okay, it's only 13. So I'm sorry, right? Why are you dropping so many facts today?
+
+01:46:34.600 --> 01:46:39.800
+So what I'm saying is, but where do we get to this? Because even you, as engineering,
+
+01:46:39.800 --> 01:46:45.480
+as intelligent as you are, you, just like everyone else that I say was colluding,
+
+01:46:45.480 --> 01:46:50.760
+won't let us get to the point of fixing it. But I'm not, I think you're more powerful than
+
+01:46:50.760 --> 01:46:55.800
+the media. I'm not saying you need to apologize because the media, I'm saying everything we've
+
+01:46:55.800 --> 01:47:01.560
+been talking about just because I care for you and I want you to be the best possible man you can be.
+
+01:47:01.560 --> 01:47:06.360
+To me, a definition of a great man, I'm with Martin Luther King on this. You don't talk about
+
+01:47:06.360 --> 01:47:11.400
+Jews or black people. You talk about engineering. You talk about humanity. You solve problems.
+
+01:47:11.400 --> 01:47:15.720
+You identify the problems in the world and you don't come from a place of resentment.
+
+01:47:15.720 --> 01:47:21.480
+This group did this, this. Fuck all that. That is in the past. You just build solutions.
+
+01:47:22.040 --> 01:47:25.880
+I'm going to create a new record label. I'm going to create a new design firm. I'm going to create
+
+01:47:25.880 --> 01:47:29.560
+a new social network. I'm going to do it better. I'm going to do it right. I'm going to do it
+
+01:47:29.560 --> 01:47:33.640
+right by the people that I know don't have a voice. I'm going to give them a voice and talk
+
+01:47:33.640 --> 01:47:38.600
+about that. Is it okay to call out collusion? Do people collude in your business under you,
+
+01:47:38.600 --> 01:47:42.680
+like the engineers that come together and say, they collude against the bosses, right?
+
+01:47:42.680 --> 01:47:48.520
+You know why Bernardo Noh offered the deal and took it away from me? Collusion. Because I was
+
+01:47:48.520 --> 01:47:53.880
+too powerful with the collective that I had right there. He had to stop that at all costs. They said,
+
+01:47:53.880 --> 01:47:59.000
+for whatever reason, this kid, yay, it has the ability to have all of the Kardashians,
+
+01:47:59.560 --> 01:48:05.560
+Jay-Z and Beyonce, Justin Bieber, Demna, Virgil, all these people in the same room,
+
+01:48:05.560 --> 01:48:12.600
+working towards the same goal. I've been that person since preschool. That's called a leader,
+
+01:48:12.600 --> 01:48:21.400
+right? And right now, what I'm saying is, hey, for the people in business, whatever their background
+
+01:48:21.400 --> 01:48:27.400
+is, whether they turn their cell phones off on Friday or not, there's been some bad business
+
+01:48:27.400 --> 01:48:33.640
+done. There's some bad business practices. And we have to change that because this game is like
+
+01:48:33.640 --> 01:48:42.520
+boxing. More people end up retarded than rich. And I'm saying beat to a pulp, driven crazy,
+
+01:48:42.520 --> 01:48:46.600
+beat by the media to a pulp. Right now, the media has done everything they could
+
+01:48:47.240 --> 01:48:54.200
+to make me apologize and to make me look crazy. And that one person has done anything to find out
+
+01:48:54.200 --> 01:48:59.400
+why I was frustrated enough to do that tweet. And that's facts. And that's fucked up.
+
+01:49:00.360 --> 01:49:06.920
+Well, I am finding out. We found out. But I want solutions. See, there's something about human
+
+01:49:06.920 --> 01:49:12.360
+nature where if you focus too much on resentment... We're not focusing on anymore. Fuck the resentment.
+
+01:49:12.360 --> 01:49:17.320
+We're moving forward. Right. So there's two things, I think, that are required for... I mean,
+
+01:49:17.320 --> 01:49:21.800
+this is how I've lived my life, for great engineering. You surround yourself in your
+
+01:49:21.800 --> 01:49:28.200
+personal life by people you trust. And then in your professional life, from the engineer
+
+01:49:28.200 --> 01:49:33.640
+perspective, with a team, with an incredible team. And everything else doesn't matter. That
+
+01:49:33.640 --> 01:49:38.840
+allows you not to focus on other groups, how they're fucking you over, how they're trying
+
+01:49:38.840 --> 01:49:42.840
+to manipulate or collude and all that kind of stuff. You focus on solutions and you find a way
+
+01:49:42.840 --> 01:49:48.040
+around all the difficult shit. That's it. If you have people in your life you can trust.
+
+01:49:48.680 --> 01:49:54.360
+That's lifelong. You said some people you're with for the summer, for a year. Find people you can
+
+01:49:54.360 --> 01:50:00.120
+be with for your whole life. Do you have people in your life that you trust, really trust?
+
+01:50:01.160 --> 01:50:15.000
+No, I trust God. At any point, a human being... If I go and really treat this guy like a piece of
+
+01:50:15.720 --> 01:50:23.720
+shit, or do this, that, am I supposed to trust him to be loyal and stay in the situation? No,
+
+01:50:23.720 --> 01:50:28.680
+I trust people to be people. And people are flawed. And people can have the right intentions,
+
+01:50:28.680 --> 01:50:35.160
+but it only makes sense for us to work together when our agendas align. When Kim was pulled
+
+01:50:36.040 --> 01:50:44.120
+really far to the left, our agendas no longer aligned. So that made the marriage
+
+01:50:44.760 --> 01:50:49.000
+impossible. It aligned where it's like, oh, I could wear a red hat that can help her get
+
+01:50:49.000 --> 01:50:55.320
+Alice Johnson out of jail because Trump's willing to do that for my wife because I was the only
+
+01:50:55.320 --> 01:51:01.560
+person in my position that stood up and said, Wasek, I like you. But isn't the deeper agenda,
+
+01:51:01.560 --> 01:51:08.200
+the human agenda, just being in love? What you're talking about, red hat is just politics, right?
+
+01:51:08.200 --> 01:51:11.560
+I mean, the world is becoming more and more transactional every day. And actually,
+
+01:51:12.200 --> 01:51:17.560
+marriages are actually originally based on transactions. And that's why they're less
+
+01:51:17.560 --> 01:51:22.840
+needed, the more autonomous as we come, or the world makes it less needed. I feel like we do
+
+01:51:22.840 --> 01:51:29.160
+need each other. I feel like we do need someone we can always count on. It's like I'm, yay,
+
+01:51:29.160 --> 01:51:34.920
+pulled away by King Koopa, which is the media, the politics, the promise, oh, we're going to
+
+01:51:34.920 --> 01:51:42.840
+keep you safe. So the reason why I get really frustrated with Kris Jenner is she says losing
+
+01:51:42.840 --> 01:51:48.840
+Rob Kardashian was the greatest mistake of her life, but she never gave Kim's hand over in
+
+01:51:48.840 --> 01:51:55.320
+marriage because this is the bottom line. When me and Kim met, we were millionaires or whatever,
+
+01:51:55.320 --> 01:52:01.320
+right? You're telling me you just hand her hand over in marriage that your daughter's not
+
+01:52:01.320 --> 01:52:07.320
+successful, handing your hand over in marriage too. But no, she had to still be the husband
+
+01:52:07.320 --> 01:52:15.480
+to all of her daughters. And we see what the results are consistently. So that's where I get
+
+01:52:15.480 --> 01:52:22.840
+frustrated. It's like, let that go. Let this person do what you made mistakes on. Don't make
+
+01:52:22.840 --> 01:52:26.920
+this person relive those same mistakes and then put that agenda into my daughters too.
+
+01:52:27.400 --> 01:52:34.600
+Is there somebody in your life close to you that you trust enough to call you out on your
+
+01:52:34.600 --> 01:52:42.520
+bullshit? We're all full of shit sometimes. What's my bullshit? Well, some of it I pointed out today,
+
+01:52:42.520 --> 01:52:47.000
+but I don't know you deeply enough. What was the bullshit? Jewish media, Jewish. That's not
+
+01:52:47.000 --> 01:52:53.240
+bullshit. The bullshit is that the Jewish media won't admit. Your dad was right. Your dad was
+
+01:52:53.240 --> 01:52:58.840
+right. The words you used. You weren't- And I said it. You're not going to make me say it
+
+01:52:58.840 --> 01:53:05.480
+800 more times. I don't know if it resonated because you keep saying the words- Did it resonate to
+
+01:53:05.480 --> 01:53:09.800
+y'all that y'all ain't do nothing about it and that all y'all want to do is have somebody
+
+01:53:09.800 --> 01:53:16.040
+apologize and sweep under the rug your bullshit that you've been doing the whole time. You own
+
+01:53:16.040 --> 01:53:22.440
+the same bullshit as the other people. So you're doing the same thing that the other, let's say
+
+01:53:22.440 --> 01:53:28.600
+media because I'm not allowed to say, has done. So until somebody- Which is what, man? Which is
+
+01:53:28.600 --> 01:53:34.360
+what? I'm trying to call you out on your bullshit because I hope I'm somebody you can trust.
+
+01:53:34.360 --> 01:53:40.680
+I don't fucking trust you. Well, you should find people in your life you can trust. Don't tell me
+
+01:53:40.680 --> 01:53:47.880
+what I should do. I'm not one of your BLM marchers. Listen, I'm with you on the BLM. A lot of
+
+01:53:47.880 --> 01:53:56.520
+organizations use tragedy and I watched the Candace Owens documentary. And what was your take on it?
+
+01:53:57.480 --> 01:54:03.240
+I think it's important to question the mainstream narratives but I don't agree with it. I still
+
+01:54:03.240 --> 01:54:12.520
+believe that George Floyd died from the knee of the cop, not from fentanyl. And even if that was
+
+01:54:12.520 --> 01:54:17.080
+the case, there's still 50% of black deaths is actually abortion.
+
+01:54:20.600 --> 01:54:25.880
+So let's get into engineering. Let's just go- How do you fix that? Population control is social
+
+01:54:25.880 --> 01:54:34.920
+engineering in its most literal form. The blacks that are under population control,
+
+01:54:35.800 --> 01:54:40.920
+that's something that, I mean, that's just what it is. African Americans are not choosing to get
+
+01:54:40.920 --> 01:54:44.840
+the abortion. I mean, it's a choice. It's an individual choice. But we're being influenced to.
+
+01:54:46.360 --> 01:54:50.280
+Well, then speak to the community and help. I mean, I don't know what the engineering solutions
+
+01:54:50.280 --> 01:54:57.160
+there are. It could be you're doing that in part by speaking to the value and the power of family.
+
+01:54:57.160 --> 01:55:07.800
+Well, watch this. I was building shelters. I bought land in Calabasas. I bought two ranches
+
+01:55:07.800 --> 01:55:15.400
+in Wyoming, 300 acres in Calabasas, 12,000 acres in total in Wyoming. And I started building ideas
+
+01:55:15.400 --> 01:55:23.960
+for shelters. And God set it on my heart to make monasteries, which would be modern day facilities
+
+01:55:23.960 --> 01:55:33.320
+that don't turn people down, that have farms, that have shelter, clothing. But first of all,
+
+01:55:33.320 --> 01:55:40.520
+water. First of all, knowledge. Because knowledge is the most important resource to our species
+
+01:55:40.520 --> 01:55:47.240
+above water. Knowledge itself. Because then you can go get water. I mean, you can argue like if
+
+01:55:47.240 --> 01:55:53.160
+you're a baby, how do you get water? But the baby doesn't have it. So someone with the knowledge
+
+01:55:53.240 --> 01:56:03.720
+then feeds the baby the water. But it's important that those with the knowledge teach the baby
+
+01:56:03.720 --> 01:56:10.120
+how to find the water themselves. And the business people that I've been dealing with
+
+01:56:10.120 --> 01:56:15.960
+have been keeping the baby sick by not sharing the information and the knowledge
+
+01:56:16.040 --> 01:56:21.400
+with inside of those contracts. My people are sick. If I load up
+
+01:56:22.920 --> 01:56:30.360
+Apple Music right now and I play the top songs in the rap chart, I would tell you my people
+
+01:56:30.360 --> 01:56:37.320
+are sick. If I go to the restaurants and Opportunity Zones and we look at the calorie
+
+01:56:37.320 --> 01:56:44.040
+rating and the cholesterol, I will tell you that my people are sick. If we look at the obesity rate,
+
+01:56:44.760 --> 01:56:50.280
+if you go to just a restaurant somewhere in middle America, Denny's or something,
+
+01:56:50.280 --> 01:56:55.400
+I went to Denny's the other day, you will see that my people are sick and my people meaning all
+
+01:56:55.400 --> 01:57:04.280
+people. But black people are very influential to all people. So if the media picks an overweight
+
+01:57:04.280 --> 01:57:11.880
+black woman and says this is body goals, then the media are influencing my people to stay sick.
+
+01:57:12.600 --> 01:57:20.120
+And it just so happens that that night, I was so frustrated after 20 years
+
+01:57:21.240 --> 01:57:29.400
+that I had to call it out in one tweet that now, even if I say, hey, okay, I was frustrated for
+
+01:57:29.400 --> 01:57:36.040
+these reasons, now it's not good enough. You've literally tried to make me re-apologize 10 times
+
+01:57:36.040 --> 01:57:42.760
+in this meeting, re-say this, re-say that, but it doesn't change the fact that my people are sick
+
+01:57:42.760 --> 01:57:49.160
+and I'm the only person in my position that will say that my people are sick. Today, not 30 years
+
+01:57:49.160 --> 01:57:55.480
+ago, not 60 years ago, my people are sick today. 50% of my peoples of deaths are abortion today.
+
+01:57:55.480 --> 01:58:01.240
+My people don't have the opportunities today, even to the point that because if JP Morgan
+
+01:58:01.240 --> 01:58:05.720
+had been nice to me and if Alex Klein, a STEM player had been fair to me, different things,
+
+01:58:05.720 --> 01:58:09.160
+then I wouldn't even point it out that we don't have any black, we have two black engineers.
+
+01:58:09.800 --> 01:58:16.200
+So I have to have a responsibility, obviously to all people, but specifically to my tribe,
+
+01:58:16.200 --> 01:58:25.080
+because tribes move. Tribalism is real with black people. To separate the brightest from the tribe
+
+01:58:25.080 --> 01:58:31.080
+or to separate the leaders, it is factual that the CIA remove the leaders from the black community,
+
+01:58:31.080 --> 01:58:36.040
+put crack in the communities, put guns in the communities and locked up all the leaders and
+
+01:58:36.040 --> 01:58:40.440
+called them gang leaders, locked up all the leaders, locked up all the fathers. Now,
+
+01:58:40.440 --> 01:58:47.400
+72% of black mothers are raising children by themselves. This is a gender like a Tuskegee
+
+01:58:47.400 --> 01:58:54.120
+experiment set on my people. What I'm calling out for the black people in entertainment is,
+
+01:58:54.120 --> 01:59:00.600
+is what are we doing? We have to collude. And if we don't collude, because even if I said,
+
+01:59:00.600 --> 01:59:06.200
+hey, I'd like to make a company that's all black, right? Is that okay for me to say?
+
+01:59:07.240 --> 01:59:12.120
+Is that okay for me to say? Or is that anti-Semitic? See, if I hadn't crossed the
+
+01:59:12.120 --> 01:59:18.440
+line so far, then that would have sounded anti-Semitic. Now I've stretched a bit.
+
+01:59:18.440 --> 01:59:23.960
+So now we can go to, okay, let's make an all black company, but that would have been anti-Semitic.
+
+01:59:24.920 --> 01:59:28.840
+Just that concept, because you could word that in a different way that would sound anti-Semitic.
+
+01:59:29.720 --> 01:59:34.040
+I don't know, man. I have to be- No, no, listen. If you were, if I said I didn't want to have the
+
+01:59:34.040 --> 01:59:39.560
+Jewish people in the company, would that be anti-Semitic? It would sound like it, right?
+
+01:59:39.560 --> 01:59:45.160
+You'd say I'm from 1930s, right? Yeah. But for me as a tribe to say, no, I want an all black company,
+
+01:59:45.880 --> 01:59:50.520
+right? I'm generally against that kind of thing. But first of all, you have the right to do whatever
+
+01:59:50.600 --> 01:59:53.480
+the hell you want. This is America. Well, what I'm saying is that's what I feel
+
+01:59:54.200 --> 01:59:59.800
+may need to happen for my people to have power again, because when my people have been left
+
+01:59:59.800 --> 02:00:05.880
+under the media's control, we've been made sick. We've been allowed to be sick and we're promoting
+
+02:00:05.880 --> 02:00:13.320
+sickness. I think, at least in the engineering realm, I haven't met an engineer who happens to
+
+02:00:13.320 --> 02:00:18.200
+be black who would like to be called a black engineer. And when you have a company of all
+
+02:00:18.200 --> 02:00:23.400
+black people that are engineers, I don't know the creative arts, I apologize, but engineering,
+
+02:00:25.160 --> 02:00:31.640
+they really try to look at each other as humans and look at the problem. And you want to know,
+
+02:00:31.640 --> 02:00:36.840
+you want to have the confidence that everybody on the team is the best possible person for the job.
+
+02:00:36.840 --> 02:00:48.600
+What I can say is the world is sick and I have slight images of utopia,
+
+02:00:48.600 --> 02:00:55.480
+slight images of happiness, slight images as a visionary and a creator. And I know for
+
+02:00:55.480 --> 02:01:02.280
+fact, the way that business deals have been done for me are keeping the world sick.
+
+02:01:02.920 --> 02:01:10.600
+Fix them. I see that's what you're trying to do. And you probably, listen, people should not doubt,
+
+02:01:10.600 --> 02:01:18.600
+yay. But I got to tell you, I have to be honest. This is silly because you don't know me, but it
+
+02:01:18.600 --> 02:01:23.560
+hurt when you say you don't trust me. You kind of lost me. I don't think anyone's ever said that to
+
+02:01:23.960 --> 02:01:34.760
+me. I don't know, man. Fuck that. I don't care about views or clickbait or any of that bullshit.
+
+02:01:35.800 --> 02:01:41.240
+I just thought you were one of the greatest artists ever. It'd be cool to talk to you.
+
+02:01:41.240 --> 02:01:46.120
+And I just, I feel like you got pain you're working through. I never had anyone say that to me.
+
+02:01:46.840 --> 02:01:51.400
+Maybe I'm just being a mess about it, I guess. That's fucked up though. But maybe it's not.
+
+02:01:51.400 --> 02:01:54.280
+Maybe you shouldn't trust it. But I just haven't had that experience.
+
+02:01:55.000 --> 02:01:58.760
+Yeah. Do you think I would trust anybody at this point in my life?
+
+02:01:58.760 --> 02:02:05.720
+Yeah, it's tough. It's tough. It's tough. I hear you. And it's also kind of good to see how much
+
+02:02:05.720 --> 02:02:12.200
+strength you got. You're not broken by any of this. You're under a lot of attack. A lot of attack
+
+02:02:13.000 --> 02:02:18.360
+by a lot of people. You have a vision and you're trying to feel your way through it.
+
+02:02:18.440 --> 02:02:23.640
+And you might get destroyed for it. That's the risk you take.
+
+02:02:25.320 --> 02:02:29.000
+It's a wonderful life though. What do you hope your legacy is?
+
+02:02:29.800 --> 02:02:32.840
+To be forgotten. Do you think you'll be forgotten?
+
+02:02:33.640 --> 02:02:40.600
+Because the memory, there's ego in memory and the memories. Who designed the sidewalk?
+
+02:02:41.160 --> 02:02:45.080
+Who designed the water fountain? Who designed the stop sign? Who designed the
+
+02:02:45.640 --> 02:02:51.880
+stop light? These things are so ubiquitous that the person that designed them is forgotten.
+
+02:02:53.640 --> 02:03:00.920
+If it's a good idea, it's a God idea. And no VCs can own it.
+
+02:03:03.160 --> 02:03:09.400
+So you want your designs in all realms of life to be so simple that they
+
+02:03:09.400 --> 02:03:17.720
+permeate everything. They take over and you're forgotten. That's a successful design. You're
+
+02:03:17.720 --> 02:03:24.680
+forgotten. Yes. Do you have advice for people? A lot of young people look up to you. Do you
+
+02:03:24.680 --> 02:03:33.480
+have advice for young people of how to live a life they can be proud of? Don't tweet while you're
+
+02:03:33.480 --> 02:03:41.400
+sleepy. Take a nap? Surely there's other things. I love the humor. Don't take it seriously,
+
+02:03:41.400 --> 02:03:51.160
+I suppose is what that means. Don't send sleepy tweets. Unless you buy your own social platform
+
+02:03:51.160 --> 02:03:56.360
+the very next week called Parlor. But other than that, if you're not going to buy your own social
+
+02:03:56.360 --> 02:04:01.800
+platform, then don't. Is that why you bought parlors so you could be sleepy and send messages
+
+02:04:01.800 --> 02:04:05.720
+out into the wild? I actually am really interested in the engineering aspects of
+
+02:04:05.720 --> 02:04:10.600
+Parlor. Is there a vision there? Because I'm also super interested in Elon buying Twitter.
+
+02:04:10.600 --> 02:04:20.840
+I like Instagram better than Twitter. And I'm sure Mark Zuckerberg liked Instagram better than
+
+02:04:20.840 --> 02:04:28.120
+Facebook or saw how valuable that was and he bought it. So you'd like to take Parlor as
+
+02:04:28.120 --> 02:04:31.800
+something, whatever is the magic that makes Instagram work you want to push?
+
+02:04:31.800 --> 02:04:37.400
+I thought it was interesting how it felt like Snapchat made the Kardashians bully Instagram.
+
+02:04:38.680 --> 02:04:42.600
+What's the point of Snapchat going to war on Instagram?
+
+02:04:44.440 --> 02:04:49.000
+Everyone wants to say, well, this is our value Snapchat. No one wants to lose their value to
+
+02:04:49.000 --> 02:04:55.720
+someone else's value. And everything is just, what's the difference between permanent and
+
+02:04:55.720 --> 02:05:04.040
+temporary? Is this a permanent structure? Until God says it's not. Nothing's permanent. Our life
+
+02:05:04.040 --> 02:05:10.040
+is not permanent. So how do we just let go of those things? Even going from the name Kanye West
+
+02:05:10.040 --> 02:05:17.960
+to Ye was the beginning of just letting go of some things, of these titles. We need to remove
+
+02:05:17.960 --> 02:05:27.240
+the titles like, hey, if I have to leave Adidas and I have to go next computers, that may take
+
+02:05:27.240 --> 02:05:34.760
+me out of the billionaire standing altogether. And I got to get low for however long God says I have
+
+02:05:34.760 --> 02:05:43.240
+to get low and refocus. I've been reshaping, refocusing my staff. I had some people that
+
+02:05:43.240 --> 02:05:47.960
+were good and I had some people that weren't. I had too many people and I've got a vision inside
+
+02:05:47.960 --> 02:05:52.920
+of me and I'm like, this is how I make this vision. I have to bring this vision to life.
+
+02:05:54.120 --> 02:06:01.160
+I have to bring these houses to life. I was talking to one of our architects on,
+
+02:06:02.440 --> 02:06:08.280
+we're actually getting close on it. I've built it a few times. I had the domes you probably saw
+
+02:06:08.360 --> 02:06:16.120
+and I said how he transformed Kim's house and now we're getting there.
+
+02:06:16.760 --> 02:06:21.560
+So you won't get into architecture. You really want this to become physical reality.
+
+02:06:21.560 --> 02:06:25.160
+Yes, and I've got close. Rome wasn't built to today.
+
+02:06:25.160 --> 02:06:29.400
+Yeah, but Rome had to start somewhere. I got to call you out on the advice.
+
+02:06:29.400 --> 02:06:33.320
+There really is a lot of people that look up to you and you've lived a really difficult life
+
+02:06:33.320 --> 02:06:40.200
+and you made it through all of it. What do you advise them to do?
+
+02:06:40.200 --> 02:06:46.920
+Do everything that you feel, even if you are told that it's the wrong thing.
+
+02:06:47.480 --> 02:06:50.120
+No, no, no, no, no, but not anything violent.
+
+02:06:50.840 --> 02:06:54.440
+So do what you feel, say what you feel, like trust your heart.
+
+02:06:54.440 --> 02:07:01.080
+Yeah, trust your gut, trust your instincts because that instinct is who God made you to be.
+
+02:07:02.040 --> 02:07:09.080
+Not what lines up with your frat brothers or what lines up with what your dad wanted
+
+02:07:09.080 --> 02:07:15.960
+or what lines up with your classmates. It's just God has something inside of you
+
+02:07:15.960 --> 02:07:19.720
+and when you walk down the street, you're thinking about it and then you just see it in the window
+
+02:07:20.360 --> 02:07:23.720
+and you go down another street and you see the same thing or you're thinking about a number
+
+02:07:23.720 --> 02:07:27.480
+and that number pops up or you see it on a license plate and that's just
+
+02:07:28.440 --> 02:07:38.440
+you know, something is trying to say be the maximum, yay, you know, be the maximum you
+
+02:07:39.080 --> 02:07:47.480
+and God won't give you anything that you can't handle. So for me, everything is a yes.
+
+02:07:47.480 --> 02:07:51.000
+I think they say be like water. I know Bruce Lee said that.
+
+02:07:51.000 --> 02:08:00.600
+Or matter of fact, just be because we are beings with engineering opportunities.
+
+02:08:01.800 --> 02:08:09.240
+Beautifully put. Yay. I have hope, I have faith that however this turns out that
+
+02:08:10.120 --> 02:08:14.760
+you have the skill and the capacity to really add love to the world and I hope you do that.
+
+02:08:15.720 --> 02:08:20.280
+I really, really hope you do that and we talked about the tension of that,
+
+02:08:20.280 --> 02:08:27.160
+the challenges and the opportunities of that. I mean, I see how we could be of use to each other.
+
+02:08:27.160 --> 02:08:34.200
+You actually have a particular thing for me as I eject from media because even also, you know,
+
+02:08:34.200 --> 02:08:39.400
+I'm really big at like, you know, burning the Phoenix too. All you know is the engineer that
+
+02:08:39.720 --> 02:08:44.840
+your cells completely regenerate every seven years. I think I rushed the process a little
+
+02:08:44.840 --> 02:08:49.960
+bit so I run around looking like a burn victim sometimes. Yeah. But I got to tell you, anyone I
+
+02:08:50.680 --> 02:08:54.520
+am close with, I work with, there has to be trust, there has to be love
+
+02:08:55.080 --> 02:08:57.640
+and I think you've been burned quite a bit in your life.
+
+02:08:59.160 --> 02:09:02.440
+Sometimes I did it myself. I put my hand on the stove.
+
+02:09:02.440 --> 02:09:09.720
+So how do we get to engineering? There's a deal to be done here. Not saying you're making this
+
+02:09:09.720 --> 02:09:13.160
+money off of that, I'm making that money off, but there's- I don't care about money by the way.
+
+02:09:13.160 --> 02:09:20.840
+Same, twins. So there's dealings here. You got pain, I got pain, but we're beings with
+
+02:09:20.840 --> 02:09:25.160
+engineering opportunities. For a long time, I thought somebody should create a new social
+
+02:09:25.160 --> 02:09:32.120
+network and it looks like great engineering could do that. You got two at one time from two of your
+
+02:09:32.120 --> 02:09:37.240
+homeboys at one time. Yeah. And that's a great way to- I mean, every- it can be done from scratch
+
+02:09:37.240 --> 02:09:43.160
+or it can be done anew with an already established platform. Yeah. I'm very excited by that
+
+02:09:43.160 --> 02:09:50.040
+possibility. Parler is smaller, Twitter is larger. I wonder whether you can do any kind of
+
+02:09:50.040 --> 02:09:55.960
+revolutionary engineering with a large company. If anyone can, I would say it's Elon. Well, Elon
+
+02:09:55.960 --> 02:10:01.720
+can look at what we do over here. That's why I like- God does this a lot of times.
+
+02:10:03.320 --> 02:10:10.760
+He creates doppelgangers. There's a lot of examples where theory happen two places at one time,
+
+02:10:10.760 --> 02:10:16.280
+a really similar type of personality happens at one time. It's weird. It's beautiful. It's
+
+02:10:16.280 --> 02:10:22.680
+hilarious actually. Yeah. It's kind of humorous. So we should just share
+
+02:10:23.080 --> 02:10:30.840
+every piece of information together. As I go build Parler and as he builds up Twitter and see how to
+
+02:10:30.840 --> 02:10:36.360
+make both those better, but I'll be like, hey, I'm not going to let Snapchat bully me out of
+
+02:10:37.400 --> 02:10:44.920
+adding something to it that's best. It should just be the best platform possible. That means
+
+02:10:45.560 --> 02:10:53.560
+that TikTok has amazing features. Twitter has amazing things about it. I know this girl that's
+
+02:10:53.560 --> 02:11:00.520
+like, I like Instagram better than Twitter. She likes that Twitter has porn, but other than that,
+
+02:11:00.520 --> 02:11:06.360
+Instagram. But I was like, well, Instagram is porn also. It's soft. It's more subtle. It's not
+
+02:11:06.360 --> 02:11:14.760
+telling you. It's not conservative by any means. That's the thing. You have to please
+
+02:11:14.760 --> 02:11:22.200
+a lot of people with these platforms. And I think the goal of a platform should be to help
+
+02:11:22.200 --> 02:11:32.200
+individuals maximize their long-term happiness and growth, like intellectually, spiritually,
+
+02:11:32.200 --> 02:11:36.760
+psychologically, all of that. And it's a tricky thing to figure out how to do that. Of course,
+
+02:11:36.760 --> 02:11:40.680
+you could just have a platform that's just strictly for fun. I think that's where TikTok leans,
+
+02:11:41.640 --> 02:11:48.520
+but I think there's a balance to strike. There's a lot of intellectual philosophical stuff going
+
+02:11:48.520 --> 02:11:53.160
+on on Twitter, but it somehow currently makes it too easy to be divisive and hateful towards
+
+02:11:53.160 --> 02:11:57.480
+each other and cancel and all that kind of stuff. I think we need to have these healthy
+
+02:11:57.480 --> 02:12:02.760
+conversations. That's what it is, healthy conversations, healthy dialogues. That's the
+
+02:12:02.760 --> 02:12:09.960
+biggest thing. When I first wore the red hat, the conversation is less healthy than it is today.
+
+02:12:11.640 --> 02:12:17.960
+The conversation about George Floyd, it's like, did I send the tweet the right way?
+
+02:12:18.600 --> 02:12:25.720
+Did? Is Candace Owen's documentary perfect? Is Michael Moore's documentary perfect? Is
+
+02:12:25.720 --> 02:12:33.800
+Century Self, is it fully accurate? It's two to three hours of a transmit of information through
+
+02:12:34.520 --> 02:12:42.280
+particularly, usually one person's view. Anything you want to research if you're interested in it,
+
+02:12:43.640 --> 02:12:50.520
+you got to look at 10 versions of it, 20 versions of it. George Floyd, we've looked at one version
+
+02:12:50.520 --> 02:12:58.600
+of that. Now we have a second. By the time we get to the... I know this is like,
+
+02:12:59.560 --> 02:13:05.720
+it's not my last hoodie, but it's definitely not my first hoodie that I put on. That's how we got
+
+02:13:05.720 --> 02:13:15.400
+to it. Even this particular size of zipper or the fact that for people who know, they know that
+
+02:13:15.400 --> 02:13:22.280
+it's Carhartt, even though the Carhartt tag isn't there anymore, you just know by the shape of it
+
+02:13:22.360 --> 02:13:28.120
+you feel it. It abstracts. It takes into this Cubist place like Picasso, Matisse or African
+
+02:13:28.120 --> 02:13:33.320
+Cubism or Dire Straits. Money for nothing and your chicks for free. Look at that.
+
+02:13:34.200 --> 02:13:37.560
+I wouldn't think you could reference Dire Straits. Look at you.
+
+02:13:37.560 --> 02:13:38.520
+That video.
+
+02:13:38.520 --> 02:13:43.240
+Yeah, I know. It's a great video. Your encyclopedic knowledge of music is great.
+
+02:13:43.240 --> 02:13:51.720
+I think that porn is not just sexual. That term actually relates to torture. You know what I'm
+
+02:13:51.800 --> 02:13:58.200
+saying? Watching people beat each other up on Worldstar or something. That's called torture
+
+02:13:58.200 --> 02:14:02.600
+porn. There's also food porn. How do you explain that? What's food porn?
+
+02:14:02.600 --> 02:14:07.560
+Food porn is looking at really delicious cakes and cookies and steak and so on and you're like,
+
+02:14:07.560 --> 02:14:12.920
+holy shit. Exactly. Architecture. There's people who love architecture. When they see architecture,
+
+02:14:12.920 --> 02:14:17.080
+I know... I got friends who'll be like, oh, that's porn. Architecture.
+
+02:14:17.080 --> 02:14:27.000
+Yeah. That's like love, like dopamine-fueled love for a thing. That's beautiful. I think
+
+02:14:27.000 --> 02:14:30.200
+that's beautiful. As long as nobody's getting hurt.
+
+02:14:30.200 --> 02:14:38.520
+The intoxication that people have. The worst part is when one person's in love and the other
+
+02:14:38.520 --> 02:14:39.320
+person's in like...
+
+02:14:40.840 --> 02:14:41.800
+That's us right now.
+
+02:14:43.080 --> 02:14:44.120
+Well, who's in like?
+
+02:14:44.120 --> 02:14:46.840
+No, because you said you love Bill Maher and you like me.
+
+02:14:49.720 --> 02:14:51.480
+And I love you, so that was...
+
+02:14:51.480 --> 02:14:53.000
+No, I actually love you both.
+
+02:14:54.520 --> 02:15:07.480
+And the funny thing is as a visionary, visionaries are more extreme than business people
+
+02:15:07.880 --> 02:15:15.720
+because a visionary would do bad business for their vision. A business person will never do
+
+02:15:15.720 --> 02:15:20.600
+bad business. It's well put. Yeah, it's really well put. So when you say, I don't care about
+
+02:15:20.600 --> 02:15:25.960
+money, it's like, yeah, I feel you. I feel that I care in a way that I need that, but
+
+02:15:26.200 --> 02:15:38.600
+I care about the vision that I have to a Steve Jobs level, to the point of putting that above
+
+02:15:40.600 --> 02:15:47.880
+my regular human existence, meaning having to go and take all the arrows that I become
+
+02:15:47.960 --> 02:15:53.800
+having to go and take all the arrows that I become a soldier of the vision.
+
+02:15:54.440 --> 02:16:00.440
+Because someone could say, a wife could say to like, say like in the 60s,
+
+02:16:01.800 --> 02:16:08.280
+their husband's about to go to war. The wife may not want their husband to go to war
+
+02:16:09.800 --> 02:16:14.920
+because of their children, but he's going to war
+
+02:16:14.920 --> 02:16:17.000
+because of their children.
+
+02:16:19.000 --> 02:16:22.840
+Definitely. Do you regret any aspect of just giving everything to your vision?
+
+02:16:23.560 --> 02:16:26.840
+I mean, you've spoken about that saying like, I got fucked over in the business side.
+
+02:16:27.560 --> 02:16:32.440
+I promise that I had to stop envying
+
+02:16:36.680 --> 02:16:41.080
+cool people at their current cool time.
+
+02:16:41.560 --> 02:16:43.000
+At their current cool time.
+
+02:16:44.600 --> 02:16:51.640
+If anything, if someone's cool, and I say their name a lot, I'm going to flash
+
+02:16:52.840 --> 02:16:59.080
+the light on them so much that it ages their coolness. It's actually a war technique.
+
+02:17:00.920 --> 02:17:02.040
+Showered in compliments.
+
+02:17:02.600 --> 02:17:03.100
+Yeah.
+
+02:17:05.560 --> 02:17:13.400
+To be able to stay at 45 years old to still be the bad kid in class, at 45, I'm still in the
+
+02:17:13.400 --> 02:17:20.040
+principal's office. Because if you look at like, say fashion, if you think of something fashionable,
+
+02:17:20.040 --> 02:17:25.320
+it's probably going to look like the kid in the principal's office. That's going to be the
+
+02:17:25.320 --> 02:17:32.280
+fashion. That's part of the reason why I'm the most influential person in fashion, because I
+
+02:17:32.280 --> 02:17:38.760
+refuse to leave the principal's office. If the substitute teacher comes in, I'm going to say,
+
+02:17:38.760 --> 02:17:40.040
+you got a big butt.
+
+02:17:43.720 --> 02:17:45.480
+Right back to the principal's office.
+
+02:17:45.480 --> 02:17:50.760
+People are going to be like, yo. That's what you keep on saying. Who can we talk to?
+
+02:17:51.640 --> 02:18:00.120
+Because no one can talk to me. I'm out of control, bro. It's just God, then me, and then
+
+02:18:00.840 --> 02:18:06.600
+fuck everybody. That's really how I live my life. I just want to say this one thing about
+
+02:18:06.600 --> 02:18:10.840
+the children thing. I wanted to put that point together, put that idea together. I don't like
+
+02:18:10.840 --> 02:18:15.800
+the word point. I'm really big on words, words being powerful, says the person with the sleepy
+
+02:18:15.800 --> 02:18:19.000
+tweet. You're full of contradictions.
+
+02:18:19.720 --> 02:18:26.200
+Yeah, I'm a human being. Some days I'm like, I could go 30 days and be celibate. Really,
+
+02:18:26.200 --> 02:18:33.880
+I'm a monk. I'm being faithful to God, and then I'll go working out. No carbs. My weight will
+
+02:18:33.880 --> 02:18:39.080
+fluctuate. I'll have times I'm like, I don't feel like being told what to do, so I don't want to
+
+02:18:39.080 --> 02:18:43.960
+work out with a trainer, and I just want to drink this Hennessy. But I want to say this thing that
+
+02:18:43.960 --> 02:18:54.120
+I will text to Kim sometimes. I'll say, you may not understand what I'm doing right now,
+
+02:18:54.680 --> 02:19:00.840
+but you will. And that's what I would say to everyone. You may not understand what I'm doing.
+
+02:19:00.840 --> 02:19:05.720
+And this gives a little bit, maybe we're like 20% there, but there's still going to be people,
+
+02:19:05.720 --> 02:19:09.640
+we leave this interview, and they'll be like, I still don't like the way they apologize. I
+
+02:19:09.640 --> 02:19:15.800
+still don't want to say what my involvement would have been to lead them to that point.
+
+02:19:15.800 --> 02:19:19.960
+And we just want things to be how they are. There's people in the world who want the world
+
+02:19:19.960 --> 02:19:25.480
+to stay as it is, and there's people who want to change the world. And that's happened throughout
+
+02:19:25.480 --> 02:19:31.480
+time. They say that with DaVinci, halfway into a conversation, he could not suffer fools so much
+
+02:19:31.480 --> 02:19:38.440
+that he would walk away halfway into the conversation. And I said, well, that's why
+
+02:19:39.720 --> 02:19:47.480
+it's the DaVinci Code and not the DaVinci world. And every time I go and piss off a group of people
+
+02:19:47.480 --> 02:19:53.640
+or do these things, on some end, it's like, I could be turning my thing from a potential
+
+02:19:53.640 --> 02:20:00.440
+world vision to a code, or I could be opening up conversations with new friends that I may trust
+
+02:20:00.440 --> 02:20:07.400
+someday. Yeah, that's beautiful. That's beautiful. Because the change you will have on the world that
+
+02:20:07.400 --> 02:20:14.280
+you don't know for sure, but it will happen across years, even decades. So you have to think in the
+
+02:20:14.280 --> 02:20:19.320
+future. You're working in the future. Your actions are working in the future. And a lot of people
+
+02:20:19.320 --> 02:20:23.720
+will judge this conversation and others you've done and so on in the present, and that doesn't
+
+02:20:23.720 --> 02:20:27.960
+matter. You know why I apologize, why I say I'm sorry to the Jewish people that I hurt?
+
+02:20:28.760 --> 02:20:36.680
+It's not about, like I said, I'm not going to hold this apology hostage, right? Obviously,
+
+02:20:36.680 --> 02:20:41.480
+it's about God, but God is everything, right? So what's the point of having language? You can't
+
+02:20:41.480 --> 02:20:48.680
+engineer if you say, God, God, God, right? It's like, God asks us to be judgmental so that you
+
+02:20:48.680 --> 02:20:54.040
+become, if you're a doctor, right? It's your judgment that saves grandma, right? And God puts
+
+02:20:54.040 --> 02:20:59.800
+that in this. We have God inside us. We're a piece of God also, right? So I'm going to
+
+02:20:59.800 --> 02:21:08.760
+go specific to a person. That story about DaVinci alone is enough of a reason for me to give a
+
+02:21:08.760 --> 02:21:16.280
+sincere apology to the Jewish people. Because I do believe that there's a DaVinci code inside of all
+
+02:21:16.280 --> 02:21:24.440
+of my misspellings and scribbles right here that God wants me to get to the world. And
+
+02:21:25.640 --> 02:21:31.720
+when I'm in my way, if God has set something on me, when I'm in my way, I'm in God's way.
+
+02:21:31.720 --> 02:21:35.800
+Now, I can point at other people and say, hey, you guys are in God's way because you're not
+
+02:21:35.800 --> 02:21:42.760
+listening to me. But if I'm in my way, I'm not listening to God. And for me to be a philosopher
+
+02:21:42.760 --> 02:21:49.080
+and a leader or whatever other language, I have to listen to God. So before God, what I would do
+
+02:21:49.080 --> 02:21:56.920
+is start off as a samurai and say, I'm sorry for hurting you as a Jewish person. I'm sorry for the
+
+02:21:56.920 --> 02:22:04.360
+way that made you feel. And I'm sorry for the entire population of a race that I feel is actually
+
+02:22:04.360 --> 02:22:10.360
+my brothers because I classify and feel that I'm also connected with Christ in that way,
+
+02:22:10.360 --> 02:22:15.880
+that my people came from Africa in that way. And I can't say it's this exact teaching or
+
+02:22:15.880 --> 02:22:21.320
+that exact teaching, but I feel that there's an important, the sons of Abraham, however we want
+
+02:22:21.320 --> 02:22:27.640
+to word it, for us to come together and bring our different talents together to serve God
+
+02:22:27.640 --> 02:22:36.440
+collectively. And he, as much of an alien as I am, he did not call for me to alienate.
+
+02:22:36.520 --> 02:22:43.080
+And that's what the problem has been, especially in politics and in America. He plays America
+
+02:22:43.080 --> 02:22:49.080
+as the TV, as the radio to the world. We invented rock and roll. We are the influencers of the rest
+
+02:22:49.080 --> 02:22:55.960
+of the planet. We're the youngest startup in history. We're the youngest country. We're the
+
+02:22:55.960 --> 02:23:02.760
+youngest superpower. So for me in my position, the fact that I can talk to Trump one day and be at a
+
+02:23:02.760 --> 02:23:09.400
+game with Kim Kardashian the next day and then be at Paris Fashion Week, they don't want me to be
+
+02:23:09.400 --> 02:23:18.120
+involved with language of decisive, divisive language, proving that I can be just as racist
+
+02:23:18.120 --> 02:23:25.400
+as a racist white person. Oh, I can be a racist black person also. That's not what God has called
+
+02:23:25.400 --> 02:23:34.520
+me to do. So how do I simplify and say, hey, to you as a visionary, as an engineer, as a person
+
+02:23:34.520 --> 02:23:40.360
+that's given me a platform, that as my brother, I want to apologize to you for how that made you
+
+02:23:40.360 --> 02:23:47.000
+feel and to the rest of the people that carry specifically that pain, not the pain that I
+
+02:23:47.000 --> 02:23:52.600
+talk about that doesn't seem to be as much of a pain for people when I talk about the abortion
+
+02:23:52.600 --> 02:23:58.440
+clinics and stuff. That's the argued pain even in my own community. Not everyone thinks that's a
+
+02:23:58.440 --> 02:24:08.840
+pain, but for the Jewish community, it's collectively this was a pain and I've gone so far just
+
+02:24:08.840 --> 02:24:15.800
+psychologically on this journey since that statement had happened where I didn't want to give up the
+
+02:24:15.800 --> 02:24:21.320
+candy in my pocket. I didn't want to say, hey, I stuck my hand in a candy jar. I wanted to defend
+
+02:24:21.320 --> 02:24:25.880
+my freedom of speech. I wanted this, but even with freedom of speech, pain is pain.
+
+02:24:25.880 --> 02:24:32.440
+Causing people to hurt is not helping. Causing people to hurt is not helping. So that means
+
+02:24:32.440 --> 02:24:41.080
+I have to take a more sophisticated approach to engineering this problem. This problem is the
+
+02:24:41.080 --> 02:24:49.080
+opportunity. And yes, that what could some people may deem as a mistake. Would it be more genuine
+
+02:24:49.080 --> 02:24:57.240
+if I called it a mistake? I think I would be hypocritical by calling it a mistake with the
+
+02:24:57.240 --> 02:25:02.200
+ending of the idea I'm going to say out loud. I don't try to be a hypocrite on purpose,
+
+02:25:04.120 --> 02:25:13.160
+but I will call it a mistake to be genuine about the feeling. With that mistake,
+
+02:25:14.120 --> 02:25:22.600
+with me as a human being, not to justify, but I have to state that God makes no mistakes because
+
+02:25:22.600 --> 02:25:28.120
+if I hadn't made that mistake, I wouldn't be in front of you today. And that's not to justify
+
+02:25:29.080 --> 02:25:36.680
+this sleepy text. But I can tell you're a man that has love in his heart. And I hear that,
+
+02:25:36.680 --> 02:25:42.120
+I hear it through the words explicitly and implicitly. And I think if we were to engineer
+
+02:25:42.120 --> 02:25:48.680
+a better future, the way to do that is with love. So as one human to another, I love you, brother.
+
+02:25:48.680 --> 02:25:55.000
+Thank you for talking today. This is great. I like you too. Son of a bitch.
+
+02:26:12.120 --> 02:26:20.520
+Thank you for listening and hope to see you next time.
+

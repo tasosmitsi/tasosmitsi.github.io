@@ -1,0 +1,5987 @@
+WEBVTT
+
+00:00.000 --> 00:02.740
+The following is a conversation with Jo Bowler,
+
+00:02.740 --> 00:04.820
+a mathematics educator at Stanford
+
+00:04.820 --> 00:08.100
+and co-founder of ucubed.org
+
+00:08.100 --> 00:10.100
+that seeks to inspire young minds
+
+00:10.100 --> 00:12.540
+with the beauty of mathematics.
+
+00:12.540 --> 00:14.060
+To support this podcast,
+
+00:14.060 --> 00:17.140
+please check out our sponsors in the description.
+
+00:17.140 --> 00:19.340
+This is the Lex Fridman podcast,
+
+00:19.340 --> 00:22.420
+and here is my conversation with Jo Bowler.
+
+00:23.620 --> 00:27.180
+What to you is beautiful about mathematics?
+
+00:27.180 --> 00:29.800
+I love a mathematics
+
+00:29.800 --> 00:32.720
+that some people don't even think of as mathematics,
+
+00:32.720 --> 00:37.620
+which is beautiful, creative mathematics,
+
+00:37.620 --> 00:39.520
+where we look at maths in different ways,
+
+00:39.520 --> 00:41.240
+we visualize it,
+
+00:41.240 --> 00:44.680
+we think about different solutions to problems.
+
+00:44.680 --> 00:46.980
+A lot of people think of maths as
+
+00:46.980 --> 00:49.560
+you have one method and one answer.
+
+00:49.560 --> 00:51.160
+And what I love about maths
+
+00:51.160 --> 00:54.000
+is the multiple different ways you can see things,
+
+00:54.000 --> 00:56.780
+different methods, different ways of seeing different,
+
+00:56.780 --> 00:59.180
+in some cases, different solutions.
+
+00:59.180 --> 01:02.140
+So that is what is beautiful to me about mathematics,
+
+01:02.140 --> 01:05.800
+that you can see and solve it in many different ways.
+
+01:05.800 --> 01:10.000
+And also the sad part that many people think
+
+01:10.000 --> 01:13.820
+that maths is just one answer and one method.
+
+01:13.820 --> 01:16.340
+So to you, the beauty emerges
+
+01:16.340 --> 01:18.560
+when you have a problem with a solution
+
+01:18.560 --> 01:21.100
+and you start adding other solutions,
+
+01:21.100 --> 01:24.700
+simpler solutions, weirder solutions,
+
+01:24.700 --> 01:26.500
+more interesting, some that are visual,
+
+01:27.100 --> 01:30.140
+some of their algebraic, geometry, all that kind of stuff.
+
+01:30.140 --> 01:32.300
+Yeah, I mean, I always say
+
+01:32.300 --> 01:35.380
+that you can take any maths area and make it visual.
+
+01:35.380 --> 01:38.100
+And we say to teachers, give us your most dry,
+
+01:38.100 --> 01:41.700
+boring maths and we'll make it a visual,
+
+01:41.700 --> 01:43.240
+interesting, creative problem.
+
+01:43.240 --> 01:46.940
+And turns out you can do that with any area of maths.
+
+01:46.940 --> 01:49.640
+And I think we've given,
+
+01:49.640 --> 01:51.720
+it's been a great disservice to kids and others
+
+01:51.720 --> 01:56.140
+that it's always been numbers, lots and lots of numbers,
+
+01:56.700 --> 01:58.660
+numbers can be great, but you can think about maths
+
+01:58.660 --> 02:01.040
+in other ways besides numbers.
+
+02:01.040 --> 02:05.100
+Do you find that most people are better visual learners?
+
+02:05.100 --> 02:07.580
+Or is this just something that's complimentary?
+
+02:08.380 --> 02:11.060
+What's the kind of the full spectrum of students
+
+02:11.060 --> 02:13.380
+in the way they like to explore math, would you say?
+
+02:13.380 --> 02:17.500
+There's definitely people who come into the classes I do
+
+02:17.500 --> 02:19.760
+who are more interested in visual thinking
+
+02:19.760 --> 02:21.960
+and like visual approaches.
+
+02:21.960 --> 02:24.680
+But it turns out what the neuroscience is telling us
+
+02:24.680 --> 02:26.700
+is that when we think about maths,
+
+02:26.700 --> 02:29.160
+there are two visual pathways in the brain
+
+02:29.160 --> 02:32.760
+and we should all be thinking about it visually.
+
+02:32.760 --> 02:34.760
+Some approaches have been to say, well,
+
+02:34.760 --> 02:37.400
+you're a visual learner, so we'll give you visuals
+
+02:37.400 --> 02:40.620
+and you're not a visual learner.
+
+02:40.620 --> 02:45.120
+But actually, if you think you're not a visual learner,
+
+02:45.120 --> 02:48.880
+it's probably more important that you have a visual approach
+
+02:48.880 --> 02:51.560
+so you can develop that part of your brain.
+
+02:51.560 --> 02:52.900
+So you were saying that there's some kind
+
+02:52.900 --> 02:54.520
+of interconnected aspect to it.
+
+02:55.360 --> 02:56.680
+So the visual connects with the non-visual.
+
+02:56.680 --> 02:59.840
+Yeah, so this is what the neuroscience has shown us,
+
+02:59.840 --> 03:01.160
+that when you work on a maths problem,
+
+03:01.160 --> 03:03.480
+there are five different brain pathways
+
+03:03.480 --> 03:06.720
+and that the most high achieving people in the world
+
+03:06.720 --> 03:08.420
+are people who have more connections
+
+03:08.420 --> 03:10.460
+between these pathways.
+
+03:10.460 --> 03:13.840
+So if you see a maths problem with numbers,
+
+03:13.840 --> 03:15.880
+but you also see it visually,
+
+03:15.880 --> 03:17.980
+that will cause a connection to happen in your brain
+
+03:17.980 --> 03:19.860
+between these pathways.
+
+03:19.860 --> 03:22.080
+And if you maybe write about it with words,
+
+03:22.080 --> 03:23.380
+that would cause another connection
+
+03:23.380 --> 03:26.460
+or maybe you build it with something physical
+
+03:26.460 --> 03:28.380
+that would cause a different connection.
+
+03:28.380 --> 03:31.060
+And what we want for kids is,
+
+03:31.060 --> 03:33.620
+we call it a multi-dimensional experience of maths,
+
+03:33.620 --> 03:35.500
+seeing it in different ways,
+
+03:35.500 --> 03:37.860
+experiencing it in different ways,
+
+03:37.860 --> 03:40.620
+that will cause that great connected brain.
+
+03:40.620 --> 03:43.300
+You know, there's these stories of physicists doing the same.
+
+03:43.300 --> 03:46.220
+I find physicists are often better at building
+
+03:46.220 --> 03:49.020
+that part of their brain of using visualization
+
+03:49.020 --> 03:50.620
+for intuition building,
+
+03:50.660 --> 03:53.060
+because you ultimately want to understand
+
+03:54.380 --> 03:57.100
+the deepest secret underneath this problem.
+
+03:57.100 --> 03:59.820
+And for that, you have to intuit your way there.
+
+03:59.820 --> 04:02.780
+And you mentioned offline that one of the ways
+
+04:02.780 --> 04:03.700
+you might approach a problem
+
+04:03.700 --> 04:05.900
+is to try to tell a story about it.
+
+04:05.900 --> 04:07.820
+And some of it is like legend,
+
+04:07.820 --> 04:10.580
+but I'm sure it's not always,
+
+04:10.580 --> 04:14.940
+is you know, you have Einstein thinking about a train,
+
+04:14.940 --> 04:16.720
+you know, and the speed of light,
+
+04:16.720 --> 04:20.020
+and you know, that kind of intuition is useful.
+
+04:20.380 --> 04:22.980
+And you start to like imagine a physical world,
+
+04:22.980 --> 04:25.500
+like how does this idea manifest itself
+
+04:25.500 --> 04:26.340
+in the physical world,
+
+04:26.340 --> 04:28.860
+and then start playing in your mind with that physical world
+
+04:28.860 --> 04:30.260
+and think, is this going to be true?
+
+04:30.260 --> 04:31.540
+Is this going to be true?
+
+04:31.540 --> 04:32.380
+Right.
+
+04:32.380 --> 04:35.860
+Einstein is well known for thinking visually.
+
+04:35.860 --> 04:40.420
+And people talk about how he really didn't want to go
+
+04:40.420 --> 04:43.300
+anywhere with problems without thinking about them visually.
+
+04:43.300 --> 04:44.820
+But the other thing you mentioned
+
+04:44.820 --> 04:48.820
+that sparked something for me is thinking with intuition,
+
+04:48.820 --> 04:51.420
+like having intuition about maths problems.
+
+04:51.420 --> 04:54.100
+That's another thing that's often absent in maths class,
+
+04:54.100 --> 04:55.860
+the idea that you might think about a problem
+
+04:55.860 --> 05:00.820
+and use your intuition, but so important.
+
+05:00.820 --> 05:02.860
+And when mathematicians are interviewed,
+
+05:02.860 --> 05:05.220
+they will very frequently talk about the role of intuition
+
+05:05.220 --> 05:07.220
+in solving problems,
+
+05:07.220 --> 05:12.220
+but not commonly acknowledged or brought into education.
+
+05:13.000 --> 05:13.840
+Yeah.
+
+05:13.840 --> 05:14.700
+I mean, that's what it is.
+
+05:14.740 --> 05:18.020
+Like if you task yourself
+
+05:18.020 --> 05:21.340
+with building an intuition about a problem,
+
+05:21.340 --> 05:23.700
+that's where you start to pull in,
+
+05:23.700 --> 05:27.180
+like what is the pattern I'm seeing?
+
+05:27.180 --> 05:28.580
+And in order to understand the pattern,
+
+05:28.580 --> 05:31.780
+you might want to then start utilizing visualization.
+
+05:31.780 --> 05:34.100
+But ultimately, that's all in service
+
+05:34.100 --> 05:38.860
+of like solving the puzzle, like cracking it open,
+
+05:38.860 --> 05:40.380
+to get the simple explanation
+
+05:40.380 --> 05:43.780
+of why things are the way they are,
+
+05:43.980 --> 05:46.180
+as opposed to, like you said,
+
+05:46.180 --> 05:47.620
+having a particular algorithm
+
+05:47.620 --> 05:50.180
+that you can then execute to solve the problem.
+
+05:50.180 --> 05:51.820
+Yeah, but it's hard, it's hard.
+
+05:51.820 --> 05:52.660
+Yeah.
+
+05:52.660 --> 05:53.580
+Like reasoning is really hard.
+
+05:53.580 --> 05:55.140
+Yeah, it's hard.
+
+05:55.140 --> 05:58.860
+I mean, I love to value what's hard in maths
+
+05:58.860 --> 06:00.620
+instead of being afraid of it.
+
+06:00.620 --> 06:02.500
+We know that when you struggle,
+
+06:02.500 --> 06:04.540
+that's actually a really good time for your brain.
+
+06:04.540 --> 06:07.260
+You want to be struggling when you're thinking about things.
+
+06:07.260 --> 06:10.100
+So if it's hard to think intuitively about something,
+
+06:10.100 --> 06:13.620
+that's probably a really good time for your brain.
+
+06:14.460 --> 06:16.700
+I used to work with somebody called Sebastian Thrun,
+
+06:16.700 --> 06:19.580
+who is a great sort of mathematician,
+
+06:19.580 --> 06:21.220
+you might think of him, an AI person.
+
+06:21.220 --> 06:23.740
+And I remember in one interview I did with him,
+
+06:23.740 --> 06:25.780
+he talked about how they'd built robots,
+
+06:25.780 --> 06:27.580
+I think for the Smithsonian,
+
+06:27.580 --> 06:29.380
+and how they were having this trouble
+
+06:29.380 --> 06:32.340
+with them picking up white noise.
+
+06:32.340 --> 06:34.580
+And he said they had to solve it,
+
+06:34.580 --> 06:36.420
+they had to work out what's going on,
+
+06:36.420 --> 06:41.300
+and how he intuitively worked out what the problem was.
+
+06:41.300 --> 06:45.620
+But then it took him three weeks to show it mathematically.
+
+06:45.620 --> 06:47.060
+I thought that was really interesting
+
+06:47.060 --> 06:49.620
+that how you can have this intuition
+
+06:49.620 --> 06:51.820
+and know something works.
+
+06:51.820 --> 06:53.420
+It's kind of different from going through
+
+06:53.420 --> 06:57.020
+that long mathematical process of proving it,
+
+06:57.020 --> 06:58.300
+but so important.
+
+06:58.300 --> 07:01.660
+Yeah, I think probably our brains are evolved
+
+07:01.660 --> 07:03.980
+as like intuition machines.
+
+07:03.980 --> 07:08.900
+And the math of like showing it like formally
+
+07:08.900 --> 07:10.580
+is probably an extra thing
+
+07:10.580 --> 07:12.100
+that we're not designed for.
+
+07:12.100 --> 07:14.100
+You see that with Feynman and his,
+
+07:15.660 --> 07:17.980
+all of these physicists, definitely you see
+
+07:19.620 --> 07:21.100
+starting with intuition,
+
+07:21.100 --> 07:23.420
+sometimes starting with an experiment,
+
+07:24.460 --> 07:27.860
+and then the experiment inspires intuition.
+
+07:27.860 --> 07:29.260
+But you can think of an experiment
+
+07:29.260 --> 07:31.020
+as a kind of visualization.
+
+07:31.020 --> 07:34.260
+Just like let's take whatever the heck we're looking at
+
+07:34.260 --> 07:38.620
+and draw it, and draw like the pattern as it evolves,
+
+07:38.620 --> 07:41.060
+as the thing grows for n equals one,
+
+07:41.060 --> 07:42.740
+for n equals two, n equals three,
+
+07:42.740 --> 07:44.780
+and you start to play with it.
+
+07:44.780 --> 07:48.660
+And then in the modern day, which I loved doing,
+
+07:48.660 --> 07:52.420
+is you can write a program that then visualizes it for you.
+
+07:52.420 --> 07:55.460
+And then you can start exploring it programmatically.
+
+07:55.460 --> 08:00.140
+And then you can do so interactively too.
+
+08:00.140 --> 08:03.580
+I tend to not like interactive
+
+08:03.580 --> 08:05.660
+because it takes way too much work,
+
+08:05.660 --> 08:07.140
+because you have to click and move and stuff.
+
+08:07.180 --> 08:09.900
+I love to interact through writing programs,
+
+08:09.900 --> 08:12.500
+but that's my particular brain, software engineer.
+
+08:12.500 --> 08:17.180
+So like you can do all these kinds of visualizations.
+
+08:17.180 --> 08:19.300
+And then there's the tools of visualization,
+
+08:19.300 --> 08:22.620
+like color, all of those kinds of things.
+
+08:22.620 --> 08:24.220
+That you're absolutely right.
+
+08:24.220 --> 08:27.180
+They're actually not taught very much.
+
+08:27.180 --> 08:28.780
+Like the art of visualization.
+
+08:28.780 --> 08:30.060
+Not taught.
+
+08:30.060 --> 08:33.700
+And we love as well color coding.
+
+08:33.700 --> 08:36.500
+Like when you represent something mathematically,
+
+08:36.540 --> 08:41.060
+you can show color to show the growth and kind of code that.
+
+08:41.060 --> 08:44.340
+So if I have an algebraic expression for a pattern,
+
+08:44.340 --> 08:46.740
+maybe I show the X with a certain color,
+
+08:46.740 --> 08:48.020
+but I also write in that color
+
+08:48.020 --> 08:51.420
+so you can see the relationship.
+
+08:51.420 --> 08:52.340
+Very cool.
+
+08:52.340 --> 08:56.860
+And yeah, particularly in our work with elementary teachers,
+
+08:56.860 --> 08:58.780
+many of them come to our workshops
+
+08:58.780 --> 09:00.780
+and they're literally in tears
+
+09:00.780 --> 09:03.900
+when they see things making sense visually.
+
+09:03.900 --> 09:06.340
+Because they've spent their whole lives
+
+09:06.340 --> 09:09.260
+not realizing you can really understand things
+
+09:09.260 --> 09:10.980
+with these visuals.
+
+09:10.980 --> 09:12.740
+It's quite powerful.
+
+09:12.740 --> 09:17.740
+You say that there's something valuable to learning
+
+09:17.860 --> 09:20.540
+when the thing that you're doing is challenging,
+
+09:20.540 --> 09:21.660
+is difficult.
+
+09:21.660 --> 09:24.060
+So a lot of people say math is hard
+
+09:24.060 --> 09:28.100
+or math is too hard or too hard for me.
+
+09:28.100 --> 09:32.420
+Do you think math should be easy or should it be hard?
+
+09:33.380 --> 09:36.860
+I think it's great when things are challenging,
+
+09:36.860 --> 09:39.100
+but there's something that's really key
+
+09:39.100 --> 09:42.820
+to being able to deal with challenging maths
+
+09:42.820 --> 09:46.740
+and that is knowing that you can do it.
+
+09:46.740 --> 09:48.620
+And I think the problem in education
+
+09:48.620 --> 09:51.140
+is a lot of people have got this idea
+
+09:51.140 --> 09:53.940
+that you're either born with a maths brain or you're not.
+
+09:53.940 --> 09:56.380
+So when they start to struggle, they think,
+
+09:56.380 --> 09:58.380
+oh, I don't have that maths brain.
+
+09:58.380 --> 10:00.900
+And then they will literally sort of switch off
+
+10:00.980 --> 10:04.060
+in their brain and things will go downhill from that point.
+
+10:04.060 --> 10:06.260
+So struggle becomes a lot easier
+
+10:06.260 --> 10:10.940
+and you're able to struggle if you don't have that idea.
+
+10:10.940 --> 10:13.420
+But you know that you can do it.
+
+10:13.420 --> 10:15.980
+You have to go through this struggle to get there,
+
+10:15.980 --> 10:18.740
+but you're able to do that.
+
+10:18.740 --> 10:21.780
+And so we're hampered in being able to struggle
+
+10:21.780 --> 10:25.260
+with these ideas we've been given about what we can do.
+
+10:25.260 --> 10:27.220
+Ask a difficult question here.
+
+10:27.220 --> 10:32.020
+So there's kind of, I don't know what the right term is,
+
+10:32.020 --> 10:37.020
+but some people struggle with learning in different ways.
+
+10:38.700 --> 10:42.460
+Like their brain is constructed in different ways.
+
+10:42.460 --> 10:47.060
+And how much should, as educators,
+
+10:47.060 --> 10:49.300
+should we make room for that?
+
+10:49.300 --> 10:52.420
+So how do you know the difference between this is hard
+
+10:52.420 --> 10:54.500
+and I don't like doing hard things
+
+10:54.500 --> 10:57.100
+versus my brain is wired in a way
+
+10:57.940 --> 10:59.060
+where I need to learn in very different ways.
+
+10:59.060 --> 11:00.660
+I can't learn it this way.
+
+11:00.660 --> 11:02.340
+How do you find that line?
+
+11:02.340 --> 11:04.020
+How do you operate in that gray area?
+
+11:04.020 --> 11:07.380
+So this is why being a teacher is so hard.
+
+11:07.380 --> 11:09.380
+And people really don't appreciate
+
+11:09.380 --> 11:12.300
+how difficult teaching is when you're faced with,
+
+11:12.300 --> 11:14.900
+I don't know, 30 students who think in different ways.
+
+11:16.300 --> 11:19.500
+But this is also why I believe it's so important
+
+11:19.500 --> 11:21.940
+to have this multi-dimensional approach to maths.
+
+11:21.940 --> 11:24.700
+We've really offered it in one way,
+
+11:24.700 --> 11:27.380
+which is here's some numbers and a method.
+
+11:27.380 --> 11:31.220
+You follow me, do what I just did and then reproduce it.
+
+11:31.220 --> 11:33.820
+And so there are some kids who like doing that
+
+11:33.820 --> 11:34.860
+and they do well.
+
+11:34.860 --> 11:39.100
+And a lot of kids who don't like doing it and don't do well.
+
+11:39.100 --> 11:42.780
+But when you open up maths and you give,
+
+11:42.780 --> 11:44.660
+you let kids experience it in different ways,
+
+11:44.660 --> 11:47.660
+maybe visually with numbers, with words,
+
+11:47.660 --> 11:49.980
+what happens is kids,
+
+11:49.980 --> 11:52.460
+there are many more kids who can access it.
+
+11:52.460 --> 11:56.180
+So those different brain wirings you're talking about
+
+11:56.180 --> 11:58.860
+where some people are just more able to do something
+
+11:58.860 --> 12:01.860
+in a particular way, that's why we want to,
+
+12:01.860 --> 12:04.700
+that's one of the reasons we want to open it up
+
+12:04.700 --> 12:08.380
+so that there are different ways of accessing it.
+
+12:08.380 --> 12:11.180
+And then that's not really a problem.
+
+12:11.180 --> 12:14.420
+So I grew up in the Soviet Union
+
+12:14.420 --> 12:17.420
+and fell in love with math early.
+
+12:17.420 --> 12:22.340
+I was forced into math early and fell in love through force.
+
+12:22.340 --> 12:23.180
+That's good.
+
+12:23.180 --> 12:25.820
+Well, good that you fell in love with the force.
+
+12:25.820 --> 12:28.380
+But something we talked about a little bit
+
+12:28.380 --> 12:33.300
+is there's such a value for excellence.
+
+12:33.300 --> 12:37.900
+It's competitive and it's also everybody kind of looks up.
+
+12:37.900 --> 12:42.900
+The definition of success is being in a particular class
+
+12:44.460 --> 12:46.340
+is being really good at it.
+
+12:47.620 --> 12:50.900
+And it's not improving, it's like being really good.
+
+12:50.940 --> 12:53.820
+I mean, we are much more like that with sports, for example.
+
+12:53.820 --> 12:56.860
+We're not, it's like it's understood,
+
+12:56.860 --> 12:59.780
+you're going to star on the basketball team.
+
+12:59.780 --> 13:02.420
+If you're gonna start on the basketball team,
+
+13:02.420 --> 13:05.140
+if you're going to be better than the other guys,
+
+13:05.140 --> 13:06.540
+the other girls on the team.
+
+13:07.620 --> 13:12.220
+So that coupled with the belief,
+
+13:12.220 --> 13:14.700
+this could be partially a communist belief, I don't know,
+
+13:14.700 --> 13:19.180
+but the belief that everybody is capable of being great.
+
+13:19.180 --> 13:22.220
+But if you're not great, that's your fault.
+
+13:22.220 --> 13:23.460
+And you need to work harder.
+
+13:23.460 --> 13:27.940
+And I remember I had a sense that, probably delusional,
+
+13:27.940 --> 13:29.660
+but I could win a Nobel Prize.
+
+13:29.660 --> 13:31.460
+I don't even know what that entails.
+
+13:33.100 --> 13:38.100
+But I thought, like my dad early on told me just offhand
+
+13:39.580 --> 13:42.540
+and it always stuck with me that if you can figure out
+
+13:42.540 --> 13:46.140
+how to build a time machine, how to travel back in time,
+
+13:46.140 --> 13:48.380
+it will probably give you a Nobel Prize.
+
+13:48.460 --> 13:50.460
+And I remember early in my life thinking,
+
+13:50.460 --> 13:52.500
+I'm going to invent the time machine.
+
+13:52.500 --> 13:56.740
+And like the tools of mathematics were in service
+
+13:56.740 --> 14:00.020
+of that dream of winning the Nobel Prize.
+
+14:00.020 --> 14:01.180
+It's silly.
+
+14:01.180 --> 14:03.540
+I didn't really think in those concrete terms,
+
+14:03.540 --> 14:06.820
+but I just thought I could be great, that feeling.
+
+14:06.820 --> 14:08.700
+And then when you struggle,
+
+14:08.700 --> 14:11.980
+the belief that you could be great is like,
+
+14:11.980 --> 14:13.220
+struggle is good.
+
+14:13.220 --> 14:14.620
+Right, pushes you on, yeah.
+
+14:14.620 --> 14:17.300
+And so the other thing about the Soviet system
+
+14:17.500 --> 14:20.580
+that might love to hear your comments about
+
+14:20.580 --> 14:24.380
+is just the sheer hours of math.
+
+14:24.380 --> 14:26.780
+The number of courses, you're talking about
+
+14:26.780 --> 14:29.300
+a lot of geometry, a lot more geometry.
+
+14:29.300 --> 14:30.700
+I think in the American system,
+
+14:30.700 --> 14:33.100
+you take maybe one year of geometry.
+
+14:33.100 --> 14:33.940
+In high school, yeah.
+
+14:33.940 --> 14:35.300
+In high school.
+
+14:35.300 --> 14:37.500
+First of all, geometry is beautiful, it's visual.
+
+14:37.500 --> 14:39.140
+And then you get to reason through proofs
+
+14:39.140 --> 14:40.180
+and stuff like that.
+
+14:40.180 --> 14:42.660
+In Russia, I remember just being nailed
+
+14:42.660 --> 14:43.860
+over and over with you all.
+
+14:43.860 --> 14:45.500
+It was just nonstop.
+
+14:45.660 --> 14:48.220
+And then of course, there's different perspectives
+
+14:48.220 --> 14:50.420
+on calculus and just the whole.
+
+14:50.420 --> 14:55.420
+The sense was that math is like fundamental
+
+14:56.060 --> 14:58.700
+to the development of the human mind.
+
+14:58.700 --> 15:02.460
+So math, but also science and literature, by the way,
+
+15:02.460 --> 15:04.940
+was also hit very hard.
+
+15:04.940 --> 15:08.260
+We read a lot of serious adult stuff.
+
+15:08.260 --> 15:09.980
+America does that a little bit too.
+
+15:09.980 --> 15:12.660
+They challenge young adults with good literature,
+
+15:12.660 --> 15:16.180
+but they don't challenge adults very much with math.
+
+15:16.180 --> 15:20.900
+So those two things, valuing excellence
+
+15:20.900 --> 15:23.740
+and just a lot of math in the curriculum.
+
+15:23.740 --> 15:26.900
+Do you think, do you find that interesting?
+
+15:26.900 --> 15:28.580
+Because it seems to have been successful.
+
+15:28.580 --> 15:30.220
+Yeah, I think that's very interesting.
+
+15:30.220 --> 15:32.740
+And there is a lot of success,
+
+15:32.740 --> 15:34.140
+people coming through the Soviet system.
+
+15:34.140 --> 15:37.340
+I think something that's very different to the US
+
+15:37.340 --> 15:39.500
+and other countries in the world
+
+15:39.500 --> 15:41.940
+is that idea that excellence is important
+
+15:42.300 --> 15:44.940
+and you can get there if you work hard.
+
+15:44.940 --> 15:48.700
+In the US, there's an idea that excellence is important,
+
+15:48.700 --> 15:52.140
+but then kids are given the idea in many ways
+
+15:52.140 --> 15:53.740
+that you can either do it
+
+15:53.740 --> 15:56.140
+or you're one of the people who can't.
+
+15:56.140 --> 15:58.460
+So many students in the school system
+
+15:58.460 --> 15:59.700
+think they're one of the kids who can't.
+
+15:59.700 --> 16:02.260
+So there's no point in trying hard
+
+16:02.260 --> 16:04.700
+because you're never going to get there.
+
+16:04.700 --> 16:09.620
+So if you can switch that idea, it would be huge.
+
+16:09.620 --> 16:11.140
+And it seems from what you've said
+
+16:11.140 --> 16:16.140
+that in the Soviet Union, that idea is really different.
+
+16:16.340 --> 16:19.580
+Now, the downside of that idea that anybody can get there
+
+16:19.580 --> 16:24.020
+if you work hard is that thought
+
+16:24.020 --> 16:26.540
+that if you're not getting there, it's your fault.
+
+16:26.540 --> 16:28.700
+And I would add something into that.
+
+16:28.700 --> 16:30.740
+I would say that anybody can get there,
+
+16:31.820 --> 16:35.180
+but they need to work hard and they also need good teaching
+
+16:35.180 --> 16:37.980
+because there are some people who really can't get there
+
+16:37.980 --> 16:41.260
+because they're not given access to that good teaching.
+
+16:41.260 --> 16:44.620
+So, but that would be huge, that change.
+
+16:44.620 --> 16:46.500
+As to doing lots of maths,
+
+16:46.500 --> 16:50.980
+if maths was interesting and open and creative
+
+16:50.980 --> 16:53.780
+and multi-dimensional, I would be all for it.
+
+16:53.780 --> 16:56.060
+We actually run summer camps at Stanford
+
+16:56.060 --> 16:59.100
+where we invite kids in and we give them this maths
+
+16:59.100 --> 17:00.700
+that I love.
+
+17:00.700 --> 17:05.300
+And in our camp classrooms, they were three hours long.
+
+17:05.340 --> 17:08.540
+And when we were planning, the teachers were like,
+
+17:08.540 --> 17:11.500
+three hours, are we gonna be able to keep the kids excited
+
+17:11.500 --> 17:12.540
+for three hours?
+
+17:12.540 --> 17:16.020
+Turned out they didn't want to go to break or lunch.
+
+17:16.020 --> 17:19.500
+They'd be so into these mathematical patterns.
+
+17:19.500 --> 17:21.140
+We couldn't stop them.
+
+17:21.140 --> 17:22.820
+It was amazing.
+
+17:22.820 --> 17:25.220
+So yeah, if maths was more like that,
+
+17:25.220 --> 17:29.100
+then I think having more of it would be a really good thing.
+
+17:29.100 --> 17:31.020
+So what age are you talking about?
+
+17:31.020 --> 17:34.740
+Is there, could you comment on what age
+
+17:34.740 --> 17:39.180
+is like the most important when people quit math
+
+17:39.180 --> 17:42.820
+or give up on themselves or on math in general?
+
+17:42.820 --> 17:45.580
+And perhaps that age or something earlier
+
+17:45.580 --> 17:48.620
+is really an important moment for them to discover,
+
+17:48.620 --> 17:51.500
+to be inspired to discover the magic of math.
+
+17:51.500 --> 17:54.460
+I think a lot of kids start to give up on themselves
+
+17:54.460 --> 17:59.260
+and maths around from about fifth grade.
+
+17:59.260 --> 18:02.420
+And then those middle school years are really important.
+
+18:02.420 --> 18:04.580
+And fifth grade can be pivotal for kids
+
+18:05.420 --> 18:07.980
+just because they're allowed to explore
+
+18:07.980 --> 18:11.500
+and think in good ways in the early grades
+
+18:11.500 --> 18:12.340
+of elementary school.
+
+18:12.340 --> 18:13.580
+But fifth grade teachers are often like,
+
+18:13.580 --> 18:15.500
+okay, we're gonna prepare you now for middle school
+
+18:15.500 --> 18:18.220
+and we're gonna give you grades and lots of tests.
+
+18:18.220 --> 18:21.300
+And that's when kids start to feel
+
+18:21.300 --> 18:22.580
+really badly about themselves.
+
+18:22.580 --> 18:24.820
+And so middle school years,
+
+18:24.820 --> 18:27.060
+our camps are middle school students.
+
+18:27.060 --> 18:29.220
+We think of those years as really pivotal.
+
+18:29.220 --> 18:31.700
+Many kids in those years are deciding,
+
+18:31.700 --> 18:35.700
+yes, I'm gonna keep going with STEM subjects,
+
+18:35.700 --> 18:38.380
+or no, I'm not, that this isn't for me.
+
+18:38.380 --> 18:40.860
+So, I mean, all years are important.
+
+18:40.860 --> 18:43.180
+And in all years, you can kind of switch kids
+
+18:43.180 --> 18:45.700
+and get them on a different pathway.
+
+18:45.700 --> 18:48.500
+But I think those middle school years are really important.
+
+18:48.500 --> 18:50.900
+So what's the role of the teacher in this?
+
+18:50.900 --> 18:53.140
+So one is the explanation of the subject,
+
+18:53.140 --> 18:57.700
+but do you think teachers should almost do like one-on-one,
+
+18:58.380 --> 19:01.820
+you know, little Johnny, I believe in you kind of thing?
+
+19:01.820 --> 19:03.860
+Like that energy of like-
+
+19:03.860 --> 19:05.380
+Turns out it's really important.
+
+19:05.380 --> 19:07.500
+There's a study that was done,
+
+19:07.500 --> 19:10.420
+it was actually done in high school English classrooms
+
+19:10.420 --> 19:14.100
+where all kids wrote an essay for their teacher.
+
+19:14.100 --> 19:16.100
+And this was done as an experiment.
+
+19:16.100 --> 19:18.900
+Half of the kids got feedback from their teacher,
+
+19:18.900 --> 19:21.100
+diagnostic feedback, which is great.
+
+19:21.100 --> 19:22.060
+But for half of the kids,
+
+19:22.060 --> 19:23.980
+it said an extra sentence at the bottom
+
+19:23.980 --> 19:26.300
+that the researchers had put on.
+
+19:26.300 --> 19:30.060
+And the kids who read that extra sentence
+
+19:30.060 --> 19:33.540
+did significantly better in English a whole year later.
+
+19:33.540 --> 19:36.780
+The only change was this one sentence.
+
+19:36.780 --> 19:37.620
+What did the sentence say?
+
+19:37.620 --> 19:39.780
+So what did the sentence say?
+
+19:39.780 --> 19:42.940
+The sentence said, I'm giving you this feedback
+
+19:42.940 --> 19:44.220
+because I believe in you.
+
+19:45.260 --> 19:48.460
+And the kids who read that did better a year later.
+
+19:49.460 --> 19:52.380
+So when I share this with teachers,
+
+19:52.380 --> 19:53.900
+I say, you know, I'm not suggesting
+
+19:53.900 --> 19:56.060
+you put on the bottom of all kids' work,
+
+19:56.780 --> 19:58.460
+I'm giving you this feedback because I believe in you.
+
+19:58.460 --> 19:59.500
+One of the teachers said to me,
+
+19:59.500 --> 20:00.780
+we don't put it on a stamp.
+
+20:00.780 --> 20:03.420
+I said, no, don't put it on a stamp.
+
+20:05.100 --> 20:08.060
+But your words are really important.
+
+20:08.060 --> 20:12.580
+And kids are sitting in classrooms all the time thinking,
+
+20:12.580 --> 20:13.940
+what does my teacher think of me?
+
+20:13.940 --> 20:15.780
+Does my teacher think I can do this?
+
+20:17.300 --> 20:19.580
+So it turns out it is really important
+
+20:19.580 --> 20:22.620
+to be saying to kids, I know you can do this.
+
+20:22.620 --> 20:27.620
+And those messages are not given enough by teachers.
+
+20:27.700 --> 20:29.060
+And really believe it.
+
+20:29.060 --> 20:29.900
+And believe it, yeah.
+
+20:29.900 --> 20:32.540
+You can't just say it, you have to believe it.
+
+20:32.540 --> 20:37.540
+I sometimes, it's such a funny dance
+
+20:38.100 --> 20:39.660
+because I'm almost such a perfectionist,
+
+20:39.660 --> 20:41.420
+I'm extremely self-critical
+
+20:41.420 --> 20:43.700
+and I have students come up to me
+
+20:43.700 --> 20:48.700
+and it's clear to me that they're not even close to good.
+
+20:49.460 --> 20:52.380
+And it's tempting for me to be like,
+
+20:53.180 --> 20:55.700
+I'm not going to be able to sort of give up on them mentally.
+
+20:55.700 --> 20:59.220
+But the reality is, if you look at many great people
+
+20:59.220 --> 21:01.980
+throughout history, they sucked at some point.
+
+21:01.980 --> 21:02.820
+Yeah, exactly.
+
+21:02.820 --> 21:05.860
+And some of the greatest took non-linear paths
+
+21:05.860 --> 21:10.460
+to where they sucked for long into later life.
+
+21:10.460 --> 21:12.060
+And so always kind of believing
+
+21:12.060 --> 21:14.780
+that this person can be great.
+
+21:14.780 --> 21:15.620
+Exactly.
+
+21:15.620 --> 21:17.420
+You have to communicate that
+
+21:17.420 --> 21:19.180
+plus the fact that they have to work hard.
+
+21:19.180 --> 21:20.700
+That's it, yeah.
+
+21:20.700 --> 21:21.540
+Yeah, and you're right.
+
+21:21.540 --> 21:24.580
+It's filled with people who are dropouts of school
+
+21:24.580 --> 21:28.860
+or who had special needs, who didn't succeed.
+
+21:28.860 --> 21:30.780
+It's very interesting that have gone on
+
+21:30.780 --> 21:34.300
+to do amazing work in creative ways.
+
+21:34.300 --> 21:36.700
+I mean, I do think our school system is set up
+
+21:36.700 --> 21:41.500
+to value good memorizers
+
+21:41.500 --> 21:44.780
+who can reproduce what a teacher is showing them
+
+21:44.780 --> 21:49.260
+and push away those creative deep thinkers,
+
+21:49.260 --> 21:51.500
+often slower thinkers.
+
+21:51.500 --> 21:53.700
+They think slowly and deeply.
+
+21:53.700 --> 21:55.420
+And they often get the idea early on
+
+21:55.420 --> 21:59.100
+that they can't be good at maths or other subjects.
+
+21:59.100 --> 22:02.380
+So yeah, I think many of those subject people
+
+22:02.380 --> 22:05.220
+are the ones who go on and do amazing things.
+
+22:05.220 --> 22:08.340
+So there's a guy named Eric Weinstein.
+
+22:08.340 --> 22:09.860
+I know many mathematicians like this,
+
+22:09.860 --> 22:14.860
+but he talks a lot about having a non-standard way
+
+22:16.100 --> 22:17.740
+of learning.
+
+22:17.740 --> 22:19.700
+I mean, a lot of great mathematicians,
+
+22:19.700 --> 22:22.100
+a lot of great physicists are like that.
+
+22:22.100 --> 22:24.660
+And he felt like he became quickly,
+
+22:24.660 --> 22:26.420
+he got his PhD at Harvard,
+
+22:26.420 --> 22:28.580
+became quickly an outcast of the system.
+
+22:28.580 --> 22:32.220
+Like the education, especially early education system
+
+22:32.220 --> 22:33.180
+didn't help him.
+
+22:34.820 --> 22:37.860
+Is there ways for an education system
+
+22:37.860 --> 22:40.340
+to support people like that?
+
+22:40.340 --> 22:42.420
+Is it this kind of multi-dimensional learning
+
+22:42.420 --> 22:43.260
+that you're mentioning?
+
+22:43.260 --> 22:44.300
+Yeah, absolutely, absolutely.
+
+22:44.300 --> 22:46.620
+I mean, I think education system
+
+22:46.660 --> 22:48.940
+still uses an approach that was in classrooms
+
+22:48.940 --> 22:50.380
+hundreds of years ago.
+
+22:50.380 --> 22:53.780
+The textbooks have a lot to answer for
+
+22:53.780 --> 22:58.380
+in producing this very uninspiring mathematics.
+
+22:58.380 --> 23:00.780
+But yeah, if you open up the subject
+
+23:00.780 --> 23:03.020
+and have people see and solve it in different ways
+
+23:03.020 --> 23:05.380
+and value those different ways.
+
+23:05.380 --> 23:08.140
+Somebody I appreciated a lot is a mathematician
+
+23:08.140 --> 23:09.740
+called Maryam Mizikhani.
+
+23:09.740 --> 23:10.660
+I don't know if you've heard of her.
+
+23:10.660 --> 23:12.540
+She won the Fields Medal.
+
+23:12.540 --> 23:14.540
+She was from Iran.
+
+23:14.540 --> 23:16.660
+First woman in the world to win the Fields Medal
+
+23:16.660 --> 23:17.500
+in mathematics.
+
+23:17.500 --> 23:21.300
+She died when she was 40, she was at Stanford.
+
+23:21.300 --> 23:24.900
+But her work was entirely visual.
+
+23:24.900 --> 23:27.700
+And she talked about how her daughter
+
+23:27.700 --> 23:28.820
+thought she was an artist
+
+23:28.820 --> 23:30.740
+because she was always visualizing.
+
+23:30.740 --> 23:35.740
+And I attended, she asked me to chair the PhD defense
+
+23:35.860 --> 23:37.500
+for one of her students.
+
+23:37.500 --> 23:40.380
+And I went to the defense in the math department.
+
+23:40.380 --> 23:41.500
+And it was so interesting
+
+23:41.500 --> 23:45.340
+because this young woman spent like two hours
+
+23:45.340 --> 23:46.860
+sharing her work.
+
+23:46.860 --> 23:47.860
+All of it was visual.
+
+23:47.860 --> 23:50.540
+In fact, I don't think I saw any numbers at all.
+
+23:50.540 --> 23:53.500
+And I remember that day thinking,
+
+23:53.500 --> 23:55.980
+wow, I could have brought her like 13 year old
+
+23:55.980 --> 23:57.060
+into this PhD defense.
+
+23:57.060 --> 24:00.340
+They would not recognize this as maths.
+
+24:00.340 --> 24:03.820
+But when Maryam Mizikhani won the Fields Medal,
+
+24:03.820 --> 24:05.740
+all these other mathematicians were saying
+
+24:05.740 --> 24:07.980
+that her work had connected
+
+24:07.980 --> 24:11.300
+all these previously unconnected areas of maths.
+
+24:12.100 --> 24:15.100
+So, but when she was, she also shared
+
+24:15.100 --> 24:17.700
+that when she was in school, when she was about 13,
+
+24:17.700 --> 24:21.140
+she was told that she couldn't do maths.
+
+24:21.140 --> 24:22.780
+She was told that by her teacher.
+
+24:22.780 --> 24:24.060
+Is this is Iran?
+
+24:24.060 --> 24:24.900
+She grew up in Iran?
+
+24:24.900 --> 24:26.140
+In Iran, yeah.
+
+24:26.140 --> 24:27.460
+So I love that.
+
+24:27.460 --> 24:29.420
+To be told you can't be good at maths
+
+24:29.420 --> 24:33.940
+and then go on and win the Fields Medal is cool.
+
+24:33.940 --> 24:37.220
+I've been told by a lot of people in my life
+
+24:37.220 --> 24:38.260
+that I can't do something.
+
+24:38.260 --> 24:40.060
+I'm very, definitely non-standard.
+
+24:41.020 --> 24:44.380
+But all it takes, that's why people talk about
+
+24:44.380 --> 24:46.620
+like the one teacher that changed everything for them.
+
+24:46.620 --> 24:47.980
+All it takes is one teacher.
+
+24:47.980 --> 24:48.820
+That's right.
+
+24:48.820 --> 24:50.340
+That's the power of that.
+
+24:53.020 --> 24:55.780
+So that should be inspiring to teachers.
+
+24:55.780 --> 24:57.500
+I think it is.
+
+24:57.500 --> 24:59.980
+You as a single person, given the education system,
+
+24:59.980 --> 25:01.660
+given the incentives, you have the power
+
+25:01.660 --> 25:03.220
+to truly change lives.
+
+25:03.220 --> 25:04.860
+And like 20 years from now,
+
+25:04.860 --> 25:07.980
+the Fields Medalists will walk up to you and say thank you.
+
+25:07.980 --> 25:09.340
+You did that for me.
+
+25:09.420 --> 25:10.380
+Yeah, absolutely.
+
+25:10.380 --> 25:12.180
+And I share that with teachers
+
+25:12.180 --> 25:15.580
+that even in this broken system
+
+25:15.580 --> 25:19.820
+of what they have to do for districts and textbooks,
+
+25:19.820 --> 25:22.940
+a single teacher can change kids' maths relationship
+
+25:22.940 --> 25:26.500
+or other subjects and forever.
+
+25:26.500 --> 25:29.620
+What's the role of the parents in this picture?
+
+25:29.620 --> 25:31.700
+Let's go to another difficult subject.
+
+25:31.700 --> 25:34.140
+Yeah, that is a difficult subject.
+
+25:34.140 --> 25:36.140
+One study found that
+
+25:36.980 --> 25:41.980
+the amount of maths anxiety parents had
+
+25:42.820 --> 25:45.460
+predicted their child's achievement in school,
+
+25:46.780 --> 25:50.460
+but only if they helped with homework.
+
+25:51.340 --> 25:52.740
+So...
+
+25:52.740 --> 25:55.900
+Oh, that's so funny.
+
+25:55.900 --> 25:59.860
+Yeah, there were some interesting implications for this.
+
+25:59.860 --> 26:01.340
+I mean, you can see how it works.
+
+26:01.340 --> 26:02.540
+If you have maths anxiety
+
+26:02.540 --> 26:03.900
+and you're helping your kids with homework,
+
+26:03.900 --> 26:06.300
+you're probably communicating things like,
+
+26:06.300 --> 26:08.100
+oh, I was terrible at this at school.
+
+26:08.100 --> 26:12.460
+And that's how it gets passed on to kids.
+
+26:12.460 --> 26:14.620
+So one implication is
+
+26:14.620 --> 26:17.020
+if you have a really bad relationship with maths,
+
+26:17.020 --> 26:19.100
+you hate maths, you have maths anxiety,
+
+26:19.100 --> 26:22.380
+just don't do maths homework with your kids.
+
+26:24.180 --> 26:25.900
+But we have on our website,
+
+26:25.900 --> 26:28.540
+we have a little sheet for parents
+
+26:28.540 --> 26:32.620
+of ways to interact around maths with your kids.
+
+26:32.620 --> 26:33.740
+And...
+
+26:33.740 --> 26:36.580
+That's ucubed.org?
+
+26:36.580 --> 26:39.340
+That's ucubed.org, yes.
+
+26:39.340 --> 26:40.980
+So one of the things I say to parents
+
+26:40.980 --> 26:43.020
+when I give parent presentations is,
+
+26:43.020 --> 26:44.700
+even if you hate maths,
+
+26:44.700 --> 26:46.780
+you need to just fake it with your kids.
+
+26:46.780 --> 26:49.980
+You should be always endlessly optimistic
+
+26:49.980 --> 26:52.220
+and happy about doing maths.
+
+26:52.220 --> 26:54.060
+And...
+
+26:54.060 --> 26:55.460
+I'm always curious about this.
+
+26:55.460 --> 26:57.900
+So I, you know, I hope to have kids one day.
+
+26:57.900 --> 26:59.300
+I don't have kids currently.
+
+27:00.140 --> 27:04.140
+Are parents okay with like sucking at math
+
+27:04.140 --> 27:06.460
+and then trying to get their kid
+
+27:06.460 --> 27:07.900
+to be better than them essentially?
+
+27:07.900 --> 27:10.020
+Like, is that difficult thing for a lot of parents?
+
+27:10.020 --> 27:10.940
+It is difficult.
+
+27:10.940 --> 27:12.860
+To have like, it's almost like an ego thing.
+
+27:12.860 --> 27:15.140
+Like, I never got good at this
+
+27:15.140 --> 27:16.860
+and I probably should have.
+
+27:16.860 --> 27:18.460
+And...
+
+27:18.460 --> 27:20.860
+Yeah, I mean, to me that you wanna celebrate that,
+
+27:20.860 --> 27:23.860
+but I know a lot of people struggle with that,
+
+27:23.860 --> 27:25.940
+like coaches in sports,
+
+27:26.220 --> 27:29.700
+to make an athlete become better than them,
+
+27:29.700 --> 27:31.780
+it can be hard on the ego.
+
+27:31.780 --> 27:32.740
+Yeah.
+
+27:32.740 --> 27:35.700
+So is that, do you experience the same with parents too?
+
+27:35.700 --> 27:38.540
+I think, I mean, I haven't experienced parents worrying
+
+27:38.540 --> 27:40.820
+that their kids will be better than them.
+
+27:40.820 --> 27:45.620
+I have experienced parents
+
+27:45.620 --> 27:47.940
+just having a really bad relationship with maths
+
+27:47.940 --> 27:50.300
+and not wanting to help,
+
+27:50.300 --> 27:54.020
+not knowing how to help, saying things.
+
+27:54.020 --> 27:55.660
+Like another study showed
+
+27:55.660 --> 27:58.140
+that when mothers say to their daughters,
+
+27:58.140 --> 28:00.100
+I was bad at maths in school,
+
+28:00.100 --> 28:02.460
+their daughter's achievement goes down.
+
+28:02.460 --> 28:05.340
+So we know that kids pick up on these messages
+
+28:05.340 --> 28:08.420
+and which is why I say you should fake it.
+
+28:08.420 --> 28:10.180
+But also I know that lots of people
+
+28:10.180 --> 28:12.340
+have just had a really bad relationship with maths,
+
+28:12.340 --> 28:15.140
+even successful people.
+
+28:15.140 --> 28:17.540
+The undergrads I teach at Stanford
+
+28:17.540 --> 28:20.100
+have pretty much always done well in maths,
+
+28:21.060 --> 28:24.060
+but they come to Stanford thinking maths
+
+28:24.060 --> 28:26.980
+is a set of methods to memorize.
+
+28:28.180 --> 28:31.420
+And so do many parents believe that.
+
+28:31.420 --> 28:34.300
+There's one method that you memorize
+
+28:34.300 --> 28:36.860
+and then you reproduce it.
+
+28:36.860 --> 28:40.060
+So until people have really had an experience
+
+28:40.060 --> 28:42.260
+of what I think of as the other maths,
+
+28:42.260 --> 28:43.700
+well, until they've really seen
+
+28:43.700 --> 28:45.500
+that it's a really different subject,
+
+28:48.620 --> 28:51.220
+it's hard for them to be able to shift their kids
+
+28:51.220 --> 28:52.580
+to see it differently.
+
+28:52.620 --> 28:55.060
+Is there for a teacher,
+
+28:55.060 --> 28:57.940
+if we're to like systematize it,
+
+28:57.940 --> 28:59.820
+is there something teachers can do
+
+28:59.820 --> 29:01.420
+to do this more effectively?
+
+29:01.420 --> 29:04.060
+So you mentioned the textbook.
+
+29:04.060 --> 29:07.740
+So what are the additional things you can add
+
+29:07.740 --> 29:11.260
+on top of this whole old school traditional way of teaching
+
+29:12.180 --> 29:14.700
+that can improve the process?
+
+29:14.700 --> 29:17.580
+So I do think there's a way of teaching maths
+
+29:17.580 --> 29:21.660
+that changes everything for kids and teachers.
+
+29:21.700 --> 29:25.540
+So I'm one of five writers of a new framework
+
+29:25.540 --> 29:27.620
+for the state of California, a new maths framework
+
+29:27.620 --> 29:29.300
+that's coming out next year.
+
+29:29.300 --> 29:32.300
+And we are recommending through this maths framework
+
+29:32.300 --> 29:33.900
+that people teach in this way.
+
+29:33.900 --> 29:37.540
+It's called teaching to big ideas.
+
+29:38.620 --> 29:42.540
+So at the moment people have standards
+
+29:42.540 --> 29:44.500
+that have been written and then textbooks
+
+29:44.500 --> 29:45.820
+have taken these standards
+
+29:45.820 --> 29:48.900
+and made not very good questions.
+
+29:48.900 --> 29:50.500
+And if you look at the standards,
+
+29:50.500 --> 29:53.060
+like I have some written down here,
+
+29:53.060 --> 29:54.580
+just reading the standards,
+
+29:54.580 --> 29:57.820
+it makes maths seem really boring and uninspiring.
+
+29:57.820 --> 30:00.940
+What are the kind of, can you give a few examples?
+
+30:00.940 --> 30:03.180
+So this is an interesting example.
+
+30:03.180 --> 30:06.180
+In third grade, there are three different standards
+
+30:06.180 --> 30:07.700
+about unit squares.
+
+30:10.540 --> 30:11.660
+Okay.
+
+30:11.660 --> 30:12.660
+So this is one of them.
+
+30:12.660 --> 30:16.180
+A square with side length one unit called a unit square
+
+30:16.180 --> 30:18.820
+is said to have one square unit of area
+
+30:18.820 --> 30:20.580
+and can be used to measure area.
+
+30:20.580 --> 30:23.420
+And that's something you're expected to learn.
+
+30:23.420 --> 30:25.580
+That is something, so that's a standard.
+
+30:25.580 --> 30:26.900
+The textbook authors say,
+
+30:26.900 --> 30:28.420
+oh, I'm gonna make a question about that.
+
+30:28.420 --> 30:32.140
+And they translate the standards into narrow questions.
+
+30:32.140 --> 30:33.300
+And then you measure success
+
+30:33.300 --> 30:36.900
+by your ability to deliver on these standards.
+
+30:36.900 --> 30:40.260
+So the standards themselves, I think of maths
+
+30:40.260 --> 30:41.780
+and many people think maths in this way
+
+30:41.780 --> 30:44.740
+is a subject of like a few big ideas
+
+30:44.740 --> 30:47.140
+and really important connections between them.
+
+30:48.140 --> 30:50.340
+So you could think of it as like a network map
+
+30:50.340 --> 30:52.540
+of ideas and connections.
+
+30:52.540 --> 30:55.740
+And what standards do is they take that beautiful map
+
+30:55.740 --> 30:58.660
+and they chop it up like this into lots of little pieces
+
+30:58.660 --> 31:00.940
+and they deliver the pieces to schools.
+
+31:00.940 --> 31:05.220
+And so teachers don't see the connections between ideas
+
+31:05.220 --> 31:06.380
+nor do the kids.
+
+31:06.380 --> 31:08.340
+So anyway, this is a bit of a long way of saying
+
+31:08.340 --> 31:11.780
+that what we've done in this new initiative
+
+31:11.780 --> 31:16.020
+is we have set out maths as a set of big ideas
+
+31:16.100 --> 31:17.540
+and connections between them.
+
+31:17.540 --> 31:20.860
+So this is a grade three.
+
+31:20.860 --> 31:25.140
+So instead of there being 60 standards,
+
+31:25.140 --> 31:29.660
+we've said, well, you can pull these different standards
+
+31:29.660 --> 31:32.220
+to get in with each other
+
+31:32.220 --> 31:37.220
+and also value the ways these are connected.
+
+31:38.060 --> 31:39.860
+And by the way, for people who are just listening,
+
+31:39.860 --> 31:44.020
+we're looking at a small number of like big concepts
+
+31:44.060 --> 31:47.060
+within mathematics, square tiles, measuring,
+
+31:47.060 --> 31:49.100
+fraction, shape and time,
+
+31:49.100 --> 31:51.700
+and then how they're interconnected.
+
+31:51.700 --> 31:54.060
+And so the goal is for, this is for grade three,
+
+31:54.060 --> 31:55.100
+for example.
+
+31:55.100 --> 31:59.020
+Yeah, and so we've set out for the state of California,
+
+31:59.020 --> 32:02.540
+the whole of mathematics K10
+
+32:02.540 --> 32:05.180
+as a set of big ideas and connections.
+
+32:05.180 --> 32:08.540
+So we know that teachers, it works really well
+
+32:08.540 --> 32:13.540
+if they say, okay, so a big idea in my grade is measuring
+
+32:14.860 --> 32:19.180
+and instead of reading five procedural statements
+
+32:19.180 --> 32:21.500
+that involve measuring, they think,
+
+32:21.500 --> 32:22.580
+okay, measuring is a big idea.
+
+32:22.580 --> 32:25.380
+What rich deep activity can I use
+
+32:25.380 --> 32:27.900
+that teaches measuring to kids?
+
+32:27.900 --> 32:30.460
+And as kids work on these deep rich activities,
+
+32:30.460 --> 32:32.620
+maybe over a few days,
+
+32:32.620 --> 32:34.980
+turns out a lot of maths comes into it.
+
+32:35.860 --> 32:40.140
+So we're recommending that let's not teach maths
+
+32:40.140 --> 32:43.420
+according to all these multiple, multiple statements
+
+32:43.420 --> 32:45.620
+and lots and lots of short questions.
+
+32:45.620 --> 32:48.100
+Instead, let's teach maths by thinking about
+
+32:48.100 --> 32:49.260
+what are the big ideas
+
+32:49.260 --> 32:52.260
+and what are really rich deep activities
+
+32:52.260 --> 32:53.740
+that teach those big ideas.
+
+32:53.740 --> 32:57.620
+So that's the, like how you teach it and maximize learning.
+
+32:57.620 --> 33:01.500
+What about like from a school district perspective,
+
+33:01.500 --> 33:04.700
+like measuring how well you're doing,
+
+33:04.700 --> 33:07.060
+grades and tests and stuff like that.
+
+33:07.060 --> 33:08.940
+Do you throw those out or is it possible?
+
+33:08.940 --> 33:13.460
+I'm not a fan of grades and tests myself.
+
+33:13.460 --> 33:15.940
+I think grades are fine
+
+33:15.940 --> 33:18.980
+if they're used at the end of a course.
+
+33:18.980 --> 33:21.020
+So at the end of my maths course,
+
+33:21.020 --> 33:21.860
+I might get a grade
+
+33:21.860 --> 33:24.380
+because a grade is meant to be a summative measure.
+
+33:24.380 --> 33:27.700
+It kind of describes your summative achievement.
+
+33:27.700 --> 33:31.300
+But the problem we have in maths classrooms across the US
+
+33:31.300 --> 33:33.460
+is people use grades all the time,
+
+33:33.460 --> 33:36.380
+every week or every day even.
+
+33:36.380 --> 33:38.580
+My own kids, when they went through high school,
+
+33:38.580 --> 33:40.580
+technology has not helped with this.
+
+33:40.580 --> 33:41.820
+When they went through high school,
+
+33:41.820 --> 33:42.860
+they knew they were being graded
+
+33:42.860 --> 33:45.900
+for everything they did, everything.
+
+33:45.900 --> 33:48.140
+And not only were they being graded for everything,
+
+33:48.140 --> 33:50.420
+but they could see it in the grade book online
+
+33:50.420 --> 33:52.900
+and it would alter every class they went into.
+
+33:52.900 --> 33:54.940
+So this is the ultimate,
+
+33:54.940 --> 33:57.500
+what I think of as a performance culture.
+
+33:57.500 --> 34:00.140
+You're there to perform, somebody's measuring you,
+
+34:00.140 --> 34:01.860
+you see your score.
+
+34:02.860 --> 34:07.860
+So I think that's not conducive for deep learning.
+
+34:08.620 --> 34:10.980
+And yes, have a grade at the end of the year,
+
+34:10.980 --> 34:12.460
+but during the year,
+
+34:12.460 --> 34:14.940
+you can assess kids in much better ways.
+
+34:14.940 --> 34:18.740
+Teachers can, a great way of assessing kids
+
+34:18.740 --> 34:22.100
+is to give them a rubric that kind of outlines
+
+34:22.100 --> 34:24.020
+what they're learning over the course of a unit
+
+34:24.020 --> 34:25.780
+or a few weeks.
+
+34:25.780 --> 34:29.020
+So kids can actually see the journey they're on.
+
+34:29.020 --> 34:31.140
+This is what we're doing mathematically.
+
+34:31.180 --> 34:34.420
+Sometimes they self-assess on those units
+
+34:34.420 --> 34:39.420
+and then teachers will show what the kids can do
+
+34:40.060 --> 34:42.260
+with a rubric and also write notes.
+
+34:42.260 --> 34:43.620
+Like, in the next few weeks,
+
+34:43.620 --> 34:46.100
+you might like to learn to do this.
+
+34:48.220 --> 34:49.900
+So instead of kids just thinking about,
+
+34:49.900 --> 34:51.220
+I'm an A kid or a B kid,
+
+34:51.220 --> 34:53.300
+or I have this letter attached to me,
+
+34:53.300 --> 34:56.980
+they're actually seeing mathematically what's important
+
+34:56.980 --> 34:58.660
+and they're involved in the process
+
+34:58.660 --> 35:02.340
+of knowing where they are mathematically.
+
+35:02.340 --> 35:04.860
+At the end of the year, sure, they can have a grade,
+
+35:04.860 --> 35:06.300
+but during the year,
+
+35:06.300 --> 35:09.260
+they get these much more informative measures.
+
+35:10.220 --> 35:14.780
+I do think this might be more for college,
+
+35:14.780 --> 35:16.340
+but maybe not.
+
+35:16.340 --> 35:18.700
+Some of the best classes I've had
+
+35:18.700 --> 35:23.700
+is when I got a special, like set aside,
+
+35:23.780 --> 35:27.900
+like the professor clearly saw that I was interested
+
+35:27.940 --> 35:29.980
+in some aspect of a thing.
+
+35:29.980 --> 35:34.980
+And then I have a few in mind, one in particular,
+
+35:35.020 --> 35:38.180
+he said that he kind of challenged me.
+
+35:38.180 --> 35:41.420
+So this is outside of grades and all of that kind of stuff
+
+35:41.420 --> 35:44.980
+that basically it's like reverse psychology.
+
+35:44.980 --> 35:47.300
+I don't think this can be done.
+
+35:47.300 --> 35:51.020
+And so I gave everything to do that particular thing.
+
+35:51.020 --> 35:54.420
+So this happened to be in an artificial intelligence class.
+
+35:54.420 --> 35:57.660
+But I think that like special treatment
+
+35:57.660 --> 36:01.900
+of taking students who are especially like excellent
+
+36:01.900 --> 36:03.540
+at a particular little aspect,
+
+36:03.540 --> 36:06.180
+do you see their eyes light up?
+
+36:06.180 --> 36:09.500
+I often think like maybe it's tempting for a teacher
+
+36:09.500 --> 36:11.740
+to think you've already succeeded there,
+
+36:11.740 --> 36:13.460
+but they're actually signaling to you
+
+36:13.460 --> 36:17.260
+that like you could really launch them on their way.
+
+36:18.620 --> 36:21.660
+And I don't know, that's too much to expect from teachers,
+
+36:21.700 --> 36:24.980
+I think to pay attention to all of that
+
+36:24.980 --> 36:26.020
+because it's really difficult.
+
+36:26.020 --> 36:30.100
+But I just kind of remember who are the biggest,
+
+36:30.100 --> 36:32.420
+the most important people in the history
+
+36:32.420 --> 36:34.900
+of my life of education.
+
+36:34.900 --> 36:38.140
+And it's those people that who really didn't just like
+
+36:38.140 --> 36:40.460
+inspire me with their awesomeness, which they did,
+
+36:40.460 --> 36:42.740
+but also just, they pushed me a little,
+
+36:42.740 --> 36:45.220
+like they gave me a little push.
+
+36:45.220 --> 36:47.540
+And that requires focusing on the quote unquote
+
+36:47.540 --> 36:51.100
+excellent students in the class.
+
+36:51.100 --> 36:53.860
+I think what's important though is teachers
+
+36:53.860 --> 36:56.100
+to have the perspective that they don't know
+
+36:56.100 --> 36:58.500
+who's gonna be excellent at something
+
+36:58.500 --> 37:00.340
+before they give out the activity.
+
+37:00.340 --> 37:01.180
+Exactly.
+
+37:01.180 --> 37:04.780
+And in our camp classes that we ran,
+
+37:05.740 --> 37:10.460
+sometimes students would finish ahead of other students.
+
+37:10.460 --> 37:12.580
+And we would say to them,
+
+37:12.580 --> 37:16.900
+can you write a question that's like this but different?
+
+37:17.820 --> 37:22.820
+And over time we encouraged them to extend things further.
+
+37:24.780 --> 37:26.820
+I remember we were doing one activity
+
+37:26.820 --> 37:30.140
+where kids were working out the borders of a square
+
+37:30.140 --> 37:33.540
+and how big this border would be in different case sizes.
+
+37:33.540 --> 37:36.300
+And one of the boys came up at the end of the class
+
+37:36.300 --> 37:38.260
+and said, I've been thinking about
+
+37:38.260 --> 37:40.460
+how you do this with a pentagon.
+
+37:40.460 --> 37:42.180
+And I said, that's fantastic.
+
+37:42.180 --> 37:44.420
+How do you, what does it look like with a pentagon?
+
+37:44.420 --> 37:47.220
+Go find out, see if you can discover.
+
+37:47.220 --> 37:49.700
+So I didn't know he was gonna come up and say that.
+
+37:49.700 --> 37:52.740
+And I didn't have in my head,
+
+37:52.740 --> 37:55.580
+like this is the kid who could have this extension task,
+
+37:55.580 --> 37:58.820
+but you can still do that as a teacher.
+
+37:59.700 --> 38:01.340
+When kids get excited about something
+
+38:01.340 --> 38:03.180
+or they're doing well in something,
+
+38:03.180 --> 38:05.380
+have them extend it, go further.
+
+38:06.180 --> 38:07.020
+It's great.
+
+38:07.020 --> 38:10.500
+And then you also, like this is like teacher and coach,
+
+38:11.700 --> 38:13.940
+you could say it in different ways to different students.
+
+38:14.340 --> 38:18.660
+For me, the right thing to say is almost to say,
+
+38:18.660 --> 38:21.540
+I don't think you could do this, this is too hard.
+
+38:21.540 --> 38:23.180
+That's what I need to hear.
+
+38:23.180 --> 38:26.340
+It's like, no, there's immediate push.
+
+38:26.340 --> 38:29.220
+But with some people, if they're a little bit more,
+
+38:29.220 --> 38:31.220
+I mean, it all has to do with upbringing,
+
+38:31.220 --> 38:33.220
+how your genetics is.
+
+38:33.220 --> 38:35.380
+They might be much more, that might break them.
+
+38:35.380 --> 38:36.740
+Yeah, that might break them.
+
+38:36.740 --> 38:38.380
+So you have to be also sensitive to that.
+
+38:38.380 --> 38:39.740
+I mean, teaching is really difficult.
+
+38:39.740 --> 38:41.180
+It is really difficult.
+
+38:41.180 --> 38:42.260
+For this very reason.
+
+38:42.260 --> 38:43.260
+It is.
+
+38:43.260 --> 38:47.780
+So what is the best way to teach math,
+
+38:47.780 --> 38:50.780
+to learn math at those early few days
+
+38:50.780 --> 38:52.540
+when you just want to capture them?
+
+38:53.740 --> 38:54.820
+I do something.
+
+38:54.820 --> 38:58.220
+Actually, there's a video of me doing this on our website
+
+38:58.220 --> 39:03.220
+that I love when I first meet students.
+
+39:03.500 --> 39:04.340
+This is what I do.
+
+39:04.340 --> 39:06.060
+I show them a picture.
+
+39:06.060 --> 39:08.300
+This is the picture I show them.
+
+39:08.300 --> 39:11.020
+And it's a picture of seven dots like this.
+
+39:11.740 --> 39:15.140
+And I show it for just a few seconds.
+
+39:15.140 --> 39:15.980
+And I say to them,
+
+39:15.980 --> 39:17.700
+I'd like you to tell me how many dots there are,
+
+39:17.700 --> 39:19.180
+but I don't want you to count them.
+
+39:19.180 --> 39:21.780
+I want you to group the dots and I show it them.
+
+39:21.780 --> 39:24.180
+And then I take it away
+
+39:24.180 --> 39:27.100
+before they've even had enough time to count them.
+
+39:27.100 --> 39:29.780
+And then I asked them, so how did you see it?
+
+39:29.780 --> 39:34.780
+And I go around the room and amazingly enough,
+
+39:35.020 --> 39:36.980
+there's probably 18 different ways
+
+39:36.980 --> 39:39.260
+of seeing these seven dots.
+
+39:39.260 --> 39:42.300
+And so I asked people, tell me how you grouped it.
+
+39:42.300 --> 39:44.380
+And some people see it as like an outside hole
+
+39:44.380 --> 39:45.740
+with a center dot.
+
+39:45.740 --> 39:49.300
+Some people see like stripes of lines.
+
+39:49.300 --> 39:51.820
+Some people see segments.
+
+39:51.820 --> 39:53.820
+And I collect them all and I put them on the board.
+
+39:53.820 --> 39:55.500
+And at the end, I say, look at this.
+
+39:55.500 --> 39:57.300
+We are a class of 30 kids
+
+39:57.300 --> 40:00.300
+and we saw these seven dots in 18 different ways.
+
+40:00.300 --> 40:01.940
+There's actually a mathematical term for this.
+
+40:01.940 --> 40:03.780
+It's called groupitizing.
+
+40:03.780 --> 40:04.780
+Groupitizing?
+
+40:04.780 --> 40:05.620
+Yeah.
+
+40:05.620 --> 40:06.780
+I like it.
+
+40:06.780 --> 40:07.620
+It's kind of cool.
+
+40:07.620 --> 40:11.860
+So turns out though, that how well you groupitize
+
+40:11.860 --> 40:15.580
+predicts how well you do in maths.
+
+40:15.580 --> 40:18.180
+Is it a raw talent
+
+40:18.180 --> 40:20.220
+or is it just something that you can develop?
+
+40:20.220 --> 40:22.660
+I don't think you're born groupitizing, I think,
+
+40:22.660 --> 40:27.340
+but some kids have developed that ability, if you like,
+
+40:27.340 --> 40:29.020
+and you can learn it.
+
+40:29.020 --> 40:34.140
+So this to me is part of how wrong we have maths,
+
+40:34.140 --> 40:36.660
+that we think to tell whether a kid's good at maths,
+
+40:36.660 --> 40:40.660
+we're going to give them a speed test on multiples.
+
+40:40.660 --> 40:43.940
+But actually seeing how kids group dots
+
+40:43.940 --> 40:46.180
+could be a more important assessment
+
+40:46.180 --> 40:48.260
+of how well they're going to do maths.
+
+40:48.260 --> 40:49.620
+Anyway, I diverge.
+
+40:49.620 --> 40:52.340
+What I like to do though, when I start off with kids
+
+40:52.340 --> 40:54.620
+is show them, I'm going to give you maths problems.
+
+40:54.620 --> 40:57.140
+I'm going to value the different ways you see them.
+
+40:57.140 --> 40:59.900
+And turns out you can do this kind of problem
+
+40:59.900 --> 41:03.100
+asking people how they group dots with young children
+
+41:03.100 --> 41:05.500
+or with graduate students.
+
+41:05.500 --> 41:08.220
+And it's engaging for all of them.
+
+41:10.580 --> 41:12.180
+You talk about creativity a little bit
+
+41:12.180 --> 41:15.180
+and flexibility in your book, Limitless.
+
+41:15.180 --> 41:16.780
+What's the role of that?
+
+41:16.780 --> 41:19.780
+So it sounds like there's a bit of that kind of thing
+
+41:19.780 --> 41:22.660
+involved in groupitizing.
+
+41:22.660 --> 41:24.620
+Yeah, yeah.
+
+41:24.620 --> 41:25.700
+I love this term.
+
+41:25.700 --> 41:28.580
+So what would you say is the role of creativity
+
+41:28.580 --> 41:31.340
+and flexibility in the learning of math?
+
+41:31.340 --> 41:34.100
+I think what we know now is that
+
+41:34.100 --> 41:37.820
+what we need for this 21st century world we live in
+
+41:39.100 --> 41:40.540
+is a flexible mind.
+
+41:41.820 --> 41:43.620
+It's, school should not really be about
+
+41:43.620 --> 41:45.540
+teaching kids particular methods,
+
+41:45.540 --> 41:49.500
+but teaching them to approach problems with flexibility.
+
+41:49.500 --> 41:52.860
+Being creative, thinking creatively is really important.
+
+41:52.860 --> 41:55.660
+So people don't think the words maths
+
+41:55.660 --> 41:58.220
+and creativity come together,
+
+41:58.220 --> 42:00.300
+but that's what I love about maths
+
+42:00.300 --> 42:02.900
+is the creative different ways you can see it.
+
+42:02.900 --> 42:06.100
+And so, Helping Our Kids,
+
+42:06.100 --> 42:10.940
+there's a book I like a lot, it's been by physicists.
+
+42:10.940 --> 42:13.900
+You probably know this book called Elastic.
+
+42:13.900 --> 42:14.900
+You might know it.
+
+42:15.780 --> 42:18.420
+And it's about how we want elastic minds.
+
+42:18.420 --> 42:21.460
+Same kind of thing, flexible, creative minds.
+
+42:21.460 --> 42:26.460
+And schools do very little on developing that kind of mind.
+
+42:26.780 --> 42:31.740
+They do a lot of developing the kind of mind
+
+42:31.740 --> 42:35.300
+that a computer now does for us.
+
+42:35.300 --> 42:36.540
+Memorization.
+
+42:36.540 --> 42:40.460
+Memorization, doing procedures,
+
+42:40.460 --> 42:45.340
+a lot of things that we spend a lot of time in school on.
+
+42:45.340 --> 42:47.500
+In the world, when kids leave school,
+
+42:47.500 --> 42:49.540
+a computer will do that.
+
+42:49.540 --> 42:52.540
+And better than they will.
+
+42:52.540 --> 42:54.860
+But that creative, flexible thinking,
+
+42:54.860 --> 42:57.140
+we're kind of at ground zero at computers
+
+42:57.140 --> 42:59.500
+being able to engage in that thinking.
+
+42:59.500 --> 43:00.900
+Maybe we're a little above ground zero,
+
+43:00.900 --> 43:05.780
+but the human brain is perfectly suited
+
+43:05.780 --> 43:07.540
+for that creative, flexible thinking.
+
+43:07.540 --> 43:09.860
+That's what humans are so great at.
+
+43:09.860 --> 43:12.060
+So I would like the balance to shift in schools.
+
+43:12.060 --> 43:15.140
+Maybe you still need to do some procedural kind of thinking,
+
+43:15.140 --> 43:16.700
+but there should be a lot more
+
+43:16.700 --> 43:18.860
+of that creative, flexible thinking.
+
+43:20.180 --> 43:23.980
+And what's the role of other humans in this picture?
+
+43:23.980 --> 43:27.340
+So collaborative learning.
+
+43:27.340 --> 43:29.420
+So brainstorming together.
+
+43:29.420 --> 43:33.780
+So creativity as it emerges from the collective intelligence
+
+43:33.780 --> 43:34.620
+of multiple humans.
+
+43:34.620 --> 43:36.540
+Yeah, super important.
+
+43:36.540 --> 43:40.620
+And we know that also helps develop your brain,
+
+43:40.620 --> 43:42.340
+that social side of thinking.
+
+43:42.340 --> 43:44.940
+And I love mathematics collaboration,
+
+43:44.940 --> 43:47.580
+where people build on each other's ideas
+
+43:47.580 --> 43:49.780
+and they come up with amazing things.
+
+43:49.780 --> 43:54.100
+I actually taught a hundred students calculus
+
+43:54.100 --> 43:56.900
+at Stanford recently, undergrads.
+
+43:56.900 --> 43:59.460
+And we taught them to collaborate.
+
+43:59.460 --> 44:01.300
+So these students came in Stanford
+
+44:01.300 --> 44:04.660
+and most of them were against collaboration in maths.
+
+44:04.660 --> 44:06.260
+This is before COVID in person?
+
+44:06.260 --> 44:08.340
+Yeah, it was just before COVID hit.
+
+44:08.340 --> 44:10.260
+It was 2019.
+
+44:10.260 --> 44:12.100
+And this summer.
+
+44:12.100 --> 44:14.300
+So you said they're against such a way.
+
+44:14.300 --> 44:16.780
+Yeah, so it's really interesting.
+
+44:16.780 --> 44:20.180
+So they'd only experienced maths individually
+
+44:20.180 --> 44:22.100
+in a kind of competitive individual way.
+
+44:22.100 --> 44:24.700
+And if they had experienced it as group work,
+
+44:24.700 --> 44:26.580
+it had been a bad experience.
+
+44:26.740 --> 44:28.860
+Maybe they were the one who did it all
+
+44:28.860 --> 44:31.540
+and the others didn't do much.
+
+44:31.540 --> 44:33.180
+So they were kind of against collaboration.
+
+44:33.180 --> 44:35.140
+They didn't see any role for it in maths.
+
+44:35.140 --> 44:37.500
+And we taught them to collaborate.
+
+44:38.460 --> 44:42.180
+And it was hard work because as well as the fact
+
+44:42.180 --> 44:43.580
+that they were kind of against collaboration,
+
+44:43.580 --> 44:48.500
+they came in with a lot of like social comparison thinking.
+
+44:48.500 --> 44:51.500
+So I'm in this room with other Stanford undergrads
+
+44:51.500 --> 44:53.540
+and they're better than me.
+
+44:53.540 --> 44:55.820
+So when we set them to work on a maths problem together,
+
+44:55.820 --> 44:57.260
+the first one was kind of a disaster
+
+44:57.260 --> 44:59.260
+because they were all like, they're better than me.
+
+44:59.260 --> 45:00.500
+They're faster than me.
+
+45:00.500 --> 45:02.660
+They came up with something I didn't come up with.
+
+45:02.660 --> 45:05.980
+So we taught them to let go of that thinking
+
+45:05.980 --> 45:08.620
+and to work well together.
+
+45:08.620 --> 45:10.020
+And one of the things we did,
+
+45:10.020 --> 45:12.580
+we decided we wanted to do a pre and post test
+
+45:12.580 --> 45:13.500
+at the end of this teaching.
+
+45:13.500 --> 45:15.780
+It was only four weeks long,
+
+45:15.780 --> 45:17.220
+but we knew we didn't want to give them
+
+45:17.220 --> 45:19.340
+like a time test of individual work.
+
+45:19.340 --> 45:23.740
+So we gave them an applied problem to do at the beginning.
+
+45:23.740 --> 45:26.220
+And we gave them to do in pairs together.
+
+45:26.220 --> 45:28.620
+And we gave each of them a different colored pen
+
+45:28.620 --> 45:31.060
+and said, work on this activity together
+
+45:31.060 --> 45:33.060
+and keep using that pen.
+
+45:33.060 --> 45:35.180
+So then we had all these pieces of student work.
+
+45:35.180 --> 45:37.580
+And what we saw was they just worked
+
+45:37.580 --> 45:39.220
+on separate parts of the paper.
+
+45:40.180 --> 45:42.060
+So there's little like red pen section
+
+45:42.060 --> 45:43.740
+and a green pen section.
+
+45:43.740 --> 45:45.940
+And they didn't do that well on it.
+
+45:45.940 --> 45:48.100
+Even though it was a problem
+
+45:48.100 --> 45:49.820
+that middle or high school kids could do,
+
+45:49.820 --> 45:52.700
+but it was like a problem solving kind of problem.
+
+45:52.700 --> 45:55.060
+And then we gave them the same one to do at the end,
+
+45:55.060 --> 45:56.220
+gave them the same colors
+
+45:56.220 --> 45:59.220
+and actually they had learned to collaborate.
+
+45:59.220 --> 46:01.260
+And not only were they collaborating
+
+46:01.260 --> 46:02.140
+the second time around,
+
+46:02.140 --> 46:04.060
+but that boosted their achievement.
+
+46:04.060 --> 46:07.860
+And the ones who collaborated did better on the problem.
+
+46:07.860 --> 46:10.260
+Collaboration is important having people
+
+46:10.260 --> 46:12.540
+and what was so eyeopening for these undergrads
+
+46:12.540 --> 46:15.380
+and they talked about it in lovely ways
+
+46:15.380 --> 46:19.980
+was I learned to value other people's thinking on a problem.
+
+46:19.980 --> 46:21.580
+And I learned to value
+
+46:21.580 --> 46:24.340
+that other people saw it in different ways.
+
+46:24.340 --> 46:29.340
+And it was quite a big experience for them
+
+46:29.500 --> 46:31.740
+that they came out thinking,
+
+46:31.740 --> 46:33.660
+I can do maths with other people.
+
+46:33.660 --> 46:34.860
+People can see it differently.
+
+46:34.860 --> 46:38.340
+We can build on each other's ways of thinking.
+
+46:38.340 --> 46:39.540
+I got a chance to,
+
+46:39.540 --> 46:42.020
+I don't know if you know who Daniel Kahneman is,
+
+46:42.020 --> 46:44.100
+got a chance to interact with him.
+
+46:44.100 --> 46:46.940
+And like the first, cause he had a few,
+
+46:46.940 --> 46:49.580
+but one famous collaboration
+
+46:49.580 --> 46:52.980
+throughout his life with Tversky.
+
+46:52.980 --> 46:57.980
+And just like, he hasn't met me before in person,
+
+46:58.580 --> 47:01.300
+but just the number of questions he was asking,
+
+47:01.300 --> 47:03.180
+just the curiosity.
+
+47:03.180 --> 47:05.420
+So I think one of the skills,
+
+47:05.420 --> 47:07.980
+the collaboration itself is a skill.
+
+47:07.980 --> 47:10.780
+And I remember my experience with him was like,
+
+47:10.780 --> 47:14.060
+okay, I get why you're so good at collaboration
+
+47:14.060 --> 47:17.500
+because he was just extremely good at listening
+
+47:17.500 --> 47:21.460
+and genuine curiosity about how the other person
+
+47:21.460 --> 47:23.420
+thinks about the world, sees the world.
+
+47:23.420 --> 47:27.460
+And then together he pulled me in in that particular case.
+
+47:27.460 --> 47:29.620
+He doesn't know in particular
+
+47:29.620 --> 47:31.220
+that much about autonomous vehicles,
+
+47:31.220 --> 47:34.580
+but he kept asking all of these questions.
+
+47:34.580 --> 47:36.420
+And then like 10 minutes in,
+
+47:36.420 --> 47:37.700
+we're together trying to solve
+
+47:37.700 --> 47:39.940
+the problem of autonomous driving.
+
+47:39.940 --> 47:43.900
+And that's really fulfilling, that's really enriching,
+
+47:44.740 --> 47:46.700
+but it also in that moment made me realize
+
+47:46.700 --> 47:48.180
+it's kind of a skill,
+
+47:48.180 --> 47:50.740
+is you have to kind of put your ego aside,
+
+47:50.740 --> 47:52.500
+put your view of the world aside
+
+47:52.500 --> 47:55.780
+and try to learn how the other person sees it.
+
+47:55.780 --> 47:57.580
+And the other thing you have to put aside
+
+47:57.580 --> 48:00.700
+is this social comparison thinking.
+
+48:00.700 --> 48:03.300
+If you are sitting there thinking,
+
+48:03.300 --> 48:04.860
+wow, that was an amazing idea,
+
+48:04.860 --> 48:06.660
+he's so much better than I am,
+
+48:06.660 --> 48:10.020
+that's really gonna stop you taking on
+
+48:10.020 --> 48:12.220
+the value of that idea.
+
+48:12.220 --> 48:14.300
+And so there's a lot of that going on
+
+48:14.300 --> 48:17.460
+between these Stanford students when they came.
+
+48:17.460 --> 48:21.980
+And trying to help them let go of that.
+
+48:21.980 --> 48:24.300
+One of the things I've discovered,
+
+48:24.300 --> 48:27.380
+just because being a little bit more in the public eye,
+
+48:27.380 --> 48:31.260
+how rewarding it is to celebrate others.
+
+48:31.260 --> 48:35.820
+And how much it's going to actually pay off in the long term.
+
+48:35.820 --> 48:38.220
+So this kind of silo thinking of like,
+
+48:38.220 --> 48:41.260
+I want to prove to a small set of people around me
+
+48:41.260 --> 48:45.340
+that I'm really smart and do so
+
+48:45.340 --> 48:47.500
+by basically not celebrating
+
+48:47.500 --> 48:48.820
+how smart the other people are.
+
+48:48.820 --> 48:51.540
+That's actually maybe short term,
+
+48:51.540 --> 48:53.020
+it seems like a good strategy,
+
+48:53.020 --> 48:54.580
+but long term it's not.
+
+48:54.580 --> 48:56.500
+And I think if you practice at the student level
+
+48:56.500 --> 48:58.900
+and then at the career at every single stage,
+
+48:58.900 --> 49:00.540
+I think that's ultimately.
+
+49:00.540 --> 49:01.380
+I agree with you,
+
+49:01.380 --> 49:04.460
+I think that's a really good way of thinking about it.
+
+49:04.460 --> 49:08.300
+You mentioned textbooks and you didn't say it,
+
+49:11.300 --> 49:15.420
+maybe textbooks isn't the perfect way to teach mathematics,
+
+49:15.420 --> 49:17.300
+but I love textbooks.
+
+49:17.300 --> 49:19.900
+They're like pretty pictures and they smell nice.
+
+49:19.900 --> 49:21.660
+I mean, I talk about like physical.
+
+49:21.660 --> 49:25.420
+Some of my greatest experiences have been just like,
+
+49:25.420 --> 49:27.300
+because they're really well done
+
+49:27.300 --> 49:30.460
+when we're talking about basic like high school,
+
+49:30.460 --> 49:34.140
+calculus, biology, chemistry.
+
+49:34.140 --> 49:36.860
+Those are like, those are incredible.
+
+49:36.860 --> 49:40.340
+It's like Wikipedia, but with color and nice little stuff.
+
+49:40.340 --> 49:41.980
+You must have seen some good textbooks
+
+49:41.980 --> 49:44.580
+if they had pretty pictures and color.
+
+49:44.580 --> 49:46.260
+Yeah, I mean, I remember,
+
+49:46.260 --> 49:49.260
+I guess it was very, very standard,
+
+49:49.260 --> 49:53.540
+like AP calculus, AP biology, AP chemistry.
+
+49:53.540 --> 49:56.140
+I felt those are like some of the happiest days of my life
+
+49:56.140 --> 49:58.100
+in terms of learning was high school,
+
+49:58.100 --> 50:00.820
+because it was very easy, honestly.
+
+50:02.020 --> 50:03.300
+It felt hard at the time,
+
+50:03.300 --> 50:07.140
+but you're basically doing a world-win tour
+
+50:07.140 --> 50:08.500
+of all the science.
+
+50:08.500 --> 50:09.460
+Yeah, yeah.
+
+50:09.740 --> 50:12.220
+Without having to pick, you do literature,
+
+50:12.220 --> 50:16.740
+you do like Shakespeare, calculus, biology, physics,
+
+50:17.700 --> 50:19.100
+chemistry, what else?
+
+50:19.100 --> 50:23.580
+Anatomy, physiology, computer science,
+
+50:23.580 --> 50:26.780
+without like, nobody's telling you what to do with your life.
+
+50:26.780 --> 50:28.100
+You're just doing all of those things.
+
+50:28.100 --> 50:29.740
+That's a good thing, you're right.
+
+50:29.740 --> 50:32.500
+But I remember the textbooks weren't,
+
+50:32.500 --> 50:35.460
+I mean, maybe I'm romanticizing the past,
+
+50:35.460 --> 50:38.700
+but I remember they weren't, they're pretty good.
+
+50:38.940 --> 50:42.060
+So you think, what role do you think they play still?
+
+50:42.060 --> 50:45.540
+And like in this more modern digital age,
+
+50:45.540 --> 50:47.780
+what's the best materials
+
+50:47.780 --> 50:50.100
+with which to do these kinds of educations?
+
+50:50.100 --> 50:52.900
+Well, I'm intrigued that you had such a good experience
+
+50:52.900 --> 50:53.740
+with textbooks.
+
+50:53.740 --> 50:56.820
+I mean, I can remember loving some textbooks
+
+50:56.820 --> 50:59.540
+I had when I was learning, and I loved books.
+
+50:59.540 --> 51:03.100
+I loved to pick up books and look through them.
+
+51:03.100 --> 51:06.580
+But a lot of maths textbooks
+
+51:06.580 --> 51:08.980
+are not good experiences for kids.
+
+51:10.980 --> 51:12.940
+We have a video on our website
+
+51:12.940 --> 51:14.140
+of the kids who came to our camp,
+
+51:14.140 --> 51:15.660
+and one of the students says,
+
+51:16.540 --> 51:18.860
+in maths, you have to follow the textbook.
+
+51:18.860 --> 51:20.580
+The textbook is kind of like the Bible.
+
+51:20.580 --> 51:22.460
+You have to follow it.
+
+51:22.460 --> 51:25.980
+And every day, it's slightly different.
+
+51:25.980 --> 51:28.820
+Like on Monday, you do 2.3.2,
+
+51:28.820 --> 51:32.540
+and on Tuesday, you do 2.3.3, and on Wednesday.
+
+51:32.540 --> 51:35.140
+And you never go off that.
+
+51:35.140 --> 51:37.900
+That's like every single day.
+
+51:37.900 --> 51:42.580
+And that's not inspiring for a lot of the kids.
+
+51:43.620 --> 51:45.460
+So one of the things they loved about our camp
+
+51:45.460 --> 51:46.900
+was just that there were no books.
+
+51:46.900 --> 51:50.740
+Even though we gave them sheets of paper instead,
+
+51:50.740 --> 51:53.100
+they still felt more free
+
+51:53.100 --> 51:55.180
+because they weren't just like trotting
+
+51:55.180 --> 51:58.100
+through exercises, exercises.
+
+51:58.100 --> 51:59.540
+So-
+
+51:59.540 --> 52:02.100
+Like what a textbook allows you is like,
+
+52:02.100 --> 52:06.660
+you're, the very thing you said they might not like,
+
+52:06.660 --> 52:11.140
+the 2.3, 2., it feels like you're making progress.
+
+52:11.140 --> 52:12.780
+And like it's little celebrations
+
+52:12.780 --> 52:16.220
+because you do the problem and it seems really hard
+
+52:16.220 --> 52:17.340
+and you don't know how to do it.
+
+52:17.340 --> 52:20.980
+And then you try and try and then eventually succeed.
+
+52:20.980 --> 52:23.660
+Then you make that little step and further progress.
+
+52:23.660 --> 52:26.180
+And then you get to the end of a chapter
+
+52:26.180 --> 52:28.060
+and you get to like, it's closure.
+
+52:28.060 --> 52:29.900
+You're like, all right, I got that figured out.
+
+52:29.900 --> 52:31.380
+And then you go on to the next chapter.
+
+52:31.380 --> 52:32.300
+I can see that.
+
+52:32.300 --> 52:34.940
+I mean, I think it could be in a textbook.
+
+52:34.940 --> 52:39.020
+You can have a good experience with a textbook,
+
+52:39.020 --> 52:43.220
+but what's really important is what is in that textbook.
+
+52:43.220 --> 52:45.340
+What are you doing inside it?
+
+52:45.340 --> 52:47.940
+And I mean, I grew up in England
+
+52:47.940 --> 52:50.500
+and in England we learn maths.
+
+52:50.500 --> 52:54.420
+We don't have this separation of algebra and geometry.
+
+52:54.420 --> 52:56.180
+And I don't think any other country
+
+52:56.180 --> 52:58.260
+apart from the US has that.
+
+52:58.260 --> 53:01.260
+But I look at kids in algebra classes
+
+53:02.140 --> 53:02.980
+where they're doing algebra for a year.
+
+53:02.980 --> 53:05.900
+And I think I would have been pretty bored doing that.
+
+53:08.460 --> 53:13.100
+By the way, can we analyze your upbringing real quick?
+
+53:13.100 --> 53:18.100
+Why do British folks call mathematics maths?
+
+53:20.020 --> 53:21.620
+Why is it the plural?
+
+53:21.620 --> 53:23.180
+Is it because of everything you're saying
+
+53:23.180 --> 53:25.220
+or it's a bunch of sub-disciplines?
+
+53:25.220 --> 53:30.220
+Yeah, I mean, mathematics is supposed to be the,
+
+53:32.260 --> 53:35.100
+the different maths that you look at,
+
+53:35.100 --> 53:38.020
+whether you think of that as topics
+
+53:38.020 --> 53:39.780
+like geometry and probability,
+
+53:39.780 --> 53:44.780
+or I think of it as maths is just multi-dimensional
+
+53:45.180 --> 53:48.700
+lots of ways, but that's why it was called mathematics.
+
+53:48.700 --> 53:50.500
+And then it was shortened to maths.
+
+53:50.500 --> 53:53.340
+And then for some reason it was just math in the US.
+
+53:53.340 --> 53:58.340
+But to me, math has that more singular feel to it.
+
+53:58.460 --> 54:01.100
+And there's an expression here,
+
+54:01.940 --> 54:02.780
+which is do the math,
+
+54:02.780 --> 54:05.220
+which basically means do a calculation.
+
+54:05.220 --> 54:07.460
+That's what people mean by do the math.
+
+54:07.460 --> 54:09.340
+So I don't like that expression
+
+54:09.340 --> 54:11.220
+because no math could be anything.
+
+54:11.220 --> 54:12.460
+It doesn't have to be a calculation.
+
+54:12.460 --> 54:14.580
+And so, yeah, I like maths
+
+54:14.580 --> 54:17.300
+because it has more of that broad feel to it.
+
+54:17.300 --> 54:19.180
+Yeah, I love that maths kind of emphasizes
+
+54:19.180 --> 54:21.420
+the multi-dimensional, like variety of different,
+
+54:21.420 --> 54:23.700
+the sub-disciplines, different approaches.
+
+54:23.700 --> 54:25.860
+Yeah, okay.
+
+54:27.300 --> 54:28.660
+But outside of the textbook,
+
+54:28.700 --> 54:33.700
+what do you see like broadly being used?
+
+54:33.700 --> 54:34.940
+You mentioned Sebastian Thrun
+
+54:34.940 --> 54:37.940
+and MOOCs, online education.
+
+54:37.940 --> 54:39.500
+Do you think that's an effective set?
+
+54:39.500 --> 54:40.980
+Can be.
+
+54:40.980 --> 54:45.100
+I mean, online, having great teachers online
+
+54:45.100 --> 54:48.140
+obviously extends those teachers to many more people.
+
+54:48.140 --> 54:49.820
+And that's a wonderful thing.
+
+54:51.500 --> 54:54.300
+I have quite a few online courses myself.
+
+54:54.300 --> 54:56.300
+I got the bug working with Sebastian
+
+54:56.300 --> 54:59.820
+when he had released his first MOOC.
+
+54:59.820 --> 55:02.180
+And I thought, hmm, maybe I could do one
+
+55:02.180 --> 55:03.500
+in maths education.
+
+55:03.500 --> 55:06.460
+And I didn't know if anybody would take it.
+
+55:06.460 --> 55:08.460
+I remember releasing it that first summer
+
+55:08.460 --> 55:09.940
+and it was a free online class
+
+55:09.940 --> 55:13.820
+and 30,000 maths teachers took it that first summer.
+
+55:13.820 --> 55:16.060
+And they were all talking about it with each other
+
+55:16.060 --> 55:16.940
+and sharing it.
+
+55:16.940 --> 55:18.100
+And it was like, took off.
+
+55:18.100 --> 55:23.100
+In fact, it was that MOOC that got me to create U-Cubed
+
+55:24.100 --> 55:26.740
+with Cathy Williams, who's the co-founder
+
+55:26.740 --> 55:30.060
+because people took the MOOC and then they said,
+
+55:30.060 --> 55:32.060
+okay, what now?
+
+55:32.060 --> 55:34.460
+I finished, what can I have next?
+
+55:34.460 --> 55:36.660
+And so that was where we made our website.
+
+55:36.660 --> 55:40.420
+But so yeah, I think online education can be great.
+
+55:40.420 --> 55:45.260
+I do think a lot of the MOOCs don't have great pedagogy.
+
+55:45.260 --> 55:47.380
+They're just a talking head.
+
+55:47.380 --> 55:52.460
+And you can actually engage people in more active ways
+
+55:52.700 --> 55:54.900
+even in online learning.
+
+55:54.900 --> 55:57.780
+So I learned from the Udacity principle
+
+55:57.780 --> 55:59.180
+when I was working at Udacity,
+
+55:59.180 --> 56:02.180
+never to talk more than like five minutes.
+
+56:02.180 --> 56:05.780
+And then to ask people to do something.
+
+56:05.780 --> 56:09.780
+So that's the sort of pedagogy of the online classes I have
+
+56:09.780 --> 56:12.460
+is a little bit of presenting something
+
+56:12.460 --> 56:15.140
+and then people do something and there's a little bit more
+
+56:15.140 --> 56:17.180
+because I think if you have a half hour video,
+
+56:17.180 --> 56:20.980
+you just switch off and start doing other things.
+
+56:20.980 --> 56:24.780
+So the way Udacity did it is like five, 10 minute,
+
+56:24.780 --> 56:29.740
+like a bit of teaching with some visual stuff perhaps.
+
+56:29.740 --> 56:31.140
+And then there's like a quiz almost.
+
+56:31.140 --> 56:33.100
+Then you answer a question, yeah.
+
+56:33.100 --> 56:35.980
+No, that's really effective.
+
+56:35.980 --> 56:37.060
+You mentioned YouCubed.
+
+56:37.060 --> 56:37.980
+So what's the mission?
+
+56:37.980 --> 56:38.820
+What's the goal?
+
+56:38.820 --> 56:40.260
+You mentioned how it started,
+
+56:40.260 --> 56:44.700
+but what's, yeah, where are you at now?
+
+56:44.700 --> 56:46.620
+And what do you, what's your dream with it?
+
+56:46.620 --> 56:48.260
+What are the kind of things
+
+56:48.260 --> 56:50.460
+that people should go and check out on there?
+
+56:50.460 --> 56:52.380
+Yeah, we started YouCubed,
+
+56:52.380 --> 56:54.140
+I guess it was about five years ago now
+
+56:54.140 --> 56:57.340
+and we've had over 52 million visitors to the site.
+
+56:57.340 --> 56:59.420
+So I'm very happy about that.
+
+56:59.420 --> 57:03.860
+And our goal is to share good ideas for teaching
+
+57:03.860 --> 57:08.020
+with teachers, students, parents in maths.
+
+57:08.020 --> 57:10.660
+And to help, we have a sort of sub goal
+
+57:10.660 --> 57:13.260
+of erasing maths anxiety, that's important to us,
+
+57:13.260 --> 57:17.900
+but also to share maths as this beautiful creative subject.
+
+57:17.900 --> 57:21.380
+And it's been really great.
+
+57:21.380 --> 57:23.820
+We have lessons on the site,
+
+57:23.820 --> 57:26.900
+but one of the reasons I thought this was needed
+
+57:26.900 --> 57:29.580
+is there's a lot of knowledge in the academy
+
+57:29.580 --> 57:30.700
+about how to teach maths.
+
+57:30.700 --> 57:34.460
+Well, loads and loads of research and journals
+
+57:34.460 --> 57:38.340
+and lots of things written up, but teachers don't read it.
+
+57:38.340 --> 57:41.100
+They don't have access to it.
+
+57:41.100 --> 57:43.220
+They're often behind pay walls.
+
+57:43.220 --> 57:46.460
+They're written in really inaccessible ways.
+
+57:46.460 --> 57:49.260
+So people wouldn't want to read them or understand them.
+
+57:49.260 --> 57:51.140
+So this actually is a big problem.
+
+57:51.140 --> 57:53.740
+You have this whole industry of people
+
+57:53.740 --> 57:55.700
+finding out how to teach well,
+
+57:55.700 --> 57:58.740
+not sharing it with the people who are teaching.
+
+57:58.740 --> 58:01.380
+So that's why we made YouCubed.
+
+58:01.380 --> 58:03.620
+And instead of just putting articles up saying,
+
+58:03.620 --> 58:05.780
+here's some things to read about how to teach well,
+
+58:05.780 --> 58:08.220
+we translated what was coming from research
+
+58:08.220 --> 58:10.500
+into things that teacher could use.
+
+58:10.500 --> 58:13.580
+So lessons, there were videos to show kids
+
+58:13.580 --> 58:16.380
+and there were tips for parents.
+
+58:16.380 --> 58:17.940
+There were all sorts of things on the site.
+
+58:17.940 --> 58:22.940
+And it's been amazing as we took inspiration
+
+58:23.580 --> 58:24.820
+from the week of code,
+
+58:24.820 --> 58:29.500
+which got teachers to focus on coding for a week.
+
+58:29.500 --> 58:33.860
+And we have this thing called the week of inspirational maths.
+
+58:33.860 --> 58:35.780
+And we say, just try it for a week.
+
+58:35.780 --> 58:39.340
+Just give us one week and try it and see what happens.
+
+58:39.340 --> 58:42.620
+And so it's been downloaded millions of times.
+
+58:42.620 --> 58:44.580
+Teachers use it every year.
+
+58:44.620 --> 58:46.540
+They start the school year with it.
+
+58:46.540 --> 58:49.660
+And what they tell us is it was amazing.
+
+58:49.660 --> 58:51.780
+The kids lights were on, they were excited.
+
+58:51.780 --> 58:52.980
+They loved it.
+
+58:52.980 --> 58:56.020
+And then the week finished and I opened my textbooks
+
+58:56.020 --> 59:00.020
+and the lights went out and they were not interested.
+
+59:00.020 --> 59:04.180
+Yeah, but getting that first inspiration is still powerful.
+
+59:04.180 --> 59:05.020
+It is.
+
+59:05.020 --> 59:09.900
+I wish, what I would love is if we could actually extend
+
+59:09.900 --> 59:11.660
+that for the whole year.
+
+59:11.660 --> 59:13.980
+We're a small team at Stanford
+
+59:13.980 --> 59:17.060
+and we're trying to keep up with great things
+
+59:17.060 --> 59:18.300
+to put on the site.
+
+59:19.700 --> 59:22.540
+We haven't the capacity to produce
+
+59:22.540 --> 59:24.220
+these creative visual maths tasks
+
+59:24.220 --> 59:25.860
+for every year group for every day,
+
+59:25.860 --> 59:27.180
+but I would love to do that.
+
+59:27.180 --> 59:28.620
+How difficult is it to do?
+
+59:28.620 --> 59:33.620
+I mean, it's to come up with visual formulations
+
+59:34.700 --> 59:39.100
+of these big important topics you need to think about
+
+59:39.140 --> 59:43.420
+in a way that you could teach.
+
+59:43.420 --> 59:44.820
+I mean, we can do it.
+
+59:44.820 --> 59:47.460
+We actually, we went from the week of inspirational maths
+
+59:47.460 --> 59:52.020
+and we made K-8 maths books with exactly that.
+
+59:52.020 --> 59:54.980
+Big ideas, rich activities, visuals.
+
+59:54.980 --> 59:56.620
+We just finished the last one.
+
+59:56.620 --> 59:59.020
+We've been doing it for five years
+
+59:59.020 --> 01:00:01.700
+and it's been exhausting and we just finished.
+
+01:00:01.700 --> 01:00:05.620
+So now there's a whole K-8 set of books
+
+01:00:05.620 --> 01:00:07.180
+and they're organized in that way.
+
+01:00:07.180 --> 01:00:08.380
+These are the big ideas.
+
+01:00:08.380 --> 01:00:10.340
+Here are rich, deep activities.
+
+01:00:12.060 --> 01:00:16.100
+They're not though what you can do every day for a year.
+
+01:00:16.100 --> 01:00:19.100
+So some teachers use them as a kind of supplement
+
+01:00:19.100 --> 01:00:21.060
+to their boring textbook.
+
+01:00:21.060 --> 01:00:24.420
+And some people have said, okay, this is the year.
+
+01:00:24.420 --> 01:00:26.500
+This book tells us what the year is
+
+01:00:26.500 --> 01:00:29.220
+and then we'll supplement these big activities with.
+
+01:00:30.460 --> 01:00:34.460
+So they're being used and teachers really like them
+
+01:00:34.460 --> 01:00:36.260
+and are really happy about them.
+
+01:00:36.260 --> 01:00:37.500
+I just always want more.
+
+01:00:37.740 --> 01:00:40.260
+And I guess one of the things I would like for U-Cubed,
+
+01:00:40.260 --> 01:00:43.620
+one of my personal goals is that every teacher of maths
+
+01:00:43.620 --> 01:00:45.500
+knows about U-Cubed.
+
+01:00:45.500 --> 01:00:48.500
+At the moment, a lot of teachers who come to us
+
+01:00:48.500 --> 01:00:49.820
+are really happy they found it,
+
+01:00:49.820 --> 01:00:51.220
+but there's a lot of other teachers
+
+01:00:51.220 --> 01:00:53.620
+who don't know that it exists.
+
+01:00:53.620 --> 01:00:54.940
+I hope this helps.
+
+01:00:54.940 --> 01:00:55.980
+Yeah.
+
+01:00:55.980 --> 01:00:59.460
+From a student perspective and not in the classroom,
+
+01:00:59.460 --> 01:01:04.460
+but at home studying, is there some advice you can give?
+
+01:01:04.500 --> 01:01:06.860
+On how to best study mathematics?
+
+01:01:06.860 --> 01:01:09.660
+So what's the role of the student outside the classroom?
+
+01:01:10.780 --> 01:01:14.700
+Yeah, I think one thing we know is a lot of people,
+
+01:01:14.700 --> 01:01:16.740
+when they review material,
+
+01:01:16.740 --> 01:01:18.340
+whether it's maths or anything else,
+
+01:01:18.340 --> 01:01:20.580
+don't do it in the best way.
+
+01:01:20.580 --> 01:01:24.140
+I think a problem a lot of people have is they read through
+
+01:01:24.140 --> 01:01:28.580
+maybe a teacher's explanation or a way of doing maths
+
+01:01:28.580 --> 01:01:30.980
+and it makes sense and they think, oh yeah, I've got that.
+
+01:01:30.980 --> 01:01:31.820
+And they move forward.
+
+01:01:31.860 --> 01:01:35.420
+But then it's not until you come to try and work on something
+
+01:01:35.420 --> 01:01:36.820
+and do a problem that you actually realise
+
+01:01:36.820 --> 01:01:38.060
+you didn't really understand it,
+
+01:01:38.060 --> 01:01:39.460
+just seemed to make sense.
+
+01:01:40.420 --> 01:01:44.020
+So I would say this is also something
+
+01:01:44.020 --> 01:01:46.180
+that New York scientists talk about,
+
+01:01:46.180 --> 01:01:48.980
+to keep giving yourself questions
+
+01:01:48.980 --> 01:01:52.220
+is a really good way to study,
+
+01:01:52.220 --> 01:01:54.900
+rather than looking through lots of material.
+
+01:01:54.900 --> 01:01:57.540
+It's always like giving yourself lots of tests
+
+01:01:57.540 --> 01:01:59.900
+and trying to figure out how to do it.
+
+01:02:00.100 --> 01:02:02.540
+Giving yourself lots of tests
+
+01:02:02.540 --> 01:02:05.420
+is a good way to actually deeply understand things
+
+01:02:05.420 --> 01:02:07.620
+and know what you do when you don't understand.
+
+01:02:07.620 --> 01:02:11.460
+So would the questions be in the form of
+
+01:02:11.460 --> 01:02:14.500
+the material you're reviewing is the answer to that question?
+
+01:02:14.500 --> 01:02:16.100
+Or is it almost like beyond,
+
+01:02:16.100 --> 01:02:18.940
+it's the polygon thing you mentioned for a square?
+
+01:02:18.940 --> 01:02:22.820
+Is it almost like, I wonder, what is the bigger picture?
+
+01:02:22.820 --> 01:02:26.220
+I was kind of asking how is this extended and so on.
+
+01:02:26.220 --> 01:02:28.740
+Yeah, that would be great.
+
+01:02:28.740 --> 01:02:30.220
+And it's a similar,
+
+01:02:30.220 --> 01:02:32.500
+I mean, a question I get asked a lot is about homework.
+
+01:02:32.500 --> 01:02:34.980
+What is a good thing for kids to do for homework?
+
+01:02:34.980 --> 01:02:36.980
+And one of the recommendations I give
+
+01:02:36.980 --> 01:02:41.980
+is to not have kids just do lots of questions for homework,
+
+01:02:42.820 --> 01:02:46.100
+but to actually ask them to reflect on what they've learned.
+
+01:02:46.100 --> 01:02:49.740
+Like, what was the big idea you learned today?
+
+01:02:49.740 --> 01:02:51.940
+Or what did you find difficult?
+
+01:02:51.940 --> 01:02:53.500
+What did you struggle with?
+
+01:02:53.500 --> 01:02:56.500
+What was something that was exciting?
+
+01:02:57.500 --> 01:03:01.140
+Then kids go home and they have to kind of reflect
+
+01:03:01.140 --> 01:03:02.460
+in a deeper way.
+
+01:03:02.460 --> 01:03:04.540
+A lot of times, I don't know if you had this experience
+
+01:03:04.540 --> 01:03:06.700
+as a math student, lots of people do.
+
+01:03:06.700 --> 01:03:08.820
+Kids are going through maths questions,
+
+01:03:08.820 --> 01:03:10.940
+they're successful, they get them right,
+
+01:03:10.940 --> 01:03:13.980
+but they don't even really know what they're about.
+
+01:03:13.980 --> 01:03:17.220
+And a lot of kids go through many years of maths like that,
+
+01:03:17.220 --> 01:03:18.220
+doing lots of questions,
+
+01:03:18.220 --> 01:03:21.980
+but they're really knowing what even the topic is
+
+01:03:21.980 --> 01:03:24.460
+or what it's about, what it's important for.
+
+01:03:24.460 --> 01:03:28.780
+So having students go back and think at the end of a day,
+
+01:03:28.780 --> 01:03:31.660
+what was the big idea from this maths lesson?
+
+01:03:31.660 --> 01:03:33.340
+Why is it important?
+
+01:03:33.340 --> 01:03:36.060
+Where would I find that in real life?
+
+01:03:36.060 --> 01:03:38.740
+Those are really good questions for kids
+
+01:03:38.740 --> 01:03:39.980
+to be thinking about.
+
+01:03:39.980 --> 01:03:42.420
+It's probably for everybody to be thinking about.
+
+01:03:42.420 --> 01:03:44.380
+I think most of us go through life
+
+01:03:44.380 --> 01:03:48.220
+never asking the bigger question.
+
+01:03:48.220 --> 01:03:52.500
+Always those layers of why questions that kids ask
+
+01:03:52.500 --> 01:03:53.980
+when they're very young.
+
+01:03:54.180 --> 01:03:55.980
+We need to keep doing that.
+
+01:03:55.980 --> 01:03:56.820
+We do.
+
+01:03:58.700 --> 01:04:01.420
+Whatever the term is, you call first principles thinking,
+
+01:04:01.420 --> 01:04:04.380
+some people call it that, which is like,
+
+01:04:05.540 --> 01:04:08.540
+why are we doing it this way?
+
+01:04:08.540 --> 01:04:11.740
+So one nice thing is to do that
+
+01:04:11.740 --> 01:04:13.380
+because there's usually a good answer.
+
+01:04:13.380 --> 01:04:15.380
+The reason we did it this way
+
+01:04:15.380 --> 01:04:17.780
+is because it works for this reason.
+
+01:04:17.780 --> 01:04:20.620
+But then if you want to do something totally novel,
+
+01:04:20.940 --> 01:04:24.220
+you'll say, well, we've been doing it this way
+
+01:04:26.340 --> 01:04:28.620
+because of historical reasons,
+
+01:04:28.620 --> 01:04:30.540
+but really this is not the best way to do it.
+
+01:04:30.540 --> 01:04:32.220
+There might be other ways.
+
+01:04:32.220 --> 01:04:34.460
+And that's how invention happens.
+
+01:04:34.460 --> 01:04:35.540
+And then you get, you know,
+
+01:04:35.540 --> 01:04:38.340
+that's really useful in every aspect of life,
+
+01:04:38.340 --> 01:04:42.380
+like choosing your career, choosing your,
+
+01:04:42.380 --> 01:04:44.820
+I don't know, where you live,
+
+01:04:44.820 --> 01:04:47.740
+who your romantic partner is, everything.
+
+01:04:47.740 --> 01:04:48.940
+Everything, yeah.
+
+01:04:48.980 --> 01:04:53.220
+And I think it probably starts doing that in math class.
+
+01:04:54.260 --> 01:04:56.340
+That would be good if we started doing that.
+
+01:04:56.340 --> 01:05:01.020
+I mean, I wonder, I probably didn't do very much of that
+
+01:05:01.020 --> 01:05:03.820
+for most of my education, asking why,
+
+01:05:03.820 --> 01:05:08.220
+except for later, much later in the subjects
+
+01:05:08.220 --> 01:05:12.300
+on like grad school when you're doing research on them.
+
+01:05:12.300 --> 01:05:16.700
+When your first task or doing something novel using this
+
+01:05:16.820 --> 01:05:20.020
+or solving a problem really outside the classroom,
+
+01:05:20.020 --> 01:05:20.860
+they have to publish on it.
+
+01:05:20.860 --> 01:05:23.260
+It's the first time you think, wait,
+
+01:05:23.260 --> 01:05:27.100
+why are these things interesting, useful?
+
+01:05:27.100 --> 01:05:29.460
+Which are the things that are useful?
+
+01:05:29.460 --> 01:05:31.700
+And yeah, I guess that would be nice
+
+01:05:31.700 --> 01:05:35.300
+if we did that much earlier, that the quest of invention.
+
+01:05:35.300 --> 01:05:36.980
+Yeah, yeah.
+
+01:05:36.980 --> 01:05:39.700
+I mean, one of the sad pieces of research data
+
+01:05:39.700 --> 01:05:44.620
+I think about is the questions kids ask in school
+
+01:05:44.620 --> 01:05:49.620
+goes down like in a linear progression
+
+01:05:49.820 --> 01:05:51.460
+from in the early years,
+
+01:05:51.460 --> 01:05:53.820
+you can't stop kids asking those questions,
+
+01:05:53.820 --> 01:05:56.780
+but they learn not to ask the questions.
+
+01:05:56.780 --> 01:06:00.060
+I think you told somewhere about an early memory
+
+01:06:00.060 --> 01:06:04.740
+you had in your own education where you asked the question,
+
+01:06:04.740 --> 01:06:06.340
+or maybe that was an example you gave,
+
+01:06:06.340 --> 01:06:07.500
+but it was shut down.
+
+01:06:07.500 --> 01:06:08.940
+Oh, yeah.
+
+01:06:08.940 --> 01:06:10.940
+You've listened to something I said, yeah.
+
+01:06:12.180 --> 01:06:13.340
+I don't remember where it was,
+
+01:06:13.340 --> 01:06:15.220
+but it caught me.
+
+01:06:15.220 --> 01:06:17.700
+Yeah, I remember it really vividly.
+
+01:06:17.700 --> 01:06:19.860
+Well, can you tell the memory?
+
+01:06:19.860 --> 01:06:21.820
+Yeah, it's funny I can remember.
+
+01:06:21.820 --> 01:06:23.980
+It must've really impacted me in that moment
+
+01:06:23.980 --> 01:06:26.300
+because you know how there's lots of hours of school
+
+01:06:26.300 --> 01:06:27.260
+you don't remember at all.
+
+01:06:27.260 --> 01:06:30.260
+But anyway, I can remember where I was sitting
+
+01:06:30.260 --> 01:06:31.100
+and everything.
+
+01:06:31.100 --> 01:06:33.380
+I was in a high school maths class,
+
+01:06:33.380 --> 01:06:35.300
+although they don't call it that in England,
+
+01:06:35.300 --> 01:06:39.060
+and the teacher said,
+
+01:06:39.060 --> 01:06:41.980
+and it was like the first class of this teacher's class,
+
+01:06:42.060 --> 01:06:44.460
+and he said, ask if you have any questions.
+
+01:06:44.460 --> 01:06:46.900
+So at one point, I put my hand up and I said,
+
+01:06:46.900 --> 01:06:49.340
+I have a question, and he said something like,
+
+01:06:49.340 --> 01:06:50.580
+that's your question?
+
+01:06:53.900 --> 01:06:56.940
+And I was like, okay, I'm not asking any more questions
+
+01:06:56.940 --> 01:06:57.780
+in this class.
+
+01:06:57.780 --> 01:07:00.020
+And that hit hard in a way where you didn't wanna,
+
+01:07:00.020 --> 01:07:02.100
+the lesson you learned from that is I'm not gonna ask.
+
+01:07:02.100 --> 01:07:04.060
+Yeah, that was absolutely the lesson I asked.
+
+01:07:04.060 --> 01:07:06.420
+That's the last question I'm asking.
+
+01:07:06.420 --> 01:07:11.420
+And that was, yeah, he was the chair of the maths department.
+
+01:07:12.060 --> 01:07:13.780
+I remember that really well.
+
+01:07:13.780 --> 01:07:18.140
+So maybe because of that experience,
+
+01:07:18.140 --> 01:07:20.500
+one of the things we encourage when we teach kids
+
+01:07:20.500 --> 01:07:22.260
+is asking questions, and we value it
+
+01:07:22.260 --> 01:07:23.100
+when they ask questions,
+
+01:07:23.100 --> 01:07:25.820
+and we put them up on walls and celebrate.
+
+01:07:28.020 --> 01:07:31.460
+It's funny, because I wish there was a feedback signal
+
+01:07:31.460 --> 01:07:35.140
+because he probably, to put a positive spin on it,
+
+01:07:35.140 --> 01:07:37.540
+he probably didn't realize the negative impact
+
+01:07:37.540 --> 01:07:38.820
+he's had in that moment, right?
+
+01:07:38.820 --> 01:07:41.260
+If he only knew, see, this is probably
+
+01:07:41.260 --> 01:07:44.180
+when you're more mature in grad school.
+
+01:07:44.180 --> 01:07:47.020
+He had an amazing professor named Alisha Kafande
+
+01:07:47.020 --> 01:07:48.740
+in computer science.
+
+01:07:48.740 --> 01:07:51.300
+And he would encourage questions,
+
+01:07:51.300 --> 01:07:52.500
+but then he would tell everybody
+
+01:07:52.500 --> 01:07:54.340
+how dumb their questions are.
+
+01:07:54.340 --> 01:07:57.420
+But it was, I guess, if you show,
+
+01:07:57.420 --> 01:08:00.820
+if you say it with love and respect behind it,
+
+01:08:00.820 --> 01:08:03.780
+then it's more like a friendly, humorous encouragement
+
+01:08:03.780 --> 01:08:05.460
+for more questions.
+
+01:08:05.460 --> 01:08:06.380
+It's an art, right?
+
+01:08:06.380 --> 01:08:09.140
+Yeah, teaching is very hard.
+
+01:08:09.140 --> 01:08:10.300
+You have to time it right,
+
+01:08:10.380 --> 01:08:13.180
+because that kind of humor is probably better
+
+01:08:13.180 --> 01:08:15.540
+for when you're in grad school
+
+01:08:15.540 --> 01:08:18.060
+versus when you're in early education.
+
+01:08:18.060 --> 01:08:18.900
+Right.
+
+01:08:18.900 --> 01:08:22.380
+Well, and I guess kids or young people get
+
+01:08:22.380 --> 01:08:27.380
+whether somebody's doing it to be funny or, you know,
+
+01:08:28.180 --> 01:08:31.220
+has it, I mean, this is why teaching is so hard.
+
+01:08:31.220 --> 01:08:35.220
+Even your tone can be impactful.
+
+01:08:35.220 --> 01:08:39.740
+It's so sad, because for that particular human,
+
+01:08:40.180 --> 01:08:42.820
+the teacher, you just had a bad day,
+
+01:08:42.820 --> 01:08:45.980
+and one statement can have a profound negative impact.
+
+01:08:45.980 --> 01:08:48.860
+I know, sadly, that math,
+
+01:08:48.860 --> 01:08:50.140
+there's a lot of math teachers
+
+01:08:50.140 --> 01:08:52.020
+who have that kind of approach.
+
+01:08:52.020 --> 01:08:56.020
+And they, I think they're suffering from the fact
+
+01:08:56.020 --> 01:08:58.260
+that they think people are math people, not math people.
+
+01:08:58.260 --> 01:09:01.100
+And that comes across in their teaching.
+
+01:09:01.100 --> 01:09:03.780
+But on the flip side, one positive statement,
+
+01:09:03.780 --> 01:09:04.740
+to keep them going.
+
+01:09:04.740 --> 01:09:05.580
+That's right.
+
+01:09:05.580 --> 01:09:07.260
+That is the flip side of that.
+
+01:09:07.260 --> 01:09:09.900
+And I myself had like one teacher
+
+01:09:09.900 --> 01:09:12.580
+who was really amazing for me in maths,
+
+01:09:12.580 --> 01:09:14.860
+and she kept me in the subject.
+
+01:09:14.860 --> 01:09:16.300
+I believe we left it.
+
+01:09:16.300 --> 01:09:17.140
+Who was she?
+
+01:09:17.140 --> 01:09:20.860
+She was, her name was Mrs. Marshall.
+
+01:09:22.860 --> 01:09:27.620
+And she was my A-level maths teacher.
+
+01:09:27.620 --> 01:09:30.020
+So I was in England.
+
+01:09:30.020 --> 01:09:32.020
+You do lots of subjects, so you're 16,
+
+01:09:32.020 --> 01:09:35.300
+and then you choose like three or four subjects.
+
+01:09:35.300 --> 01:09:40.300
+So I had chosen maths and you go to higher levels.
+
+01:09:41.460 --> 01:09:44.700
+Probably equivalent more to a master's degree in the US
+
+01:09:44.700 --> 01:09:46.220
+because you're more specialized.
+
+01:09:46.220 --> 01:09:48.780
+But anyways, she was my teacher.
+
+01:09:48.780 --> 01:09:52.740
+And for the first time in my whole career in maths,
+
+01:09:52.740 --> 01:09:54.340
+she would give us problems
+
+01:09:54.340 --> 01:09:58.020
+and tell us to talk about them with each other.
+
+01:09:58.020 --> 01:10:01.020
+And so here I was sitting there like 17,
+
+01:10:01.020 --> 01:10:04.020
+talking with friends about how to solve a math problem.
+
+01:10:04.020 --> 01:10:04.860
+And that was it.
+
+01:10:05.380 --> 01:10:07.820
+That was the change that she made,
+
+01:10:07.820 --> 01:10:10.060
+but it was profound for me
+
+01:10:10.060 --> 01:10:13.420
+because like those calculus students,
+
+01:10:13.420 --> 01:10:16.220
+I started to hear other people's ways of thinking
+
+01:10:16.220 --> 01:10:17.980
+and seeing it, and we would talk together
+
+01:10:17.980 --> 01:10:19.900
+and come up with solutions.
+
+01:10:19.900 --> 01:10:22.900
+And I was like, that was it, that changed maths for me.
+
+01:10:22.900 --> 01:10:25.580
+So it wasn't some kind of personal interaction with her.
+
+01:10:25.580 --> 01:10:29.260
+It was more like she was the catalyst
+
+01:10:29.260 --> 01:10:32.060
+for that collaborative experience.
+
+01:10:32.060 --> 01:10:35.020
+I mean, yeah, the many ways teachers can inspire kids.
+
+01:10:35.020 --> 01:10:36.940
+I mean, sometimes it's a personal message,
+
+01:10:36.940 --> 01:10:39.860
+but it can be your teaching approach
+
+01:10:39.860 --> 01:10:42.460
+that changes maths for kids.
+
+01:10:42.460 --> 01:10:47.460
+You know, Cal Newport, he wrote a book called Deep Work
+
+01:10:48.580 --> 01:10:51.500
+and he's a mathematician, theoretical computer scientist.
+
+01:10:51.500 --> 01:10:55.740
+And he talks about the kind of the focus required
+
+01:10:55.740 --> 01:10:57.180
+to do that kind of work.
+
+01:10:58.100 --> 01:11:01.780
+Is there something you can comment on?
+
+01:11:02.540 --> 01:11:04.980
+You know, we live in a world full of distractions.
+
+01:11:04.980 --> 01:11:08.420
+That seems like one of the elements that makes studying
+
+01:11:08.420 --> 01:11:10.300
+and especially the studying of subjects
+
+01:11:10.300 --> 01:11:14.540
+that require thinking like math does, difficult.
+
+01:11:14.540 --> 01:11:17.460
+Is there something from a student perspective,
+
+01:11:17.460 --> 01:11:20.700
+from a teacher perspective that encourages deep work
+
+01:11:20.700 --> 01:11:21.540
+that you can comment on?
+
+01:11:21.540 --> 01:11:26.540
+Yeah, I think giving kids really inspiring deep problems
+
+01:11:27.540 --> 01:11:30.380
+and we have some on our website
+
+01:11:30.380 --> 01:11:33.140
+is a really important experience for them.
+
+01:11:34.220 --> 01:11:37.380
+Even if they only do it occasionally,
+
+01:11:37.380 --> 01:11:39.220
+but it's really important.
+
+01:11:39.220 --> 01:11:43.580
+They actually realize, I give a problem out often
+
+01:11:43.580 --> 01:11:46.220
+when I'm working with teachers and I say to them,
+
+01:11:46.220 --> 01:11:48.980
+all right, I'm gonna check in with you after an hour.
+
+01:11:48.980 --> 01:11:50.700
+And they were like, an hour?
+
+01:11:50.700 --> 01:11:52.700
+They think it's shocking.
+
+01:11:52.700 --> 01:11:54.660
+And then they work on this problem.
+
+01:11:55.420 --> 01:11:57.980
+And after an hour, I say, okay, how are we doing?
+
+01:11:57.980 --> 01:11:59.580
+They're like, an hour's gone by?
+
+01:12:00.660 --> 01:12:01.980
+How is this possible?
+
+01:12:01.980 --> 01:12:06.980
+And so everybody needs those like rich, deep problems.
+
+01:12:08.340 --> 01:12:12.020
+Most kids go through their whole maths experience
+
+01:12:12.020 --> 01:12:16.140
+of however many years never once working on a problem
+
+01:12:16.140 --> 01:12:18.060
+in that kind of deep way.
+
+01:12:18.060 --> 01:12:22.780
+So the undergrad class I teach at Stanford, we do that.
+
+01:12:22.780 --> 01:12:26.340
+We work on these deep problems every session
+
+01:12:26.340 --> 01:12:28.100
+and the students come away going,
+
+01:12:28.100 --> 01:12:31.100
+okay, I never wanna go back to that maths relationship
+
+01:12:31.100 --> 01:12:32.940
+I had where it was just all about quick answers.
+
+01:12:32.940 --> 01:12:35.700
+I just don't wanna go back to that.
+
+01:12:35.700 --> 01:12:40.700
+And so we can all, all teachers can incorporate
+
+01:12:40.860 --> 01:12:42.380
+those problems in their classrooms.
+
+01:12:42.380 --> 01:12:43.620
+Maybe they don't do them every day,
+
+01:12:43.620 --> 01:12:47.260
+but they at least give kids some experience
+
+01:12:47.260 --> 01:12:50.900
+of being able to work slowly and deeply
+
+01:12:50.900 --> 01:12:52.980
+and to go to deeper places
+
+01:12:52.980 --> 01:12:57.860
+and not be told they've got five minutes
+
+01:12:57.860 --> 01:12:59.740
+to finish 20 questions.
+
+01:12:59.740 --> 01:13:03.860
+But part of it is also just the exercise
+
+01:13:03.860 --> 01:13:05.380
+of sitting there and maintaining focus
+
+01:13:05.380 --> 01:13:07.060
+or prolonged periods of time.
+
+01:13:07.060 --> 01:13:11.980
+That's not often, I mean, that's a skill.
+
+01:13:11.980 --> 01:13:16.060
+It's a skill that also could be discouraging.
+
+01:13:16.060 --> 01:13:18.180
+Like if you don't practice it,
+
+01:13:18.180 --> 01:13:20.580
+just sitting down for 10 minutes straight
+
+01:13:21.260 --> 01:13:23.500
+or maintaining deep focus could be exceptionally challenging.
+
+01:13:23.500 --> 01:13:26.620
+Like if you're really thinking about a problem.
+
+01:13:26.620 --> 01:13:29.260
+And I think it's really important to realize
+
+01:13:29.260 --> 01:13:31.060
+that that's a skill that you can,
+
+01:13:31.060 --> 01:13:32.460
+just like a muscle you can build,
+
+01:13:32.460 --> 01:13:33.580
+you can start with five minutes
+
+01:13:33.580 --> 01:13:36.740
+and it goes to 10 minutes to 30 and to an hour.
+
+01:13:36.740 --> 01:13:39.060
+And to be successful, I think in certain subjects
+
+01:13:39.060 --> 01:13:42.580
+like mathematics, you wanna be able to develop that skill.
+
+01:13:42.580 --> 01:13:46.700
+Otherwise, you're not going to get
+
+01:13:46.740 --> 01:13:49.780
+to the really rewarding experience
+
+01:13:49.780 --> 01:13:51.420
+of solving these problems.
+
+01:13:52.500 --> 01:13:53.620
+Definitely.
+
+01:13:53.620 --> 01:13:55.980
+There was a survey done of kids in school
+
+01:13:55.980 --> 01:13:56.820
+where they were asked,
+
+01:13:56.820 --> 01:13:58.420
+how long will you work on a maths problem
+
+01:13:58.420 --> 01:14:02.540
+before you give up and decide it's not possible to solve it?
+
+01:14:02.540 --> 01:14:06.860
+And the result on average across the kids was two minutes.
+
+01:14:11.340 --> 01:14:13.500
+Yeah, that's a bad sign,
+
+01:14:13.500 --> 01:14:15.460
+but that was a powerful sign
+
+01:14:15.460 --> 01:14:19.620
+that they need to learn to not give up so quickly.
+
+01:14:19.620 --> 01:14:22.900
+Yeah, we mentioned offline
+
+01:14:22.900 --> 01:14:25.660
+because we've been talking so much about visualization.
+
+01:14:26.780 --> 01:14:29.300
+Grant Sanderson, Three Luan Brown.
+
+01:14:29.300 --> 01:14:32.140
+So he's inspired millions of people
+
+01:14:32.140 --> 01:14:35.580
+with kind of exactly the kind of way of thinking
+
+01:14:35.580 --> 01:14:36.740
+that you've been talking about.
+
+01:14:36.740 --> 01:14:39.060
+Yeah, I love his work.
+
+01:14:39.060 --> 01:14:42.780
+Converting sort of mathematical concepts
+
+01:14:42.780 --> 01:14:44.180
+into visual,
+
+01:14:46.580 --> 01:14:49.580
+visually representing them, exploring them in ways
+
+01:14:49.580 --> 01:14:52.220
+that help you illuminate the concepts.
+
+01:14:53.380 --> 01:14:55.100
+What do you think is the role of that?
+
+01:14:55.100 --> 01:14:58.100
+So he uses mostly programmatic visualizations.
+
+01:14:58.100 --> 01:14:59.220
+So it's the thing I mentioned
+
+01:14:59.220 --> 01:15:04.220
+where there's animations created by writing computer programs.
+
+01:15:05.820 --> 01:15:08.460
+What do you think, how scalable is that approach?
+
+01:15:08.460 --> 01:15:10.500
+But in general, what do you think about his approach?
+
+01:15:10.500 --> 01:15:11.940
+I think it's amazing.
+
+01:15:11.940 --> 01:15:13.220
+I should work with him.
+
+01:15:14.740 --> 01:15:17.100
+I can share some of our visuals
+
+01:15:17.100 --> 01:15:19.660
+and he can make them in that amazing way.
+
+01:15:21.020 --> 01:15:23.140
+So part of his storytelling,
+
+01:15:23.140 --> 01:15:26.460
+part of it is creating the visuals
+
+01:15:26.460 --> 01:15:29.500
+and then weaving a story with those visuals
+
+01:15:29.500 --> 01:15:31.100
+that kind of builds.
+
+01:15:31.100 --> 01:15:35.060
+There's also, I mean, there's also drama in it.
+
+01:15:35.060 --> 01:15:36.620
+You start with a small example
+
+01:15:36.620 --> 01:15:39.660
+and then all of a sudden there's a surprise.
+
+01:15:39.660 --> 01:15:41.180
+Yeah, yeah, yeah.
+
+01:15:41.260 --> 01:15:43.500
+And it really, I mean, it makes you fall in love
+
+01:15:43.500 --> 01:15:45.620
+with the concept.
+
+01:15:45.620 --> 01:15:47.100
+He does talk about that.
+
+01:15:48.540 --> 01:15:50.860
+His sense is like some of the stuff,
+
+01:15:50.860 --> 01:15:53.940
+he doesn't feel like he's teaching
+
+01:15:55.260 --> 01:15:58.500
+like the core curriculum, which is something,
+
+01:15:59.780 --> 01:16:03.300
+he sees himself as an inspirational figure.
+
+01:16:04.140 --> 01:16:06.900
+Because I think it's too difficult to kind of convert
+
+01:16:06.900 --> 01:16:09.660
+all of the curriculum into those elements.
+
+01:16:09.820 --> 01:16:11.060
+And probably you don't need to.
+
+01:16:11.060 --> 01:16:15.980
+I mean, if people get to experience mathematical ideas
+
+01:16:15.980 --> 01:16:20.060
+in the way that he shares them, that will change them
+
+01:16:20.060 --> 01:16:21.620
+and it will change the way they think.
+
+01:16:21.620 --> 01:16:23.860
+And maybe they could go on to take
+
+01:16:23.860 --> 01:16:26.340
+some other mathematical idea and make it that beautiful.
+
+01:16:26.340 --> 01:16:27.340
+Well, he does that.
+
+01:16:28.940 --> 01:16:32.980
+He created a library called Manum and he open sourced it.
+
+01:16:32.980 --> 01:16:36.460
+And that library is the, people should check it out.
+
+01:16:36.460 --> 01:16:41.460
+It's written in Python and uses some of those same elements.
+
+01:16:42.020 --> 01:16:44.100
+Like it allows you to animate equations
+
+01:16:44.100 --> 01:16:47.660
+and animate little shapes, like people that,
+
+01:16:47.660 --> 01:16:50.380
+he has a very distinct style in his videos.
+
+01:16:50.380 --> 01:16:52.580
+And what that resulted in, even though
+
+01:16:52.580 --> 01:16:54.220
+from a software engineer perspective,
+
+01:16:54.220 --> 01:16:57.820
+the code he released is not like super well documented
+
+01:16:57.820 --> 01:17:00.540
+or perfect, but him releasing that,
+
+01:17:01.820 --> 01:17:05.260
+now there's all of these people educating it.
+
+01:17:05.300 --> 01:17:07.620
+And the cool, to me personally, the coolest thing
+
+01:17:07.620 --> 01:17:11.220
+is to see like people that are not,
+
+01:17:11.220 --> 01:17:13.860
+you know, don't have like a million subscribers
+
+01:17:13.860 --> 01:17:17.540
+or something, they have just a few views in the video,
+
+01:17:17.540 --> 01:17:21.580
+but it just seems like the process of them
+
+01:17:21.580 --> 01:17:24.420
+creating a video where they teach
+
+01:17:24.420 --> 01:17:27.260
+is like transformative to them from a student perspective.
+
+01:17:27.260 --> 01:17:28.420
+It's the old Feynman thing,
+
+01:17:28.420 --> 01:17:30.340
+the best way to learn is to teach.
+
+01:17:30.340 --> 01:17:33.780
+And then him releasing that into the wild is,
+
+01:17:33.940 --> 01:17:35.860
+it shows that impact.
+
+01:17:35.860 --> 01:17:37.540
+Yeah, absolutely.
+
+01:17:37.540 --> 01:17:39.900
+I think just giving people that idea
+
+01:17:39.900 --> 01:17:42.980
+that you can do that with maths and other subjects,
+
+01:17:42.980 --> 01:17:45.740
+there's bound to be people all around
+
+01:17:45.740 --> 01:17:48.820
+who can create more, which is cool.
+
+01:17:48.820 --> 01:17:51.220
+Yeah, they definitely, so I recommend people do
+
+01:17:51.220 --> 01:17:54.540
+like JavaScript or Python, you can build like visualizations
+
+01:17:54.540 --> 01:17:58.060
+of most concepts in high school math,
+
+01:17:58.060 --> 01:18:00.100
+you can do a lot of kinds of visualizations
+
+01:18:00.100 --> 01:18:02.980
+and doing that yourself, plus if you do that yourself,
+
+01:18:02.980 --> 01:18:04.460
+people will really love it.
+
+01:18:04.460 --> 01:18:09.060
+People actually, people love visualizations of math.
+
+01:18:09.060 --> 01:18:09.900
+Yeah.
+
+01:18:09.900 --> 01:18:12.460
+I mean, it's something in us that loves patterns,
+
+01:18:12.460 --> 01:18:14.380
+loves figuring out difficult things
+
+01:18:14.380 --> 01:18:19.100
+and the patterns that are unexpected in some way.
+
+01:18:19.100 --> 01:18:22.100
+Yeah, have you ever noticed that hotels
+
+01:18:22.100 --> 01:18:24.300
+are always filled with patterns?
+
+01:18:24.300 --> 01:18:26.420
+I was just noticing at the hotel, I mean now,
+
+01:18:26.420 --> 01:18:28.780
+all of their carpets are pattern carpets
+
+01:18:28.780 --> 01:18:30.980
+and then they have patterns on the walls.
+
+01:18:30.980 --> 01:18:31.820
+Yeah.
+
+01:18:32.580 --> 01:18:33.420
+Yeah.
+
+01:18:33.420 --> 01:18:36.500
+We humans love the symmetry and patterns,
+
+01:18:36.500 --> 01:18:38.900
+the breaking of symmetry and patterns.
+
+01:18:38.900 --> 01:18:39.980
+Yeah.
+
+01:18:39.980 --> 01:18:42.940
+And it's funny that we don't see mathematics
+
+01:18:42.940 --> 01:18:46.020
+as somehow intricately connected to that, but it is.
+
+01:18:46.020 --> 01:18:47.420
+I mean, that's one of the perspectives
+
+01:18:47.420 --> 01:18:51.020
+I love students to take is to be a pattern seeker.
+
+01:18:51.020 --> 01:18:52.260
+In everything.
+
+01:18:52.260 --> 01:18:53.900
+Yeah, certainly in all of maths.
+
+01:18:53.900 --> 01:18:55.380
+I mean, you can think of all of maths
+
+01:18:55.380 --> 01:18:57.220
+as a kind of subject of patterns
+
+01:18:57.220 --> 01:19:00.100
+and not just visual patterns,
+
+01:19:00.100 --> 01:19:05.100
+but when you think about multiplying by five
+
+01:19:05.740 --> 01:19:10.740
+and the fact you can, if you're multiplying 18 times five,
+
+01:19:11.300 --> 01:19:13.820
+you can instead think of nine times 10.
+
+01:19:14.700 --> 01:19:17.260
+That's a pattern that always works in mathematics.
+
+01:19:17.260 --> 01:19:19.100
+You can have a number and double the number.
+
+01:19:19.100 --> 01:19:21.340
+And so yeah, I just think there are patterns everywhere.
+
+01:19:21.340 --> 01:19:24.780
+And if kids are thinking their role is to see patterns
+
+01:19:24.780 --> 01:19:28.500
+and find patterns, it's really exciting.
+
+01:19:28.500 --> 01:19:32.020
+What do you think about like MIT OpenCourseWare
+
+01:19:32.020 --> 01:19:36.340
+and the release of lectures by universities?
+
+01:19:36.340 --> 01:19:37.940
+I think it's good.
+
+01:19:37.940 --> 01:19:38.780
+I think it's good.
+
+01:19:38.780 --> 01:19:43.780
+I think that is what started the MOOC I did
+
+01:19:43.860 --> 01:19:46.140
+was using that platform.
+
+01:19:46.140 --> 01:19:48.820
+So you ultimately think like the Udacity models
+
+01:19:48.820 --> 01:19:50.540
+is a little bit more effective
+
+01:19:50.540 --> 01:19:52.540
+than just a plain two hour lecture.
+
+01:19:52.540 --> 01:19:53.700
+I think there's definitely,
+
+01:19:53.700 --> 01:19:57.100
+you can bring in good pedagogy into online learning.
+
+01:19:57.100 --> 01:19:59.660
+And I think the idea of putting things online
+
+01:19:59.660 --> 01:20:02.820
+so that people all over the world can access them is great.
+
+01:20:02.820 --> 01:20:06.100
+I don't think the initial excitement around MOOCs
+
+01:20:06.100 --> 01:20:09.620
+sort of democratizing education and make it more equal
+
+01:20:11.100 --> 01:20:14.180
+came about because they found that the people taking MOOCs
+
+01:20:14.180 --> 01:20:17.140
+tended to be the more privileged people.
+
+01:20:17.140 --> 01:20:21.020
+So that was, I think there's still something to be found
+
+01:20:21.020 --> 01:20:22.940
+in that there's still more to be done
+
+01:20:22.940 --> 01:20:27.780
+to help that online learning reach those principles.
+
+01:20:27.780 --> 01:20:31.940
+But definitely, I think it's a good invention.
+
+01:20:31.940 --> 01:20:35.220
+And I have an online class that's for kids
+
+01:20:35.220 --> 01:20:37.460
+that's a little free class that gives some-
+
+01:20:37.460 --> 01:20:38.300
+What's the topic?
+
+01:20:38.300 --> 01:20:39.660
+It's called How to Learn Maths.
+
+01:20:39.660 --> 01:20:41.860
+How to Learn Maths.
+
+01:20:41.860 --> 01:20:44.540
+It shows maths as this visual creative subject
+
+01:20:44.540 --> 01:20:47.260
+and it shares mindset and some brain science
+
+01:20:47.260 --> 01:20:51.380
+and kids who take it do better in maths class.
+
+01:20:51.380 --> 01:20:54.340
+We've studied it with randomized controlled trials
+
+01:20:54.340 --> 01:20:57.380
+and given it to middle school kids
+
+01:20:57.380 --> 01:21:00.140
+and other middle school kids who don't take it
+
+01:21:00.140 --> 01:21:01.460
+but are taught by the same teachers.
+
+01:21:01.460 --> 01:21:03.100
+So their teachers are the same.
+
+01:21:03.100 --> 01:21:07.620
+And the kids who take the online class end up 68% more engaged
+
+01:21:07.620 --> 01:21:10.660
+in their maths class and do better at the end of the year.
+
+01:21:10.660 --> 01:21:15.260
+So that's a little six session, 15 minute class
+
+01:21:15.260 --> 01:21:19.060
+and it changes kids' maths relationship.
+
+01:21:19.060 --> 01:21:24.060
+So it is true that we can do that with some words
+
+01:21:25.020 --> 01:21:29.620
+that aren't, it's not a huge change to the education system.
+
+01:21:30.500 --> 01:21:33.300
+Do you have advice for young people?
+
+01:21:33.300 --> 01:21:36.100
+We've been talking about mathematics quite a bit
+
+01:21:36.100 --> 01:21:39.420
+but in terms of their journey through education,
+
+01:21:39.420 --> 01:21:41.980
+through their career choices, through life,
+
+01:21:41.980 --> 01:21:46.260
+maybe middle school, high school, undergrad students,
+
+01:21:46.340 --> 01:21:48.860
+how to live a life that they can be proud of?
+
+01:21:50.700 --> 01:21:54.300
+I think if I were to give advice to people,
+
+01:21:54.300 --> 01:21:59.300
+especially young people, my advice would be to always,
+
+01:21:59.580 --> 01:22:03.540
+it sounds really corny, but always believe in yourself
+
+01:22:03.540 --> 01:22:05.380
+and know that you can achieve
+
+01:22:05.380 --> 01:22:08.020
+because although that sounds like obvious,
+
+01:22:08.020 --> 01:22:10.460
+of course we want kids to know that they can achieve things.
+
+01:22:10.460 --> 01:22:13.900
+I know that millions of kids who are in the school system
+
+01:22:13.940 --> 01:22:17.340
+have been given the message they cannot do things
+
+01:22:17.340 --> 01:22:20.700
+and adults too, they have the idea,
+
+01:22:20.700 --> 01:22:23.380
+oh, I did okay in this, I went into this job
+
+01:22:23.380 --> 01:22:27.020
+because those other things I could never have done okay in.
+
+01:22:27.020 --> 01:22:28.660
+So actually when they hear,
+
+01:22:28.660 --> 01:22:31.620
+hey, maybe you could do those other things,
+
+01:22:31.620 --> 01:22:35.100
+even adults think, you know, maybe I can
+
+01:22:35.100 --> 01:22:38.180
+and they go back and they encounter this knowledge
+
+01:22:38.180 --> 01:22:40.860
+and they relearn things and they change careers
+
+01:22:40.860 --> 01:22:42.700
+and amazing things happen.
+
+01:22:42.700 --> 01:22:45.980
+So for me, I think that message is really important.
+
+01:22:45.980 --> 01:22:47.820
+You can learn anything.
+
+01:22:47.820 --> 01:22:50.140
+Scientists try and find a limit.
+
+01:22:50.140 --> 01:22:51.260
+They're always trying to find a limit.
+
+01:22:51.260 --> 01:22:52.540
+Like how much can you really learn?
+
+01:22:52.540 --> 01:22:54.300
+What's the limit to how much you can learn?
+
+01:22:54.300 --> 01:22:56.540
+And they always come away not being able to find it.
+
+01:22:56.540 --> 01:22:59.540
+People can just go further and further and further.
+
+01:22:59.540 --> 01:23:03.140
+And that is true of people born with brain,
+
+01:23:04.180 --> 01:23:06.420
+you know, areas of their brain that aren't functioning well
+
+01:23:06.420 --> 01:23:08.740
+that have what we call special needs.
+
+01:23:08.740 --> 01:23:10.980
+Some of those people also go on to develop
+
+01:23:10.980 --> 01:23:12.820
+and do amazing things.
+
+01:23:12.820 --> 01:23:17.380
+So I think that really experiencing that,
+
+01:23:17.380 --> 01:23:19.540
+knowing that feeling, not just saying it,
+
+01:23:19.540 --> 01:23:24.220
+but knowing it deeply, you can learn anything
+
+01:23:24.220 --> 01:23:28.740
+is something I wish all people would have.
+
+01:23:28.740 --> 01:23:30.740
+Actually also applies when you've achieved
+
+01:23:30.740 --> 01:23:32.500
+some level of success too.
+
+01:23:32.500 --> 01:23:36.380
+What I find like in my life with people that love me,
+
+01:23:36.380 --> 01:23:39.260
+when you achieve success, they keep celebrating
+
+01:23:39.260 --> 01:23:42.780
+your success and they want you to keep doing the thing
+
+01:23:42.780 --> 01:23:46.740
+that you were successful at as opposed to believing
+
+01:23:46.740 --> 01:23:49.220
+in that you can do something else,
+
+01:23:49.220 --> 01:23:51.700
+something big, whatever your heart says to do.
+
+01:23:51.700 --> 01:23:55.020
+And one of the things that I realized the value of this,
+
+01:23:57.340 --> 01:24:00.540
+you know, quite recently was just sad to say
+
+01:24:00.540 --> 01:24:03.300
+is how important it is to seek out,
+
+01:24:03.300 --> 01:24:05.020
+when you're younger to seek out mentors,
+
+01:24:05.020 --> 01:24:08.900
+to seek out the people, like surround yourself with people
+
+01:24:08.900 --> 01:24:10.820
+that will believe in you.
+
+01:24:10.820 --> 01:24:13.300
+It's like a little bit is on you.
+
+01:24:14.180 --> 01:24:18.340
+It's like, you don't get that sometimes
+
+01:24:18.340 --> 01:24:20.220
+if you go to like grad school,
+
+01:24:20.220 --> 01:24:22.420
+you think you kind of land on a mentor,
+
+01:24:22.420 --> 01:24:24.580
+maybe you pick a mentor based on the topic
+
+01:24:24.580 --> 01:24:25.820
+they're interested in.
+
+01:24:25.820 --> 01:24:29.100
+But the reality is the people you surround yourself with,
+
+01:24:29.100 --> 01:24:32.540
+they're going to define your life trajectory.
+
+01:24:32.540 --> 01:24:34.780
+So select people that-
+
+01:24:34.780 --> 01:24:35.620
+That's really true.
+
+01:24:35.620 --> 01:24:38.780
+And get away from people who don't believe in you.
+
+01:24:39.660 --> 01:24:40.500
+Sometimes parents can be that.
+
+01:24:40.500 --> 01:24:44.700
+They love you deeply, but they be, you know, they set,
+
+01:24:44.700 --> 01:24:46.420
+it's the math thing we mentioned,
+
+01:24:46.420 --> 01:24:49.020
+they might set certain constraints
+
+01:24:49.020 --> 01:24:51.100
+on the beliefs that you have.
+
+01:24:51.100 --> 01:24:55.220
+And so in that, if you're interested in mathematics
+
+01:24:55.220 --> 01:24:56.940
+and your parents are not that interested in it,
+
+01:24:56.940 --> 01:24:59.740
+don't listen to your parents on that one dimension.
+
+01:24:59.740 --> 01:25:00.940
+Exactly.
+
+01:25:00.940 --> 01:25:03.020
+Yeah, and if people tell you you can't do things,
+
+01:25:03.020 --> 01:25:06.780
+you have to hear from other people who believe in you.
+
+01:25:06.780 --> 01:25:09.380
+I think you're absolutely right about that.
+
+01:25:09.380 --> 01:25:10.940
+So sad the number of people
+
+01:25:10.940 --> 01:25:14.180
+who've had those negative messages from parents.
+
+01:25:14.180 --> 01:25:15.660
+In my limitless mind book,
+
+01:25:15.660 --> 01:25:17.700
+I interviewed quite a few people who'd been told
+
+01:25:17.700 --> 01:25:20.140
+they couldn't do math, sometimes by parents,
+
+01:25:20.140 --> 01:25:21.860
+sometimes by teachers.
+
+01:25:21.860 --> 01:25:25.020
+And fortunately, they had got other ideas
+
+01:25:25.020 --> 01:25:26.180
+at some point in their life
+
+01:25:26.180 --> 01:25:28.660
+and realized there was this whole world
+
+01:25:28.660 --> 01:25:32.380
+of mathematical thinking that was open to them.
+
+01:25:32.380 --> 01:25:37.380
+So it's really important that people do connect
+
+01:25:37.500 --> 01:25:39.260
+with people who believe in them,
+
+01:25:39.260 --> 01:25:42.060
+however hard that might be to find those people.
+
+01:25:42.060 --> 01:25:44.980
+What do you hope the education system,
+
+01:25:44.980 --> 01:25:48.140
+education in general, looks like 10, 20, 50,
+
+01:25:48.140 --> 01:25:49.740
+100 years from now?
+
+01:25:49.740 --> 01:25:51.820
+Are you optimistic about this future?
+
+01:25:51.820 --> 01:25:53.180
+Yeah, I definitely have hope.
+
+01:25:53.180 --> 01:25:56.700
+There is, change can happen in the education system.
+
+01:25:56.700 --> 01:26:01.100
+In recent years, it's been microscopically slow
+
+01:26:01.140 --> 01:26:06.140
+and but I do actually see change happening.
+
+01:26:07.420 --> 01:26:10.300
+We were talking earlier that data science
+
+01:26:10.300 --> 01:26:12.500
+is now a course you can take in high school
+
+01:26:12.500 --> 01:26:14.380
+instead of algebra too.
+
+01:26:14.380 --> 01:26:15.660
+And that's pretty amazing
+
+01:26:15.660 --> 01:26:20.020
+because that content was set out in 1892
+
+01:26:20.020 --> 01:26:22.220
+and hasn't changed since then.
+
+01:26:22.220 --> 01:26:25.260
+And so now we're actually seeing a change
+
+01:26:25.260 --> 01:26:27.020
+in the content of high school.
+
+01:26:27.020 --> 01:26:29.620
+So I'm amazed that that's happening
+
+01:26:29.620 --> 01:26:30.620
+and very happy it's happening.
+
+01:26:31.380 --> 01:26:34.060
+So change is very slow in education usually,
+
+01:26:34.060 --> 01:26:39.060
+but when you look ahead and think about all that we know
+
+01:26:40.740 --> 01:26:43.940
+and all that we can offer kids in terms of technology,
+
+01:26:45.340 --> 01:26:48.620
+you've got to think that 100 years from now,
+
+01:26:48.620 --> 01:26:52.580
+education will be totally different to the way it is now.
+
+01:26:52.580 --> 01:26:56.060
+Maybe we won't have subject boundaries anymore
+
+01:26:56.060 --> 01:26:59.020
+because those don't really make much sense.
+
+01:26:59.020 --> 01:27:02.500
+And it's interesting to think how certain tools
+
+01:27:02.500 --> 01:27:05.740
+like programming, maybe they'll be deeply integrated
+
+01:27:05.740 --> 01:27:07.140
+in everything we do.
+
+01:27:07.140 --> 01:27:09.020
+You would think that all kids are growing up
+
+01:27:09.020 --> 01:27:12.780
+learning to program and create.
+
+01:27:12.780 --> 01:27:16.860
+So I just think, I mean, the system of schooling we have now,
+
+01:27:16.860 --> 01:27:18.940
+people call it a factory model.
+
+01:27:18.940 --> 01:27:23.780
+It's not designed to inspire creativity.
+
+01:27:23.780 --> 01:27:27.380
+And I feel like that will also change.
+
+01:27:27.380 --> 01:27:29.100
+People might look back on these days
+
+01:27:29.100 --> 01:27:30.660
+and think they were hilarious,
+
+01:27:30.660 --> 01:27:33.980
+but maybe in the future,
+
+01:27:33.980 --> 01:27:35.340
+kids will be doing their own programming
+
+01:27:35.340 --> 01:27:37.740
+and they'll be able to learn things and find out things
+
+01:27:37.740 --> 01:27:39.580
+and create things even as they're learning.
+
+01:27:39.580 --> 01:27:44.580
+And maybe the individual subjects boundaries will go.
+
+01:27:45.900 --> 01:27:48.980
+Data science itself coming into the education system
+
+01:27:48.980 --> 01:27:51.980
+kind of illustrates that because people realize
+
+01:27:51.980 --> 01:27:56.580
+it doesn't really fit inside any of the subjects.
+
+01:27:56.580 --> 01:27:57.900
+So what do we do with it?
+
+01:27:57.900 --> 01:27:58.900
+Where does it go?
+
+01:27:58.900 --> 01:28:01.460
+And who teaches it?
+
+01:28:01.460 --> 01:28:04.740
+So it's already raising those kinds of questions
+
+01:28:04.740 --> 01:28:09.060
+and questioning how we have these different subject boundaries.
+
+01:28:09.060 --> 01:28:10.820
+So you've seen data science be integrated
+
+01:28:10.820 --> 01:28:12.260
+into the curriculum?
+
+01:28:12.260 --> 01:28:15.660
+Yes, it's happening across the United States as we speak.
+
+01:28:15.660 --> 01:28:17.020
+I wonder how that got initiated.
+
+01:28:17.020 --> 01:28:19.860
+Like how does change happen in the education system?
+
+01:28:19.860 --> 01:28:22.900
+Is it just a few revolutionary leaders?
+
+01:28:22.900 --> 01:28:24.420
+I think so, I think so.
+
+01:28:24.420 --> 01:28:26.020
+It's been an interesting journey
+
+01:28:26.180 --> 01:28:28.180
+seeing data science take off, actually.
+
+01:28:28.180 --> 01:28:33.180
+There was a course that was developed in 2014
+
+01:28:34.900 --> 01:28:37.060
+by some people who thought data science
+
+01:28:37.060 --> 01:28:39.420
+was a good idea for high schoolers.
+
+01:28:39.420 --> 01:28:42.260
+And then after some kids took the course
+
+01:28:42.260 --> 01:28:44.340
+and nothing bad happened to them,
+
+01:28:44.340 --> 01:28:49.220
+they went to college and people started to accept it more.
+
+01:28:49.220 --> 01:28:52.260
+And then this was a big piece of the change in California.
+
+01:28:52.260 --> 01:28:54.860
+The UC system communicated.
+
+01:28:54.860 --> 01:28:57.900
+They sent out an email last year to 50,000 high schools
+
+01:28:57.900 --> 01:28:59.820
+saying, we now accept data science.
+
+01:28:59.820 --> 01:29:01.900
+Kids can take it instead of Algebra II.
+
+01:29:01.900 --> 01:29:04.740
+That's a perfectly legitimate college pathway.
+
+01:29:04.740 --> 01:29:08.340
+So that was like a big green light for a lot of schools
+
+01:29:08.340 --> 01:29:11.220
+who were like wondering about whether they could teach it.
+
+01:29:11.220 --> 01:29:14.740
+So I think it happens in small spaces and expands.
+
+01:29:14.740 --> 01:29:15.580
+So now-
+
+01:29:15.580 --> 01:29:16.420
+It goes viral.
+
+01:29:16.420 --> 01:29:17.260
+Yeah.
+
+01:29:17.260 --> 01:29:18.100
+In this modern age.
+
+01:29:18.100 --> 01:29:18.940
+Then it goes viral.
+
+01:29:18.940 --> 01:29:23.700
+California's ahead, I think, in creating courses
+
+01:29:23.700 --> 01:29:25.460
+and having kids go through it.
+
+01:29:25.460 --> 01:29:28.940
+But certainly when I last looked,
+
+01:29:28.940 --> 01:29:31.700
+there were 12 states that were allowing data science
+
+01:29:31.700 --> 01:29:32.540
+as a high school course.
+
+01:29:32.540 --> 01:29:37.540
+And I think by next year, that will have doubled or more.
+
+01:29:37.940 --> 01:29:41.100
+So change is happening.
+
+01:29:41.100 --> 01:29:44.860
+Joe, as I said, I think mathematics
+
+01:29:44.860 --> 01:29:47.940
+is truly a beautiful subject.
+
+01:29:47.940 --> 01:29:52.220
+And you having an impact on millions of people's lives
+
+01:29:52.260 --> 01:29:56.220
+by educating them, by inspiring teachers to educate
+
+01:29:56.220 --> 01:29:58.020
+in the ways that you've talked about
+
+01:29:58.020 --> 01:30:01.500
+in multidimensional ways, in visual ways,
+
+01:30:01.500 --> 01:30:02.500
+I think is incredible.
+
+01:30:02.500 --> 01:30:04.940
+So you're spreading beauty into the world.
+
+01:30:04.940 --> 01:30:06.100
+Thank you, I really appreciate that.
+
+01:30:06.100 --> 01:30:07.580
+So I really, really appreciate
+
+01:30:07.580 --> 01:30:09.300
+that you've spent your valuable time with me today.
+
+01:30:09.300 --> 01:30:10.140
+Thank you for talking.
+
+01:30:10.140 --> 01:30:12.620
+Thank you, it was really good to talk to you.
+
+01:30:12.620 --> 01:30:15.340
+Thanks for listening to this conversation with Joe Bowler.
+
+01:30:15.340 --> 01:30:16.740
+To support this podcast,
+
+01:30:16.740 --> 01:30:19.580
+please check out our sponsors in the description.
+
+01:30:19.620 --> 01:30:21.460
+And now let me leave you with some words
+
+01:30:21.460 --> 01:30:23.700
+from Albert Einstein.
+
+01:30:23.700 --> 01:30:28.020
+Pure mathematics is the poetry of logical ideas.
+
+01:30:28.900 --> 01:30:31.580
+Thanks for listening and hope to see you next time.
+

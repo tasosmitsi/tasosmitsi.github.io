@@ -1,0 +1,6644 @@
+WEBVTT
+
+00:00.000 --> 00:02.560
+The following is a conversation with Elon Musk,
+
+00:02.560 --> 00:06.160
+his third time on this, the Lex Fridman podcast.
+
+00:07.000 --> 00:08.480
+Yeah, make yourself comfortable.
+
+00:08.480 --> 00:09.320
+Boo.
+
+00:09.320 --> 00:10.160
+No, wow, okay.
+
+00:10.160 --> 00:11.000
+No.
+
+00:11.000 --> 00:12.760
+You don't do the headphones thing?
+
+00:12.760 --> 00:13.600
+No.
+
+00:13.600 --> 00:14.420
+Okay.
+
+00:14.420 --> 00:15.800
+I mean, how close do I get need to get the same thing?
+
+00:15.800 --> 00:17.560
+The closer you are, the sexier you sound.
+
+00:17.560 --> 00:18.400
+Hey, babe.
+
+00:18.400 --> 00:19.220
+What's up?
+
+00:19.220 --> 00:20.880
+Can't get enough of what you're all about, baby.
+
+00:20.880 --> 00:24.680
+I'm gonna clip that out
+
+00:24.680 --> 00:26.720
+and anytime somebody messages me about it,
+
+00:26.720 --> 00:27.560
+I don't just respond.
+
+00:28.320 --> 00:30.120
+And you think I'm sexy.
+
+00:30.120 --> 00:32.080
+Come right out and tell me so.
+
+00:38.840 --> 00:39.680
+So good.
+
+00:39.680 --> 00:41.880
+Okay, serious mode activate.
+
+00:41.880 --> 00:43.320
+All right.
+
+00:43.320 --> 00:44.360
+Serious mode.
+
+00:44.360 --> 00:45.180
+Come on, you're Russian.
+
+00:45.180 --> 00:46.020
+You can be serious.
+
+00:46.020 --> 00:46.840
+Yeah, I know.
+
+00:46.840 --> 00:47.680
+Everyone's serious all the time in Russia.
+
+00:47.680 --> 00:48.600
+Yeah.
+
+00:48.600 --> 00:50.040
+Yeah, that's right.
+
+00:50.040 --> 00:50.880
+We'll get there.
+
+00:50.880 --> 00:52.280
+We'll get there.
+
+00:52.280 --> 00:53.120
+Yeah.
+
+00:53.120 --> 00:53.940
+It's gotten soft.
+
+00:54.100 --> 00:57.740
+Allow me to say that the SpaceX launch
+
+00:57.740 --> 01:00.940
+of human beings to orbit on May 30th, 2020
+
+01:02.140 --> 01:03.900
+was seen by many as the first step
+
+01:03.900 --> 01:07.420
+in a new era of human space exploration.
+
+01:07.420 --> 01:10.620
+These human space flight missions were a beacon of hope
+
+01:10.620 --> 01:12.740
+to me and to millions over the past two years
+
+01:12.740 --> 01:14.660
+as our world has been going through
+
+01:14.660 --> 01:18.060
+one of the most difficult periods in recent human history.
+
+01:18.060 --> 01:21.740
+We saw, we see the rise of division, fear, cynicism,
+
+01:21.740 --> 01:24.620
+and the loss of common humanity
+
+01:24.620 --> 01:26.380
+right when it is needed most.
+
+01:26.380 --> 01:29.080
+So first, Elon, let me say thank you
+
+01:29.080 --> 01:30.620
+for giving the world hope and reason
+
+01:30.620 --> 01:32.540
+to be excited about the future.
+
+01:32.540 --> 01:34.200
+Oh, it's kind of you to say.
+
+01:34.200 --> 01:35.500
+I do want to do that.
+
+01:35.500 --> 01:38.300
+Humanity has obviously a lot of issues
+
+01:38.300 --> 01:42.620
+and people at times do bad things,
+
+01:42.620 --> 01:47.260
+but despite all that, I love humanity
+
+01:47.260 --> 01:52.260
+and I think we should make sure we do everything
+
+01:52.260 --> 01:54.660
+we can to have a good future and an exciting future
+
+01:54.660 --> 01:58.340
+and one where that maximizes the happiness of the people.
+
+01:58.340 --> 02:00.940
+Let me ask about Crew Dragon Demo 2.
+
+02:00.940 --> 02:04.380
+So that first flight with humans on board,
+
+02:04.380 --> 02:06.180
+how did you feel leading up to that launch?
+
+02:06.180 --> 02:07.260
+Were you scared?
+
+02:07.260 --> 02:08.260
+Were you excited?
+
+02:08.260 --> 02:09.660
+What was going through your mind?
+
+02:09.660 --> 02:11.380
+So much was at stake.
+
+02:12.380 --> 02:16.060
+Yeah, no, that was extremely stressful, no question.
+
+02:16.060 --> 02:20.260
+We obviously could not let them down in any way.
+
+02:20.260 --> 02:25.260
+So extremely stressful, I'd say, to say the least.
+
+02:26.780 --> 02:29.460
+I was confident that at the time that we launched,
+
+02:29.460 --> 02:34.460
+that no one could think of anything at all to do
+
+02:35.380 --> 02:37.380
+that would improve the probability of success.
+
+02:37.380 --> 02:40.180
+And we racked our brains to think of any possible way
+
+02:40.180 --> 02:41.580
+to improve the probability of success.
+
+02:41.580 --> 02:44.980
+We could not think of anything more and nor could NASA.
+
+02:44.980 --> 02:48.380
+And so that's just the best that we could do.
+
+02:48.380 --> 02:52.380
+So then we went ahead and launched.
+
+02:52.380 --> 02:54.980
+Now, I'm not a religious person,
+
+02:54.980 --> 02:57.580
+but I nonetheless got on my knees
+
+02:57.580 --> 02:59.380
+and prayed for that mission.
+
+03:00.380 --> 03:01.780
+Were you able to sleep?
+
+03:02.580 --> 03:03.380
+No.
+
+03:03.380 --> 03:06.380
+How did it feel when it was a success?
+
+03:06.380 --> 03:08.380
+First, when the launch was a success
+
+03:08.380 --> 03:11.380
+and when they returned back home or back to Earth?
+
+03:12.380 --> 03:16.380
+It was a great relief, yeah.
+
+03:17.380 --> 03:18.980
+For high stress situations,
+
+03:18.980 --> 03:21.380
+I find it's not so much elation as relief.
+
+03:24.380 --> 03:29.380
+And I think once, as we got more comfortable with it,
+
+03:30.380 --> 03:34.580
+as we got more comfortable and proved out the systems
+
+03:34.580 --> 03:39.580
+because we really, you got to make sure everything works.
+
+03:40.580 --> 03:43.180
+It was definitely a lot more enjoyable
+
+03:43.180 --> 03:46.580
+with the subsequent astronaut missions.
+
+03:46.580 --> 03:49.780
+And I thought the Inspiration mission
+
+03:49.780 --> 03:53.580
+was actually a very inspiring Inspiration 4 mission.
+
+03:53.580 --> 03:56.980
+I'd encourage people to watch the Inspiration documentary
+
+03:56.980 --> 03:58.980
+on Netflix, it's actually really good.
+
+03:59.980 --> 04:02.980
+And it really isn't, I was actually inspired by that.
+
+04:04.980 --> 04:07.980
+So that one I felt I was kind of able to enjoy
+
+04:07.980 --> 04:09.980
+the actual mission and not just be super stressed
+
+04:09.980 --> 04:10.980
+all the time.
+
+04:10.980 --> 04:13.380
+So for people that somehow don't know,
+
+04:13.380 --> 04:16.980
+it's the all civilian, first time all civilian
+
+04:16.980 --> 04:18.980
+out to space, out to orbit.
+
+04:18.980 --> 04:22.180
+Yeah, and it was I think the highest orbit
+
+04:22.180 --> 04:25.780
+that in like 30 or 40 years or something,
+
+04:25.780 --> 04:28.980
+the only one that was higher was the one shuttle
+
+04:29.580 --> 04:32.180
+sorry, Hubble servicing mission.
+
+04:32.180 --> 04:35.980
+And then before that it would have been Apollo in 72.
+
+04:37.980 --> 04:39.180
+It's pretty wild.
+
+04:39.180 --> 04:44.180
+So it's cool, I think as a species,
+
+04:44.580 --> 04:48.180
+like we want to be continuing to do better
+
+04:48.180 --> 04:51.180
+and reach higher ground and like,
+
+04:51.180 --> 04:52.980
+I think it would be tragic, extremely tragic
+
+04:52.980 --> 04:56.980
+if Apollo was the high water mark for humanity,
+
+04:56.980 --> 04:58.780
+and that's as far as we ever got.
+
+05:00.080 --> 05:05.080
+And it's concerning that here we are 49 years
+
+05:06.380 --> 05:09.080
+after the last mission to the moon.
+
+05:09.080 --> 05:14.080
+And so almost half a century and we've not been back
+
+05:14.080 --> 05:16.280
+and that's worrying.
+
+05:16.280 --> 05:19.380
+It's like, does that mean we've peaked
+
+05:19.380 --> 05:20.980
+as a civilization or what?
+
+05:20.980 --> 05:24.480
+So like, I think we got to get back to the moon
+
+05:24.680 --> 05:27.180
+and build a base there, a science base.
+
+05:27.180 --> 05:28.880
+I think we could learn a lot about the nature
+
+05:28.880 --> 05:31.080
+of the universe if we have a proper science base
+
+05:31.080 --> 05:35.480
+on the moon, like we have a science base in Antarctica
+
+05:35.480 --> 05:38.080
+and many other parts of the world.
+
+05:38.080 --> 05:41.880
+And so that's the, I think the next big thing
+
+05:41.880 --> 05:45.680
+we've got to have like a serious like moon base
+
+05:45.680 --> 05:49.980
+and then get people to Mars and get out there
+
+05:49.980 --> 05:52.580
+and be a space bearing civilization.
+
+05:52.580 --> 05:54.480
+I'll ask you about some of those details,
+
+05:54.480 --> 05:57.480
+but since you're so busy with the hard engineering
+
+05:57.480 --> 06:00.080
+challenges of everything that's involved,
+
+06:00.080 --> 06:02.980
+are you still able to marvel at the magic of it all,
+
+06:02.980 --> 06:05.880
+of space travel, of every time the rocket goes up,
+
+06:05.880 --> 06:08.180
+especially when it's a crewed mission?
+
+06:08.180 --> 06:11.480
+Are you just so overwhelmed with all the challenges
+
+06:11.480 --> 06:12.580
+that you have to solve?
+
+06:13.480 --> 06:16.280
+And actually sort of to add to that,
+
+06:16.280 --> 06:19.580
+the reason I wanted to ask this question of May 30th,
+
+06:19.580 --> 06:21.880
+it's been some time so you can look back
+
+06:21.880 --> 06:23.580
+and think about the impact already.
+
+06:23.580 --> 06:26.380
+It's already, at the time it was an engineering problem
+
+06:26.380 --> 06:29.380
+maybe, now it's becoming a historic moment.
+
+06:29.380 --> 06:31.680
+Like it's a moment that, how many moments
+
+06:31.680 --> 06:33.780
+would be remembered about the 21st century?
+
+06:33.780 --> 06:38.580
+To me, that or something like that maybe inspiration for
+
+06:38.580 --> 06:40.780
+one of those would be remembered as the early steps
+
+06:40.780 --> 06:43.180
+of a new age of space exploration.
+
+06:44.280 --> 06:46.680
+Yeah, I mean, during the launches itself,
+
+06:46.680 --> 06:49.180
+so I mean, I think maybe some people will know,
+
+06:49.180 --> 06:50.180
+but a lot of people don't know,
+
+06:50.180 --> 06:52.080
+is like I'm actually the chief engineer of SpaceX.
+
+06:52.080 --> 06:56.680
+So the, I've signed off on pretty much
+
+06:56.680 --> 06:57.980
+all the design decisions.
+
+06:59.080 --> 07:03.080
+And so if there's something that goes wrong
+
+07:03.080 --> 07:07.080
+with that vehicle, it's fundamentally my fault.
+
+07:07.080 --> 07:12.080
+So I'm really just thinking about all the things that,
+
+07:13.780 --> 07:15.580
+like so when I see the rocket,
+
+07:15.580 --> 07:17.280
+I see all the things that could go wrong
+
+07:17.280 --> 07:18.480
+and the things that could be better
+
+07:18.480 --> 07:21.480
+and the same with the Dragon spacecraft.
+
+07:21.480 --> 07:25.080
+It's like other people say, oh, this is a spacecraft
+
+07:25.080 --> 07:26.980
+or a rocket and this looks really cool.
+
+07:26.980 --> 07:29.580
+I'm like, I've like a readout of like,
+
+07:29.580 --> 07:31.180
+this is the, these are the risks,
+
+07:31.180 --> 07:33.780
+these are the problems, that's what I see.
+
+07:33.780 --> 07:38.780
+Like, so it's not what other people see
+
+07:38.780 --> 07:40.380
+when they see the product, you know.
+
+07:40.380 --> 07:42.980
+So let me ask you then to analyze Starship
+
+07:42.980 --> 07:44.280
+in that same way.
+
+07:44.280 --> 07:47.180
+I know you have, you'll talk about in more detail
+
+07:47.180 --> 07:49.480
+about Starship in the near future, perhaps.
+
+07:49.480 --> 07:51.780
+Yeah, we can talk about it now if you want.
+
+07:51.780 --> 07:54.080
+But just in that same way, like you said,
+
+07:54.080 --> 07:57.580
+you see when you see a rocket,
+
+07:57.580 --> 07:59.080
+you see a sort of a list of risks.
+
+07:59.080 --> 08:00.980
+In that same way, you said that Starship
+
+08:00.980 --> 08:03.180
+is a really hard problem.
+
+08:03.180 --> 08:05.380
+So there's many ways I can ask this,
+
+08:05.380 --> 08:09.480
+but if you magically could solve one problem perfectly,
+
+08:09.480 --> 08:11.680
+one engineering problem perfectly,
+
+08:11.680 --> 08:12.980
+which one would it be?
+
+08:12.980 --> 08:14.080
+On Starship?
+
+08:14.080 --> 08:15.480
+On, sorry, on Starship.
+
+08:15.480 --> 08:17.980
+So is it maybe related to the efficiency,
+
+08:17.980 --> 08:21.280
+the engine, the weight of the different components,
+
+08:21.280 --> 08:22.580
+the complexity of various things,
+
+08:22.580 --> 08:26.680
+maybe the controls of the crazy thing has to do to land?
+
+08:26.680 --> 08:29.980
+No, it's actually, by far the biggest thing
+
+08:29.980 --> 08:33.680
+absorbing my time is engine production.
+
+08:34.980 --> 08:36.380
+Not the design of the engine,
+
+08:36.380 --> 08:41.680
+but I've often said prototypes are easy,
+
+08:41.680 --> 08:42.780
+production is hard.
+
+08:43.280 --> 08:48.580
+So we have the most advanced rocket engine
+
+08:48.580 --> 08:50.080
+that's ever been designed.
+
+08:52.080 --> 08:55.180
+Because I say currently the best rocket engine ever
+
+08:55.180 --> 08:58.480
+is probably the RD-180 or RD-170.
+
+09:00.280 --> 09:02.480
+That's the Russian engine, basically.
+
+09:03.580 --> 09:06.680
+And still, I think an engine generally can't
+
+09:06.680 --> 09:08.980
+if it's gotten something to orbit.
+
+09:08.980 --> 09:12.680
+So our engine has not gotten anything to orbit yet,
+
+09:13.680 --> 09:16.980
+but it's the first engine that's actually better
+
+09:16.980 --> 09:21.980
+than the Russian RD engines, which were amazing design.
+
+09:22.680 --> 09:24.080
+So you're talking about Raptor engine.
+
+09:24.080 --> 09:25.480
+What makes it amazing?
+
+09:25.480 --> 09:29.580
+What are the different aspects of it that make it,
+
+09:29.580 --> 09:31.880
+what are you the most excited about
+
+09:31.880 --> 09:35.080
+if the whole thing works in terms of efficiency,
+
+09:35.080 --> 09:37.080
+all those kinds of things?
+
+09:37.080 --> 09:42.080
+Well, the Raptor is a full flow staged combustion engine
+
+09:46.280 --> 09:50.780
+and it's operating at a very high chamber pressure.
+
+09:50.780 --> 09:52.580
+So one of the key figures of merit,
+
+09:53.580 --> 09:55.580
+perhaps the key figure of merit is
+
+09:56.880 --> 09:58.680
+what is the chamber pressure
+
+09:58.680 --> 10:00.780
+at which the rocket engine can operate?
+
+10:00.780 --> 10:02.980
+That's the combustion chamber pressure.
+
+10:02.980 --> 10:06.880
+So a Raptor is designed to operate at 300 bar
+
+10:06.880 --> 10:10.280
+possibly maybe higher, a standard atmospheres.
+
+10:10.280 --> 10:15.280
+So the record right now for operational engine
+
+10:15.880 --> 10:17.880
+is the RD engine that I mentioned, the Russian RD,
+
+10:17.880 --> 10:21.280
+which is I believe around 267 bar.
+
+10:22.580 --> 10:26.080
+And the difficulty of the chamber pressure
+
+10:26.080 --> 10:27.880
+increases on a non-linear basis.
+
+10:27.880 --> 10:32.880
+So 10% more chamber pressure is more like 50% more difficult.
+
+10:36.980 --> 10:38.680
+But that chamber pressure is,
+
+10:38.680 --> 10:41.980
+that is what allows you to get a very high
+
+10:41.980 --> 10:45.180
+power density for the engine.
+
+10:46.180 --> 10:51.180
+So enabling a very high thrust to weight ratio
+
+10:53.280 --> 10:56.980
+and a very high specific impulse.
+
+10:56.980 --> 10:59.780
+So specific impulse is like a measure of the efficiency
+
+10:59.780 --> 11:00.680
+of a rocket engine.
+
+11:01.680 --> 11:06.680
+It's really the effect of exhaust velocity
+
+11:07.780 --> 11:10.080
+of the gas coming out of the engine.
+
+11:12.780 --> 11:17.080
+So with a very high chamber pressure,
+
+11:17.080 --> 11:22.080
+you can have a compact engine that nonetheless
+
+11:22.180 --> 11:23.980
+has a high expansion ratio,
+
+11:23.980 --> 11:28.980
+which is the ratio between the exit nozzle
+
+11:29.480 --> 11:31.780
+and the throat.
+
+11:31.780 --> 11:35.980
+So you see rocket engines got sort of like a hourglass shape.
+
+11:35.980 --> 11:38.180
+It's like a chamber and then at next down
+
+11:38.180 --> 11:41.880
+and there's a nozzle and the ratio of the exit diameter
+
+11:41.880 --> 11:45.980
+to the throat expansion ratio.
+
+11:45.980 --> 11:49.680
+So why is it such a hard engine to manufacture at scale?
+
+11:51.380 --> 11:53.080
+It's very complex.
+
+11:53.080 --> 11:55.180
+So what does complexity mean here?
+
+11:55.180 --> 11:56.780
+There's a lot of components involved.
+
+11:56.780 --> 12:01.780
+There's a lot of components and a lot of unique materials.
+
+12:03.080 --> 12:07.880
+So we had to invent several alloys that don't exist
+
+12:07.880 --> 12:09.580
+in order to make this engine work.
+
+12:11.280 --> 12:13.080
+So it's a materials problem too.
+
+12:14.580 --> 12:16.280
+It's a materials problem.
+
+12:16.280 --> 12:21.180
+And in a stage combustion, a full-flow stage combustion,
+
+12:21.180 --> 12:24.180
+there are many feedback loops in the system.
+
+12:24.180 --> 12:29.180
+So basically you've got propellant and hot gas flowing
+
+12:34.980 --> 12:37.780
+simultaneously to so many different places on the engine
+
+12:39.180 --> 12:43.780
+and they all have a recursive effect on each other.
+
+12:43.780 --> 12:44.880
+So you change one thing here,
+
+12:44.880 --> 12:46.080
+it has a recursive effect here,
+
+12:46.080 --> 12:47.480
+it changes something over there
+
+12:47.480 --> 12:51.480
+and it's quite hard to control.
+
+12:52.480 --> 12:54.880
+Like there's a reason no one's made this before.
+
+12:58.680 --> 13:03.680
+And the reason we're doing a stage combustion full-flow
+
+13:04.580 --> 13:08.680
+is because it has the highest
+
+13:08.680 --> 13:10.880
+theoretical possible efficiency.
+
+13:12.580 --> 13:17.580
+So in order to make a fully reusable rocket,
+
+13:18.180 --> 13:23.180
+which that's the really the holy grail of orbital rocketry.
+
+13:25.280 --> 13:28.380
+You have to have, everything's got to be the best.
+
+13:28.380 --> 13:30.880
+It's got to be the best engine, the best airframe,
+
+13:30.880 --> 13:35.880
+the best heat shield, extremely light avionics,
+
+13:38.080 --> 13:40.580
+very clever control mechanisms.
+
+13:40.580 --> 13:45.080
+You've got to shed mass in any possible way that you can.
+
+13:45.080 --> 13:46.380
+For example, we are,
+
+13:46.380 --> 13:48.680
+instead of putting landing legs on the booster and ship,
+
+13:48.680 --> 13:50.680
+we are going to catch them with a tower
+
+13:50.680 --> 13:53.180
+to save the weight of the landing legs.
+
+13:53.180 --> 13:56.380
+So that's like, I mean,
+
+13:56.380 --> 13:58.280
+we're talking about catching
+
+13:58.280 --> 14:00.180
+the largest flying object ever made
+
+14:03.280 --> 14:06.580
+on a giant tower with chopstick arms.
+
+14:06.580 --> 14:09.580
+It's like karate kid with the fly, but much bigger.
+
+14:09.880 --> 14:14.880
+This probably won't work the first time.
+
+14:17.480 --> 14:19.780
+Anyway, so this is bananas, this is banana stuff.
+
+14:19.780 --> 14:23.080
+So you mentioned that you doubt, well, not you doubt,
+
+14:23.080 --> 14:25.880
+but there's days or moments
+
+14:25.880 --> 14:28.380
+when you doubt that this is even possible.
+
+14:28.380 --> 14:30.080
+It's so difficult.
+
+14:30.080 --> 14:34.080
+The possible part is, well, at this point,
+
+14:35.380 --> 14:37.480
+I think we will get Starship to work.
+
+14:40.480 --> 14:42.880
+There's a question of timing.
+
+14:42.880 --> 14:45.480
+How long will it take us to do this?
+
+14:45.480 --> 14:47.680
+How long will it take us to actually achieve
+
+14:47.680 --> 14:49.080
+full and rapid reusability?
+
+14:50.480 --> 14:52.680
+Because it will take probably many launches
+
+14:52.680 --> 14:55.680
+before we are able to have full and rapid reusability.
+
+14:57.680 --> 15:01.180
+But I can say that the physics pencils out.
+
+15:06.180 --> 15:09.080
+At this point, I'd say we're confident that,
+
+15:10.080 --> 15:12.580
+I'm very confident success is in the set
+
+15:12.580 --> 15:13.780
+of all possible outcomes.
+
+15:16.880 --> 15:18.280
+For a while there, I was not convinced
+
+15:18.280 --> 15:20.780
+that success was in the set of possible outcomes,
+
+15:21.780 --> 15:23.380
+which is very important actually.
+
+15:28.180 --> 15:29.680
+You're saying there's a chance.
+
+15:29.680 --> 15:31.580
+I'm saying there's a chance, exactly.
+
+15:33.180 --> 15:37.080
+Just not sure how long it will take.
+
+15:38.080 --> 15:39.580
+But we have a very talented team.
+
+15:39.580 --> 15:41.980
+They're working night and day to make it happen.
+
+15:46.580 --> 15:48.980
+The critical thing to achieve for the revolution
+
+15:48.980 --> 15:50.580
+in spaceflight and for humanity
+
+15:50.580 --> 15:51.980
+to be a spacefaring civilization
+
+15:51.980 --> 15:54.380
+is to have a fully and rapidly reusable rocket,
+
+15:54.380 --> 15:55.180
+orbital rocket.
+
+15:56.480 --> 15:58.780
+There's not even been any orbital rocket
+
+15:58.780 --> 16:00.080
+that's been fully reusable ever.
+
+16:00.080 --> 16:04.980
+And this has always been the holy grail of rocketry.
+
+16:07.080 --> 16:09.680
+Many smart people, very smart people,
+
+16:09.680 --> 16:12.580
+have tried to do this before and they've not succeeded.
+
+16:14.380 --> 16:16.080
+Because it's such a hard problem.
+
+16:16.980 --> 16:21.180
+What's your source of belief in situations like this?
+
+16:21.180 --> 16:23.580
+When the engineering problem is so difficult,
+
+16:23.580 --> 16:27.480
+there's a lot of experts, many of whom you admire,
+
+16:27.480 --> 16:28.980
+who have failed in the past.
+
+16:29.980 --> 16:33.980
+And a lot of people,
+
+16:36.180 --> 16:37.980
+a lot of experts, maybe journalists,
+
+16:37.980 --> 16:39.880
+all the kind of, the public in general
+
+16:39.880 --> 16:42.780
+have a lot of doubt about whether it's possible.
+
+16:43.680 --> 16:47.280
+And you yourself know that even if it's a non-null set,
+
+16:47.280 --> 16:49.480
+non-empty set of success,
+
+16:49.480 --> 16:52.080
+it's still unlikely or very difficult.
+
+16:52.080 --> 16:53.480
+Like, where do you go to?
+
+16:53.480 --> 16:57.280
+Both personally, intellectually as an engineer,
+
+16:57.280 --> 17:00.880
+as a team, like for source of strength needed
+
+17:00.880 --> 17:02.480
+to sort of persevere through this
+
+17:03.580 --> 17:06.380
+and to keep going with the project, take it to completion.
+
+17:18.480 --> 17:19.880
+A source of strength.
+
+17:19.880 --> 17:22.080
+That's really not how I think about things.
+
+17:23.680 --> 17:25.580
+I mean, for me, it's simply this is something
+
+17:25.580 --> 17:27.080
+that is important to get done.
+
+17:28.080 --> 17:32.480
+And we should just keep doing it or die trying.
+
+17:32.480 --> 17:35.980
+And I don't need a source of strength.
+
+17:35.980 --> 17:39.080
+So quitting is not even like...
+
+17:39.080 --> 17:41.580
+That's not, it's not in my nature.
+
+17:41.580 --> 17:45.080
+And I don't care about optimism or pessimism.
+
+17:46.280 --> 17:47.880
+Fuck that, we're gonna get it done.
+
+17:47.880 --> 17:48.780
+Gonna get it done.
+
+17:51.780 --> 17:55.180
+Can you then zoom back in to specific problems
+
+17:55.180 --> 17:58.280
+with Starship or any engineering problems you work on?
+
+17:58.280 --> 17:59.980
+Can you try to introspect
+
+17:59.980 --> 18:02.180
+your particular biological neural network,
+
+18:02.180 --> 18:03.480
+your thinking process,
+
+18:03.480 --> 18:06.080
+and describe how you think through problems,
+
+18:06.080 --> 18:07.880
+the different engineering and design problems?
+
+18:07.880 --> 18:09.980
+Is there like a systematic process?
+
+18:09.980 --> 18:11.780
+You've spoken about first principles thinking,
+
+18:11.780 --> 18:14.080
+but is there a kind of process to it?
+
+18:14.080 --> 18:19.080
+Well, you know, I like saying like physics is low
+
+18:19.080 --> 18:21.580
+and everything else is a recommendation.
+
+18:21.580 --> 18:23.080
+Like I've met a lot of people that can break the law,
+
+18:23.180 --> 18:25.480
+but I haven't met anyone who could break physics.
+
+18:26.680 --> 18:31.680
+So first for any kind of technology problem,
+
+18:32.480 --> 18:34.480
+you have to sort of just make sure
+
+18:34.480 --> 18:37.780
+you're not violating physics.
+
+18:39.880 --> 18:44.780
+And, you know, first principles analysis,
+
+18:44.780 --> 18:45.880
+I think is something that can be applied
+
+18:45.880 --> 18:49.780
+to really any walk of life, anything really.
+
+18:49.780 --> 18:53.280
+It's really just saying, you know,
+
+18:53.280 --> 18:58.380
+let's boil something down to the most fundamental principles.
+
+18:58.380 --> 19:00.780
+The things that we are most confident are true
+
+19:00.780 --> 19:02.480
+at a foundational level.
+
+19:02.480 --> 19:04.980
+And that sets your axiomatic base,
+
+19:04.980 --> 19:06.980
+and then you reason up from there,
+
+19:06.980 --> 19:08.980
+and then you cross-check your conclusion
+
+19:08.980 --> 19:11.280
+against the axiomatic truths.
+
+19:13.580 --> 19:18.080
+So, you know, some basics in physics would be like,
+
+19:18.080 --> 19:19.580
+are you violating conservation of energy
+
+19:19.580 --> 19:21.180
+or momentum or something like that?
+
+19:21.180 --> 19:23.680
+You know, then it's not gonna work.
+
+19:25.780 --> 19:30.780
+So that's just to establish, is it possible?
+
+19:32.980 --> 19:34.780
+And then another good physics tool
+
+19:34.780 --> 19:36.480
+is thinking about things in the limit.
+
+19:36.480 --> 19:38.380
+If you take a particular thing
+
+19:38.380 --> 19:41.680
+and you scale it to a very large number
+
+19:41.680 --> 19:44.880
+or to a very small number, how do things change?
+
+19:45.980 --> 19:48.980
+Well, like in number of things you manufacture
+
+19:48.980 --> 19:51.680
+something like that, and then in time?
+
+19:51.680 --> 19:55.980
+Yeah, like let's say take an example of like manufacturing,
+
+19:55.980 --> 19:59.180
+which I think is just a very underrated problem.
+
+20:00.480 --> 20:04.580
+And like I said, it's much harder
+
+20:04.580 --> 20:09.580
+to take an advanced technology product
+
+20:09.580 --> 20:11.080
+and bring it into volume manufacturing
+
+20:11.080 --> 20:12.980
+than it is to design it in the first place.
+
+20:12.980 --> 20:14.580
+Or as magnitude.
+
+20:14.580 --> 20:17.880
+So let's say you're trying to figure out
+
+20:17.880 --> 20:22.880
+is like, why is this part or product expensive?
+
+20:23.980 --> 20:27.480
+Is it because of something fundamentally foolish
+
+20:27.480 --> 20:31.380
+that we're doing, or is it because our volume is too low?
+
+20:31.380 --> 20:32.880
+And so then you say, okay, well, what if our volume
+
+20:32.880 --> 20:34.280
+was a million units a year?
+
+20:34.280 --> 20:35.780
+Is it still expensive?
+
+20:35.780 --> 20:38.180
+That's what I'm thinking about things in the limit.
+
+20:38.180 --> 20:40.180
+If it's still expensive at a million units a year,
+
+20:40.180 --> 20:42.580
+then volume is not the reason why your thing is expensive.
+
+20:42.580 --> 20:44.780
+There's something fundamental about the design.
+
+20:44.780 --> 20:47.480
+And then you then can focus on reducing complexity
+
+20:47.480 --> 20:48.680
+or something like that in the design.
+
+20:48.680 --> 20:51.280
+Change the design to change the part to be something
+
+20:51.280 --> 20:55.580
+that is not fundamentally expensive.
+
+20:56.480 --> 20:58.980
+But like that's a common thing in rocketry
+
+20:58.980 --> 21:01.880
+because the unit volume is relatively low.
+
+21:01.880 --> 21:04.880
+And so a common excuse would be, well, it's expensive
+
+21:04.880 --> 21:06.480
+because our unit volume is low.
+
+21:06.480 --> 21:08.780
+And if we were in like automotive or something like that
+
+21:08.780 --> 21:10.980
+or consumer electronics, then our costs would be lower.
+
+21:10.980 --> 21:13.080
+I'm like, okay, so let's say we,
+
+21:13.080 --> 21:14.680
+now you're making a million units a year.
+
+21:14.680 --> 21:16.180
+Is it still expensive?
+
+21:16.180 --> 21:20.680
+If the answer is yes, then economies of scale
+
+21:20.680 --> 21:22.280
+are not the issue.
+
+21:22.280 --> 21:24.280
+Do you throw into manufacturing,
+
+21:24.280 --> 21:26.180
+do you throw like supply chain,
+
+21:26.180 --> 21:27.880
+you talked about resources and materials
+
+21:27.880 --> 21:28.780
+and stuff like that.
+
+21:28.780 --> 21:30.080
+Do you throw that into the calculation
+
+21:30.080 --> 21:31.980
+of trying to reason from first principles
+
+21:31.980 --> 21:34.780
+like how we're gonna make the supply chain work here?
+
+21:34.780 --> 21:35.880
+Yeah, yeah.
+
+21:35.880 --> 21:37.980
+And then the cost of materials, things like that.
+
+21:37.980 --> 21:39.080
+Or is that too much?
+
+21:39.080 --> 21:41.980
+Exactly, so like a good example,
+
+21:41.980 --> 21:44.580
+I think of thinking about things in the limit
+
+21:44.580 --> 21:49.580
+is if you take any product, any machine or whatever,
+
+21:54.380 --> 21:56.080
+like take a rocket or whatever,
+
+21:56.080 --> 22:01.080
+and say, if you look at the raw materials in the rocket,
+
+22:03.680 --> 22:07.580
+so you're gonna have like aluminum, steel, titanium,
+
+22:07.580 --> 22:12.580
+inconel, specialty alloys, copper,
+
+22:13.480 --> 22:18.480
+and you say, what's the weight of the constituent elements
+
+22:19.180 --> 22:20.380
+of each of these elements?
+
+22:20.380 --> 22:22.580
+And what is their raw material value?
+
+22:22.580 --> 22:25.680
+And that sets the asymptotic limit
+
+22:25.680 --> 22:29.480
+for how low the cost of the vehicle can be
+
+22:29.480 --> 22:31.780
+unless you change the materials.
+
+22:31.780 --> 22:33.980
+So, and then when you do that,
+
+22:33.980 --> 22:35.780
+I call it like maybe the magic one number
+
+22:35.780 --> 22:36.600
+or something like that.
+
+22:36.600 --> 22:39.380
+So that would be like if you had the,
+
+22:40.380 --> 22:42.580
+like just a pile of these raw materials here
+
+22:42.580 --> 22:43.680
+and you could wave magic wand
+
+22:43.680 --> 22:45.980
+and rearrange the atoms into the final shape,
+
+22:47.180 --> 22:49.580
+that would be the lowest possible cost
+
+22:49.580 --> 22:50.980
+that you could make this thing for
+
+22:50.980 --> 22:52.780
+unless you change the materials.
+
+22:52.780 --> 22:56.380
+So then, and that is almost always a very low number.
+
+22:57.780 --> 23:01.180
+So then what's actually causing these to be expensive
+
+23:01.180 --> 23:04.080
+is how you put the atoms into the desired shape.
+
+23:05.980 --> 23:09.180
+Yeah, actually, if you don't mind me taking a tiny tangent,
+
+23:10.080 --> 23:11.380
+I often talk to Jim Keller,
+
+23:11.380 --> 23:14.380
+who's somebody that worked with you as a friend.
+
+23:14.380 --> 23:17.780
+Jim was, yeah, did great work at Tesla.
+
+23:17.780 --> 23:20.480
+So I suppose he carries the flame
+
+23:20.480 --> 23:22.680
+of the same kind of thinking
+
+23:22.680 --> 23:24.580
+that you're talking about now.
+
+23:26.180 --> 23:28.580
+And I guess I see that same thing at Tesla
+
+23:28.580 --> 23:31.780
+and SpaceX folks who work there,
+
+23:31.780 --> 23:33.780
+they kind of learn this way of thinking
+
+23:33.780 --> 23:36.680
+and it kind of becomes obvious almost.
+
+23:36.680 --> 23:39.680
+But anyway, I had argument, not argument,
+
+23:40.880 --> 23:44.780
+he educated me about how cheap it might be
+
+23:44.780 --> 23:46.580
+to manufacture a Tesla bot.
+
+23:46.580 --> 23:48.380
+We just, we had an argument.
+
+23:48.380 --> 23:52.080
+How can you reduce the cost of scale of producing a robot?
+
+23:52.080 --> 23:55.980
+Because I've gotten the chance to interact quite a bit,
+
+23:55.980 --> 23:59.480
+obviously, in the academic circles with humanoid robots
+
+23:59.480 --> 24:01.880
+and then my Boston Dynamics and stuff like that.
+
+24:01.880 --> 24:04.480
+And then they're very expensive to build.
+
+24:04.580 --> 24:07.680
+And then Jim kind of schooled me on saying like,
+
+24:07.680 --> 24:10.180
+okay, like this kind of first principles thinking
+
+24:10.180 --> 24:12.680
+of how can we get the cost of manufacturing down?
+
+24:13.880 --> 24:14.780
+I suppose you do that,
+
+24:14.780 --> 24:17.780
+you have done that kind of thinking for Tesla bot
+
+24:17.780 --> 24:21.980
+and for all kinds of complex systems
+
+24:21.980 --> 24:23.780
+that are traditionally seen as complex.
+
+24:23.780 --> 24:27.280
+And you say, okay, how can we simplify everything down?
+
+24:27.280 --> 24:28.680
+Yeah.
+
+24:28.680 --> 24:31.480
+I mean, I think if you are really good at manufacturing,
+
+24:32.380 --> 24:35.380
+you can basically make at high volume,
+
+24:35.380 --> 24:37.580
+you can basically make anything for a cost
+
+24:38.480 --> 24:42.080
+that asymptotically approaches the raw material value
+
+24:42.080 --> 24:44.680
+of the constituents plus any intellectual property
+
+24:44.680 --> 24:47.180
+that you need to do license, anything.
+
+24:49.480 --> 24:50.280
+But it's hard.
+
+24:50.280 --> 24:51.880
+It's not like that's a very hard thing to do,
+
+24:51.880 --> 24:54.780
+but it is possible for anything.
+
+24:54.780 --> 24:57.580
+Anything in volume can be made of, like I said,
+
+24:57.580 --> 25:00.480
+for a cost that asymptotically approaches
+
+25:00.480 --> 25:02.680
+raw material constituents
+
+25:02.680 --> 25:05.280
+plus intellectual property license rights.
+
+25:05.280 --> 25:08.380
+So what will often happen in trying to design a product
+
+25:08.380 --> 25:10.680
+is people will start with the tools
+
+25:10.680 --> 25:13.480
+and parts and methods that they are familiar with
+
+25:14.380 --> 25:17.380
+and then, and try to create a product
+
+25:17.380 --> 25:19.480
+using their existing tools and methods.
+
+25:21.180 --> 25:24.980
+The other way to think about it is actually imagine the,
+
+25:24.980 --> 25:28.680
+try to imagine the platonic ideal of the perfect product
+
+25:28.880 --> 25:31.380
+or technology, whatever it might be.
+
+25:31.380 --> 25:35.680
+And say, what is the perfect arrangement of atoms
+
+25:35.680 --> 25:38.580
+that would be the best possible product?
+
+25:38.580 --> 25:39.880
+And now let us try to figure out
+
+25:39.880 --> 25:41.580
+how to get the atoms in that shape.
+
+25:43.880 --> 25:45.580
+I mean, it sounds,
+
+25:47.980 --> 25:50.380
+it's almost like Rick and Morty absurd
+
+25:50.380 --> 25:52.080
+until you start to really think about it
+
+25:52.080 --> 25:56.480
+and you really should think about it in this way
+
+25:56.480 --> 25:58.180
+because everything else is kind of,
+
+25:59.080 --> 26:03.080
+if you think, you might fall victim to the momentum
+
+26:03.080 --> 26:04.580
+of the way things were done in the past
+
+26:04.580 --> 26:06.080
+unless you think in this way.
+
+26:06.080 --> 26:07.780
+Well, just as a function of inertia,
+
+26:07.780 --> 26:10.780
+people will want to use the same tools and methods
+
+26:10.780 --> 26:12.180
+that they are familiar with.
+
+26:13.380 --> 26:15.780
+They just, that's what they'll do by default.
+
+26:15.780 --> 26:18.780
+And then that will lead to an outcome of things
+
+26:18.780 --> 26:20.580
+that can be made with those tools and methods,
+
+26:20.580 --> 26:23.980
+but is unlikely to be the platonic ideal
+
+26:23.980 --> 26:25.180
+of the perfect product.
+
+26:26.080 --> 26:28.480
+So then, so that's why,
+
+26:28.480 --> 26:30.180
+it's good to think of things in both directions.
+
+26:30.180 --> 26:32.280
+So like, what can we build with the tools that we have?
+
+26:32.280 --> 26:35.680
+But then, but also what is the perfect,
+
+26:35.680 --> 26:37.380
+the theoretical perfect product look like?
+
+26:37.380 --> 26:39.680
+And that theoretical perfect product
+
+26:39.680 --> 26:40.680
+is gonna be a moving target
+
+26:40.680 --> 26:42.780
+because as you learn more,
+
+26:42.780 --> 26:46.980
+the definition of that perfect product will change
+
+26:46.980 --> 26:48.780
+because you don't actually know what the perfect product is,
+
+26:48.780 --> 26:53.180
+but you can successfully approximate a more perfect product.
+
+26:54.080 --> 26:56.480
+So think about it like that and then saying,
+
+26:56.480 --> 26:59.180
+okay, now what tools, methods, materials,
+
+26:59.180 --> 27:02.280
+whatever do we need to create
+
+27:02.280 --> 27:04.380
+in order to get the atoms in that shape?
+
+27:05.780 --> 27:09.880
+But people rarely think about it that way,
+
+27:09.880 --> 27:11.480
+but it's a powerful tool.
+
+27:12.480 --> 27:15.580
+I should mention that the brilliant Siobhan Zillis
+
+27:15.580 --> 27:18.580
+is hanging out with us
+
+27:18.780 --> 27:23.180
+in case you hear a voice of wisdom from outside,
+
+27:23.180 --> 27:24.080
+from up above.
+
+27:25.680 --> 27:28.180
+Okay, so let me ask you about Mars.
+
+27:28.180 --> 27:30.380
+You mentioned it would be great for science
+
+27:30.380 --> 27:34.980
+to put a base on the moon to do some research,
+
+27:34.980 --> 27:38.380
+but the truly big leap,
+
+27:38.380 --> 27:40.880
+again, in this category of seemingly impossible,
+
+27:40.880 --> 27:43.780
+is to put a human being on Mars.
+
+27:43.780 --> 27:46.880
+When do you think SpaceX will land a human being on Mars?
+
+27:49.580 --> 27:50.380
+Hmm.
+
+28:08.180 --> 28:11.980
+Best case is about five years, worst case, 10 years.
+
+28:12.780 --> 28:15.180
+What are the determining factors, would you say,
+
+28:15.180 --> 28:16.780
+from an engineering perspective,
+
+28:16.780 --> 28:18.780
+or is that not the bottlenecks?
+
+28:19.780 --> 28:24.580
+You know, it's fundamentally engineering the vehicle.
+
+28:28.180 --> 28:32.380
+I mean, Starship is the most complex and advanced rocket
+
+28:32.380 --> 28:35.180
+that's ever been made by, I don't know,
+
+28:35.180 --> 28:36.580
+what a magnitude or something like that.
+
+28:36.580 --> 28:37.380
+It's a lot.
+
+28:37.580 --> 28:40.580
+And the fundamental optimization of Starship
+
+28:40.580 --> 28:42.980
+is minimizing cost per ton to orbit
+
+28:42.980 --> 28:45.980
+and ultimately cost per ton to the surface of Mars.
+
+28:45.980 --> 28:47.780
+This may seem like a mercantile objective,
+
+28:47.780 --> 28:50.980
+but it is actually the thing that needs to be optimized.
+
+28:50.980 --> 28:55.580
+Like, there is a certain cost per ton to the surface of Mars
+
+28:55.580 --> 28:59.780
+where we can afford to establish a self-sustaining system.
+
+28:59.780 --> 29:02.980
+And that's something that we need to be able to do.
+
+29:02.980 --> 29:04.980
+And I think that's a really important point
+
+29:04.980 --> 29:08.780
+to be able to afford to establish a self-sustaining city.
+
+29:08.780 --> 29:12.780
+And then above that, we cannot afford to do it.
+
+29:12.780 --> 29:16.780
+So right now, you couldn't fly to Mars for a trillion dollars.
+
+29:16.780 --> 29:19.180
+No amount of money could get you a ticket to Mars.
+
+29:19.180 --> 29:22.380
+So we need to get that above, you know,
+
+29:22.380 --> 29:25.380
+to get that, like, something that is actually possible at all.
+
+29:27.780 --> 29:32.180
+But then, we don't just want to have, you know,
+
+29:32.180 --> 29:33.780
+with Mars, flags and footprints
+
+29:33.780 --> 29:35.780
+and then not come back for a half century,
+
+29:35.780 --> 29:37.980
+like we did with the Moon.
+
+29:37.980 --> 29:43.380
+In order to pass a very important, great filter,
+
+29:43.380 --> 29:46.180
+I think we need to be a multi-planet species.
+
+29:48.180 --> 29:51.380
+This may sound somewhat esoteric to a lot of people,
+
+29:51.380 --> 29:57.180
+but eventually, given enough time,
+
+29:57.180 --> 30:02.180
+that's something Earth is likely to experience some calamity.
+
+30:02.180 --> 30:06.780
+There could be something that humans do to themselves
+
+30:06.780 --> 30:09.580
+or an external event, like happened to the dinosaurs.
+
+30:12.580 --> 30:17.980
+But eventually, if none of that happens
+
+30:17.980 --> 30:21.180
+and somehow, magically, we keep going,
+
+30:21.180 --> 30:24.780
+then the Sun is gradually expanding
+
+30:24.780 --> 30:26.580
+and will engulf the Earth.
+
+30:26.580 --> 30:30.980
+And probably, Earth gets too hot for life
+
+30:30.980 --> 30:34.780
+in about 500 million years.
+
+30:34.780 --> 30:37.180
+It's a long time, but that's only 10% longer
+
+30:37.180 --> 30:39.380
+than Earth has been around.
+
+30:39.380 --> 30:43.180
+And so, if you think about, like, the current situation,
+
+30:43.180 --> 30:45.580
+it's really remarkable and kind of hard to believe,
+
+30:45.580 --> 30:49.980
+but Earth's been around for 1.5 billion years
+
+30:49.980 --> 30:52.180
+and this is the first time in 4.5 billion years
+
+30:52.180 --> 30:55.580
+that it's been possible to extend life beyond Earth.
+
+30:55.580 --> 30:58.580
+And that window of opportunity may be open for a long time,
+
+30:58.580 --> 31:01.580
+and I hope it is, but it also may be open for a short time.
+
+31:01.580 --> 31:09.380
+And I think it was wise for us to act quickly
+
+31:09.380 --> 31:13.580
+while the window is open, just in case it closes.
+
+31:13.580 --> 31:17.580
+Yeah, the existence of nuclear weapons, pandemics,
+
+31:17.580 --> 31:24.780
+all kinds of threats should kind of give us some motivation.
+
+31:24.780 --> 31:30.780
+I mean, civilization could die with a bang or a whimper.
+
+31:30.780 --> 31:34.780
+You know, if it dies, the demographic could collapse,
+
+31:34.780 --> 31:37.780
+then it's more of a whimper, obviously.
+
+31:37.780 --> 31:40.780
+And if it's World War III, it's more of a bang.
+
+31:40.780 --> 31:42.780
+But these are all risks.
+
+31:42.780 --> 31:44.780
+I mean, it's important to think of these things
+
+31:44.780 --> 31:48.780
+and just think of things as, like, probabilities, not certainties.
+
+31:48.780 --> 31:52.780
+There's a certain probability that something bad will happen on Earth.
+
+31:52.780 --> 31:55.780
+I think most likely the future will be good.
+
+31:55.780 --> 31:58.780
+But there's, like, let's say for argument's sake,
+
+31:58.780 --> 32:03.780
+a 1% chance per century of a civilization ending event.
+
+32:03.780 --> 32:06.780
+Like, that was Stephen Hawking's estimate.
+
+32:06.780 --> 32:09.780
+I think he might be right about that.
+
+32:09.780 --> 32:17.780
+So then, you know, we should basically think of this
+
+32:17.780 --> 32:19.780
+like being a multi-planet species,
+
+32:19.780 --> 32:21.780
+just like taking out insurance for life itself.
+
+32:21.780 --> 32:23.780
+Life insurance for life.
+
+32:26.780 --> 32:28.780
+It's turned into infomercial real quick.
+
+32:28.780 --> 32:30.780
+Life insurance for life, yes.
+
+32:30.780 --> 32:35.780
+And, you know, we can bring the creatures from, you know,
+
+32:35.780 --> 32:37.780
+plants and animals from Earth to Mars
+
+32:37.780 --> 32:40.780
+and breathe life into the planet
+
+32:40.780 --> 32:43.780
+and have a second planet with life.
+
+32:43.780 --> 32:45.780
+That would be great.
+
+32:45.780 --> 32:47.780
+They can't bring themselves there, you know,
+
+32:47.780 --> 32:49.780
+so if we don't bring them to Mars,
+
+32:49.780 --> 32:53.780
+then they will just for sure all die when the sun expands anyway,
+
+32:53.780 --> 32:55.780
+and then that'll be it.
+
+32:55.780 --> 32:57.780
+What do you think is the most difficult aspect
+
+32:57.780 --> 32:59.780
+of building a civilization on Mars?
+
+32:59.780 --> 33:02.780
+Terraforming Mars, like, from an engineering perspective,
+
+33:02.780 --> 33:06.780
+from a financial perspective, human perspective,
+
+33:06.780 --> 33:11.780
+to get a large number of folks there
+
+33:11.780 --> 33:14.780
+who will never return back to Earth?
+
+33:14.780 --> 33:16.780
+No, they could certainly return.
+
+33:16.780 --> 33:17.780
+Some will return back to Earth.
+
+33:17.780 --> 33:20.780
+They will choose to stay there for the rest of their lives.
+
+33:20.780 --> 33:22.780
+Many will.
+
+33:22.780 --> 33:27.780
+But, you know, we need the spaceships back,
+
+33:27.780 --> 33:29.780
+like the ones that go to Mars, we need them back,
+
+33:29.780 --> 33:31.780
+so you can hop on if you want, you know.
+
+33:31.780 --> 33:34.780
+But we can't just not have the spaceships come back.
+
+33:34.780 --> 33:35.780
+Those things are expensive.
+
+33:35.780 --> 33:36.780
+We need them back.
+
+33:36.780 --> 33:38.780
+I'd like to come back and do another trip.
+
+33:38.780 --> 33:40.780
+I mean, do you think about the terraforming aspect,
+
+33:40.780 --> 33:41.780
+like, actually building?
+
+33:41.780 --> 33:43.780
+Are you so focused right now on the spaceships part
+
+33:43.780 --> 33:45.780
+that's so critical to get to Mars?
+
+33:45.780 --> 33:48.780
+We absolutely, if you can't get there, nothing else matters.
+
+33:48.780 --> 33:51.780
+And like I said, we can't get there
+
+33:51.780 --> 33:53.780
+at some extraordinarily high cost.
+
+33:53.780 --> 33:56.780
+I mean, the current cost of, let's say,
+
+33:56.780 --> 34:01.780
+one ton to the surface of Mars is on the order of a billion dollars.
+
+34:01.780 --> 34:03.780
+So, because you don't just need the rocket
+
+34:03.780 --> 34:04.780
+and the launch and everything.
+
+34:04.780 --> 34:05.780
+You need, like, a heat shield.
+
+34:05.780 --> 34:08.780
+You need, you know, guidance system.
+
+34:08.780 --> 34:11.780
+You need deep space communications.
+
+34:11.780 --> 34:13.780
+You need some kind of landing system.
+
+34:13.780 --> 34:18.780
+So, like, rough approximation would be a billion dollars per ton
+
+34:18.780 --> 34:20.780
+to the surface of Mars right now.
+
+34:20.780 --> 34:25.780
+This is obviously way too expensive
+
+34:25.780 --> 34:29.780
+to create a self-sustaining civilization.
+
+34:29.780 --> 34:35.780
+So we need to improve that by at least a factor of a thousand.
+
+34:35.780 --> 34:37.780
+A million per ton?
+
+34:37.780 --> 34:39.780
+Yes. Ideally, much less than a million ton.
+
+34:40.780 --> 34:43.780
+But if it's not, like, it's got to be,
+
+34:43.780 --> 34:47.780
+you have to say, like, well, how much can society afford to spend
+
+34:47.780 --> 34:51.780
+or just want to spend on a self-sustaining city on Mars?
+
+34:51.780 --> 34:53.780
+The self-sustaining part is important.
+
+34:53.780 --> 34:56.780
+Like, it's just the key threshold,
+
+34:56.780 --> 35:00.780
+the grateful will have been passed
+
+35:00.780 --> 35:04.780
+when the city on Mars can survive
+
+35:04.780 --> 35:08.780
+even if the spaceships from Earth stop coming for any reason.
+
+35:08.780 --> 35:09.780
+It doesn't matter what the reason is,
+
+35:09.780 --> 35:11.780
+but if they stop coming for any reason,
+
+35:11.780 --> 35:13.780
+will it die out or will it not?
+
+35:13.780 --> 35:15.780
+And if there's even one critical ingredient missing,
+
+35:15.780 --> 35:17.780
+then it still doesn't count.
+
+35:17.780 --> 35:19.780
+It's like, you know, if you're on a long sea voyage
+
+35:19.780 --> 35:23.780
+and you've got everything except vitamin C,
+
+35:23.780 --> 35:25.780
+it's only a matter of time, you know, you're going to die.
+
+35:25.780 --> 35:31.780
+So we've got to get Mars city to the point where it's self-sustaining.
+
+35:31.780 --> 35:33.780
+I'm not sure this will really happen in my lifetime,
+
+35:33.780 --> 35:36.780
+but I hope to see it at least have a lot of momentum.
+
+35:36.780 --> 35:39.780
+And then you could say, okay, what is the minimum tonnage
+
+35:39.780 --> 35:42.780
+necessary to have a self-sustaining city?
+
+35:42.780 --> 35:45.780
+And there's a lot of uncertainty about this.
+
+35:45.780 --> 35:47.780
+You could say, like, I don't know,
+
+35:47.780 --> 35:50.780
+it's probably at least a million tons
+
+35:50.780 --> 35:54.780
+because you have to set up a lot of infrastructure on Mars.
+
+35:54.780 --> 35:58.780
+Like I said, you can't be missing anything that,
+
+35:58.780 --> 36:00.780
+in order to be self-sustaining, you can't be missing,
+
+36:00.780 --> 36:03.780
+like you need, you know, semiconductor fabs,
+
+36:03.780 --> 36:08.780
+you need iron ore refineries, like you need lots of things, you know.
+
+36:08.780 --> 36:12.780
+So, and Mars is not super hospitable.
+
+36:12.780 --> 36:14.780
+It's the least inhospitable planet,
+
+36:14.780 --> 36:17.780
+but it's definitely a fixer-upper of a planet.
+
+36:17.780 --> 36:18.780
+Outside of Earth.
+
+36:18.780 --> 36:19.780
+Yes.
+
+36:19.780 --> 36:20.780
+Earth is pretty good.
+
+36:20.780 --> 36:21.780
+Earth is, like, easy.
+
+36:21.780 --> 36:24.780
+And also, we should clarify, in the solar system.
+
+36:24.780 --> 36:25.780
+Yes, in the solar system.
+
+36:25.780 --> 36:28.780
+There might be nice, like, vacation spots.
+
+36:28.780 --> 36:31.780
+There might be some great planets out there, but it's hopeless.
+
+36:31.780 --> 36:32.780
+Too hard to get there?
+
+36:32.780 --> 36:36.780
+Yeah, way, way, way, way, way too hard, to say the least.
+
+36:36.780 --> 36:37.780
+Let me push back on that.
+
+36:37.780 --> 36:40.780
+Not really a pushback, but a quick curveball of a question.
+
+36:40.780 --> 36:43.780
+So, you did mention physics as the first starting point.
+
+36:43.780 --> 36:49.780
+So, general relativity allows for wormholes.
+
+36:49.780 --> 36:51.780
+They technically can exist.
+
+36:51.780 --> 36:54.780
+Do you think those can ever be leveraged by humus
+
+36:54.780 --> 36:57.780
+to travel faster than the speed of light?
+
+36:58.780 --> 37:02.780
+Well, the wormhole thing is debatable.
+
+37:02.780 --> 37:07.780
+We currently do not know of any means
+
+37:07.780 --> 37:10.780
+of going faster than the speed of light.
+
+37:10.780 --> 37:20.780
+There are some ideas about having space.
+
+37:20.780 --> 37:26.780
+So, you can only move at the speed of light through space,
+
+37:26.780 --> 37:33.780
+but if you can make space itself move, that's warming space.
+
+37:33.780 --> 37:38.780
+Space is capable of moving faster than the speed of light.
+
+37:38.780 --> 37:39.780
+Right.
+
+37:39.780 --> 37:41.780
+Like the universe in the Big Bang,
+
+37:41.780 --> 37:45.780
+the universe expanded at much more than the speed of light, by a lot.
+
+37:45.780 --> 37:46.780
+Yeah.
+
+37:46.780 --> 37:53.780
+But if this is possible, the amount of energy required to wolf space
+
+37:53.780 --> 37:57.780
+is so gigantic, it boggles the mind.
+
+37:57.780 --> 37:59.780
+So, all the work you've done with propulsion,
+
+37:59.780 --> 38:03.780
+how much innovation is possible with rocket propulsion?
+
+38:03.780 --> 38:05.780
+I mean, you've seen it all,
+
+38:05.780 --> 38:08.780
+and you're constantly innovating in every aspect.
+
+38:08.780 --> 38:10.780
+How much is possible?
+
+38:10.780 --> 38:12.780
+Can you get 10X speed?
+
+38:13.780 --> 38:15.780
+Is there something in there in physics
+
+38:15.780 --> 38:17.780
+that you can get significant improvement
+
+38:17.780 --> 38:20.780
+in terms of efficiency of engines and all those kinds of things?
+
+38:20.780 --> 38:22.780
+Well, as I was saying,
+
+38:22.780 --> 38:28.780
+really the Holy Grail is a fully and rapidly reusable orbital system.
+
+38:28.780 --> 38:37.780
+So, right now, the Falcon 9 is the only reusable rocket out there.
+
+38:37.780 --> 38:39.780
+But the booster comes back and lands,
+
+38:39.780 --> 38:41.780
+and you've seen the videos,
+
+38:41.780 --> 38:43.780
+and we get the nose-conal fairing back,
+
+38:43.780 --> 38:45.780
+but we do not get the upper stage back.
+
+38:45.780 --> 38:52.780
+So, that means that we have a minimum cost of building an upper stage.
+
+38:52.780 --> 38:56.780
+You can think of like a two-stage rocket of sort of like two airplanes,
+
+38:56.780 --> 38:58.780
+like a big airplane and a small airplane,
+
+38:58.780 --> 39:01.780
+and we get the big airplane back, but not the small airplane.
+
+39:01.780 --> 39:03.780
+And so, it still costs a lot.
+
+39:03.780 --> 39:07.780
+So, that upper stage is at least $10 million.
+
+39:07.780 --> 39:12.780
+And then the degree of the booster is not as rapidly
+
+39:12.780 --> 39:15.780
+and completely reusable as we'd like in order of the fairings.
+
+39:15.780 --> 39:19.780
+So, our kind of minimum marginal cost,
+
+39:19.780 --> 39:21.780
+not counting overhead per flight,
+
+39:21.780 --> 39:27.780
+is on the order of $15 to $20 million, maybe.
+
+39:27.780 --> 39:30.780
+So, that's extremely good for –
+
+39:30.780 --> 39:33.780
+it's by far better than any rocket ever in history.
+
+39:33.780 --> 39:37.780
+But with full and rapid reusability,
+
+39:37.780 --> 39:44.780
+we can reduce the cost per ton to orbit by a factor of 100.
+
+39:44.780 --> 39:49.780
+Just think of it like measuring if you had an aircraft or something,
+
+39:49.780 --> 39:53.780
+or an airplane or something like that.
+
+39:53.780 --> 39:58.780
+Like measuring if you had an aircraft or something or a car.
+
+39:58.780 --> 40:04.780
+And if you had to buy a new car every time you went for a drive,
+
+40:04.780 --> 40:06.780
+it would be very expensive.
+
+40:06.780 --> 40:08.780
+It would be silly, frankly.
+
+40:08.780 --> 40:12.780
+But in fact, you just refuel the car or recharge the car,
+
+40:12.780 --> 40:19.780
+and that makes your trip like, I don't know, a thousand times cheaper.
+
+40:19.780 --> 40:22.780
+So, it's the same for rockets.
+
+40:22.780 --> 40:27.780
+It's very difficult to make this complex machine that can go to orbit.
+
+40:27.780 --> 40:29.780
+And so, if you cannot reuse it
+
+40:29.780 --> 40:33.780
+and have to throw any significant part of it away,
+
+40:33.780 --> 40:35.780
+that massively increases the cost.
+
+40:35.780 --> 40:42.780
+So, Starship, in theory, could do a cost per launch
+
+40:42.780 --> 40:45.780
+of like a million, maybe $2 million or something like that.
+
+40:45.780 --> 40:51.780
+And put over 100 tons in orbit, which is crazy.
+
+40:51.780 --> 40:53.780
+Yeah, that's incredible.
+
+40:53.780 --> 40:56.780
+So, you're saying like it's by far the biggest bang for the buck
+
+40:56.780 --> 40:58.780
+is to make it fully reusable
+
+40:58.780 --> 41:03.780
+versus like some kind of brilliant breakthrough in theoretical physics?
+
+41:03.780 --> 41:06.780
+No, no, there's no brilliant breakthrough.
+
+41:06.780 --> 41:08.780
+Just make the rocket reusable.
+
+41:08.780 --> 41:10.780
+This is an extremely difficult engineering problem.
+
+41:10.780 --> 41:11.780
+Got it.
+
+41:11.780 --> 41:13.780
+But no new physics is required.
+
+41:13.780 --> 41:14.780
+Just brilliant engineering.
+
+41:14.780 --> 41:17.780
+Let me ask a slightly philosophical, fun question.
+
+41:17.780 --> 41:18.780
+Got to ask.
+
+41:18.780 --> 41:20.780
+I know you're focused on getting to Mars,
+
+41:20.780 --> 41:24.780
+but once we're there on Mars, what form of government,
+
+41:24.780 --> 41:27.780
+economic system, political system,
+
+41:27.780 --> 41:32.780
+do you think would work best for an early civilization of humans?
+
+41:32.780 --> 41:36.780
+I mean, the interesting reason to talk about this stuff,
+
+41:36.780 --> 41:39.780
+it also helps people dream about this.
+
+41:39.780 --> 41:41.780
+The interesting reason to talk about this stuff,
+
+41:41.780 --> 41:44.780
+it also helps people dream about the future.
+
+41:44.780 --> 41:47.780
+I know you're really focused about the short-term engineering dream,
+
+41:47.780 --> 41:49.780
+but it's like, I don't know,
+
+41:49.780 --> 41:52.780
+there's something about imagining an actual civilization on Mars
+
+41:52.780 --> 41:55.780
+that really gives people hope.
+
+41:55.780 --> 41:57.780
+Well, it would be a new frontier and an opportunity
+
+41:57.780 --> 41:59.780
+to rethink the whole nature of government,
+
+41:59.780 --> 42:02.780
+just as was done in the creation of the United States.
+
+42:02.780 --> 42:13.780
+So I would suggest having direct democracy,
+
+42:13.780 --> 42:15.780
+like people vote directly on things,
+
+42:15.780 --> 42:17.780
+as opposed to representative democracy.
+
+42:17.780 --> 42:20.780
+So representative democracy, I think,
+
+42:20.780 --> 42:24.780
+is too subject to special interests
+
+42:24.780 --> 42:29.780
+and a coercion of the politicians and that kind of thing.
+
+42:30.780 --> 42:38.780
+So I'd recommend that there's just direct democracy.
+
+42:38.780 --> 42:41.780
+People vote on laws, the population votes on laws themselves,
+
+42:41.780 --> 42:43.780
+and then the laws must be short enough
+
+42:43.780 --> 42:45.780
+that people can understand them.
+
+42:45.780 --> 42:49.780
+Yeah, and then keeping a well-informed populace,
+
+42:49.780 --> 42:51.780
+really being transparent about all the information,
+
+42:51.780 --> 42:52.780
+about what they're voting for.
+
+42:52.780 --> 42:54.780
+Yeah, absolute transparency.
+
+42:54.780 --> 42:56.780
+Yeah, and not make it as annoying as those cookies
+
+42:56.780 --> 42:57.780
+we have to accept.
+
+42:57.780 --> 42:59.780
+Accept cookies.
+
+42:59.780 --> 43:02.780
+There's always a slight amount of trepidation
+
+43:02.780 --> 43:04.780
+when you click accept cookies.
+
+43:04.780 --> 43:07.780
+I feel as though there's perhaps a very tiny chance
+
+43:07.780 --> 43:10.780
+that it'll open a portal to hell or something like that.
+
+43:10.780 --> 43:12.780
+That's exactly how I feel.
+
+43:12.780 --> 43:15.780
+Why do they keep wanting me to accept it?
+
+43:15.780 --> 43:17.780
+What do they want with this cookie?
+
+43:17.780 --> 43:20.780
+Somebody got upset with accepting cookies or something somewhere.
+
+43:20.780 --> 43:22.780
+Who cares?
+
+43:22.780 --> 43:25.780
+So annoying to keep accepting all these cookies.
+
+43:25.780 --> 43:28.780
+To me, this is just a great experience.
+
+43:28.780 --> 43:29.780
+Yes, you can have my damn cookie.
+
+43:29.780 --> 43:30.780
+I don't care.
+
+43:30.780 --> 43:31.780
+Whatever.
+
+43:31.780 --> 43:32.780
+He heard it from me on first.
+
+43:32.780 --> 43:34.780
+He accepts all your damn cookies.
+
+43:34.780 --> 43:36.780
+Yeah.
+
+43:36.780 --> 43:38.780
+And start asking me.
+
+43:38.780 --> 43:40.780
+It's annoying.
+
+43:40.780 --> 43:44.780
+Yeah, it's one example of implementation
+
+43:44.780 --> 43:48.780
+of a good idea done really horribly.
+
+43:48.780 --> 43:51.780
+Yeah, it's somebody who has some good intentions
+
+43:51.780 --> 43:53.780
+of privacy or whatever,
+
+43:53.780 --> 43:55.780
+but now everyone just has to accept cookies
+
+43:55.780 --> 43:57.780
+and it's now you have billions of people
+
+43:57.780 --> 43:59.780
+who have to keep clicking accept cookie.
+
+43:59.780 --> 44:00.780
+It's super annoying.
+
+44:00.780 --> 44:02.780
+Then we just accept the damn cookie.
+
+44:02.780 --> 44:03.780
+It's fine.
+
+44:03.780 --> 44:06.780
+There is I think a fundamental problem
+
+44:06.780 --> 44:10.780
+that because we've not really had a major,
+
+44:10.780 --> 44:12.780
+like a world war or something like that in a while,
+
+44:12.780 --> 44:15.780
+and obviously we would like to not have world wars,
+
+44:15.780 --> 44:18.780
+there's not been a cleansing function
+
+44:18.780 --> 44:20.780
+for rules and regulations.
+
+44:21.780 --> 44:25.780
+So wars did have some sort of lining in that
+
+44:25.780 --> 44:30.780
+there would be a reset on rules and regulations after a war.
+
+44:30.780 --> 44:31.780
+So world wars one and two,
+
+44:31.780 --> 44:34.780
+there were huge resets on rules and regulations.
+
+44:34.780 --> 44:38.780
+Now, if society does not have a war
+
+44:38.780 --> 44:40.780
+and there's no cleansing function
+
+44:40.780 --> 44:42.780
+or garbage collection for rules and regulations,
+
+44:42.780 --> 44:44.780
+then rules and regulations will accumulate every year
+
+44:44.780 --> 44:45.780
+because they're immortal.
+
+44:45.780 --> 44:49.780
+There's no actual humans die, but the laws don't.
+
+44:49.780 --> 44:52.780
+So we need a garbage collection function
+
+44:52.780 --> 44:53.780
+for rules and regulations.
+
+44:53.780 --> 44:56.780
+They should not just be immortal
+
+44:56.780 --> 44:58.780
+because some of the rules and regulations
+
+44:58.780 --> 45:00.780
+that are put in place will be counterproductive,
+
+45:00.780 --> 45:02.780
+done with good intentions, but counterproductive.
+
+45:02.780 --> 45:04.780
+Sometimes not done with good intentions.
+
+45:04.780 --> 45:09.780
+So if rules and regulations just accumulate every year
+
+45:09.780 --> 45:11.780
+and you get more and more of them,
+
+45:11.780 --> 45:13.780
+then eventually you won't be able to do anything.
+
+45:13.780 --> 45:16.780
+You're just like Gulliver tied down
+
+45:16.780 --> 45:18.780
+by thousands of little strings.
+
+45:18.780 --> 45:25.780
+And we see that in, you know, US and like basically
+
+45:25.780 --> 45:29.780
+all economies that have been around for a while
+
+45:29.780 --> 45:34.780
+and regulators and legislators create new rules
+
+45:34.780 --> 45:35.780
+and regulations every year,
+
+45:35.780 --> 45:37.780
+but they don't put effort into removing them.
+
+45:37.780 --> 45:39.780
+And I think that's very important that we put effort
+
+45:39.780 --> 45:41.780
+into removing rules and regulations.
+
+45:41.780 --> 45:44.780
+But it gets tough because you get special interests
+
+45:44.780 --> 45:48.780
+that then are dependent on, like they have, you know,
+
+45:48.780 --> 45:51.780
+a vested interest in that whatever rule and regulation
+
+45:51.780 --> 45:56.780
+and then they fight to not get it removed.
+
+45:56.780 --> 46:00.780
+Yeah, so I mean, I guess the problem with the Constitution
+
+46:00.780 --> 46:03.780
+is it's kind of like C versus Java
+
+46:03.780 --> 46:06.780
+because it doesn't have any garbage collection built in.
+
+46:06.780 --> 46:08.780
+I think there should be, when you first said
+
+46:08.780 --> 46:10.780
+the metaphor of garbage collection, I loved it.
+
+46:10.780 --> 46:11.780
+Yeah, it's from a coding standpoint.
+
+46:11.780 --> 46:13.780
+From a coding standpoint, yeah, yeah.
+
+46:13.780 --> 46:16.780
+It would be interesting if the laws themselves
+
+46:16.780 --> 46:19.780
+kind of had a built-in thing where they kind of die
+
+46:19.780 --> 46:22.780
+after a while unless somebody explicitly publicly defends them.
+
+46:22.780 --> 46:23.780
+Yeah.
+
+46:23.780 --> 46:25.780
+So that's sort of, it's not like somebody has to kill them,
+
+46:25.780 --> 46:27.780
+they kind of die themselves.
+
+46:27.780 --> 46:28.780
+They disappear.
+
+46:28.780 --> 46:31.780
+Yeah.
+
+46:31.780 --> 46:34.780
+Not to defend Java or anything, but, you know,
+
+46:34.780 --> 46:37.780
+C++, you know, you could also have great garbage collection
+
+46:37.780 --> 46:39.780
+in Python and so on.
+
+46:39.780 --> 46:40.780
+Yeah.
+
+46:40.780 --> 46:43.780
+So yeah, something needs to happen
+
+46:43.780 --> 46:48.780
+or just the civilization's arteries just harden over time
+
+46:48.780 --> 46:50.780
+and you can just get less and less done
+
+46:50.780 --> 46:54.780
+because there's just a rule against everything.
+
+46:54.780 --> 46:58.780
+So I think, I don't know, for Mars or whatever, I'd say,
+
+46:58.780 --> 47:00.780
+or even for, you know, obviously for Earth as well,
+
+47:00.780 --> 47:02.780
+I think there should be an active process
+
+47:02.780 --> 47:04.780
+for removing rules and regulations
+
+47:04.780 --> 47:06.780
+and questioning their existence.
+
+47:06.780 --> 47:09.780
+Just like if we've got a function
+
+47:09.780 --> 47:10.780
+for creating rules and regulations,
+
+47:10.780 --> 47:12.780
+because rules and regulations you can also think of
+
+47:12.780 --> 47:15.780
+as like they're like software or lines of code
+
+47:15.780 --> 47:18.780
+for operating civilization.
+
+47:18.780 --> 47:20.780
+That's the rules and regulations.
+
+47:20.780 --> 47:22.780
+So it's like we shouldn't have rules and regulations,
+
+47:22.780 --> 47:26.780
+but you have code accumulation, but no code removal.
+
+47:26.780 --> 47:30.780
+And so it just gets to become basically archaic bloatware
+
+47:30.780 --> 47:32.780
+after a while.
+
+47:33.780 --> 47:37.780
+And it's just, it makes it hard for things to progress.
+
+47:37.780 --> 47:41.780
+So I don't know, maybe Mars, you'd have like,
+
+47:41.780 --> 47:44.780
+you know, any given law must have a sunset, you know,
+
+47:44.780 --> 47:49.780
+and require active voting to restore,
+
+47:49.780 --> 47:51.780
+to keep it up there, you know.
+
+47:51.780 --> 47:54.780
+And I actually also say like, and these are just,
+
+47:54.780 --> 47:57.780
+I don't know, recommendations or thoughts
+
+47:57.780 --> 48:00.780
+and ultimately it will be up to the people on Mars to decide.
+
+48:00.780 --> 48:05.780
+But I think it should be easier to remove a law
+
+48:06.780 --> 48:08.780
+than to add one because of the,
+
+48:08.780 --> 48:10.780
+just to overcome the inertia of laws.
+
+48:10.780 --> 48:14.780
+So maybe it's like, for argument's sake,
+
+48:14.780 --> 48:19.780
+you need like say 60% vote to have a law take effect,
+
+48:19.780 --> 48:22.780
+but only a 40% vote to remove it.
+
+48:22.780 --> 48:24.780
+So let me be the guy.
+
+48:24.780 --> 48:26.780
+You posted a meme on Twitter recently
+
+48:26.780 --> 48:29.780
+where there's like a row of urinals
+
+48:29.780 --> 48:32.780
+and a guy just walks all the way across
+
+48:32.780 --> 48:34.780
+and he tells you about crypto.
+
+48:34.780 --> 48:37.780
+Listen, I mean, that's happened to me so many times,
+
+48:37.780 --> 48:39.780
+I think maybe even literally.
+
+48:39.780 --> 48:40.780
+Yeah.
+
+48:40.780 --> 48:42.780
+Do you think, technologically speaking,
+
+48:42.780 --> 48:46.780
+there's any room for ideas of smart contracts or so on?
+
+48:46.780 --> 48:48.780
+Because you mentioned laws.
+
+48:48.780 --> 48:52.780
+That's an interesting use of things like smart contracts
+
+48:52.780 --> 48:56.780
+to implement the laws by which governments function.
+
+48:56.780 --> 49:01.780
+Like something built on Ethereum or maybe a dog coin
+
+49:01.780 --> 49:04.780
+that enables smart contracts somehow.
+
+49:04.780 --> 49:07.780
+I don't quite understand this whole smart contract thing.
+
+49:11.780 --> 49:14.780
+I'm too dumb to understand smart contracts.
+
+49:14.780 --> 49:16.780
+That's a good line.
+
+49:17.780 --> 49:20.780
+I mean, my general approach to any kind of like deal
+
+49:20.780 --> 49:23.780
+or whatever is just make sure there's clarity of understanding.
+
+49:23.780 --> 49:25.780
+That's the most important thing.
+
+49:25.780 --> 49:29.780
+And just keep any kind of deal very short and simple,
+
+49:29.780 --> 49:33.780
+plain language, and just make sure everyone understands.
+
+49:33.780 --> 49:36.780
+This is the deal. Is it clear?
+
+49:36.780 --> 49:42.780
+And what are the consequences if various things don't happen?
+
+49:42.780 --> 49:47.780
+But usually deals are, business deals or whatever,
+
+49:47.780 --> 49:52.780
+are way too long and complex and overly layered and pointlessly.
+
+49:52.780 --> 49:56.780
+You mentioned that Doge is the people's coin.
+
+49:56.780 --> 49:57.780
+Yeah.
+
+49:57.780 --> 49:59.780
+And you said that you're literally going,
+
+49:59.780 --> 50:07.780
+SpaceX may consider literally putting a Doge coin on the moon.
+
+50:07.780 --> 50:09.780
+Is this something you're still considering?
+
+50:09.780 --> 50:11.780
+Mars perhaps?
+
+50:11.780 --> 50:13.780
+Do you think there's some chance,
+
+50:13.780 --> 50:15.780
+we've talked about political systems on Mars,
+
+50:15.780 --> 50:21.780
+that Dogecoin is the official currency of Mars at some point in the future?
+
+50:21.780 --> 50:26.780
+Well, I think Mars itself will need to have a different currency
+
+50:26.780 --> 50:30.780
+because you can't synchronize due to speed of light.
+
+50:30.780 --> 50:32.780
+Or not easily.
+
+50:32.780 --> 50:35.780
+So it must be completely standalone from Earth.
+
+50:35.780 --> 50:40.780
+Well, yeah, because Mars is at closest approach,
+
+50:40.780 --> 50:42.780
+it's four light minutes away roughly.
+
+50:42.780 --> 50:46.780
+And then at furthest approach, it's roughly 20 light minutes away,
+
+50:46.780 --> 50:49.780
+maybe a little more.
+
+50:49.780 --> 50:52.780
+So you can't really have something synchronizing,
+
+50:52.780 --> 50:55.780
+if you've got a 20-minute speed of light issue,
+
+50:55.780 --> 50:57.780
+if it's got a one-minute blockchain.
+
+50:57.780 --> 51:00.780
+It's not going to synchronize properly.
+
+51:00.780 --> 51:04.780
+So Mars would, I don't know if Mars would have a cryptocurrency as a thing,
+
+51:04.780 --> 51:06.780
+but probably, seems likely,
+
+51:06.780 --> 51:11.780
+but it would be some kind of localized thing on Mars.
+
+51:11.780 --> 51:14.780
+And you let the people decide?
+
+51:14.780 --> 51:17.780
+Yeah, absolutely.
+
+51:17.780 --> 51:20.780
+The future of Mars should be up to the Martians.
+
+51:20.780 --> 51:28.780
+Yeah, so I think the cryptocurrency thing is an interesting approach
+
+51:28.780 --> 51:40.780
+to reducing the error in the database that is called money.
+
+51:40.780 --> 51:44.780
+I think I have a pretty deep understanding of what money actually is
+
+51:44.780 --> 51:49.780
+on a practical day-to-day basis because of PayPal.
+
+51:49.780 --> 51:54.780
+We really got in deep there.
+
+51:54.780 --> 51:58.780
+And right now the money system, actually for practical purposes,
+
+51:58.780 --> 52:06.780
+is really a bunch of heterogeneous mainframes running old COBOL.
+
+52:06.780 --> 52:08.780
+Okay, you mean literally?
+
+52:08.780 --> 52:09.780
+Literally.
+
+52:09.780 --> 52:10.780
+That's literally what's happening.
+
+52:10.780 --> 52:12.780
+In batch mode.
+
+52:12.780 --> 52:13.780
+Okay.
+
+52:13.780 --> 52:14.780
+In batch mode.
+
+52:14.780 --> 52:18.780
+Yeah, pretty the poor bastards who have to maintain that code.
+
+52:18.780 --> 52:21.780
+Okay, that's a pain.
+
+52:21.780 --> 52:23.780
+Not even Fortran, it's COBOL.
+
+52:23.780 --> 52:25.780
+It's COBOL.
+
+52:25.780 --> 52:32.780
+And banks are still buying mainframes in 2021 and running ancient COBOL code.
+
+52:32.780 --> 52:38.780
+And the Federal Reserve is probably even older than what the banks have,
+
+52:38.780 --> 52:41.780
+and they have an old COBOL mainframe.
+
+52:41.780 --> 52:48.780
+And so the government effectively has editing privileges on the money database.
+
+52:48.780 --> 52:55.780
+And they use those editing privileges to make more money whenever they want.
+
+52:55.780 --> 52:59.780
+And this increases the error in the database that is money.
+
+52:59.780 --> 53:03.780
+So I think money should really be viewed through the lens of information theory.
+
+53:03.780 --> 53:08.780
+And so it's kind of like an internet connection.
+
+53:08.780 --> 53:12.780
+Like what's the bandwidth, you know, total bitrate?
+
+53:12.780 --> 53:21.780
+What is the latency, jitter, packet drop, you know, errors in the network, communication?
+
+53:21.780 --> 53:23.780
+Just think of money like that, basically.
+
+53:23.780 --> 53:26.780
+I think that's probably the way we think of it.
+
+53:26.780 --> 53:31.780
+And then say what system, from an information theory standpoint,
+
+53:31.780 --> 53:34.780
+allows an economy to function the best?
+
+53:35.780 --> 53:46.780
+And, you know, crypto is an attempt to reduce the error in money
+
+53:46.780 --> 53:52.780
+that is contributed by governments diluting the money supply
+
+53:52.780 --> 53:57.780
+as basically a pernicious form of taxation.
+
+53:58.780 --> 54:01.780
+So both policy in terms of with inflation
+
+54:01.780 --> 54:08.780
+and actual technological COBOL cryptocurrency takes us into the 21st century
+
+54:08.780 --> 54:11.780
+in terms of the actual systems that allow you to do the transactions,
+
+54:11.780 --> 54:14.780
+to store wealth, all those kinds of things.
+
+54:16.780 --> 54:18.780
+Like I said, just think of money as information.
+
+54:18.780 --> 54:23.780
+People often will think of money as having power in and of itself.
+
+54:23.780 --> 54:24.780
+It does not.
+
+54:24.780 --> 54:29.780
+Money is information, and it does not have power in and of itself.
+
+54:29.780 --> 54:36.780
+Like, you know, again, applying the physics tools of thinking about things in the limit is helpful.
+
+54:36.780 --> 54:45.780
+If you are stranded on a tropical island and you have a trillion dollars, it's useless.
+
+54:46.780 --> 54:49.780
+Because there's no resource allocation.
+
+54:49.780 --> 54:51.780
+Money is a database resource allocation.
+
+54:51.780 --> 54:53.780
+But there's no resource to allocate except yourself.
+
+54:53.780 --> 54:55.780
+So money is useless.
+
+54:59.780 --> 55:03.780
+If you're stranded on a desert island with no food,
+
+55:03.780 --> 55:10.780
+all the Bitcoin in the world will not stop you from starving.
+
+55:11.780 --> 55:23.780
+So just think of money as a database for resource allocation across time and space.
+
+55:23.780 --> 55:38.780
+And then in what form should that database or data system, what would be most effective?
+
+55:38.780 --> 55:44.780
+Now, there is a fundamental issue with, say, Bitcoin in its current form,
+
+55:44.780 --> 55:48.780
+in that the transaction volume is very limited.
+
+55:50.780 --> 55:59.780
+And the latency for a properly confirmed transaction is too long, much longer than you'd like.
+
+55:59.780 --> 56:06.780
+So it's actually not great from a transaction volume standpoint or a latency standpoint.
+
+56:08.780 --> 56:17.780
+So it is perhaps useful to solve an aspect of the money database problem,
+
+56:17.780 --> 56:24.780
+which is this sort of store of wealth or an accounting of relative obligations, I suppose.
+
+56:24.780 --> 56:30.780
+But it is not useful as a currency, as a day-to-day currency.
+
+56:30.780 --> 56:32.780
+But people have proposed different technological solutions.
+
+56:32.780 --> 56:33.780
+Like Lightning.
+
+56:33.780 --> 56:37.780
+Yeah, Lightning Network and the Layer 2 technologies on top of that.
+
+56:37.780 --> 56:40.780
+I mean, it seems to be all kind of a trade-off.
+
+56:40.780 --> 56:44.780
+But the point is, it's kind of brilliant to say that just think about information,
+
+56:44.780 --> 56:48.780
+think about what kind of database, what kind of infrastructure enables the exchange of information.
+
+56:48.780 --> 56:50.780
+Yeah, say like you're operating an economy,
+
+56:50.780 --> 56:56.780
+and you need to have something that allows for the efficient,
+
+56:56.780 --> 57:00.780
+to have efficient value ratios between products and services.
+
+57:00.780 --> 57:03.780
+So you've got this massive number of products and services,
+
+57:03.780 --> 57:08.780
+and you need to, you can't just barter because that would be extremely unwieldy.
+
+57:08.780 --> 57:18.780
+So you need something that gives you a ratio of exchange between goods and services.
+
+57:18.780 --> 57:25.780
+And then something that allows you to shift obligations across time, like debt,
+
+57:25.780 --> 57:28.780
+debt and equity shift obligations across time.
+
+57:28.780 --> 57:30.780
+Then what does the best job of that?
+
+57:30.780 --> 57:34.780
+Probably the reason why I think there's some merits of Dogecoin,
+
+57:34.780 --> 57:37.780
+even though it was obviously created as a joke,
+
+57:37.780 --> 57:45.780
+is that it actually does have a much higher transaction volume capability than Bitcoin.
+
+57:45.780 --> 57:53.780
+And the cost of doing a transaction, the Dogecoin fee is very low.
+
+57:53.780 --> 57:55.780
+Like right now, if you want to do a Bitcoin transaction,
+
+57:55.780 --> 57:57.780
+the price of doing that transaction is very high.
+
+57:57.780 --> 58:00.780
+So you could not use it effectively for most things.
+
+58:00.780 --> 58:03.780
+And nor could it even scale to a high volume.
+
+58:07.780 --> 58:13.780
+And when Bitcoin was started, I guess around 2008 or something like that,
+
+58:13.780 --> 58:17.780
+the internet connections were much worse than they are today.
+
+58:17.780 --> 58:23.780
+Like order of magnitude, I mean, there's way, way worse in 2008.
+
+58:23.780 --> 58:28.780
+So like having a small block size or whatever,
+
+58:28.780 --> 58:34.780
+and a long synchronization time made sense in 2008.
+
+58:34.780 --> 58:41.780
+But 2021, or fast forward 10 years, it's like economically low.
+
+58:41.780 --> 58:49.780
+And I think there's some value to having a linear increase in the amount of currency that is generated.
+
+58:49.780 --> 58:56.780
+So because some amount of the currency, like if a currency is too deflationary,
+
+58:56.780 --> 59:02.780
+or should say if a currency is expected to increase,
+
+59:02.780 --> 59:12.780
+if a currency is too deflationary, or should say if a currency is expected to increase in value over time,
+
+59:12.780 --> 59:14.780
+there's reluctance to spend it.
+
+59:14.780 --> 59:20.780
+Because you're like, oh, I'll just hold it and not spend it because it's scarcity is increasing with time.
+
+59:20.780 --> 59:23.780
+So if I spend it now, then I will regret spending it.
+
+59:23.780 --> 59:27.780
+So I will just, you know, hodl it.
+
+59:27.780 --> 59:33.780
+But if there's some dilution of the currency occurring over time, that's more of an incentive to use it as a currency.
+
+59:33.780 --> 59:49.780
+So those coins somewhat randomly has just a fixed number of sort of coins or hash strings that are generated every year.
+
+59:49.780 --> 59:52.780
+So there's some inflation, but it's not a percentage base.
+
+59:52.780 --> 59:55.780
+It's a fixed number.
+
+59:55.780 --> 01:00:02.780
+So the percentage of inflation will necessarily decline over time.
+
+01:00:02.780 --> 01:00:07.780
+So I'm not saying that it's like the ideal system for a currency,
+
+01:00:07.780 --> 01:00:15.780
+but I think it actually is just fundamentally better than anything else I've seen just by accident.
+
+01:00:15.780 --> 01:00:19.780
+So I like how you said around 2008.
+
+01:00:19.780 --> 01:00:24.780
+So you're not, you know, some people suggested you might be Satoshi Nakamoto.
+
+01:00:24.780 --> 01:00:28.780
+You've previously said you're not. You're not for sure.
+
+01:00:28.780 --> 01:00:32.780
+Would you tell us if you were? Yes. OK.
+
+01:00:32.780 --> 01:00:38.780
+Do you think it's a feature or a bug that he's anonymous or she or they?
+
+01:00:38.780 --> 01:00:43.780
+It's an interesting kind of quirk of human history that there is a particular technology
+
+01:00:43.780 --> 01:01:03.780
+that is a completely anonymous inventor or creator.
+
+01:01:03.780 --> 01:01:12.780
+Well, you can look at the evolution of ideas before the launch of Bitcoin
+
+01:01:12.780 --> 01:01:19.780
+and see who wrote, you know, about those ideas.
+
+01:01:19.780 --> 01:01:22.780
+And then I don't know exactly.
+
+01:01:22.780 --> 01:01:25.780
+Obviously, I don't know who created Bitcoin for practical purposes,
+
+01:01:25.780 --> 01:01:29.780
+but the evolution of ideas is pretty clear before that.
+
+01:01:29.780 --> 01:01:34.780
+And it seems as though like Nick Szabo is probably more than anyone else
+
+01:01:34.780 --> 01:01:37.780
+responsible for the evolution of those ideas.
+
+01:01:37.780 --> 01:01:44.780
+So he claims not to be Nakamoto, but I'm not sure that's neither here nor there.
+
+01:01:44.780 --> 01:01:50.780
+But he seems to be the one more responsible for the ideas behind Bitcoin than anyone else.
+
+01:01:50.780 --> 01:01:55.780
+So it's not perhaps like singular figures aren't even as important as the figures
+
+01:01:55.780 --> 01:01:58.780
+involved in the evolution of ideas that led to things.
+
+01:01:58.780 --> 01:02:03.780
+So, yeah, you know, most perhaps it's sad to think about history,
+
+01:02:03.780 --> 01:02:06.780
+but maybe most names will be forgotten anyway.
+
+01:02:06.780 --> 01:02:11.780
+What is the name anyway? It's a name attached to an idea.
+
+01:02:11.780 --> 01:02:13.780
+What does it even mean really?
+
+01:02:13.780 --> 01:02:16.780
+I think Shakespeare had a thing about roses and stuff, whatever he said.
+
+01:02:16.780 --> 01:02:21.780
+Rose by any other name. It smells sweet.
+
+01:02:21.780 --> 01:02:26.780
+I got Elon to quote Shakespeare. I feel like I accomplished something today.
+
+01:02:26.780 --> 01:02:30.780
+Shall I compare thee to a summer's day?
+
+01:02:30.780 --> 01:02:33.780
+I'm going to clip that out.
+
+01:02:33.780 --> 01:02:38.780
+Not more temperate and more fair.
+
+01:02:38.780 --> 01:02:49.780
+Autopilot. Tesla Autopilot has been through an incredible journey over the past six years
+
+01:02:49.780 --> 01:02:56.780
+or perhaps even longer in the minds of, in your mind, in the minds of many involved.
+
+01:02:56.780 --> 01:03:01.780
+I think that's where we first like connected really was the autopilot stuff, autonomy and
+
+01:03:01.780 --> 01:03:04.780
+the whole journey was incredible to me to watch.
+
+01:03:04.780 --> 01:03:12.780
+I was because I knew, well, part of it was I was at MIT and I knew the difficulty of computer vision.
+
+01:03:12.780 --> 01:03:16.780
+And I knew the whole I had a lot of colleagues and friends about the DARPA challenge.
+
+01:03:16.780 --> 01:03:19.780
+I knew how difficult it is. And so there was a natural skepticism.
+
+01:03:19.780 --> 01:03:26.780
+When I first drove a Tesla with the initial system based on Mobileye, I thought there's no way.
+
+01:03:26.780 --> 01:03:35.780
+The first one I got in, I thought there's no way this car could maintain like stay in the lane and create a comfortable experience.
+
+01:03:35.780 --> 01:03:41.780
+So my intuition initially was that the lane keeping problem is way too difficult to solve.
+
+01:03:41.780 --> 01:03:43.780
+Oh, thank you. Yeah, that's relatively easy.
+
+01:03:43.780 --> 01:03:52.780
+Well, like, but not this, but solve in the way that we just we talked about previous is prototype versus a thing
+
+01:03:52.780 --> 01:03:56.780
+that actually creates a pleasant experience over hundreds of thousands of miles or millions.
+
+01:03:56.780 --> 01:04:01.780
+Yeah, so we had to wrap a lot of code around the Mobileye thing.
+
+01:04:01.780 --> 01:04:03.780
+It doesn't just work by itself.
+
+01:04:03.780 --> 01:04:07.780
+I mean, there's part that's part of the story of how you approach things.
+
+01:04:07.780 --> 01:04:09.780
+Sometimes sometimes you do things from scratch.
+
+01:04:09.780 --> 01:04:13.780
+Sometimes at first you kind of see what's out there and then you decide to from scratch.
+
+01:04:13.780 --> 01:04:20.780
+That was one of the boldest decisions I've seen is both on the hardware and the software to decide to eventually go from scratch.
+
+01:04:20.780 --> 01:04:26.780
+I thought, again, I was skeptical whether that's going to be able to work out because it's such a such a difficult problem.
+
+01:04:26.780 --> 01:04:28.780
+And so it was an incredible journey.
+
+01:04:28.780 --> 01:04:44.780
+What I see now with everything, the hardware, the compute, the sensors, the things I maybe care and love about most is the stuff that Andre Karpathy is leading with the data set selection, the whole data engine process, the neural network architectures,
+
+01:04:44.780 --> 01:04:54.780
+the way that's in the real world that network is tested, validated, all the different test sets versus the ImageNet model of computer vision.
+
+01:04:54.780 --> 01:04:59.780
+Like what's in academia is like real world artificial intelligence.
+
+01:04:59.780 --> 01:05:07.780
+Andre is awesome and obviously plays an important role, but we have a lot of really talented people driving things.
+
+01:05:08.780 --> 01:05:15.780
+And Ashok is actually the head of autopilot engineering. Andre is the director of AI.
+
+01:05:15.780 --> 01:05:21.780
+AI stuff. Yeah. So yeah, I'm aware that there's an incredible team of just a lot going on.
+
+01:05:21.780 --> 01:05:27.780
+Yeah, just, you know, people will give me too much credit and they'll give Andre too much credit.
+
+01:05:27.780 --> 01:05:31.780
+And people should realize how much is going on under the.
+
+01:05:31.780 --> 01:05:35.780
+Yeah, it's just a lot of really talented people.
+
+01:05:35.780 --> 01:05:39.780
+The Tesla autopilot AI team is extremely talented.
+
+01:05:39.780 --> 01:05:42.780
+It's like some of the smartest people in the world.
+
+01:05:42.780 --> 01:05:44.780
+So yeah, we're getting it done.
+
+01:05:44.780 --> 01:05:53.780
+What are some insights you've gained over those five, six years of autopilot about the problem of autonomous driving?
+
+01:05:53.780 --> 01:05:59.780
+So you leaped in having some sort of first principles kinds of intuitions,
+
+01:05:59.780 --> 01:06:04.780
+but nobody knows how difficult the problem is.
+
+01:06:04.780 --> 01:06:08.780
+I thought the self-driving problem would be hard, but it was harder than I thought.
+
+01:06:08.780 --> 01:06:13.780
+It's not like I thought it would be easy. I thought it would be very hard, but it was actually way harder than even that.
+
+01:06:13.780 --> 01:06:20.780
+So what it comes down to at the end of the day is to solve self-driving, you have to solve.
+
+01:06:21.780 --> 01:06:27.780
+You basically need to recreate what you what humans do to drive,
+
+01:06:27.780 --> 01:06:33.780
+which is humans drive with optical sensors, eyes and biological neural nets.
+
+01:06:33.780 --> 01:06:45.780
+And so in order to that, that's how the entire road system is designed to work with with basically passive optical and neural nets biologically.
+
+01:06:45.780 --> 01:06:51.780
+And now that we need to. So for actually for full self-driving to work, we have to recreate that in digital form.
+
+01:06:51.780 --> 01:07:02.780
+So we have to that that means cameras with advanced neural nets in silicon form.
+
+01:07:02.780 --> 01:07:07.780
+And then you will obviously solve for full self-driving.
+
+01:07:07.780 --> 01:07:09.780
+That's that's the only way I don't think there's any other way.
+
+01:07:09.780 --> 01:07:14.780
+But the question is, what aspects of human nature do you have to encode into the machine?
+
+01:07:14.780 --> 01:07:17.780
+Right. So you have to solve the perception problem, like detect.
+
+01:07:17.780 --> 01:07:24.780
+And then you first realize what is the perception problem for driving, like all the kinds of things you have to be able to see.
+
+01:07:24.780 --> 01:07:26.780
+Like, what do we even look at when we drive?
+
+01:07:26.780 --> 01:07:32.780
+There's I just recently heard Andre talked about at MIT about car doors.
+
+01:07:32.780 --> 01:07:36.780
+I think it was the world's greatest talk of all time about car doors.
+
+01:07:37.780 --> 01:07:40.780
+You know, the fine details of car doors.
+
+01:07:40.780 --> 01:07:43.780
+Like, what is even an open car door, man?
+
+01:07:43.780 --> 01:07:47.780
+So like the the ontology of that, that's a perception problem.
+
+01:07:47.780 --> 01:07:50.780
+We humans solve that perception problem and Tesla has to solve that problem.
+
+01:07:50.780 --> 01:07:53.780
+And then there's the control and the planning coupled with the perception.
+
+01:07:53.780 --> 01:08:01.780
+You have to figure out like what's involved in driving, like especially in all the different edge cases.
+
+01:08:01.780 --> 01:08:05.780
+And then, I mean, maybe you can comment on this.
+
+01:08:05.780 --> 01:08:12.780
+How much game theoretic kind of stuff needs to be involved, you know, at a four way stop sign?
+
+01:08:12.780 --> 01:08:17.780
+You know, as humans, when we drive, our actions affect the world.
+
+01:08:17.780 --> 01:08:20.780
+Like, it changes how others behave.
+
+01:08:20.780 --> 01:08:22.780
+Most of the time was driving.
+
+01:08:22.780 --> 01:08:30.780
+You're usually just responding to the scene as opposed to like really asserting yourself in the scene.
+
+01:08:30.780 --> 01:08:31.780
+Do you think?
+
+01:08:31.780 --> 01:08:38.780
+I think these sort of control logic conundrums are not the hard part.
+
+01:08:44.780 --> 01:08:49.780
+What do you think is the hard part in this whole beautiful complex problem?
+
+01:08:49.780 --> 01:08:51.780
+So it's a lot of freaking software, man.
+
+01:08:51.780 --> 01:08:53.780
+A lot of smart lines of code.
+
+01:08:53.780 --> 01:09:00.780
+For sure, in order to have, create an accurate vector space.
+
+01:09:00.780 --> 01:09:11.780
+So, like, you're coming from image space, which is like this flow of photons going to the cameras.
+
+01:09:11.780 --> 01:09:19.780
+And then you have this massive boot stream in image space.
+
+01:09:19.780 --> 01:09:31.780
+And then you have to effectively compress a massive boot stream corresponding to photons
+
+01:09:31.780 --> 01:09:42.780
+that knocked off an electron in a camera sensor and turn that boot stream into vector space.
+
+01:09:42.780 --> 01:09:52.780
+By vector space, I mean like, you know, you've got cars and humans and lane lines and curves
+
+01:09:52.780 --> 01:09:58.780
+and traffic lights and that kind of thing.
+
+01:09:58.780 --> 01:10:06.780
+Once you have an accurate vector space, the control problem is similar to that of a video game,
+
+01:10:06.780 --> 01:10:12.780
+like a Grand Theft Auto or Cyberpunk, if you have accurate vector space.
+
+01:10:12.780 --> 01:10:17.780
+The control problem is, I wouldn't say it's trivial, it's not trivial,
+
+01:10:17.780 --> 01:10:24.780
+but it's not like some insurmountable thing.
+
+01:10:24.780 --> 01:10:28.780
+But having accurate vector space is very difficult.
+
+01:10:28.780 --> 01:10:34.780
+Yeah, I think we humans don't give enough respect to how incredible the human perception is.
+
+01:10:34.780 --> 01:10:40.780
+Mapping the raw photons to the vector space representation in our heads.
+
+01:10:40.780 --> 01:10:47.780
+Your brain is doing an incredible amount of processing and giving you an image that is a very cleaned up image.
+
+01:10:47.780 --> 01:10:51.780
+When we look around here, you see color in the corners of your eyes,
+
+01:10:51.780 --> 01:10:58.780
+but actually your eyes have very few cones, like cone receptors in the peripheral vision.
+
+01:10:58.780 --> 01:11:04.780
+Your eyes are painting color in the peripheral vision.
+
+01:11:04.780 --> 01:11:08.780
+You don't realize it, but their eyes are actually painting color.
+
+01:11:08.780 --> 01:11:13.780
+And your eyes also have like this blood vessels and all sorts of gnarly things and there's a blind spot.
+
+01:11:13.780 --> 01:11:20.780
+But do you see your blind spot? No, your brain is painting in the missing, the blind spot.
+
+01:11:20.780 --> 01:11:26.780
+You're going to do these things online where you look here and look at this point and then look at this point
+
+01:11:26.780 --> 01:11:32.780
+and if it's in your blind spot, your brain will just fill in the missing bits.
+
+01:11:32.780 --> 01:11:34.780
+The peripheral vision is so cool.
+
+01:11:34.780 --> 01:11:37.780
+It makes you realize all the illusions for vision science.
+
+01:11:37.780 --> 01:11:39.780
+It makes you realize just how incredible the brain is.
+
+01:11:39.780 --> 01:11:44.780
+The brain is doing a crazy amount of post-processing on the vision signals from your eyes.
+
+01:11:44.780 --> 01:11:46.780
+It's insane.
+
+01:11:46.780 --> 01:11:56.780
+And then even once you get all those vision signals, your brain is constantly trying to forget as much as possible.
+
+01:11:56.780 --> 01:12:00.780
+So human memory is perhaps the weakest thing about the brain is memory.
+
+01:12:00.780 --> 01:12:08.780
+So because memory is so expensive to our brain and so limited, your brain is trying to forget as much as possible
+
+01:12:08.780 --> 01:12:15.780
+and distill the things that you see into the smallest amounts of information possible.
+
+01:12:15.780 --> 01:12:18.780
+So your brain is trying to not just get to a vector space,
+
+01:12:18.780 --> 01:12:24.780
+but get to a vector space that is the smallest possible vector space of only relevant objects.
+
+01:12:24.780 --> 01:12:30.780
+And I think you can sort of look inside your brain, or at least I can,
+
+01:12:30.780 --> 01:12:37.780
+like when you drive down the road and try to think about what your brain is actually doing consciously.
+
+01:12:38.780 --> 01:12:46.780
+And it's like you'll see a car because you don't have cameras.
+
+01:12:46.780 --> 01:12:48.780
+I don't have eyes in the back of your head or the side.
+
+01:12:48.780 --> 01:12:57.780
+So you say like, basically your head is like a, you basically have like two cameras on a slow gimbal.
+
+01:12:57.780 --> 01:13:01.780
+And what's your, and eyesight is not that great.
+
+01:13:01.780 --> 01:13:06.780
+Okay, human eyes are like, and people are constantly distracted and thinking about things and texting
+
+01:13:06.780 --> 01:13:10.780
+and doing all sorts of things they shouldn't do in a car, changing the radio station.
+
+01:13:10.780 --> 01:13:24.780
+So having arguments is like, when's the last time you looked right and left and rearward
+
+01:13:24.780 --> 01:13:30.780
+or even diagonally forward to actually refresh your vector space?
+
+01:13:30.780 --> 01:13:37.780
+So you're glancing around and what your mind is doing is trying to distill the relevant vectors,
+
+01:13:37.780 --> 01:13:49.780
+basically objects with a position and motion, and then editing that down to the least amount that's necessary for you to drive.
+
+01:13:49.780 --> 01:13:55.780
+It does seem to be able to edit it down or compress it even further into things like concepts.
+
+01:13:55.780 --> 01:14:02.780
+So it's not, it's like it goes beyond, the human mind seems to go sometimes beyond vector space to sort of space of concepts
+
+01:14:02.780 --> 01:14:06.780
+to where you'll see a thing, it's no longer represented spatially somehow.
+
+01:14:06.780 --> 01:14:09.780
+It's almost like a concept that you should be aware of.
+
+01:14:09.780 --> 01:14:15.780
+Like if this is a school zone, you'll remember that as a concept, which is a weird thing to represent.
+
+01:14:15.780 --> 01:14:19.780
+But perhaps for driving, you don't need to fully represent those things.
+
+01:14:19.780 --> 01:14:25.780
+Or maybe you get those kind of indirectly.
+
+01:14:25.780 --> 01:14:33.780
+You need to establish vector space and then actually have predictions for those vector spaces.
+
+01:14:33.780 --> 01:14:46.780
+So like if you drive past, say, a bus and you see that there's people,
+
+01:14:46.780 --> 01:14:54.780
+before you drove past the bus, you saw people crossing, or just imagine there's like a large truck or something blocking sight.
+
+01:14:54.780 --> 01:15:00.780
+But before you came up to the truck, you saw that there were some kids about to cross the road in front of the truck.
+
+01:15:00.780 --> 01:15:05.780
+Now you can no longer see the kids, but you need to be able, but you would now know,
+
+01:15:05.780 --> 01:15:11.780
+okay, those kids are probably going to pass by the truck and cross the road, even though you cannot see them.
+
+01:15:11.780 --> 01:15:18.780
+So you have to have memory, you have to need to remember that there were kids there
+
+01:15:18.780 --> 01:15:23.780
+and you need to have some forward prediction of what their position will be.
+
+01:15:23.780 --> 01:15:24.780
+It's a really hard problem.
+
+01:15:24.780 --> 01:15:25.780
+At the time of relevance.
+
+01:15:25.780 --> 01:15:30.780
+So with occlusions and computer vision, when you can't see an object anymore,
+
+01:15:30.780 --> 01:15:36.780
+even when it just walks behind a tree and reappears, that's a really, really, I mean, at least in academic literature,
+
+01:15:36.780 --> 01:15:40.780
+it's tracking through occlusions. It's very difficult.
+
+01:15:40.780 --> 01:15:41.780
+Yeah, we're doing it.
+
+01:15:41.780 --> 01:15:42.780
+I understand this.
+
+01:15:42.780 --> 01:15:43.780
+Yeah.
+
+01:15:43.780 --> 01:15:44.780
+So some of it-
+
+01:15:44.780 --> 01:15:45.780
+It's like object permanence.
+
+01:15:45.780 --> 01:15:47.780
+Like same thing happens with the humans with neural nets.
+
+01:15:47.780 --> 01:15:55.780
+When a toddler grows up, there's a point in time where they develop, they have a sense of object permanence.
+
+01:15:55.780 --> 01:16:01.780
+So before a certain age, if you have a ball or a toy or whatever, and you put it behind your back and you pop it out,
+
+01:16:01.780 --> 01:16:05.780
+if they don't, before they have object permanence, it's like a new thing every time.
+
+01:16:05.780 --> 01:16:09.780
+It's like, whoa, this toy went, poof, disappeared, and now it's back again and they can't believe it.
+
+01:16:09.780 --> 01:16:13.780
+And that they can play peekaboo all day long because peekaboo is fresh every time.
+
+01:16:14.780 --> 01:16:19.780
+But then we figure out object permanence, then they realize, oh, no, the object is not gone.
+
+01:16:19.780 --> 01:16:21.780
+It's just behind your back.
+
+01:16:21.780 --> 01:16:25.780
+Sometimes I wish we never did figure out object permanence.
+
+01:16:25.780 --> 01:16:27.780
+Yeah, so that's-
+
+01:16:27.780 --> 01:16:30.780
+That's an important problem to solve.
+
+01:16:30.780 --> 01:16:42.780
+Yes, so an important evolution of the neural nets in the car is memory across both time and space.
+
+01:16:42.780 --> 01:16:48.780
+So now you can't remember, like you have to say, how long do you want to remember things for?
+
+01:16:48.780 --> 01:16:52.780
+And there's a cost to remembering things for a long time.
+
+01:16:52.780 --> 01:16:57.780
+So you run out of memory to try to remember too much for too long.
+
+01:16:57.780 --> 01:17:02.780
+And then you also have things that are stale if you remember them for too long.
+
+01:17:02.780 --> 01:17:05.780
+And then you also need things that are remembered over time.
+
+01:17:05.780 --> 01:17:13.780
+So even if you, say, have, for our good sake, five seconds of memory on a time basis.
+
+01:17:13.780 --> 01:17:19.780
+But let's say you're parked at a light and you saw, use a pedestrian example,
+
+01:17:19.780 --> 01:17:26.780
+that people were waiting to cross the road and you can't quite see them because of an occlusion.
+
+01:17:26.780 --> 01:17:31.780
+But they might wait for a minute before the light changes for them to cross the road.
+
+01:17:31.780 --> 01:17:38.780
+You still need to remember that that's where they were and that they're probably going to cross the road type of thing.
+
+01:17:38.780 --> 01:17:45.780
+So even if that exceeds your time-based memory, it should not exceed your space memory.
+
+01:17:45.780 --> 01:17:48.780
+And I just think the data engine side of that,
+
+01:17:48.780 --> 01:17:54.780
+so getting the data to learn all of the concepts that you're saying now is an incredible process.
+
+01:17:54.780 --> 01:17:59.780
+It's this iterative process of just this hydronet of many...
+
+01:17:59.780 --> 01:18:01.780
+Hydronet.
+
+01:18:01.780 --> 01:18:04.780
+We're changing the name to something else.
+
+01:18:04.780 --> 01:18:08.780
+Okay. I'm sure it'll be equally as Rick and Morty-like.
+
+01:18:08.780 --> 01:18:10.780
+There's a lot of... Yeah.
+
+01:18:10.780 --> 01:18:16.780
+We've re-architected the neural net in the cars so many times, it's crazy.
+
+01:18:16.780 --> 01:18:23.780
+Oh, so every time there's a new major version, you'll rename it to something more ridiculous or memorable and beautiful?
+
+01:18:23.780 --> 01:18:26.780
+Sorry. Not ridiculous, of course.
+
+01:18:26.780 --> 01:18:34.780
+If you see the full array of neural nets that are operating in the cars, it kind of boggles the mind.
+
+01:18:34.780 --> 01:18:38.780
+There's so many layers, it's crazy.
+
+01:18:39.780 --> 01:18:42.780
+So, yeah.
+
+01:18:42.780 --> 01:18:56.780
+And we started off with simple neural nets that were basically image recognition on a single frame from a single camera
+
+01:18:56.780 --> 01:19:03.780
+and then trying to knit those together with C.
+
+01:19:03.780 --> 01:19:09.780
+I should say we're really primarily running C here because C++ is too much overhead.
+
+01:19:09.780 --> 01:19:11.780
+And we have our own C compiler.
+
+01:19:11.780 --> 01:19:19.780
+So to get maximum performance, we actually wrote our own C compiler and are continuing to optimize our C compiler for maximum efficiency.
+
+01:19:19.780 --> 01:19:26.780
+In fact, we've just recently done a new rev on our C compiler that will compile directly to our autopilot hardware.
+
+01:19:26.780 --> 01:19:29.780
+So you want to compile the whole thing down with your own compiler?
+
+01:19:29.780 --> 01:19:30.780
+Yeah.
+
+01:19:30.780 --> 01:19:33.780
+So efficiency here, because there's all kinds of compute.
+
+01:19:33.780 --> 01:19:34.780
+There's CPU, GPU.
+
+01:19:34.780 --> 01:19:36.780
+There's basic types of things.
+
+01:19:36.780 --> 01:19:39.780
+And you have to somehow figure out the scheduling across all of those things.
+
+01:19:39.780 --> 01:19:41.780
+And so you're compiling the code down.
+
+01:19:41.780 --> 01:19:42.780
+Yeah.
+
+01:19:42.780 --> 01:19:43.780
+Okay.
+
+01:19:43.780 --> 01:19:46.780
+So that's why there's a lot of people involved.
+
+01:19:46.780 --> 01:19:53.780
+There's a lot of hardcore software engineering at a very sort of bare metal level.
+
+01:19:53.780 --> 01:20:02.780
+Because we're trying to do a lot of compute that's constrained to our full self-driving computer.
+
+01:20:02.780 --> 01:20:14.780
+And we want to try to have the highest frames per second possible with a very finite amount of compute and power.
+
+01:20:14.780 --> 01:20:21.780
+So we really put a lot of effort into the efficiency of our compute.
+
+01:20:22.780 --> 01:20:34.780
+And so there's actually a lot of work done by some very talented software engineers at Tesla that at a very foundational level to improve the efficiency of compute
+
+01:20:34.780 --> 01:20:46.780
+and how we use the trip accelerators, which are basically doing matrix math dot products, like a bazillion dot products.
+
+01:20:47.780 --> 01:20:49.780
+It's like, what are neural nets?
+
+01:20:49.780 --> 01:20:53.780
+It's like, compute-wise, like 99% dot products.
+
+01:20:56.780 --> 01:21:00.780
+And you want to achieve as many high frame rates like a video game.
+
+01:21:00.780 --> 01:21:04.780
+You want full resolution, high frame rate.
+
+01:21:04.780 --> 01:21:09.780
+High frame rate, low latency, low judder.
+
+01:21:10.780 --> 01:21:26.780
+So I think one of the things we're moving towards now is no post-processing of the image through the image signal processor.
+
+01:21:26.780 --> 01:21:39.780
+So what happens for cameras is that there's a lot of post-processing done in order to make pictures look pretty.
+
+01:21:39.780 --> 01:21:42.780
+And so we don't care about pictures looking pretty.
+
+01:21:42.780 --> 01:21:44.780
+We just want the data.
+
+01:21:44.780 --> 01:21:48.780
+So we're moving just raw photon counts.
+
+01:21:48.780 --> 01:21:58.780
+So the image that the computer sees is actually much more than what you'd see if you represented it on a camera.
+
+01:21:58.780 --> 01:22:00.780
+It's got much more data.
+
+01:22:00.780 --> 01:22:08.780
+And even in very low light conditions, you can see that there's a small photon count difference between this spot here and that spot there,
+
+01:22:08.780 --> 01:22:16.780
+which means that it can see in the dark incredibly well because it can detect these tiny differences in photon counts.
+
+01:22:16.780 --> 01:22:19.780
+That's much better than you could possibly imagine.
+
+01:22:19.780 --> 01:22:26.780
+And then we also save 13 milliseconds on latency.
+
+01:22:28.780 --> 01:22:30.780
+From removing the post-processing in the image?
+
+01:22:30.780 --> 01:22:31.780
+Yes.
+
+01:22:31.780 --> 01:22:41.780
+It's like because we've got eight cameras and then there's roughly, I don't know, one and a half milliseconds or so,
+
+01:22:41.780 --> 01:22:45.780
+maybe 1.6 milliseconds of latency for each camera.
+
+01:22:45.780 --> 01:23:00.780
+And so going to just basically bypassing the image processor gets us back 13 milliseconds of latency, which is important.
+
+01:23:00.780 --> 01:23:13.780
+And we track latency all the way from photon hits the camera to all the steps that it's got to go through to get it to go through the various neural nets and the C code.
+
+01:23:13.780 --> 01:23:16.780
+And there's a little bit of C++ there as well.
+
+01:23:16.780 --> 01:23:23.780
+Well, maybe a lot, but the core stuff is the heavy duty computers all in C.
+
+01:23:24.780 --> 01:23:37.780
+And so we track that latency all the way to an output command to the drive unit to accelerate the brakes just to slow down the steering, turn left or right.
+
+01:23:37.780 --> 01:23:41.780
+So because you go to output a command, that's going to go to a controller.
+
+01:23:41.780 --> 01:23:46.780
+And some of these controllers have an update frequency that's maybe 10 hertz or something like that, which is slow.
+
+01:23:46.780 --> 01:23:49.780
+That's like now you lose 100 milliseconds potentially.
+
+01:23:49.780 --> 01:24:02.780
+So then we want to update the drivers on the steering and braking control to have more like 100 hertz instead of 10 hertz.
+
+01:24:02.780 --> 01:24:05.780
+And you get a 10 millisecond latency instead of 100 milliseconds, worst case latency.
+
+01:24:05.780 --> 01:24:11.780
+And actually jitter is more of a challenge than latency, because latency is like you can anticipate and predict.
+
+01:24:11.780 --> 01:24:21.780
+But if you've got a stack up of things going from the camera to the computer through then a series of other computers and finally to an actuator on the car,
+
+01:24:21.780 --> 01:24:29.780
+if you have a stack up of tolerances, of timing tolerances, then you can have quite a variable latency, which is called jitter.
+
+01:24:29.780 --> 01:24:36.780
+And that makes it hard to anticipate exactly how you should turn the car or accelerate,
+
+01:24:36.780 --> 01:24:44.780
+because if you've got maybe 150, 200 milliseconds of jitter, then you could be off by up to 0.2 seconds.
+
+01:24:44.780 --> 01:24:46.780
+And this could make a big difference.
+
+01:24:46.780 --> 01:24:56.780
+So you have to interpolate somehow to deal with the effects of jitter so that you can make robust control decisions.
+
+01:24:57.780 --> 01:25:04.780
+So the jitter is in the sensor information, or the jitter can occur at any stage in the pipeline?
+
+01:25:04.780 --> 01:25:17.780
+If you have fixed latency, you can anticipate and say, OK, we know that our information is, for argument's sake, 150 milliseconds stale.
+
+01:25:18.780 --> 01:25:30.780
+So for argument's sake, 150 milliseconds from photon second camera to where you can measure a change in the acceleration of the vehicle.
+
+01:25:33.780 --> 01:25:43.780
+So then you can say, OK, well, we know it's 150 milliseconds, so we're going to take that into account and compensate for that latency.
+
+01:25:43.780 --> 01:25:51.780
+However, if you've got then 150 milliseconds of latency plus 100 milliseconds of jitter, which could be anywhere from 0 to 100 milliseconds on top,
+
+01:25:51.780 --> 01:25:54.780
+so then your latency could be from 150, 250 milliseconds.
+
+01:25:54.780 --> 01:25:59.780
+Now you've got 100 milliseconds that you don't know what to do with, and that's basically random.
+
+01:25:59.780 --> 01:26:03.780
+So getting rid of jitter is extremely important.
+
+01:26:03.780 --> 01:26:06.780
+And that affects your control decisions and all those kinds of things.
+
+01:26:06.780 --> 01:26:07.780
+OK.
+
+01:26:07.780 --> 01:26:11.780
+Yeah, the car is just going to fundamentally maneuver better with lower jitter.
+
+01:26:11.780 --> 01:26:12.780
+Got it.
+
+01:26:12.780 --> 01:26:18.780
+The cars will maneuver with superhuman ability and reaction time much faster than a human.
+
+01:26:18.780 --> 01:26:35.780
+I mean, I think over time, autopilot, full self-driving will be capable of maneuvers that are far more than what James Bond could do in the best movie type of thing.
+
+01:26:35.780 --> 01:26:38.780
+That's exactly what I was imagining in my mind, as you said.
+
+01:26:38.780 --> 01:26:43.780
+It's like an impossible maneuver that a human couldn't do.
+
+01:26:43.780 --> 01:26:54.780
+Well, let me ask, looking back the six years, looking out into the future, based on your current understanding, how hard do you think this full self-driving problem,
+
+01:26:54.780 --> 01:26:59.780
+when do you think Tesla will solve level four FSD?
+
+01:26:59.780 --> 01:27:04.780
+I mean, it's looking quite likely that it will be next year.
+
+01:27:04.780 --> 01:27:06.780
+And what does the solution look like?
+
+01:27:06.780 --> 01:27:10.780
+Is it the current pool of FSD beta candidates?
+
+01:27:10.780 --> 01:27:15.780
+They start getting greater and greater as there have been degrees of autonomy.
+
+01:27:15.780 --> 01:27:20.780
+And then there's a certain level beyond which they can do their own.
+
+01:27:20.780 --> 01:27:22.780
+They can read a book.
+
+01:27:22.780 --> 01:27:36.780
+Yeah, so you can see that anybody who's been following the full self-driving beta closely will see that the rate of disengagement has been dropping rapidly.
+
+01:27:36.780 --> 01:27:44.780
+So a disengagement would be where the driver intervenes to prevent the car from doing something dangerous potentially.
+
+01:27:44.780 --> 01:27:55.780
+So the interventions per million miles has been dropping dramatically at some point.
+
+01:27:55.780 --> 01:28:12.780
+And that trend looks like it happens next year is that the probability of an accident on FSD is less than that of the average human and then significantly less than that of the average human.
+
+01:28:12.780 --> 01:28:19.780
+So it certainly appears like we will get there next year.
+
+01:28:19.780 --> 01:28:27.780
+Then, of course, then there's going to be a case of, OK, well, we now have to prove this to regulators and prove it to, you know,
+
+01:28:27.780 --> 01:28:33.780
+and we want a standard that is not just equivalent to a human, but much better than the average human.
+
+01:28:33.780 --> 01:28:41.780
+I think it's got to be at least two or three times higher safety than a human, so two or three times lower probability of injury than a human.
+
+01:28:41.780 --> 01:28:46.780
+Before we would actually say like, OK, it's OK to go, it's not going to be a cool, it's going to be much better.
+
+01:28:46.780 --> 01:28:57.780
+So if you look at FSD 10.6 just came out recently, 10.7 is on the way, maybe 11 is on the way somewhere in the future.
+
+01:28:57.780 --> 01:29:08.780
+Yeah, we were hoping to get 11 out this year, but 11 actually has a whole bunch of fundamental rewrites on the neural net architecture
+
+01:29:08.780 --> 01:29:15.780
+and some fundamental improvements in creating vector space.
+
+01:29:15.780 --> 01:29:22.780
+So there is some fundamental leap that really deserves the 11.
+
+01:29:22.780 --> 01:29:24.780
+I mean, that's a pretty cool number.
+
+01:29:24.780 --> 01:29:31.780
+Yeah, 11 would be a single stack for all, one stack to rule them all.
+
+01:29:31.780 --> 01:29:46.780
+But there are just some really fundamental neural net architecture changes that will allow for much more capability,
+
+01:29:46.780 --> 01:29:50.780
+but at first they're going to have issues.
+
+01:29:50.780 --> 01:29:54.780
+So like we have this working on like sort of alpha software and it's good,
+
+01:29:54.780 --> 01:30:05.780
+but it's basically taking a whole bunch of C, C++ code and deleting a massive amount of C++ code and replacing it with the neural net.
+
+01:30:05.780 --> 01:30:11.780
+And Andre makes this point a lot, which is like neural nets are kind of eating software.
+
+01:30:11.780 --> 01:30:17.780
+Over time, there's like less and less conventional software, more and more neural net, which is still software,
+
+01:30:17.780 --> 01:30:29.780
+but it's still comes out the lines of software, but more neural net stuff and less heuristics basically.
+
+01:30:29.780 --> 01:30:39.780
+More matrix based stuff and less heuristics based stuff.
+
+01:30:39.780 --> 01:31:03.780
+And, you know, like one of the big changes will be like right now the neural nets will deliver a giant bag of points to the C++ or C and C++ code.
+
+01:31:03.780 --> 01:31:06.780
+We call it the giant bag of points.
+
+01:31:06.780 --> 01:31:12.780
+And it's like, so you've got a pixel and something associated with that pixel.
+
+01:31:12.780 --> 01:31:14.780
+Like this pixel is probably car.
+
+01:31:14.780 --> 01:31:16.780
+This pixel is probably lane line.
+
+01:31:16.780 --> 01:31:23.780
+Then you've got to assemble this giant bag of points in the C code and turn it into vectors.
+
+01:31:23.780 --> 01:31:47.780
+And it does a pretty good job of it, but we want to just, we need another layer of neural nets on top of that to take the giant bag of points and distill that down to vector space in the neural net part of the software as opposed to the heuristics part of the software.
+
+01:31:47.780 --> 01:31:49.780
+This is a big improvement.
+
+01:31:49.780 --> 01:31:52.780
+Neural nets all the way down is what you want.
+
+01:31:52.780 --> 01:31:57.780
+It's not even all neural nets, but this will be just a game.
+
+01:31:57.780 --> 01:32:11.780
+This is a game changer to not have the bag of points, the giant bag of points that has to be assembled with many lines of C, C++ and have the neural net just assemble those into a vector.
+
+01:32:11.780 --> 01:32:18.780
+So the neural net is outputting much, much less data.
+
+01:32:18.780 --> 01:32:21.780
+It's outputting, this is a lane line.
+
+01:32:21.780 --> 01:32:22.780
+This is a curb.
+
+01:32:22.780 --> 01:32:23.780
+This is drivable space.
+
+01:32:23.780 --> 01:32:24.780
+This is a car.
+
+01:32:24.780 --> 01:32:28.780
+This is a pedestrian or cyclist or something like that.
+
+01:32:28.780 --> 01:32:57.780
+It's really outputting proper vectors to the C, C++ control code as opposed to the sort of constructing the vectors in C, which we've done, I think, quite a good job of, but we're kind of hitting a local maximum on how well the C can do this.
+
+01:32:57.780 --> 01:33:01.780
+So this is really a big deal.
+
+01:33:01.780 --> 01:33:05.780
+And just all of the networks in the car need to move to surround video.
+
+01:33:05.780 --> 01:33:09.780
+There's still some legacy networks that are not surround video.
+
+01:33:09.780 --> 01:33:17.780
+And all of the training needs to move to surround video and the efficiency of the training needs to get better, and it is.
+
+01:33:17.780 --> 01:33:34.780
+And then we need to move everything to raw photon accounts as opposed to processed images, which is quite a big reset on the training because the system's trained on post-processed images.
+
+01:33:34.780 --> 01:33:43.780
+So we need to redo all the training to train against the raw photon accounts instead of the post-processed image.
+
+01:33:43.780 --> 01:33:46.780
+So ultimately, it's kind of reducing the complexity of the whole thing.
+
+01:33:46.780 --> 01:33:51.780
+So reducing, reducing lines of code will actually go lower.
+
+01:33:51.780 --> 01:33:53.780
+Yeah, that's fascinating.
+
+01:33:53.780 --> 01:33:59.780
+So you're doing fusion of all the sensors and reducing the complexity of having to deal with these cameras as cameras really.
+
+01:33:59.780 --> 01:34:03.780
+Right. Yes.
+
+01:34:03.780 --> 01:34:05.780
+Same with humans.
+
+01:34:05.780 --> 01:34:06.780
+I guess we got yours too.
+
+01:34:06.780 --> 01:34:15.780
+Okay. Yeah, well, we'll actually need to incorporate sound as well because you need to listen for ambulance sirens or firetrucks.
+
+01:34:15.780 --> 01:34:20.780
+You know, if somebody like, you know, yelling at you or something.
+
+01:34:20.780 --> 01:34:24.780
+There's a little bit of audio that needs to be incorporated as well.
+
+01:34:24.780 --> 01:34:25.780
+Do you need to go grab a break?
+
+01:34:25.780 --> 01:34:28.780
+Yeah, sure. Let's take a break.
+
+01:34:28.780 --> 01:34:34.780
+Honestly, frankly, like the ideas are the easy thing and the implementation is the hard thing.
+
+01:34:34.780 --> 01:34:38.780
+Like the idea of going to the moon is the easy part, but going to the moon is the hard part.
+
+01:34:38.780 --> 01:34:39.780
+It's the hard part.
+
+01:34:39.780 --> 01:34:45.780
+And there's a lot of like hardcore engineering that's got to get done at the hardware and software level.
+
+01:34:45.780 --> 01:34:54.780
+Like optimizing the C compiler and just, you know, cutting out latency everywhere.
+
+01:34:54.780 --> 01:34:58.780
+Like this is, if we don't do this, the system will not work properly.
+
+01:34:59.780 --> 01:35:08.780
+So the work of the engineers doing this, they are like the unsung heroes, you know, but they are critical to the success of the situation.
+
+01:35:08.780 --> 01:35:09.780
+I think you made it clear.
+
+01:35:09.780 --> 01:35:10.780
+I mean, at least to me, it's super exciting.
+
+01:35:10.780 --> 01:35:14.780
+Everything that's going on outside of what Andre is doing.
+
+01:35:14.780 --> 01:35:16.780
+Yeah. Just the whole infrastructure, the software.
+
+01:35:16.780 --> 01:35:20.780
+I mean, everything is going on with data engine, whatever, whatever it's called.
+
+01:35:20.780 --> 01:35:23.780
+The whole process is just work of art to me.
+
+01:35:23.780 --> 01:35:26.780
+I think the sheer scale of it is boggles mind.
+
+01:35:26.780 --> 01:35:34.780
+Like the training, the amount of work done with, like we've written all this custom software for training and labeling and to do auto labeling.
+
+01:35:34.780 --> 01:35:47.780
+Auto labeling is essential because especially when you've got like surround video, it's very difficult to like label surround video from scratch is extremely difficult.
+
+01:35:47.780 --> 01:35:54.780
+Like take a human's such a long time to even label one video clip, like several hours or the auto label it.
+
+01:35:54.780 --> 01:36:08.780
+Basically, we just apply like heavy duty, like a lot of compute to the to the video clips to pre assign and guess what all the things are that are going on in the surround video.
+
+01:36:08.780 --> 01:36:09.780
+And then there's like correcting it.
+
+01:36:09.780 --> 01:36:10.780
+Yeah.
+
+01:36:10.780 --> 01:36:15.780
+And then all the human has to do is like tweet, like say, you know, just what is incorrect.
+
+01:36:15.780 --> 01:36:20.780
+This is like increase increases productivity by effect a hundred or more.
+
+01:36:20.780 --> 01:36:21.780
+Yeah.
+
+01:36:21.780 --> 01:36:24.780
+So you've presented Tesla bot as primarily useful in the factory.
+
+01:36:24.780 --> 01:36:29.780
+First of all, I think humanoid robots are incredible from a fan of robotics.
+
+01:36:29.780 --> 01:36:37.780
+I think the elegance of movement that human the human robots that bipedal robots show are just so cool.
+
+01:36:37.780 --> 01:36:44.780
+So it's really interesting that you're working on this and also talking about applying the same kind of all the ideas of some of which you've talked about with data.
+
+01:36:44.780 --> 01:36:52.780
+All the things that we're talking about with Tesla autopilot, just transferring that over to the just yet another robotics problem.
+
+01:36:52.780 --> 01:36:57.780
+I have to ask, since I care about human robot interaction, so the human side of that.
+
+01:36:57.780 --> 01:36:59.780
+So you've talked about mostly in the factory.
+
+01:36:59.780 --> 01:37:01.780
+Do you see it?
+
+01:37:01.780 --> 01:37:08.780
+Do you see part of this problem that Tesla bot has to solve as interacting with humans and potentially having a place like in the home?
+
+01:37:08.780 --> 01:37:12.780
+So interacting, not just not replacing labor, but also like.
+
+01:37:12.780 --> 01:37:13.780
+I don't know.
+
+01:37:13.780 --> 01:37:16.780
+Well, I think a friend or an assistant.
+
+01:37:16.780 --> 01:37:21.780
+Yeah, I think the possibilities are endless.
+
+01:37:25.780 --> 01:37:39.780
+Yeah, it's it's obviously like a it's not quite in Tesla's primary mission direction of accelerating sustainable energy, but it is a an extremely useful thing that we can do for the world, which is to make a useful humanoid robot.
+
+01:37:39.780 --> 01:37:46.780
+That is capable of interacting with the world and helping in in many different ways.
+
+01:37:46.780 --> 01:38:01.780
+So so in factories and really just just I mean, I think if you say, like, extrapolate to, you know, many years in the future, it's like, I think work will become optional.
+
+01:38:02.780 --> 01:38:16.780
+So, like, there's a lot of jobs that if you if you weren't paid to do it, they wouldn't do it like it's not it's not fun, you know, necessarily, like if you're washing dishes all day, it's like, you know, even if you really like washing dishes, you really want to do it for eight hours a day every day.
+
+01:38:16.780 --> 01:38:17.780
+Probably not.
+
+01:38:17.780 --> 01:38:25.780
+And then there's like dangerous work and basically if it's dangerous boring, it has like potential for repetitive stress injury, that kind of thing.
+
+01:38:25.780 --> 01:38:31.780
+Then that's really where humanoid robots would add the most value initially.
+
+01:38:31.780 --> 01:38:41.780
+So that's what we're aiming for is is to for the human robots to do jobs that people don't voluntarily want to do.
+
+01:38:41.780 --> 01:38:47.780
+And then we'll have to pair that obviously with some kind of universal basic income in the future.
+
+01:38:47.780 --> 01:38:52.780
+So, I think.
+
+01:38:52.780 --> 01:38:57.780
+Yeah, I haven't really thought about it that far into the future, but I guess that there may be something like that.
+
+01:38:57.780 --> 01:39:01.780
+So, can I ask a wild question?
+
+01:39:01.780 --> 01:39:04.780
+So, the answer is yes.
+
+01:39:04.780 --> 01:39:07.780
+I think that's a good question.
+
+01:39:08.780 --> 01:39:15.780
+Yeah, I haven't really thought about it that far into the future, but I guess that there may be something like that.
+
+01:39:15.780 --> 01:39:20.780
+So, can I ask a wild question?
+
+01:39:20.780 --> 01:39:24.780
+So, the number of Tesla cars has been accelerating.
+
+01:39:24.780 --> 01:39:27.780
+It's been close to two million produced.
+
+01:39:27.780 --> 01:39:29.780
+Many of them have autopilot.
+
+01:39:29.780 --> 01:39:31.780
+I think we're over two million now.
+
+01:39:31.780 --> 01:39:39.780
+Do you think there will ever be a time when there will be more Tesla bots than Tesla cars?
+
+01:39:39.780 --> 01:39:46.780
+Yeah, actually, it's funny you asked this question because normally I do try to think pretty far into the future,
+
+01:39:46.780 --> 01:39:54.780
+but I haven't really thought that far into the future with the Tesla bot or it's codenamed Optimus.
+
+01:39:54.780 --> 01:39:58.780
+I call it Optimus subprime.
+
+01:39:58.780 --> 01:40:03.780
+It's not like a giant transformer robot.
+
+01:40:03.780 --> 01:40:09.780
+So, it's meant to be a general purpose helpful bot.
+
+01:40:09.780 --> 01:40:25.780
+And basically, like Tesla, I think has the most advanced real-world AI for interacting with the real world,
+
+01:40:25.780 --> 01:40:29.780
+which it develops as a function to make self-driving work.
+
+01:40:29.780 --> 01:40:38.780
+And so, along with custom hardware and like a lot of hardcore low-level software to have it run efficiently
+
+01:40:38.780 --> 01:40:45.780
+and be power efficient because it's one thing to do neural nets if you've got a gigantic server room with 10,000 computers.
+
+01:40:45.780 --> 01:40:52.780
+But now, let's say you have to now distill that down into one computer that's running at low power in a humanoid robot or a car.
+
+01:40:52.780 --> 01:40:53.780
+That's actually very difficult.
+
+01:40:53.780 --> 01:40:58.780
+A lot of hardcore software work is required for that.
+
+01:40:58.780 --> 01:41:07.780
+So, since we're kind of like solving the navigate the real world with neural nets problem for cars,
+
+01:41:07.780 --> 01:41:09.780
+which are kind of like robots with four wheels,
+
+01:41:09.780 --> 01:41:19.780
+then it's like kind of a natural extension of that is to put it in a robot with arms and legs and actuators.
+
+01:41:19.780 --> 01:41:34.780
+So, like the two hard things are like you basically need to have the robot be intelligent enough to interact in a sensible way with the environment.
+
+01:41:34.780 --> 01:41:44.780
+So, you need real-world AI and you need to be very good at manufacturing, which is a very hard problem.
+
+01:41:44.780 --> 01:41:48.780
+Tesla is very good at manufacturing and also has the real-world AI.
+
+01:41:48.780 --> 01:42:03.780
+So, making the humanoid robot work is basically means developing custom motors and sensors that are different from what a car would use.
+
+01:42:03.780 --> 01:42:14.780
+But we're also, I think we have the best expertise in developing advanced electric motors and power electronics.
+
+01:42:14.780 --> 01:42:21.780
+So, it just has to be for humanoid robot application of a car.
+
+01:42:21.780 --> 01:42:24.780
+Still, you do talk about love sometimes.
+
+01:42:24.780 --> 01:42:28.780
+So, let me ask, this isn't like for like sex robots or something like that.
+
+01:42:28.780 --> 01:42:29.780
+Love is the answer.
+
+01:42:29.780 --> 01:42:30.780
+Yes.
+
+01:42:30.780 --> 01:42:41.780
+There is something compelling to us, not compelling, but we connect with humanoid robots or even legged robots like with the dog in shapes of dogs.
+
+01:42:41.780 --> 01:42:46.780
+It seems like there's a huge amount of loneliness in this world.
+
+01:42:46.780 --> 01:42:51.780
+All of us seek companionship with other humans, friendship and all those kinds of things.
+
+01:42:51.780 --> 01:42:54.780
+We have a lot here in Austin, a lot of people have dogs.
+
+01:42:55.780 --> 01:43:08.780
+There seems to be a huge opportunity to also have robots that decrease the amount of loneliness in the world or help us humans connect with each other.
+
+01:43:08.780 --> 01:43:10.780
+So, in a way that dogs can.
+
+01:43:10.780 --> 01:43:20.780
+Do you think about that with Teslabot at all or is it really focused on the problem of performing specific tasks, not connecting with humans?
+
+01:43:20.780 --> 01:43:31.780
+To be honest, I have not actually thought about it from the companionship standpoint, but I think it could be actually a very good companion.
+
+01:43:31.780 --> 01:43:43.780
+You develop a personality over time that is unique.
+
+01:43:43.780 --> 01:44:00.780
+It's not like they're just all the robots are the same and that personality could evolve to match the owner or whatever you want to call it.
+
+01:44:00.780 --> 01:44:05.780
+The other half in the same way that friends do.
+
+01:44:05.780 --> 01:44:08.780
+See, I think that's a huge opportunity.
+
+01:44:08.780 --> 01:44:22.780
+That's interesting because there's a Japanese phrase like wabi-sabi, the subtle imperfections are what makes something special.
+
+01:44:22.780 --> 01:44:33.780
+And the subtle imperfections of the personality of the robot mapped to the subtle imperfections of the robot's human friend.
+
+01:44:33.780 --> 01:44:41.780
+I don't know, owner sounds like maybe the wrong word, but could actually make an incredible buddy, basically.
+
+01:44:41.780 --> 01:44:43.780
+In that way, the imperfections.
+
+01:44:43.780 --> 01:44:45.780
+Like R2D2 or like a C3PO sort of thing.
+
+01:44:45.780 --> 01:44:53.780
+So, from a machine learning perspective, I think the flaws being a feature is really nice.
+
+01:44:53.780 --> 01:44:59.780
+You could be quite terrible at being a robot for quite a while in the general home environment or in the general world.
+
+01:44:59.780 --> 01:45:01.780
+And that's kind of adorable.
+
+01:45:01.780 --> 01:45:05.780
+And that's like those are your flaws and you fall in love with those flaws.
+
+01:45:05.780 --> 01:45:10.780
+So, it's very different than autonomous driving where it's a very high stakes environment.
+
+01:45:10.780 --> 01:45:12.780
+You cannot mess up.
+
+01:45:12.780 --> 01:45:16.780
+So, it's more fun to be a robot in the home.
+
+01:45:16.780 --> 01:45:26.780
+In fact, if you think of like C3PO and R2D2, they actually had a lot of flaws and imperfections and silly things and they would argue with each other.
+
+01:45:27.780 --> 01:45:30.780
+Were they actually good at doing anything?
+
+01:45:30.780 --> 01:45:32.780
+I'm not exactly sure.
+
+01:45:32.780 --> 01:45:35.780
+They definitely added a lot to the story.
+
+01:45:35.780 --> 01:45:44.780
+But there's sort of quirky elements that they would make mistakes and do things.
+
+01:45:44.780 --> 01:45:50.780
+It made them relatable, I don't know, enduring.
+
+01:45:50.780 --> 01:45:56.780
+So, yeah, I think that could be something that probably would happen.
+
+01:45:56.780 --> 01:46:00.780
+But our initial focus is just to make it useful.
+
+01:46:00.780 --> 01:46:05.780
+So, I'm confident we'll get it done.
+
+01:46:05.780 --> 01:46:13.780
+I'm not sure what the exact time frame is, but we'll probably have, I don't know, a decent prototype towards the end of next year or something like that.
+
+01:46:13.780 --> 01:46:17.780
+And it's cool that it's connected to Tesla, the car.
+
+01:46:18.780 --> 01:46:34.780
+Yeah, it's using a lot of, you know, it would use the autopilot inference computer and a lot of the training that we've done for cars in terms of recognizing real world things could be applied directly to the robot.
+
+01:46:34.780 --> 01:46:40.780
+But there's a lot of custom actuators and sensors that need to be developed.
+
+01:46:40.780 --> 01:46:45.780
+And an extra module on top of the vector space for love.
+
+01:46:45.780 --> 01:46:48.780
+That's amazing.
+
+01:46:48.780 --> 01:46:49.780
+Okay.
+
+01:46:49.780 --> 01:46:51.780
+We can add that to the car, too.
+
+01:46:51.780 --> 01:46:53.780
+That's true.
+
+01:46:53.780 --> 01:46:55.780
+That could be useful in all environments.
+
+01:46:55.780 --> 01:46:59.780
+Like you said, a lot of people argue in the car, so maybe we can help them out.
+
+01:46:59.780 --> 01:47:04.780
+You're a student of history, fan of Dan Carlin's Hardcore History podcast.
+
+01:47:04.780 --> 01:47:05.780
+Yeah, that's great.
+
+01:47:05.780 --> 01:47:06.780
+Greatest podcast ever.
+
+01:47:06.780 --> 01:47:09.780
+Yeah, I think it is, actually.
+
+01:47:09.780 --> 01:47:12.780
+It almost doesn't really count as a podcast.
+
+01:47:12.780 --> 01:47:15.780
+Yeah, it's more like an audio book.
+
+01:47:15.780 --> 01:47:19.780
+So you were on the podcast with Dan, I just had a chat with him about it.
+
+01:47:19.780 --> 01:47:22.780
+He said you guys want military and all that kind of stuff.
+
+01:47:22.780 --> 01:47:30.780
+Yeah, it was basically, it should be titled Engineer Wars.
+
+01:47:30.780 --> 01:47:40.780
+Essentially, when there's a rapid change in the rate of technology, then engineering plays a pivotal role in victory and battle.
+
+01:47:40.780 --> 01:47:43.780
+How far back in history did you go?
+
+01:47:43.780 --> 01:47:45.780
+Did you go World War II?
+
+01:47:45.780 --> 01:47:53.780
+Well, it was supposed to be a deep dive on fighters and bomber technology in World War II.
+
+01:47:53.780 --> 01:47:56.780
+But that ended up being more wide ranging than that.
+
+01:47:56.780 --> 01:48:03.780
+Because I just went down the total rattle of studying all of the fighters and bombers in World War II.
+
+01:48:04.780 --> 01:48:13.780
+And the constant rock-paper-scissors game that one country would make this plane, then it would make a plane to beat that, and the other country would make a plane to beat that.
+
+01:48:13.780 --> 01:48:23.780
+And really what matters is the pace of innovation and also access to high quality fuel and raw materials.
+
+01:48:23.780 --> 01:48:30.780
+So Germany had some amazing designs, but they couldn't make them because they couldn't get the raw materials.
+
+01:48:30.780 --> 01:48:36.780
+And they had a real problem with the oil and fuel, basically.
+
+01:48:36.780 --> 01:48:39.780
+The fuel quality was extremely variable.
+
+01:48:39.780 --> 01:48:41.780
+So the design wasn't the bottleneck?
+
+01:48:41.780 --> 01:48:46.780
+Yeah, the US had kick-ass fuel that was very consistent.
+
+01:48:46.780 --> 01:49:04.780
+The problem is if you make a very high-performance aircraft engine, in order to make it high-performance, the fuel, the aviation gas, has to be a consistent mixture, and it has to have a high octane.
+
+01:49:04.780 --> 01:49:12.780
+High octane is the most important thing, but it also can't have impurities and stuff because you'll foul up the engine.
+
+01:49:12.780 --> 01:49:15.780
+And Germany just never had good access to oil.
+
+01:49:15.780 --> 01:49:19.780
+They tried to get it by invading the Caucasus, but that didn't work too well.
+
+01:49:19.780 --> 01:49:22.780
+That never works well.
+
+01:49:22.780 --> 01:49:26.780
+Nice to meet you.
+
+01:49:26.780 --> 01:49:39.780
+So Germany was always struggling with basically shitty oil, and then they couldn't count on high-quality fuel for their aircraft, so then they had to have all these additives and stuff.
+
+01:49:39.780 --> 01:49:46.780
+Whereas the US had awesome fuel, and that provided that to Britain as well.
+
+01:49:46.780 --> 01:49:55.780
+So that allowed the British and the Americans to design aircraft engines that were super high-performance, better than anything else in the world.
+
+01:49:55.780 --> 01:50:00.780
+Germany could design the engines, they just didn't have the fuel.
+
+01:50:00.780 --> 01:50:06.780
+And then also the quality of the aluminum alloys that they were getting was also not that great.
+
+01:50:07.780 --> 01:50:10.780
+Did you talk about all this with Dan?
+
+01:50:10.780 --> 01:50:11.780
+Yep.
+
+01:50:11.780 --> 01:50:12.780
+Awesome.
+
+01:50:12.780 --> 01:50:23.780
+Broadly looking at history, when you look at Genghis Khan, when you look at Stalin, Hitler, the darkest moments of human history, what do you take away from those moments?
+
+01:50:23.780 --> 01:50:32.780
+Does it help you gain insight about human nature, about human behavior today, whether it's the wars or the individuals or just the behavior of people, any aspects of history?
+
+01:50:36.780 --> 01:50:42.780
+Yeah, I find history fascinating.
+
+01:50:42.780 --> 01:51:04.780
+There's just a lot of incredible things that have been done, good and bad, that they help you understand the nature of civilization and individuals.
+
+01:51:04.780 --> 01:51:08.780
+Does it make you sad that humans do these kinds of things to each other?
+
+01:51:08.780 --> 01:51:18.780
+You look at the 20th century, World War II, the cruelty, the abuse of power, talk about communism, Marxism and Stalin.
+
+01:51:18.780 --> 01:51:23.780
+There's a lot of human history.
+
+01:51:23.780 --> 01:51:27.780
+Most of it is actually people just getting on with their lives.
+
+01:51:27.780 --> 01:51:34.780
+It's not like human history is just nonstop war and disaster.
+
+01:51:34.780 --> 01:51:38.780
+Those are actually just intermittent and rare.
+
+01:51:38.780 --> 01:51:42.780
+If they weren't, then humans would soon cease to exist.
+
+01:51:42.780 --> 01:51:55.780
+Wars tend to be written about a lot, whereas a normal year where nothing major happened doesn't get written about much.
+
+01:51:55.780 --> 01:52:03.780
+Most people just like farming and living their life, being a villager somewhere.
+
+01:52:03.780 --> 01:52:08.780
+Every now and again, there's a war.
+
+01:52:08.780 --> 01:52:25.780
+There aren't very many books where I just had to stop reading because it was just too dark.
+
+01:52:25.780 --> 01:52:31.780
+The book about Stalin, The Court of the Red Tsar, I had to stop reading.
+
+01:52:31.780 --> 01:52:36.780
+It was just too dark, rough.
+
+01:52:36.780 --> 01:52:40.780
+Yeah, the 30s.
+
+01:52:40.780 --> 01:52:49.780
+There's a lot of lessons there to me, in particular that it feels like humans, like all of us have that.
+
+01:52:49.780 --> 01:52:55.780
+It's the old Solzhenitsyn line, that the line between good and evil runs through the heart of every man.
+
+01:52:55.780 --> 01:52:58.780
+That all of us are capable of evil, all of us are capable of good.
+
+01:52:58.780 --> 01:53:06.780
+It's almost like this kind of responsibility that all of us have to tend towards the good.
+
+01:53:06.780 --> 01:53:15.780
+To me, looking at history, it's almost like an example of, look, you have some charismatic leader that convinces you of things.
+
+01:53:15.780 --> 01:53:22.780
+It's too easy, based on that story, to do evil onto each other, onto your family, onto others.
+
+01:53:22.780 --> 01:53:25.780
+It's our responsibility to do good.
+
+01:53:25.780 --> 01:53:29.780
+It's not like now is somehow different from history.
+
+01:53:29.780 --> 01:53:31.780
+That can happen again, all of it can happen again.
+
+01:53:31.780 --> 01:53:34.780
+And yes, most of the time, you're right.
+
+01:53:34.780 --> 01:53:38.780
+I mean, the optimistic view here is mostly people are just living life.
+
+01:53:38.780 --> 01:53:44.780
+And as you've often memed about, the quality of life was way worse back in the day,
+
+01:53:44.780 --> 01:53:47.780
+and it keeps improving over time through innovation, through technology.
+
+01:53:47.780 --> 01:53:53.780
+But still, it's somehow notable that these blimps of atrocities happen.
+
+01:53:53.780 --> 01:53:54.780
+Sure.
+
+01:53:54.780 --> 01:54:00.780
+Yeah, I mean, life was really tough for most of history.
+
+01:54:00.780 --> 01:54:10.780
+I mean, for most of human history, a good year would be one where not that many people in your village died of the plague,
+
+01:54:10.780 --> 01:54:14.780
+starvation, freezing to death, or being killed by a neighboring village.
+
+01:54:14.780 --> 01:54:16.780
+It's like, well, it wasn't that bad.
+
+01:54:16.780 --> 01:54:19.780
+It was only like, we lost 5% this year.
+
+01:54:19.780 --> 01:54:21.780
+That was a good year.
+
+01:54:21.780 --> 01:54:22.780
+It was a good year.
+
+01:54:22.780 --> 01:54:24.780
+That would be par for the course.
+
+01:54:24.780 --> 01:54:30.780
+Just not starving to death would have been the primary goal of most people throughout history,
+
+01:54:30.780 --> 01:54:35.780
+is making sure we'll have enough food to last through the winter and not freeze or whatever.
+
+01:54:39.780 --> 01:54:41.780
+Now food is plentiful.
+
+01:54:41.780 --> 01:54:43.780
+I have an obesity problem.
+
+01:54:44.780 --> 01:54:51.780
+Well, yeah, the lesson there is to be grateful for the way things are now for some of us.
+
+01:54:51.780 --> 01:54:54.780
+We've spoken about this offline.
+
+01:54:54.780 --> 01:54:58.780
+I'd love to get your thought about it here.
+
+01:54:58.780 --> 01:55:05.780
+If I sat down for a long-form in-person conversation with the president of Russia, Vladimir Putin,
+
+01:55:06.780 --> 01:55:12.780
+would you potentially want to call in for a few minutes to join in on a conversation with him,
+
+01:55:12.780 --> 01:55:14.780
+moderated and translated by me?
+
+01:55:14.780 --> 01:55:15.780
+Sure, yeah.
+
+01:55:15.780 --> 01:55:17.780
+Sure, I'd be happy to do that.
+
+01:55:19.780 --> 01:55:21.780
+You've shown interest in the Russian language.
+
+01:55:21.780 --> 01:55:27.780
+Is this grounded in your interest in history of linguistics, culture, general curiosity?
+
+01:55:27.780 --> 01:55:29.780
+I think it sounds cool.
+
+01:55:29.780 --> 01:55:30.780
+Sounds cool.
+
+01:55:30.780 --> 01:55:32.780
+Now it looks cool.
+
+01:55:32.780 --> 01:55:37.780
+Well, it takes a moment to read Cyrillic.
+
+01:55:39.780 --> 01:55:46.780
+Once you know what the Cyrillic characters stand for, actually then reading Russian becomes a lot easier
+
+01:55:46.780 --> 01:55:50.780
+because there are a lot of words that are actually the same, like bank is bank.
+
+01:55:55.780 --> 01:55:59.780
+So find the words that are exactly the same and now you start to understand Cyrillic.
+
+01:55:59.780 --> 01:56:05.780
+If you can sound it out, there's at least some commonality of words.
+
+01:56:05.780 --> 01:56:08.780
+What about the culture?
+
+01:56:08.780 --> 01:56:11.780
+You love great engineering, physics.
+
+01:56:11.780 --> 01:56:13.780
+There's a tradition of the sciences there.
+
+01:56:13.780 --> 01:56:14.780
+Sure.
+
+01:56:14.780 --> 01:56:16.780
+You look at the 20th century from rocketry.
+
+01:56:16.780 --> 01:56:23.780
+Some of the greatest rockets, some of the space exploration has been done in the former Soviet Union.
+
+01:56:23.780 --> 01:56:29.780
+So do you draw inspiration from that history, just how this culture that in many ways,
+
+01:56:29.780 --> 01:56:36.780
+one of the sad things is because of the language, a lot of it is lost to history because it's not translated,
+
+01:56:36.780 --> 01:56:40.780
+because it is in some ways an isolated culture.
+
+01:56:40.780 --> 01:56:43.780
+It flourishes within its borders.
+
+01:56:43.780 --> 01:56:50.780
+Do you draw inspiration from those folks, from the history of science engineering there?
+
+01:56:50.780 --> 01:57:01.780
+The Soviet Union, Russia, and Ukraine as well have a really strong history in space flight.
+
+01:57:01.780 --> 01:57:09.780
+Some of the most advanced and impressive things in history were done by the Soviet Union.
+
+01:57:09.780 --> 01:57:19.780
+So one cannot help but admire the impressive rocket technology that was developed.
+
+01:57:19.780 --> 01:57:28.780
+After the fall of the Soviet Union, there's much less that happened.
+
+01:57:28.780 --> 01:57:38.780
+But still things are happening, but it's not quite at the frenetic pace that was happening
+
+01:57:38.780 --> 01:57:45.780
+before the Soviet Union dissolved into separate republics.
+
+01:57:46.780 --> 01:57:52.780
+Yeah, I mean, there's Roscosmos, the Russian agency.
+
+01:57:52.780 --> 01:57:57.780
+I look forward to a time when those countries with China are working together,
+
+01:57:57.780 --> 01:58:01.780
+the United States are all working together, maybe a little bit of friendly competition.
+
+01:58:01.780 --> 01:58:04.780
+I think friendly competition is good.
+
+01:58:04.780 --> 01:58:10.780
+Governments are slow and the only thing slower than one government is a collection of governments.
+
+01:58:10.780 --> 01:58:16.780
+So the Olympics would be boring if everyone just crossed the finishing line at the same time.
+
+01:58:16.780 --> 01:58:18.780
+Nobody would watch.
+
+01:58:18.780 --> 01:58:21.780
+And people wouldn't try hard to run fast and stuff.
+
+01:58:21.780 --> 01:58:25.780
+So I think friendly competition is a good thing.
+
+01:58:25.780 --> 01:58:28.780
+This is also a good place to give a shout out to a video titled
+
+01:58:28.780 --> 01:58:33.780
+The Entire Soviet Rocket Engine Family Tree by Tim Dodd, aka Everyday Astronaut.
+
+01:58:33.780 --> 01:58:37.780
+It's like an hour and a half. It gives a full history of Soviet rockets.
+
+01:58:37.780 --> 01:58:40.780
+And people should definitely go check on and support Tim in general.
+
+01:58:40.780 --> 01:58:45.780
+That guy is super excited about the future, super excited about spaceflight.
+
+01:58:45.780 --> 01:58:50.780
+Every time I see anything by him, I just have a stupid smile on my face because he's so excited about stuff.
+
+01:58:50.780 --> 01:58:51.780
+I love people like that.
+
+01:58:51.780 --> 01:58:55.780
+Tim Dodd is really great if you're interested in anything to do with space.
+
+01:58:55.780 --> 01:59:01.780
+In terms of explaining rocket technology to your average person, he's awesome.
+
+01:59:01.780 --> 01:59:04.780
+The best, I'd say.
+
+01:59:04.780 --> 01:59:10.780
+And I should say probably the reason I switched us from...
+
+01:59:10.780 --> 01:59:13.780
+Like Raptor at one point was going to be a hydrogen engine.
+
+01:59:13.780 --> 01:59:17.780
+But hydrogen has a lot of challenges. It's very low density.
+
+01:59:17.780 --> 01:59:22.780
+It's a deep cryogen, so it's only liquid at a very close to absolute zero.
+
+01:59:22.780 --> 01:59:24.780
+It requires a lot of insulation.
+
+01:59:24.780 --> 01:59:28.780
+So there's a lot of challenges there.
+
+01:59:29.780 --> 01:59:35.780
+And I was actually reading a bit about Russian rocket engine developments.
+
+01:59:35.780 --> 01:59:49.780
+And at least the impression I had was that the Soviet Union, Russia, and Ukraine primarily were actually in the process of switching to Methalox.
+
+01:59:49.780 --> 01:59:54.780
+And there were some interesting test data for ISP.
+
+01:59:54.780 --> 02:00:00.780
+They were able to get up to a 380 second ISP with a Methalox engine.
+
+02:00:00.780 --> 02:00:04.780
+And I was like, well, okay, that's actually really impressive.
+
+02:00:04.780 --> 02:00:13.780
+So I think you could actually get a much lower cost.
+
+02:00:13.780 --> 02:00:23.780
+In optimizing cost per ton to orbit, cost per ton to Mars, I think methane oxygen is the way to go.
+
+02:00:23.780 --> 02:00:31.780
+And I was partly inspired by the Russian work on the test stands with Methalox engines.
+
+02:00:31.780 --> 02:00:34.780
+And now for something completely different.
+
+02:00:34.780 --> 02:00:40.780
+Do you mind doing a bit of a meme review in the spirit of the great, the powerful PewDiePie?
+
+02:00:40.780 --> 02:00:44.780
+Let's say 1 to 11. Just go over a few documents, print it out.
+
+02:00:44.780 --> 02:00:45.780
+We can try.
+
+02:00:45.780 --> 02:00:48.780
+Let's try this.
+
+02:00:49.780 --> 02:00:53.780
+I present to you document number uno.
+
+02:00:53.780 --> 02:00:58.780
+Okay.
+
+02:00:58.780 --> 02:01:03.780
+Vladimir Payler discovers marshmallows.
+
+02:01:03.780 --> 02:01:06.780
+That's not bad.
+
+02:01:06.780 --> 02:01:11.780
+So you get it because he likes to pail things?
+
+02:01:11.780 --> 02:01:14.780
+Yes, I get it. I know three, whatever.
+
+02:01:14.780 --> 02:01:19.780
+That's not very good.
+
+02:01:19.780 --> 02:01:28.780
+This is grounded in some engineering, some history.
+
+02:01:28.780 --> 02:01:31.780
+Yeah, give us an 8 out of 10.
+
+02:01:31.780 --> 02:01:33.780
+What do you think about nuclear power?
+
+02:01:33.780 --> 02:01:35.780
+I'm in favor of nuclear power.
+
+02:01:35.780 --> 02:01:41.780
+I think it's in a place that is not subject to extreme natural disasters.
+
+02:01:41.780 --> 02:01:47.780
+I think nuclear power is a great way to generate electricity.
+
+02:01:47.780 --> 02:01:51.780
+I don't think we should be shutting down nuclear power stations.
+
+02:01:51.780 --> 02:01:53.780
+Yeah, but what about Chernobyl?
+
+02:01:53.780 --> 02:01:56.780
+Exactly.
+
+02:01:56.780 --> 02:02:03.780
+So I think people, there's a lot of fear of radiation and stuff.
+
+02:02:04.780 --> 02:02:08.780
+I guess the problem is a lot of people just don't understand,
+
+02:02:08.780 --> 02:02:12.780
+they don't study engineering or physics.
+
+02:02:12.780 --> 02:02:15.780
+Just the word radiation just sounds scary.
+
+02:02:15.780 --> 02:02:20.780
+They can't calibrate what radiation means.
+
+02:02:20.780 --> 02:02:26.780
+But radiation is much less dangerous than you think.
+
+02:02:26.780 --> 02:02:40.780
+So for example, when the Fukushima problem happened due to the tsunami,
+
+02:02:40.780 --> 02:02:46.780
+I got people in California asking me if they should worry about radiation from Fukushima.
+
+02:02:46.780 --> 02:02:50.780
+I'm like, definitely not, not even slightly, not at all.
+
+02:02:50.780 --> 02:02:53.780
+That is crazy.
+
+02:02:53.780 --> 02:03:05.780
+And just to show, this is how the danger is so much overplayed compared to what it really is,
+
+02:03:05.780 --> 02:03:14.780
+that I actually flew to Fukushima and I donated a solar power system for a water treatment plant.
+
+02:03:14.780 --> 02:03:25.780
+And I made a point of eating locally grown vegetables on TV in Fukushima.
+
+02:03:25.780 --> 02:03:30.780
+I'm still alive.
+
+02:03:30.780 --> 02:03:35.780
+It's not even that the risk of these events is low, but the impact of them is...
+
+02:03:35.780 --> 02:03:37.780
+The impact is greatly exaggerated.
+
+02:03:37.780 --> 02:03:39.780
+It's human nature.
+
+02:03:39.780 --> 02:03:41.780
+People don't know what radiation is.
+
+02:03:41.780 --> 02:03:45.780
+I've had people ask me, what about radiation from cell phones causing brain cancer?
+
+02:03:45.780 --> 02:03:49.780
+I'm like, when you say radiation, do you mean photons or particles?
+
+02:03:49.780 --> 02:03:51.780
+I don't know what you mean by photons or particles.
+
+02:03:51.780 --> 02:03:58.780
+Do you mean, let's say photons, what frequency or wavelength?
+
+02:03:58.780 --> 02:04:01.780
+And they're like, no, I have no idea.
+
+02:04:01.780 --> 02:04:04.780
+Do you know that everything's radiating all the time?
+
+02:04:04.780 --> 02:04:05.780
+What do you mean?
+
+02:04:05.780 --> 02:04:08.780
+Yeah, everything's radiating all the time.
+
+02:04:08.780 --> 02:04:12.780
+The photons are being emitted by all objects all the time, basically.
+
+02:04:12.780 --> 02:04:21.780
+And if you want to know what it means to stand in front of nuclear fire, go outside.
+
+02:04:21.780 --> 02:04:26.780
+The sun is a gigantic thermonuclear reactor.
+
+02:04:26.780 --> 02:04:28.780
+You're staring right at it.
+
+02:04:28.780 --> 02:04:29.780
+Are you still alive?
+
+02:04:29.780 --> 02:04:30.780
+Yes.
+
+02:04:30.780 --> 02:04:32.780
+Okay, amazing.
+
+02:04:32.780 --> 02:04:39.780
+I guess radiation is one of the words that could be used as a tool to fear monger by certain people.
+
+02:04:39.780 --> 02:04:40.780
+That's it.
+
+02:04:40.780 --> 02:04:42.780
+I think people just don't understand.
+
+02:04:42.780 --> 02:04:46.780
+That's the way to fight that fear, I suppose, is to understand, is to learn.
+
+02:04:46.780 --> 02:04:50.780
+Yeah, to say like, okay, how many people have actually died from nuclear accidents?
+
+02:04:50.780 --> 02:04:52.780
+It's like practically nothing.
+
+02:04:52.780 --> 02:04:57.780
+And say how many people have died from coal plants?
+
+02:04:57.780 --> 02:04:59.780
+And it's a very big number.
+
+02:05:00.780 --> 02:05:04.780
+Obviously, we should not be starting up coal plants and shutting down nuclear plants.
+
+02:05:04.780 --> 02:05:07.780
+It just doesn't make any sense at all.
+
+02:05:07.780 --> 02:05:14.780
+Coal plants, like, I don't know, 100 to 1,000 times worse for health than nuclear power plants.
+
+02:05:14.780 --> 02:05:16.780
+You want to go to the next one?
+
+02:05:16.780 --> 02:05:19.780
+It's really bad.
+
+02:05:19.780 --> 02:05:23.780
+It's 90, 180, and 360 degrees.
+
+02:05:23.780 --> 02:05:24.780
+Everybody loves the math.
+
+02:05:24.780 --> 02:05:27.780
+Nobody gives a shit about 270.
+
+02:05:27.780 --> 02:05:29.780
+It's not super funny.
+
+02:05:29.780 --> 02:05:31.780
+I don't know, like, 203.
+
+02:05:31.780 --> 02:05:36.780
+This is not, you know, LOL situation.
+
+02:05:36.780 --> 02:05:38.780
+Yeah.
+
+02:05:42.780 --> 02:05:43.780
+That's pretty good.
+
+02:05:43.780 --> 02:05:47.780
+The United States oscillating between establishing and destroying dictatorships.
+
+02:05:47.780 --> 02:05:49.780
+It's like a metric. Is that a metric?
+
+02:05:49.780 --> 02:05:53.780
+Yeah, it's a 7 out of 10. It's kind of true.
+
+02:05:53.780 --> 02:05:56.780
+Oh, yeah, this is kind of personal for me.
+
+02:05:56.780 --> 02:05:58.780
+Next one.
+
+02:05:58.780 --> 02:05:59.780
+Oh, man, is this Laika?
+
+02:05:59.780 --> 02:06:01.780
+Yeah, well, no, this is-
+
+02:06:01.780 --> 02:06:03.780
+Or it's like referring to Laika or something?
+
+02:06:03.780 --> 02:06:06.780
+As Laika's, like, husband.
+
+02:06:06.780 --> 02:06:07.780
+Husband, yeah, yeah.
+
+02:06:07.780 --> 02:06:10.780
+Hello, yes, this is dog. Your wife was launched into space.
+
+02:06:10.780 --> 02:06:15.780
+And then the last one is him with his eyes closed in a bottle of vodka.
+
+02:06:15.780 --> 02:06:17.780
+Yeah, Laika didn't come back.
+
+02:06:17.780 --> 02:06:18.780
+No.
+
+02:06:18.780 --> 02:06:24.780
+They don't tell you the full story of, you know, what the impact they had on the loved ones.
+
+02:06:24.780 --> 02:06:25.780
+True.
+
+02:06:25.780 --> 02:06:26.780
+This gets an 11 for me.
+
+02:06:26.780 --> 02:06:27.780
+Sure.
+
+02:06:27.780 --> 02:06:28.780
+The Soviet shadow.
+
+02:06:28.780 --> 02:06:32.780
+Oh, yeah, this keeps going on the Russian theme.
+
+02:06:32.780 --> 02:06:36.780
+First man in space, nobody cares, first man on the moon.
+
+02:06:36.780 --> 02:06:37.780
+Well, I think people do care.
+
+02:06:37.780 --> 02:06:40.780
+I know, but-
+
+02:06:40.780 --> 02:06:45.780
+Yuriy Gagarin's names will be forever in history, I think.
+
+02:06:45.780 --> 02:06:52.780
+There is something special about placing, like, stepping foot onto another totally foreign land.
+
+02:06:52.780 --> 02:06:56.780
+It's not the journey, like, people that explore the oceans.
+
+02:06:56.780 --> 02:07:02.780
+It's not as important to explore the oceans as to land on a whole new continent.
+
+02:07:02.780 --> 02:07:03.780
+Yeah.
+
+02:07:03.780 --> 02:07:05.780
+Oh, this is about you.
+
+02:07:05.780 --> 02:07:07.780
+Oh, yeah, I'd love to get your comment on this.
+
+02:07:07.780 --> 02:07:17.780
+Elon Musk, after sending $6.6 billion to the UN to end world hunger, you have three hours.
+
+02:07:17.780 --> 02:07:20.780
+You know, I mean, obviously, $6 billion is not going to end world hunger.
+
+02:07:20.780 --> 02:07:31.780
+So, I mean, the reality is, at this point, the world is producing far more food than it can really consume.
+
+02:07:31.780 --> 02:07:35.780
+Like, we don't have a caloric constraint to this point.
+
+02:07:35.780 --> 02:07:44.780
+So, where there is hunger, it is almost always due to, like, civil war or strife or some like.
+
+02:07:44.780 --> 02:07:52.780
+It's not a thing that is extremely rare for it to be just a matter of, like, lack of money.
+
+02:07:52.780 --> 02:07:57.780
+It's like, you know, it's like some, there's a civil war in some country,
+
+02:07:57.780 --> 02:08:02.780
+and, like, one part of the country is literally trying to starve the other part of the country.
+
+02:08:02.780 --> 02:08:05.780
+So, it's much more complex than something that money could solve.
+
+02:08:05.780 --> 02:08:09.780
+It's geopolitics, it's a lot of things.
+
+02:08:09.780 --> 02:08:13.780
+It's human nature, it's governments, it's monies, monetary systems, all that kind of stuff.
+
+02:08:13.780 --> 02:08:16.780
+Yeah, food is extremely cheap these days.
+
+02:08:16.780 --> 02:08:27.780
+It's like, I mean, the US at this point, you know, among low-income families, obesity is actually not a problem.
+
+02:08:27.780 --> 02:08:30.780
+It's not, like, obesity, it's not hunger.
+
+02:08:30.780 --> 02:08:33.780
+It's like too much, you know, too many calories.
+
+02:08:33.780 --> 02:08:37.780
+So, it's not that nobody's hungry anywhere.
+
+02:08:37.780 --> 02:08:43.780
+It's just, this is not a simple matter of adding money and solving it.
+
+02:08:43.780 --> 02:08:47.780
+What do you think that one gets?
+
+02:08:47.780 --> 02:08:49.780
+Just kidding.
+
+02:08:49.780 --> 02:08:51.780
+Two.
+
+02:08:51.780 --> 02:08:54.780
+Just going after empires.
+
+02:08:54.780 --> 02:08:56.780
+World, where did you get those artifacts?
+
+02:08:56.780 --> 02:08:58.780
+The British Museum.
+
+02:08:58.780 --> 02:09:01.780
+A shout out to Monty Python, we found them.
+
+02:09:01.780 --> 02:09:05.780
+Yeah, the British Museum is pretty great.
+
+02:09:05.780 --> 02:09:10.780
+I mean, admittedly, Britain did take these historical artifacts from all around the world and put them in London.
+
+02:09:10.780 --> 02:09:15.780
+But, you know, it's not like people can't go see them.
+
+02:09:15.780 --> 02:09:24.780
+So, it is a convenient place to see these ancient artifacts is London for, you know, for a large segment of the world.
+
+02:09:24.780 --> 02:09:30.780
+So, I think, you know, on balance, the British Museum is a net good, although I'm sure that a lot of countries argue about that.
+
+02:09:30.780 --> 02:09:32.780
+Yeah.
+
+02:09:32.780 --> 02:09:36.780
+It's like you want to make these historical artifacts accessible to as many people as possible.
+
+02:09:36.780 --> 02:09:40.780
+And the British Museum, I think, does a good job of that.
+
+02:09:40.780 --> 02:09:51.780
+Even if there's a darker aspect to, like, the history of empire in general, whatever the empire is, however things were done, it is the history that happened.
+
+02:09:51.780 --> 02:09:53.780
+You can't sort of erase that history, unfortunately.
+
+02:09:53.780 --> 02:09:55.780
+You could just become better in the future.
+
+02:09:55.780 --> 02:09:57.780
+That's the point.
+
+02:09:57.780 --> 02:09:58.780
+Yeah.
+
+02:09:58.780 --> 02:10:03.780
+I mean, it's like, well, how are we going to pass moral judgment on these things?
+
+02:10:03.780 --> 02:10:17.780
+Like, it's like, you know, if one is going to judge, say, the British Empire, you've got to judge, you know, what everyone was doing at the time and how were the British relative to everyone?
+
+02:10:17.780 --> 02:10:30.780
+And I think the British would actually get, like, a relatively good grade, relatively good grade, not in absolute terms, but compared to what everyone else was doing, they were not the worst.
+
+02:10:30.780 --> 02:10:37.780
+Like I said, you've got to look at these things in the context of the history at the time and say, what were the alternatives and what are you comparing it against?
+
+02:10:37.780 --> 02:10:38.780
+Yes.
+
+02:10:38.780 --> 02:10:48.780
+And I do not think it would be the case that Britain would get a bad grade when looking at history at the time.
+
+02:10:48.780 --> 02:10:58.780
+Now, if you judge history from, you know, from what is morally acceptable today, you're basically going to give everyone a failing grade.
+
+02:10:58.780 --> 02:10:59.780
+I'm not clear.
+
+02:10:59.780 --> 02:11:07.780
+I don't think anyone would get a passing grade in their morality of, like, you go back 300 years ago, like, who's getting a passing grade?
+
+02:11:07.780 --> 02:11:09.780
+Basically no one.
+
+02:11:09.780 --> 02:11:16.780
+And we might not get a passing grade from generations that come after us.
+
+02:11:16.780 --> 02:11:19.780
+What does that one get?
+
+02:11:19.780 --> 02:11:21.780
+Sure, six, seven.
+
+02:11:21.780 --> 02:11:23.780
+For the Monty Python, maybe.
+
+02:11:23.780 --> 02:11:24.780
+I always love Monty Python.
+
+02:11:24.780 --> 02:11:25.780
+They're great.
+
+02:11:25.780 --> 02:11:28.780
+The life of Brian and the quest of the Holy Grail are incredible.
+
+02:11:28.780 --> 02:11:29.780
+Yeah, yeah.
+
+02:11:29.780 --> 02:11:31.780
+Damn, those serious eyebrows.
+
+02:11:31.780 --> 02:11:33.780
+Brazhnev.
+
+02:11:33.780 --> 02:11:37.780
+How important do you think is facial hair to great leadership?
+
+02:11:37.780 --> 02:11:38.780
+Well-
+
+02:11:38.780 --> 02:11:39.780
+You've got a new haircut.
+
+02:11:39.780 --> 02:11:42.780
+How does that affect your leadership?
+
+02:11:42.780 --> 02:11:43.780
+I don't know.
+
+02:11:43.780 --> 02:11:44.780
+Hopefully not.
+
+02:11:44.780 --> 02:11:45.780
+It doesn't.
+
+02:11:45.780 --> 02:11:47.780
+Is that the second no one?
+
+02:11:47.780 --> 02:11:49.780
+Yeah, the second is no one.
+
+02:11:49.780 --> 02:11:52.780
+There is no one competing with Brazhnev.
+
+02:11:52.780 --> 02:11:53.780
+No one, too.
+
+02:11:53.780 --> 02:11:55.780
+Those are, like, epic eyebrows.
+
+02:11:59.780 --> 02:12:00.780
+That's ridiculous.
+
+02:12:00.780 --> 02:12:01.780
+Give it a six or seven.
+
+02:12:01.780 --> 02:12:02.780
+I don't know.
+
+02:12:02.780 --> 02:12:05.780
+I like this Shakespearean analysis of names.
+
+02:12:05.780 --> 02:12:09.780
+Brazhnev had a flair for drama as well.
+
+02:12:09.780 --> 02:12:11.780
+Like, you know, showmanship.
+
+02:12:11.780 --> 02:12:12.780
+Yeah, yeah.
+
+02:12:12.780 --> 02:12:14.780
+It must come from the eyebrows.
+
+02:12:14.780 --> 02:12:15.780
+All right.
+
+02:12:15.780 --> 02:12:16.780
+Invention.
+
+02:12:16.780 --> 02:12:17.780
+Great engineering.
+
+02:12:17.780 --> 02:12:19.780
+Look what I invented.
+
+02:12:19.780 --> 02:12:21.780
+That's the best thing since ripped up bread.
+
+02:12:21.780 --> 02:12:22.780
+Yeah.
+
+02:12:22.780 --> 02:12:25.780
+I invented sliced bread.
+
+02:12:25.780 --> 02:12:29.780
+Am I just explaining memes at this point?
+
+02:12:29.780 --> 02:12:33.780
+This is what my life has become.
+
+02:12:33.780 --> 02:12:35.780
+He's a meme or a meme explainer.
+
+02:12:35.780 --> 02:12:43.780
+I'm a meme, like a scribe that runs around with the kings and just writes down memes.
+
+02:12:43.780 --> 02:12:45.780
+I mean, when was the cheeseburger invented?
+
+02:12:45.780 --> 02:12:48.780
+That's, like, an epic invention.
+
+02:12:48.780 --> 02:12:50.780
+Like, wow.
+
+02:12:50.780 --> 02:12:52.780
+Versus just, like, a burger?
+
+02:12:52.780 --> 02:12:53.780
+Or a burger.
+
+02:12:53.780 --> 02:12:54.780
+I guess a burger in general.
+
+02:12:54.780 --> 02:12:56.780
+It's, like, you know.
+
+02:12:56.780 --> 02:12:58.780
+Then there's, like, what is a burger?
+
+02:12:58.780 --> 02:12:59.780
+What's a sandwich?
+
+02:12:59.780 --> 02:13:01.780
+And then you start getting, is a pizza a sandwich?
+
+02:13:01.780 --> 02:13:02.780
+And what is the original?
+
+02:13:02.780 --> 02:13:05.780
+It gets into an ontology argument.
+
+02:13:05.780 --> 02:13:08.780
+Yeah, but everybody knows, like, if you order, like, a burger or a cheeseburger or whatever
+
+02:13:08.780 --> 02:13:11.780
+and you, like, you get, like, you know, tomato and some lettuce and onions and whatever
+
+02:13:11.780 --> 02:13:14.780
+and, you know, mayo and ketchup and mustard.
+
+02:13:14.780 --> 02:13:15.780
+It's, like, epic.
+
+02:13:15.780 --> 02:13:19.780
+Yeah, but I'm sure they've had bread and meat separately for a long time.
+
+02:13:19.780 --> 02:13:23.780
+And it was kind of a burger on the same plate, but somebody who actually combined them into
+
+02:13:23.780 --> 02:13:28.780
+the same thing and then could bite it and hold it makes it convenient.
+
+02:13:28.780 --> 02:13:29.780
+It's a materials problem.
+
+02:13:29.780 --> 02:13:30.780
+Yeah.
+
+02:13:30.780 --> 02:13:32.780
+Like, your hands don't get dirty and whatever.
+
+02:13:32.780 --> 02:13:38.780
+Yeah, it's brilliant.
+
+02:13:38.780 --> 02:13:40.780
+That is not what I would have guessed.
+
+02:13:40.780 --> 02:13:43.780
+But everyone knows, like, if you order a cheeseburger, you know what you're getting.
+
+02:13:43.780 --> 02:13:48.780
+You know, it's not like some obtuse, like, I wonder what I'll get, you know.
+
+02:13:49.780 --> 02:13:52.780
+You know, fries are, I mean, great.
+
+02:13:52.780 --> 02:13:55.780
+I mean, they were the devil, but fries are awesome.
+
+02:13:55.780 --> 02:14:00.780
+And yeah, pizza is incredible.
+
+02:14:00.780 --> 02:14:02.780
+Food innovation doesn't get enough love.
+
+02:14:02.780 --> 02:14:03.780
+Yeah.
+
+02:14:03.780 --> 02:14:05.780
+I guess is what we're getting at.
+
+02:14:05.780 --> 02:14:07.780
+Great.
+
+02:14:07.780 --> 02:14:11.780
+What about the Matthew McConaughey Austinite here?
+
+02:14:11.780 --> 02:14:14.780
+President Kennedy, do you know how to put men on the moon yet?
+
+02:14:14.780 --> 02:14:15.780
+NASA, no.
+
+02:14:15.780 --> 02:14:19.780
+President Kennedy would be a lot cooler if you did.
+
+02:14:19.780 --> 02:14:20.780
+Pretty much.
+
+02:14:20.780 --> 02:14:21.780
+Sure.
+
+02:14:21.780 --> 02:14:25.780
+Six, six or seven, I suppose.
+
+02:14:25.780 --> 02:14:27.780
+And this is the last one.
+
+02:14:27.780 --> 02:14:29.780
+That's funny.
+
+02:14:29.780 --> 02:14:34.780
+Someone drew a bunch of dicks all over the walls, Sistine Chapel, Boy's Bathroom.
+
+02:14:34.780 --> 02:14:36.780
+Sure, I'll give it a nine.
+
+02:14:36.780 --> 02:14:38.780
+It's really true.
+
+02:14:38.780 --> 02:14:39.780
+All right.
+
+02:14:39.780 --> 02:14:41.780
+This is our highest ranking meme for today.
+
+02:14:41.780 --> 02:14:42.780
+I mean, it's true.
+
+02:14:42.780 --> 02:14:44.780
+Like, how do they get away with that?
+
+02:14:44.780 --> 02:14:45.780
+Lots of nakedness.
+
+02:14:45.780 --> 02:14:49.780
+I mean, dick pics are, I mean, just something throughout history.
+
+02:14:49.780 --> 02:14:52.780
+As long as people can draw things, there's been a dick pic.
+
+02:14:52.780 --> 02:14:54.780
+It's a staple of human history.
+
+02:14:54.780 --> 02:14:55.780
+It's a staple.
+
+02:14:55.780 --> 02:14:57.780
+It's just throughout human history.
+
+02:14:57.780 --> 02:14:59.780
+You tweeted that you aspire to comedy.
+
+02:14:59.780 --> 02:15:01.780
+You're friends with Joe Rogan.
+
+02:15:01.780 --> 02:15:05.780
+Might you do a short standup comedy set at some point in the future?
+
+02:15:05.780 --> 02:15:08.780
+Maybe Open for Joe, something like that.
+
+02:15:08.780 --> 02:15:09.780
+Is that...
+
+02:15:09.780 --> 02:15:10.780
+Really?
+
+02:15:10.780 --> 02:15:11.780
+Standup?
+
+02:15:11.780 --> 02:15:12.780
+Full-on standup?
+
+02:15:12.780 --> 02:15:13.780
+Full-on standup.
+
+02:15:13.780 --> 02:15:14.780
+Is that in there or is that...
+
+02:15:14.780 --> 02:15:16.780
+I've never thought about that.
+
+02:15:16.780 --> 02:15:23.780
+It's extremely difficult if at least that's what Joe says and the comedians say.
+
+02:15:23.780 --> 02:15:24.780
+Huh.
+
+02:15:24.780 --> 02:15:26.780
+I wonder if I could.
+
+02:15:26.780 --> 02:15:28.780
+There's only one way to find out.
+
+02:15:28.780 --> 02:15:34.780
+You know, I have done standup for friends just impromptu.
+
+02:15:34.780 --> 02:15:40.780
+You know, I'll get on like a roof and they do laugh, but they're our friends too.
+
+02:15:40.780 --> 02:15:46.780
+So I don't know if you've got to call, you know, like a room of strangers, are they going to actually also find it funny?
+
+02:15:46.780 --> 02:15:50.780
+But I could try, see what happens.
+
+02:15:50.780 --> 02:15:52.780
+I think you'd learn something either way.
+
+02:15:52.780 --> 02:15:53.780
+Yeah.
+
+02:15:53.780 --> 02:16:00.780
+I kind of love both when you bomb and when you do great, just watching people, how they deal with it.
+
+02:16:00.780 --> 02:16:02.780
+It's so difficult.
+
+02:16:02.780 --> 02:16:05.780
+You're so fragile up there.
+
+02:16:05.780 --> 02:16:07.780
+It's just you.
+
+02:16:07.780 --> 02:16:14.780
+And you think you're going to be funny and when it completely falls flat, it's just, it's beautiful to see people deal with like that.
+
+02:16:14.780 --> 02:16:17.780
+I might have enough material to do standup.
+
+02:16:17.780 --> 02:16:22.780
+I've never thought about it, but I might have enough material.
+
+02:16:22.780 --> 02:16:24.780
+I don't know, like 15 minutes or something.
+
+02:16:24.780 --> 02:16:25.780
+Oh, yeah.
+
+02:16:25.780 --> 02:16:26.780
+Yeah.
+
+02:16:26.780 --> 02:16:27.780
+Do a Netflix special.
+
+02:16:27.780 --> 02:16:31.780
+Netflix special, sure.
+
+02:16:31.780 --> 02:16:34.780
+What's your favorite Rick and Morty concept?
+
+02:16:34.780 --> 02:16:35.780
+Just to spring that on you.
+
+02:16:35.780 --> 02:16:39.780
+Is there, there's a lot of sort of scientific engineering ideas explored there.
+
+02:16:39.780 --> 02:16:42.780
+There's the, there's the butter robot.
+
+02:16:42.780 --> 02:16:43.780
+That's great.
+
+02:16:43.780 --> 02:16:44.780
+That's a great show.
+
+02:16:44.780 --> 02:16:45.780
+You like it?
+
+02:16:45.780 --> 02:16:46.780
+Yeah, Rick and Morty's awesome.
+
+02:16:46.780 --> 02:16:50.780
+Somebody that's exactly like you from an alternate dimension showed up there.
+
+02:16:50.780 --> 02:16:51.780
+Elon Tusk.
+
+02:16:51.780 --> 02:16:52.780
+Yeah, that's right.
+
+02:16:52.780 --> 02:16:53.780
+That you voiced.
+
+02:16:53.780 --> 02:16:54.780
+Yeah.
+
+02:16:54.780 --> 02:16:57.780
+Rick and Morty certainly explores a lot of interesting concepts.
+
+02:16:58.780 --> 02:16:59.780
+Should I like, what's the favorite one?
+
+02:16:59.780 --> 02:17:00.780
+I don't know.
+
+02:17:00.780 --> 02:17:04.780
+The butter robot certainly is, you know, it's like, it's certainly possible to have too
+
+02:17:04.780 --> 02:17:06.780
+much sentience in a device.
+
+02:17:06.780 --> 02:17:11.780
+Like, you don't want to have your toaster be like a super genius toaster.
+
+02:17:11.780 --> 02:17:14.780
+It's going to hate, hate life because all it could do is make his toast.
+
+02:17:14.780 --> 02:17:19.780
+But if it's like, you don't want to have like super intelligence stuck in a very limited
+
+02:17:19.780 --> 02:17:20.780
+device.
+
+02:17:20.780 --> 02:17:24.780
+Do you think it's too easy from a, if we're talking about from the engineering perspective
+
+02:17:24.780 --> 02:17:30.780
+of super intelligence, like with Marvin, the robot, like is it, it seems like it might
+
+02:17:30.780 --> 02:17:33.780
+be very easy to engineer just a depressed robot.
+
+02:17:33.780 --> 02:17:40.780
+Like it, it's not obvious to engineer a robot that's going to find a fulfilling existence.
+
+02:17:40.780 --> 02:17:42.780
+Same as humans, I suppose.
+
+02:17:42.780 --> 02:17:46.780
+But I wonder if that's like the default.
+
+02:17:46.780 --> 02:17:51.780
+If you don't do a good job on building a robot, it's going to be sad a lot.
+
+02:17:51.780 --> 02:17:57.780
+Well, we can reprogram robots easier than we can reprogram humans.
+
+02:17:57.780 --> 02:18:04.780
+So I guess if you let it evolve without tinkering, then it might get sad.
+
+02:18:04.780 --> 02:18:12.780
+But you can change the optimization function and have it be a cheery robot.
+
+02:18:12.780 --> 02:18:17.780
+You, like I mentioned with SpaceX, you give a lot of people hope and a lot of people look
+
+02:18:17.780 --> 02:18:19.780
+up to you, millions of people look up to you.
+
+02:18:19.780 --> 02:18:26.780
+If we think about young people in high school, maybe in college, what advice would you give
+
+02:18:26.780 --> 02:18:31.780
+to them about if they want to try to do something big in this world, they want to really have
+
+02:18:31.780 --> 02:18:32.780
+a big positive impact.
+
+02:18:32.780 --> 02:18:38.780
+What advice would you give them about their career, maybe about life in general?
+
+02:18:38.780 --> 02:18:41.780
+Try to be useful.
+
+02:18:41.780 --> 02:18:45.780
+You do things that are useful to your fellow human beings, to the world.
+
+02:18:45.780 --> 02:18:50.780
+It's very hard to be useful.
+
+02:18:50.780 --> 02:18:53.780
+Very hard.
+
+02:18:53.780 --> 02:18:59.780
+Are you contributing more than you consume?
+
+02:18:59.780 --> 02:19:07.780
+Try to have a positive net contribution to society.
+
+02:19:07.780 --> 02:19:13.780
+I think that's the thing to aim for, not to try to be a leader for the sake of being a
+
+02:19:13.780 --> 02:19:16.780
+leader or whatever.
+
+02:19:16.780 --> 02:19:22.780
+A lot of the time, the people you want as leaders are the people who don't want to be
+
+02:19:22.780 --> 02:19:28.780
+leaders.
+
+02:19:28.780 --> 02:19:38.780
+If you can live a useful life, that is a good life, a life worth having lived.
+
+02:19:38.780 --> 02:19:46.780
+I would encourage people to use the mental tools of physics and apply them broadly in
+
+02:19:46.780 --> 02:19:47.780
+life.
+
+02:19:47.780 --> 02:19:49.780
+They are the best tools.
+
+02:19:49.780 --> 02:19:53.780
+When you think about education and self-education, what do you recommend?
+
+02:19:53.780 --> 02:20:02.780
+There's the university, there's self-study, there is hands-on finding a company or a place
+
+02:20:02.780 --> 02:20:07.780
+or a set of people that do the thing you're passionate about and joining them as early as
+
+02:20:07.780 --> 02:20:08.780
+possible.
+
+02:20:08.780 --> 02:20:12.780
+There's taking a road trip across Europe for a few years and writing some poetry.
+
+02:20:12.780 --> 02:20:17.780
+Which trajectory do you suggest?
+
+02:20:17.780 --> 02:20:23.780
+In terms of learning about how you can become useful, as you mentioned, how you can have the
+
+02:20:23.780 --> 02:20:31.780
+most positive impact.
+
+02:20:31.780 --> 02:20:36.780
+I would encourage people to read a lot of books.
+
+02:20:36.780 --> 02:20:45.780
+Basically, try to ingest as much information as you can and try to also just develop a good
+
+02:20:45.780 --> 02:20:47.780
+general knowledge.
+
+02:20:47.780 --> 02:20:53.780
+So you at least have a rough lay of the land of the knowledge landscape.
+
+02:20:53.780 --> 02:20:57.780
+Try to learn a little bit about a lot of things.
+
+02:20:57.780 --> 02:21:03.780
+How would you know what you're really interested in if you at least aren't doing a peripheral
+
+02:21:03.780 --> 02:21:11.780
+exploration broadly of the knowledge landscape?
+
+02:21:11.780 --> 02:21:17.780
+Talk to people from different walks of life and different industries and professions and
+
+02:21:17.780 --> 02:21:19.780
+skills and occupations.
+
+02:21:19.780 --> 02:21:26.780
+Just try to learn as much as possible.
+
+02:21:26.780 --> 02:21:30.780
+And search for meaning.
+
+02:21:30.780 --> 02:21:34.780
+Isn't the whole thing a search for meaning?
+
+02:21:34.780 --> 02:21:36.780
+Yeah, what's the meaning of life and all.
+
+02:21:36.780 --> 02:21:41.780
+But just generally, like I said, I would encourage people to read broadly in many different
+
+02:21:41.780 --> 02:21:50.780
+subject areas and then try to find something where there's an overlap of your talents and
+
+02:21:50.780 --> 02:21:51.780
+what you're interested in.
+
+02:21:51.780 --> 02:21:55.780
+So people may be good at something or they may have skill at a particular thing, but they
+
+02:21:55.780 --> 02:21:56.780
+don't like doing it.
+
+02:21:56.780 --> 02:22:05.780
+So you want to try to find a thing that's a good combination of the things that you're
+
+02:22:05.780 --> 02:22:11.780
+inherently good at, but you also like doing.
+
+02:22:11.780 --> 02:22:16.780
+And reading is a super fast shortcut to figure out where are you.
+
+02:22:16.780 --> 02:22:21.780
+You're both good at it, you like doing it, and it will actually have positive impact.
+
+02:22:21.780 --> 02:22:23.780
+Well, you've got to learn about things somehow.
+
+02:22:23.780 --> 02:22:29.780
+So reading, a broad range, just really read it.
+
+02:22:29.780 --> 02:22:34.780
+You know, the more important one is that kit I read through the encyclopedia.
+
+02:22:34.780 --> 02:22:37.780
+So that's pretty helpful.
+
+02:22:37.780 --> 02:22:41.780
+And there are all sorts of things I didn't even know existed.
+
+02:22:41.780 --> 02:22:42.780
+Well, a lot, obviously.
+
+02:22:42.780 --> 02:22:44.780
+It's like as broad as it gets.
+
+02:22:44.780 --> 02:22:50.780
+Encyclopedias were digestible, I think, you know, whatever, 40 years ago.
+
+02:22:50.780 --> 02:22:57.780
+So, you know, maybe read through the condensed version of the encyclopedia Britannica.
+
+02:22:57.780 --> 02:22:58.780
+I'd recommend that.
+
+02:22:58.780 --> 02:23:03.780
+You can always like skip subjects where you read a few paragraphs and you know you're
+
+02:23:03.780 --> 02:23:05.780
+not interested, just jump to the next one.
+
+02:23:05.780 --> 02:23:13.780
+So read the encyclopedia or skim through it.
+
+02:23:14.780 --> 02:23:21.780
+And, you know, I put a lot of stock and certainly have a lot of respect for someone who puts
+
+02:23:21.780 --> 02:23:25.780
+in an honest day's work to do useful things.
+
+02:23:25.780 --> 02:23:34.780
+And just generally to have like not a zero-sum mindset or like have more of a grow the pie
+
+02:23:34.780 --> 02:23:35.780
+mindset.
+
+02:23:36.780 --> 02:23:43.780
+If you sort of say like when we see people like perhaps including some very smart people
+
+02:23:43.780 --> 02:23:50.780
+kind of taking an attitude of like doing things that seem like morally questionable, it's
+
+02:23:50.780 --> 02:23:56.780
+often because they have at a base sort of axiomatic level a zero-sum mindset.
+
+02:23:56.780 --> 02:24:02.780
+And they, without realizing it, they don't realize they have a zero-sum mindset or at
+
+02:24:02.780 --> 02:24:04.780
+least they don't realize it consciously.
+
+02:24:04.780 --> 02:24:08.780
+And so if you have a zero-sum mindset, then the only way to get ahead is by taking things
+
+02:24:08.780 --> 02:24:09.780
+from others.
+
+02:24:09.780 --> 02:24:17.780
+If the pie is fixed, then the only way to have more pie is to take someone else's pie.
+
+02:24:17.780 --> 02:24:19.780
+But this is false.
+
+02:24:19.780 --> 02:24:22.780
+Like obviously the pie has grown dramatically over time, the economic pie.
+
+02:24:23.780 --> 02:24:33.780
+So in reality you can have, overuse this analogy, you can have a lot of pie.
+
+02:24:33.780 --> 02:24:36.780
+Pie is not fixed.
+
+02:24:36.780 --> 02:24:43.780
+So you really want to make sure you're not operating without realizing it from a zero-sum
+
+02:24:43.780 --> 02:24:47.780
+mindset where the only way to get ahead is to take things from others.
+
+02:24:47.780 --> 02:24:51.780
+Then that's going to result in you trying to take things from others, which is not good.
+
+02:24:51.780 --> 02:24:56.780
+It's much better to work on adding to the economic pie.
+
+02:24:56.780 --> 02:25:06.780
+So creating more than you consume, doing more than you, yeah.
+
+02:25:06.780 --> 02:25:08.780
+So that's a big deal.
+
+02:25:08.780 --> 02:25:16.780
+I think there's a fair number of people in finance that do have a bit of a zero-sum mindset.
+
+02:25:16.780 --> 02:25:18.780
+I mean, it's all walks of life.
+
+02:25:18.780 --> 02:25:19.780
+I've seen that.
+
+02:25:19.780 --> 02:25:25.780
+One of the reasons Rogan inspires me is he celebrates others a lot.
+
+02:25:25.780 --> 02:25:28.780
+This is not creating a constant competition.
+
+02:25:28.780 --> 02:25:30.780
+Like there's a scarcity of resources.
+
+02:25:30.780 --> 02:25:35.780
+What happens when you celebrate others and you promote others, the ideas of others,
+
+02:25:35.780 --> 02:25:38.780
+it actually grows that pie.
+
+02:25:38.780 --> 02:25:43.780
+I mean, the resources become less scarce.
+
+02:25:43.780 --> 02:25:46.780
+And that applies in a lot of kinds of domains.
+
+02:25:46.780 --> 02:25:51.780
+It applies in academia where a lot of people see some funding for academic research as
+
+02:25:51.780 --> 02:25:52.780
+zero-sum.
+
+02:25:52.780 --> 02:25:53.780
+It is not.
+
+02:25:53.780 --> 02:25:58.780
+If you celebrate each other, if you get everybody to be excited about AI, about physics, about
+
+02:25:58.780 --> 02:26:03.780
+mathematics, I think there'll be more and more funding, and I think everybody wins.
+
+02:26:03.780 --> 02:26:06.780
+Yeah, that applies, I think, broadly.
+
+02:26:06.780 --> 02:26:08.780
+Yeah, yeah, exactly.
+
+02:26:08.780 --> 02:26:13.780
+So last question about love and meaning.
+
+02:26:13.780 --> 02:26:18.780
+What is the role of love in the human condition broadly and more specific to you?
+
+02:26:18.780 --> 02:26:26.780
+How has love, romantic love, or otherwise made you a better person, a better human being?
+
+02:26:26.780 --> 02:26:28.780
+Better engineer?
+
+02:26:28.780 --> 02:26:33.780
+Now you're asking really perplexing questions.
+
+02:26:33.780 --> 02:26:36.780
+It's hard to give a...
+
+02:26:36.780 --> 02:26:42.780
+I mean, there are many books, poems, and songs written about what is love and what is...
+
+02:26:42.780 --> 02:26:47.780
+What exactly, you know, what is love?
+
+02:26:47.780 --> 02:26:51.780
+Maybe you don't hurt me.
+
+02:26:51.780 --> 02:26:53.780
+That's one of the great ones, yes.
+
+02:26:53.780 --> 02:26:54.780
+Yeah.
+
+02:26:54.780 --> 02:26:57.780
+You've early recorded Shakespeare, but that's really up there.
+
+02:26:57.780 --> 02:26:58.780
+Yeah.
+
+02:26:58.780 --> 02:27:02.780
+Love is a many-splendored thing.
+
+02:27:03.780 --> 02:27:05.780
+I mean, there's...
+
+02:27:05.780 --> 02:27:08.780
+Because we've talked about so many inspiring things like be useful in the world, sort of
+
+02:27:08.780 --> 02:27:14.780
+like solve problems, alleviate suffering, but it seems like connection between humans
+
+02:27:14.780 --> 02:27:20.780
+is a source, you know, it's a source of joy, it's a source of meaning, and that's what
+
+02:27:20.780 --> 02:27:23.780
+love is, friendship, love.
+
+02:27:23.780 --> 02:27:28.780
+I just wonder if you think about that kind of thing when you talk about preserving the
+
+02:27:28.780 --> 02:27:34.780
+light of human consciousness and us becoming a multi-planetary species.
+
+02:27:34.780 --> 02:27:43.780
+I mean, to me at least, that means like if we're just alone and conscious and intelligent,
+
+02:27:43.780 --> 02:27:48.780
+it doesn't mean nearly as much as if we're with others, right?
+
+02:27:48.780 --> 02:27:51.780
+And there's some magic created when we're together.
+
+02:27:51.780 --> 02:27:57.780
+The friendship of it, and I think the highest form of it is love, which I think broadly
+
+02:27:57.780 --> 02:28:04.780
+is much bigger than just sort of romantic, but also yes, romantic love and family and
+
+02:28:04.780 --> 02:28:05.780
+those kinds of things.
+
+02:28:05.780 --> 02:28:10.780
+Well, I mean, the reason I guess I care about us becoming multi-planet species and a space-faring
+
+02:28:10.780 --> 02:28:17.780
+civilization is foundationally, I love humanity.
+
+02:28:17.780 --> 02:28:25.780
+And so I wish to see it prosper and do great things and be happy.
+
+02:28:25.780 --> 02:28:30.780
+And if I did not love humanity, I would not care about these things.
+
+02:28:30.780 --> 02:28:34.780
+So when you look at the whole of it, the human history, all the people who's ever lived,
+
+02:28:34.780 --> 02:28:40.780
+all the people alive now, it's pretty, we're okay.
+
+02:28:40.780 --> 02:28:44.780
+On the whole, we're a pretty interesting bunch.
+
+02:28:44.780 --> 02:28:47.780
+Yeah, all things considered.
+
+02:28:47.780 --> 02:28:53.780
+And I've read a lot of history, including the darkest, worst parts of it, and despite
+
+02:28:53.780 --> 02:28:58.780
+all that, I think on balance, I still love humanity.
+
+02:28:58.780 --> 02:29:01.780
+You joked about it with the 42.
+
+02:29:01.780 --> 02:29:04.780
+What do you think is the meaning of this whole thing?
+
+02:29:04.780 --> 02:29:08.780
+Is there a non-numerical representation?
+
+02:29:08.780 --> 02:29:12.780
+Yeah, really, I think what Douglas Adams was saying in Hitchhiker's Guide to the Galaxy
+
+02:29:12.780 --> 02:29:17.780
+is that the universe is the answer.
+
+02:29:17.780 --> 02:29:23.780
+And what we really need to figure out are what questions to ask about the answer that
+
+02:29:23.780 --> 02:29:27.780
+is the universe, and that the question is really the hard part.
+
+02:29:27.780 --> 02:29:33.780
+And if you can properly frame the question, then the answer, relatively speaking, is easy.
+
+02:29:33.780 --> 02:29:40.780
+So therefore, if you want to understand what questions to ask about the universe, you won't
+
+02:29:40.780 --> 02:29:41.780
+understand the meaning of life.
+
+02:29:41.780 --> 02:29:46.780
+We need to expand the scope and scale of consciousness so that we're better able to
+
+02:29:46.780 --> 02:29:51.780
+understand the nature of the universe and understand the meaning of life.
+
+02:29:51.780 --> 02:29:56.780
+And ultimately, the most important part would be to ask the right question.
+
+02:29:56.780 --> 02:29:58.780
+Yes.
+
+02:29:58.780 --> 02:30:01.780
+Thereby elevating the role of the interviewer.
+
+02:30:01.780 --> 02:30:02.780
+Yes, exactly.
+
+02:30:02.780 --> 02:30:05.780
+As the most important human in the room.
+
+02:30:05.780 --> 02:30:11.780
+Good questions are, you know, it's hard to come up with good questions.
+
+02:30:11.780 --> 02:30:13.780
+Absolutely.
+
+02:30:13.780 --> 02:30:20.780
+But yeah, it's like that is the foundation of my philosophy is that I am curious about
+
+02:30:20.780 --> 02:30:28.780
+the nature of the universe and, you know, and obviously I will die, I don't know when
+
+02:30:28.780 --> 02:30:31.780
+I'll die, but I won't live forever.
+
+02:30:31.780 --> 02:30:35.780
+But I would like to know that we are on a path to understanding the nature of the universe
+
+02:30:35.780 --> 02:30:40.780
+and the meaning of life and what questions to ask about the answer that is the universe.
+
+02:30:40.780 --> 02:30:45.780
+And so if we expand the scope and scale of humanity and consciousness in general, which
+
+02:30:45.780 --> 02:30:52.780
+includes silicon consciousness, then, you know, that seems like a fundamentally good
+
+02:30:52.780 --> 02:30:53.780
+thing.
+
+02:30:53.780 --> 02:31:00.780
+Elon, like I said, I'm deeply grateful that you would spend your extremely valuable time
+
+02:31:00.780 --> 02:31:06.780
+with me today and also that you have given millions of people hope in this difficult
+
+02:31:06.780 --> 02:31:10.780
+time, this divisive time and this cynical time.
+
+02:31:10.780 --> 02:31:13.780
+So I hope you do continue doing what you're doing.
+
+02:31:13.780 --> 02:31:15.780
+Thank you so much for talking to me.
+
+02:31:15.780 --> 02:31:16.780
+You're welcome.
+
+02:31:16.780 --> 02:31:18.780
+Thanks for your excellent questions.
+
+02:31:18.780 --> 02:31:22.780
+Thanks for listening to this conversation with Elon Musk to support this podcast.
+
+02:31:22.780 --> 02:31:24.780
+Please check out our sponsors in the description.
+
+02:31:24.780 --> 02:31:28.780
+And now let me leave you with some words from Elon Musk himself.
+
+02:31:28.780 --> 02:31:35.780
+When something is important enough, you do it even if the odds are not in your favor.
+
+02:31:35.780 --> 02:31:38.780
+Thank you for listening and hope to see you next time.
+

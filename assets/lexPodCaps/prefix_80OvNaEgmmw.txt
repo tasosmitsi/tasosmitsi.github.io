@@ -1,0 +1,3095 @@
+WEBVTT
+
+00:00.000 --> 00:04.720
+The following is a conversation with Michael Mina, his second time on the podcast.
+
+00:04.720 --> 00:10.240
+He's a professor at Harvard doing research on infectious disease and immunology.
+
+00:10.960 --> 00:17.840
+In my view, the most powerful, doable, and obvious solution to COVID-19 from the very beginning
+
+00:17.840 --> 00:23.600
+is rapid at-home testing. This is what Michael has been talking about and writing about since
+
+00:23.600 --> 00:29.280
+the beginning of the pandemic. The accuracy of these tests is high for the task of detecting
+
+00:29.280 --> 00:34.800
+contagiousness, which is what matters. Hundreds of millions can be manufactured quickly and
+
+00:34.800 --> 00:41.280
+relatively cheaply. Privacy and individual freedoms are preserved. I believe that if you give people
+
+00:41.280 --> 00:46.880
+the power of information, information about whether they are contagious or not, they will
+
+00:46.880 --> 00:53.040
+do the right thing, at scale, all while respecting their freedom and minimizing the destructive
+
+00:53.040 --> 01:00.400
+effects of the pandemic on our health and our economy. This solution was obvious in May of 2020.
+
+01:00.400 --> 01:06.800
+It was obvious when Michael and I spoke the first time a year ago, and it is obvious today. We talk
+
+01:06.800 --> 01:14.240
+about why it has not yet been done and how we can still do it. This is the Lex Fridman Podcast.
+
+01:14.240 --> 01:19.840
+To support it, please check out our sponsors in the description. And now, here's my conversation
+
+01:19.840 --> 01:28.240
+with Michael Mina. We spoke a year ago about rapid at-home testing, and I think, you think,
+
+01:28.800 --> 01:32.720
+it should have been, still should be a big part of the solution to COVID.
+
+01:33.360 --> 01:39.360
+So let's recap. Where do things stand today in terms of rapid at-home testing?
+
+01:40.720 --> 01:46.720
+Well, it's certainly something that you're right. I do think we should have them today.
+
+01:47.440 --> 01:56.960
+We've now had almost 20 months of living in anxiety, uncertainty, being afraid for our health,
+
+01:56.960 --> 02:01.920
+for our family's health, for our friends, you know, shutdowns, economic instability,
+
+02:01.920 --> 02:06.880
+everything has been uncertain because of this virus. And then there's this little test,
+
+02:06.880 --> 02:12.560
+and it's the first time for many people that they're using it and they're feeling empowered.
+
+02:12.560 --> 02:19.520
+They're feeling like they can control their little slice of this pandemic. So as these tests have
+
+02:19.520 --> 02:24.960
+come out and more and more and more Americans have had an opportunity to go and buy them from,
+
+02:24.960 --> 02:31.360
+you know, CVS or Walgreens or wherever they're at, I think that it's really shifting the tenor
+
+02:31.360 --> 02:39.360
+of the discussion. For a long time, all of 2020, it was like, I often felt like it was me and a few
+
+02:39.360 --> 02:45.280
+other people against the world. You know, these tests should be public health tools. These tests
+
+02:45.280 --> 02:50.640
+are infectiousness indicators. They shouldn't be compared to PCR, you know, all of these different
+
+02:50.640 --> 02:57.200
+things. And we could, of course, go through and recap what the benefits and the metrics are that
+
+02:57.200 --> 03:04.320
+we should be looking at. But the point is, last year and most of this year was about educating
+
+03:04.320 --> 03:07.680
+scientists, educating public health leaders, educating physicians
+
+03:09.440 --> 03:14.320
+to get them to understand that there is a different reason to test in a pandemic than
+
+03:14.320 --> 03:19.040
+purely diagnostics and transmission blockade and severing transmission chains, the big one.
+
+03:19.040 --> 03:23.520
+So now I think we're at a point where people are now understanding and they're understanding
+
+03:23.520 --> 03:27.200
+because they are feeling it. They're holding it and they're doing it and they're seeing,
+
+03:27.200 --> 03:32.560
+they're feeling the delight of seeing a negative and saying, I feel more comfortable. It's not
+
+03:32.560 --> 03:39.280
+perfect, but it's pretty darn close to perfect to allowing me to go and see my mom without
+
+03:39.280 --> 03:46.080
+mistakenly infecting her or whatever the story might be. And now that that's happening, I think
+
+03:46.800 --> 03:52.880
+all of a sudden we're seeing a massive change politically for these tests. Biden just came
+
+03:52.880 --> 03:57.520
+out the COVID-19 action plan the other day and one of the main pillars of it was testing and
+
+03:57.520 --> 04:06.080
+in particular bringing rapid tests, scaling them up. So on that front, I think finally there is
+
+04:06.080 --> 04:12.240
+success. People are actually understanding and I haven't stopped beating this drum for far too long
+
+04:12.240 --> 04:18.960
+and I like hate rapid tests now. So maybe it's good to step back. Would you say most Americans
+
+04:18.960 --> 04:24.320
+have not taken a rapid at home test? Absolutely. Most have definitely not taken a rapid test.
+
+04:24.320 --> 04:30.480
+So like many of them probably don't know. They kind of probably say testing, they have like
+
+04:30.480 --> 04:37.600
+memories of testing, like PCR testing. They have to go into somewhere and they have to like a swab
+
+04:37.600 --> 04:42.880
+deep in their nose and that's the experience. Or maybe if you have to travel like Canada or
+
+04:42.880 --> 04:48.160
+something like that, you have to get tested, that kind of stuff. So what are rapid at home tests?
+
+04:48.800 --> 04:54.800
+Yeah, so the rapid at home tests are, I like to call them paper strip tests.
+
+04:55.600 --> 05:01.280
+They're simple tests that, I wish I brought some today but I didn't. They're simple tests that
+
+05:03.200 --> 05:08.720
+you swab, at the moment most of them use a swab that you just swab the front of your nose. So
+
+05:08.720 --> 05:15.600
+it's not one of the deep swabs that goes into your brain and so it's not very uncomfortable.
+
+05:15.600 --> 05:25.920
+It's just like picking your nose and you put that swab into a little tube and the tube has
+
+05:25.920 --> 05:31.760
+some liquid in it and then you put a few drops of that liquid onto a paper strip or you drop the
+
+05:31.760 --> 05:39.760
+paper strip into the tube just like one of those indicators for the pool. And just like a pregnancy
+
+05:39.760 --> 05:45.120
+test then if you get two lines you're positive, one line you're negative. It's super simple,
+
+05:45.120 --> 05:50.480
+takes 30 seconds once you know how to do it of hands-on time and you wait around 10 minutes
+
+05:50.480 --> 05:58.240
+and then you read the result. They are extraordinarily effective to answer one question,
+
+05:58.240 --> 06:06.080
+am I infectious? And that is the public health question that we need to answer and consistently
+
+06:06.080 --> 06:12.800
+ask during this pandemic, are you infectious? Am I infectious? Because it's only when we know
+
+06:12.800 --> 06:20.560
+that we're infectious that we can be empowered to not mistakenly infect others. The PCR test is a
+
+06:20.560 --> 06:29.520
+little different and we can go into the pros and cons but one of the major differences is that a
+
+06:29.520 --> 06:37.280
+PCR test gets a lot of people talking about the PCR test say it's much more sensitive
+
+06:38.800 --> 06:48.720
+and at an analytical level it is. It can detect one molecule instead of 100,000 but for public
+
+06:48.720 --> 06:54.880
+health we don't want a test that can detect one molecule. In fact that has created a net negative
+
+06:54.880 --> 07:00.000
+for public health. We just want to know am I infectious and to know that question,
+
+07:00.000 --> 07:07.120
+to know if I'm infectious I only need a test that is going to be positive if I have a high viral
+
+07:07.120 --> 07:12.800
+load like a million and when you're and the virus grows so fast it will grow from zero to a billion
+
+07:12.800 --> 07:18.000
+in a day. So you don't really need even on the front end of an infection you don't need better
+
+07:18.000 --> 07:23.920
+sensitivity if the trade-off is that you don't get the result for one two or three days. You
+
+07:23.920 --> 07:29.360
+absolutely want a rapid result that can tell you yes you're infectious you're transmitting
+
+07:29.360 --> 07:35.840
+to others right now and I'm going to give you the result right now. So it is a much more effective
+
+07:35.840 --> 07:41.520
+tool because it's fast because it's accessible. We can use them in the home and there's some
+
+07:41.520 --> 07:46.640
+issues with using them at home. We can talk a little bit about what those issues are like reporting
+
+07:46.640 --> 07:51.280
+and how do you use everything on the honor system if you have a test that you're taking at home and
+
+07:51.280 --> 07:57.280
+you use it to go to work but they can be they can be accessible. PCR has to go into a lab.
+
+07:57.840 --> 08:01.840
+It takes a lot of time for somebody to get a PCR test. They either have to go online and order it.
+
+08:01.840 --> 08:06.160
+It takes the next day for it to come back. They swab themselves. They ship it out the next day
+
+08:06.160 --> 08:12.400
+and then they get a result two days later. That's four days minimum for the most part and you know
+
+08:12.400 --> 08:16.080
+at that point you're not even infectious even if you did happen to be infectious when you first
+
+08:16.080 --> 08:20.720
+ordered the test. Right. So it's really the speed of these tests and the accessibility
+
+08:20.720 --> 08:24.960
+and distribution of them that makes them so immensely powerful. So you have this like amazing
+
+08:24.960 --> 08:32.640
+graphic you tweeted. It's exactly what you're saying which is a rapid antigen test answers the
+
+08:32.640 --> 08:38.320
+question am I currently infectious and you have I think a comparison of three different sorry seven
+
+08:38.320 --> 08:45.360
+different tests based on the viral load and based on the viral load across these different tests
+
+08:45.360 --> 08:51.280
+you look at the likelihood of infectiousness. So what does this graphic show? We can overlay
+
+08:51.280 --> 08:56.480
+that for people. I think it's just really nice and really clear. Yeah so what that's showing
+
+08:56.480 --> 09:02.320
+is that we can never ask what's the sensitivity of a test and just let that be the answer. That's
+
+09:02.320 --> 09:07.920
+what the FDA does currently and that question doesn't mean anything. We have to say what is
+
+09:07.920 --> 09:13.760
+the sensitivity of the test to detect what. Right. And so we can have different viral loads for
+
+09:13.760 --> 09:19.600
+example. We can have you can have a viral load of one or you can have a viral load of a trillion
+
+09:19.600 --> 09:26.080
+and a PCR test will tell tell you that you are positive regardless of whether it's one or a
+
+09:26.080 --> 09:33.520
+trillion. Now so we can't ask the question how sensitive is a rapid test compared to PCR
+
+09:33.520 --> 09:37.440
+because that covers the whole gamut. What we really want to say is how sensitive is the rapid test
+
+09:38.080 --> 09:45.040
+to detect me if I am infectious. And that gets to about 97 percent or so sensitive.
+
+09:45.600 --> 09:50.640
+If the question is how likely is it to detect me if I'm a super spreader that's a really important
+
+09:50.640 --> 09:55.920
+one to be able to detect. They're all about 100 percent sensitive. So if you have extraordinarily
+
+09:55.920 --> 10:00.560
+high viral loads to the point where you might be a super spreader these simple rapid tests will
+
+10:00.560 --> 10:06.160
+essentially always catch you and tell you you're positive. And then as you go down the line if
+
+10:06.160 --> 10:12.960
+you're no longer infectious at all then these rapid tests might have a zero percent sensitivity
+
+10:12.960 --> 10:18.080
+compared to PCR. But that's actually a good thing. The FDA and others look at it as though
+
+10:18.080 --> 10:23.200
+it's a bad thing because they average it all together and say oh this is only a 40 percent
+
+10:23.200 --> 10:29.200
+sensitive test compared to PCR. But that's not the right way to look at it. You want to say well out
+
+10:29.200 --> 10:33.920
+of all of the samples how many of them were not transmissible how many were mid moderate high
+
+10:33.920 --> 10:38.320
+extremely high super spreader and you should at the very least create a weighted average based
+
+10:38.320 --> 10:44.160
+on transmissibility potential. We don't do that. And that's why nobody in America has these tests
+
+10:44.160 --> 10:50.560
+because that's why they're very rare because we have slowed down their authorization because of
+
+10:50.560 --> 10:56.880
+that misunderstanding that they don't have to be 80 or 90 percent sensitive compared to anytime PCR
+
+10:56.880 --> 11:03.440
+positivity. They need to be 80 or 90 percent or more if you're infectious. And for that question
+
+11:03.920 --> 11:09.360
+they're like 95 up to 100 percent sensitive when you're most infectious. So you have a lot
+
+11:09.360 --> 11:15.520
+of iron particles in you so that's what it means when you say viral load that means you're going
+
+11:15.520 --> 11:21.200
+to be very infectious. The more you have the more infectious you are and this test is basically
+
+11:22.000 --> 11:30.000
+very good at detecting when you're very infectious. Why don't we have a rapid at home test? So you
+
+11:30.000 --> 11:35.600
+said there's a bit of confusion. FDA is involved. You've talked about you continue to talk about
+
+11:36.800 --> 11:43.440
+that these at home tests are classified as I guess medical devices. That's right. And so because of
+
+11:43.440 --> 11:52.240
+that FDA is looking at them differently than they probably should be looked at. So what's the problem
+
+11:52.240 --> 11:57.920
+here? Can you sort of explain what does it mean to be a medical device? Why is that an issue?
+
+11:57.920 --> 12:04.720
+Where is the FDA messing up? When we declare something as a medical device and we evaluate
+
+12:04.720 --> 12:10.400
+as a medical device then it makes sense that the comparison if you're trying to get a new one onto
+
+12:10.400 --> 12:15.840
+the market that the comparison would be against a gold standard medical device for that purpose.
+
+12:17.120 --> 12:25.280
+So PCR is currently the gold standard or at least in the in the eyes of the FDA the PCR
+
+12:25.280 --> 12:32.400
+test is the gold standard medical device. And as a physician that's because it's so sensitive.
+
+12:33.280 --> 12:39.440
+As a physician I have one patient in front of me at a time and that patient comes to me and I don't
+
+12:39.440 --> 12:47.120
+have to care about the 99.99999 percent of people in the world who are not in front of me. I only
+
+12:47.120 --> 12:51.920
+care about that one patient. And so when I get a sample from that patient and that patient's saying
+
+12:51.920 --> 12:56.240
+doc you know I don't feel well I haven't been feeling well for the last few weeks do you think
+
+12:56.240 --> 13:02.960
+this is COVID? Well for that question I want to have the absolute best sensitivity test
+
+13:04.080 --> 13:08.800
+regardless of what it means for transmissibility because my patient isn't sitting in my office
+
+13:08.800 --> 13:14.080
+saying doc do you think I'm infectious? They're saying doc do you think I have recently been or
+
+13:14.080 --> 13:20.320
+am infected? And these are totally different things. One is medicine and if the patient's
+
+13:20.320 --> 13:24.560
+infected you know the time isn't of the essence because they're sitting there in my office I can
+
+13:24.560 --> 13:29.920
+say look I'm sorry you're not feeling well let's get a PCR test on you we'll be able to tell you
+
+13:29.920 --> 13:36.560
+if you have any evidence that there has been recently an infection inside of you and you'll
+
+13:36.560 --> 13:42.560
+get the result in a couple days. And it might be expensive and so insurance is going to pay for it
+
+13:42.560 --> 13:47.440
+and you're just one person and so I don't really care how many resources it takes to get you this
+
+13:47.440 --> 13:53.760
+answer. On the other hand there's rapid and there's public health testing and public health testing
+
+13:53.760 --> 13:59.840
+is it has to account for all of the people you're not seeing as well as the person you're testing
+
+13:59.840 --> 14:06.240
+at the moment so accessibility becomes a central theme. Frequency of tests it has to account for
+
+14:06.240 --> 14:10.720
+all the days that you're not sitting there in front of your doctor's office getting a test as
+
+14:10.720 --> 14:15.440
+well as the one you are so it has to say how frequently what if you're infected tomorrow but
+
+14:15.440 --> 14:20.480
+you're at the doctor's office today getting a negative COVID test. That PCR test at the
+
+14:20.480 --> 14:25.280
+doctor's office today is going to do nothing to let you know that you get exposed and infected
+
+14:25.280 --> 14:32.240
+tomorrow. The only way to know that is to be testing yourself frequently. So and the reason
+
+14:32.240 --> 14:38.800
+it matters is that these tests can be accessible if we are okay with saying the real purpose of a
+
+14:38.800 --> 14:44.800
+of a public health test is to answer the question am I infectious. The reason we want to answer that
+
+14:44.800 --> 14:52.960
+is if you're infectious that's when you isolate. We actually don't want to isolate PCR positive
+
+14:52.960 --> 14:58.480
+individuals who are no longer infectious. That's bad public health practice like
+
+14:59.440 --> 15:03.200
+if I haven't been infectious for three weeks I don't want to have somebody tell me that I need to
+
+15:03.760 --> 15:09.600
+go and isolate for 10 days just because I happen to use a PCR test today three weeks after I was
+
+15:09.600 --> 15:16.400
+infectious and furthermore I definitely don't want the public health agency to come and you know
+
+15:16.400 --> 15:21.200
+round up all the people I was with last night and say you guys have to quarantine for 14 days
+
+15:21.200 --> 15:25.920
+because you were with Michael who wasn't infectious yesterday. It's nonsensical to do that.
+
+15:26.960 --> 15:31.760
+It's a huge disincentive to actually get tested. That's exactly right huge disincentive to get
+
+15:31.760 --> 15:35.760
+tested people you know if it's too sensitive especially with flights things like that like
+
+15:36.720 --> 15:41.440
+we shouldn't be stopping people from taking a flight if they haven't been infectious for 60
+
+15:41.440 --> 15:47.680
+days and to be clear people are only infectious for I don't know somewhere between three and seven
+
+15:47.680 --> 15:55.520
+days but can be positive on a PCR test for 30 to 70 days. So I mean it's it's potentially a
+
+15:55.520 --> 16:00.880
+tenfold difference in terms of how long you're PCR positive versus how long you're infectious.
+
+16:01.600 --> 16:06.800
+So we don't want to be taking people during those 30 to 70 days and saying you need to isolate just
+
+16:06.800 --> 16:11.840
+because you go and get a swab or you can't go on your trip just because you had COVID last month.
+
+16:12.640 --> 16:19.920
+That's not good use of a test. So the reason we don't have these tools right now is because
+
+16:21.440 --> 16:29.760
+when we evaluate a rapid test as a medical device the FDA says well this has to achieve the
+
+16:29.760 --> 16:36.320
+properties that we expect from a medical device which again doesn't have to take time into account
+
+16:36.320 --> 16:41.440
+doesn't really have to take cost or resources or scalability or access into account it only
+
+16:41.440 --> 16:49.680
+takes sensitivity and specificity to catch molecules. And so just by definition I mean it
+
+16:49.680 --> 16:56.320
+is a mathematical fact you know that that if you have a perfect public health test for COVID which
+
+16:56.320 --> 17:04.720
+means that it would be 100% sensitive and 100% specific for contagious people or for the infectious
+
+17:04.720 --> 17:13.920
+stage of an infection then it literally can't it it is an impossibility for that test to achieve
+
+17:13.920 --> 17:20.400
+an 80% sensitivity at a population level against a medical device which is what the FDA asks for
+
+17:20.400 --> 17:27.280
+and that's because you're only infectious for maybe 20% so theoretically it should only have
+
+17:27.280 --> 17:34.160
+a 20% sensitivity against the PCR while still being a perfect medical a perfect public health
+
+17:34.160 --> 17:39.120
+test. And the test is answering the question am I infectious that's what you're testing for not for
+
+17:39.120 --> 17:44.560
+the exact counting of the virion particles in your system. That's that's exactly right. Okay so what
+
+17:45.280 --> 17:52.960
+why are we still here? So have you had conversations with folks you said that there's a bunch of
+
+17:54.960 --> 17:59.360
+leaders that are kind of starting to wake up to this idea but why is this taking this
+
+17:59.360 --> 18:07.280
+so long? Why don't we still have hundreds of millions of at-home tests? The reason it's
+
+18:07.280 --> 18:16.320
+taking long I think is because every agency and government is generally deferential to the FDA
+
+18:16.320 --> 18:22.960
+and in this context I would argue that government hasn't been particularly creative.
+
+18:24.000 --> 18:30.240
+So for example last year when Trump was still president I would or or in the transition and I
+
+18:30.240 --> 18:35.200
+recall talking to the White House a number of times and saying here's a plan to give us our
+
+18:35.200 --> 18:40.800
+lives back. I think that was actually the title of the Atlantic article you know and this plan
+
+18:40.800 --> 18:46.480
+can stop shutdowns it can it can stop outbreaks it can allow society to keep running and could have
+
+18:47.360 --> 18:52.720
+prevented the outbreaks of last winter and fall and saved hundreds of thousands of lives.
+
+18:54.400 --> 18:58.720
+So when I bring that to the White House or to the government of federal government whoever it might
+
+18:58.720 --> 19:04.080
+be and I say here's a plan like this this would work they say you know what I get back is this
+
+19:04.080 --> 19:09.680
+sounds really interesting Michael it looks like it checks out but there's one problem we don't
+
+19:09.680 --> 19:14.560
+have the test there's no scale and that's kind of where it all dropped it's like this defeatist
+
+19:14.560 --> 19:21.360
+attitude of like oh don't have the test so so we can't act on it but now it's really changing.
+
+19:22.320 --> 19:25.520
+Well and so that's really where things have been and so nobody's paid attention it's always been
+
+19:25.520 --> 19:30.720
+this like esoteric thing that yeah maybe one day we'll get around to it but really it's not that
+
+19:30.720 --> 19:36.080
+important and the pandemic's going away but you know this was like 100 percent predictable
+
+19:36.080 --> 19:40.640
+everything that's happening today we predicted it last year you know it's not this isn't like
+
+19:40.640 --> 19:46.160
+rocket science or anything variance and all those kinds of things so the FDA can start to understand
+
+19:46.160 --> 19:54.160
+why but also like one question I want to ask is it possible to go around the FDA yeah so why has the
+
+19:54.160 --> 20:02.480
+FDA not changed and why has nobody tried to push the FDA to change like the I think what the real
+
+20:02.480 --> 20:10.240
+reason is the FDA has one job around these tests and it is to authorize them as medical devices
+
+20:10.240 --> 20:16.400
+they haven't been charged with doing anything else so in their eyes they're doing exactly what
+
+20:16.400 --> 20:22.240
+they're supposed to do they're evaluating these tests as medical devices and they're telling
+
+20:22.240 --> 20:27.680
+company after company after company sorry you don't make the cut and the only way to make the
+
+20:27.680 --> 20:33.520
+cut is really to kind of skew your clinical trials to favor the rapid tests being positive
+
+20:33.520 --> 20:37.280
+which isn't really good practice we shouldn't be trying to skew clinical trials
+
+20:39.040 --> 20:43.680
+but that's kind of what's happened that's been it's been forced upon the companies to do that
+
+20:44.400 --> 20:48.960
+and so I think the FDA truly believes from the bottom of their heart that they are doing the
+
+20:48.960 --> 20:54.640
+right thing here and I would argue that to an extent they are I've been pretty hard on the FDA
+
+20:54.640 --> 21:01.040
+but maybe the issue is a higher level issue like the the in vitro diagnostics division is
+
+21:01.760 --> 21:05.600
+they get applications and they evaluate them and the applications are for medical claims
+
+21:06.800 --> 21:10.960
+that's however because there's been a misunderstanding of these tests and
+
+21:10.960 --> 21:17.360
+the companies only know to apply for these as medical claims because there is no there's
+
+21:17.440 --> 21:24.240
+nothing else in this country to apply for except a medical claim so we we don't have a public health
+
+21:24.240 --> 21:30.720
+pathway to evaluate a test and authorize a test it doesn't exist we have defunded and devalued
+
+21:30.720 --> 21:36.240
+public health for so long that we literally don't have a language for it we don't have laws a
+
+21:36.240 --> 21:41.840
+language words is it called a public health test is it called something else I call it a public
+
+21:41.840 --> 21:49.120
+health test because I'm trying to create a new definition here but that's why that's why nobody's
+
+21:49.120 --> 21:53.760
+acted because no because everyone says well there's no other pathway so the FDA in vitro
+
+21:53.760 --> 22:02.080
+medical diagnostics division is the only pathway so what I am trying to do is to say look the FDA
+
+22:02.080 --> 22:10.720
+very clearly states that they do not authorize or review public health tools and not and they
+
+22:10.720 --> 22:18.080
+don't authorize or review public health tests for for covid so what I want the president of
+
+22:18.080 --> 22:24.880
+the United States to do is to utilize executive powers and take an executive action that can
+
+22:24.880 --> 22:32.080
+simply state like one line one line could potentially change all of this and it's a pretty
+
+22:32.080 --> 22:40.640
+obvious and simple line and it is that any tools used for public health testing during this public
+
+22:40.640 --> 22:47.920
+health emergency will be designated as public health tools like it's obvious like it's public
+
+22:47.920 --> 22:52.160
+health emergency it's a tool used for public health it should be designated as a public health tool
+
+22:53.280 --> 22:59.120
+if we can do that if we can get that language out there so that that's the president's decision
+
+22:59.840 --> 23:06.080
+then all of a sudden the FDA is off the hook they're not trying to to cram a square peg through
+
+23:06.080 --> 23:12.720
+a round hole they can say look the antigen tests are not on us anymore at least if they're going
+
+23:12.720 --> 23:18.720
+to be used for public health like when you test a thousand people at a time or test a school
+
+23:18.720 --> 23:24.080
+school classroom if they've been exposed this is public health and so then the CDC could take it
+
+23:24.080 --> 23:31.040
+over the CDC could say okay what are the metrics we are interested in and they could say we're
+
+23:31.040 --> 23:35.840
+interested in a test that can catch you if you're infectious so you want high viral load detection
+
+23:35.920 --> 23:41.760
+that's fast that's scalable and hey you know if your test has been used in Europe for months
+
+23:41.760 --> 23:47.200
+and has performed extremely well then then we'll give you a certificate by right you know
+
+23:47.200 --> 23:53.120
+immediately and that could actually get hundreds of millions of additional tests into the United
+
+23:53.120 --> 23:58.480
+States tomorrow so you need some kind of classification from an FDA from somebody
+
+23:58.480 --> 24:03.760
+to call it a public health tool in order for it to be manufactured is it possible to just go around
+
+24:03.760 --> 24:11.280
+all of this and just for somebody to manufacture at scale tests and well you if you did that
+
+24:11.280 --> 24:15.040
+and you just called them you put a claim on them that called them public health tools
+
+24:16.960 --> 24:23.040
+the FDA has a very weird view of this and they will tell you that it's illegal that it's a crime
+
+24:24.880 --> 24:29.520
+is there a way to say like Elon Musk did with the flamethrower it's not a flamethrower
+
+24:29.520 --> 24:35.120
+yeah believe me i've tried i've tried to think of all the different approaches
+
+24:36.240 --> 24:40.480
+you know there's weird there's like very there's major inconsistencies here so it's not like we
+
+24:40.480 --> 24:45.680
+don't have a precedent for a public health test even during this pandemic there is a very strong
+
+24:45.680 --> 24:53.440
+precedent pooled testing we have companies like ginkgo right based out here in cambridge that are
+
+24:55.120 --> 24:59.120
+you know working with a hundred different labs around the country so that might mean like not
+
+24:59.120 --> 25:05.040
+a ton of quality control over those labs doing i mean i don't want to say that they don't i'm
+
+25:05.040 --> 25:09.520
+just saying the reality is if you're working with that many labs it's hard to say they're running
+
+25:09.520 --> 25:18.480
+pooled testing of millions and millions millions of kids so here you have a company that's testing
+
+25:19.280 --> 25:25.840
+in each pool five to 25 kids at a time millions of kids in a pretty distributed way across the
+
+25:25.840 --> 25:31.760
+country in all these different labs and the fda doesn't care at all you don't need an eua it
+
+25:31.760 --> 25:38.000
+doesn't need a regulatory authority it's collection on site it's getting shipped to a lab there's no
+
+25:38.000 --> 25:44.800
+oversight of it so why does that have no oversight but a rapid test for you for pub for the exact
+
+25:44.800 --> 25:50.560
+same purpose you're just giving people immediate results instead of two day delayed pooled pcr
+
+25:50.560 --> 25:56.400
+results so it's a much more effective tool why is the rapid test used for the same purpose
+
+25:56.960 --> 26:04.000
+not designated as a public health tool but requiring fda authorization it's a ridiculous
+
+26:04.000 --> 26:11.520
+reason and it's because the fda says that if a test and this is actually cms that says this
+
+26:11.520 --> 26:19.920
+and then the fda adopts it if a test alters your behavior if you get a single result and it's going
+
+26:19.920 --> 26:28.080
+to alter your behavior then that is a medical device but the thing that i find ridiculous is
+
+26:28.080 --> 26:32.800
+like okay but you can give a pooled test that alters 25 people's behavior at once
+
+26:33.840 --> 26:38.880
+and that's not following like that's more risky one person turns positive in the pool and 25
+
+26:38.880 --> 26:45.840
+people have to be quarantined and how do they evaluate the accuracy so for people who don't
+
+26:45.840 --> 26:53.680
+know a pooled test is you're testing a small fraction of the people and if one of them is
+
+26:53.680 --> 26:59.600
+positive then you basically say we have to retest everybody in the pool or like yeah so you take
+
+26:59.600 --> 27:04.240
+let's say you have a school and each classroom you might have 20 kids each swab their nose in
+
+27:04.240 --> 27:09.840
+a classroom and all those swabs go into a single tube and then you rinse that tube out with some
+
+27:09.840 --> 27:17.280
+saline and you run a pcr test on that tube of 25 samples 20 samples and so if that tube turns
+
+27:17.280 --> 27:24.560
+positive in the pcr test then all 20 or 25 of those students are now having to quarantine
+
+27:25.360 --> 27:31.760
+and if there's no positive then all 20 or 25 students are interpreting that their result
+
+27:32.000 --> 27:39.600
+negative you know so it really is ridiculous decision by the fda to say that if the test
+
+27:39.600 --> 27:44.480
+itself only tests one sample at a time it's medicine because it will tell you one person
+
+27:44.480 --> 27:49.120
+at a time if you're positive or if you're negative but if you do it as a pool and you
+
+27:49.120 --> 27:56.320
+and you tell 25 people that your pool was negative then that's somehow different that's public health
+
+27:56.320 --> 28:01.520
+not medicine it it doesn't make there's no logic there was it just personalities and accidents
+
+28:01.520 --> 28:07.840
+of history or something like that for example you talk about the public health tools and cdc
+
+28:07.840 --> 28:14.720
+you look at masks so masks were decided to somehow be an effective tool to help with the pandemic
+
+28:14.720 --> 28:21.760
+like so i'm sure the evidence that was used there was probably not as strong as the evidence
+
+28:21.760 --> 28:28.400
+supporting antigen rapid tests i was very much reading a lot of research on masks it's tricky
+
+28:28.400 --> 28:33.440
+it's really tricky to show how well they stop the transmission of a virus especially when you don't
+
+28:33.440 --> 28:38.480
+fully understand how the virus is transmitted or the viral load required all that kind of stuff
+
+28:38.480 --> 28:43.600
+but then the cdc pretty quickly decided masks or whatever there's some oscillations back and forth
+
+28:43.600 --> 28:50.400
+but then they quickly decided all everybody decided masks is a good tool so masks being
+
+28:50.400 --> 28:56.480
+decided a good tool and then rapid antigen tests not a good tool is that just like certain
+
+28:56.480 --> 29:00.720
+personalities who didn't speak up in a meeting or who did speak up in a meeting
+
+29:00.720 --> 29:04.000
+is this just like a weird roll of the dice or is there a better explanation
+
+29:04.880 --> 29:12.160
+i think it's somewhat of a roll of the dice but i also think it's that testing so doctors
+
+29:13.440 --> 29:20.800
+don't pretend to like really understand much about like fluid dynamics and you know how well masks
+
+29:20.800 --> 29:27.600
+are working like that's like way out of their realm doctors do believe that they understand
+
+29:27.600 --> 29:36.000
+all aspects of the tests and so the greatest barriers to rapid tests being brought to market
+
+29:36.000 --> 29:42.480
+or sort of being being rolled out heavily and and supported as public health tools
+
+29:43.680 --> 29:49.840
+uh the greatest barriers came from physicians saying hell no we can't use a test that's not
+
+29:49.840 --> 29:58.560
+as sensitive as a pcr and look at what happens if you use this antigen test and not a pcr test you
+
+29:58.560 --> 30:05.200
+get people who are showing a positive on a pcr negative on an antigen and they just assume that
+
+30:05.200 --> 30:11.680
+that was a false negative on the antigen for public health i would call it a false positive
+
+30:11.680 --> 30:19.040
+on the pcr test but this type of thinking literally does not exist in medicine and i think
+
+30:19.040 --> 30:26.240
+the biggest problem here is that we placed physicians in decision-making power we have
+
+30:26.960 --> 30:33.280
+when this pandemic hit everyone called up clinical laboratory folks and microbiologists
+
+30:33.840 --> 30:36.720
+and physicians to ask well what kind of test should we use that kind of thing
+
+30:38.000 --> 30:44.560
+and there is no training in medical school for this kind of public health work like you have to
+
+30:44.560 --> 30:52.000
+optimize on the right qualities of a test that have nothing to do with medicine and then sometimes
+
+30:52.000 --> 30:58.400
+if not frequently they're actually at odds and i'll give an example why the physicians you could
+
+30:58.400 --> 31:04.560
+see why the physicians would have been against it from their perspective and they say uh if a
+
+31:04.560 --> 31:12.880
+physician is a tsa agent at the airport you know a tsa agent their role at any given time and the
+
+31:12.880 --> 31:17.600
+role they think that the instruments need to play is i want you to scan the bag as well as
+
+31:17.600 --> 31:24.160
+possible this is the only bag that i'm interested in at the moment and this is my lane this is my
+
+31:24.160 --> 31:28.960
+bag i want to make sure that my instruments doing i don't want the crappy instrument in my lane i
+
+31:28.960 --> 31:35.040
+want to make sure that i'm doing everything i can but what those tsa agents don't have to worry
+
+31:35.040 --> 31:39.520
+about is well how many other instruments are there in this airport is anyone getting through
+
+31:40.160 --> 31:44.000
+the lines here without going through security the average tsa agent doesn't have to worry about
+
+31:44.000 --> 31:50.160
+that they literally have one job to do and it's pay attention to this lane if there's a big gap
+
+31:50.160 --> 31:54.960
+in the security line and people are flowing through without going through security that's
+
+31:54.960 --> 32:01.840
+not on the tsa agent that's not a big systematic problem of that of of the system and we can't
+
+32:01.840 --> 32:06.560
+expect that tsa agent to have ever even thought about that like that's not on them they were
+
+32:06.560 --> 32:13.040
+trained to look at a to look at the bag and that's kind of like physicians and i you know
+
+32:13.040 --> 32:17.360
+probably some physicians will hear this and feel like i'm insulting it i don't mean to be likening
+
+32:17.360 --> 32:21.040
+you know the two professions and or anything like that i what but the point is is that
+
+32:22.480 --> 32:29.120
+a physician has one duty do no harm to this patient time isn't of the essence scale how
+
+32:29.120 --> 32:35.680
+many tests can my hospital perform in a day how many tests can my county or country perform in a
+
+32:35.680 --> 32:42.960
+day that's not a physician's training to think like that at all and so what has happened is
+
+32:42.960 --> 32:48.240
+doctors got on board early and said oh hell no we've seen these antigen tests before they're not
+
+32:48.240 --> 32:52.640
+particularly sensitive compared to pcr and and early in the pandemic there was like pissing
+
+32:52.640 --> 33:00.480
+matches between labs who had the most sensitive pcr and it just distracted everything it really
+
+33:00.480 --> 33:06.400
+i was trying to say pretty early like we don't need sensitivity we just need frequency we just
+
+33:06.400 --> 33:11.680
+need scale we need to think differently because our only goal if we're doing frequent routine
+
+33:11.680 --> 33:17.200
+testing of asymptomatic people is not medicine it's to say do you need to isolate now and if
+
+33:17.200 --> 33:22.720
+you have a pcr test that's taking three days to return and you're like if i was currently spreading
+
+33:22.720 --> 33:27.760
+virus before i walked in here and you handed me this actually happened to me today when i walked
+
+33:27.760 --> 33:34.640
+into harvard today was my first day back into harvard since february of 2020 i go in i scan my
+
+33:34.640 --> 33:41.040
+badge and they they hand me a pcr tube and they says they say like return this you know by noon
+
+33:41.040 --> 33:46.560
+or something before you before your workday is done and i'm looking at it i'm like what is this
+
+33:46.560 --> 33:51.520
+going to do like what if i'm super spreader right now yeah you're giving me free rein to walk around
+
+33:51.520 --> 33:56.880
+and infect everyone in the school and you're going to give me my result to tell me i did that in two
+
+33:56.880 --> 34:02.880
+days from now it doesn't doesn't really make sense so who is supposed to be so it's understandable
+
+34:02.880 --> 34:09.840
+that doctors kind of feel that way just like you said do no harm who's supposed to care about
+
+34:09.840 --> 34:16.160
+public health is it the fda is there some other organization you have to be created is it like
+
+34:16.720 --> 34:22.640
+just like with the military the reason we have civilian leadership when when you talk about war
+
+34:22.720 --> 34:28.480
+is it the president that's supposed to do like override fda override doctors override
+
+34:29.120 --> 34:35.280
+and basically politicians in representing the people in a state of emergency make big public
+
+34:35.280 --> 34:41.680
+health decisions like who is supposed to do it besides you on twitter it's like most people
+
+34:41.680 --> 34:48.720
+really thinking about solutions to covid will mention you or will mention this idea of rapid
+
+34:48.720 --> 34:55.200
+at home testing and it's it's you watch that happening this discussion that this is an obvious
+
+34:55.200 --> 35:00.000
+part of the solution and the solution is not happening so who is supposed to implement this
+
+35:00.000 --> 35:07.200
+idea i think the cdc that it should start there override the fda well i don't even think it needs
+
+35:07.200 --> 35:11.280
+to override it and that's why i think these should just be designated as a different tool
+
+35:12.160 --> 35:17.440
+so that the company is it's not overriding it's just saying look this isn't even this isn't in
+
+35:17.440 --> 35:22.160
+your jurisdiction to the fda this is just a a public health tool but the problem is
+
+35:23.040 --> 35:28.560
+the centers for medicaid medicare services designates any tool just like fda they designate
+
+35:28.560 --> 35:33.280
+these as medical devices purely because they could change somebody's behavior based on the
+
+35:33.280 --> 35:39.600
+result of one test so to change that at this point unless you can get cms buy-in you know
+
+35:39.600 --> 35:46.480
+we don't have there is no designation as a public health tool but the president can just say
+
+35:47.440 --> 35:53.680
+are public health tools these are not to be regulated as medical devices if their goal is
+
+35:53.680 --> 35:59.600
+not medicine but public health and if he does it he does have the authority to do that as president
+
+35:59.600 --> 36:07.680
+and to say i'm tasking the cdc to certify these tests or or authorize them for use in the united
+
+36:07.680 --> 36:12.800
+states and you know he has to say something like that he can't come out and say these are public
+
+36:12.800 --> 36:18.640
+health tools have free reign just you know any company start start shipping them in the us
+
+36:18.640 --> 36:24.080
+because that would create pandemonium and we'd have a lot of bad tests but there's a lot of
+
+36:24.080 --> 36:30.320
+really good tests out there we just are taking like six to 12 months to run trials they're
+
+36:30.320 --> 36:37.120
+failing because they can't keep up with pcr and if the president were to do this then the cdc
+
+36:37.120 --> 36:43.040
+could take it over and they could say okay it's on us we're going to decide the uk actually did
+
+36:43.040 --> 36:49.440
+this they early on they said okay they laid out a very clear regimen they said this is how we are
+
+36:49.440 --> 36:55.680
+going to evaluate rapid antigen tests because they're public health tools they did it in a in
+
+36:55.680 --> 37:01.280
+a domain that was outside of their normal medical diagnostic regulatory agencies and they they
+
+37:01.360 --> 37:07.360
+literally just had a very fast screening to say what are the best tests they went through
+
+37:07.920 --> 37:11.760
+a huge number of different tests they said okay these are the this is the rank order of which
+
+37:11.760 --> 37:18.000
+tests are good which are bad which are scalable which are not and they were able to start deploying
+
+37:18.000 --> 37:23.840
+them in weeks not years so i think the cdc really needs to take charge the problem is when it comes
+
+37:23.840 --> 37:31.200
+to like law if everyone currently perceives this as like fully within the domain of the fda and
+
+37:31.200 --> 37:38.080
+they've never heard of such an f public health test idea enabling but the but the fda itself
+
+37:38.080 --> 37:44.000
+has created the idea by saying we don't regulate public health tools so the word is out there the
+
+37:44.000 --> 37:50.000
+fda has said we don't regulate them so that gives the president an opportunity to say okay
+
+37:50.720 --> 37:54.240
+these are those you know these are public health tools by definition
+
+37:55.440 --> 38:00.560
+and and i do think that this is a kind of a crisis and it's a crisis of testing but it's also a crisis
+
+38:00.560 --> 38:04.720
+of like really we're going to go through this whole pandemic and never figure this thing out
+
+38:05.520 --> 38:09.840
+that's just really sad you know if we get through this and don't figure out
+
+38:09.840 --> 38:16.880
+how to evaluate a damn rapid test so how do vaccines play with this so one of the things
+
+38:17.840 --> 38:25.040
+that when people discuss solutions to covid there's a sense that once you have a vaccine
+
+38:25.040 --> 38:31.280
+covid is solved so how does that interplay like why do we still need tests if we have vaccines
+
+38:32.080 --> 38:37.920
+yeah i am i actually wrote an op-ed in near times or wall street journal or something that was
+
+38:37.920 --> 38:46.160
+titled why we still need rapid tests with with vaccines and the real reason is because we have
+
+38:46.240 --> 38:52.320
+evaluated our vaccines based on their ability to stop disease in fact most of the trials didn't
+
+38:52.320 --> 38:58.240
+evaluate them based on their ability to stop transmission they didn't even evaluate that
+
+38:58.240 --> 39:05.520
+at all no less put it as one of the metrics for authorization and with a virus like this it would
+
+39:05.520 --> 39:13.840
+be a bit naive to think that it's really going to stop transmission well i think a lot of excitement
+
+39:13.840 --> 39:18.400
+happened right after the first clinical trials and i'm sure we were talking about it when when
+
+39:18.400 --> 39:22.720
+i was last here i would imagine given the timing but those first clinical trials came out and
+
+39:22.720 --> 39:28.000
+everyone you know jumped for joy that these things were going to be the the end to this pandemic
+
+39:28.560 --> 39:34.720
+but we had really short-sighted vision there by not recognizing two main features one is
+
+39:35.680 --> 39:41.680
+that they might not stop transmission another i guess three another is that new variants might
+
+39:41.680 --> 39:46.240
+come around that will break through the vaccine protective immunity and the third is that we
+
+39:47.200 --> 39:53.760
+were not we were measuring the efficacy of these vaccines during the peak of their performance in
+
+39:53.760 --> 39:58.800
+the first few months after people got vaccinated and that gives a skewed view of just how effective
+
+39:58.800 --> 40:04.720
+these are going to be long term so what happened with the vaccines is that everyone got very
+
+40:04.720 --> 40:10.240
+comfortable this including the cdc saying have you been vaccinated you know this is the end of the
+
+40:10.240 --> 40:16.960
+pandemic for you and let's keep it up but then delta comes along and waning immunity comes along
+
+40:16.960 --> 40:22.880
+and both of these things compound exactly as anticipated to get breakthrough cases and
+
+40:24.080 --> 40:30.080
+unfortunately what we're seeing now is the cdc and the administration went so all in on saying that
+
+40:30.720 --> 40:35.440
+breakthrough cases are rare that transmission doesn't really happen if you're vaccinated
+
+40:35.440 --> 40:40.640
+without great data especially with delta that once people started seeing breakthrough cases
+
+40:41.680 --> 40:46.560
+they started interpreting that as a failure of the vaccine the vaccines are still working to
+
+40:46.560 --> 40:53.440
+keep people out of the hospital for the most part but they're not working to stop transmission
+
+40:53.440 --> 41:00.560
+and if our goal is to stop transmission which until we decide as a society that we have different
+
+41:00.560 --> 41:06.720
+goals like we're okay with people getting ill and letting transmission go because we don't want to
+
+41:06.720 --> 41:10.880
+worry about it anymore we're not there yet so until we decide that we're not going to stop
+
+41:10.880 --> 41:16.720
+transmission we need other avenues besides the vaccine because it's it's not doing it it also
+
+41:16.720 --> 41:21.280
+means that herd immunity isn't going to happen and unfortunately as long as we keep letting
+
+41:21.280 --> 41:27.520
+spread happen in the context of vaccinated people we're kind of giving this virus a boot camp
+
+41:27.520 --> 41:33.280
+of exactly what it needs to do and mutate to get around our vaccine derived antibodies
+
+41:33.840 --> 41:39.600
+and that makes me very nervous so the more we can do to stop spread in the unvaccinated in the
+
+41:39.600 --> 41:46.400
+elderly vaccinated and in other people the better we we just should be focusing on that
+
+41:46.400 --> 41:51.760
+so in your eyes the solution would look like this you would have make enough tests where every single
+
+41:51.760 --> 41:57.920
+person will get tested every single day i think that that would be i don't want to do that actually
+
+41:57.920 --> 42:03.440
+i want to do a variation on that i think what we should do is have a dynamical testing program
+
+42:04.000 --> 42:11.040
+it doesn't have to be complicated it's every household has a box of tests in their cupboard
+
+42:12.160 --> 42:17.360
+and if you haven't seen any cases in your community for a long time stop testing do
+
+42:17.360 --> 42:23.520
+wastewater testing to see if there's any rna coming back if you start to see rna in the
+
+42:23.520 --> 42:28.080
+wastewater that represents the virus and you're still wanting to stop outbreaks you say hey
+
+42:28.960 --> 42:32.000
+you know those tests that are in your cupboards households in this county
+
+42:32.560 --> 42:36.320
+why don't what is in each household or each person each household use one test per week
+
+42:37.440 --> 42:44.560
+and can you start to just pause on that idea that's really cool the the wastewater testing
+
+42:44.560 --> 42:49.440
+that's the thing so you can you can get a sense of how prevalent the virus is in a
+
+42:49.440 --> 42:54.640
+particular community by testing the wastewater that's exactly right and so the viral load
+
+42:54.640 --> 43:01.440
+associated uh the viral load that you can find in the community represents the prevalence of the
+
+43:01.440 --> 43:06.800
+virus in the community which is really quite nice that's nice that's a nice way to paint like a map
+
+43:06.800 --> 43:14.240
+of the the intensity uh of the virus okay so when it when it goes above a certain level
+
+43:14.880 --> 43:21.520
+you can start doing much higher frequency testing per household in each household that's right so
+
+43:21.520 --> 43:25.680
+i don't want people to be in testing purgatory like that's not what i want i just want us to
+
+43:25.680 --> 43:32.320
+get through this damn pandemic and and so we can monitor the wastewater or any other methods we
+
+43:32.320 --> 43:37.120
+can monitor the hospitals in the clinics and if somebody does come in with covid-like symptoms
+
+43:37.120 --> 43:41.040
+and then a few other people come in you realize okay we got spread happening in our community
+
+43:41.920 --> 43:45.680
+send out a text message put it on the news put in the newspaper whatever you need to do
+
+43:46.720 --> 43:52.480
+tell people tell families use your test and if the cases get worse because you're just doing
+
+43:52.480 --> 43:56.080
+it once a week that's not going to stop transmission but it's going to enable you
+
+43:56.080 --> 44:03.040
+to identify where outbreaks are happening if you start to find outbreaks in pockets then the rule
+
+44:03.040 --> 44:08.080
+is simply okay let's squash the outbreak real fast so everyone in that area uncertain zip code or
+
+44:08.080 --> 44:13.680
+whatever it might be test every two days you know for seven days or every day for seven days
+
+44:14.400 --> 44:21.120
+and you'll get rid of the outbreak we can do that and if you've now gone again you know a week or
+
+44:21.120 --> 44:28.080
+two with no cases identified stop the testing again that's the nice thing that everything
+
+44:28.080 --> 44:34.160
+changes when people have the tests in their home it becomes dynamic it can become easy
+
+44:34.160 --> 44:39.120
+send a text message take your test today if some people don't do it that's fine the only goal
+
+44:39.920 --> 44:46.240
+is to get r below one and you stop the outbreak people think it has to be near perfect i always
+
+44:46.240 --> 44:51.440
+hear people say oh what if somebody doesn't doesn't use it or what if somebody lies like
+
+44:51.440 --> 44:56.720
+well you you have 98 of people testing or even 50 that's a whole lot better
+
+44:57.520 --> 45:01.360
+and you know another big difference that people i think oftentimes have their
+
+45:01.360 --> 45:05.440
+have a problem wrapping their head around especially to an extent
+
+45:06.640 --> 45:10.800
+physicians who are used to really like who are used to different kinds of metrics is that
+
+45:11.760 --> 45:17.600
+all we have to do to completely stop an outbreak from spreading in a community is to get for every
+
+45:17.600 --> 45:25.520
+hundred infected people to get them to go on and infect 95 most people would say oh my god that's
+
+45:25.520 --> 45:31.040
+a horrible you know that's a horrible program you're still letting 100 people go and infect 95
+
+45:31.040 --> 45:37.680
+people but that's for for a virus like this that's a massive public health win if you can get 100
+
+45:37.840 --> 45:42.960
+people to infect 90 most people doctors i would say like a lot of people would say that sounds
+
+45:42.960 --> 45:49.360
+like a failure to be honest but if you do that for multiple days in a row then in a couple of
+
+45:49.360 --> 45:54.320
+weeks you've gone from a big outbreak to a very very small outbreak and on the other hand if you
+
+45:54.320 --> 46:00.000
+don't do that if you allow 100 people to just infect 140 people because you're not doing the
+
+46:00.000 --> 46:05.840
+testing then instead of having 20 people at the end of those four weeks with the testing you
+
+46:05.840 --> 46:12.880
+literally would have 600 massive differences here and all the only goal then is to get our below one
+
+46:12.880 --> 46:18.480
+have 100 people infect less than 100 and you stop the outbreaks and everyone stays safe from
+
+46:18.480 --> 46:24.240
+everything you've seen how cheap can these things get from like in the past year in in terms of
+
+46:24.240 --> 46:30.240
+developments you've seen with the various test manufacturers how cheap can it be to make a test
+
+46:30.240 --> 46:36.640
+to manufacture a test so there's the manufacturing process that could be 50 cents maybe less it's
+
+46:36.640 --> 46:40.640
+hard to get it's hard to really have eyeballs inside these companies you know in terms of
+
+46:40.640 --> 46:46.960
+where they're producing them in china and taiwan number of other places some of them are produced
+
+46:46.960 --> 46:51.920
+here in the united states too but 50 cents save is a very very reasonable generous number for how
+
+46:51.920 --> 46:57.840
+much it costs per test you look at a place with high market competition that has actually
+
+46:57.840 --> 47:03.200
+authorized a lot of these tests like germany germany has 60 70 some odd different companies
+
+47:03.200 --> 47:09.200
+of high quality rapid tests authorized you can go there and buy it for 80 cents you know that's and
+
+47:09.200 --> 47:14.800
+they're still making profit and so so it's extremely cheap market competition can drive
+
+47:14.800 --> 47:23.840
+these tests way down in terms of cost i think one of the most important features of a rapid test
+
+47:23.840 --> 47:30.640
+program is what do you do with the result is it going to be used for you to gain entry to school
+
+47:30.640 --> 47:37.040
+or work is it going to be reported to the public health agencies you know all of these the primary
+
+47:37.040 --> 47:41.120
+mode should be just get people tests but really if you're going to be using it for a workplace
+
+47:41.120 --> 47:45.840
+thing like what biden is now saying vaccinator test which is going to lead to a crisis if we
+
+47:45.840 --> 47:49.680
+don't fix this soon because we're going to have massive demand for testing in the next couple
+
+47:49.680 --> 47:55.360
+weeks but when he says that that's essentially saying okay companies need to make sure that
+
+47:55.360 --> 48:01.440
+their people are testing so are you going to base it on the honor system i would say you probably
+
+48:01.440 --> 48:07.920
+would not base testing on the honor system if it's like to take somebody who would otherwise be
+
+48:07.920 --> 48:12.800
+quarantined from in school and so you can go to school as long as your test is negative so test
+
+48:12.800 --> 48:18.000
+to stay program is a big thing that i've been pushing for and others have businesses bringing
+
+48:18.000 --> 48:24.560
+people into work who needs to test they need to have verification but they don't want to like
+
+48:24.560 --> 48:29.120
+set up nursing stations in their lobbies or in the school parking lot or whatever like everyone's
+
+48:29.120 --> 48:33.360
+tired of that we need to bring the test into the home but that means we need the technology
+
+48:33.920 --> 48:41.440
+to enable it and so i was at a conference recently do you know mike milken milken institute he's a
+
+48:42.080 --> 48:46.720
+very wealthy billionaire but he's done a lot of philanthropy and he hosts a conference to raise
+
+48:46.720 --> 48:52.880
+money for prostate cancer research i was at this conference recently francis collins a number of
+
+48:52.880 --> 48:59.280
+other people were there and every morning we all had to test in the morning which i thought was a
+
+48:59.280 --> 49:06.160
+great idea obviously before we walked into that conference and but you didn't have to test there
+
+49:06.160 --> 49:11.760
+and they didn't base it on the honor system every morning i'll i scan i scanned a qr code on the box
+
+49:12.240 --> 49:19.360
+and emed which is a service that provides test verification popped up with a proctor right on
+
+49:19.360 --> 49:25.600
+my phone or on my computer and said okay let's go through your tests like and they watch you they
+
+49:25.600 --> 49:31.680
+videotape you using the test so it's all recorded it's all a reportable type of test and at the end
+
+49:31.680 --> 49:36.240
+of it just from your home you don't actually see the proctor you know they're but they're
+
+49:36.240 --> 49:41.600
+just verifying that you actually do it they verify the test they verify the test result with you
+
+49:42.560 --> 49:47.680
+and at the end of it you've then gotten from from your couch or from your car wherever you are
+
+49:48.240 --> 49:54.720
+an actual verified laboratory report that can be considered proof that you yourself use the test
+
+49:54.720 --> 50:00.480
+and you yourself got a negative so the tools are out here if we want to use them at scale in
+
+50:00.480 --> 50:07.600
+effect the cdc uses emed now to enable people to come back into the united states through an
+
+50:07.600 --> 50:10.960
+antigen test so before you get on your flight you're sitting in the airport in heathrow or
+
+50:10.960 --> 50:17.440
+wherever you are you can get on your computer use your emed test and you get the negative and
+
+50:17.440 --> 50:22.240
+cdc will accept that tsa will accept you to come back into the us with a rapid antigen test that
+
+50:22.240 --> 50:26.800
+you did without anyone else watching except for this proctor on your phone super simple
+
+50:27.840 --> 50:33.760
+how much private information is being collected so like this you know people have in the united
+
+50:33.760 --> 50:41.600
+states the american way they have a hesitancy on the overreach of government in things like vaccine
+
+50:42.240 --> 50:50.720
+passports like using any mechanism any mechanism of verification that's controlled by government
+
+50:50.720 --> 50:58.800
+can lead to overreach by said government so there's a concern of that do you see there a way of
+
+50:58.800 --> 51:06.000
+achieving testing that's verified but does not violate people's privacy or sense of freedom
+
+51:06.000 --> 51:12.720
+absolutely i i think so the way that um right now in the united states they're requesting that
+
+51:13.760 --> 51:19.520
+these tests get that the results get delivered to public health agencies but i've long held that
+
+51:20.560 --> 51:25.280
+while that's ideal it should never be the thing that holds up somebody being allowed to know
+
+51:25.280 --> 51:32.480
+their own status but if you are going to work and you have to let your boss or your manager
+
+51:32.480 --> 51:37.200
+whomever know that you were negative that day or if you're going to school i think it's going to
+
+51:37.200 --> 51:45.200
+be hard to maintain complete privacy uh in that situation because they need to know your name
+
+51:45.200 --> 51:51.120
+but sure i mean could you cut off the public health reporting yes you could but i worry i
+
+51:51.120 --> 51:55.840
+mean can you opt out maybe you could opt out that should be a feature i want to opt out
+
+51:55.840 --> 52:01.360
+of the public health reporting because you know for whatever reason otherwise i'm not going to
+
+52:01.360 --> 52:05.280
+do the test and but that means that okay then you're not going to go to work so right now
+
+52:05.280 --> 52:12.800
+there's a serious tension and i am very uncomfortable with the idea that we force anyone to do anything
+
+52:12.800 --> 52:17.920
+but there is a tension between these two things for sure and how do you balance that during a
+
+52:17.920 --> 52:24.640
+public health emergency i think first and foremost let people everyone has a right to
+
+52:24.640 --> 52:29.760
+know their status right the fact that we have made it hard for people to know their status
+
+52:29.760 --> 52:35.440
+on their terms i think is a travesty i mean it's just so terrible that we have
+
+52:37.200 --> 52:43.200
+prioritized us knowing at the expense of you know essentially what public health has long said
+
+52:43.200 --> 52:48.880
+during this pandemic is if i'm public health it's if i can't know then you can't know your status
+
+52:49.520 --> 52:54.240
+like that's not the right way to look at public health we need to engage the public
+
+52:54.240 --> 52:57.600
+and if some of them don't want to participate in the public health part but want to know
+
+52:58.240 --> 53:03.200
+their status by default they are participating in public health whether they know it or not
+
+53:03.200 --> 53:07.520
+because they're not going to go get their mom sick by mistake at least most people wouldn't
+
+53:07.520 --> 53:16.640
+and also you can create systems where you can individuals can form relationships based on their
+
+53:16.640 --> 53:24.720
+status without ever reporting it to a centralized place so you you can go to i don't know a local
+
+53:24.720 --> 53:31.840
+business owner might require that you show that you're negative but that doesn't require reporting
+
+53:31.840 --> 53:41.200
+it you can like there might be um basically like an id that's only in possession you are the only
+
+53:41.200 --> 53:46.400
+person in possession of that so you literally show it exactly here's a test i took it's negative
+
+53:46.400 --> 53:51.360
+and nobody else knows about that test so that could very well be done even through a company
+
+53:51.360 --> 53:58.240
+like emad i think and i might be wrong here uh i believe that they take the test result and
+
+53:58.240 --> 54:04.800
+because they are considered a cleo wave laboratory like a digital laboratory they report their results
+
+54:04.800 --> 54:10.160
+by law out to uh the public health agencies but let's say there was something a little different
+
+54:10.160 --> 54:14.640
+let's say you were verifying an over-the-counter test and it doesn't have to be a cleo wave because
+
+54:14.640 --> 54:20.800
+it's over the counter then you're not bound by cleo rules and you could create the same service
+
+54:20.800 --> 54:25.040
+but that just doesn't report out to the public health agencies it gives people the option
+
+54:25.600 --> 54:31.440
+to opt in or out of public health reporting and you know i know that public health people
+
+54:32.400 --> 54:38.560
+get a little queasy when i talk about this but as a public health person myself like yes of course
+
+54:38.560 --> 54:44.080
+i would prefer that the data be available to evaluate to know where the cases are but first
+
+54:44.080 --> 54:50.080
+and foremost i want to make sure that the people using the test are are going to use the test and
+
+54:50.080 --> 54:54.640
+if that means that they're not reporting and if that's the only way that they will use it
+
+54:54.640 --> 55:01.680
+is if it's not reported then that's better than no test especially given that the central to the
+
+55:01.680 --> 55:08.400
+vaccine hesitancy is a distrust of authority and the distrust of government so you're asking
+
+55:09.680 --> 55:18.480
+you're asking people to get tested uh and report their status uh to a centralized authority when
+
+55:18.480 --> 55:23.840
+they're clearly and do not trust that authority it doesn't make any sense it seems like a perfect
+
+55:23.840 --> 55:31.360
+solution to let people who are hesitant on the vaccine to uh get their own status and have full
+
+55:31.360 --> 55:36.000
+control of that information and opt in provide that information if they wish to but they have
+
+55:36.000 --> 55:41.520
+the full control of it and they have the freedom to do that information what they want i fully agree
+
+55:41.520 --> 55:47.200
+with that i i really do i think we can have the verified services and we could have the privacy
+
+55:47.200 --> 55:51.120
+if you want it if you want if you need to go into a restaurant and there's a rule that you have to
+
+55:51.120 --> 55:57.280
+be a negative test have it on your phone and only your phone and it's okay like emails you the the
+
+55:57.280 --> 56:03.440
+lab report you have it you can say look that's my name i use it this morning negative and in that
+
+56:03.440 --> 56:08.480
+case you'd want something that just is there and is not going anywhere else and i think that those
+
+56:08.480 --> 56:15.920
+services like i think they can exist and it's a struggle because for those companies they don't
+
+56:15.920 --> 56:23.120
+want to fall out of favor with the cdc or with the fda and so this is a big problem in our marketplace
+
+56:23.120 --> 56:31.920
+in general by having by having private companies who want to be the be the public health agents
+
+56:31.920 --> 56:37.360
+of this pandemic we lose a lot of control because the companies ultimately have to do what's going
+
+56:37.360 --> 56:42.320
+to make them money so they survive and keep performing the service it's really it's really
+
+56:42.320 --> 56:49.120
+just such a hard problem and i this is why last time i was here i'm guessing i was probably really
+
+56:49.120 --> 56:55.200
+pushing for the government to be producing these tests i think i would have still been pushing for
+
+56:55.200 --> 56:59.280
+that you know at this point i've decided okay government's clearly not going to do that i've
+
+56:59.280 --> 57:06.640
+been thinking i really want elon musk to produce the tests like i i really am sort of serious that
+
+57:06.640 --> 57:11.200
+these tests are simple to make but we've been using like machines to make them that have been
+
+57:11.200 --> 57:17.840
+around for a long time scale is an issue right now kind of really it's the eua process and getting
+
+57:17.840 --> 57:22.240
+the companies to be allowed to market in the u.s that's the issue but let's just say scale is the
+
+57:22.240 --> 57:28.720
+issue and one company wants to make 20 million tests a day these aren't that hard like we we
+
+57:28.720 --> 57:33.200
+should be able to do that we just need a faster machine a better machine yeah and a quicker one
+
+57:33.200 --> 57:37.520
+and there's a few folks like you mentioned know how to solve that problem i've had a lot of
+
+57:37.520 --> 57:41.920
+discussion with uh with tesla folks and you know with with people they used to work a test like
+
+57:41.920 --> 57:47.360
+jim keller about how to make stuff much cheaper much better that's basically what tesla is world
+
+57:47.360 --> 57:54.880
+class at and it's like okay does this thing have to cost a thousand dollars no it can cost ten
+
+57:54.880 --> 57:59.120
+dollars right and let's figure out how to manufacture it those those those folks are
+
+57:59.120 --> 58:05.200
+like the best in the world at doing that okay but um what about this biden action plan
+
+58:06.160 --> 58:14.720
+so it sounds like the guy agrees with you vaccinate or test so i think given that choice
+
+58:14.720 --> 58:20.560
+a lot of people go with test in america because there's there's like a division it seems like
+
+58:20.560 --> 58:25.840
+so what is this just uh politics is is this just words or do you think this is actually
+
+58:25.840 --> 58:32.160
+going to lead to something and maybe can you explain what the action plan sure is so there's
+
+58:32.240 --> 58:38.000
+there's a number of pillars to the action plan um the two that i've been most focused on i mean
+
+58:38.000 --> 58:43.760
+some of them are we want to get everyone vaccinated all these things and one pillar is saying any
+
+58:44.480 --> 58:49.280
+company in the united states that has more than 100 employees
+
+58:51.440 --> 58:57.520
+is now required to ensure that any unvaccinated individuals in their workforce
+
+58:58.400 --> 59:07.040
+test weekly another pillar is that the president's going to reduce the cost of pcr tests
+
+59:08.400 --> 59:18.000
+by 35 which is pretty moderate reduction and is going to reduce the cost of antigen tests
+
+59:18.000 --> 59:24.480
+and scale them up and make 280 million tests and put two billion dollars into it
+
+59:24.480 --> 59:30.320
+so those are the two that i found most intriguing for the kind of mission that i've been on which is
+
+59:30.320 --> 59:35.600
+to just educate people around hey we have really really powerful public health tools we have yet to
+
+59:35.600 --> 59:46.240
+deploy um the issue at hand though is that now that the president has said vaccinate or test
+
+59:47.280 --> 59:52.480
+there's a problem inherent in that you know it's essentially to coerce people around vaccinated to
+
+59:52.560 --> 59:56.880
+get vaccinated because vaccinator test doesn't make sense when the vaccinated people can transmit
+
+59:56.880 --> 01:00:01.920
+the virus just fine it should be vaccinate and test exactly it's the problem that i have with
+
+01:00:01.920 --> 01:00:09.760
+that vaccinate or test idea is it's great if you want to use it as a coercive uh effort to get
+
+01:00:09.760 --> 01:00:14.960
+people vaccinated like i'm not going to wade into that argument do i agree with it or not i'm just
+
+01:00:14.960 --> 01:00:22.400
+not going to even put my words under i disagree with let me say i disagree as opposed to doing
+
+01:00:22.400 --> 01:00:29.920
+great science communication this weird like people talking down to the populace as if they're
+
+01:00:29.920 --> 01:00:36.640
+children trying to trick them here have some candy uh this kind of like everyone with common sense
+
+01:00:37.680 --> 01:00:42.160
+somebody told me i was having a conversation like if the government is going to give you money to
+
+01:00:42.160 --> 01:00:48.400
+take the vaccine people that were already hesitant about the vaccine are not going to
+
+01:00:48.400 --> 01:00:53.440
+trust whatever the heck you're doing so don't trick people into taking the vaccine be honest
+
+01:00:53.440 --> 01:00:58.400
+and communicate transparently everything that's known about the vaccine communicate the data
+
+01:00:59.040 --> 01:01:08.960
+inspire people with uh with uh transparency and like real communication of all the uncertainty
+
+01:01:08.960 --> 01:01:14.800
+around it and all the difficult decisions of risk and all those kinds of things and as opposed to
+
+01:01:14.800 --> 01:01:21.600
+trying to trick them like children into taking the vaccine anyway yes but okay well i didn't have to
+
+01:01:21.600 --> 01:01:28.320
+say it so there we go but you're saying it should not be uh uh like vaccinate or test that's that's
+
+01:01:28.320 --> 01:01:35.200
+that trade-off does not exactly vaccinate by saying vaccinate or test is absolutely confusing
+
+01:01:35.920 --> 01:01:40.480
+because it implies for anyone who's thinking about it it is implying and and i've seen this
+
+01:01:40.480 --> 01:01:44.080
+because i business leaders call me fortune 500 business leaders who call me and say
+
+01:01:44.960 --> 01:01:49.600
+what do i do like i have 8 000 employees where am i going to get my tests you know and a lot of
+
+01:01:49.600 --> 01:01:55.840
+people are saying they're calling this a pandemic of the unvaccinated these types of divisive
+
+01:01:57.360 --> 01:02:02.160
+this divisive language doesn't help this isn't a pandemic of the unvaccinated this is a pandemic
+
+01:02:02.160 --> 01:02:08.880
+of a fucking virus you know like don't ever put it on the unvaccinated who frankly are just scared
+
+01:02:08.880 --> 01:02:14.480
+they don't know who to trust and we haven't given them a lot of reason to trust public health to be
+
+01:02:14.480 --> 01:02:21.680
+frank so i agree i mean now that you've opened the door i'll just say my piece like absolutely
+
+01:02:21.680 --> 01:02:28.000
+we need to be the most honest we can with all of this this this is confusing language to say
+
+01:02:28.000 --> 01:02:33.440
+vaccinate or test we need to say we need to be very upfront that says and say look vaccines aren't
+
+01:02:34.480 --> 01:02:39.840
+stopping transmission very well unfortunately this is the world we have we have delta we're
+
+01:02:39.840 --> 01:02:45.280
+going to have new mutants we have a vaccine that's that wanes somewhat over time you know this is
+
+01:02:45.280 --> 01:02:53.120
+biology i'm sorry i'm you know this is just what it is and then we say but the vaccines are really
+
+01:02:53.120 --> 01:02:56.480
+protective for your personal health they're going to keep you out of the hospital this is what you
+
+01:02:56.480 --> 01:03:02.640
+should care about as an individual and as a population we need to figure out okay we have
+
+01:03:02.640 --> 01:03:07.600
+to stop transmission if that's our goal so we should use the tools that are going to stop
+
+01:03:07.600 --> 01:03:11.760
+transmission if that's our goal and saying vaccinate or test if our goal is to actually
+
+01:03:11.760 --> 01:03:18.400
+stop transmission that's confusing because vaccines are not stopping it there may be mildly
+
+01:03:18.400 --> 01:03:24.080
+lowering the risk of transmission so i i'm just not a fan of that language i think we should be
+
+01:03:24.160 --> 01:03:29.200
+being very very clear like you said and upfront about what are the limitations of the test of
+
+01:03:29.200 --> 01:03:34.560
+the vaccine and of the test and we should be very clear that like you know it can only help
+
+01:03:34.560 --> 01:03:40.560
+the american public in aggregate is extremely intelligent to you know they will figure out
+
+01:03:41.200 --> 01:03:46.880
+when you say that vaccine breakthrough cases are rare and then they start seeing story after story
+
+01:03:46.880 --> 01:03:52.320
+of like whole parties of people who are vaccinated have outbreaks and and everyone knows more people
+
+01:03:52.320 --> 01:03:57.120
+now who are having breakthrough cases than they knew who had regular cases before the vaccine
+
+01:03:57.120 --> 01:04:02.560
+people start to wonder hmm well this is weird they say that the vaccines are working breakthrough
+
+01:04:02.560 --> 01:04:07.280
+cases are rare maybe the whole vaccine program is failing entirely and so it ends up shooting
+
+01:04:07.280 --> 01:04:13.200
+ourselves in the foot if we try to create false expectations because we think it's going to be
+
+01:04:13.200 --> 01:04:18.320
+beneficial for one thing when it's not for the other and so the other so to get back to the
+
+01:04:18.320 --> 01:04:25.920
+action plan sure vaccinate or test i think and and the and the increase in rapid tests
+
+01:04:25.920 --> 01:04:31.440
+i do think it was a bold move i think it uh i i would say that it was the most prominent
+
+01:04:32.000 --> 01:04:39.120
+sort of display encouraging display of the fact that rapid tests are indeed uh effective public
+
+01:04:39.120 --> 01:04:46.160
+health tools my real concern now with with is that 280 million tests that's like less than one per
+
+01:04:46.160 --> 01:04:52.000
+person per year in the united states so that's not the way that he said and delivered it and what
+
+01:04:52.000 --> 01:04:55.840
+most people think of when they hear the word 280 million you don't usually put a lot of thought
+
+01:04:55.840 --> 01:05:01.040
+into what does that number mean it sounds a big number most people are now going to be expecting
+
+01:05:01.040 --> 01:05:06.240
+that these tests are actually going to be staying in stock on the on the shelves at cvs and walgreens
+
+01:05:06.240 --> 01:05:12.800
+and amazon or whatever so that's crisis number one is like now the expectation is set for having
+
+01:05:12.800 --> 01:05:17.920
+rapid tests but they're not going to scale that well we won't have them and then there's vaccinate
+
+01:05:17.920 --> 01:05:23.600
+or test and that's going to bring millions and millions of people who are not currently testing
+
+01:05:23.600 --> 01:05:28.400
+to have to start testing so that's going to overwhelm our pcr labs and it's going to create
+
+01:05:28.400 --> 01:05:34.800
+five day delays again with pcr if not longer because we'll have backlogs and so the only real
+
+01:05:34.800 --> 01:05:39.920
+solution to this is to just scale up the tests that are actually scalable and that's these simple
+
+01:05:39.920 --> 01:05:44.560
+rapid tests and it's not even to scale them up through production and manufacturing here
+
+01:05:45.120 --> 01:05:49.440
+it's to open the doors so the companies that already exist here and can scale
+
+01:05:49.440 --> 01:05:53.280
+are allowed to do it and to bring in the international market some of the biggest
+
+01:05:53.280 --> 01:05:59.520
+diagnostic companies in the world are not selling their millions and millions and millions of tests
+
+01:05:59.520 --> 01:06:04.800
+in the billions of tests in the united states because i don't want to play the the game that
+
+01:06:04.800 --> 01:06:10.880
+the fda is currently requiring of them so we have an opportunity and i i am very encouraged
+
+01:06:10.880 --> 01:06:14.720
+that the president actually did put these into the action plan and i do want to say for the record
+
+01:06:14.720 --> 01:06:23.040
+that i'm supportive of it in principle but i think now now we actually are in a in like a
+
+01:06:23.040 --> 01:06:27.440
+a the timer has been set and we have to deal with the crisis before it happens otherwise there could
+
+01:06:27.440 --> 01:06:33.600
+be some real political points taken off you know i do worry that the president if he doesn't pull
+
+01:06:33.600 --> 01:06:36.960
+through with this and really make the tests available we end up getting into this other
+
+01:06:36.960 --> 01:06:42.320
+test crisis this fall there could be political consequences to that and the reason is like these
+
+01:06:42.320 --> 01:06:48.000
+rapid tests are so personal they become emotional almost there so they give people that empowerment
+
+01:06:48.000 --> 01:06:53.360
+that i was talking about earlier and when people can't get that because the shelves are out of
+
+01:06:53.360 --> 01:06:59.360
+stock they actually feel frustrated and then that converts into like anger like in the and blame
+
+01:07:00.080 --> 01:07:05.600
+and so i do think that we have to be really smart about making a policy like this and then ensuring
+
+01:07:05.600 --> 01:07:12.880
+that we can carry through with what the average american is actually expecting and speaking of
+
+01:07:12.880 --> 01:07:18.400
+politics one of the great things about testing maybe you can correct me but for my sense it's
+
+01:07:18.400 --> 01:07:25.920
+one of the only solutions to covet that has not yet been politicized so masks and vaccines whether
+
+01:07:25.920 --> 01:07:33.840
+you like it or not have been heavily politicized where there's literally a red blue split on the
+
+01:07:33.840 --> 01:07:43.920
+use of those or like proud use effective use of those tools and it seems like everybody i
+
+01:07:43.920 --> 01:07:50.800
+talked to about testing everybody's on board red or blue they are which is why i am particularly
+
+01:07:50.800 --> 01:07:56.320
+concerned about the vaccinate or test policy right because all of a sudden we just politicized it we
+
+01:07:56.320 --> 01:08:03.680
+just brought it with this thing that was fully bipartisan really by part i mean i've talked to
+
+01:08:03.680 --> 01:08:10.640
+the fully the the really right side of congress and the super liberal side of congress the senate
+
+01:08:10.640 --> 01:08:17.360
+the same politicians governors everywhere in this country have asked me for support
+
+01:08:18.000 --> 01:08:22.560
+around these rapid tests because it just you can have it reported or not you can have it in the
+
+01:08:22.560 --> 01:08:27.840
+home in the privacy of your own home or not or you do it at school these these tools are just so
+
+01:08:27.840 --> 01:08:33.920
+powerful to identify infectious people they didn't have to be politicized they still don't i don't
+
+01:08:33.920 --> 01:08:38.880
+think that the action plan went so far that it's going to politicize them but i do think already
+
+01:08:38.880 --> 01:08:44.960
+it's starting to conjure up emotion saying well now i have to get tested the have to part right
+
+01:08:44.960 --> 01:08:53.200
+and that is where we go wrong it's i have to get tested or vaccinated you know screw that
+
+01:08:53.200 --> 01:09:00.560
+i am independent you know whatever and and i do worry that this thing that was purely bipartisan
+
+01:09:00.560 --> 01:09:04.560
+that we could have just scaled up months ago people would have we could have delivered it to
+
+01:09:04.560 --> 01:09:10.160
+every household didn't even have to ask people to request it just delivered packages to every home
+
+01:09:10.160 --> 01:09:16.720
+in america by now easily if we were smart about it you know we could have done it the most unpleasant
+
+01:09:16.720 --> 01:09:23.600
+thing about covid is the uncertainty and that's what leads to fear on both the um uh vaccine
+
+01:09:23.600 --> 01:09:30.480
+hesitant the it's the uncertainty about the vaccine and uh people who are have taken the
+
+01:09:30.480 --> 01:09:36.640
+vaccine the uncertainty around like am i in danger walking around can i go can i walk down the hall
+
+01:09:36.640 --> 01:09:43.120
+like this fear of the world around you and i think testing allows you to uh remove a lot of
+
+01:09:43.120 --> 01:09:49.120
+that uncertainty like you you gain back confidence that you can operate in this world and not get
+
+01:09:49.120 --> 01:09:54.720
+infected and you become like a nicer person i i find myself every time i get tested i become a
+
+01:09:54.720 --> 01:10:00.320
+nicer person to others because i know i'm not putting them in danger i'm not putting people
+
+01:10:00.320 --> 01:10:07.760
+in danger it's a it's a heavy burden to carry to worry am i infectious like i was out last night
+
+01:10:07.760 --> 01:10:12.320
+but i do want to go see my mom today you know like am i infectious i don't know and and this has
+
+01:10:12.320 --> 01:10:20.960
+created massive anxiety and i can't tell i completely agree that it is it's a relieving
+
+01:10:20.960 --> 01:10:26.960
+feeling and and it's an amazing feeling to be in a room when and i did this in the middle of the
+
+01:10:26.960 --> 01:10:33.520
+pandemic when everyone was supposed to be wearing a mask indoors and everyone rapid tests you know
+
+01:10:33.520 --> 01:10:39.440
+and i said everyone should rapid test before you walk into this room and it was a wonderful
+
+01:10:39.440 --> 01:10:45.840
+experiment because everyone was just so relaxed yeah you know the other the alternative is
+
+01:10:45.840 --> 01:10:52.480
+everyone nobody tests and everyone wears a mask you have a mask that maybe gives you 20 percent
+
+01:10:52.480 --> 01:10:58.880
+maybe protection during if you're all in the same room together if that or you have a rapid
+
+01:10:58.880 --> 01:11:03.920
+test program or everyone rapid test before and that gives you like 95 percent to 100
+
+01:11:03.920 --> 01:11:10.320
+protection not 100 but close and all of a sudden that allows everyone to take a big sigh and be
+
+01:11:10.320 --> 01:11:15.520
+like wow this is the first time i've seen people without masks indoors in a long time and i feel
+
+01:11:15.520 --> 01:11:20.480
+pretty good and restaurants like restaurants are scary right now because you just don't know who
+
+01:11:20.480 --> 01:11:27.920
+might be infectious and nobody's masked and like wouldn't it be great to just go into a restaurant
+
+01:11:27.920 --> 01:11:35.280
+where you know that everyone just tested negative that day it just really reduces anxiety it makes
+
+01:11:35.280 --> 01:11:41.280
+individuals feel empowered and i mean at the end of the day covid and our response to covid is a
+
+01:11:41.280 --> 01:11:47.280
+is a it's truly an information problem you know we why do we quarantine anyone why did we ever
+
+01:11:47.280 --> 01:11:51.920
+close anything down we didn't close things down because everyone is positive we closed things down
+
+01:11:51.920 --> 01:11:58.640
+because we didn't know if anyone was positive we quarantine a whole classroom of kids not because
+
+01:11:58.640 --> 01:12:03.040
+they're all positive but because we don't know if one of them are positive and so we just quarantine
+
+01:12:03.040 --> 01:12:08.080
+everyone when there's a positive in the case in the in the classroom like one day well then ask
+
+01:12:08.080 --> 01:12:14.320
+the whole classroom not to come to school for 10 days that's not a biological problem that's an
+
+01:12:14.320 --> 01:12:20.560
+information problem and the crazy thing is we have the tool to solve that information problem
+
+01:12:21.360 --> 01:12:25.680
+it's literally our eyes on the virus it's how we see this virus and if everyone glowed green
+
+01:12:26.240 --> 01:12:30.640
+when they were infectious we would have never had to close down anyone any society and we would have
+
+01:12:30.640 --> 01:12:33.600
+never had the outbreaks because we would have been able to stay away from the green people
+
+01:12:34.480 --> 01:12:38.240
+you know and yeah i like what you said the quarantine is an information problem that's
+
+01:12:38.240 --> 01:12:44.160
+absolutely right what is there something you can say to what people can do like listening to this
+
+01:12:44.160 --> 01:12:51.280
+individuals do you just complain like loudly like why can't we do this can you speak with
+
+01:12:51.280 --> 01:12:59.600
+your money somehow what what can people do to help god it's it's amazing to think you're asking
+
+01:12:59.600 --> 01:13:05.440
+me this question and this video will go out to you know the web and all the people that watch you
+
+01:13:05.440 --> 01:13:11.680
+and uh last year in july maybe something like that june i forget exactly when it was i was on
+
+01:13:11.680 --> 01:13:17.280
+twiv this week in virology um shout out to twiv those guys are awesome they are awesome i love
+
+01:13:17.280 --> 01:13:22.960
+i love twiv and they asked me the exact same question towards the end they said this makes
+
+01:13:22.960 --> 01:13:28.240
+so much sense you know why wouldn't we do this what can people do and so i said oh you know just
+
+01:13:28.240 --> 01:13:33.680
+send me an email like write to me i'm sure you could find my email somewhere online and uh and
+
+01:13:33.680 --> 01:13:39.520
+get in touch and i will you know and and we can try to figure out how to uh make something happen
+
+01:13:39.520 --> 01:13:46.240
+yeah bad idea very smart way too many emails i didn't i feel bad because i didn't end up getting
+
+01:13:46.240 --> 01:13:51.840
+back to anyone because i just got inundated but it did lead to the development of rapidtest.org
+
+01:13:51.840 --> 01:13:58.560
+where we did automate the process of writing letters to congressional members and elected
+
+01:13:58.560 --> 01:14:04.640
+representatives so that helps fast forward to today what can what can people do
+
+01:14:04.640 --> 01:14:11.840
+do i honestly don't know like what can the average person at this point do we have tried
+
+01:14:11.840 --> 01:14:18.400
+everything the fda is immutable on this they will not change and we shouldn't ask them to change
+
+01:14:18.400 --> 01:14:22.000
+because they have decided that this is how they regulate medical devices and they're going to
+
+01:14:22.000 --> 01:14:27.920
+stick to it so what we need to do and maybe this is something to do is get if you know people
+
+01:14:28.240 --> 01:14:35.120
+who have sway over politicians lobbyists whatever it might be let people know to request
+
+01:14:35.680 --> 01:14:42.160
+that the president literally the president of the united states uses executive powers
+
+01:14:42.880 --> 01:14:48.800
+to just do a simple something as simple as designating these powerful public health tools
+
+01:14:48.800 --> 01:14:55.600
+as public health tools allow the cdc and the nih or whomever it must be or or academic centers of
+
+01:14:56.560 --> 01:15:04.240
+excellence designated by the cdc to evaluate the tests in a very fast fashion with the appropriate
+
+01:15:04.240 --> 01:15:10.400
+metrics that these tests need to achieve for public health and within two days we can have
+
+01:15:10.400 --> 01:15:15.760
+10 new tests authorized you know this doesn't have to be a six to 12 month endeavor this could be a
+
+01:15:15.760 --> 01:15:22.320
+two-day endeavor we actually did it i just i judged the rapid test x prize and it went great we
+
+01:15:22.320 --> 01:15:28.640
+actually got incredible metrics about how well does each test work and no clinical trials you
+
+01:15:28.640 --> 01:15:33.280
+know just a couple days worth of work in the lab and boom and if we actually systematize it would
+
+01:15:33.280 --> 01:15:40.720
+be an hour so in the lab you know so simple so i don't know i mean i don't know how to really
+
+01:15:40.720 --> 01:15:45.680
+impact change i've thankfully you know i have a platform and i've been able to start talking with
+
+01:15:46.640 --> 01:15:53.040
+people who are very close with the president and the white house and and i do think that some
+
+01:15:53.040 --> 01:15:58.720
+change is finally happening because the silver bullet of the vaccine has not panned out to be
+
+01:15:58.720 --> 01:16:04.800
+the silver bullet so now we gotta now i think we're moving from a country that was a vaccine only
+
+01:16:04.800 --> 01:16:10.720
+approach to finally recognizing at the highest levels that there's other tools do you think it's
+
+01:16:10.800 --> 01:16:16.640
+possible to reopen fully without solving the testing problem completely like do you think
+
+01:16:16.640 --> 01:16:26.080
+this vaccine approach will get us to reopen fully i do yeah i think over time though i mean if we
+
+01:16:26.080 --> 01:16:31.680
+a lot of people ask me like what's what's like happening like what's the end game here like
+
+01:16:31.760 --> 01:16:40.800
+where does this end and um it's actually not a mystery the end game is we will grow out of this
+
+01:16:40.800 --> 01:16:49.840
+virus um and by that i mean you and i and most people who are watching this are adults right
+
+01:16:51.040 --> 01:16:57.280
+adults don't like to get infected with a virus for the very first time as adults babies are
+
+01:16:57.280 --> 01:17:02.240
+okay with it and so what we have to do to understand how we're getting out of this virus
+
+01:17:02.960 --> 01:17:08.240
+is to look at babies like at newborns and say okay how does a baby get out of their high risk
+
+01:17:09.120 --> 01:17:15.360
+time period they get exposed they get like exposed multiple times or vaccinated of course and
+
+01:17:15.360 --> 01:17:19.840
+eventually they get exposed enough that they build up this nice cushion of immunity that's
+
+01:17:19.840 --> 01:17:24.080
+sufficiently diverse that they can battle whatever gets thrown at them because they've seen it all
+
+01:17:24.080 --> 01:17:30.960
+already but one exposure doesn't do it i mean over the course of the first few years of life
+
+01:17:30.960 --> 01:17:36.320
+kids get exposed to coronaviruses tons of times lots of different viruses they get so unfortunately
+
+01:17:36.320 --> 01:17:42.240
+what's happening with us why this is so bad for us is that as we're adults we don't regenerate
+
+01:17:42.240 --> 01:17:46.160
+tissue very well we have like over abundant inflammatory response we have all these problems
+
+01:17:46.160 --> 01:17:52.320
+that when we get an infection for the first time it sucks it harms us it causes us problems but
+
+01:17:52.320 --> 01:17:57.600
+over time just like a baby we're going to start building up our immunity through vaccines and
+
+01:17:57.600 --> 01:18:03.120
+exposures you know i hate to say it but tons of people are getting exposed to delta right now who
+
+01:18:03.120 --> 01:18:12.000
+don't know it tons and if you're vaccinated you don't know it is my point there and you know at
+
+01:18:12.000 --> 01:18:17.120
+the end of the day this is actually i do not want this to be misconstrued as like saying go get
+
+01:18:17.120 --> 01:18:22.320
+infected but the fact that people are getting infected you know will add to our level of
+
+01:18:22.320 --> 01:18:28.240
+protection later on and so yeah but the question is how long that whole process takes i think
+
+01:18:28.240 --> 01:18:34.720
+you know my guess is probably by the end of next year early 2023 we will probably start looking at
+
+01:18:34.720 --> 01:18:39.440
+this as though it is not a particularly dangerous virus for most people the elderly though it will
+
+01:18:39.440 --> 01:18:45.040
+still be but that's because their immunity like variants and stuff well i've heard other people
+
+01:18:45.040 --> 01:18:50.880
+say this statement you just said a year ago about this spring right well that probably was
+
+01:18:50.880 --> 01:18:56.880
+not wise well i mean it's because your the intuition is like okay now that there's a
+
+01:18:56.880 --> 01:19:01.680
+vaccine you're either going to take the vaccine or get infected and then there'll be herd immunity
+
+01:19:01.680 --> 01:19:08.480
+over like it'll be very quick so you know that that's the intuition but it seems like that's not
+
+01:19:09.120 --> 01:19:16.320
+happening it seems like we're in this constant state of fear mongering for different reasons
+
+01:19:16.320 --> 01:19:23.520
+it's almost it's almost like the virus got deeply integrated not into just our biology but
+
+01:19:24.080 --> 01:19:31.920
+in the game of politics and in the fear mongering around the news because the virus now started
+
+01:19:31.920 --> 01:19:39.120
+being together with the vaccine and the masks and it started getting integrated into the division
+
+01:19:39.920 --> 01:19:46.320
+that's so effective at monetizing social media for example and so it's like all right
+
+01:19:47.200 --> 01:19:52.480
+so how do you get out of that because you can always kind of present certain kinds of numbers
+
+01:19:52.480 --> 01:20:01.280
+about number of cases or how full hospitals are and start making claims about that we're still
+
+01:20:01.280 --> 01:20:06.640
+this is as bad as it's ever been those kinds of statements and so i'm not sure exactly what the
+
+01:20:06.640 --> 01:20:14.400
+way out is except the same way out as it was originally which is testing is information it's
+
+01:20:14.400 --> 01:20:20.000
+information yeah and and i think we can do that we can keep outbreaks suppressed with testing
+
+01:20:20.560 --> 01:20:24.160
+because it's information like people keep thinking of tests as being medical things they're not
+
+01:20:24.240 --> 01:20:30.880
+they're information it can allow us to control things just like we drive down a road and
+
+01:20:31.600 --> 01:20:35.440
+we look at the cars and we don't hit other cars because we have the information that they're
+
+01:20:35.440 --> 01:20:41.200
+annoying next to us and they're moving over like that's just information like you said glow green
+
+01:20:41.200 --> 01:20:47.120
+the problem the virus you don't have you don't see you're walking around and everybody is a potential
+
+01:20:47.760 --> 01:20:55.600
+uh like infectious creature and so if you see the world as a potential potential for infection
+
+01:20:55.600 --> 01:20:59.120
+you're going to be terrified of that that's exactly right and that is what has happened and
+
+01:20:59.120 --> 01:21:04.880
+i and that's why i've been pushing so hard for for these tests because they can allow people
+
+01:21:04.880 --> 01:21:09.040
+if you use them at a community level you can have enough people know that they're positive enough
+
+01:21:09.040 --> 01:21:14.000
+people are good people that they won't go out and affect others and the other great thing about them
+
+01:21:14.000 --> 01:21:20.240
+is again a 10-day isolation period especially for a vaccinated person but in either case
+
+01:21:21.440 --> 01:21:26.960
+is also an information problem we don't have to isolate for 10 days if we're infected what if
+
+01:21:26.960 --> 01:21:31.040
+we're only infectious for two yeah especially if we're vaccinated why are we telling people
+
+01:21:31.040 --> 01:21:37.760
+the only reason the cdc ever and the who ever suggested a 10-day isolation or 14-day quarantine
+
+01:21:37.760 --> 01:21:42.160
+is because we didn't know when people stopped being infectious there's actually some people
+
+01:21:42.160 --> 01:21:48.240
+stay infectious for 14 days it's rare but there's a lot of people who stay infectious for like four
+
+01:21:48.240 --> 01:21:52.960
+and that's a whole nother week that we're asking people to isolate people would probably be much
+
+01:21:52.960 --> 01:21:57.840
+more likely to comply if they only have to isolate as long as they wake up each morning and see two
+
+01:21:57.840 --> 01:22:02.800
+lines because you're actually seeing it for your own two eyes you're being empowered to make your
+
+01:22:02.800 --> 01:22:06.800
+own decision you're not being told you need to isolate for 10 days and you're sitting there
+
+01:22:06.800 --> 01:22:11.520
+thinking oh i feel fine i don't know why you know there's a lot of asymptomatic spread but if you see
+
+01:22:11.520 --> 01:22:18.000
+the two lines every day then you actually get to you're doing a little experiment for yourself to
+
+01:22:18.000 --> 01:22:23.440
+prove to yourself today i'm still infectious let's hope it's tomorrow come on immune system you can
+
+01:22:23.440 --> 01:22:29.040
+do this you know and then you get to day four and boom you start being negative that's a much more
+
+01:22:29.040 --> 01:22:35.600
+tolerable thing because you are you are being able to make that decision based on true data that is
+
+01:22:35.680 --> 01:22:41.600
+empowering you and it really does change changes everything like because it's all fear and
+
+01:22:42.640 --> 01:22:48.720
+and empowerment and these are empowering devices well i wanted to have this conversation with you
+
+01:22:48.720 --> 01:22:53.600
+because obviously it's a great solution let's keep talking about it people who listen to this should
+
+01:22:55.200 --> 01:22:58.000
+i guess pressure local politicians
+
+01:22:58.320 --> 01:23:07.360
+right articles right articles with the title like dear produce yeah you know please designate these
+
+01:23:07.360 --> 01:23:10.960
+as public health tools or just start talking about in the media talk it talk about on social
+
+01:23:10.960 --> 01:23:17.520
+media anywhere testing is a public health good testing is a public health good we all like it
+
+01:23:17.520 --> 01:23:25.200
+should not be considered a medical device i shouldn't have to pay to keep you safe like testing
+
+01:23:25.200 --> 01:23:30.800
+should generally be free for that matter like subsidized by the government these tools exist
+
+01:23:30.800 --> 01:23:34.400
+they we should all and i think the more people that generate noise to just say
+
+01:23:36.160 --> 01:23:42.240
+a public health test is a public health tool you know period like it's you can't even argue
+
+01:23:42.240 --> 01:23:48.800
+with it yeah i think if you talk about it enough than certain people that have even a bigger
+
+01:23:48.800 --> 01:23:57.680
+platform like ilan musk sunday pache those folks that have power to really do like large-scale
+
+01:23:57.680 --> 01:24:04.320
+manufacturing also influence governments will pay attention and that's the hope enough people talk
+
+01:24:04.320 --> 01:24:09.920
+about it i think business leaders like business leaders obviously have so much power here yeah
+
+01:24:10.640 --> 01:24:14.960
+you know they they pay the lobbyists who you know make things happen like let's be honest there's
+
+01:24:14.960 --> 01:24:18.480
+people who pull levers that are not the politicians themselves and i do think
+
+01:24:19.040 --> 01:24:24.000
+business leaders have so much to gain from these tools to keep their businesses safe to not have
+
+01:24:24.000 --> 01:24:29.840
+to quarantine and lock down and i hope that all of them hear this message to say let's let's ask
+
+01:24:29.840 --> 01:24:36.240
+the president or the people around the president to designate these as public health tools change
+
+01:24:36.240 --> 01:24:41.360
+the system and if you can't change every aspect of the system then figure out how to change the
+
+01:24:41.360 --> 01:24:47.040
+system enough so that you're doing everything in a safe way that is not endangering anyone but it
+
+01:24:47.040 --> 01:24:53.840
+is only protective yeah you mentioned last time that you spent time as a buddhist monk
+
+01:24:54.960 --> 01:25:00.400
+we like didn't spend much time talking about i just would love to talk to you about about it a little
+
+01:25:00.400 --> 01:25:09.040
+bit more maybe as uh by way of advice how do you recommend people can integrate meditation into
+
+01:25:09.040 --> 01:25:22.000
+their lives or how does one meditate i i think for me meditation was um really an active effort
+
+01:25:24.400 --> 01:25:28.560
+which sounds weird because most people think of meditation as like they lack the absence of
+
+01:25:28.560 --> 01:25:37.840
+activity um but just like anything uh meditation is it requires exercise in this case it requires
+
+01:25:37.840 --> 01:25:44.480
+exercise in quieting your mind and the whole well there's a lot of different reasons people meditate
+
+01:25:45.440 --> 01:25:51.760
+most people watching this podcast or this show what is this called i don't know is this an
+
+01:25:51.760 --> 01:25:59.040
+interview i'm not even recording this just you and i talk um it is you know most people are
+
+01:26:00.320 --> 01:26:04.960
+meditating to like bring some balance and bring some sanity to their life and just like
+
+01:26:04.960 --> 01:26:11.200
+be able to control their feelings and emotions a little bit more and for that purpose like i think
+
+01:26:11.200 --> 01:26:17.120
+the best way to to you know what meditation is if you can call it what you will it's just getting
+
+01:26:17.120 --> 01:26:22.240
+some alone time some time to think or not think you know whatever and it looks different for each
+
+01:26:22.240 --> 01:26:31.520
+person for me it was a very active effort to try to quiet my mind with the explicit intent to detach
+
+01:26:31.520 --> 01:26:39.520
+from things from lots of things and it's actually it sounds weird in our culture here to talk about
+
+01:26:39.520 --> 01:26:46.480
+detachment as a goal detachment from loved ones detachment from objects is kind of easy to
+
+01:26:46.480 --> 01:26:50.560
+reconcile like people understand that yeah i don't want to be too attached to my car or whatever
+
+01:26:51.200 --> 01:26:55.200
+but detachment from a loved one is like a very hard thing because we want to do the opposite
+
+01:26:55.200 --> 01:27:02.960
+usually we want to love a loved one but in a lot of buddhist thought it is those attachments
+
+01:27:02.960 --> 01:27:11.040
+that keep people in this cycle of rebirth now i don't personally um believe in rebirth in the way
+
+01:27:11.040 --> 01:27:20.400
+that uh you know in a buddhist sense in that like you actually get born multiple times i think we
+
+01:27:20.480 --> 01:27:27.200
+my personal feeling is we die and we're vanished you know um that's just me um and
+
+01:27:28.400 --> 01:27:33.600
+but i still really um found meditation to be extraordinarily powerful to
+
+01:27:35.520 --> 01:27:39.600
+feel control over a whole different part of my body that i never thought that
+
+01:27:40.240 --> 01:27:46.720
+it could be controlled your mind like you close your eyes and most of us immediately start seeing
+
+01:27:46.960 --> 01:27:54.000
+blotches and we start thinking about things and and it's an amazing feeling to start getting
+
+01:27:54.000 --> 01:28:02.080
+to the point where you can actually actually quiet your mind and close your mind down so
+
+01:28:02.080 --> 01:28:09.120
+that you can just have peace like silence of your mind for a long period of time and
+
+01:28:09.680 --> 01:28:13.840
+you know i loved it it was you know but it's a it's kind of a dangerous slope because you
+
+01:28:14.720 --> 01:28:19.840
+can kind of get caught up in it and like really start going from okay i'm trying to quiet my mind
+
+01:28:19.840 --> 01:28:25.200
+to almost being like addicted to quieting your mind and it was a very active exercise every day
+
+01:28:25.200 --> 01:28:32.640
+15 hours a day to just practice quieting my mind and eventually i could you know and and
+
+01:28:33.280 --> 01:28:37.920
+in buddhism there's a whole lot of stages that you go through too once you hit that point where
+
+01:28:37.920 --> 01:28:43.040
+you can quiet your mind then there's like other psychological things that happen
+
+01:28:43.040 --> 01:28:50.240
+and eventually the the end goal for a buddhist monk who's spending their life meditating in the
+
+01:28:50.240 --> 01:28:56.960
+forest is to achieve nirvana is to have an absence of any attachment to the point where
+
+01:28:57.920 --> 01:29:02.160
+you're not even attached to your own foot or your own leg you can cut it off and
+
+01:29:02.160 --> 01:29:10.240
+and so you don't even have an attachment to self like to ego to do you feel like a conscious
+
+01:29:10.240 --> 01:29:15.040
+being or no like the goal i never attained it but you know is that the goal to escape
+
+01:29:15.040 --> 01:29:20.960
+that would be so the goal is you have to first look at it through the eyes of samsara which is
+
+01:29:20.960 --> 01:29:26.720
+the cycle of rebirth which is suffering it's a cycle of suffering is how it's viewed and the idea
+
+01:29:26.800 --> 01:29:33.280
+is like if i really love this hat and then the hat gets lost i'm sad so that makes me suffer
+
+01:29:34.320 --> 01:29:39.440
+and if i hate this hat and i see it then it makes me sad or mad and that you know is an it's an
+
+01:29:39.440 --> 01:29:45.360
+emotion but if i have zero if i'm completely ambivalent about that hat i'll give it's there
+
+01:29:45.360 --> 01:29:52.400
+i don't care if it gets lost if it's shredded then that is invokes no emotional rise out of me good
+
+01:29:52.400 --> 01:29:57.840
+or bad and so the idea is to find the balance there where you are so detached from everything
+
+01:29:57.840 --> 01:30:04.240
+that you're not getting a rise negative or positive and you know this is really it's
+
+01:30:04.240 --> 01:30:12.640
+really such a distinct thing in a relative to our normal lives here in america where
+
+01:30:13.440 --> 01:30:18.880
+we live for rises you know you want happiness and joy and then you also you know nobody wants
+
+01:30:18.880 --> 01:30:24.400
+sadness but like when you come out of sadness you feel happy and either way it averages out
+
+01:30:24.400 --> 01:30:29.280
+right and if it doesn't average out then you're you know you're in a bad spot like that would be
+
+01:30:29.920 --> 01:30:33.360
+things like major depressive disorder where you're truly not averaging out but if you're
+
+01:30:34.160 --> 01:30:37.520
+living a pretty happy life that's why there's no right or wrong you can go up and down and
+
+01:30:37.520 --> 01:30:42.560
+you average out or you can just go that straight line and this is not necessarily
+
+01:30:43.520 --> 01:30:50.640
+the the buddhist ideal is somehow obviously the ideal you should strive for but the actual
+
+01:30:50.640 --> 01:30:55.680
+access exercise and meditation that they the buddhist monks use seems like um
+
+01:30:58.000 --> 01:31:06.560
+seems like a great tool for becoming aware of your own mind and that seems to be important for
+
+01:31:06.720 --> 01:31:14.320
+um appreciating life or some some kind of uh experiencing life on a deeper level
+
+01:31:15.440 --> 01:31:21.600
+i i think so i mean that's my my personal opinion is yes and that i think it
+
+01:31:22.800 --> 01:31:29.760
+i don't meditate anymore um back in the capitalist western world yeah well there's meetings and
+
+01:31:30.720 --> 01:31:36.240
+that's right i mean i stopped i was a monk and then the tsunami hit and i lived in a refugee
+
+01:31:36.240 --> 01:31:41.920
+camp and i was that was the indian ocean tsunami in 2004 and it just really
+
+01:31:44.400 --> 01:31:48.240
+it was really interesting in srilanka they wanted me i asked well what can i do to help
+
+01:31:48.800 --> 01:31:55.920
+it was it was a horrible horrible you know hell on earth um experience in many ways but
+
+01:31:56.800 --> 01:32:02.880
+when i said what can i do to help the answer was well you could meditate like that's how you know
+
+01:32:03.200 --> 01:32:08.640
+keep keep doing what you're doing like that's how you that's how we can get good karma and to me
+
+01:32:08.640 --> 01:32:14.080
+coming from like western roots i just couldn't deal with that i i just said that doesn't make
+
+01:32:14.080 --> 01:32:20.000
+sense to me why would i just sit and meditate when there's so much devastation happening here and
+
+01:32:20.000 --> 01:32:24.400
+and so i kind of stopped meditating then and then never really recovered from that time in the
+
+01:32:24.400 --> 01:32:32.800
+refugee camp but i do feel like i understand or like i am aware of of a part of me that most
+
+01:32:32.800 --> 01:32:39.760
+people never get the privilege to be aware of and that is a pretty profound and it's a it's a
+
+01:32:39.760 --> 01:32:45.600
+profound uh feeling i think or just awareness to to say i do have the if i ever need to go
+
+01:32:45.600 --> 01:32:51.520
+back to that i have the capacity to do that and i do use it i mean i don't use it a lot
+
+01:32:52.000 --> 01:32:58.000
+but i use it when i really need to um to try to like settle to settle myself to
+
+01:32:58.640 --> 01:33:05.920
+to actually calm myself whether it's pain physical or emotional pain like it is possible to
+
+01:33:06.880 --> 01:33:10.640
+make those things go away but it just like anything it takes training
+
+01:33:12.240 --> 01:33:19.840
+have you if you take yourself back to that place you were you know sam harris talks about that
+
+01:33:19.920 --> 01:33:24.320
+through his meditation practice he's able to escape the sense of free will
+
+01:33:25.280 --> 01:33:32.240
+and uh this the sense of agency you can get away from that hey do you ever think about
+
+01:33:32.240 --> 01:33:38.880
+consciousness and free will when when you were meditating like did you get some deep insight
+
+01:33:38.880 --> 01:33:45.840
+about the nature of consciousness that you were somehow able to escape it through meditation
+
+01:33:45.840 --> 01:33:54.080
+or no i looked at it in a much more utilitarian way i think and the sensation like minimizing
+
+01:33:54.080 --> 01:33:58.240
+amount of thoughts in your mind and then beginning to really appreciate the sensation
+
+01:33:59.040 --> 01:34:04.960
+yeah you weren't writing a book on the on free will right and uh i mean maybe if i kept at it
+
+01:34:04.960 --> 01:34:09.760
+you know there's a good chance that if the tsunami didn't happen i might still be sitting there on
+
+01:34:09.760 --> 01:34:16.640
+the top of that mountain uh the tsunami is you see a pain you see especially um uh if you see
+
+01:34:16.640 --> 01:34:22.480
+cruelty and you're supposed to meditate through that that doesn't there's something in the human
+
+01:34:22.480 --> 01:34:29.360
+spirit that pushes us to want to help if you see somebody who's suffering to react to that seems
+
+01:34:29.360 --> 01:34:36.480
+like to help them as opposed to care less through meditation don't become attached to the suffering
+
+01:34:36.480 --> 01:34:42.720
+of others exactly i mean that's i i do think that that's you know and they're two totally
+
+01:34:42.720 --> 01:34:49.360
+valid ways to live life um they are generally i think they're ingrained in us pretty early
+
+01:34:49.360 --> 01:34:55.600
+in society right and it's hard to escape yeah what about uh just in general becoming detached
+
+01:34:55.600 --> 01:35:03.040
+from possessions like uh minimalism and uh not having many things so the the capitalist world
+
+01:35:03.680 --> 01:35:11.520
+kind of pushes you towards having possessions and deriving joy from more and more and better
+
+01:35:11.520 --> 01:35:18.640
+possessions have you uh have you returned back to the joys of that world or do you find yourself
+
+01:35:19.200 --> 01:35:28.880
+enjoying the minimalist life uh a little of both i think i really don't like i find things to be
+
+01:35:28.880 --> 01:35:35.760
+a burden to be a massive burden you know and and to me when you have a burden like that
+
+01:35:35.760 --> 01:35:40.400
+you know even if it's just knowing that there's like boxes in your basement of stuff you know
+
+01:35:40.400 --> 01:35:50.960
+whatever it might be it makes it hard to focus um and so i personally like i mean my ideal like if
+
+01:35:50.960 --> 01:35:55.760
+i had a my house for example would be to have like nothing on anything it would just
+
+01:35:57.200 --> 01:36:02.480
+and and that to me is like peaceful some people find that to be not peaceful
+
+01:36:03.440 --> 01:36:07.760
+for me it's like i love that and i to have the night the idea that
+
+01:36:09.680 --> 01:36:16.400
+if needed i could like pack up and move yeah and not worry about anything do i actually have that
+
+01:36:16.400 --> 01:36:23.680
+in reality no um we're about to have a baby you know there's but it's like it's our i already see
+
+01:36:23.680 --> 01:36:27.760
+it it's like stressful there's like boxes of stuff showing up at the house like bottles and
+
+01:36:29.120 --> 01:36:35.760
+clothes and all these little hats and whatnot and i do i do have to like sometimes go into my
+
+01:36:35.760 --> 01:36:44.240
+meditation to just just say like this is okay you know like it's yeah it's okay to have all of this
+
+01:36:44.240 --> 01:36:51.360
+stuff it's not permanent you know and um but i do think that it's easy to get lost in it all
+
+01:36:52.080 --> 01:36:55.360
+and it's important to remember given all that like people who buy houses
+
+01:36:56.320 --> 01:37:02.320
+you know buy a home and buy a house and make a home out of it and you start a family it's easy to
+
+01:37:03.040 --> 01:37:06.640
+forget that even though you have all these responsibilities you're still free
+
+01:37:06.880 --> 01:37:13.040
+and like freedom takes work and it takes remembering it takes meditation on it but
+
+01:37:13.040 --> 01:37:18.320
+you're you're free you're you're born free you live free i mean depends of course which country
+
+01:37:18.320 --> 01:37:23.120
+but in the united states even with all the possessions even with all the burdens
+
+01:37:24.240 --> 01:37:32.240
+of um sort of credit and owing money and all those kinds of things you can scale everything down
+
+01:37:32.240 --> 01:37:36.640
+scale everything down and you're free but ultimately the people you love
+
+01:37:38.240 --> 01:37:44.960
+you love each other it doesn't take much money to be happy together and for me i personally value
+
+01:37:44.960 --> 01:37:50.640
+that freedom of having the freedom to always pursue your happiness as opposed to being burdened by
+
+01:37:50.640 --> 01:37:58.640
+material possessions that uh you know yeah that basically limit your ability to be happy because
+
+01:37:58.640 --> 01:38:03.200
+you're always paying off stuff you always catch you know trying to match the neighbors that are
+
+01:38:03.200 --> 01:38:08.800
+always a little bit richer that kind of pursuit i think that pursuit is wonderful for innovation
+
+01:38:08.800 --> 01:38:14.560
+and for building cooler better things but on an individual level i think you have to remember
+
+01:38:14.560 --> 01:38:20.000
+that first of all life is finite and second of all like your goal is not to get a bigger house
+
+01:38:20.000 --> 01:38:27.360
+your goal is to be just content and happy in the moment i completely completely agree with that
+
+01:38:28.000 --> 01:38:38.640
+so in looking at our failure at scale to to engineer to manufacture to deploy tests
+
+01:38:39.600 --> 01:38:46.160
+how do you feel about our prospect as a human civilization are you optimistic so this pandemic
+
+01:38:47.200 --> 01:38:53.520
+it is what it is it um hurt a lot of people both it took lives
+
+01:38:54.480 --> 01:38:58.480
+um but it also hurt a lot of businesses and a lot of people economically
+
+01:39:00.400 --> 01:39:05.120
+but uh they're very likely to be a much worse pandemic down the line there might
+
+01:39:05.120 --> 01:39:11.600
+be other threats to human civilization are you nevertheless optimistic oh i don't think i'm
+
+01:39:11.600 --> 01:39:18.080
+optimistic about it all i think what are you most worried about it's it's one of those things it's
+
+01:39:18.080 --> 01:39:25.120
+so existential that i don't worry about it um but i do think i mean let's in the united states
+
+01:39:25.120 --> 01:39:29.280
+for example so you asked about the human civilization but let's talk about like a
+
+01:39:29.280 --> 01:39:36.480
+american society for a moment i do think that like we're probably seeing like the end of a
+
+01:39:36.480 --> 01:39:41.360
+really interesting experiment like the american experiment and we're seeing its limitations
+
+01:39:42.240 --> 01:39:46.960
+we're probably going to become another blip like another one another power that's in the history
+
+01:39:46.960 --> 01:39:53.360
+books that like rose and collapsed probably that's where we'll go in terms of civilization i think
+
+01:39:54.480 --> 01:40:01.200
+we're demonstrating a pretty significant inability to recognize the danger wherein
+
+01:40:01.840 --> 01:40:04.240
+whether that's the pandemic or whether that's climate change
+
+01:40:06.720 --> 01:40:12.800
+i think it's extraordinary that we we are not taking these things seriously
+
+01:40:13.440 --> 01:40:18.480
+yeah and we're not acting with the urgency and i mean in some ways climate change
+
+01:40:20.240 --> 01:40:26.560
+truly makes like this pandemic look like child's play in terms of like the destruction it has the
+
+01:40:26.560 --> 01:40:31.680
+potential to wreak i tend to think if you just look at the progress of human history
+
+01:40:32.480 --> 01:40:41.200
+that the people who do good in the world out power the people that are the that do bad in
+
+01:40:41.200 --> 01:40:47.600
+the world so we kind of there's something about our minds that likes to focus on the negative
+
+01:40:47.600 --> 01:40:54.240
+like on the destructive because we're afraid of it it's also for some reason more fun to watch
+
+01:40:54.240 --> 01:41:01.440
+destruction i don't i don't you know but it seems like the people who build who create solutions who
+
+01:41:03.600 --> 01:41:10.720
+yeah who innovate and who just put like both on the emotional level so love out there and
+
+01:41:11.360 --> 01:41:16.960
+like on the actual engineering level tools that make for higher quality of life i think those
+
+01:41:16.960 --> 01:41:23.040
+win out if you look at human history but the question is whether the negative stuff can
+
+01:41:23.040 --> 01:41:28.000
+sometimes peak to the level where everybody's just destroyed but as long as that doesn't happen
+
+01:41:28.640 --> 01:41:35.280
+i i tend to believe that there would be like a gradual with some noise a gradual improvement
+
+01:41:35.280 --> 01:41:41.440
+of quality of life in human civilization i do think so to a certain extent but it's that what's
+
+01:41:41.440 --> 01:41:47.120
+what you said like unless there's like some significant peak of bad you know the and the
+
+01:41:47.120 --> 01:41:55.360
+problem with bad is that it can happen like that you know good you can you can't build a society
+
+01:41:55.360 --> 01:42:02.960
+overnight but you sure can kill one like i just think about food crises and instability and and
+
+01:42:02.960 --> 01:42:07.520
+just i don't know but i do hope that i mean i completely agree i think we can engineer
+
+01:42:08.960 --> 01:42:17.920
+our way to a healthier better world like i truly do my concern is that the people who are doing
+
+01:42:17.920 --> 01:42:25.920
+that until very recently don't generally rule the world now of course we're seeing non-elected
+
+01:42:25.920 --> 01:42:32.080
+leaders and you know people who run massive corporations essentially
+
+01:42:33.600 --> 01:42:40.240
+having as much or really more power than elected leaders or than kings and queens and such so how
+
+01:42:40.240 --> 01:42:44.960
+they choose to wield that power you know is an interesting choice and i do hope that you're
+
+01:42:44.960 --> 01:42:54.960
+right in that over time fear will drive companies to produce a better product or whatever you know
+
+01:42:54.960 --> 01:43:01.440
+something like over time it's just like predator prey models you get so bad or so everything like
+
+01:43:01.440 --> 01:43:06.320
+it's so revved up that all of a sudden something cracks and they say okay i do want an electric
+
+01:43:06.320 --> 01:43:12.800
+car or whatever and and that takes some combination of innovation letting people know that these
+
+01:43:12.800 --> 01:43:17.760
+electric cars exist it's kind of rapid test too like you get to finally feel it and see it
+
+01:43:18.480 --> 01:43:22.560
+have an electric car and then all of a sudden things change and everyone says oh this is so
+
+01:43:22.560 --> 01:43:27.520
+bad and actually i'm doing good for the world relatively speaking and you know i guess the
+
+01:43:27.520 --> 01:43:36.560
+paradigm shift yeah it becomes uh for lack of a better word viral positivity does and i mean i
+
+01:43:36.560 --> 01:43:44.320
+believe that ultimately that that wins out because i think there's much more power to be gained so
+
+01:43:44.320 --> 01:43:52.000
+i think most people want to do good and if you want to wield power you want to uh uh channel
+
+01:43:52.000 --> 01:43:59.440
+people's desire to do good and i think over time that's that's exactly what people uh will do but
+
+01:43:59.440 --> 01:44:04.640
+yeah this i mean both on the natural side the pandemic you know there's still biology at play
+
+01:44:04.640 --> 01:44:09.840
+there's still viruses out there trying to kill us there's accidents uh there's nuclear weapons
+
+01:44:09.840 --> 01:44:15.440
+there's unintended consequences of tools with this and then nanotechnology side or the artificial
+
+01:44:15.440 --> 01:44:21.040
+intelligence side then there's the natural things like meteors and all that that kind of stuff and
+
+01:44:21.680 --> 01:44:29.360
+climate change all of that but i tend to think we humans are a clever bunch and when there's a
+
+01:44:29.360 --> 01:44:37.600
+deadline a real deadline or real threat before us we kind of step up i don't know but maybe you have
+
+01:44:37.600 --> 01:44:47.600
+to believe that um until the very end yeah that's right it'll it'll i mean we'll have to see i guess
+
+01:44:47.680 --> 01:44:51.280
+you know neither well ideally we won't be alive to see that
+
+01:44:53.440 --> 01:45:00.800
+well no mike i'm glad we talk again because um this has been such a difficult time
+
+01:45:00.800 --> 01:45:08.960
+that feels like there's no solutions and it's so refreshing to hear that there's a solution
+
+01:45:08.960 --> 01:45:14.720
+to covid and there's an engineering solution on the individual level something people can do
+
+01:45:14.720 --> 01:45:20.000
+on the government level is something people can do on the global level something people can do
+
+01:45:20.000 --> 01:45:27.680
+we should be doing rapid testing at scale it's obvious it's amazing that you still are
+
+01:45:30.160 --> 01:45:34.800
+you know telling that story pushing that message bravely boldly i really really appreciate the
+
+01:45:34.800 --> 01:45:42.320
+work you're doing and and i'm i will do in my small way the same to try to help out and everybody
+
+01:45:42.320 --> 01:45:49.040
+else should too until we get hundreds of millions of tests in people's hands it's an obvious solution
+
+01:45:49.040 --> 01:45:58.000
+we should have had a long time ago and um i like solutions not problems and this is obviously a
+
+01:45:58.000 --> 01:46:02.000
+solution so thank you for presenting it to the world and thank you for talking about it
+
+01:46:03.440 --> 01:46:08.080
+it's it's something that i can't not do if it saves one person's life then it was worth the
+
+01:46:08.080 --> 01:46:15.440
+two years of lobbying for this you know and uh so let's hope we see a change thanks for talking
+
+01:46:15.440 --> 01:46:22.080
+today absolutely thanks for listening to this conversation with michael minna to support this
+
+01:46:22.080 --> 01:46:27.360
+podcast please check out our sponsors in the description and now let me leave you with some
+
+01:46:27.360 --> 01:46:36.000
+words from lord byron always laugh when you can it is cheap medicine thank you for listening
+
+01:46:36.000 --> 01:46:38.000
+and hope to see you next time
+

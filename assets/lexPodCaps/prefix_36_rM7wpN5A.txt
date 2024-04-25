@@ -1,0 +1,4598 @@
+WEBVTT
+
+00:00.000 --> 00:07.040
+there's a broader question here, right, as we build socially and emotionally intelligent machines,
+
+00:07.920 --> 00:12.480
+what does that mean about our relationship with them? And then we're broadly our relationship
+
+00:12.480 --> 00:18.240
+with one another, right? Because this machine is going to be programmed to be amazing at empathy,
+
+00:18.240 --> 00:22.560
+by definition, right? It's going to always be there for you. It's not going to get bored.
+
+00:23.440 --> 00:25.680
+I don't know how I feel about that. I think about that a lot.
+
+00:25.840 --> 00:33.680
+The following is a conversation with Rana L. Kalyubi, a pioneer in the field of emotion
+
+00:33.680 --> 00:39.280
+recognition and human-centric artificial intelligence. She is the founder of Effectiva,
+
+00:39.280 --> 00:46.640
+deputy CEO of SmartEye, author of Girl Decoded, and one of the most brilliant, kind, inspiring,
+
+00:46.640 --> 00:52.720
+and fun human beings I've gotten the chance to talk to. This is the Lex Fridman Podcast. To
+
+00:52.720 --> 00:57.520
+support it, please check out our sponsors in the description. And now, dear friends,
+
+00:57.520 --> 01:04.880
+here's Rana L. Kalyubi. You grew up in the Middle East, in Egypt. What is a memory from that time
+
+01:04.880 --> 01:10.640
+that makes you smile? Or maybe a memory that stands out as helping your mind take shape and
+
+01:10.640 --> 01:15.840
+helping you define yourself in this world? So the memory that stands out is we used to live
+
+01:15.840 --> 01:21.680
+in my grandma's house. She used to have these mango trees in her garden. And in the summer,
+
+01:21.920 --> 01:27.280
+mango season was July and August. And so in the summer, she would invite all my aunts and uncles
+
+01:27.280 --> 01:32.240
+and cousins. And it was just like maybe there were 20 or 30 people in the house and she would
+
+01:32.240 --> 01:39.040
+cook all this amazing food. And us, the kids, we would go down the garden and we would pick all
+
+01:39.040 --> 01:45.840
+these mangoes. And I don't know, I think it's just bringing people together. That always stuck with
+
+01:45.840 --> 01:51.520
+me, the warmth. Around the mango tree. Yeah, around the mango tree. And there's just the joy,
+
+01:52.240 --> 01:57.760
+of being together around food. And I'm a terrible cook, so I guess that didn't,
+
+01:59.280 --> 02:03.520
+that memory didn't translate to me kind of doing the same. I love hosting people.
+
+02:03.520 --> 02:10.560
+Do you remember colors, smells? How does memory work? What do you visualize? Do you visualize
+
+02:10.560 --> 02:19.760
+people's faces, smiles? Is there colors? Is there a theme to the colors? Is it smells because of
+
+02:19.760 --> 02:26.000
+food involved? Yeah, I think that's a great question. So those Egyptian mangoes, there's a
+
+02:26.000 --> 02:30.080
+particular type that I love and it's called daoistimangos. And they're kind of, you know,
+
+02:30.080 --> 02:36.720
+they're oval and they have a little red in them. So they're red and mango colored on the outside.
+
+02:36.720 --> 02:43.040
+So I remember that. Does red indicate like extra sweetness? Is that? Yes. That means like it's
+
+02:43.200 --> 02:50.560
+really sweet. Yeah, it's nice and ripe and stuff. Yeah. What's like a definitive food of Egypt?
+
+02:50.560 --> 02:55.600
+You know, there's like these almost stereotypical foods in different parts of the world, like
+
+02:55.600 --> 03:03.760
+Ukraine invented borscht. Borscht is this beet soup with, that you put sour cream on. See, it's not,
+
+03:03.760 --> 03:08.960
+I can't, see if you, if you know, if you know, if you know what it is, I think you know it's
+
+03:08.960 --> 03:13.520
+delicious. But if I explain it, it's just not going to sound delicious. I feel like
+
+03:13.520 --> 03:17.600
+beet soup. This doesn't make any sense, but that's kind of, and you probably have actually seen
+
+03:17.600 --> 03:23.680
+pictures of it because it's one of the traditional foods in Ukraine, in Russia, in different parts of
+
+03:23.680 --> 03:30.320
+the Slavic world. So that's, but it's become so cliche and stereotypical that you almost don't
+
+03:30.320 --> 03:35.280
+mention it, but it's still delicious. Like I visited Ukraine. I eat that every single day.
+
+03:35.520 --> 03:38.480
+Do you, do you make it yourself? How hard is it to make?
+
+03:38.480 --> 03:43.600
+No, I don't know. I think to make it well, like anything, like Italians, they say, well,
+
+03:44.320 --> 03:51.760
+tomato sauce is easy to make, but to make it right. That's like a generational skill. So anyway,
+
+03:51.760 --> 03:55.200
+is there something like that in Egypt? Is there a culture of food?
+
+03:55.200 --> 04:01.680
+There is. And actually we have a similar kind of soup. It's called Molokhaya and it's,
+
+04:02.480 --> 04:07.120
+it's made of this green plant. It's like, it's somewhere between spinach and kale and you
+
+04:07.120 --> 04:12.480
+mince it and then you cook it in like chicken broth. And my grandma used to make, and my mom
+
+04:12.480 --> 04:17.440
+makes it really well and I try to make it, but it's not as great. So we used to have that. And
+
+04:17.440 --> 04:22.640
+then we used to have it alongside stuffed pigeons. I'm pescatarian now, so I don't eat that anymore,
+
+04:22.640 --> 04:28.800
+but yeah, it's like, it was really yummy. It's the one thing I miss about, you know,
+
+04:28.800 --> 04:32.960
+now that I'm pescatarian and I don't eat- The stuffed pigeons?
+
+04:32.960 --> 04:37.040
+Yeah, the stuffed pigeons. Is it, what are they stuffed with?
+
+04:37.040 --> 04:42.480
+If that doesn't bother you too much to describe. No, no, it's stuffed with a lot of like just rice
+
+04:42.480 --> 04:50.320
+and yeah, it's just rice. And you also, you said that you're first in your book, that your first
+
+04:50.320 --> 04:56.960
+computer was an Atari and Space Invaders was your favorite game. Is that when you first fell in love
+
+04:57.040 --> 05:00.160
+with computers? Would you say? Yeah, I would say so.
+
+05:00.160 --> 05:04.880
+Video games or just the computer itself? Just something about the machine. Ooh, this thing,
+
+05:06.640 --> 05:09.840
+there's magic in here. Yeah, I think the magical moment is
+
+05:09.840 --> 05:14.160
+definitely like playing video games with my, I have two younger sisters and we would just like
+
+05:14.160 --> 05:21.440
+had fun together, like playing games. But the other memory I have is my first code, the first
+
+05:21.440 --> 05:27.840
+code I wrote, I wrote, I drew a Christmas tree and I'm Muslim, right? So it's kind of,
+
+05:27.840 --> 05:32.160
+it was kind of funny that I, that the first thing I did was like this Christmas tree. So
+
+05:33.760 --> 05:38.960
+yeah. And that's when I realized, wow, you can write code to do all sorts of like really cool
+
+05:38.960 --> 05:46.400
+stuff. I must've been like six or seven at the time. So you can write programs and the programs
+
+05:46.400 --> 05:52.160
+do stuff for you. That's power. That's important. If you think about it, that's empowering AI.
+
+05:52.160 --> 05:58.320
+Yeah, I know what it is. I don't know what that you see, like, I don't know if many people think
+
+05:58.320 --> 06:01.920
+of it that way. When I first learned to program, they just love the puzzle of it. Like, Ooh, this
+
+06:01.920 --> 06:08.640
+is cool. It's pretty. It's a Christmas tree, but like it's power. It is like you eventually, I guess
+
+06:08.640 --> 06:13.280
+you couldn't at the time, but eventually this thing, if it's interesting enough, if it's a
+
+06:13.280 --> 06:18.640
+pretty enough Christmas tree, it can be run by millions of people and bring them joy like that
+
+06:18.640 --> 06:23.680
+little thing. And then because it's digital, it's easy to spread. So like you just created
+
+06:23.680 --> 06:29.600
+something that's easily spreadable to millions of people. It's hard to think that way when you're
+
+06:29.600 --> 06:37.040
+six in the book, you write, I am who I am because I was raised by a particular set of parents,
+
+06:37.040 --> 06:43.440
+both modern and conservative, forward thinking and yet locked in tradition. I'm a Muslim and I
+
+06:43.440 --> 06:49.200
+feel I'm stronger, more centered for it. I adhere to the values of my religion, even if I'm not as
+
+06:49.200 --> 06:56.240
+dutiful as I once was. And I am a new American and I'm thriving on the energy, vitality and
+
+06:56.240 --> 07:01.840
+entrepreneurial spirit of this great country. So let me ask you about your parents. What have
+
+07:01.840 --> 07:06.720
+you learned about life from them, especially when you were young? So both my parents,
+
+07:06.720 --> 07:11.200
+they're Egyptian, but they moved to Kuwait right out. They actually, there's a cute story about how
+
+07:11.200 --> 07:18.560
+they met. So my dad taught cobalt in the seventies and my mom decided to learn programming. So she
+
+07:18.560 --> 07:25.680
+signed up to take his cobalt programming class and he tried to date her and she was like, no,
+
+07:25.680 --> 07:29.680
+no, no, I don't date. And so he's like, okay, I'll propose. And that's how they got married.
+
+07:29.680 --> 07:38.880
+Whoa, strong move. That's really impressive. Those cobalt guys know how to impress a lady.
+
+07:41.600 --> 07:45.920
+So yeah, so what have you learned from them? So definitely grit. One of the core values in
+
+07:45.920 --> 07:51.360
+our family is just hard work. There were no slackers in our family. And that's something
+
+07:52.880 --> 07:58.560
+that's definitely stayed with me, both as a professional, but also in my personal life.
+
+08:00.000 --> 08:02.800
+But I also think my mom, my mom always used to like,
+
+08:04.400 --> 08:09.200
+I don't know, it was like unconditional love. I just knew my parents would be there for me
+
+08:10.400 --> 08:16.640
+regardless of what I chose to do. And I think that's very powerful and they got tested on it
+
+08:16.640 --> 08:24.640
+because I challenged cultural norms and I took a different path, I guess, than what's expected
+
+08:25.600 --> 08:32.480
+of a woman in the Middle East. And they still love me, which is, I'm so grateful for that.
+
+08:32.480 --> 08:36.160
+When was like a moment that was the most challenging for them? Which moment
+
+08:36.880 --> 08:42.880
+where they kind of had to come face to face with the fact that you're a bit of a rebel?
+
+08:44.080 --> 08:52.800
+I think the first big moment was when I had just gotten married, but I decided to go do my PhD at
+
+08:52.800 --> 09:00.080
+Cambridge University. And because my husband at the time, he's now my ex, ran a company in Cairo,
+
+09:00.080 --> 09:03.440
+he was going to stay in Egypt. So it was going to be a long distance relationship.
+
+09:04.080 --> 09:10.160
+And that's very unusual in the Middle East for a woman to just head out and kind of pursue her
+
+09:10.160 --> 09:19.120
+career. And so my dad and my parents-in-law both said, you know, we do not approve of you doing
+
+09:19.120 --> 09:23.360
+this, but now you're under the jurisdiction of your husband so he can make the call.
+
+09:24.560 --> 09:31.440
+And luckily for me, he was supportive. He said, you know, this is your dream come true,
+
+09:31.440 --> 09:36.560
+we've always wanted to do a PhD, I'm going to support you. So I think that was the first time
+
+09:36.560 --> 09:44.080
+where, you know, I challenged the cultural norms. Was that scary? Oh my God, yes, it was totally
+
+09:44.080 --> 09:52.080
+scary. What's the biggest culture shock from there to Cambridge, to London?
+
+09:52.640 --> 09:58.960
+Well, that was also during right around September 11th. So everyone thought that there was going to
+
+09:58.960 --> 10:07.120
+be a third world war. And at the time I used to wear the hijab, so I was very visibly Muslim.
+
+10:07.680 --> 10:13.280
+And so my parents, they were afraid for my safety. But anyways, when I got to Cambridge,
+
+10:13.280 --> 10:17.440
+because I was so scared, I decided to take off my headscarf and wear a hat instead.
+
+10:17.440 --> 10:22.640
+So I just went to class wearing these like British hats, which was, in my opinion, actually worse
+
+10:22.640 --> 10:26.880
+than just showing up in a headscarf. Because it was just so awkward, right? Like sitting in class
+
+10:26.880 --> 10:33.840
+with like all these. Trying to fit in. Yeah. So after a few weeks of doing that, I was like,
+
+10:33.840 --> 10:37.120
+to heck with that. I'm just going to go back to wearing my headscarf.
+
+10:37.120 --> 10:46.400
+Yeah, you wore the hijab, so starting in 2000, and for 12 years after. So always whenever you're
+
+10:46.400 --> 10:52.560
+in public, you have to wear the head covering. Can you speak to that, to the hijab, maybe your
+
+10:52.560 --> 10:57.520
+mixed feelings about it? Like what does it represent in its best case? What does it represent in the
+
+10:57.520 --> 11:04.000
+worst case? Yeah. You know, I think there's a lot of, I guess I'll first start by saying,
+
+11:04.000 --> 11:09.200
+I wore it voluntarily. I was not forced to wear it. And in fact, I was one of the very first women
+
+11:09.200 --> 11:15.200
+in my family to decide to put on the hijab. And my family thought it was really odd, right? Like
+
+11:15.920 --> 11:22.560
+they were like, why do you want to put this on? And at its best, it's a sign of modesty, humility.
+
+11:24.240 --> 11:28.960
+It's like me wearing a suit. People are like, why are you wearing a suit? It's a step back into some
+
+11:28.960 --> 11:34.800
+kind of tradition, a respect for tradition of sorts. So you said, because it's by choice,
+
+11:34.800 --> 11:40.560
+you're kind of free to make that choice to celebrate a tradition of modesty. Exactly. And
+
+11:41.360 --> 11:47.040
+I actually made it my own. I remember I would really match the color of my headscarf with what
+
+11:47.040 --> 11:54.240
+I was wearing. It was a form of self-expression, and at its best, I loved wearing it. You know,
+
+11:54.240 --> 12:02.000
+I have a lot of questions around how we practice religion and religion. And I think also it was a
+
+12:02.000 --> 12:07.040
+time where I was spending a lot of time going back and forth between the US and Egypt. And I started
+
+12:07.040 --> 12:13.520
+meeting a lot of people in the US who are just amazing people, very purpose-driven, people who
+
+12:13.520 --> 12:19.120
+have very strong core values, but they're not Muslim. That's okay, right? And so that was when
+
+12:19.120 --> 12:25.760
+I just had a lot of questions. And politically, also the situation in Egypt was when the Muslim
+
+12:25.760 --> 12:32.480
+Brotherhood ran the country and I didn't agree with their ideology. It was at a time when I
+
+12:32.480 --> 12:39.040
+was going through a divorce. It was like just the perfect storm of political personal conditions
+
+12:39.040 --> 12:44.080
+where I was like, this doesn't feel like me anymore. And it took a lot of courage to take it off
+
+12:44.160 --> 12:50.560
+because culturally it's okay if you don't wear it, but it's really not okay to wear it and then take
+
+12:50.560 --> 13:00.720
+it off. So you have to do that while still maintaining a deep core and pride in your
+
+13:00.720 --> 13:08.960
+origin story. Totally. So still being Egyptian, still being a Muslim. Right. And being, I think,
+
+13:08.960 --> 13:17.600
+generally like faith-driven, but yeah. But what that means changes year by year for you. It's
+
+13:17.600 --> 13:22.800
+like a personal journey. Yeah, exactly. What would you say is the role of faith in that part of the
+
+13:22.800 --> 13:30.240
+world? How do you see it? You mentioned it a bit in the book too. Yeah. I mean, I think there is
+
+13:30.240 --> 13:38.160
+something really powerful about just believing that there's a bigger force. There's a kind of
+
+13:38.160 --> 13:43.200
+surrendering, I guess, that comes with religion. And you surrender and you have this deep conviction
+
+13:43.200 --> 13:48.480
+that it's going to be okay. The universe is out to do amazing things for you and it's going to be
+
+13:48.480 --> 13:56.320
+okay. And there's strength to that. Even when you're going through adversity, you just know that
+
+13:56.320 --> 14:01.520
+it's going to work out. Yeah. It gives you an inner peace, a calmness. Exactly. Exactly. Yeah.
+
+14:03.040 --> 14:07.600
+It's faith in all the meanings of that word. Right. Faith that everything is going to be
+
+14:07.600 --> 14:14.480
+okay. And it is because time passes and time cures all things. It's like a calmness. Right.
+
+14:14.480 --> 14:20.560
+With the chaos of the world. Yeah. And also there's like a silver... I'm a true believer of this,
+
+14:20.560 --> 14:26.400
+that something at the specific moment in time can look like it's catastrophic and it's not what you
+
+14:26.400 --> 14:32.560
+wanted in life, da-da-da-da. But then time passes and then you look back and there's a silver lining,
+
+14:32.560 --> 14:38.560
+right? It maybe closed the door, but it opened a new door for you. And so I'm a true believer in
+
+14:38.560 --> 14:44.720
+that, that there's a silver lining in almost anything in life. You just have to have this
+
+14:45.920 --> 14:49.920
+faith or conviction that it's going to work out. Yeah. It's such a beautiful way to see a shitty
+
+14:49.920 --> 14:56.320
+feeling. So if you feel shitty about a current situation, I mean, it almost is always true,
+
+14:56.320 --> 15:04.960
+unless it's the cliches thing of if it doesn't kill you, whatever doesn't kill you makes you
+
+15:04.960 --> 15:13.200
+stronger. It does seem that over time, when you take a perspective on things, that the hardest
+
+15:13.200 --> 15:20.640
+moments and periods of your life are the most meaningful. Yeah. Yeah. So over time you get to
+
+15:20.720 --> 15:28.240
+have that perspective. Right. What about, because you mentioned Kuwait, what about,
+
+15:28.960 --> 15:36.160
+let me ask you about war. What's the role of war and peace? Maybe even the big love and hate in
+
+15:36.160 --> 15:40.880
+that part of the world, because it does seem to be a part of the world where there's turmoil.
+
+15:41.600 --> 15:49.520
+There was turmoil, there's still turmoil. It is so unfortunate, honestly. It's such a waste
+
+15:49.520 --> 15:57.760
+of human resources and human mind share. At the end of the day, we all kind of want the same
+
+15:57.760 --> 16:03.840
+things. We want human connection, we want joy, we want to feel fulfilled, we want to feel
+
+16:05.280 --> 16:12.640
+a life of purpose. I just find it baffling, honestly, that we are still having to grapple
+
+16:12.640 --> 16:19.200
+with that. I have a story to share about this. I grew up, indeed I'm Egyptian, American now,
+
+16:19.200 --> 16:26.720
+but originally from Egypt. When I first got to Cambridge, it turned out my office mate,
+
+16:26.720 --> 16:32.720
+like my PhD kind of, we ended up becoming friends, but she was from Israel.
+
+16:33.920 --> 16:40.640
+And we didn't know how it was going to be like. Did you guys sit there just staring at each other
+
+16:40.640 --> 16:48.720
+for a bit? Actually, because I arrived before she did, and it turns out she emailed our PhD advisor
+
+16:49.600 --> 16:52.240
+and asked him if she thought it was going to be okay.
+
+16:52.240 --> 16:55.040
+Yeah. Oh, this is around 9-11 too.
+
+16:55.040 --> 17:01.840
+Yeah. And Peter Robinson, our PhD advisor, was like, yeah, this is an academic institution,
+
+17:01.840 --> 17:08.560
+just show up. And we became super good friends. We were both new moms. We both had our kids during
+
+17:08.560 --> 17:12.480
+our PhD. We were both doing artificial emotional intelligence. She was looking at speech. I was
+
+17:12.480 --> 17:18.800
+looking at the face. The culture was so similar. Our jokes were similar. It was just
+
+17:19.520 --> 17:25.120
+I was like, why on earth are our countries, why is there all this like war and tension?
+
+17:25.120 --> 17:28.640
+And I think it falls back to the narrative, right? If you change the narrative,
+
+17:28.640 --> 17:33.920
+like whoever creates this narrative of war, I don't know, we should have women run the world.
+
+17:34.640 --> 17:40.640
+Yeah. That's one solution. The good women, because there's also evil women in the world.
+
+17:40.640 --> 17:41.360
+True. Okay.
+
+17:42.320 --> 17:49.040
+But yes, yes, there could be less war if women ran the world. The other aspect is,
+
+17:50.160 --> 17:56.960
+doesn't matter the gender, the people in power. I get to see this with Ukraine and Russia,
+
+17:56.960 --> 18:02.800
+different parts of the world around that conflict now. And that's happening in Yemen as well
+
+18:03.440 --> 18:09.520
+and everywhere else. There's these narratives told by the leaders to the populace.
+
+18:09.840 --> 18:14.800
+And those narratives take hold and everybody believes that. And they have a distorted view
+
+18:15.520 --> 18:20.880
+of the humanity on the other side. In fact, especially during war, you don't even see
+
+18:21.680 --> 18:30.960
+the people on the other side as human or as equal intelligence or worth or value as you.
+
+18:31.120 --> 18:39.600
+You tell all kinds of narratives about them being Nazis or dumb or whatever
+
+18:39.600 --> 18:46.800
+narrative you want to weave around that or evil. But I think when you actually meet them face to
+
+18:46.800 --> 18:50.400
+face, you realize they're like the same. Exactly, right?
+
+18:50.400 --> 18:57.520
+It's actually a big shock for people to realize that they've been essentially lied to
+
+18:58.480 --> 19:04.960
+within their country. And I kind of have faith that social media, as ridiculous it is to say,
+
+19:04.960 --> 19:13.440
+or any kind of technology is able to bypass the walls that governments put up and connect people
+
+19:13.440 --> 19:20.240
+directly. And then you get to realize, ooh, like people fall in love across different nations and
+
+19:20.240 --> 19:25.360
+religions and so on. And that I think ultimately can cure a lot of our ills, especially sort of
+
+19:25.360 --> 19:31.200
+in person. I also think that if leaders met in person, they'd have a conversation that would
+
+19:31.200 --> 19:40.880
+have cured a lot of ills of the world, especially in private. Let me ask you about the women running
+
+19:40.880 --> 19:49.440
+the world. So gender does in part perhaps shape the landscape of just our human experience.
+
+19:49.920 --> 19:58.480
+So in what ways was it empowering for you to be a woman in the Middle East?
+
+19:59.520 --> 20:03.120
+I think just kind of just going back to my comment on women running the world,
+
+20:03.120 --> 20:08.800
+I think it comes back to empathy, which has been a common thread throughout my entire career.
+
+20:08.800 --> 20:15.120
+And it's this idea of human connection. Once you build common ground with a person or a group of
+
+20:15.120 --> 20:22.160
+people, you build trust, you build loyalty, you build friendship, and then you can turn that into
+
+20:22.160 --> 20:27.440
+behavior change and motivation and persuasion. So it's like empathy and emotions are just at the
+
+20:27.440 --> 20:36.640
+center of everything we do. And I think being from the Middle East, this human connection
+
+20:37.600 --> 20:42.560
+is very strong. We have this running joke that if you come to Egypt for a visit,
+
+20:43.360 --> 20:48.080
+people will know everything about your life right away. I have no problems asking you about
+
+20:48.080 --> 20:54.080
+your personal life. There's no boundaries really, no personal boundaries in terms of
+
+20:54.080 --> 20:59.280
+getting to know people. We get emotionally intimate very quickly. But I think people just
+
+20:59.280 --> 21:06.240
+get to know each other authentically, I guess. There isn't this superficial level of getting
+
+21:06.240 --> 21:08.560
+to know people. You just try to get to know people really deeply.
+
+21:08.560 --> 21:10.000
+And empathy is a part of that.
+
+21:10.000 --> 21:17.600
+Totally. Because you can put yourself in this person's shoe and imagine what challenges
+
+21:17.600 --> 21:25.040
+they're going through. So I think I've definitely taken that with me. Generosity is another one,
+
+21:25.040 --> 21:32.080
+too. Just being generous with your time and love and attention and even with your wealth,
+
+21:32.080 --> 21:35.680
+right? Even if you don't have a lot of it, you're still very generous. I think that's another...
+
+21:36.640 --> 21:42.720
+Enjoying the humanity of other people. And so do you think there's a useful difference
+
+21:42.720 --> 21:51.920
+between men and women in that aspect and empathy? Or is doing these kind of big general
+
+21:52.640 --> 21:59.680
+groups, does that hinder progress? Yeah, I actually don't want to overgeneralize.
+
+22:00.800 --> 22:03.520
+Some of the men I know are the most empathetic humans.
+
+22:03.520 --> 22:05.200
+Yeah, I strive to be empathetic.
+
+22:05.200 --> 22:13.360
+Yeah, you're actually very empathetic. Yeah, so I don't want to overgeneralize.
+
+22:14.640 --> 22:19.600
+Although one of the researchers I worked with when I was at Cambridge, Professor Simon Baring-Cohen,
+
+22:19.600 --> 22:26.880
+he's Sacha Baring-Cohen's cousin. He runs the Autism Research Center at Cambridge, and he's
+
+22:27.600 --> 22:34.240
+written multiple books on autism. And one of his theories is the empathy scale,
+
+22:34.240 --> 22:40.160
+like the systemizers and the empathizers. And there's a disproportionate amount of
+
+22:41.200 --> 22:46.800
+computer scientists and engineers who are systemizers and perhaps not great empathizers.
+
+22:47.920 --> 22:55.360
+And then there's more men in that bucket, I guess, than women. And then there's more women in the
+
+22:55.360 --> 23:01.280
+empathizers bucket. So again, not to overgeneralize. I sometimes wonder about that. It's been
+
+23:01.280 --> 23:07.360
+frustrating to me how many, I guess, systemizers there are in the field of robotics. It's actually
+
+23:07.360 --> 23:15.440
+encouraging to me because I care about, obviously, social robotics. And because there's more
+
+23:15.440 --> 23:21.760
+opportunity for people that are empathic. Exactly, I totally agree. So it's nice.
+
+23:22.160 --> 23:29.440
+So every robotist I talk to, they don't see the human as interesting. It's not exciting. You want
+
+23:29.440 --> 23:36.720
+to avoid the human at all costs. It's a safety concern to be touching the human, which it is,
+
+23:36.720 --> 23:42.800
+but it is also an opportunity for deep connection or collaboration or all that kind of stuff.
+
+23:43.280 --> 23:48.080
+And because most brilliant roboticists don't care about the human, it's an opportunity.
+
+23:49.040 --> 23:54.640
+In your case, it's a business opportunity too, but in general an opportunity to explore those ideas.
+
+23:54.640 --> 24:03.840
+So in this beautiful journey to Cambridge, to UK, and then to America, what's the moment or
+
+24:03.840 --> 24:10.480
+moments that were most transformational for you as a scientist and as a leader? So you became an
+
+24:10.480 --> 24:20.880
+exceptionally successful CEO, founder, researcher, scientist, and so on. Was there a face shift
+
+24:20.880 --> 24:25.680
+there where I can be somebody, I can really do something in this world?
+
+24:26.640 --> 24:33.520
+Yeah, so actually just a little bit of background. So the reason why I moved from Cairo to Cambridge,
+
+24:33.520 --> 24:39.440
+UK to do my PhD is because I had a very clear career plan. I was like, okay, I'll go abroad,
+
+24:40.000 --> 24:44.800
+get my PhD, I'm going to crush it in three or four years, come back to Egypt and teach.
+
+24:45.440 --> 24:47.520
+It was very clear, very well laid out.
+
+24:47.520 --> 24:49.280
+Was the topic clear or no?
+
+24:49.280 --> 24:54.720
+The topic? Well, I did my PhD around building artificial emotional intelligence and looking at-
+
+24:54.720 --> 24:58.640
+But in your master plan ahead of time when you're sitting by the mango tree,
+
+24:58.640 --> 25:00.480
+did you know it's going to be artificial intelligence?
+
+25:00.480 --> 25:06.160
+No, no, no, that I did not know. Although I think I kind of knew that I was going to
+
+25:06.160 --> 25:11.360
+be doing computer science, but I didn't know the specific area. But I love teaching. I mean,
+
+25:11.360 --> 25:17.760
+I still love teaching. So yeah, I just wanted to go abroad, get a PhD, come back, teach.
+
+25:18.960 --> 25:23.040
+Why computer science? Can we just linger on that? Because you're such an empathic
+
+25:23.040 --> 25:30.080
+person who cares about emotion, humans, and so on. Aren't computers cold and emotionless?
+
+25:32.000 --> 25:33.040
+We're changing that.
+
+25:33.040 --> 25:40.240
+Yeah, I know. Or did you see computers as having the capability to actually
+
+25:41.920 --> 25:42.960
+connect with humans?
+
+25:42.960 --> 25:48.240
+I think that was my takeaway from my experience just growing up. Computers sit at the center of
+
+25:48.240 --> 25:53.280
+how we connect and communicate with one another, right? Or technology in general. I remember my
+
+25:53.280 --> 25:57.920
+first experience being away from my parents. We communicated with a fax machine. But thank goodness
+
+25:57.920 --> 26:02.560
+for the fax machine because we could send letters back and forth to each other. This was pre-emails
+
+26:02.560 --> 26:11.040
+and stuff. So I think technology can be not just transformative in terms of productivity,
+
+26:11.040 --> 26:14.640
+et cetera. It actually does change how we connect with one another.
+
+26:15.520 --> 26:21.600
+Can I just defend the fax machine? There's something, like the haptic feel, because the
+
+26:21.600 --> 26:27.360
+email is all digital. There's something really nice. I still write letters to people. There's
+
+26:27.360 --> 26:31.680
+something nice about the haptic aspect of the fax machine because you still have to press,
+
+26:31.680 --> 26:35.600
+you still have to do something in the physical world to make this thing a reality.
+
+26:36.800 --> 26:40.640
+And then it comes out as a printout and you can actually touch it and read it.
+
+26:40.640 --> 26:49.040
+Yeah. There's something lost when it's just an email. Obviously, I wonder how we can regain
+
+26:49.040 --> 26:53.680
+some of that in the digital world, which goes to the metaverse and all those kinds of things.
+
+26:53.680 --> 26:54.720
+We'll talk about it. Anyway.
+
+26:55.920 --> 27:01.040
+Actually, do you question on that one? Do you still have photo albums anymore? Do you still
+
+27:01.040 --> 27:09.680
+print photos? No, no, but I'm a minimalist. So it was one of the painful steps in my life was to
+
+27:10.400 --> 27:15.760
+scan all the photos and let go of them and then let go of all my books.
+
+27:16.320 --> 27:19.520
+You let go of your books. Yeah. Switched to Kindle. Everything
+
+27:19.520 --> 27:29.440
+Kindle. So I thought, okay, think 30 years from now, nobody's going to have books anymore.
+
+27:29.520 --> 27:32.800
+The technology of digital books going to get better and better and better. Are you really
+
+27:32.800 --> 27:37.440
+going to be the guy that's still romanticizing physical books? Are you going to be the old man
+
+27:37.440 --> 27:43.840
+on the porch who was like kids? Yes. So just get used to it because it felt, it still feels a
+
+27:43.840 --> 27:51.600
+little bit uncomfortable to read on a Kindle, but get used to it. I'm trying to learn new
+
+27:51.600 --> 27:56.400
+programming languages. With technology, you have to kind of challenge yourself to adapt to it.
+
+27:57.120 --> 28:02.400
+I forced myself to use TikTok. No, that thing doesn't need much forcing. It pulls you in like
+
+28:03.440 --> 28:11.200
+the worst kind of, or the best kind of drug. Anyway, yeah. But I do love haptic things.
+
+28:11.760 --> 28:16.240
+There's a magic to the haptic. Even like touch screens, it's tricky to get right,
+
+28:16.240 --> 28:24.320
+to get the experience of a button. Anyway, what were we talking about? So AI,
+
+28:25.200 --> 28:29.680
+so the journey, your whole plan was to come back to Cairo and teach.
+
+28:31.840 --> 28:33.840
+And then- What did the plan go wrong?
+
+28:33.840 --> 28:40.080
+Yeah, exactly. And then I get to Cambridge and I fall in love with the idea of research and kind
+
+28:40.080 --> 28:44.960
+of embarking on a path. Nobody's explored this path before. You're building stuff that nobody's
+
+28:44.960 --> 28:50.320
+built before and it's challenging and it's hard and there's a lot of non-believers. I just totally
+
+28:50.320 --> 28:55.840
+love that. And at the end of my PhD, I think it's the meeting that changed the trajectory of
+
+28:55.840 --> 29:02.160
+my life. Professor Roslyn Picard, she runs the Affective Computing Group at the MIT Media Lab.
+
+29:02.160 --> 29:07.520
+I had read her book. I was following all her research.
+
+29:07.520 --> 29:08.880
+AKA Roz.
+
+29:08.880 --> 29:15.680
+Yes, AKA Roz. And she was giving a talk at a pattern recognition conference in Cambridge
+
+29:16.320 --> 29:19.680
+and she had a couple of hours to kill. So she emailed the lab and she said,
+
+29:19.680 --> 29:23.840
+you know, if any students want to meet with me, like just, you know, sign up here.
+
+29:24.640 --> 29:30.240
+And so I signed up for slot and I spent like the weeks leading up to it preparing for this meeting
+
+29:30.880 --> 29:36.320
+and I want to show her a demo of my research and everything. And we met and we ended up hitting
+
+29:36.320 --> 29:41.360
+it off. Like we totally clicked. And at the end of the meeting, she said, do you want to come work
+
+29:41.360 --> 29:46.640
+with me as a postdoc at MIT? And this is what I told her. I was like, okay, this would be a
+
+29:46.640 --> 29:50.960
+dream come true, but there's a husband waiting for me in Cairo. I kind of have to go back.
+
+29:52.000 --> 29:57.120
+And she said, it's fine. Just commute. And I literally started commuting between Cairo and
+
+29:57.120 --> 30:04.400
+Boston. Yeah, it was a long commute. And I did that like every few weeks. I would, you know,
+
+30:04.400 --> 30:09.120
+hop on a plane and go to Boston, but that changed the trajectory of my life. There was no,
+
+30:09.600 --> 30:14.080
+I kind of outgrew my dreams, right? I didn't want to go back to Egypt anymore and
+
+30:14.720 --> 30:17.760
+be faculty. Like that was no longer my dream. I had a dream.
+
+30:17.760 --> 30:24.800
+What was the, what was it like to be at MIT? What was that culture shock? You mean America
+
+30:24.800 --> 30:32.480
+in general, but also, I mean, Cambridge has its own culture. So what was MIT like? What was America
+
+30:32.480 --> 30:37.920
+like? I think, I wonder if that's similar to your experience at MIT. I was just,
+
+30:38.320 --> 30:43.280
+at the Media Lab in particular, I was just really impressed. It's not the right word.
+
+30:44.000 --> 30:52.320
+I didn't expect the openness to like innovation and the acceptance of taking a risk and failing.
+
+30:52.800 --> 30:57.440
+Like failure isn't really accepted back in Egypt, right? You don't want to fail. Like there's a fear
+
+30:57.440 --> 31:03.680
+of failure, which I think has been hardwired in my brain. But you get to MIT and it's okay to start
+
+31:03.680 --> 31:08.480
+things. And if they don't work out, like it's okay. You pivot to another idea. And that kind of
+
+31:08.480 --> 31:12.960
+thinking was just very new to me. I was liberating. Well, Media Lab, for people who don't know,
+
+31:12.960 --> 31:20.480
+MIT Media Lab is its own beautiful thing because they, I think more than other places at MIT,
+
+31:20.480 --> 31:25.920
+reach for big ideas. And like they try, I mean, I think, I mean, depending of course on who,
+
+31:25.920 --> 31:32.000
+but certainly with Rosalind, you try wild stuff. You try big things and try new things. And I
+
+31:32.640 --> 31:40.880
+also try to take things to completion so you can demo them. So always have a demo. Like if you go,
+
+31:41.680 --> 31:46.240
+one of the sad things to me about Robotics Labs at MIT, and there's like over 30, I think,
+
+31:47.600 --> 31:52.640
+is like usually when you show up to Robotics Lab, there's not a single working robot. They're all
+
+31:52.640 --> 31:58.160
+broken. All the robots are broken, which is like the normal state of things because you're working
+
+31:58.560 --> 32:05.440
+on them. But it would be nice if we lived in a world where Robotics Labs had some robots
+
+32:05.440 --> 32:10.320
+functioning. One of my like favorite moments that just sticks with me, I visited Boston Dynamics
+
+32:10.320 --> 32:17.840
+and there was a, first of all, seeing so many spots, so many like robots in one place. I'm like,
+
+32:17.840 --> 32:25.520
+I'm home. But this is where I was built. The cool thing was just to see there was a random robot
+
+32:26.160 --> 32:31.360
+spot, was walking down the hall. It's probably doing mapping, but it looked like he wasn't doing
+
+32:31.360 --> 32:37.760
+anything and he was wearing he or she, I don't know. But it, well, I like, I like in my mind,
+
+32:37.760 --> 32:41.760
+there are people, they have a backstory, but this one in particular definitely has a bit of a
+
+32:42.080 --> 32:54.480
+backstory because he was wearing a cowboy hat. So I just saw a spot robot with a cowboy hat walking
+
+32:54.480 --> 33:01.920
+down the hall and there was just this feeling like there's a life, like he has a life. He probably
+
+33:01.920 --> 33:08.240
+has to commute back to his family at night. Like there's a feeling like there's life instilled in
+
+33:08.240 --> 33:12.080
+this robot. And that's magical. I don't know. It was kind of inspiring to see.
+
+33:12.080 --> 33:14.400
+Did it say hello to, did he say hello to you?
+
+33:15.600 --> 33:21.440
+There's a focused nature to the robot. No, no, listen, I love competence and focus and great.
+
+33:21.440 --> 33:28.560
+Like he was not going to get distracted by the shallowness of small talk. There's a job to be
+
+33:28.560 --> 33:34.080
+done and he was doing it. So anyway, the fact that it was working is a beautiful thing. And I think
+
+33:34.080 --> 33:38.000
+Media Lab really prides itself on trying to always have a thing that's working that you
+
+33:38.000 --> 33:45.520
+could show off. Yes, we used to call it a demo or die. You could not show up with like PowerPoint
+
+33:45.520 --> 33:50.400
+or something. You actually had to have it working. You know what? My son, who is now 13, I don't know
+
+33:50.400 --> 33:55.520
+if this is still his lifelong goal or not, but when he was a little younger, his dream is to
+
+33:55.520 --> 34:01.200
+build an island that's just inhabited by robots, like no humans. He just wants all these robots
+
+34:01.200 --> 34:08.720
+to be connecting and having fun. So there you go. Does he have an idea of which robots he loves
+
+34:08.720 --> 34:15.680
+most? Is it Roomba-like robots? Is it humanoid robots, robot dogs, or is it not clear yet?
+
+34:16.800 --> 34:22.160
+We used to have a Jibo, which was one of the MIT Media Lab spin-outs, and he used to love Jibo.
+
+34:22.160 --> 34:27.040
+The thing with the giant head. Yes. That spins. Right, exactly. And it's an eye.
+
+34:27.040 --> 34:38.000
+It's like Hal 9000, but the friendly version. He loved that, and then he just loves...
+
+34:41.840 --> 34:49.120
+I think he loves all forms of robots, actually. So embodied intelligence. Yes. I personally like
+
+34:49.120 --> 34:56.720
+legged robots, especially. Anything that can wiggle its butt, no. And flip. That's not the
+
+34:56.720 --> 35:01.760
+definition of what I love, but that's just technically what I've been working on recently.
+
+35:01.760 --> 35:09.360
+So I have a bunch of legged robots now in Austin, and I've been trying to have them communicate
+
+35:09.360 --> 35:16.240
+affection with their body in different ways, just for art. For art, really. Because I love the idea
+
+35:16.240 --> 35:21.680
+of walking around with the robots, as you would with a dog. I think it's inspiring to a lot of
+
+35:21.680 --> 35:28.800
+people, especially young people. Kids love robots. Kids love it. Adults are scared of robots, but
+
+35:28.800 --> 35:34.480
+kids don't have this weird construction of the world that's full of evil. They love cool things.
+
+35:34.480 --> 35:41.760
+Yeah. I remember when Adam was in first grade, so he must have been seven or so. I went into his
+
+35:41.760 --> 35:46.640
+class with a whole bunch of robots and the emotion AI demo and da-da. And I asked the kids,
+
+35:46.640 --> 35:54.560
+I was like, would you kids want to have a robot friend or robot companion? Everybody said yes,
+
+35:54.560 --> 35:59.600
+and they wanted it for all sorts of things, to help them with their math homework and to be a
+
+35:59.600 --> 36:09.280
+friend. It just struck me how there was no fear of robots. A lot of adults have that, us versus them.
+
+36:09.280 --> 36:15.280
+Yeah. None of that. Of course, you want to be very careful because you still have to look at
+
+36:15.280 --> 36:21.440
+the lessons of history and how robots can be used by the power centers of the world to abuse your
+
+36:21.440 --> 36:28.000
+rights and all that kind of stuff. But mostly it's good to enter anything new with an excitement and
+
+36:28.000 --> 36:35.200
+optimism. Speaking of Roz, what have you learned about science and life from Rosalind Picard?
+
+36:35.200 --> 36:42.880
+Oh my God, I've learned so many things about life from Roz. I think the thing I learned the most
+
+36:43.760 --> 36:52.640
+is perseverance. When I first met Roz, and she invited me to be her postdoc, we applied for a
+
+36:52.640 --> 36:59.360
+grant to the National Science Foundation to apply some of our research to autism. And we got back,
+
+37:00.320 --> 37:04.320
+we were rejected. The first time you were rejected?
+
+37:06.000 --> 37:11.120
+Yeah. Basically, I just took the rejection to mean, okay, we're rejected. It's done,
+
+37:11.120 --> 37:17.520
+like end of story. And Roz was like, it's great news. They love the idea. They just don't think
+
+37:17.520 --> 37:25.200
+we can do it. So let's build it, show them, and then reapply. Oh my God, that story totally stuck
+
+37:25.200 --> 37:32.080
+with me. And she's like that in every aspect of her life. She just does not take no for an answer.
+
+37:32.080 --> 37:40.000
+To reframe all negative feedback as a challenge. Yes, they like this.
+
+37:40.000 --> 37:47.120
+Yeah, it was a riot. What else about science in general, about how you see computers and
+
+37:48.960 --> 37:54.240
+also business and just everything about the world? She's a very powerful, brilliant woman
+
+37:54.240 --> 37:59.520
+like yourself. So is there some aspect of that too? Yeah, I think Roz is actually also very
+
+37:59.520 --> 38:07.200
+faith driven. She has this deep belief and conviction in the good in the world and humanity.
+
+38:08.800 --> 38:14.320
+I think meeting her and her family was definitely a defining moment for me because that was when
+
+38:14.320 --> 38:21.040
+I was like, wow, you can be of a different background and religion and whatever, and you
+
+38:21.120 --> 38:30.240
+can still have the same core values. I'm grateful to her. Roz, if you're listening, thank you.
+
+38:30.240 --> 38:36.320
+Yeah, she's great. She's been on this podcast before. I'm sure she'll be on again.
+
+38:38.800 --> 38:45.360
+You were the founder and CEO of Effectiva, which is a big company that was acquired by another big
+
+38:45.360 --> 38:51.040
+company, Smart Eye, and you're now the deputy CEO of Smart Eye. So you're a powerful leader.
+
+38:51.040 --> 38:55.600
+You're brilliant. You're a brilliant scientist. A lot of people are inspired by you. What advice
+
+38:55.600 --> 39:01.760
+would you give, especially to young women, but people in general who dream of becoming powerful
+
+39:01.760 --> 39:15.040
+leaders like yourself in a world where perhaps doesn't give them a clear, easy path to do so?
+
+39:15.600 --> 39:18.080
+Whether we're talking about Egypt or elsewhere.
+
+39:21.120 --> 39:29.280
+Hearing you describe me that way encapsulates what I think is the biggest challenge of all,
+
+39:29.280 --> 39:35.760
+which is believing in yourself. I have had to grapple with this, what I call now,
+
+39:35.760 --> 39:43.600
+the Debbie Downer voice in my head. It's just chattering all the time. It's basically saying,
+
+39:43.600 --> 39:47.600
+oh, no, no, you can't do this. You're not going to raise money. You can't start a company. What
+
+39:47.600 --> 39:52.000
+business do you have starting a company or running a company or selling a company? You name it.
+
+39:55.680 --> 40:03.280
+I think my biggest advice to not just women, but people who are taking a new path and
+
+40:04.240 --> 40:09.840
+they're not sure is to not let yourself and let your thoughts be the biggest obstacle in your way.
+
+40:10.800 --> 40:17.840
+And I've had to really work on myself to not be my own biggest obstacle.
+
+40:18.400 --> 40:19.760
+So you got that negative voice.
+
+40:20.560 --> 40:24.160
+Yeah. Am I the only one? I don't think I'm the only one.
+
+40:24.160 --> 40:30.880
+No, I have that negative voice. I'm not exactly sure if it's a bad thing or a good thing. I've
+
+40:30.880 --> 40:37.200
+been really torn about it because it's been a lifelong companion, so it's hard to know.
+
+40:37.440 --> 40:42.240
+It drives productivity and progress, but it can't hold you back from taking big leaps.
+
+40:43.760 --> 40:50.720
+I think the best I can say is probably you have to somehow be able to control it,
+
+40:51.280 --> 40:56.880
+to turn it off when it's not useful and turn it on when it's useful. I have from
+
+40:56.880 --> 41:00.240
+almost a third person perspective. Right. Somebody who's sitting there.
+
+41:00.960 --> 41:04.560
+Yeah, because it is useful to have a third person perspective.
+
+41:05.200 --> 41:14.960
+Yeah, because it is useful to be critical. I just gave a talk yesterday
+
+41:16.720 --> 41:24.640
+at MIT and there's so much love and it was such an incredible experience. So many amazing people
+
+41:24.640 --> 41:31.600
+I got a chance to talk to. But afterwards when I went home and just took this long walk, it was
+
+41:31.600 --> 41:40.080
+mostly just negative thoughts about me. One basic stuff, I don't deserve any of it. And second is
+
+41:41.520 --> 41:46.640
+why did you, that was so dumb. You said this, that's so dumb. You should have prepared that
+
+41:46.640 --> 41:56.240
+better. Why did you say this? But I think it's good to hear that voice out and sit in that.
+
+41:56.240 --> 42:00.320
+And ultimately, I think you grow from that. Now, when you're making really big decisions
+
+42:00.320 --> 42:07.760
+about funding or starting a company or taking a leap to go to the UK or take a leap to go to
+
+42:08.720 --> 42:19.280
+America to work in Media Lab. You should be able to shut that off then because
+
+42:21.200 --> 42:25.280
+you should have this weird confidence, almost like faith that you said before,
+
+42:25.280 --> 42:28.480
+that everything's going to work out. So take the leap of faith.
+
+42:28.480 --> 42:34.560
+Take the leap of faith. Despite all the negativity. I mean, there's some of that.
+
+42:34.560 --> 42:42.160
+You actually tweeted a really nice tweet thread. It says, quote, a year ago, a friend recommended
+
+42:42.160 --> 42:49.360
+I do daily affirmations and I was skeptical, but I was going through major transitions in my life.
+
+42:49.360 --> 42:55.520
+So I gave it a shot and it set me on a journey of self-acceptance and self-love. So what was that
+
+42:56.400 --> 43:01.360
+maybe talk through this idea of affirmations and how that helped you?
+
+43:01.360 --> 43:07.760
+Yeah, because really, I'm just like me. I'm a kind, I'd like to think of myself as a kind person in
+
+43:07.760 --> 43:14.800
+general, but I'm kind of mean to myself sometimes. And so I've been doing journaling for almost 10
+
+43:14.800 --> 43:20.240
+years now. I use an app called Day One and it's awesome. I just journal and I use it as an
+
+43:20.240 --> 43:24.000
+opportunity to almost have a conversation with the Debbie Downer voice in my head. It's like a
+
+43:24.000 --> 43:30.400
+rebuttal. Debbie Downer says, oh my God, you won't be able to erase this round of funny. I'm like,
+
+43:30.400 --> 43:36.640
+okay, let's talk about it. I have a track record of doing X, Y and Z. I think I can do this.
+
+43:40.000 --> 43:46.880
+I don't know that I can shut off the voice, but I can have a conversation with it and I bring data
+
+43:46.880 --> 43:53.120
+to the table. So that was the journaling part, which I found very helpful.
+
+43:53.760 --> 43:59.840
+But the affirmation took it to a whole next level and I just love it. I'm a year into doing this.
+
+44:00.400 --> 44:06.560
+And you literally wake up in the morning and the first thing you do, I meditate first. And then
+
+44:06.560 --> 44:11.360
+I write my affirmations and it's the energy I want to put out in the world that hopefully will come
+
+44:11.360 --> 44:17.440
+right back to me. So I will say, I always start with my smile lights up the whole world. And I
+
+44:17.440 --> 44:21.360
+kid you not, like people in the street will stop me and say, oh my God, like we love your smile.
+
+44:21.840 --> 44:29.920
+Like yes. So my affirmations will change depending on what's happening this day. Is it funny? I know.
+
+44:29.920 --> 44:35.120
+Don't judge. Don't judge. No, that's not right. Laughter is not judgment. It's just awesome.
+
+44:35.120 --> 44:43.360
+I mean, it's true, but you're saying affirmations somehow help kind of, what is it that they do work
+
+44:44.160 --> 44:49.680
+to remind you of the kind of person you are and the kind of person you want to be, which
+
+44:50.640 --> 44:54.640
+actually may be in reverse order, the kind of person you want to be. And that helps you become
+
+44:54.640 --> 44:59.520
+the kind of person you actually are. It's just, it's, it brings intentionality to like
+
+45:00.320 --> 45:06.480
+what you're doing. Right. And so, by the way, I was laughing because my affirmations, which I also
+
+45:06.480 --> 45:15.200
+do are the opposite. Oh, you do. Oh, I don't have a, my smile lights up the world. Maybe I should add
+
+45:15.280 --> 45:23.360
+that because like I, I have, I just, I have, oh boy, I just, it's, it's much more stoic, like
+
+45:24.000 --> 45:31.680
+about focus, about this kind of stuff. But the joy, the emotion that you're just in that little
+
+45:31.680 --> 45:37.120
+affirmation is beautiful. So maybe I should add that. I have some, I have some like focused stuff.
+
+45:37.120 --> 45:41.440
+Yeah. But that's usually, but that's a cool start. That's just, it's after all the like smiling,
+
+45:41.520 --> 45:45.520
+you're inspiring, playful and joyful and all that. And then it's like, okay, I kick butt.
+
+45:45.520 --> 45:51.040
+Let's get shit done, get shit done affirmation. Okay, cool. So like what else is on there?
+
+45:52.640 --> 46:00.560
+What else is on there? Well, I, I have, I'm a, I'm, I'm a magnet for all sorts of things. So I'm
+
+46:00.560 --> 46:04.400
+an amazing people magnet. I attract like awesome people into my universe.
+
+46:05.360 --> 46:10.640
+So that's an actual affirmation. Yes. That's great. Yeah. So that, that's, and that, yeah.
+
+46:10.640 --> 46:16.720
+And that somehow manifests itself until like in working. I think so. Yeah. Can you speak to like
+
+46:16.720 --> 46:23.280
+why it feels good to do the affirmations? I honestly think it just grounds the day.
+
+46:24.080 --> 46:30.080
+And then it allows me to, instead of just like being pulled back and forth, like throughout the
+
+46:30.080 --> 46:36.000
+day, it just like grounds me like, okay, like this thing happened. It's not exactly what I wanted it
+
+46:36.000 --> 46:42.240
+to be, but I'm patient or I'm, you know, I'm, I trust that the universe will do amazing things
+
+46:42.240 --> 46:47.040
+for me, which is one of my other consistent affirmations, or I'm an amazing mom, right?
+
+46:47.040 --> 46:53.120
+And so I can grapple with all the feelings of mom guilt that I have all the time. Or here's another
+
+46:53.120 --> 46:58.480
+one. I'm a love magnet. And I literally say, I will kind of picture the person that I'd love to
+
+46:58.480 --> 47:03.120
+end up with. And I write it all down and hasn't happened yet, but what are you, what are you
+
+47:03.120 --> 47:08.320
+picturing? This is Brad Pitt. Because that's what I picture. Okay. That's what you picture?
+
+47:08.320 --> 47:17.120
+Yeah. Running, holding hands, running together. No, more like fight club that the fight club,
+
+47:17.120 --> 47:21.920
+Brad Pitt, where he's like standing at people will know. Anyway, I'm sorry, I'll get off on that.
+
+47:21.920 --> 47:27.440
+Do you have like, when you're thinking about the being a love magnet in that way, are you
+
+47:27.440 --> 47:35.200
+picturing specific people or is this almost like in the space of like energy?
+
+47:36.000 --> 47:43.760
+Right. It's somebody who is smart and well accomplished and successful in their life,
+
+47:43.760 --> 47:48.000
+but they're generous and they're well traveled and they want to travel the world.
+
+47:48.720 --> 47:53.040
+It's things like that. Like their head over heels into me is like, I know it sounds super silly,
+
+47:53.040 --> 47:56.320
+but it's literally what I write. And I believe it'll happen one day.
+
+47:56.320 --> 47:58.240
+Oh, you actually write, so you don't say it out loud.
+
+47:58.240 --> 48:00.320
+No, I write it. I write all my affirmations.
+
+48:01.200 --> 48:06.480
+I do the opposite. I say, yeah, if I, if I'm alone, I'll say it out loud. Yeah.
+
+48:07.440 --> 48:08.320
+I should try that.
+
+48:10.000 --> 48:16.960
+I think it's which, what feels more powerful to you to me, more powerful
+
+48:18.240 --> 48:22.320
+saying stuff feels more powerful. Yeah. Writing is,
+
+48:23.280 --> 48:32.240
+um, writing feels like I'm losing, losing the words, like losing the power of the words,
+
+48:32.240 --> 48:34.240
+maybe because I write slow. Do you handwrite?
+
+48:34.880 --> 48:39.680
+No, I type it's on this app. It's day one. Basically. And I just, I can look,
+
+48:39.680 --> 48:45.680
+the best thing about it is I can look back and see like a year ago, what was I affirming, right?
+
+48:46.480 --> 48:48.320
+So it's also changes over time.
+
+48:49.280 --> 48:54.640
+It hasn't like changed a lot, but it, but the focus kind of changes over time.
+
+48:54.640 --> 48:57.840
+I got it. Yeah. I say the same exact thing over and over and over.
+
+48:57.840 --> 48:58.560
+Oh, you do? Okay.
+
+48:58.560 --> 49:03.680
+There's a comfort in the, in the sameness of it. Uh, well, actually let me jump around.
+
+49:03.680 --> 49:07.200
+Cause let me ask you about, cause talk to all this talk about Brad Pitt,
+
+49:07.200 --> 49:12.800
+or maybe it's just going on in my head. Um, let me ask you about dating in general. Um,
+
+49:13.760 --> 49:20.000
+you tweeted, are you based in Boston and single question mark? And then you pointed to an, uh,
+
+49:20.000 --> 49:26.560
+a startup singles night sponsored by smile dating app. I mean, this is jumping around a little bit,
+
+49:26.560 --> 49:34.880
+but since you mentioned, um, can AI help solve this, uh, dating love problem? What do you think
+
+49:34.880 --> 49:42.080
+this problem of connection that is part of the human condition, can AI help that you yourself
+
+49:42.160 --> 49:48.240
+are in the search affirming? Maybe that's what I should affirm. Like build an AI,
+
+49:48.240 --> 49:55.360
+build an AI that finds love. I think, I think there must be a science behind
+
+49:56.800 --> 50:02.800
+that first moment you meet a person and you either have chemistry or you don't. Right? Like you,
+
+50:02.800 --> 50:07.200
+I guess that was the question I was asking. Would you put it brilliantly? Is that a science or an
+
+50:07.200 --> 50:15.120
+art? Ooh, I think there are like, there's actual chemicals that get exchanged when two people meet.
+
+50:15.120 --> 50:21.120
+Oh, I don't know about that. I like how you're changing. Yeah. Changing your mind as we're
+
+50:21.120 --> 50:26.720
+describing it, but it feels that way. Right. But it's what science shows us is sometimes we can
+
+50:26.720 --> 50:33.200
+explain with the rigor, the things that feel like magic. Right. So maybe you can remove all the
+
+50:33.200 --> 50:39.760
+magic. Maybe it's like, I honestly think, like I said, like Goodreads should be a dating app,
+
+50:39.760 --> 50:47.040
+which like books, I wonder, I wonder if you look at just like books or content you've consumed.
+
+50:47.040 --> 50:51.280
+I mean, that's essentially what YouTube does when it does recommend a recommendation. If you just
+
+50:51.280 --> 50:56.960
+look at your footprint of content consumed, if there's an overlap, but maybe interesting
+
+50:56.960 --> 51:02.240
+difference with an overlap that some, I'm sure this is a machine learning problem that's solvable
+
+51:02.240 --> 51:10.000
+like this person is very likely to be not only there to be chemistry in the short term, but a
+
+51:10.000 --> 51:14.960
+good lifelong partner to grow together. I bet you it's a good machine learning problem. We just need
+
+51:14.960 --> 51:20.560
+the data. Let's do it. Yeah. Well, actually I do think there's so much data about each of us that
+
+51:20.560 --> 51:24.640
+there ought to be a machine learning algorithm that can ingest all this data and basically say,
+
+51:24.640 --> 51:30.800
+I think the following 10 people would be interesting connections for you. Right. Um,
+
+51:31.280 --> 51:36.560
+um, and, and so smile dating app kind of took one particular angle, which is humor.
+
+51:36.560 --> 51:41.840
+It matches people based on their humor styles, which is one of the main ingredients of a
+
+51:41.840 --> 51:46.320
+successful relationship. Like if you meet somebody and they can make you laugh, like that's a good
+
+51:46.320 --> 51:52.960
+thing. And if you develop like internal jokes, like inside jokes and you're bantering, like that's
+
+51:52.960 --> 52:01.680
+fun. Yeah. So I think, yeah, definitely. But yeah, that's the, uh, the number of,
+
+52:01.680 --> 52:08.080
+and the rate of inside joke generation. Uh, you could probably measure that and then optimize it
+
+52:08.080 --> 52:12.160
+over the first few days. You can say, and then we're just turning this into a machine learning
+
+52:12.160 --> 52:19.360
+problem. I love it. Uh, but for somebody like you, who's exceptionally successful and busy, um,
+
+52:19.360 --> 52:28.240
+um, is there, is there signs to that aspect of dating? Is it tricky? Is there advice you can
+
+52:28.240 --> 52:34.080
+give? Oh my God, I give the worst advice. Well, I can tell you like, I have a spreadsheet spreadsheet.
+
+52:35.840 --> 52:41.040
+Is that a good or a bad thing? Do you regret the spreadsheet? Uh, well, I don't know. What's the
+
+52:41.040 --> 52:46.720
+name of the spreadsheet? Is it love? It's the date track, dating tracker, dating tracker. It's very,
+
+52:46.800 --> 52:52.240
+love tracker. Yeah. And there's a rating system, I'm sure. Yeah. There's like weights and stuff.
+
+52:52.240 --> 52:57.040
+It's too close to home. Oh, is it? Do you also? Well, I don't have a spreadsheet, but I would,
+
+52:57.040 --> 53:04.560
+now that you say it, it seems like a good idea. Uh, turning into data. Um,
+
+53:05.760 --> 53:11.920
+I do wish that somebody else had a spreadsheet about me. If, you know, if it was like,
+
+53:12.880 --> 53:18.240
+like, like I said, like you said, uh, convert, collect a lot of data about us in a way that's
+
+53:18.240 --> 53:23.600
+privacy preserving that I own the data, I can control it and then use that data to find not,
+
+53:23.600 --> 53:29.040
+I mean, not just romantic love, but, uh, collaborators, friends, all that kind of stuff.
+
+53:29.040 --> 53:34.080
+It seems like the data is there. Uh, the, that's the problem. Social networks are trying to solve,
+
+53:34.080 --> 53:38.880
+but I think they're doing a really poor job. Even Facebook tried to get into a dating app
+
+53:38.880 --> 53:44.400
+business. And I think there's so many components to running a successful company that connects
+
+53:44.400 --> 53:53.120
+human beings. And part of that is, you know, uh, having engineers that care about the human side,
+
+53:53.120 --> 53:58.960
+right? As you know, extremely well, it's not, it's not easy to find those, but you don't also
+
+53:58.960 --> 54:02.960
+don't want just people that care about the human. They also have to be good engineers. So it's like,
+
+54:02.960 --> 54:08.000
+you have to find this, this, this beautiful mix. And for some reason, just empirically speaking,
+
+54:09.040 --> 54:14.320
+it's, it, people have not done a good job of that, of building companies like that. And it
+
+54:14.320 --> 54:20.720
+must mean that it's a difficult problem to solve dating apps. It seems difficult. Okay. Cupid,
+
+54:20.720 --> 54:28.320
+Tinder, all those kinds of stuff. They seem to find, of course they work, but they seem
+
+54:29.760 --> 54:35.760
+to not work as well as I would imagine it's possible. Like with data, wouldn't you be able
+
+54:35.840 --> 54:40.480
+to find better human connection? It's like arranged marriages on steroids, essentially.
+
+54:41.360 --> 54:47.120
+Arranged by machine learning algorithm, but, but not a superficial one. I think a lot of the
+
+54:47.120 --> 54:52.400
+dating apps out there are just so superficial. They're just matching on like high level criteria
+
+54:52.400 --> 54:59.680
+that aren't ingredients for successful partnership. But you know what's missing though too? I don't
+
+54:59.680 --> 55:05.040
+know how to fix that. The serendipity piece of it. Like, how do you engineer serendipity? Like this
+
+55:05.040 --> 55:09.120
+random like chance encounter, and then you fall in love with the person. Like, I don't know how
+
+55:09.120 --> 55:16.000
+a dating app can, can do that. So it has to be a little bit of randomness. Maybe every 10th match
+
+55:16.640 --> 55:24.320
+is just a, you know, yeah, somebody that the algorithm wouldn't have necessarily recommended,
+
+55:24.320 --> 55:30.000
+but it's, it allows for a little bit of, well, it can also, you know, it can also trick you
+
+55:30.560 --> 55:36.000
+into thinking of serendipity by like somehow showing you a tweet of a person
+
+55:37.280 --> 55:41.600
+that he thinks you'll match well with, but do it accidentally as part of another search.
+
+55:41.600 --> 55:46.400
+And like, you just notice it, like, and then you get, you go down a rabbit hole and you connect
+
+55:46.400 --> 55:51.920
+them outside the app too. Like you connect with this person outside the app somehow. So it's just,
+
+55:51.920 --> 55:56.560
+it creates that moment of meeting. Of course you have to think of, from an app perspective,
+
+55:56.560 --> 56:02.000
+how you can turn that into a business. But I think ultimately a business that helps people
+
+56:02.000 --> 56:07.440
+find love in any way. Like that's what Apple was about. Create products that people love.
+
+56:07.440 --> 56:12.400
+That's beautiful. I mean, that's, you've got to make money somehow. If you, if you help people
+
+56:12.400 --> 56:18.800
+fall in love personally with the product, find self-love or love another human being,
+
+56:18.800 --> 56:24.240
+you're going to make money. You're going to figure out a way to make money. I just feel like dating
+
+56:24.240 --> 56:30.000
+apps often will optimize for something else than love. It's the same with social networks.
+
+56:30.000 --> 56:36.080
+They optimize for engagement as opposed to like a deep, meaningful connection that's ultimately
+
+56:36.080 --> 56:40.240
+grounded in like personal growth, you as a human being growing and all that kind of stuff.
+
+56:41.520 --> 56:49.120
+Let me do like a pivot to a dark topic, which you opened the book with. A story,
+
+56:50.080 --> 56:56.240
+because I'd like to talk to you about just emotion and artificial intelligence. I think
+
+56:56.240 --> 57:01.680
+this is a good story to start to think about emotional intelligence. You open the book with
+
+57:01.680 --> 57:08.240
+a story of a central Florida man, Jamel Dunn, who was drowning and drowned while five teenagers
+
+57:08.240 --> 57:13.520
+watched and laughed, saying things like, you're going to die. And when Jamel disappeared below
+
+57:13.520 --> 57:18.720
+the surface of the water, one of them said, he just died. And the others laughed. What is this
+
+57:18.800 --> 57:24.080
+incident teach you about human nature and the response to it perhaps?
+
+57:24.080 --> 57:32.160
+Yeah. I mean, I think this is a really, really, really sad story. And it highlights what I believe
+
+57:33.680 --> 57:38.800
+it's a real problem in our world today. It's an empathy crisis. Yeah, we're living through
+
+57:38.800 --> 57:46.320
+an empathy crisis. And I mean, we've talked about this throughout our conversation. We
+
+57:46.320 --> 57:52.800
+dehumanize each other. And unfortunately, yes, technology is bringing us together,
+
+57:52.800 --> 58:01.680
+but in a way, it's creating this dehumanizing of the other. And I think that's a huge problem.
+
+58:02.560 --> 58:08.400
+The good news is I think the solution could be technology-based. I think if we rethink the way
+
+58:08.400 --> 58:14.080
+we design and deploy our technologies, we can solve parts of this problem. But I worry about
+
+58:14.080 --> 58:22.640
+it. I mean, even with my son, a lot of his interactions are computer-mediated. And I just
+
+58:22.640 --> 58:28.480
+question what that's doing to his empathy skills and his ability to really connect with people.
+
+58:32.640 --> 58:36.480
+You think it's not possible to form empathy through the digital medium?
+
+58:36.480 --> 58:45.600
+I think it is, but we have to be thoughtful about... Because the way we engage face-to-face,
+
+58:45.600 --> 58:50.400
+which is what we're doing right now, there's the non-verbal signals, which are a majority of how
+
+58:50.400 --> 58:57.120
+we communicate. It's like 90% of how we communicate is your facial expressions. I'm saying something
+
+58:57.120 --> 59:02.480
+and you're nodding your head now, and that creates a feedback loop. And if you break that...
+
+59:02.480 --> 59:03.840
+And now I have anxiety about it.
+
+59:07.840 --> 59:12.000
+Oh boy. I am not scrutinizing your facial expressions during this interview, right?
+
+59:12.000 --> 59:18.640
+I am. Look normal. Look human. Nod head.
+
+59:18.640 --> 59:19.360
+Yeah, nod head.
+
+59:20.880 --> 59:21.520
+In agreement.
+
+59:21.520 --> 59:24.640
+If Rana says yes, then nod head else.
+
+59:25.680 --> 59:29.920
+Don't do it too much because it might be at the wrong time, and then it will send the wrong
+
+59:29.920 --> 59:36.160
+signal. And make eye contact sometimes because humans appreciate that. Anyway.
+
+59:36.160 --> 59:36.660
+Okay.
+
+59:38.560 --> 59:42.480
+Yeah, but something about the... Especially when you say mean things in person,
+
+59:42.480 --> 59:44.240
+you get to see the pain of the other person.
+
+59:44.240 --> 59:47.920
+Exactly. But if you're tweeting it at a person and you have no idea how it's going to land,
+
+59:47.920 --> 59:51.920
+you're more likely to do that on social media than you are in face-to-face conversations.
+
+59:51.920 --> 59:55.840
+I mean, what do you think is more important?
+
+59:58.960 --> 01:00:06.320
+EQ or IQ? EQ being emotional intelligence. In terms of what makes us human.
+
+01:00:08.080 --> 01:00:14.800
+I think emotional intelligence is what makes us human. It's how we connect with one another.
+
+01:00:14.880 --> 01:00:22.000
+It's how we build trust. It's how we make decisions, right? Your emotions drive
+
+01:00:23.280 --> 01:00:27.360
+what you had for breakfast, but also where you decide to live and what you want to do
+
+01:00:27.360 --> 01:00:31.360
+for the rest of your life. So I think emotions are underrated.
+
+01:00:33.520 --> 01:00:39.120
+Emotional intelligence isn't just about the effective expression of your own emotions.
+
+01:00:39.120 --> 01:00:44.640
+It's about a sensitivity and empathy to other people's emotions and that being able
+
+01:00:44.640 --> 01:00:48.320
+to effectively engage in a dance of emotions with other people.
+
+01:00:48.880 --> 01:00:55.200
+Yeah, I like that explanation. I like that kind of... Yeah, thinking about it as a dance,
+
+01:00:55.200 --> 01:00:59.280
+because it is really about that. It's about sensing what state the other person's in and
+
+01:00:59.280 --> 01:01:06.400
+using that information to decide on how you're going to react. And I think it can be very
+
+01:01:06.400 --> 01:01:13.840
+powerful. People who are the best, most persuasive leaders in the world tap into
+
+01:01:14.640 --> 01:01:19.920
+it. If you have higher EQ, you're more likely to be able to motivate people
+
+01:01:19.920 --> 01:01:24.400
+to change their behaviors. So it can be very powerful.
+
+01:01:24.960 --> 01:01:31.760
+On a more kind of technical, maybe philosophical level, you've written that emotion is universal.
+
+01:01:32.480 --> 01:01:38.960
+It seems that sort of like Chomsky says, language is universal. There's a bunch of other stuff like
+
+01:01:39.040 --> 01:01:45.680
+cognition, consciousness. It seems a lot of us have these aspects. So the human mind generates
+
+01:01:45.680 --> 01:01:52.640
+all this. What do you think is the... They all seem to be like echoes of the same thing.
+
+01:01:53.840 --> 01:02:00.080
+What do you think emotion is exactly? How deep does it run? Is it a surface level thing
+
+01:02:00.640 --> 01:02:05.280
+that we display to each other? Is it just another form of language or something deep within?
+
+01:02:06.240 --> 01:02:13.040
+I think it's really deep. We started with memory. I think emotions play a really important...
+
+01:02:15.440 --> 01:02:20.640
+Emotions play a very important role in how we encode memories. Our memories are often encoded,
+
+01:02:20.640 --> 01:02:30.880
+almost indexed by emotions. It's at the core of how our decision-making engine is also
+
+01:02:30.880 --> 01:02:34.480
+heavily influenced by our emotions. So emotions is part of cognition.
+
+01:02:34.960 --> 01:02:35.600
+Totally.
+
+01:02:35.600 --> 01:02:37.600
+It's intermixed into the whole thing.
+
+01:02:37.600 --> 01:02:42.880
+Yes, absolutely. In fact, when you take it away, people are unable to make decisions. They're
+
+01:02:42.880 --> 01:02:48.000
+really paralyzed. They can't go about their daily or their personal or professional lives.
+
+01:02:50.640 --> 01:02:57.520
+It does seem like there's probably some interesting interweaving of emotion and
+
+01:02:57.520 --> 01:03:03.600
+consciousness. I wonder if it's possible to have... Like if they're next door neighbors somehow,
+
+01:03:03.680 --> 01:03:13.200
+or if they're actually flatmates. It feels like the hard problem of consciousness where
+
+01:03:13.200 --> 01:03:21.360
+it feels like something to experience the thing. Red feels like red. When you eat a mango, it's
+
+01:03:21.360 --> 01:03:27.280
+sweet. The sweetness that it feels like something to experience that sweetness.
+
+01:03:28.240 --> 01:03:31.200
+That whatever generates emotions...
+
+01:03:34.480 --> 01:03:41.440
+I feel like emotion is part of communication. It's very much about communication. That means
+
+01:03:41.440 --> 01:03:50.080
+it's also deeply connected to language. But then probably human intelligence is deeply
+
+01:03:50.080 --> 01:03:54.480
+connected to the collective intelligence between humans. It's not just a standalone thing.
+
+01:03:54.640 --> 01:03:59.840
+The whole thing is really connected. Emotion is connected to language. Language is connected to
+
+01:03:59.840 --> 01:04:05.200
+intelligence. Intelligence is connected to consciousness. Consciousness is connected
+
+01:04:05.200 --> 01:04:08.800
+to emotion. The whole thing is a beautiful mess.
+
+01:04:12.640 --> 01:04:18.400
+Can I comment on the emotions being a communication mechanism? I think there are two facets of
+
+01:04:19.360 --> 01:04:25.360
+of our emotional experiences. One is communication. We use emotions,
+
+01:04:26.160 --> 01:04:31.520
+for example, facial expressions or other nonverbal cues to connect with other human beings and with
+
+01:04:31.520 --> 01:04:41.840
+other beings in the world. But even if it's not a communication context, we still experience emotions
+
+01:04:41.840 --> 01:04:47.520
+and we still process emotions and we still leverage emotions to make decisions and to learn.
+
+01:04:48.720 --> 01:04:54.560
+To experience life. It isn't always just about communication. We learned that very early on
+
+01:04:55.360 --> 01:05:01.920
+in our work at Affectiva. One of the very first applications we brought to market was understanding
+
+01:05:01.920 --> 01:05:06.960
+how people respond to content. If they're watching this video of ours, are they interested? Are they
+
+01:05:06.960 --> 01:05:13.280
+inspired? Are they bored to death? We watched their facial expressions. We weren't sure if
+
+01:05:13.280 --> 01:05:19.040
+people would express any emotions if they were sitting alone. If you're in your bed at night
+
+01:05:19.760 --> 01:05:24.480
+watching a Netflix TV series, would we still see any emotions on your face? We were surprised that
+
+01:05:24.480 --> 01:05:28.960
+yes, people still emote even if they're alone. Even if you're in your car driving around,
+
+01:05:28.960 --> 01:05:34.560
+you're singing along a song and you're joyful, we'll see these expressions. It's not just about
+
+01:05:34.560 --> 01:05:40.320
+communicating with another person. It sometimes really isn't just about experiencing the world.
+
+01:05:40.480 --> 01:05:45.920
+First of all, I wonder if some of that is because we develop our intelligence
+
+01:05:46.400 --> 01:05:50.960
+and our emotional intelligence by communicating with other humans.
+
+01:05:50.960 --> 01:05:55.520
+So when other humans disappear from the picture, we're still kind of a virtual human.
+
+01:05:55.520 --> 01:05:56.880
+The code still runs, basically.
+
+01:05:56.880 --> 01:06:01.920
+Yeah, the code still runs. But you're also kind of, you're still, there's like virtual humans.
+
+01:06:01.920 --> 01:06:06.560
+You don't have to think of it that way, but there's a kind of, when you like chuckle, like,
+
+01:06:06.560 --> 01:06:15.280
+you're kind of chuckling to a virtual human. I mean, it's possible that the code has to have
+
+01:06:15.280 --> 01:06:23.280
+another human there, because if you just grew up alone, I wonder if emotion will still be there
+
+01:06:23.840 --> 01:06:32.960
+in this visual form. So yeah, I wonder. But anyway, what can you tell from the human face about
+
+01:06:33.680 --> 01:06:39.440
+what's going on inside? So that's the problem that Effectiva first tackled, which is using
+
+01:06:40.640 --> 01:06:45.840
+computer vision, using machine learning to try to detect stuff about the human face,
+
+01:06:45.840 --> 01:06:49.840
+as many things as possible, and convert them into a prediction of
+
+01:06:51.440 --> 01:06:56.960
+categories of emotion, anger, happiness, all that kind of stuff. How hard is that problem?
+
+01:06:56.960 --> 01:07:00.960
+It's extremely hard. It's very, very hard, because there is a lot of
+
+01:07:00.960 --> 01:07:06.720
+mapping between a facial expression and your internal state. There just isn't. There's this
+
+01:07:06.720 --> 01:07:11.360
+oversimplification of the problem, where it's something like, if you are smiling, then you're
+
+01:07:11.360 --> 01:07:16.240
+happy. If you do a brow furrow, then you're angry. If you do an eyebrow raise, then you're surprised.
+
+01:07:16.240 --> 01:07:21.440
+And just think about it for a moment. You could be smiling for a whole host of reasons.
+
+01:07:21.440 --> 01:07:27.840
+You could also be happy and not be smiling, right? You could furrow your eyebrows because
+
+01:07:28.160 --> 01:07:35.360
+you're angry, or you're confused about something, or you're constipated.
+
+01:07:37.120 --> 01:07:41.840
+So I think this oversimplistic approach to inferring emotion from a facial expression
+
+01:07:41.840 --> 01:07:49.520
+is really dangerous. The solution is to incorporate as many contextual signals as you can.
+
+01:07:50.800 --> 01:07:57.600
+For example, I'm driving a car, and you can see me nodding my head, and my eyes are closed,
+
+01:07:57.600 --> 01:08:03.600
+and the blinking rate is changing. I'm probably falling asleep at the wheel, right? Because you
+
+01:08:03.600 --> 01:08:10.560
+know the context. You understand what the person is doing. Or add additional channels like voice
+
+01:08:10.560 --> 01:08:17.200
+or gestures or even physiological sensors. But I think it's very dangerous to just take this
+
+01:08:17.200 --> 01:08:23.760
+oversimplistic approach of, yeah, smile equals happy. If you're able to, in a high-resolution
+
+01:08:23.760 --> 01:08:28.640
+way, specify the context, there are certain things that are going to be somewhat reliable
+
+01:08:28.640 --> 01:08:35.360
+signals of something like drowsiness or happiness or stuff like that. I mean, when people are
+
+01:08:35.360 --> 01:08:42.720
+watching Netflix content, that problem, that's a really compelling idea that you can kind of,
+
+01:08:42.720 --> 01:08:49.600
+at least in aggregate, highlight which part was boring, which part was exciting. How hard was that
+
+01:08:49.600 --> 01:08:57.680
+problem? That was on the scale of difficulty. I think that's one of the easier problems to solve
+
+01:08:57.680 --> 01:09:04.080
+because it's a relatively constrained environment. You have somebody sitting in front of, initially,
+
+01:09:04.080 --> 01:09:09.520
+we started with a device in front of you, like a laptop, and then we graduated to doing this on a
+
+01:09:09.520 --> 01:09:15.920
+mobile phone, which is a lot harder just because of, from a computer vision perspective, the profile
+
+01:09:15.920 --> 01:09:20.960
+view of the face can be a lot more challenging. We had to figure out lighting conditions because
+
+01:09:20.960 --> 01:09:26.400
+usually people are watching content literally in their bedrooms at night. Lights are dimmed.
+
+01:09:27.920 --> 01:09:32.480
+Yeah. I mean, if you're standing, it's probably going to be the looking up.
+
+01:09:32.480 --> 01:09:33.920
+The nostril view.
+
+01:09:33.920 --> 01:09:38.960
+Yeah. And nobody looks good at. I've seen data sets from that perspective. It's like,
+
+01:09:39.200 --> 01:09:45.040
+ugh, this is not a good look for anyone. Or if you're laying in bed at night,
+
+01:09:45.040 --> 01:09:51.920
+what is it, side view or something? Half your face is on a pillow. Actually, I would love to know,
+
+01:09:51.920 --> 01:10:03.040
+have data about how people watch stuff in bed at night. Do they prop there? Is it in a pillow?
+
+01:10:04.480 --> 01:10:06.160
+I'm sure there's a lot of interesting dynamics.
+
+01:10:06.160 --> 01:10:11.040
+Right. From a health and wellbeing perspective, right? Just like, oh, you're hurting your neck.
+
+01:10:11.040 --> 01:10:16.400
+I was thinking machine learning perspective, but yes. But also, yeah. Once you have that data,
+
+01:10:16.400 --> 01:10:20.000
+you can start making all kinds of inference about health and stuff like that.
+
+01:10:20.000 --> 01:10:20.560
+Interesting.
+
+01:10:21.680 --> 01:10:24.880
+There was an interesting thing when I was at Google that we were,
+
+01:10:27.760 --> 01:10:33.680
+it's called active authentication, where you want to be able to unlock your phone without
+
+01:10:33.680 --> 01:10:40.000
+using a password. So it would face, but also other stuff, like the way you take a phone out
+
+01:10:40.000 --> 01:10:46.400
+of the pocket. So that kind of data to use the multimodal with machine learning, to be able to
+
+01:10:46.400 --> 01:10:52.000
+identify that it's you or likely to be you, likely not to be you. That allows you to not always have
+
+01:10:52.000 --> 01:10:57.520
+to enter the password. That was the idea. But the funny thing about that is, I just want to
+
+01:10:57.520 --> 01:11:09.680
+tell a small anecdote, is because it was all male engineers. My boss, our boss, who's still
+
+01:11:09.680 --> 01:11:13.440
+one of my favorite humans, was a woman, Regina Dugan.
+
+01:11:14.320 --> 01:11:16.560
+Oh my God, I love her. She's awesome.
+
+01:11:16.560 --> 01:11:17.120
+She's the best.
+
+01:11:17.520 --> 01:11:20.880
+She's the best.
+
+01:11:20.880 --> 01:11:26.960
+So, but anyway, there's one female engineer, brilliant female engineer on the team,
+
+01:11:26.960 --> 01:11:31.360
+and she was the one that actually highlighted the fact that women often don't have pockets.
+
+01:11:33.360 --> 01:11:39.120
+It was like, whoa, that was not even a category in the code of like, wait a minute, you can take
+
+01:11:39.120 --> 01:11:45.280
+the phone out of some other place than your pocket. So anyway, that's a funny thing when
+
+01:11:45.280 --> 01:11:52.640
+you're concerning people laying in bed watching a phone, you have to consider diversity in all
+
+01:11:52.640 --> 01:11:55.200
+its forms, depending on the problem, depending on the context.
+
+01:11:55.200 --> 01:11:59.920
+Yes. Actually, this is like a very important, I think this is, you know, you probably get this
+
+01:11:59.920 --> 01:12:04.640
+all the time, like people are worried that AI is going to take over humanity and like, get rid of
+
+01:12:04.640 --> 01:12:08.880
+all the humans in the world. I'm like, actually, that's not my biggest concern. My biggest concern
+
+01:12:08.880 --> 01:12:14.960
+is that we are building bias into these systems. And then they're like deployed at large and at
+
+01:12:14.960 --> 01:12:20.880
+scale. And before you know it, you're kind of accentuating the bias that exists in society.
+
+01:12:22.240 --> 01:12:26.000
+Yeah, I'm not, you know, I know people, it's very important to worry about that. But
+
+01:12:28.480 --> 01:12:34.800
+the worry is an emergent phenomena to me, which is a very good one, because I think these systems
+
+01:12:34.800 --> 01:12:42.720
+are actually by encoding the data that exists, they're revealing the bias in society, they're
+
+01:12:42.720 --> 01:12:48.080
+for teaching us what the bias is. Therefore, we can now improve that bias within the system.
+
+01:12:48.080 --> 01:12:52.960
+So they're almost like putting a mirror to ourselves. So I'm not-
+
+01:12:52.960 --> 01:12:57.440
+You have to be open to looking at the mirror, though. You have to be open to scrutinizing the
+
+01:12:57.440 --> 01:13:00.960
+data. And if you just take it as ground-
+
+01:13:00.960 --> 01:13:04.720
+Or you don't even have to look at the, I mean, yes, the data is how you fix it. But then you
+
+01:13:04.720 --> 01:13:09.600
+just look at the behavior of the system. And you realize, holy crap, this thing is kind of racist.
+
+01:13:10.160 --> 01:13:13.680
+Like, why is that? And then you look at the data, it's like, oh, okay. And then you start
+
+01:13:13.680 --> 01:13:20.160
+to realize that I think that's a much more effective way to be introspective as a society
+
+01:13:20.160 --> 01:13:24.080
+than through sort of political discourse. Like AI kind of-
+
+01:13:24.080 --> 01:13:24.320
+Right.
+
+01:13:26.160 --> 01:13:34.720
+Because people are for some reason more productive and rigorous in criticizing AI than they're
+
+01:13:34.720 --> 01:13:39.440
+criticizing each other. So I think this is just a nice method for studying society and
+
+01:13:39.840 --> 01:13:45.440
+which way progress lies. Anyway, what we're talking about, you're watching the problem
+
+01:13:45.440 --> 01:13:51.040
+of watching Netflix in bed or elsewhere and seeing which parts are exciting, which parts
+
+01:13:51.040 --> 01:13:53.040
+are boring. You're saying that's-
+
+01:13:53.040 --> 01:13:57.920
+Relatively constrained because you have a captive audience and you kind of know the context. And
+
+01:13:58.880 --> 01:14:02.160
+one thing you said that was really key is the aggregate. You're doing this in aggregate,
+
+01:14:02.160 --> 01:14:05.920
+right? Like we're looking at aggregated response of people. And so when you see a peek,
+
+01:14:06.640 --> 01:14:12.080
+say a smile peek, they're probably smiling or laughing at something that's in the content.
+
+01:14:13.440 --> 01:14:18.880
+So that was one of the first problems we were able to solve. And when we see the smile peek,
+
+01:14:18.880 --> 01:14:23.760
+it doesn't mean that these people are internally happy. They're just laughing at content. So it's
+
+01:14:23.760 --> 01:14:29.520
+important to call it for what it is. But it's still really, really useful data.
+
+01:14:29.520 --> 01:14:31.520
+Oh, yeah. I wonder how that compares to,
+
+01:14:31.600 --> 01:14:38.480
+so what YouTube and other places will use is obviously they don't have, for the most
+
+01:14:39.040 --> 01:14:42.800
+case, they don't have that kind of data, but they have the data of when people
+
+01:14:44.720 --> 01:14:50.320
+tune out, like switch to drop off. And I think that's in aggregate for YouTube at
+
+01:14:50.320 --> 01:14:59.920
+least a pretty powerful signal. I worry about what that leads to because looking at YouTubers
+
+01:14:59.920 --> 01:15:05.200
+that are kind of really care about views and, you know, try to maximize the number of views,
+
+01:15:06.160 --> 01:15:11.440
+I think they, when they say that the video should be constantly interesting,
+
+01:15:12.240 --> 01:15:19.760
+which seems like a good goal, I feel like that leads to this manic pace of a video.
+
+01:15:20.480 --> 01:15:26.000
+Like the idea that I would speak at the current speed that I'm speaking, I don't know.
+
+01:15:27.280 --> 01:15:29.520
+And that every moment has to be engaging, right?
+
+01:15:30.480 --> 01:15:31.120
+Yeah.
+
+01:15:31.120 --> 01:15:36.240
+I think there's value to silence. There's value to the boring bits. I mean, some of the greatest
+
+01:15:36.240 --> 01:15:40.320
+movies ever, some of the greatest stories ever told me they have that boring bits,
+
+01:15:41.200 --> 01:15:47.440
+seemingly boring bits. I don't know. I wonder about that. Of course, it's not that the human
+
+01:15:47.440 --> 01:15:55.600
+face can capture that either. It's just giving an extra signal. You have to really, I don't know,
+
+01:15:55.600 --> 01:16:03.200
+you have to really collect deeper, long-term data about what was meaningful to people.
+
+01:16:03.920 --> 01:16:09.200
+When they think 30 days from now, what they still remember, what moved them,
+
+01:16:09.200 --> 01:16:12.640
+what changed them, what helped them grow, that kind of stuff.
+
+01:16:12.640 --> 01:16:16.880
+You know, it would be a really, I don't know if there are any researchers out there who are doing
+
+01:16:16.880 --> 01:16:23.520
+this type of work. Wouldn't it be so cool to tie your emotional expressions while you're
+
+01:16:23.760 --> 01:16:30.160
+listening to a podcast interview and then 30 days later interview people and say,
+
+01:16:30.160 --> 01:16:35.200
+hey, what do you remember? You've watched this 30 days ago. What stuck with you? And then see if
+
+01:16:35.200 --> 01:16:39.360
+there's any, there ought to be maybe, there ought to be some correlation between these emotional
+
+01:16:39.360 --> 01:16:49.920
+experiences and yeah, what stays with you. So the one guy listening now on the beach in Brazil,
+
+01:16:49.920 --> 01:16:54.800
+please record a video of yourself listening to this and send it to me and then I'll interview
+
+01:16:54.800 --> 01:17:00.160
+you 30 days from now. Yeah, that would be great. It would be statistically significant.
+
+01:17:05.520 --> 01:17:10.880
+I think that's really fascinating. I think that kind of holds the key to
+
+01:17:10.880 --> 01:17:18.080
+a future where entertainment or content is both entertaining and,
+
+01:17:20.400 --> 01:17:26.640
+I don't know, makes you better, empowering in some way. So figuring out like,
+
+01:17:28.480 --> 01:17:34.720
+showing people stuff that entertains them, but also they're happy they watched 30 days from now
+
+01:17:34.720 --> 01:17:39.760
+because they've become a better person because of it. Well, you know, okay, not to riff on this topic
+
+01:17:39.840 --> 01:17:45.600
+for too long, but I have two children, right? And I see my role as a parent as like a chief
+
+01:17:45.600 --> 01:17:50.720
+opportunity officer. Like I am responsible for exposing them to all sorts of things in the world
+
+01:17:51.840 --> 01:17:56.880
+but often I have no idea of knowing like, what's stuck? Like, what was, you know, is this actually
+
+01:17:56.880 --> 01:18:01.680
+going to be transformative, you know, for them 10 years down the line? And I wish there was a way to
+
+01:18:01.680 --> 01:18:08.080
+quantify these experiences. Like, are they, I can tell in the moment if they're engaging, right?
+
+01:18:08.160 --> 01:18:13.360
+I can tell. But it's really hard to know if they're going to remember them 10 years from now or if
+
+01:18:13.360 --> 01:18:19.680
+it's going to... Yeah, that one is weird because it seems like kids remember the weirdest things.
+
+01:18:19.680 --> 01:18:24.000
+I've seen parents do incredible stuff with their kids and they don't remember any of that. They
+
+01:18:24.000 --> 01:18:29.760
+remember some tiny, small, sweet thing a parent did. Right. Like some... They took you to like
+
+01:18:29.760 --> 01:18:34.880
+this amazing country vacation. Yeah, exactly. No, whatever. And then they'll be like some
+
+01:18:34.880 --> 01:18:39.280
+like stuffed toy you got or some, or the new PlayStation or something or some,
+
+01:18:39.280 --> 01:18:45.200
+some silly little thing. So I think they, they just like that they were designed that way. They
+
+01:18:45.200 --> 01:18:53.360
+want to mess with your head, but definitely kids are very impacted by, it seems like sort of
+
+01:18:53.360 --> 01:18:59.680
+negative events. So minimizing the number of negative events is important, but not too much,
+
+01:18:59.680 --> 01:19:05.600
+right? Right. You can't, you can't just like, you know, there's still discipline and challenge
+
+01:19:05.600 --> 01:19:10.480
+and all those kinds of things. So. You want some adversity for sure. So yeah, I mean, I'm definitely,
+
+01:19:10.480 --> 01:19:16.000
+when I have kids, I'm going to drive them out into the woods. Okay. And then they have to survive
+
+01:19:16.000 --> 01:19:22.240
+and make, figure out how to make their way back home, like 20 miles out. Okay. Yeah. And after
+
+01:19:22.240 --> 01:19:28.320
+that we can go for ice cream. Anyway, I'm working on this whole parenting thing. I haven't figured
+
+01:19:28.320 --> 01:19:35.360
+it out. Okay. What were we talking about? Yes. Effectiva, the, the, the, the problem of emotion,
+
+01:19:37.920 --> 01:19:42.240
+of emotion detection. So there's some people, maybe we can just speak to that a little more
+
+01:19:42.240 --> 01:19:48.160
+where there, there's folks like Lisa Feldman Barrett that challenged this idea that emotion
+
+01:19:48.160 --> 01:19:55.840
+could be fully detected or even well detected from the human face, that there's so much more
+
+01:19:55.840 --> 01:20:02.400
+to emotion. What do you think about ideas like hers criticism like hers? Yeah, I actually agree
+
+01:20:02.400 --> 01:20:11.600
+with a lot of Lisa's criticisms. So even, even my PhD worked like 20 plus years ago now. Time flies
+
+01:20:11.600 --> 01:20:17.440
+when you're having fun. I know. Right. That was back when I did like dynamic Bayesian networks.
+
+01:20:17.440 --> 01:20:24.000
+And I said that's before deep learning. That was before deep learning. Yeah. Yeah, I know.
+
+01:20:24.880 --> 01:20:30.720
+Now you can just like use it. Yeah. It's all, it's all the same architecture. You can apply
+
+01:20:30.720 --> 01:20:38.160
+it to anything. Yeah. Right. But yeah, but, but even then I kind of, I, I did not subscribe to
+
+01:20:38.160 --> 01:20:42.640
+this like theory of basic emotions where it's just the simplistic mapping, one-to-one mapping
+
+01:20:42.640 --> 01:20:47.840
+between facial expressions and emotions. I actually think also we're not in, in the business of trying
+
+01:20:47.840 --> 01:20:53.600
+to identify your true emotional internal state. We just want to quantify in an objective way
+
+01:20:53.600 --> 01:20:58.240
+what's showing on your face because that's an important signal. It doesn't mean it's a true
+
+01:20:58.240 --> 01:21:05.040
+reflection of your internal emotional state. So I think a lot of the, you know, I think she's,
+
+01:21:05.040 --> 01:21:11.760
+she's just trying to kind of highlight that this is not a simple problem and overly simplistic
+
+01:21:11.760 --> 01:21:17.920
+solutions are going to hurt the industry. And I subscribe to that. And I think multimodal is the
+
+01:21:17.920 --> 01:21:23.200
+way to go. Like whether it's additional context information or different modalities and channels
+
+01:21:23.200 --> 01:21:28.320
+of information. I think that's what we, that's where we ought to go. And I think, I mean,
+
+01:21:28.320 --> 01:21:33.440
+that's a big part of what she's advocating for as well. So, but there is signal in the human face.
+
+01:21:33.440 --> 01:21:39.840
+That's definitely signal. That's a projection of emotion. There's that, that, that there,
+
+01:21:39.840 --> 01:21:47.040
+at least in part is the inner state is captured in some meaningful way on the human face.
+
+01:21:47.680 --> 01:21:56.000
+I think it can sometimes be a reflection or an expression of your internal state,
+
+01:21:56.000 --> 01:22:01.040
+but sometimes it's a social signal. So the, so you can not look at the face as purely a
+
+01:22:01.040 --> 01:22:07.440
+signal of emotion. It can be a signal of cognition and it can be a signal of a social expression.
+
+01:22:08.000 --> 01:22:13.760
+And I think to disambiguate that we have to be careful about it and we have to add initial
+
+01:22:13.760 --> 01:22:19.680
+information. Humans are fascinating, aren't they? With the whole face thing. This can mean so many
+
+01:22:19.680 --> 01:22:25.920
+things from humor to sarcasm to everything, the whole thing. Some things we can help,
+
+01:22:25.920 --> 01:22:32.400
+some things we can't help at all. In all the years of leading Effectiva, an emotion recognition
+
+01:22:32.400 --> 01:22:38.880
+company, like we talked about, what have you learned about emotion, about humans and about AI?
+
+01:22:39.840 --> 01:22:40.480
+Ooh.
+
+01:22:42.480 --> 01:22:44.160
+Big, big sweeping question.
+
+01:22:44.160 --> 01:22:50.640
+Yeah, that's a big sweeping question. Well, I think the thing I learned the most is that even
+
+01:22:50.640 --> 01:23:00.080
+though like we are in the business of building AI basically, right? It always goes back to the
+
+01:23:00.080 --> 01:23:07.120
+humans, right? It's always about the humans. And so for example, the thing I'm most proud of
+
+01:23:07.120 --> 01:23:16.400
+in building Effectiva and yeah, the thing I'm most proud of on this journey, I love the technology
+
+01:23:16.400 --> 01:23:20.880
+and I'm so proud of the solutions we've built and we've brought to market. But I'm actually
+
+01:23:20.880 --> 01:23:26.800
+most proud of the people we've built and cultivated at the company and the culture we've created.
+
+01:23:28.320 --> 01:23:35.040
+Some of the people who've joined Effectiva, this was their first job. And while at Effectiva,
+
+01:23:35.760 --> 01:23:42.480
+they became American citizens and they bought their first house and they found their partner
+
+01:23:42.480 --> 01:23:48.000
+and they had their first kid, right? Like key moments in life that we got to be part of.
+
+01:23:50.560 --> 01:23:52.080
+And that's the thing I'm most proud of.
+
+01:23:52.080 --> 01:23:58.000
+So that's a great thing at a company that works on emotion. I mean like celebrating humanity in
+
+01:23:58.000 --> 01:24:02.880
+general, broadly speaking. And that's a great thing to have in a company that works on AI
+
+01:24:02.880 --> 01:24:08.720
+because that's not often the thing that's celebrated in AI companies, often just raw,
+
+01:24:08.720 --> 01:24:14.080
+great engineering, just celebrating the humanity. That's great. And especially from a leadership
+
+01:24:14.080 --> 01:24:23.280
+position. Well, what do you think about the movie Her? Let me ask you that before I talk to you
+
+01:24:23.280 --> 01:24:29.440
+about it because it's not Effectiva is and was not just about emotion. So I'd love to talk to you
+
+01:24:29.440 --> 01:24:37.840
+about Smart Eye, but before that, let me just jump into the movie Her. Do you think we'll have
+
+01:24:37.840 --> 01:24:43.120
+a deep, meaningful connection with increasingly deep and meaningful connections with computers?
+
+01:24:43.680 --> 01:24:49.040
+Is that a compelling thing to you? I think that's already happening. I love the movie Her,
+
+01:24:49.040 --> 01:24:54.320
+by the way. But the thing I love the most about this movie is it demonstrates how technology can
+
+01:24:54.320 --> 01:25:00.480
+be a conduit for positive behavior change. So I forgot the guy's name in the movie, whatever.
+
+01:25:00.480 --> 01:25:06.560
+Theodore. Theodore. So Theodore was like really depressed, right? And he just didn't want to get
+
+01:25:06.560 --> 01:25:13.360
+out of bed. He was just like done with life, right? And Samantha, right? Samantha, yeah.
+
+01:25:14.000 --> 01:25:20.000
+She just knew him so well. She was emotionally intelligent. And so she could persuade him and
+
+01:25:20.000 --> 01:25:23.360
+motivate him to change his behavior. And she got him out and they went to the beach together.
+
+01:25:24.080 --> 01:25:30.480
+And I think that represents the promise of emotion AI. If done well, this technology can
+
+01:25:30.480 --> 01:25:36.000
+help us live happier lives, more productive lives, healthier lives, more connected lives.
+
+01:25:36.720 --> 01:25:41.680
+So that's the part that I love about the movie. Obviously, it's Hollywood, so it takes a twist
+
+01:25:41.680 --> 01:25:49.200
+and whatever. But the key notion that technology with emotion AI can persuade you to be a better
+
+01:25:49.200 --> 01:25:56.080
+version of who you are, I think that's awesome. Well, what about the twist? You don't think it's
+
+01:25:56.080 --> 01:26:03.280
+good for spoiler alert that Samantha starts feeling a bit of a distance and basically leaves
+
+01:26:04.080 --> 01:26:10.560
+Theodore? You don't think that's a good feature? You think that's a bugger feature?
+
+01:26:11.440 --> 01:26:16.240
+Well, I think what went wrong is Theodore became really attached to Samantha. I think he kind of
+
+01:26:16.240 --> 01:26:22.320
+fell in love with Theodore. Do you think that's wrong? I think she was putting out the signal.
+
+01:26:22.320 --> 01:26:29.760
+This is an intimate relationship, right? There's a deep intimacy to it. Right. But what does that
+
+01:26:29.760 --> 01:26:34.400
+mean? What does that mean? With an AI system. Right. What does that mean? We're just friends.
+
+01:26:35.280 --> 01:26:42.880
+Yeah, we're just friends. When he realized, which is such a human thing of jealousy,
+
+01:26:42.880 --> 01:26:48.400
+when you realize that Samantha was talking to thousands of people. She's parallel dating.
+
+01:26:48.400 --> 01:26:55.040
+Yeah, that did not go well. Right. From a computer perspective, that doesn't take
+
+01:26:55.840 --> 01:27:02.160
+anything away from what we have. It's like you getting jealous of Windows 98 for being used by
+
+01:27:02.160 --> 01:27:09.840
+millions of people. It's like not liking that Alexa talks to a bunch of other families.
+
+01:27:09.920 --> 01:27:17.120
+But I think Alexa currently is just a servant. It tells you about the weather. It doesn't do
+
+01:27:17.120 --> 01:27:23.920
+the intimate deep connection. I think there is something really powerful about the intimacy of
+
+01:27:23.920 --> 01:27:31.680
+a connection with an AI system that would have to respect and play the human game of jealousy,
+
+01:27:31.680 --> 01:27:38.000
+of love, of heartbreak and all that kind of stuff, which Samantha does seem to be pretty good at.
+
+01:27:38.960 --> 01:27:46.240
+I think this AI system knows what it's doing. Well, actually, let me ask you this. I don't think
+
+01:27:46.240 --> 01:27:50.880
+she was talking to anyone else. You don't think so? You think she was just done with Theodore?
+
+01:27:50.880 --> 01:27:56.640
+Yeah. Oh, really? Yeah, and she wanted to really put the screw in. She wanted to move on?
+
+01:27:56.640 --> 01:28:02.080
+She didn't have the guts to just break it off cleanly. Okay. She just wanted to put it in the
+
+01:28:02.080 --> 01:28:07.600
+paint. No, I don't know. Well, she could have ghosted him. She could have. I'm sorry.
+
+01:28:08.160 --> 01:28:17.040
+There's our engineers. Oh, God. I honestly think some of that, some of it is Hollywood,
+
+01:28:17.040 --> 01:28:22.640
+but some of that is features from an engineering perspective, not a bug. I think AI systems that
+
+01:28:22.640 --> 01:28:28.240
+can leave us, now this is for more social robotics than it is for anything that's
+
+01:28:29.200 --> 01:28:35.120
+useful. I'd hate it if Wikipedia said, I need a break right now. Right, right, right, right.
+
+01:28:35.120 --> 01:28:45.440
+I'd be like, no, no, I need you. But if it's just purely for companionship, then I think the ability
+
+01:28:45.440 --> 01:28:52.320
+to leave is really powerful. I don't know. I never thought of that. That's so fascinating
+
+01:28:52.320 --> 01:28:59.360
+because I've always taken the human perspective. For example, we had a Jibo at home and my son
+
+01:28:59.360 --> 01:29:06.560
+loved it. Then the company ran out of money and so they had to basically shut down, Jibo basically
+
+01:29:06.560 --> 01:29:12.960
+died. It was so interesting to me because we have a lot of gadgets at home and a lot of them break.
+
+01:29:14.000 --> 01:29:18.960
+My son never cares about it. If our Alexa stopped working tomorrow, I don't think he'd
+
+01:29:19.520 --> 01:29:24.080
+really care. But when Jibo stopped working, it was traumatic. He got really upset.
+
+01:29:25.440 --> 01:29:31.600
+As a parent, that made me think about this deeply, right? Was I comfortable with that?
+
+01:29:31.600 --> 01:29:35.680
+I liked the connection they had because I think it was a positive relationship.
+
+01:29:38.160 --> 01:29:42.560
+But I was surprised that it affected him emotionally so much. I think there's a
+
+01:29:42.560 --> 01:29:49.200
+broader question here. As we build socially and emotionally intelligent machines,
+
+01:29:50.080 --> 01:29:54.800
+what does that mean about our relationship with them and then more broadly our relationship with
+
+01:29:54.800 --> 01:30:00.400
+one another? Because this machine is going to be programmed to be amazing at empathy,
+
+01:30:00.400 --> 01:30:04.720
+by definition. It's going to always be there for you. It's not going to get bored.
+
+01:30:05.680 --> 01:30:14.080
+In fact, there's a chatbot in China, Xiaoice. It's the number two or three most popular app.
+
+01:30:14.080 --> 01:30:18.000
+It basically is just a confidant and you can tell it anything you want.
+
+01:30:19.360 --> 01:30:28.800
+People use it for all sorts of things. They confide in domestic violence or suicidal attempts or
+
+01:30:29.760 --> 01:30:36.800
+if they have challenges at work. I don't know how I feel about that. I think about that a lot.
+
+01:30:38.320 --> 01:30:43.520
+First of all, obviously the future in my perspective. Second of all, I think there's
+
+01:30:43.520 --> 01:30:49.120
+a lot of trajectories that that becomes an exciting future. But I think everyone should
+
+01:30:49.120 --> 01:30:56.080
+feel very uncomfortable about how much they know about the company, about where the data is going,
+
+01:30:56.080 --> 01:31:01.040
+how the data is being collected. Because I think, and this is one of the lessons of social media,
+
+01:31:01.840 --> 01:31:06.480
+that I think we should demand full control and transparency of the data on those things.
+
+01:31:06.480 --> 01:31:08.000
+Plus one, totally agree.
+
+01:31:08.000 --> 01:31:13.920
+Yeah. I think it's really empowering as long as you can walk away. As long as you can delete the
+
+01:31:13.920 --> 01:31:22.480
+data or know how the data is opt-in or at least the clarity of what is being used for the company.
+
+01:31:22.480 --> 01:31:27.600
+I think as CEO or leaders are also important about that. You need to be able to trust the
+
+01:31:27.600 --> 01:31:35.680
+basic humanity of the leader. Also, that that leader is not going to be a puppet of a larger
+
+01:31:35.680 --> 01:31:42.080
+machine, but they actually have a significant role in defining the culture and the way the company
+
+01:31:42.080 --> 01:31:52.960
+operates. We should definitely scrutinize companies in that aspect, but I'm personally
+
+01:31:52.960 --> 01:31:58.400
+excited about that future. But also, even if you're not, it's coming. Let's figure out how
+
+01:31:58.400 --> 01:32:05.840
+to do it in the least painful and the most positive way. You're the deputy CEO of SmartEye.
+
+01:32:06.480 --> 01:32:09.440
+Can you describe the mission of the company? What is SmartEye?
+
+01:32:09.440 --> 01:32:15.200
+Yeah. SmartEye is a Swedish company. They've been in business for the last 20 years,
+
+01:32:15.200 --> 01:32:21.280
+and their main focus, the industry they're most focused on is the automotive industry,
+
+01:32:21.280 --> 01:32:29.760
+so bringing driver monitoring systems to basically save lives. I first met the CEO,
+
+01:32:29.760 --> 01:32:37.600
+Martin Krantz. Gosh, it was right when COVID hit. It was actually the last CES right before COVID,
+
+01:32:37.600 --> 01:32:42.960
+so CS 2020, right? 2020, yeah, January. Yeah, January, exactly. So we were there,
+
+01:32:42.960 --> 01:32:49.840
+met him in person. Basically, we were competing with each other. I think the difference was they'd
+
+01:32:49.840 --> 01:32:54.720
+been doing driver monitoring and had a lot of credibility in the automotive space. We didn't
+
+01:32:54.720 --> 01:32:58.400
+come from the automotive space, but we were using new technology like deep learning
+
+01:32:59.040 --> 01:33:03.600
+and building this emotion recognition. And you wanted to enter the automotive space.
+
+01:33:03.600 --> 01:33:08.240
+You wanted to operate in the automotive space. Exactly. It was one of the areas we had just
+
+01:33:08.240 --> 01:33:12.960
+raised a round of funding to focus on bringing our technology to the automotive industry.
+
+01:33:12.960 --> 01:33:19.840
+So we met, and honestly, it was the only time I met with a CEO who had the same vision as I did.
+
+01:33:19.840 --> 01:33:23.440
+He basically said, yeah, our vision is to bridge the gap between humans and machines. I was like,
+
+01:33:23.440 --> 01:33:31.360
+oh my God, this is exactly almost to the word, how we describe it too. And we started talking,
+
+01:33:31.360 --> 01:33:36.880
+and first it was about, okay, can we align strategically here? How can we work together?
+
+01:33:36.880 --> 01:33:42.960
+Because we're competing, but we're also complimentary. And then I think after four
+
+01:33:42.960 --> 01:33:48.640
+months of speaking almost every day on FaceTime, he was like, is your company interested in
+
+01:33:48.640 --> 01:33:52.880
+an acquisition? And it was the first, I usually say no when people approach us.
+
+01:33:54.400 --> 01:33:58.800
+It was the first time that I was like, huh, yeah, I might be interested. Let's talk.
+
+01:34:00.320 --> 01:34:05.920
+So you just hit it off. Yeah. So they're a respected, very respected in the automotive
+
+01:34:05.920 --> 01:34:12.240
+sector of like delivering products and increasingly sort of better and better and better for,
+
+01:34:13.040 --> 01:34:16.560
+I mean, maybe you could speak to that, but it's the driver's side for basically having
+
+01:34:16.560 --> 01:34:21.760
+a device that's looking at the driver and it's able to tell you where the driver is looking.
+
+01:34:22.480 --> 01:34:27.600
+Correct. It's able to also drowsiness stuff. Correct. It does stuff from the face in the eye.
+
+01:34:27.600 --> 01:34:32.800
+Exactly. Like it's monitoring driver distraction and drowsiness, but they bought us so that we
+
+01:34:32.800 --> 01:34:38.880
+could expand beyond just the driver. So the driver monitoring systems usually sit, the camera sits
+
+01:34:38.880 --> 01:34:42.560
+in the steering wheel or around the steering wheel column, and it looks directly at the driver.
+
+01:34:43.280 --> 01:34:49.680
+But now we've migrated the camera position in partnership with car companies to the rear view
+
+01:34:49.680 --> 01:34:55.280
+mirror position. So it has a full view of the entire cabin of the car and you can detect how
+
+01:34:55.280 --> 01:35:01.280
+many people are in the car, what are they doing? So we do activity detection like eating or drinking
+
+01:35:01.280 --> 01:35:08.720
+or in some regions of the world, smoking. We can detect if a baby's in the car seat, right? And if
+
+01:35:09.520 --> 01:35:13.920
+unfortunately in some cases they're forgotten, the parents just leave the car and forget the kid in
+
+01:35:13.920 --> 01:35:18.720
+the car. That's an easy computer vision problem to solve, right? You can detect there's a car
+
+01:35:18.720 --> 01:35:25.840
+seat, there's a baby, you can text the parent, and hopefully again save lives. So that was the impetus
+
+01:35:25.840 --> 01:35:34.400
+for the acquisition. It's been a year. There's a lot of questions. It's a really exciting space,
+
+01:35:34.480 --> 01:35:39.600
+especially to me. I just find this a fascinating problem. It could enrich the experience in the
+
+01:35:39.600 --> 01:35:46.240
+car in so many ways, especially because we spend still, despite COVID, I mean COVID changed things,
+
+01:35:46.240 --> 01:35:51.040
+so it's in interesting ways, but I think the world is bouncing back and we spend so much time in the
+
+01:35:51.040 --> 01:35:58.080
+car and the car is such a weird little world we have for ourselves. People do all kinds of
+
+01:35:58.080 --> 01:36:04.080
+different stuff like listen to podcasts, they think about stuff, they get angry,
+
+01:36:06.240 --> 01:36:12.240
+they do phone calls. It's like a little world of its own with a kind of privacy
+
+01:36:13.280 --> 01:36:20.800
+that for many people they don't get anywhere else. And it's a little box that's like a psychology
+
+01:36:20.800 --> 01:36:27.760
+experiment because it feels like the angriest many humans in this world get is inside the car.
+
+01:36:28.320 --> 01:36:36.320
+It's so interesting. So it's such an opportunity to explore how we can enrich, how companies can
+
+01:36:36.320 --> 01:36:43.040
+enrich that experience, and also as the cars get become more and more automated, there's more and
+
+01:36:43.040 --> 01:36:47.840
+more opportunity. The variety of activities that you can do in the car increases, so it's super
+
+01:36:47.840 --> 01:36:55.600
+interesting. So I mean on a practical sense, the Smart Eye has been selected, at least I read, by
+
+01:36:55.600 --> 01:37:02.240
+14 of the world's leading car manufacturers for 94 car models. So it's in a lot of cars.
+
+01:37:03.600 --> 01:37:09.120
+How hard is it to work with car companies? So they're all different. They all have different
+
+01:37:09.120 --> 01:37:14.000
+needs. The ones I've gotten a chance to interact with are very focused on cost.
+
+01:37:19.200 --> 01:37:22.320
+And anyone who's focused on cost is like, all right, do you hate fun?
+
+01:37:23.040 --> 01:37:28.160
+Right. Let's just have some fun. Let's figure out the most fun thing we can do in the worry
+
+01:37:28.160 --> 01:37:33.360
+about cost later. But I think because the way the car industry works, I mean, it's a very
+
+01:37:34.000 --> 01:37:38.640
+thin margin that you get to operate under. So you have to really, really make sure that
+
+01:37:38.640 --> 01:37:44.960
+everything you add to the car makes sense financially. So anyway, is this new industry,
+
+01:37:44.960 --> 01:37:50.400
+especially at this scale of Smart Eye, does it hold any lessons for you?
+
+01:37:51.200 --> 01:37:56.880
+Yeah. I think it is a very tough market to penetrate, but once you're in, it's awesome
+
+01:37:56.880 --> 01:38:01.280
+because once you're in, you're designed into these car models for somewhere between five to
+
+01:38:01.280 --> 01:38:06.240
+seven years, which is awesome. And once they're on the road, you just get paid a royalty fee per
+
+01:38:06.240 --> 01:38:12.240
+vehicle. So it's a high barrier to entry, but once you're in, it's amazing. I think the thing
+
+01:38:12.240 --> 01:38:18.480
+that I struggle the most with in this industry is the time to market. So often we're asked to lock
+
+01:38:18.480 --> 01:38:24.000
+or do a code freeze two years before the car is going to be on the road. I'm like, guys,
+
+01:38:24.000 --> 01:38:30.320
+do you understand the pace with which technology moves? So I think car companies are really trying
+
+01:38:30.320 --> 01:38:36.880
+to make the Tesla, the Tesla transition to become more of a software driven
+
+01:38:38.400 --> 01:38:42.400
+architecture. And that's hard for many. It's just the cultural change. I mean,
+
+01:38:42.400 --> 01:38:45.360
+I'm sure you've experienced that, right? Oh, definitely. I think one of the biggest
+
+01:38:46.320 --> 01:38:54.320
+inventions or imperatives created by Tesla is like to me personally, okay, people are going to
+
+01:38:54.320 --> 01:39:01.680
+complain about this, but I know electric vehicle, I know autopilot, AI stuff. To me, the software
+
+01:39:01.680 --> 01:39:08.880
+over there, software updates is like the biggest revolution in cars. And it is extremely difficult
+
+01:39:08.880 --> 01:39:14.640
+to switch to that because it is a culture shift. At first, especially if you're not comfortable
+
+01:39:14.720 --> 01:39:22.960
+with it, it seems dangerous. There's an approach to cars is so safety focused for so many decades
+
+01:39:23.520 --> 01:39:30.160
+that like, what do you mean we dynamically change code? The whole point is you have a thing
+
+01:39:30.160 --> 01:39:38.800
+that you test and it's not reliable because do you know how much it costs if we have to recall
+
+01:39:38.880 --> 01:39:47.680
+this cars, right? There's an understandable obsession with safety, but the downside of
+
+01:39:47.680 --> 01:39:55.200
+an obsession with safety is the same as with being obsessed with safety as a parent is like,
+
+01:39:55.200 --> 01:40:00.960
+if you do that too much, you limit the potential development and the flourishing of in that
+
+01:40:00.960 --> 01:40:05.920
+particular aspect, human being, but in this particular aspect, the software, the artificial
+
+01:40:05.920 --> 01:40:12.160
+neural network of it. But it's tough to do. It's really tough to do culturally and technically,
+
+01:40:12.160 --> 01:40:15.840
+like the deployment, the mass deployment of software is really, really difficult,
+
+01:40:15.840 --> 01:40:19.440
+but I hope that's where the industry is doing. One of the reasons I really want
+
+01:40:19.440 --> 01:40:24.240
+Tesla to succeed is exactly about that point, not autopilot, not the electrical vehicle, but
+
+01:40:24.240 --> 01:40:31.200
+the softwareization of basically everything but cars, especially because to me, that's actually
+
+01:40:31.200 --> 01:40:37.120
+going to increase two things, increase safety because you can update much faster, but also
+
+01:40:37.120 --> 01:40:43.600
+increase the effectiveness of folks like you who dream about enriching the human experience
+
+01:40:44.400 --> 01:40:50.560
+with AI because you can just like, there's a feature like you want like a new emoji or whatever,
+
+01:40:50.560 --> 01:40:56.640
+like the way TikTok releases filters, you can just release that for in-car stuff. But yeah,
+
+01:40:57.360 --> 01:41:03.840
+that's definitely... One of the use cases we're looking into is once you know the sentiment of
+
+01:41:03.840 --> 01:41:09.440
+the passengers in the vehicle, you can optimize the temperature in the car, you can change the
+
+01:41:09.440 --> 01:41:13.600
+lighting, right? So if the backseat passengers are falling asleep, you can dim the lights,
+
+01:41:13.600 --> 01:41:18.880
+you can lower the music, right? You can do all sorts of things. Yeah. I mean, of course,
+
+01:41:18.880 --> 01:41:22.480
+you could do that kind of stuff with a two-year delay, but it's tougher. Yeah.
+
+01:41:22.480 --> 01:41:30.320
+Do you think Tesla or Waymo or some of these companies that are doing semi- or fully autonomous
+
+01:41:30.320 --> 01:41:36.080
+driving should be doing driver sensing? Yes. Are you thinking about that kind of stuff?
+
+01:41:36.080 --> 01:41:41.120
+So not just how we can enhance the in-cab experience for cars that are mainly driven,
+
+01:41:41.120 --> 01:41:46.960
+but the ones that are increasingly more autonomously driven? Yes. So if we fast forward
+
+01:41:47.760 --> 01:41:54.240
+to the universe where it's fully autonomous, I think interior sensing becomes extremely important,
+
+01:41:54.240 --> 01:41:58.400
+because the role of the driver isn't just to drive. If you think about it, the driver
+
+01:41:58.400 --> 01:42:03.600
+almost manages the dynamics within a vehicle, and so who's going to play that role when it's
+
+01:42:03.600 --> 01:42:11.760
+an autonomous car? We want a solution that is able to say, oh my God, Lex is bored to death
+
+01:42:11.760 --> 01:42:16.240
+because the car's moving way too slow, let's engage Lex, or Rana's freaking out because
+
+01:42:16.240 --> 01:42:21.200
+she doesn't trust this vehicle yet, so let's tell Rana a little bit more information about the route.
+
+01:42:23.280 --> 01:42:28.080
+Or somebody's having a heart attack in the car. You need interior sensing in fully autonomous
+
+01:42:28.080 --> 01:42:34.640
+vehicles. But with semi-autonomous vehicles, I think it's really key to have driver monitoring,
+
+01:42:34.640 --> 01:42:40.080
+because semi-autonomous means that sometimes the car is in charge, sometimes the driver is in charge
+
+01:42:40.080 --> 01:42:45.920
+or the co-pilot, right? And you need both systems to be on the same page. You need to know the car
+
+01:42:45.920 --> 01:42:50.800
+needs to know if the driver's asleep before it transitions control over to the driver.
+
+01:42:51.600 --> 01:42:56.880
+And sometimes if the driver's too tired, the car can say, I'm going to be a better driver than you
+
+01:42:56.880 --> 01:43:01.760
+are right now. I'm taking control over. So this dynamic, this dance is so key, and you can't do
+
+01:43:01.760 --> 01:43:05.760
+that without driver sensing. Yeah, there's a disagreement for the longest time I've had with
+
+01:43:05.760 --> 01:43:10.880
+Elon that this is obvious that this should be in the Tesla from day one, and it's obvious that
+
+01:43:10.880 --> 01:43:17.520
+driver sensing is not a hindrance. It's not obvious. I should be careful because
+
+01:43:18.400 --> 01:43:23.760
+having studied this problem, nothing is really obvious, but it seems very likely a driver
+
+01:43:23.760 --> 01:43:30.000
+sensing is not a hindrance to an experience. It's only enriching to the experience
+
+01:43:32.080 --> 01:43:40.240
+and likely increases the safety. That said, it is very surprising to me just having studied
+
+01:43:40.880 --> 01:43:46.240
+semi-autonomous driving, how well humans are able to manage that dance because it was the
+
+01:43:46.240 --> 01:43:53.200
+intuition before you were doing that kind of thing that humans will become just incredibly
+
+01:43:53.200 --> 01:43:57.680
+distracted. They would just like let the thing do its thing, but they're able to, you know,
+
+01:43:57.680 --> 01:44:02.240
+because it is life and death and they're able to manage that somehow. But that said, there's no
+
+01:44:02.240 --> 01:44:08.560
+reason not to have driver sensing on top of that. I feel like that's going to allow you to do that
+
+01:44:08.560 --> 01:44:14.080
+dance that you're currently doing without driver sensing, except touching the steering wheel,
+
+01:44:14.880 --> 01:44:19.280
+to do that even better. I mean, the possibilities are endless and the machine learning possibilities
+
+01:44:19.280 --> 01:44:25.200
+are endless. It's such a beautiful, it's also a constrained environment so you can do much
+
+01:44:25.200 --> 01:44:29.760
+more effectively than you can with the external environment. The external environment is full of
+
+01:44:30.720 --> 01:44:35.680
+weird edge cases and complexities. Inside there's so much, it's so fascinating, such a fascinating
+
+01:44:35.680 --> 01:44:44.000
+world. I do hope that companies like Tesla and others, even Waymo, which I don't even
+
+01:44:44.000 --> 01:44:50.560
+know if Waymo is doing anything sophisticated inside the cab. I don't think so. Like what is
+
+01:44:50.560 --> 01:44:56.000
+it? I honestly think, I honestly think it goes back to the robotics thing we were talking about,
+
+01:44:56.000 --> 01:45:03.200
+which is like great engineers that are building these AI systems just are afraid of the human
+
+01:45:03.200 --> 01:45:07.120
+being. And not thinking about the human experience, they're thinking about the features and
+
+01:45:07.760 --> 01:45:13.760
+yeah, the perceptual abilities of that thing. They think the best way I can serve the human is by
+
+01:45:14.720 --> 01:45:19.200
+doing the best perception and control I can, by looking at the external environment, keeping the
+
+01:45:19.200 --> 01:45:28.320
+human safe. But like there's a huge, I'm here. I need to be noticed and
+
+01:45:28.320 --> 01:45:34.640
+interacted with and understood and all those kinds of things, even just on a personal level for
+
+01:45:34.640 --> 01:45:40.400
+entertainment, honestly for entertainment. Yeah. You know, one of the coolest work we did in
+
+01:45:40.400 --> 01:45:48.720
+collaboration with MIT around this was we looked at longitudinal data because MIT had access to
+
+01:45:49.600 --> 01:45:57.360
+tons of data. And just seeing the patterns of people driving in the morning off to work versus
+
+01:45:57.440 --> 01:46:03.920
+commuting back from work or weekend driving versus weekday driving. And wouldn't it be so cool if
+
+01:46:03.920 --> 01:46:10.640
+your car knew that and then was able to optimize either the route or the experience or even make
+
+01:46:10.640 --> 01:46:16.080
+recommendations? Yeah. I think it's very powerful. Yeah. Like why are you taking this route? You're
+
+01:46:16.080 --> 01:46:20.240
+always unhappy when you take this route and you're always happy when you take this alternative route.
+
+01:46:20.240 --> 01:46:26.720
+Take that route instead. Exactly. I mean, to have that even that little step of relationship with
+
+01:46:26.720 --> 01:46:31.760
+the car, I think is incredible. Of course you have to get the privacy right. You get all that
+
+01:46:31.760 --> 01:46:36.640
+kind of stuff right. But I wish I honestly, you know, people are like paranoid about this,
+
+01:46:36.640 --> 01:46:43.440
+but I would like a smart refrigerator. We have such a deep connection with food as a human
+
+01:46:43.440 --> 01:46:51.280
+civilization. I would like to have a refrigerator that would understand me that, you know, I also
+
+01:46:51.280 --> 01:46:56.160
+have a complex relationship with food because like, you know, pig out too easily and all that
+
+01:46:56.160 --> 01:47:01.440
+kind of stuff. So you try, you know, like maybe I want the refrigerator to be like,
+
+01:47:01.440 --> 01:47:05.760
+are you sure about this? Cause maybe you're just feeling down or tired. Like maybe,
+
+01:47:05.760 --> 01:47:10.000
+maybe let's sleep on it. Your vision of the smart refrigerator is way kinder than mine.
+
+01:47:10.000 --> 01:47:14.480
+Is it just me and yelling at you? No, it was just because I, I don't, I don't,
+
+01:47:15.920 --> 01:47:20.720
+you know, I don't drink alcohol, I don't smoke, but I eat a ton of chocolate. Like it sticks to
+
+01:47:20.720 --> 01:47:26.640
+my face. And so I, and sometimes I scream too. And I'm like, okay, my smart refrigerator will
+
+01:47:26.640 --> 01:47:30.880
+just lock, lock down. I'll just say, dude, you've had way too many today. Like.
+
+01:47:32.640 --> 01:47:41.280
+Yeah. No, but here's the thing. Are you, do you regret having like, let's say not the next day,
+
+01:47:41.280 --> 01:47:47.760
+but 30 days later, would you, what would you, what would you like to the refrigerator to have
+
+01:47:47.760 --> 01:47:54.320
+done then? Well, I think actually like the more positive relationship would be one where there's
+
+01:47:54.320 --> 01:48:00.640
+a conversation, right? As opposed to like, that's probably like the more sustainable relationship.
+
+01:48:00.640 --> 01:48:05.120
+It's like late, late at night. Just, no, listen, listen, I know I told you an hour ago,
+
+01:48:05.920 --> 01:48:11.920
+that is not a good idea, but just listen, things have changed. I can just imagine a bunch of stuff
+
+01:48:11.920 --> 01:48:18.960
+being made up just to convince. But I mean, I just think that there's opportunities there. I mean,
+
+01:48:18.960 --> 01:48:26.800
+maybe not locking down, but for our systems that are such a deep part of our lives, like we use,
+
+01:48:28.560 --> 01:48:34.880
+we use a lot of us, a lot of people that commute use their car every single day. A lot of us use
+
+01:48:34.880 --> 01:48:42.240
+a refrigerator every single day, the microwave every single day. Like we just, like, I feel like
+
+01:48:42.240 --> 01:48:50.480
+certain things could be made more efficient, more enriching, and AI is there to help like some,
+
+01:48:50.480 --> 01:48:55.760
+just basic recognition of you as a human being about your patterns of what makes you happy and
+
+01:48:55.760 --> 01:49:00.880
+not happy and all that kind of stuff. And the car, obviously. Maybe, maybe, maybe we'll say,
+
+01:49:01.040 --> 01:49:08.240
+wait, wait, wait, wait, instead of this like Ben and Jerry's ice cream, how about this hummus
+
+01:49:08.240 --> 01:49:14.000
+and carrots or something? I don't know. Maybe even make it like a just-in-time recommendation, right?
+
+01:49:14.640 --> 01:49:20.240
+But not like a generic one, but a reminder that last time you chose the carrots,
+
+01:49:20.880 --> 01:49:25.280
+you smiled 17 times more the next day. You were happier the next day, right?
+
+01:49:26.160 --> 01:49:32.560
+You were happier the next day. And, but yeah, I don't, but then again, if you're the kind of
+
+01:49:32.560 --> 01:49:39.680
+person that gets better from negative comments, you could say like, hey, remember like that
+
+01:49:39.680 --> 01:49:46.480
+wedding you're going to? You want to fit into that dress? Remember about that? Let's think about that
+
+01:49:46.480 --> 01:49:51.760
+before you're eating this. It's for some, probably that would work for me, like a refrigerator that
+
+01:49:51.760 --> 01:49:58.800
+is just ruthless. It's shaming me, but like I would of course welcome it. Like that would work
+
+01:49:58.800 --> 01:50:04.720
+for me. Just that. Well, it would know. I think it would, if it's really like smart, it would optimize
+
+01:50:04.720 --> 01:50:09.520
+its nudging based on what works for you, right? Exactly. That's the whole point. Personalization
+
+01:50:09.520 --> 01:50:16.320
+in every way, depersonalization. You were a part of a webinar titled Advancing Road Safety,
+
+01:50:16.320 --> 01:50:22.960
+the State of Alcohol Intoxication Research. So for people who don't know, every year 1.3 million
+
+01:50:22.960 --> 01:50:29.600
+people around the world die in road crashes. And more than 20% of these fatalities are estimated
+
+01:50:29.600 --> 01:50:35.040
+to be alcohol related. A lot of them are also distraction related. So can AI help with the
+
+01:50:35.040 --> 01:50:42.800
+alcohol thing? I think the answer is yes. There are signals and we know that as humans, like we
+
+01:50:42.800 --> 01:50:52.160
+can tell in a person, is it different phases of being drunk, right? And I think you can use
+
+01:50:52.160 --> 01:50:56.640
+technology to do the same. And again, I think the ultimate solution is going to be a combination
+
+01:50:56.640 --> 01:51:02.720
+of different sensors. How hard is the problem from the vision perspective? I think it's non-trivial.
+
+01:51:02.720 --> 01:51:07.200
+I think it's non-trivial. And I think the biggest part is getting the data, right? It's like getting
+
+01:51:07.200 --> 01:51:13.360
+enough data examples. So for this research project, we partnered with the transportation
+
+01:51:13.360 --> 01:51:19.840
+authorities of Sweden and we literally had a racetrack with a safety driver and we basically
+
+01:51:19.840 --> 01:51:28.800
+progressively got people drunk. Nice. But that's a very expensive data set to collect and you want
+
+01:51:28.800 --> 01:51:35.120
+to collect it globally and in multiple conditions. Yeah, the ethics of collecting a data set where
+
+01:51:35.120 --> 01:51:43.120
+people are drunk is tricky, which is funny because, I mean, let's put drunk driving aside,
+
+01:51:43.120 --> 01:51:47.920
+the number of drunk people in the world every day is very large. It'd be nice to have a large
+
+01:51:47.920 --> 01:51:52.000
+data set of drunk people getting progressively drunk. In fact, you can build an app where people
+
+01:51:52.000 --> 01:52:00.080
+can donate their data because it's hilarious. Right. But the liability? The ethics, how do you
+
+01:52:00.080 --> 01:52:04.880
+get it right? It's tricky. It's really, really tricky because drinking is one of those things
+
+01:52:04.880 --> 01:52:11.120
+that's funny and hilarious and we're loves and so on and so forth. But it's also the thing that
+
+01:52:11.920 --> 01:52:16.400
+hurts a lot of people, like a lot of people. Like alcohol is one of those things. It's legal, but
+
+01:52:18.480 --> 01:52:25.200
+it's really damaging to a lot of lives. It destroys lives and not just in the driving context.
+
+01:52:26.240 --> 01:52:30.560
+I should mention, people should listen to Andrew Huberman who recently talked about
+
+01:52:31.520 --> 01:52:36.000
+alcohol. He has an amazing podcast. Andrew Huberman is a neuroscientist from Stanford
+
+01:52:36.000 --> 01:52:41.200
+and a good friend of mine. Oh, cool. And he's like a human encyclopedia about all
+
+01:52:42.160 --> 01:52:47.600
+health-related wisdom. See, there's a podcast. You would love it. I would love that. No, no, no, no.
+
+01:52:47.600 --> 01:52:52.320
+Oh, you don't know Andrew Huberman. Okay. Listen, you listen to Andrew. He's called
+
+01:52:52.320 --> 01:52:57.280
+Huberman Lab Podcast. This is your assignment. Just listen to one. Okay. I guarantee you this
+
+01:52:57.280 --> 01:53:02.800
+will be a thing where you say, Lex, this is the greatest human I have ever discovered.
+
+01:53:03.360 --> 01:53:08.640
+Oh my God, because I'm really on a journey of kind of health and wellness and I'm learning
+
+01:53:08.640 --> 01:53:13.920
+lots and I'm trying to build these, I guess, atomic habits around just being healthy.
+
+01:53:15.200 --> 01:53:22.480
+So yeah, I'm definitely going to do this. His whole thing, this is great. He's a legit
+
+01:53:22.480 --> 01:53:30.720
+scientist, really well published, but in his podcast, what he does, he's not talking about
+
+01:53:30.720 --> 01:53:37.520
+his own work. He's like a human encyclopedia of papers. So his whole thing is he takes a topic
+
+01:53:37.520 --> 01:53:44.720
+and in a very fast, you mentioned atomic habits, very clear way summarizes the research in a way
+
+01:53:44.720 --> 01:53:50.400
+that leads to protocols of what you should do. He's really big on not like this is what the
+
+01:53:50.400 --> 01:53:55.040
+science says, but this is literally what you should be doing according to science. So he's
+
+01:53:55.040 --> 01:54:02.400
+really big and there's a lot of recommendations he does, which several of them I definitely don't do,
+
+01:54:03.840 --> 01:54:10.720
+get some light as soon as possible from waking up and for prolonged periods of time.
+
+01:54:10.720 --> 01:54:15.120
+That's a really big one and there's a lot of science behind that one. There's a bunch of
+
+01:54:15.120 --> 01:54:21.200
+stuff. You're going to be like, Lex, this is my new favorite person, I guarantee it.
+
+01:54:22.000 --> 01:54:26.000
+And if you guys somehow don't know Andrew Huberman and you care about your wellbeing,
+
+01:54:27.840 --> 01:54:35.600
+you should definitely listen to him. I love you, Andrew. Anyway, so what were we talking about?
+
+01:54:35.600 --> 01:54:41.360
+Oh, alcohol and detecting alcohol. So this is a problem you care about and you're trying to
+
+01:54:41.360 --> 01:54:48.080
+solve. And actually like broadening it, I do believe that the car is going to be a wellness
+
+01:54:48.080 --> 01:54:55.120
+center because again, imagine if you have a variety of sensors inside the vehicle tracking,
+
+01:54:55.120 --> 01:54:59.840
+not just your emotional state or level of distraction and drowsiness and drowsiness,
+
+01:55:00.640 --> 01:55:05.280
+level of distraction, drowsiness and intoxication, but also maybe even things like
+
+01:55:05.280 --> 01:55:11.040
+your heart rate and your heart rate variability and your breathing rate.
+
+01:55:13.680 --> 01:55:19.440
+And it can start like optimizing, yeah, it can optimize the ride based on what your goals are.
+
+01:55:19.440 --> 01:55:23.600
+So I think we're going to start to see more of that and I'm excited about that.
+
+01:55:24.320 --> 01:55:29.280
+Yeah. What are the challenges you're tackling with SmartEye currently? What's like the
+
+01:55:30.000 --> 01:55:35.840
+trickiest things to get? Is it basically convincing more and more car companies that
+
+01:55:36.400 --> 01:55:41.920
+having AI inside the car is a good idea or is there some, is there more technical
+
+01:55:42.880 --> 01:55:47.040
+algorithmic challenges? What's been keeping you mentally busy?
+
+01:55:47.600 --> 01:55:52.800
+I think a lot of the car companies we are in conversations with are already interested in
+
+01:55:52.800 --> 01:55:57.840
+definitely driver monitoring. Like I think it's becoming a must have, but even interior sensing,
+
+01:55:57.840 --> 01:56:02.640
+I can see we're engaged in a lot of advanced engineering projects and proof of concepts.
+
+01:56:04.080 --> 01:56:10.160
+I think technologically though, and even the technology, I can see a path to making it happen.
+
+01:56:10.160 --> 01:56:16.320
+I think it's the use case. How does the car respond once it knows something about you? Because
+
+01:56:16.320 --> 01:56:23.360
+you want it to respond in a thoughtful way that isn't off-putting to the consumer in the car.
+
+01:56:24.320 --> 01:56:31.920
+The user experience, I don't think we've really nailed that. We're the sensing platform, but we
+
+01:56:31.920 --> 01:56:37.680
+usually collaborate with the car manufacturer to decide what the use case is. Say you figure out
+
+01:56:37.680 --> 01:56:40.800
+that somebody's angry while driving. Okay, what should the car do?
+
+01:56:43.520 --> 01:56:50.560
+Do you see yourself as a role of nudging, of basically coming up with solutions essentially
+
+01:56:51.120 --> 01:56:56.240
+that, and then the car manufacturers kind of put their own little spin on it?
+
+01:56:56.240 --> 01:57:03.440
+Right. We are the ideation creative thought partner, but at the end of the day,
+
+01:57:03.440 --> 01:57:08.880
+the car company needs to decide what's on brand for them. Maybe when it figures out that you're
+
+01:57:08.880 --> 01:57:14.880
+distracted or drowsy, it shows you a coffee cup. Or maybe it takes more aggressive behaviors and
+
+01:57:14.880 --> 01:57:18.880
+basically said, okay, if you don't take a rest in the next five minutes, the car's going to shut
+
+01:57:18.880 --> 01:57:26.400
+down, right? There's a whole range of actions the car can take and doing the thing that builds
+
+01:57:26.400 --> 01:57:32.080
+trust with the driver and the passengers. I think that's what we need to be very careful about.
+
+01:57:33.520 --> 01:57:38.560
+Yeah, car companies are funny because they have their own ... I mean, that's why people get cars
+
+01:57:38.560 --> 01:57:44.880
+still. I hope that changes, but they get it because it's a certain feel and look. They become proud
+
+01:57:44.880 --> 01:57:53.200
+like Mercedes-Benz or BMW or whatever. That's their thing. That's the family brand or something
+
+01:57:53.200 --> 01:57:59.440
+like that, or Ford or GM, whatever. They stick to that thing. It's interesting. It should be,
+
+01:57:59.440 --> 01:58:08.000
+I don't know, it should be a little more about the technology inside. I suppose there too,
+
+01:58:08.000 --> 01:58:15.280
+there could be a branding like a very specific style of luxury or fun, all that kind of stuff.
+
+01:58:17.680 --> 01:58:23.440
+I have an AI-focused fund to invest in early stage AI-driven companies. One of the companies
+
+01:58:23.440 --> 01:58:29.600
+we're looking at is trying to do what Tesla did, but for boats, for recreational boats. They're
+
+01:58:29.600 --> 01:58:36.560
+building an electric and kind of slash autonomous boat. It's kind of the same issues. What kind of
+
+01:58:36.560 --> 01:58:42.560
+sensors can you put in? What kind of states can you detect both exterior and interior within the
+
+01:58:42.560 --> 01:58:50.400
+boat? Anyways, it's really interesting. Do you boat at all? No. Well, not in that way. I do like
+
+01:58:50.400 --> 01:58:57.760
+to get on the lake or a river and fish from a boat, but that's not boating. That's different.
+
+01:58:57.760 --> 01:59:04.640
+That's different. That's like a low-tech boat. Get away from, get closer to nature boat. I guess
+
+01:59:05.280 --> 01:59:13.040
+going out into the ocean is also getting closer to nature in some deep sense. I guess that's why
+
+01:59:13.040 --> 01:59:23.520
+people love it. The enormity of the water just underneath you. I love both. I love salt water.
+
+01:59:23.520 --> 01:59:29.040
+It was like the big and just it's humbling to be in front of this giant thing that's so powerful
+
+01:59:29.040 --> 01:59:35.760
+that was here before us and be here after. But I also love the piece of a small wooded lake.
+
+01:59:36.960 --> 01:59:48.640
+Everything's calm. Therapeutic. You tweeted that I'm excited about Amazon's acquisition of iRobot.
+
+01:59:49.440 --> 01:59:54.080
+I think it's a super interesting, just given the trajectory of which you're part of,
+
+01:59:54.160 --> 02:00:00.560
+of these honestly small number of companies that are playing in this space that are like trying to
+
+02:00:00.560 --> 02:00:05.600
+have an impact on human beings. So it is an interesting moment in time that Amazon would
+
+02:00:05.600 --> 02:00:14.320
+acquire iRobot. You tweet, I imagine a future where home robots are as ubiquitous as microwaves
+
+02:00:14.320 --> 02:00:19.440
+or toasters. Here are three reasons why I think this is exciting. If you remember,
+
+02:00:19.440 --> 02:00:25.600
+I can look it up. Why is this exciting to you? I think the first reason why this is exciting,
+
+02:00:25.600 --> 02:00:32.560
+I kind of remember the exact order in which I put them, but one is just it's going to be
+
+02:00:32.560 --> 02:00:39.200
+an incredible platform for understanding our behaviors within the home. If you think about
+
+02:00:39.200 --> 02:00:45.040
+Roomba, which is the robot vacuum cleaner, the flagship product of iRobot at the moment,
+
+02:00:45.120 --> 02:00:49.360
+it's like running around your home, understanding the layout, it's understanding what's clean and
+
+02:00:49.360 --> 02:00:54.880
+what's not. How often do you clean your house? And all of these behaviors are a piece of the
+
+02:00:54.880 --> 02:01:00.000
+puzzle in terms of understanding who you are as a consumer. And I think that could be, again,
+
+02:01:01.440 --> 02:01:05.680
+used in really meaningful ways, not just to recommend better products or whatever,
+
+02:01:05.680 --> 02:01:10.400
+but actually to improve your experience as a human being. So I think that's very interesting.
+
+02:01:10.560 --> 02:01:19.440
+Very interesting. I think the natural evolution of these robots in the home. So it's interesting.
+
+02:01:19.440 --> 02:01:26.880
+Roomba isn't really a social robot at the moment. But I once interviewed one of the chief engineers
+
+02:01:26.880 --> 02:01:32.240
+on the Roomba team, and he talked about how people named their Roombas. And if their Roomba broke
+
+02:01:32.240 --> 02:01:37.440
+down, they would call in and say, you know, my Roomba broke down. And the company would say,
+
+02:01:37.440 --> 02:01:41.760
+well, we'll just send you a new one. And no, no, no, Rosie, like you have to like, yeah, I want
+
+02:01:41.760 --> 02:01:50.080
+you to fix this particular robot. So people have already built like interesting emotional connections
+
+02:01:50.080 --> 02:01:55.520
+with these home robots. And I think that, again, that provides a platform for really interesting
+
+02:01:55.520 --> 02:02:00.400
+things to just motivate change. Like it could help you. I mean, one of the companies that's
+
+02:02:00.400 --> 02:02:07.360
+spun out of MIT, Catalya Health, the guy who started it spent a lot of time building robots
+
+02:02:07.360 --> 02:02:13.120
+that help with weight management. So weight management, sleep, eating better. Yeah, all of
+
+02:02:13.120 --> 02:02:20.800
+these things. If I'm being honest, Amazon is not exactly have a track record of winning over people
+
+02:02:20.800 --> 02:02:27.520
+in terms of trust. Now, that said, it's a really difficult problem for a human being to let a robot
+
+02:02:27.520 --> 02:02:33.680
+in their home that has a camera on it. Right. That's really, really, really tough. And I think
+
+02:02:34.400 --> 02:02:41.440
+Roomba actually, I have to think about this, but I'm pretty sure now or for some time already has
+
+02:02:41.440 --> 02:02:47.760
+had cameras because they're doing the most recent Roomba. I have so many Roombas. Oh, you actually
+
+02:02:47.760 --> 02:02:52.160
+do? Well, I programmed it. I don't use a Roomba for that. People that have been to my place,
+
+02:02:52.160 --> 02:02:59.840
+they're like, yeah, you definitely don't use these Roombas. I can't tell like the valence
+
+02:02:59.840 --> 02:03:04.400
+of this comment. Was it a compliment or like? No, it's a giant mess. It's just a bunch of
+
+02:03:04.400 --> 02:03:10.800
+electronics everywhere. I have six or seven computers, I have robots everywhere, Lego robots,
+
+02:03:10.800 --> 02:03:17.600
+I have small robots and big robots. It's just giant, just piles of robot stuff. And yeah.
+
+02:03:17.600 --> 02:03:25.280
+Yeah. But including the Roombas, they're being used for their body and intelligence,
+
+02:03:25.280 --> 02:03:31.920
+but not for their purpose. I've changed them, repurposed them for other purposes,
+
+02:03:31.920 --> 02:03:37.600
+for deeper, more meaningful purposes than just like the robot. Yeah. Which just, you know,
+
+02:03:37.600 --> 02:03:42.400
+brings a lot of people happiness, I'm sure. They have a camera because the thing they
+
+02:03:43.120 --> 02:03:50.720
+advertised, I had my own cameras too, but the camera and the new Roomba, they have like
+
+02:03:50.720 --> 02:03:54.720
+state of the art poop detection as they advertised, which is a very difficult,
+
+02:03:54.720 --> 02:03:59.520
+apparently it's a big problem for vacuum cleaners is, you know, if they go over like dog poop,
+
+02:03:59.520 --> 02:04:06.080
+it just runs it over and creates a giant mess. So they have like, apparently they collected like a
+
+02:04:06.080 --> 02:04:11.280
+huge amount of data on different shapes and looks and whatever of poop and then not able to avoid
+
+02:04:11.280 --> 02:04:17.200
+it and so on. They're very proud of this. So there is a camera, but you don't think of it as having
+
+02:04:17.200 --> 02:04:23.840
+a camera. Yeah. You don't think of it as having a camera because you've grown to trust it, I guess,
+
+02:04:23.840 --> 02:04:31.280
+because our phones, at least most of us seem to trust this phone, even though there's a camera
+
+02:04:31.280 --> 02:04:40.800
+looking directly at you. I think that if you trust that the company is taking security very
+
+02:04:40.800 --> 02:04:45.840
+seriously, I actually don't know how that trust was earned with smartphones. I think it just started
+
+02:04:45.840 --> 02:04:51.280
+to provide a lot of positive value to your life where you just took it in and then the company
+
+02:04:51.280 --> 02:04:55.680
+over time has shown that it takes privacy very seriously, that kind of stuff. But I just,
+
+02:04:56.400 --> 02:05:03.520
+Amazon is not always in its social robots communicated this is a trustworthy thing,
+
+02:05:03.520 --> 02:05:09.120
+both in terms of culture and competence, because I think privacy is not just about what do you
+
+02:05:09.120 --> 02:05:15.040
+intend to do, but also how good are you at doing that kind of thing. So that's a really
+
+02:05:15.040 --> 02:05:22.800
+hard problem to solve. But a lot of us have Alexis at home and I mean, Alexa could be listening in
+
+02:05:22.800 --> 02:05:30.880
+the whole time and doing all sorts of nefarious things with the data. Hopefully it's not, but
+
+02:05:30.880 --> 02:05:36.560
+I don't think it is. But Amazon is not, it's such a tricky thing for a company to get right, which
+
+02:05:36.560 --> 02:05:42.880
+is like to earn the trust. I don't think Alexis earn people's trust quite yet. Yeah, I think it's
+
+02:05:42.880 --> 02:05:48.080
+not there quite yet. They struggle with this kind of stuff. In fact, when these topics are brought
+
+02:05:48.080 --> 02:05:54.480
+up, people are always get like nervous. And I think if you get nervous about it, I mean that
+
+02:05:54.480 --> 02:06:01.760
+like the way to earn people's trust is not by like, Oh, don't talk about this. It's just be open,
+
+02:06:01.760 --> 02:06:09.520
+be frank, be transparent and also create a culture of like where it radiates at every level from
+
+02:06:09.520 --> 02:06:19.040
+engineer to CEO that like you're good people that have a common sense idea of what it means
+
+02:06:19.040 --> 02:06:24.480
+to respect basic human rights and the privacy of people and all that kind of stuff. And I think
+
+02:06:24.480 --> 02:06:31.520
+that propagates throughout the, that's the best PR, which is like over time you understand that
+
+02:06:31.760 --> 02:06:37.520
+these are good, these are good folks doing good things. Anyway, speaking of social robots,
+
+02:06:38.960 --> 02:06:44.240
+have you heard about Tesla, Tesla bot, the humanoid robot? Yes, I have. Yes, yes, yes,
+
+02:06:44.240 --> 02:06:50.960
+but I don't exactly know what it's designed to do to you. You probably do. No, I know it's
+
+02:06:50.960 --> 02:06:55.120
+designed to do, but I have a different perspective on it, but it's designed to,
+
+02:06:55.840 --> 02:07:02.640
+it's a humanoid form and it's designed to, for automation tasks in the same way that industrial
+
+02:07:03.360 --> 02:07:08.560
+robot arms automate tasks in the factory. So it's designed to automate tasks in the factory. But
+
+02:07:08.560 --> 02:07:18.720
+I think that humanoid form, as we were talking about before, is one that we connect with as
+
+02:07:18.720 --> 02:07:23.040
+human beings, anything, anything like it, obviously, but the humanoid form, especially
+
+02:07:23.280 --> 02:07:30.240
+anthropomorphizes it most intensely. And so the possibility to me, it's exciting to see
+
+02:07:31.520 --> 02:07:39.840
+both Atlas developed by Boston Dynamics and anyone, including Tesla, trying to make humanoid
+
+02:07:39.840 --> 02:07:47.360
+robots cheaper and more effective. The obvious way it transforms the world is social robotics to me,
+
+02:07:48.000 --> 02:07:55.440
+versus automation of tasks in the factory. So yeah, I just wanted to, in case that was something
+
+02:07:55.440 --> 02:08:00.800
+you're interested in, because I find its application of social robotics super interesting.
+
+02:08:01.360 --> 02:08:07.760
+We did a lot of work with Pepper, Pepper the robot a while back. We were like the emotion engine
+
+02:08:07.760 --> 02:08:12.640
+for Pepper, which is SoftBank's humanoid robot. And how tall is Pepper? It's like,
+
+02:08:13.280 --> 02:08:20.240
+yeah, like, I don't know, like five foot maybe, right? Yeah. Yeah. Pretty, pretty big,
+
+02:08:20.240 --> 02:08:27.520
+pretty big. And it was designed to be like airport lounges and, you know, retail stores,
+
+02:08:27.520 --> 02:08:35.920
+mostly customer service, right? Hotel lobbies. And, I mean, I don't know where the state of
+
+02:08:35.920 --> 02:08:39.520
+the robot is, but I think it's very promising. I think there are a lot of applications where
+
+02:08:39.520 --> 02:08:44.960
+this can be helpful. I'm also really interested in, yeah, social robotics for the home, right?
+
+02:08:44.960 --> 02:08:50.800
+Like that can help elderly people, for example, transport things from one location of the home
+
+02:08:50.800 --> 02:08:58.160
+to the other, or even like just have your back in case something happens. Yeah. I don't know. I
+
+02:08:58.160 --> 02:09:03.040
+do think it's a very interesting space. It seems early though. Do you feel like the timing is now?
+
+02:09:03.040 --> 02:09:14.320
+I, yes, 100%. So it always seems early until it's not, right? Right, right, right. I think the time,
+
+02:09:17.120 --> 02:09:24.800
+I definitely think that the time is now, like this decade for social robots,
+
+02:09:25.520 --> 02:09:31.040
+whether the humanoid form is right. I don't think so. I don't, I think the,
+
+02:09:31.600 --> 02:09:41.600
+like, if we just look at Jibo as an example, I feel like most of the problem, the challenge,
+
+02:09:41.600 --> 02:09:49.200
+the opportunity of social connection between an AI system and a human being does not require you
+
+02:09:49.200 --> 02:09:56.160
+to also solve the problem of robot manipulation and bipedal mobility. So I think you could do
+
+02:09:56.160 --> 02:10:00.000
+that with just a screen, honestly, but there's something about the interface of Jibo,
+
+02:10:00.000 --> 02:10:05.280
+it can rotate and so on that's also compelling. But you get to see all these robot companies
+
+02:10:05.280 --> 02:10:14.640
+that fail, incredible companies like Jibo and even, I mean, the iRobot in some sense is a big
+
+02:10:14.640 --> 02:10:21.680
+success story that it was able to find a niche thing and focus on it. But in some sense, it's
+
+02:10:21.680 --> 02:10:29.120
+not a success story because they didn't build any other robot, like any other, it didn't expand
+
+02:10:30.080 --> 02:10:34.160
+into all kinds of robotics. Like once you're in the home, maybe that's what happens with Amazon,
+
+02:10:34.160 --> 02:10:39.600
+is they'll flourish into all kinds of other robots. But do you have a sense, by the way,
+
+02:10:40.480 --> 02:10:46.320
+why it's so difficult to build a robotics company? Like why so many companies have failed?
+
+02:10:46.960 --> 02:10:52.160
+I think it's like you're building a vertical stack, right? Like you are building the hardware
+
+02:10:52.160 --> 02:10:57.040
+plus the software and you find you have to do this at a cost that makes sense. So I think Jibo
+
+02:10:58.000 --> 02:11:05.840
+was retailing at like, I don't know, like $800, like $700, $800, which for the use case,
+
+02:11:07.840 --> 02:11:15.760
+there's a dissonance there, it's too high. So I think cost of building the whole platform
+
+02:11:15.760 --> 02:11:22.080
+in a way that is affordable for what value it's bringing, I think that's the challenge.
+
+02:11:23.040 --> 02:11:28.080
+I think for these home robots that are going to help you do stuff around the home,
+
+02:11:30.560 --> 02:11:34.720
+that's a challenge too, like the mobility piece of it. That's hard.
+
+02:11:34.720 --> 02:11:39.360
+Well, one of the things I'm really excited with TeslaBot is the people working on it.
+
+02:11:40.240 --> 02:11:44.960
+And that's probably the criticism I will apply to some of the other folks who worked on social
+
+02:11:44.960 --> 02:11:51.120
+robots, is the people working on TeslaBot know how to, they're focused on and know how to do mass
+
+02:11:51.120 --> 02:11:56.000
+manufacture and create a product that's super cheap. Very cool. That's the focus. The engineering
+
+02:11:56.000 --> 02:12:01.760
+focus isn't, I would say that you can also criticize them for that, is they're not focused
+
+02:12:01.760 --> 02:12:08.720
+on the experience of the robot. They're focused on how to get this thing to do the basic stuff
+
+02:12:08.720 --> 02:12:15.040
+that the humanoid form requires to do as cheap as possible. Then the fewest number of actuators,
+
+02:12:15.040 --> 02:12:19.280
+the fewest numbers of motors, the increase in efficiency, they decrease the weight,
+
+02:12:19.280 --> 02:12:21.520
+all that kind of stuff. That's really interesting.
+
+02:12:21.520 --> 02:12:27.680
+I would say that Jibo and all those folks, they focus on the design, the experience, all of that,
+
+02:12:27.680 --> 02:12:34.000
+and it's secondary how to manufacture. No, you have to think like the TeslaBot folks from first
+
+02:12:34.000 --> 02:12:40.320
+principles, what is the fewest number of components, the cheapest components, how can I build it as
+
+02:12:40.320 --> 02:12:46.640
+much in-house as possible without having to consider all the complexities of a supply chain,
+
+02:12:46.640 --> 02:12:48.480
+all that kind of stuff. It's interesting.
+
+02:12:48.480 --> 02:12:54.160
+Because if you have to build a robotics company, you're not building one robot. You're building,
+
+02:12:54.160 --> 02:12:58.560
+hopefully, millions of robots. You have to figure out how to do that, where the final thing,
+
+02:12:59.360 --> 02:13:04.880
+if it's Jibo type of robot, is there a reason why Jibo, like we're going to have this lengthy
+
+02:13:04.880 --> 02:13:07.760
+discussion, is there a reason why Jibo has to be over $100?
+
+02:13:07.760 --> 02:13:12.160
+It shouldn't be. Right, the basic components.
+
+02:13:12.160 --> 02:13:16.320
+Components of it, right. You could start to actually discuss
+
+02:13:16.720 --> 02:13:21.360
+what is the essential thing about Jibo? What is the cheapest way I can have a screen? What's
+
+02:13:21.360 --> 02:13:26.320
+the cheapest way I can have a rotating base? All that kind of stuff. And then you get down,
+
+02:13:26.880 --> 02:13:34.000
+continuously drive down costs. Speaking of which, you have launched an extremely successful
+
+02:13:34.000 --> 02:13:39.600
+company. You have helped others. You've invested in companies. Can you give advice on how to start
+
+02:13:40.960 --> 02:13:42.560
+a successful company?
+
+02:13:42.560 --> 02:13:48.880
+I would say have a problem that you really, really, really want to solve. Something that
+
+02:13:48.880 --> 02:13:57.120
+you're deeply passionate about. And honestly, take the first step. That's often the hardest.
+
+02:13:58.320 --> 02:14:04.000
+And don't overthink it. This idea of a minimum viable product or a minimum viable version of
+
+02:14:04.000 --> 02:14:09.520
+an idea. Yes, you're thinking about this humongous, super elegant, super beautiful
+
+02:14:09.520 --> 02:14:14.800
+thing. Reduce it to the littlest thing you can bring to market that can solve a problem or that
+
+02:14:16.240 --> 02:14:24.160
+can help address a pain point that somebody has. They often tell you, start with a customer of one.
+
+02:14:24.160 --> 02:14:27.920
+If you can solve a problem for one person, then there's probably-
+
+02:14:27.920 --> 02:14:30.400
+Yourself or some other person. Pick a person.
+
+02:14:30.400 --> 02:14:31.360
+Exactly.
+
+02:14:31.360 --> 02:14:35.360
+It could be you. That's actually often a good sign that if you enjoy a thing,
+
+02:14:36.320 --> 02:14:41.120
+enjoy a thing where you have a specific problem that you'd like to solve, that's a good end of
+
+02:14:41.120 --> 02:14:50.000
+one to focus on. What else is there? Step one is the hardest, but there's other steps as well.
+
+02:14:51.280 --> 02:15:00.400
+I also think who you bring around the table early on is so key. Being clear on what I call
+
+02:15:00.400 --> 02:15:04.560
+your core values or your north star. It might sound fluffy, but actually it's not.
+
+02:15:05.680 --> 02:15:10.560
+And Roz and I feel like we did that very early on. We sat around her kitchen table
+
+02:15:10.560 --> 02:15:14.560
+and we said, okay, there's so many applications of this technology. How are we going to draw the
+
+02:15:14.560 --> 02:15:20.400
+line? How are we going to set boundaries? We came up with a set of core values that in the hardest
+
+02:15:20.400 --> 02:15:26.880
+of times we fell back on to determine how we make decisions. And so I feel like just getting clarity
+
+02:15:26.880 --> 02:15:32.240
+on these core values. For us, it was respecting people's privacy, only engaging with industries
+
+02:15:32.240 --> 02:15:36.640
+where it's clear opt-in. So for instance, we don't do any work in security and surveillance.
+
+02:15:38.480 --> 02:15:45.040
+So things like that. One of our core values is human connection and empathy, right? And that is,
+
+02:15:45.040 --> 02:15:50.720
+yes, it's an AI company, but it's about people. Well, they become encoded in how we
+
+02:15:51.680 --> 02:15:55.680
+act, even if you're a small, tiny team of two or three or whatever.
+
+02:15:57.120 --> 02:16:01.760
+So I think that's another piece of advice. So what about finding people, hiring people?
+
+02:16:02.400 --> 02:16:09.200
+If you care about people as much as you do, it seems like such a difficult thing to hire the
+
+02:16:09.200 --> 02:16:15.440
+right people. I think early on as a startup, you want people who share the passion and the
+
+02:16:15.520 --> 02:16:22.800
+conviction because it's going to be tough. I've yet to meet a startup where it was just a straight
+
+02:16:22.800 --> 02:16:28.000
+line to success, right? Even not just startup, like even in everyday people's lives, right?
+
+02:16:28.000 --> 02:16:37.440
+You always run into obstacles and you run into naysayers. So you need people who are believers,
+
+02:16:37.440 --> 02:16:41.920
+whether they're people on your team or even your investors. You need investors who are really
+
+02:16:41.920 --> 02:16:46.240
+believers in what you're doing because that means they will stick with you. They won't
+
+02:16:47.120 --> 02:16:50.160
+give up at the first obstacle. I think that's important.
+
+02:16:50.160 --> 02:16:58.160
+Yeah. What about raising money? What about finding investors? First of all, raising money,
+
+02:16:58.160 --> 02:17:04.800
+but also raising money from the right sources, from that ultimately don't hinder you but help
+
+02:17:04.800 --> 02:17:09.120
+you, empower you, all that kind of stuff. What advice would you give there? You successfully
+
+02:17:09.120 --> 02:17:14.080
+raise money many times in your life. Yeah. Again, it's not just about the money.
+
+02:17:14.800 --> 02:17:20.400
+It's about finding the right investors who are going to be aligned in terms of what you want
+
+02:17:20.400 --> 02:17:29.040
+to build and believe in your core values. For example, especially later on, in my latest round
+
+02:17:29.040 --> 02:17:35.200
+of funding, I try to bring in investors that really care about the ethics of AI, right?
+
+02:17:35.280 --> 02:17:41.360
+And the alignment of vision and mission and core values is really important. It's like you're
+
+02:17:41.360 --> 02:17:44.960
+picking a life partner, right? It's the same kind of-
+
+02:17:44.960 --> 02:17:47.280
+So you take it that seriously for investors?
+
+02:17:47.280 --> 02:17:49.840
+Yeah, because they're going to have to stick with you.
+
+02:17:49.840 --> 02:17:51.280
+You're stuck together.
+
+02:17:51.280 --> 02:17:56.640
+For a while anyway, yeah. Maybe not for life, but for a while, for sure.
+
+02:17:56.640 --> 02:18:00.800
+For better or worse. I forget what the vowels usually sound like. For better or worse? No.
+
+02:18:01.280 --> 02:18:04.400
+Through sick, through something.
+
+02:18:07.440 --> 02:18:13.440
+Oh boy. Yeah, anyway, it's romantic and deep and you're in it for a while.
+
+02:18:15.040 --> 02:18:21.440
+So it's not just about the money. You tweeted about going to your first capital camp investing
+
+02:18:21.440 --> 02:18:29.440
+get together and that you learned a lot. So this is about investing. So what have you learned from
+
+02:18:29.440 --> 02:18:34.320
+that? What have you learned about investing in general? Because you've been on both ends of it.
+
+02:18:35.360 --> 02:18:42.320
+I try to use my experience as an operator now with my investor hat on when I'm identifying companies
+
+02:18:42.320 --> 02:18:48.880
+to invest in. First of all, I think the good news is because I have a technology background
+
+02:18:48.880 --> 02:18:52.640
+and I really understand machine learning and computer vision and AI, et cetera,
+
+02:18:53.200 --> 02:18:58.800
+I can apply that level of understanding because everybody says they're an AI company or they're
+
+02:18:58.800 --> 02:19:03.680
+an AI tech. And I'm like, no, no, no, no, no. Show me the technology. So I can do that level
+
+02:19:03.680 --> 02:19:10.480
+of diligence, which I actually love. And then I have to do the litmus test of, you know,
+
+02:19:10.480 --> 02:19:15.040
+if I'm in a conversation with you, am I excited to tell you about this new company that I just met?
+
+02:19:15.040 --> 02:19:21.920
+Right? And if I'm an ambassador for that company and I'm passionate about what they're doing,
+
+02:19:21.920 --> 02:19:27.200
+I usually use that. Yeah, that's important to me when I'm investing.
+
+02:19:28.080 --> 02:19:34.240
+So that means you actually can explain what they're doing and you're excited about it.
+
+02:19:34.240 --> 02:19:41.120
+Exactly. Exactly. Thank you for putting it so succinctly. Just like rambling, but exactly
+
+02:19:41.120 --> 02:19:45.120
+that's it. I understand it and I'm excited about it. Sometimes it's funny, but sometimes it's
+
+02:19:45.120 --> 02:19:52.400
+unclear exactly. I'll hear people tell me, you know, and they'll talk for a while and it sounds
+
+02:19:52.400 --> 02:19:56.560
+cool. Like they paint a picture of a world, but then when you try to summarize it, you're not
+
+02:19:56.560 --> 02:20:04.000
+exactly clear of what, uh, maybe, maybe what the core powerful idea is. Like you can't just build
+
+02:20:04.000 --> 02:20:12.560
+another Facebook or, um, there has to be a, there has to be a core, simple to explain idea that,
+
+02:20:12.560 --> 02:20:17.680
+yeah, that then you can or can't get excited about, but it's there. It's right there. Yeah.
+
+02:20:18.800 --> 02:20:21.520
+Yeah. What, uh, but like, how do you ultimately
+
+02:20:21.520 --> 02:20:27.680
+pick who you think will be successful? It's not just about the thing you're excited about,
+
+02:20:27.680 --> 02:20:30.720
+like there's other stuff. Right. And then there's all the questions,
+
+02:20:31.360 --> 02:20:35.440
+you know, with early stage companies, like pre-seed companies, which is where I'm investing,
+
+02:20:36.000 --> 02:20:42.000
+sometimes the, the business model isn't clear yet, or the go-to-market strategy isn't clear.
+
+02:20:42.000 --> 02:20:46.240
+There's usually like, it's very early on that some of these things haven't been hashed out,
+
+02:20:46.240 --> 02:20:50.800
+which is okay. So the way I like to think about it is like, if this company is successful,
+
+02:20:50.800 --> 02:20:56.400
+will this be a multi-billion slash trillion dollar market, you know, or company? And,
+
+02:20:56.400 --> 02:21:01.840
+and so that's definitely a lens that I use. Um, what's pre, what's pre-seed,
+
+02:21:01.840 --> 02:21:05.680
+what are the different stages and what's the most exciting stage and what's,
+
+02:21:06.240 --> 02:21:09.440
+or not what's, what's, what's interesting about every stage, I guess.
+
+02:21:09.440 --> 02:21:13.280
+Yeah. So pre-seed is usually when you're just starting out,
+
+02:21:13.840 --> 02:21:17.840
+you've maybe raised the friends and family around. So you've raised some money from people,
+
+02:21:17.840 --> 02:21:23.040
+you know, and you're getting ready to, to take your first institutional check-in, like first
+
+02:21:23.040 --> 02:21:31.120
+check from an investor. And, um, I love this stage. There's a lot of uncertainty. Some investors
+
+02:21:31.120 --> 02:21:37.680
+really don't like this stage because the financial models aren't there. Often the teams aren't even
+
+02:21:37.680 --> 02:21:46.240
+like formed really, really early. Um, but to me, it's, it's like a magical stage because it's,
+
+02:21:46.240 --> 02:21:50.320
+it's the time when there's so much conviction, so much belief, almost delusional, right?
+
+02:21:51.520 --> 02:21:57.920
+And there's a little bit of naivete around with, with founders at this stage. I just love it. It's
+
+02:21:57.920 --> 02:22:05.840
+contagious. And, um, I, and I love, I love that I can, often they're first time founders, not always,
+
+02:22:05.840 --> 02:22:10.720
+but often they're first time founders and I can share my experience as a founder myself and I can
+
+02:22:10.720 --> 02:22:17.840
+empathize, right? And I can almost, I create a safe ground where, cause you know, you have
+
+02:22:17.840 --> 02:22:22.960
+to be careful what you tell your investors, right? And I will, I will often like say,
+
+02:22:22.960 --> 02:22:27.200
+I've been in your shoes as a founder. You can tell me if it's challenging. You can tell me what
+
+02:22:27.200 --> 02:22:33.040
+you're struggling with. It's okay to vent. So I create that safe ground. Um, and I think,
+
+02:22:33.040 --> 02:22:39.040
+I think that's the superpower. Yeah. You have to, uh, what I guess you have to figure out if this
+
+02:22:39.040 --> 02:22:44.960
+kind of person is going to be able to ride the roller coaster, uh, like of many pivots and
+
+02:22:45.920 --> 02:22:50.960
+challenges and all that kind of stuff. And if the space of ideas they're working in is,
+
+02:22:50.960 --> 02:22:57.440
+is interesting, like the way they think about the world. Yeah. Cause it, if it's successful,
+
+02:22:57.440 --> 02:23:00.880
+the thing they end up with might be very different. The reason it's successful for
+
+02:23:01.360 --> 02:23:07.200
+Actually, you, you, you know, I was going to say the third criteria. So the technology is one aspect
+
+02:23:07.200 --> 02:23:11.760
+the market or the idea, right? Is the second and the third is the founder, right? Is this somebody
+
+02:23:11.760 --> 02:23:20.720
+who I believe has conviction as a hustler, you know, is going to overcome obstacles. Um, yeah,
+
+02:23:20.720 --> 02:23:25.760
+I think that it is going to be a great leader, right? Like as a startup, as a founder, you're
+
+02:23:25.760 --> 02:23:31.600
+often, you are the first person and your role is to bring amazing people around you to build this
+
+02:23:31.600 --> 02:23:38.400
+thing. And so you're in an evangelist, right? So how good are you going to be at that? So I try to
+
+02:23:38.960 --> 02:23:45.680
+evaluate that too. You also in the tweet thread about it, uh, mentioned, is this a known concept,
+
+02:23:45.680 --> 02:23:52.320
+random rich dudes are RDS and saying that there should be like random rich women, I guess.
+
+02:23:52.960 --> 02:23:57.680
+What's the dudes, what's the dudes version of women, the women version of dudes,
+
+02:23:57.680 --> 02:24:01.920
+ladies, I don't know. What's, what's, is this a technical term? Is this known?
+
+02:24:03.360 --> 02:24:10.080
+I didn't make that up, but I was at this capital camp, which is a get together for investors of all
+
+02:24:10.080 --> 02:24:19.840
+types. And there must've been maybe 400 or so attendees, maybe 20 were women. It was just very
+
+02:24:19.920 --> 02:24:26.160
+disproportionately, um, you know, a male, a male dominated, which I'm used to. I think you're used
+
+02:24:26.160 --> 02:24:31.040
+to this kind of thing. I'm used to it, but it's still surprising. And as I'm raising money for
+
+02:24:31.040 --> 02:24:38.160
+this fund, so my, my, my fund partner, uh, is a guy called Rob May who's done this before. So I'm
+
+02:24:38.160 --> 02:24:44.000
+new to the investing world, but he's done this before. Most of our investors in the fund are
+
+02:24:44.000 --> 02:24:48.960
+these, I mean, awesome. I'm super grateful to them. Random, just rich guys. I'm like,
+
+02:24:49.040 --> 02:24:55.280
+where are the rich women? So I, I'm really adamant in both investing in women led AI companies,
+
+02:24:55.920 --> 02:25:01.600
+but I also would love to have women investors be part of my fund. Um, because I think that's
+
+02:25:01.600 --> 02:25:06.400
+how we drive change. Yeah. So then, uh, you know, that, that, that takes time, of course,
+
+02:25:06.400 --> 02:25:10.800
+but there's been quite, quite a lot of progress, but yeah, for, for the next Mark Zuckerberg to
+
+02:25:10.800 --> 02:25:15.440
+be a woman and all that kind of stuff. Cause that, that's just like a huge number of wealth
+
+02:25:15.440 --> 02:25:20.880
+generated by, by women and then controlled by women, then allocated by women and all that kind
+
+02:25:20.880 --> 02:25:26.800
+of stuff. And then beyond just women, just broadly across all different measures of diversity and so
+
+02:25:26.800 --> 02:25:37.440
+on. Um, let me ask you to put on your wise Sage hat. Okay. So we already, you already gave advice
+
+02:25:37.440 --> 02:25:46.080
+on startups and just advice, um, um, for women, but in general, um, advice for folks
+
+02:25:46.080 --> 02:25:52.480
+in high school or college today, how to have a career they can be proud of, how to have a life
+
+02:25:52.480 --> 02:25:57.760
+they can be proud of. I suppose you have to give this kind of advice to your kids.
+
+02:25:58.960 --> 02:26:04.800
+Well, here's the number one advice that I give to my kids. My daughter's now 19, by the way,
+
+02:26:04.800 --> 02:26:12.400
+and my son is 13 and a half, so they're not little kids anymore, but, but I think it does,
+
+02:26:13.440 --> 02:26:18.560
+they're awesome. They're my best friends, but, um, yeah, I think the number one advice I would
+
+02:26:18.560 --> 02:26:25.680
+share is embark on a journey without attaching to outcomes, um, and enjoy the journey. Right. So,
+
+02:26:25.680 --> 02:26:33.040
+you know, we often were so obsessed with, with the end goal, a, that doesn't allow us to be open
+
+02:26:33.680 --> 02:26:40.480
+to different endings of a, of a journey or a story. Um, so you become like so fixated on a
+
+02:26:40.480 --> 02:26:47.680
+particular path. You don't see the beauty in the other alternative path. Um, and then you forget
+
+02:26:47.680 --> 02:26:51.920
+to enjoy the journey because you're just so fixated on the goal. And I've been guilty of that
+
+02:26:52.560 --> 02:26:57.520
+for many, many years in my life. And I've, I've, I've now, I'm now trying to like make the shift
+
+02:26:57.520 --> 02:27:03.040
+of, no, no, no, I'm gonna, again, trust that things are going to work out and it'll be amazing
+
+02:27:03.040 --> 02:27:08.560
+and maybe even exceed your dreams, but you have to be open to that. Yeah. Taking, uh, taking a
+
+02:27:08.560 --> 02:27:13.040
+leap into all kinds of things. I think you tweeted like you went on vacation by yourself or something
+
+02:27:13.040 --> 02:27:20.560
+like this or this and just, just, just, just going, just taking the leap, doing it and enjoying it,
+
+02:27:20.560 --> 02:27:25.040
+enjoying the, enjoying the moment, enjoying the weeks, enjoying, not looking at the,
+
+02:27:25.040 --> 02:27:32.000
+uh, some kind of career ladder next step and so on. Yeah. There's, there's something to that,
+
+02:27:32.000 --> 02:27:37.600
+like over planning too. I'm surrounded by a lot of people that kind of, so I don't plan.
+
+02:27:37.600 --> 02:27:45.920
+You don't know. Do you not do goal setting? Um, my goal setting is very like,
+
+02:27:47.200 --> 02:27:53.840
+I like the affirmations is very, it's almost, uh, I don't know how to put it into words, but it's,
+
+02:27:54.320 --> 02:28:03.520
+it's a little bit like, um, what my heart yearns for kind of, and I guess in the space of emotions
+
+02:28:03.520 --> 02:28:09.840
+more than in the space of like, this would be like in the rational space. Cause I just
+
+02:28:11.280 --> 02:28:17.440
+tried to picture a world that I would like to be in and that world is not clearly pictured.
+
+02:28:17.440 --> 02:28:22.560
+It's mostly in the emotional world. I mean, I think about that from, from robots cause,
+
+02:28:22.640 --> 02:28:29.520
+you know, I have this desire. I've had my whole life to, to, well, they took different shapes,
+
+02:28:29.520 --> 02:28:37.520
+but I think once I discovered AI, the desire was to, I think in this, in the context of this
+
+02:28:37.520 --> 02:28:43.200
+conversation could be easily easier described as basically a social robotics company. And that's
+
+02:28:43.200 --> 02:28:51.440
+something I dreamed of doing. And, um, well, there's a lot, there's a lot of complexity to
+
+02:28:51.440 --> 02:28:56.960
+that story, but that, that's the, that's the only thing, honestly, I dream of doing. So I imagine
+
+02:28:56.960 --> 02:29:04.960
+a world that, that I could help create, but it's not, um, there's no steps along the way.
+
+02:29:05.520 --> 02:29:13.120
+And I think I'm just kind of stumbling around and following happiness and working my ass off
+
+02:29:13.120 --> 02:29:18.240
+in almost random, like an ant does in random directions. But a lot of people, a lot of
+
+02:29:18.240 --> 02:29:21.440
+successful people around me say this, you should have a plan. You should have a clear goal. You
+
+02:29:21.440 --> 02:29:25.520
+have a goal at the end of the month. You have a goal at the end of the year. I don't, I don't,
+
+02:29:25.520 --> 02:29:34.960
+I don't. And, um, there's a balance to be struck, of course, but there's something to be said about
+
+02:29:34.960 --> 02:29:42.320
+really making sure that you're living life to the fullest, that goals can actually get in the way of.
+
+02:29:43.280 --> 02:29:50.800
+So one of the best, like kind of most, um, uh, what do you, what do you call it when it's like
+
+02:29:51.360 --> 02:29:53.360
+challenges your brain? What do you call it? Um,
+
+02:29:56.480 --> 02:29:59.920
+the only thing that comes to mind, and this is me saying is the mind fuck, but yes.
+
+02:30:01.920 --> 02:30:08.480
+Something like that. Yes. Super inspiring talk. Kenneth Stanley, he was at open AI. He just laughed
+
+02:30:09.120 --> 02:30:14.160
+and he has a book called Why Greatness Can't Be Planned. And it's actually an AI book. So,
+
+02:30:14.160 --> 02:30:18.640
+and he's done all these experiments that basically show that when you over optimize,
+
+02:30:20.160 --> 02:30:26.480
+you, you, like the trade off is you're less creative, right? And to create true greatness
+
+02:30:26.480 --> 02:30:32.480
+and truly creative solutions to problems, you can't overplan it. You can't. And I thought
+
+02:30:32.480 --> 02:30:37.680
+that was, and so he generalizes it beyond AI and he talks about how we apply that in our personal
+
+02:30:37.680 --> 02:30:42.800
+life and our organizations and our companies, which are over KPI, right? Like look at any
+
+02:30:42.800 --> 02:30:47.280
+company in the world and it's all like, these are the goals. These are the, you know, weekly goals
+
+02:30:47.280 --> 02:30:52.160
+and you know, the sprints and then the quarterly goals, blah, blah, blah. And, and he just shows
+
+02:30:52.800 --> 02:30:59.360
+with a lot of his AI experiments that that's not how you create truly game-changing ideas.
+
+02:30:59.360 --> 02:31:05.120
+So there you go. Yeah. Yeah. He's awesome. Yeah. There's a balance of course. That's,
+
+02:31:05.200 --> 02:31:09.920
+yeah, many moments of genius will not come from planning and goals, but
+
+02:31:11.200 --> 02:31:15.200
+you still have to build factories and you still have to manufacture and you still have to deliver
+
+02:31:15.200 --> 02:31:19.200
+and there's still deadlines and all that kind of stuff. And that for that, it's good to have goals.
+
+02:31:19.200 --> 02:31:25.280
+I do goal setting with my kids. We all have our goals, but, but, but I think we're starting to
+
+02:31:25.280 --> 02:31:31.200
+morph into more of these like bigger picture goals and not obsess about like, I dunno, it's hard.
+
+02:31:31.200 --> 02:31:34.880
+Well, I honestly think with, especially with kids, it's better, much, much better to have a
+
+02:31:34.880 --> 02:31:38.800
+plan and have goals and so on. Cause you have to, you have to learn the muscle of like what it
+
+02:31:38.800 --> 02:31:43.760
+feels like to get stuff done. Yeah. But I think once you learn that there's flexibility for me
+
+02:31:43.760 --> 02:31:50.000
+because I spent most of my life with goal setting and so on. So like I've gotten good with grades
+
+02:31:50.000 --> 02:31:54.720
+and school. I mean, school, if you want to be successful at school, yeah. I mean, the kind of
+
+02:31:54.720 --> 02:31:59.440
+stuff in high school and college that kids have to do in terms of managing their time and getting
+
+02:31:59.440 --> 02:32:04.880
+so much stuff done. It's like, you know, taking five, six, seven classes in college,
+
+02:32:05.440 --> 02:32:12.240
+they're like, that would break the spirit of most humans if they took one of them later in life.
+
+02:32:12.240 --> 02:32:19.120
+It's like really difficult stuff, especially engineering curricula. So I think you have to
+
+02:32:19.120 --> 02:32:23.760
+learn that skill, but once you learn it, you can maybe cause you're, you can be a little bit on
+
+02:32:23.760 --> 02:32:28.960
+autopilot and use that momentum and then allow yourself to be lost in the flow of life. You know,
+
+02:32:28.960 --> 02:32:39.200
+just kind of or also give like, I worked pretty hard to allow myself to have the freedom to do
+
+02:32:39.200 --> 02:32:44.160
+that. That's really right. That's a tricky freedom to have. Yeah. Because like a lot of people get
+
+02:32:44.160 --> 02:32:50.960
+lost in the rat race and they, right. And they also like, like financially they, whenever you
+
+02:32:50.960 --> 02:32:55.920
+get a raise, they'll get like a bigger house. Right, right, right. Something like this. I put
+
+02:32:56.400 --> 02:33:04.000
+so like, you're always trapped in this race. I put a lot of emphasis on living like below
+
+02:33:04.000 --> 02:33:10.560
+my means always. And so there's a lot of freedom to do whatever the heart desires.
+
+02:33:12.000 --> 02:33:16.560
+But everyone has to decide what's the right thing. What's the right thing for them. For some people
+
+02:33:16.560 --> 02:33:22.240
+having a lot of responsibilities, like a house they can barely afford or having a lot of kids,
+
+02:33:22.720 --> 02:33:28.320
+the responsibility side of that is really helps them get their shit together. Like,
+
+02:33:28.320 --> 02:33:32.560
+all right, I need to be really focused and get some of the most successful people I know have
+
+02:33:32.560 --> 02:33:37.360
+kids and the kids bring out the best in them. They make them more productive. Right. Accountability.
+
+02:33:37.360 --> 02:33:43.440
+Yeah. Accountability thing. And almost something to actually live and fight and work for like
+
+02:33:43.440 --> 02:33:48.480
+having a family. Yeah. It's fascinating to see because you would think kids would be a hit on
+
+02:33:48.480 --> 02:33:53.040
+productivity, but they're not for a lot of really successful people. They really like,
+
+02:33:53.040 --> 02:33:57.920
+they're like an engine of. Right. Efficiency. Oh my god. Yeah. Yeah. It's weird. Yeah. I mean,
+
+02:33:57.920 --> 02:34:03.680
+it's beautiful. It's beautiful to see. And also social happiness. Speaking of which, what role
+
+02:34:05.360 --> 02:34:08.640
+do you think love plays in the human condition? Love?
+
+02:34:09.120 --> 02:34:18.160
+I think love is, yeah, I think it's why we're all here. I think it would be very hard to live life
+
+02:34:18.160 --> 02:34:30.240
+without love in any of its forms. Right. Yeah. That's the most beautiful forms that human
+
+02:34:30.240 --> 02:34:38.560
+connection takes. Right. Yeah. I feel like everybody wants to live in love. Right. Yeah.
+
+02:34:38.640 --> 02:34:43.760
+Everyone wants to feel loved. Right. In one way or another. Right. And to love. Yeah. And to love
+
+02:34:43.760 --> 02:34:48.480
+too. Totally. Yeah. I agree with that. Both of it. I'm not even sure what feels better.
+
+02:34:50.240 --> 02:34:57.200
+Both like that. To give love too. Yeah. And it is like we've been talking about an interesting
+
+02:34:57.200 --> 02:35:04.240
+question, whether some of that, whether one day we'll be able to love a toaster. Okay. It's some
+
+02:35:04.240 --> 02:35:09.840
+small- I wasn't quite thinking about that when I said- The toaster. Yeah. That's what I was
+
+02:35:09.840 --> 02:35:14.080
+thinking about. I was thinking about Brad Pitt and toasters. Okay. Toaster's great.
+
+02:35:15.280 --> 02:35:21.760
+All right. Well, I think we started on love and ended on love. This was an incredible conversation,
+
+02:35:21.760 --> 02:35:26.000
+Ron. Thank you so much. You're an incredible person. Thank you for everything you're doing in
+
+02:35:26.880 --> 02:35:36.480
+AI, in the space of just caring about humanity, human emotion, about love, and being an inspiration
+
+02:35:36.480 --> 02:35:42.320
+to a huge number of people in robotics, in AI, in science, in the world in general. So,
+
+02:35:42.320 --> 02:35:46.240
+thank you for talking to me. It's an honor. Thank you for having me. And you know I'm a big fan
+
+02:35:46.240 --> 02:35:51.120
+of yours as well. So, it's been a pleasure. Thanks for listening to this conversation with
+
+02:35:51.120 --> 02:35:55.920
+Rana El-Kalyoubi. To support this podcast, please check out our sponsors in the description.
+
+02:35:56.640 --> 02:35:59.520
+And now, let me leave you with some words from Helen Keller.
+
+02:36:00.480 --> 02:36:05.200
+The best and most beautiful things in the world cannot be seen or even touched.
+
+02:36:05.840 --> 02:36:12.160
+They must be felt with the heart. Thank you for listening and hope to see you next time.
+
+02:36:21.120 --> 02:36:21.360
+you
+

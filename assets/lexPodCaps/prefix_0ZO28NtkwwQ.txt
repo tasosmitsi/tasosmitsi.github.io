@@ -1,0 +1,6344 @@
+WEBVTT
+
+00:00.000 --> 00:03.200
+The following is a conversation with Magnus Carlsen,
+
+00:03.200 --> 00:05.360
+the number one ranked chess player in the world
+
+00:05.360 --> 00:07.720
+and widely considered to be one of,
+
+00:07.720 --> 00:10.320
+if not the greatest chess player of all time.
+
+00:11.200 --> 00:14.480
+The camera on Magnus died 20 minutes into the conversation.
+
+00:14.480 --> 00:16.920
+Most folks still just listen to the audio
+
+00:16.920 --> 00:18.760
+through a podcast player anyway,
+
+00:18.760 --> 00:23.120
+but if you're watching this on YouTube or Spotify,
+
+00:23.120 --> 00:25.040
+we did our best to still make it interesting
+
+00:25.040 --> 00:27.040
+by adding relevant image overlays.
+
+00:28.000 --> 00:31.920
+I mess things up sometimes, like in this case,
+
+00:31.920 --> 00:34.320
+but I'm always working hard to improve.
+
+00:34.320 --> 00:36.520
+I hope you understand.
+
+00:36.520 --> 00:39.680
+Thank you for your patience and support along the way.
+
+00:39.680 --> 00:40.520
+I love you all.
+
+00:41.840 --> 00:43.840
+This is the Lex Fridman podcast.
+
+00:43.840 --> 00:45.920
+To support it, please check out our sponsors
+
+00:45.920 --> 00:47.200
+in the description.
+
+00:47.200 --> 00:50.640
+And now, dear friends, here's Magnus Carlsen.
+
+00:51.720 --> 00:54.480
+You're considered by many to be one of the greatest,
+
+00:54.480 --> 00:56.960
+if not the greatest chess players of all time.
+
+00:57.840 --> 01:00.000
+But you're also one of the best fantasy football,
+
+01:00.000 --> 01:02.880
+AKA soccer, competitors in the world,
+
+01:02.880 --> 01:04.320
+plus recently picking up poker
+
+01:04.320 --> 01:06.960
+and competing at a world-class level.
+
+01:06.960 --> 01:10.320
+So before chess, let's talk football and greatness.
+
+01:11.360 --> 01:13.520
+You're a Real Madrid fan,
+
+01:13.520 --> 01:15.680
+so let me ask you the ridiculous big question.
+
+01:15.680 --> 01:18.080
+Who do you think is the greatest football,
+
+01:18.080 --> 01:20.320
+AKA soccer player of all time?
+
+01:20.320 --> 01:22.800
+Can you make the case for Messi?
+
+01:22.800 --> 01:25.760
+Can you make the case for Cristiano Ronaldo,
+
+01:25.760 --> 01:28.080
+Maradona, does anybody jump to mind?
+
+01:28.800 --> 01:32.560
+I think it's pretty hard to make a case for anybody else
+
+01:33.760 --> 01:36.800
+than Messi for his all-around game.
+
+01:38.960 --> 01:47.360
+Frankly, my Real Madrid fandom predates the Ronaldo era,
+
+01:47.360 --> 01:50.240
+the second Ronaldo, not the first one.
+
+01:50.240 --> 01:51.760
+So I always liked Ronaldo,
+
+01:51.760 --> 01:56.000
+but I always kind of thought that Messi was better.
+
+01:57.280 --> 02:00.080
+I went to quite a number of Madrid games
+
+02:00.080 --> 02:03.680
+and they've always been super helpful to me down there.
+
+02:03.680 --> 02:06.240
+The only thing is that they asked me,
+
+02:06.800 --> 02:08.480
+they were going to do an interview
+
+02:08.480 --> 02:10.800
+and they were going to ask me who my favorite player was.
+
+02:12.640 --> 02:15.760
+I said somebody else, I think I said Isco at that point,
+
+02:15.760 --> 02:18.640
+and I was like, okay, take two, now you say Ronaldo.
+
+02:19.360 --> 02:22.400
+So for them, it was very important,
+
+02:22.400 --> 02:26.400
+but it wasn't that huge to me.
+
+02:26.400 --> 02:28.240
+So Messi over Maradona.
+
+02:28.960 --> 02:32.320
+Yeah, but I think just like with chess,
+
+02:32.320 --> 02:33.840
+it's hard to compare eras.
+
+02:34.480 --> 02:36.640
+Obviously, the improvements in football have been
+
+02:37.120 --> 02:40.880
+like in technique and such have been even greater
+
+02:40.880 --> 02:43.040
+than they have been in chess,
+
+02:43.040 --> 02:48.880
+but it's always a weird discussion to have.
+
+02:48.880 --> 02:54.240
+But just as a fan, what do you think is beautiful about the game?
+
+02:54.240 --> 02:55.520
+What defines greatness?
+
+02:56.720 --> 02:59.360
+With Messi, one, he's really good at finishing,
+
+02:59.920 --> 03:01.360
+two, very good at assist,
+
+03:02.080 --> 03:03.440
+like three, there's just magic,
+
+03:03.440 --> 03:05.280
+it's just beautiful to see the play.
+
+03:05.280 --> 03:06.720
+So it's not just about the finishing.
+
+03:08.000 --> 03:09.600
+It's like Maradona's hand of God.
+
+03:09.600 --> 03:13.360
+There's some creativity on the pitch.
+
+03:13.360 --> 03:15.680
+Is that important or is it very important
+
+03:15.680 --> 03:18.000
+to get the World Cups and the big championships
+
+03:18.000 --> 03:19.040
+and that kind of stuff?
+
+03:19.040 --> 03:22.000
+I think the World Cup is pretty overrated
+
+03:22.000 --> 03:26.480
+seeing as it's such a small sample size.
+
+03:26.480 --> 03:35.120
+So it sort of annoys me always when titles are always appreciated so much,
+
+03:35.840 --> 03:41.840
+even though that particular title can be a lot of luck
+
+03:41.840 --> 03:44.720
+or at least some luck.
+
+03:46.720 --> 03:50.720
+So I do appreciate the statistics a bit
+
+03:50.720 --> 03:55.680
+and all the statistics say that Messi is the best finisher of all time,
+
+03:55.680 --> 03:57.600
+which I think helps a lot.
+
+03:58.320 --> 04:01.280
+And then there's the intangibles as well.
+
+04:01.280 --> 04:03.760
+The flip side of that is the small sample size.
+
+04:04.560 --> 04:08.960
+It's what really creates the magic.
+
+04:09.680 --> 04:11.520
+It's just like the Olympics.
+
+04:12.240 --> 04:14.800
+You basically train your whole life for this.
+
+04:14.800 --> 04:17.040
+You live your whole life for this and it's a rare moment.
+
+04:17.040 --> 04:19.440
+One mistake and it's all over.
+
+04:20.160 --> 04:25.040
+That's, for some reason, a lot of people either break under that pressure
+
+04:25.040 --> 04:26.480
+or rise up under that pressure.
+
+04:26.480 --> 04:28.320
+You don't admire the magic of that.
+
+04:28.320 --> 04:29.520
+No, I do.
+
+04:29.760 --> 04:36.080
+I just think that rising under pressure and breaking under the pressure
+
+04:36.080 --> 04:43.360
+is often a really oversimplified take on what's happening.
+
+04:44.320 --> 04:45.840
+Yeah, we do romanticize the game.
+
+04:46.640 --> 04:48.800
+Well, let me ask you another ridiculous question.
+
+04:48.800 --> 04:50.160
+You're also a fan of basketball.
+
+04:52.960 --> 04:54.240
+Let me ask the goat question.
+
+04:55.600 --> 04:58.560
+I'm biased because I went to high school in Chicago
+
+04:59.920 --> 05:02.160
+Chicago Bulls during the Michael Jordan era.
+
+05:03.280 --> 05:06.800
+Let me ask the Jordan versus LeBron James question.
+
+05:07.600 --> 05:09.440
+Let's continue on this thread of greatness.
+
+05:10.240 --> 05:12.000
+Which one do you pick or somebody else?
+
+05:13.680 --> 05:15.440
+I'll give you a completely different answer.
+
+05:17.520 --> 05:21.280
+Depending on my mood and depending on whom I talk to,
+
+05:21.280 --> 05:24.400
+I pick one of the two and then I try to argue for that.
+
+05:24.400 --> 05:25.520
+The quantum mechanical thing.
+
+05:25.520 --> 05:32.240
+Well, again, what would if you were to argue for either one?
+
+05:35.200 --> 05:38.560
+Statistically, I think LeBron James is going to surpass Jordan.
+
+05:38.560 --> 05:39.360
+Yeah, no doubt.
+
+05:41.200 --> 05:44.160
+Again, there's a debate between...
+
+05:44.800 --> 05:46.240
+Unquantifiable greatness.
+
+05:48.160 --> 05:49.040
+That's the whole debate.
+
+05:50.080 --> 05:50.560
+Yes.
+
+05:50.560 --> 05:53.840
+So it's quantifiable versus unquantifiable.
+
+05:53.840 --> 05:54.160
+Yeah.
+
+05:54.160 --> 05:55.040
+What's more important?
+
+05:55.680 --> 05:57.920
+You're depending on mood all over the place.
+
+05:59.760 --> 06:03.360
+What do you lean in general with these folks, with soccer,
+
+06:03.360 --> 06:07.680
+with anything in life towards the unquantifiable more?
+
+06:07.680 --> 06:10.400
+No, definitely towards the quantifiable.
+
+06:10.400 --> 06:12.720
+So when you're unsure, lean towards the numbers.
+
+06:12.720 --> 06:14.560
+But see like it's later generations.
+
+06:15.760 --> 06:18.080
+There's something that's what people say about Maradona is
+
+06:18.800 --> 06:24.560
+he took arguably somewhat mediocre team to a World Cup.
+
+06:25.200 --> 06:28.560
+So there's that also uplifting nature of the player
+
+06:28.560 --> 06:29.840
+to be able to rise up the hold.
+
+06:29.840 --> 06:31.120
+It is a team sport.
+
+06:31.120 --> 06:39.920
+So are you going to punish Messi for taking a mediocre Argentine squad
+
+06:39.920 --> 06:46.560
+to the final in 2014 and punish him because they lost to a great team
+
+06:46.560 --> 06:48.560
+very narrowly after they missed?
+
+06:49.520 --> 06:54.480
+He set up like a great chance for Iguain in the first half,
+
+06:56.320 --> 06:59.440
+which he fluffed and then, yeah, eventually they lost the game.
+
+07:00.000 --> 07:02.480
+Yeah, they do criticize Cristiano Ronaldo,
+
+07:02.480 --> 07:07.120
+Messi for being on really strong squads in terms of the club teams
+
+07:07.120 --> 07:09.840
+and saying, yeah, okay, it's easy when you have
+
+07:09.840 --> 07:12.720
+like Ronaldinho or whoever on your team.
+
+07:13.280 --> 07:18.320
+It would be very interesting just if the league could make a decision.
+
+07:19.360 --> 07:21.360
+Yeah, just random, random allocation.
+
+07:25.840 --> 07:28.320
+And just every single game, just keep reallocating.
+
+07:28.320 --> 07:32.800
+Or maybe once a season or every season you get random.
+
+07:32.800 --> 07:41.520
+Let's say every player, if let's say they sign a five-year contract for a team,
+
+07:41.520 --> 07:44.000
+like one of them you're going to get randomly allocated to,
+
+07:44.960 --> 07:46.640
+to let's say a bottom half team.
+
+07:48.560 --> 07:50.640
+I bet you there's going to be so much corruption around that.
+
+07:50.640 --> 07:54.800
+No, obviously it wouldn't ever happen or work,
+
+07:54.800 --> 07:57.600
+but I think it's interesting to think about.
+
+07:57.600 --> 08:00.720
+So on chess, let's zoom out.
+
+08:01.440 --> 08:05.680
+If you break down your approach to chess, when you're at your best,
+
+08:10.720 --> 08:12.400
+what do you think contributes to that approach?
+
+08:12.400 --> 08:15.200
+Is it memory recall, specific lines and positions?
+
+08:15.200 --> 08:16.400
+Is it intuition?
+
+08:16.400 --> 08:18.000
+How much of it is intuition?
+
+08:18.000 --> 08:20.160
+How much of it is pure calculation?
+
+08:20.160 --> 08:23.200
+How much of it is messing with the strategy of the opponent?
+
+08:23.200 --> 08:26.880
+So the game theory aspect in terms of what contributes
+
+08:26.880 --> 08:29.920
+to the highest level of play that you do.
+
+08:30.720 --> 08:38.400
+I think the answer differs a little bit now from what it did eight years ago.
+
+08:39.040 --> 08:45.200
+For instance, I feel like I've had two peaks in my career in 2014.
+
+08:46.080 --> 08:50.560
+Well, 2013, 2014, and also in 2019.
+
+08:50.560 --> 08:59.280
+And in those years, I was very different in terms of my strength.
+
+09:00.960 --> 09:06.240
+Specifically in 2019, I benefited a lot from opening preparation.
+
+09:07.680 --> 09:14.960
+While in 2013, 2014, I mostly tried to avoid my opponent's preparation,
+
+09:14.960 --> 09:18.400
+rather than that being a strength.
+
+09:19.120 --> 09:26.240
+So I'm mentioning that also because it's something you didn't mention.
+
+09:26.240 --> 09:31.920
+I think my intuitive understanding of chess has, over those years,
+
+09:32.960 --> 09:39.520
+always been a little bit better than the others, even though it has evolved as well.
+
+09:39.680 --> 09:45.280
+Well, certainly there are things that I understand now that I didn't understand
+
+09:46.240 --> 09:48.000
+back then, but that's not only for me.
+
+09:48.000 --> 09:50.640
+That's for others as well.
+
+09:51.840 --> 09:54.880
+I was younger back then, so I played with more energy,
+
+09:54.880 --> 09:59.680
+which meant that I could play better in long drawn out games,
+
+10:01.600 --> 10:08.000
+which was also a necessity for me because I couldn't beat people in the openings.
+
+10:08.960 --> 10:15.520
+But in terms of calculation, that's always been a weird issue for me.
+
+10:16.160 --> 10:22.000
+I've always been really, really bad at solving exercises in chess.
+
+10:24.160 --> 10:28.560
+That's been a blind spot for me.
+
+10:28.640 --> 10:38.720
+First of all, I found it hard to concentrate on them and to look deep enough.
+
+10:38.720 --> 10:42.400
+So this is like a puzzle, a position, mate in X.
+
+10:42.400 --> 10:45.360
+I mean, one thing is mate, but find the best move.
+
+10:45.360 --> 10:47.120
+That's generally the exercise.
+
+10:47.120 --> 10:49.120
+Find the best move, find the best line.
+
+10:50.720 --> 10:51.920
+You just don't connect with it.
+
+10:51.920 --> 10:58.320
+Usually you have to look deep, and then when I get these lines during the game,
+
+10:58.320 --> 11:04.560
+I very often find the right solution, even though
+
+11:09.120 --> 11:16.800
+it's not still the best part of my game to calculate very, very deeply.
+
+11:16.800 --> 11:20.320
+But it doesn't feel like calculation, you're saying, in terms of...
+
+11:20.320 --> 11:27.360
+No, it does sometimes, but for me, it's more like I'm at the board trying to find the solution,
+
+11:27.360 --> 11:33.360
+and I understand the training at home is trying a little bit to replicate that.
+
+11:33.360 --> 11:37.120
+You give somebody half an hour in a position.
+
+11:37.600 --> 11:41.680
+In this instance, you might have thought for half an hour if you play the game,
+
+11:42.240 --> 11:44.800
+but I just cannot do it.
+
+11:44.800 --> 11:51.280
+One thing I know that I am good at, though, is calculating short lines,
+
+11:52.080 --> 11:54.960
+because I calculate them well.
+
+11:54.960 --> 12:04.560
+I'm good at seeing little details, and I'm also much better than most at evaluating,
+
+12:05.440 --> 12:11.680
+which I think is something that sets me apart from others.
+
+12:11.680 --> 12:18.880
+So evaluating specific position, if I make this move and the position changes in this way,
+
+12:19.040 --> 12:22.720
+is this a step in the right direction in a big picture way?
+
+12:22.720 --> 12:30.400
+Yeah, you calculate a few moves ahead, and then you evaluate, because a lot of the times you cannot...
+
+12:31.440 --> 12:34.480
+The branches become so big that you cannot calculate everything.
+
+12:34.480 --> 12:35.520
+Like a fog.
+
+12:35.520 --> 12:44.480
+Yeah, so you have to make evaluations based mostly on knowledge and intuition,
+
+12:44.720 --> 12:49.760
+and somehow I seem to do that pretty well.
+
+12:49.760 --> 12:53.200
+When you say you're good at short lines, what's short?
+
+12:53.760 --> 12:58.960
+That's usually lines of two to four moves each.
+
+12:58.960 --> 13:03.920
+Okay, so that's directly applicable to even faster games like Blitz, Chess, and so on?
+
+13:03.920 --> 13:08.640
+Yeah, Blitz is a lot about calculating force lines.
+
+13:09.280 --> 13:17.200
+So you can see pretty clearly that the players who struggle at Blitz who are great at classical
+
+13:17.200 --> 13:21.440
+are those who rely on deep calculating ability,
+
+13:21.440 --> 13:24.320
+because you simply don't have time for that in Blitz.
+
+13:24.320 --> 13:28.560
+You have to calculate quickly and rely a lot on intuition.
+
+13:29.760 --> 13:30.640
+I know it's really difficult.
+
+13:30.640 --> 13:35.600
+Can you try to talk through what's actually being visualized in your head?
+
+13:36.160 --> 13:39.040
+Is there a visual component?
+
+13:39.040 --> 13:41.040
+Yeah, no, I just visualized the board.
+
+13:41.040 --> 13:44.640
+I mean, the board is in my head.
+
+13:44.640 --> 13:45.760
+Two-dimensional?
+
+13:45.760 --> 13:49.760
+My interpretation is that it is two-dimensional.
+
+13:49.760 --> 13:50.960
+Like what colors?
+
+13:50.960 --> 13:52.560
+Is it brown tinted?
+
+13:52.560 --> 13:53.360
+Is it black?
+
+13:54.960 --> 13:55.920
+What's the theme?
+
+13:55.920 --> 13:57.520
+Is it a big board, small board?
+
+13:59.280 --> 14:00.480
+What do the pawns look like?
+
+14:01.760 --> 14:03.520
+Or is it more in the space of concepts?
+
+14:04.080 --> 14:07.520
+Like, yeah, there aren't a lot of colors.
+
+14:10.560 --> 14:11.040
+What is it?
+
+14:11.040 --> 14:12.480
+Queen's Gambit on a ceiling?
+
+14:12.480 --> 14:15.920
+I'm trying right now to imagine it.
+
+14:15.920 --> 14:17.440
+What about when you do the branching?
+
+14:17.440 --> 14:19.920
+When you have multiple boards and so on, how does that look?
+
+14:20.480 --> 14:21.680
+It's only one at a time.
+
+14:23.200 --> 14:25.120
+One position at a time, so then I go back.
+
+14:26.160 --> 14:30.560
+And that's what when people play, or at least that's what I do,
+
+14:30.560 --> 14:33.280
+when I play blindfold chess against several people,
+
+14:33.280 --> 14:35.760
+then it's just always one board at a time.
+
+14:35.760 --> 14:39.040
+And the rest are stored away somewhere.
+
+14:39.040 --> 14:40.320
+But how do you store them away?
+
+14:40.320 --> 14:44.400
+So like you went down one branch, you're like, all right, that's I got that.
+
+14:45.360 --> 14:47.360
+I understand that there's some good there.
+
+14:47.360 --> 14:48.560
+There's some bad there.
+
+14:48.560 --> 14:50.240
+Now let me go down another branch.
+
+14:50.240 --> 14:52.480
+Like, how do you store away the information?
+
+14:52.480 --> 14:53.760
+Just put on a shelf kind of?
+
+14:54.400 --> 14:56.000
+I try and store it away.
+
+14:56.000 --> 14:58.960
+Sometimes I have to sort of repeat it because I forget.
+
+14:59.760 --> 15:06.000
+And it does happen frequently in games that you're thinking for,
+
+15:06.800 --> 15:09.840
+especially if you're thinking for long, let's say half an hour,
+
+15:09.840 --> 15:12.800
+or even more than that, that you play a move,
+
+15:12.800 --> 15:15.600
+and then your opponent plays a move, then you play a move,
+
+15:15.600 --> 15:17.760
+and they play a move again, and you realize,
+
+15:17.760 --> 15:20.000
+oh, I actually calculated that.
+
+15:20.000 --> 15:20.960
+I just forgot about it.
+
+15:22.240 --> 15:25.360
+So that's obviously what happens when you store the information
+
+15:25.360 --> 15:26.480
+and you cannot retrieve it.
+
+15:26.720 --> 15:28.800
+When you think about a move for 20, 30 minutes,
+
+15:30.320 --> 15:31.280
+how do you break that down?
+
+15:32.240 --> 15:38.000
+Can you describe what's the algorithm here that takes 30 minutes to run?
+
+15:38.640 --> 15:42.640
+30 minutes is, at least for me, it's usually a waste.
+
+15:44.160 --> 15:46.720
+30 minutes usually means that I don't know what to do.
+
+15:47.840 --> 15:48.400
+And I'm trying-
+
+15:48.400 --> 15:49.760
+You're just running into the wall over and over.
+
+15:49.760 --> 15:52.000
+Yeah, I'm trying to find something that isn't there.
+
+15:52.000 --> 15:57.040
+I think 10 to 15 minutes things in complicated positions
+
+15:57.040 --> 15:59.920
+can be really, really helpful.
+
+15:59.920 --> 16:04.560
+Then you can spend your time pretty efficiently.
+
+16:05.360 --> 16:10.240
+Just means that the branches are getting wide.
+
+16:10.240 --> 16:17.200
+There's a lot to run through, both in terms of calculation
+
+16:17.200 --> 16:19.920
+and lots you have to evaluate as well.
+
+16:20.000 --> 16:24.960
+And then based on that 10 to 15 minute thing,
+
+16:24.960 --> 16:29.200
+you have a pretty good idea what to do.
+
+16:29.200 --> 16:32.480
+I mean, it's very rare that I would think for half an hour
+
+16:32.480 --> 16:35.840
+and I would have a eureka moment during the game.
+
+16:35.840 --> 16:39.680
+If I haven't seen it in 10 minutes, I'm probably not going to see it at all.
+
+16:39.680 --> 16:40.960
+You're going through different branches.
+
+16:41.600 --> 16:43.440
+And after 15 minutes, it's like-
+
+16:44.160 --> 16:47.120
+Mainly to the middle game, because when you get to the end game,
+
+16:47.120 --> 16:52.880
+it's usually brute force calculation that makes you spend so much time.
+
+16:52.880 --> 16:59.440
+So middle game is normally a complicated mix of brute force calculation
+
+17:01.520 --> 17:05.760
+and creativity and evaluation.
+
+17:05.760 --> 17:09.440
+So end game, it's easier in that sense.
+
+17:10.000 --> 17:14.240
+Well, you're good at every aspect of chess,
+
+17:14.240 --> 17:16.480
+but also your end game is legendary.
+
+17:16.480 --> 17:17.680
+It baffles experts.
+
+17:18.320 --> 17:20.240
+So can you linger on that then?
+
+17:20.240 --> 17:22.400
+Try to explain what the heck is going on there.
+
+17:22.400 --> 17:25.360
+If you look at game six of the previous world championship,
+
+17:26.400 --> 17:30.240
+the longest game ever played in chess,
+
+17:31.280 --> 17:38.240
+it was, I think, his queen versus your rook knight in two pawns.
+
+17:38.800 --> 17:40.240
+There's so many options there.
+
+17:40.240 --> 17:42.480
+It's such an interesting little dance,
+
+17:42.480 --> 17:45.120
+and it's kind of not obvious that it wouldn't be a draw.
+
+17:45.120 --> 17:48.720
+So how do you escape it not being a draw and you win that match?
+
+17:49.600 --> 17:55.760
+No, I knew that for most of the time it was a theoretical draw
+
+17:55.760 --> 18:01.280
+since chess with seven or less pieces on the board is solved.
+
+18:02.880 --> 18:05.200
+People watching online, they can just check it.
+
+18:05.200 --> 18:09.360
+They can check a so-called tabled base,
+
+18:09.360 --> 18:14.960
+and it's just going to spit out win for white, win for black, or a draw.
+
+18:14.960 --> 18:18.080
+So and also I knew that.
+
+18:18.080 --> 18:21.200
+I knew that, didn't know that position specifically,
+
+18:21.200 --> 18:23.760
+but I knew that it had to be a draw.
+
+18:23.760 --> 18:28.960
+So for me, it was about staying alert,
+
+18:29.600 --> 18:34.960
+first of all, trying to look for the best way to put my pieces.
+
+18:36.480 --> 18:40.400
+But yeah, those end games are a bit, they're a bit unusual.
+
+18:40.400 --> 18:42.960
+They don't happen too often.
+
+18:42.960 --> 18:47.280
+So what I'm usually good at is I'm using my strengths
+
+18:47.280 --> 18:53.040
+that I also use in middle games is that I evaluate well
+
+18:53.040 --> 18:54.880
+and I calculate short variations.
+
+18:56.400 --> 18:58.320
+Even for the end game, short variations matter?
+
+18:58.320 --> 19:01.200
+Yes, it does matter in some simpler end games.
+
+19:02.160 --> 19:08.160
+But also there are these theoretical end games with very few pieces
+
+19:08.160 --> 19:12.080
+like Rook Knights and DuPonts versus Queens,
+
+19:12.080 --> 19:16.080
+but a lot of end games are simply defined by the Queens being exchanged,
+
+19:16.720 --> 19:18.640
+and there are a lot of other pieces left.
+
+19:18.640 --> 19:21.600
+And then it's usually not brute force.
+
+19:21.600 --> 19:26.000
+It's usually more of understanding and evaluation,
+
+19:26.000 --> 19:30.080
+and then I can use my strengths very well.
+
+19:30.720 --> 19:32.480
+Why are you so damn good at the end game?
+
+19:32.480 --> 19:36.320
+Isn't there a lot of moves from when the end game starts
+
+19:36.320 --> 19:38.480
+to when the end game finishes and you have a few pieces
+
+19:38.480 --> 19:41.680
+and you have to figure out it's like a sequence of little games
+
+19:42.080 --> 19:43.360
+that happens, right?
+
+19:43.360 --> 19:44.720
+Like little pattern.
+
+19:44.720 --> 19:47.840
+Like how does it being able to evaluate a single position
+
+19:47.840 --> 19:51.760
+lead you to evaluate a long sequence of positions
+
+19:51.760 --> 19:53.680
+that eventually lead to a checkmate?
+
+19:53.680 --> 19:57.600
+Well, I think if you evaluate well at the start,
+
+19:57.600 --> 19:59.520
+you know what plans to go for.
+
+19:59.520 --> 20:03.760
+And then usually the play from there is often pretty simple.
+
+20:04.720 --> 20:11.280
+Let's say you understand how to arrange your pieces
+
+20:11.280 --> 20:15.840
+and often also how to arrange your pawns early in the end game,
+
+20:16.560 --> 20:21.360
+then that makes all the difference.
+
+20:21.360 --> 20:27.600
+And after that is like what we call technique very often.
+
+20:29.360 --> 20:34.000
+Technique basically just means that the moves are simple
+
+20:34.000 --> 20:39.280
+and these are moves that a lot of players could make,
+
+20:39.280 --> 20:41.920
+not only the very strongest ones.
+
+20:41.920 --> 20:45.200
+These are moves that are kind of understood and known.
+
+20:45.680 --> 20:48.640
+So with the evaluation, you're just constantly improving
+
+20:48.640 --> 20:51.680
+a little bit and that just leads to suffocating the position
+
+20:51.680 --> 20:52.960
+and then eventually to the win.
+
+20:52.960 --> 20:56.560
+As long as you're doing the evaluation well, one step at a time.
+
+20:56.560 --> 20:57.280
+To some extent.
+
+20:57.840 --> 21:01.040
+Also, yeah, as I said, if you evaluate it better
+
+21:01.040 --> 21:05.280
+and thus accumulated some small advantages,
+
+21:05.360 --> 21:10.480
+then you can often make your life pretty easy
+
+21:10.480 --> 21:12.080
+towards the end of the end game.
+
+21:12.080 --> 21:15.440
+So you said in 2019, sort of the second phase
+
+21:16.240 --> 21:20.400
+of why you're so damn good, you did a lot of opening preparation.
+
+21:20.960 --> 21:26.640
+What's the goal for you of the opening game of chess?
+
+21:26.640 --> 21:30.160
+Is it to throw the opponent off from any prepared lines?
+
+21:30.880 --> 21:32.960
+Is there something you could put into words
+
+21:32.960 --> 21:35.120
+about why you're so damn good at the openings?
+
+21:35.920 --> 21:39.280
+Again, these things have changed a lot over time.
+
+21:39.920 --> 21:42.000
+Back in Kasparov's days, for instance,
+
+21:43.120 --> 21:49.280
+he very often got huge advantages from the opening as white.
+
+21:49.280 --> 21:50.080
+Can you explain why?
+
+21:51.040 --> 21:54.400
+There were several reasons for that.
+
+21:54.400 --> 21:56.480
+First of all, he worked harder.
+
+21:56.480 --> 21:59.200
+He was more creative in finding ideas.
+
+21:59.200 --> 22:02.160
+He was able to look places others didn't.
+
+22:03.040 --> 22:05.520
+Also, he had a very strong team of people
+
+22:05.520 --> 22:10.960
+who had specific strengths in openings that he could use.
+
+22:11.600 --> 22:12.880
+So they would come up with ideas
+
+22:12.880 --> 22:15.680
+and he would integrate those ideas into...
+
+22:15.680 --> 22:19.840
+Yeah, and he would also very often come up with them himself.
+
+22:19.840 --> 22:26.880
+Also, at the start, he had some of the first computer engines
+
+22:27.520 --> 22:32.160
+to work for him to find his ideas, to look deeper,
+
+22:32.160 --> 22:34.240
+to verify his ideas.
+
+22:34.240 --> 22:38.640
+He was better at using them than a lot of others.
+
+22:39.200 --> 22:44.160
+Now, I feel like the playing field is a lot more level.
+
+22:44.160 --> 22:48.880
+There are both computer engines, neural networks,
+
+22:48.880 --> 22:53.760
+and hybrid engines available to practically anybody.
+
+22:54.320 --> 22:58.880
+It's much harder to find ideas now
+
+22:58.880 --> 23:05.120
+that actually give you an advantage with the white pieces.
+
+23:05.120 --> 23:08.320
+I mean, people don't expect to find those ideas anymore.
+
+23:08.320 --> 23:15.760
+Now, it's all about finding ideas that are missed by the engines.
+
+23:15.760 --> 23:20.640
+Either they're missed entirely or they're missed at low depth.
+
+23:21.600 --> 23:25.840
+And using them to gain some advantage
+
+23:25.840 --> 23:28.320
+in the sense that you have more knowledge.
+
+23:28.320 --> 23:35.840
+And it's also good to know that usually these are not complete bluffs.
+
+23:35.840 --> 23:38.480
+These are semi-bluffs so that you know that
+
+23:38.480 --> 23:40.480
+even if your opponent makes all the right moves,
+
+23:40.480 --> 23:42.480
+you can still make a draw.
+
+23:43.200 --> 23:46.160
+And also, at the start of 2019,
+
+23:46.800 --> 23:50.560
+neural networks had just started to be a thing in chess.
+
+23:50.560 --> 23:52.800
+And I'm not entirely sure,
+
+23:52.800 --> 23:57.840
+but there were at least some players even in the top events
+
+23:57.840 --> 24:02.240
+who you could see did not use them or did not use them in the right way.
+
+24:02.240 --> 24:04.800
+And then you could gain a huge advantage
+
+24:04.800 --> 24:09.360
+because a lot of positions, they were being evaluated differently
+
+24:09.360 --> 24:12.080
+by the neural networks than traditional chess engines
+
+24:12.960 --> 24:18.640
+because they simply think about chess in a very, very different way.
+
+24:18.800 --> 24:21.680
+So the short answer is these days,
+
+24:21.680 --> 24:25.200
+it's all about surprising your opponent
+
+24:25.200 --> 24:29.280
+and taking it into positions where you have more knowledge.
+
+24:29.280 --> 24:32.960
+So is there some sense in which it's okay to make suboptimal,
+
+24:32.960 --> 24:34.720
+quote unquote, moves?
+
+24:34.720 --> 24:35.520
+No, but you have to.
+
+24:36.160 --> 24:42.480
+I mean, you have to because the best moves have been analyzed to death mostly.
+
+24:42.480 --> 24:44.560
+So that's a kind of, when you say semi-bluff,
+
+24:44.560 --> 24:45.920
+that's a kind of sacrifice.
+
+24:46.880 --> 24:51.040
+You're sacrificing the optimal move, the optimal position
+
+24:52.080 --> 24:53.840
+so that you can take the opponent.
+
+24:53.840 --> 24:55.760
+I mean, that's a game theoretic sense.
+
+24:55.760 --> 24:58.960
+You take the opponent to something they didn't prepare well.
+
+24:58.960 --> 25:04.800
+Yeah, but you could also look at it another way that regardless,
+
+25:04.800 --> 25:08.080
+like if you turn on whatever engine you turn on,
+
+25:08.080 --> 25:11.360
+like if you try to analyze either from the starting position
+
+25:11.360 --> 25:14.320
+or the starting position of some popular opening,
+
+25:14.960 --> 25:18.720
+like if you analyze long enough, it's always going to end up in a draw.
+
+25:19.360 --> 25:24.320
+So in that sense, you may not be going for like the objective,
+
+25:25.280 --> 25:29.120
+the tries that are objectively the most difficult to draw against,
+
+25:29.680 --> 25:34.560
+but you are trying to look at least at the less obvious paths.
+
+25:35.440 --> 25:37.520
+How much do you use engines?
+
+25:37.520 --> 25:41.840
+Do you use Leela, Stockfish in your preparations?
+
+25:41.840 --> 25:42.640
+My team does.
+
+25:43.520 --> 25:48.880
+Personally, I try not to use them too much on my own
+
+25:49.440 --> 25:51.840
+because I know that when I play,
+
+25:51.840 --> 25:54.800
+you obviously cannot have help from engines.
+
+25:56.160 --> 26:02.960
+I feel like often having knowledge about a position
+
+26:03.600 --> 26:08.480
+or some engine knowledge can be a lot worse than having no knowledge.
+
+26:09.360 --> 26:12.720
+So I try to look at engines as little as possible.
+
+26:14.160 --> 26:17.520
+Your team uses them for research for a generation of ideas,
+
+26:17.520 --> 26:22.480
+but you are relying primarily on your human resources.
+
+26:24.080 --> 26:26.640
+You can evaluate well, you don't lean.
+
+26:26.640 --> 26:28.880
+Yeah, I can evaluate as a human.
+
+26:28.880 --> 26:33.120
+I can know what they find unpleasant and so on.
+
+26:34.080 --> 26:38.320
+It's very often the case, for me to some extent,
+
+26:39.200 --> 26:41.840
+a lot for others that you arrive in a position
+
+26:43.200 --> 26:45.840
+and your opponent plays a move that you didn't expect.
+
+26:48.400 --> 26:51.120
+If you didn't expect it, you know that it's probably not a great move
+
+26:51.760 --> 26:54.400
+since it hasn't been expected by the engine.
+
+26:54.400 --> 26:59.840
+But if it's not obvious why it's not a good move,
+
+27:00.560 --> 27:02.800
+it's usually very, very hard to figure it out.
+
+27:04.320 --> 27:08.240
+So then looking at the engines doesn't necessarily help
+
+27:08.240 --> 27:10.800
+because at that point, like you're facing a human,
+
+27:10.800 --> 27:13.920
+you have to sort of think as a human.
+
+27:13.920 --> 27:17.360
+I was chatting with Demis Asaba CEO of DeepMind a couple of days ago
+
+27:17.360 --> 27:20.480
+and he asked me to ask you about what you first felt
+
+27:21.600 --> 27:24.800
+when you saw the play of AlphaZero.
+
+27:24.800 --> 27:27.600
+Like interesting ideas, any creativity.
+
+27:28.560 --> 27:30.960
+Did you feel fear that the machine is taking over?
+
+27:31.360 --> 27:32.400
+Were you inspired?
+
+27:34.720 --> 27:36.560
+What was going on in your mind and heart?
+
+27:37.120 --> 27:43.920
+Funny thing about Demis is he doesn't play chess at all like an AI.
+
+27:45.040 --> 27:48.480
+He plays in a very, very human way.
+
+27:48.480 --> 27:52.880
+No, I was hugely inspired when I saw the games at first.
+
+27:54.720 --> 27:57.600
+In terms of man versus machine,
+
+27:58.320 --> 28:04.080
+that battle was kind of lost for humans even before I
+
+28:04.480 --> 28:09.200
+entered top-level chess, so that's never been an issue for me.
+
+28:09.200 --> 28:14.640
+I never liked playing against computers much anyway, so that's completely fine.
+
+28:14.640 --> 28:20.080
+But it was amazing to see how they, quote-unquote, thought about chess
+
+28:20.080 --> 28:25.520
+in such a different way and in a way that you could mistake for creativity.
+
+28:26.240 --> 28:28.080
+Mistake for creativity, strong words.
+
+28:29.040 --> 28:32.000
+Is it wild to you how many sacrifices it's willing to make
+
+28:32.960 --> 28:37.120
+to sacrifice pieces and then wait for prolonged periods of time
+
+28:37.120 --> 28:38.800
+before doing anything with that?
+
+28:38.800 --> 28:42.320
+Is that weird to you that that's part of chess?
+
+28:42.320 --> 28:47.600
+No, it's one of the things that's hardest to replicate as a human as well,
+
+28:47.600 --> 28:50.240
+or at least for my playing style.
+
+28:51.760 --> 28:58.320
+Usually when I sacrifice, I don't do it unless I feel like I'm getting
+
+28:58.320 --> 29:01.920
+something tangible in return.
+
+29:03.280 --> 29:04.800
+Like a few moves down the line?
+
+29:04.800 --> 29:08.640
+A few moves down the line, you can see that you can either retrieve the material
+
+29:08.640 --> 29:14.240
+or you can put your opponent's king under pressure or have some very concrete
+
+29:15.360 --> 29:19.760
+positional advantage that compensates for it.
+
+29:20.400 --> 29:25.200
+For instance, in chess, bishops and knights are fairly equivalent.
+
+29:25.440 --> 29:28.960
+We both give them three points, but bishops are a little bit better.
+
+29:28.960 --> 29:34.480
+And especially a bishop pair is a lot better than a bishop and a knight.
+
+29:35.680 --> 29:37.440
+Or especially two knights.
+
+29:37.440 --> 29:42.480
+It depends on the position, but on average they are.
+
+29:42.480 --> 29:50.720
+So sacrificing a pawn in order to get a bishop pair, that's one of the most common sacrifices in chess.
+
+29:50.720 --> 29:52.080
+Oh, you're okay making that sacrifice?
+
+29:52.080 --> 29:54.000
+Yeah, I mean, it depends on the situation.
+
+29:54.000 --> 29:55.600
+But generally that's fine.
+
+29:55.600 --> 29:58.160
+And there are a lot of openings that are based on that.
+
+29:58.160 --> 30:04.560
+That you sacrifice a pawn for the bishop pair, and then eventually it's some sort of positional equality.
+
+30:05.440 --> 30:06.640
+So that's fine.
+
+30:06.640 --> 30:15.600
+But the way AlphaZero would sacrifice a knight or sometimes two pawns, three pawns.
+
+30:16.560 --> 30:22.640
+And you could see that it's looking for some sort of positional domination, but it's hard to understand.
+
+30:23.040 --> 30:27.440
+It's hard to understand, and it was really fascinating to see.
+
+30:28.560 --> 30:36.480
+Yeah, in 2019, I was sacrificing a lot of pawns especially, and it was a great joy.
+
+30:36.480 --> 30:39.840
+Unfortunately, it's not so easy to continue to do that.
+
+30:39.840 --> 30:48.080
+People have found more solid opening lines since that don't allow me to do that as often.
+
+30:48.560 --> 30:55.920
+I'm still trying both to get those positions and still trying to learn the art of sacrificing pieces.
+
+30:57.440 --> 31:03.040
+Demis also made a comment that was interesting to my new chess brain,
+
+31:03.040 --> 31:06.480
+which is one of the reasons that chess is fun is because of the, quote,
+
+31:06.480 --> 31:09.200
+creative tension between the bishop and the knight.
+
+31:09.200 --> 31:14.160
+So you're talking about this interesting difference between the two pieces.
+
+31:16.320 --> 31:17.440
+How would you convert that?
+
+31:17.440 --> 31:19.680
+I mean, that's like a poetic statement about chess.
+
+31:20.240 --> 31:23.840
+I think he said that why has chess been played for such a long time?
+
+31:23.840 --> 31:26.240
+Why is it so fun to play at every level?
+
+31:26.880 --> 31:31.120
+If you can reduce it to one thing, is it the bishop and the knight?
+
+31:31.120 --> 31:34.160
+Some kind of weird dynamics that they create in chess.
+
+31:34.160 --> 31:35.280
+Is there any truth to that?
+
+31:36.320 --> 31:38.080
+It sounds very good.
+
+31:38.080 --> 31:42.640
+I haven't tried a lot of other games, but I tried to play a little bit of Shogi.
+
+31:43.280 --> 31:48.000
+And for my new Shogi brain, comparing it to chess,
+
+31:48.000 --> 31:52.080
+what annoyed me about that game is how much the pieces suck.
+
+31:52.800 --> 31:56.640
+Basically, you have one rook and you have one bishop that move like in chess,
+
+31:56.640 --> 32:01.600
+and the rest of the pieces are really not very powerful.
+
+32:01.600 --> 32:09.120
+So I think that's one of the attractions of chess, like how powerful especially the queen is.
+
+32:10.240 --> 32:11.120
+Interesting.
+
+32:11.120 --> 32:14.320
+I kind of think makes it makes a lot of fun.
+
+32:14.960 --> 32:19.600
+You think power is more fun than like variety?
+
+32:20.240 --> 32:22.880
+No, there is variety in chess as well, though.
+
+32:23.520 --> 32:28.640
+But not much more so than like, like, no, no, no, no, that's for.
+
+32:29.440 --> 32:32.400
+So like knight, I mean, they all move in different ways.
+
+32:32.400 --> 32:33.200
+They're all like weird.
+
+32:33.920 --> 32:37.280
+There's just all these weird patterns and positions that can emerge.
+
+32:37.280 --> 32:40.240
+The difference in the pieces create all kinds of interesting dynamics.
+
+32:40.240 --> 32:41.600
+I guess is what I'm trying to say.
+
+32:41.600 --> 32:42.240
+Yeah.
+
+32:42.240 --> 32:47.680
+And I guess it is quite fascinating that all those years ago, they created
+
+32:48.560 --> 32:52.720
+the knight and the bishop without probably realizing that they would be
+
+32:53.600 --> 32:57.520
+almost equally equally strong with such different qualities.
+
+32:57.520 --> 33:01.120
+That's crazy that this, you know, like when you design computer games,
+
+33:01.920 --> 33:03.280
+it's like an art form.
+
+33:03.280 --> 33:06.000
+It's science and an art to balance it.
+
+33:06.000 --> 33:08.080
+You know, you talk about Starcraft and all those games.
+
+33:09.040 --> 33:12.880
+They so that you can have competitive play at the highest level
+
+33:13.520 --> 33:14.960
+with all those different units.
+
+33:14.960 --> 33:18.480
+And in the case of chess, it's different pieces.
+
+33:19.040 --> 33:22.480
+And they somehow designed a game that was super competitive.
+
+33:22.480 --> 33:24.880
+But there's probably some kind of natural selection that the chess
+
+33:24.880 --> 33:27.440
+just wouldn't last if it was designed poorly.
+
+33:27.440 --> 33:27.920
+Yeah.
+
+33:27.920 --> 33:33.920
+And I think the rules have changed over time a little, little bit.
+
+33:33.920 --> 33:37.520
+But I would be, I mean, speaking of games and all that,
+
+33:37.600 --> 33:44.400
+I'm also interested to play other other games like just 960 or Fisher
+
+33:44.400 --> 33:49.520
+random as they call it, like that you have 960 maps instead of one.
+
+33:50.400 --> 33:50.560
+Yeah.
+
+33:50.560 --> 33:54.560
+So for people who don't know a Fisher random chess, just 960s.
+
+33:54.560 --> 33:57.680
+Yeah, that basically just means that the pawns are in the same way.
+
+33:57.680 --> 34:04.400
+And the major pieces are distributed randomly on the on the last rank,
+
+34:04.400 --> 34:07.680
+only that there have to be obviously bishops of opposite color.
+
+34:07.680 --> 34:12.240
+And the king has to be in between the rooks so that you can castle both ways.
+
+34:12.240 --> 34:16.320
+Oh, you can still castle and you can still castle, but it makes it interesting.
+
+34:16.320 --> 34:20.400
+So you still have it still castles in the same way.
+
+34:20.400 --> 34:24.000
+So let's say the king is like, yeah, what happens in that case?
+
+34:24.000 --> 34:26.160
+Yeah, let's say the king is in the corner.
+
+34:28.000 --> 34:31.920
+So to castle this side, you have you have to clear a whole lot of pieces.
+
+34:31.920 --> 34:35.200
+What would castling look like though?
+
+34:35.200 --> 34:37.920
+No, the king would go here and the rook would go there.
+
+34:37.920 --> 34:38.560
+Oh, OK.
+
+34:39.280 --> 34:41.520
+And that's happened in my games as well.
+
+34:41.520 --> 34:46.720
+Like I forgot about castling and I've been like attacking a king over here.
+
+34:46.720 --> 34:50.400
+And then all of a sudden it escapes to the other side.
+
+34:50.400 --> 35:01.200
+I think I think Fisher chess is good that it's the maps will generally be worse
+
+35:02.000 --> 35:03.120
+than regular chess.
+
+35:03.120 --> 35:10.080
+Like I think the starting position is as close to ideal for creating a competitive game
+
+35:10.800 --> 35:13.680
+as possible, but they will still be like interesting and
+
+35:13.680 --> 35:18.320
+diverse enough that you can play very, very interesting games.
+
+35:18.320 --> 35:20.880
+So when you say maps, there's 960 different options.
+
+35:20.880 --> 35:25.520
+And like what fraction of that creates interesting games at the highest level?
+
+35:26.400 --> 35:28.800
+This is something that a lot of people are curious about because
+
+35:29.440 --> 35:33.200
+when you challenge a great chess player like yourself to
+
+35:35.840 --> 35:40.400
+look at a random starting position, that feels like it pushes you to play
+
+35:40.400 --> 35:42.240
+pure chess versus memorizing lines.
+
+35:42.240 --> 35:43.040
+Yeah, for sure.
+
+35:43.040 --> 35:43.680
+Or for sure.
+
+35:43.680 --> 35:45.120
+But that's that's the whole idea.
+
+35:45.120 --> 35:46.560
+Yeah, that's what you want.
+
+35:46.560 --> 35:48.000
+And how hard is it to play?
+
+35:48.000 --> 35:51.440
+I mean, can you talk about what it feels like to you to play
+
+35:51.440 --> 35:52.880
+with a random starting position?
+
+35:52.880 --> 35:55.360
+Is there some intuition you've been building up?
+
+35:55.360 --> 35:57.120
+It's very, very different.
+
+35:57.120 --> 36:03.680
+And I mean, understandably, engines have an even greater advantage
+
+36:03.680 --> 36:07.520
+in 960 than they have in classical chess.
+
+36:08.320 --> 36:10.080
+No, it's super interesting.
+
+36:10.080 --> 36:17.680
+And that's why also I really wish that we played more classical chess,
+
+36:17.680 --> 36:21.520
+like long games, four to seven hours.
+
+36:21.600 --> 36:27.120
+And in fish random chess, just 960, because then you really need
+
+36:28.480 --> 36:30.720
+that time, even on the first moves.
+
+36:31.680 --> 36:34.880
+What usually happens is that you get 15 minutes before the game,
+
+36:34.880 --> 36:37.680
+you're getting told the position 15 minutes before the game.
+
+36:37.680 --> 36:41.440
+And then you can think about it a little bit, even, you know,
+
+36:41.440 --> 36:42.640
+check the computer.
+
+36:42.640 --> 36:45.040
+But that's all the time you have.
+
+36:45.040 --> 36:46.720
+But then you really need to figure it out.
+
+36:47.680 --> 36:53.200
+Like, some of the positions obviously are a lot more interesting than the others.
+
+36:53.200 --> 36:56.880
+In some of them, it appears that, like, if you don't play symmetrically
+
+36:57.520 --> 37:03.600
+at the start, then you're probably going to be in a pretty bad position.
+
+37:03.600 --> 37:04.720
+What do you mean with the pawns?
+
+37:04.720 --> 37:05.680
+With the pawns, yeah.
+
+37:06.560 --> 37:08.160
+Why does that make sense?
+
+37:08.160 --> 37:09.840
+That's the thing about chess, though.
+
+37:09.840 --> 37:16.400
+So let's say white opens with e4, which has always been the most played move.
+
+37:17.280 --> 37:18.720
+There are many ways to meet that.
+
+37:18.720 --> 37:22.960
+But the most solid ways of playing has always been the symmetrical response
+
+37:23.840 --> 37:24.560
+with e5.
+
+37:24.560 --> 37:30.560
+And then there's the Rilopes, there's the Petroff opening, and so on.
+
+37:30.560 --> 37:34.720
+And if you just ban symmetry on the first move in chess,
+
+37:35.520 --> 37:37.600
+you would get more interesting games.
+
+37:37.600 --> 37:38.880
+Oh, interesting.
+
+37:38.880 --> 37:43.440
+Or you'd get more decisive games.
+
+37:43.440 --> 37:47.200
+So that's the good thing about chess is that we've played it so long that
+
+37:47.200 --> 37:51.760
+we've actually devised non-symmetrical openings that are also fairly equal.
+
+37:53.440 --> 37:55.200
+But symmetry is a good default.
+
+37:55.200 --> 37:56.880
+But yeah, symmetry is a good default.
+
+37:56.880 --> 38:03.520
+And it's a problem that by playing symmetrical, armed with good preparation in regular chess,
+
+38:03.520 --> 38:05.840
+it's just a little bit too easy.
+
+38:06.720 --> 38:08.160
+It's a little bit too dry.
+
+38:08.320 --> 38:20.880
+And I guess if you analyzed a lot in chess 960, then a lot of the position would end up being
+
+38:22.160 --> 38:23.360
+pretty dry as well.
+
+38:24.720 --> 38:28.000
+Because the random starting point is so shitty, you're forced to...
+
+38:28.000 --> 38:30.560
+You're actually forced to play symmetrically.
+
+38:30.560 --> 38:36.240
+You cannot actually try and play in a more interesting manner.
+
+38:37.200 --> 38:40.560
+Is there any other kind of variations that are interesting to you?
+
+38:41.200 --> 38:42.720
+Oh yeah, there are several.
+
+38:43.520 --> 38:51.440
+So no castling chess has been promoted by former world champion Vladimir Kramnik.
+
+38:52.000 --> 38:58.320
+There have been a few tournaments with that, not any that I've participated in though.
+
+38:59.120 --> 39:00.560
+I kind of like it.
+
+39:00.640 --> 39:08.640
+Also, my coach uses non-castling engines quite a bit to analyze regular positions
+
+39:08.640 --> 39:12.560
+just to get a different perspective.
+
+39:13.120 --> 39:15.040
+So castling is like a defensive thing.
+
+39:15.040 --> 39:18.080
+So if you remove castling, it forces you to be more offensive.
+
+39:18.080 --> 39:18.640
+Is that why?
+
+39:19.360 --> 39:22.000
+Yeah, for sure.
+
+39:23.040 --> 39:24.800
+It seems like a tiny little difference.
+
+39:24.960 --> 39:31.760
+No castling probably forces you to be a little bit more defensive at the start,
+
+39:31.760 --> 39:32.960
+or I would guess so.
+
+39:33.760 --> 39:37.520
+Because you cannot suddenly escape with the kings.
+
+39:37.520 --> 39:39.920
+It's going to make the game a bit slower at the start.
+
+39:39.920 --> 39:51.200
+But I feel like eventually it's going to make the games less dry for sure.
+
+39:51.200 --> 40:01.360
+Then you have some weirder variants like where the pawns can move both diagonally and forward.
+
+40:02.560 --> 40:06.320
+And also you have self-capture chess, which is quite interesting.
+
+40:06.320 --> 40:10.160
+So the pawns can commit suicide?
+
+40:11.360 --> 40:13.840
+Why would that be a good move?
+
+40:13.840 --> 40:17.120
+No, sometimes one of your pieces occupies a square.
+
+40:19.120 --> 40:20.800
+Let me just set up a position.
+
+40:20.880 --> 40:24.400
+Let's put it like this.
+
+40:25.120 --> 40:26.400
+For instance, like here.
+
+40:26.400 --> 40:29.440
+I mean, there are a lot of ways to checkmate for white.
+
+40:29.440 --> 40:30.400
+Like this, for instance.
+
+40:30.400 --> 40:31.520
+Or there are several ways.
+
+40:32.480 --> 40:36.480
+But like this would be a checkmate.
+
+40:36.480 --> 40:36.980
+Oh, cool.
+
+40:38.000 --> 40:44.240
+For people who are just listening, basically you bring in a knight close to the king, the queen,
+
+40:44.240 --> 40:44.960
+and so on.
+
+40:44.960 --> 40:46.720
+And you replace the knight with a queen.
+
+40:46.720 --> 40:47.680
+Yeah, that's interesting.
+
+40:47.680 --> 40:54.160
+So you can have like a front of pieces and then you just replace them with the second.
+
+40:54.160 --> 40:56.480
+Yeah, I mean, that could be interesting.
+
+40:56.480 --> 41:00.800
+I think also maybe sometimes it's just clearance, basically.
+
+41:00.800 --> 41:04.720
+It adds an extra element of clearance.
+
+41:04.720 --> 41:09.520
+So I think there are many different variants.
+
+41:09.520 --> 41:16.960
+I don't think any of them are better than the one that has been played for at least a thousand years.
+
+41:16.960 --> 41:21.520
+But it's certainly interesting to see.
+
+41:22.160 --> 41:26.720
+So one of your goals is to reach the Fidea Elo chess rating of 2900.
+
+41:27.760 --> 41:32.400
+Maybe you can comment on how is this rating calculated and what does it take to get there?
+
+41:33.440 --> 41:36.000
+Is it possible for a human being to get there?
+
+41:36.000 --> 41:41.920
+Basically, you play with a factor of 10, which means that if I were to play against
+
+41:42.880 --> 41:50.480
+an opponent who's rated the same as me, I would be expected to score 50%, obviously.
+
+41:50.480 --> 41:55.520
+And that means that I would win five points with a win, lose five points with a draw,
+
+41:55.520 --> 41:57.680
+and then equal if I draw.
+
+41:57.680 --> 42:04.880
+If your opponent is 200 points lower rated, you're expected to score 75% and so on.
+
+42:05.520 --> 42:09.440
+And you establish that rating by playing a lot of people and then it slowly converges
+
+42:09.520 --> 42:13.120
+towards an estimate of how likely you are to win or lose against different people.
+
+42:14.720 --> 42:19.280
+My rating is obviously carried through thousands of games.
+
+42:20.720 --> 42:25.920
+Right now, my rating is 2861, which is decent.
+
+42:25.920 --> 42:32.480
+I think that pretty much corresponds to the level I have at the moment,
+
+42:32.480 --> 42:39.920
+which means in order to reach 2900, I would have to either get better at chess,
+
+42:39.920 --> 42:47.120
+which I think is fairly hard to do, at least considerably better.
+
+42:47.120 --> 42:54.720
+So what I would need to do is try and optimize even more in terms of the matchups,
+
+42:54.720 --> 42:59.520
+the preparations, everything, but not necessarily like selecting tournaments and so on,
+
+42:59.520 --> 43:08.160
+but just optimizing in terms of preparation, making sure I never have any bad days.
+
+43:08.720 --> 43:10.480
+So you basically can't lose.
+
+43:10.480 --> 43:17.360
+Yeah, I basically can't fuck up ever if I want to reach that goal.
+
+43:17.360 --> 43:21.840
+And so I think reaching 2900 is pretty unlikely.
+
+43:22.560 --> 43:27.520
+The reason I've set the goal is to have something to play for,
+
+43:27.520 --> 43:36.880
+to have a motivation to actually try and be at my best when I play, because otherwise,
+
+43:37.760 --> 43:45.280
+I'm playing to some extent mostly for fun these days in that I love to play,
+
+43:45.280 --> 43:52.160
+I love to try and win, but I don't have a lot to prove or anything.
+
+43:52.240 --> 43:58.800
+But that gives me at least the motivation to try and be at my best all the time,
+
+43:58.800 --> 44:02.160
+which I think is something to aim for.
+
+44:02.160 --> 44:11.920
+So at the moment, I'm quite enjoying that process of trying to optimize.
+
+44:11.920 --> 44:17.120
+What would you say motivates you in this now and in the years leading up to now?
+
+44:18.000 --> 44:20.720
+The love of winning or the fear of losing?
+
+44:22.880 --> 44:28.560
+So for the World Championship, it's been fear of losing for sure.
+
+44:29.200 --> 44:34.320
+Other tournaments, love of winning is a great, great factor.
+
+44:35.040 --> 44:39.920
+And that's why I also get more joy from winning most tournaments than I do for
+
+44:39.920 --> 44:44.320
+winning the World Championship, because then it's mostly been a relief.
+
+44:44.320 --> 44:50.880
+I also think I enjoy winning more now than I did before, because I feel like I'm a little
+
+44:50.880 --> 44:57.040
+bit more relaxed now. And I also know that it's not going to last forever.
+
+44:57.040 --> 45:02.800
+So every little win, I appreciate a lot more now.
+
+45:02.800 --> 45:08.720
+And in terms of fear for losing, that's a huge reason why I'm not going to play the
+
+45:08.720 --> 45:14.560
+World Championship, because it really didn't give me a lot of joy.
+
+45:14.560 --> 45:16.640
+It really was all about avoiding losing.
+
+45:17.280 --> 45:20.320
+Why is it that the World Championship really makes you feel this way?
+
+45:20.960 --> 45:24.240
+The anxiety. And when you say losing, do you mean
+
+45:25.120 --> 45:30.560
+not just the match, but every single position, like the fear of a blunder?
+
+45:31.440 --> 45:36.480
+No, the blunder is okay. When I sit down at the board, then it's mostly been fine,
+
+45:36.480 --> 45:42.640
+because then I'm focused on the game. And then I know that I can play the game.
+
+45:42.640 --> 45:48.560
+It's a time in between, knowing that I feel like losing is not an option,
+
+45:49.200 --> 45:52.480
+because it's the World Championship. And because in a World Championship,
+
+45:52.480 --> 45:56.240
+there are two players. There's a winner and a loser.
+
+45:56.240 --> 46:01.520
+If I don't win a random tournament that I play, then I'm usually...
+
+46:02.640 --> 46:05.600
+It depends on the tournament. I might be disappointed, for sure.
+
+46:06.480 --> 46:11.920
+Might even be pretty pissed. But ultimately, you go on to the next one.
+
+46:11.920 --> 46:14.960
+With the World Championship, you don't go on to the next one.
+
+46:15.040 --> 46:25.600
+It's years. And it's been a core part of my identity for a while now, that I am World Champion.
+
+46:26.560 --> 46:31.360
+And so, there's not an option of losing that.
+
+46:33.520 --> 46:38.960
+You're going to have to, at least for a couple of years, carry the weight of having lost.
+
+46:39.520 --> 46:45.520
+You're the former World Champion now, if you lose, versus the current World Champion.
+
+46:46.080 --> 46:52.400
+There are certain sports that create that anxiety, and others that don't.
+
+46:52.400 --> 46:56.880
+For example, I think UFC makes martial arts a little better with losing.
+
+46:57.600 --> 47:00.640
+It's understood. Everybody loses. But they're...
+
+47:00.640 --> 47:01.840
+Not everybody, though.
+
+47:01.840 --> 47:04.320
+Not everybody. Not everybody. Not everybody.
+
+47:04.480 --> 47:06.880
+Yes. Could be bent to the chat.
+
+47:08.880 --> 47:12.960
+But in boxing, there is that extra pressure of maintaining the championship.
+
+47:13.840 --> 47:17.280
+Maybe you could say the same thing about the UFC as well.
+
+47:17.280 --> 47:21.360
+So for you personally, for a person who loves chess,
+
+47:22.080 --> 47:27.200
+the first time you won the World Championship, that was the thing that was fun.
+
+47:28.000 --> 47:28.560
+Yeah.
+
+47:28.560 --> 47:32.000
+And then everything after is stressful.
+
+47:32.000 --> 47:37.760
+Yeah, essentially. There was certainly stress involved the first time as well.
+
+47:39.360 --> 47:43.840
+But it was nothing compared to the others.
+
+47:44.560 --> 47:48.000
+So the only World Championship after that that I really enjoyed
+
+47:48.000 --> 47:51.600
+was the one in 2018 against the American Fabiano Caruana.
+
+47:51.600 --> 47:58.560
+And what made that different is that I'd been slumping for a bit, and he'd been on the rise.
+
+47:58.560 --> 48:01.120
+So our ratings were very, very similar.
+
+48:01.600 --> 48:07.280
+They were so close that if at any point during the match I'd lost the game,
+
+48:09.840 --> 48:12.480
+he would have been ranked as number one in the world.
+
+48:12.480 --> 48:15.600
+Our ratings were so close that for each draw, they didn't move.
+
+48:17.200 --> 48:18.640
+And the game itself was close.
+
+48:18.640 --> 48:21.360
+Yeah, the games themselves were very close.
+
+48:22.480 --> 48:28.720
+I had a winning position in the first game that I couldn't really get anywhere for a lot of games.
+
+48:28.720 --> 48:32.960
+Then he had a couple of games where he could potentially have won.
+
+48:34.000 --> 48:36.240
+Then in the last game, I was a little bit better.
+
+48:36.880 --> 48:40.320
+And eventually, they were all drawn.
+
+48:40.320 --> 48:45.760
+But I felt all the way that this is an interesting match against an opponent who is
+
+48:45.760 --> 48:49.040
+at this position at this point equal to me.
+
+48:49.600 --> 48:52.800
+And so losing that would not have been a disaster.
+
+48:53.520 --> 48:58.560
+Because in all the other matches, I would know that I've lost against somebody
+
+48:59.120 --> 49:02.160
+who I know I'm much better than.
+
+49:02.160 --> 49:07.200
+And that would be a lot harder for me to take.
+
+49:07.200 --> 49:10.960
+Well, that's fascinating and beautiful that the stress isn't from losing.
+
+49:12.320 --> 49:13.440
+Because you have fun.
+
+49:14.320 --> 49:18.560
+You enjoy playing against somebody who's as good as you, maybe better than you.
+
+49:18.560 --> 49:19.680
+That's exciting to you.
+
+49:21.680 --> 49:28.560
+It's losing at this high stakes thing that only happens rarely to a person who's not as good as you.
+
+49:28.960 --> 49:32.400
+And that's why it's also been incredibly frustrating in other matches.
+
+49:34.400 --> 49:39.440
+When we play draw after draw, I know that I'm better.
+
+49:39.440 --> 49:43.200
+I can sense during the game that I understand it better than them.
+
+49:43.200 --> 49:45.520
+But I cannot get over the hump.
+
+49:46.160 --> 49:50.480
+So you are the best chess player in the world.
+
+49:51.040 --> 49:58.000
+And you not playing the World Championship really makes the World Championship not seem important.
+
+49:58.480 --> 50:00.080
+There's an argument to be made for that.
+
+50:01.360 --> 50:05.360
+Is there anything you would like to see for a change about the World Championship
+
+50:05.360 --> 50:07.040
+that would make it more fun for you?
+
+50:07.040 --> 50:10.560
+And better for the game of chess period for everybody involved?
+
+50:10.560 --> 50:16.080
+So I think 12 games or now 14 games that there is for the World Championship
+
+50:16.080 --> 50:20.080
+is a fairly low sample size.
+
+50:20.080 --> 50:23.040
+If you want to determine who the best player is,
+
+50:23.040 --> 50:26.400
+or at least the best player in that particular matchup,
+
+50:26.400 --> 50:27.600
+you need more games.
+
+50:27.600 --> 50:29.600
+And I think to some extent,
+
+50:31.680 --> 50:35.280
+if you're going to have a world champion and call them the best players,
+
+50:35.920 --> 50:37.920
+best player, you got to make sure that the format
+
+50:38.640 --> 50:41.840
+increases the chance of finding the best players.
+
+50:41.840 --> 50:43.200
+So I think having more games.
+
+50:43.840 --> 50:45.680
+And if you're going to have a lot more games,
+
+50:47.280 --> 50:49.600
+then you need to decrease the time control a bit,
+
+50:50.240 --> 50:54.400
+which in turn I think is also a good thing because
+
+50:54.480 --> 50:58.640
+in very long time controls with deep preparation,
+
+50:58.640 --> 51:04.640
+you can sort of mask a lot of your deficiencies as a chess player
+
+51:05.520 --> 51:09.520
+because you have a lot of time to think and to defend.
+
+51:09.520 --> 51:12.720
+And also, yeah, you have deep preparation.
+
+51:12.720 --> 51:16.320
+So I think those would be for me to play.
+
+51:16.320 --> 51:23.520
+Those would be the main things, more games and less time.
+
+51:24.480 --> 51:29.520
+So you want to see more games and rules that emphasize pure chess?
+
+51:30.080 --> 51:35.600
+Yeah, but already less time emphasizes pure chess
+
+51:35.600 --> 51:42.400
+because defensive techniques are much harder to execute with a little time.
+
+51:42.400 --> 51:42.880
+What do you think?
+
+51:42.880 --> 51:46.000
+Is there a sweet spot in terms of, are we talking about Blitz?
+
+51:46.000 --> 51:48.160
+I think Blitz is a bit too fast.
+
+51:49.360 --> 51:52.800
+To their credit, this was suggested by Fita as well.
+
+51:54.160 --> 51:57.200
+For a start, you have two games per day.
+
+51:57.200 --> 52:04.240
+And let's say you have 45 minutes a game plus 15 or 30 seconds per move.
+
+52:04.240 --> 52:06.720
+That means that each session will probably be about
+
+52:07.360 --> 52:09.200
+or a little less than two hours.
+
+52:10.080 --> 52:11.840
+That would be a start.
+
+52:11.840 --> 52:17.440
+Also, what we're playing in the tournament that I'm playing here in Miami,
+
+52:17.440 --> 52:23.440
+which is four games a day with 15 minutes plus 10 seconds per move.
+
+52:24.720 --> 52:29.600
+Those would be more interesting than the one there is now.
+
+52:29.600 --> 52:32.640
+And I understand that there are a lot of traditions.
+
+52:32.640 --> 52:34.960
+People don't want to change the world championship.
+
+52:34.960 --> 52:36.160
+That's all fine.
+
+52:36.160 --> 52:41.680
+I just think that the world championship should do a better job
+
+52:41.680 --> 52:44.720
+of trying to reflect who's the best overall chess player.
+
+52:44.960 --> 52:48.880
+So would you say like, if it's faster games,
+
+52:48.880 --> 52:54.080
+you'd probably be able to get a sample size of like over 20 games, 20, 30, 40.
+
+52:54.080 --> 52:56.960
+Do you think there's a number that's good over a long period of time?
+
+52:56.960 --> 52:58.960
+Well, I would prefer as many as possible.
+
+52:58.960 --> 52:59.760
+So like a hundred?
+
+53:01.040 --> 53:06.080
+Yeah, but let's say you play 12 days to games a day.
+
+53:06.080 --> 53:07.760
+You know, that's 24.
+
+53:07.760 --> 53:10.080
+I feel like that's already quite a bit better.
+
+53:10.080 --> 53:12.960
+You play like one black game, one white game.
+
+53:12.960 --> 53:15.280
+One white game each day.
+
+53:15.280 --> 53:17.200
+Endurance wise, that's okay.
+
+53:17.200 --> 53:18.080
+Yeah, I think that's fine.
+
+53:18.080 --> 53:19.600
+Like you will have free days as well.
+
+53:19.600 --> 53:22.000
+So I don't think that will be a problem.
+
+53:23.360 --> 53:27.200
+And also you have to prepare two sets of openings for each day,
+
+53:27.200 --> 53:31.520
+which makes it more difficult for the teams preparing, which I think is also good.
+
+53:32.400 --> 53:33.680
+Let me ask you a fun question.
+
+53:34.400 --> 53:41.360
+If Hikaru Nakamura was one of the two people, I guess, I apologize.
+
+53:41.440 --> 53:43.680
+Yeah, he could have finished second.
+
+53:43.680 --> 53:45.680
+So he lost the last round of the candidates.
+
+53:45.680 --> 53:48.400
+Yeah, and maybe you can explain to me,
+
+53:48.400 --> 53:51.280
+internet speed copium is something you tweeted.
+
+53:52.960 --> 54:01.040
+But if he got second, would you just despite him still play the world championship?
+
+54:01.040 --> 54:02.560
+That's internet question.
+
+54:02.560 --> 54:05.600
+And when the internet asks, I must abide the due divides.
+
+54:06.400 --> 54:07.520
+Yeah, sure.
+
+54:07.520 --> 54:08.320
+Thank you, internet.
+
+54:09.200 --> 54:09.700
+Okay.
+
+54:10.880 --> 54:14.720
+So after the last match, I did an interview
+
+54:17.120 --> 54:22.480
+right after where I talked about the fact that I was unlikely to play the next one.
+
+54:22.480 --> 54:29.040
+I'd spoken privately to both family, friends, and of course, also my chess team,
+
+54:29.040 --> 54:33.440
+that this was likely going to be the last match.
+
+54:33.760 --> 54:39.120
+What happened was that right before the world championship match,
+
+54:39.120 --> 54:42.160
+there was this young player, Alireza Firouza.
+
+54:42.160 --> 54:43.360
+He had a dramatic rise.
+
+54:43.360 --> 54:45.920
+He rose to second in the world rankings.
+
+54:45.920 --> 54:48.720
+He was 18 then, he's 19 now.
+
+54:48.720 --> 54:50.720
+He qualified for the candidates.
+
+54:50.720 --> 54:54.640
+And it felt like there was at least a half realistic possibility
+
+54:55.360 --> 55:00.480
+that he could be the challenger for the next world championship.
+
+55:01.360 --> 55:03.360
+And that sort of lit a fire under me.
+
+55:04.320 --> 55:05.360
+Do you like that idea?
+
+55:05.360 --> 55:07.280
+I like that a lot.
+
+55:07.280 --> 55:11.600
+I love the idea of playing him in the next world championship.
+
+55:11.600 --> 55:16.480
+And originally, I was sure that I wanted to announce
+
+55:16.480 --> 55:20.000
+right after the match that this was it.
+
+55:20.000 --> 55:20.560
+I'm done.
+
+55:20.560 --> 55:21.680
+I'm not playing the next one.
+
+55:22.400 --> 55:24.000
+But this lit a fire under me.
+
+55:24.000 --> 55:29.600
+So that made me think, you know, this actually motivates me.
+
+55:29.840 --> 55:32.960
+I just wanted to get it out there for several reasons,
+
+55:32.960 --> 55:35.600
+to create more hype about the candidates,
+
+55:36.560 --> 55:41.280
+to sort of motivate myself a little bit, maybe motivate him.
+
+55:42.160 --> 55:45.760
+Also, obviously, I wanted to give people a heads up
+
+55:45.760 --> 55:53.200
+for the candidates that you might be playing for more than first place.
+
+55:53.200 --> 55:56.080
+Normally, the candidates is first place or bust.
+
+55:56.080 --> 55:57.280
+It's like the world championship.
+
+55:58.000 --> 55:58.960
+Yeah.
+
+55:58.960 --> 56:03.200
+And then, so Nakamura was one of many people who just didn't believe me.
+
+56:04.080 --> 56:11.280
+Which is fair, because I've talked before about not necessarily wanting to defend again.
+
+56:12.000 --> 56:16.720
+But I never talked as concretely or was as serious as this time.
+
+56:16.720 --> 56:18.080
+So he simply didn't believe me.
+
+56:18.720 --> 56:21.120
+And he was very vocal about that.
+
+56:21.120 --> 56:24.240
+And he said, nobody believed me, no other players,
+
+56:24.240 --> 56:26.160
+which may or may not have been true.
+
+56:27.040 --> 56:30.960
+And then, yeah, he lost the last game and he didn't qualify.
+
+56:31.600 --> 56:37.520
+But to answer the question, no, I'd already at that point decided that I wouldn't play.
+
+56:38.080 --> 56:43.840
+I would have liked it less if he had not lost the last round.
+
+56:43.840 --> 56:45.120
+But the decision was made.
+
+56:45.120 --> 56:47.920
+But the decision was already made.
+
+56:49.120 --> 56:54.400
+Does it break your heart a little bit that you're walking away from it
+
+56:54.400 --> 56:57.120
+in all the ways that you mentioned that it's just not fun?
+
+56:57.120 --> 57:01.040
+There's a bunch of ways that doesn't seem to bring out the best kind of chess.
+
+57:01.920 --> 57:05.520
+It doesn't bring out the best out of you and the particular opponents involved.
+
+57:05.520 --> 57:10.720
+Does it just break your heart a little bit like you're walking away from something
+
+57:10.720 --> 57:13.440
+or maybe the entire chess community is walking away from
+
+57:14.400 --> 57:19.440
+a kind of a historic event that was so important in the 20th century at least?
+
+57:20.880 --> 57:23.120
+So I won the championship in 2013.
+
+57:23.680 --> 57:28.400
+I said no to the candidates in 2011.
+
+57:28.400 --> 57:30.560
+I didn't particularly like the format.
+
+57:32.320 --> 57:33.920
+I was just not in the mood.
+
+57:33.920 --> 57:40.000
+I didn't want the pressure that was connected with the world championship.
+
+57:40.000 --> 57:44.800
+And I was perfectly content at the time to play the tournaments that I did play.
+
+57:46.240 --> 57:48.720
+Also to be ranked number one in the world,
+
+57:48.720 --> 57:52.720
+I was comfortable with the fact that I knew that I was the best.
+
+57:53.120 --> 57:56.320
+I didn't need a title to show others.
+
+57:57.600 --> 58:00.720
+What happened later is I suddenly decided to play.
+
+58:02.000 --> 58:05.120
+In 2013, they changed the format.
+
+58:05.120 --> 58:06.160
+I liked it better.
+
+58:08.080 --> 58:11.040
+I just decided it could be interesting.
+
+58:11.040 --> 58:11.920
+Let's try and get this.
+
+58:13.600 --> 58:17.200
+There really wasn't more than that to it.
+
+58:17.200 --> 58:21.680
+It wasn't like fulfilling lifelong dream or anything.
+
+58:21.680 --> 58:24.160
+I just thought, you know, let's play.
+
+58:25.040 --> 58:26.480
+So it's just a cool tournament?
+
+58:26.480 --> 58:28.160
+Yeah, it's a cool tournament.
+
+58:28.160 --> 58:29.280
+It's a good challenge.
+
+58:29.280 --> 58:31.120
+You know, why not?
+
+58:31.120 --> 58:34.960
+It's something that could be a motivation.
+
+58:34.960 --> 58:40.400
+It motivated me to get in the best shape of my life that had been until then.
+
+58:40.400 --> 58:41.600
+So it was a good thing.
+
+58:42.240 --> 58:46.480
+And 2013 match brought me a lot of joy as well.
+
+58:46.480 --> 58:49.200
+So I'm very, very happy that I did that.
+
+58:49.200 --> 58:54.160
+But I never had any thoughts that I'm going to keep the title for a long time.
+
+58:54.160 --> 58:57.680
+Immediately after the match in 2013,
+
+58:58.720 --> 59:04.080
+also before the match, I'd spoken against the fact that the champion is seeded into the final,
+
+59:04.080 --> 59:05.520
+which I thought was unfair.
+
+59:07.280 --> 59:12.080
+After the match, I made a proposal that we have a different system
+
+59:12.080 --> 59:14.720
+where the champion doesn't have these privileges.
+
+59:15.680 --> 59:20.800
+People's reaction, both players and chess community was generally like,
+
+59:20.800 --> 59:22.000
+okay, we're good.
+
+59:22.000 --> 59:23.920
+We don't want that.
+
+59:23.920 --> 59:25.440
+You keep your privileges.
+
+59:26.000 --> 59:27.840
+I was like, okay, whatever.
+
+59:27.840 --> 59:29.360
+So you want to fight for it every time?
+
+59:30.080 --> 59:31.840
+Yeah, I want that.
+
+59:34.480 --> 59:36.640
+Have to ask, just in case you have an opinion,
+
+59:37.280 --> 59:41.520
+if you can maybe from a fantasy chess perspective analyze
+
+59:42.320 --> 59:44.640
+Ding versus Nepo, who wins?
+
+59:45.440 --> 59:49.840
+The current, the two people that would play if you're not playing.
+
+59:50.480 --> 59:56.240
+Generally, I would consider that Ding has a slightly better overall chess strength.
+
+59:57.040 --> 01:00:01.360
+What are the strengths and weaknesses of each, if you can kind of summarize it?
+
+01:00:02.480 --> 01:00:09.520
+So Nepo is even better at calculating short lines than I am.
+
+01:00:09.920 --> 01:00:14.960
+But he can sometimes like a little bit of depth.
+
+01:00:15.600 --> 01:00:19.840
+Like in short lines, he's an absolute calculation monster.
+
+01:00:19.840 --> 01:00:25.040
+He's extremely quick, but he can sometimes like a bit of depth.
+
+01:00:25.040 --> 01:00:28.640
+Also recently, he's improved his openings quite a bit.
+
+01:00:28.640 --> 01:00:36.000
+So now he has a lot of good ideas and he's very, very solid.
+
+01:00:36.880 --> 01:00:44.240
+Ding is not quite as well prepared, but he has an excellent understanding of dynamics
+
+01:00:44.240 --> 01:00:48.720
+and imbalances in chess, I would say.
+
+01:00:48.720 --> 01:00:50.240
+What do you mean by imbalances?
+
+01:00:51.280 --> 01:00:55.680
+Imbalances like bishops against knights and material imbalances.
+
+01:00:55.680 --> 01:00:56.960
+He can take advantage of those.
+
+01:00:57.600 --> 01:01:04.240
+Yes, I would say he's very, very good at that and understanding the dynamic factors,
+
+01:01:04.240 --> 01:01:09.280
+as we call them, like material versus time, especially.
+
+01:01:10.240 --> 01:01:12.800
+I think Nepo got the better of him and the candidates.
+
+01:01:12.800 --> 01:01:16.960
+So what's your sense why Ding has an edge in the championship?
+
+01:01:16.960 --> 01:01:24.000
+I feel like individual past results hasn't necessarily been a great indicator of world
+
+01:01:24.000 --> 01:01:25.120
+championship results.
+
+01:01:25.840 --> 01:01:31.280
+I feel like overall chess strength is more important.
+
+01:01:31.920 --> 01:01:34.800
+To be fair, I only think Ding has a very small edge.
+
+01:01:34.800 --> 01:01:36.640
+Difference is not big at all.
+
+01:01:36.640 --> 01:01:42.640
+But our individual head-to-head record was probably the main reason that a lot of people
+
+01:01:42.640 --> 01:01:45.600
+thought Nepo had a good chance against me as well.
+
+01:01:45.600 --> 01:01:51.520
+It was like four to one in his favor before the match.
+
+01:01:51.520 --> 01:01:56.560
+But that was just another example of why that may not necessarily mean anything.
+
+01:01:56.560 --> 01:02:00.000
+Also in our case, it was a very, very low sample size.
+
+01:02:01.280 --> 01:02:09.040
+About the size of the match in total, 14 games, and that generally doesn't mean much.
+
+01:02:09.040 --> 01:02:13.120
+How close were those games, would you say, in your mind for the previous championship?
+
+01:02:14.400 --> 01:02:17.040
+That game six was a turning point where you won.
+
+01:02:18.320 --> 01:02:23.440
+Was there any doubt in your mind that if you do a much larger sample size,
+
+01:02:23.440 --> 01:02:25.280
+that you'll get the better of Nepo?
+
+01:02:25.280 --> 01:02:27.920
+No, larger sample size is always good for me.
+
+01:02:28.480 --> 01:02:35.040
+So World Championship is a great parallel to football because it's a low-scoring game.
+
+01:02:36.400 --> 01:02:43.440
+And if the better player or the better team scores, they win most of the time.
+
+01:02:44.080 --> 01:02:47.120
+That's generally for championships or in general?
+
+01:02:47.120 --> 01:02:48.800
+Yeah, for championships.
+
+01:02:48.800 --> 01:02:57.120
+They generally win because the other slightly weaker team, they're good enough to defend to
+
+01:02:57.120 --> 01:02:59.760
+make it very, very difficult for the others.
+
+01:02:59.760 --> 01:03:04.000
+But when they actually have to create the chances, then they have no chance.
+
+01:03:04.000 --> 01:03:08.880
+And then it very often ends with a blowout as it did in our match.
+
+01:03:08.880 --> 01:03:13.120
+If I hadn't won game six, it probably would have been very, very close.
+
+01:03:13.120 --> 01:03:14.640
+He might have edged it.
+
+01:03:14.640 --> 01:03:18.160
+There's obviously a bigger chance that I would have edged it.
+
+01:03:18.160 --> 01:03:24.000
+But this is just what happens a lot in chess, but also in football that matches are close.
+
+01:03:24.000 --> 01:03:29.920
+And then somebody scores and then things change.
+
+01:03:29.920 --> 01:03:34.160
+And this gives people the illusion that the matchup was very close.
+
+01:03:35.920 --> 01:03:43.680
+While actually it just means that the nature of the game makes the matches close very often,
+
+01:03:43.680 --> 01:03:50.320
+but it's always much more likely that one of the teams or one of the players is going to break away
+
+01:03:50.320 --> 01:03:51.440
+than the others.
+
+01:03:51.920 --> 01:03:58.240
+In other matches as well, even though a lot of people before the match in 2016 against
+
+01:04:00.400 --> 01:04:05.840
+Karjakin, there were people who thought before the match that I was massively overrated as
+
+01:04:06.880 --> 01:04:15.680
+a favorite and that essentially the match was pretty close, like whatever, 60-40.
+
+01:04:15.680 --> 01:04:18.880
+Or some people even said like 55-45.
+
+01:04:19.040 --> 01:04:25.040
+What I felt was that the match went very, very wrong for me and I still won.
+
+01:04:26.160 --> 01:04:30.080
+Some people saw that as an indication that the pre-match probabilities were probably
+
+01:04:30.080 --> 01:04:31.520
+a bit closer than people thought.
+
+01:04:31.520 --> 01:04:37.520
+Well, I would look at it in the way that everything went wrong and I still won,
+
+01:04:37.520 --> 01:04:40.960
+which probably means that I was a pretty big favorite to begin with.
+
+01:04:40.960 --> 01:04:42.640
+I do have a question too about that match.
+
+01:04:42.640 --> 01:04:48.160
+But first, Sergey Karjakin was originally a qualifier for the Candidate Tournament,
+
+01:04:48.160 --> 01:04:54.240
+but was disqualified for breaching the Fedia Code of Ethics after publicly expressing approval for
+
+01:04:54.240 --> 01:04:57.680
+the 2022 Russian invasion in Ukraine.
+
+01:04:57.680 --> 01:05:02.320
+When you look at the Cold War and some of the US versus Russian games of the past,
+
+01:05:02.320 --> 01:05:09.200
+does some of this geopolitics ever creep its way into the game?
+
+01:05:09.200 --> 01:05:13.440
+Do you feel the pressure, the immensity of that, as it does sometimes for the Olympics,
+
+01:05:13.440 --> 01:05:16.960
+these big nations playing each other, competing against each other?
+
+01:05:16.960 --> 01:05:22.640
+Almost like fighting out in a friendly way the battles,
+
+01:05:22.640 --> 01:05:25.120
+the tensions that they have in the space of geopolitics.
+
+01:05:25.840 --> 01:05:26.880
+I think it still does.
+
+01:05:27.840 --> 01:05:34.000
+The president of the World Trust Federation, who was just re-elected, is a Russian.
+
+01:05:34.000 --> 01:05:39.120
+I like him personally, for sure, but he is quite connected to the Kremlin.
+
+01:05:39.680 --> 01:05:46.480
+It's quite clear that the Kremlin considers it at least a semi-important goal to bring the
+
+01:05:46.480 --> 01:05:52.640
+chess crown home to Russia, so it's still definitely a factor.
+
+01:05:53.440 --> 01:05:56.480
+I can answer in the Karjakin case.
+
+01:05:57.280 --> 01:06:03.680
+I don't have a strong opinion on whether he should have been banned or not.
+
+01:06:03.680 --> 01:06:07.440
+Obviously, I don't agree with anything that he says.
+
+01:06:08.400 --> 01:06:16.880
+But in principle, I think that you should ban either no Russians or all Russians.
+
+01:06:16.880 --> 01:06:22.560
+I'm generally not particularly against either.
+
+01:06:22.560 --> 01:06:32.640
+But I don't love banning wrong opinions, even if they are as reprehensible as his have been.
+
+01:06:33.200 --> 01:06:37.200
+There's something about the World Chess Championships or the Olympics
+
+01:06:37.840 --> 01:06:42.320
+where it feels like banning is counterproductive to alleviating some of the conflicts.
+
+01:06:42.960 --> 01:06:43.680
+We don't know.
+
+01:06:43.680 --> 01:06:45.120
+This is the thing, though.
+
+01:06:45.120 --> 01:06:49.120
+We really don't know about the long-term conflicts.
+
+01:06:49.120 --> 01:06:54.640
+A lot of people try to do the right thing in this sense, which I don't really blame at all.
+
+01:06:56.480 --> 01:06:57.440
+It's just that we don't know.
+
+01:06:58.400 --> 01:07:03.280
+I guess sometimes there are other ways you want to try and help as well.
+
+01:07:04.560 --> 01:07:10.000
+Within the competition, within some of those battles of US versus Russia or so on of the past,
+
+01:07:10.000 --> 01:07:15.200
+there's also between the individuals, maybe you'll disagree with this,
+
+01:07:15.200 --> 01:07:18.000
+but from a spectator perspective, there's still a camaraderie.
+
+01:07:19.200 --> 01:07:22.080
+At the end of the day, there's a thing that unites you,
+
+01:07:22.640 --> 01:07:26.960
+which is this appreciation of the fight over the chessboard.
+
+01:07:27.920 --> 01:07:30.480
+It's even if you hate each other.
+
+01:07:30.480 --> 01:07:31.600
+Yeah, for sure.
+
+01:07:31.600 --> 01:07:38.560
+I think for every match that's been, you would briefly discuss the game with your opponent
+
+01:07:39.520 --> 01:07:41.760
+after the game, no matter how much you hate each other.
+
+01:07:41.760 --> 01:07:43.920
+And I think that's lovely.
+
+01:07:43.920 --> 01:07:48.800
+And Kasparov, I mean, he was quoted like when somebody in his team asked him,
+
+01:07:48.800 --> 01:07:52.160
+why are you talking to Karpov after the game?
+
+01:07:53.440 --> 01:07:54.160
+You hate that guy.
+
+01:07:54.640 --> 01:07:55.200
+Yeah, sure.
+
+01:07:55.200 --> 01:07:57.520
+But he's the only one who understands.
+
+01:07:57.520 --> 01:07:59.280
+Yeah, the only one who understands.
+
+01:07:59.280 --> 01:08:01.600
+So I think that's really lovely.
+
+01:08:01.600 --> 01:08:06.080
+And I would love to see that in other areas as well.
+
+01:08:07.360 --> 01:08:11.920
+Regardless of what happens, you can have a good chat about the game.
+
+01:08:11.920 --> 01:08:18.080
+And you can just talk about the ideas with people who understand what you understand.
+
+01:08:18.720 --> 01:08:22.640
+So if you're not playing the World Championships, there's a lot of people
+
+01:08:23.600 --> 01:08:26.960
+who are saying that perhaps the World Championships don't matter anymore.
+
+01:08:27.520 --> 01:08:30.000
+Do you think there's some truth to that?
+
+01:08:30.000 --> 01:08:37.680
+I said that back a long time ago as well, that for me, I don't know if it never happened,
+
+01:08:37.680 --> 01:08:40.960
+so I don't know what would have happened, but I was thinking like the moment
+
+01:08:42.000 --> 01:08:44.400
+that I realized that I'm not the best player in the world,
+
+01:08:44.400 --> 01:08:48.880
+like I felt like morally I have to renounce the World Championship title, you know,
+
+01:08:49.520 --> 01:08:52.640
+because it doesn't mean anything as long as you're not the best player.
+
+01:08:53.360 --> 01:08:58.800
+So the ratings really tell a bigger, a clearer story?
+
+01:08:58.800 --> 01:09:01.520
+I think so, at least over time.
+
+01:09:01.520 --> 01:09:06.640
+I'm a lot more proud of my streak of being rated number one in the world,
+
+01:09:06.640 --> 01:09:11.760
+which is now since I think the summer of 2011.
+
+01:09:12.880 --> 01:09:16.880
+I'm a lot more proud of that than the World Championships.
+
+01:09:17.600 --> 01:09:24.240
+How much anxiety or even fear do you have before making a difficult decision on the chessboard?
+
+01:09:24.240 --> 01:09:28.640
+So when it's a high stakes game, how nervous do you get?
+
+01:09:28.640 --> 01:09:30.880
+How much anxiety do you have in all that calculations?
+
+01:09:30.880 --> 01:09:34.880
+You're sitting there for 10, 15 minutes because you're in a fog.
+
+01:09:34.880 --> 01:09:37.920
+There's always a possibility of a blunder, of a mistake.
+
+01:09:37.920 --> 01:09:40.000
+Are you anxious about it? Are you afraid of it?
+
+01:09:40.800 --> 01:09:41.520
+Really depends.
+
+01:09:42.240 --> 01:09:44.800
+I have been at times.
+
+01:09:45.680 --> 01:09:53.680
+I think the most nervous I've ever been was game 10 of the World Championships in 2018.
+
+01:09:54.800 --> 01:09:57.280
+That was just a thrilling game.
+
+01:09:58.320 --> 01:09:59.040
+I was black.
+
+01:09:59.840 --> 01:10:04.320
+I basically abandoned the queen side at some point to attack him on the king side.
+
+01:10:04.320 --> 01:10:09.920
+And I knew that my attack, if it doesn't work, I'm going to lose.
+
+01:10:09.920 --> 01:10:13.200
+But I had so much adrenaline, so that was fine.
+
+01:10:13.200 --> 01:10:14.160
+I thought I was going to win.
+
+01:10:14.800 --> 01:10:17.360
+Then at some point I realized that it's not so clear.
+
+01:10:18.000 --> 01:10:21.840
+And then my time was ticking and I was just getting so nervous.
+
+01:10:21.840 --> 01:10:25.200
+I still remember what happened.
+
+01:10:25.840 --> 01:10:30.560
+We played this time trouble phase where he had very little time, but I had even less.
+
+01:10:31.360 --> 01:10:36.800
+And I just remember, I kind of remember much of it, just that when it was over, I was just so
+
+01:10:37.520 --> 01:10:38.240
+relieved.
+
+01:10:38.240 --> 01:10:43.440
+Because then it was clear that the position was probably going to peter out in a draw.
+
+01:10:43.440 --> 01:10:47.200
+Otherwise, I'm often nervous before games.
+
+01:10:47.200 --> 01:10:50.560
+But when I get there, it's all business.
+
+01:10:50.560 --> 01:10:57.200
+And especially when I'm playing well, I'm never afraid of losing when I play.
+
+01:10:57.840 --> 01:11:03.280
+Because I trust my instincts, I trust my skills.
+
+01:11:03.360 --> 01:11:07.360
+How much psychological intimidation is there from you to the other person,
+
+01:11:07.360 --> 01:11:08.640
+from the other person to you?
+
+01:11:09.680 --> 01:11:14.960
+I think people would play a lot better if they played against an anonymous me.
+
+01:11:14.960 --> 01:11:23.760
+I would love to have a tournament online where, let's say, you play 10 of the best
+
+01:11:23.760 --> 01:11:28.400
+players in the world and for each round you don't know who you're playing.
+
+01:11:30.240 --> 01:11:31.280
+That's an interesting question.
+
+01:11:31.680 --> 01:11:36.640
+There's these videos where people eat McDonald's or Burger King or Diet Coke versus
+
+01:11:37.280 --> 01:11:38.400
+Diet Pepsi.
+
+01:11:38.400 --> 01:11:44.000
+Would people be able to tell they're playing you from the style of play?
+
+01:11:44.000 --> 01:11:44.880
+Do you think?
+
+01:11:44.880 --> 01:11:46.240
+Or from the strength of play?
+
+01:11:48.320 --> 01:11:50.320
+If there was a decent sample size, sure.
+
+01:11:51.040 --> 01:11:51.680
+And what about you?
+
+01:11:51.680 --> 01:11:54.240
+Would you be able to tell others?
+
+01:11:55.600 --> 01:11:57.200
+In just one game?
+
+01:11:58.160 --> 01:11:59.280
+Very unlikely.
+
+01:11:59.280 --> 01:12:02.000
+What sample size would you need to tell accurately?
+
+01:12:02.000 --> 01:12:03.120
+I feel like this is science.
+
+01:12:05.040 --> 01:12:06.560
+I think 20 games would help a lot.
+
+01:12:06.560 --> 01:12:07.440
+Per person?
+
+01:12:07.440 --> 01:12:07.940
+Yeah.
+
+01:12:09.040 --> 01:12:15.120
+But I know that they've already developed AI bots that are pretty good at recognizing
+
+01:12:15.120 --> 01:12:20.000
+somebody's style, which is quite fascinating.
+
+01:12:21.600 --> 01:12:25.920
+And it'd be fascinating if those bots were able to summarize the style somehow.
+
+01:12:25.920 --> 01:12:28.240
+Maybe great attacking chess.
+
+01:12:28.400 --> 01:12:31.600
+Some of the same characteristics you've been describing, like great at short
+
+01:12:32.480 --> 01:12:34.160
+line calculations, all that kind of stuff.
+
+01:12:35.600 --> 01:12:37.600
+Or to just talk shit.
+
+01:12:37.600 --> 01:12:42.080
+No, but really all the best chess players, there are basically just two camps.
+
+01:12:42.080 --> 01:12:48.480
+People who are good at longer lines or shorter lines, it's the hare and the tortoise, basically.
+
+01:12:49.200 --> 01:12:57.440
+And sometimes I feel like I'm the closest you can get to a hybrid of those.
+
+01:12:58.720 --> 01:13:03.600
+Because you're good in every position in the middle game and end game.
+
+01:13:03.600 --> 01:13:08.880
+Yeah, and also I can think to some extent both rapidly and deeply.
+
+01:13:08.880 --> 01:13:11.840
+Which a lot of people, they can't do both.
+
+01:13:11.840 --> 01:13:18.000
+But to answer your question from before, I sometimes can get a little bit intimidated
+
+01:13:18.000 --> 01:13:23.360
+by my opponent, but it's mostly if there's something unknown.
+
+01:13:23.760 --> 01:13:28.240
+It's mostly if it's something that I don't understand fully.
+
+01:13:28.240 --> 01:13:33.600
+And I do think, especially when I'm playing, well, people, they just play more timidly
+
+01:13:33.600 --> 01:13:39.520
+against me than they do against each other, sometimes without even realizing it.
+
+01:13:39.520 --> 01:13:42.800
+And I certainly use that to my advantage.
+
+01:13:42.800 --> 01:13:49.680
+If I sense that my opponent is apprehensive, if I sense that they are not going to necessarily
+
+01:13:49.680 --> 01:13:53.280
+take all their chances, it just means that I can take more risk.
+
+01:13:53.280 --> 01:13:58.240
+And I always try and find that balance.
+
+01:13:58.240 --> 01:13:59.440
+To shake them up a little bit.
+
+01:14:00.480 --> 01:14:04.160
+What's been the toughest loss of your career that you remember?
+
+01:14:04.160 --> 01:14:08.080
+Would that be the World Championship match?
+
+01:14:08.080 --> 01:14:09.040
+Oh yeah, for sure.
+
+01:14:10.320 --> 01:14:12.240
+Game eight in 2016.
+
+01:14:12.240 --> 01:14:13.360
+And who was it against?
+
+01:14:13.360 --> 01:14:16.240
+Against Karyakin in New York.
+
+01:14:16.240 --> 01:14:18.480
+Can you take it through the story of that game?
+
+01:14:19.200 --> 01:14:24.160
+Where were you before that game in terms of game one through seven?
+
+01:14:26.080 --> 01:14:28.480
+Yeah, so game one and two, not much happened.
+
+01:14:29.120 --> 01:14:32.640
+Game three and four, I was winning in both of them.
+
+01:14:32.640 --> 01:14:37.040
+And normally I should definitely have converted both.
+
+01:14:37.840 --> 01:14:38.800
+I couldn't.
+
+01:14:38.800 --> 01:14:47.360
+Partly due to good defense on his part, but mostly because I just messed up.
+
+01:14:48.320 --> 01:14:56.240
+And then after that, games five, six, and seven, not much happened.
+
+01:14:56.240 --> 01:14:59.520
+I was getting impatient at that point.
+
+01:15:00.240 --> 01:15:08.000
+So for game eight, I was probably ready to take a little bit more risks than I had before,
+
+01:15:08.000 --> 01:15:15.600
+which I guess was insane because I knew that he couldn't beat me unless I beat myself.
+
+01:15:17.840 --> 01:15:19.600
+Like he wasn't strong enough to outplay me.
+
+01:15:20.400 --> 01:15:23.600
+And that was leading to impatience somehow and impatience.
+
+01:15:23.600 --> 01:15:25.360
+No, because I knew that I was better.
+
+01:15:26.000 --> 01:15:27.040
+I knew that I was better.
+
+01:15:27.040 --> 01:15:30.320
+I knew that I just needed to win one game and then the match is over.
+
+01:15:30.320 --> 01:15:32.720
+That's what happened in 2021 as well.
+
+01:15:32.720 --> 01:15:35.920
+Like when I won the first game against Nebo, I knew that the match was over.
+
+01:15:35.920 --> 01:15:41.440
+Unless I like fuck up royally, then he's not going to be able to beat me.
+
+01:15:42.320 --> 01:15:47.200
+So what happened was that I played a kind of an innocuous opening as white,
+
+01:15:48.240 --> 01:15:51.520
+just trying to get a game, trying to get him out of book as soon as possible.
+
+01:15:52.720 --> 01:15:53.680
+Can you elaborate?
+
+01:15:53.680 --> 01:15:55.440
+Innocuous, get him out of the book.
+
+01:15:57.440 --> 01:16:00.080
+Basically, I set up pretty defensively as white.
+
+01:16:00.080 --> 01:16:04.400
+I wasn't really crossing into his half at the start at all.
+
+01:16:04.400 --> 01:16:09.920
+I was just, I played more like a system more than like a concrete opening.
+
+01:16:09.920 --> 01:16:12.560
+It was like, I'm going to set up my pieces this way.
+
+01:16:12.560 --> 01:16:14.960
+You can set them up however you want.
+
+01:16:14.960 --> 01:16:17.840
+And then later where sort of the armies are going to meet.
+
+01:16:18.480 --> 01:16:20.640
+I'm not going to try and bother you at the start.
+
+01:16:20.640 --> 01:16:24.080
+And that means you can have with as many pieces as possible,
+
+01:16:24.080 --> 01:16:28.560
+kind of pure chess in the middle game without any of the lines,
+
+01:16:29.440 --> 01:16:31.200
+the standard lines in the opening.
+
+01:16:31.200 --> 01:16:31.700
+Exactly.
+
+01:16:32.240 --> 01:16:34.800
+And so there was at some point a couple of exchanges,
+
+01:16:34.800 --> 01:16:38.320
+then some maneuvering a little bit better.
+
+01:16:38.320 --> 01:16:42.400
+Then he was sort of equalizing and then I started to take too many risks.
+
+01:16:42.400 --> 01:16:43.760
+And I was still sort of fine.
+
+01:16:44.640 --> 01:16:50.720
+But then at some point I realized that I'd gone a bit too far
+
+01:16:50.720 --> 01:16:52.320
+and I had to be really careful.
+
+01:16:52.320 --> 01:16:53.200
+Then I just froze.
+
+01:16:54.000 --> 01:16:56.000
+I just completely froze.
+
+01:16:57.200 --> 01:16:58.000
+Mentally?
+
+01:16:58.000 --> 01:16:58.960
+Yeah, mentally.
+
+01:16:58.960 --> 01:16:59.840
+What happened?
+
+01:16:59.840 --> 01:17:05.360
+I realized that, I mean, all the thoughts of I might lose this.
+
+01:17:05.360 --> 01:17:06.160
+What have I done?
+
+01:17:07.120 --> 01:17:08.640
+Why did I take so many risks?
+
+01:17:08.640 --> 01:17:10.880
+I knew that I could have drawn at any moment.
+
+01:17:10.880 --> 01:17:11.920
+Just be patient.
+
+01:17:12.480 --> 01:17:14.800
+Don't give him these opportunities.
+
+01:17:15.440 --> 01:17:18.800
+What triggered that phase transition in your mind?
+
+01:17:18.800 --> 01:17:22.320
+No, it was just a position on the board.
+
+01:17:23.440 --> 01:17:25.680
+There was one particular move he played that I missed.
+
+01:17:25.680 --> 01:17:32.240
+And then I realized this could potentially not go my way.
+
+01:17:32.240 --> 01:17:35.280
+So then I made another couple of mistakes.
+
+01:17:35.280 --> 01:17:39.120
+And to his credit, once he realized he had the chance,
+
+01:17:41.280 --> 01:17:43.040
+he knew that this was his one chance.
+
+01:17:43.040 --> 01:17:44.240
+He had to take it.
+
+01:17:44.800 --> 01:17:45.520
+And so he did.
+
+01:17:46.560 --> 01:17:53.840
+And yeah, that's the worst I've ever felt after a chess game.
+
+01:17:53.840 --> 01:17:57.520
+I realized that I'm probably going to lose my title
+
+01:17:57.520 --> 01:18:00.400
+against somebody who's not even close to my level.
+
+01:18:00.720 --> 01:18:06.640
+And I've done it because of my own stupidity, most of all.
+
+01:18:06.640 --> 01:18:14.960
+And that was really, really, at the time, I was all in my own head.
+
+01:18:14.960 --> 01:18:17.200
+That was hard to deal with.
+
+01:18:17.200 --> 01:18:23.120
+And I felt like I didn't really recover too much for the next game.
+
+01:18:23.120 --> 01:18:25.760
+So what I did, there was a free day after the eighth game.
+
+01:18:25.920 --> 01:18:31.360
+So I did something that I never did at any other world championship.
+
+01:18:31.360 --> 01:18:37.040
+Like after game eight, I got drunk with my team.
+
+01:18:38.720 --> 01:18:40.640
+That's not a standard procedure?
+
+01:18:40.640 --> 01:18:43.760
+No, no, that's the only time that's happened
+
+01:18:44.720 --> 01:18:46.240
+in the world championship during the match.
+
+01:18:46.240 --> 01:18:49.120
+So yeah, I just tried to forget.
+
+01:18:49.840 --> 01:18:53.920
+But still, before game nine, I was a little bit more relaxed.
+
+01:18:54.080 --> 01:18:55.200
+But I was still a bit nervous.
+
+01:18:55.200 --> 01:18:57.600
+Then game nine, I was almost lost as well.
+
+01:18:58.320 --> 01:19:03.040
+Then only game 10, game 10, I was still, I wasn't in a great mood.
+
+01:19:03.040 --> 01:19:04.480
+I was really, really tense.
+
+01:19:05.840 --> 01:19:07.040
+The opening was good.
+
+01:19:07.520 --> 01:19:09.200
+I had some advantage.
+
+01:19:09.200 --> 01:19:10.400
+I was getting optimistic.
+
+01:19:10.400 --> 01:19:12.080
+Then I made one mistake.
+
+01:19:12.080 --> 01:19:13.600
+He could have forced a draw.
+
+01:19:13.600 --> 01:19:16.400
+And then the old, old negativity came back.
+
+01:19:16.400 --> 01:19:19.840
+Like I was thinking during the game, like how I'm going to play for win
+
+01:19:19.840 --> 01:19:21.440
+with black in the next game.
+
+01:19:21.440 --> 01:19:25.280
+What am I doing?
+
+01:19:26.320 --> 01:19:29.600
+And then eventually it ended well.
+
+01:19:29.600 --> 01:19:31.840
+It didn't find the right line.
+
+01:19:32.720 --> 01:19:33.760
+I ground him down.
+
+01:19:33.760 --> 01:19:36.960
+Actually, I played at some point pretty well in the end game.
+
+01:19:38.080 --> 01:19:42.160
+And after that game, there was such a weight.
+
+01:19:44.160 --> 01:19:49.200
+No, after that, there was no thought of losing the match whatsoever.
+
+01:19:49.200 --> 01:19:55.600
+I knew that, okay, I'd basically gotten away with, not with murder,
+
+01:19:55.600 --> 01:19:58.160
+but gotten away with something.
+
+01:19:59.040 --> 01:20:01.920
+What can you say about the after game eight?
+
+01:20:02.880 --> 01:20:05.520
+Where are the places you've gone in your mind?
+
+01:20:05.520 --> 01:20:07.280
+Do you go to some dark places?
+
+01:20:07.280 --> 01:20:08.960
+We're talking about like depression.
+
+01:20:08.960 --> 01:20:10.800
+Do you think about quitting at that point?
+
+01:20:12.400 --> 01:20:16.000
+No, I mean, I think about quitting every time I lose the class.
+
+01:20:16.960 --> 01:20:18.400
+Or at least I used to.
+
+01:20:19.200 --> 01:20:20.720
+Especially if it's in a stupid way.
+
+01:20:21.280 --> 01:20:25.120
+I'm thinking like, okay, if I'm going to play like this,
+
+01:20:25.120 --> 01:20:29.520
+if I'm going to do things that I know are wrong, then I might as well quit.
+
+01:20:30.080 --> 01:20:33.920
+No, that's happened a bunch of times.
+
+01:20:34.720 --> 01:20:38.800
+I've definitely gotten a bit more carefree about losing these days,
+
+01:20:38.800 --> 01:20:41.360
+which it's not necessarily a good thing.
+
+01:20:41.360 --> 01:20:46.880
+My hatred of losing led to me not losing a lot.
+
+01:20:46.880 --> 01:20:51.440
+And it also lit the fire under me that I think my performance
+
+01:20:51.440 --> 01:20:57.440
+after losses in classical chess over the last 10 years is like over 2,900.
+
+01:20:58.400 --> 01:21:03.280
+I really play well after a loss, even though it's really, really unpleasant.
+
+01:21:03.280 --> 01:21:09.840
+So apparently, I don't think the way that I dealt with them is particularly healthy,
+
+01:21:09.840 --> 01:21:10.800
+but it's worked.
+
+01:21:11.520 --> 01:21:12.640
+It's worked so far.
+
+01:21:12.720 --> 01:21:16.640
+But then you've discovered now love for winning to where ultimately
+
+01:21:17.360 --> 01:21:20.320
+longevity wise creates more fun.
+
+01:21:20.320 --> 01:21:20.880
+Yeah, for sure.
+
+01:21:22.560 --> 01:21:27.680
+What's the perfect day in the life of Magnus Carlsen on a day of a big chess match?
+
+01:21:28.640 --> 01:21:30.320
+It doesn't have to be World Championship.
+
+01:21:30.320 --> 01:21:35.040
+But if it's a chess match you care about, what time do you wake up?
+
+01:21:35.760 --> 01:21:36.480
+What do you eat?
+
+01:21:37.360 --> 01:21:38.880
+It depends on when the game is.
+
+01:21:38.880 --> 01:21:41.440
+Let's say the game is at three.
+
+01:21:42.480 --> 01:21:48.800
+I'll probably wake up pretty late at about 11.
+
+01:21:49.360 --> 01:21:56.720
+Then I'll go for a walk, might listen to some podcasts.
+
+01:21:57.440 --> 01:22:03.360
+Maybe I'll spend a little bit of time looking at some NBA game from last night or whatever.
+
+01:22:04.000 --> 01:22:05.440
+To not chess related stuff?
+
+01:22:05.440 --> 01:22:06.160
+No, no, no, no.
+
+01:22:06.800 --> 01:22:09.280
+Then I'll get back.
+
+01:22:09.280 --> 01:22:14.480
+I'll have a big lunch, usually like a big omelet with a bunch of salad and stuff.
+
+01:22:15.280 --> 01:22:20.160
+Then go to the game, win a very nice clean game.
+
+01:22:20.880 --> 01:22:22.080
+This is the perfect day.
+
+01:22:22.080 --> 01:22:24.080
+Just go back after, relax.
+
+01:22:25.440 --> 01:22:30.800
+The things that make me the happiest at tournaments is just having a good routine
+
+01:22:30.800 --> 01:22:32.720
+and feeling well.
+
+01:22:33.360 --> 01:22:35.760
+I don't like it when too much is happening.
+
+01:22:37.120 --> 01:22:43.280
+The tournament that I came from now was the Chess Olympiad, which is the team event.
+
+01:22:44.400 --> 01:22:46.160
+We're a team, Norway.
+
+01:22:46.160 --> 01:22:47.280
+We did horribly.
+
+01:22:48.880 --> 01:22:52.000
+I did okay, but the team in general did horribly.
+
+01:22:52.000 --> 01:22:53.200
+Who won that, Italy?
+
+01:22:54.240 --> 01:22:58.240
+No, Italy beat us, but Uzbekistan won in the end.
+
+01:22:58.240 --> 01:23:00.880
+They were this amazing team of young players.
+
+01:23:00.880 --> 01:23:02.880
+It was really impressive.
+
+01:23:02.880 --> 01:23:05.360
+The thing is, we had a good camaraderie in the team.
+
+01:23:05.360 --> 01:23:07.120
+We had our meals together.
+
+01:23:07.120 --> 01:23:09.360
+We played a bit of football, went swimming.
+
+01:23:11.200 --> 01:23:14.320
+I couldn't understand why things went wrong, and I still don't understand.
+
+01:23:14.320 --> 01:23:19.200
+The thing is, for me, it was all very nice, but now I'm so happy to be on my own at a
+
+01:23:19.200 --> 01:23:23.280
+tournament, just to have my own routines, not see too many people.
+
+01:23:24.000 --> 01:23:27.920
+Otherwise, just have a very small team of people that I see.
+
+01:23:28.480 --> 01:23:30.400
+You are a kind of celebrity now.
+
+01:23:30.880 --> 01:23:37.440
+So people within the chess tournament and outside recognize you, want to socialize,
+
+01:23:37.440 --> 01:23:40.720
+want to tell you about how much you mean to them, how much you inspire them, all that
+
+01:23:40.720 --> 01:23:41.680
+kind of stuff.
+
+01:23:41.680 --> 01:23:46.320
+Does that get in the way for you when you're trying to really focus on the match?
+
+01:23:49.360 --> 01:23:53.280
+Are you able to enjoy those little interactions and still keep your focus?
+
+01:23:53.280 --> 01:23:57.520
+Yeah, most of the time that's fine, as long as it's not too much.
+
+01:23:57.520 --> 01:24:08.800
+But I have to admit, when I'm at home in Norway, I rarely go out without big headphones.
+
+01:24:10.160 --> 01:24:11.120
+Oh, like a disguise?
+
+01:24:11.920 --> 01:24:14.800
+No, not a disguise, just to block out the world.
+
+01:24:17.440 --> 01:24:18.480
+Don't make eye contact.
+
+01:24:21.600 --> 01:24:22.960
+People in general are nice.
+
+01:24:23.600 --> 01:24:29.280
+People, they wish me well and they don't bother me.
+
+01:24:29.280 --> 01:24:34.960
+Also, when I have the headphones on, I don't notice as much people turning around and all
+
+01:24:34.960 --> 01:24:38.160
+of that, so I can be more in my own world.
+
+01:24:39.760 --> 01:24:40.480
+So I like that.
+
+01:24:41.520 --> 01:24:45.040
+What about in this perfect day after the game?
+
+01:24:45.680 --> 01:24:47.360
+Do you try to analyze what happened?
+
+01:24:47.360 --> 01:24:51.360
+Do you try to think through systematically or do you just kind of loosely think about?
+
+01:24:52.080 --> 01:24:53.760
+No, I just loosely think about it.
+
+01:24:53.760 --> 01:24:56.480
+I've never been very structured in that sense.
+
+01:24:57.760 --> 01:25:04.400
+I know that it was always recommended that you analyze your own games, but I generally felt
+
+01:25:05.200 --> 01:25:07.360
+that I mostly had a good idea about that.
+
+01:25:07.920 --> 01:25:15.280
+Nowadays, I will loosely see what the engine says at a certain point if I'm curious about that.
+
+01:25:15.280 --> 01:25:18.160
+Otherwise, I usually move on to the next.
+
+01:25:18.640 --> 01:25:20.080
+What about diet?
+
+01:25:20.080 --> 01:25:21.840
+You said omelet and salad and so on.
+
+01:25:21.840 --> 01:25:28.640
+I heard in your conversation with the other Magnus, Magnus number two, about you had this
+
+01:25:28.640 --> 01:25:29.680
+bet about meat.
+
+01:25:30.720 --> 01:25:33.360
+One of you are going to go vegan if you lose, I forget which-
+
+01:25:33.360 --> 01:25:34.480
+Vegetarian, though.
+
+01:25:34.480 --> 01:25:35.760
+Oh, vegetarian, sorry.
+
+01:25:35.760 --> 01:25:38.480
+And you both have an admiration for meat.
+
+01:25:38.480 --> 01:25:45.520
+Is there some aspect about optimal performance that you look for in food?
+
+01:25:46.240 --> 01:25:53.920
+Like maybe eating only once or twice a day or a particular kind of food like meat-heavy diet.
+
+01:25:53.920 --> 01:25:56.880
+Is there anything like that or you just try to have fun with the food?
+
+01:25:57.440 --> 01:26:04.480
+I think whenever I'm at tournaments, it's very natural to eat, at least for me,
+
+01:26:04.480 --> 01:26:06.000
+to eat only twice a day.
+
+01:26:06.000 --> 01:26:08.080
+So usually I do that when I'm at home as well.
+
+01:26:09.440 --> 01:26:10.880
+You do eat before the tournament, though.
+
+01:26:11.520 --> 01:26:12.800
+You don't play fasted.
+
+01:26:12.800 --> 01:26:13.440
+No, no, no.
+
+01:26:14.560 --> 01:26:22.400
+But I try not to eat too heavy before the game or in general to avoid sugary stuff,
+
+01:26:22.400 --> 01:26:28.880
+to have a pretty stable blood sugar level because that's the easiest way to make mistake
+
+01:26:28.880 --> 01:26:33.440
+that your energy levels just suddenly drop.
+
+01:26:33.440 --> 01:26:38.400
+And they don't necessarily need to be too high as long as they're pretty stable.
+
+01:26:38.400 --> 01:26:39.120
+Yeah.
+
+01:26:39.120 --> 01:26:41.120
+Have you ever tried playing fasted?
+
+01:26:43.440 --> 01:26:46.720
+Intermittent fasting, so playing without having eaten.
+
+01:26:46.720 --> 01:26:52.000
+I mean, the reason I ask, especially when you do a low carb diet,
+
+01:26:52.000 --> 01:26:55.680
+when I have done a person a low carb diet, I'm able to fast for a long time,
+
+01:26:55.680 --> 01:26:58.400
+like eat once a day, maybe twice a day.
+
+01:26:58.400 --> 01:27:05.680
+But the mind is most focused on really difficult thinking tasks when it's fasted.
+
+01:27:05.680 --> 01:27:08.400
+It's an interesting and a lot of people kind of talk about that.
+
+01:27:09.360 --> 01:27:11.360
+You're able to kind of like zoom in.
+
+01:27:11.360 --> 01:27:15.280
+And if you're doing a low carb diet, you don't have the energy stable.
+
+01:27:15.280 --> 01:27:16.800
+No, that is true.
+
+01:27:16.800 --> 01:27:18.640
+Maybe that will be interesting to try.
+
+01:27:18.640 --> 01:27:23.440
+So what's happened for me is I played a few tournaments where I've had food poisoning
+
+01:27:24.400 --> 01:27:30.240
+and then that generally means that you're both sleep deprived and you have no energy.
+
+01:27:30.880 --> 01:27:37.840
+And what I've found is that it makes me very calm, of course,
+
+01:27:37.840 --> 01:27:42.080
+because I don't have the energy and it makes me super creative.
+
+01:27:43.360 --> 01:27:46.160
+Being sleep deprived I think in general makes you creative.
+
+01:27:47.360 --> 01:27:50.960
+The first thing that goes away is the ability to do the simple things.
+
+01:27:52.560 --> 01:27:54.800
+That's what it affects you the most.
+
+01:27:54.800 --> 01:27:55.920
+You cannot be precise.
+
+01:27:56.880 --> 01:28:05.680
+That's the only thing I'm worried about if I'm fasted that I won't be precise when I play.
+
+01:28:06.240 --> 01:28:07.520
+But you might be more creative.
+
+01:28:08.160 --> 01:28:09.680
+It's an interesting task that.
+
+01:28:09.680 --> 01:28:11.840
+Yeah, potentially.
+
+01:28:11.840 --> 01:28:15.760
+What about you have been known to on a rare occasion play drunk?
+
+01:28:16.480 --> 01:28:22.080
+Is there a mathematical formula for sort of on the x-axis how many drinks you had
+
+01:28:22.080 --> 01:28:26.640
+and on the y-axis your performance slash creativity?
+
+01:28:26.640 --> 01:28:30.320
+Is there like an optimal for like one of the would you suggest for
+
+01:28:30.320 --> 01:28:33.920
+the FIDE world championship that people would be required to drink?
+
+01:28:33.920 --> 01:28:36.240
+Would that change things in interesting ways?
+
+01:28:36.240 --> 01:28:37.040
+Yeah, not at all.
+
+01:28:38.240 --> 01:28:41.760
+Maybe for rapid, but for blitz, I think if you're playing blitz,
+
+01:28:41.760 --> 01:28:47.280
+you're mostly playing on short calculation and intuition.
+
+01:28:47.280 --> 01:28:53.440
+And I think those are probably enhanced if you've had a little bit of a little bit to drink.
+
+01:28:54.080 --> 01:29:00.960
+Can you explain the physiology of why that's why it's enhanced or the?
+
+01:29:00.960 --> 01:29:03.120
+You're just you're thinking less.
+
+01:29:03.120 --> 01:29:04.000
+You're more confident.
+
+01:29:04.640 --> 01:29:05.120
+Oh, yeah.
+
+01:29:06.000 --> 01:29:07.680
+I think it's just confidence.
+
+01:29:07.680 --> 01:29:14.560
+I think also like a lot of people feel like they're better at speaking languages,
+
+01:29:14.560 --> 01:29:16.880
+for instance, if they've drunk a little bit.
+
+01:29:16.880 --> 01:29:19.200
+It's just like removing these barriers.
+
+01:29:19.840 --> 01:29:24.400
+I think that it's a little bit of the same in chess.
+
+01:29:25.200 --> 01:29:32.880
+In 2012, I played the world blitz championship and then I was doing horribly for a long time.
+
+01:29:32.880 --> 01:29:34.720
+I also had food poisoning there.
+
+01:29:34.800 --> 01:29:37.440
+I couldn't play at all for three days.
+
+01:29:37.440 --> 01:29:43.840
+So before the last break, I was like in the middle of the pack, like in, I don't know,
+
+01:29:45.200 --> 01:29:46.800
+20th place or something.
+
+01:29:46.800 --> 01:29:52.720
+And so I decided like, as the last last gasp, I'm going to go to the mini bar
+
+01:29:52.720 --> 01:29:54.000
+and just have a few drinks.
+
+01:29:54.800 --> 01:29:59.840
+And what happened is that I came back and I was suddenly relaxed
+
+01:30:01.120 --> 01:30:03.360
+and I was playing fast and I was playing confidence.
+
+01:30:03.360 --> 01:30:04.640
+And I thought I was playing so well.
+
+01:30:05.440 --> 01:30:10.000
+I wasn't playing nearly as well as I thought, but it still helped me.
+
+01:30:10.000 --> 01:30:11.760
+Like I won my remaining eight games.
+
+01:30:11.760 --> 01:30:15.920
+And if there had been one more round, I probably would have won the whole thing.
+
+01:30:15.920 --> 01:30:18.080
+But finally, I was second.
+
+01:30:18.080 --> 01:30:20.160
+So generally, I wouldn't recommend that.
+
+01:30:20.800 --> 01:30:25.760
+But maybe as the last research sometimes, like if you feel that you have the ability,
+
+01:30:25.760 --> 01:30:30.320
+like obviously none of this is remotely relevant if you don't feel like you have
+
+01:30:30.320 --> 01:30:31.600
+the ability to begin with.
+
+01:30:31.600 --> 01:30:35.840
+But if you feel like you have the ability, there are just factors that
+
+01:30:38.240 --> 01:30:41.920
+make it impossible for you to show it.
+
+01:30:41.920 --> 01:30:45.040
+Like numbing your mind a bit can probably be a good thing.
+
+01:30:45.040 --> 01:30:47.760
+Yeah, well, it's interesting, especially during training.
+
+01:30:47.760 --> 01:30:52.240
+You have all kinds of sports that have interacted with a lot of athletes
+
+01:30:52.240 --> 01:30:53.360
+and grappling sports.
+
+01:30:54.560 --> 01:30:56.960
+It's different when you train under extreme exhaustion.
+
+01:30:56.960 --> 01:31:01.360
+For example, you start becoming, you start to discover interesting things.
+
+01:31:01.360 --> 01:31:02.800
+You start being more creative.
+
+01:31:02.800 --> 01:31:08.560
+A lot of people, at least in Brazilian jiu-jitsu, they'll smoke weed.
+
+01:31:09.840 --> 01:31:15.920
+It creates this kind of anxiety and relaxation that kind of enables that creative aspect.
+
+01:31:15.920 --> 01:31:17.280
+It's interesting for training.
+
+01:31:17.280 --> 01:31:20.240
+Of course, you can't rely on any one of those things too much.
+
+01:31:20.240 --> 01:31:25.520
+But it's cool to throw in like a few drinks every once in a while to, yeah, one,
+
+01:31:25.520 --> 01:31:27.520
+first of all, to relax and have fun.
+
+01:31:28.160 --> 01:31:32.320
+And two, to kind of try things differently, to unlock a different part of your brain.
+
+01:31:32.320 --> 01:31:32.880
+Yeah, for sure.
+
+01:31:33.840 --> 01:31:34.880
+What about supplements?
+
+01:31:36.960 --> 01:31:38.240
+You a coffee guy?
+
+01:31:38.240 --> 01:31:38.740
+Oh, no.
+
+01:31:40.560 --> 01:31:42.240
+I quite like the taste of coffee.
+
+01:31:44.560 --> 01:31:45.920
+The thing is, I've never had a job.
+
+01:31:47.840 --> 01:31:50.560
+So I've never needed to wake up early.
+
+01:31:50.560 --> 01:31:55.600
+So my thought is basically that if I'm tired, I'm tired.
+
+01:31:55.600 --> 01:31:56.080
+That's fine.
+
+01:31:56.800 --> 01:32:01.360
+Then I'll work it out.
+
+01:32:01.360 --> 01:32:08.720
+So I don't want to ever make my brain get used to coffee.
+
+01:32:08.720 --> 01:32:17.280
+Like if you see me drinking coffee, that probably means that I'm massively hungover.
+
+01:32:17.280 --> 01:32:24.240
+And I just want to try anything to make my brain work.
+
+01:32:24.240 --> 01:32:24.960
+Yeah, that's interesting.
+
+01:32:24.960 --> 01:32:27.120
+But for a lot of people, like you said, taste the coffee.
+
+01:32:27.120 --> 01:32:31.040
+For a lot of people, coffee is part of a certain kind of ritual.
+
+01:32:31.040 --> 01:32:31.520
+Yeah, for sure.
+
+01:32:31.520 --> 01:32:32.800
+They enjoy, you know.
+
+01:32:32.800 --> 01:32:34.720
+So hopefully you can have rituals without that.
+
+01:32:34.720 --> 01:32:36.160
+I know that I would enjoy it a lot.
+
+01:32:36.160 --> 01:32:36.800
+Yeah.
+
+01:32:36.800 --> 01:32:38.880
+Just so you don't want to rely on that.
+
+01:32:38.880 --> 01:32:39.380
+Yeah.
+
+01:32:40.800 --> 01:32:42.880
+I also like the taste, so there's no problem there.
+
+01:32:44.080 --> 01:32:46.160
+What about exercise?
+
+01:32:47.600 --> 01:32:49.280
+So how does that...
+
+01:32:50.080 --> 01:32:58.880
+A lot of people talk about the extreme stress that chess puts in your body,
+
+01:32:58.880 --> 01:33:00.160
+physically and mentally.
+
+01:33:00.160 --> 01:33:02.800
+How do you prepare for that to be physically and mentally?
+
+01:33:02.800 --> 01:33:06.480
+Is it just through playing chess or do you do cardio and that kind of stuff?
+
+01:33:07.200 --> 01:33:08.880
+This is kind of a bit up and down.
+
+01:33:08.880 --> 01:33:15.360
+Like as I said in 2013, I was in great shape.
+
+01:33:16.320 --> 01:33:20.080
+I mean, generally I was exercising, doing sports every day,
+
+01:33:20.640 --> 01:33:26.720
+either playing football or tennis or even other sports.
+
+01:33:26.720 --> 01:33:33.120
+Otherwise, if I couldn't do that, I would try and take my bike for a ride.
+
+01:33:33.920 --> 01:33:38.480
+I had a few training camps and I played tennis against one of my seconds.
+
+01:33:39.200 --> 01:33:43.600
+He's not a super fit guy, but he's always been very good at tennis.
+
+01:33:43.680 --> 01:33:46.480
+I never played in any organized way.
+
+01:33:47.200 --> 01:33:54.320
+And that was the perfect exercise because I was running around enough
+
+01:33:54.320 --> 01:34:01.680
+to make the games pretty competitive and it meant that he had to run a bit less as well.
+
+01:34:01.680 --> 01:34:12.320
+But he said he was shocked that if we played for two hours, I wouldn't flinch at all.
+
+01:34:13.280 --> 01:34:13.760
+Interesting.
+
+01:34:13.760 --> 01:34:21.600
+So like a combination of fun and the differential between skill result in good cardio?
+
+01:34:21.600 --> 01:34:21.760
+Yeah.
+
+01:34:24.240 --> 01:34:28.960
+So in those days, I was pretty fit in that sense.
+
+01:34:28.960 --> 01:34:35.200
+I've always liked doing sports, but at times, I think in winter especially,
+
+01:34:35.200 --> 01:34:37.600
+I never had a schedule.
+
+01:34:37.680 --> 01:34:40.800
+So at times, I let myself go a little bit.
+
+01:34:42.080 --> 01:34:48.320
+And I've always kind of done it more for fun than for a concrete benefit.
+
+01:34:48.320 --> 01:34:52.800
+But now, at least after the pandemic, I was not in great shape.
+
+01:34:52.800 --> 01:35:00.000
+So now I'm trying to get back, get better habits and so on.
+
+01:35:00.160 --> 01:35:11.680
+But I feel like I've always been the poster boy for making being fit a big thing in chess.
+
+01:35:11.680 --> 01:35:18.000
+And I always felt that it was not really deserved because I never liked doing weights much at all.
+
+01:35:19.840 --> 01:35:23.840
+I run a bit at times, but I never liked it too much.
+
+01:35:23.840 --> 01:35:25.040
+You just love playing sports.
+
+01:35:25.040 --> 01:35:26.400
+I just love playing sports.
+
+01:35:26.400 --> 01:35:31.120
+So I think people confuse that because I'm not like massively athletic,
+
+01:35:31.120 --> 01:35:39.360
+but I am decent at sports and that sort of helped build that perception.
+
+01:35:39.360 --> 01:35:44.880
+Even though others who are top-level chess players, they're more fit.
+
+01:35:44.880 --> 01:35:51.360
+Like Karana, for instance, his body is really, really strong.
+
+01:35:51.360 --> 01:35:52.320
+It's just that he doesn't...
+
+01:35:52.320 --> 01:35:53.680
+He goes to the gym and...
+
+01:35:53.680 --> 01:35:57.280
+Yeah, if he doesn't play sports, that's the difference.
+
+01:35:57.280 --> 01:36:02.640
+And the thing about sports is also it's an escape.
+
+01:36:02.640 --> 01:36:06.960
+It helps you forget for a brief moment about the obsessions,
+
+01:36:06.960 --> 01:36:10.000
+the pursuits of the main thing, which is chess.
+
+01:36:10.000 --> 01:36:12.240
+Yeah, for sure.
+
+01:36:12.240 --> 01:36:20.080
+And I think it also helps your main pursuit to feel that you're even not mastering,
+
+01:36:20.080 --> 01:36:24.080
+but doing well in something else.
+
+01:36:25.280 --> 01:36:30.080
+I found that if I just juggle a ball, that makes me feel better before a game.
+
+01:36:32.160 --> 01:36:34.560
+So a skilled activity.
+
+01:36:34.560 --> 01:36:35.680
+Juggle a football, yeah.
+
+01:36:35.680 --> 01:36:39.280
+Yeah, skilled activity that you can improve on over time.
+
+01:36:40.160 --> 01:36:43.760
+It flexes the same kind of muscle, but on the thing that you're much worse at,
+
+01:36:45.200 --> 01:36:46.640
+it focuses you, relaxes you.
+
+01:36:46.640 --> 01:36:47.360
+That's really interesting.
+
+01:36:47.840 --> 01:36:52.880
+What's the perfect day in the life of Magnus Carlsen when he's training?
+
+01:36:53.760 --> 01:37:00.720
+So what's a good training regimen in terms of daily training that you have to put in across
+
+01:37:00.720 --> 01:37:06.080
+many days, months, and years to just keep yourself sharp in terms of chess?
+
+01:37:06.880 --> 01:37:11.440
+I would say when I'm at home, I do very little deliberate practice.
+
+01:37:12.080 --> 01:37:13.760
+I've never been that guy at all.
+
+01:37:14.480 --> 01:37:18.720
+I could never force myself to just sit down and work.
+
+01:37:18.720 --> 01:37:22.320
+So deliberate practice, just so maybe you can educate me.
+
+01:37:22.320 --> 01:37:25.440
+For some grandmasters, what would that look like?
+
+01:37:25.440 --> 01:37:27.520
+Just doing puzzles kind of thing?
+
+01:37:27.520 --> 01:37:30.400
+Yeah, doing puzzles and opening analysis.
+
+01:37:30.400 --> 01:37:31.760
+That would be the main things.
+
+01:37:33.040 --> 01:37:33.840
+Studying games?
+
+01:37:34.560 --> 01:37:37.680
+Just studying games, yeah, a little bit.
+
+01:37:38.640 --> 01:37:41.520
+But I feel like that's something that I do.
+
+01:37:41.520 --> 01:37:42.560
+But it's not deliberate.
+
+01:37:42.560 --> 01:37:46.080
+It's like reading our article or reading a book.
+
+01:37:46.080 --> 01:37:46.640
+Got it.
+
+01:37:46.640 --> 01:37:47.760
+Like I love chess books.
+
+01:37:47.760 --> 01:37:52.240
+I'll read just anything and I'll find something interesting.
+
+01:37:52.720 --> 01:37:57.520
+So chess books that are like on openings and stuff like that, or chess books that go over
+
+01:37:57.520 --> 01:37:58.560
+different games?
+
+01:37:58.560 --> 01:38:03.600
+Yeah, books on, so there are three main categories.
+
+01:38:03.600 --> 01:38:07.120
+There are books on openings and there are books on strategy and there are books on chess
+
+01:38:07.120 --> 01:38:07.600
+history.
+
+01:38:08.240 --> 01:38:12.560
+And I find all of them very, very interesting.
+
+01:38:12.560 --> 01:38:16.960
+Like what fraction of the day would you say you have a chessboard floating somewhere in
+
+01:38:16.960 --> 01:38:17.360
+your head?
+
+01:38:18.160 --> 01:38:20.160
+Meaning like you're thinking about it.
+
+01:38:21.280 --> 01:38:25.600
+Probably be a better question to ask how many hours a day I don't have a chessboard.
+
+01:38:28.480 --> 01:38:31.440
+I mean, it could be just floating there and nothing is happening.
+
+01:38:31.440 --> 01:38:35.680
+But like, I often do it parallel to some other activity though.
+
+01:38:35.680 --> 01:38:36.960
+And what does that look like?
+
+01:38:37.280 --> 01:38:41.760
+Are you daydreaming like different, is it actual positions you're just fucking around
+
+01:38:41.760 --> 01:38:44.720
+with, like fumbling with different pieces in your head?
+
+01:38:45.600 --> 01:38:51.120
+Often I've looked at a random game on my phone, for instance, or in a book.
+
+01:38:51.120 --> 01:38:55.520
+And then my brain just keeps going at the same position, analyzing it.
+
+01:38:55.520 --> 01:38:58.400
+And often it goes all the way to the end game.
+
+01:38:58.400 --> 01:39:01.440
+And those are actual games or you conjure up like fake games?
+
+01:39:02.160 --> 01:39:04.320
+No, they're often based on real games.
+
+01:39:04.880 --> 01:39:08.800
+And then I'm thinking like, oh, but it wouldn't be more interesting if
+
+01:39:08.800 --> 01:39:10.400
+the pieces were a little bit different.
+
+01:39:10.400 --> 01:39:12.160
+And then often I play it out from there.
+
+01:39:12.720 --> 01:39:20.640
+So you don't sit behind a computer or a chessboard and you lay out the pieces?
+
+01:39:20.640 --> 01:39:24.880
+No, I'm not at all a poster board for deliberate practice.
+
+01:39:24.880 --> 01:39:27.520
+I could never work that way.
+
+01:39:27.520 --> 01:39:33.520
+My first coach, he gave me some exercises at home.
+
+01:39:34.160 --> 01:39:38.880
+Sometimes, but he realized at some point that wasn't going to work.
+
+01:39:40.320 --> 01:39:43.600
+Because I wouldn't do it really or enjoy it.
+
+01:39:44.160 --> 01:39:49.920
+So what he would do instead is that at the school where I had the trainings with him,
+
+01:39:49.920 --> 01:39:54.080
+there was this massive chess library.
+
+01:39:54.080 --> 01:39:56.640
+So he was just like, yeah, pick out books.
+
+01:39:56.640 --> 01:39:59.280
+You can have anything you want.
+
+01:40:00.240 --> 01:40:03.280
+Just pick out books you like, and then you give it back the next time.
+
+01:40:03.280 --> 01:40:05.120
+So that's what I did instead.
+
+01:40:05.120 --> 01:40:06.720
+Yeah, I just absolutely rated.
+
+01:40:08.080 --> 01:40:12.400
+Then my next tournament, I will try out one of the openings from that book,
+
+01:40:12.400 --> 01:40:13.920
+if it was an opening book and so on.
+
+01:40:13.920 --> 01:40:16.720
+So does it feel like a struggle, like challenging,
+
+01:40:17.440 --> 01:40:20.800
+like to be thinking those positions or is it fun and relaxing?
+
+01:40:20.800 --> 01:40:22.240
+No, it's completely fine.
+
+01:40:22.240 --> 01:40:22.720
+I don't.
+
+01:40:24.080 --> 01:40:27.520
+Like if it's a difficult position to figure out, you know, like to calculate.
+
+01:40:27.520 --> 01:40:28.720
+Then I go on to something else.
+
+01:40:29.040 --> 01:40:29.540
+Okay.
+
+01:40:30.240 --> 01:40:33.680
+Like if I can't figure it out, then, you know, I go on.
+
+01:40:35.120 --> 01:40:37.520
+Change it so that it's easier to figure out.
+
+01:40:37.520 --> 01:40:41.280
+There is a point in your life where Kasparov was interested in being your coach
+
+01:40:42.080 --> 01:40:43.440
+or at least training with you.
+
+01:40:43.440 --> 01:40:45.360
+Why did you choose not to go with him?
+
+01:40:45.360 --> 01:40:46.400
+That's a pretty bold move.
+
+01:40:47.600 --> 01:40:49.040
+Was there a good reason for this?
+
+01:40:49.040 --> 01:40:56.640
+No, the first homework exercise he gave me was to analyze.
+
+01:40:56.640 --> 01:41:00.080
+He picked out, I think, three or four of my worst losses
+
+01:41:00.080 --> 01:41:05.280
+and he wanted me to analyze them and give him my thoughts.
+
+01:41:05.280 --> 01:41:10.400
+And it wasn't that there were painful losses or anything, that was a problem.
+
+01:41:10.400 --> 01:41:13.200
+I just didn't really enjoy that.
+
+01:41:14.160 --> 01:41:19.840
+Also, I felt that this whole structured approach and everything,
+
+01:41:20.560 --> 01:41:23.520
+I just felt like from the start it was a hassle.
+
+01:41:24.080 --> 01:41:27.360
+I loved the idea of being able to pick his brain,
+
+01:41:28.000 --> 01:41:35.680
+but everything else, I just couldn't see myself enjoying.
+
+01:41:37.520 --> 01:41:42.000
+At the end of the day, I did then and always have played for fun.
+
+01:41:42.000 --> 01:41:44.560
+That's always been the main reason.
+
+01:41:45.040 --> 01:41:46.800
+It's great that you had the confidence to sort of
+
+01:41:47.920 --> 01:41:52.560
+basically turn down the approach of one of the greatest chess players of all time
+
+01:41:52.560 --> 01:41:54.960
+at that time, probably the greatest chess player of all time.
+
+01:41:55.840 --> 01:41:57.280
+I don't think I thought of it that way.
+
+01:41:58.080 --> 01:41:59.920
+I just thought this is not for me.
+
+01:41:59.920 --> 01:42:01.440
+I wouldn't try another way.
+
+01:42:01.440 --> 01:42:03.760
+I don't think I was particularly thinking that
+
+01:42:03.760 --> 01:42:06.000
+this is my one opportunity or anything.
+
+01:42:06.000 --> 01:42:08.080
+It was just, yeah, I don't enjoy this.
+
+01:42:08.080 --> 01:42:09.360
+Let's try something else.
+
+01:42:09.360 --> 01:42:14.000
+When you were 13, you faced Kasparov and he wasn't able to beat you.
+
+01:42:15.440 --> 01:42:16.800
+Can you go through that match?
+
+01:42:16.800 --> 01:42:17.680
+What did that feel like?
+
+01:42:17.680 --> 01:42:18.640
+How important was that?
+
+01:42:19.200 --> 01:42:20.240
+How epic was that?
+
+01:42:20.800 --> 01:42:21.920
+We played three games.
+
+01:42:22.960 --> 01:42:24.720
+I lost two and I drew one.
+
+01:42:25.520 --> 01:42:26.960
+Right, but one draw.
+
+01:42:26.960 --> 01:42:27.840
+No, the one draw.
+
+01:42:29.680 --> 01:42:32.640
+Didn't you say that you kind of had a better position in that?
+
+01:42:32.640 --> 01:42:34.800
+Yeah, I remember that day very well.
+
+01:42:34.800 --> 01:42:36.240
+There was a blitz game.
+
+01:42:36.240 --> 01:42:37.600
+This was a rapid tournament.
+
+01:42:38.320 --> 01:42:40.560
+There was a blitz tournament the day before,
+
+01:42:41.120 --> 01:42:45.840
+which determined the pairings for the rapids.
+
+01:42:45.840 --> 01:42:49.200
+For people who don't know, super short games are called bullet.
+
+01:42:49.200 --> 01:42:50.720
+Kind of short games are called blitz.
+
+01:42:51.680 --> 01:42:54.400
+Semi-short games are called rapid.
+
+01:42:55.920 --> 01:42:58.720
+And classic chess, I guess, is like very super long.
+
+01:42:59.920 --> 01:43:03.120
+Yeah, basically bullet is never played over the board.
+
+01:43:03.120 --> 01:43:06.480
+So in terms of over the board chess, blitz is the shortest.
+
+01:43:06.480 --> 01:43:11.120
+Rapid is like a hybrid between classical and blitz.
+
+01:43:11.120 --> 01:43:14.160
+You need to have the skills for both and then classical is.
+
+01:43:14.160 --> 01:43:17.760
+It's like the blitz tournament, which didn't go so well.
+
+01:43:18.560 --> 01:43:23.920
+I got a couple of wins, but I was beaten badly in a lot of games, including by Gary.
+
+01:43:23.920 --> 01:43:28.560
+And so there was the pairing that I had to play him, which is pretty exciting.
+
+01:43:28.560 --> 01:43:31.760
+So I remember I was so tired after the blitz tournament.
+
+01:43:31.760 --> 01:43:34.240
+I slept for 12 hours or something.
+
+01:43:34.240 --> 01:43:37.360
+Then I woke up like, okay, I'll turn on my computer.
+
+01:43:37.360 --> 01:43:42.480
+I'll search chess space for Kasparov and we'll go from there.
+
+01:43:42.960 --> 01:43:48.960
+So before that, I hadn't spent a lot of time specifically studying his games.
+
+01:43:48.960 --> 01:43:53.360
+It was super intimidating because a lot of these openings I knew.
+
+01:43:54.160 --> 01:43:56.720
+I was like, oh, he was the first one to play that.
+
+01:43:56.720 --> 01:43:57.760
+Oh, that was his idea.
+
+01:43:57.760 --> 01:43:58.880
+I actually didn't know that.
+
+01:43:59.520 --> 01:44:02.400
+So I was a bit intimidated before we played.
+
+01:44:02.400 --> 01:44:08.560
+Then, of course, the first game he arrived a bit late because they changed the time
+
+01:44:08.560 --> 01:44:10.880
+from the first day to the other, which was a bit strange.
+
+01:44:11.440 --> 01:44:13.440
+But everybody else had noticed it but him.
+
+01:44:15.200 --> 01:44:17.920
+Then he tried to surprise me in the opening.
+
+01:44:17.920 --> 01:44:21.680
+I think psychologically, the situation was not so easy for him.
+
+01:44:21.680 --> 01:44:25.600
+Clearly, it would be embarrassing for him if he didn't win both games against me.
+
+01:44:26.800 --> 01:44:32.080
+Then I was spending way too much time on my moves because I was playing Kasparov.
+
+01:44:32.080 --> 01:44:33.920
+I was double checking everything too much.
+
+01:44:33.920 --> 01:44:36.560
+Normally, I would be playing pretty fast in those days.
+
+01:44:37.360 --> 01:44:42.080
+And then at some point, I calculated better than him.
+
+01:44:42.080 --> 01:44:45.440
+He missed a crucial detail and had a much better position.
+
+01:44:46.400 --> 01:44:47.840
+I couldn't convert it though.
+
+01:44:47.840 --> 01:44:52.800
+I knew what line I had to go for in order to have a chance to win.
+
+01:44:52.800 --> 01:44:55.600
+But I thought I'll play a bit more carefully.
+
+01:44:55.600 --> 01:44:56.640
+Maybe I can win still.
+
+01:44:56.640 --> 01:44:57.200
+I couldn't.
+
+01:44:58.160 --> 01:45:04.240
+And then I lost the second game pretty badly, which it wasn't majorly upsetting.
+
+01:45:04.240 --> 01:45:09.600
+But I felt that I had two black games against Kasparov, both in the Blitz and the Rapid.
+
+01:45:09.600 --> 01:45:12.640
+And I lost both of them without any fight whatsoever.
+
+01:45:12.640 --> 01:45:14.480
+I wasn't happy about that at all.
+
+01:45:14.480 --> 01:45:19.040
+That was less than I thought I could be able to do.
+
+01:45:19.040 --> 01:45:22.960
+So to me, yeah, I was proud of that.
+
+01:45:22.960 --> 01:45:24.160
+But it was a gimmick.
+
+01:45:25.680 --> 01:45:29.520
+I was a very strong IAM but had GM strength.
+
+01:45:30.480 --> 01:45:37.280
+I was like, it can happen that a player of that strength makes a draw against Gary once in a while.
+
+01:45:38.800 --> 01:45:44.880
+I understand that I'm 13, but still I felt a bit more gimmicky than anything.
+
+01:45:44.880 --> 01:45:48.000
+I guess it's a good thing that made me notice.
+
+01:45:48.640 --> 01:45:50.720
+But apart from that, it wasn't.
+
+01:45:51.520 --> 01:45:56.080
+And for people who don't know, IAM is international master and GM is grand master.
+
+01:45:56.480 --> 01:46:01.200
+You were just on the verge of becoming the youngest grand master ever.
+
+01:46:01.200 --> 01:46:04.080
+I was the second youngest ever.
+
+01:46:04.080 --> 01:46:06.000
+I think I'm like the seventh youngest now.
+
+01:46:06.000 --> 01:46:07.680
+I mean, these kids these days.
+
+01:46:11.840 --> 01:46:15.840
+But I was the youngest grand master at the time in the world.
+
+01:46:19.200 --> 01:46:24.720
+You say it's gimmicky, but there's a romantic notion, especially as things have turned out.
+
+01:46:26.400 --> 01:46:27.360
+No, for sure.
+
+01:46:27.360 --> 01:46:30.400
+And have you talked to Gary since then about that?
+
+01:46:30.400 --> 01:46:31.360
+No, not really.
+
+01:46:32.000 --> 01:46:33.200
+I think he's embarrassed.
+
+01:46:33.840 --> 01:46:35.120
+He's still bitter, you think?
+
+01:46:35.120 --> 01:46:36.880
+No, I don't think he's bitter.
+
+01:46:36.880 --> 01:46:40.720
+But I think the game in itself was a bit embarrassing for him.
+
+01:46:41.680 --> 01:46:43.600
+Even he can't see past...
+
+01:46:45.920 --> 01:46:47.600
+I think he's completely fine with that.
+
+01:46:47.600 --> 01:46:50.960
+I think in retrospect, it's a good story.
+
+01:46:50.960 --> 01:46:53.200
+He appreciates that.
+
+01:46:53.200 --> 01:46:54.320
+I don't think that's the problem.
+
+01:46:54.320 --> 01:46:57.280
+But it never made sense for me to broach the subject with him.
+
+01:47:00.400 --> 01:47:04.800
+It's funny just having interacted with Gary, now having talked to you.
+
+01:47:04.800 --> 01:47:11.040
+There is a little thing you still hate losing, no matter how beautiful that moment is.
+
+01:47:11.040 --> 01:47:16.640
+Because in a way, it's a passing of the baton from one great champion to another.
+
+01:47:17.680 --> 01:47:22.400
+But you still just don't like the fact that you didn't play a good game from Gary's perspective.
+
+01:47:23.040 --> 01:47:26.880
+He still is just annoyed, probably, that he could have played better.
+
+01:47:29.040 --> 01:47:32.400
+We did work together in 2009, quite a lot.
+
+01:47:33.200 --> 01:47:38.640
+And that corporation ended early 2010.
+
+01:47:38.640 --> 01:47:44.800
+But we did play a lot of training games in 2009, which was interesting because
+
+01:47:44.800 --> 01:47:46.240
+he was still very, very strong.
+
+01:47:47.040 --> 01:47:49.920
+And at that time, it was fairly equal.
+
+01:47:50.000 --> 01:47:52.720
+He was playing me quite a bit, but I was fighting well.
+
+01:47:52.720 --> 01:47:56.400
+So it was pretty even then.
+
+01:47:57.760 --> 01:48:03.120
+I appreciate those games a lot more than some random game from when I was 13.
+
+01:48:04.960 --> 01:48:07.120
+Maybe I just don't know what I'm talking about.
+
+01:48:07.120 --> 01:48:12.400
+But I've always found that, at least based on that game,
+
+01:48:12.400 --> 01:48:16.720
+you couldn't tell that I was going to take his spot.
+
+01:48:17.360 --> 01:48:28.160
+I made a horrible blunder and lost to an Uzbek kid in the World Rapid Championship in 2018.
+
+01:48:29.200 --> 01:48:32.800
+Granted, he was part of the team that now won gold in the Chess Olympiad,
+
+01:48:32.800 --> 01:48:34.080
+but he wasn't the crucial part.
+
+01:48:34.080 --> 01:48:35.760
+He barely played any games.
+
+01:48:35.760 --> 01:48:39.680
+It wasn't like I would think that he would become world champion because he beat me.
+
+01:48:39.680 --> 01:48:43.760
+I'm always skeptical of those who said that they knew that I was going to be
+
+01:48:43.760 --> 01:48:48.240
+world champion after that game or at all at that time.
+
+01:48:48.240 --> 01:48:51.840
+I mean, it was easy to see that I would become a very, very strong player.
+
+01:48:52.640 --> 01:48:56.960
+Everybody could see that, but to be the best in the world or one of the best ever.
+
+01:48:59.360 --> 01:49:03.120
+It is hard to say, but I do remember seeing Messi when he was 16 and 17.
+
+01:49:05.200 --> 01:49:07.600
+But hasn't that happened with other players, though?
+
+01:49:07.600 --> 01:49:10.800
+Yeah, but I just had a personal experience.
+
+01:49:10.880 --> 01:49:11.840
+He did look different.
+
+01:49:13.040 --> 01:49:14.160
+There's like magic there.
+
+01:49:14.720 --> 01:49:19.840
+Maybe you can't tell he would be one of the greatest ever, but there's still magic.
+
+01:49:19.840 --> 01:49:20.320
+But you're right.
+
+01:49:20.320 --> 01:49:22.720
+Most of the time we're trying to project.
+
+01:49:22.720 --> 01:49:25.200
+We see a young kid being an older person.
+
+01:49:25.200 --> 01:49:28.160
+You start to think, okay, this could be the next great person.
+
+01:49:28.160 --> 01:49:30.160
+Then we forget when they don't become that.
+
+01:49:30.160 --> 01:49:30.960
+Yeah, exactly.
+
+01:49:30.960 --> 01:49:32.320
+That's I think what happens.
+
+01:49:33.200 --> 01:49:36.560
+But when it does, maybe some people are just
+
+01:49:37.760 --> 01:49:40.000
+so good at seeing these patterns that they can actually see.
+
+01:49:40.000 --> 01:49:42.400
+Aren't you supposed to do that kind of thing with fantasy football?
+
+01:49:42.400 --> 01:49:45.920
+Like, see the long shot and bet on them and then they turn out to be good?
+
+01:49:47.040 --> 01:49:51.280
+You make a lot of long shot bets and then some of them come good.
+
+01:49:51.920 --> 01:49:54.320
+And then people call you a genius for making the bet.
+
+01:49:54.320 --> 01:49:58.320
+Well, let me ask you the GOAT question again from fantasy perspective.
+
+01:49:59.200 --> 01:50:03.280
+Can you make the case for the greatest chess player of all time?
+
+01:50:04.400 --> 01:50:08.480
+For each yourself, Magnus Carlsen, for Garry Kasparov,
+
+01:50:08.480 --> 01:50:15.680
+I don't know who else, Bobby Fischer, Mikhail Tal, anyone else for Hikaru Nakamura?
+
+01:50:16.320 --> 01:50:17.040
+Just kidding.
+
+01:50:17.040 --> 01:50:23.520
+Yeah, I think I can make a case for myself, for Garry and for Fischer.
+
+01:50:23.520 --> 01:50:24.960
+So I'll start with Fischer.
+
+01:50:25.520 --> 01:50:28.480
+For him, it's very, very simple.
+
+01:50:30.160 --> 01:50:33.520
+He was ahead of his time, but that's like intangible.
+
+01:50:33.520 --> 01:50:35.680
+You can say that about a lot of people.
+
+01:50:35.680 --> 01:50:44.320
+But he had a peak from 1970 to 72 when he was so much better than the others.
+
+01:50:44.320 --> 01:50:46.720
+He won 20 games in a row.
+
+01:50:46.720 --> 01:50:52.160
+Also, the way that he played was so powerful and with so few mistakes
+
+01:50:52.160 --> 01:50:54.720
+that he just had no position there.
+
+01:50:54.720 --> 01:51:00.000
+So he had just a peak that's been better than anybody.
+
+01:51:00.720 --> 01:51:06.640
+The gap between him and others was greater than it's ever been
+
+01:51:07.360 --> 01:51:09.360
+in history and the other time.
+
+01:51:09.360 --> 01:51:12.160
+And that would be the argument for him.
+
+01:51:12.720 --> 01:51:21.360
+For Garry, he's played in a very competitive era and he's beaten several generations.
+
+01:51:21.360 --> 01:51:22.240
+He was the best.
+
+01:51:24.080 --> 01:51:29.440
+Well, he was the consensus best player, I would say, for almost 20 years,
+
+01:51:29.440 --> 01:51:35.600
+which nobody else has done, at least in recent time.
+
+01:51:36.160 --> 01:51:37.280
+So the longevity.
+
+01:51:37.840 --> 01:51:39.600
+The longevity, for sure.
+
+01:51:39.600 --> 01:51:46.960
+Also, at his peak, he was not quite the level of Fischer in terms of the gap,
+
+01:51:46.960 --> 01:51:52.720
+but it was similar to or I think even a little bit better than mine.
+
+01:51:52.720 --> 01:52:00.000
+As for me, I'm, of course, unbeaten as a world champion in five tries.
+
+01:52:00.000 --> 01:52:07.520
+I've been world number one for 11 years straight in an even more competitive era than Garry.
+
+01:52:07.520 --> 01:52:09.840
+I have the highest chess rating of all time.
+
+01:52:09.840 --> 01:52:14.240
+I have the longest streak ever without losing a game.
+
+01:52:15.120 --> 01:52:19.280
+I think for me, the main argument would be about the era where
+
+01:52:19.600 --> 01:52:28.560
+the engines have leveled the playing field so much that it's harder to dominate.
+
+01:52:28.560 --> 01:52:34.880
+And still, I haven't always been a clear number one, but I've been number one for 11 years.
+
+01:52:34.880 --> 01:52:38.640
+And for a lot of the time, the gap has been pretty big.
+
+01:52:39.280 --> 01:52:42.240
+So I think there are decent arguments for all of them.
+
+01:52:43.200 --> 01:52:47.920
+I've said before, and I haven't changed my mind, that Garry generally edges it
+
+01:52:47.920 --> 01:52:51.520
+because of the longevity in the competitive era.
+
+01:52:51.520 --> 01:52:54.800
+But there are arguments.
+
+01:52:54.800 --> 01:52:58.080
+But people also talk about you in terms of the style of play.
+
+01:52:58.080 --> 01:53:00.320
+So it's not just about dominance or the height.
+
+01:53:01.280 --> 01:53:04.400
+It's just the creative genius of it.
+
+01:53:05.120 --> 01:53:06.240
+Yeah, but I'm not interested in that.
+
+01:53:08.720 --> 01:53:15.440
+In terms of greatest of all time, I'm not interested in questions of style.
+
+01:53:16.080 --> 01:53:20.960
+So for Messi, you don't give credit for the style, for the stylistic?
+
+01:53:22.400 --> 01:53:23.600
+No, I like watching it.
+
+01:53:24.160 --> 01:53:26.400
+But you're not going to give points for the...
+
+01:53:27.120 --> 01:53:29.680
+So Messi gets best ever because of the finishing.
+
+01:53:32.560 --> 01:53:34.240
+No, it's not because of the finishing.
+
+01:53:34.240 --> 01:53:37.360
+It's because of his overall impact on the game.
+
+01:53:37.360 --> 01:53:38.720
+It's higher than anybody else's.
+
+01:53:39.200 --> 01:53:39.440
+Okay.
+
+01:53:41.200 --> 01:53:42.160
+He contributes.
+
+01:53:43.280 --> 01:53:46.080
+He just contributes more to winning than anybody else does.
+
+01:53:48.640 --> 01:53:53.600
+You're somebody who was advocated for and has done quite a bit of study of classic games.
+
+01:53:53.600 --> 01:54:02.000
+What would you say is maybe the number one or maybe top three games of chess ever played?
+
+01:54:03.440 --> 01:54:04.720
+Doesn't interest me at all.
+
+01:54:04.720 --> 01:54:05.840
+You don't think of those?
+
+01:54:05.840 --> 01:54:06.800
+No, I don't think of it.
+
+01:54:06.880 --> 01:54:09.280
+I mean, I find the games interesting.
+
+01:54:09.280 --> 01:54:10.560
+I try to learn from them.
+
+01:54:10.560 --> 01:54:13.440
+But trying to rank them has never interested me.
+
+01:54:13.920 --> 01:54:16.800
+What games pop out to you as super interesting then?
+
+01:54:16.800 --> 01:54:27.360
+Is there things like old school games where there's interesting ideas that you go back...
+
+01:54:27.360 --> 01:54:31.840
+Or you find surprising and pretty cool that those ideas were developed back then?
+
+01:54:34.080 --> 01:54:35.360
+Is there something that jumps to mind?
+
+01:54:35.920 --> 01:54:42.240
+There are several games of young Kasparov before he became world champion.
+
+01:54:43.120 --> 01:54:47.680
+If you're going to ask for my favorite player or favorite style, that's probably...
+
+01:54:47.680 --> 01:54:48.400
+Young Kasparov.
+
+01:54:49.360 --> 01:54:56.240
+Can you describe stylistically or in any other way what young Kasparov was like that you like?
+
+01:54:56.880 --> 01:54:59.200
+It was just an overflow energy in his play.
+
+01:54:59.760 --> 01:55:01.600
+So aggressive attacking chess?
+
+01:55:01.600 --> 01:55:03.520
+Extremely aggressive dynamic chess.
+
+01:55:04.160 --> 01:55:11.040
+It probably appeals to me a lot because these are the things that I cannot do as well.
+
+01:55:13.120 --> 01:55:15.600
+That it just feels very special to me.
+
+01:55:15.600 --> 01:55:21.440
+But yeah, in terms of games, I never thought about that too much.
+
+01:55:23.040 --> 01:55:27.920
+Is there memories, big or small, weird, surprising?
+
+01:55:29.280 --> 01:55:33.360
+Just any kind of beautiful anecdote from your chess career?
+
+01:55:33.920 --> 01:55:36.880
+Stuff that pops out that people might not know about?
+
+01:55:36.880 --> 01:55:38.800
+Just stuff when you look back, it just makes you smile?
+
+01:55:39.840 --> 01:55:46.320
+No, so I'll tell you about the most satisfying tournament victory of my career.
+
+01:55:48.240 --> 01:55:51.520
+So that was the Norwegian Championship under 11 in 2000.
+
+01:55:52.240 --> 01:55:59.120
+Before that tournament, I was super anxious because I started kind of late at chess.
+
+01:56:00.080 --> 01:56:04.000
+I played my first tournament when I was eight and a half, and a lot of my competitors
+
+01:56:04.000 --> 01:56:09.440
+had already played for a couple of years or even three, four years at that point.
+
+01:56:11.920 --> 01:56:15.120
+So I played the under 11 championship in 99.
+
+01:56:15.120 --> 01:56:18.080
+I was a little over the middle of the pack.
+
+01:56:18.080 --> 01:56:21.200
+I'd never played against any of them before, so I didn't know what to expect at all.
+
+01:56:22.000 --> 01:56:26.560
+And then over the next year, I was edging a little bit closer.
+
+01:56:26.560 --> 01:56:29.280
+In each tournament, I felt like I was getting a little bit better.
+
+01:56:29.840 --> 01:56:34.400
+And when we had the championship, I knew that I was ready.
+
+01:56:34.400 --> 01:56:38.640
+That I was now at the same level of the best players.
+
+01:56:38.640 --> 01:56:41.120
+I was so anxious to show it.
+
+01:56:41.120 --> 01:56:47.120
+I remember the feeling of excitement and nervousness before the tournament was incredible.
+
+01:56:47.680 --> 01:56:53.680
+The tournament was weird because I started out, I gave away a draw to a weaker player
+
+01:56:53.680 --> 01:56:57.760
+whom I shouldn't have drawn to.
+
+01:56:57.760 --> 01:57:04.560
+And then I drew against the other guy who was clearly the best or second best.
+
+01:57:06.160 --> 01:57:11.840
+At that point, I thought it was over because I thought he wouldn't give away points to others.
+
+01:57:12.640 --> 01:57:15.200
+And then the very next day, he lost to somebody.
+
+01:57:16.000 --> 01:57:21.280
+So the rest of the tournament, I was always playing my game and watching his.
+
+01:57:21.840 --> 01:57:26.560
+And we both won the rest of our games, but it meant that I was half a point ahead.
+
+01:57:27.280 --> 01:57:34.160
+The feeling when I realized that I was going to win, that was just so amazing.
+
+01:57:34.160 --> 01:57:39.120
+It was the first time that I was the best at my age.
+
+01:57:41.520 --> 01:57:49.440
+And at that point, I realized I could actually be very good at this.
+
+01:57:49.680 --> 01:57:53.520
+So you kind of saw, where did you think your ceiling would be?
+
+01:57:53.520 --> 01:57:57.200
+Did you see that one day you could be the number one?
+
+01:57:57.200 --> 01:57:59.440
+No, I didn't think that was possible at all.
+
+01:58:02.160 --> 01:58:06.640
+I thought I could be the best in Norway at that point.
+
+01:58:07.760 --> 01:58:09.760
+Because I started relatively late.
+
+01:58:14.080 --> 01:58:16.880
+I knew that I studied a lot more than the others.
+
+01:58:16.880 --> 01:58:19.760
+I knew that I had a passion that they didn't have.
+
+01:58:19.760 --> 01:58:26.560
+They saw chess as something like, it was a hobby.
+
+01:58:26.560 --> 01:58:27.760
+It was like an activity.
+
+01:58:29.600 --> 01:58:33.920
+It was like going to football practice or any other sports.
+
+01:58:34.960 --> 01:58:39.360
+You practice once or twice a week, and then you play a tournament at the weekend.
+
+01:58:39.360 --> 01:58:41.040
+That's what you did.
+
+01:58:41.040 --> 01:58:42.080
+For me, it wasn't like that.
+
+01:58:42.640 --> 01:58:47.440
+I would go with my books and my board every day after school.
+
+01:58:49.200 --> 01:58:55.520
+And I would just constantly be trying to learn new things.
+
+01:58:55.520 --> 01:59:00.640
+I had like two hours of internet time on the computer each week.
+
+01:59:01.840 --> 01:59:03.920
+And I would always spend them on chess.
+
+01:59:04.320 --> 01:59:18.000
+I think before I was 13 or 14, I'd never opened a browser for any other reason than to play chess.
+
+01:59:19.680 --> 01:59:23.680
+Would you describe that as love or as obsession or something in between?
+
+01:59:24.400 --> 01:59:25.440
+It's everything?
+
+01:59:25.440 --> 01:59:26.240
+Yeah, everything.
+
+01:59:27.200 --> 01:59:36.320
+It wasn't hard for me to tell at that point that I had something that the other kids didn't.
+
+01:59:36.320 --> 01:59:41.760
+Because I was never the one to grasp something very, very quickly.
+
+01:59:41.760 --> 01:59:45.200
+But once I started, I always got hooked, and then I never stopped learning.
+
+01:59:47.200 --> 01:59:51.760
+You've talked about the middle game as a place where you can play pure chess.
+
+01:59:52.480 --> 01:59:54.640
+What do you think is beautiful to you about chess?
+
+01:59:56.240 --> 01:59:57.840
+Like the thing when you were 11?
+
+01:59:58.560 --> 02:00:04.160
+What is beautiful to me is when your opponent can predict every single one of your moves
+
+02:00:04.160 --> 02:00:05.040
+and they still lose.
+
+02:00:06.080 --> 02:00:07.040
+How does that happen?
+
+02:00:07.040 --> 02:00:13.440
+No, it means that at some point early, your planning, your evaluation has been better.
+
+02:00:14.160 --> 02:00:17.120
+So that you play just very simply, very clearly.
+
+02:00:17.120 --> 02:00:21.680
+It looks like you did nothing special and your opponent lost without a chance.
+
+02:00:23.120 --> 02:00:25.200
+How do you think about that, by the way?
+
+02:00:25.200 --> 02:00:28.400
+Are you basically narrowing down this gigantic tree of options
+
+02:00:29.040 --> 02:00:33.920
+to where your opponent has less and less and less options to win, to escape,
+
+02:00:33.920 --> 02:00:35.280
+and then they're trapped?
+
+02:00:35.280 --> 02:00:36.640
+Yeah, essentially.
+
+02:00:37.520 --> 02:00:47.120
+Is there some aspect to the patterns themselves, to the positions, to the elegance of the dynamics
+
+02:00:47.120 --> 02:00:52.480
+of the game that you just find beautiful that you forget about the opponent?
+
+02:00:53.440 --> 02:00:58.320
+In general, I try and create harmony on the board.
+
+02:00:58.320 --> 02:01:05.440
+What I would usually find harmonious is that the pieces work together,
+
+02:01:05.440 --> 02:01:12.880
+that they protect each other, and that there are no pieces that are suboptimally placed.
+
+02:01:14.640 --> 02:01:18.560
+If they are suboptimally placed, they can be improved pretty easily.
+
+02:01:19.200 --> 02:01:24.880
+I hate when I have one piece that I know is badly placed and I can't improve it.
+
+02:01:26.320 --> 02:01:29.280
+Yeah, when you're thinking about the harmony of the pieces,
+
+02:01:29.280 --> 02:01:31.680
+when you're looking at the position, you're evaluating it.
+
+02:01:33.040 --> 02:01:41.200
+Are you looking at the whole board or is it like a bunch of groupings of pieces overlapping
+
+02:01:42.400 --> 02:01:44.320
+and like dancing together kind of thing?
+
+02:01:44.320 --> 02:01:49.440
+I would say it's more of the latter that would be more precise.
+
+02:01:52.000 --> 02:01:57.840
+I look mostly closer to the middle, but then I would focus on one.
+
+02:01:57.840 --> 02:02:04.400
+There are usually one grouping of pieces on one side and then some more closer to the other side,
+
+02:02:04.400 --> 02:02:07.920
+so I would think of it a little bit that way.
+
+02:02:08.720 --> 02:02:10.880
+Everything is kind of gravitating to the middle.
+
+02:02:11.840 --> 02:02:13.120
+If it's going well, then yes.
+
+02:02:13.840 --> 02:02:15.120
+And in harmony.
+
+02:02:15.120 --> 02:02:16.480
+Yeah, in harmony.
+
+02:02:18.480 --> 02:02:22.960
+If you can control the middle, you can more easily attack on both sides.
+
+02:02:22.960 --> 02:02:25.760
+That applies to pretty much any game.
+
+02:02:26.560 --> 02:02:27.520
+It's as simple as that.
+
+02:02:29.120 --> 02:02:37.200
+Attacking on one side without control of the middle would feel very non-harmonious for me.
+
+02:02:37.840 --> 02:02:43.840
+I talked about the 10th game in the World Championship.
+
+02:02:43.840 --> 02:02:45.760
+That's the time I was the most nervous.
+
+02:02:48.080 --> 02:02:51.280
+Because it was the kind of attack that I hate where you just have to,
+
+02:02:51.920 --> 02:02:56.480
+you're abandoned one side and the attack has to work.
+
+02:02:57.440 --> 02:03:01.440
+There was one side and part of the middle as well, which I didn't control at all.
+
+02:03:02.240 --> 02:03:05.360
+That's like the opposite of harmony for me.
+
+02:03:06.320 --> 02:03:13.520
+What advice would you give to chess players of different levels on how to improve in chess?
+
+02:03:14.480 --> 02:03:17.920
+Very beginner, complete beginner, I mean, at every level.
+
+02:03:17.920 --> 02:03:19.760
+Is there something you can say?
+
+02:03:19.760 --> 02:03:27.040
+It's very hard for me to say because, I mean, the easiest way is like love chess, be obsessed.
+
+02:03:27.760 --> 02:03:29.120
+Well, that's a really important statement.
+
+02:03:29.120 --> 02:03:31.520
+But that doesn't work for everybody.
+
+02:03:32.480 --> 02:03:34.560
+Sometimes it can feel like a grind.
+
+02:03:34.560 --> 02:03:37.840
+So you're saying the less it can feel like a grind, the better.
+
+02:03:38.960 --> 02:03:39.440
+Yeah, for sure.
+
+02:03:39.440 --> 02:03:40.080
+At least for you.
+
+02:03:40.720 --> 02:03:41.200
+That's for sure.
+
+02:03:41.200 --> 02:03:47.200
+But I'm also very, very skeptical about giving advice because I think,
+
+02:03:48.720 --> 02:03:56.160
+again, my way only works if you have some combination of talent and obsession.
+
+02:03:56.160 --> 02:03:59.680
+So I'm not sure that I'd generally recommend it.
+
+02:03:59.680 --> 02:04:05.440
+What I've done doesn't go with what most coaches suggest for their kids.
+
+02:04:06.400 --> 02:04:10.400
+I've been lucky that I've had coaches from early on that have been very,
+
+02:04:10.400 --> 02:04:14.320
+very hands-off and just allowed me to do my thing, basically.
+
+02:04:15.920 --> 02:04:20.160
+Well, there's a lot to be said about cultivating the obsession.
+
+02:04:22.400 --> 02:04:26.400
+Really letting that flourish to where you spend a lot of hours,
+
+02:04:26.640 --> 02:04:30.480
+like with the chessboard in your head and it doesn't feel like a struggle.
+
+02:04:30.480 --> 02:04:36.080
+No. So just letting me do my thing, if you give me a bunch of work,
+
+02:04:36.080 --> 02:04:41.200
+it will probably feel like a sure and if you don't give me, I will spend all of that time
+
+02:04:41.200 --> 02:04:47.760
+on my own without thinking that it's work or without thought that I'm doing this to improve my chess.
+
+02:04:48.640 --> 02:04:54.400
+Well, in terms of learning stuff like books, there's one thing that's relatively novel
+
+02:04:54.960 --> 02:04:59.680
+from your perspective. People are starting now. There's YouTube. There's a lot of good YouTubers.
+
+02:04:59.680 --> 02:05:03.680
+You're a part-time YouTuber. You have stuff on YouTube, I guess.
+
+02:05:03.680 --> 02:05:10.880
+Yeah, but if you've seen my YouTube, it's mostly live. It's definitely not higher for content.
+
+02:05:10.880 --> 02:05:18.560
+Yeah. But do you like any particular YouTubers? I could just recommend stuff I've seen. So
+
+02:05:18.800 --> 02:05:27.280
+Agadmatter, Gotham Chess, Botez Live. I really like St. Louis Chess Club,
+
+02:05:28.480 --> 02:05:33.840
+Daniel Naradzki and John Bartholomew. Those are good channels, but is there something you can
+
+02:05:33.840 --> 02:05:43.120
+recommend? No, all of them are good. The best recommendation I could give is Agadmatter.
+
+02:05:43.120 --> 02:05:47.040
+How much did he pay you to say that?
+
+02:05:47.040 --> 02:05:54.720
+No, so the thing about that is that I can tell you I've never watched any of his
+
+02:05:54.720 --> 02:06:02.080
+videos from start to finish. I'm not the target audience, obviously. But I think the only chess
+
+02:06:03.040 --> 02:06:11.360
+YouTube video that my dad has ever watched from start to finish is Agadmatter. He said I watched
+
+02:06:11.360 --> 02:06:16.800
+one of his videos. I wanted to know what it was all about because I think Agadmatter is
+
+02:06:18.080 --> 02:06:23.280
+the same strength as my father or maybe just a little bit weaker, like 1900 or something. My
+
+02:06:23.280 --> 02:06:29.440
+father is probably about 2000. And my father has played chess his whole life. He absolutely loves
+
+02:06:29.440 --> 02:06:34.800
+the game. That's the only time he's actually sat through one of those videos. And he said,
+
+02:06:34.800 --> 02:06:40.720
+yeah, I get it. I enjoy it. So that's the best recommendation I could give. That's the only
+
+02:06:40.720 --> 02:06:46.880
+channel that my father actually enjoys. This is hilarious. I talked to him before this to
+
+02:06:46.880 --> 02:06:51.600
+ask him if he has any questions for you. And he said, no, just do your thing.
+
+02:06:51.600 --> 02:06:56.640
+No, he's so careful. He wouldn't do that. He did mention jokingly about
+
+02:06:58.000 --> 02:07:03.120
+Evans Gambit, I think. Is that a thing? Evans Gambit? It's some weird thing he made up. It
+
+02:07:03.120 --> 02:07:08.320
+might be an inside joke. I don't know. But he asked me to. Well, anyway. Yeah, I didn't even get...
+
+02:07:08.880 --> 02:07:15.200
+It's something he made up. I didn't even realize that he plays the Evans Gambit. He plays a lot of
+
+02:07:15.200 --> 02:07:20.240
+gambits that are... Wait, Evans Gambit is a thing? Yeah, yeah, that's a thing. That's an old opening
+
+02:07:20.240 --> 02:07:25.840
+from the 1800s. Captain Evans apparently invented it. Why would he mention that particular one?
+
+02:07:25.840 --> 02:07:30.960
+Is there something hilarious about that one? I don't know. I don't think I've ever faced the
+
+02:07:30.960 --> 02:07:36.000
+Evans Gambit in a game. I feel like both of you are trolling me right now.
+
+02:07:36.000 --> 02:07:43.600
+He's played a lot of other gambits. Maybe this is the one he wanted to mention. Maybe this is
+
+02:07:43.600 --> 02:07:50.240
+called the Evans Gambit as well. But I just know it as the 2G4 Gambit. Maybe this is the one.
+
+02:07:50.240 --> 02:08:00.960
+This one he has played a bunch. And he's been telling me a lot about his games in this line.
+
+02:08:01.680 --> 02:08:04.640
+He's been telling me a lot about his games in this line. He's like,
+
+02:08:04.640 --> 02:08:10.640
+oh, it's not so bad. And I'm like, yeah, but you're a pawn down. But I can sort of see it.
+
+02:08:10.640 --> 02:08:17.360
+I can sort of understand it. And he's proud of the fact that nobody told him to play this line or
+
+02:08:17.360 --> 02:08:24.400
+anything. He came up with it himself. I'll tell you another story about my father. So there's
+
+02:08:24.400 --> 02:08:35.520
+this line that I call the Henry Carlson line. So at some point, he never knew a lot of openings
+
+02:08:35.520 --> 02:08:45.680
+in chess, but I taught him a couple of openings as black. It's the Sveshnikov Sicilian that I've
+
+02:08:45.680 --> 02:08:53.360
+played a lot myself also during the World Championship in 2018. I won a bunch of games
+
+02:08:53.360 --> 02:08:58.400
+in 2019 as well. So that's one opening. And I also taught him as black to play the Rogozin defense.
+
+02:09:00.560 --> 02:09:08.640
+So the Rogozin defense goes like this. It's characterized by this bishop move.
+
+02:09:10.640 --> 02:09:17.040
+And so he would play those openings pretty exclusively as black in the tournaments that
+
+02:09:17.040 --> 02:09:23.840
+he did play. And also the Sveshnikov Sicilian is like, that's the only two of my sisters have
+
+02:09:23.840 --> 02:09:28.880
+played a bunch of chess tournaments as well. And that's the only opening they know as well.
+
+02:09:28.880 --> 02:09:36.240
+So my family's portrait is very narrow. So this is the system. Black goes here,
+
+02:09:36.240 --> 02:09:42.480
+and then we have white takes the pawn and black takes the pawn. So at some point, I was watching
+
+02:09:42.480 --> 02:09:52.960
+one of my father's online blitz games. And as white, he played this. So this is called
+
+02:09:52.960 --> 02:10:00.000
+the Karakhan defense. He took the pawn, was taken back, then he went with the knight.
+
+02:10:01.920 --> 02:10:08.080
+His opponent went here, and then he played a bishop here. So I'd never seen this opening before.
+
+02:10:08.080 --> 02:10:14.720
+And I was like, wow, how on earth did he come up with that? And he said, no, I just played the
+
+02:10:14.720 --> 02:10:19.440
+Rogozin with different colors, because if the knight was here, it would be the same position.
+
+02:10:19.440 --> 02:10:28.800
+I was like, how am I one of the best 20 players in the world? And I've never thought about that.
+
+02:10:28.800 --> 02:10:37.520
+So I actually started playing this line as white with pretty decent results. And it actually became
+
+02:10:38.240 --> 02:10:43.600
+kind of popular. And everybody who asked about the line is like, I would always tell them,
+
+02:10:43.600 --> 02:10:48.160
+yeah, that's the Henry Carlson. I wouldn't necessarily explain why it was called that.
+
+02:10:48.160 --> 02:10:55.920
+I would just always call it that. So I really hope at some point, this line will find its rightful
+
+02:10:55.920 --> 02:11:02.960
+name. Yeah, it finds its way into the history books. What did you learn about life from your
+
+02:11:02.960 --> 02:11:11.120
+dad? What role has your dad played in your life? He's taught me a lot of things. But most of all,
+
+02:11:13.040 --> 02:11:15.760
+as long as you win a chess, then everything else is fine.
+
+02:11:19.200 --> 02:11:26.000
+I think my, especially my father, but my parents in general, they always wanted me to
+
+02:11:26.640 --> 02:11:34.640
+get a good education and find a job and so on. Even though my father loves chess and he wanted
+
+02:11:34.640 --> 02:11:42.240
+me to play chess, I don't think he had any plans for me to be professional. I think things changed
+
+02:11:42.240 --> 02:11:50.800
+at some point, like I was less and less interested in school. And for a long time, we were kind of
+
+02:11:51.760 --> 02:11:56.640
+going back and forth fighting about that, especially my father, but also my mother a little
+
+02:11:56.640 --> 02:12:01.760
+bit. It was at times a little bit difficult. They wanted you to go to school. Yeah, they
+
+02:12:01.760 --> 02:12:08.160
+sort of wanted me to do more school, to have more options. And then I think at some point,
+
+02:12:11.040 --> 02:12:16.800
+they just gave up. But I think that sort of coincided when I was actually starting to make
+
+02:12:16.800 --> 02:12:24.480
+real money off tournaments. And after that, everything's been sort of easy. In terms of the
+
+02:12:24.480 --> 02:12:32.160
+family, they've never put any pressure on me or they've never put any demands on me.
+
+02:12:33.600 --> 02:12:43.120
+Minos has to focus on chess. That's it. I think they taught me in general to be curious about
+
+02:12:43.120 --> 02:12:52.560
+the world and to get a decent general education. Not necessarily from school, but just knowing
+
+02:12:54.240 --> 02:13:01.600
+about the world around you and knowing history and being interested in society. I think
+
+02:13:02.640 --> 02:13:08.000
+in that sense, they've done well. And he's been with you throughout your chess career.
+
+02:13:08.000 --> 02:13:14.320
+There's something to be said about just family support and love that you have.
+
+02:13:16.080 --> 02:13:23.440
+This world is a lonely place. It's good to have people around you that got your back.
+
+02:13:25.840 --> 02:13:31.840
+It's a cliche, but I think to some extent, all the people you surround yourself with,
+
+02:13:31.840 --> 02:13:39.520
+they can help you a lot. It's only family that only has their own interests at heart. And so for
+
+02:13:39.520 --> 02:13:47.680
+that reason, my father's the only one that's been constantly in the team and that he's always been
+
+02:13:47.680 --> 02:13:52.160
+around. And it's for that reason that I know he has my back no matter what.
+
+02:13:52.960 --> 02:13:58.800
+Now, there's a cliche question here. But let's try to actually get to some deeper
+
+02:13:58.960 --> 02:14:05.520
+truth, perhaps. But people who don't know much about chess seem to like to use chess as a metaphor
+
+02:14:05.520 --> 02:14:12.160
+for everything in life. But there is some aspect to the decision-making, to the kind of reasoning
+
+02:14:12.160 --> 02:14:19.280
+involved in chess that's transferable to other things. Can you speak to that in your own life
+
+02:14:19.280 --> 02:14:26.720
+and in general? The kind of reasoning involved with chess, how much of that does it take to
+
+02:14:26.720 --> 02:14:35.920
+transfer to life out there? It just helps you make decisions of all kinds.
+
+02:14:35.920 --> 02:14:41.920
+Yeah, that would be my main takeaway, that you learn to make informed guesses in a limited amount
+
+02:14:41.920 --> 02:14:49.360
+of time. I mean, does it frustrate you when you have geopolitical thinkers and leaders?
+
+02:14:49.360 --> 02:14:56.560
+Henry Kissinger will often talk about geopolitics as a game of chess or 3D chess. Is that a tool
+
+02:14:56.640 --> 02:15:02.640
+oversimplified of a projection? Or do you think that the kind of deliberations you have on the
+
+02:15:02.640 --> 02:15:07.600
+world stage is similar to the kind of decision-making you have on the chessboard?
+
+02:15:08.560 --> 02:15:12.720
+Well, I'm never trying to get re-elected when I play a game of chess.
+
+02:15:14.640 --> 02:15:16.720
+There's no special interest you have to get happy.
+
+02:15:16.720 --> 02:15:24.800
+Yeah, that kind of helps. No, I can understand that. Obviously, for every action, there's a
+
+02:15:24.800 --> 02:15:33.520
+reaction and you have to calculate. Far ahead, it probably would be a good thing if more big
+
+02:15:33.520 --> 02:15:40.080
+players on the international scene thought a little bit more like a chess player in that sense,
+
+02:15:40.080 --> 02:15:47.440
+like trying to make a good decision based on a limited amount of data rather than
+
+02:15:47.440 --> 02:15:52.240
+thinking about other factors. But it's so tough. But it does annoy me when
+
+02:15:53.040 --> 02:15:57.440
+when people make moves that they know are wrong for different reasons.
+
+02:15:57.440 --> 02:16:00.640
+And they should know if they did some calculation, they should know they're wrong.
+
+02:16:00.640 --> 02:16:07.520
+Yeah, exactly. That they should know that are wrong. And so much politics is like,
+
+02:16:10.000 --> 02:16:16.480
+you're often asked to do something when it would be much better to do nothing.
+
+02:16:16.480 --> 02:16:25.760
+No, but that happens in chess all the time. You have a choice. I often tell people that
+
+02:16:27.360 --> 02:16:31.120
+in certain situations, you should not try and win. You should just let your opponent lose.
+
+02:16:32.560 --> 02:16:42.080
+And that happens in politics all the time. Just let your opponents continue whatever they're
+
+02:16:42.080 --> 02:16:46.000
+doing and then you'll win. Don't try to do something just to do something. Often,
+
+02:16:47.200 --> 02:16:53.520
+they say in chess that having a bad plan is better than having no plan. It's absolute nonsense.
+
+02:16:54.960 --> 02:17:00.400
+I forget what General said it, but it was like, don't interrupt your enemy when they're making
+
+02:17:00.400 --> 02:17:10.640
+a mistake. Also, Petrosian, the former world champion said, when your opponent wants to
+
+02:17:10.640 --> 02:17:15.920
+play the Dutch defense, don't stop them. I mean, chess players will know that it's the same thing.
+
+02:17:19.680 --> 02:17:24.800
+Actually, this reminds me. Is there something you found really impressive about Queen's Gambit,
+
+02:17:24.800 --> 02:17:30.080
+the TV show? That's one of the things that really captivated the public imagination about chess.
+
+02:17:30.080 --> 02:17:34.960
+People who don't play chess became very curious about the game, about the beauty of the game,
+
+02:17:34.960 --> 02:17:39.840
+the drama of the game, all that kind of stuff. Is there, in terms of accuracy, in terms of the
+
+02:17:39.840 --> 02:17:47.120
+actual games played that you found impressive? First of all, they did the chess well. They did
+
+02:17:47.120 --> 02:17:53.040
+it accurately. Also, they found actual games and positions that I'd never seen before.
+
+02:17:53.760 --> 02:18:00.080
+It really captivated me. I would not follow the story at times. I was just trying to,
+
+02:18:00.720 --> 02:18:05.200
+wow, where the hell did I find that game? I was trying to solve the positions.
+
+02:18:05.920 --> 02:18:12.160
+So, Beth Harmon, the main character, were you impressed by the play she was doing?
+
+02:18:13.680 --> 02:18:16.880
+Was there a particular style that they developed consistently?
+
+02:18:18.000 --> 02:18:24.880
+At the end, she was just totally universal. At the start, she was probably a bit too aggressive,
+
+02:18:24.880 --> 02:18:30.960
+but no, she was absolutely universal. Wait, what adjective are you using?
+
+02:18:30.960 --> 02:18:34.560
+Universal in the sense that she could play in any style.
+
+02:18:35.760 --> 02:18:41.280
+Oh, interesting. And was dominant in that way. Wow, so there's a development in the style too
+
+02:18:41.280 --> 02:18:44.480
+throughout the show. Yeah, for sure. It's really interesting they did that.
+
+02:18:44.480 --> 02:18:50.720
+Yeah. And it actually happened with me a bit as well. I started out really aggressive.
+
+02:18:51.680 --> 02:18:58.240
+Then I became probably too technical at some point, taking a little bit too few risks and
+
+02:18:58.240 --> 02:19:02.640
+not playing dynamic enough. And then I started to get a little bit better at
+
+02:19:02.640 --> 02:19:09.520
+dynamic so that now I would say definitely the most universal player in terms of style.
+
+02:19:10.880 --> 02:19:13.600
+Are there any skills in chess that are transferable to poker?
+
+02:19:14.160 --> 02:19:19.520
+So as you're playing around poker a little bit now, how fundamentally different of a game is it?
+
+02:19:19.600 --> 02:19:30.640
+What I find the most transferable probably is not letting past decisions dictate future thinking.
+
+02:19:30.640 --> 02:19:35.520
+Yeah. But in terms of the patterns in the betting strategies and all that kind of stuff,
+
+02:19:36.080 --> 02:19:39.360
+what about bluffing? I bluff way too much.
+
+02:19:40.800 --> 02:19:45.680
+It does seem you enjoy bluffing and Daniel Negrano was saying you're quite good at it.
+
+02:19:46.640 --> 02:19:49.440
+But yeah, it has very little material to go by.
+
+02:19:49.440 --> 02:19:50.640
+Sample size is small.
+
+02:19:50.640 --> 02:19:56.640
+Yeah. No, I mean, I enjoy bluffing for the more of the gambling aspects, the thrill of.
+
+02:19:57.360 --> 02:20:00.800
+So not the technical aspect of the bluffing like you would on the chessboard.
+
+02:20:01.840 --> 02:20:09.600
+Not bluffing in the same sense, but there is some element. But I do enjoy it on the chessboard. If
+
+02:20:09.600 --> 02:20:15.120
+I know that I successfully scared away my opponent from making the best move, that's of course
+
+02:20:15.120 --> 02:20:21.520
+satisfying. In that same way, it might be satisfying in poker, right? That you represent
+
+02:20:21.520 --> 02:20:26.320
+something, you scare away your opponent in the same kind of way. And also like you tell a story,
+
+02:20:27.280 --> 02:20:32.880
+you try and tell a story and then they believe it. Yeah. Tell a story with your betting, with your
+
+02:20:34.880 --> 02:20:41.040
+all the different other cues. Do you like the money aspect, the betting strategies? So it's
+
+02:20:41.040 --> 02:20:48.400
+almost like another layer on top of it, right? Like it's the uncertainty in the cards,
+
+02:20:49.680 --> 02:20:52.240
+but the betting, there's so much freedom to the betting.
+
+02:20:53.440 --> 02:21:00.320
+I'm not very good at that, so I cannot say that I understand it completely. You know, when it comes
+
+02:21:00.320 --> 02:21:07.280
+to different sizing and all that, I just haven't studied it enough. How much of luck is part of
+
+02:21:07.280 --> 02:21:13.600
+poker, would you say, from what you've seen versus skill? I mean, it's so different in the
+
+02:21:13.600 --> 02:21:18.400
+sense that you can be one of the best players in the world and lose two, three years in a row
+
+02:21:18.400 --> 02:21:26.800
+without that being like a massive outlier. Okay. The thing that more than one person told me
+
+02:21:27.440 --> 02:21:33.520
+that you're very good at is trash talking. I don't think I am. A lot of people who
+
+02:21:34.080 --> 02:21:40.480
+make those observations about me, I think they just expect very, very little. So they expect
+
+02:21:41.840 --> 02:21:48.240
+from the best chess player in the world, that just anything that's non-robotic is interesting.
+
+02:21:49.520 --> 02:21:53.760
+Also, when it comes to trash talking, like I have the biggest advantage in the world that I'm the
+
+02:21:53.760 --> 02:21:58.480
+best at what I'm doing. So trash talking becomes very, very easy because I can back it up.
+
+02:21:58.640 --> 02:22:06.000
+A lot of people that are extremely good at stuff don't trash talk and they're not good at it.
+
+02:22:06.000 --> 02:22:09.760
+I don't think I'm very good at it. It's just that I can back it up,
+
+02:22:09.760 --> 02:22:13.680
+which makes it seem that I'm better. You're even doing it now.
+
+02:22:14.640 --> 02:22:18.880
+Also, being non-robotic or not completely robotic helps.
+
+02:22:20.480 --> 02:22:25.680
+You're not trash talking. You're just stating facts. That's right. Have you ever considered that
+
+02:22:25.680 --> 02:22:30.640
+that there will be trash talking over the chessboard in some of the big tournaments,
+
+02:22:31.360 --> 02:22:37.600
+like adding that kind of component or even talking? Would that completely distract from
+
+02:22:37.600 --> 02:22:45.200
+the game of chess? No, I think it could be funny. When people play offhand games, when they
+
+02:22:45.200 --> 02:22:48.960
+play blitz games, people trash talk all the time. It's a normal part of the game.
+
+02:22:48.960 --> 02:22:56.320
+So you emphasize fun a lot. Do you think we're living inside of a simulation that is trying to
+
+02:22:56.320 --> 02:23:05.280
+maximize fun? But that's only happened for the last 100 years or so. Fun has always been increasing,
+
+02:23:05.280 --> 02:23:09.760
+I think. Yeah. Okay. It's always been increasing, but I feel like it's been increasing exponentially.
+
+02:23:09.760 --> 02:23:25.440
+Or at least the importance of fun. But I guess it depends on the society as well. In the West,
+
+02:23:25.440 --> 02:23:35.120
+we've had such a Christian influence. Christianity hasn't exactly embraced the concept of fun over
+
+02:23:36.080 --> 02:23:41.120
+time. Well, actually, to push back, I think forbidding certain things kind of makes them
+
+02:23:41.120 --> 02:23:47.120
+more fun. So sometimes I think you need to say, you're not allowed to do this. And then a lot of
+
+02:23:47.120 --> 02:23:54.080
+people start doing it and then they have fun doing that because it's doing a thing in the face of the
+
+02:23:54.080 --> 02:23:58.400
+resistance of the thing. So whenever there's resistance, that does somehow make it more fun.
+
+02:23:59.040 --> 02:24:08.560
+Oppressive regimes have always been kind of good for comedy. Supposedly in the Soviet Union,
+
+02:24:08.560 --> 02:24:14.080
+I don't know about fun, but supposedly comedy, at least underground, it thrived.
+
+02:24:14.080 --> 02:24:20.240
+Yeah. Well, no, it permeates the entire culture. There's a dark humor that sort of the cruelty,
+
+02:24:20.240 --> 02:24:26.560
+the absurdity of life really brings out the humor amongst the populace, plus vodka on top of that.
+
+02:24:26.560 --> 02:24:34.160
+But this idea that, for example, Elon Musk has that the most entertaining outcome is the most
+
+02:24:34.160 --> 02:24:40.720
+likely. That it seems like the most absurd, silly, funny thing seems to be the thing.
+
+02:24:41.200 --> 02:24:47.520
+So it happens more often than it should. And it somehow becomes viral in our modern
+
+02:24:47.520 --> 02:24:55.520
+connected world. And so the fun stuff, the memes spread, and then we start to optimize for the fun
+
+02:24:55.520 --> 02:25:03.280
+meme that seems to be a fundamental property of the reality we live in. And so emerges the
+
+02:25:03.280 --> 02:25:11.200
+fun maximizer in all walks of life, like in chess, in poker and everything.
+
+02:25:13.200 --> 02:25:14.560
+I think you're skeptical.
+
+02:25:14.560 --> 02:25:23.680
+No, I'm not skeptical. I'm just taking it all in. But I find it interesting and not at all impossible.
+
+02:25:23.680 --> 02:25:25.840
+Do you ever get lonely?
+
+02:25:26.480 --> 02:25:32.320
+Oh, yeah, for sure. Like a chess player's life is, by definition, pretty lonely.
+
+02:25:34.080 --> 02:25:39.520
+Because you have nobody else to blame but yourself when you lose, or you don't achieve the results
+
+02:25:39.520 --> 02:25:40.320
+that you want to achieve.
+
+02:25:41.200 --> 02:25:46.240
+It's difficult for you to find comfort elsewhere. It's in your own mind.
+
+02:25:46.240 --> 02:25:46.720
+Yeah.
+
+02:25:46.720 --> 02:25:48.480
+It's you versus yourself, really.
+
+02:25:48.560 --> 02:25:58.880
+Yeah, really. But it's part of the profession. But I think any sport or activity where it's
+
+02:26:00.080 --> 02:26:04.560
+just you and your own mind is just, by definition, lonely.
+
+02:26:04.560 --> 02:26:06.160
+Are you worried that it destroys you?
+
+02:26:06.800 --> 02:26:13.200
+Oh, not at all. As long as I'm aware of it, then it's fine. And I don't think
+
+02:26:13.360 --> 02:26:21.440
+that the inherent loneliness of my profession really affects the rest of my life in a major way.
+
+02:26:23.440 --> 02:26:30.400
+What role does love play in the human condition in your lonely life of calculation?
+
+02:26:33.920 --> 02:26:41.440
+You know, I'm like everybody else, trying to find love.
+
+02:26:41.440 --> 02:26:46.560
+No, not necessarily like trying to find love. Sometimes I am, sometimes I'm not.
+
+02:26:46.560 --> 02:26:55.520
+I'm just trying to find my way. And my love for the game, obviously, it comes and goes
+
+02:26:55.520 --> 02:27:01.840
+a little bit. But there's always at least some level of love. So that doesn't go away.
+
+02:27:01.840 --> 02:27:10.320
+But I think in other parts of life, I think it's just about doing things that make you happy.
+
+02:27:11.040 --> 02:27:17.840
+That give you joy. That also makes you more receptive to love in general. So that has been
+
+02:27:17.840 --> 02:27:25.600
+my approach to love now for quite a while. That I'm just trying to live my best life. And then
+
+02:27:26.720 --> 02:27:35.760
+the love will come when it comes. And in terms of romantic love, it has come and gone in my life.
+
+02:27:35.760 --> 02:27:45.440
+It's not there now. But I'm not worried about that. I'm more worried about not worried,
+
+02:27:45.440 --> 02:27:52.400
+but more like trying to just be a good version of myself. I cannot always be the best version
+
+02:27:52.400 --> 02:27:58.080
+of myself, but at least try to be good. Yeah. And keep your heart open. What is this Daniel
+
+02:27:58.160 --> 02:28:04.720
+Johnston song? True love will find you in the end. It may or may not. But it will only find you
+
+02:28:05.360 --> 02:28:14.320
+if you're looking. So you have to be open to it. Yeah. It may or may not. Yeah. And no matter what,
+
+02:28:14.320 --> 02:28:20.080
+you're going to lose it in the end because it all ends. The whole thing ends. Yeah. So I don't think
+
+02:28:21.040 --> 02:28:27.920
+stressing over that like, obviously, it's so human that you can't help it to some degree.
+
+02:28:28.480 --> 02:28:34.960
+But I feel like stressing over love, that's the blueprint for whether you're looking or
+
+02:28:35.680 --> 02:28:42.720
+you're not looking or you're in a relationship or marriage or anything like stressing over it is
+
+02:28:42.720 --> 02:28:48.240
+like the blueprint for being unhappy. Just to clarify confusion, I have
+
+02:28:49.120 --> 02:28:58.560
+just a quick question. How does the night move? So the night moves in an L. And unlike in Shogi,
+
+02:28:58.560 --> 02:29:07.920
+it can move both forwards and backwards. It is quite a nimble piece. It can jump over everything,
+
+02:29:07.920 --> 02:29:13.680
+but it's less happy and open position where it has to move from side to side quickly.
+
+02:29:14.720 --> 02:29:23.280
+I am generally more of a bishop's guy myself for the old debate. I just prefer quality over the
+
+02:29:23.280 --> 02:29:30.720
+intangibles. But I can appreciate a good night once in a while. Last simple question. What's
+
+02:29:30.720 --> 02:29:36.720
+the meaning of life, Magnus Carlsen? There is obviously no meaning to life. Is that obvious?
+
+02:29:37.360 --> 02:29:42.560
+I think we're here by accident. There's no meaning. It ends at some point. But it's still
+
+02:29:42.560 --> 02:29:48.080
+a great thing. You can still have fun even if there's no meaning. Yeah, you can still have fun.
+
+02:29:48.080 --> 02:29:55.200
+You can try and pursue your goals, whatever they may be. But I'm pretty sure there's no special
+
+02:29:55.200 --> 02:30:03.360
+meaning and trying to find it also doesn't make a whole lot of sense to me. For me, life is both
+
+02:30:03.360 --> 02:30:10.320
+meaningless and meaningful for just being here, trying to make not necessarily the most of it,
+
+02:30:10.320 --> 02:30:14.960
+but the things that make you happy both short term and also long term.
+
+02:30:15.600 --> 02:30:19.200
+Yeah, it seems to be full of cool stuff to enjoy. It certainly does.
+
+02:30:20.320 --> 02:30:25.600
+And one of those is having a conversation with you, Magnus. It's a huge honor to talk to you.
+
+02:30:25.600 --> 02:30:29.840
+Thank you so much for spending this time with me. I can't wait to see what you do in this world.
+
+02:30:29.920 --> 02:30:34.080
+Thank you for creating so much elegance and beauty on the chessboard and beyond.
+
+02:30:34.080 --> 02:30:36.000
+So thanks for talking today, brother.
+
+02:30:36.000 --> 02:30:42.480
+Thank you so much. Thanks for having me. I wanted to say this at the start,
+
+02:30:42.480 --> 02:30:46.640
+but I never really got the chance. I was always a bit apprehensive about
+
+02:30:47.760 --> 02:30:53.600
+doing this podcast because you are a very smart guy and your audience is very smart.
+
+02:30:54.240 --> 02:31:03.360
+And I always had a bit of imposter syndrome. So I'll tell you this now after the podcast.
+
+02:31:03.360 --> 02:31:07.520
+So please do judge me, but I hope you've enjoyed it.
+
+02:31:07.520 --> 02:31:12.560
+I loved it. You're a brilliant man. And I love the fact they have imposter syndrome
+
+02:31:12.560 --> 02:31:17.360
+because a lot of us do. And so that's beautiful to see even at the very top,
+
+02:31:17.360 --> 02:31:21.680
+you still feel like an imposter. Thank you, brother. Thanks for talking today.
+
+02:31:22.640 --> 02:31:26.720
+Thanks for listening to this conversation with Magnus Carlsen. To support this podcast,
+
+02:31:26.720 --> 02:31:31.680
+please check out our sponsors in the description. And now let me leave you with some words from
+
+02:31:31.680 --> 02:31:39.120
+Bobby Fisher. Chess is a war over the board. The object is to crush the opponent's mind.
+
+02:31:40.480 --> 02:31:43.200
+Thank you for listening and hope to see you next time.
+
+02:31:51.680 --> 02:31:51.840
+Bye.
+

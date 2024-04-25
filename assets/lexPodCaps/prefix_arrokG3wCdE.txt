@@ -1,0 +1,8120 @@
+WEBVTT
+
+00:00.000 --> 00:02.920
+The jury found Pfizer guilty of fraud
+
+00:02.920 --> 00:04.560
+and racketeering violations.
+
+00:04.560 --> 00:06.520
+How does Big Pharma affect your mind?
+
+00:06.520 --> 00:08.800
+Everyone's allowed their own opinion.
+
+00:08.800 --> 00:10.360
+I don't think everyone's allowed
+
+00:10.360 --> 00:11.920
+their own scientific facts.
+
+00:11.920 --> 00:13.800
+Does Pfizer play by the rules?
+
+00:13.800 --> 00:16.440
+Pfizer isn't battling the FDA.
+
+00:16.440 --> 00:18.780
+Pfizer has joined the FDA.
+
+00:21.440 --> 00:24.320
+The following is a conversation with John Abramson,
+
+00:24.320 --> 00:26.520
+faculty at Harvard Medical School,
+
+00:26.520 --> 00:29.160
+a family physician for over two decades,
+
+00:29.200 --> 00:32.160
+and author of the new book, Sickening,
+
+00:32.160 --> 00:35.040
+about how Big Pharma broke American healthcare
+
+00:35.040 --> 00:37.400
+and how we can fix it.
+
+00:37.400 --> 00:40.240
+This conversation with John Abramson
+
+00:40.240 --> 00:43.720
+is a critical exploration of the pharmaceutical industry.
+
+00:43.720 --> 00:45.440
+I wanted to talk to John
+
+00:45.440 --> 00:48.200
+in order to provide a countervailing perspective
+
+00:48.200 --> 00:50.740
+to the one expressed in my podcast episode
+
+00:50.740 --> 00:55.120
+with the CEO of Pfizer, Albert Burla.
+
+00:55.120 --> 00:58.960
+And here, please allow me to say a few additional words
+
+00:58.960 --> 01:01.880
+about this episode with the Pfizer CEO,
+
+01:01.880 --> 01:04.840
+and in general, about why I do these conversations
+
+01:04.840 --> 01:06.820
+and how I approach them.
+
+01:06.820 --> 01:10.520
+If this is not interesting to you, please skip ahead.
+
+01:10.520 --> 01:13.080
+What do I hope to do with this podcast?
+
+01:13.080 --> 01:15.600
+I want to understand human nature,
+
+01:15.600 --> 01:18.040
+the best and the worst of it.
+
+01:18.040 --> 01:19.840
+I want to understand how power, money,
+
+01:19.840 --> 01:21.860
+and fame changes people.
+
+01:21.860 --> 01:24.620
+I want to understand why atrocities are committed
+
+01:24.620 --> 01:27.240
+by crowds that believe they're doing good.
+
+01:27.280 --> 01:29.320
+All this, ultimately,
+
+01:29.320 --> 01:30.760
+because I want to understand
+
+01:30.760 --> 01:33.280
+how we can build a better world together,
+
+01:33.280 --> 01:35.440
+to find hope for the future,
+
+01:35.440 --> 01:40.440
+and to rediscover each time through the exploration of ideas
+
+01:40.920 --> 01:43.380
+just how beautiful this life is.
+
+01:43.380 --> 01:47.680
+This, our human civilization, in all of its full complexity,
+
+01:47.680 --> 01:49.320
+the forces of good and evil,
+
+01:49.320 --> 01:52.340
+of war and peace, of hate and love.
+
+01:53.440 --> 01:55.600
+I don't think I can do this with a heart and mind
+
+01:55.640 --> 01:57.360
+that is not open, fragile,
+
+01:57.360 --> 02:01.000
+and willing to empathize with all human beings,
+
+02:01.000 --> 02:03.500
+even those in the darkest corners of our world.
+
+02:04.480 --> 02:06.840
+To attack is easy.
+
+02:06.840 --> 02:09.600
+To understand is hard.
+
+02:09.600 --> 02:11.880
+And I choose the hard path.
+
+02:11.880 --> 02:13.920
+I have learned over the past few months
+
+02:13.920 --> 02:17.400
+that this path involves me getting more and more attack
+
+02:17.400 --> 02:19.080
+from all sides.
+
+02:19.080 --> 02:21.680
+I will get attacked when I host people
+
+02:21.680 --> 02:24.560
+like Jay Bhattacharya or Francis Collins.
+
+02:24.600 --> 02:28.200
+Jamie Merzel or Vincent Racinello.
+
+02:28.200 --> 02:31.920
+When I stand for my friend Joe Rogan.
+
+02:31.920 --> 02:34.800
+When I host tech leaders like Mark Zuckerberg,
+
+02:34.800 --> 02:36.480
+Elon Musk, and others.
+
+02:36.480 --> 02:39.640
+When I eventually talk to Vladimir Putin,
+
+02:39.640 --> 02:42.040
+Barack Obama, and other figures
+
+02:42.040 --> 02:43.940
+that have turned the tides of history.
+
+02:45.000 --> 02:50.000
+I have, and I will, get called stupid, naive, weak,
+
+02:50.900 --> 02:52.600
+and I will take these words
+
+02:52.600 --> 02:55.440
+with respect, humility, and love,
+
+02:55.440 --> 02:57.280
+and I will get better.
+
+02:57.280 --> 03:00.760
+I will listen, think, learn, and improve.
+
+03:00.760 --> 03:02.800
+One thing I can promise
+
+03:02.800 --> 03:05.400
+is there's no amount of money or fame
+
+03:05.400 --> 03:09.340
+that can buy my opinion or make me go against my principles.
+
+03:09.340 --> 03:13.560
+There's no amount of pressure that can break my integrity.
+
+03:13.560 --> 03:16.200
+There's nothing in this world I need
+
+03:16.200 --> 03:18.600
+that I don't already have.
+
+03:18.600 --> 03:21.500
+Life itself is the fundamental gift.
+
+03:21.500 --> 03:23.480
+Everything else is just a bonus.
+
+03:24.540 --> 03:26.660
+That is freedom.
+
+03:26.660 --> 03:28.700
+That is happiness.
+
+03:28.700 --> 03:31.720
+If I die today, I will die a happy man.
+
+03:33.060 --> 03:35.980
+Now, a few comments about my approach
+
+03:35.980 --> 03:39.580
+and lessons learned from the Albert Berla conversation.
+
+03:39.580 --> 03:41.860
+The goal was to reveal as much as I could
+
+03:41.860 --> 03:43.920
+about the human being before me,
+
+03:43.920 --> 03:45.940
+and to give him the opportunity
+
+03:45.940 --> 03:49.900
+to contemplate in long form the complexities of his role,
+
+03:49.900 --> 03:53.180
+including the tension between making money
+
+03:53.180 --> 03:54.620
+and helping people,
+
+03:54.620 --> 03:58.180
+the corruption that so often permeates human institutions,
+
+03:58.180 --> 04:00.820
+the crafting of narratives through advertisements,
+
+04:00.820 --> 04:02.380
+and so on.
+
+04:02.380 --> 04:04.060
+I only had one hour,
+
+04:04.060 --> 04:07.460
+and so this wasn't the time to address these issues deeply,
+
+04:07.460 --> 04:10.220
+but to show if Albert struggled with them
+
+04:10.220 --> 04:12.220
+in the privacy of his own mind,
+
+04:12.220 --> 04:16.260
+and if he would, let down the veil of political speak
+
+04:16.260 --> 04:19.420
+for a time to let me connect with a man
+
+04:19.420 --> 04:22.540
+who decades ago chose to become a veterinarian,
+
+04:22.540 --> 04:24.340
+who wanted to help lessen the amount
+
+04:24.340 --> 04:26.300
+of suffering in the world.
+
+04:26.300 --> 04:28.380
+I had no pressure placed on me.
+
+04:28.380 --> 04:29.780
+There were no rules.
+
+04:29.780 --> 04:32.140
+The questions I was asking were all mine
+
+04:32.140 --> 04:34.140
+and not seen by Pfizer folks.
+
+04:34.140 --> 04:38.700
+I had no care whether I ever talked to another CEO again.
+
+04:38.700 --> 04:41.820
+None of this was part of the calculation
+
+04:41.820 --> 04:44.140
+in my limited brain computer.
+
+04:44.140 --> 04:45.940
+I didn't want to grill him.
+
+04:45.940 --> 04:48.920
+The way politicians grill CEOs in Congress,
+
+04:48.960 --> 04:51.440
+I thought that this approach is easy,
+
+04:51.440 --> 04:56.280
+self-serving, dehumanizing, and it reveals nothing.
+
+04:56.280 --> 04:59.040
+I wanted to reveal the genuine intellectual struggle,
+
+04:59.040 --> 05:01.440
+vision, and motivation of a human being,
+
+05:01.440 --> 05:02.720
+and if that fails,
+
+05:02.720 --> 05:05.840
+I trusted the listener to draw their own conclusion
+
+05:05.840 --> 05:08.120
+and insights from the result,
+
+05:08.120 --> 05:10.120
+whether it's the words spoken
+
+05:10.120 --> 05:14.520
+or the words left unspoken or simply the silence.
+
+05:14.520 --> 05:15.840
+And that's just it.
+
+05:15.840 --> 05:20.840
+I fundamentally trust the intelligence of the listener, you.
+
+05:21.920 --> 05:24.880
+In fact, if I criticize the person too hard
+
+05:24.880 --> 05:26.840
+or celebrate the person too much,
+
+05:26.840 --> 05:29.760
+I feel I fail to give the listener a picture
+
+05:29.760 --> 05:32.800
+of the human being that is uncontaminated
+
+05:32.800 --> 05:35.440
+by my opinion or the opinion of the crowd.
+
+05:36.520 --> 05:38.600
+I trust that you have the fortitude
+
+05:38.600 --> 05:41.080
+and the courage to use your own mind,
+
+05:41.080 --> 05:43.280
+to empathize and to think.
+
+05:44.280 --> 05:46.320
+Two practical lessons I took away.
+
+05:46.320 --> 05:49.760
+First, I will more strongly push for longer conversations
+
+05:49.760 --> 05:53.400
+of three, four, or more hours versus just one hour.
+
+05:53.400 --> 05:55.960
+60 minutes is too short for the guest to relax
+
+05:55.960 --> 05:58.240
+and to think slowly and deeply,
+
+05:58.240 --> 06:00.840
+and for me to ask many follow-up questions
+
+06:00.840 --> 06:02.920
+or follow interesting tangents.
+
+06:02.920 --> 06:05.840
+Ultimately, I think it's in the interest of everyone,
+
+06:05.840 --> 06:07.080
+including the guest,
+
+06:07.080 --> 06:11.560
+that we talk in true long form for many hours.
+
+06:11.600 --> 06:13.840
+Second, these conversations with leaders
+
+06:13.840 --> 06:16.920
+can be aided by further conversations with people
+
+06:16.920 --> 06:20.440
+who wrote books about those leaders or their industries,
+
+06:20.440 --> 06:22.440
+those that can steal man each perspective
+
+06:22.440 --> 06:25.160
+and attempt to give an objective analysis.
+
+06:25.160 --> 06:26.840
+I think of Teddy Roosevelt's speech
+
+06:26.840 --> 06:28.560
+about the man in the arena.
+
+06:28.560 --> 06:32.400
+I want to talk to both the men and women in the arena
+
+06:32.400 --> 06:36.120
+and the critics and the supporters in the stands.
+
+06:36.120 --> 06:38.920
+For the former, I lean toward wanting to understand
+
+06:38.920 --> 06:43.400
+one human beings struggle with the ideas.
+
+06:43.400 --> 06:46.000
+For the latter, I lean towards understanding
+
+06:46.000 --> 06:48.440
+the ideas themselves.
+
+06:48.440 --> 06:50.360
+That's why I wanted to have this conversation
+
+06:50.360 --> 06:51.800
+with John Abramson,
+
+06:51.800 --> 06:55.640
+who is an outspoken critic of the pharmaceutical industry.
+
+06:55.640 --> 06:58.880
+I hope it helps add context and depth
+
+06:58.880 --> 07:02.360
+to the conversation I had with the Pfizer CEO.
+
+07:02.360 --> 07:06.720
+In the end, I may do worse than I could have or should have.
+
+07:06.720 --> 07:10.080
+Always, I will listen to the criticisms without ego
+
+07:10.080 --> 07:13.640
+and I promise I will work hard to improve.
+
+07:14.640 --> 07:18.960
+But let me say finally, that cynicism is easy.
+
+07:20.040 --> 07:23.640
+Optimism, true optimism is hard.
+
+07:24.520 --> 07:28.400
+It is the belief that we can and we will build
+
+07:28.400 --> 07:32.720
+a better world and that we can only do it together.
+
+07:32.720 --> 07:35.040
+This is the fight worth fighting.
+
+07:35.040 --> 07:36.520
+So here we go.
+
+07:36.560 --> 07:39.200
+Once more into the breach, dear friends.
+
+07:39.200 --> 07:40.120
+I love you all.
+
+07:41.680 --> 07:43.920
+This is the Lex Fridman podcast.
+
+07:43.920 --> 07:46.040
+To support it, please check out our sponsors
+
+07:46.040 --> 07:47.320
+in the description.
+
+07:47.320 --> 07:51.320
+And now, here's my conversation with John Abramson.
+
+07:52.360 --> 07:55.240
+Your faculty at Harvard Medical School,
+
+07:55.240 --> 07:57.840
+your family physician for over two decades,
+
+07:57.840 --> 08:01.160
+rated one of the best family physicians in Massachusetts.
+
+08:01.160 --> 08:03.440
+You wrote the book, Overdosed America,
+
+08:03.440 --> 08:07.400
+and the new book coming out now called Sickening,
+
+08:07.400 --> 08:10.120
+about how Big Pharma broke American healthcare,
+
+08:10.120 --> 08:14.760
+including science and research and how we can fix it.
+
+08:14.760 --> 08:18.760
+First question, what is the biggest problem with Big Pharma
+
+08:18.760 --> 08:21.840
+that it fixed would be the most impactful?
+
+08:21.840 --> 08:24.960
+So if you can snap your fingers and fix one thing,
+
+08:24.960 --> 08:26.800
+what would be the most impactful, you think?
+
+08:26.800 --> 08:30.080
+The biggest problem is the way they
+
+08:31.080 --> 08:36.080
+determine the content, the accuracy, and the completeness
+
+08:36.800 --> 08:41.800
+of what doctors believe to be the full range of knowledge
+
+08:41.800 --> 08:45.280
+that they need to best take care of their patients.
+
+08:45.280 --> 08:50.280
+So that with the knowledge having been taken over
+
+08:50.760 --> 08:52.080
+by the commercial interests,
+
+08:52.080 --> 08:55.240
+primarily the pharmaceutical industry,
+
+08:55.240 --> 08:58.760
+the purpose of that knowledge is to maximize the profits
+
+08:59.520 --> 09:03.320
+that get returned to investors and shareholders,
+
+09:03.320 --> 09:07.240
+and not to optimize the health of the American people.
+
+09:07.240 --> 09:11.440
+So rebalancing that equation would be the most important
+
+09:11.440 --> 09:14.720
+thing to do to get our healthcare back
+
+09:14.720 --> 09:16.440
+aimed in the right direction.
+
+09:16.440 --> 09:20.680
+Okay, so there's a tension between helping people
+
+09:20.680 --> 09:22.280
+and making money.
+
+09:22.280 --> 09:26.400
+So if we look at particularly the task of helping people
+
+09:26.400 --> 09:30.600
+in medicine, in healthcare, is it possible
+
+09:30.600 --> 09:35.440
+if money is the primary sort of mechanism
+
+09:35.440 --> 09:38.320
+by which you achieve that as a motivator,
+
+09:38.320 --> 09:39.840
+is it possible to get that right?
+
+09:39.840 --> 09:43.160
+I think it is, Lex, but I think it is not possible
+
+09:43.160 --> 09:46.760
+without guardrails that maintain the integrity
+
+09:46.760 --> 09:48.760
+and the balance of the knowledge.
+
+09:48.760 --> 09:52.040
+Without those guardrails, it's like trying to play
+
+09:52.040 --> 09:54.920
+a professional basketball game without referees
+
+09:54.920 --> 09:57.600
+and having players call their own fouls.
+
+09:57.600 --> 09:59.920
+But the players are paid to win,
+
+09:59.920 --> 10:02.400
+and you can't count on them to call their own fouls.
+
+10:02.400 --> 10:05.080
+So we have referees who are in charge.
+
+10:05.080 --> 10:08.160
+We don't have those referees in American healthcare.
+
+10:08.160 --> 10:13.160
+That's the biggest way that American healthcare
+
+10:13.800 --> 10:17.520
+is distinguished from healthcare in other wealthy nations.
+
+10:17.520 --> 10:20.560
+So, okay, so you mentioned Milton Fridman,
+
+10:20.560 --> 10:24.240
+and you mentioned his book called Capitalism and Freedom.
+
+10:24.280 --> 10:27.240
+He writes that there are only three legitimate functions
+
+10:27.240 --> 10:30.120
+of government to preserve law and order,
+
+10:30.120 --> 10:31.840
+to enforce private contracts,
+
+10:31.840 --> 10:35.800
+and to ensure that private markets work.
+
+10:36.840 --> 10:40.160
+You said that that was a radical idea at the time,
+
+10:40.160 --> 10:41.840
+but we're failing on all three.
+
+10:41.840 --> 10:43.720
+How are we failing?
+
+10:43.720 --> 10:46.720
+And also maybe the bigger picture is,
+
+10:46.720 --> 10:49.680
+what are the strengths and weaknesses of capitalism
+
+10:49.680 --> 10:51.880
+when it comes to medicine and healthcare?
+
+10:51.880 --> 10:53.160
+Can we separate those out
+
+10:53.160 --> 10:55.200
+because those are two huge questions.
+
+10:55.200 --> 10:58.120
+So how we're failing in all three,
+
+10:58.120 --> 11:01.280
+and these are the minimal functions
+
+11:01.280 --> 11:05.360
+that our guru of free market capitalism
+
+11:05.360 --> 11:07.640
+said the government should perform.
+
+11:07.640 --> 11:10.120
+So this is the absolute baseline.
+
+11:11.280 --> 11:13.760
+On preserving law and order,
+
+11:13.760 --> 11:17.520
+the drug companies routinely violate the law
+
+11:17.520 --> 11:20.200
+in terms of their marketing,
+
+11:20.200 --> 11:25.200
+and in terms of their presentation
+
+11:26.400 --> 11:29.240
+of the results of their trials.
+
+11:29.240 --> 11:32.960
+I know this because I was an expert in litigation
+
+11:32.960 --> 11:34.680
+for about 10 years.
+
+11:35.880 --> 11:40.040
+I presented some of what I learned in civil litigation
+
+11:40.040 --> 11:42.480
+to the FBI and the Department of Justice,
+
+11:42.480 --> 11:46.360
+and that case led to the biggest criminal fine
+
+11:46.360 --> 11:49.920
+in US history as of 2009.
+
+11:50.520 --> 11:55.520
+I testified in a federal trial in 2010,
+
+11:56.080 --> 12:00.000
+and the jury found Pfizer guilty of fraud
+
+12:00.000 --> 12:02.360
+and racketeering violations.
+
+12:02.360 --> 12:07.360
+In terms of violating the law, it's a routine occurrence.
+
+12:07.480 --> 12:10.800
+The drug companies have paid $38 billion worth of fines
+
+12:10.800 --> 12:14.480
+from, I think, 1991 to 2017.
+
+12:15.160 --> 12:20.160
+It's never been enough to stop the misrepresentation
+
+12:21.360 --> 12:25.640
+of their data, and rarely are the fines greater
+
+12:25.640 --> 12:27.280
+than the profits that were made.
+
+12:28.720 --> 12:31.840
+See, executives have not gone to jail
+
+12:31.840 --> 12:36.400
+for misrepresenting data that have involved
+
+12:36.400 --> 12:39.000
+even tens of thousands of deaths in the case
+
+12:39.000 --> 12:42.120
+of Vioxx, OxyContin as well.
+
+12:42.600 --> 12:45.520
+When companies plead guilty to felonies,
+
+12:45.520 --> 12:48.360
+which is not an unusual occurrence,
+
+12:48.360 --> 12:51.240
+the government usually allows the companies,
+
+12:51.240 --> 12:54.600
+the parent companies, to allow subsidiaries
+
+12:54.600 --> 12:58.880
+to take the plea so that they are not one step closer
+
+12:58.880 --> 13:01.280
+to getting disbarred from Medicare,
+
+13:01.280 --> 13:03.360
+not being able to participate in Medicare.
+
+13:05.480 --> 13:10.480
+In that sense, there is a mechanism
+
+13:11.000 --> 13:15.040
+that is appearing to impose law and order
+
+13:15.040 --> 13:18.160
+on drug company behavior, but it's clearly not enough.
+
+13:18.160 --> 13:19.480
+It's not working.
+
+13:19.480 --> 13:24.480
+Can you actually speak to human nature here?
+
+13:24.600 --> 13:26.320
+Are people corrupt?
+
+13:26.320 --> 13:28.400
+Are people malevolent?
+
+13:28.400 --> 13:32.880
+Are people ignorant that work at the low level
+
+13:32.880 --> 13:36.480
+and at the high level at Pfizer, for example,
+
+13:36.480 --> 13:38.640
+at big pharma companies?
+
+13:38.640 --> 13:40.440
+How is this possible?
+
+13:41.280 --> 13:43.320
+I believe, just on a small tangent,
+
+13:43.320 --> 13:45.400
+that most people are good.
+
+13:45.400 --> 13:48.960
+I actually believe if you join big pharma,
+
+13:48.960 --> 13:52.640
+so a company like Pfizer, your life trajectory
+
+13:52.640 --> 13:56.360
+often involves dreaming and wanting
+
+13:56.360 --> 13:58.240
+and enjoying helping people.
+
+14:01.240 --> 14:04.880
+Then we look at the outcomes that you're describing.
+
+14:07.240 --> 14:09.440
+That's why the narrative takes hold
+
+14:09.440 --> 14:13.200
+that Pfizer's CEO, Al Bobrola, who I talked to,
+
+14:13.200 --> 14:15.480
+is malevolent.
+
+14:15.480 --> 14:20.040
+The sense is these companies are evil.
+
+14:20.040 --> 14:24.560
+If the different parts, the people, are good
+
+14:24.560 --> 14:25.760
+and they want to do good,
+
+14:25.760 --> 14:28.000
+how are we getting these outcomes?
+
+14:28.000 --> 14:33.000
+I think it has to do with the cultural milieu
+
+14:33.160 --> 14:34.680
+that this is unfolding in.
+
+14:35.320 --> 14:40.320
+And we need to look at sociology to understand this,
+
+14:41.440 --> 14:46.440
+that when the cultural milieu is set up
+
+14:49.320 --> 14:52.560
+to maximize the returns on investment
+
+14:52.560 --> 14:55.440
+for shareholders and other venture capitalists
+
+14:55.440 --> 14:57.520
+and hedge funds and so forth,
+
+14:57.520 --> 15:00.640
+when that defines the culture
+
+15:00.640 --> 15:04.240
+and the higher up you are in the corporation,
+
+15:04.280 --> 15:09.280
+the more you're in on the game of getting rewarded
+
+15:10.120 --> 15:13.080
+for maximizing the profits of the investors.
+
+15:13.080 --> 15:14.880
+That's the culture they live in.
+
+15:15.800 --> 15:19.720
+And it becomes normative behavior
+
+15:19.720 --> 15:23.440
+to do things with science
+
+15:23.440 --> 15:26.920
+that look normal in that environment
+
+15:26.920 --> 15:30.000
+and are shared values within that environment
+
+15:30.000 --> 15:34.920
+by good people whose self-evaluation becomes modified
+
+15:34.920 --> 15:37.680
+by the goals that are shared by the people around them.
+
+15:39.080 --> 15:44.080
+And within that milieu, you have one set of standards
+
+15:44.760 --> 15:48.720
+and then the rest of good American people
+
+15:48.720 --> 15:50.760
+have the expectation that the drug companies
+
+15:50.760 --> 15:52.320
+are trying to make money,
+
+15:52.320 --> 15:55.280
+but that they're playing by rules
+
+15:55.280 --> 15:58.480
+that aren't part of the insider milieu.
+
+15:59.480 --> 16:00.400
+That's fascinating.
+
+16:00.400 --> 16:04.640
+The game they're playing modifies the culture
+
+16:06.240 --> 16:09.400
+inside the meetings, inside the rooms, day to day,
+
+16:10.560 --> 16:12.560
+that there's a bubble that forms.
+
+16:12.560 --> 16:15.600
+We're all in bubbles of different sizes.
+
+16:15.600 --> 16:18.280
+And that bubble allows you to drift
+
+16:18.280 --> 16:23.000
+in terms of what you see as ethical and unethical,
+
+16:24.160 --> 16:27.840
+because you see the game as just part of the game.
+
+16:28.520 --> 16:30.520
+So marketing is just part of the game.
+
+16:32.040 --> 16:35.280
+Paying the fines is just part of the game of science.
+
+16:36.520 --> 16:41.520
+And without guardrails, it becomes even more part of the game.
+
+16:42.200 --> 16:44.640
+You keep moving in that direction
+
+16:44.640 --> 16:48.160
+if you're not bumping up against guardrails.
+
+16:48.160 --> 16:49.880
+And I think that's how we've gotten
+
+16:49.880 --> 16:52.200
+to the extreme situation we're in now.
+
+16:53.400 --> 16:58.160
+So like I mentioned, I spoke with Pfizer CEO, Albert Berola,
+
+16:58.200 --> 17:01.000
+and I'd like to raise with you
+
+17:01.000 --> 17:02.960
+some of the concerns I raised with him.
+
+17:03.880 --> 17:06.200
+So one, you already mentioned,
+
+17:06.200 --> 17:08.320
+I raised the concern that Pfizer's engaged
+
+17:08.320 --> 17:11.240
+in aggressive advertising campaigns.
+
+17:12.280 --> 17:14.280
+As you can imagine, he said no.
+
+17:15.560 --> 17:16.560
+What do you think?
+
+17:18.480 --> 17:20.360
+I think you're both right.
+
+17:21.400 --> 17:23.760
+I think that the, I agree with you,
+
+17:23.760 --> 17:26.320
+that the aggressive advertising campaigns
+
+17:27.320 --> 17:30.120
+do not add value to society.
+
+17:30.120 --> 17:34.560
+And I agree with him that they're for the most part legal
+
+17:34.560 --> 17:36.560
+and it's the way the game is played.
+
+17:36.560 --> 17:38.200
+Right, so sorry to interrupt,
+
+17:38.200 --> 17:41.800
+but oftentimes his responses are,
+
+17:44.400 --> 17:47.160
+especially now, he's been CEO for only like two years,
+
+17:47.160 --> 17:50.040
+three years, he says Pfizer was a different company,
+
+17:50.040 --> 17:53.400
+we've made mistakes, right, in the past.
+
+17:53.400 --> 17:55.120
+We don't make mistakes anymore.
+
+17:55.880 --> 17:59.840
+That there's rules and we play by the rules.
+
+17:59.840 --> 18:02.280
+So like with every concern raised,
+
+18:02.280 --> 18:05.520
+there's very, very strict rules, as he says.
+
+18:05.520 --> 18:08.040
+In fact, he says sometimes way too strict
+
+18:08.040 --> 18:09.720
+and we play by them.
+
+18:09.720 --> 18:11.720
+And so in that sense, advertisement,
+
+18:11.720 --> 18:13.880
+it doesn't seem like it's too aggressive
+
+18:13.880 --> 18:15.680
+because it's playing by the rules.
+
+18:17.160 --> 18:19.320
+And relative to the other, again, it's the game,
+
+18:19.320 --> 18:21.720
+relative to the other companies,
+
+18:21.720 --> 18:24.240
+it's actually not that aggressive.
+
+18:24.920 --> 18:26.960
+Relative to the other big pharma companies.
+
+18:26.960 --> 18:29.720
+Yes, I hope we can quickly get back to
+
+18:29.720 --> 18:32.760
+whether or not they're playing by the rules in general.
+
+18:32.760 --> 18:34.360
+But let's just look at the question
+
+18:34.360 --> 18:36.640
+of advertising specifically.
+
+18:36.640 --> 18:39.600
+I think that's a good example of what it looks like
+
+18:39.600 --> 18:43.120
+from within that culture and from outside that culture.
+
+18:44.880 --> 18:49.800
+He's saying that we follow the law on our advertising,
+
+18:49.800 --> 18:51.520
+we state the side effects
+
+18:51.520 --> 18:53.960
+and we state the FDA approved indications
+
+18:54.560 --> 18:57.720
+and we do what the law says we have to do for advertising.
+
+18:57.720 --> 19:02.720
+And I have not been an expert in litigation for a few years
+
+19:02.960 --> 19:04.960
+and I don't know what's going on currently,
+
+19:04.960 --> 19:07.080
+but let's take him at his word.
+
+19:07.080 --> 19:09.920
+It could be true, it might not be, but it could be.
+
+19:09.920 --> 19:14.920
+But if that's true, in his world, in his culture,
+
+19:15.480 --> 19:17.280
+that's ethical business behavior.
+
+19:18.160 --> 19:22.560
+From a common sense person's point of view,
+
+19:22.560 --> 19:27.200
+a drug company paying highly skilled media folks
+
+19:27.200 --> 19:30.440
+to take the information about the drug
+
+19:30.440 --> 19:34.400
+and create the illusion, the emotional impact
+
+19:34.400 --> 19:38.000
+and the takeaway message for viewers of advertisements
+
+19:38.000 --> 19:41.200
+that grossly exaggerate the benefit of the drug
+
+19:41.200 --> 19:45.400
+and minimize the harms, it's sociopathic behavior
+
+19:45.400 --> 19:49.960
+to have viewers of ads leave the ad
+
+19:49.960 --> 19:53.000
+with an unrealistic impression
+
+19:53.000 --> 19:56.240
+of the benefits and harms of the drug.
+
+19:56.240 --> 19:58.920
+And yet, he's playing by the rules,
+
+19:58.920 --> 20:01.360
+he's doing his job as CEO
+
+20:01.360 --> 20:04.600
+to maximize the effect of his advertising
+
+20:04.600 --> 20:07.680
+and if he doesn't do it, this is a key point,
+
+20:07.680 --> 20:11.960
+if he doesn't do it, he'll get fired and the next guy will.
+
+20:11.960 --> 20:13.640
+So the people that survive in the company,
+
+20:13.640 --> 20:16.720
+the people that get raises in the company
+
+20:16.720 --> 20:17.800
+and move up in the company
+
+20:17.800 --> 20:19.240
+are the ones that play by the rules
+
+20:19.240 --> 20:21.560
+and that's how the game solidifies itself.
+
+20:21.560 --> 20:24.400
+But the game is within the balance of the law.
+
+20:24.400 --> 20:27.320
+Sometimes, most of the time, not always.
+
+20:27.320 --> 20:29.280
+We'll return to that question.
+
+20:29.280 --> 20:31.720
+I'm actually more concerned
+
+20:31.720 --> 20:34.400
+about the effect of advertisement
+
+20:34.400 --> 20:39.400
+in a kind of much larger scale
+
+20:39.560 --> 20:43.080
+on the people that are getting funded
+
+20:43.080 --> 20:46.360
+by the advertisement in self-censorship,
+
+20:46.360 --> 20:50.960
+just like more subtle, more passive pressure
+
+20:50.960 --> 20:53.000
+to not say anything negative.
+
+20:53.000 --> 20:58.000
+Because I've seen this and I've been saddened by it
+
+20:58.480 --> 21:03.200
+that people sacrifice integrity in small ways
+
+21:03.200 --> 21:05.760
+when they're being funded by a particular company.
+
+21:06.640 --> 21:09.480
+They don't see themselves as doing so,
+
+21:09.480 --> 21:12.920
+but you could just clearly see that the space of opinions
+
+21:12.920 --> 21:15.240
+that they're willing to engage in
+
+21:15.240 --> 21:17.680
+or space of ideas they're willing to play with
+
+21:18.520 --> 21:22.960
+is one that doesn't include anything
+
+21:22.960 --> 21:25.600
+that could possibly be negative about the company.
+
+21:25.600 --> 21:28.840
+They just choose not to because why?
+
+21:28.840 --> 21:33.680
+And that's really sad to me that if you give me 100 bucks,
+
+21:33.680 --> 21:36.400
+I'm less likely to say something negative about you.
+
+21:38.560 --> 21:41.240
+That makes me sad because the reason
+
+21:41.240 --> 21:43.080
+I wouldn't say something negative about you,
+
+21:43.080 --> 21:45.640
+I prefer is the pressure of friendship
+
+21:45.640 --> 21:48.400
+and human connection, those kinds of things.
+
+21:48.400 --> 21:50.720
+So I understand that.
+
+21:50.720 --> 21:52.200
+That's also a problem, by the way,
+
+21:52.200 --> 21:54.360
+so to start having dinners and shaking hands
+
+21:54.360 --> 21:56.280
+and, oh, aren't we friends?
+
+21:56.280 --> 21:58.560
+But the fact that money has that effect
+
+21:58.560 --> 22:00.280
+is really sad to me.
+
+22:00.280 --> 22:04.160
+On the news media, on the journalists, on scientists,
+
+22:05.360 --> 22:06.960
+that's scary to me.
+
+22:06.960 --> 22:09.240
+But of course, the direct advertisement to consumers,
+
+22:09.240 --> 22:11.360
+like you said, is potentially a very negative effect.
+
+22:11.520 --> 22:14.520
+I wanted to ask if what you think
+
+22:14.520 --> 22:17.160
+is the most negative impact of advertisement.
+
+22:17.160 --> 22:20.360
+Is it that direct to consumer on television?
+
+22:20.360 --> 22:22.320
+Is it advertisement to doctors,
+
+22:22.320 --> 22:26.360
+which I'm surprised to learn I was vaguely looking at
+
+22:26.360 --> 22:28.680
+is more than the advertisement,
+
+22:28.680 --> 22:31.520
+the more is spent on advertising to doctors
+
+22:31.520 --> 22:32.720
+than to consumers.
+
+22:32.720 --> 22:34.080
+That's really confusing to me.
+
+22:34.080 --> 22:35.600
+It's fascinating, actually.
+
+22:35.600 --> 22:39.000
+And then also, obviously, the law side of things
+
+22:39.000 --> 22:41.000
+is the lobbying dollars,
+
+22:41.000 --> 22:42.720
+which I think is less than all of those.
+
+22:42.720 --> 22:44.720
+But anyway, it's in the ballpark.
+
+22:44.720 --> 22:46.600
+What concerns you most?
+
+22:46.600 --> 22:49.800
+Well, it's the whole nexus of influence.
+
+22:49.800 --> 22:54.000
+There's not one thing, and they don't invest all their,
+
+22:54.000 --> 22:55.600
+they don't put all their eggs in one basket.
+
+22:55.600 --> 23:00.600
+It's a whole surround sound program here.
+
+23:01.200 --> 23:04.520
+But in terms of advertisements,
+
+23:04.520 --> 23:06.120
+let's take the advertisement.
+
+23:06.120 --> 23:09.680
+Trulicity is a diabetes drug,
+
+23:09.680 --> 23:12.600
+for type 2 diabetes, an injectable drug.
+
+23:12.600 --> 23:15.720
+And it lowers blood sugar just about as well
+
+23:15.720 --> 23:18.560
+as metformin does.
+
+23:18.560 --> 23:21.080
+Metformin costs about $4 a month.
+
+23:22.120 --> 23:25.800
+Trulicity costs, I think, $6,200 a year.
+
+23:25.800 --> 23:29.520
+So $48 a year versus $6,200.
+
+23:29.520 --> 23:31.640
+Trulicity has distinguished itself
+
+23:31.640 --> 23:35.120
+because the manufacturer did a study
+
+23:35.120 --> 23:37.360
+that showed that it significantly reduces
+
+23:37.360 --> 23:41.120
+the risk of cardiovascular disease in diabetics.
+
+23:41.120 --> 23:44.400
+And they got approval on the basis of that study,
+
+23:44.400 --> 23:47.600
+that very large study, being statistically significant.
+
+23:49.040 --> 23:53.360
+So the ads, obviously, extol the virtues of trolicity
+
+23:53.360 --> 23:56.840
+because it reduces the risk of heart disease and stroke.
+
+23:56.840 --> 23:59.360
+And that's one of the major morbidities,
+
+23:59.360 --> 24:01.600
+risks of type 2 diabetes.
+
+24:01.600 --> 24:02.840
+What the ad doesn't say
+
+24:02.920 --> 24:05.920
+is that you have to treat 323 people
+
+24:05.920 --> 24:08.120
+to prevent one non-fatal event
+
+24:08.120 --> 24:10.240
+at a cost of $2.7 million.
+
+24:11.600 --> 24:13.800
+And even more importantly than that,
+
+24:13.800 --> 24:17.720
+what the ad doesn't say is that the evidence shows
+
+24:17.720 --> 24:22.040
+that engaging in an active, healthy lifestyle program
+
+24:22.040 --> 24:24.600
+reduces the risk of heart disease and strokes
+
+24:24.600 --> 24:27.480
+far more than trolicity does.
+
+24:28.640 --> 24:32.160
+Now, to be fair to the company, the sponsor,
+
+24:32.160 --> 24:37.160
+there's never been a study that compared trolicity
+
+24:37.440 --> 24:39.760
+to lifestyle changes.
+
+24:39.760 --> 24:42.680
+But that's part of the problem of our advertising.
+
+24:42.680 --> 24:45.360
+You would think in a rational society
+
+24:45.360 --> 24:50.320
+that was way out on a limb as a lone country,
+
+24:50.320 --> 24:51.600
+besides New Zealand,
+
+24:51.600 --> 24:54.360
+that allows direct-to-consumer advertising,
+
+24:54.360 --> 24:59.120
+that part of allowing direct-to-consumer advertising
+
+24:59.160 --> 25:03.080
+would be to mandate that the companies establish
+
+25:03.080 --> 25:05.520
+whether their drug is better than,
+
+25:05.520 --> 25:07.960
+say, healthy lifestyle adoption
+
+25:07.960 --> 25:11.840
+to prevent the problems that they claim to be preventing.
+
+25:11.840 --> 25:13.800
+But we don't require that.
+
+25:13.800 --> 25:17.560
+So the companies can afford to do very large studies
+
+25:17.560 --> 25:19.560
+so that very small differences
+
+25:19.560 --> 25:21.880
+become statistically significant.
+
+25:21.880 --> 25:23.880
+And their studies are asking the question,
+
+25:23.880 --> 25:25.680
+how can we sell more drug?
+
+25:25.680 --> 25:27.320
+They're not asking the question,
+
+25:27.320 --> 25:30.600
+how can we prevent cardiovascular disease
+
+25:30.600 --> 25:32.720
+in people with type 2 diabetes?
+
+25:32.720 --> 25:34.240
+And that's how we get off in this,
+
+25:34.240 --> 25:38.560
+we're now in the extreme arm of this distortion
+
+25:38.560 --> 25:43.040
+of our medical knowledge of studying how to sell more drugs
+
+25:43.040 --> 25:45.480
+than how to make people more healthy.
+
+25:45.480 --> 25:48.920
+That's a really great thing to compare it to,
+
+25:48.920 --> 25:51.400
+is lifestyle changes.
+
+25:51.400 --> 25:53.240
+Because that should be the bar.
+
+25:53.240 --> 25:56.680
+If you do some basic diet, exercise,
+
+25:56.680 --> 25:58.440
+all those kinds of things,
+
+25:58.440 --> 26:00.240
+how does this drug compare to that?
+
+26:00.240 --> 26:01.400
+Right, right.
+
+26:01.400 --> 26:04.080
+And that study was done, actually, in the 90s.
+
+26:04.080 --> 26:06.080
+It's called the Diabetes Prevention Program.
+
+26:06.080 --> 26:09.160
+It was federally funded by the NIH
+
+26:09.160 --> 26:13.240
+so that there wasn't this drug company imperative
+
+26:13.240 --> 26:16.800
+to just try to prove your drug was better than nothing.
+
+26:16.800 --> 26:19.680
+And it was a very well-designed study,
+
+26:19.680 --> 26:22.440
+randomized controlled trial
+
+26:22.440 --> 26:25.000
+in people who were at high risk of diabetes,
+
+26:25.000 --> 26:26.840
+so-called pre-diabetics.
+
+26:26.840 --> 26:30.040
+And they were randomized to three different groups,
+
+26:30.040 --> 26:33.800
+a placebo group, a group that got treated with metformin,
+
+26:34.760 --> 26:36.200
+and a group that got treated
+
+26:36.200 --> 26:38.840
+with intensive lifestyle counseling.
+
+26:38.840 --> 26:43.600
+So this study really tested whether you can get people
+
+26:43.600 --> 26:46.000
+in a randomized controlled trial
+
+26:46.000 --> 26:49.280
+assigned to intensive lifestyle changes,
+
+26:49.280 --> 26:50.680
+whether that works.
+
+26:50.680 --> 26:54.640
+Now, the common wisdom amongst physicians,
+
+26:54.640 --> 26:56.080
+and I think in general,
+
+26:56.080 --> 26:58.200
+is that you can't get people to change.
+
+26:58.200 --> 26:59.240
+You can do whatever you want.
+
+26:59.240 --> 27:00.320
+You can stand on your head.
+
+27:00.320 --> 27:01.600
+You can beg and plead.
+
+27:01.600 --> 27:02.640
+People won't change.
+
+27:02.640 --> 27:05.080
+So give it up, and let's just move on with the drugs
+
+27:05.080 --> 27:06.440
+and not waste any time.
+
+27:06.440 --> 27:08.280
+Except this study that was published
+
+27:08.280 --> 27:11.040
+in the New England Journal, I think in 2002,
+
+27:11.040 --> 27:12.840
+shows that's wrong,
+
+27:12.840 --> 27:16.160
+that the people who were in the intensive lifestyle group
+
+27:16.160 --> 27:18.040
+ended up losing 10 pounds,
+
+27:18.040 --> 27:21.240
+exercising five times a week maintaining it,
+
+27:21.240 --> 27:26.240
+and reduced the risk of getting diabetes by 58%
+
+27:26.280 --> 27:27.920
+compared to the metformin group,
+
+27:27.920 --> 27:31.960
+which reduced its risk of getting diabetes by 31%.
+
+27:31.960 --> 27:34.880
+So that exact study was done,
+
+27:34.880 --> 27:37.920
+and it showed that lifestyle intervention is the winner.
+
+27:39.440 --> 27:44.440
+Who, as a small tangent, is the leader?
+
+27:44.880 --> 27:49.160
+Who is supposed to fight for the side of lifestyle changes?
+
+27:49.160 --> 27:54.160
+Where's the big pharma version of lifestyle changes?
+
+27:54.640 --> 27:57.240
+Who's supposed to have the big bully pulpit,
+
+27:57.240 --> 28:01.760
+the big money behind lifestyle changes, in your sense?
+
+28:01.760 --> 28:03.400
+Because that seems to be missing
+
+28:03.400 --> 28:06.280
+in a lot of our discussions about health policy.
+
+28:06.280 --> 28:08.080
+Right, that's exactly right.
+
+28:08.080 --> 28:12.800
+And the answer is that we assume
+
+28:12.800 --> 28:15.920
+that the market has to solve all of these problems,
+
+28:15.920 --> 28:18.320
+and the market can't solve all of these problems.
+
+28:18.320 --> 28:23.280
+There needs to be some way of protecting the public interest
+
+28:23.280 --> 28:26.520
+for things that aren't financially driven,
+
+28:26.520 --> 28:28.760
+so that the overriding question has to be
+
+28:28.760 --> 28:31.440
+how best to improve Americans' health,
+
+28:31.440 --> 28:36.200
+not companies funding studies to try and prove
+
+28:36.200 --> 28:39.280
+that their new and expensive drug is better
+
+28:39.280 --> 28:40.880
+and should be used.
+
+28:40.880 --> 28:45.480
+Well, some of that is also people sort of like yourself.
+
+28:45.520 --> 28:48.840
+I mean, it's funny, you spoke with Joe Rogan.
+
+28:48.840 --> 28:51.000
+He constantly espouses lifestyle changes.
+
+28:51.000 --> 28:56.000
+So some of it is almost like understanding the problems
+
+28:56.000 --> 28:58.200
+that big pharma is creating in society,
+
+28:58.200 --> 29:02.520
+and then sort of these influential voices
+
+29:02.520 --> 29:03.600
+speaking up against it.
+
+29:03.600 --> 29:08.600
+So whether they're scientists or just regular communicators.
+
+29:08.640 --> 29:11.360
+Yeah, I think you gotta tip your hat to Joe
+
+29:11.360 --> 29:13.160
+for getting that message out.
+
+29:13.160 --> 29:17.360
+And he clearly believes it and does his best.
+
+29:17.360 --> 29:21.040
+But it's not coming out in the legitimate avenues,
+
+29:21.040 --> 29:26.040
+in the legitimate channels that are evidence-based medicine
+
+29:26.040 --> 29:31.040
+and from the sources that the docs are trained to listen to
+
+29:32.040 --> 29:34.320
+and modify their patient care on.
+
+29:34.320 --> 29:36.480
+Now, it's not 100%.
+
+29:36.480 --> 29:40.160
+I mean, there are articles in the big journals
+
+29:40.160 --> 29:42.160
+about the benefits of lifestyle,
+
+29:42.160 --> 29:45.800
+but they don't carry the same gravitas
+
+29:45.800 --> 29:48.240
+as the randomized controlled trials
+
+29:48.240 --> 29:50.320
+that test this drug against placebo
+
+29:50.320 --> 29:52.360
+or this drug against another drug.
+
+29:52.360 --> 29:55.680
+So the Joe Rogans of the world keep going.
+
+29:55.680 --> 29:57.040
+I tip my hat.
+
+29:57.040 --> 30:00.920
+But it's not gonna carry the day for most of the people
+
+30:00.920 --> 30:04.240
+until it has the legitimacy of the medical establishment.
+
+30:04.240 --> 30:05.960
+Yeah, like something that the doctors
+
+30:05.960 --> 30:07.160
+really pay attention to.
+
+30:07.160 --> 30:09.720
+Well, there's an entire mechanism established
+
+30:09.720 --> 30:11.320
+for testing drugs.
+
+30:11.320 --> 30:14.400
+There's not an entire mechanism established
+
+30:14.400 --> 30:17.600
+in terms of scientific rigor of testing lifestyle changes.
+
+30:17.600 --> 30:20.520
+I mean, it's more difficult.
+
+30:20.520 --> 30:23.000
+I mean, everything's difficult in science,
+
+30:23.000 --> 30:27.080
+with science that involves humans especially.
+
+30:27.080 --> 30:30.600
+But these studies are very expensive.
+
+30:30.600 --> 30:31.960
+They're difficult.
+
+30:31.960 --> 30:33.520
+It's difficult to find conclusions
+
+30:33.520 --> 30:35.480
+to control all the variables.
+
+30:35.480 --> 30:37.360
+And so it's very easy to dismiss them
+
+30:37.360 --> 30:40.960
+unless you really do a huge study that's very well-funded.
+
+30:41.000 --> 30:42.840
+And so maybe the doctors just lean
+
+30:42.840 --> 30:45.720
+towards the simpler studies over and over,
+
+30:45.720 --> 30:48.040
+which is what the drug companies fund.
+
+30:48.040 --> 30:50.400
+They can control more variables.
+
+30:51.360 --> 30:53.640
+See, but the control there is sometimes
+
+30:56.960 --> 31:00.920
+by hiding things too, right?
+
+31:00.920 --> 31:03.480
+So sometimes you can just say
+
+31:03.480 --> 31:06.440
+that this is a well-controlled study
+
+31:06.440 --> 31:09.240
+by pretending there's a bunch of other stuff,
+
+31:09.280 --> 31:13.280
+just ignoring the stuff that could be correlated,
+
+31:13.280 --> 31:15.560
+it could be the real cause of the effects you're seeing,
+
+31:15.560 --> 31:17.360
+all that kind of stuff.
+
+31:17.360 --> 31:21.720
+So money can buy ignorance, I suppose, in science.
+
+31:21.720 --> 31:24.720
+It buys kind of blinders that are on,
+
+31:24.720 --> 31:28.040
+that don't look outside the reductionist model.
+
+31:28.040 --> 31:31.480
+And that's another issue is that we kind of,
+
+31:31.480 --> 31:34.320
+nobody says to doctors in training,
+
+31:34.360 --> 31:39.360
+only listen to reductionist studies and conclusions
+
+31:39.400 --> 31:42.120
+and methods of promoting health.
+
+31:42.120 --> 31:44.000
+Nobody says that explicitly,
+
+31:44.000 --> 31:47.680
+but the respectable science
+
+31:47.680 --> 31:49.800
+has to do with controlling the factors.
+
+31:49.800 --> 31:54.240
+And I mean, it just doesn't make sense to me.
+
+31:54.240 --> 31:55.480
+I'm gonna pick on trulicity
+
+31:55.480 --> 31:57.280
+because it's such an obvious example,
+
+31:57.280 --> 32:01.360
+but it's not more egregious than many others.
+
+32:01.360 --> 32:02.680
+It doesn't make sense to me
+
+32:02.680 --> 32:04.600
+to allow a drug to be advertised
+
+32:04.600 --> 32:07.000
+as preventing cardiovascular disease
+
+32:07.000 --> 32:10.000
+when you haven't included lifestyle changes
+
+32:10.000 --> 32:11.400
+as an arm in the study.
+
+32:12.960 --> 32:14.680
+It's just so crystal clear
+
+32:14.680 --> 32:17.480
+that the purpose of that study is to sell trulicity.
+
+32:17.480 --> 32:20.480
+It's not to prevent cardiovascular disease.
+
+32:21.840 --> 32:24.800
+If we were in charge, I would try to convince you
+
+32:24.800 --> 32:26.040
+that anywhere that study,
+
+32:26.040 --> 32:31.040
+the results of that study were presented to physicians,
+
+32:31.080 --> 32:33.600
+it would be stamped in big red letters,
+
+32:33.600 --> 32:37.720
+this study did not compare trulicity to lifestyle changes.
+
+32:37.720 --> 32:38.960
+They need to know that.
+
+32:38.960 --> 32:40.680
+And the docs are kind of trained,
+
+32:40.680 --> 32:42.680
+these blinders get put on,
+
+32:42.680 --> 32:44.600
+and they're trained to kind of forget
+
+32:44.600 --> 32:46.320
+that that's not there.
+
+32:46.320 --> 32:48.240
+Do you think, so first of all,
+
+32:48.240 --> 32:51.320
+that's a small or big change to advertisement
+
+32:51.320 --> 32:53.120
+that seems obvious to say,
+
+32:54.080 --> 32:56.520
+like in force that it should be compared
+
+32:56.520 --> 32:57.680
+to lifestyle changes.
+
+32:58.680 --> 33:01.240
+Do you think advertisements, period,
+
+33:01.240 --> 33:05.920
+in the United States for pharmaceutical drugs should be banned?
+
+33:05.920 --> 33:07.520
+I think they can't be banned,
+
+33:07.520 --> 33:09.240
+so it doesn't matter what I think.
+
+33:10.520 --> 33:13.200
+Okay, let's say you were a dictator,
+
+33:13.200 --> 33:15.200
+and two, why can't they be banned?
+
+33:15.200 --> 33:16.320
+Okay.
+
+33:16.320 --> 33:17.600
+Answer either one.
+
+33:18.680 --> 33:22.800
+I believe, I've been told by lawyers who I trust
+
+33:22.800 --> 33:27.280
+that the freedom of speech in the US Constitution
+
+33:27.280 --> 33:29.360
+is such that you can't ban them,
+
+33:29.360 --> 33:33.320
+that you could ban cigarettes and alcohol,
+
+33:33.320 --> 33:35.640
+which have no therapeutic use,
+
+33:35.640 --> 33:37.680
+but drugs have a therapeutic use,
+
+33:37.680 --> 33:41.600
+and advertisements about them can't be banned.
+
+33:41.600 --> 33:43.680
+Let's assume that they can't be,
+
+33:43.680 --> 33:45.840
+because we know they won't be anyway.
+
+33:46.840 --> 33:49.120
+But let's assume they can't be,
+
+33:49.120 --> 33:51.800
+and especially our Supreme Court now
+
+33:51.800 --> 33:55.880
+would be unlikely to take that seriously.
+
+33:55.880 --> 33:57.360
+But that's not the issue.
+
+33:57.360 --> 34:00.240
+The issue is that if the drug companies
+
+34:00.240 --> 34:02.640
+wanna spend their money advertising,
+
+34:02.640 --> 34:06.880
+they should have to have independent analysis
+
+34:06.880 --> 34:10.480
+of the message that the viewers are left with
+
+34:10.480 --> 34:13.400
+about the drug, so that it's realistic.
+
+34:13.400 --> 34:15.520
+What's the chance the drug will help them?
+
+34:15.520 --> 34:19.000
+Well, in truth, the city, it's one out of 323.
+
+34:19.000 --> 34:21.120
+322 people aren't gonna benefit
+
+34:21.120 --> 34:23.680
+from the cardiovascular risk reduction.
+
+34:24.640 --> 34:26.920
+What's the true cost?
+
+34:26.920 --> 34:30.200
+When drugs advertise that you may be able
+
+34:30.200 --> 34:33.160
+to get this for a $25 copay or something,
+
+34:33.160 --> 34:36.000
+a tens of thousands of dollars a year drug
+
+34:36.000 --> 34:40.160
+for a $25 copay, what an enormous disservice that is
+
+34:40.160 --> 34:42.640
+to misrepresent the cost to society.
+
+34:42.640 --> 34:44.080
+That should not be allowed.
+
+34:44.080 --> 34:48.720
+So you should have to make it clear to the viewers
+
+34:48.720 --> 34:50.000
+how many people are gonna benefit,
+
+34:50.000 --> 34:51.720
+what's your chance of benefiting,
+
+34:51.720 --> 34:53.600
+how does it compare to lifestyle changes,
+
+34:54.480 --> 34:55.880
+or less expensive therapies?
+
+34:55.880 --> 34:58.480
+What do you give up if you use a less expensive therapy
+
+34:58.480 --> 35:00.000
+or gain, perhaps?
+
+35:00.000 --> 35:01.200
+And how much it costs?
+
+35:01.200 --> 35:02.320
+How much it costs.
+
+35:02.320 --> 35:03.600
+Now, that can go either way,
+
+35:03.600 --> 35:06.800
+because if you say Humira costs $72,000
+
+35:06.800 --> 35:09.000
+and it's no more effective as a first-line drug
+
+35:09.000 --> 35:12.320
+than methotrexate, which costs $480,
+
+35:12.320 --> 35:15.080
+people might say, I want the expensive drug
+
+35:15.080 --> 35:17.760
+because I can get it for a $25 copay.
+
+35:17.760 --> 35:21.680
+So you'd have to temper that a little bit.
+
+35:21.680 --> 35:25.600
+Oh, you mean people are so, they don't care.
+
+35:25.600 --> 35:26.440
+They don't care.
+
+35:26.440 --> 35:27.680
+Their insurance is gonna cover it
+
+35:27.680 --> 35:29.480
+and it's a $25 copay,
+
+35:29.480 --> 35:31.880
+but we could figure out how to deal with that.
+
+35:31.880 --> 35:35.280
+The main point is that if we assume
+
+35:35.280 --> 35:38.800
+that advertisements are gonna keep going, and they are,
+
+35:38.800 --> 35:43.800
+we could require that there be outside evaluation
+
+35:45.520 --> 35:48.920
+of the message that reasonable unbiased viewers
+
+35:48.920 --> 35:51.040
+take away from the ads.
+
+35:51.040 --> 35:54.240
+And the ads would have to tell the truth about the drug.
+
+35:55.760 --> 36:00.760
+And the truth should have like sub-truth guardrails,
+
+36:01.140 --> 36:03.720
+meaning like the cost that we talked about,
+
+36:03.720 --> 36:07.080
+the effects compared to things that actually,
+
+36:07.080 --> 36:11.840
+lifestyle changes, just these details,
+
+36:11.840 --> 36:16.560
+very strict guardrails of what actually has to be specified.
+
+36:16.560 --> 36:19.400
+And I would make it against the law
+
+36:19.400 --> 36:22.080
+to have family picnics or dogs catching frisbees
+
+36:22.080 --> 36:23.400
+in the ads.
+
+36:23.400 --> 36:28.400
+So, you mean 95% of the ads, yes.
+
+36:30.640 --> 36:32.680
+I mean, there's something dark and inauthentic
+
+36:32.680 --> 36:34.560
+about those advertisements, but they seem,
+
+36:34.560 --> 36:36.280
+I mean, I'm sure they're being done
+
+36:36.280 --> 36:38.720
+because they work for the target audience.
+
+36:43.560 --> 36:45.160
+And then the doctors too.
+
+36:46.080 --> 36:48.720
+Can you really buy a doctor's opinion?
+
+36:48.720 --> 36:51.320
+Why does it have such an effect on doctors?
+
+36:52.280 --> 36:55.440
+Advertisement to doctors, like you as a physician,
+
+36:55.440 --> 36:58.440
+again, like from everything I've seen, people love you.
+
+36:58.440 --> 37:03.440
+And I've just, people should definitely look you off from,
+
+37:04.880 --> 37:09.280
+there's a bunch of videos of you giving talks on YouTube,
+
+37:09.280 --> 37:14.280
+and it's just, it's so refreshing to hear
+
+37:14.720 --> 37:17.480
+just a clarity of thought about health policy,
+
+37:17.480 --> 37:19.680
+about healthcare, just the way you think
+
+37:19.680 --> 37:20.720
+throughout the years.
+
+37:20.720 --> 37:21.560
+Thank you.
+
+37:21.560 --> 37:23.720
+So like, it's easy to think about like,
+
+37:23.720 --> 37:25.400
+maybe you're criticizing Big Pharma,
+
+37:25.400 --> 37:28.840
+that's one part of the message that you're talking about,
+
+37:28.840 --> 37:31.480
+but you know, that's not like,
+
+37:31.480 --> 37:34.040
+your brilliance actually shines in the positive,
+
+37:34.040 --> 37:35.480
+in the solutions and how to do it.
+
+37:35.480 --> 37:40.480
+So, as a doctor, what affects your mind?
+
+37:40.960 --> 37:43.160
+And how does Big Pharma affect your mind?
+
+37:43.160 --> 37:45.600
+Number one, the information
+
+37:45.600 --> 37:48.280
+that comes through legitimate sources
+
+37:48.280 --> 37:51.120
+that doctors have been taught to rely on,
+
+37:51.120 --> 37:52.600
+evidence-based medicine,
+
+37:52.600 --> 37:55.440
+the articles in peer-reviewed journals,
+
+37:55.440 --> 37:57.040
+the guidelines that are issued.
+
+37:57.040 --> 37:59.280
+Now, those are problematic,
+
+37:59.280 --> 38:03.280
+because when an article is peer-reviewed
+
+38:03.280 --> 38:05.120
+and published in a respected journal,
+
+38:06.380 --> 38:10.400
+people and doctors obviously assume
+
+38:10.400 --> 38:15.400
+that the peer reviewers have had access to the data
+
+38:15.840 --> 38:18.440
+and they've independently analyzed the data
+
+38:18.440 --> 38:21.960
+and they corroborate the findings in the manuscript
+
+38:21.960 --> 38:25.800
+that was submitted or they give feedback to the authors
+
+38:25.800 --> 38:28.280
+and say, we disagree with you on this point
+
+38:28.280 --> 38:30.800
+and would you please check our analysis
+
+38:30.800 --> 38:32.520
+and if you agree with us, make it.
+
+38:32.520 --> 38:35.640
+That's what they assume the peer review process is,
+
+38:35.640 --> 38:36.960
+but it's not.
+
+38:36.960 --> 38:39.280
+The peer reviewers don't have the data.
+
+38:39.320 --> 38:41.880
+The peer reviewers have the manuscript
+
+38:41.880 --> 38:46.320
+that's been submitted usually in conjunction with
+
+38:46.320 --> 38:51.320
+or by the drug company that manufactures the drug.
+
+38:51.600 --> 38:56.600
+So, peer reviewers are unable to perform the job
+
+38:57.400 --> 38:59.760
+that doctors think they're performing
+
+38:59.760 --> 39:03.320
+to vet the data to assure that it's accurate
+
+39:03.320 --> 39:05.160
+and reasonably complete.
+
+39:05.160 --> 39:06.380
+They can't do it.
+
+39:07.340 --> 39:09.500
+And then we have the clinical practice guidelines,
+
+39:09.500 --> 39:14.500
+which are increasingly more important as the information,
+
+39:14.540 --> 39:18.700
+the flow of information keeps getting brisker and brisker
+
+39:18.700 --> 39:22.020
+and docs need to get to the bottom line quickly.
+
+39:22.020 --> 39:25.700
+Clinical practice guidelines become much more important
+
+39:25.700 --> 39:28.780
+and we assume that the authors
+
+39:28.780 --> 39:30.380
+of those clinical practice guidelines
+
+39:30.380 --> 39:32.380
+have independently analyzed the data
+
+39:32.380 --> 39:35.900
+from the clinical trials and make their recommendations
+
+39:35.900 --> 39:39.140
+that set the standards of care based on their analysis.
+
+39:39.140 --> 39:40.860
+That's not what happens.
+
+39:40.860 --> 39:44.180
+The experts who write the clinical trials
+
+39:44.180 --> 39:49.180
+rely almost entirely on the publications
+
+39:49.460 --> 39:51.940
+presenting the results of the clinical trials,
+
+39:51.940 --> 39:53.000
+which are peer reviewed,
+
+39:53.000 --> 39:56.340
+but the peer reviewers haven't had access to the data.
+
+39:56.340 --> 40:01.140
+So, we've got a system of the highest level of evidence
+
+40:01.140 --> 40:03.800
+that doctors have been trained over and over again
+
+40:03.800 --> 40:06.400
+to rely on to practice evidence-based medicine
+
+40:06.400 --> 40:10.840
+to be good doctors that has not been verified.
+
+40:10.840 --> 40:12.280
+Do you think that data
+
+40:13.600 --> 40:17.080
+that's coming from the pharma companies,
+
+40:17.080 --> 40:20.840
+do you think what level of manipulation
+
+40:20.840 --> 40:22.520
+is going on with that data?
+
+40:22.520 --> 40:25.920
+Is it at the study design level?
+
+40:25.920 --> 40:28.120
+Is it at literally there's some data
+
+40:28.120 --> 40:33.120
+that you just keep off, keep out of the charts?
+
+40:33.880 --> 40:36.920
+Keep out of the aggregate analysis
+
+40:36.920 --> 40:38.600
+that you then publish?
+
+40:38.600 --> 40:41.400
+Or is it the worst case,
+
+40:41.400 --> 40:44.680
+which is just change some of the numbers?
+
+40:44.680 --> 40:46.200
+It happened, all three happened.
+
+40:46.200 --> 40:48.580
+I can't, I don't know what the denominator is,
+
+40:48.580 --> 40:51.700
+but I spent about 10 years in litigation.
+
+40:51.700 --> 40:54.920
+And for example, in Vioxx,
+
+40:54.920 --> 40:57.400
+which was withdrawn from the market in 2004
+
+40:57.400 --> 41:01.260
+in the biggest drug recall in American history,
+
+41:02.260 --> 41:06.060
+the problem was that it got recalled
+
+41:06.060 --> 41:08.580
+when a study that Merck sponsored
+
+41:08.580 --> 41:10.580
+showed that Vioxx doubled the risk,
+
+41:10.580 --> 41:12.740
+more than doubled the risk of heart attacks,
+
+41:12.740 --> 41:16.740
+strokes, and blood clots, serious blood clots.
+
+41:16.740 --> 41:18.100
+It got pulled then.
+
+41:18.100 --> 41:20.620
+But there was a study, a bigger study
+
+41:20.620 --> 41:22.740
+that had been published in 2000
+
+41:22.740 --> 41:24.660
+in the New England Journal of Medicine
+
+41:24.660 --> 41:28.580
+that showed that Vioxx was a better drug
+
+41:28.580 --> 41:32.860
+for arthritis and pain,
+
+41:32.860 --> 41:34.260
+not because it was more effective,
+
+41:34.260 --> 41:36.460
+it's no more effective than Aleve or Advil,
+
+41:37.460 --> 41:40.220
+but because it was less likely
+
+41:40.220 --> 41:43.220
+to cause serious GI complications,
+
+41:43.220 --> 41:45.120
+bleeds and perforations in the gut.
+
+41:46.180 --> 41:48.140
+Now, in that study that was published
+
+41:48.140 --> 41:51.620
+in the New England Journal that was never corrected,
+
+41:51.620 --> 41:55.980
+it was a little bit modified 15 months
+
+41:55.980 --> 41:57.540
+after the drug was taken off the market,
+
+41:57.540 --> 42:01.560
+but never corrected, Merck left out three heart attacks.
+
+42:02.680 --> 42:05.620
+And the FDA knew that Merck left out three heart attacks.
+
+42:05.620 --> 42:10.420
+And the FDA's analysis of the data from that study
+
+42:10.420 --> 42:14.700
+said that the FDA wasn't gonna do the analysis
+
+42:14.700 --> 42:16.940
+without the three heart attacks in it.
+
+42:16.940 --> 42:19.660
+And the important part of this story
+
+42:19.660 --> 42:23.100
+is that there were 12 authors listed on that study
+
+42:23.100 --> 42:24.340
+in the New England Journal.
+
+42:24.340 --> 42:26.280
+Two were Merck employees.
+
+42:26.280 --> 42:27.800
+They knew about the three heart attacks
+
+42:27.800 --> 42:29.640
+that had been omitted.
+
+42:29.640 --> 42:34.480
+The other 10 authors, the academic authors,
+
+42:34.480 --> 42:37.120
+didn't know about it, they hadn't seen that data.
+
+42:38.040 --> 42:41.980
+So Merck just, they had an excuse,
+
+42:41.980 --> 42:44.280
+it's complicated and the FDA didn't accept it,
+
+42:44.280 --> 42:46.840
+so there's no reason to go into it.
+
+42:46.840 --> 42:48.840
+But Merck just left out the three heart attacks.
+
+42:48.840 --> 42:50.040
+And the three heart attacks,
+
+42:50.040 --> 42:51.340
+it may seem three heart attacks
+
+42:51.340 --> 42:54.200
+in a 10,000 person study may seem like nothing,
+
+42:54.200 --> 42:57.540
+except they completely changed the statistics
+
+42:57.540 --> 43:00.020
+so that had the three heart attacks been included,
+
+43:00.020 --> 43:02.600
+the only conclusion that Merck could have made
+
+43:02.600 --> 43:04.680
+was that Vioxx significantly increased
+
+43:04.680 --> 43:06.360
+the risk of heart attack.
+
+43:06.360 --> 43:09.600
+And they abbreviated their endpoint
+
+43:09.600 --> 43:12.380
+from heart attack strokes and blood clots
+
+43:12.380 --> 43:13.800
+to just heart attacks.
+
+43:13.800 --> 43:17.120
+Yeah, so those are maybe in their mind,
+
+43:17.120 --> 43:18.300
+they're also playing by the rules
+
+43:18.300 --> 43:20.400
+because of some technical excuse that you mentioned
+
+43:20.400 --> 43:22.200
+that was rejected.
+
+43:22.200 --> 43:24.040
+How can this, because this is crossing the line.
+
+43:24.040 --> 43:25.080
+Let me interrupt.
+
+43:25.080 --> 43:26.500
+No, that's not true.
+
+43:28.040 --> 43:32.040
+The study was completed, the blind was broken,
+
+43:32.040 --> 43:34.400
+meaning they looked at the data.
+
+43:34.400 --> 43:37.360
+In March of 2000, the article was published
+
+43:37.360 --> 43:40.080
+in the New England Journal in November of 2000.
+
+43:40.080 --> 43:45.080
+In March of 2000, there was an email by the head scientist
+
+43:45.920 --> 43:48.200
+that was published in the Wall Street Journal
+
+43:49.640 --> 43:53.800
+that said the day that the data were unblinded,
+
+43:54.440 --> 43:57.680
+that it's a shame that the cardiovascular events are there,
+
+43:58.640 --> 44:03.640
+but the drug will do well and we will do well.
+
+44:08.680 --> 44:12.360
+But removing the three heart attacks, how does that happen?
+
+44:12.360 --> 44:16.840
+Like who has to convince themselves?
+
+44:16.840 --> 44:18.560
+Is this pure malevolence?
+
+44:19.520 --> 44:21.440
+You have to be the judge of that,
+
+44:21.440 --> 44:23.640
+but the person who was in charge
+
+44:23.640 --> 44:25.760
+of the data safety monitoring board
+
+44:27.040 --> 44:29.600
+issued a letter that said they'll stop
+
+44:29.600 --> 44:32.400
+counting cardiovascular events
+
+44:32.400 --> 44:35.120
+a month before the trial is over
+
+44:35.120 --> 44:38.440
+and they'll continue counting GI events.
+
+44:38.440 --> 44:43.360
+And that person got a contract to consult with Merck
+
+44:43.360 --> 44:47.580
+for $5,000 a day, I think for 12 days a year
+
+44:47.580 --> 44:50.660
+for one or two years that was signed,
+
+44:50.660 --> 44:55.660
+that contract was signed within two weeks
+
+44:56.500 --> 45:00.460
+of the decision to stop counting heart attacks.
+
+45:00.460 --> 45:03.140
+I wanna understand that man or woman.
+
+45:04.460 --> 45:08.060
+I wanna, it's the, I've been reading a lot
+
+45:08.060 --> 45:10.940
+about Nazi Germany and thinking a lot
+
+45:10.940 --> 45:15.940
+about the good Germans because I want to understand
+
+45:16.620 --> 45:20.020
+so that we can each encourage each other
+
+45:20.020 --> 45:23.820
+to take the small heroic actions that prevents that.
+
+45:23.820 --> 45:27.140
+Because it feels to me, removing malevolence
+
+45:27.140 --> 45:31.260
+from the table where it's just a pure psychopathic person,
+
+45:31.260 --> 45:34.860
+that there's just a momentum created by the game,
+
+45:34.860 --> 45:35.700
+like you mentioned.
+
+45:35.700 --> 45:36.660
+Yes.
+
+45:36.660 --> 45:41.660
+And so it takes reversing the momentum within a company,
+
+45:42.660 --> 45:46.860
+I think requires many small acts of heroism.
+
+45:46.860 --> 45:50.620
+Not gigantic, I'm going to leave and become a whistleblower
+
+45:50.620 --> 45:52.460
+and publish a book about it.
+
+45:52.460 --> 45:57.060
+But small, quiet acts of pressuring against this.
+
+45:57.060 --> 45:59.220
+Like, what are we doing here?
+
+45:59.220 --> 46:00.460
+We're trying to help people.
+
+46:00.460 --> 46:01.700
+Is this the right thing to do?
+
+46:01.700 --> 46:03.380
+Looking in the mirror constantly asking,
+
+46:03.380 --> 46:05.240
+is this the right thing to do?
+
+46:05.240 --> 46:07.620
+I mean, that's how, that's what integrity is.
+
+46:08.500 --> 46:11.220
+Acknowledging the pressures you're under
+
+46:11.300 --> 46:13.660
+and then still be able to zoom out and think,
+
+46:13.660 --> 46:15.360
+what is the right thing to do here?
+
+46:16.660 --> 46:21.220
+But the data, hiding the data makes it too easy
+
+46:21.220 --> 46:22.700
+to live in ignorance.
+
+46:22.700 --> 46:25.460
+So like within those, inside those companies.
+
+46:29.560 --> 46:34.560
+So your idea is that the reviewers should see the data.
+
+46:34.800 --> 46:36.420
+That's one step.
+
+46:36.420 --> 46:39.780
+So to even push back on that idea is,
+
+46:40.700 --> 46:43.380
+I assume you mean that data remains private
+
+46:43.380 --> 46:47.060
+except to the peer reviewers.
+
+46:47.060 --> 46:49.660
+The problem, of course, as you probably know,
+
+46:49.660 --> 46:52.020
+is the peer review process is not perfect.
+
+46:53.100 --> 46:55.500
+You know, it's individuals.
+
+46:55.500 --> 46:58.780
+It feels like there should be a lot more eyes on the data
+
+46:58.780 --> 47:00.480
+than just the peer reviewers.
+
+47:00.480 --> 47:03.540
+Yes, this is not a hard problem to solve.
+
+47:03.540 --> 47:06.700
+When a study is completed,
+
+47:06.700 --> 47:09.060
+a clinical study report is made.
+
+47:10.220 --> 47:12.300
+And it's usually several thousand pages.
+
+47:12.300 --> 47:15.900
+And what it does is it takes the raw patient data
+
+47:15.900 --> 47:19.700
+and it tabulates it in the ways,
+
+47:19.700 --> 47:22.060
+it's supposedly and usually,
+
+47:22.060 --> 47:25.620
+in the ways that the company has pre-specified.
+
+47:25.620 --> 47:28.420
+So that you then end up with a searchable,
+
+47:28.420 --> 47:30.720
+let's say 3000 page document.
+
+47:32.040 --> 47:36.180
+As I became more experienced as an expert in litigation,
+
+47:36.180 --> 47:39.700
+I could go through those documents pretty quickly,
+
+47:40.620 --> 47:42.060
+it quickly may mean 20 hours or 40 hours,
+
+47:42.060 --> 47:44.340
+but it doesn't mean three months of my work.
+
+47:45.300 --> 47:49.120
+And see if the companies,
+
+47:49.120 --> 47:51.660
+if the way the company has analyzed the data
+
+47:51.660 --> 47:55.820
+is consistent with their statistical analysis plan
+
+47:55.820 --> 48:00.060
+and their pre-specified outcome measures.
+
+48:00.060 --> 48:01.300
+It's not hard.
+
+48:01.300 --> 48:02.780
+And I think you're right.
+
+48:02.780 --> 48:06.200
+Peer reviewers, I don't peer review clinical trials,
+
+48:06.200 --> 48:09.300
+but I peer review other kinds of articles.
+
+48:09.900 --> 48:11.540
+I have to do one on the airplane on the way home.
+
+48:11.540 --> 48:12.500
+And it's hard, I mean,
+
+48:12.500 --> 48:15.540
+we're just ordinary mortal people volunteering to-
+
+48:15.540 --> 48:19.180
+Unpaid, the motivation is not clear.
+
+48:19.180 --> 48:22.080
+The motivation is to keep,
+
+48:23.500 --> 48:27.920
+to be a good citizen in the medical community
+
+48:27.920 --> 48:31.140
+and to be on friendly terms with the journals.
+
+48:31.140 --> 48:33.260
+So that if you wanna get published,
+
+48:33.260 --> 48:37.300
+there's sort of an unspoken incentive.
+
+48:37.300 --> 48:39.820
+As somebody who enjoys game theory,
+
+48:39.820 --> 48:42.220
+I feel like that motivation is good,
+
+48:42.220 --> 48:43.720
+but it could be a lot better.
+
+48:44.580 --> 48:46.540
+Yes, you should get more recognition
+
+48:46.540 --> 48:50.260
+or in some way academic credit for it.
+
+48:50.260 --> 48:52.980
+It should go to your career advancement.
+
+48:52.980 --> 48:54.380
+If it's an important paper
+
+48:54.380 --> 48:56.620
+and you recognize it's an important paper
+
+48:56.620 --> 48:58.420
+as a great peer reviewer,
+
+48:58.420 --> 49:01.780
+that this is not in that area where it's
+
+49:04.220 --> 49:05.920
+clearly a piece of crap paper
+
+49:05.920 --> 49:08.300
+or clearly an awesome paper
+
+49:08.300 --> 49:10.840
+that doesn't have controversial aspects to it
+
+49:10.840 --> 49:13.120
+and it's just a beautiful piece of work,
+
+49:13.120 --> 49:14.640
+okay, those are easy.
+
+49:14.640 --> 49:17.740
+And then there is like the very difficult gray area,
+
+49:17.740 --> 49:20.240
+which may require many, many days of work
+
+49:20.240 --> 49:21.900
+on your part as a peer reviewer.
+
+49:21.900 --> 49:24.400
+So it's not just a couple hours,
+
+49:24.400 --> 49:27.280
+but really seriously reading.
+
+49:27.280 --> 49:30.700
+Like some papers can take months to really understand.
+
+49:30.700 --> 49:33.600
+So if you really wanna struggle,
+
+49:33.640 --> 49:35.960
+there has to be an incentive for that struggle.
+
+49:35.960 --> 49:40.960
+Yes, and billions of dollars ride on some of these studies.
+
+49:41.320 --> 49:44.720
+And lies, right, not to mention.
+
+49:44.720 --> 49:49.720
+Right, but it would be easy to have full-time statisticians
+
+49:51.080 --> 49:53.880
+hired by the journals or shared by the journals
+
+49:55.320 --> 50:00.320
+who were independent of any other financial incentive
+
+50:00.320 --> 50:04.040
+to go over these kind of methodological issues
+
+50:04.040 --> 50:08.920
+and take responsibility for certifying the analyses
+
+50:08.920 --> 50:11.240
+that are done and then pass it on
+
+50:11.240 --> 50:14.120
+to the volunteer peer reviewers.
+
+50:14.120 --> 50:17.480
+See, I believe even in this, in the sort of capitalism
+
+50:17.480 --> 50:21.640
+or even social capital, after watching Twitter
+
+50:21.640 --> 50:24.920
+in the time of COVID and just looking at people
+
+50:24.920 --> 50:27.480
+that investigate themselves,
+
+50:27.480 --> 50:30.120
+I believe in the citizenry.
+
+50:30.880 --> 50:32.800
+If you give them access to the data,
+
+50:32.800 --> 50:35.920
+these citizen scientists arise.
+
+50:35.920 --> 50:38.400
+A lot of them on the, it's kind of funny,
+
+50:39.360 --> 50:41.000
+a lot of people that are just really used
+
+50:41.000 --> 50:42.000
+to working with data.
+
+50:43.200 --> 50:44.640
+They don't know anything about medicine
+
+50:44.640 --> 50:46.840
+and they don't have actually the biases
+
+50:46.840 --> 50:48.920
+that a lot of doctors and medical
+
+50:48.920 --> 50:51.080
+and a lot of the people that read these papers,
+
+50:51.080 --> 50:53.280
+they'll just go raw into the data
+
+50:53.280 --> 50:56.160
+and look at it with, like they're bored almost
+
+50:56.160 --> 50:58.360
+and they do incredible analysis.
+
+50:58.360 --> 51:01.080
+So I, you know, there's some argument to be made
+
+51:01.080 --> 51:04.120
+for a lot of this data to become public,
+
+51:04.120 --> 51:07.160
+like de-anonymized, no, sorry, anonymized,
+
+51:08.400 --> 51:11.160
+all that kind of stuff, but for a lot of it to be public,
+
+51:11.160 --> 51:13.400
+especially when you're talking about things
+
+51:14.560 --> 51:17.000
+as impactful as some of these drugs.
+
+51:17.000 --> 51:18.160
+I agree 100%.
+
+51:18.160 --> 51:20.000
+So let's turn the micro,
+
+51:20.000 --> 51:22.200
+let's get a little bit more granular.
+
+51:22.200 --> 51:24.240
+On the peer review issue,
+
+51:24.240 --> 51:27.840
+we're talking about pre-publication transparencies
+
+51:27.840 --> 51:29.640
+and that is critically important.
+
+51:29.640 --> 51:33.640
+Once a paper is published, the horses are out of the barn
+
+51:33.640 --> 51:34.880
+and docs are gonna read it,
+
+51:34.880 --> 51:36.840
+take it as evidence-based medicine.
+
+51:36.840 --> 51:41.080
+The economists call what then happens as stickiness
+
+51:41.080 --> 51:43.400
+that the docs hold on to their beliefs.
+
+51:43.400 --> 51:47.360
+And my own voice inside says,
+
+51:47.360 --> 51:52.080
+once doctors start doing things to their patients' bodies,
+
+51:52.080 --> 51:53.720
+they're really not too enthusiastic
+
+51:53.720 --> 51:55.480
+about hearing it was wrong.
+
+51:55.480 --> 51:57.920
+Yeah, that's the stickiness of human nature.
+
+51:57.920 --> 52:02.920
+Wow, so that bar, once it's published in the doctors,
+
+52:03.320 --> 52:05.200
+that's when the stickiness emerges, wow.
+
+52:05.200 --> 52:08.280
+Yeah, it's hard to put that toothpaste back in the tube.
+
+52:08.280 --> 52:11.600
+Now, that's pre-publication transparency,
+
+52:11.600 --> 52:13.080
+which is essential.
+
+52:13.080 --> 52:14.600
+And you could have,
+
+52:14.600 --> 52:17.520
+whoever saw that data pre-publication
+
+52:17.520 --> 52:20.040
+could sign confidentiality agreements
+
+52:20.040 --> 52:22.560
+so that the drug companies couldn't argue
+
+52:22.560 --> 52:24.760
+that we're just opening the spigots of our data
+
+52:24.760 --> 52:28.880
+and people can copy it and all the excuses they make.
+
+52:28.880 --> 52:30.560
+You could argue that you didn't have to,
+
+52:30.560 --> 52:32.440
+but let's just let them do it.
+
+52:32.440 --> 52:35.200
+Let the peer reviewers sign confidentiality agreements
+
+52:35.200 --> 52:36.800
+and they won't leak the data.
+
+52:36.800 --> 52:39.880
+But then you have to go to post-publication transparency,
+
+52:39.880 --> 52:41.760
+which is what you were just getting at,
+
+52:41.760 --> 52:46.760
+to let the data free and let citizens
+
+52:47.040 --> 52:50.560
+and citizen scientists and other doctors
+
+52:50.560 --> 52:52.680
+who are interested have at it.
+
+52:53.680 --> 52:55.800
+Kind of like Wiki, Wikipedia.
+
+52:55.800 --> 52:58.400
+Have at it and let it out
+
+52:58.400 --> 53:00.160
+and let people criticize each other.
+
+53:01.320 --> 53:03.160
+Okay, so speaking of the data,
+
+53:03.160 --> 53:08.160
+the FDA asked 55 years to release Pfizer vaccine data.
+
+53:08.880 --> 53:12.200
+This is also something I raised with Albert Berla.
+
+53:12.200 --> 53:13.880
+What did he say?
+
+53:13.880 --> 53:16.840
+There's several things I didn't like about what he said.
+
+53:16.840 --> 53:18.360
+So some things are expected
+
+53:18.360 --> 53:21.120
+and some of it is just revealing the human being,
+
+53:21.120 --> 53:23.760
+which is what I'm interested in doing.
+
+53:23.760 --> 53:28.120
+But he said he wasn't aware of the 75 and the 55.
+
+53:28.120 --> 53:29.840
+I'm sorry, wait a minute.
+
+53:29.840 --> 53:31.120
+He wasn't aware of?
+
+53:31.120 --> 53:32.000
+The how long.
+
+53:32.000 --> 53:34.200
+So here I'll explain what he.
+
+53:34.200 --> 53:37.400
+Do you know that since you spoke to him,
+
+53:37.400 --> 53:42.120
+Pfizer has petitioned the judge to join the suit
+
+53:42.120 --> 53:45.040
+in behalf of the FDA's request
+
+53:45.040 --> 53:50.040
+to release that data over 55 or 75 years.
+
+53:50.080 --> 53:52.240
+Pfizer's fully aware of what's going on.
+
+53:52.240 --> 53:53.600
+He's aware.
+
+53:53.600 --> 53:56.320
+I'm sure he's aware in some formulation,
+
+53:56.320 --> 53:59.160
+the exact years he might have not been aware.
+
+53:59.160 --> 54:01.280
+But the point is that there is,
+
+54:02.600 --> 54:06.680
+that is the FDA, the relationship of Pfizer and the FDA
+
+54:06.680 --> 54:11.080
+in terms of me being able to read human beings
+
+54:11.080 --> 54:14.400
+was the thing he was most uncomfortable with,
+
+54:14.400 --> 54:17.560
+that he didn't wanna talk about the FDA.
+
+54:17.600 --> 54:22.360
+And it was clear that there was a relationship there
+
+54:22.360 --> 54:26.520
+that if the words you use may do a lot of harm,
+
+54:26.520 --> 54:28.600
+potentially because like you're saying,
+
+54:28.600 --> 54:31.440
+there might be lawsuits going on, there's litigation,
+
+54:31.440 --> 54:33.520
+there's legal stuff, all that kind of stuff.
+
+54:33.520 --> 54:36.680
+And then there's a lot of games being played in this space.
+
+54:36.680 --> 54:40.120
+So I don't know how to interpret it
+
+54:40.120 --> 54:41.640
+if he's actually aware or not,
+
+54:41.640 --> 54:46.640
+but the deeper truth is that he's deeply uncomfortable
+
+54:48.120 --> 54:53.120
+with bringing light to this part of the game.
+
+54:53.120 --> 54:56.040
+Yes, and I'm gonna read between the lines
+
+54:56.040 --> 55:00.000
+and Albert Borla certainly didn't ask me to speak for him.
+
+55:00.000 --> 55:02.520
+But I think, when did you speak to him?
+
+55:02.520 --> 55:03.480
+How long ago?
+
+55:03.480 --> 55:05.840
+Wow, time flies when you're having fun.
+
+55:05.840 --> 55:06.680
+Two months ago.
+
+55:06.680 --> 55:07.520
+Two months ago.
+
+55:07.520 --> 55:12.080
+So that was just recently it's come out,
+
+55:12.080 --> 55:14.520
+just in the past week it's come out
+
+55:14.520 --> 55:18.960
+that Pfizer isn't battling the FDA.
+
+55:18.960 --> 55:23.960
+Pfizer has joined the FDA in the opposition to the request
+
+55:24.920 --> 55:29.920
+to release these documents in the same amount of time
+
+55:30.960 --> 55:33.200
+that the FDA took to evaluate them.
+
+55:33.200 --> 55:34.080
+Yeah.
+
+55:34.080 --> 55:39.080
+So Pfizer is offering to help the FDA
+
+55:39.440 --> 55:44.440
+to petition the judge to not enforce the timeline
+
+55:48.360 --> 55:50.760
+that he seems to be moving towards.
+
+55:50.760 --> 55:52.320
+So for people who are not familiar,
+
+55:52.320 --> 55:55.800
+we're talking about the Freedom of Information Act request
+
+55:55.800 --> 56:00.800
+to release the Pfizer vaccine data, study data,
+
+56:01.800 --> 56:04.000
+to release as much of the data as possible,
+
+56:04.000 --> 56:07.000
+like the raw data, the details, or some of the data
+
+56:07.040 --> 56:08.920
+with like the raw data, the details,
+
+56:08.920 --> 56:12.480
+or actually not even the raw data, it's data.
+
+56:12.480 --> 56:14.600
+Doesn't matter, there's details to it.
+
+56:14.600 --> 56:19.480
+And I think the response from the FDA is that,
+
+56:19.480 --> 56:21.400
+of course, yes, of course,
+
+56:23.760 --> 56:28.760
+but we can only publish like some X number of pages a day.
+
+56:29.680 --> 56:31.000
+500 pages.
+
+56:31.000 --> 56:32.680
+500 pages of data.
+
+56:32.680 --> 56:33.960
+It's not a day though.
+
+56:33.960 --> 56:36.480
+It's a week, I think.
+
+56:36.480 --> 56:39.440
+One is whatever they're able to publish is ridiculous.
+
+56:39.440 --> 56:44.440
+It's like, my printer can only print three pages a day
+
+56:45.560 --> 56:48.040
+and we cannot afford a second printer.
+
+56:48.040 --> 56:52.320
+So it's some kind of bureaucratic language for,
+
+56:52.320 --> 56:54.000
+there's a process to this.
+
+56:55.240 --> 56:58.120
+And now you're saying that Pfizer is obviously
+
+56:59.360 --> 57:03.560
+more engaged in helping this kind of bureaucratic process
+
+57:03.560 --> 57:08.560
+prosper in its full absurdity, Kafkaesque absurdity.
+
+57:08.920 --> 57:11.920
+So what is this?
+
+57:11.920 --> 57:13.840
+This really bothered people.
+
+57:13.840 --> 57:14.680
+This really-
+
+57:14.680 --> 57:15.720
+This is really troublesome.
+
+57:15.720 --> 57:19.680
+And just to put it in just plain English terms,
+
+57:20.720 --> 57:23.560
+Pfizer's making the case that it can't,
+
+57:24.840 --> 57:27.440
+the FDA and Pfizer together are making the case
+
+57:27.440 --> 57:29.840
+that they can't go through the documents
+
+57:29.840 --> 57:33.680
+that it's gonna take them some number of hundred fold,
+
+57:33.680 --> 57:37.120
+hundreds of folds more time to go through the documents
+
+57:37.120 --> 57:39.800
+than the FDA required to go through the documents
+
+57:39.800 --> 57:42.280
+to approve the vaccines,
+
+57:42.280 --> 57:44.920
+to give the vaccines full FDA approval.
+
+57:44.920 --> 57:48.880
+And the FDA's argument, talk about Kafkaesque,
+
+57:48.880 --> 57:51.280
+is that to do it more rapidly
+
+57:51.280 --> 57:53.040
+would cost them $3 million.
+
+57:54.040 --> 57:59.040
+$3 million equals one hour of vaccine sales over two years.
+
+58:01.920 --> 58:04.280
+One hour of sales.
+
+58:04.280 --> 58:05.880
+And they can't come up with the money.
+
+58:05.880 --> 58:07.960
+And now Pfizer has joined the suit
+
+58:07.960 --> 58:10.200
+to help the FDA fight off this judge,
+
+58:10.200 --> 58:12.880
+this mean judge who thinks they ought to release the data.
+
+58:12.880 --> 58:15.320
+But evidently Pfizer isn't offering to come up
+
+58:15.320 --> 58:17.240
+with the $3 million either.
+
+58:17.240 --> 58:18.840
+So bought for $3 million.
+
+58:18.840 --> 58:23.840
+I mean, maybe the FDA should do a GoFundMe campaign.
+
+58:25.440 --> 58:28.360
+Well, obviously the money thing,
+
+58:28.360 --> 58:31.280
+I mean, I'm sure if Elon Musk comes along and says,
+
+58:31.280 --> 58:35.480
+I'll give you a hundred million, publish it now,
+
+58:35.480 --> 58:37.880
+I think they'll come up with another.
+
+58:37.880 --> 58:41.880
+So, I mean, it's clear that there's cautiousness.
+
+58:43.600 --> 58:47.120
+I don't know the source of it from the FDA.
+
+58:47.120 --> 58:49.720
+There's only one explanation that I can think of,
+
+58:50.600 --> 58:53.040
+which is that the FDA and Pfizer
+
+58:53.040 --> 58:55.440
+don't wanna release the data.
+
+58:55.440 --> 58:57.960
+They don't wanna release the three
+
+58:57.960 --> 59:02.100
+or 500,000 pages of documents.
+
+59:03.200 --> 59:05.440
+And I don't know what's in there.
+
+59:05.440 --> 59:08.180
+I wanna say one thing very clearly.
+
+59:08.180 --> 59:10.160
+I am not an anti-vaxxer.
+
+59:10.160 --> 59:11.960
+I believe the vaccines work.
+
+59:11.960 --> 59:15.240
+I believe everybody should get vaccinated.
+
+59:15.240 --> 59:17.640
+The evidence is clear that if you're vaccinated,
+
+59:17.640 --> 59:20.920
+you reduce your risk of dying of COVID by 20 fold.
+
+59:20.920 --> 59:23.480
+And we've got new sub-variants coming along.
+
+59:23.480 --> 59:26.640
+And I just wanna be very clear about this.
+
+59:26.640 --> 59:29.440
+That said, there's something,
+
+59:29.440 --> 59:32.920
+I would give you 10 to one odds on a bet
+
+59:32.920 --> 59:35.120
+that there's something in that data
+
+59:35.120 --> 59:37.800
+that is gonna be embarrassing
+
+59:37.800 --> 59:41.120
+to either FDA or Pfizer or both.
+
+59:41.120 --> 59:42.000
+So there's two options.
+
+59:42.000 --> 59:43.760
+I agree with you a hundred percent.
+
+59:43.800 --> 59:46.760
+One is they know of embarrassing things.
+
+59:46.760 --> 59:48.240
+That's option one.
+
+59:48.240 --> 59:51.800
+And option two, they haven't invested enough
+
+59:51.800 --> 59:54.240
+to truly understand the data.
+
+59:54.240 --> 59:56.480
+Like, I mean, it's a lot of data
+
+59:56.480 --> 59:58.200
+that they have a sense
+
+59:58.200 --> 01:00:00.080
+there might be something embarrassing in there.
+
+01:00:00.080 --> 01:00:02.160
+And if we release it,
+
+01:00:02.160 --> 01:00:04.440
+surely the world will discover the embarrassing.
+
+01:00:04.440 --> 01:00:08.920
+And to do sort of the steel man, their argument,
+
+01:00:08.920 --> 01:00:11.720
+they'll take the small, the press,
+
+01:00:11.720 --> 01:00:14.480
+the people will take the small embarrassing things
+
+01:00:14.480 --> 01:00:16.440
+and blow them up into big things.
+
+01:00:16.440 --> 01:00:20.320
+Yes, and support the anti-vax campaign.
+
+01:00:20.320 --> 01:00:22.720
+I think that's all possible.
+
+01:00:22.720 --> 01:00:24.840
+Nonetheless, the data
+
+01:00:24.840 --> 01:00:27.920
+are about the original clinical trial.
+
+01:00:27.920 --> 01:00:32.200
+And the emergency youths authorization
+
+01:00:32.200 --> 01:00:34.760
+was based on the first few months
+
+01:00:34.760 --> 01:00:36.200
+of the data from that trial.
+
+01:00:36.200 --> 01:00:37.880
+And it was a two year trial.
+
+01:00:37.880 --> 01:00:40.240
+The rest of that data has not been opened up.
+
+01:00:40.240 --> 01:00:43.560
+And there was not an advisory committee meeting
+
+01:00:43.560 --> 01:00:45.040
+to look at that data
+
+01:00:45.040 --> 01:00:47.440
+when the FDA granted full authorization.
+
+01:00:47.440 --> 01:00:49.320
+Again, I am pro-vaccine.
+
+01:00:49.320 --> 01:00:52.640
+I am not making an anti-vax argument here.
+
+01:00:52.640 --> 01:00:55.280
+But I suspect that there's something
+
+01:00:55.280 --> 01:00:57.480
+pretty serious in that data.
+
+01:00:57.480 --> 01:01:00.120
+And the reason why I'm not an anti-vaxxer,
+
+01:01:01.040 --> 01:01:03.440
+having not been able to see the data
+
+01:01:03.440 --> 01:01:06.120
+that the FDA and Pfizer seem to willing
+
+01:01:06.120 --> 01:01:10.040
+not just to put effort into preventing the release of,
+
+01:01:10.880 --> 01:01:13.120
+to have quite a bit of energy into preventing,
+
+01:01:13.120 --> 01:01:16.520
+invest quite a bit of energy in not releasing that data.
+
+01:01:16.520 --> 01:01:18.400
+The reason why that doesn't tip me over
+
+01:01:18.400 --> 01:01:20.200
+into the anti-vaxxer side
+
+01:01:20.200 --> 01:01:22.400
+is because that's clinical trial data,
+
+01:01:22.400 --> 01:01:23.680
+early clinical trial data
+
+01:01:23.680 --> 01:01:25.800
+that involved several thousand people.
+
+01:01:25.800 --> 01:01:28.920
+We now have millions of data points
+
+01:01:28.920 --> 01:01:31.080
+from people who have had the vaccine.
+
+01:01:31.080 --> 01:01:35.760
+This is real world data showing the efficacy of the vaccines.
+
+01:01:35.760 --> 01:01:38.120
+And so far, knock on wood,
+
+01:01:38.120 --> 01:01:41.200
+there aren't side effects
+
+01:01:41.200 --> 01:01:45.120
+that overcome the benefits of vaccine.
+
+01:01:45.120 --> 01:01:46.480
+So I'm with you.
+
+01:01:46.480 --> 01:01:51.360
+I'm now, I guess, three shots of the vaccine.
+
+01:01:53.200 --> 01:01:55.720
+But there's a lot of people that are kind of saying,
+
+01:01:55.720 --> 01:01:58.920
+well, even the data on the real world use,
+
+01:01:58.920 --> 01:02:01.920
+large scale data is messy.
+
+01:02:05.640 --> 01:02:06.800
+The way it's being reported,
+
+01:02:06.800 --> 01:02:08.760
+the way it's being interpreted.
+
+01:02:08.760 --> 01:02:11.520
+Well, one thing is clear to me
+
+01:02:11.520 --> 01:02:13.280
+that it is being politicized.
+
+01:02:13.280 --> 01:02:16.120
+That it's, I mean, if you just look objectively,
+
+01:02:17.120 --> 01:02:21.760
+don't have to go to, at the shallow surface level,
+
+01:02:21.760 --> 01:02:24.120
+it seems like there's two groups
+
+01:02:25.160 --> 01:02:29.000
+that I can't even put a term to it
+
+01:02:29.000 --> 01:02:32.160
+because it's not really pro-vaccine versus anti-vaccine
+
+01:02:32.160 --> 01:02:37.160
+because it's pro-vaccine, triple mask,
+
+01:02:37.680 --> 01:02:42.680
+Democrat, liberal, and then anti-mandate,
+
+01:02:42.920 --> 01:02:44.720
+whatever those groups are.
+
+01:02:44.720 --> 01:02:46.560
+I can't quite, because they're changing.
+
+01:02:46.560 --> 01:02:50.400
+Anti-mask, but not really, but kind of.
+
+01:02:50.400 --> 01:02:53.280
+So those two groups that feel political in nature,
+
+01:02:53.280 --> 01:02:56.760
+not scientific in nature, they're bickering.
+
+01:02:56.760 --> 01:03:01.240
+And then it's clear that this data is being interpreted
+
+01:03:01.240 --> 01:03:03.160
+by the different groups differently.
+
+01:03:04.080 --> 01:03:07.480
+And it's very difficult for me as a human being
+
+01:03:07.480 --> 01:03:11.200
+to understand where the truth lies,
+
+01:03:11.200 --> 01:03:14.120
+especially given how much money is flying around
+
+01:03:14.120 --> 01:03:15.400
+on all sides.
+
+01:03:15.400 --> 01:03:19.400
+So the anti-vaxxers can make a lot of money too.
+
+01:03:19.400 --> 01:03:20.240
+Let's not forget this.
+
+01:03:20.240 --> 01:03:22.560
+From the individual perspective,
+
+01:03:22.560 --> 01:03:25.280
+you can become famous being an anti-vaxxer.
+
+01:03:25.280 --> 01:03:28.120
+And so there's a lot of incentives on all sides here.
+
+01:03:28.920 --> 01:03:33.360
+And there's real human emotion and fear,
+
+01:03:33.360 --> 01:03:35.320
+and also credibility.
+
+01:03:37.640 --> 01:03:41.120
+Scientists don't wanna ruin their reputation
+
+01:03:41.120 --> 01:03:45.360
+if they speak out in whatever, like speak their opinion,
+
+01:03:45.360 --> 01:03:49.560
+or they look at some slice of the data
+
+01:03:49.560 --> 01:03:51.960
+and begin to interpret it in some kind of way.
+
+01:03:51.960 --> 01:03:55.000
+It's clear that fear is dominating the discourse here,
+
+01:03:55.000 --> 01:03:57.040
+especially in the scientific community.
+
+01:03:57.040 --> 01:03:59.360
+So I don't know what to make of that.
+
+01:04:01.880 --> 01:04:05.680
+And the only happy people here is Pfizer.
+
+01:04:06.840 --> 01:04:08.720
+It's just plowing all ahead.
+
+01:04:08.720 --> 01:04:13.280
+I mean, with every single variant,
+
+01:04:13.280 --> 01:04:17.800
+there's very, I would say,
+
+01:04:17.800 --> 01:04:21.920
+outside of arguably a very flawed system,
+
+01:04:21.920 --> 01:04:24.000
+there's a lot of incredible scientific
+
+01:04:24.000 --> 01:04:25.800
+and engineering work being done
+
+01:04:25.840 --> 01:04:29.200
+in constantly developing new antiviral drugs,
+
+01:04:31.120 --> 01:04:33.400
+new vaccines to deal with the variants.
+
+01:04:33.400 --> 01:04:37.560
+So they're happily being a capitalist machine.
+
+01:04:37.560 --> 01:04:42.560
+And it's very difficult to know what to do with that.
+
+01:04:43.680 --> 01:04:46.600
+And let's just put this in perspective for folks.
+
+01:04:46.600 --> 01:04:49.720
+The best-selling drug in the world has been Humira
+
+01:04:49.720 --> 01:04:51.440
+for a number of years.
+
+01:04:51.440 --> 01:04:55.560
+It's approved for the treatment of rheumatoid arthritis,
+
+01:04:56.400 --> 01:04:57.760
+and eight other indications.
+
+01:04:57.760 --> 01:05:02.160
+And it's sold about $20 billion globally
+
+01:05:02.160 --> 01:05:03.800
+over the past few years.
+
+01:05:03.800 --> 01:05:07.160
+It leveled out, it peaked at that level.
+
+01:05:07.160 --> 01:05:12.160
+Pfizer expects to sell $65 billion of vaccine
+
+01:05:12.920 --> 01:05:16.280
+in the first two years of the pandemic.
+
+01:05:16.280 --> 01:05:19.960
+So this is by far the biggest selling
+
+01:05:19.960 --> 01:05:22.680
+and most profitable drug that's ever come along.
+
+01:05:23.680 --> 01:05:27.000
+Can I ask you a difficult question here?
+
+01:05:28.480 --> 01:05:31.520
+In the fog that we're operating in here,
+
+01:05:34.320 --> 01:05:38.680
+on the Pfizer-BioNTech vaccine,
+
+01:05:40.360 --> 01:05:43.440
+what was done well and what was done badly
+
+01:05:43.440 --> 01:05:45.840
+that you can see now?
+
+01:05:45.840 --> 01:05:50.080
+It seems like we'll know more decades from now.
+
+01:05:50.080 --> 01:05:51.360
+Yes.
+
+01:05:51.360 --> 01:05:53.640
+But now, in the fog of today,
+
+01:05:55.080 --> 01:05:58.920
+with the $65 billion flying around,
+
+01:06:00.400 --> 01:06:02.240
+where do you land?
+
+01:06:05.080 --> 01:06:08.520
+We're gonna get to what I think is one of the key problems
+
+01:06:08.520 --> 01:06:12.240
+with the pharmaceutical industry model in the United States
+
+01:06:12.240 --> 01:06:15.040
+about being profit-driven.
+
+01:06:16.040 --> 01:06:21.040
+So in 2016, the NIH did the key infrastructure work
+
+01:06:21.960 --> 01:06:24.640
+to make mRNA vaccines.
+
+01:06:26.440 --> 01:06:28.840
+That gets left out of the discussion a lot.
+
+01:06:28.840 --> 01:06:32.200
+And Pfizer-BioNTech actually paid royalties
+
+01:06:33.400 --> 01:06:35.520
+voluntarily to the NIH.
+
+01:06:35.520 --> 01:06:36.360
+I don't know how much it was.
+
+01:06:36.360 --> 01:06:38.040
+I don't think it was a whole lot of money.
+
+01:06:38.040 --> 01:06:40.720
+But I think they wanted to avoid the litigation
+
+01:06:40.720 --> 01:06:42.720
+that Moderna got itself into
+
+01:06:43.240 --> 01:06:46.880
+by just taking that 2016 knowledge
+
+01:06:46.880 --> 01:06:50.160
+and having that be the foundation of their product.
+
+01:06:50.160 --> 01:06:54.680
+So Pfizer took that and they did their R&D.
+
+01:06:54.680 --> 01:06:59.200
+They paid for their R&D, having received that technology.
+
+01:06:59.200 --> 01:07:03.800
+And when they got the genetic code from China
+
+01:07:03.800 --> 01:07:08.800
+about the virus, they very quickly made a vaccine
+
+01:07:09.480 --> 01:07:10.960
+and the vaccine works.
+
+01:07:10.960 --> 01:07:13.840
+And President Trump, to his credit,
+
+01:07:13.840 --> 01:07:16.080
+launched Operation Warp Speed
+
+01:07:16.080 --> 01:07:18.160
+and just threw money at the problem.
+
+01:07:18.160 --> 01:07:22.440
+They just said, we spent five times more per person
+
+01:07:22.440 --> 01:07:24.200
+than the EU early on.
+
+01:07:24.200 --> 01:07:26.880
+Just pay them whatever they want.
+
+01:07:26.880 --> 01:07:28.400
+Let's just get this going.
+
+01:07:28.400 --> 01:07:32.400
+And Americans were vaccinated more quickly.
+
+01:07:32.400 --> 01:07:34.200
+We paid a lot of money.
+
+01:07:34.200 --> 01:07:37.160
+The one mistake that I think the federal government made
+
+01:07:37.160 --> 01:07:40.680
+was they were paying these guaranteed fortunes
+
+01:07:40.680 --> 01:07:45.360
+and they didn't require that the companies participate
+
+01:07:45.360 --> 01:07:49.080
+in a program to do global vaccinations.
+
+01:07:50.120 --> 01:07:53.520
+So the companies, doing their business model,
+
+01:07:53.520 --> 01:07:55.520
+distributed the vaccines
+
+01:07:55.520 --> 01:07:57.280
+where they would make the most money.
+
+01:07:57.280 --> 01:07:59.120
+And obviously they would make the most money
+
+01:07:59.120 --> 01:08:00.040
+in the first world.
+
+01:08:00.040 --> 01:08:04.240
+And almost all, I think 85% of the vaccines early on
+
+01:08:04.240 --> 01:08:05.960
+went to the first world.
+
+01:08:06.000 --> 01:08:10.600
+And very, very few vaccinations went to the third world.
+
+01:08:10.600 --> 01:08:15.600
+So what happened is there was such a low vaccination rate
+
+01:08:16.520 --> 01:08:19.280
+in May of 2021.
+
+01:08:19.280 --> 01:08:23.120
+There was a all hands on deck cry for help
+
+01:08:23.120 --> 01:08:25.200
+from the World Trade Organization,
+
+01:08:26.600 --> 01:08:28.880
+the World Health Organization,
+
+01:08:28.880 --> 01:08:33.880
+the IMF and the World Bank made a plea for $50 billion
+
+01:08:34.880 --> 01:08:39.080
+so that we could get to 40% vaccination rate
+
+01:08:39.080 --> 01:08:42.320
+in the third world by the end of 2021.
+
+01:08:44.400 --> 01:08:47.480
+And it was unrequited, nobody answered.
+
+01:08:48.880 --> 01:08:53.880
+And now Africa has about a 8.9% vaccination rate.
+
+01:08:54.480 --> 01:08:57.120
+India is coming up, but it's been very low.
+
+01:08:57.120 --> 01:09:02.120
+The problem with all this is I believe those mRNA vaccines
+
+01:09:02.280 --> 01:09:03.880
+are excellent vaccines.
+
+01:09:04.760 --> 01:09:08.000
+But if we leave the third world unvaccinated,
+
+01:09:08.000 --> 01:09:12.800
+we're gonna have a constant supply of variants of COVID
+
+01:09:12.800 --> 01:09:15.840
+that are gonna come back into the United States
+
+01:09:15.840 --> 01:09:20.800
+and harm Americans exactly like Delta and Omicron have.
+
+01:09:20.800 --> 01:09:23.000
+So we've made a great drug.
+
+01:09:23.000 --> 01:09:25.760
+It reduces the risk of mortality
+
+01:09:25.760 --> 01:09:28.440
+in Americans who get it by a lot,
+
+01:09:28.440 --> 01:09:31.120
+but we're not doing what we need to do
+
+01:09:31.120 --> 01:09:33.320
+to protect Americans from Omicron.
+
+01:09:33.320 --> 01:09:34.800
+You don't have to be an idealist
+
+01:09:34.800 --> 01:09:37.000
+and worry about global vaccine equity.
+
+01:09:37.000 --> 01:09:41.320
+If you just ordinary selfish people like most of us are,
+
+01:09:41.320 --> 01:09:43.640
+and you're worried about the health of Americans,
+
+01:09:43.640 --> 01:09:47.320
+you would ensure global vaccine distribution.
+
+01:09:47.320 --> 01:09:49.160
+Let me just make one more point.
+
+01:09:49.160 --> 01:09:51.800
+That $50 billion that was requested
+
+01:09:51.800 --> 01:09:55.280
+by the four organizations back in May of 2021,
+
+01:09:55.280 --> 01:09:59.360
+32 billionaires made $50 billion
+
+01:09:59.360 --> 01:10:01.480
+from the vaccines at that point,
+
+01:10:01.480 --> 01:10:04.000
+took it into their private wealth.
+
+01:10:04.000 --> 01:10:05.080
+So what had been taken,
+
+01:10:05.080 --> 01:10:06.280
+these enormous amounts of money
+
+01:10:06.280 --> 01:10:08.400
+that had been taken into private wealth
+
+01:10:08.400 --> 01:10:11.640
+was enough to do what those organizations said
+
+01:10:11.640 --> 01:10:14.800
+needed to be done to prevent the sub-variants
+
+01:10:14.800 --> 01:10:16.680
+from coming back and doing what they're doing.
+
+01:10:16.680 --> 01:10:17.880
+So the money was there,
+
+01:10:17.880 --> 01:10:21.360
+but how does the money-driven motivation of Big Pharma
+
+01:10:21.360 --> 01:10:26.360
+lead to that kind of allocation of vaccines?
+
+01:10:27.240 --> 01:10:29.920
+Because they can make more money in the United States.
+
+01:10:29.920 --> 01:10:31.560
+Yeah, they're gonna distribute their vaccines
+
+01:10:31.560 --> 01:10:33.040
+where they can make the most money.
+
+01:10:33.040 --> 01:10:33.880
+Right.
+
+01:10:33.880 --> 01:10:38.880
+Is there a malevolent aspect to this where,
+
+01:10:39.760 --> 01:10:43.040
+boy, I don't like saying this,
+
+01:10:43.040 --> 01:10:48.040
+but that they don't see it as a huge problem
+
+01:10:48.480 --> 01:10:51.640
+that variants will come back to the United States.
+
+01:10:51.640 --> 01:10:54.960
+I think it's the issue we were talking about earlier on
+
+01:10:55.520 --> 01:10:58.560
+where they're in a different culture
+
+01:10:58.560 --> 01:11:02.480
+and their culture is that their moral obligation,
+
+01:11:02.480 --> 01:11:04.600
+as Milton Fridman would say,
+
+01:11:04.600 --> 01:11:07.760
+is to maximize the profits that they return to shareholders.
+
+01:11:07.760 --> 01:11:10.600
+And don't think about the bigger picture.
+
+01:11:10.600 --> 01:11:11.560
+The collateral damage.
+
+01:11:11.560 --> 01:11:12.760
+Don't think about the collateral damage.
+
+01:11:12.760 --> 01:11:14.840
+And also kind of believe,
+
+01:11:14.840 --> 01:11:17.800
+convince yourself that if we give into
+
+01:11:17.800 --> 01:11:20.160
+this capitalist machine
+
+01:11:20.160 --> 01:11:23.160
+in this very narrow sense of capitalism,
+
+01:11:23.160 --> 01:11:25.920
+that in the end they'll do the most good.
+
+01:11:25.920 --> 01:11:30.480
+This kind of belief that if we just maximize profits,
+
+01:11:31.400 --> 01:11:32.640
+we'll do the most good.
+
+01:11:32.640 --> 01:11:36.800
+Yeah, that's an orthodoxy of several decades ago.
+
+01:11:36.800 --> 01:11:40.200
+And I don't think people can really say that in good faith.
+
+01:11:40.200 --> 01:11:43.720
+When you're talking about vaccinating the third world
+
+01:11:43.720 --> 01:11:44.920
+so we don't get hurt,
+
+01:11:44.920 --> 01:11:47.280
+it's a little bit hard to make the argument
+
+01:11:47.280 --> 01:11:48.520
+that the world's a better place
+
+01:11:48.520 --> 01:11:51.080
+because the profits of the investors went up.
+
+01:11:51.120 --> 01:11:52.480
+Yeah, but at the same time,
+
+01:11:54.800 --> 01:11:57.240
+I think that's a belief you can hold.
+
+01:11:58.080 --> 01:12:01.280
+I mean, I've interacted with a bunch of folks that kind of,
+
+01:12:01.280 --> 01:12:05.480
+it's the, I don't want to mischaracterize Ayn Rand, okay?
+
+01:12:05.480 --> 01:12:07.400
+I respect a lot of people,
+
+01:12:07.400 --> 01:12:10.120
+but there's, it's a belief that can take hold.
+
+01:12:10.120 --> 01:12:13.920
+If I just focus on this particular maximization,
+
+01:12:13.920 --> 01:12:16.040
+it will do the most good for the world.
+
+01:12:16.040 --> 01:12:19.200
+The problem is when you choose what to maximize
+
+01:12:19.240 --> 01:12:20.720
+and you put blinders on,
+
+01:12:20.720 --> 01:12:24.720
+it's too easy to start making gigantic mistakes
+
+01:12:24.720 --> 01:12:28.160
+that have a big negative impact on society.
+
+01:12:28.160 --> 01:12:30.760
+So it really matters what you're maximizing.
+
+01:12:30.760 --> 01:12:33.720
+Right, and if we had a true democracy
+
+01:12:33.720 --> 01:12:35.320
+and everybody had one vote,
+
+01:12:36.560 --> 01:12:39.600
+everybody got decent information and had one vote,
+
+01:12:39.600 --> 01:12:44.080
+Ayn Rand's position would get some votes, but not many.
+
+01:12:44.080 --> 01:12:47.840
+And it would be way outvoted by the common people.
+
+01:12:48.840 --> 01:12:53.840
+Let me ask you about this very difficult topic
+
+01:12:53.840 --> 01:12:58.840
+I'm talking to Mark Zuckerberg of Metta,
+
+01:13:00.640 --> 01:13:03.040
+the topic of censorship.
+
+01:13:03.040 --> 01:13:04.760
+I don't know if you've heard,
+
+01:13:04.760 --> 01:13:08.960
+but there's a guy named Robert Malone and Peter McCullough
+
+01:13:08.960 --> 01:13:10.880
+that were removed from many platforms
+
+01:13:10.880 --> 01:13:14.200
+for speaking about the COVID vaccine as being risky.
+
+01:13:14.200 --> 01:13:16.800
+They were both on Joe Rogan's program.
+
+01:13:17.720 --> 01:13:22.480
+What do you think about censorship in this space,
+
+01:13:23.640 --> 01:13:28.640
+in this difficult space where so much is controlled by,
+
+01:13:29.280 --> 01:13:31.600
+not controlled, but influenced by advertisements
+
+01:13:31.600 --> 01:13:32.600
+from Big Pharma,
+
+01:13:34.880 --> 01:13:38.160
+and science can even be influenced by Big Pharma.
+
+01:13:39.320 --> 01:13:41.320
+Where do you lean on this?
+
+01:13:41.320 --> 01:13:46.320
+Should we allow, should we lean towards freedom
+
+01:13:46.720 --> 01:13:50.120
+and just allow all the voices,
+
+01:13:50.120 --> 01:13:54.560
+even those that go against the scientific consensus?
+
+01:13:54.560 --> 01:13:57.560
+Is that one way to fight the science
+
+01:13:59.800 --> 01:14:02.600
+that is funded by Big Pharma,
+
+01:14:02.600 --> 01:14:05.360
+or is that do more harm than good,
+
+01:14:05.360 --> 01:14:08.440
+having too many voices that are contending here?
+
+01:14:08.440 --> 01:14:10.640
+Should the ultimate battle be fought
+
+01:14:10.640 --> 01:14:15.120
+in the space of scientific publications?
+
+01:14:15.120 --> 01:14:19.360
+And particularly in the era of COVID,
+
+01:14:19.360 --> 01:14:22.600
+where there are large public health ramifications
+
+01:14:22.600 --> 01:14:27.440
+to this public discourse, the ante is way up.
+
+01:14:27.440 --> 01:14:30.000
+So I don't have a simple answer to that.
+
+01:14:31.160 --> 01:14:34.800
+I think everyone's allowed their own opinion.
+
+01:14:34.800 --> 01:14:38.680
+I don't think everyone's allowed their own scientific facts.
+
+01:14:38.680 --> 01:14:42.240
+And how we develop a mechanism
+
+01:14:43.120 --> 01:14:45.360
+that's other than an open internet
+
+01:14:45.360 --> 01:14:49.560
+where whoever is shouting the loudest gets the most clicks
+
+01:14:49.560 --> 01:14:54.240
+and rage creates value on the internet,
+
+01:14:54.240 --> 01:14:58.200
+I think that's not a good mechanism for working this out.
+
+01:14:58.200 --> 01:14:59.760
+And I don't think we have one.
+
+01:14:59.760 --> 01:15:01.800
+I don't have a solution to this.
+
+01:15:01.800 --> 01:15:05.320
+I mean, ideally, if we had a philosopher king,
+
+01:15:05.320 --> 01:15:08.720
+we could have a panel of people
+
+01:15:08.720 --> 01:15:12.800
+who were not conflicted by rigid opinions
+
+01:15:13.920 --> 01:15:18.840
+decide on what the boundaries of public discourse might be.
+
+01:15:19.680 --> 01:15:21.800
+I don't think it should be fully open.
+
+01:15:21.800 --> 01:15:24.440
+I don't think people who are making,
+
+01:15:25.400 --> 01:15:28.360
+who are committed to an anti-vaccine position
+
+01:15:28.360 --> 01:15:31.040
+and will tailor their interpretation
+
+01:15:31.040 --> 01:15:34.960
+of complex scientific data to support their opinion,
+
+01:15:34.960 --> 01:15:36.800
+I think that can be harmful.
+
+01:15:36.800 --> 01:15:39.280
+Constraining their speech can be harmful as well.
+
+01:15:39.280 --> 01:15:42.200
+So I don't have an answer here, but yeah.
+
+01:15:42.200 --> 01:15:45.800
+I tend to believe that it's more dangerous
+
+01:15:45.800 --> 01:15:49.360
+to censor anti-vax messages.
+
+01:15:49.360 --> 01:15:53.400
+The way to defeat anti-vax messages
+
+01:15:53.400 --> 01:15:56.480
+is by being great communicators,
+
+01:15:56.480 --> 01:15:58.360
+by being great scientific communicators.
+
+01:15:58.360 --> 01:16:03.360
+So it's not that we need to censor the things we don't like.
+
+01:16:04.160 --> 01:16:06.760
+We need to be better communicating
+
+01:16:07.760 --> 01:16:10.080
+the things we do like or the things that we do believe
+
+01:16:10.080 --> 01:16:13.920
+represent a deep scientific truth.
+
+01:16:13.920 --> 01:16:18.400
+Because I think if you censor,
+
+01:16:18.400 --> 01:16:20.600
+you get worse at doing science
+
+01:16:22.160 --> 01:16:24.840
+and you give the wrong people power.
+
+01:16:27.200 --> 01:16:30.960
+So I tend to believe that you should give power
+
+01:16:30.960 --> 01:16:33.400
+to the individual scientists
+
+01:16:33.400 --> 01:16:35.720
+and also give them the responsibility
+
+01:16:35.720 --> 01:16:38.880
+of being better educators, communicators,
+
+01:16:38.880 --> 01:16:41.680
+expressers of scientific ideas,
+
+01:16:41.680 --> 01:16:43.480
+put pressure on them to release data,
+
+01:16:43.480 --> 01:16:46.800
+to release that data in a way that's easily consumable,
+
+01:16:46.800 --> 01:16:49.200
+not just like very difficult to understand,
+
+01:16:49.200 --> 01:16:50.760
+but in a way that can be understood
+
+01:16:50.760 --> 01:16:52.520
+by a large number of people.
+
+01:16:52.520 --> 01:16:57.160
+So the battle should be fought in the open space of ideas
+
+01:16:57.160 --> 01:17:02.160
+versus in the quiet space of journals.
+
+01:17:02.640 --> 01:17:05.960
+I think we no longer have that comfort,
+
+01:17:05.960 --> 01:17:08.280
+especially at the highest of stakes.
+
+01:17:08.280 --> 01:17:11.600
+So this kind of idea that a couple of peer reviewers
+
+01:17:11.600 --> 01:17:14.280
+decide the fate of billions
+
+01:17:16.560 --> 01:17:18.920
+doesn't seem to be sustainable,
+
+01:17:18.920 --> 01:17:23.920
+especially given a very real observation now
+
+01:17:24.160 --> 01:17:29.160
+that the reason Robert Malone has a large following
+
+01:17:29.600 --> 01:17:31.960
+is there's a deep distrust of institutions,
+
+01:17:31.960 --> 01:17:36.480
+deep distrust of scientists, of science as an institution,
+
+01:17:36.480 --> 01:17:40.320
+of power centers, of companies, of everything,
+
+01:17:40.320 --> 01:17:42.840
+and perhaps rightfully so.
+
+01:17:42.840 --> 01:17:44.360
+But the way to defend against that
+
+01:17:44.360 --> 01:17:48.560
+is not for the powerful to build a bigger wall,
+
+01:17:48.560 --> 01:17:50.560
+it's for the powerful to be authentic
+
+01:17:52.320 --> 01:17:54.680
+and maybe a lot of them to get fired
+
+01:17:54.680 --> 01:17:58.000
+and for new minds, for new fresh scientists
+
+01:17:59.000 --> 01:18:01.160
+once who are more authentic, more real,
+
+01:18:01.160 --> 01:18:03.360
+better communicators to step up.
+
+01:18:03.360 --> 01:18:08.360
+So I fear censorship because it feels like
+
+01:18:08.600 --> 01:18:13.120
+censorship is an even harder job to do it well
+
+01:18:13.120 --> 01:18:16.040
+than being good communicators.
+
+01:18:16.040 --> 01:18:18.560
+And it seems like it's always the C students
+
+01:18:18.560 --> 01:18:20.760
+that end up doing the censorship.
+
+01:18:20.760 --> 01:18:24.400
+It's always the incompetent people,
+
+01:18:24.400 --> 01:18:26.560
+and not just the incompetent,
+
+01:18:27.200 --> 01:18:28.800
+but the biggest whiners.
+
+01:18:28.800 --> 01:18:33.000
+So like what happens is the people
+
+01:18:33.000 --> 01:18:36.560
+that get the most emotional and the most outraged
+
+01:18:36.560 --> 01:18:38.240
+will drive the censorship.
+
+01:18:39.560 --> 01:18:42.600
+And it doesn't seem like reason drives the censorship.
+
+01:18:42.600 --> 01:18:44.880
+That's just objectively observing
+
+01:18:44.880 --> 01:18:48.000
+how censorship seems to work in this current.
+
+01:18:48.000 --> 01:18:50.800
+So there's so many forms of censorship.
+
+01:18:50.800 --> 01:18:52.960
+You look at the Soviet Union with the propaganda
+
+01:18:52.960 --> 01:18:55.320
+or Nazi Germany, it's a very different level
+
+01:18:55.320 --> 01:18:57.840
+of censorship, people tend to conflate
+
+01:18:57.840 --> 01:18:59.400
+all of these things together.
+
+01:18:59.400 --> 01:19:03.760
+Social media trying desperately to have trillions
+
+01:19:03.760 --> 01:19:07.320
+or hundreds of billions of exchanges a day
+
+01:19:07.320 --> 01:19:10.680
+and like try to make sure that their platform
+
+01:19:10.680 --> 01:19:15.680
+has some semblance of like, quote, healthy conversations.
+
+01:19:16.360 --> 01:19:18.600
+Like people just don't go insane.
+
+01:19:18.600 --> 01:19:20.880
+They actually like using the platform
+
+01:19:20.880 --> 01:19:23.440
+and they censor based on that.
+
+01:19:23.440 --> 01:19:24.960
+That's a different level of censorship.
+
+01:19:25.600 --> 01:19:28.080
+But even there, you can really run afoul
+
+01:19:28.080 --> 01:19:32.480
+of the people that get the whiny C students
+
+01:19:32.480 --> 01:19:34.920
+controlling too much of the censorship.
+
+01:19:34.920 --> 01:19:39.520
+I believe you should actually put the responsibility
+
+01:19:39.520 --> 01:19:42.520
+on the self-proclaimed holders of truth,
+
+01:19:42.520 --> 01:19:45.680
+aka scientists, at being better communicators.
+
+01:19:46.800 --> 01:19:47.640
+I agree with that.
+
+01:19:47.640 --> 01:19:51.480
+I'm not advocating for any kind of censorship,
+
+01:19:51.480 --> 01:19:55.640
+but Marshall McLuhan was very influential
+
+01:19:55.640 --> 01:19:57.200
+when I was in college.
+
+01:19:57.200 --> 01:20:02.200
+And his, that meme, the medium is the message.
+
+01:20:03.320 --> 01:20:04.880
+It's a little bit hard to understand
+
+01:20:04.880 --> 01:20:06.840
+when you're comparing radio to TV
+
+01:20:06.840 --> 01:20:09.960
+and saying radio's hotter or TV's hotter or something.
+
+01:20:09.960 --> 01:20:12.560
+But we now have the medium is the message
+
+01:20:12.560 --> 01:20:16.280
+in a way that we've never seen, we've never imagined before
+
+01:20:16.280 --> 01:20:21.280
+where rage and anger and polarization
+
+01:20:22.480 --> 01:20:27.480
+are what drives the traffic on the internet.
+
+01:20:28.240 --> 01:20:33.240
+And we don't, it's a question of building the commons.
+
+01:20:34.040 --> 01:20:36.080
+Ideally, I don't know how to get there.
+
+01:20:36.080 --> 01:20:38.480
+So I'm not pretending to have a solution,
+
+01:20:38.480 --> 01:20:42.320
+but the commons of discourse about this particular issue,
+
+01:20:42.320 --> 01:20:47.200
+about vaccines, has been largely destroyed by the edges,
+
+01:20:47.200 --> 01:20:50.120
+by the drug companies and the advocates on the one side
+
+01:20:50.120 --> 01:20:55.120
+and the people who just criticize and think that
+
+01:20:55.800 --> 01:20:57.760
+even though the data are flawed,
+
+01:20:57.760 --> 01:21:01.040
+that there's no way vaccines can be beneficial.
+
+01:21:01.040 --> 01:21:04.120
+And to have those people screaming at each other
+
+01:21:04.120 --> 01:21:09.120
+does nothing to improve the health of the 95%
+
+01:21:09.160 --> 01:21:13.640
+of the people in the middle who want to know
+
+01:21:13.640 --> 01:21:16.520
+what the rational way to go forward is
+
+01:21:16.520 --> 01:21:18.600
+and protect their families from COVID
+
+01:21:18.640 --> 01:21:21.520
+and live a good life and be able to participate
+
+01:21:21.520 --> 01:21:25.240
+in the economy, and that's the problem.
+
+01:21:25.240 --> 01:21:26.480
+I don't have a solution.
+
+01:21:26.480 --> 01:21:29.600
+Well, there's a difficult problem for Spotify and YouTube.
+
+01:21:29.600 --> 01:21:31.400
+I don't know if you heard, this is a thing
+
+01:21:31.400 --> 01:21:34.640
+that Joe Rogan is currently going through as a platform
+
+01:21:34.640 --> 01:21:36.880
+whether to censor the conversation that,
+
+01:21:36.880 --> 01:21:38.200
+for example, Joe is having.
+
+01:21:39.200 --> 01:21:41.080
+So I don't know if you heard, but Neil Young
+
+01:21:41.080 --> 01:21:43.960
+and other musicians have kind of spoke out
+
+01:21:43.960 --> 01:21:45.800
+and saying they're going to leave the platform
+
+01:21:45.840 --> 01:21:49.800
+because Joe Rogan is allowed to be on this platform
+
+01:21:49.800 --> 01:21:51.400
+having these kinds of conversations
+
+01:21:51.400 --> 01:21:53.040
+with the likes of Robert Malone.
+
+01:21:54.800 --> 01:21:57.840
+And it's clear to me that Spotify and YouTube
+
+01:21:57.840 --> 01:22:01.320
+are being significantly influenced by these extreme voices
+
+01:22:01.320 --> 01:22:03.360
+I can mention on each side.
+
+01:22:03.360 --> 01:22:05.880
+And it's also clear to me that Facebook is the same
+
+01:22:05.880 --> 01:22:07.760
+and it was going back and forth.
+
+01:22:07.760 --> 01:22:10.360
+In fact, that's why Facebook has been oscillating
+
+01:22:10.360 --> 01:22:12.680
+on the censorship is like one group gets louder
+
+01:22:12.680 --> 01:22:16.280
+than the other, depending on whether it's an election year.
+
+01:22:19.920 --> 01:22:21.280
+There's several things to say here.
+
+01:22:21.280 --> 01:22:24.640
+So one, it does seem, I think you put it really well,
+
+01:22:24.640 --> 01:22:26.560
+it would be amazing if these platforms
+
+01:22:26.560 --> 01:22:29.440
+could find mechanisms to listen to the center,
+
+01:22:29.440 --> 01:22:34.440
+to the big center that's actually going to be affected
+
+01:22:34.520 --> 01:22:39.400
+by the results of our pursuit of scientific truth, right?
+
+01:22:40.600 --> 01:22:42.200
+And listen to those voices.
+
+01:22:42.200 --> 01:22:45.840
+I also believe that most people are intelligent enough
+
+01:22:45.840 --> 01:22:49.400
+to process information and to make up their own minds.
+
+01:22:49.400 --> 01:22:51.720
+Like they're not in terms of,
+
+01:22:54.160 --> 01:22:55.280
+it's complicated, of course,
+
+01:22:55.280 --> 01:22:57.160
+because we've just been talking about advertisement
+
+01:22:57.160 --> 01:22:58.920
+and how people can be influenced.
+
+01:22:58.920 --> 01:23:03.920
+But I feel like if you have raw long form podcasts
+
+01:23:05.120 --> 01:23:08.480
+or programs where people express their mind
+
+01:23:08.480 --> 01:23:12.440
+and express their argument in full,
+
+01:23:12.440 --> 01:23:15.520
+I think people can hear it to make up their own mind.
+
+01:23:15.520 --> 01:23:17.760
+And if those arguments have a platform
+
+01:23:17.760 --> 01:23:19.160
+on which they can live,
+
+01:23:19.160 --> 01:23:22.240
+then other people could provide better arguments
+
+01:23:22.240 --> 01:23:23.680
+if they disagree with it.
+
+01:23:23.680 --> 01:23:26.040
+And now we as human beings,
+
+01:23:26.040 --> 01:23:28.320
+as rational as intelligent human beings,
+
+01:23:28.320 --> 01:23:30.600
+can look at both and make up our minds.
+
+01:23:30.600 --> 01:23:33.080
+And that's where social media can be very good
+
+01:23:33.080 --> 01:23:35.920
+at like this collective intelligence.
+
+01:23:35.960 --> 01:23:39.200
+We together listen to all of these voices
+
+01:23:39.200 --> 01:23:40.680
+and make up our own mind.
+
+01:23:40.680 --> 01:23:43.160
+Humble ourselves actually often.
+
+01:23:43.160 --> 01:23:46.720
+You think, you know, like you're an expert,
+
+01:23:46.720 --> 01:23:48.640
+say you have a PhD in a certain thing,
+
+01:23:48.640 --> 01:23:50.960
+so there's this confidence that comes with that.
+
+01:23:50.960 --> 01:23:54.360
+And the collective intelligence uncensored
+
+01:23:54.360 --> 01:23:56.920
+allows you to humble yourself eventually.
+
+01:23:56.920 --> 01:24:01.520
+Like as you discovery, all it takes is a few times,
+
+01:24:01.520 --> 01:24:05.080
+looking back five years later,
+
+01:24:05.080 --> 01:24:07.280
+realizing I was wrong.
+
+01:24:07.280 --> 01:24:09.080
+And that's really healthy for a scientist,
+
+01:24:09.080 --> 01:24:11.040
+that's really healthy for anybody you go through,
+
+01:24:11.040 --> 01:24:13.920
+and only through having that open discourse
+
+01:24:13.920 --> 01:24:15.960
+can you really have that.
+
+01:24:15.960 --> 01:24:20.960
+That said, Spotify also, just like Pfizer is a company,
+
+01:24:22.720 --> 01:24:26.760
+which is why this podcast,
+
+01:24:26.760 --> 01:24:29.240
+I don't know if you know what RSS feeds are,
+
+01:24:29.240 --> 01:24:31.560
+but podcasts can't be censored.
+
+01:24:31.560 --> 01:24:33.320
+So Joe's in the unfortunate position
+
+01:24:33.320 --> 01:24:35.360
+that he only lives on Spotify.
+
+01:24:35.360 --> 01:24:38.480
+So Spotify has been actually very good at saying
+
+01:24:38.480 --> 01:24:40.680
+we're staying out of it for now.
+
+01:24:41.920 --> 01:24:44.840
+But RSS, this is pirate radio.
+
+01:24:44.840 --> 01:24:47.080
+Nobody can censor, it's the internet.
+
+01:24:47.080 --> 01:24:51.880
+So financially, in terms of platforms,
+
+01:24:51.880 --> 01:24:53.680
+this cannot be censored,
+
+01:24:53.680 --> 01:24:56.800
+which is why podcasts are really beautiful.
+
+01:24:56.800 --> 01:25:01.800
+And so if Spotify or YouTube wants to be the host
+
+01:25:02.520 --> 01:25:07.000
+of podcasts, I think where they flourish
+
+01:25:07.000 --> 01:25:12.000
+is free expression, no matter how crazy.
+
+01:25:12.880 --> 01:25:16.560
+Yes, but I do wanna push back a little bit
+
+01:25:16.560 --> 01:25:18.440
+on what you're saying.
+
+01:25:18.440 --> 01:25:23.080
+I have anti-facts friends who I love.
+
+01:25:23.080 --> 01:25:26.120
+And they're dear, cherished friends.
+
+01:25:26.120 --> 01:25:27.640
+And they'll send me stuff.
+
+01:25:28.640 --> 01:25:33.200
+And it'll take me an hour to go through what they sent
+
+01:25:34.200 --> 01:25:36.560
+to see if it is credible.
+
+01:25:37.680 --> 01:25:40.520
+And usually it's not.
+
+01:25:40.520 --> 01:25:42.800
+It's not a random sample of the anti-facts argument.
+
+01:25:42.800 --> 01:25:46.760
+I'm not saying I can disprove the anti-facts argument,
+
+01:25:46.760 --> 01:25:49.160
+but I am saying that it's almost like
+
+01:25:49.160 --> 01:25:52.800
+we were talking about how medical science,
+
+01:25:52.800 --> 01:25:55.640
+clinical trials, the presentation of clinical trials
+
+01:25:55.640 --> 01:25:57.920
+to physicians could be improved.
+
+01:25:57.920 --> 01:26:00.520
+And the first thing we came up with
+
+01:26:00.520 --> 01:26:04.360
+is to have pre-publication transparency
+
+01:26:04.360 --> 01:26:06.160
+in the peer review process.
+
+01:26:06.160 --> 01:26:08.680
+So bad information, biased information,
+
+01:26:08.680 --> 01:26:11.720
+doesn't get out as if it's legitimate
+
+01:26:11.720 --> 01:26:16.120
+and you can't put it back, recapture it once it gets out.
+
+01:26:16.120 --> 01:26:18.360
+I think there's an element of that
+
+01:26:18.360 --> 01:26:21.960
+in the arguments that are going on about vaccines.
+
+01:26:21.960 --> 01:26:23.200
+And they're on both sides,
+
+01:26:23.200 --> 01:26:25.800
+but I think the anti-facts side
+
+01:26:25.800 --> 01:26:30.200
+puts out more units of information
+
+01:26:30.200 --> 01:26:33.480
+claiming to show that the vaccines don't work.
+
+01:26:33.480 --> 01:26:36.520
+And I guess in an ideal situation,
+
+01:26:36.520 --> 01:26:39.520
+there would be real-time fact-checking
+
+01:26:39.520 --> 01:26:42.160
+by independent people, not to censor it,
+
+01:26:42.160 --> 01:26:45.880
+but to just say that study was set up to do this
+
+01:26:45.880 --> 01:26:47.960
+and this is what the conclusions were.
+
+01:26:47.960 --> 01:26:52.440
+So the way it was stated is on one side of this argument.
+
+01:26:52.440 --> 01:26:55.040
+But that's what I'm arguing, yeah, I agree with you.
+
+01:26:55.040 --> 01:26:58.480
+What I'm arguing is that this big network of humans
+
+01:26:58.480 --> 01:27:00.960
+that we have, that is the collective intelligence,
+
+01:27:00.960 --> 01:27:04.000
+can do that real-time if you allow it to,
+
+01:27:04.000 --> 01:27:05.720
+if you encourage people to do it.
+
+01:27:05.720 --> 01:27:08.200
+And the scientists, as opposed to, listen,
+
+01:27:08.200 --> 01:27:10.400
+I interact with a lot of colleagues,
+
+01:27:10.400 --> 01:27:12.520
+a lot of friends that are scientists,
+
+01:27:12.520 --> 01:27:14.040
+they roll their eyes.
+
+01:27:14.040 --> 01:27:16.480
+Their response is like, ugh.
+
+01:27:16.520 --> 01:27:18.840
+Like, they don't want to interact with this.
+
+01:27:18.840 --> 01:27:22.920
+But that's just not the right response.
+
+01:27:22.920 --> 01:27:26.440
+When a huge number of people believe this,
+
+01:27:26.440 --> 01:27:30.040
+it is your job as communicators to defend your ideas.
+
+01:27:30.040 --> 01:27:33.080
+It is no longer the case that you go to a conference
+
+01:27:33.080 --> 01:27:36.480
+and defend your ideas to two other nerds
+
+01:27:36.480 --> 01:27:38.600
+that have been working on the same problem forever.
+
+01:27:38.600 --> 01:27:40.360
+I mean, sure, you can do that,
+
+01:27:40.360 --> 01:27:44.080
+but then you're rejecting the responsibility
+
+01:27:44.080 --> 01:27:48.120
+that you have explicitly or implicitly accepted
+
+01:27:48.120 --> 01:27:49.880
+when you go into this field,
+
+01:27:49.880 --> 01:27:52.680
+that you will defend the ideas of truth.
+
+01:27:52.680 --> 01:27:55.880
+And the way to defend them is in the open battlefield
+
+01:27:55.880 --> 01:27:59.000
+of ideas and become a better communicator.
+
+01:27:59.000 --> 01:28:01.040
+And I believe that when you have a large,
+
+01:28:01.040 --> 01:28:03.840
+you said you invested one or two hours in this particular,
+
+01:28:03.840 --> 01:28:07.840
+but that's little ants interacting at scale,
+
+01:28:07.840 --> 01:28:12.080
+I think that allows us to progress towards truth,
+
+01:28:12.080 --> 01:28:14.640
+at least, you know, at least I hope so.
+
+01:28:14.640 --> 01:28:15.960
+I think you're an optimist.
+
+01:28:15.960 --> 01:28:18.000
+I want to work with you a little bit on this.
+
+01:28:18.000 --> 01:28:22.560
+Let's say a person like Joe Rogan,
+
+01:28:22.560 --> 01:28:26.120
+who by the way, had me on his podcast and let me-
+
+01:28:26.120 --> 01:28:28.120
+It was an amazing conversation, I really enjoyed it.
+
+01:28:28.120 --> 01:28:30.040
+Well, thank you, I did too.
+
+01:28:30.040 --> 01:28:31.560
+And I didn't know Joe,
+
+01:28:31.560 --> 01:28:32.920
+I didn't know much about his podcast.
+
+01:28:32.920 --> 01:28:35.520
+You pushed back on Joe a bunch, which is great.
+
+01:28:35.520 --> 01:28:36.680
+And he was- I love it.
+
+01:28:36.680 --> 01:28:38.520
+He was a gentleman and we had it out.
+
+01:28:38.520 --> 01:28:40.680
+In fact, he put one clip,
+
+01:28:40.680 --> 01:28:43.160
+at one point he said something that was a little bit wrong
+
+01:28:43.160 --> 01:28:44.320
+and I corrected him.
+
+01:28:44.320 --> 01:28:46.480
+And he had the guy-
+
+01:28:46.480 --> 01:28:47.440
+Jamie. Jamie.
+
+01:28:47.440 --> 01:28:50.520
+He had Jamie check it and was very forthright
+
+01:28:50.520 --> 01:28:53.600
+in saying, yeah, you know, John's got a right here.
+
+01:28:53.600 --> 01:28:54.920
+We got to modify this a little bit.
+
+01:28:54.920 --> 01:28:56.600
+In any event, in any event-
+
+01:28:56.600 --> 01:28:58.200
+You got him.
+
+01:28:58.200 --> 01:29:00.040
+Well, I wasn't trying to get him.
+
+01:29:00.040 --> 01:29:01.520
+I was just trying to get him.
+
+01:29:01.520 --> 01:29:03.400
+You're totally, it was a beautiful exchange.
+
+01:29:03.400 --> 01:29:04.920
+There's so much respect in the room,
+
+01:29:04.920 --> 01:29:06.440
+pushing back and forth, that was great.
+
+01:29:06.440 --> 01:29:09.040
+Yeah, so I respect him.
+
+01:29:09.040 --> 01:29:13.200
+And I think when he has somebody on
+
+01:29:13.200 --> 01:29:16.760
+who's a dyed in the wool anti-faxer,
+
+01:29:16.760 --> 01:29:21.680
+the question is, how can you balance,
+
+01:29:21.680 --> 01:29:24.480
+if it needs balance, in real time?
+
+01:29:24.480 --> 01:29:26.360
+I'm not talking about afterwards.
+
+01:29:26.360 --> 01:29:27.760
+I'm talking in real time.
+
+01:29:27.760 --> 01:29:30.880
+Maybe you record, well, he does record it obviously,
+
+01:29:30.880 --> 01:29:33.800
+but maybe when there's a statement made
+
+01:29:33.800 --> 01:29:38.080
+that is made as if it's fact-based,
+
+01:29:38.080 --> 01:29:43.080
+maybe that statement should be checked by some folks
+
+01:29:43.720 --> 01:29:48.160
+who, imaginary folks who are trustworthy.
+
+01:29:48.160 --> 01:29:52.440
+And in real time, as that discussion is being played
+
+01:29:52.440 --> 01:29:57.440
+on the podcast, to show what independent experts
+
+01:29:57.880 --> 01:29:59.160
+say about that claim.
+
+01:29:59.160 --> 01:30:00.280
+That's a really interesting idea.
+
+01:30:00.280 --> 01:30:01.640
+By the way, for some reason,
+
+01:30:01.640 --> 01:30:04.040
+this idea popped into my head now is,
+
+01:30:04.040 --> 01:30:05.640
+I think real time is very difficult,
+
+01:30:06.440 --> 01:30:09.360
+it's not difficult, but it kind of ruins the conversation
+
+01:30:09.360 --> 01:30:11.840
+because you want the idea to breathe.
+
+01:30:11.840 --> 01:30:15.200
+I think what's very possible is before it's published,
+
+01:30:15.200 --> 01:30:18.440
+it's the pre-publication, before it's published,
+
+01:30:18.440 --> 01:30:20.400
+you let a bunch of people review it
+
+01:30:20.400 --> 01:30:23.720
+and they can add their voices in post,
+
+01:30:23.720 --> 01:30:25.280
+before it's published.
+
+01:30:25.280 --> 01:30:30.280
+They can add arguments, arguments against certain parts.
+
+01:30:31.520 --> 01:30:33.960
+That's very interesting to sort of, as one podcast,
+
+01:30:33.960 --> 01:30:38.520
+publish addendums, publish the peer review
+
+01:30:38.520 --> 01:30:40.520
+together with the publication.
+
+01:30:40.520 --> 01:30:41.760
+That's very interesting.
+
+01:30:43.320 --> 01:30:45.320
+I might actually do that, that's really interesting.
+
+01:30:45.320 --> 01:30:47.200
+Because I've been doing more debates
+
+01:30:47.200 --> 01:30:51.760
+where you at the same time have multiple people,
+
+01:30:51.760 --> 01:30:54.840
+which has a different dynamic because both people,
+
+01:30:54.840 --> 01:30:58.880
+I mean, it's really nice to have the time to pause
+
+01:30:58.880 --> 01:31:02.120
+just by yourself to fact check,
+
+01:31:02.120 --> 01:31:04.200
+to look at the study that was mentioned,
+
+01:31:04.200 --> 01:31:05.680
+to understand what's going on.
+
+01:31:05.680 --> 01:31:09.560
+So the peer review process, to have a little bit of time.
+
+01:31:09.560 --> 01:31:10.640
+That's really interesting.
+
+01:31:10.640 --> 01:31:14.440
+I actually would, I'd like to try that.
+
+01:31:14.440 --> 01:31:17.800
+To agree with you on some point in terms of anti-vax,
+
+01:31:17.800 --> 01:31:20.720
+I've been fascinated by listening to arguments
+
+01:31:20.720 --> 01:31:23.840
+from this community of folks that's been quite large
+
+01:31:23.840 --> 01:31:25.440
+called flat earthers,
+
+01:31:25.440 --> 01:31:28.120
+the people that believe the earth is flat.
+
+01:31:28.120 --> 01:31:30.960
+And I don't know if you've ever listened to them
+
+01:31:30.960 --> 01:31:33.760
+or read their arguments,
+
+01:31:33.760 --> 01:31:36.160
+but it's fascinating how consistent
+
+01:31:36.160 --> 01:31:37.800
+and convincing it all sounds
+
+01:31:37.800 --> 01:31:39.600
+when you just kind of take it in.
+
+01:31:39.600 --> 01:31:43.720
+Just like, just take it in like listening normally.
+
+01:31:43.720 --> 01:31:45.360
+It's all very logical.
+
+01:31:46.560 --> 01:31:49.880
+Like if you don't think very, well, no.
+
+01:31:51.480 --> 01:31:55.560
+So the thing is, the reality is,
+
+01:31:55.560 --> 01:31:57.280
+at the very basic human level
+
+01:31:57.280 --> 01:32:00.600
+with our limited cognitive capabilities,
+
+01:32:01.240 --> 01:32:03.680
+the earth is pretty flat when you go outside
+
+01:32:03.680 --> 01:32:04.880
+and you look, it's flat.
+
+01:32:04.880 --> 01:32:08.040
+So like when you use common sense reasoning,
+
+01:32:08.040 --> 01:32:09.960
+it's very easy to play to that,
+
+01:32:09.960 --> 01:32:12.080
+to convince you that the earth is flat.
+
+01:32:12.080 --> 01:32:13.640
+Plus there's powerful organizations
+
+01:32:13.640 --> 01:32:16.240
+that want to manipulate you and so on.
+
+01:32:17.240 --> 01:32:20.240
+But then there's the whole progress
+
+01:32:20.240 --> 01:32:22.600
+of science and physics of the past,
+
+01:32:22.600 --> 01:32:26.120
+but that's difficult to integrate into your thought process.
+
+01:32:26.120 --> 01:32:29.680
+So it's very true that the people should listen
+
+01:32:30.040 --> 01:32:33.400
+to flat earthers because it was very revealing to me
+
+01:32:33.400 --> 01:32:36.800
+how easily it is, how easy it is to be convinced
+
+01:32:36.800 --> 01:32:41.800
+of basically anything by charismatic arguments.
+
+01:32:42.480 --> 01:32:43.320
+Right.
+
+01:32:43.320 --> 01:32:46.960
+And if we're arguing about whether the earth is flat or not,
+
+01:32:46.960 --> 01:32:48.800
+as long as we're not navigating airplanes
+
+01:32:48.800 --> 01:32:49.960
+and doing other kinds of things,
+
+01:32:49.960 --> 01:32:53.840
+trying to get satellites to do transmission,
+
+01:32:53.840 --> 01:32:56.240
+it's not that important what we believe.
+
+01:32:56.240 --> 01:32:59.520
+But if we're arguing about how we approach
+
+01:33:00.360 --> 01:33:02.400
+the worst public health crisis in,
+
+01:33:02.400 --> 01:33:04.360
+I don't know how long, I think we're getting worse
+
+01:33:04.360 --> 01:33:06.400
+than the Spanish flu now.
+
+01:33:06.400 --> 01:33:07.840
+I don't know what the total global deaths
+
+01:33:07.840 --> 01:33:10.120
+with Spanish flu were, but in the United States,
+
+01:33:10.120 --> 01:33:12.480
+we certainly have more deaths than we had from Spanish flu.
+
+01:33:12.480 --> 01:33:14.720
+Plus the economic pain and suffering.
+
+01:33:14.720 --> 01:33:15.800
+Yes, yes.
+
+01:33:15.800 --> 01:33:19.720
+And the damage to the kids in school and so forth.
+
+01:33:19.720 --> 01:33:23.080
+We got a problem and it's not going away, unfortunately.
+
+01:33:23.080 --> 01:33:25.040
+So when we get a problem like that,
+
+01:33:25.040 --> 01:33:28.560
+it's not just an interesting bar room conversation
+
+01:33:28.560 --> 01:33:30.720
+about whether the earth is flat,
+
+01:33:30.720 --> 01:33:32.600
+there are millions of lives involved.
+
+01:33:34.360 --> 01:33:37.200
+Let me ask you yet another question,
+
+01:33:37.200 --> 01:33:40.320
+issue I raised with Pfizer CEO Albert Burla.
+
+01:33:42.160 --> 01:33:45.400
+It's the question of revolving doors.
+
+01:33:45.400 --> 01:33:47.440
+That there seems to be a revolving door
+
+01:33:47.440 --> 01:33:51.120
+between Pfizer, FDA and CDC.
+
+01:33:51.120 --> 01:33:53.280
+People that have worked at the FDA,
+
+01:33:53.280 --> 01:33:56.480
+now work at Pfizer and vice versa,
+
+01:33:56.480 --> 01:33:58.640
+including the CDC and so on.
+
+01:34:00.760 --> 01:34:01.720
+What do you think about that?
+
+01:34:01.720 --> 01:34:03.920
+So first of all, his response once again,
+
+01:34:03.920 --> 01:34:06.440
+is there's rules, there's very strict rules
+
+01:34:06.440 --> 01:34:07.520
+and we follow them.
+
+01:34:08.720 --> 01:34:10.320
+Do you think that's a problem?
+
+01:34:11.200 --> 01:34:12.040
+Ooh, ah.
+
+01:34:13.000 --> 01:34:16.240
+And also maybe this is a good time to talk about
+
+01:34:16.240 --> 01:34:18.240
+this Pfizer play by the rules.
+
+01:34:19.080 --> 01:34:20.360
+Let's, one at a time.
+
+01:34:20.360 --> 01:34:21.200
+One at a time.
+
+01:34:21.200 --> 01:34:22.760
+Okay, and this isn't even about Pfizer,
+
+01:34:22.760 --> 01:34:24.320
+but it's an answer to the question.
+
+01:34:24.320 --> 01:34:25.160
+Yes.
+
+01:34:25.160 --> 01:34:27.480
+So there's this drug, Adjahelm,
+
+01:34:27.480 --> 01:34:31.320
+that was approved by the FDA maybe six months ago.
+
+01:34:31.320 --> 01:34:34.960
+It's a drug to prevent the progression
+
+01:34:34.960 --> 01:34:37.160
+of low grade Alzheimer's disease.
+
+01:34:38.360 --> 01:34:43.360
+The target for drug development for Alzheimer's disease
+
+01:34:43.600 --> 01:34:45.120
+has been the amyloid,
+
+01:34:45.120 --> 01:34:48.000
+reducing the amyloid plaques in the brain,
+
+01:34:48.000 --> 01:34:52.120
+which correlate with the progression of Alzheimer's.
+
+01:34:52.120 --> 01:34:57.120
+And Biogen showed that its drug, Adjahelm,
+
+01:34:57.800 --> 01:35:01.000
+reduces amyloid plaques in the brain.
+
+01:35:01.000 --> 01:35:03.040
+They did two clinical trials
+
+01:35:03.040 --> 01:35:05.640
+to determine the clinical efficacy
+
+01:35:05.640 --> 01:35:07.920
+and they found that neither trial
+
+01:35:07.920 --> 01:35:10.000
+showed a meaningful benefit.
+
+01:35:10.000 --> 01:35:12.200
+And in those two trials,
+
+01:35:12.200 --> 01:35:16.000
+33% more people in the Adjahelm group
+
+01:35:16.000 --> 01:35:19.080
+develop symptomatic brain swelling and bleeding
+
+01:35:19.080 --> 01:35:20.840
+than people in the placebo group.
+
+01:35:22.120 --> 01:35:25.960
+There was an advisory committee convened
+
+01:35:27.120 --> 01:35:30.440
+to debate and determine how they felt
+
+01:35:30.440 --> 01:35:35.120
+about the approvability of Adjahelm, given those facts.
+
+01:35:35.120 --> 01:35:37.160
+And those facts aren't in dispute.
+
+01:35:37.160 --> 01:35:41.600
+They're in Biogen slides as well as FDA documents.
+
+01:35:41.600 --> 01:35:46.600
+The advisory committee voted 10 against approval
+
+01:35:47.640 --> 01:35:49.960
+and one abstain.
+
+01:35:49.960 --> 01:35:52.640
+So that's essentially universal,
+
+01:35:52.640 --> 01:35:56.280
+unanimous vote against approving Adjahelm.
+
+01:35:56.280 --> 01:36:00.720
+Now the advisory committees have been pretty much cleansed
+
+01:36:00.720 --> 01:36:03.280
+of financial conflicts of interest.
+
+01:36:03.280 --> 01:36:08.280
+So this advisory committee votes 10 no, one abstention,
+
+01:36:09.280 --> 01:36:13.200
+and the FDA overrules the unanimous opinion
+
+01:36:13.200 --> 01:36:16.160
+of its advisory committee and approves the drug.
+
+01:36:17.120 --> 01:36:21.360
+Three of the members of the advisory committee resign.
+
+01:36:21.360 --> 01:36:22.360
+They say we're not gonna be part,
+
+01:36:22.360 --> 01:36:24.800
+if the FDA is not gonna listen to a unanimous vote
+
+01:36:24.800 --> 01:36:26.720
+against approving this drug,
+
+01:36:26.720 --> 01:36:30.560
+which shows more harm than benefit, undisputed,
+
+01:36:31.560 --> 01:36:33.840
+we're not gonna participate in this.
+
+01:36:33.840 --> 01:36:36.680
+And the argument against approval
+
+01:36:36.680 --> 01:36:38.960
+is that the surrogate endpoint,
+
+01:36:38.960 --> 01:36:43.360
+the reduction of amyloid, the progression of amyloid plaques
+
+01:36:43.360 --> 01:36:48.040
+is known by the FDA not to be a valid clinical indicator.
+
+01:36:48.040 --> 01:36:50.920
+It doesn't correlate, 27 studies have shown
+
+01:36:50.920 --> 01:36:53.360
+it doesn't correlate with clinical progression.
+
+01:36:53.360 --> 01:36:54.840
+Interrupting the amyloid plaques
+
+01:36:54.840 --> 01:36:59.840
+doesn't mean that your Alzheimer's doesn't get worse.
+
+01:37:02.000 --> 01:37:05.200
+So it seems like it's a slam dunk
+
+01:37:05.200 --> 01:37:06.920
+and the FDA made a mistake
+
+01:37:06.920 --> 01:37:09.360
+and they should do whatever they do
+
+01:37:09.360 --> 01:37:12.080
+to protect their bureaucratic reputation.
+
+01:37:12.080 --> 01:37:15.280
+So the head of the Bureau of the FDA,
+
+01:37:15.280 --> 01:37:17.320
+the Center for Drug Evaluation and Research
+
+01:37:17.320 --> 01:37:19.240
+that approves new drugs,
+
+01:37:19.240 --> 01:37:23.120
+who had spent 16 years as an executive
+
+01:37:23.120 --> 01:37:25.320
+in the pharmaceutical industry,
+
+01:37:25.320 --> 01:37:28.080
+issued a statement and said,
+
+01:37:28.080 --> 01:37:31.000
+what we should do in this situation
+
+01:37:31.000 --> 01:37:36.000
+is to loosen the prohibition of financial ties of interest
+
+01:37:36.880 --> 01:37:41.280
+with the drug companies so we get less emotional responses.
+
+01:37:43.080 --> 01:37:46.160
+I said this, it's in print.
+
+01:37:49.440 --> 01:37:51.560
+People are just too emotional about this.
+
+01:37:51.560 --> 01:37:52.960
+People were just too emotional,
+
+01:37:52.960 --> 01:37:55.080
+the 10 people who voted against it
+
+01:37:55.080 --> 01:37:56.720
+and the no people who voted for it,
+
+01:37:56.720 --> 01:37:58.480
+it's all too emotional.
+
+01:37:58.480 --> 01:38:00.000
+So this gets back,
+
+01:38:00.000 --> 01:38:02.560
+this is a long answer to your short question.
+
+01:38:02.560 --> 01:38:04.880
+I think this is a wonderful window
+
+01:38:04.880 --> 01:38:07.120
+into the thinking of the FDA
+
+01:38:08.000 --> 01:38:11.160
+that financial conflicts of interest don't matter
+
+01:38:11.160 --> 01:38:13.280
+in a situation when I think it's obvious
+
+01:38:13.280 --> 01:38:15.000
+that they would matter.
+
+01:38:15.000 --> 01:38:18.040
+But there's not a direct financial conflict of interest.
+
+01:38:18.040 --> 01:38:21.200
+It's kind of, like it's not,
+
+01:38:21.200 --> 01:38:26.120
+like Albert said, there's rules.
+
+01:38:26.120 --> 01:38:27.440
+I mean, you're not allowed to have
+
+01:38:27.440 --> 01:38:29.760
+direct financial conflict of interest.
+
+01:38:29.760 --> 01:38:32.280
+It's indirect.
+
+01:38:32.280 --> 01:38:34.560
+Right, but what I'm saying is,
+
+01:38:34.560 --> 01:38:36.560
+I'm not denying what he said is true,
+
+01:38:37.560 --> 01:38:41.760
+but the FDA, a high official in the FDA
+
+01:38:41.760 --> 01:38:45.240
+is saying that we need to allow conflicts of interest
+
+01:38:45.240 --> 01:38:47.000
+in our advisory committee meetings.
+
+01:38:49.040 --> 01:38:53.440
+And that, she wants to change the rules.
+
+01:38:53.440 --> 01:38:57.840
+So Albert Borla would still be playing by the rules,
+
+01:38:57.840 --> 01:39:02.840
+but it just shows how one side of the thinking here is.
+
+01:39:03.160 --> 01:39:05.080
+But you think that's influenced by the fact
+
+01:39:05.280 --> 01:39:07.360
+that there were pharmaceutical executives
+
+01:39:07.360 --> 01:39:09.920
+working at the FDA and vice versa.
+
+01:39:09.920 --> 01:39:11.720
+And they think that's a great idea.
+
+01:39:13.120 --> 01:39:14.520
+Who gets to fix this?
+
+01:39:14.520 --> 01:39:16.480
+Do you think it should be just banned?
+
+01:39:16.480 --> 01:39:17.520
+Like if you worked. I don't know.
+
+01:39:17.520 --> 01:39:19.040
+Two separate questions.
+
+01:39:19.040 --> 01:39:22.280
+One is, should the officials at the FDA
+
+01:39:22.280 --> 01:39:24.800
+come from pharma and vice versa?
+
+01:39:24.800 --> 01:39:26.440
+Yes. That's one question.
+
+01:39:26.440 --> 01:39:27.400
+And the other question is,
+
+01:39:27.400 --> 01:39:28.960
+should advisory committee members
+
+01:39:28.960 --> 01:39:31.680
+be allowed to have financial conflicts of interest?
+
+01:39:31.680 --> 01:39:33.120
+Yes.
+
+01:39:33.120 --> 01:39:38.120
+I think in my opinion, and people might say I'm biased,
+
+01:39:38.240 --> 01:39:40.320
+I think advisory committee people
+
+01:39:40.320 --> 01:39:42.080
+should not have conflicts of interest.
+
+01:39:42.080 --> 01:39:44.880
+I think their only interest ought to be the public interest.
+
+01:39:44.880 --> 01:39:49.240
+And that was true from my understanding of the situation.
+
+01:39:49.240 --> 01:39:51.280
+It's the afterward in my book,
+
+01:39:51.280 --> 01:39:54.200
+I spent some time studying it about Aja Helm.
+
+01:39:54.200 --> 01:39:55.640
+I think it's a slam dunk
+
+01:39:55.640 --> 01:39:57.680
+that there ought to be no conflicts of interest.
+
+01:39:57.680 --> 01:40:01.400
+Now the head of CDER, Center for Drug Evaluation Research,
+
+01:40:01.400 --> 01:40:04.680
+thinks that that's gonna give you a biased result
+
+01:40:04.680 --> 01:40:07.400
+because we don't have company influence.
+
+01:40:07.400 --> 01:40:12.400
+And that I think shows how biased their thinking is.
+
+01:40:14.360 --> 01:40:17.360
+That not having company influence is a bias.
+
+01:40:19.200 --> 01:40:21.200
+Let me try to load that in.
+
+01:40:21.200 --> 01:40:23.320
+I'm trying to empathize with the belief
+
+01:40:23.320 --> 01:40:26.760
+that companies should have a voice at the table.
+
+01:40:28.680 --> 01:40:30.440
+I mean, yeah, it's part of the game.
+
+01:40:30.440 --> 01:40:31.400
+They've convinced themselves
+
+01:40:31.400 --> 01:40:33.160
+that this is how it should be played.
+
+01:40:34.520 --> 01:40:36.320
+But they have a voice at the table.
+
+01:40:36.320 --> 01:40:37.760
+They've designed the studies.
+
+01:40:37.760 --> 01:40:39.600
+Right, that's their voice.
+
+01:40:39.600 --> 01:40:40.440
+That's the whole point.
+
+01:40:40.440 --> 01:40:41.280
+They analyze the data.
+
+01:40:41.280 --> 01:40:43.080
+I mean, what bigger voice do you deserve?
+
+01:40:43.080 --> 01:40:47.040
+But I do also think on the more challenging question,
+
+01:40:47.040 --> 01:40:50.200
+I do think that there should be a ban.
+
+01:40:50.200 --> 01:40:53.600
+If you work at a pharmaceutical company,
+
+01:40:53.600 --> 01:40:55.400
+you should not be allowed to work
+
+01:40:55.400 --> 01:41:00.400
+at any regulatory agency.
+
+01:41:01.360 --> 01:41:02.200
+You should not.
+
+01:41:02.200 --> 01:41:04.000
+I mean, that, going back and forth,
+
+01:41:04.000 --> 01:41:06.680
+it's just, even if it's 30 years later.
+
+01:41:06.680 --> 01:41:07.520
+Yeah, I agree.
+
+01:41:07.520 --> 01:41:11.000
+And I have another nomination for a ban.
+
+01:41:11.000 --> 01:41:12.960
+We're in this crazy situation
+
+01:41:12.960 --> 01:41:15.120
+where Medicare is not allowed to negotiate
+
+01:41:15.120 --> 01:41:17.800
+the price of drugs with the drug companies.
+
+01:41:17.800 --> 01:41:20.840
+So the drug companies get a patent on a new drug.
+
+01:41:20.840 --> 01:41:22.440
+Unlike every other developed country,
+
+01:41:22.440 --> 01:41:24.000
+they can charge whatever they want.
+
+01:41:24.000 --> 01:41:27.800
+So they have a monopoly on a utility
+
+01:41:27.800 --> 01:41:29.560
+because no one else can make the drug.
+
+01:41:29.560 --> 01:41:31.960
+Charge whatever they want and Medicare has to pay for it.
+
+01:41:31.960 --> 01:41:35.640
+And you say, how did we get in this crazy situation?
+
+01:41:36.760 --> 01:41:39.600
+So how we got here is that in 2003,
+
+01:41:39.600 --> 01:41:42.000
+when Medicare Part D was passed,
+
+01:41:42.000 --> 01:41:45.680
+Billy Towson was head of the Ways and Means Committee
+
+01:41:45.680 --> 01:41:48.960
+in the House, played a key role in ushering this through
+
+01:41:48.960 --> 01:41:52.440
+with the non-negotiation clause of it.
+
+01:41:52.440 --> 01:41:53.960
+And after it was passed,
+
+01:41:53.960 --> 01:41:57.480
+Billy Towson did not finish out his term in Congress.
+
+01:41:57.520 --> 01:42:00.400
+He went to pharma for a $2 million a year job.
+
+01:42:02.200 --> 01:42:05.200
+This is incredible.
+
+01:42:05.200 --> 01:42:08.000
+You might think that a ban on that would be a good idea.
+
+01:42:09.520 --> 01:42:12.120
+I spoke with Francis Collins, head of the NIH
+
+01:42:12.120 --> 01:42:13.720
+on this podcast.
+
+01:42:13.720 --> 01:42:18.720
+He and NIH have a lot of power over funding in science.
+
+01:42:22.160 --> 01:42:23.560
+What are they doing right?
+
+01:42:23.560 --> 01:42:25.000
+What are they doing wrong?
+
+01:42:25.840 --> 01:42:30.480
+In this interplay with big pharma, how connected are they?
+
+01:42:32.200 --> 01:42:33.760
+Again, returning to the question,
+
+01:42:33.760 --> 01:42:35.520
+what are they doing right?
+
+01:42:35.520 --> 01:42:37.720
+What are they doing wrong in your view?
+
+01:42:37.720 --> 01:42:41.200
+So my knowledge of the NIH is not as granular
+
+01:42:41.200 --> 01:42:43.320
+as my knowledge of pharma.
+
+01:42:44.520 --> 01:42:47.560
+That said, in broad brushstrokes,
+
+01:42:47.560 --> 01:42:51.240
+the NIH is doing the infrastructure work
+
+01:42:51.240 --> 01:42:53.440
+for all drug development.
+
+01:42:53.440 --> 01:42:56.680
+I think they've participated in 100% of the drugs
+
+01:42:56.680 --> 01:42:58.880
+that have been approved by the FDA
+
+01:42:58.880 --> 01:43:00.560
+over the past 10 years or so.
+
+01:43:01.440 --> 01:43:03.040
+They've done infrastructure work.
+
+01:43:03.040 --> 01:43:08.040
+And what they do is not work on particular drugs,
+
+01:43:08.120 --> 01:43:12.320
+but they develop work on drug targets,
+
+01:43:12.320 --> 01:43:16.880
+on targets in the human body that can be affected by drugs
+
+01:43:16.880 --> 01:43:21.520
+and might be beneficial to turn on or off.
+
+01:43:21.520 --> 01:43:24.560
+And then the drug companies, when they find a target
+
+01:43:24.560 --> 01:43:29.360
+that is mutable and potentially beneficial,
+
+01:43:29.360 --> 01:43:32.040
+then the drug companies can take the research
+
+01:43:32.040 --> 01:43:34.640
+and choose to invest in the development of the drugs,
+
+01:43:34.640 --> 01:43:35.640
+specific drug.
+
+01:43:36.760 --> 01:43:38.360
+That's our model.
+
+01:43:38.360 --> 01:43:43.360
+Now, 96% of the research that's done in clinical trials
+
+01:43:44.160 --> 01:43:47.280
+in the United States is about drugs and devices.
+
+01:43:47.280 --> 01:43:49.960
+And only a fraction of the 4% that's left over
+
+01:43:49.960 --> 01:43:51.800
+is about preventive medicine
+
+01:43:51.800 --> 01:43:54.480
+and how to make Americans healthier.
+
+01:43:54.480 --> 01:43:58.520
+I think, again, from the satellite view,
+
+01:43:58.520 --> 01:44:03.520
+the NIH is investing more in science
+
+01:44:04.280 --> 01:44:07.280
+that can lead to commercial development
+
+01:44:07.280 --> 01:44:10.160
+rather than, as you said at the beginning of the podcast,
+
+01:44:10.160 --> 01:44:13.480
+there's no big fitness and lifestyle industry
+
+01:44:13.480 --> 01:44:16.000
+that can counter pharma.
+
+01:44:16.000 --> 01:44:19.720
+So I think at the NIH level, that countering can be done.
+
+01:44:19.720 --> 01:44:22.560
+And the diabetes prevention program study
+
+01:44:22.560 --> 01:44:23.640
+that we talked about before,
+
+01:44:23.640 --> 01:44:26.480
+where lifestyle was part of a randomized trial
+
+01:44:26.480 --> 01:44:28.920
+and was shown to be more effective than metformin
+
+01:44:28.920 --> 01:44:30.960
+at preventing the development of diabetes,
+
+01:44:30.960 --> 01:44:34.440
+that is absolute proof positive
+
+01:44:34.440 --> 01:44:36.120
+that investing in that kind of science
+
+01:44:36.120 --> 01:44:37.880
+can produce good results.
+
+01:44:37.880 --> 01:44:42.880
+So I think that we're aimed at drug development
+
+01:44:43.080 --> 01:44:44.840
+and what we ought to be aimed at
+
+01:44:44.840 --> 01:44:47.680
+is an epidemiological approach
+
+01:44:47.680 --> 01:44:49.880
+to improving the health of all Americans.
+
+01:44:49.880 --> 01:44:54.120
+We rank 68th in the world in healthy life expectancy,
+
+01:44:55.040 --> 01:44:58.960
+despite spending an extra trillion and a half dollars a year.
+
+01:44:58.960 --> 01:45:03.960
+And I believe strongly that the reason why we've gotten
+
+01:45:04.200 --> 01:45:09.200
+in this crazy position is because the knowledge
+
+01:45:09.360 --> 01:45:12.480
+that we're producing is about new drugs and devices,
+
+01:45:12.480 --> 01:45:15.760
+and it's not about improving population health.
+
+01:45:15.800 --> 01:45:19.680
+In this problem, the NIH is the perfect institution
+
+01:45:19.680 --> 01:45:23.160
+to play a role in rebalancing our research agenda.
+
+01:45:23.160 --> 01:45:24.960
+And some of that is on the leadership side
+
+01:45:24.960 --> 01:45:27.920
+with Francis Collins and Anthony Fauci,
+
+01:45:27.920 --> 01:45:32.440
+not just speaking about basically everything
+
+01:45:32.440 --> 01:45:34.760
+that just leads to drug development, vaccine development,
+
+01:45:34.760 --> 01:45:36.760
+but also speaking about healthy lifestyles
+
+01:45:36.760 --> 01:45:40.800
+and speaking about health, not just sickness.
+
+01:45:40.800 --> 01:45:43.240
+Yes, and investing, investing in health.
+
+01:45:43.240 --> 01:45:48.240
+I mean, it's like one fee is the other.
+
+01:45:49.000 --> 01:45:51.200
+One, you have to communicate to the public
+
+01:45:51.200 --> 01:45:53.920
+the importance of investing in health,
+
+01:45:53.920 --> 01:45:57.840
+and that leads to you getting props for investing in health
+
+01:45:57.840 --> 01:45:59.880
+and then you can invest in health more and more.
+
+01:45:59.880 --> 01:46:01.680
+That communicates, I mean,
+
+01:46:01.680 --> 01:46:05.120
+everything that Anthony Fauci says or Francis Collins says
+
+01:46:05.120 --> 01:46:07.240
+has an impact on scientists.
+
+01:46:07.240 --> 01:46:12.120
+I mean, it sets the priorities.
+
+01:46:12.280 --> 01:46:16.080
+I don't think they, it's the sad thing about leaders,
+
+01:46:18.680 --> 01:46:22.080
+forgive me for saying the word, but mediocre leaders,
+
+01:46:22.080 --> 01:46:26.000
+is they don't see themselves as part of a game.
+
+01:46:28.200 --> 01:46:29.920
+They don't see the momentum.
+
+01:46:29.920 --> 01:46:31.160
+It's like a fish in the water.
+
+01:46:31.160 --> 01:46:32.960
+They don't see the water.
+
+01:46:32.960 --> 01:46:36.080
+Great leaders stand up and reverse the direction
+
+01:46:36.080 --> 01:46:37.120
+of how things are going.
+
+01:46:37.120 --> 01:46:39.920
+And I actually put a lot of responsibility,
+
+01:46:40.880 --> 01:46:43.520
+some people say too much, but whatever.
+
+01:46:43.520 --> 01:46:46.440
+I think leaders carry the responsibility.
+
+01:46:46.440 --> 01:46:48.800
+I put a lot of responsibility on Anthony Fauci
+
+01:46:48.800 --> 01:46:51.360
+and Francis Collins for not actually speaking
+
+01:46:51.360 --> 01:46:55.880
+a lot more about health, not, and bigger,
+
+01:46:55.880 --> 01:47:00.880
+inspiring people in the power
+
+01:47:01.200 --> 01:47:05.560
+and the trustworthiness of science.
+
+01:47:06.560 --> 01:47:11.560
+You know, that's on the shoulders of Anthony Fauci.
+
+01:47:12.280 --> 01:47:13.800
+I'm gonna abstain from that
+
+01:47:13.800 --> 01:47:15.840
+because I'm not expert enough, but.
+
+01:47:15.840 --> 01:47:17.800
+Neither am I, but I'm opinionated.
+
+01:47:19.720 --> 01:47:21.120
+I am too, but not on camera.
+
+01:47:21.120 --> 01:47:22.560
+Yes.
+
+01:47:22.560 --> 01:47:27.240
+No, but seriously, the problem is pretty simple,
+
+01:47:27.240 --> 01:47:31.440
+that we're investing 96% of our funding
+
+01:47:31.440 --> 01:47:33.640
+of clinical research in drugs and devices,
+
+01:47:34.480 --> 01:47:36.840
+and 80% of our health is determined
+
+01:47:36.840 --> 01:47:38.160
+by how we live our lives.
+
+01:47:38.160 --> 01:47:39.200
+Yes.
+
+01:47:39.200 --> 01:47:41.920
+And this is ridiculous.
+
+01:47:41.920 --> 01:47:45.000
+We're, the United States is going further
+
+01:47:45.000 --> 01:47:48.920
+and further behind the other wealthy countries
+
+01:47:48.920 --> 01:47:49.800
+in terms of our health.
+
+01:47:49.800 --> 01:47:53.640
+We ranked 38th in healthy life expectancy in 2000,
+
+01:47:53.640 --> 01:47:57.040
+and now we're spending a trillion and a half dollars extra,
+
+01:47:57.040 --> 01:47:58.400
+and we rank 68th.
+
+01:47:58.400 --> 01:47:59.560
+We've gone down.
+
+01:47:59.560 --> 01:48:00.960
+You have this excellent,
+
+01:48:01.000 --> 01:48:04.240
+there's a few charts that I'll overlay
+
+01:48:04.240 --> 01:48:09.240
+that tell this story in really powerful ways.
+
+01:48:09.760 --> 01:48:13.640
+So one is the healthcare spending is percentage of GDP
+
+01:48:13.640 --> 01:48:17.760
+that on the X axis is years and the Y axis is percentage,
+
+01:48:17.760 --> 01:48:20.840
+and the United States as compared to other countries,
+
+01:48:20.840 --> 01:48:25.840
+on average, has been much larger and growing.
+
+01:48:26.480 --> 01:48:30.560
+Right, we are now spending 7% more of our GDP,
+
+01:48:31.120 --> 01:48:35.240
+17.7% versus 10.7% on healthcare.
+
+01:48:35.240 --> 01:48:38.880
+7%, and I think GDP is the fairest way
+
+01:48:38.880 --> 01:48:40.760
+to compare healthcare spending.
+
+01:48:40.760 --> 01:48:43.520
+Per person, in dollars, we're spending even,
+
+01:48:43.520 --> 01:48:45.600
+the difference is even greater,
+
+01:48:45.600 --> 01:48:48.240
+but other costs vary with GDP.
+
+01:48:48.240 --> 01:48:50.840
+So let's stick with the conservative way to do it.
+
+01:48:50.840 --> 01:48:55.840
+17.7, no, 18% of GDP.
+
+01:48:56.840 --> 01:49:00.760
+18% of GDP spent on healthcare,
+
+01:49:00.760 --> 01:49:04.800
+7% higher than the comparable country average.
+
+01:49:04.800 --> 01:49:05.640
+Right.
+
+01:49:05.640 --> 01:49:09.960
+17.7% versus 10.7, 7% higher.
+
+01:49:09.960 --> 01:49:14.960
+Right, and 7% of $23 trillion GDP
+
+01:49:15.120 --> 01:49:19.040
+is more than $1.5 trillion a year in excess.
+
+01:49:19.040 --> 01:49:20.520
+And then you have another chart
+
+01:49:20.520 --> 01:49:23.440
+that shows healthcare system performance
+
+01:49:23.440 --> 01:49:24.840
+compared to spending.
+
+01:49:25.840 --> 01:49:29.800
+And there's a point cloud of different countries,
+
+01:49:29.800 --> 01:49:33.160
+the x-axis being healthcare spending
+
+01:49:33.160 --> 01:49:36.360
+is a percentage of GDP, which we just talked about,
+
+01:49:36.360 --> 01:49:40.880
+that US is 7% higher than the average.
+
+01:49:40.880 --> 01:49:44.520
+And then on the y-axis is performance.
+
+01:49:44.520 --> 01:49:48.280
+So x-axis spending, y-axis performance.
+
+01:49:48.280 --> 01:49:49.680
+And there's a point cloud,
+
+01:49:49.680 --> 01:49:52.400
+we'll overlay this if you're watching on YouTube,
+
+01:49:52.440 --> 01:49:57.040
+of a bunch of countries that have high performance
+
+01:49:58.640 --> 01:50:00.120
+for what they're spending.
+
+01:50:00.120 --> 01:50:04.680
+And then US is all alone
+
+01:50:04.680 --> 01:50:07.520
+on the right bottom side of the chart
+
+01:50:07.520 --> 01:50:10.800
+where it's low performance and high spending.
+
+01:50:10.800 --> 01:50:11.640
+Correct.
+
+01:50:12.920 --> 01:50:17.920
+So this is a system that is abiding by spending
+
+01:50:18.000 --> 01:50:21.200
+that is directed by the most profitable ways
+
+01:50:21.200 --> 01:50:22.520
+to deliver healthcare.
+
+01:50:22.520 --> 01:50:25.080
+So you put that in the hands of big pharma,
+
+01:50:25.080 --> 01:50:27.320
+is you maximize for profit,
+
+01:50:27.320 --> 01:50:31.640
+you're going to decrease performance and increase spending.
+
+01:50:31.640 --> 01:50:34.840
+Yes, but I wanna qualify that and say,
+
+01:50:34.840 --> 01:50:36.400
+it's not all big pharma's fault.
+
+01:50:37.480 --> 01:50:39.360
+They're not responsible for all the problems
+
+01:50:39.360 --> 01:50:41.240
+in our healthcare system.
+
+01:50:41.240 --> 01:50:43.240
+They're not responsible for the administrative costs,
+
+01:50:43.240 --> 01:50:44.560
+for example.
+
+01:50:44.560 --> 01:50:47.440
+But they are the largest component
+
+01:50:47.440 --> 01:50:51.360
+of our rising healthcare costs.
+
+01:50:51.360 --> 01:50:54.200
+And it has to do with this knowledge issue.
+
+01:50:54.200 --> 01:50:56.800
+Controlling the knowledge that doctors have
+
+01:50:57.680 --> 01:51:01.280
+makes it so that doctors can live with this situation
+
+01:51:01.280 --> 01:51:04.920
+believing that it's optimal when it's a wreck.
+
+01:51:04.920 --> 01:51:06.200
+Yeah.
+
+01:51:06.200 --> 01:51:08.720
+Let me ask you the big, so as a physician,
+
+01:51:10.200 --> 01:51:11.640
+so everything you've seen,
+
+01:51:11.640 --> 01:51:16.000
+we've talked about 80% of the impact on health is lifestyle.
+
+01:51:18.440 --> 01:51:20.160
+How do we live longer?
+
+01:51:20.160 --> 01:51:22.120
+What advice would you give to general people?
+
+01:51:22.120 --> 01:51:27.120
+What space of ideas result
+
+01:51:27.120 --> 01:51:30.680
+in living longer and higher quality lives?
+
+01:51:30.680 --> 01:51:33.560
+Right, this is a very simple question to answer.
+
+01:51:34.440 --> 01:51:37.760
+Exercise for at least a half hour,
+
+01:51:37.760 --> 01:51:39.360
+at least five times a week.
+
+01:51:41.000 --> 01:51:42.320
+Number one.
+
+01:51:42.320 --> 01:51:44.160
+Number two, don't smoke.
+
+01:51:45.160 --> 01:51:48.960
+Number three, maintain a reasonably healthy body weight.
+
+01:51:48.960 --> 01:51:53.320
+Some people argue that being lower than a BMI of 25
+
+01:51:53.320 --> 01:51:54.440
+is healthy.
+
+01:51:54.440 --> 01:51:56.080
+I think that may be true,
+
+01:51:56.080 --> 01:52:00.080
+but I think getting above 30 is unhealthy.
+
+01:52:00.080 --> 01:52:01.520
+And that ought to be.
+
+01:52:01.520 --> 01:52:06.520
+Now, that's largely impacted by socioeconomic status.
+
+01:52:07.240 --> 01:52:09.520
+And we don't wanna blame the victims here.
+
+01:52:09.520 --> 01:52:12.000
+So we gotta understand that when we talk
+
+01:52:12.400 --> 01:52:14.920
+about all of these things, not cigarettes,
+
+01:52:14.920 --> 01:52:18.360
+but exercise and a good diet
+
+01:52:18.360 --> 01:52:21.320
+and maintaining a healthy body weight,
+
+01:52:23.000 --> 01:52:26.120
+we have to include in doing those things
+
+01:52:27.000 --> 01:52:32.000
+the impediments to people of lower socioeconomic status
+
+01:52:32.480 --> 01:52:34.360
+being able to make those changes.
+
+01:52:34.360 --> 01:52:38.120
+We've got to understand that personal responsibility
+
+01:52:38.120 --> 01:52:39.880
+accounts for some of this,
+
+01:52:39.880 --> 01:52:43.960
+but also social circumstances accounts for some of it.
+
+01:52:43.960 --> 01:52:46.960
+And back to your fish bowl analogy,
+
+01:52:46.960 --> 01:52:50.040
+if you're swimming in a fish bowl,
+
+01:52:50.040 --> 01:52:51.240
+if you live in a fish tank
+
+01:52:51.240 --> 01:52:53.960
+that's not being properly maintained,
+
+01:52:53.960 --> 01:52:58.080
+the approach wouldn't be to treat individual sick fish,
+
+01:52:58.080 --> 01:53:01.560
+it would be to fix your fish tank
+
+01:53:01.560 --> 01:53:03.040
+to get the bacteria out of it
+
+01:53:03.040 --> 01:53:05.720
+and whatever bad stuff is in there
+
+01:53:05.720 --> 01:53:08.440
+and make your fish tank healthier.
+
+01:53:08.440 --> 01:53:12.800
+Well, we invest far less than the other wealthy countries do.
+
+01:53:12.800 --> 01:53:15.120
+We're flipped, we have the mirror image
+
+01:53:15.120 --> 01:53:19.040
+in the spending on social determinants of health
+
+01:53:19.040 --> 01:53:20.840
+and medical determinants of health.
+
+01:53:20.840 --> 01:53:23.120
+We have exactly the wrong order.
+
+01:53:23.120 --> 01:53:25.800
+And not only does that choke off
+
+01:53:25.800 --> 01:53:28.320
+social determinants of health, which are very important,
+
+01:53:28.320 --> 01:53:30.720
+but actually just the ratio,
+
+01:53:30.720 --> 01:53:32.880
+even if you were spending,
+
+01:53:32.920 --> 01:53:35.800
+if we raise the social spending
+
+01:53:35.800 --> 01:53:38.400
+and raise our medical spending in proportion,
+
+01:53:38.400 --> 01:53:41.320
+it's the ratio of social spending to medical spending
+
+01:53:41.320 --> 01:53:42.960
+that's the problem.
+
+01:53:42.960 --> 01:53:44.600
+So, and why do we do that?
+
+01:53:44.600 --> 01:53:46.480
+Well, the answer is perfectly obvious
+
+01:53:46.480 --> 01:53:50.480
+that the way to transfer money from working Americans
+
+01:53:50.480 --> 01:53:53.680
+to investors is through the biomedical model,
+
+01:53:54.600 --> 01:53:57.760
+not through the social health model.
+
+01:53:57.760 --> 01:53:59.960
+And that's the problem for,
+
+01:54:00.000 --> 01:54:02.840
+and I'd like to discuss this
+
+01:54:02.840 --> 01:54:06.360
+because the market isn't gonna get us
+
+01:54:06.360 --> 01:54:08.040
+to a reasonable allocation.
+
+01:54:08.040 --> 01:54:09.680
+All the other wealthy countries
+
+01:54:09.680 --> 01:54:11.600
+that are so much healthier than we are
+
+01:54:11.600 --> 01:54:14.040
+and spending so much less than we are
+
+01:54:14.040 --> 01:54:17.360
+have some form of government intervention
+
+01:54:17.360 --> 01:54:20.480
+in the quality of the health data that's available,
+
+01:54:20.480 --> 01:54:25.120
+in the budgeting of health and social factors.
+
+01:54:25.960 --> 01:54:28.040
+And we don't, we're kind of the Wild West
+
+01:54:28.040 --> 01:54:31.080
+and we let the market determine those allocations
+
+01:54:31.080 --> 01:54:34.360
+and it's an awful failure.
+
+01:54:34.360 --> 01:54:36.680
+It's a horrendous failure.
+
+01:54:36.680 --> 01:54:39.800
+So one argument against government,
+
+01:54:39.800 --> 01:54:43.760
+or sorry, an alternative to the government intervention
+
+01:54:44.720 --> 01:54:48.320
+is the market can work better
+
+01:54:48.320 --> 01:54:51.680
+if the citizenry has better information.
+
+01:54:51.680 --> 01:54:53.680
+So one argument is that, you know,
+
+01:54:54.680 --> 01:54:58.680
+communicators, like podcasts and so on,
+
+01:54:58.680 --> 01:55:01.080
+but other channels of communication
+
+01:55:01.080 --> 01:55:03.840
+will be the way to fight big pharma.
+
+01:55:03.840 --> 01:55:07.560
+Your book is the way to, by providing information.
+
+01:55:07.560 --> 01:55:10.360
+The alternative to the government intervention
+
+01:55:10.360 --> 01:55:11.760
+on every aspect of this,
+
+01:55:11.760 --> 01:55:13.400
+including communication with the doctors,
+
+01:55:13.400 --> 01:55:15.400
+is to provide them other information
+
+01:55:15.400 --> 01:55:18.600
+and not allow the market to provide that information
+
+01:55:18.600 --> 01:55:22.440
+by basically making it exciting
+
+01:55:22.800 --> 01:55:27.000
+to buy books, to make better and better communicators
+
+01:55:27.000 --> 01:55:30.840
+on Twitter through books, through op-eds,
+
+01:55:30.840 --> 01:55:32.960
+through podcasts, through so on.
+
+01:55:32.960 --> 01:55:35.840
+So basically, because there's a lot of incentive
+
+01:55:35.840 --> 01:55:40.400
+to communicate against the messages of big pharma.
+
+01:55:40.400 --> 01:55:43.640
+There is incentive because people want to understand
+
+01:55:43.640 --> 01:55:44.760
+what's good for their lives
+
+01:55:44.760 --> 01:55:46.880
+and they're willing to listen to charismatic people
+
+01:55:46.880 --> 01:55:50.920
+that are able to clearly explain what is good for them.
+
+01:55:50.920 --> 01:55:54.000
+And they do, and more than 80% of people
+
+01:55:54.000 --> 01:55:55.480
+think that drugs cost too much
+
+01:55:55.480 --> 01:55:58.800
+and the drug industry is too interested in profits.
+
+01:56:00.400 --> 01:56:02.320
+But they still get influenced.
+
+01:56:02.320 --> 01:56:05.200
+They can't, you can't get the vote through Congress.
+
+01:56:06.880 --> 01:56:08.720
+Democrats and Republicans alike
+
+01:56:08.720 --> 01:56:10.280
+are taking money from Congress,
+
+01:56:10.280 --> 01:56:13.920
+and somehow it just doesn't work out
+
+01:56:13.920 --> 01:56:17.200
+that these, even small changes.
+
+01:56:17.200 --> 01:56:21.800
+I mean, the pared down part of Medicare,
+
+01:56:21.800 --> 01:56:26.800
+the plan for increasing Medicare negotiation drug costs
+
+01:56:27.640 --> 01:56:31.160
+in Build Back Better, it's literally gonna reduce
+
+01:56:31.160 --> 01:56:36.000
+the number of new drugs that are beneficial,
+
+01:56:36.000 --> 01:56:39.480
+uniquely beneficial, by about one new drug
+
+01:56:39.480 --> 01:56:42.120
+or two new drugs over 30 years.
+
+01:56:42.880 --> 01:56:47.880
+It will have virtually an indecipherable impact.
+
+01:56:48.480 --> 01:56:53.480
+And yet pharma is talking about the impact on innovation.
+
+01:56:53.800 --> 01:56:55.960
+And if you vote for this,
+
+01:56:55.960 --> 01:56:58.320
+if you let your congressman vote for this,
+
+01:56:58.320 --> 01:57:03.320
+you're gonna severely slow down drug innovation
+
+01:57:04.360 --> 01:57:07.040
+and that's gonna affect the quality of your life.
+
+01:57:08.000 --> 01:57:13.000
+Let me ask you about over-medication
+
+01:57:17.000 --> 01:57:19.680
+that we've been talking about from different angles.
+
+01:57:19.680 --> 01:57:22.640
+But one difficult question for me,
+
+01:57:22.640 --> 01:57:26.960
+I'll just, I'll pick one of the difficult topics, depression.
+
+01:57:26.960 --> 01:57:31.960
+So depression is a serious, painful condition
+
+01:57:33.520 --> 01:57:36.280
+that leads to a lot of people suffering in the world.
+
+01:57:37.240 --> 01:57:38.920
+And yet it is likely
+
+01:57:38.920 --> 01:57:42.360
+they were over-prescribing antidepressants.
+
+01:57:42.360 --> 01:57:47.040
+So as a doctor, as a patient, as a healthcare system,
+
+01:57:47.040 --> 01:57:50.320
+as a society, what do we do with that fact?
+
+01:57:50.320 --> 01:57:53.040
+That people suffer.
+
+01:57:53.040 --> 01:57:56.560
+There's a lot of people suffering from depression
+
+01:57:57.560 --> 01:57:59.160
+and there's also people suffering
+
+01:57:59.160 --> 01:58:01.960
+from over-prescribing of antidepressants.
+
+01:58:01.960 --> 01:58:02.880
+Right.
+
+01:58:02.880 --> 01:58:06.880
+So a paper in the New England Journal by Eric Turner
+
+01:58:06.880 --> 01:58:09.240
+showed that the data,
+
+01:58:09.240 --> 01:58:12.360
+if you put all the data together from antidepressants,
+
+01:58:12.360 --> 01:58:17.360
+you find out that antidepressants are not effective
+
+01:58:17.960 --> 01:58:19.400
+for people who are depressed
+
+01:58:19.400 --> 01:58:21.120
+but don't have a major depression.
+
+01:58:22.280 --> 01:58:25.320
+Major depression is a serious problem.
+
+01:58:25.320 --> 01:58:27.300
+People can't function normally.
+
+01:58:28.640 --> 01:58:31.040
+They have a hard time getting out,
+
+01:58:31.040 --> 01:58:34.240
+performing their normal social roles.
+
+01:58:34.600 --> 01:58:39.480
+But what's happened is that the publicity,
+
+01:58:39.480 --> 01:58:43.040
+I mean, Prozac Nation was a good example
+
+01:58:43.040 --> 01:58:44.960
+of making the argument
+
+01:58:44.960 --> 01:58:47.640
+that why should people settle for normal happiness
+
+01:58:47.640 --> 01:58:49.800
+when they can have better than normal happiness?
+
+01:58:49.800 --> 01:58:52.480
+And if you're not having normal happiness,
+
+01:58:52.480 --> 01:58:53.560
+you should take a drug.
+
+01:58:53.560 --> 01:58:58.560
+Well, that concept that serotonin metabolism
+
+01:59:00.360 --> 01:59:03.560
+is the root cause of depression
+
+01:59:03.560 --> 01:59:05.520
+is really a destructive one.
+
+01:59:05.520 --> 01:59:08.760
+We have drugs that change serotonin metabolism
+
+01:59:08.760 --> 01:59:12.440
+but we don't know if that's why antidepressants work
+
+01:59:12.440 --> 01:59:14.440
+on major depression.
+
+01:59:14.440 --> 01:59:16.040
+And they certainly don't work on everybody
+
+01:59:16.040 --> 01:59:16.880
+with major depression.
+
+01:59:16.880 --> 01:59:18.520
+I forget what the number needed to treat is.
+
+01:59:18.520 --> 01:59:20.840
+I think it's around four.
+
+01:59:20.840 --> 01:59:23.600
+One out of four people have significant improvement.
+
+01:59:23.600 --> 01:59:28.160
+But the people without major depression don't get better.
+
+01:59:28.160 --> 01:59:30.920
+And the vast majority of these drugs are used
+
+01:59:30.920 --> 01:59:33.720
+for people without major depression.
+
+01:59:33.720 --> 01:59:37.320
+So what's happened is that the feelings
+
+01:59:37.320 --> 01:59:40.360
+of life satisfaction of happiness
+
+01:59:40.360 --> 01:59:44.000
+and not sadness have been medicalized.
+
+01:59:44.000 --> 01:59:47.920
+The normal range of feelings have been medicalized.
+
+01:59:47.920 --> 01:59:51.040
+And that's not to say that they shouldn't be attended to
+
+01:59:51.040 --> 01:59:54.400
+but the evidence shows that attending to them
+
+01:59:54.400 --> 01:59:57.080
+by giving somebody a medicine doesn't help
+
+01:59:57.080 --> 01:59:59.720
+except that they feel like somebody cares about them
+
+01:59:59.720 --> 02:00:01.400
+and believes that they're suffering.
+
+02:00:01.400 --> 02:00:05.360
+But there are problems in living that give rise
+
+02:00:05.360 --> 02:00:10.080
+to much of this symptomatology of less than major depression.
+
+02:00:10.080 --> 02:00:13.360
+And let's call it what it is and figure out a way
+
+02:00:13.360 --> 02:00:16.720
+to help people, individual therapy, group therapy,
+
+02:00:18.000 --> 02:00:19.880
+maybe lifestyle modification would work.
+
+02:00:19.880 --> 02:00:20.880
+We gotta try that.
+
+02:00:21.920 --> 02:00:24.760
+But let's call it what it is instead of saying,
+
+02:00:24.760 --> 02:00:29.240
+oh, you're in this vast basket of people
+
+02:00:29.240 --> 02:00:31.560
+who are depressed so we'll give you an antidepressant
+
+02:00:31.560 --> 02:00:34.240
+even though the evidence shows that people
+
+02:00:34.240 --> 02:00:36.680
+who are suffering from your level of depression
+
+02:00:36.680 --> 02:00:38.240
+don't get better.
+
+02:00:38.240 --> 02:00:42.600
+And that's a consequence of not focusing
+
+02:00:42.600 --> 02:00:46.080
+on preventative medicine, the lifestyle changes,
+
+02:00:46.080 --> 02:00:47.160
+all that kind of stuff.
+
+02:00:47.160 --> 02:00:49.680
+Well, yes, but it's really a consequence
+
+02:00:49.680 --> 02:00:53.080
+of the drug companies creating the impression
+
+02:00:53.080 --> 02:00:54.760
+that if you're sad, take a pill.
+
+02:00:55.680 --> 02:01:00.680
+If you're non-major depression,
+
+02:01:01.120 --> 02:01:03.440
+how do you overcome depression?
+
+02:01:03.440 --> 02:01:06.680
+Well, you have to talk about what the problem is.
+
+02:01:06.680 --> 02:01:09.880
+So talk therapy, lifestyle changes.
+
+02:01:09.880 --> 02:01:12.280
+Well, no, I'm not jumping to that.
+
+02:01:12.280 --> 02:01:16.120
+I'm saying that you ought to, A,
+
+02:01:16.120 --> 02:01:19.400
+the way you feel must be respected.
+
+02:01:19.400 --> 02:01:21.160
+Yeah, acknowledge that you're suffering.
+
+02:01:21.160 --> 02:01:22.680
+Acknowledge that you're suffering
+
+02:01:22.680 --> 02:01:24.720
+and deal with healthcare providers
+
+02:01:24.720 --> 02:01:27.240
+who acknowledge that you're suffering.
+
+02:01:27.240 --> 02:01:30.160
+So let's take that first step.
+
+02:01:30.160 --> 02:01:32.240
+And then- Big first step also.
+
+02:01:32.240 --> 02:01:33.560
+Big first step, yeah.
+
+02:01:33.560 --> 02:01:36.240
+Family docs are pretty good at that.
+
+02:01:36.240 --> 02:01:39.840
+That's kind of the arena that caused me
+
+02:01:39.840 --> 02:01:41.880
+to go into family medicine,
+
+02:01:41.880 --> 02:01:44.240
+the subjective experience of the patient.
+
+02:01:44.240 --> 02:01:48.080
+Okay, so you're a person who is not getting
+
+02:01:48.080 --> 02:01:49.600
+the enjoyment out of their life
+
+02:01:49.600 --> 02:01:52.040
+that they feel they ought to be getting.
+
+02:01:52.040 --> 02:01:54.640
+Now let's figure out why.
+
+02:01:54.640 --> 02:01:57.280
+And whether that means some time with a social worker,
+
+02:01:57.280 --> 02:01:59.040
+some time with a psychiatrist,
+
+02:01:59.040 --> 02:02:01.320
+some time with a psychiatric nurse.
+
+02:02:02.200 --> 02:02:04.920
+I'm not sure how you'd best do that most effectively
+
+02:02:04.920 --> 02:02:07.480
+and efficiently, but that's what you need to do.
+
+02:02:07.480 --> 02:02:11.680
+And it may be that there's a marital problem
+
+02:02:11.680 --> 02:02:13.600
+and there's something going on
+
+02:02:13.600 --> 02:02:18.600
+and one of the spouses can't find satisfaction
+
+02:02:18.600 --> 02:02:21.480
+in the life they have to live within their relationship.
+
+02:02:21.480 --> 02:02:24.640
+Maybe there's a past history of trauma or abuse
+
+02:02:24.640 --> 02:02:28.800
+that somebody is projecting onto their current situation.
+
+02:02:28.800 --> 02:02:31.080
+Maybe there's socioeconomic circumstances
+
+02:02:31.080 --> 02:02:34.760
+where they can't find a job that gives them self-respect
+
+02:02:34.760 --> 02:02:36.520
+and enough money to live with.
+
+02:02:36.520 --> 02:02:39.720
+All, you know, an infinite range of things,
+
+02:02:39.720 --> 02:02:42.080
+but let's figure out, make a diagnosis first.
+
+02:02:42.080 --> 02:02:45.440
+The diagnosis isn't that the person feels sadder
+
+02:02:45.440 --> 02:02:48.640
+than they want to feel.
+
+02:02:48.640 --> 02:02:52.000
+The diagnosis is why does the person feel sadder
+
+02:02:52.000 --> 02:02:53.160
+than they want to feel?
+
+02:02:54.520 --> 02:02:57.800
+You mentioned this is what made you want to get
+
+02:02:57.800 --> 02:02:59.280
+into family medicine.
+
+02:03:01.000 --> 02:03:03.120
+As a doctor, what do you think about the saying
+
+02:03:03.120 --> 02:03:05.400
+save one life, save the world?
+
+02:03:09.440 --> 02:03:13.800
+This was always moving to me about doctors
+
+02:03:13.800 --> 02:03:16.760
+because you have like this human in front of you
+
+02:03:17.720 --> 02:03:20.920
+and your time is worth money.
+
+02:03:22.360 --> 02:03:26.240
+Your, what you prescribe and your efforts
+
+02:03:26.240 --> 02:03:28.840
+after the visit are worth money.
+
+02:03:28.840 --> 02:03:31.840
+And it seems like the task of the doctor
+
+02:03:31.840 --> 02:03:36.840
+is to not think about any of that or not the task,
+
+02:03:38.200 --> 02:03:42.480
+but it seems like a great doctor,
+
+02:03:42.480 --> 02:03:45.080
+despite all that just forgets it all
+
+02:03:45.080 --> 02:03:47.000
+and just cares about the one human.
+
+02:03:47.000 --> 02:03:51.760
+And somehow that feels like the love and effort you put
+
+02:03:51.760 --> 02:03:53.880
+into helping one person is the thing
+
+02:03:53.880 --> 02:03:55.440
+that will save the world.
+
+02:03:55.440 --> 02:03:58.440
+It's not like some economic argument
+
+02:03:58.440 --> 02:04:03.440
+or some political argument or financial argument.
+
+02:04:04.520 --> 02:04:09.520
+It's a very human drive that ultimately
+
+02:04:09.600 --> 02:04:13.040
+is behind all of this that will do good for the world.
+
+02:04:13.040 --> 02:04:15.600
+Yes, I think that's true.
+
+02:04:15.600 --> 02:04:19.680
+And at the same time, I think it's equally true
+
+02:04:19.680 --> 02:04:23.640
+that all physicians need to have a sense of responsibility
+
+02:04:23.640 --> 02:04:28.640
+about how the common resources are allocated
+
+02:04:29.880 --> 02:04:34.160
+to serve the whole population's interest best.
+
+02:04:34.160 --> 02:04:36.400
+That's a tension that you have as a physician.
+
+02:04:36.400 --> 02:04:38.440
+Let's take the extreme example.
+
+02:04:38.440 --> 02:04:41.440
+Let's say you had a patient in front of you
+
+02:04:41.440 --> 02:04:46.400
+who if you gave one $10 billion pill to,
+
+02:04:46.400 --> 02:04:47.720
+you would save their life.
+
+02:04:49.520 --> 02:04:52.400
+I would just be tortured by that as a physician
+
+02:04:52.400 --> 02:04:56.120
+because I know that $10 billion spent properly
+
+02:04:56.120 --> 02:05:00.280
+in an epidemiologically guided way
+
+02:05:00.280 --> 02:05:03.600
+is gonna save a whole lot more lives than one life.
+
+02:05:03.600 --> 02:05:06.400
+So it's also your responsibility as a physician
+
+02:05:06.400 --> 02:05:08.720
+to walk away from that patient.
+
+02:05:08.720 --> 02:05:10.600
+I wouldn't say that.
+
+02:05:10.600 --> 02:05:14.040
+I think it's your responsibility to be tortured by it.
+
+02:05:14.040 --> 02:05:15.200
+That's exactly right.
+
+02:05:17.120 --> 02:05:18.440
+The human condition.
+
+02:05:21.440 --> 02:05:24.720
+That's a tough job, but yeah,
+
+02:05:24.720 --> 02:05:27.720
+to maintain your humanity through it all.
+
+02:05:27.720 --> 02:05:30.280
+But you've been asking at different points
+
+02:05:30.280 --> 02:05:35.280
+in this conversation, why are doctors so complacent
+
+02:05:36.000 --> 02:05:38.880
+about the tremendous amount of money we're spending?
+
+02:05:38.880 --> 02:05:41.480
+Why do they accept knowledge from different sources
+
+02:05:41.480 --> 02:05:44.360
+that may not pan out when they really know the truth?
+
+02:05:45.320 --> 02:05:48.400
+And the answer is that they're trying to do their best
+
+02:05:48.400 --> 02:05:49.520
+for their patients.
+
+02:05:53.320 --> 02:05:57.720
+It's the same kind of torture to figure out
+
+02:05:57.720 --> 02:05:59.880
+what the hell is going on with the data.
+
+02:06:00.760 --> 02:06:03.440
+And that's a sort of future project.
+
+02:06:03.440 --> 02:06:06.160
+And maybe people will read my book
+
+02:06:06.160 --> 02:06:08.120
+and maybe they'll get a little more excited about it,
+
+02:06:08.120 --> 02:06:10.160
+become more legitimate in practice.
+
+02:06:10.160 --> 02:06:13.640
+I would feel like my life was worthwhile if that happened.
+
+02:06:13.640 --> 02:06:17.160
+But at the same time, they've got to do something
+
+02:06:17.160 --> 02:06:18.760
+with the patient in front of them.
+
+02:06:18.760 --> 02:06:21.120
+They've got to make a decision.
+
+02:06:21.120 --> 02:06:24.840
+And they probably, there are not many weirdos like me
+
+02:06:24.840 --> 02:06:27.280
+who invest their life in figuring out
+
+02:06:27.280 --> 02:06:28.320
+what's behind the data.
+
+02:06:28.320 --> 02:06:29.800
+They're trying to get through the day
+
+02:06:29.800 --> 02:06:31.640
+and do the right thing for their patient.
+
+02:06:31.640 --> 02:06:35.000
+So they're tortured by that decision too.
+
+02:06:35.040 --> 02:06:38.480
+And so if you're not careful,
+
+02:06:38.480 --> 02:06:43.480
+big pharma can manipulate that drive
+
+02:06:43.480 --> 02:06:45.000
+to try to help the patient,
+
+02:06:45.000 --> 02:06:49.760
+that humanity of dealing with the uncertainty of it all.
+
+02:06:49.760 --> 02:06:52.000
+Like what is the best thing to do?
+
+02:06:52.000 --> 02:06:53.840
+Big pharma can step in and use money
+
+02:06:53.840 --> 02:06:55.560
+to manipulate that humanity.
+
+02:06:55.560 --> 02:06:57.560
+Yeah, I would state it quite differently.
+
+02:06:57.560 --> 02:07:01.000
+It's sort of an opt out rather than an opt in.
+
+02:07:01.000 --> 02:07:04.480
+Big pharma will do that and you need to opt out of it.
+
+02:07:05.960 --> 02:07:10.960
+What advice would you give to a young person today
+
+02:07:11.360 --> 02:07:13.240
+in high school or college,
+
+02:07:14.560 --> 02:07:17.080
+stepping into this complicated world
+
+02:07:17.080 --> 02:07:22.080
+full of advertisements of big powerful institutions,
+
+02:07:22.560 --> 02:07:24.960
+of big rich companies,
+
+02:07:24.960 --> 02:07:27.120
+how to have a positive impact in the world,
+
+02:07:27.120 --> 02:07:29.480
+how to live a life they can be proud of?
+
+02:07:30.480 --> 02:07:33.280
+I would say should that person
+
+02:07:34.560 --> 02:07:38.120
+who has only good motives go into medicine?
+
+02:07:38.120 --> 02:07:39.760
+They have an inclination to go into medicine
+
+02:07:39.760 --> 02:07:42.040
+and they've asked me what I think about that
+
+02:07:42.040 --> 02:07:45.440
+given what I know about the undermining
+
+02:07:45.440 --> 02:07:47.640
+of American healthcare at this point.
+
+02:07:47.640 --> 02:07:51.480
+And my answer is if you got the calling, you should do it.
+
+02:07:52.400 --> 02:07:54.320
+You should do it because nobody's gonna do it
+
+02:07:54.320 --> 02:07:55.160
+better than you.
+
+02:07:56.200 --> 02:07:57.840
+And if you don't have the calling
+
+02:07:58.800 --> 02:08:01.040
+and you're in it for the money,
+
+02:08:01.040 --> 02:08:03.280
+you're not gonna be proud of yourself.
+
+02:08:03.280 --> 02:08:07.720
+How do you prevent yourself from doing,
+
+02:08:07.720 --> 02:08:12.720
+from letting the system change you over years and years,
+
+02:08:12.960 --> 02:08:17.960
+like letting the game of pharmaceutical influence
+
+02:08:18.880 --> 02:08:19.800
+affect you?
+
+02:08:20.840 --> 02:08:22.600
+It's a very hard question
+
+02:08:22.600 --> 02:08:27.600
+because the sociologic norms are to be affected.
+
+02:08:28.040 --> 02:08:33.000
+And to trust the sources of information
+
+02:08:33.000 --> 02:08:36.360
+that are largely controlled by the drug industry.
+
+02:08:36.360 --> 02:08:38.240
+And that's why I wrote Sickening
+
+02:08:38.240 --> 02:08:43.240
+is to try and help those people in the medical profession
+
+02:08:46.000 --> 02:08:50.640
+to understand that what's going on right now looks normal,
+
+02:08:50.640 --> 02:08:52.400
+but it's not.
+
+02:08:52.400 --> 02:08:55.480
+The health of Americans is going downhill.
+
+02:08:55.480 --> 02:08:57.040
+Our society is getting ruined
+
+02:08:57.040 --> 02:08:59.520
+by the money that's getting pulled out
+
+02:08:59.520 --> 02:09:04.520
+of other socially beneficial uses
+
+02:09:05.080 --> 02:09:08.560
+to pay for healthcare that is not helping us.
+
+02:09:10.360 --> 02:09:14.600
+So fundamentally, the thing that is normal,
+
+02:09:15.480 --> 02:09:19.120
+not question the normal, don't.
+
+02:09:20.200 --> 02:09:23.680
+If you conform, conform hesitantly.
+
+02:09:24.600 --> 02:09:26.120
+Well, you have to conform.
+
+02:09:26.120 --> 02:09:28.960
+You can't become a doctor without conforming.
+
+02:09:31.120 --> 02:09:32.360
+I just made it through.
+
+02:09:35.120 --> 02:09:38.680
+But there aren't many and it's hard work,
+
+02:09:40.040 --> 02:09:42.480
+but you have to conform.
+
+02:09:42.480 --> 02:09:45.000
+And even with my colleagues in my own practice,
+
+02:09:45.000 --> 02:09:48.760
+I couldn't convince them that some of the beliefs they had
+
+02:09:48.760 --> 02:09:51.520
+about how best to practice weren't accurate.
+
+02:09:51.520 --> 02:09:55.520
+There's one scene, a younger physician
+
+02:09:55.520 --> 02:09:57.960
+had prescribed hormone replacement therapy.
+
+02:09:57.960 --> 02:10:00.400
+This is back in 2000, 2001,
+
+02:10:00.400 --> 02:10:02.640
+had prescribed hormone replacement therapy
+
+02:10:02.640 --> 02:10:04.360
+for one of my patients
+
+02:10:04.360 --> 02:10:07.120
+who happened to be a really good personal friend.
+
+02:10:07.120 --> 02:10:12.120
+And I saw that patient covering for my colleague
+
+02:10:12.200 --> 02:10:15.680
+at one point and I saw that her hormone replacement therapy
+
+02:10:15.680 --> 02:10:17.280
+had been renewed.
+
+02:10:17.280 --> 02:10:19.520
+And I said, are you having hot flashes or any problem?
+
+02:10:19.520 --> 02:10:20.560
+No, no, no, no.
+
+02:10:20.560 --> 02:10:25.120
+But Dr. So-and-so said it's better for my health.
+
+02:10:25.120 --> 02:10:26.680
+And I said, no, it's not.
+
+02:10:26.680 --> 02:10:28.440
+The research is showing that it's not.
+
+02:10:28.440 --> 02:10:31.280
+It's harmful for your health and I think you should stop it.
+
+02:10:31.280 --> 02:10:35.840
+So my colleague approached me when she saw the chart
+
+02:10:35.840 --> 02:10:38.080
+and said, wait a minute, that's my patient.
+
+02:10:38.080 --> 02:10:40.520
+Maybe your friend, but it's my patient.
+
+02:10:40.520 --> 02:10:45.520
+And I went to a conference from my alma mater,
+
+02:10:46.000 --> 02:10:49.080
+medical school, and they said that healthy people
+
+02:10:49.080 --> 02:10:51.040
+should be given hormone replacement.
+
+02:10:51.040 --> 02:10:55.240
+And I said, there's gotta be drug companies involved in this.
+
+02:10:55.240 --> 02:10:56.320
+And she said, no, no, no.
+
+02:10:56.320 --> 02:10:57.680
+It was at my university.
+
+02:10:57.680 --> 02:10:59.880
+It was not a drug company thing.
+
+02:10:59.880 --> 02:11:02.320
+We didn't go to a Caribbean Island.
+
+02:11:02.320 --> 02:11:03.880
+I said, do you have the syllabus?
+
+02:11:03.880 --> 02:11:04.960
+She said, yeah.
+
+02:11:04.960 --> 02:11:06.680
+And she went and got the syllabus
+
+02:11:06.680 --> 02:11:09.480
+and sure enough, it was sponsored by a drug company.
+
+02:11:10.400 --> 02:11:11.320
+They're everywhere.
+
+02:11:11.320 --> 02:11:12.160
+They're everywhere.
+
+02:11:12.160 --> 02:11:16.280
+And it's back to Kuhn that groups of experts
+
+02:11:16.280 --> 02:11:19.760
+share unspoken assumptions.
+
+02:11:19.760 --> 02:11:22.760
+And in order to be included in that group of experts,
+
+02:11:22.760 --> 02:11:25.040
+you have to share those unspoken assumptions.
+
+02:11:25.040 --> 02:11:27.800
+And what I'm hoping to do with my book, Sickening,
+
+02:11:27.800 --> 02:11:31.800
+and being here, having this wonderful conversation with you
+
+02:11:31.800 --> 02:11:36.160
+is to create an alternative to this normal
+
+02:11:36.160 --> 02:11:41.160
+that people can pursue and practice better medicine
+
+02:11:42.040 --> 02:11:44.080
+and also prevent burnout.
+
+02:11:44.080 --> 02:11:46.240
+I mean, about half the doctors complain
+
+02:11:46.240 --> 02:11:48.080
+that they're burned out and they've had it.
+
+02:11:48.080 --> 02:11:50.960
+And I think that this is a subject,
+
+02:11:50.960 --> 02:11:52.080
+but I don't have data on this.
+
+02:11:52.080 --> 02:11:53.560
+This is just my opinion.
+
+02:11:54.520 --> 02:11:56.800
+But I think that a lot of that burnout
+
+02:11:56.800 --> 02:12:01.320
+is so-called moral injury from practicing in a way
+
+02:12:01.320 --> 02:12:05.320
+that the docs know isn't working.
+
+02:12:05.320 --> 02:12:07.680
+It's not actually providing an alternative
+
+02:12:07.680 --> 02:12:09.880
+to the normal that people can pursue.
+
+02:12:10.320 --> 02:12:13.040
+Alternative to the normal is expanding the normal,
+
+02:12:13.040 --> 02:12:14.920
+is shifting the normal, just like with Kuhn.
+
+02:12:14.920 --> 02:12:19.440
+I mean, you're basically looking for to shift
+
+02:12:19.440 --> 02:12:24.040
+the way medicine is done to the original,
+
+02:12:24.040 --> 02:12:27.120
+I mean, to the intent that it represents
+
+02:12:27.120 --> 02:12:30.600
+that the ideal of medicine, of healthcare.
+
+02:12:30.600 --> 02:12:33.520
+Yeah, in Kuhnian terms, to have a revolution.
+
+02:12:33.520 --> 02:12:36.880
+And that revolution would be to practice medicine
+
+02:12:36.880 --> 02:12:41.720
+in a way that will be epidemiologically most effective,
+
+02:12:41.720 --> 02:12:45.320
+not most profitable for the people who are providing you
+
+02:12:45.320 --> 02:12:47.400
+with what's called knowledge.
+
+02:12:47.400 --> 02:12:51.400
+You helped a lot of people as a doctor, as an educator,
+
+02:12:53.200 --> 02:12:56.560
+live better lives, live longer,
+
+02:12:56.560 --> 02:12:59.160
+but you yourself are a mortal being.
+
+02:12:59.160 --> 02:13:02.240
+Do you think about your own mortality?
+
+02:13:02.240 --> 02:13:03.640
+Do you think about your death?
+
+02:13:03.640 --> 02:13:04.800
+Are you afraid of death?
+
+02:13:05.040 --> 02:13:07.640
+I'm not, I've faced it.
+
+02:13:10.640 --> 02:13:11.920
+I've been close.
+
+02:13:11.920 --> 02:13:12.760
+Yourself?
+
+02:13:12.760 --> 02:13:15.000
+Yeah, yeah.
+
+02:13:15.000 --> 02:13:16.200
+How do you think about it?
+
+02:13:16.200 --> 02:13:19.280
+What wisdom do you gain from having come close to death
+
+02:13:19.280 --> 02:13:21.840
+and the fact that the whole thing ends?
+
+02:13:23.040 --> 02:13:24.080
+It's liberating.
+
+02:13:25.800 --> 02:13:26.640
+It's very liberating.
+
+02:13:26.640 --> 02:13:27.480
+I mean, I'm serious.
+
+02:13:27.480 --> 02:13:30.920
+I was close and not too long ago.
+
+02:13:31.640 --> 02:13:36.640
+And it was a sense of, you know,
+
+02:13:39.520 --> 02:13:41.760
+this may be the way it ends.
+
+02:13:41.760 --> 02:13:45.800
+And I've done my best.
+
+02:13:45.800 --> 02:13:47.040
+It's not been perfect.
+
+02:13:48.120 --> 02:13:51.200
+And if it ends here, it ends here.
+
+02:13:51.200 --> 02:13:54.440
+The people around me are trying to do their best.
+
+02:13:54.440 --> 02:13:57.920
+And in fact, I got pulled out of it,
+
+02:13:57.920 --> 02:14:00.720
+but it didn't look like I was gonna get pulled out of it.
+
+02:14:01.560 --> 02:14:06.200
+Are you ultimately grateful for the ride,
+
+02:14:06.200 --> 02:14:07.440
+even though it ends?
+
+02:14:07.440 --> 02:14:12.440
+Well, it's a little, I think so.
+
+02:14:13.120 --> 02:14:15.680
+If I know, you know, you can't take the ride
+
+02:14:15.680 --> 02:14:17.680
+if you know what the, it's gonna end well.
+
+02:14:17.680 --> 02:14:19.960
+It's not the real ride.
+
+02:14:19.960 --> 02:14:21.000
+It's just a ride.
+
+02:14:22.160 --> 02:14:25.200
+But I, having gone through the whole thing,
+
+02:14:25.200 --> 02:14:30.200
+I definitely freed me of a sense of anxiety about death.
+
+02:14:31.200 --> 02:14:35.560
+And it said to me, do your best every day,
+
+02:14:35.560 --> 02:14:37.240
+because it's gonna end sometime.
+
+02:14:38.440 --> 02:14:40.800
+I apologize for the ridiculously big question,
+
+02:14:40.800 --> 02:14:45.720
+but what do you think is the meaning of life,
+
+02:14:45.720 --> 02:14:47.560
+of our human existence?
+
+02:14:52.120 --> 02:14:54.640
+I think it's to care about something
+
+02:14:54.640 --> 02:14:55.880
+and do your best with it.
+
+02:14:56.880 --> 02:14:58.920
+Whether it's being a doctor
+
+02:14:58.920 --> 02:15:03.160
+and trying to make sure that the greatest number of people
+
+02:15:03.160 --> 02:15:04.520
+get the best healthcare,
+
+02:15:06.400 --> 02:15:08.160
+or it's a gardener who wants to have
+
+02:15:08.160 --> 02:15:09.360
+the most beautiful plants,
+
+02:15:09.360 --> 02:15:11.480
+or it's a grandparent who wants to have
+
+02:15:11.480 --> 02:15:13.720
+a good relationship with their grandchildren.
+
+02:15:13.720 --> 02:15:18.720
+But whatever it is that gives you a sense of meaning,
+
+02:15:19.200 --> 02:15:21.880
+as long as it doesn't hurt other people,
+
+02:15:21.880 --> 02:15:24.960
+to really commit yourself to it.
+
+02:15:24.960 --> 02:15:27.920
+That commitment, being in that commitment for me
+
+02:15:27.920 --> 02:15:29.880
+is the meaning of life.
+
+02:15:29.880 --> 02:15:33.040
+Put your whole heart and soul into the thing.
+
+02:15:34.560 --> 02:15:35.400
+What is it?
+
+02:15:35.400 --> 02:15:37.560
+The Bukowski poem, Go All the Way.
+
+02:15:38.880 --> 02:15:41.520
+John, you're an incredible human being,
+
+02:15:41.520 --> 02:15:42.520
+incredible educator.
+
+02:15:42.520 --> 02:15:45.440
+Like I said, I recommend people listen to your lectures.
+
+02:15:45.440 --> 02:15:48.000
+It's so refreshing to see that clarity
+
+02:15:48.000 --> 02:15:49.360
+of thought and brilliance.
+
+02:15:49.360 --> 02:15:51.880
+And obviously your criticism of Big Pharma
+
+02:15:51.880 --> 02:15:56.480
+or your illumination of the mechanisms of Big Pharma
+
+02:15:56.840 --> 02:15:58.400
+is really important at this time.
+
+02:15:58.400 --> 02:16:02.360
+So I really hope people read your book,
+
+02:16:02.360 --> 02:16:03.920
+Sickening, that's out today,
+
+02:16:03.920 --> 02:16:05.760
+or depending on when this comes out.
+
+02:16:07.840 --> 02:16:09.120
+Thank you so much for spending
+
+02:16:09.120 --> 02:16:12.240
+your extremely valuable time with me today.
+
+02:16:12.240 --> 02:16:13.080
+It was amazing.
+
+02:16:13.080 --> 02:16:15.520
+Well, Lex, I wanted back to you.
+
+02:16:15.520 --> 02:16:18.720
+Thanks for engaging in this conversation,
+
+02:16:18.720 --> 02:16:21.440
+for creating the space to have it
+
+02:16:21.440 --> 02:16:25.160
+and creating a listenership that is interested
+
+02:16:25.160 --> 02:16:27.400
+in understanding serious ideas.
+
+02:16:27.400 --> 02:16:29.520
+And I really appreciate the conversation.
+
+02:16:29.520 --> 02:16:31.000
+And I should mention that offline,
+
+02:16:31.000 --> 02:16:34.080
+you told me you listened to the Gilbert Strang episode.
+
+02:16:34.080 --> 02:16:36.040
+So for anyone who don't know Gilbert Strang,
+
+02:16:36.040 --> 02:16:39.040
+another epic human being that should check out.
+
+02:16:39.040 --> 02:16:41.320
+If you don't know anything about mathematics
+
+02:16:41.320 --> 02:16:43.400
+or linear algebra, go look him up.
+
+02:16:43.400 --> 02:16:46.720
+He's one of the great mathematics educators of all time.
+
+02:16:46.720 --> 02:16:49.080
+So of all the people you mentioned to me,
+
+02:16:49.080 --> 02:16:50.840
+I appreciate that you mentioned him
+
+02:16:50.840 --> 02:16:54.120
+because he is a rock star of mathematics.
+
+02:16:54.160 --> 02:16:56.240
+John, thank you so much for talking to us, this was awesome.
+
+02:16:56.240 --> 02:16:57.080
+Great, thank you.
+
+02:16:57.920 --> 02:16:59.400
+Thanks for listening to this conversation
+
+02:16:59.400 --> 02:17:00.800
+with John Abramson.
+
+02:17:00.800 --> 02:17:02.200
+To support this podcast,
+
+02:17:02.200 --> 02:17:05.000
+please check out our sponsors in the description.
+
+02:17:05.000 --> 02:17:08.840
+And now let me leave you some words from Marcus Aurelius.
+
+02:17:10.040 --> 02:17:14.800
+Waste no time arguing about what a good man should be.
+
+02:17:14.800 --> 02:17:15.680
+Be one.
+
+02:17:16.960 --> 02:17:19.920
+Thank you for listening and hope to see you next time.
+
+02:17:24.120 --> 02:17:24.960
+Thank you.
+

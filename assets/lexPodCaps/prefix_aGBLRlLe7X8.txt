@@ -1,0 +1,8201 @@
+WEBVTT
+
+00:00.000 --> 00:05.000
+at which point is the neural network a being versus a tool?
+
+00:08.360 --> 00:11.320
+The following is a conversation with Oriol Vinales,
+
+00:11.320 --> 00:13.400
+his second time in the podcast.
+
+00:13.400 --> 00:15.880
+Oriol is the research director
+
+00:15.880 --> 00:17.960
+and deep learning lead at DeepMind
+
+00:17.960 --> 00:20.920
+and one of the most brilliant thinkers and researchers
+
+00:20.920 --> 00:24.280
+in the history of artificial intelligence.
+
+00:24.280 --> 00:26.600
+This is the Lex Fridman podcast.
+
+00:26.600 --> 00:28.800
+To support it, please check out our sponsors
+
+00:28.800 --> 00:30.160
+in the description.
+
+00:30.160 --> 00:33.560
+And now, dear friends, here's Oriol Vinales.
+
+00:34.480 --> 00:37.040
+You are one of the most brilliant researchers
+
+00:37.040 --> 00:38.440
+in the history of AI,
+
+00:38.440 --> 00:40.560
+working across all kinds of modalities.
+
+00:40.560 --> 00:42.680
+Probably the one common theme is
+
+00:42.680 --> 00:45.000
+it's always sequences of data.
+
+00:45.000 --> 00:46.960
+So we're talking about languages, images,
+
+00:46.960 --> 00:50.240
+even biology and games, as we talked about last time.
+
+00:50.240 --> 00:53.360
+So you're a good person to ask this.
+
+00:53.360 --> 00:57.320
+In your lifetime, will we be able to build an AI system
+
+00:57.320 --> 01:00.760
+that's able to replace me as the interviewer
+
+01:00.760 --> 01:02.600
+in this conversation,
+
+01:02.600 --> 01:04.440
+in terms of ability to ask questions
+
+01:04.440 --> 01:06.600
+that are compelling to somebody listening?
+
+01:06.600 --> 01:10.640
+And then further question is, are we close?
+
+01:10.640 --> 01:13.880
+Will we be able to build a system that replaces you
+
+01:13.880 --> 01:16.080
+as the interviewee
+
+01:16.080 --> 01:18.120
+in order to create a compelling conversation?
+
+01:18.120 --> 01:20.040
+How far away are we, do you think?
+
+01:20.040 --> 01:21.800
+It's a good question.
+
+01:21.800 --> 01:24.680
+I think partly I would say, do we want that?
+
+01:25.440 --> 01:29.400
+I really like when we start now with very powerful models,
+
+01:29.400 --> 01:32.160
+interacting with them and thinking of them
+
+01:32.160 --> 01:34.080
+more closer to us.
+
+01:34.080 --> 01:37.040
+The question is, if you remove the human side
+
+01:37.040 --> 01:42.040
+of the conversation, is that an interesting artifact?
+
+01:42.320 --> 01:44.440
+And I would say probably not.
+
+01:44.440 --> 01:47.960
+I've seen, for instance, last time we spoke,
+
+01:47.960 --> 01:50.320
+we were talking about StarCraft
+
+01:50.320 --> 01:54.880
+and creating agents that play games involves self-play,
+
+01:54.880 --> 01:57.640
+but ultimately what people care about was,
+
+01:57.640 --> 01:59.080
+how does this agent behave
+
+01:59.080 --> 02:02.680
+when the opposite side is a human?
+
+02:02.680 --> 02:07.680
+So without a doubt, we will probably be more empowered by AI.
+
+02:08.520 --> 02:12.480
+Maybe you can source some questions from an AI system.
+
+02:12.480 --> 02:15.000
+I mean, that even today, I would say it's quite plausible
+
+02:15.000 --> 02:17.040
+that with your creativity,
+
+02:17.040 --> 02:19.400
+you might actually find very interesting questions
+
+02:19.440 --> 02:20.760
+that you can filter.
+
+02:20.760 --> 02:22.440
+We call this cherry picking sometimes
+
+02:22.440 --> 02:24.440
+in the field of language.
+
+02:24.440 --> 02:27.560
+And likewise, if I had now the tools on my side,
+
+02:27.560 --> 02:30.680
+I could say, look, you're asking this interesting question.
+
+02:30.680 --> 02:33.280
+From this answer, I like the words chosen
+
+02:33.280 --> 02:36.640
+by this particular system that created a few words.
+
+02:36.640 --> 02:41.280
+Completely replacing it feels not exactly exciting to me,
+
+02:41.280 --> 02:43.800
+although in my lifetime, I think way,
+
+02:43.800 --> 02:45.560
+I mean, given the trajectory,
+
+02:45.560 --> 02:48.040
+I think it's possible that perhaps
+
+02:48.040 --> 02:49.920
+there could be interesting,
+
+02:49.920 --> 02:53.080
+maybe self-play interviews as you're suggesting
+
+02:53.080 --> 02:56.200
+that would look or sound quite interesting
+
+02:56.200 --> 02:57.760
+and probably would educate,
+
+02:57.760 --> 03:00.200
+or you could learn a topic through listening
+
+03:00.200 --> 03:03.240
+to one of these interviews at a basic level at least.
+
+03:03.240 --> 03:04.840
+So you said it doesn't seem exciting to you,
+
+03:04.840 --> 03:07.560
+but what if exciting is part of the objective function
+
+03:07.560 --> 03:09.160
+the thing is optimized over?
+
+03:09.160 --> 03:12.880
+So there's probably a huge amount of data of humans,
+
+03:12.880 --> 03:16.120
+if you look correctly, of humans communicating online,
+
+03:16.120 --> 03:19.320
+and there's probably ways to measure the degree of,
+
+03:19.320 --> 03:21.960
+you know, as they talk about engagement.
+
+03:21.960 --> 03:24.160
+So you can probably optimize the question
+
+03:24.160 --> 03:28.720
+that's most created an engaging conversation in the past.
+
+03:28.720 --> 03:31.600
+So actually, if you strictly use the word exciting,
+
+03:33.240 --> 03:37.280
+there is probably a way to create
+
+03:37.280 --> 03:40.360
+a optimally exciting conversations
+
+03:40.360 --> 03:44.640
+that involve AI systems, at least one side is AI.
+
+03:44.640 --> 03:45.640
+Yeah, that makes sense.
+
+03:45.640 --> 03:48.920
+I think maybe looping back a bit to games
+
+03:48.920 --> 03:53.080
+and the game industry, when you design algorithms,
+
+03:53.080 --> 03:55.840
+you're thinking about winning as the objective, right?
+
+03:55.840 --> 03:57.360
+Or the reward function.
+
+03:57.360 --> 04:00.120
+But in fact, when we discuss this with Blizzard,
+
+04:00.120 --> 04:02.360
+the creators of StarCraft in this case,
+
+04:02.360 --> 04:05.360
+I think what's exciting, fun,
+
+04:05.360 --> 04:09.200
+if you could measure that and optimize for that,
+
+04:09.200 --> 04:11.760
+that's probably why we play video games
+
+04:11.760 --> 04:14.600
+or why we interact or listen or look at cut videos
+
+04:15.600 --> 04:16.440
+or whatever on the internet.
+
+04:16.440 --> 04:19.480
+So it's true that modeling reward
+
+04:19.480 --> 04:22.080
+beyond the obvious reward functions we've used to
+
+04:22.080 --> 04:25.520
+in reinforcement learning is definitely very exciting.
+
+04:25.520 --> 04:28.200
+And again, there is some progress actually
+
+04:28.200 --> 04:32.120
+into a particular aspect of AI, which is quite critical,
+
+04:32.120 --> 04:36.080
+which is, for instance, is a conversation
+
+04:36.080 --> 04:38.160
+or is the information truthful, right?
+
+04:38.160 --> 04:41.600
+So you could start trying to evaluate these
+
+04:41.600 --> 04:44.400
+from accepts from the internet, right?
+
+04:45.240 --> 04:46.080
+That has lots of information.
+
+04:46.080 --> 04:50.200
+And then if you can learn a function automated ideally,
+
+04:50.200 --> 04:52.880
+so you can also optimize it more easily,
+
+04:52.880 --> 04:54.880
+then you could actually have conversations
+
+04:54.880 --> 04:59.400
+that optimize for non-obvious things such as excitement.
+
+04:59.400 --> 05:01.080
+So yeah, that's quite possible.
+
+05:01.080 --> 05:03.600
+And then I would say in that case,
+
+05:03.600 --> 05:05.920
+it would definitely be a fun exercise
+
+05:05.920 --> 05:08.080
+and quite unique to have at least one site
+
+05:08.080 --> 05:12.840
+that is fully driven by an excitement reward function.
+
+05:12.840 --> 05:16.960
+But obviously there would be still quite a lot of humanity
+
+05:16.960 --> 05:20.800
+in the system, both from who is building the system,
+
+05:20.800 --> 05:23.600
+of course, and also ultimately,
+
+05:23.600 --> 05:26.040
+if we think of labeling for excitement,
+
+05:26.040 --> 05:28.480
+that those labels must come from us
+
+05:28.480 --> 05:32.560
+because it's just hard to have a computational measure
+
+05:32.560 --> 05:33.520
+of excitement.
+
+05:33.520 --> 05:36.160
+As far as I understand, there's no such thing.
+
+05:36.160 --> 05:39.280
+Well, as you mentioned truth also,
+
+05:39.280 --> 05:41.840
+I would actually venture to say that excitement
+
+05:41.840 --> 05:44.160
+is easier to label than truth,
+
+05:44.160 --> 05:49.000
+or is perhaps has lower consequences of failure.
+
+05:49.920 --> 05:54.920
+But there is perhaps the humanness that you mentioned,
+
+05:55.760 --> 05:58.280
+that's perhaps part of a thing that could be labeled.
+
+05:58.280 --> 06:02.520
+And that could mean an AI system that's doing dialogue,
+
+06:02.520 --> 06:07.520
+that's doing conversations should be flawed, for example.
+
+06:07.720 --> 06:09.440
+Like that's the thing you optimize for,
+
+06:09.440 --> 06:13.280
+which is have inherent contradictions by design,
+
+06:13.280 --> 06:15.080
+have flaws by design.
+
+06:15.080 --> 06:18.760
+Maybe it also needs to have a strong sense of identity.
+
+06:18.760 --> 06:22.680
+So it has a backstory, it told itself that it sticks to,
+
+06:22.680 --> 06:26.920
+it has memories, not in terms of how the system is designed,
+
+06:26.920 --> 06:30.440
+but it's able to tell stories about its past.
+
+06:30.440 --> 06:35.440
+It's able to have mortality and fear of mortality
+
+06:36.080 --> 06:39.120
+in the following way, that it has an identity
+
+06:39.760 --> 06:43.120
+if it says something stupid and gets canceled on Twitter,
+
+06:43.120 --> 06:44.720
+that's the end of that system.
+
+06:44.720 --> 06:47.360
+So it's not like you get to rebrand yourself,
+
+06:47.360 --> 06:49.360
+that system is, that's it.
+
+06:49.360 --> 06:52.120
+So maybe that the high stakes nature of it,
+
+06:52.120 --> 06:54.560
+because you can't say anything stupid now,
+
+06:54.560 --> 06:57.720
+or because you'd be canceled on Twitter,
+
+06:57.720 --> 06:59.760
+and that there's stakes to that.
+
+06:59.760 --> 07:01.160
+And then I think part of the reason
+
+07:01.160 --> 07:03.520
+that makes it interesting.
+
+07:03.520 --> 07:04.720
+And then you have a perspective,
+
+07:04.720 --> 07:07.720
+like you've built up over time that you stick with,
+
+07:07.760 --> 07:09.160
+and then people can disagree with you.
+
+07:09.160 --> 07:11.840
+So holding that perspective strongly,
+
+07:11.840 --> 07:14.080
+holding sort of maybe a controversial,
+
+07:14.080 --> 07:16.360
+at least a strong opinion.
+
+07:16.360 --> 07:18.880
+All of those elements, it feels like they can be learned
+
+07:18.880 --> 07:22.680
+because it feels like there's a lot of data on the internet
+
+07:22.680 --> 07:24.560
+of people having an opinion.
+
+07:24.560 --> 07:27.880
+And then combine that with a metric of excitement,
+
+07:27.880 --> 07:30.040
+you can start to create something that,
+
+07:30.040 --> 07:34.520
+as opposed to trying to optimize for sort of
+
+07:34.520 --> 07:38.120
+grammatical clarity and truthfulness,
+
+07:38.120 --> 07:42.000
+the factual consistency over many sentences,
+
+07:42.000 --> 07:45.320
+you're optimized for the humanness.
+
+07:45.320 --> 07:48.880
+And there's obviously data for humanness on the internet.
+
+07:48.880 --> 07:52.880
+So I wonder if there's a future where that's part,
+
+07:54.040 --> 07:56.400
+I mean, I sometimes wonder that about myself,
+
+07:56.400 --> 07:58.120
+I'm a huge fan of podcasts,
+
+07:58.120 --> 08:00.760
+and I listen to some podcasts,
+
+08:00.760 --> 08:03.240
+and I think like, what is interesting about this?
+
+08:03.240 --> 08:04.240
+What is compelling?
+
+08:05.960 --> 08:07.440
+The same way you watch other games,
+
+08:07.440 --> 08:09.160
+like you said, watch, play StarCraft,
+
+08:09.160 --> 08:13.040
+or have Magnus Carlsen play chess.
+
+08:13.040 --> 08:14.920
+So I'm not a chess player,
+
+08:14.920 --> 08:16.760
+but it's still interesting to me, and what is that?
+
+08:16.760 --> 08:19.440
+That's the stakes of it,
+
+08:19.440 --> 08:23.400
+maybe the end of a domination of a series of wins.
+
+08:23.400 --> 08:25.440
+I don't know, there's all those elements
+
+08:25.440 --> 08:28.000
+somehow connect to a compelling conversation,
+
+08:28.000 --> 08:30.200
+and I wonder how hard is that to replace?
+
+08:30.200 --> 08:31.840
+Because ultimately, all of that connects
+
+08:31.840 --> 08:34.600
+the initial proposition of how to test
+
+08:35.480 --> 08:38.640
+whether an AI is intelligent or not with the Turing test,
+
+08:38.640 --> 08:41.760
+which I guess my question comes from a place
+
+08:41.760 --> 08:43.680
+of the spirit of that test.
+
+08:43.680 --> 08:45.440
+Yes, I actually recall,
+
+08:45.440 --> 08:47.920
+I was just listening to our first podcast
+
+08:47.920 --> 08:50.360
+where we discussed Turing test.
+
+08:50.360 --> 08:54.720
+So I would say from a neural network,
+
+08:54.720 --> 08:57.120
+AI builder perspective,
+
+08:57.640 --> 09:01.360
+there's, usually you try to map
+
+09:01.360 --> 09:05.200
+many of these interesting topics you discuss to benchmarks,
+
+09:05.200 --> 09:08.160
+and then also to actual architectures
+
+09:08.160 --> 09:10.640
+on how these systems are currently built,
+
+09:10.640 --> 09:13.080
+how they learn, what data they learn from,
+
+09:13.080 --> 09:14.320
+what are they learning, right?
+
+09:14.320 --> 09:17.800
+We're talking about weights of a mathematical function,
+
+09:17.800 --> 09:21.560
+and then looking at the current state of the game,
+
+09:21.560 --> 09:26.040
+maybe what do we need leaps forward
+
+09:26.040 --> 09:30.720
+to get to the ultimate stage of all these experiences,
+
+09:30.720 --> 09:32.920
+lifetime experience, fears,
+
+09:32.920 --> 09:37.920
+like words that currently barely we're seeing progress,
+
+09:38.040 --> 09:40.160
+just because what's happening today
+
+09:40.160 --> 09:44.080
+is you take all these human interactions,
+
+09:44.080 --> 09:48.000
+it's a large vast variety of human interactions online,
+
+09:48.000 --> 09:51.680
+and then you're distilling these sequences, right?
+
+09:51.680 --> 09:54.760
+Going back to my passion, like sequences of words,
+
+09:54.760 --> 09:56.960
+letters, images, sound,
+
+09:56.960 --> 09:59.880
+there's more modalities here to be at play,
+
+09:59.880 --> 10:03.400
+and then you're trying to just learn a function
+
+10:03.400 --> 10:04.440
+that will be happy,
+
+10:04.440 --> 10:08.880
+that maximizes the likelihood of seeing all these
+
+10:08.880 --> 10:10.960
+through a neural network.
+
+10:10.960 --> 10:14.280
+Now, I think there's a few places
+
+10:14.280 --> 10:17.280
+where the way currently we train these models
+
+10:17.280 --> 10:20.040
+would clearly like to be able to develop
+
+10:20.040 --> 10:22.160
+the kinds of capabilities you save.
+
+10:22.160 --> 10:23.600
+I'll tell you maybe a couple.
+
+10:23.600 --> 10:27.640
+One is the lifetime of an agent or a model.
+
+10:27.640 --> 10:30.840
+So you learn from this data offline, right?
+
+10:30.840 --> 10:33.880
+So you're just passively observing and maximizing this,
+
+10:33.880 --> 10:37.640
+it's almost like a landscape of mountains,
+
+10:37.640 --> 10:39.160
+and then everywhere there's data
+
+10:39.160 --> 10:41.040
+that humans interacted in this way,
+
+10:41.040 --> 10:43.000
+you're trying to make that higher,
+
+10:43.000 --> 10:45.720
+and then lower where there's no data.
+
+10:45.720 --> 10:48.480
+And then these models generally
+
+10:48.480 --> 10:51.160
+don't then experience themselves,
+
+10:51.160 --> 10:52.520
+they just are observers, right?
+
+10:52.520 --> 10:54.600
+They're passive observers of the data,
+
+10:54.600 --> 10:57.440
+and then we're putting them to then generate data
+
+10:57.440 --> 11:00.920
+when we interact with them, but that's very limiting.
+
+11:00.920 --> 11:03.480
+The experience they actually experience
+
+11:03.480 --> 11:05.680
+when they could maybe be optimizing
+
+11:05.680 --> 11:07.440
+or further optimizing the weights,
+
+11:07.440 --> 11:08.640
+we're not even doing that.
+
+11:08.640 --> 11:13.640
+So to be clear, and again, mapping to AlphaGo, AlphaStar,
+
+11:14.080 --> 11:17.080
+we train the model, and when we deploy it
+
+11:17.080 --> 11:18.880
+to play against humans, or in this case,
+
+11:18.880 --> 11:21.840
+interact with humans, like language models,
+
+11:21.880 --> 11:23.600
+they don't even keep training, right?
+
+11:23.600 --> 11:26.240
+They're not learning in the sense of the weights
+
+11:26.240 --> 11:28.280
+that you've learned from the data,
+
+11:28.280 --> 11:29.840
+they don't keep changing.
+
+11:29.840 --> 11:33.560
+Now, there's something a bit more feels magical,
+
+11:33.560 --> 11:36.280
+but it's understandable if you're into neural net,
+
+11:36.280 --> 11:39.200
+which is, well, they might not learn
+
+11:39.200 --> 11:41.560
+in the strict sense of the words, the weights changing,
+
+11:41.560 --> 11:44.440
+maybe that's mapping to how neurons interconnect
+
+11:44.440 --> 11:46.720
+and how we learn over our lifetime.
+
+11:46.720 --> 11:50.360
+But it's true that the context of the conversation
+
+11:51.280 --> 11:55.040
+that takes place when you talk to these systems,
+
+11:55.040 --> 11:57.280
+it's held in their working memory, right?
+
+11:57.280 --> 12:00.200
+It's almost like you start a computer,
+
+12:00.200 --> 12:02.920
+it has a hard drive that has a lot of information,
+
+12:02.920 --> 12:04.080
+you have access to the internet,
+
+12:04.080 --> 12:06.400
+which has probably all the information,
+
+12:06.400 --> 12:10.440
+but there's also a working memory where these agents,
+
+12:10.440 --> 12:13.920
+as we call them, or start calling them, build upon.
+
+12:13.920 --> 12:16.680
+Now, this memory is very limited.
+
+12:16.680 --> 12:19.280
+I mean, right now, we're talking, to be concrete,
+
+12:19.320 --> 12:21.800
+about 2,000 words that we hold,
+
+12:21.800 --> 12:24.880
+and then beyond that, we start forgetting what we've seen.
+
+12:24.880 --> 12:28.080
+So you can see that there's some short-term coherence
+
+12:28.080 --> 12:29.880
+already, right, with when you said,
+
+12:29.880 --> 12:32.360
+I mean, it's a very interesting topic,
+
+12:32.360 --> 12:37.360
+having sort of a mapping, an agent to have consistency,
+
+12:37.440 --> 12:40.800
+then if you say, oh, what's your name,
+
+12:40.800 --> 12:42.280
+it could remember that,
+
+12:42.280 --> 12:45.000
+but then it might forget beyond 2,000 words,
+
+12:45.000 --> 12:47.520
+which is not that long of context,
+
+12:47.520 --> 12:51.800
+if we think even of this podcast, books are much longer.
+
+12:51.800 --> 12:55.200
+So technically speaking, there's a limitation there,
+
+12:55.200 --> 12:58.240
+super exciting from people that work on deep learning
+
+12:58.240 --> 13:00.040
+to be working on,
+
+13:00.040 --> 13:04.000
+but I would say we lack maybe benchmarks and the technology
+
+13:04.000 --> 13:08.760
+to have this lifetime-like experience of memory
+
+13:08.760 --> 13:10.920
+that keeps building up.
+
+13:10.920 --> 13:13.240
+However, the way it learns offline
+
+13:13.240 --> 13:14.960
+is clearly very powerful, right?
+
+13:14.960 --> 13:17.480
+So you asked me three years ago,
+
+13:18.440 --> 13:19.280
+I would say, oh, we're very far.
+
+13:19.280 --> 13:22.280
+I think we've seen the power of this imitation,
+
+13:22.280 --> 13:26.320
+again, on the internet scale that has enabled this
+
+13:26.320 --> 13:28.840
+to feel like at least the knowledge,
+
+13:28.840 --> 13:30.760
+the basic knowledge about the world now
+
+13:30.760 --> 13:33.200
+is incorporated into the weights,
+
+13:33.200 --> 13:36.640
+but then this experience is lacking.
+
+13:36.640 --> 13:39.400
+And in fact, as I said, we don't even train them
+
+13:39.400 --> 13:41.240
+when we're talking to them,
+
+13:41.240 --> 13:44.840
+other than their working memory, of course, is affected.
+
+13:44.840 --> 13:46.640
+So that's the dynamic part,
+
+13:46.640 --> 13:48.320
+but they don't learn in the same way
+
+13:48.320 --> 13:50.680
+that you and I have learned, right?
+
+13:50.680 --> 13:54.120
+From basically when we were born and probably before.
+
+13:54.120 --> 13:57.480
+So lots of fascinating, interesting questions you asked there.
+
+13:57.480 --> 14:01.760
+I think the one I mentioned is this idea of memory
+
+14:01.760 --> 14:05.560
+and experience versus just kind of observe the world
+
+14:05.560 --> 14:08.040
+and learn its knowledge, which I think for that,
+
+14:08.040 --> 14:10.400
+I would argue lots of recent advancements
+
+14:10.400 --> 14:13.480
+that make me very excited about the field.
+
+14:13.480 --> 14:18.240
+And then the second maybe issue that I see is
+
+14:18.240 --> 14:21.320
+all these models, we train them from scratch.
+
+14:21.320 --> 14:24.080
+That's something I would have complained three years ago
+
+14:24.080 --> 14:26.480
+or six years ago or 10 years ago.
+
+14:26.480 --> 14:31.440
+And it feels if we take inspiration from how we got here,
+
+14:31.440 --> 14:35.360
+how the universe evolved us and we keep evolving,
+
+14:35.360 --> 14:37.920
+it feels that is a missing piece,
+
+14:37.920 --> 14:41.400
+that we should not be training models from scratch
+
+14:41.400 --> 14:45.320
+every few months, that there should be some sort of way
+
+14:45.320 --> 14:49.080
+in which we can grow models, much like as a species
+
+14:49.080 --> 14:51.600
+and many other elements in the universe
+
+14:51.600 --> 14:55.080
+is building from the previous sort of iterations.
+
+14:55.080 --> 14:59.600
+And that's from a just purely neural network perspective,
+
+14:59.600 --> 15:02.360
+even though we would like to make it work,
+
+15:02.360 --> 15:06.320
+it's proven very hard to not throw away
+
+15:06.320 --> 15:07.760
+the previous weights, right?
+
+15:07.760 --> 15:11.360
+This landscape we learn from the data and refresh it
+
+15:11.360 --> 15:13.440
+with a brand new set of weights,
+
+15:13.440 --> 15:17.720
+given maybe a recent snapshot of this dataset we train on,
+
+15:17.720 --> 15:20.040
+et cetera, or even a new game we're learning.
+
+15:20.040 --> 15:24.240
+So that feels like something is missing fundamentally.
+
+15:24.240 --> 15:27.520
+We might find it, but it's not very clear
+
+15:27.520 --> 15:28.480
+how it will look like.
+
+15:28.480 --> 15:30.880
+There's many ideas and it's super exciting as well.
+
+15:30.880 --> 15:32.520
+Yes, just for people who don't know,
+
+15:32.520 --> 15:35.800
+when you're approaching a new problem in machine learning,
+
+15:35.800 --> 15:38.280
+you're going to come up with an architecture
+
+15:38.280 --> 15:41.040
+that has a bunch of weights
+
+15:41.040 --> 15:43.400
+and then you initialize them somehow,
+
+15:43.400 --> 15:47.320
+which in most cases is some version of random.
+
+15:47.320 --> 15:49.000
+So that's what you mean by starting from scratch
+
+15:49.000 --> 15:51.280
+and it seems like it's a waste
+
+15:51.280 --> 15:56.280
+every time you solve the game of Go and chess,
+
+15:56.720 --> 15:59.760
+StarCraft, protein folding,
+
+15:59.760 --> 16:03.200
+like surely there's some way to reuse the weights
+
+16:03.200 --> 16:08.200
+as we grow this giant database of neural networks
+
+16:08.400 --> 16:10.760
+that have solved some of the toughest problems in the world.
+
+16:11.560 --> 16:15.240
+Some of that is, what is that?
+
+16:15.240 --> 16:19.080
+Methods, how to reuse weights,
+
+16:19.080 --> 16:22.480
+how to learn, extract what's generalizable,
+
+16:22.480 --> 16:25.160
+or at least has a chance to be
+
+16:25.160 --> 16:26.900
+and throw away the other stuff.
+
+16:27.840 --> 16:29.560
+And maybe the neural network itself
+
+16:29.560 --> 16:31.120
+should be able to tell you that.
+
+16:33.720 --> 16:35.640
+Yeah, what ideas do you have
+
+16:35.640 --> 16:37.520
+for better initialization of weights?
+
+16:37.520 --> 16:38.720
+Maybe stepping back,
+
+16:38.720 --> 16:41.720
+if we look at the field of machine learning,
+
+16:41.720 --> 16:44.040
+but especially deep learning,
+
+16:44.040 --> 16:45.240
+at the core of deep learning,
+
+16:45.240 --> 16:46.600
+there's this beautiful idea
+
+16:46.600 --> 16:50.920
+that is a single algorithm can solve any task.
+
+16:50.920 --> 16:54.400
+So it's been proven over and over
+
+16:54.400 --> 16:56.440
+with more increasing set of benchmarks
+
+16:56.440 --> 16:58.560
+and things that were thought impossible
+
+16:58.560 --> 17:01.960
+that are being cracked by this basic principle
+
+17:01.960 --> 17:05.800
+that is you take a neural network of uninitialized weights,
+
+17:05.800 --> 17:09.600
+so like a blank computational brain,
+
+17:09.600 --> 17:12.560
+then you give it, in the case of supervised learning,
+
+17:12.560 --> 17:14.960
+a lot ideally of examples of,
+
+17:14.960 --> 17:17.120
+hey, here's what the input looks like
+
+17:17.120 --> 17:19.560
+and the desired output should look like this.
+
+17:19.560 --> 17:22.360
+I mean, image classification is very clear example,
+
+17:22.360 --> 17:25.560
+images to maybe one of a thousand categories,
+
+17:25.560 --> 17:26.840
+that's what ImageNet is like,
+
+17:26.840 --> 17:30.720
+but many, many, if not all problems can be mapped this way.
+
+17:30.720 --> 17:35.240
+And then there's a generic recipe that you can use
+
+17:35.240 --> 17:38.600
+and this recipe with very little change.
+
+17:38.600 --> 17:41.520
+And I think that's the core of deep learning research, right?
+
+17:41.520 --> 17:44.440
+That what is the recipe that is universal,
+
+17:44.440 --> 17:46.400
+that for any new given task,
+
+17:46.400 --> 17:48.440
+I'll be able to use without thinking,
+
+17:48.440 --> 17:51.720
+without having to work very hard on the problem at stake.
+
+17:52.600 --> 17:54.400
+We have not found this recipe,
+
+17:54.400 --> 17:59.400
+but I think the field is excited to find less tweaks
+
+18:00.160 --> 18:02.000
+or tricks that people find
+
+18:02.000 --> 18:05.280
+when they work on important problems specific to those
+
+18:05.280 --> 18:07.560
+and more of a general algorithm, right?
+
+18:07.560 --> 18:09.320
+So at an algorithmic level,
+
+18:09.320 --> 18:11.800
+I would say we have something general ready,
+
+18:11.800 --> 18:14.520
+which is this formula of training a very powerful model,
+
+18:14.520 --> 18:17.000
+a neural network on a lot of data.
+
+18:17.000 --> 18:21.200
+And in many cases, you need some specificity
+
+18:21.200 --> 18:23.400
+to the actual problem you're solving.
+
+18:23.400 --> 18:26.080
+Protein folding being such an important problem
+
+18:26.080 --> 18:30.800
+has some basic recipe that is learned from before, right?
+
+18:30.800 --> 18:34.160
+Like transformer models, graph neural networks,
+
+18:34.160 --> 18:38.640
+ideas coming from NLP like something called BERT
+
+18:38.640 --> 18:41.320
+that is a kind of loss that you can emplace
+
+18:41.320 --> 18:44.440
+to help the model knowledge distillation
+
+18:44.440 --> 18:45.720
+is another technique, right?
+
+18:45.720 --> 18:47.120
+So this is the formula.
+
+18:47.120 --> 18:50.600
+We still had to find some particular things
+
+18:50.600 --> 18:53.640
+that were specific to alpha fold, right?
+
+18:53.640 --> 18:55.920
+That's very important because protein folding
+
+18:55.920 --> 18:59.160
+is such a high value problem that as humans,
+
+18:59.160 --> 19:02.880
+we should solve it no matter if we need to be a bit specific.
+
+19:02.880 --> 19:04.960
+And it's possible that some of these learnings
+
+19:04.960 --> 19:07.400
+will apply then to the next iteration of this recipe
+
+19:07.400 --> 19:09.360
+that deep learners are about.
+
+19:09.360 --> 19:13.200
+But it is true that so far the recipe is what's common,
+
+19:13.200 --> 19:15.880
+but the weights you generally throw away,
+
+19:15.880 --> 19:17.800
+which feels very sad.
+
+19:19.000 --> 19:21.400
+Although maybe in the last,
+
+19:21.400 --> 19:23.360
+especially in the last two, three years,
+
+19:23.360 --> 19:24.600
+and when we last spoke,
+
+19:24.600 --> 19:26.600
+I mentioned this area of meta-learning,
+
+19:26.600 --> 19:29.560
+which is the idea of learning to learn.
+
+19:29.560 --> 19:33.080
+That idea and some progress has been had starting,
+
+19:33.080 --> 19:37.160
+I would say mostly from GPT-3 on the language domain only,
+
+19:37.160 --> 19:42.120
+in which you could conceive a model that is trained once.
+
+19:42.120 --> 19:45.720
+And then this model is not narrow in that it only knows
+
+19:45.720 --> 19:47.640
+how to translate a pair of languages
+
+19:47.640 --> 19:51.480
+or it only knows how to assign sentiment to a sentence.
+
+19:51.480 --> 19:55.440
+These actually, you could teach it by a prompting is called.
+
+19:55.480 --> 19:56.880
+And this prompting is essentially
+
+19:56.880 --> 19:59.920
+just showing it a few more examples,
+
+19:59.920 --> 20:01.520
+almost like you do show examples,
+
+20:01.520 --> 20:03.040
+input, output examples,
+
+20:03.040 --> 20:04.880
+algorithmically speaking to the process
+
+20:04.880 --> 20:06.320
+of creating this model.
+
+20:06.320 --> 20:07.840
+But now you're doing it through language,
+
+20:07.840 --> 20:11.080
+which is very natural way for us to learn from one another.
+
+20:11.080 --> 20:13.200
+I tell you, hey, you should do this new task.
+
+20:13.200 --> 20:14.600
+I'll tell you a bit more.
+
+20:14.600 --> 20:16.080
+Maybe you ask me some questions
+
+20:16.080 --> 20:17.840
+and now you know the task, right?
+
+20:17.840 --> 20:20.360
+You didn't need to retrain it from scratch.
+
+20:20.360 --> 20:23.240
+And we've seen these magical moments almost
+
+20:24.040 --> 20:26.920
+in this way to do few shot prompting through language
+
+20:26.920 --> 20:28.520
+on language only domain.
+
+20:28.520 --> 20:30.920
+And then in the last two years,
+
+20:30.920 --> 20:34.600
+we've seen these expanded to beyond language,
+
+20:34.600 --> 20:38.000
+adding vision, adding actions and games,
+
+20:38.000 --> 20:39.440
+lots of progress to be had.
+
+20:39.440 --> 20:42.080
+But this is maybe if you ask me like about
+
+20:42.080 --> 20:43.680
+how are we gonna crack this problem?
+
+20:43.680 --> 20:47.720
+This is perhaps one way in which you have a single model.
+
+20:48.680 --> 20:52.120
+The problem of this model is it's hard to grow
+
+20:52.240 --> 20:54.320
+in weights or capacity,
+
+20:54.320 --> 20:56.400
+but the model is certainly so powerful
+
+20:56.400 --> 20:58.960
+that you can teach it some tasks, right?
+
+20:58.960 --> 21:02.000
+In this way that I could teach you a new task now
+
+21:02.000 --> 21:05.120
+if we were all at a text-based task
+
+21:05.120 --> 21:08.440
+or a classification, a vision style task.
+
+21:08.440 --> 21:12.880
+But it still feels like more breakthroughs should be had,
+
+21:12.880 --> 21:14.040
+but it's a great beginning, right?
+
+21:14.040 --> 21:15.440
+We have a good baseline.
+
+21:15.440 --> 21:18.160
+We have an idea that this maybe is the way we want
+
+21:18.160 --> 21:20.800
+to benchmark progress towards AGI.
+
+21:20.800 --> 21:22.880
+And I think in my view, that's critical
+
+21:22.880 --> 21:25.040
+to always have a way to benchmark.
+
+21:25.040 --> 21:27.840
+The community is sort of converging to this overall,
+
+21:27.840 --> 21:29.240
+which is good to see.
+
+21:29.240 --> 21:33.520
+And then this is actually what excites me
+
+21:33.520 --> 21:36.640
+in terms of also next steps for deep learning
+
+21:36.640 --> 21:39.080
+is how to make these models more powerful.
+
+21:39.080 --> 21:40.480
+How do you train them?
+
+21:40.480 --> 21:43.120
+How to grow them if they must grow?
+
+21:43.120 --> 21:44.520
+Should they change their weights
+
+21:44.520 --> 21:46.120
+as you teach it task or not?
+
+21:46.120 --> 21:48.560
+There's some interesting questions, many to be answered.
+
+21:48.560 --> 21:51.760
+Yeah, you've opened the door to a bunch of questions
+
+21:51.760 --> 21:55.720
+I want to ask, but let's first return to your tweet
+
+21:55.720 --> 21:57.160
+and read it like a Shakespeare.
+
+21:57.160 --> 22:01.240
+You wrote, gado is not the end, it's the beginning.
+
+22:01.240 --> 22:05.000
+And then you wrote meow and then an emoji of a cat.
+
+22:06.160 --> 22:07.720
+So first, two questions.
+
+22:07.720 --> 22:10.080
+First, can you explain the meow and the cat emoji?
+
+22:10.080 --> 22:13.680
+And second, can you explain what gado is and how it works?
+
+22:13.680 --> 22:14.640
+Right, indeed.
+
+22:14.640 --> 22:16.520
+I mean, thanks for reminding me
+
+22:16.520 --> 22:19.960
+that we're all exposing on Twitter and-
+
+22:19.960 --> 22:20.960
+Permanently there.
+
+22:20.960 --> 22:21.960
+Yes, permanently there.
+
+22:21.960 --> 22:25.120
+One of the greatest AI researchers of all time,
+
+22:25.120 --> 22:27.200
+meow and cat emoji.
+
+22:27.200 --> 22:28.040
+Yes.
+
+22:28.040 --> 22:28.880
+There you go.
+
+22:28.880 --> 22:32.680
+Can you imagine touring and tweeting meow and cat?
+
+22:32.680 --> 22:34.360
+Probably he would, probably he would.
+
+22:34.360 --> 22:35.200
+Probably.
+
+22:35.200 --> 22:38.400
+So yeah, the tweet is important, actually.
+
+22:38.400 --> 22:39.800
+I put thought on the tweets.
+
+22:39.800 --> 22:40.800
+I hope people-
+
+22:40.800 --> 22:41.760
+Which part did you think?
+
+22:41.760 --> 22:44.880
+Okay, so there's three sentences.
+
+22:44.880 --> 22:48.680
+Gado is not the end, gado is the beginning.
+
+22:48.680 --> 22:50.120
+Meow, cat emoji.
+
+22:50.120 --> 22:51.720
+Okay, which is the important part?
+
+22:51.720 --> 22:53.120
+The meow, no, no.
+
+22:53.120 --> 22:56.080
+Definitely that it is the beginning.
+
+22:56.080 --> 22:59.400
+I mean, I probably was just explaining
+
+22:59.400 --> 23:01.360
+a bit where the field is going,
+
+23:01.360 --> 23:03.720
+but let me tell you about gado.
+
+23:03.720 --> 23:08.120
+So first, the name gado comes from maybe a sequence
+
+23:08.120 --> 23:11.800
+of releases that DeepMind had that named,
+
+23:11.800 --> 23:15.080
+like used animal names to name some of their models
+
+23:15.080 --> 23:19.080
+that are based on this idea of large sequence models.
+
+23:19.080 --> 23:20.600
+Initially, they're only language,
+
+23:20.600 --> 23:23.160
+but we're expanding to other modalities.
+
+23:23.160 --> 23:28.160
+So we had gopher, chinchilla, these were language only,
+
+23:29.920 --> 23:32.680
+and then more recently we released flamingo,
+
+23:32.680 --> 23:35.400
+which adds vision to the equation,
+
+23:35.400 --> 23:38.120
+and then gado, which adds vision,
+
+23:38.120 --> 23:41.600
+and then also actions in the mix, right?
+
+23:42.440 --> 23:44.480
+As we discuss actually actions,
+
+23:44.480 --> 23:47.560
+especially discrete actions like up, down, left, right,
+
+23:47.560 --> 23:49.480
+I just told you the actions, but they're words.
+
+23:49.480 --> 23:52.760
+So you can kind of see how actions naturally map
+
+23:52.760 --> 23:54.520
+to sequence modeling of words,
+
+23:54.520 --> 23:57.080
+which these models are very powerful.
+
+23:57.080 --> 24:01.680
+So gado was named after, I believe,
+
+24:01.680 --> 24:03.640
+I can only from memory, right?
+
+24:03.640 --> 24:06.080
+These things always happen
+
+24:06.080 --> 24:08.520
+with an amazing team of researchers behind.
+
+24:08.520 --> 24:12.200
+So before the release, we had a discussion
+
+24:12.200 --> 24:14.240
+about which animal would we pick, right?
+
+24:14.240 --> 24:18.400
+And I think because of the word general agent, right?
+
+24:18.400 --> 24:21.920
+And this is a property quite unique to gado.
+
+24:21.920 --> 24:24.760
+We kind of were playing with the GA words,
+
+24:24.760 --> 24:26.040
+and then, you know, gado-
+
+24:26.040 --> 24:27.000
+Kind of rhymes with cat.
+
+24:27.000 --> 24:30.280
+Yes, and gado is obviously a Spanish version of cat.
+
+24:30.280 --> 24:32.280
+I had nothing to do with it, although I'm from Spain.
+
+24:32.280 --> 24:33.320
+Oh, how do you, wait, sorry.
+
+24:33.320 --> 24:34.680
+How do you say cat in Spanish?
+
+24:34.680 --> 24:35.520
+Gato.
+
+24:35.520 --> 24:36.340
+Oh, gato, okay.
+
+24:36.340 --> 24:38.160
+Yeah, okay, okay, I see, I see, I see.
+
+24:38.160 --> 24:39.120
+Now it all makes sense.
+
+24:39.120 --> 24:39.960
+Okay, so-
+
+24:39.960 --> 24:40.840
+How do you say meow in Spanish?
+
+24:40.840 --> 24:41.960
+No, that's probably the same.
+
+24:41.960 --> 24:44.440
+I think you say it the same way,
+
+24:44.440 --> 24:48.200
+but you write it as M-I-A-U.
+
+24:48.200 --> 24:49.240
+Okay, it's universal.
+
+24:49.240 --> 24:50.080
+Yeah.
+
+24:50.080 --> 24:51.680
+All right, so then how does the thing work?
+
+24:51.680 --> 24:56.320
+So you said general is, so you said language,
+
+24:56.320 --> 24:59.240
+vision, and action.
+
+24:59.240 --> 25:01.840
+How does this, can you explain
+
+25:01.840 --> 25:04.240
+what kind of neural networks are involved?
+
+25:04.240 --> 25:06.360
+What does the training look like?
+
+25:06.360 --> 25:10.880
+And maybe what do you or some beautiful ideas
+
+25:10.880 --> 25:11.840
+within the system?
+
+25:11.840 --> 25:16.080
+Yeah, so maybe the basics of gato
+
+25:16.080 --> 25:19.920
+are not that dissimilar from many, many work that come.
+
+25:19.920 --> 25:22.880
+So here is where the sort of the recipe,
+
+25:22.880 --> 25:24.200
+I mean, it hasn't changed too much.
+
+25:24.200 --> 25:25.600
+There is a transformer model
+
+25:25.600 --> 25:28.640
+that's the kind of recurrent neural network
+
+25:28.640 --> 25:33.320
+that essentially takes a sequence of modalities,
+
+25:33.320 --> 25:36.360
+observations that could be words,
+
+25:36.360 --> 25:38.800
+could be vision, or could be actions.
+
+25:38.800 --> 25:42.120
+And then its own objective that you train it to do
+
+25:42.120 --> 25:46.360
+when you train it is to predict what the next anything is.
+
+25:46.360 --> 25:48.760
+And anything means what's the next action.
+
+25:48.760 --> 25:51.240
+If this sequence that I'm showing you to train
+
+25:51.240 --> 25:53.520
+is a sequence of actions and observations,
+
+25:53.520 --> 25:55.600
+then you're predicting what's the next action
+
+25:55.600 --> 25:57.120
+and the next observation, right?
+
+25:57.120 --> 26:00.880
+So you think of this really as a sequence of bytes, right?
+
+26:00.880 --> 26:04.240
+So take any sequence of words,
+
+26:04.240 --> 26:07.040
+a sequence of interleaved words and images,
+
+26:07.040 --> 26:11.320
+a sequence of maybe observations that are images
+
+26:11.320 --> 26:14.320
+and moves in Atari up, down, left, right.
+
+26:14.320 --> 26:17.680
+And these, you just think of them as bytes
+
+26:17.680 --> 26:20.600
+and you're modeling what's the next byte gonna be like.
+
+26:20.600 --> 26:23.480
+And you might interpret that as an action
+
+26:23.480 --> 26:25.920
+and then play it in a game,
+
+26:25.920 --> 26:27.760
+or you could interpret it as a word
+
+26:27.760 --> 26:30.760
+and then write it down if you're chatting with the system.
+
+26:30.760 --> 26:31.600
+And so on.
+
+26:32.480 --> 26:37.480
+So GATO basically can be thought as inputs, images,
+
+26:37.880 --> 26:41.520
+text, video, actions.
+
+26:41.520 --> 26:43.240
+It also actually inputs some sort
+
+26:43.240 --> 26:46.520
+of proprioception sensors from robotics
+
+26:46.520 --> 26:48.320
+because robotics is one of the tasks
+
+26:48.320 --> 26:49.880
+that it's been trained to do.
+
+26:49.880 --> 26:51.960
+And then at the output, similarly,
+
+26:51.960 --> 26:53.760
+it outputs words, actions.
+
+26:53.760 --> 26:55.720
+It does not output images.
+
+26:55.720 --> 26:59.920
+That's just by design, we decided not to go that way for now.
+
+27:00.920 --> 27:02.800
+That's also in part why it's the beginning
+
+27:02.800 --> 27:04.960
+because there's more to do clearly.
+
+27:04.960 --> 27:06.480
+But that's kind of what the GATO is.
+
+27:06.480 --> 27:09.240
+Is this brain that essentially you give it any sequence
+
+27:09.240 --> 27:11.960
+of these observations and modalities
+
+27:11.960 --> 27:13.800
+and it outputs the next step.
+
+27:13.800 --> 27:17.400
+And then off you go, you feed the next step into
+
+27:17.400 --> 27:20.080
+and predict the next one and so on.
+
+27:20.080 --> 27:24.200
+Now, it is more than a language model
+
+27:24.200 --> 27:26.800
+because even though you can chat with GATO,
+
+27:26.800 --> 27:29.560
+like you can chat with Chinchilla or Flamingo,
+
+27:30.520 --> 27:33.200
+it also is an agent, right?
+
+27:33.200 --> 27:37.200
+So that's why we call it A of GATO,
+
+27:37.200 --> 27:41.320
+like the word, the letter A, and also it's general.
+
+27:41.320 --> 27:43.960
+It's not an agent that's been trained to be good
+
+27:43.960 --> 27:47.840
+at only StarCraft or only Atari or only Go.
+
+27:47.840 --> 27:51.640
+It's been trained on a vast variety of datasets.
+
+27:51.640 --> 27:53.840
+What makes it an agent, if I may interrupt?
+
+27:53.840 --> 27:56.000
+The fact that it can generate actions?
+
+27:56.000 --> 28:00.000
+Yes, so when we call it, it's a good question, right?
+
+28:00.000 --> 28:02.760
+When do we call a model?
+
+28:02.760 --> 28:03.840
+I mean, everything is a model,
+
+28:03.840 --> 28:07.360
+but what is an agent in my view is indeed the capacity
+
+28:07.360 --> 28:11.680
+to take actions in an environment that you then send to it
+
+28:11.680 --> 28:15.040
+and then the environment might return with a new observation
+
+28:15.040 --> 28:17.560
+and then you generate the next action.
+
+28:17.560 --> 28:20.440
+This actually, this reminds me of the question
+
+28:20.440 --> 28:23.000
+from the side of biology, what is life?
+
+28:23.000 --> 28:25.360
+Which is actually a very difficult question as well.
+
+28:25.560 --> 28:26.800
+What is living?
+
+28:26.800 --> 28:29.240
+What is living when you think about life
+
+28:29.240 --> 28:31.040
+here on this planet Earth?
+
+28:31.040 --> 28:33.440
+And a question interesting to me about aliens.
+
+28:33.440 --> 28:35.760
+What is life when we visit another planet?
+
+28:35.760 --> 28:37.240
+Would we be able to recognize it?
+
+28:37.240 --> 28:40.260
+And this feels like, it sounds perhaps silly,
+
+28:40.260 --> 28:41.400
+but I don't think it is.
+
+28:41.400 --> 28:46.400
+At which point is the neural network a being versus a tool?
+
+28:48.280 --> 28:50.160
+And it feels like action,
+
+28:50.160 --> 28:54.600
+ability to modify its environment is that fundamental leap.
+
+28:54.600 --> 28:57.480
+Yeah, I think it's, it certainly feels like action
+
+28:57.480 --> 29:01.980
+is a necessary condition to be more alive,
+
+29:01.980 --> 29:04.440
+but probably not sufficient either.
+
+29:04.440 --> 29:05.280
+So sadly I-
+
+29:05.280 --> 29:06.920
+This whole consciousness thing, whatever.
+
+29:06.920 --> 29:09.120
+Yeah, yeah, we can get back to that later.
+
+29:09.120 --> 29:11.000
+But anyways, going back to the meow
+
+29:11.000 --> 29:12.360
+and the tweet and the gato, right?
+
+29:12.360 --> 29:17.360
+So one of the leaps forward and what took the team
+
+29:17.400 --> 29:21.320
+a lot of effort and time was, as you were asking,
+
+29:21.320 --> 29:23.120
+how has gato been trained?
+
+29:23.120 --> 29:26.120
+So I told you gato is this transformer neural network,
+
+29:26.120 --> 29:30.640
+models, actions, sequences of actions, words, et cetera.
+
+29:30.640 --> 29:35.560
+And then the way we train it is by essentially pulling
+
+29:35.560 --> 29:39.440
+datasets of observations, right?
+
+29:39.440 --> 29:42.660
+So it's a massive imitation learning algorithm
+
+29:42.660 --> 29:46.360
+that it imitates obviously to what is the next word
+
+29:46.360 --> 29:50.160
+that comes next from the usual datasets we use before, right?
+
+29:50.160 --> 29:53.040
+So these are these web scale style datasets
+
+29:53.040 --> 29:58.040
+of people writing on webs or chatting or whatnot, right?
+
+29:58.520 --> 30:02.040
+So that's an obvious source that we use on all language work.
+
+30:02.040 --> 30:05.660
+But then we also took a lot of agents
+
+30:05.660 --> 30:06.720
+that we have at DeepMind.
+
+30:06.720 --> 30:10.960
+I mean, as you know, DeepMind, we're quite interested
+
+30:10.960 --> 30:15.000
+in learning reinforcement learning and learning agents
+
+30:15.000 --> 30:17.000
+that play in different environments.
+
+30:17.000 --> 30:20.780
+So we kind of created a dataset of these trajectories
+
+30:20.780 --> 30:23.040
+as we call them or agent experiences.
+
+30:23.040 --> 30:25.720
+So in a way, there are other agents we train
+
+30:25.720 --> 30:28.480
+for a single mind purpose to, let's say,
+
+30:29.560 --> 30:33.380
+control a 3D game environment and navigate a maze.
+
+30:33.380 --> 30:36.120
+So we had all the experience that was created
+
+30:36.120 --> 30:39.600
+through the one agent interacting with that environment.
+
+30:39.600 --> 30:41.900
+And we added this to the datasets, right?
+
+30:41.900 --> 30:44.400
+And as I said, we just see all the data,
+
+30:44.400 --> 30:47.520
+all these sequences of words or sequences of this agent
+
+30:47.520 --> 30:49.720
+interacting with that environment
+
+30:49.720 --> 30:52.200
+or agents playing Atari and so on.
+
+30:52.200 --> 30:54.880
+We see this as the same kind of data.
+
+30:54.880 --> 30:59.260
+And so we mix these datasets together and we train GATO.
+
+31:00.160 --> 31:01.600
+That's the G part, right?
+
+31:01.600 --> 31:05.240
+It's general because it really has mixed,
+
+31:05.240 --> 31:07.560
+it doesn't have different brains for each modality
+
+31:07.560 --> 31:09.120
+or each narrow task.
+
+31:09.120 --> 31:10.520
+It has a single brain.
+
+31:10.520 --> 31:12.760
+It's not that big of a brain compared to most
+
+31:12.760 --> 31:14.840
+of the neural networks we see these days.
+
+31:14.840 --> 31:17.200
+It has 1 billion parameters.
+
+31:18.280 --> 31:21.120
+Some models we're seeing getting the trillions these days
+
+31:21.120 --> 31:25.080
+and certainly 100 billion feels like a size
+
+31:25.080 --> 31:29.020
+that is very common from when you train these jobs.
+
+31:29.020 --> 31:32.680
+So the actual agent is relatively small,
+
+31:32.680 --> 31:36.300
+but it's been trained on a very challenging, diverse dataset,
+
+31:36.300 --> 31:38.020
+not only containing all of internet,
+
+31:38.020 --> 31:40.400
+but containing all these agent experience
+
+31:40.440 --> 31:43.160
+playing very different distinct environments.
+
+31:43.160 --> 31:46.200
+So this brings us to the part of the tweet
+
+31:46.200 --> 31:48.960
+of this is not the end, it's the beginning.
+
+31:48.960 --> 31:53.120
+It feels very cool to see GATO in principle
+
+31:53.120 --> 31:56.640
+is able to control any sort of environments
+
+31:56.640 --> 31:59.180
+that especially the ones that it's been trained to do,
+
+31:59.180 --> 32:01.120
+these 3D games, Atari games,
+
+32:01.120 --> 32:04.680
+all sorts of robotics tasks and so on.
+
+32:04.680 --> 32:07.800
+But obviously it's not as proficient
+
+32:07.800 --> 32:10.560
+as the teachers it learned from on these environments.
+
+32:10.560 --> 32:11.800
+Not obvious.
+
+32:11.800 --> 32:15.120
+It's not obvious that it wouldn't be more proficient.
+
+32:15.120 --> 32:18.080
+It's just the current beginning part
+
+32:18.080 --> 32:21.820
+is that the performance is such that it's not as good
+
+32:21.820 --> 32:23.480
+as if it's specialized to that task.
+
+32:23.480 --> 32:25.840
+Right, so it's not as good,
+
+32:25.840 --> 32:28.120
+although I would argue size matters here.
+
+32:28.120 --> 32:29.200
+So the fact that-
+
+32:29.200 --> 32:31.520
+I would argue always size always matters.
+
+32:31.520 --> 32:33.480
+That's a different conversation.
+
+32:33.480 --> 32:36.280
+But for neural networks, certainly size does matter.
+
+32:36.280 --> 32:39.680
+So it's the beginning because it's relatively small.
+
+32:39.680 --> 32:42.640
+So obviously scaling this idea up
+
+32:42.640 --> 32:46.560
+might make the connections that exist
+
+32:46.560 --> 32:50.760
+between text on the internet and playing Atari and so on
+
+32:50.760 --> 32:54.280
+more synergistic with one another and you might gain.
+
+32:54.280 --> 32:56.400
+And that moment we didn't quite see,
+
+32:56.400 --> 32:58.680
+but obviously that's why it's the beginning.
+
+32:58.680 --> 33:01.020
+That synergy might emerge with scale.
+
+33:01.020 --> 33:02.200
+Right, might emerge with scale.
+
+33:02.200 --> 33:04.480
+And also I believe there's some new research
+
+33:04.840 --> 33:07.640
+or ways in which you prepare the data
+
+33:07.640 --> 33:10.960
+that you might need to sort of make it more clear
+
+33:10.960 --> 33:14.200
+to the model that you're not only playing Atari
+
+33:14.200 --> 33:16.400
+and it's just, you start from a screen
+
+33:16.400 --> 33:18.440
+and here is up and a screen and down.
+
+33:18.440 --> 33:20.720
+Maybe you can think of playing Atari
+
+33:20.720 --> 33:23.940
+as there's some sort of context that is needed for the agent
+
+33:23.940 --> 33:25.240
+before it starts seeing,
+
+33:25.240 --> 33:28.680
+oh, this is an Atari screen, I'm gonna start playing.
+
+33:28.680 --> 33:33.460
+You might require, for instance, to be told in words,
+
+33:33.460 --> 33:36.900
+hey, in this sequence that I'm showing,
+
+33:36.900 --> 33:39.160
+you're gonna be playing an Atari game.
+
+33:39.160 --> 33:42.040
+So text might actually be a good driver
+
+33:42.040 --> 33:44.500
+to enhance the data, right?
+
+33:44.500 --> 33:47.260
+So then these connections might be made more easily, right?
+
+33:47.260 --> 33:51.280
+That's an idea that we start seeing in language,
+
+33:51.280 --> 33:55.260
+but obviously beyond this is gonna be effective, right?
+
+33:55.260 --> 33:57.520
+It's not like I don't show you a screen
+
+33:57.520 --> 34:01.040
+and you from scratch, you're supposed to learn a game.
+
+34:01.040 --> 34:03.440
+There is a lot of context we might set.
+
+34:04.160 --> 34:05.880
+There might be some work needed as well
+
+34:05.880 --> 34:10.720
+to set that context, but anyways, there's a lot of work.
+
+34:10.720 --> 34:13.560
+So that context puts all the different modalities
+
+34:13.560 --> 34:16.720
+on the same level ground if you provide the context best.
+
+34:16.720 --> 34:20.720
+So maybe on that point, so there's this task
+
+34:20.720 --> 34:25.560
+which may not seem trivial of tokenizing the data,
+
+34:25.560 --> 34:28.580
+of converting the data into pieces,
+
+34:28.580 --> 34:33.380
+into basic atomic elements that then could
+
+34:33.380 --> 34:35.300
+cross modalities somehow.
+
+34:35.300 --> 34:37.900
+So what's tokenization?
+
+34:37.900 --> 34:39.700
+How do you tokenize text?
+
+34:39.700 --> 34:42.220
+How do you tokenize images?
+
+34:42.220 --> 34:47.060
+How do you tokenize games and actions and robotics tasks?
+
+34:47.060 --> 34:48.220
+Yeah, that's a great question.
+
+34:48.220 --> 34:52.820
+So tokenization is the entry point
+
+34:52.820 --> 34:55.580
+to actually make all the data look like a sequence
+
+34:55.580 --> 34:57.680
+because tokens then are just kind of
+
+34:57.680 --> 34:59.500
+these little puzzle pieces.
+
+34:59.500 --> 35:01.760
+We break down anything into these puzzle pieces
+
+35:01.760 --> 35:05.400
+and then we just model what's this puzzle look like
+
+35:05.400 --> 35:07.760
+when you make it lay down in a line,
+
+35:07.760 --> 35:09.540
+so to speak, in a sequence.
+
+35:09.540 --> 35:14.540
+So in GATO, the text, there's a lot of work.
+
+35:15.480 --> 35:17.400
+You tokenize text usually by looking
+
+35:17.400 --> 35:20.060
+at commonly used substrings.
+
+35:20.060 --> 35:23.720
+So there's ING in English is a very common substring,
+
+35:23.720 --> 35:25.540
+so that becomes a token.
+
+35:25.540 --> 35:29.080
+There's quite well-studied problem on tokenizing text
+
+35:29.080 --> 35:31.640
+and GATO just use the standard techniques
+
+35:32.520 --> 35:34.360
+that have been developed from many years,
+
+35:34.360 --> 35:38.040
+even starting from Ngram models in the 1950s and so on.
+
+35:38.040 --> 35:40.240
+Just for context, how many tokens,
+
+35:40.240 --> 35:42.680
+like what order, magnitude, number of tokens
+
+35:42.680 --> 35:45.200
+is required for a word usually?
+
+35:45.200 --> 35:46.240
+What are we talking about?
+
+35:46.240 --> 35:48.720
+Yeah, for a word in English, right?
+
+35:48.720 --> 35:51.160
+I mean, every language is very different.
+
+35:51.160 --> 35:53.960
+The current level or granularity of tokenization
+
+35:53.960 --> 35:57.860
+generally means is maybe two to five.
+
+35:57.860 --> 36:00.240
+I mean, I don't know the statistics exactly,
+
+36:00.240 --> 36:02.160
+but to give you an idea,
+
+36:02.160 --> 36:04.200
+we don't tokenize at the level of letters,
+
+36:04.200 --> 36:05.560
+then it would probably be like,
+
+36:05.560 --> 36:08.120
+I don't know what the average length of a word is in English,
+
+36:08.120 --> 36:11.440
+but that would be the minimum set of tokens you could use.
+
+36:11.440 --> 36:13.240
+So it's bigger than letters, smaller than words.
+
+36:13.240 --> 36:14.080
+Yes, yes.
+
+36:14.080 --> 36:16.920
+And you could think of very, very common words like the,
+
+36:16.920 --> 36:18.860
+I mean, that would be a single token,
+
+36:18.860 --> 36:21.600
+but very quickly you're talking two, three, four,
+
+36:21.600 --> 36:22.440
+four tokens or so.
+
+36:22.440 --> 36:24.840
+Have you ever tried to tokenize emojis?
+
+36:24.840 --> 36:29.520
+Emojis are actually just sequences of letters.
+
+36:30.080 --> 36:33.040
+Maybe to you, but to me, they mean so much more.
+
+36:33.040 --> 36:34.440
+Yeah, you can render the emoji,
+
+36:34.440 --> 36:36.840
+but you might, if you actually just...
+
+36:36.840 --> 36:39.400
+Yeah, this is a philosophical question.
+
+36:39.400 --> 36:43.360
+Is emojis an image or a text?
+
+36:43.360 --> 36:46.960
+The way we do these things is they're actually mapped
+
+36:46.960 --> 36:49.600
+to small sequences of characters.
+
+36:49.600 --> 36:52.640
+So you can actually play with these models
+
+36:52.640 --> 36:55.840
+and input emojis, it will output emojis back,
+
+36:55.840 --> 36:57.960
+which is actually quite a fun exercise.
+
+36:57.960 --> 37:02.320
+You probably can find other tweets about these out there.
+
+37:02.320 --> 37:04.440
+But yeah, so anyways, text,
+
+37:04.440 --> 37:06.760
+it's very clear how this is done.
+
+37:06.760 --> 37:10.640
+And then in GATO, what we did for images
+
+37:10.640 --> 37:13.760
+is we map images to essentially,
+
+37:13.760 --> 37:15.440
+we compressed images, so to speak,
+
+37:15.440 --> 37:20.240
+into something that looks more like every pixel
+
+37:20.240 --> 37:22.240
+with every intensity that would mean
+
+37:22.240 --> 37:23.800
+we have a very long sequence, right?
+
+37:23.800 --> 37:27.280
+Like if we were talking about 100 by 100 pixel images
+
+37:27.280 --> 37:29.920
+that would make the sequences far too long.
+
+37:29.920 --> 37:33.320
+So what was done there is you just use a technique
+
+37:33.320 --> 37:35.800
+that essentially compresses an image
+
+37:35.800 --> 37:40.120
+into maybe 16 by 16 patches of pixels,
+
+37:40.120 --> 37:42.720
+and then that is mapped, again, tokenized.
+
+37:42.720 --> 37:45.360
+You just essentially quantize this space
+
+37:45.360 --> 37:48.960
+into a special word that actually maps
+
+37:48.960 --> 37:51.760
+to these little sequence of pixels.
+
+37:51.760 --> 37:55.080
+And then you put the pixels together in some raster order,
+
+37:55.080 --> 37:57.800
+and then that's how you get out
+
+37:57.800 --> 38:00.760
+or in the image that you're processing.
+
+38:00.760 --> 38:04.040
+But there's no semantic aspect to that.
+
+38:04.040 --> 38:05.840
+So you're doing some kind of,
+
+38:05.840 --> 38:07.760
+you don't need to understand anything about the image
+
+38:07.760 --> 38:09.640
+in order to tokenize it currently.
+
+38:09.640 --> 38:12.600
+No, you're only using this notion of compression.
+
+38:12.600 --> 38:15.080
+So you're trying to find common,
+
+38:15.080 --> 38:17.640
+it's like JPG or all these algorithms.
+
+38:17.640 --> 38:20.520
+It's actually very similar at the tokenization level.
+
+38:20.520 --> 38:23.320
+All we're doing is finding common patterns
+
+38:23.320 --> 38:27.240
+and then making sure in a lossy way we compress these images
+
+38:27.240 --> 38:29.520
+given the statistics of the images
+
+38:29.520 --> 38:31.840
+that are contained in all the data we deal with.
+
+38:31.840 --> 38:32.960
+Although you could probably argue
+
+38:32.960 --> 38:36.840
+that JPG does have some understanding of images,
+
+38:36.840 --> 38:40.600
+like because visual information,
+
+38:41.680 --> 38:46.680
+maybe color, compressing crudely based on color
+
+38:46.960 --> 38:51.200
+does capture something important about an image
+
+38:51.200 --> 38:54.680
+that's about its meaning, not just about some statistics.
+
+38:54.680 --> 38:56.680
+Yeah, I mean, JP, as I said,
+
+38:56.680 --> 38:59.440
+the algorithms look actually very similar to,
+
+38:59.440 --> 39:02.840
+they use the cosine transform in JPG.
+
+39:04.160 --> 39:07.160
+The approach we usually do in machine learning
+
+39:07.160 --> 39:10.160
+when we deal with images and we do this quantization step
+
+39:10.160 --> 39:11.440
+is a bit more data-driven.
+
+39:11.440 --> 39:14.160
+So rather than have some sort of Fourier basis
+
+39:14.160 --> 39:18.920
+for how frequencies appear in the natural world,
+
+39:18.920 --> 39:23.880
+we actually just use the statistics of the images
+
+39:23.880 --> 39:27.040
+and then quantize them based on the statistics,
+
+39:27.040 --> 39:28.360
+much like you do in words.
+
+39:28.360 --> 39:32.440
+So common substrings are allocated a token
+
+39:32.440 --> 39:34.440
+and images is very similar.
+
+39:34.440 --> 39:37.000
+But there's no connection.
+
+39:37.000 --> 39:39.280
+The token space, if you think of,
+
+39:39.280 --> 39:42.480
+oh, the tokens are an integer at the end of the day.
+
+39:42.480 --> 39:46.240
+So now we work on, maybe we have about,
+
+39:46.240 --> 39:48.040
+let's say, I don't know the exact numbers,
+
+39:48.040 --> 39:51.200
+but let's say 10,000 tokens for text, right?
+
+39:51.200 --> 39:52.880
+Certainly more than characters
+
+39:52.880 --> 39:55.360
+because we have groups of characters and so on.
+
+39:55.360 --> 39:57.040
+So from one to 10,000,
+
+39:57.040 --> 39:59.520
+those are representing all the language
+
+39:59.520 --> 40:01.040
+and the words we'll see.
+
+40:01.040 --> 40:04.200
+And then images occupy the next set of integers.
+
+40:04.200 --> 40:05.840
+So they're completely independent, right?
+
+40:05.840 --> 40:08.960
+So from 10,001 to 20,000,
+
+40:08.960 --> 40:10.680
+those are the tokens that represent
+
+40:10.680 --> 40:12.800
+these other modality images.
+
+40:12.800 --> 40:16.960
+And that is an interesting aspect
+
+40:16.960 --> 40:18.680
+that makes it orthogonal.
+
+40:18.680 --> 40:21.640
+So what connects these concepts is the data, right?
+
+40:21.640 --> 40:24.480
+Once you have a data set, for instance,
+
+40:24.480 --> 40:26.920
+that captions images that tells you,
+
+40:26.920 --> 40:30.520
+oh, this is someone playing a frisbee on a green field.
+
+40:30.520 --> 40:34.600
+Now the model will need to predict the tokens
+
+40:34.600 --> 40:37.840
+from the text green field to then the pixels.
+
+40:37.840 --> 40:39.800
+And that will start making the connections
+
+40:39.800 --> 40:40.640
+between the tokens.
+
+40:40.640 --> 40:43.680
+So these connections happen as the algorithm learns.
+
+40:43.680 --> 40:45.880
+And then the last, if we think of these integers,
+
+40:45.880 --> 40:48.760
+the first few are words, the next few are images.
+
+40:48.760 --> 40:53.760
+In GATO, we also allocated the highest order of integers
+
+40:55.280 --> 40:56.280
+to actions, right?
+
+40:56.280 --> 40:59.960
+Which we discretize and actions are very diverse, right?
+
+40:59.960 --> 41:04.160
+In Atari, there's, I don't know if 17 discrete actions.
+
+41:04.160 --> 41:07.000
+In robotics, actions might be torques
+
+41:07.000 --> 41:08.280
+and forces that we apply.
+
+41:08.280 --> 41:11.240
+So we just use kind of similar ideas
+
+41:11.240 --> 41:14.360
+to compress these actions into tokens.
+
+41:14.360 --> 41:18.720
+And then we just, that's how we map now all the space
+
+41:18.720 --> 41:20.840
+to these sequence of integers.
+
+41:20.840 --> 41:23.600
+But they occupy different space and what connects them
+
+41:23.600 --> 41:24.880
+is then the learning algorithm.
+
+41:24.880 --> 41:26.320
+That's where the magic happens.
+
+41:26.320 --> 41:29.440
+So the modalities are orthogonal to each other
+
+41:29.440 --> 41:30.800
+in token space.
+
+41:30.800 --> 41:35.800
+So in the input, everything you add, you add extra tokens.
+
+41:35.800 --> 41:40.480
+And then you're shoving all of that into one place.
+
+41:40.480 --> 41:41.680
+Yes, the transformer.
+
+41:41.840 --> 41:42.800
+That transformer.
+
+41:42.800 --> 41:47.800
+That transformer tries to look at this gigantic token space
+
+41:49.400 --> 41:52.280
+and tries to form some kind of representation,
+
+41:52.280 --> 41:56.800
+some kind of unique wisdom
+
+41:56.800 --> 41:59.280
+about all of these different modalities.
+
+41:59.280 --> 42:02.200
+How's that possible?
+
+42:02.200 --> 42:06.560
+If you were to sort of like put your psychoanalysis hat on
+
+42:06.560 --> 42:09.440
+and try to psychoanalyze this neural network,
+
+42:09.480 --> 42:11.800
+is it schizophrenic?
+
+42:11.800 --> 42:16.800
+Does it try to, given this very few weights,
+
+42:17.200 --> 42:19.600
+represent multiple disjoint things
+
+42:19.600 --> 42:22.840
+and somehow have them not interfere with each other?
+
+42:22.840 --> 42:27.840
+Or is this a more building on the joint strength
+
+42:28.000 --> 42:31.840
+and whatever is common to all the different modalities?
+
+42:31.840 --> 42:34.560
+Like what, if you were to ask a question,
+
+42:34.560 --> 42:38.760
+is it schizophrenic or is it of one mind?
+
+42:38.760 --> 42:41.080
+I mean, it is one mind.
+
+42:41.080 --> 42:44.400
+And it's actually the simplest algorithm,
+
+42:44.400 --> 42:46.840
+which that's kind of in a way
+
+42:46.840 --> 42:49.880
+how it feels like the field hasn't changed
+
+42:49.880 --> 42:52.640
+since back propagation and gradient descent
+
+42:52.640 --> 42:55.800
+was purpose for learning neural networks.
+
+42:55.800 --> 42:58.760
+So there is obviously details on the architecture.
+
+42:58.760 --> 42:59.680
+This has evolved.
+
+42:59.680 --> 43:03.120
+The current iteration is still the transformer,
+
+43:03.120 --> 43:07.480
+which is a powerful sequence modeling architecture.
+
+43:07.480 --> 43:12.320
+But then the goal of setting these weights
+
+43:12.320 --> 43:15.560
+to predict the data is essentially the same
+
+43:15.560 --> 43:17.280
+as basically I could describe.
+
+43:17.280 --> 43:18.720
+I mean, we described a few years ago,
+
+43:18.720 --> 43:21.680
+AlphaStar, language modeling, and so on.
+
+43:21.680 --> 43:24.640
+We take, let's say, an Atari game.
+
+43:24.640 --> 43:27.680
+We map it to a string of numbers
+
+43:27.680 --> 43:30.400
+that will all be probably image space
+
+43:30.400 --> 43:32.480
+and action space interleaved.
+
+43:32.480 --> 43:34.120
+And all we're gonna do is say,
+
+43:34.120 --> 43:39.120
+okay, given the numbers 10,001, 10,004, 10,005,
+
+43:40.440 --> 43:43.320
+the next number that comes is 20,006,
+
+43:43.320 --> 43:45.440
+which is in the action space.
+
+43:45.440 --> 43:48.880
+And you're just optimizing these weights
+
+43:48.880 --> 43:51.760
+via very simple gradients,
+
+43:51.760 --> 43:54.720
+like mathematical is almost the most boring algorithm
+
+43:54.720 --> 43:55.920
+you could imagine.
+
+43:55.920 --> 43:57.840
+We settle the weights so that,
+
+43:57.840 --> 44:00.240
+given this particular instance,
+
+44:00.240 --> 44:04.120
+these weights are set to maximize the probability
+
+44:04.120 --> 44:07.320
+of having seen this particular sequence of integers
+
+44:07.320 --> 44:09.160
+for this particular game.
+
+44:09.160 --> 44:11.680
+And then the algorithm does this
+
+44:11.680 --> 44:14.840
+for many, many, many iterations,
+
+44:14.840 --> 44:17.960
+looking at different modalities, different games.
+
+44:17.960 --> 44:20.520
+That's the mixture of the data set we discussed.
+
+44:20.520 --> 44:24.080
+So in a way, it's a very simple algorithm.
+
+44:24.080 --> 44:27.600
+And the weights, they're all shared.
+
+44:27.600 --> 44:30.960
+So in terms of, is it focusing on one modality or not,
+
+44:30.960 --> 44:33.240
+the intermediate weights that are converting
+
+44:33.240 --> 44:36.280
+from these input of integers to the target integer
+
+44:36.280 --> 44:40.360
+you're predicting next, those weights certainly are common.
+
+44:40.360 --> 44:43.440
+And then the way the tokenization happens,
+
+44:43.440 --> 44:45.880
+there is a special place in the neural network,
+
+44:45.880 --> 44:49.840
+which is we map this integer, like number 10,001,
+
+44:49.840 --> 44:51.960
+to a vector of real numbers.
+
+44:51.960 --> 44:53.760
+Like real numbers,
+
+44:53.760 --> 44:56.160
+we can optimize them with gradient descent, right?
+
+44:56.160 --> 44:58.320
+The functions we learn are actually
+
+44:58.320 --> 44:59.760
+surprisingly differentiable.
+
+44:59.760 --> 45:01.760
+That's why we compute gradients.
+
+45:01.760 --> 45:03.960
+So this step is the only one
+
+45:03.960 --> 45:06.600
+that this orthogonality you mentioned applies.
+
+45:06.600 --> 45:11.600
+So mapping a certain token for text or image or actions,
+
+45:12.560 --> 45:15.080
+each of these tokens gets its own little vector
+
+45:15.080 --> 45:17.240
+of real numbers that represents this.
+
+45:17.240 --> 45:19.600
+If you look at the field back many years ago,
+
+45:19.600 --> 45:23.520
+people were talking about word vectors or word embeddings.
+
+45:23.520 --> 45:24.360
+These are the same.
+
+45:24.360 --> 45:26.080
+We have word vectors or embeddings.
+
+45:27.000 --> 45:28.880
+We have image vector or embeddings
+
+45:28.880 --> 45:30.880
+and action vector of embeddings.
+
+45:30.880 --> 45:33.920
+And the beauty here is that as you train this model,
+
+45:33.920 --> 45:36.640
+if you visualize these little vectors,
+
+45:36.640 --> 45:38.480
+it might be that they start aligning,
+
+45:38.480 --> 45:41.080
+even though they're independent parameters.
+
+45:41.080 --> 45:42.840
+There could be anything,
+
+45:42.840 --> 45:47.440
+but then it might be that you take the word gato or cat,
+
+45:47.440 --> 45:48.520
+which maybe is common enough
+
+45:48.520 --> 45:50.200
+that it actually has its own token.
+
+45:50.200 --> 45:52.400
+And then you take pixels that have a cat,
+
+45:52.400 --> 45:55.280
+and you might start seeing that these vectors
+
+45:55.280 --> 45:57.400
+look like they align.
+
+45:57.400 --> 46:00.640
+So by learning from this vast amount of data,
+
+46:00.640 --> 46:03.920
+the model is realizing the potential connections
+
+46:03.920 --> 46:05.640
+between these modalities.
+
+46:05.640 --> 46:07.840
+Now, I will say there would be another way,
+
+46:07.840 --> 46:12.840
+at least in part, to not have these different vectors
+
+46:13.160 --> 46:15.520
+for each different modality.
+
+46:15.520 --> 46:18.360
+For instance, when I tell you about actions
+
+46:18.360 --> 46:22.800
+in certain space, I'm defining actions by words.
+
+46:22.800 --> 46:25.080
+So you could imagine a world in which
+
+46:25.080 --> 46:29.160
+I'm not learning that the action app in Atari
+
+46:29.160 --> 46:32.480
+is its own number, the action app in Atari
+
+46:32.480 --> 46:37.320
+maybe is literally the word or the sentence app in Atari.
+
+46:37.320 --> 46:39.400
+And that would mean we now leverage
+
+46:39.400 --> 46:41.040
+much more from the language.
+
+46:41.040 --> 46:42.520
+This is not what we did here,
+
+46:42.520 --> 46:45.680
+but certainly it might make these connections
+
+46:45.680 --> 46:49.080
+much easier to learn and also to teach the model
+
+46:49.080 --> 46:51.280
+to correct its own actions and so on.
+
+46:51.280 --> 46:55.840
+So all these to say that GATO is indeed the beginning,
+
+46:55.840 --> 46:59.440
+that it is a radical idea to do this this way,
+
+46:59.440 --> 47:02.360
+but there's probably a lot more to be done
+
+47:02.360 --> 47:04.480
+and the results to be more impressive,
+
+47:04.480 --> 47:07.960
+not only through scale, but also through some new research
+
+47:07.960 --> 47:10.520
+that will come hopefully in the years to come.
+
+47:10.520 --> 47:12.320
+So just to elaborate quickly,
+
+47:12.320 --> 47:16.680
+you mean one possible next step
+
+47:16.680 --> 47:20.200
+or one of the paths that you might take next
+
+47:20.200 --> 47:25.200
+is doing the tokenization fundamentally
+
+47:25.200 --> 47:28.280
+as a kind of linguistic communication.
+
+47:28.280 --> 47:31.360
+So like you convert even images into language.
+
+47:31.360 --> 47:35.560
+So doing something like a crude semantic segmentation,
+
+47:35.560 --> 47:38.400
+trying to just assign a bunch of words to an image
+
+47:38.400 --> 47:42.320
+that like have almost like a dumb entity
+
+47:42.320 --> 47:45.360
+explaining as much as it can about the image.
+
+47:45.360 --> 47:46.960
+And so you convert that into words
+
+47:46.960 --> 47:49.280
+and then you convert games into words
+
+47:49.280 --> 47:52.160
+and then you provide the context and words and all of it,
+
+47:53.840 --> 47:56.320
+eventually getting to a point
+
+47:56.320 --> 47:58.080
+where everybody agrees with Noam Chomsky
+
+47:58.080 --> 48:00.920
+that language is actually at the core of everything.
+
+48:00.920 --> 48:05.000
+That's it's the base layer of intelligence and consciousness
+
+48:05.000 --> 48:07.520
+and all that kind of stuff, okay.
+
+48:07.520 --> 48:11.280
+You mentioned early on like it's hard to grow.
+
+48:11.280 --> 48:12.800
+What did you mean by that?
+
+48:12.800 --> 48:15.680
+Because we're talking about scale might change.
+
+48:17.000 --> 48:18.960
+There might be, and we'll talk about this too,
+
+48:18.960 --> 48:22.080
+like there's a emergent,
+
+48:22.960 --> 48:25.000
+there's certain things about these neural networks
+
+48:25.000 --> 48:25.840
+that are emergent.
+
+48:25.840 --> 48:29.000
+So certain like performance we can see only with scale
+
+48:29.000 --> 48:30.960
+and there's some kind of threshold of scale.
+
+48:30.960 --> 48:35.960
+So why is it hard to grow something like this Meow network?
+
+48:36.680 --> 48:41.680
+So the Meow network is not hard to grow if you retrain it.
+
+48:42.600 --> 48:46.840
+What's hard is, well, we have now 1 billion parameters.
+
+48:46.840 --> 48:48.120
+We train them for a while.
+
+48:48.120 --> 48:53.120
+We spend some amount of work towards building these weights
+
+48:53.160 --> 48:55.880
+that are an amazing initial brain
+
+48:55.880 --> 48:58.840
+for doing these kinds of tasks we care about.
+
+48:58.840 --> 49:03.840
+Could we reuse the weights and expand to a larger brain?
+
+49:03.920 --> 49:06.720
+And that is extraordinarily hard,
+
+49:06.720 --> 49:10.080
+but also exciting from a research perspective
+
+49:10.080 --> 49:12.560
+and a practical perspective point of view, right?
+
+49:12.560 --> 49:17.560
+So there's this notion of modularity in software engineering
+
+49:17.640 --> 49:21.240
+and we starting to see some examples and work
+
+49:21.240 --> 49:23.320
+that leverages modularity.
+
+49:23.320 --> 49:27.120
+In fact, if we go back one step from Gato to a work
+
+49:27.120 --> 49:29.720
+that I would say train much larger,
+
+49:29.720 --> 49:32.560
+much more capable network called Flamingo.
+
+49:32.560 --> 49:34.320
+Flamingo did not deal with actions,
+
+49:34.320 --> 49:38.440
+but it definitely dealt with images in an interesting way,
+
+49:38.440 --> 49:40.280
+kind of akin to what Gato did,
+
+49:40.280 --> 49:43.000
+but slightly different technique for tokenizing,
+
+49:43.000 --> 49:45.440
+but we don't need to go into that detail.
+
+49:45.440 --> 49:49.400
+But what Flamingo also did, which Gato didn't do,
+
+49:49.400 --> 49:51.840
+and that just happens because these projects,
+
+49:53.840 --> 49:56.480
+it's a bit of like the exploratory nature of research,
+
+49:56.480 --> 49:57.320
+which is great.
+
+49:57.320 --> 50:00.640
+The research behind these projects is also modular.
+
+50:00.640 --> 50:01.880
+Yes, exactly.
+
+50:01.880 --> 50:03.120
+And it has to be, right?
+
+50:03.120 --> 50:05.640
+We need to have creativity
+
+50:05.640 --> 50:08.120
+and sometimes you need to protect pockets
+
+50:08.120 --> 50:10.360
+of people, researchers, and so on.
+
+50:10.360 --> 50:11.880
+By we, you mean humans.
+
+50:11.880 --> 50:12.880
+Yes. Okay.
+
+50:12.880 --> 50:14.640
+And also in particular researchers
+
+50:14.640 --> 50:18.880
+and maybe even further DeepMind or other such labs.
+
+50:18.880 --> 50:21.080
+And then the actinural networks themselves.
+
+50:21.080 --> 50:23.440
+So it's modularity all the way down.
+
+50:23.440 --> 50:24.280
+Okay. All the way down.
+
+50:24.280 --> 50:27.560
+So the way that we did modularity very beautifully
+
+50:27.560 --> 50:30.200
+in Flamingo is we took Chinchilla,
+
+50:30.200 --> 50:33.640
+which is a language only model, not an agent,
+
+50:33.640 --> 50:36.760
+if we think of actions being necessary for agency.
+
+50:36.760 --> 50:41.040
+So we took Chinchilla, we took the weights of Chinchilla
+
+50:41.040 --> 50:42.840
+and then we froze them.
+
+50:42.840 --> 50:44.880
+We said, these don't change.
+
+50:44.880 --> 50:47.600
+We train them to be very good at predicting the next word.
+
+50:47.600 --> 50:50.320
+He's a very good language model, state of the art
+
+50:50.320 --> 50:53.000
+at the time you release it, et cetera, et cetera.
+
+50:53.000 --> 50:55.560
+We're gonna add a capability to see, right?
+
+50:55.560 --> 50:57.040
+We are gonna add the ability to see
+
+50:57.040 --> 50:58.400
+to this language model.
+
+50:58.400 --> 51:02.000
+So we're gonna attach small pieces of neural networks
+
+51:02.000 --> 51:03.960
+at the right places in the model.
+
+51:03.960 --> 51:08.840
+It's almost like injecting the network with some weights
+
+51:08.880 --> 51:12.880
+and some substructures in a good way, right?
+
+51:12.880 --> 51:15.320
+So you need the research to say what is effective,
+
+51:15.320 --> 51:16.760
+how do you add this capability
+
+51:16.760 --> 51:18.880
+without destroying others, et cetera.
+
+51:18.880 --> 51:23.880
+So we created a small sub network initialized,
+
+51:24.440 --> 51:28.840
+not from random, but actually from self-supervised learning
+
+51:28.840 --> 51:32.800
+that, you know, a model that understands vision in general.
+
+51:32.800 --> 51:37.320
+And then we took datasets that connect the two modalities,
+
+51:37.320 --> 51:38.840
+vision and language.
+
+51:38.840 --> 51:41.280
+And then we froze the main part,
+
+51:41.280 --> 51:43.760
+the largest portion of the network, which was Chinchilla,
+
+51:43.760 --> 51:46.040
+that is 70 billion parameters.
+
+51:46.040 --> 51:49.320
+And then we added a few more parameters on top,
+
+51:49.320 --> 51:51.520
+trained from scratch, and then some others
+
+51:51.520 --> 51:55.360
+that were pre-trained with the capacity to see.
+
+51:55.360 --> 51:58.880
+Like it was not tokenization in the way I described for GATO,
+
+51:58.880 --> 52:01.480
+but it's a similar idea.
+
+52:01.480 --> 52:03.720
+And then we trained the whole system.
+
+52:03.720 --> 52:06.680
+Parts of it were frozen, parts of it were new.
+
+52:06.680 --> 52:09.800
+And all of a sudden, we developed Flamingo,
+
+52:09.800 --> 52:12.680
+which is an amazing model that is essentially,
+
+52:12.680 --> 52:15.120
+I mean, describing it is a chatbot
+
+52:15.120 --> 52:17.080
+where you can also upload images
+
+52:17.080 --> 52:20.040
+and start conversing about images,
+
+52:20.040 --> 52:23.840
+but it's also kind of a dialogue style chatbot.
+
+52:23.840 --> 52:26.760
+So the input is images and text, and the output is text.
+
+52:26.760 --> 52:28.000
+Exactly.
+
+52:28.000 --> 52:28.840
+And-
+
+52:28.840 --> 52:31.920
+How many parameters, you said 70 billion for Chinchilla?
+
+52:31.920 --> 52:33.360
+Yeah, Chinchilla is 70 billion.
+
+52:33.360 --> 52:34.760
+And then the ones we add on top,
+
+52:34.800 --> 52:38.200
+which kind of almost is almost like a way
+
+52:38.200 --> 52:41.160
+to overwrite its little activations
+
+52:41.160 --> 52:42.600
+so that when it sees vision,
+
+52:42.600 --> 52:45.480
+it does kind of a correct computation of what it's seeing,
+
+52:45.480 --> 52:48.120
+mapping it back towards, so to speak.
+
+52:48.120 --> 52:51.000
+That adds an extra 10 billion parameters, right?
+
+52:51.000 --> 52:54.120
+So it's total 80 billion, the largest one we released.
+
+52:54.120 --> 52:57.520
+And then you train it on a few data sets
+
+52:57.520 --> 52:59.480
+that contain vision and language.
+
+52:59.480 --> 53:01.320
+And once you interact with the model,
+
+53:01.320 --> 53:04.360
+you start seeing that you can upload an image
+
+53:04.360 --> 53:08.160
+and start sort of having a dialogue about the image,
+
+53:08.160 --> 53:10.000
+which is actually not something,
+
+53:10.000 --> 53:12.720
+it's very similar and akin to what we saw in language only,
+
+53:12.720 --> 53:15.440
+these prompting abilities that it has.
+
+53:15.440 --> 53:17.920
+You can teach it a new vision task, right?
+
+53:17.920 --> 53:21.680
+It does things beyond the capabilities that in theory,
+
+53:21.680 --> 53:24.680
+the data sets provided in themselves,
+
+53:24.680 --> 53:27.280
+but because it leverages a lot of the language knowledge
+
+53:27.280 --> 53:29.080
+acquired from Chinchilla,
+
+53:29.080 --> 53:31.960
+it actually has this few-shot learning ability
+
+53:31.960 --> 53:33.280
+and these emerging abilities
+
+53:33.280 --> 53:34.840
+that we didn't even measure
+
+53:34.840 --> 53:36.600
+once we were developing the model.
+
+53:36.600 --> 53:40.240
+But once developed, then as you play with the interface,
+
+53:40.240 --> 53:42.480
+you can start seeing, wow, okay, yeah, it's cool.
+
+53:42.480 --> 53:45.160
+We can upload, I think one of the tweets
+
+53:45.160 --> 53:48.000
+talking about Twitter was this image from Obama
+
+53:48.000 --> 53:51.680
+that is placing a weight and someone is kind of
+
+53:51.680 --> 53:55.080
+weighting themselves and it's kind of a joke-style image.
+
+53:55.080 --> 53:58.040
+And it's notable because I think Andriy Karpati
+
+53:58.040 --> 53:59.520
+a few years ago said,
+
+53:59.560 --> 54:03.040
+no computer vision system can understand the subtlety
+
+54:03.040 --> 54:06.480
+of this joke in this image, all the things that go on.
+
+54:06.480 --> 54:09.760
+And so what we try to do, and it's very anecdotally,
+
+54:09.760 --> 54:12.280
+I mean, this is not a proof that we solved this issue,
+
+54:12.280 --> 54:15.880
+but it just shows that you can upload now this image
+
+54:15.880 --> 54:17.720
+and start conversing with the model,
+
+54:17.720 --> 54:21.520
+trying to make out if it gets that there's a joke
+
+54:21.520 --> 54:23.680
+because the person weighting themselves
+
+54:23.680 --> 54:26.840
+doesn't see that someone behind is making the weight higher
+
+54:26.840 --> 54:28.000
+and so on and so forth.
+
+54:28.000 --> 54:30.880
+So it's a fascinating capability.
+
+54:30.880 --> 54:33.400
+And it comes from this key idea of modularity
+
+54:33.400 --> 54:34.960
+where we took a frozen brain
+
+54:34.960 --> 54:37.920
+and we just added a new capability.
+
+54:37.920 --> 54:40.760
+So the question is, should we,
+
+54:40.760 --> 54:42.880
+so in a way you can see even from DeepMind,
+
+54:42.880 --> 54:46.440
+we have Flamingo that this modular approach
+
+54:46.440 --> 54:49.200
+and thus could leverage the scale a bit more reasonably
+
+54:49.200 --> 54:52.360
+because we didn't need to retrain a system from scratch.
+
+54:52.360 --> 54:54.240
+And on the other hand, we had Gato
+
+54:54.240 --> 54:55.960
+which used the same data sets,
+
+54:55.960 --> 54:57.560
+but then it trained it from scratch, right?
+
+54:57.560 --> 55:01.720
+And so I guess big question for the community is,
+
+55:01.720 --> 55:04.760
+should we train from scratch or should we embrace modularity?
+
+55:04.760 --> 55:08.760
+And this lies, like this goes back to modularity
+
+55:08.760 --> 55:12.160
+as a way to grow but reuse seems like natural
+
+55:12.160 --> 55:15.040
+and it was very effective, certainly.
+
+55:15.040 --> 55:19.080
+The next question is, if you go the way of modularity,
+
+55:19.080 --> 55:22.840
+is there a systematic way of freezing weights
+
+55:22.840 --> 55:27.160
+and joining different modalities across,
+
+55:27.440 --> 55:29.320
+not just two or three or four networks,
+
+55:29.320 --> 55:32.440
+but hundreds of networks from all different kinds of places,
+
+55:32.440 --> 55:36.400
+maybe open source network that looks at weather patterns
+
+55:36.400 --> 55:39.240
+and you shove that in somehow and then you have networks
+
+55:39.240 --> 55:42.160
+that, I don't know, do all kinds of the plague StarCraft
+
+55:42.160 --> 55:44.120
+and play all the other video games
+
+55:44.120 --> 55:49.120
+and you can keep adding them in without significant effort,
+
+55:49.600 --> 55:52.560
+like maybe the effort scales linearly
+
+55:52.560 --> 55:54.000
+or something like that as opposed to like,
+
+55:54.000 --> 55:56.200
+the more network you add, the more you have to worry
+
+55:56.200 --> 55:58.040
+about the instabilities created.
+
+55:58.040 --> 56:00.040
+Yeah, so that vision is beautiful.
+
+56:00.040 --> 56:03.600
+I think there's still the question
+
+56:03.600 --> 56:06.920
+about within single modalities, like Chinchilla was reused,
+
+56:06.920 --> 56:10.320
+but now if we train an X iteration of language models,
+
+56:10.320 --> 56:11.920
+are we gonna use Chinchilla or not?
+
+56:11.920 --> 56:13.240
+Yeah, how do you swap out Chinchilla?
+
+56:13.240 --> 56:16.040
+Right, so there's still big questions,
+
+56:16.040 --> 56:18.440
+but that idea is actually really akin
+
+56:18.440 --> 56:21.400
+to software engineering, which we're not re-implementing,
+
+56:21.400 --> 56:23.440
+libraries from scratch, we're reusing
+
+56:23.440 --> 56:25.480
+and then building ever more amazing things,
+
+56:25.480 --> 56:29.120
+including neural networks with software that we're reusing.
+
+56:29.120 --> 56:32.320
+So I think this idea of modularity, I like it,
+
+56:32.320 --> 56:36.080
+I think it's here to stay and that's also why I mentioned,
+
+56:36.080 --> 56:38.360
+it's just the beginning, not the end.
+
+56:38.360 --> 56:39.560
+You mentioned meta-learning,
+
+56:39.560 --> 56:43.000
+so given this promise of GATO,
+
+56:43.000 --> 56:46.160
+can we try to redefine this term
+
+56:46.160 --> 56:47.800
+that's almost akin to consciousness
+
+56:47.800 --> 56:50.320
+because it means different things to different people
+
+56:50.320 --> 56:52.600
+throughout the history of artificial intelligence,
+
+56:52.600 --> 56:56.800
+but what do you think meta-learning is
+
+56:56.800 --> 57:00.240
+and looks like now in the five years, 10 years,
+
+57:00.240 --> 57:03.360
+will it look like the system like GATO but scaled?
+
+57:03.360 --> 57:07.200
+What's your sense of, what does meta-learning look like,
+
+57:07.200 --> 57:10.680
+do you think, with all the wisdom we've learned so far?
+
+57:10.680 --> 57:11.720
+Yeah, great question.
+
+57:11.720 --> 57:14.720
+Maybe it's good to give another data point
+
+57:14.720 --> 57:16.360
+looking backwards rather than forward.
+
+57:16.360 --> 57:21.360
+So when we talk in 2019,
+
+57:23.080 --> 57:27.160
+meta-learning meant something that has changed mostly
+
+57:27.160 --> 57:31.320
+through the revolution of GPT-3 and beyond.
+
+57:31.320 --> 57:34.120
+So what meta-learning meant at the time
+
+57:35.160 --> 57:37.800
+was driven by what benchmarks people care about
+
+57:37.800 --> 57:39.000
+in meta-learning.
+
+57:39.000 --> 57:42.720
+And the benchmarks were about a capability
+
+57:42.720 --> 57:45.120
+to learn about object identities.
+
+57:45.120 --> 57:48.600
+So it was very much overfitted to vision
+
+57:48.600 --> 57:50.520
+and object classification.
+
+57:50.520 --> 57:52.120
+And the part that was meta about that
+
+57:52.160 --> 57:55.520
+was that, oh, we're not just learning a thousand categories
+
+57:55.520 --> 57:57.240
+that ImageNet tells us to learn.
+
+57:57.240 --> 58:00.680
+We're gonna learn object categories that can be defined
+
+58:01.560 --> 58:03.480
+when we interact with the model.
+
+58:03.480 --> 58:06.840
+So it's interesting to see the evolution, right?
+
+58:06.840 --> 58:10.920
+The way this started was we have a special language
+
+58:10.920 --> 58:13.400
+that was a dataset, a small dataset
+
+58:13.400 --> 58:16.120
+that we prompted the model with saying,
+
+58:16.120 --> 58:19.160
+hey, here is a new classification task.
+
+58:19.160 --> 58:21.920
+I'll give you one image and the name,
+
+58:21.920 --> 58:24.520
+which was an integer at the time of the image
+
+58:24.520 --> 58:26.160
+and a different image and so on.
+
+58:26.160 --> 58:30.200
+So you have a small prompt in the form of a dataset,
+
+58:30.200 --> 58:31.800
+a machine learning dataset.
+
+58:31.800 --> 58:35.680
+And then you got then a system that could then predict
+
+58:35.680 --> 58:38.120
+or classify these objects that you just defined
+
+58:38.120 --> 58:39.520
+kind of on the fly.
+
+58:40.480 --> 58:45.480
+So fast forward, it was revealed that language models
+
+58:46.640 --> 58:47.600
+are a few short learners.
+
+58:47.600 --> 58:49.280
+That's the title of the paper.
+
+58:49.280 --> 58:50.240
+So very good title.
+
+58:50.240 --> 58:51.680
+Sometimes titles are really good.
+
+58:51.680 --> 58:53.680
+So this one is really, really good
+
+58:53.680 --> 58:57.720
+because that's the point of GPT-3 that showed that,
+
+58:57.720 --> 59:01.120
+look, sure, we can focus on object classification
+
+59:01.120 --> 59:03.800
+and what meta-learning means within the space
+
+59:03.800 --> 59:05.560
+of learning object categories.
+
+59:05.560 --> 59:08.840
+This goes beyond or before rather to also Omniglot
+
+59:08.840 --> 59:10.160
+before ImageNet and so on.
+
+59:10.160 --> 59:11.640
+So there's a few benchmarks.
+
+59:11.640 --> 59:13.960
+To now, all of a sudden, we're a bit unlocked
+
+59:13.960 --> 59:16.360
+from benchmarks and through language,
+
+59:16.360 --> 59:18.000
+we can define tasks, right?
+
+59:18.000 --> 59:21.720
+So we're literally telling the model some logical task
+
+59:21.720 --> 59:23.960
+or little thing that we wanted to do.
+
+59:23.960 --> 59:26.040
+We prompt it much like we did before,
+
+59:26.040 --> 59:28.600
+but now we prompt it through natural language.
+
+59:28.600 --> 59:31.000
+And then not perfectly, I mean,
+
+59:31.000 --> 59:33.280
+these models have failure modes and that's fine,
+
+59:33.280 --> 59:37.280
+but these models then are now doing a new task, right?
+
+59:37.280 --> 59:40.600
+So they meta-learn these new capabilities.
+
+59:40.600 --> 59:43.520
+Now, that's where we are now.
+
+59:43.520 --> 59:47.360
+Flamingo expanded this to visual and language,
+
+59:47.360 --> 59:49.480
+but it basically has the same abilities.
+
+59:49.480 --> 59:51.520
+You can teach it, for instance,
+
+59:51.520 --> 59:54.480
+an emergent property was that you can take pictures
+
+59:54.480 --> 59:57.960
+of numbers and then do arithmetic with the numbers
+
+59:57.960 --> 01:00:02.200
+just by teaching it, oh, when I show you three plus six,
+
+01:00:02.200 --> 01:00:05.920
+I want you to output nine and you show it a few examples
+
+01:00:05.920 --> 01:00:06.800
+and now it does that.
+
+01:00:06.800 --> 01:00:10.360
+So it went way beyond this ImageNet
+
+01:00:10.360 --> 01:00:12.800
+sort of categorization of images
+
+01:00:12.800 --> 01:00:15.480
+that we were a bit stuck maybe before
+
+01:00:15.480 --> 01:00:19.160
+this revelation moment that happened in 2000,
+
+01:00:19.160 --> 01:00:21.960
+I believe it was 19, but it was after we chat.
+
+01:00:21.960 --> 01:00:24.360
+And that way it has solved meta-learning
+
+01:00:24.360 --> 01:00:26.160
+as was previously defined.
+
+01:00:26.160 --> 01:00:27.840
+Yes, it expanded what it meant.
+
+01:00:27.840 --> 01:00:29.600
+So that's what you say, what does it mean?
+
+01:00:29.600 --> 01:00:31.440
+So it's an evolving term,
+
+01:00:31.440 --> 01:00:35.280
+but here is maybe now looking forward,
+
+01:00:35.280 --> 01:00:37.680
+looking at what's happening,
+
+01:00:37.680 --> 01:00:41.480
+obviously in the community with more modalities,
+
+01:00:41.480 --> 01:00:42.600
+what we can expect.
+
+01:00:42.600 --> 01:00:45.040
+And I would certainly hope to see the following
+
+01:00:45.040 --> 01:00:48.480
+and this is a pretty drastic hope,
+
+01:00:48.480 --> 01:00:51.280
+but in five years, maybe we chat again.
+
+01:00:51.280 --> 01:00:56.000
+And we have a system, a set of weights
+
+01:00:56.000 --> 01:00:59.880
+that we can teach it to play StarCraft.
+
+01:00:59.880 --> 01:01:01.560
+Maybe not at the level of AlphaStar,
+
+01:01:01.560 --> 01:01:03.720
+but play StarCraft, a complex game,
+
+01:01:03.720 --> 01:01:07.000
+we teach it through interactions to prompting.
+
+01:01:07.000 --> 01:01:08.600
+You can certainly prompt a system,
+
+01:01:08.600 --> 01:01:11.840
+that's what Gato shows, to play some simple Atari games.
+
+01:01:11.840 --> 01:01:15.400
+So imagine if you start talking to a system,
+
+01:01:15.400 --> 01:01:18.560
+teaching it a new game, showing it examples of,
+
+01:01:18.560 --> 01:01:22.720
+in this particular game, this user did something good,
+
+01:01:22.720 --> 01:01:25.440
+maybe the system can even play and ask you questions,
+
+01:01:25.440 --> 01:01:27.880
+say, hey, I played this game, I just played this game.
+
+01:01:27.880 --> 01:01:29.080
+Did I do well?
+
+01:01:29.080 --> 01:01:30.440
+Can you teach me more?
+
+01:01:30.440 --> 01:01:33.040
+So five, maybe to 10 years,
+
+01:01:33.040 --> 01:01:36.160
+these capabilities or what meta-learning means
+
+01:01:36.160 --> 01:01:38.840
+will be much more interactive, much more rich.
+
+01:01:38.840 --> 01:01:41.600
+And through domains that we were specializing,
+
+01:01:41.600 --> 01:01:42.880
+so you see the difference, right?
+
+01:01:42.880 --> 01:01:47.000
+We built AlphaStar specialized to play StarCraft.
+
+01:01:47.000 --> 01:01:48.240
+The algorithms were general,
+
+01:01:48.240 --> 01:01:50.440
+but the weights were specialized.
+
+01:01:50.440 --> 01:01:54.160
+And what we're hoping is that we can teach a network
+
+01:01:54.160 --> 01:01:56.560
+to play games, to play any game,
+
+01:01:56.560 --> 01:01:58.560
+just using games as an example,
+
+01:01:58.560 --> 01:02:01.480
+through interacting with it, teaching it,
+
+01:02:01.480 --> 01:02:03.720
+uploading the Wikipedia page of StarCraft,
+
+01:02:03.720 --> 01:02:06.080
+like this is in the horizon,
+
+01:02:06.080 --> 01:02:09.360
+and obviously their details need to be filled
+
+01:02:09.360 --> 01:02:10.920
+and research need to be done.
+
+01:02:10.920 --> 01:02:13.200
+But that's how I see meta-learning above,
+
+01:02:13.200 --> 01:02:15.360
+which is gonna be beyond prompting.
+
+01:02:15.360 --> 01:02:17.080
+It's gonna be a bit more interactive.
+
+01:02:17.080 --> 01:02:19.840
+It's gonna, you know, the system might tell us
+
+01:02:19.840 --> 01:02:22.320
+to give it feedback after it maybe makes mistakes
+
+01:02:22.320 --> 01:02:26.280
+or it loses a game, but it's nonetheless very exciting
+
+01:02:26.280 --> 01:02:29.000
+because if you think about this this way,
+
+01:02:29.000 --> 01:02:30.600
+the benchmarks are already there.
+
+01:02:30.600 --> 01:02:33.160
+We just repurposed the benchmarks, right?
+
+01:02:33.160 --> 01:02:36.960
+So in a way, I like to map the space
+
+01:02:37.000 --> 01:02:40.400
+of what maybe AGI means to say,
+
+01:02:40.400 --> 01:02:45.400
+okay, like we went 101% performance in Go,
+
+01:02:45.600 --> 01:02:47.960
+in chess, in StarCraft.
+
+01:02:47.960 --> 01:02:52.000
+The next iteration might be 20% performance
+
+01:02:52.000 --> 01:02:54.800
+across quote unquote all tasks, right?
+
+01:02:54.800 --> 01:02:56.360
+And even if it's not as good, it's fine.
+
+01:02:56.360 --> 01:03:00.040
+We actually, we have ways to also measure progress
+
+01:03:00.040 --> 01:03:04.280
+because we have those specialized agents and so on.
+
+01:03:04.280 --> 01:03:06.280
+So this is to me very exciting.
+
+01:03:06.280 --> 01:03:09.320
+And these next iteration models
+
+01:03:09.320 --> 01:03:13.440
+are definitely hinting at that direction of progress,
+
+01:03:13.440 --> 01:03:14.800
+which hopefully we can have.
+
+01:03:14.800 --> 01:03:17.640
+There are obviously some things that could go wrong
+
+01:03:17.640 --> 01:03:20.160
+in terms of we might not have the tools,
+
+01:03:20.160 --> 01:03:21.680
+maybe transformers are not enough.
+
+01:03:21.680 --> 01:03:24.360
+Then we must, there's some breakthroughs to come,
+
+01:03:24.360 --> 01:03:26.360
+which makes the field more exciting
+
+01:03:26.360 --> 01:03:28.720
+to people like me as well, of course.
+
+01:03:28.720 --> 01:03:32.160
+But that's, if you ask me five to 10 years,
+
+01:03:32.160 --> 01:03:35.320
+you might see these models that start to look more like
+
+01:03:35.320 --> 01:03:36.960
+weights that are already trained.
+
+01:03:36.960 --> 01:03:40.600
+And then it's more about teaching or make,
+
+01:03:40.600 --> 01:03:45.600
+they're meta-learn what you're trying to induce
+
+01:03:45.600 --> 01:03:47.040
+in terms of tasks and so on.
+
+01:03:47.040 --> 01:03:49.800
+Well beyond the simple now tasks
+
+01:03:49.800 --> 01:03:51.080
+we're starting to see emerge,
+
+01:03:51.080 --> 01:03:54.240
+like small arithmetic tasks and so on.
+
+01:03:54.240 --> 01:03:57.280
+So a few questions around that, this is fascinating.
+
+01:03:57.280 --> 01:04:01.240
+So that kind of teaching interactive,
+
+01:04:01.240 --> 01:04:02.800
+not so as beyond prompting,
+
+01:04:02.800 --> 01:04:05.280
+so as interacting with the neural network,
+
+01:04:06.280 --> 01:04:08.440
+that's different than the training process.
+
+01:04:08.440 --> 01:04:12.480
+So it's different than the optimization
+
+01:04:12.480 --> 01:04:15.960
+over differentiable functions.
+
+01:04:15.960 --> 01:04:18.700
+This is already trained and now you're teaching,
+
+01:04:19.880 --> 01:04:24.040
+I mean, it's almost akin to the brain,
+
+01:04:24.040 --> 01:04:27.000
+the neurons are already set with their connections.
+
+01:04:27.000 --> 01:04:30.040
+On top of that, you're now using that infrastructure
+
+01:04:30.040 --> 01:04:31.840
+to build up further knowledge.
+
+01:04:32.680 --> 01:04:36.720
+Okay, so that's a really interesting distinction
+
+01:04:36.720 --> 01:04:38.080
+that's actually not obvious
+
+01:04:38.080 --> 01:04:40.360
+from a software engineering perspective,
+
+01:04:40.360 --> 01:04:42.840
+that there's a line to be drawn.
+
+01:04:42.840 --> 01:04:44.920
+Because you always think for neural network to learn,
+
+01:04:44.920 --> 01:04:48.380
+it has to be retrained, trained and retrained.
+
+01:04:48.380 --> 01:04:53.380
+But maybe, and prompting is a way of teaching,
+
+01:04:54.120 --> 01:04:56.000
+and you'll now work a little bit of context
+
+01:04:56.000 --> 01:04:58.060
+about whatever the heck you're trying it to do.
+
+01:04:58.060 --> 01:05:00.500
+So you can maybe expand this prompting capability
+
+01:05:00.500 --> 01:05:03.380
+by making it interact.
+
+01:05:03.380 --> 01:05:04.220
+That's really, really interesting.
+
+01:05:04.220 --> 01:05:06.420
+Yeah, by the way, this is not,
+
+01:05:06.420 --> 01:05:09.260
+if you look at way back at different ways
+
+01:05:09.260 --> 01:05:11.900
+to tackle even classification tasks.
+
+01:05:11.900 --> 01:05:16.500
+So this comes from like long standing literature
+
+01:05:16.500 --> 01:05:18.340
+in machine learning.
+
+01:05:18.340 --> 01:05:21.380
+What I'm suggesting could sound to some like a bit
+
+01:05:21.380 --> 01:05:23.500
+like nearest neighbor.
+
+01:05:23.500 --> 01:05:26.180
+So nearest neighbor is almost the simplest algorithm
+
+01:05:27.180 --> 01:05:30.140
+that you can, that does not require learning.
+
+01:05:30.140 --> 01:05:31.820
+So it has this interesting,
+
+01:05:31.820 --> 01:05:34.440
+like you don't need to compute gradients.
+
+01:05:34.440 --> 01:05:37.620
+And what nearest neighbor does is you quote unquote,
+
+01:05:37.620 --> 01:05:40.060
+have a data set or upload a data set.
+
+01:05:40.060 --> 01:05:42.100
+And then all you need to do is a way
+
+01:05:42.100 --> 01:05:44.860
+to measure distance between points.
+
+01:05:44.860 --> 01:05:46.780
+And then to classify a new point,
+
+01:05:46.780 --> 01:05:48.180
+you're just simply computing,
+
+01:05:48.180 --> 01:05:51.380
+what's the closest point in this massive amount of data?
+
+01:05:51.380 --> 01:05:52.800
+And that's my answer.
+
+01:05:52.800 --> 01:05:55.580
+So you can think of prompting in a way
+
+01:05:55.580 --> 01:05:58.740
+as you're uploading not just simple points
+
+01:05:58.900 --> 01:06:02.500
+and the metric is not the distance between the images
+
+01:06:02.500 --> 01:06:03.340
+or something simple,
+
+01:06:03.340 --> 01:06:06.100
+it's something that you compute that's much more advanced.
+
+01:06:06.100 --> 01:06:08.460
+But in a way, it's very similar, right?
+
+01:06:08.460 --> 01:06:12.700
+You simply are uploading some knowledge
+
+01:06:12.700 --> 01:06:15.140
+to this pre-trained system in nearest neighbor.
+
+01:06:15.140 --> 01:06:17.320
+Maybe the metric is learned or not,
+
+01:06:17.320 --> 01:06:19.540
+but you don't need to further train it.
+
+01:06:19.540 --> 01:06:23.780
+And then now you immediately get a classifier out of this.
+
+01:06:23.780 --> 01:06:25.900
+Now it's just an evolution of that concept,
+
+01:06:25.900 --> 01:06:27.880
+very classical concept in machine learning,
+
+01:06:27.880 --> 01:06:31.000
+which is, yeah, just learning through
+
+01:06:31.000 --> 01:06:32.280
+what's the closest point,
+
+01:06:32.280 --> 01:06:35.040
+closest by some distance and that's it.
+
+01:06:35.040 --> 01:06:36.200
+It's an evolution of that.
+
+01:06:36.200 --> 01:06:39.120
+And I will say how I saw meta-learning
+
+01:06:39.120 --> 01:06:44.000
+when we worked on a few ideas in 2016,
+
+01:06:44.000 --> 01:06:47.320
+was precisely through the lens of nearest neighbor,
+
+01:06:47.320 --> 01:06:50.240
+which is very common in computer vision community, right?
+
+01:06:50.240 --> 01:06:52.240
+There's a very active area of research
+
+01:06:52.240 --> 01:06:55.560
+about how do you compute the distance between two images.
+
+01:06:55.560 --> 01:06:57.680
+But if you have a good distance metric,
+
+01:06:58.000 --> 01:07:00.000
+you also have a good classifier, right?
+
+01:07:00.000 --> 01:07:01.800
+All I'm saying is now these distances
+
+01:07:01.800 --> 01:07:03.820
+and the points are not just images.
+
+01:07:03.820 --> 01:07:08.560
+They're like words or sequences of words and images
+
+01:07:08.560 --> 01:07:10.400
+and actions that teach you something new.
+
+01:07:10.400 --> 01:07:14.780
+But it might be that technique-wise those come back.
+
+01:07:14.780 --> 01:07:18.240
+And I will say that it's not necessarily true
+
+01:07:18.240 --> 01:07:21.820
+that you might not ever train the weights a bit further.
+
+01:07:21.820 --> 01:07:23.920
+Some aspect of meta-learning,
+
+01:07:23.920 --> 01:07:26.080
+some techniques in meta-learning
+
+01:07:26.080 --> 01:07:29.120
+do actually do a bit of fine-tuning, as it's called.
+
+01:07:29.120 --> 01:07:32.880
+They train the weights a little bit when they get a new task.
+
+01:07:32.880 --> 01:07:37.000
+So as I call the how or how we're going to achieve these.
+
+01:07:38.000 --> 01:07:39.880
+As a deep learner, I'm very skeptic.
+
+01:07:39.880 --> 01:07:41.240
+We're going to try a few things,
+
+01:07:41.240 --> 01:07:44.240
+whether it's a bit of training, adding a few parameters,
+
+01:07:44.240 --> 01:07:46.000
+thinking of these as nearest neighbor
+
+01:07:46.000 --> 01:07:49.240
+or just simply thinking of there's a sequence of words,
+
+01:07:49.240 --> 01:07:53.020
+it's a prefix and that's the new classifier.
+
+01:07:53.020 --> 01:07:53.860
+We'll see, right?
+
+01:07:53.860 --> 01:07:55.440
+There's the beauty of research,
+
+01:07:56.360 --> 01:08:00.160
+but what's important is that is a good goal in itself
+
+01:08:00.160 --> 01:08:02.760
+that I see as very worthwhile pursuing
+
+01:08:02.760 --> 01:08:05.720
+for the next stages of not only meta-learning.
+
+01:08:05.720 --> 01:08:08.480
+I think this is basically what's exciting
+
+01:08:08.480 --> 01:08:11.440
+about machine learning period to me.
+
+01:08:11.440 --> 01:08:13.760
+Well, and then the interactive aspect of that
+
+01:08:13.760 --> 01:08:15.320
+is also very interesting.
+
+01:08:15.320 --> 01:08:17.520
+The interactive version of nearest neighbor
+
+01:08:18.760 --> 01:08:23.760
+to help you pull out the classifier from this giant thing.
+
+01:08:23.840 --> 01:08:28.840
+Okay, is this the way we can go in five, 10 plus years
+
+01:08:31.160 --> 01:08:36.160
+from any task, sorry, from many tasks to any task?
+
+01:08:36.320 --> 01:08:39.320
+So, and what does that mean?
+
+01:08:39.320 --> 01:08:41.720
+Like what does it need to be actually trained on?
+
+01:08:42.840 --> 01:08:45.520
+Which point is the network had enough?
+
+01:08:45.520 --> 01:08:50.520
+So what does a network need to learn about this world
+
+01:08:50.520 --> 01:08:52.540
+in order to be able to perform any task?
+
+01:08:52.540 --> 01:08:57.540
+Is it just as simple as language, image and action?
+
+01:08:57.940 --> 01:09:01.840
+Or do you need some set of representative images?
+
+01:09:02.740 --> 01:09:05.220
+Like if you only see land images,
+
+01:09:05.220 --> 01:09:06.740
+will you know anything about underwater?
+
+01:09:06.740 --> 01:09:08.780
+Is that some fundamentally different?
+
+01:09:08.780 --> 01:09:09.620
+I don't know.
+
+01:09:09.620 --> 01:09:12.100
+Those are awkward questions, I would say.
+
+01:09:12.100 --> 01:09:13.100
+I mean, the way you put,
+
+01:09:13.100 --> 01:09:15.300
+let me maybe further your example, right?
+
+01:09:15.300 --> 01:09:18.440
+If all you see is land images,
+
+01:09:18.440 --> 01:09:21.580
+but you're reading all about land and water worlds,
+
+01:09:21.580 --> 01:09:25.420
+but in books, right, images, would that be enough?
+
+01:09:25.420 --> 01:09:27.220
+Good question, we don't know,
+
+01:09:27.220 --> 01:09:30.440
+but I guess maybe you can join us
+
+01:09:30.440 --> 01:09:32.140
+if you want in our quest to find this.
+
+01:09:32.140 --> 01:09:33.500
+That's precisely-
+
+01:09:33.500 --> 01:09:34.400
+Water world, yeah.
+
+01:09:34.400 --> 01:09:37.660
+Yes, that's precisely, I mean, the beauty of research
+
+01:09:37.660 --> 01:09:42.660
+and that's the research business we're in,
+
+01:09:42.700 --> 01:09:46.260
+I guess, is to figure this out and ask the right questions
+
+01:09:46.260 --> 01:09:49.580
+and then iterate with the whole community,
+
+01:09:49.580 --> 01:09:52.460
+publishing like findings and so on.
+
+01:09:52.460 --> 01:09:55.140
+But yeah, this is a question.
+
+01:09:55.140 --> 01:09:56.940
+It's not the only question, but it's certainly,
+
+01:09:56.940 --> 01:10:00.060
+as you ask, is on my mind constantly, right?
+
+01:10:00.060 --> 01:10:03.300
+And so we'll need to wait for maybe the,
+
+01:10:03.300 --> 01:10:06.000
+let's say five years, let's hope it's not 10,
+
+01:10:06.000 --> 01:10:08.440
+to see what are the answers.
+
+01:10:09.420 --> 01:10:12.700
+Some people will largely believe in unsupervised
+
+01:10:12.700 --> 01:10:15.500
+or self-supervised learning of single modalities
+
+01:10:15.500 --> 01:10:17.100
+and then crossing them.
+
+01:10:18.020 --> 01:10:21.700
+Some people might think end-to-end learning is the answer.
+
+01:10:21.700 --> 01:10:23.780
+Modularity is maybe the answer.
+
+01:10:23.780 --> 01:10:27.060
+So we don't know, but we're just definitely excited
+
+01:10:27.060 --> 01:10:27.900
+to find out.
+
+01:10:27.900 --> 01:10:29.280
+But it feels like this is the right time
+
+01:10:29.280 --> 01:10:31.700
+and we're at the beginning of this.
+
+01:10:31.700 --> 01:10:34.660
+We're finally ready to do these kind of general,
+
+01:10:34.660 --> 01:10:37.620
+big models and agents.
+
+01:10:37.620 --> 01:10:42.480
+What do you sort of specific technical thing
+
+01:10:42.480 --> 01:10:47.400
+about Gato, Flamingo, Chinchilla, Gopher,
+
+01:10:47.400 --> 01:10:49.560
+any of these that is especially beautiful,
+
+01:10:49.560 --> 01:10:51.660
+that was surprising maybe?
+
+01:10:51.660 --> 01:10:54.820
+Is there something that just jumps out at you?
+
+01:10:54.820 --> 01:10:57.600
+Of course, there's the general thing of like,
+
+01:10:57.600 --> 01:10:58.920
+you didn't think it was possible
+
+01:10:58.920 --> 01:11:01.720
+and then you realize it's possible
+
+01:11:01.720 --> 01:11:04.480
+in terms of the generalizability across modalities
+
+01:11:04.480 --> 01:11:05.600
+and all that kind of stuff.
+
+01:11:05.600 --> 01:11:08.920
+Or maybe how small of a network, relatively speaking,
+
+01:11:08.920 --> 01:11:10.480
+Gato is, all that kind of stuff.
+
+01:11:10.520 --> 01:11:15.240
+But is there some weird little things that were surprising?
+
+01:11:15.240 --> 01:11:18.280
+Look, I'll give you an answer that's very important
+
+01:11:18.280 --> 01:11:22.640
+because maybe people don't quite realize this,
+
+01:11:22.640 --> 01:11:27.280
+but the teams behind these efforts, the actual humans,
+
+01:11:27.280 --> 01:11:31.760
+that's maybe the surprising in a obviously positive way.
+
+01:11:31.760 --> 01:11:34.640
+So anytime you see these breakthroughs,
+
+01:11:34.640 --> 01:11:37.200
+I mean, it's easy to map it to a few people.
+
+01:11:37.200 --> 01:11:39.280
+There's people that are great at explaining things
+
+01:11:39.280 --> 01:11:40.760
+and so on, that's very nice.
+
+01:11:40.760 --> 01:11:44.720
+But maybe the learnings or the meta-learnings
+
+01:11:44.720 --> 01:11:47.440
+that I get as a human about this is,
+
+01:11:47.440 --> 01:11:49.120
+sure, we can move forward,
+
+01:11:50.520 --> 01:11:55.640
+but the surprising bit is how important
+
+01:11:55.640 --> 01:11:58.760
+are all the pieces of these projects,
+
+01:11:58.760 --> 01:12:00.080
+how do they come together?
+
+01:12:00.080 --> 01:12:04.480
+So I'll give you maybe some of the ingredients of success
+
+01:12:04.480 --> 01:12:06.440
+that are common across these,
+
+01:12:06.440 --> 01:12:08.500
+but not the obvious ones in machine learning.
+
+01:12:08.700 --> 01:12:11.380
+I can always also give you those.
+
+01:12:11.380 --> 01:12:16.380
+But basically, engineering is critical.
+
+01:12:17.700 --> 01:12:19.620
+So very good engineering
+
+01:12:19.620 --> 01:12:23.780
+because ultimately we're collecting data sets, right?
+
+01:12:23.780 --> 01:12:26.220
+So the engineering of data
+
+01:12:26.220 --> 01:12:29.780
+and then of deploying the models at scale
+
+01:12:29.780 --> 01:12:32.900
+into some compute cluster that cannot go understated,
+
+01:12:32.900 --> 01:12:35.980
+that is a huge factor of success.
+
+01:12:36.860 --> 01:12:41.540
+And it's hard to believe that details matter so much.
+
+01:12:41.540 --> 01:12:44.020
+We would like to believe that it's true
+
+01:12:44.020 --> 01:12:47.380
+that there is more and more of a standard formula,
+
+01:12:47.380 --> 01:12:50.540
+as I was saying, like this recipe that works for everything.
+
+01:12:50.540 --> 01:12:53.660
+But then when you zoom into each of these projects,
+
+01:12:53.660 --> 01:12:57.820
+then you realize the devil is indeed in the details.
+
+01:12:57.820 --> 01:13:01.500
+And then the teams have to work kind of together
+
+01:13:01.500 --> 01:13:03.020
+towards these goals.
+
+01:13:03.060 --> 01:13:07.500
+So engineering of data and obviously clusters
+
+01:13:07.500 --> 01:13:09.260
+and large scale is very important.
+
+01:13:09.260 --> 01:13:13.100
+And then one that is often not,
+
+01:13:13.100 --> 01:13:15.100
+maybe nowadays it is more clear,
+
+01:13:15.100 --> 01:13:17.140
+is benchmark progress, right?
+
+01:13:17.140 --> 01:13:19.860
+So we're talking here about multiple months
+
+01:13:19.860 --> 01:13:24.180
+of tens of researchers and people
+
+01:13:24.180 --> 01:13:26.660
+that are trying to organize the research and so on,
+
+01:13:26.660 --> 01:13:28.100
+working together.
+
+01:13:28.100 --> 01:13:32.140
+And you don't know that you can get there.
+
+01:13:32.140 --> 01:13:34.420
+I mean, this is the beauty.
+
+01:13:34.420 --> 01:13:37.380
+Like if you're not risking trying to do something
+
+01:13:37.380 --> 01:13:40.580
+that feels impossible, you're not gonna get there,
+
+01:13:41.700 --> 01:13:44.020
+but you need the way to measure progress.
+
+01:13:44.020 --> 01:13:47.780
+So the benchmarks that you build are critical.
+
+01:13:47.780 --> 01:13:50.580
+I've seen this beautifully pay out in many projects.
+
+01:13:50.580 --> 01:13:53.940
+I mean, maybe the one I've seen it more consistently,
+
+01:13:53.940 --> 01:13:56.860
+which means we established the metric,
+
+01:13:56.860 --> 01:13:58.340
+actually the community did.
+
+01:13:58.340 --> 01:14:01.580
+And then we leverage that massively is alpha fold.
+
+01:14:01.580 --> 01:14:04.540
+This is a project where the data,
+
+01:14:04.540 --> 01:14:07.700
+the metrics were all there and all it took was,
+
+01:14:07.700 --> 01:14:09.140
+and it's easier said than done,
+
+01:14:09.140 --> 01:14:13.460
+an amazing team working not to try to find
+
+01:14:13.460 --> 01:14:15.420
+some incremental improvement and publish,
+
+01:14:15.420 --> 01:14:17.980
+which is one way to do research that is valid,
+
+01:14:17.980 --> 01:14:22.540
+but aim very high and work literally for years
+
+01:14:22.540 --> 01:14:24.140
+to iterate over that process.
+
+01:14:24.140 --> 01:14:25.700
+And working for years with the team,
+
+01:14:25.700 --> 01:14:29.820
+I mean, it is tricky that also happened to happen
+
+01:14:29.820 --> 01:14:32.220
+partly during a pandemic and so on.
+
+01:14:32.220 --> 01:14:35.340
+So I think my meta learning from all this is
+
+01:14:35.340 --> 01:14:38.020
+the teams are critical to the success.
+
+01:14:38.020 --> 01:14:40.220
+And then if now going to the machine learning,
+
+01:14:40.220 --> 01:14:42.940
+the part that's surprising is,
+
+01:14:44.820 --> 01:14:48.740
+so we like architectures like neural networks.
+
+01:14:48.740 --> 01:14:53.140
+And I would say this was a very rapidly evolving field
+
+01:14:53.140 --> 01:14:54.980
+until the transformer came.
+
+01:14:54.980 --> 01:14:58.220
+So attention might indeed be all you need,
+
+01:14:58.220 --> 01:15:00.300
+which is the title, also good title,
+
+01:15:00.300 --> 01:15:02.260
+although in hindsight is good.
+
+01:15:02.260 --> 01:15:03.460
+I don't think at the time I thought
+
+01:15:03.460 --> 01:15:05.060
+this is a great title for a paper,
+
+01:15:05.060 --> 01:15:08.980
+but that architecture is proving
+
+01:15:08.980 --> 01:15:12.580
+that the dream of modeling sequences of any bytes,
+
+01:15:13.500 --> 01:15:15.380
+there is something there that will stick.
+
+01:15:15.380 --> 01:15:18.300
+And I think these advance in architectures
+
+01:15:18.300 --> 01:15:21.020
+in kind of how neural networks are architecture
+
+01:15:21.020 --> 01:15:23.100
+to do what they do.
+
+01:15:23.100 --> 01:15:26.100
+It's been hard to find one that has been so stable
+
+01:15:26.100 --> 01:15:28.940
+and relatively has changed very little
+
+01:15:28.940 --> 01:15:33.060
+since it was invented five or so years ago.
+
+01:15:33.060 --> 01:15:35.220
+So that is a surprising,
+
+01:15:35.220 --> 01:15:38.340
+is a surprise that keeps recurring into other projects.
+
+01:15:38.340 --> 01:15:42.460
+Try to, on a philosophical or technical level,
+
+01:15:42.460 --> 01:15:45.900
+introspect what is the magic of attention?
+
+01:15:45.900 --> 01:15:47.380
+What is attention?
+
+01:15:47.380 --> 01:15:50.140
+That's attention in people that study the cognition,
+
+01:15:50.140 --> 01:15:52.140
+so human attention.
+
+01:15:52.140 --> 01:15:55.820
+I think there's giant wars over what attention means,
+
+01:15:55.820 --> 01:15:57.460
+how it works in the human mind.
+
+01:15:57.460 --> 01:16:00.220
+So what, there's very simple looks
+
+01:16:00.220 --> 01:16:02.620
+at what attention is in neural network
+
+01:16:02.620 --> 01:16:04.460
+from the days of attention is all you need,
+
+01:16:04.460 --> 01:16:06.860
+but do you think there's a general principle
+
+01:16:06.860 --> 01:16:08.780
+that's really powerful here?
+
+01:16:08.780 --> 01:16:13.380
+Yeah, so a distinction between transformers and LSTMs,
+
+01:16:13.380 --> 01:16:15.380
+which were what came before,
+
+01:16:15.380 --> 01:16:17.860
+and there was a transitional period
+
+01:16:17.860 --> 01:16:19.700
+where you could use both.
+
+01:16:19.700 --> 01:16:22.020
+In fact, when we talked about AlphaStat,
+
+01:16:22.020 --> 01:16:24.300
+we used transformers and LSTMs,
+
+01:16:24.300 --> 01:16:26.420
+so it was still the beginning of transformers.
+
+01:16:26.420 --> 01:16:27.420
+They were very powerful,
+
+01:16:27.420 --> 01:16:31.540
+but LSTMs were still also very powerful sequence models.
+
+01:16:31.540 --> 01:16:35.180
+So the power of the transformer
+
+01:16:35.180 --> 01:16:37.820
+is that it has built in
+
+01:16:37.820 --> 01:16:41.180
+what we call an inductive bias of attention
+
+01:16:41.180 --> 01:16:43.060
+that makes the model,
+
+01:16:43.060 --> 01:16:45.740
+when you think of a sequence of integers,
+
+01:16:45.740 --> 01:16:47.460
+like we discussed this before,
+
+01:16:47.460 --> 01:16:49.020
+this is a sequence of words,
+
+01:16:50.020 --> 01:16:54.780
+when you have to do very hard tasks over these words,
+
+01:16:54.780 --> 01:16:57.900
+this could be, we're gonna translate a whole paragraph,
+
+01:16:57.900 --> 01:16:59.780
+or we're gonna predict the next paragraph
+
+01:16:59.780 --> 01:17:01.740
+given 10 paragraphs before.
+
+01:17:04.260 --> 01:17:09.260
+There's some loose intuition from how we do it as a human
+
+01:17:10.340 --> 01:17:14.780
+that is very nicely mimicked and replicated
+
+01:17:14.780 --> 01:17:16.540
+structurally speaking in the transformer,
+
+01:17:16.540 --> 01:17:21.180
+which is this idea of you're looking for something,
+
+01:17:21.180 --> 01:17:25.740
+so you just read a piece of text,
+
+01:17:25.740 --> 01:17:27.900
+now you're thinking what comes next.
+
+01:17:27.900 --> 01:17:30.580
+You might wanna re-look at the text
+
+01:17:30.580 --> 01:17:31.780
+or look at it from scratch.
+
+01:17:31.780 --> 01:17:35.100
+I mean, literally is because there's no recurrence,
+
+01:17:35.100 --> 01:17:37.300
+you're just thinking what comes next,
+
+01:17:37.300 --> 01:17:40.020
+and it's almost hypothesis driven.
+
+01:17:40.020 --> 01:17:43.380
+So if I'm thinking the next word that I'll write
+
+01:17:43.380 --> 01:17:45.020
+is cat or dog,
+
+01:17:46.620 --> 01:17:49.860
+the way the transformer works almost philosophically
+
+01:17:49.860 --> 01:17:52.860
+is it has these two hypotheses,
+
+01:17:52.860 --> 01:17:55.660
+is it gonna be cat or is it gonna be dog?
+
+01:17:55.660 --> 01:17:58.420
+And then it says, okay, if it's cat,
+
+01:17:58.420 --> 01:18:00.740
+I'm gonna look for certain words, not necessarily cat,
+
+01:18:00.740 --> 01:18:01.900
+although cat is an obvious word,
+
+01:18:01.900 --> 01:18:04.540
+you would look in the past to see whether it makes more sense
+
+01:18:04.540 --> 01:18:06.020
+to output cat or dog.
+
+01:18:06.020 --> 01:18:09.460
+And then it does some very deep computation
+
+01:18:09.460 --> 01:18:11.460
+over the words and beyond, right?
+
+01:18:11.460 --> 01:18:12.860
+So it combines the words,
+
+01:18:13.820 --> 01:18:18.220
+but it has the query, as we call it, that is cat.
+
+01:18:18.220 --> 01:18:20.460
+And then similarly for dog, right?
+
+01:18:20.460 --> 01:18:24.180
+And so it's a very computational way to think about,
+
+01:18:24.180 --> 01:18:26.820
+look, if I'm thinking deeply about text,
+
+01:18:26.820 --> 01:18:30.420
+I need to go back to look at all of the text, attend over it,
+
+01:18:30.420 --> 01:18:31.700
+but it's not just attention,
+
+01:18:31.700 --> 01:18:33.740
+like what is guiding the attention?
+
+01:18:33.740 --> 01:18:36.500
+And that was the key insight from an earlier paper,
+
+01:18:36.500 --> 01:18:38.940
+is not how far away is it?
+
+01:18:38.940 --> 01:18:40.620
+I mean, how far away is it is important?
+
+01:18:40.620 --> 01:18:42.540
+What did I just write about?
+
+01:18:42.700 --> 01:18:46.780
+That's critical, but what you wrote about 10 pages ago
+
+01:18:46.780 --> 01:18:48.380
+might also be critical.
+
+01:18:48.380 --> 01:18:53.180
+So you're looking not positionally, but content-wise, right?
+
+01:18:53.180 --> 01:18:56.100
+And Transformers have this beautiful way
+
+01:18:56.100 --> 01:18:59.460
+to query for certain content and pull it out
+
+01:18:59.460 --> 01:19:00.340
+in a compressed way,
+
+01:19:00.340 --> 01:19:02.980
+so then you can make a more informed decision.
+
+01:19:02.980 --> 01:19:05.940
+I mean, that's one way to explain Transformers,
+
+01:19:05.940 --> 01:19:10.020
+but I think it's a very powerful inductive bias.
+
+01:19:10.020 --> 01:19:12.500
+There might be some details that might change over time,
+
+01:19:12.500 --> 01:19:16.420
+but I think that is what makes Transformers
+
+01:19:16.420 --> 01:19:19.940
+so much more powerful than the recurrent networks
+
+01:19:19.940 --> 01:19:22.460
+that were more recency bias-based,
+
+01:19:22.460 --> 01:19:24.340
+which obviously works in some tasks,
+
+01:19:24.340 --> 01:19:26.700
+but it has major flaws.
+
+01:19:26.700 --> 01:19:29.300
+Transformer itself has flaws,
+
+01:19:29.300 --> 01:19:32.180
+and I think the main one, the main challenge is,
+
+01:19:32.180 --> 01:19:35.780
+these prompts that we just were talking about,
+
+01:19:35.780 --> 01:19:38.060
+they can be a thousand words long.
+
+01:19:38.060 --> 01:19:39.940
+But if I'm teaching you StarCraft,
+
+01:19:39.940 --> 01:19:41.860
+I mean, I'll have to show you videos,
+
+01:19:42.380 --> 01:19:44.580
+I'll have to point you to whole Wikipedia articles
+
+01:19:44.580 --> 01:19:47.540
+about the game, we'll have to interact probably
+
+01:19:47.540 --> 01:19:49.500
+as you play, you'll ask me questions.
+
+01:19:49.500 --> 01:19:53.580
+The context required for us to achieve me being a good teacher
+
+01:19:53.580 --> 01:19:54.780
+to you on the game,
+
+01:19:54.780 --> 01:19:56.980
+as you would want to do it with a model,
+
+01:19:58.580 --> 01:20:01.620
+I think goes well beyond the current capabilities.
+
+01:20:01.620 --> 01:20:03.900
+So the question is, how do we benchmark this?
+
+01:20:03.900 --> 01:20:07.300
+And then how do we change the structure of the architectures?
+
+01:20:07.300 --> 01:20:08.820
+I think there's ideas on both sides,
+
+01:20:08.820 --> 01:20:11.300
+but we'll have to see empirically, right?
+
+01:20:11.300 --> 01:20:13.340
+Obviously, what ends up working in the-
+
+01:20:13.340 --> 01:20:15.900
+And as you talked about, some of the ideas could be,
+
+01:20:15.900 --> 01:20:19.500
+keeping the constraint of that length in place,
+
+01:20:19.500 --> 01:20:23.060
+but then forming hierarchical representations
+
+01:20:23.060 --> 01:20:26.260
+to where you can start being much clever
+
+01:20:26.260 --> 01:20:28.860
+in how you use those thousand tokens.
+
+01:20:28.860 --> 01:20:29.700
+Indeed.
+
+01:20:31.260 --> 01:20:32.260
+Yeah, that's really interesting.
+
+01:20:32.260 --> 01:20:34.900
+But it also is possible that this attention mechanism,
+
+01:20:34.900 --> 01:20:37.580
+where you basically, you don't have a recency bias,
+
+01:20:37.580 --> 01:20:40.340
+but you look more generally,
+
+01:20:40.580 --> 01:20:42.020
+you make it learnable.
+
+01:20:42.020 --> 01:20:45.300
+The mechanism in which way you look back into the past,
+
+01:20:45.300 --> 01:20:46.820
+you make that learnable.
+
+01:20:46.820 --> 01:20:50.220
+It's also possible where at the very beginning of that,
+
+01:20:50.220 --> 01:20:54.420
+because that you might become smarter and smarter
+
+01:20:54.420 --> 01:20:56.940
+in the way you query the past.
+
+01:20:58.460 --> 01:21:00.620
+So recent past and distant past,
+
+01:21:00.620 --> 01:21:02.380
+and maybe very, very distant past.
+
+01:21:02.380 --> 01:21:05.020
+So almost like the attention mechanism,
+
+01:21:05.020 --> 01:21:08.700
+we'll have to improve and evolve as good as the,
+
+01:21:10.420 --> 01:21:12.020
+tokenization mechanism,
+
+01:21:12.020 --> 01:21:15.020
+where so you can represent long-term memory somehow.
+
+01:21:15.020 --> 01:21:16.180
+Yes.
+
+01:21:16.180 --> 01:21:18.260
+And I mean, hierarchies are very,
+
+01:21:18.260 --> 01:21:22.180
+I mean, it's a very nice word that sounds appealing.
+
+01:21:22.180 --> 01:21:25.940
+There's lots of work adding hierarchy to the memories.
+
+01:21:25.940 --> 01:21:29.500
+In practice, it does seem like we keep coming back
+
+01:21:29.500 --> 01:21:33.020
+to the main formula or main architecture.
+
+01:21:33.900 --> 01:21:35.580
+That sometimes tells us something.
+
+01:21:35.580 --> 01:21:39.220
+There's such a sentence that a friend of mine told me like,
+
+01:21:39.260 --> 01:21:41.100
+whether it wants to work or not.
+
+01:21:41.100 --> 01:21:45.060
+So Transformer was clearly an idea that wanted to work.
+
+01:21:45.060 --> 01:21:47.580
+And then I think there's some principles
+
+01:21:47.580 --> 01:21:49.140
+we believe will be needed,
+
+01:21:49.140 --> 01:21:51.060
+but finding the exact details,
+
+01:21:51.060 --> 01:21:52.940
+details matter so much, right?
+
+01:21:52.940 --> 01:21:54.340
+That's gonna be tricky.
+
+01:21:54.340 --> 01:21:56.860
+I love the idea that there's like,
+
+01:21:56.860 --> 01:22:01.340
+you as a human being, you want some ideas to work.
+
+01:22:01.340 --> 01:22:04.580
+And then there's the model that wants some ideas to work.
+
+01:22:04.580 --> 01:22:07.460
+And you get to have a conversation to see which,
+
+01:22:07.460 --> 01:22:09.660
+more likely the model will win in the end.
+
+01:22:10.580 --> 01:22:12.860
+Because it's the one, you don't have to do any work.
+
+01:22:12.860 --> 01:22:14.420
+The model is the one that has to do the work.
+
+01:22:14.420 --> 01:22:15.940
+So you should listen to the model.
+
+01:22:15.940 --> 01:22:17.300
+And I really love this idea
+
+01:22:17.300 --> 01:22:18.980
+that you talked about the humans in this picture.
+
+01:22:18.980 --> 01:22:21.220
+If I could just briefly ask,
+
+01:22:21.220 --> 01:22:24.300
+one is you're saying the benchmarks
+
+01:22:25.260 --> 01:22:28.020
+about the modular humans working on this,
+
+01:22:29.020 --> 01:22:31.740
+the benchmarks providing a sturdy ground
+
+01:22:31.740 --> 01:22:34.740
+of a wish to do these things that seem impossible.
+
+01:22:34.740 --> 01:22:39.180
+They give you, in the darkest of times, give you hope,
+
+01:22:39.180 --> 01:22:40.860
+because little signs of improvement.
+
+01:22:40.860 --> 01:22:45.340
+You could, like, somehow you're not lost
+
+01:22:45.340 --> 01:22:48.780
+if you have metrics to measure your improvement.
+
+01:22:48.780 --> 01:22:50.900
+And then there's other aspect,
+
+01:22:50.900 --> 01:22:55.900
+you said elsewhere in here today, like titles matter.
+
+01:22:56.660 --> 01:23:00.580
+I wonder how much humans matter
+
+01:23:00.580 --> 01:23:02.420
+in the evolution of all of this,
+
+01:23:02.420 --> 01:23:04.340
+meaning individual humans.
+
+01:23:06.140 --> 01:23:08.180
+You know, something about their interaction,
+
+01:23:08.180 --> 01:23:09.220
+something about their ideas,
+
+01:23:09.220 --> 01:23:12.980
+how much they change the direction of all of this.
+
+01:23:12.980 --> 01:23:15.260
+Like if you change the humans in this picture,
+
+01:23:15.260 --> 01:23:18.300
+like is it that the model is sitting there
+
+01:23:18.300 --> 01:23:22.580
+and it wants you, it wants some idea to work,
+
+01:23:22.580 --> 01:23:24.260
+or is it the humans,
+
+01:23:24.260 --> 01:23:27.020
+or maybe the model is providing you 20 ideas that could work
+
+01:23:27.020 --> 01:23:29.140
+and depending on the humans you pick,
+
+01:23:29.140 --> 01:23:31.460
+they're going to be able to hear some of those ideas.
+
+01:23:31.460 --> 01:23:34.660
+Like in all the, because you're now directing
+
+01:23:34.660 --> 01:23:35.980
+all of deep learning at DeepMind,
+
+01:23:35.980 --> 01:23:37.460
+you get to interact with a lot of projects,
+
+01:23:37.460 --> 01:23:39.060
+a lot of brilliant researchers.
+
+01:23:40.700 --> 01:23:43.140
+How much variability is created by the humans
+
+01:23:43.140 --> 01:23:44.220
+in all of this?
+
+01:23:44.220 --> 01:23:47.420
+Yeah, I mean, I do believe humans matter a lot,
+
+01:23:47.420 --> 01:23:51.180
+at the very least at the, you know,
+
+01:23:51.180 --> 01:23:54.900
+time scale of years on when things are happening
+
+01:23:54.900 --> 01:23:56.980
+and what's the sequencing of it, right?
+
+01:23:56.980 --> 01:24:00.580
+So you get to interact with people that,
+
+01:24:00.620 --> 01:24:02.300
+I mean, you mentioned this,
+
+01:24:02.300 --> 01:24:05.220
+some people really want some idea to work
+
+01:24:05.220 --> 01:24:06.780
+and they'll persist
+
+01:24:06.780 --> 01:24:09.420
+and then some other people might be more practical,
+
+01:24:09.420 --> 01:24:12.940
+like I don't care what idea works,
+
+01:24:12.940 --> 01:24:15.980
+I care about, you know, cracking protein folding.
+
+01:24:16.900 --> 01:24:21.260
+And these, at least these two kind of seem opposite sides,
+
+01:24:21.260 --> 01:24:25.740
+we need both and we've clearly had both historically
+
+01:24:25.740 --> 01:24:29.060
+and that made certain things happen earlier or later.
+
+01:24:29.060 --> 01:24:33.500
+So definitely humans involved in all of these endeavor
+
+01:24:33.500 --> 01:24:38.500
+have had, I would say, years of change or of ordering,
+
+01:24:38.700 --> 01:24:41.900
+how things have happened, which breakthroughs came before,
+
+01:24:41.900 --> 01:24:43.340
+which other breakthroughs and so on.
+
+01:24:43.340 --> 01:24:45.820
+So certainly that does happen.
+
+01:24:45.820 --> 01:24:50.620
+And so one other, maybe one other axis of distinction
+
+01:24:50.620 --> 01:24:53.860
+is what I called, and this is most commonly used
+
+01:24:53.860 --> 01:24:54.900
+in reinforcement learning,
+
+01:24:54.900 --> 01:24:57.820
+is the exploration exploitation trade off as well.
+
+01:24:57.820 --> 01:25:00.940
+It's not exactly what I meant, although quite related.
+
+01:25:00.940 --> 01:25:05.940
+So when you start trying to help others, right?
+
+01:25:07.060 --> 01:25:11.500
+Like you become a bit more of a mentor
+
+01:25:11.500 --> 01:25:13.140
+to a large group of people,
+
+01:25:13.140 --> 01:25:16.420
+be it a project or the deep learning team or something,
+
+01:25:16.420 --> 01:25:17.500
+or even in the community
+
+01:25:17.500 --> 01:25:20.860
+when you interact with people in conferences and so on,
+
+01:25:20.860 --> 01:25:24.060
+you're identifying quickly, right?
+
+01:25:24.060 --> 01:25:27.100
+Some things that are explorative or exploitative
+
+01:25:27.100 --> 01:25:30.740
+and it's tempting to try to guide people, obviously.
+
+01:25:30.740 --> 01:25:33.740
+I mean, that's what makes our experience, we bring it
+
+01:25:33.740 --> 01:25:36.780
+and we try to shape things sometimes wrongly.
+
+01:25:36.780 --> 01:25:39.620
+And there's many times that I've been wrong in the past.
+
+01:25:39.620 --> 01:25:44.620
+That's great, but it would be wrong to dismiss
+
+01:25:45.380 --> 01:25:49.980
+any sort of the research styles that I'm observing.
+
+01:25:49.980 --> 01:25:52.820
+And I often get asked, well, you're in industry, right?
+
+01:25:52.820 --> 01:25:55.700
+So we do have access to large compute scale and so on.
+
+01:25:55.700 --> 01:25:57.540
+So there's certain kinds of research.
+
+01:25:57.540 --> 01:26:01.740
+I almost feel like we need to do responsibly and so on,
+
+01:26:01.740 --> 01:26:05.260
+but it is kind of, we have the particle accelerator here,
+
+01:26:05.260 --> 01:26:06.380
+so to speak in physics.
+
+01:26:06.380 --> 01:26:07.580
+So we need to use it.
+
+01:26:07.580 --> 01:26:08.900
+We need to answer the questions
+
+01:26:08.900 --> 01:26:10.500
+that we should be answering right now
+
+01:26:10.500 --> 01:26:12.460
+for the scientific progress.
+
+01:26:12.460 --> 01:26:15.300
+But then at the same time, I look at many advances,
+
+01:26:15.300 --> 01:26:18.460
+including attention, which was discovered
+
+01:26:18.460 --> 01:26:22.500
+in Montreal initially because of lack of compute, right?
+
+01:26:22.500 --> 01:26:25.060
+So we were working on sequence to sequence
+
+01:26:25.300 --> 01:26:27.940
+with my friends over at Google Brain at the time.
+
+01:26:27.940 --> 01:26:30.420
+And we were using, I think, eight GPUs,
+
+01:26:30.420 --> 01:26:32.500
+which was somehow a lot at the time.
+
+01:26:32.500 --> 01:26:35.260
+And then I think Montreal was a bit more limited
+
+01:26:35.260 --> 01:26:37.340
+in the scale, but then they discovered
+
+01:26:37.340 --> 01:26:39.300
+this content-based attention concept
+
+01:26:39.300 --> 01:26:43.420
+that then has obviously triggered things like transformer.
+
+01:26:43.420 --> 01:26:46.340
+Not everything obviously starts transformer.
+
+01:26:46.340 --> 01:26:49.940
+There's always a history that is important to recognize
+
+01:26:49.940 --> 01:26:53.060
+because then you can make sure that then those
+
+01:26:53.060 --> 01:26:56.380
+who might feel now, well, we don't have so much compute.
+
+01:26:56.380 --> 01:27:01.380
+You need to then help them optimize that kind of research
+
+01:27:01.540 --> 01:27:04.260
+that might actually produce amazing change.
+
+01:27:04.260 --> 01:27:07.940
+Perhaps it's not as short-term as some of these advancements
+
+01:27:07.940 --> 01:27:09.700
+or perhaps it's a different time scale,
+
+01:27:09.700 --> 01:27:13.020
+but the people and the diversity of the field
+
+01:27:13.020 --> 01:27:15.740
+is quite critical that we maintain it.
+
+01:27:15.740 --> 01:27:19.060
+And at times, especially mixed a bit with hype
+
+01:27:19.060 --> 01:27:21.540
+or other things, it's a bit tricky
+
+01:27:21.540 --> 01:27:24.180
+to be observing maybe too much
+
+01:27:24.180 --> 01:27:27.780
+of the same thinking across the board.
+
+01:27:27.780 --> 01:27:30.500
+But the humans definitely are critical.
+
+01:27:30.500 --> 01:27:33.940
+And I can think of quite a few personal examples
+
+01:27:33.940 --> 01:27:36.620
+where also someone told me something
+
+01:27:36.620 --> 01:27:40.300
+that had a huge, huge effect onto some idea.
+
+01:27:40.300 --> 01:27:43.300
+And then that's why I'm saying at least in terms of years,
+
+01:27:43.300 --> 01:27:44.900
+probably some things do happen.
+
+01:27:44.900 --> 01:27:46.060
+Yeah, it's fascinating.
+
+01:27:46.060 --> 01:27:48.220
+And it's also fascinating how constraints somehow
+
+01:27:48.220 --> 01:27:49.900
+are essential for innovation.
+
+01:27:50.740 --> 01:27:53.460
+And the other thing you mentioned about engineering,
+
+01:27:53.460 --> 01:27:54.940
+I have a sneaking suspicion.
+
+01:27:54.940 --> 01:28:00.020
+Maybe I over, you know, my love is with engineering.
+
+01:28:00.020 --> 01:28:04.580
+So I have a sneaking suspicion that all the genius,
+
+01:28:04.580 --> 01:28:06.340
+a large percentage of the genius
+
+01:28:06.340 --> 01:28:09.380
+is in the tiny details of engineering.
+
+01:28:09.380 --> 01:28:14.020
+So like, I think we like to think our genius,
+
+01:28:14.020 --> 01:28:16.180
+the genius is in the big ideas.
+
+01:28:16.940 --> 01:28:20.220
+There's, I have a sneaking suspicion that like,
+
+01:28:20.220 --> 01:28:22.660
+because I've seen the genius of details,
+
+01:28:22.660 --> 01:28:27.660
+of engineering details make the night and day difference.
+
+01:28:28.780 --> 01:28:32.900
+And I wonder if those kind of have a ripple effect over time.
+
+01:28:32.900 --> 01:28:35.860
+So that too, so that's sort of taking
+
+01:28:35.860 --> 01:28:38.060
+the engineering perspective that sometimes
+
+01:28:38.060 --> 01:28:41.780
+that quiet innovation at the level of an individual engineer
+
+01:28:41.780 --> 01:28:44.660
+or maybe at the small scale of a few engineers
+
+01:28:44.660 --> 01:28:45.660
+can make all the difference.
+
+01:28:45.660 --> 01:28:48.460
+That scales because we're doing,
+
+01:28:48.460 --> 01:28:51.460
+we're working on computers that are scaled
+
+01:28:51.460 --> 01:28:55.060
+across large groups that one engineering decision
+
+01:28:55.060 --> 01:28:56.980
+can lead to ripple effects.
+
+01:28:56.980 --> 01:28:57.820
+Yes.
+
+01:28:57.820 --> 01:28:58.940
+Which is interesting to think about.
+
+01:28:58.940 --> 01:29:00.780
+Yeah, I mean, engineering,
+
+01:29:00.780 --> 01:29:04.220
+there's also kind of a historical,
+
+01:29:04.220 --> 01:29:06.340
+it might be a bit random,
+
+01:29:06.340 --> 01:29:09.820
+because if you think of the history of how,
+
+01:29:09.820 --> 01:29:12.380
+especially deep learning and neural networks took off,
+
+01:29:12.380 --> 01:29:17.060
+feels like a bit random because GPUs happened to be there
+
+01:29:17.060 --> 01:29:18.900
+at the right time for a different purpose,
+
+01:29:18.900 --> 01:29:20.660
+which was to play video games.
+
+01:29:20.660 --> 01:29:24.580
+So even the engineering that goes into the hardware
+
+01:29:24.580 --> 01:29:26.380
+and it might have a time,
+
+01:29:26.380 --> 01:29:28.060
+like the timeframe might be very different.
+
+01:29:28.060 --> 01:29:31.620
+I mean, the GPUs were evolved throughout many years
+
+01:29:31.620 --> 01:29:33.900
+where we didn't even, we're looking at that.
+
+01:29:33.900 --> 01:29:37.540
+So even at that level, that revolution, so to speak,
+
+01:29:38.660 --> 01:29:42.220
+the ripples are like, we'll see when they stop.
+
+01:29:42.220 --> 01:29:45.980
+But in terms of thinking of why is this happening, right?
+
+01:29:45.980 --> 01:29:49.780
+There's, I think that when I try to categorize it
+
+01:29:49.780 --> 01:29:52.740
+in sort of things that might not be so obvious,
+
+01:29:52.740 --> 01:29:54.980
+I mean, clearly there's a hardware revolution.
+
+01:29:54.980 --> 01:29:58.380
+We are surfing thanks to that.
+
+01:29:58.380 --> 01:29:59.780
+Data centers as well.
+
+01:29:59.780 --> 01:30:01.860
+I mean, data centers are where,
+
+01:30:01.860 --> 01:30:03.220
+like, I mean, at Google, for instance,
+
+01:30:03.220 --> 01:30:04.860
+obviously they're serving Google,
+
+01:30:04.860 --> 01:30:06.940
+but there's also now thanks to that
+
+01:30:06.940 --> 01:30:09.660
+and to have built such amazing data centers,
+
+01:30:09.660 --> 01:30:11.740
+we can train these models.
+
+01:30:11.740 --> 01:30:13.420
+Software is an important one.
+
+01:30:13.420 --> 01:30:16.060
+I think if I look at the state
+
+01:30:16.060 --> 01:30:20.060
+of how I had to implement things to implement my ideas,
+
+01:30:20.060 --> 01:30:21.220
+how I discarded ideas
+
+01:30:21.220 --> 01:30:23.180
+because they were too hard to implement.
+
+01:30:23.180 --> 01:30:25.300
+Yeah, clearly the times have changed
+
+01:30:25.300 --> 01:30:27.580
+and thankfully we are in a much better
+
+01:30:27.580 --> 01:30:29.420
+software position as well.
+
+01:30:29.420 --> 01:30:32.260
+And then, I mean, obviously there's research
+
+01:30:32.260 --> 01:30:35.140
+that happens at scale and more people enter the field.
+
+01:30:35.140 --> 01:30:35.980
+That's great to see,
+
+01:30:35.980 --> 01:30:38.260
+but it's almost enabled by these other things.
+
+01:30:38.260 --> 01:30:40.580
+And last but not least is also data, right?
+
+01:30:40.580 --> 01:30:43.140
+Curating data sets, labeling data sets,
+
+01:30:43.140 --> 01:30:44.980
+these benchmarks we think about,
+
+01:30:44.980 --> 01:30:48.940
+maybe we'll want to have all the benchmarks in one system,
+
+01:30:48.940 --> 01:30:50.260
+but it's still very valuable
+
+01:30:50.260 --> 01:30:52.980
+that someone put the thought and the time
+
+01:30:52.980 --> 01:30:54.900
+and the vision to build certain benchmarks.
+
+01:30:54.900 --> 01:30:56.660
+We've seen progress thanks to,
+
+01:30:56.660 --> 01:30:59.300
+but we're gonna repurpose the benchmarks.
+
+01:30:59.300 --> 01:31:01.660
+That's the beauty of Atari,
+
+01:31:01.660 --> 01:31:04.220
+is like we solved it in a way,
+
+01:31:04.220 --> 01:31:06.860
+but we use it in Gato, it was critical.
+
+01:31:06.860 --> 01:31:09.420
+And I'm sure there's still a lot more to do
+
+01:31:09.420 --> 01:31:10.980
+thanks to that amazing benchmark
+
+01:31:10.980 --> 01:31:13.180
+that someone took the time to put,
+
+01:31:13.180 --> 01:31:16.100
+even though at the time maybe all you have to think
+
+01:31:16.100 --> 01:31:19.460
+what's the next iteration of architectures.
+
+01:31:19.460 --> 01:31:21.460
+That's what maybe the field recognizes,
+
+01:31:21.460 --> 01:31:24.060
+but we need to, that's another thing we need to balance
+
+01:31:24.060 --> 01:31:25.820
+in terms of a humans behind.
+
+01:31:25.820 --> 01:31:27.980
+We need to recognize all these aspects
+
+01:31:27.980 --> 01:31:29.540
+because they're all critical.
+
+01:31:29.540 --> 01:31:32.820
+And we tend to, yeah, we tend to think of the genius,
+
+01:31:32.820 --> 01:31:35.740
+the scientist and so on, but I'm glad you're,
+
+01:31:35.740 --> 01:31:38.060
+I know you have a strong engineering background.
+
+01:31:38.060 --> 01:31:40.140
+But also I'm a lover of data
+
+01:31:40.140 --> 01:31:43.300
+and the pushback on the engineering comment
+
+01:31:43.300 --> 01:31:46.180
+ultimately could be the creatives of benchmarks
+
+01:31:46.180 --> 01:31:47.500
+who have the most impact.
+
+01:31:47.500 --> 01:31:49.260
+Andre Capati, who you mentioned,
+
+01:31:49.260 --> 01:31:52.060
+has recently been talking a lot of trash about ImageNet,
+
+01:31:52.060 --> 01:31:53.300
+which he has the right to do
+
+01:31:53.300 --> 01:31:55.540
+because of how critical he is about,
+
+01:31:55.540 --> 01:31:57.860
+how essential he is to the development
+
+01:31:57.860 --> 01:32:01.580
+and the success of deep learning around ImageNet.
+
+01:32:01.580 --> 01:32:02.980
+And you're saying that that's actually,
+
+01:32:02.980 --> 01:32:05.540
+that benchmark is holding back the field
+
+01:32:05.540 --> 01:32:07.700
+because, I mean, especially in his context
+
+01:32:07.700 --> 01:32:09.020
+on Tesla Autopilot,
+
+01:32:09.020 --> 01:32:12.540
+that's looking at real world behavior of a system.
+
+01:32:12.540 --> 01:32:16.260
+It's, there's something fundamentally missing
+
+01:32:16.260 --> 01:32:17.940
+about ImageNet that doesn't capture
+
+01:32:17.940 --> 01:32:20.420
+the real worldness of things.
+
+01:32:20.420 --> 01:32:22.620
+That we need to have data sets, benchmarks
+
+01:32:22.620 --> 01:32:27.060
+that have the unpredictability, the edge cases,
+
+01:32:27.060 --> 01:32:29.660
+the whatever the heck it is that makes the real world
+
+01:32:29.660 --> 01:32:32.260
+so difficult to operate in.
+
+01:32:32.260 --> 01:32:34.660
+We need to have benchmarks with that, so.
+
+01:32:34.660 --> 01:32:37.740
+But just to think about the impact of ImageNet
+
+01:32:37.740 --> 01:32:42.100
+as a benchmark and that really puts a lot of emphasis
+
+01:32:42.100 --> 01:32:43.740
+on the importance of a benchmark,
+
+01:32:43.740 --> 01:32:46.660
+both sort of internally at DeepMind and as a community.
+
+01:32:46.660 --> 01:32:48.980
+So one is coming in from within,
+
+01:32:48.980 --> 01:32:52.540
+like how do I create a benchmark for me
+
+01:32:52.540 --> 01:32:55.260
+to mark and make progress?
+
+01:32:55.260 --> 01:32:58.140
+And how do I make benchmark for the community
+
+01:32:58.140 --> 01:33:02.540
+to mark and push progress?
+
+01:33:02.540 --> 01:33:05.900
+You have this amazing paper you co-authored,
+
+01:33:05.900 --> 01:33:07.460
+a survey paper called
+
+01:33:07.460 --> 01:33:10.580
+Emergent Abilities of Large Language Models.
+
+01:33:10.580 --> 01:33:12.540
+It has, again, the philosophy here
+
+01:33:12.540 --> 01:33:14.500
+that I'd love to ask you about.
+
+01:33:14.500 --> 01:33:17.380
+What's the intuition about the phenomena of emergence
+
+01:33:17.380 --> 01:33:20.700
+in neural networks, transformers, language models?
+
+01:33:20.700 --> 01:33:23.540
+Is there a magic threshold
+
+01:33:23.540 --> 01:33:27.180
+beyond which we start to see certain performance?
+
+01:33:27.180 --> 01:33:29.980
+And is that different from task to task?
+
+01:33:29.980 --> 01:33:32.660
+Is that us humans just being poetic and romantic,
+
+01:33:32.660 --> 01:33:35.460
+or is there literally some level
+
+01:33:35.460 --> 01:33:38.220
+at which we start to see breakthrough performance?
+
+01:33:38.220 --> 01:33:41.540
+Yeah, I mean, this is a property that we start seeing
+
+01:33:42.500 --> 01:33:46.900
+in systems that actually tend to be,
+
+01:33:46.900 --> 01:33:49.300
+so in machine learning, traditionally,
+
+01:33:50.260 --> 01:33:51.700
+again, going to benchmarks,
+
+01:33:51.700 --> 01:33:54.900
+I mean, if you have some input-outputs, right,
+
+01:33:54.900 --> 01:33:58.300
+like that is just a single input and a single output,
+
+01:33:58.300 --> 01:34:01.220
+you generally, when you train these systems,
+
+01:34:01.220 --> 01:34:04.460
+you see reasonably smooth curves
+
+01:34:04.460 --> 01:34:09.460
+when you analyze how much the data set size
+
+01:34:09.620 --> 01:34:10.980
+affects the performance
+
+01:34:10.980 --> 01:34:13.060
+or how the model size affect the performance
+
+01:34:13.060 --> 01:34:18.060
+or how long you train the system for affects the performance.
+
+01:34:19.380 --> 01:34:22.300
+So, if we think of ImageNet,
+
+01:34:22.300 --> 01:34:25.100
+the training curves look fairly smooth
+
+01:34:25.100 --> 01:34:26.700
+and predictable in a way.
+
+01:34:26.940 --> 01:34:31.380
+And I would say that's probably because of the,
+
+01:34:31.380 --> 01:34:36.380
+it's kind of a one-hop reasoning task, right?
+
+01:34:36.540 --> 01:34:38.260
+It's like, here is an input
+
+01:34:38.260 --> 01:34:40.820
+and you think for a few milliseconds
+
+01:34:40.820 --> 01:34:43.780
+or 100 milliseconds, 300 as a human,
+
+01:34:43.780 --> 01:34:44.620
+and then you tell me,
+
+01:34:44.620 --> 01:34:47.900
+yeah, there's an alpaca in this image.
+
+01:34:47.900 --> 01:34:52.820
+So, in language, we are seeing benchmarks
+
+01:34:52.820 --> 01:34:57.820
+that require more pondering and more thought in a way, right?
+
+01:34:58.220 --> 01:35:01.980
+This is just kind of, you need to look for some subtleties
+
+01:35:01.980 --> 01:35:05.860
+that it involves inputs that you might think of,
+
+01:35:05.860 --> 01:35:07.860
+even if the input is a sentence
+
+01:35:07.860 --> 01:35:09.820
+describing a mathematical problem,
+
+01:35:10.900 --> 01:35:14.180
+there is a bit more processing required as a human
+
+01:35:14.180 --> 01:35:15.700
+and more introspection.
+
+01:35:15.700 --> 01:35:20.500
+So, I think that how these benchmarks work
+
+01:35:20.540 --> 01:35:23.580
+means that there is actually a threshold.
+
+01:35:24.820 --> 01:35:26.820
+Just going back to how transformers work
+
+01:35:26.820 --> 01:35:29.580
+in this way of querying for the right questions
+
+01:35:29.580 --> 01:35:31.220
+to get the right answers,
+
+01:35:31.220 --> 01:35:35.540
+that might mean that performance becomes random
+
+01:35:35.540 --> 01:35:37.860
+until the right question is asked
+
+01:35:37.860 --> 01:35:40.100
+by the querying system of a transformer
+
+01:35:40.100 --> 01:35:42.900
+or of a language model like a transformer.
+
+01:35:42.900 --> 01:35:45.540
+And then, only then,
+
+01:35:45.540 --> 01:35:47.780
+you might start seeing performance
+
+01:35:47.780 --> 01:35:50.140
+going from random to non-random.
+
+01:35:50.140 --> 01:35:52.740
+And this is more empirical.
+
+01:35:52.740 --> 01:35:56.380
+There's no formalism or theory behind this yet,
+
+01:35:56.380 --> 01:35:57.860
+although it might be quite important,
+
+01:35:57.860 --> 01:36:00.380
+but we're seeing these phase transitions
+
+01:36:00.380 --> 01:36:03.700
+of random performance until some, let's say,
+
+01:36:03.700 --> 01:36:06.820
+scale of a model, and then it goes beyond that.
+
+01:36:06.820 --> 01:36:10.580
+And it might be that you need to fit
+
+01:36:10.580 --> 01:36:14.100
+a few low-order bits of thought
+
+01:36:14.100 --> 01:36:17.220
+before you can make progress on the whole task.
+
+01:36:17.220 --> 01:36:19.780
+And if you could measure, actually,
+
+01:36:19.780 --> 01:36:21.940
+those breakdowns of the task,
+
+01:36:21.940 --> 01:36:23.500
+maybe you would see more smooth,
+
+01:36:23.500 --> 01:36:26.260
+oh, like, yeah, once you get these,
+
+01:36:26.260 --> 01:36:27.820
+and these, and these, and these, and these,
+
+01:36:27.820 --> 01:36:30.380
+then you start making progress in the task.
+
+01:36:30.380 --> 01:36:33.580
+But it's somehow a bit annoying
+
+01:36:33.580 --> 01:36:37.540
+because then it means that certain questions
+
+01:36:37.540 --> 01:36:40.340
+we might ask about architectures
+
+01:36:40.340 --> 01:36:43.100
+possibly can only be done at certain scale.
+
+01:36:43.100 --> 01:36:46.140
+And one thing that, conversely,
+
+01:36:46.140 --> 01:36:49.260
+I've seen great progress on in the last couple of years
+
+01:36:49.260 --> 01:36:52.540
+is this notion of science of deep learning
+
+01:36:52.540 --> 01:36:55.060
+and science of scale in particular, right?
+
+01:36:55.060 --> 01:36:58.700
+So on the negative is that there's some benchmarks
+
+01:36:58.700 --> 01:37:01.860
+for which progress might need to be measured
+
+01:37:01.860 --> 01:37:04.060
+at minimum and at certain scale
+
+01:37:04.060 --> 01:37:07.580
+until you see then what details of the model matter
+
+01:37:07.580 --> 01:37:10.060
+to make that performance better, right?
+
+01:37:10.060 --> 01:37:11.980
+So that's a bit of a con.
+
+01:37:11.980 --> 01:37:14.740
+But what we've also seen is that
+
+01:37:14.740 --> 01:37:19.220
+you can sort of empirically analyze behavior
+
+01:37:19.220 --> 01:37:22.940
+of models at scales that are smaller, right?
+
+01:37:22.940 --> 01:37:25.740
+So let's say, to put an example,
+
+01:37:25.740 --> 01:37:27.900
+we had this Tintilla paper
+
+01:37:27.900 --> 01:37:31.460
+that revised the so-called scaling loss of models.
+
+01:37:31.460 --> 01:37:34.780
+And that whole study is done at a reasonably small scale,
+
+01:37:34.780 --> 01:37:36.580
+right, that may be hundreds of millions
+
+01:37:36.580 --> 01:37:38.740
+up to one billion parameters.
+
+01:37:38.740 --> 01:37:41.940
+And then the cool thing is that you create some loss, right?
+
+01:37:41.940 --> 01:37:43.700
+Some loss that some trends, right?
+
+01:37:43.700 --> 01:37:46.660
+You extract trends from data that you see, okay,
+
+01:37:46.660 --> 01:37:49.500
+like it looks like the amount of data required
+
+01:37:49.500 --> 01:37:52.220
+to train now a 10X larger model would be this.
+
+01:37:52.220 --> 01:37:55.260
+And these laws so far, these extrapolations
+
+01:37:55.260 --> 01:37:57.580
+have helped us save compute
+
+01:37:57.580 --> 01:38:01.020
+and just get to a better place in terms of the science
+
+01:38:01.020 --> 01:38:03.860
+of how should we run these models at scale,
+
+01:38:03.860 --> 01:38:05.700
+how much data, how much depth,
+
+01:38:05.700 --> 01:38:08.580
+and all sorts of questions we start asking,
+
+01:38:08.580 --> 01:38:10.660
+extrapolating from a small scale.
+
+01:38:10.660 --> 01:38:12.820
+But then this emergence is sadly
+
+01:38:12.820 --> 01:38:15.740
+that not everything can be extrapolated from scale,
+
+01:38:15.740 --> 01:38:16.940
+depending on the benchmark,
+
+01:38:16.940 --> 01:38:20.300
+and maybe the harder benchmarks are not so good
+
+01:38:20.300 --> 01:38:22.020
+for extracting these laws.
+
+01:38:22.020 --> 01:38:24.220
+But we have a variety of benchmarks at least.
+
+01:38:24.220 --> 01:38:28.060
+So I wonder to which degree the threshold,
+
+01:38:28.060 --> 01:38:31.780
+the phase shift scale is a function of the benchmark.
+
+01:38:32.900 --> 01:38:34.940
+Some of the science of scale
+
+01:38:34.940 --> 01:38:38.220
+might be engineering benchmarks
+
+01:38:38.220 --> 01:38:40.460
+where that threshold is low,
+
+01:38:40.460 --> 01:38:43.900
+sort of taking a main benchmark
+
+01:38:43.900 --> 01:38:46.180
+and reducing it somehow,
+
+01:38:46.180 --> 01:38:48.540
+where the essential difficulty is left,
+
+01:38:48.540 --> 01:38:52.660
+but the scale of which the emergence happens is lower,
+
+01:38:52.660 --> 01:38:54.300
+just for the science aspect of it
+
+01:38:54.300 --> 01:38:57.020
+versus the actual real world aspect.
+
+01:38:57.020 --> 01:38:59.340
+Yeah, so luckily we have quite a few benchmarks,
+
+01:38:59.340 --> 01:39:01.940
+some of which are simpler or maybe they're more like,
+
+01:39:01.940 --> 01:39:03.060
+I think people might call these
+
+01:39:03.060 --> 01:39:05.940
+systems one versus systems two style.
+
+01:39:05.940 --> 01:39:09.420
+So I think what we're not seeing,
+
+01:39:09.460 --> 01:39:11.900
+luckily, is that extrapolations
+
+01:39:11.900 --> 01:39:15.860
+from maybe slightly more smooth or simpler benchmarks
+
+01:39:15.860 --> 01:39:18.620
+are translating to the harder ones.
+
+01:39:18.620 --> 01:39:21.220
+But that is not to say that this extrapolation
+
+01:39:21.220 --> 01:39:22.700
+will hit its limits.
+
+01:39:22.700 --> 01:39:27.620
+And when it does, then how much we scale or how we scale
+
+01:39:27.620 --> 01:39:29.500
+will sadly be a bit suboptimal
+
+01:39:29.500 --> 01:39:31.860
+until we find better laws, right?
+
+01:39:31.860 --> 01:39:33.860
+And these laws, again, are very empirical laws.
+
+01:39:33.860 --> 01:39:35.980
+They're not like physical laws of models,
+
+01:39:35.980 --> 01:39:38.740
+although I wish there would be better theory
+
+01:39:38.740 --> 01:39:40.180
+about these things as well.
+
+01:39:40.180 --> 01:39:43.060
+But so far, I would say empirical theory,
+
+01:39:43.060 --> 01:39:44.580
+as I call it, is way ahead
+
+01:39:44.580 --> 01:39:47.020
+than actual theory of machine learning.
+
+01:39:47.860 --> 01:39:50.540
+Let me ask you almost for fun.
+
+01:39:50.540 --> 01:39:54.700
+So this is not, Oriol, as a DeepMind person
+
+01:39:54.700 --> 01:39:57.300
+or anything to do with DeepMind or Google,
+
+01:39:57.300 --> 01:39:58.900
+just as a human being,
+
+01:39:58.900 --> 01:40:01.820
+and looking at these news of a Google engineer
+
+01:40:01.820 --> 01:40:06.820
+who claimed that, I guess, the Lambda language model
+
+01:40:07.820 --> 01:40:11.100
+was sentient or had the,
+
+01:40:11.100 --> 01:40:14.060
+and you still need to look into the details of this,
+
+01:40:14.060 --> 01:40:18.700
+but sort of making an official report
+
+01:40:18.700 --> 01:40:21.740
+and a claim that he believes there's evidence
+
+01:40:21.740 --> 01:40:25.100
+that this system has achieved sentience.
+
+01:40:25.100 --> 01:40:29.580
+And I think this is a really interesting case
+
+01:40:29.580 --> 01:40:31.740
+on a human level, on a psychological level,
+
+01:40:31.740 --> 01:40:35.900
+on a technical machine learning level
+
+01:40:35.940 --> 01:40:38.380
+of how language models transform our world
+
+01:40:38.380 --> 01:40:42.100
+and also just philosophical level of the role of AI systems
+
+01:40:42.100 --> 01:40:44.140
+in a human world.
+
+01:40:44.140 --> 01:40:48.180
+So what do you find interesting?
+
+01:40:48.180 --> 01:40:49.740
+What's your take on all of this
+
+01:40:49.740 --> 01:40:52.500
+as a machine learning engineer and a researcher
+
+01:40:52.500 --> 01:40:54.340
+and also as a human being?
+
+01:40:54.340 --> 01:40:58.780
+Yeah, I mean, a few reactions, quite a few, actually.
+
+01:40:58.780 --> 01:41:01.700
+Have you ever briefly thought,
+
+01:41:01.700 --> 01:41:02.620
+is this thing sentient?
+
+01:41:02.620 --> 01:41:04.860
+Right, so never, absolutely never.
+
+01:41:05.020 --> 01:41:08.140
+Even with AlphaStar, wait a minute, what model?
+
+01:41:08.140 --> 01:41:11.940
+Sadly, though, I think, yeah, sadly, I have not,
+
+01:41:11.940 --> 01:41:15.300
+yeah, I think any of the current models,
+
+01:41:15.300 --> 01:41:17.540
+although very useful and very good,
+
+01:41:18.940 --> 01:41:21.180
+yeah, I think we're quite far from that.
+
+01:41:22.460 --> 01:41:25.340
+And there's kind of a converse side story.
+
+01:41:25.340 --> 01:41:30.340
+So one of my passions is about science in general.
+
+01:41:30.420 --> 01:41:34.540
+And I think I feel I'm a bit of a failed scientist.
+
+01:41:34.540 --> 01:41:36.580
+That's why I came to machine learning
+
+01:41:36.580 --> 01:41:40.180
+because you always feel and you start seeing this
+
+01:41:40.180 --> 01:41:43.220
+that machine learning is maybe the science
+
+01:41:43.220 --> 01:41:45.460
+that can help other sciences, as we've seen, right?
+
+01:41:45.460 --> 01:41:48.620
+Like you, you know, it's such a powerful tool.
+
+01:41:48.620 --> 01:41:51.180
+So thanks to that angle, right?
+
+01:41:51.180 --> 01:41:52.500
+That, okay, I love science.
+
+01:41:52.500 --> 01:41:53.900
+I love, I mean, I love astronomy.
+
+01:41:53.900 --> 01:41:56.060
+I love biology, but I'm not an expert.
+
+01:41:56.060 --> 01:41:58.620
+And I decided, well, the thing I can do better
+
+01:41:58.620 --> 01:42:00.020
+at these computers.
+
+01:42:00.020 --> 01:42:02.940
+But having, especially with,
+
+01:42:02.940 --> 01:42:05.540
+when I was a bit more involved in AlphaFold,
+
+01:42:05.540 --> 01:42:08.780
+learning a bit about proteins and about biology
+
+01:42:08.780 --> 01:42:13.780
+and about life, the complexity, it feels like,
+
+01:42:13.940 --> 01:42:16.700
+it really is like, I mean, if you start looking at
+
+01:42:16.700 --> 01:42:21.620
+the things that are going on at the atomic level,
+
+01:42:22.740 --> 01:42:25.260
+and also, I mean, there's obviously that
+
+01:42:26.420 --> 01:42:29.300
+we are maybe inclined to try to think of neural networks
+
+01:42:29.740 --> 01:42:32.340
+like the brain, but the complexities
+
+01:42:32.340 --> 01:42:35.660
+and the amount of magic that it feels when,
+
+01:42:35.660 --> 01:42:37.140
+I mean, I don't, I'm not an expert,
+
+01:42:37.140 --> 01:42:38.620
+so it naturally feels more magic.
+
+01:42:38.620 --> 01:42:40.940
+But looking at biological systems,
+
+01:42:40.940 --> 01:42:45.580
+as opposed to these computer, computational brains,
+
+01:42:46.700 --> 01:42:49.620
+just makes me like, wow, there's such level
+
+01:42:49.620 --> 01:42:51.500
+of complexity difference still, right?
+
+01:42:51.500 --> 01:42:53.860
+Like orders of magnitude complexity that,
+
+01:42:54.980 --> 01:42:56.740
+sure, these weights, I mean, we train them
+
+01:42:56.740 --> 01:42:58.100
+and they do nice things,
+
+01:42:58.100 --> 01:43:03.100
+but they're not at the level of biological entities,
+
+01:43:03.220 --> 01:43:05.220
+brains, cells.
+
+01:43:06.180 --> 01:43:09.060
+It just feels like it's just not possible
+
+01:43:09.060 --> 01:43:12.460
+to achieve the same level of complexity behavior.
+
+01:43:12.460 --> 01:43:16.380
+And my belief when I talk to other beings
+
+01:43:16.380 --> 01:43:20.420
+is certainly shaped by this amazement of biology
+
+01:43:20.420 --> 01:43:22.420
+that maybe because I know too much,
+
+01:43:22.420 --> 01:43:23.860
+I don't have about machine learning,
+
+01:43:23.860 --> 01:43:27.700
+but I certainly feel it's very far-fetched
+
+01:43:27.860 --> 01:43:29.740
+and far in the future to be calling
+
+01:43:30.900 --> 01:43:34.580
+or to be thinking, well, this mathematical function
+
+01:43:34.580 --> 01:43:39.220
+that is differentiable is in fact sentient and so on.
+
+01:43:39.220 --> 01:43:42.020
+There's something on that point, it's very interesting.
+
+01:43:42.020 --> 01:43:45.460
+So you know enough about machines
+
+01:43:45.460 --> 01:43:48.420
+and enough about biology to know that there's many orders
+
+01:43:48.420 --> 01:43:50.660
+and magnitude of difference and complexity,
+
+01:43:51.900 --> 01:43:56.100
+but you know how machine learning works.
+
+01:43:56.100 --> 01:43:58.180
+So the interesting question for human beings
+
+01:43:58.180 --> 01:43:59.460
+that are interacting with a system
+
+01:43:59.460 --> 01:44:02.260
+that don't know about the underlying complexity.
+
+01:44:02.260 --> 01:44:05.260
+And I've seen people, probably including myself,
+
+01:44:05.260 --> 01:44:07.940
+that have fallen in love with things that are quite simple.
+
+01:44:07.940 --> 01:44:08.780
+Yeah, so.
+
+01:44:08.780 --> 01:44:11.540
+And so maybe the complexity is one part of the picture,
+
+01:44:11.540 --> 01:44:14.540
+but maybe that's not a necessary condition for sentience,
+
+01:44:18.860 --> 01:44:23.860
+for perception or emulation of sentience.
+
+01:44:24.860 --> 01:44:28.020
+Right, so I mean, I guess the other side of this is,
+
+01:44:28.020 --> 01:44:29.420
+that's how I feel personally.
+
+01:44:29.420 --> 01:44:32.220
+I mean, you asked me about the person, right?
+
+01:44:32.220 --> 01:44:33.820
+Now it's very interesting to see
+
+01:44:33.820 --> 01:44:36.220
+how other humans feel about things, right?
+
+01:44:36.220 --> 01:44:40.620
+This is, we are like, again, like I'm not as amazed
+
+01:44:40.620 --> 01:44:43.260
+about things that I feel, this is not as magical
+
+01:44:43.260 --> 01:44:45.380
+as this other thing because of maybe, yeah,
+
+01:44:45.380 --> 01:44:47.860
+how I got to learn about it
+
+01:44:47.860 --> 01:44:50.300
+and how I see the curve a bit more smooth
+
+01:44:50.460 --> 01:44:53.980
+because I just seen the progress of language models
+
+01:44:53.980 --> 01:44:55.980
+since Shannon in the fifties
+
+01:44:55.980 --> 01:44:58.900
+and actually looking at that time scale,
+
+01:44:58.900 --> 01:45:00.820
+we're not that fast progress, right?
+
+01:45:00.820 --> 01:45:03.460
+I mean, what we were thinking at the time,
+
+01:45:03.460 --> 01:45:05.980
+like almost a hundred years ago,
+
+01:45:05.980 --> 01:45:08.940
+is not that dissimilar to what we're doing now.
+
+01:45:08.940 --> 01:45:11.460
+But at the same time, yeah, obviously others,
+
+01:45:11.460 --> 01:45:14.500
+my experience, right, the personal experience,
+
+01:45:14.500 --> 01:45:19.500
+I think no one should tell others how they should feel
+
+01:45:20.660 --> 01:45:22.900
+I mean, the feelings are very personal, right?
+
+01:45:22.900 --> 01:45:26.100
+So how others might feel about the models and so on,
+
+01:45:26.100 --> 01:45:28.460
+that's one part of the story that is important
+
+01:45:28.460 --> 01:45:31.980
+to understand for me personally as a researcher.
+
+01:45:31.980 --> 01:45:36.140
+And then when I maybe disagree or I don't understand
+
+01:45:36.140 --> 01:45:38.540
+or see that, yeah, maybe this is not something
+
+01:45:38.540 --> 01:45:39.940
+I think right now is reasonable,
+
+01:45:39.940 --> 01:45:42.860
+knowing all that I know, one of the other things
+
+01:45:42.860 --> 01:45:46.580
+and perhaps partly why it's great to be talking to you
+
+01:45:46.580 --> 01:45:49.820
+and reaching out to the world about machine learning is,
+
+01:45:49.860 --> 01:45:53.500
+hey, let's demystify a bit the magic
+
+01:45:53.500 --> 01:45:56.260
+and try to see a bit more of the math
+
+01:45:56.260 --> 01:45:59.940
+and the fact that literally to create these models,
+
+01:45:59.940 --> 01:46:03.620
+if we had the right software, it would be 10 lines of code
+
+01:46:03.620 --> 01:46:06.140
+and then just a dump of the internet.
+
+01:46:06.140 --> 01:46:10.340
+So versus like then the complexity of like the creation
+
+01:46:10.340 --> 01:46:13.620
+of humans from their inception, right?
+
+01:46:13.620 --> 01:46:17.700
+And also the complexity of evolution of the whole universe
+
+01:46:17.700 --> 01:46:21.140
+to where we are, that feels orders of magnitude
+
+01:46:21.140 --> 01:46:23.500
+more complex and fascinating to me.
+
+01:46:23.500 --> 01:46:26.020
+So I think, yeah, maybe part of,
+
+01:46:26.020 --> 01:46:29.300
+the only thing I'm thinking about trying to tell you is,
+
+01:46:29.300 --> 01:46:32.620
+yeah, I think explaining a bit of the magic,
+
+01:46:32.620 --> 01:46:35.260
+there is a bit of magic, it's good to be in love obviously
+
+01:46:35.260 --> 01:46:38.620
+with what you do at work and I'm certainly fascinated
+
+01:46:38.620 --> 01:46:41.260
+and surprised quite often as well.
+
+01:46:41.260 --> 01:46:45.060
+But I think hopefully as experts in biology,
+
+01:46:45.060 --> 01:46:47.180
+hopefully will tell me this is not as magic
+
+01:46:47.180 --> 01:46:50.860
+and I'm happy to learn that through interactions
+
+01:46:50.860 --> 01:46:52.300
+with the larger community,
+
+01:46:52.300 --> 01:46:56.020
+we can also have a certain level of education
+
+01:46:56.020 --> 01:46:58.340
+that in practice also will matter
+
+01:46:58.340 --> 01:47:00.820
+because I mean, one question is how you feel about this,
+
+01:47:00.820 --> 01:47:03.660
+but then the other very important is you starting
+
+01:47:03.660 --> 01:47:06.980
+to interact with these in products and so on.
+
+01:47:06.980 --> 01:47:09.140
+It's good to understand a bit what's going on,
+
+01:47:09.140 --> 01:47:12.300
+what's not going on, what's safe, what's not safe
+
+01:47:12.300 --> 01:47:13.140
+and so on, right?
+
+01:47:13.140 --> 01:47:17.060
+Otherwise the technology will not be used properly for good
+
+01:47:17.940 --> 01:47:20.540
+which is obviously the goal of all of us, I hope.
+
+01:47:20.540 --> 01:47:22.940
+So let me then ask the next question,
+
+01:47:22.940 --> 01:47:25.820
+do you think in order to solve intelligence
+
+01:47:25.820 --> 01:47:29.580
+or to replace the leg spot that does interviews
+
+01:47:29.580 --> 01:47:31.460
+as we started this conversation with,
+
+01:47:31.460 --> 01:47:34.860
+do you think the system needs to be sentient?
+
+01:47:34.860 --> 01:47:37.260
+Do you think it needs to achieve something
+
+01:47:37.260 --> 01:47:39.780
+like consciousness and do you think about
+
+01:47:39.780 --> 01:47:43.260
+what consciousness is in the human mind
+
+01:47:43.260 --> 01:47:46.780
+that could be instructive for creating AI systems?
+
+01:47:47.780 --> 01:47:52.780
+Honestly, I think probably not to the degree of intelligence
+
+01:47:53.460 --> 01:47:58.460
+that there's this brain that can learn,
+
+01:47:58.820 --> 01:48:02.940
+can be extremely useful, can challenge you, can teach you,
+
+01:48:02.940 --> 01:48:05.660
+conversely you can teach it to do things.
+
+01:48:05.660 --> 01:48:09.140
+I'm not sure it's necessary personally speaking,
+
+01:48:09.140 --> 01:48:14.060
+but if consciousness or any other biological
+
+01:48:14.060 --> 01:48:19.060
+or evolutionary lesson can be repurposed
+
+01:48:19.420 --> 01:48:22.620
+to then influence our next set of algorithms,
+
+01:48:22.620 --> 01:48:25.660
+that is a great way to actually make progress, right?
+
+01:48:25.660 --> 01:48:28.220
+And the same way I tried to explain Transformers a bit
+
+01:48:28.220 --> 01:48:33.380
+how it feels we operate when we look at text specifically,
+
+01:48:33.380 --> 01:48:36.020
+these insights are very important, right?
+
+01:48:36.020 --> 01:48:40.300
+So there's a distinction between details
+
+01:48:40.300 --> 01:48:43.260
+of how the brain might be doing computation.
+
+01:48:43.260 --> 01:48:46.580
+I think my understanding is, sure, there's neurons
+
+01:48:46.580 --> 01:48:48.540
+and there's some resemblance to neural networks,
+
+01:48:48.540 --> 01:48:52.580
+but we don't quite understand enough of the brain in detail
+
+01:48:52.580 --> 01:48:55.340
+to be able to replicate it.
+
+01:48:55.340 --> 01:48:58.860
+But then more, if you zoom out a bit,
+
+01:48:58.860 --> 01:49:03.420
+how we then, our thought process, how memory works,
+
+01:49:03.420 --> 01:49:05.620
+maybe even how evolution got us here,
+
+01:49:05.620 --> 01:49:07.340
+what's exploration, exploitation,
+
+01:49:07.340 --> 01:49:08.780
+like how these things happen.
+
+01:49:08.780 --> 01:49:13.100
+I think these clearly can inform algorithmic level research
+
+01:49:14.060 --> 01:49:18.460
+and I've seen some examples of this being quite useful
+
+01:49:18.460 --> 01:49:19.780
+to then guide the research,
+
+01:49:19.780 --> 01:49:21.700
+even it might be for the wrong reasons, right?
+
+01:49:21.700 --> 01:49:26.140
+So I think biology and what we know about ourselves
+
+01:49:26.140 --> 01:49:30.060
+can help a whole lot to build essentially
+
+01:49:30.060 --> 01:49:34.140
+what we call AGI, this general, the real gato, right?
+
+01:49:34.140 --> 01:49:36.580
+The last step of the chain, hopefully.
+
+01:49:36.580 --> 01:49:39.220
+But consciousness in particular,
+
+01:49:39.220 --> 01:49:42.100
+I don't myself at least think too hard
+
+01:49:42.100 --> 01:49:44.820
+about how to add that to the system.
+
+01:49:44.820 --> 01:49:47.900
+But maybe my understanding is also very personal
+
+01:49:47.900 --> 01:49:48.900
+about what it means, right?
+
+01:49:48.900 --> 01:49:51.780
+I think even that in itself is a long debate
+
+01:49:51.780 --> 01:49:55.340
+that I know people have often
+
+01:49:55.340 --> 01:49:57.820
+and maybe I should learn more about this.
+
+01:49:57.820 --> 01:49:59.820
+Yeah, and I personally,
+
+01:49:59.820 --> 01:50:02.780
+I notice the magic often on a personal level,
+
+01:50:02.780 --> 01:50:06.180
+especially with physical systems like robots.
+
+01:50:06.180 --> 01:50:10.500
+I have a lot of legged robots now in Austin
+
+01:50:10.500 --> 01:50:13.260
+that I play with and even when you program them,
+
+01:50:13.260 --> 01:50:15.580
+when they do things you didn't expect,
+
+01:50:15.580 --> 01:50:18.620
+there's an immediate anthropomorphization
+
+01:50:18.620 --> 01:50:19.820
+and you notice the magic
+
+01:50:19.820 --> 01:50:22.620
+and you start to think about things like sentience
+
+01:50:22.620 --> 01:50:26.020
+that has to do more with effective communication
+
+01:50:26.020 --> 01:50:28.580
+and less with any of these kind of dramatic things.
+
+01:50:28.580 --> 01:50:32.580
+It seems like a useful part of communication.
+
+01:50:32.580 --> 01:50:36.580
+Having the perception of consciousness
+
+01:50:36.580 --> 01:50:38.300
+seems like useful for us humans.
+
+01:50:38.540 --> 01:50:40.860
+We treat each other more seriously.
+
+01:50:40.860 --> 01:50:44.460
+We are able to do a nearest neighbor
+
+01:50:44.460 --> 01:50:47.700
+shoving of that entity into your memory correctly,
+
+01:50:47.700 --> 01:50:48.700
+all that kind of stuff.
+
+01:50:48.700 --> 01:50:50.860
+Seems useful, at least to fake it,
+
+01:50:50.860 --> 01:50:52.500
+even if you never make it.
+
+01:50:52.500 --> 01:50:55.660
+So maybe like, yeah, mirroring the question
+
+01:50:55.660 --> 01:50:57.500
+and since you talked to a few people,
+
+01:50:57.500 --> 01:51:01.780
+then you do think that we'll need to figure something out
+
+01:51:01.780 --> 01:51:04.580
+in order to achieve intelligence
+
+01:51:04.580 --> 01:51:06.540
+in a grander sense of the word.
+
+01:51:06.540 --> 01:51:08.220
+Yeah, I personally believe yes,
+
+01:51:09.100 --> 01:51:12.620
+but I don't even think it'll be like a separate island
+
+01:51:12.620 --> 01:51:14.140
+we'll have to travel to.
+
+01:51:14.140 --> 01:51:16.460
+I think it will emerge quite naturally.
+
+01:51:16.460 --> 01:51:20.140
+Okay, that's easier for us then, thank you.
+
+01:51:20.140 --> 01:51:22.820
+But the reason I think it's important to think about
+
+01:51:22.820 --> 01:51:25.180
+is you will start, I believe,
+
+01:51:25.180 --> 01:51:26.340
+like with this Google engineer,
+
+01:51:26.340 --> 01:51:28.780
+you will start seeing this a lot more,
+
+01:51:28.780 --> 01:51:30.540
+especially when you have AI systems
+
+01:51:30.540 --> 01:51:32.980
+that are actually interacting with human beings
+
+01:51:32.980 --> 01:51:35.180
+that don't have an engineering background
+
+01:51:35.180 --> 01:51:37.860
+and we have to prepare for that.
+
+01:51:39.180 --> 01:51:41.620
+I do believe there will be a civil rights movement
+
+01:51:41.620 --> 01:51:44.620
+for robots, as silly as it is to say.
+
+01:51:44.620 --> 01:51:46.820
+There's going to be a large number of people
+
+01:51:46.820 --> 01:51:49.020
+that realize there's these intelligent entities
+
+01:51:49.020 --> 01:51:51.660
+with whom I have a deep relationship
+
+01:51:51.660 --> 01:51:53.260
+and I don't wanna lose them.
+
+01:51:53.260 --> 01:51:56.020
+They've come to be a part of my life and they mean a lot.
+
+01:51:56.020 --> 01:51:59.100
+They have a name, they have a story, they have a memory,
+
+01:51:59.100 --> 01:52:01.380
+and we start to ask questions about ourselves.
+
+01:52:01.380 --> 01:52:06.380
+Well, this thing sure seems like it's capable of suffering
+
+01:52:07.340 --> 01:52:09.620
+because it tells all these stories of suffering.
+
+01:52:09.620 --> 01:52:11.460
+It doesn't wanna die and all those kinds of things
+
+01:52:11.460 --> 01:52:14.220
+and we have to start to ask ourselves questions.
+
+01:52:14.220 --> 01:52:15.980
+Well, what is the difference between a human being
+
+01:52:15.980 --> 01:52:16.820
+and this thing?
+
+01:52:16.820 --> 01:52:18.380
+And so when you engineer,
+
+01:52:18.380 --> 01:52:21.300
+I believe from an engineering perspective,
+
+01:52:21.300 --> 01:52:24.780
+from like a deep mind or anybody that builds systems,
+
+01:52:24.780 --> 01:52:26.260
+there might be laws in the future
+
+01:52:26.260 --> 01:52:28.940
+where you're not allowed to engineer systems
+
+01:52:28.940 --> 01:52:30.980
+with displays of sentience
+
+01:52:32.260 --> 01:52:35.820
+unless they're explicitly designed to be that,
+
+01:52:36.020 --> 01:52:37.380
+unless it's a pet.
+
+01:52:37.380 --> 01:52:41.260
+So if you have a system that's just doing customer support,
+
+01:52:41.260 --> 01:52:44.180
+you're legally not allowed to display sentience.
+
+01:52:44.180 --> 01:52:47.300
+We'll start to ask ourselves that question
+
+01:52:47.300 --> 01:52:49.500
+and then so that that's going to be part
+
+01:52:49.500 --> 01:52:51.100
+of the software engineering process.
+
+01:52:51.100 --> 01:52:54.020
+Which features do we have in one of them
+
+01:52:54.020 --> 01:52:56.820
+as communications of sentience?
+
+01:52:56.820 --> 01:52:58.700
+But it's important to start thinking about that stuff,
+
+01:52:58.700 --> 01:53:01.740
+especially how much it captivates public attention.
+
+01:53:01.740 --> 01:53:03.180
+Yeah, absolutely.
+
+01:53:03.180 --> 01:53:07.900
+It's definitely a topic that is important we think about.
+
+01:53:07.900 --> 01:53:10.820
+And I think in a way, I always see not,
+
+01:53:10.820 --> 01:53:15.260
+I mean, not every movie is equally on point
+
+01:53:15.260 --> 01:53:16.100
+with certain things,
+
+01:53:16.100 --> 01:53:19.100
+but certainly science fiction in this sense
+
+01:53:19.100 --> 01:53:20.740
+at least has prepared society
+
+01:53:20.740 --> 01:53:24.060
+to start thinking about certain topics
+
+01:53:24.060 --> 01:53:26.460
+that even if it's too early to talk about,
+
+01:53:26.460 --> 01:53:29.460
+as long as we are like reasonable,
+
+01:53:29.460 --> 01:53:31.300
+it's certainly gonna prepare us
+
+01:53:31.300 --> 01:53:34.940
+for both the research to come and how to,
+
+01:53:34.940 --> 01:53:38.100
+I mean, there's many important challenges and topics
+
+01:53:38.100 --> 01:53:42.820
+that come with building an intelligent system,
+
+01:53:42.820 --> 01:53:44.620
+many of which you just mentioned, right?
+
+01:53:44.620 --> 01:53:49.620
+So I think we're never gonna be fully ready
+
+01:53:49.900 --> 01:53:54.100
+unless we talk about these and we start also, as I said,
+
+01:53:54.100 --> 01:53:59.100
+just kind of expanding the people we talk to
+
+01:53:59.700 --> 01:54:03.180
+to not include only our own researchers and so on.
+
+01:54:03.180 --> 01:54:06.540
+And in fact, places like DeepMind, but elsewhere,
+
+01:54:06.540 --> 01:54:10.380
+there's more interdisciplinary groups forming up
+
+01:54:10.380 --> 01:54:13.260
+to start asking and really working with us
+
+01:54:13.260 --> 01:54:14.980
+on these questions,
+
+01:54:14.980 --> 01:54:17.420
+because obviously this is not initially
+
+01:54:17.420 --> 01:54:19.380
+what your passion is when you do your PhD,
+
+01:54:19.380 --> 01:54:21.460
+but certainly it is coming, right?
+
+01:54:21.460 --> 01:54:23.500
+So it's fascinating kind of,
+
+01:54:23.500 --> 01:54:27.180
+it's the thing that brings me to one of my passions
+
+01:54:27.180 --> 01:54:28.020
+that is learning.
+
+01:54:28.020 --> 01:54:31.820
+So in this sense, this is kind of a new area
+
+01:54:31.820 --> 01:54:36.780
+that as a learning system myself, I want to keep exploring.
+
+01:54:36.780 --> 01:54:41.140
+And I think it's great to see parts of the debate
+
+01:54:41.140 --> 01:54:44.820
+and even I seen a level of maturity in the conferences
+
+01:54:44.820 --> 01:54:48.140
+that deal with AI, if you look five years ago,
+
+01:54:49.220 --> 01:54:52.180
+to now just the amount of workshops and so on
+
+01:54:52.180 --> 01:54:53.540
+has changed so much.
+
+01:54:53.540 --> 01:54:58.220
+It's impressive to see how much topics of safety,
+
+01:54:58.220 --> 01:55:01.700
+ethics and so on come to the surface, which is great.
+
+01:55:01.700 --> 01:55:03.900
+And if we were too early, clearly it's fine.
+
+01:55:03.900 --> 01:55:07.340
+I mean, it's a big field and there's lots of people
+
+01:55:07.340 --> 01:55:10.340
+with lots of interests that will do progress
+
+01:55:10.340 --> 01:55:11.980
+or make progress.
+
+01:55:11.980 --> 01:55:14.140
+And obviously I don't believe we're too late.
+
+01:55:14.140 --> 01:55:16.500
+So in that sense, I think it's great
+
+01:55:16.500 --> 01:55:18.220
+that we're doing this already.
+
+01:55:18.220 --> 01:55:20.260
+It's better to be too early than too late
+
+01:55:20.260 --> 01:55:22.820
+when it comes to super intelligent AI systems.
+
+01:55:22.820 --> 01:55:25.540
+Let me ask, speaking of sentient AIs,
+
+01:55:25.540 --> 01:55:28.740
+you gave props to your friend, Ilya Tsitskever
+
+01:55:28.740 --> 01:55:32.020
+for being elected the Fellow of the World Society.
+
+01:55:32.020 --> 01:55:35.180
+So just as a shout out to a fellow researcher and a friend,
+
+01:55:35.180 --> 01:55:39.460
+what's the secret to the genius of Ilya Tsitskever?
+
+01:55:39.460 --> 01:55:42.700
+And also, do you believe that his tweets
+
+01:55:42.700 --> 01:55:46.060
+as you have hypothesized and Andrej Kapati did as well
+
+01:55:46.060 --> 01:55:48.700
+are generated by a language model?
+
+01:55:49.380 --> 01:55:53.740
+So I strongly believe Ilya is gonna visit
+
+01:55:53.740 --> 01:55:54.660
+in a few weeks, actually.
+
+01:55:54.660 --> 01:55:58.060
+So I'll ask him in person, but-
+
+01:55:58.060 --> 01:55:59.180
+Will he tell you the truth?
+
+01:55:59.180 --> 01:56:00.300
+Yes, of course.
+
+01:56:00.300 --> 01:56:04.060
+Hopefully, I mean, ultimately we all have shared paths
+
+01:56:04.060 --> 01:56:06.940
+and there's friendships that go beyond,
+
+01:56:06.940 --> 01:56:09.860
+obviously institutions and so on.
+
+01:56:09.860 --> 01:56:11.820
+So hope he tells me the truth.
+
+01:56:11.820 --> 01:56:14.420
+Maybe the AI system is holding him hostage somehow.
+
+01:56:14.420 --> 01:56:16.980
+Maybe he has some videos about, he doesn't want to release.
+
+01:56:16.980 --> 01:56:19.780
+So maybe it has taken control over him.
+
+01:56:19.780 --> 01:56:21.020
+So he can't tell the truth.
+
+01:56:21.020 --> 01:56:22.700
+If I see him in person, then I'll-
+
+01:56:22.700 --> 01:56:23.540
+He will know.
+
+01:56:23.540 --> 01:56:27.660
+Yeah, but I think it's a good,
+
+01:56:27.660 --> 01:56:31.020
+I think Ilya's personality, just knowing him for a while,
+
+01:56:32.420 --> 01:56:35.340
+yeah, he's, everyone in Twitter, I guess,
+
+01:56:35.340 --> 01:56:38.460
+gets a different persona and I think Ilya's one
+
+01:56:39.660 --> 01:56:40.940
+does not surprise me, right?
+
+01:56:40.940 --> 01:56:43.620
+So I think knowing Ilya from before social media
+
+01:56:43.620 --> 01:56:45.820
+and before AI was so prevalent,
+
+01:56:45.820 --> 01:56:47.540
+I recognize a lot of his character.
+
+01:56:47.540 --> 01:56:51.500
+So that's something for me that I feel good about a friend
+
+01:56:51.500 --> 01:56:56.020
+that hasn't changed or like is still true to himself, right?
+
+01:56:56.020 --> 01:56:58.980
+Obviously, there is though a fact
+
+01:56:58.980 --> 01:57:02.180
+that your field becomes more popular
+
+01:57:02.180 --> 01:57:05.500
+and he's obviously one of the main figures in the field,
+
+01:57:05.500 --> 01:57:06.980
+having done a lot of advancement.
+
+01:57:06.980 --> 01:57:10.420
+So I think that the tricky bit here is how to balance
+
+01:57:10.420 --> 01:57:12.220
+your true self with the responsibility
+
+01:57:12.220 --> 01:57:13.620
+that your words carry.
+
+01:57:13.620 --> 01:57:16.180
+So in this sense, I think, yeah,
+
+01:57:16.180 --> 01:57:19.380
+like I appreciate the style and I understand it,
+
+01:57:19.380 --> 01:57:24.180
+but it created debates on like some of his tweets, right?
+
+01:57:24.180 --> 01:57:26.860
+That maybe it's good we have them early anyways, right?
+
+01:57:26.860 --> 01:57:31.060
+But yeah, then the reactions are usually polarizing.
+
+01:57:31.060 --> 01:57:33.060
+I think we're just seeing kind of the reality
+
+01:57:33.060 --> 01:57:34.980
+of social media a bit there as well,
+
+01:57:34.980 --> 01:57:38.140
+reflected on that particular topic
+
+01:57:38.140 --> 01:57:40.300
+or set of topics he's tweeting about.
+
+01:57:40.300 --> 01:57:42.300
+Yeah, I mean, it's funny that he used to speak
+
+01:57:42.300 --> 01:57:43.140
+to this tension.
+
+01:57:43.140 --> 01:57:46.180
+He was one of the early seminal figures
+
+01:57:46.180 --> 01:57:47.380
+in the field of deep learning.
+
+01:57:47.380 --> 01:57:48.980
+And so there's a responsibility with that,
+
+01:57:48.980 --> 01:57:53.180
+but he's also from having interacted with him quite a bit,
+
+01:57:53.180 --> 01:57:57.460
+he's just a brilliant thinker about ideas
+
+01:57:57.460 --> 01:58:01.260
+and which as are you,
+
+01:58:01.260 --> 01:58:03.780
+and that there's a tension between becoming the manager
+
+01:58:03.780 --> 01:58:08.780
+versus like the actual thinking through very novel ideas.
+
+01:58:09.500 --> 01:58:13.540
+The, yeah, the scientist versus the manager.
+
+01:58:13.540 --> 01:58:17.660
+And he's one of the great scientists of our time.
+
+01:58:17.660 --> 01:58:18.780
+This was quite interesting.
+
+01:58:18.780 --> 01:58:20.780
+And also people tell me quite silly,
+
+01:58:20.780 --> 01:58:23.180
+which I haven't quite detected yet,
+
+01:58:23.180 --> 01:58:25.980
+but in private, we'll have to see about that.
+
+01:58:25.980 --> 01:58:27.180
+Yeah.
+
+01:58:27.180 --> 01:58:29.620
+Yeah, I mean, just on the point of,
+
+01:58:29.620 --> 01:58:33.300
+I mean, Ilya has been an inspiration.
+
+01:58:33.300 --> 01:58:36.380
+I mean, quite a few colleagues I can think shaped,
+
+01:58:36.380 --> 01:58:38.020
+you know, the person you are,
+
+01:58:38.020 --> 01:58:42.260
+like Ilya certainly gets probably the top spot,
+
+01:58:42.260 --> 01:58:43.740
+if not close to the top.
+
+01:58:43.740 --> 01:58:47.940
+And if we go back to the question about people in the field,
+
+01:58:47.940 --> 01:58:51.700
+like how the role would have changed the field or not,
+
+01:58:51.700 --> 01:58:53.940
+I think Ilya's case is interesting
+
+01:58:53.940 --> 01:58:56.780
+because he really has a deep belief
+
+01:58:56.780 --> 01:58:59.580
+in the scaling up of neural networks.
+
+01:58:59.580 --> 01:59:03.660
+There was a talk that is still famous to this day
+
+01:59:03.660 --> 01:59:06.140
+from the sequence to sequence paper,
+
+01:59:06.140 --> 01:59:08.380
+where he was just claiming,
+
+01:59:08.380 --> 01:59:11.740
+just give me supervised data and a large neural network,
+
+01:59:11.740 --> 01:59:12.580
+and then, you know,
+
+01:59:12.580 --> 01:59:14.660
+you'll solve basically all the problems, right?
+
+01:59:14.660 --> 01:59:19.660
+That vision, right, was already there many years ago.
+
+01:59:19.780 --> 01:59:22.860
+So it's good to see like someone who is, in this case,
+
+01:59:22.860 --> 01:59:27.180
+very deeply into this style of research
+
+01:59:27.180 --> 01:59:32.180
+and clearly has had a tremendous track record of successes
+
+01:59:32.780 --> 01:59:34.140
+and so on.
+
+01:59:34.180 --> 01:59:35.540
+The funny bit about that talk
+
+01:59:35.540 --> 01:59:39.060
+is that we rehearsed the talk in a hotel room before
+
+01:59:39.060 --> 01:59:42.020
+and the original version of that talk
+
+01:59:42.020 --> 01:59:44.020
+would have been even more controversial.
+
+01:59:44.020 --> 01:59:46.580
+So maybe I'm the only person
+
+01:59:46.580 --> 01:59:49.220
+that has seen the unfiltered version of the talk.
+
+01:59:49.220 --> 01:59:51.660
+And, you know, maybe when the time comes,
+
+01:59:51.660 --> 01:59:55.140
+maybe we should revisit some of the skip slides
+
+01:59:55.140 --> 01:59:57.620
+from the talk from Ilya.
+
+01:59:57.620 --> 02:00:01.060
+But I really think the deep belief
+
+02:00:01.060 --> 02:00:03.940
+into some certain style of research pays out, right,
+
+02:00:04.740 --> 02:00:06.420
+is good to be practical sometimes.
+
+02:00:06.420 --> 02:00:09.420
+And I actually think Ilya and myself are like practical,
+
+02:00:09.420 --> 02:00:10.500
+but it's also good.
+
+02:00:10.500 --> 02:00:14.900
+There's some sort of long-term belief and trajectory.
+
+02:00:14.900 --> 02:00:16.780
+Obviously, there's a bit of lack involved,
+
+02:00:16.780 --> 02:00:18.860
+but it might be that that's the right path.
+
+02:00:18.860 --> 02:00:20.060
+Then you clearly are ahead
+
+02:00:20.060 --> 02:00:23.620
+and hugely influential to the field, as he has been.
+
+02:00:23.620 --> 02:00:25.180
+Do you agree with that intuition
+
+02:00:25.180 --> 02:00:29.700
+that maybe was written about by Rich Sutton
+
+02:00:29.700 --> 02:00:33.620
+in The Bitter Lesson,
+
+02:00:33.620 --> 02:00:35.340
+that the biggest lesson that can be read
+
+02:00:35.340 --> 02:00:38.700
+from 70 years of AI research is that general methods
+
+02:00:38.700 --> 02:00:42.020
+that leverage computation are ultimately the most effective?
+
+02:00:42.860 --> 02:00:47.860
+Do you think that intuition is ultimately correct?
+
+02:00:48.620 --> 02:00:52.300
+General methods that leverage computation,
+
+02:00:52.300 --> 02:00:56.220
+allowing the scaling of computation to do a lot of the work.
+
+02:00:56.220 --> 02:00:59.660
+And so the basic task of us humans
+
+02:01:00.620 --> 02:01:02.700
+is to design methods that are more and more general
+
+02:01:02.700 --> 02:01:07.180
+versus more and more specific to the tasks at hand?
+
+02:01:07.180 --> 02:01:10.380
+I certainly think this essentially mimics
+
+02:01:10.380 --> 02:01:13.620
+a bit of the deep learning research,
+
+02:01:14.740 --> 02:01:17.020
+almost like philosophy,
+
+02:01:17.020 --> 02:01:20.500
+that on the one hand, we want to be data agnostic.
+
+02:01:20.500 --> 02:01:22.140
+We don't wanna pre-process datasets.
+
+02:01:22.140 --> 02:01:23.460
+We wanna see the bytes, right,
+
+02:01:23.460 --> 02:01:25.580
+like the true data as it is,
+
+02:01:25.580 --> 02:01:27.380
+and then learn everything on top.
+
+02:01:27.380 --> 02:01:29.820
+So very much agree with that.
+
+02:01:29.820 --> 02:01:32.900
+And I think scaling up feels at the very least,
+
+02:01:32.900 --> 02:01:37.900
+again, necessary for building incredible complex systems.
+
+02:01:39.060 --> 02:01:42.180
+It's possibly not sufficient,
+
+02:01:42.180 --> 02:01:45.100
+barring that we need a couple of breakthroughs.
+
+02:01:45.100 --> 02:01:47.980
+I think Rich Sutton mentioned search
+
+02:01:47.980 --> 02:01:52.300
+being part of the equation of scale and search.
+
+02:01:52.300 --> 02:01:55.460
+I think search, I've seen it,
+
+02:01:55.460 --> 02:01:57.340
+that's been more mixed in my experience
+
+02:01:58.300 --> 02:02:00.420
+and so from that lesson in particular,
+
+02:02:00.420 --> 02:02:02.180
+search is a bit more tricky
+
+02:02:02.180 --> 02:02:06.420
+because it is very appealing to search in domains like Go,
+
+02:02:06.420 --> 02:02:08.580
+where you have a clear reward function
+
+02:02:08.580 --> 02:02:11.620
+that you can then discard some search traces.
+
+02:02:11.620 --> 02:02:14.020
+But then in some other tasks,
+
+02:02:14.020 --> 02:02:16.340
+it's not very clear how you would do that.
+
+02:02:16.340 --> 02:02:19.780
+Although recently, one of our recent works,
+
+02:02:19.780 --> 02:02:23.180
+which actually was mostly mimicking or a continuation,
+
+02:02:23.180 --> 02:02:24.780
+and even the team and the people involved
+
+02:02:25.140 --> 02:02:28.460
+very intersecting with AlphaStar was Alpha Code,
+
+02:02:28.460 --> 02:02:30.940
+in which we actually saw the bitter lesson
+
+02:02:30.940 --> 02:02:34.220
+how scale of the models and then a massive amount of search
+
+02:02:34.220 --> 02:02:36.740
+yielded this kind of very interesting result
+
+02:02:36.740 --> 02:02:41.340
+of being able to have human level code competition.
+
+02:02:41.340 --> 02:02:43.660
+So I've seen examples of it being
+
+02:02:43.660 --> 02:02:46.380
+literally mapped to search and scale.
+
+02:02:46.380 --> 02:02:48.100
+I'm not so convinced about the search beat,
+
+02:02:48.100 --> 02:02:50.900
+but certainly I'm convinced scale will be needed.
+
+02:02:50.900 --> 02:02:52.620
+So we need general methods.
+
+02:02:52.620 --> 02:02:54.620
+We need to test them and maybe we need to make sure
+
+02:02:54.620 --> 02:02:57.060
+that we can scale them given the hardware
+
+02:02:57.060 --> 02:02:59.060
+that we have in practice,
+
+02:02:59.060 --> 02:03:00.940
+but then maybe we should also shape
+
+02:03:00.940 --> 02:03:02.860
+how the hardware looks like
+
+02:03:02.860 --> 02:03:05.580
+based on which methods might be needed to scale.
+
+02:03:05.580 --> 02:03:10.580
+And that's an interesting contrast of this GPU comments
+
+02:03:11.580 --> 02:03:13.340
+that is we got it for free almost
+
+02:03:13.340 --> 02:03:15.020
+because games were using this,
+
+02:03:15.020 --> 02:03:19.460
+but maybe now if sparsity is required,
+
+02:03:19.460 --> 02:03:21.860
+we don't have the hardware, although in theory,
+
+02:03:21.860 --> 02:03:23.140
+I mean, many people are building
+
+02:03:23.140 --> 02:03:24.620
+different kinds of hardware these days,
+
+02:03:24.620 --> 02:03:27.740
+but there's a bit of this notion of hardware lottery
+
+02:03:27.740 --> 02:03:31.220
+for scale that might actually have an impact
+
+02:03:31.220 --> 02:03:33.380
+at least on the year, again, scale of years
+
+02:03:33.380 --> 02:03:36.900
+on how fast we'll make progress to maybe a version
+
+02:03:36.900 --> 02:03:39.420
+of neural nets or whatever comes next
+
+02:03:39.420 --> 02:03:44.340
+that might enable truly intelligent agents.
+
+02:03:44.340 --> 02:03:46.100
+Do you think in your lifetime,
+
+02:03:46.100 --> 02:03:49.500
+we will build an AGI system
+
+02:03:49.580 --> 02:03:54.100
+that would undeniably be a thing
+
+02:03:54.100 --> 02:03:57.540
+that achieves human level intelligence and goes far beyond?
+
+02:03:58.580 --> 02:04:01.180
+I definitely think it's possible
+
+02:04:02.420 --> 02:04:03.740
+that it will go far beyond,
+
+02:04:03.740 --> 02:04:04.940
+but I'm definitely convinced
+
+02:04:04.940 --> 02:04:08.540
+that it will be human level intelligence.
+
+02:04:08.540 --> 02:04:11.020
+And I'm hypothesizing about the beyond
+
+02:04:11.020 --> 02:04:16.020
+because the beyond bit is a bit tricky to define,
+
+02:04:16.580 --> 02:04:20.020
+especially when we look at the current formula
+
+02:04:20.020 --> 02:04:23.740
+of starting from this imitation learning standpoint, right?
+
+02:04:23.740 --> 02:04:28.740
+So we can certainly imitate humans at language and beyond.
+
+02:04:30.740 --> 02:04:33.420
+So getting at human level through imitation
+
+02:04:33.420 --> 02:04:34.940
+feels very possible.
+
+02:04:34.940 --> 02:04:39.100
+Going beyond will require reinforcement learning
+
+02:04:39.100 --> 02:04:39.940
+and other things.
+
+02:04:39.940 --> 02:04:43.580
+And I think in some areas that certainly already has paid out.
+
+02:04:43.820 --> 02:04:47.340
+Go being an example that's my favorite so far
+
+02:04:47.340 --> 02:04:50.460
+in terms of going beyond human capabilities.
+
+02:04:50.460 --> 02:04:55.460
+But in general, I'm not sure we can define reward functions
+
+02:04:55.660 --> 02:05:00.060
+that from a seat of imitating human level intelligence
+
+02:05:00.060 --> 02:05:02.940
+that is general and then going beyond.
+
+02:05:02.940 --> 02:05:05.260
+That bit is not so clear in my lifetime,
+
+02:05:05.260 --> 02:05:08.220
+but certainly human level, yes.
+
+02:05:08.220 --> 02:05:11.380
+And that in itself is already quite powerful, I think.
+
+02:05:11.380 --> 02:05:14.540
+So going beyond, I think it's obviously not,
+
+02:05:14.540 --> 02:05:16.180
+we're not gonna not try that
+
+02:05:16.180 --> 02:05:20.740
+if then we get to superhuman scientists and discovery
+
+02:05:20.740 --> 02:05:22.180
+and advancing the world,
+
+02:05:22.180 --> 02:05:25.580
+but at least human level is also in general,
+
+02:05:25.580 --> 02:05:27.580
+is also very, very powerful.
+
+02:05:27.580 --> 02:05:31.540
+Well, especially if human level or slightly beyond
+
+02:05:31.540 --> 02:05:33.780
+is integrated deeply with human society
+
+02:05:33.780 --> 02:05:36.500
+and there's billions of agents like that,
+
+02:05:36.500 --> 02:05:38.460
+do you think there's a singularity moment
+
+02:05:38.500 --> 02:05:43.500
+beyond which our world will be just very deeply transformed
+
+02:05:44.220 --> 02:05:45.700
+by these kinds of systems?
+
+02:05:45.700 --> 02:05:47.860
+Because now you're talking about intelligence systems
+
+02:05:47.860 --> 02:05:51.700
+that are just, I mean, this is no longer
+
+02:05:51.700 --> 02:05:56.540
+just going from horse and buggy to the car.
+
+02:05:56.540 --> 02:05:59.860
+It feels like a very different kind of shift
+
+02:05:59.860 --> 02:06:03.380
+in what it means to be a living entity on earth.
+
+02:06:03.380 --> 02:06:06.380
+Are you afraid, are you excited of this world?
+
+02:06:06.580 --> 02:06:09.380
+I'm afraid if there's a lot more.
+
+02:06:09.380 --> 02:06:13.060
+So I think maybe we'll need to think about
+
+02:06:13.060 --> 02:06:18.060
+if we truly get there, just thinking of limited resources
+
+02:06:18.380 --> 02:06:21.460
+like humanity clearly hit some limits
+
+02:06:21.460 --> 02:06:23.460
+and then there's some balance hopefully
+
+02:06:23.460 --> 02:06:26.300
+that biologically the planet is imposing
+
+02:06:26.300 --> 02:06:28.580
+and we should actually try to get better at this.
+
+02:06:28.580 --> 02:06:31.580
+As we know, there's quite a few issues
+
+02:06:31.580 --> 02:06:35.820
+with having too many people coexisting
+
+02:06:35.820 --> 02:06:37.620
+in a resource limited way.
+
+02:06:37.620 --> 02:06:40.340
+So for digital entities is an interesting question.
+
+02:06:40.340 --> 02:06:43.580
+I think such a limit maybe should exist,
+
+02:06:43.580 --> 02:06:47.660
+but maybe it's gonna be imposed by energy availability
+
+02:06:47.660 --> 02:06:49.780
+because this also consumes energy.
+
+02:06:49.780 --> 02:06:53.580
+In fact, most systems are more inefficient
+
+02:06:53.580 --> 02:06:56.740
+than we are in terms of energy required.
+
+02:06:56.740 --> 02:06:59.500
+But definitely I think as a society,
+
+02:06:59.540 --> 02:07:02.300
+we'll need to just work together
+
+02:07:02.300 --> 02:07:06.420
+to find what would be reasonable in terms of growth
+
+02:07:06.420 --> 02:07:11.460
+or how we coexist if that is to happen.
+
+02:07:11.460 --> 02:07:16.060
+I am very excited about obviously the aspects of automation
+
+02:07:16.060 --> 02:07:19.100
+that make people that obviously don't have access
+
+02:07:19.100 --> 02:07:20.940
+to certain resources or knowledge
+
+02:07:22.140 --> 02:07:23.980
+for them to have that access.
+
+02:07:23.980 --> 02:07:26.340
+I think those are the applications in a way
+
+02:07:26.340 --> 02:07:31.020
+that I'm most exciting to see and to personally work towards.
+
+02:07:31.020 --> 02:07:32.740
+Yeah, there's going to be significant improvements
+
+02:07:32.740 --> 02:07:34.420
+in productivity and the quality of life
+
+02:07:34.420 --> 02:07:37.060
+across the whole population, which is very interesting.
+
+02:07:37.060 --> 02:07:39.260
+But I'm looking even far beyond
+
+02:07:39.260 --> 02:07:42.740
+us becoming a multi-planetary species.
+
+02:07:42.740 --> 02:07:45.420
+And just as a quick bet, last question,
+
+02:07:45.420 --> 02:07:49.260
+do you think as humans become multi-planetary species
+
+02:07:49.260 --> 02:07:52.540
+go outside our solar system, all that kind of stuff,
+
+02:07:52.540 --> 02:07:54.500
+do you think there'll be more humans
+
+02:07:54.500 --> 02:07:57.220
+or more robots in that future world?
+
+02:07:57.220 --> 02:08:04.460
+So will humans be the quirky intelligent being of the past
+
+02:08:04.460 --> 02:08:08.060
+or is there something deeply fundamental to human intelligence
+
+02:08:08.060 --> 02:08:12.140
+that's truly special where we will be part of those other planets,
+
+02:08:12.140 --> 02:08:13.940
+not just AI systems?
+
+02:08:13.940 --> 02:08:21.700
+I think we're all excited to build AGI to empower
+
+02:08:21.740 --> 02:08:25.140
+or make us more powerful as human species,
+
+02:08:25.140 --> 02:08:27.580
+not to say there might be some hybridization.
+
+02:08:27.580 --> 02:08:29.700
+I mean, this is obviously speculation,
+
+02:08:29.700 --> 02:08:32.540
+but there are companies also trying to,
+
+02:08:32.540 --> 02:08:35.660
+the same way medicine is making us better.
+
+02:08:35.660 --> 02:08:39.140
+Maybe there are other things that are yet to happen on that.
+
+02:08:39.140 --> 02:08:44.580
+But if the ratio is not at most one-to-one, I would not be happy.
+
+02:08:44.580 --> 02:08:48.340
+So I would hope that we are part of the equation,
+
+02:08:49.220 --> 02:08:55.060
+but maybe there's maybe a one-to-one ratio feels like possible,
+
+02:08:55.060 --> 02:08:56.260
+constructive and so on.
+
+02:08:56.260 --> 02:08:59.660
+But it would not be good to have a misbalance,
+
+02:08:59.660 --> 02:09:04.260
+at least from my core beliefs and the why I'm doing what I'm doing
+
+02:09:04.260 --> 02:09:07.140
+when I go to work and I research what I research.
+
+02:09:07.140 --> 02:09:09.540
+Well, this is how I know you're human,
+
+02:09:09.540 --> 02:09:12.740
+and this is how you've passed the Turing test.
+
+02:09:12.740 --> 02:09:14.980
+And you are one of the special humans, Oriol.
+
+02:09:14.980 --> 02:09:17.100
+It's a huge honor that you would talk with me,
+
+02:09:17.100 --> 02:09:19.940
+and I hope we get the chance to speak again,
+
+02:09:19.940 --> 02:09:23.060
+maybe once before the singularity, once after,
+
+02:09:23.060 --> 02:09:25.460
+and see how our view of the world changes.
+
+02:09:25.460 --> 02:09:26.580
+Thank you again for talking today.
+
+02:09:26.580 --> 02:09:28.180
+Thank you for the amazing work you do.
+
+02:09:28.180 --> 02:09:31.300
+You're a shining example of a research
+
+02:09:31.300 --> 02:09:32.980
+and a human being in this community.
+
+02:09:32.980 --> 02:09:34.300
+Thanks a lot, Lex.
+
+02:09:34.300 --> 02:09:37.820
+Looking forward to before the singularity, certainly.
+
+02:09:37.820 --> 02:09:39.940
+And maybe after.
+
+02:09:39.940 --> 02:09:41.500
+Thanks for listening to this conversation
+
+02:09:41.500 --> 02:09:43.180
+with Oriol Vinales.
+
+02:09:43.180 --> 02:09:44.340
+To support this podcast,
+
+02:09:44.340 --> 02:09:46.980
+please check out our sponsors in the description.
+
+02:09:47.860 --> 02:09:51.180
+And now, let me leave you with some words from Alan Turing.
+
+02:09:51.180 --> 02:09:55.100
+Those who can imagine anything can create the impossible.
+
+02:09:56.100 --> 02:09:59.220
+Thank you for listening, and hope to see you next time.
+

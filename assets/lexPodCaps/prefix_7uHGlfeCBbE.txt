@@ -1,0 +1,1121 @@
+WEBVTT
+
+00:00.000 --> 00:04.600
+Will there be a war between US and China in the 21st century?
+
+00:05.120 --> 00:07.520
+If there is, we're finished.
+
+00:08.080 --> 00:11.120
+A war between the US and China
+
+00:11.680 --> 00:16.320
+wouldn't destroy the possibilities of organized life on Earth.
+
+00:18.720 --> 00:20.960
+The following is a conversation with Noam Chomsky,
+
+00:21.360 --> 00:23.520
+his second time in the podcast.
+
+00:23.520 --> 00:26.560
+This episode is focused on the war in Ukraine,
+
+00:27.440 --> 00:31.840
+and it is a departure from the way I usually do this podcast in several ways.
+
+00:32.640 --> 00:38.800
+Noam is a strong and healthy 93-year-old, but this conversation is remote to be cautious.
+
+00:40.240 --> 00:42.080
+It is brief, only one hour.
+
+00:42.880 --> 00:47.520
+It is more of an interview than a conversation due to the limitations of
+
+00:48.080 --> 00:49.680
+our audio and video connection.
+
+00:50.560 --> 00:53.760
+I decided it's best to get Noam's clear thoughts on this war
+
+00:54.400 --> 00:59.040
+and the complicated geopolitics of today and the rest of the 21st century
+
+00:59.040 --> 01:04.320
+that is unrolling before us, with our decisions and actions fully capable
+
+01:04.320 --> 01:09.840
+of either helping humanity flourish or unleashing global destruction and suffering.
+
+01:10.800 --> 01:16.000
+As a brief aside, perhaps you know this, but let me mention that I traveled to Ukraine
+
+01:16.640 --> 01:21.920
+and saw, heard, felt things that are haunting and gave me a lot to think about.
+
+01:22.880 --> 01:26.240
+Because of that, I've been really struggling to edit the videos I recorded.
+
+01:26.880 --> 01:28.160
+I hope to finish it soon.
+
+01:28.800 --> 01:32.480
+I'm sorry for these delays, and I'm especially sorry to the people there
+
+01:32.480 --> 01:35.760
+who gave me their time, their story, their heart.
+
+01:36.880 --> 01:38.000
+Please be patient with me.
+
+01:38.720 --> 01:39.680
+I hope you understand.
+
+01:40.880 --> 01:42.720
+This is the Lex Fridman Podcast.
+
+01:42.720 --> 01:45.760
+To support it, please check out our sponsors in the description.
+
+01:46.320 --> 01:49.760
+And now, dear friends, here's Noam Chomsky.
+
+01:49.760 --> 01:54.240
+Chomsky, you have studied and criticized powerful leaders and nations
+
+01:54.880 --> 01:57.600
+in times of global conflict and struggles for power.
+
+01:58.800 --> 02:02.400
+So let me ask you, what do you think motivates Vladimir Putin?
+
+02:03.520 --> 02:07.120
+Is it power, legacy, fame, geopolitical influence,
+
+02:07.120 --> 02:11.120
+or the flourishing of a nation he loves and represents?
+
+02:11.680 --> 02:17.280
+I have no particular insight into Putin's mind.
+
+02:18.080 --> 02:26.800
+I can only watch the actions over the last 20, 25 years and read the statements.
+
+02:28.320 --> 02:32.400
+Took power about almost 25 years ago.
+
+02:32.400 --> 02:36.960
+Has held it since as prime minister or president.
+
+02:37.680 --> 02:50.480
+And his first task was to try to overcome the chaos and disarray of the 1990s.
+
+02:51.840 --> 02:58.080
+During the 90s, Gorbachev had a proposal.
+
+02:58.080 --> 03:07.040
+He called for a cooperative enterprise with the West.
+
+03:08.000 --> 03:14.080
+They would share an effort to rebuild what he called a common European home,
+
+03:15.520 --> 03:23.440
+in which there would be no military alliances, just Russia-Western U.S. accommodation,
+
+03:24.400 --> 03:35.520
+with a move towards social democracy in former USSR and comparable moves in the United States.
+
+03:36.160 --> 03:38.160
+Well, that was quickly smashed.
+
+03:38.880 --> 03:41.520
+The United States had no interest in that.
+
+03:43.360 --> 03:46.720
+Clinton came along pretty soon, early 90s.
+
+03:47.360 --> 03:56.000
+Russia was induced to adopt what was called shock therapy,
+
+03:56.640 --> 04:06.640
+harsh, quick market transformation, which devastated the economy, created enormous social disarray,
+
+04:06.640 --> 04:17.040
+a rise of what are called oligarchs, kleptocrats, high mortality.
+
+04:18.560 --> 04:25.040
+Clinton started the policy of expanding NATO to the East in violation of
+
+04:25.840 --> 04:30.400
+firm, unambiguous promises to Gorbachev not to do so.
+
+04:31.200 --> 04:34.560
+Yeltsin, Putin's friend, opposed it.
+
+04:35.440 --> 04:39.120
+Other Russian leaders opposed it, but they didn't react.
+
+04:39.760 --> 04:41.360
+They accepted it.
+
+04:42.240 --> 04:45.200
+When Putin came in, he continued that policy.
+
+04:45.840 --> 04:49.840
+Meanwhile, he did reconstruct the Russian economy.
+
+04:49.840 --> 04:58.400
+Russian society became a viable, deeply authoritarian society under his tight control.
+
+04:59.280 --> 05:06.160
+He himself organized a major kleptocracy with him.
+
+05:06.160 --> 05:08.640
+In the middle, he apparently became very wealthy.
+
+05:09.360 --> 05:18.080
+On the international front, he pretty much continued the former policies as U.S. diplomats,
+
+05:18.080 --> 05:25.440
+practically every diplomat who had any contact with Russia had been dispatched there or knew about it,
+
+05:26.080 --> 05:28.320
+as they all warned from the 90s.
+
+05:29.120 --> 05:38.400
+What Clinton was doing, expanded by Bush, Bush too afterwards, was reckless and provocative.
+
+05:39.360 --> 05:46.080
+That Russia did have a clear red line before Putin, which he adhered to,
+
+05:47.200 --> 05:51.280
+namely no NATO membership for Ukraine and Georgia.
+
+05:51.280 --> 06:00.960
+This is pretty much how things went on through the 2000s, 2014, 2008.
+
+06:02.240 --> 06:11.360
+George Bush, President Bush, did invite Ukraine to join NATO that was vetoed by France and Germany,
+
+06:11.760 --> 06:15.120
+but under U.S. pressure, it was kept on the agenda.
+
+06:15.760 --> 06:17.680
+It was kept on the agenda.
+
+06:18.640 --> 06:22.160
+The Russians continued to object to the Western diplomats,
+
+06:22.880 --> 06:28.800
+including the present current head of the CIA and its predecessors,
+
+06:29.440 --> 06:35.200
+warned that this was reckless, provocative, shouldn't be done, continued.
+
+06:36.720 --> 06:38.400
+Putin didn't do much.
+
+06:38.400 --> 06:41.600
+He stayed with it until pretty recently.
+
+06:42.240 --> 06:52.400
+After 2014, the uprising that threw out the former president who was pro-Russian,
+
+06:53.520 --> 06:56.000
+instituted anti-Russian laws.
+
+06:57.600 --> 07:07.360
+The United States and NATO began a policy of moving to effectively integrate Ukraine
+
+07:08.000 --> 07:16.960
+into the NATO command, joint military exercises, training, sending weapons, and so on.
+
+07:18.320 --> 07:20.400
+Putin objected.
+
+07:20.400 --> 07:22.560
+Other Russian leaders objected.
+
+07:22.560 --> 07:26.080
+They're unified on this, but didn't do much.
+
+07:26.640 --> 07:35.200
+It continued with the proposals that Ukraine be excluded from NATO
+
+07:36.000 --> 07:43.200
+and that there be some form of autonomy for the Donbass region.
+
+07:43.200 --> 07:50.640
+Meanwhile, in reaction to the uprising in 2014,
+
+07:51.440 --> 08:01.040
+Russia moved in and took over Crimea, protecting its one warm water base and major naval base.
+
+08:02.400 --> 08:09.200
+U.S. objected and recognized it, but things continued without notable conflict.
+
+08:10.000 --> 08:11.840
+Won't go through all the details.
+
+08:11.840 --> 08:21.440
+When Joe Biden came in, he expanded the program of what U.S. military journals call
+
+08:22.400 --> 08:26.320
+de facto integration of Ukraine within NATO.
+
+08:28.480 --> 08:36.800
+Proposed September 2021 proposed enhanced program of preparation for
+
+08:37.360 --> 08:44.720
+NATO mission, extended with a formal statement in November.
+
+08:45.360 --> 08:48.480
+We're now practically up to the invasion.
+
+08:48.480 --> 08:50.000
+Putin's position hardened.
+
+08:51.280 --> 09:00.960
+France, mainly France, to an extent Germany, did make some moves towards possible negotiations.
+
+09:01.840 --> 09:08.320
+Putin dismissed them, moved on to the direct invasion.
+
+09:11.760 --> 09:15.600
+What are his, to get back to your question, what motivates him?
+
+09:16.640 --> 09:26.400
+I presume what he's been saying all along, namely establishing his legacy as a leader who
+
+09:27.280 --> 09:35.680
+overcame the extensive destruction of Russia and massive weakening over it,
+
+09:35.680 --> 09:42.000
+restored his position as a world power, prevented Ukraine from entering NATO.
+
+09:42.640 --> 09:49.680
+It may have further ambitions as to dominating and controlling Ukraine, very likely.
+
+09:50.640 --> 09:59.680
+There is a theory in the West that he suddenly became a total madman who wants to restore the
+
+09:59.680 --> 10:10.560
+great Russian empire. This is combined with gloating over the fact that the Russian military is a
+
+10:11.280 --> 10:18.640
+paper tiger that can't even conquer cities a couple of kilometers from the border, but
+
+10:19.840 --> 10:26.960
+defended not even by a regular army. But somehow along with this, he's planning to
+
+10:27.760 --> 10:34.560
+attack NATO powers, conquer Europe, who knows what. It's impossible to put all these
+
+10:35.440 --> 10:41.840
+concepts together. They're totally internally contradictory. So what's my judgment?
+
+10:43.680 --> 10:48.160
+I think what motivates him is what he's been demonstrating in his actions.
+
+10:49.120 --> 10:56.080
+Restore Russia as a great power, restore its economy, control it
+
+10:57.440 --> 11:07.920
+as a total dictatorship, enrich himself and his cronies, establish a legacy as a major
+
+11:07.920 --> 11:15.120
+figure in Russian history, make sure that Ukraine does not join NATO, and
+
+11:15.760 --> 11:23.760
+probably by now he's hardened the position, maintain Crimea and the Southeastern Corridor
+
+11:23.760 --> 11:33.760
+to Russia, and some ambiguous agreements about the Donbass region. That looks like his motivation.
+
+11:34.800 --> 11:41.760
+There's much speculation that goes beyond this, but it's very hard to reconcile with the
+
+11:41.840 --> 11:50.960
+assessment of the real world by the same people who are making the grandiose speculations.
+
+11:52.640 --> 11:56.480
+Putin has been in power for 22 years. Do you think power has corrupted him?
+
+11:58.720 --> 12:06.080
+I don't think anything's changed. It seems to me his policies are about the same as what they were.
+
+12:06.240 --> 12:14.080
+They've changed in response to change circumstances. So very recently, right before the invasion,
+
+12:15.120 --> 12:24.560
+a few weeks before, for the first time, Putin announced recognition of the independence of the
+
+12:25.200 --> 12:32.160
+Donbass region. That's a stronger position than before, much stronger. Up till then, he had
+
+12:32.160 --> 12:39.520
+pretty much kept to the long-standing position of some kind of accommodation within a
+
+12:40.640 --> 12:45.600
+federal structure in which the Donbass region would have considerable autonomy.
+
+12:46.400 --> 12:53.120
+So that's a harshing of the position. So even the human mind of Vladimir Putin, the man?
+
+12:54.080 --> 12:58.400
+I can't read his mind. I can only see the policies that he's pursued.
+
+12:59.360 --> 13:07.440
+I can only see the statements that he's made. There are many people speculating about his mind,
+
+13:08.400 --> 13:14.320
+and as I say, these speculations are, first of all, not based on anything.
+
+13:15.520 --> 13:22.240
+Never said anything about trying to conquer NATO, but more importantly, they are totally
+
+13:22.240 --> 13:30.160
+inconsistent with the analyses of Russian power by the same people who are making the speculations.
+
+13:31.040 --> 13:40.720
+So we see the same individual speculating about Putin's grandiose plans to
+
+13:41.840 --> 13:49.440
+become Peter the Great and conquer, start attacking NATO powers. On the one hand,
+
+13:49.440 --> 13:56.800
+saying that, on the other hand, gloating over the fact that his military power is so minuscule he
+
+13:56.800 --> 14:05.120
+can't even conquer towns a couple miles from the border. It's impossible to make sense of that
+
+14:05.120 --> 14:14.240
+position. Why did Russia invade Ukraine on February 24th? Who do you think is to blame?
+
+14:14.880 --> 14:16.320
+Who do you place the blame on?
+
+14:17.600 --> 14:25.920
+Well, who's to blame? Any power that commits aggression is to blame. So I continue to say,
+
+14:25.920 --> 14:33.120
+as I have been for many months, that the invasion, Putin's invasion of Ukraine,
+
+14:34.000 --> 14:43.520
+is on a par with such acts of aggression as the US invasion of Iraq, the Stalin
+
+14:44.320 --> 14:55.120
+Hitler invasion of Poland, other acts of supreme international crime under international law
+
+14:55.120 --> 15:01.440
+aggression, of course, is to blame. The US committed $6.9 billion in military assistance
+
+15:01.440 --> 15:07.040
+to Ukraine since the Russian invasion. Should US keep up with the support?
+
+15:08.000 --> 15:14.640
+There are two questions. One has to do with providing support for defense against the
+
+15:14.640 --> 15:22.560
+invasion, which is certainly legitimate. The other is seeking ways to end the crime
+
+15:23.920 --> 15:31.520
+before even worse disasters arise. Now, that second part is not discussed in the West,
+
+15:31.520 --> 15:38.560
+barely discussed. Anyone who dares to discuss it is immediately subjected to a
+
+15:38.560 --> 15:45.280
+flood of invective and hysterical condemnation. But if you're serious about Ukraine,
+
+15:45.840 --> 15:53.680
+there are two things you ask. One, what can we do to support Ukraine in defense against aggression?
+
+15:54.560 --> 16:02.880
+Second, how can we move to end the war before it leads to even worse destruction of Ukraine,
+
+16:03.760 --> 16:12.160
+more starvation worldwide, reversing the efforts, the limited efforts to deal with global warming,
+
+16:12.160 --> 16:19.200
+possibly moving up an escalation out of the war, the nuclear war? That's the second half
+
+16:19.520 --> 16:29.360
+of the, borrow a phrase attributed to Winston Churchill. There's a lot of war, war, but no
+
+16:29.360 --> 16:36.400
+joy, joy, joy. And there ought to be joy, joy, if you care about Ukraine and the rest of the world.
+
+16:38.000 --> 16:45.600
+Can it be done? We don't know. Official US policy is to reject a diplomatic settlement,
+
+16:46.080 --> 16:55.040
+settlement to move to weaken Russia severely so that it cannot carry out further aggression,
+
+16:56.160 --> 17:05.760
+but not do anything on the joy, joy side, not think of how to bring the crimes and atrocities
+
+17:05.760 --> 17:15.200
+to an end. That's the second part of the question. So yes, the US should continue with the kind of
+
+17:16.160 --> 17:23.680
+calibrated support that's been given. The Pentagon wisely has vetoed
+
+17:27.280 --> 17:33.920
+initiatives to go well beyond support for defense up to attack on Russia.
+
+17:34.800 --> 17:42.480
+So far, the Pentagon, which seems to be the dovish component in the US administration, has
+
+17:43.120 --> 17:49.040
+vetoed plans which very likely would lead on to nuclear war, which would destroy everything.
+
+17:49.920 --> 17:57.840
+So calibrated provision of weapons to blunt the offensive, allow Ukraine to defend itself,
+
+17:59.440 --> 18:09.040
+if sensible, combined with efforts to see if something can be done to bring the crimes and
+
+18:09.040 --> 18:15.600
+atrocities to an end and over the much worse consequences that are in store.
+
+18:16.480 --> 18:23.600
+That would be all instead the US only dealing with the first and all of our discussions limit
+
+18:23.600 --> 18:28.000
+themselves to the first in the United States and in Britain, not in Europe.
+
+18:29.360 --> 18:33.840
+Do you worry about nuclear war in the 21st century? How do we avoid it?
+
+18:34.800 --> 18:41.680
+Anyone who doesn't worry about nuclear war doesn't have a gray cell functioning. Of course,
+
+18:41.680 --> 18:50.000
+everyone is worried about nuclear war. It's very easy to see how steps could be taken.
+
+18:50.000 --> 18:57.520
+They've even been recommended that would lead to nuclear war. So you can read articles even by
+
+18:58.320 --> 19:05.120
+liberal commentators who say we should drop all the pretenses, just go to war against Russia.
+
+19:05.120 --> 19:11.920
+They have to be destroyed. You can see proposals coming from Congress,
+
+19:14.080 --> 19:18.160
+other leading figures saying we should establish a no-fly zone.
+
+19:19.200 --> 19:25.600
+Pentagon objects, they point out correctly, that to establish a no-fly zone,
+
+19:26.320 --> 19:34.880
+you have to have control of the air, which means destroying Russian air defense systems,
+
+19:34.880 --> 19:43.200
+which happen to be inside Russia. We don't know that Russia won't react. Even the call,
+
+19:44.160 --> 19:51.120
+now almost universal, to ensure that Ukraine wins, drives out all the Russians,
+
+19:51.680 --> 19:57.360
+drives them out of the country. Sounds nice on paper, but notice the assumption.
+
+19:58.800 --> 20:06.960
+The assumption is that Vladimir Putin, this madman who just seeks power and is out of control,
+
+20:07.600 --> 20:17.120
+will sit there quietly, accept defeat, slink away, not use the military means that, of course,
+
+20:17.120 --> 20:26.640
+he has to destroy Ukraine. One of the interesting comments that came out in today's long article,
+
+20:26.640 --> 20:35.920
+I think Washington Post, reviewing a lot of leaks from actually, not leaks actually, presented by
+
+20:35.920 --> 20:42.800
+U.S. intelligence and U.S. leaders about the long buildup to the war. One of the points it made was
+
+20:43.280 --> 20:51.520
+surprised on the part of British and U.S. leaders about Putin's strategy and his failure
+
+20:52.080 --> 20:59.280
+to adapt to fight the war the way the U.S. and Britain would, with real shock and awe,
+
+20:59.280 --> 21:05.040
+destruction of communication facilities, of energy facilities, and so on. They
+
+21:05.040 --> 21:12.240
+can't understand why he hasn't done all that. Well, could. If you want to make it very likely
+
+21:12.240 --> 21:22.000
+that that'll happen, then insist on fighting until somehow Russia faces total defeat, then
+
+21:23.680 --> 21:30.240
+it's a gamble. But if he's as crazy and insane as you claim, presumably will
+
+21:30.240 --> 21:37.840
+use weapons that he hasn't used yet to destroy Ukraine. So the West is taking
+
+21:37.920 --> 21:47.760
+an extraordinary gamble with the fate of Ukraine, gambling that the madman, lunatic Mad Vlad,
+
+21:49.040 --> 21:56.640
+won't use the weapons he has to destroy Ukraine and set the stage for escalation of the ladder
+
+21:56.640 --> 22:02.240
+which might lead to nuclear war. It's quite a gamble. How much propaganda is there in the
+
+22:02.240 --> 22:10.960
+world today, in Russia, in Ukraine, in the West? It's extraordinary. In Russia, of course, it's
+
+22:10.960 --> 22:18.400
+total. Ukraine is a different story. They're at war. You can expect propaganda. In the West,
+
+22:20.640 --> 22:29.840
+let me quote Graham Fuller, very highly placed in U.S. intelligence, one of the top officials for
+
+22:30.560 --> 22:38.560
+decades dealing mostly with Russia and Central Asia. He recently said that in all the years of
+
+22:38.560 --> 22:48.720
+the Cold War, he's never seen any extreme Russophobia to the extent that he sees today.
+
+22:49.440 --> 22:55.360
+I think that's pretty accurate. I mean, the U.S. has even
+
+22:57.520 --> 23:04.640
+canceled Russian outlets, which means if you want to find out what
+
+23:05.680 --> 23:13.040
+Sergey Lavrov or the Russian officials are saying, you can't look it up on their own
+
+23:13.040 --> 23:22.000
+outlets. You have to go through Al Jazeera, Indian state television, or someplace where they still
+
+23:23.040 --> 23:30.800
+allow Russian positions to be expressed. Of course, the propaganda is just outlandish.
+
+23:30.800 --> 23:38.000
+I think Fuller is quite correct on this. In Russia, of course, you expect total propaganda.
+
+23:38.000 --> 23:45.360
+There's nothing, any independent outlets such as there were have been crushed.
+
+23:46.640 --> 23:53.280
+If the media is a source of inaccuracies and even lies, then how do we find the truth?
+
+23:54.240 --> 24:02.160
+I don't regard the media as a source of inaccuracies and lies. They do exist,
+
+24:02.960 --> 24:08.720
+but by and large, media reporting is reasonably accurate.
+
+24:09.840 --> 24:18.240
+Reporters, the journalists themselves, in the past do courageous, honest work.
+
+24:19.840 --> 24:24.880
+I've written about this for 50 years. My opinion hasn't changed,
+
+24:25.440 --> 24:34.400
+but they do pick certain things and not other things. There's selection, there's framing,
+
+24:35.040 --> 24:43.760
+there's ways of presenting things. All of that forms a kind of propaganda system,
+
+24:43.760 --> 24:49.760
+which you have to work your way through, but it's rarely a matter of straight outright lying.
+
+24:49.760 --> 24:53.920
+So there's a difference between propaganda and lying.
+
+24:54.480 --> 25:02.160
+Of course, a propaganda system shapes and limits the material that's presented.
+
+25:02.800 --> 25:09.920
+It may tell the truth within that framework. Let me give you a concrete example, which I
+
+25:10.560 --> 25:19.120
+wrote about extensively. I have a book called Manufacturing Consent jointly with Edward Hermann,
+
+25:20.640 --> 25:26.400
+it's about his term, which I had accepted a propaganda model of the media.
+
+25:27.440 --> 25:34.400
+A large part of the book is defense of the media, defense of the media against harsh attacks
+
+25:35.360 --> 25:42.400
+by Freedom House. Several volumes they published attacking the media, charging that the media were
+
+25:42.400 --> 25:50.320
+so adversarial and dishonest that they lost the war in Vietnam. Well, it took the trouble of
+
+25:50.320 --> 25:57.200
+reading through the two volumes. One volume is charges, the next volume is evidence.
+
+25:57.760 --> 26:05.120
+Turns out that all of the evidence is lies. They had no evidence. They were just lying.
+
+26:05.840 --> 26:15.360
+The media, in fact, the journalists were doing an honest, courageous work, but within a certain
+
+26:15.360 --> 26:23.760
+framework. A framework of assuming that the American cause was basically just, basically
+
+26:23.760 --> 26:34.080
+honorable, making mistakes, doing bad things, but the idea of questioning that the United States
+
+26:34.160 --> 26:43.680
+was engaged in a major war crime, that's off the record. So unfortunately, there was this crime
+
+26:43.680 --> 26:51.440
+and that crime which harmed their effort to do good and so on. Well, that's not lying,
+
+26:51.440 --> 26:59.040
+it's propaganda. So how do we find the truth? How do we find the truth? That's what you have
+
+26:59.040 --> 27:08.160
+a brain for. It's not deep. It's quite shallow. It's not quantum physics. Put a little effort
+
+27:08.160 --> 27:16.800
+into it. Think about, look for other sources. Think a little about history. Look at the documentary
+
+27:16.800 --> 27:23.760
+record. It all pretty well falls together and you can get a reasonable understanding of what's
+
+27:23.760 --> 27:31.360
+happening. If you could sit down with Vladimir Putin and ask him a question or talk to him
+
+27:31.360 --> 27:39.200
+about an idea, what would you say? I would walk out of the room, just as with almost any other
+
+27:39.200 --> 27:45.280
+leader. I know what he's going to say. I read the party line. I read his pronouncements. Doesn't
+
+27:45.280 --> 27:52.960
+want to hear from me. Am I going to say, why did you carry out a crime that's comparable to the
+
+27:53.440 --> 28:00.160
+U.S. invasion of Iraq and the Stalin-Hitler invasion of Poland? Am I going to ask that question?
+
+28:02.080 --> 28:11.760
+If I met with John F. Kennedy today, would I ask, why did you radically escalate the war in Vietnam,
+
+28:12.560 --> 28:20.400
+launch the U.S. Air Force, start authorizing a bomb, drive launch programs to drive
+
+28:21.360 --> 28:27.280
+villagers who you know are supporting the National Liberation Front, drive them into
+
+28:27.280 --> 28:33.520
+concentration camps to separate them from the forces they're defending? Would I have asked him
+
+28:33.520 --> 28:40.000
+that? That's a question. Do you think the people who led us into the war in Vietnam,
+
+28:42.000 --> 28:43.680
+the war in Afghanistan and Iraq,
+
+28:43.680 --> 28:52.080
+the war in Ukraine, are evil? I mean, it's very hard to be in a position of leadership of any
+
+28:53.040 --> 29:05.040
+violent aggressive power without carrying out evil acts. Are the people evil? I mean, I'm not their
+
+29:05.680 --> 29:12.000
+moral advisors. I don't know anything about them. I look at their actions, their statements,
+
+29:12.000 --> 29:19.120
+their policies, evaluate those. Their families can evaluate their personalities.
+
+29:19.760 --> 29:24.560
+Will there be a war between U.S. and China in the 21st century?
+
+29:24.560 --> 29:28.720
+Will there be a war between U.S. and China in the 21st century?
+
+29:29.360 --> 29:40.160
+If there is, we're finished. A war between the U.S. and China wouldn't destroy the possibilities
+
+29:40.160 --> 29:48.160
+of organized life on Earth. In fact, we can put it differently. Unless the U.S. and China
+
+29:48.160 --> 29:56.880
+can reach an accommodation and work together and cooperatively, it's very unlikely that
+
+29:57.440 --> 30:03.840
+organized human society will survive. We are facing enormous problems.
+
+30:05.120 --> 30:15.600
+Problems, destruction of the environment, pandemics, threat of nuclear war. None of these
+
+30:15.920 --> 30:24.160
+decline of democratic functioning of an arena for rational discourse. None of these things
+
+30:24.160 --> 30:31.600
+have boundaries. We either work together to overcome them, which we can do, or we'll all
+
+30:31.600 --> 30:38.160
+sink together. That's the real question we should be asking. What the United States is doing
+
+30:38.640 --> 30:48.000
+is not helping. The current U.S. policy, which is perfectly open, nothing secret about it,
+
+30:48.720 --> 30:56.880
+is to what's called encircle China. It's the official word with sentinel states,
+
+30:57.760 --> 31:10.320
+South Korea, Japan, Australia, which will be heavily armed, provided by Biden with
+
+31:10.880 --> 31:20.960
+precision weapons aimed at China, backed by major naval operations, huge naval operations just took
+
+31:20.960 --> 31:28.880
+place in the Pacific. Many nations participating, didn't get reported here as far as I know,
+
+31:28.880 --> 31:40.080
+but an enormous operation threatening China. All of this to encircle China to continue with policies
+
+31:40.080 --> 31:51.120
+like then. Somebody like Pelosi, just to probably make her look more, I don't know what
+
+31:51.920 --> 32:00.640
+her motives are, taking a highly provocative, stupid act opposed by the military, opposed by
+
+32:00.640 --> 32:08.720
+the White House. Yes, acts like that, which of course called for the response of highly dangerous.
+
+32:09.680 --> 32:15.360
+We don't have to do that. We don't have to increase the threat. I mean, right now,
+
+32:15.360 --> 32:25.440
+the last NATO summit, take a look at it. For the first time, it invited to attend the countries
+
+32:26.160 --> 32:32.240
+that are in the sentinel states surrounding China, encircling China from the East.
+
+32:32.960 --> 32:40.960
+And it in fact extended the range of NATO to what's called the Indo-Pacific region.
+
+32:41.760 --> 32:49.680
+So all of us by now, the North Atlantic includes the whole Indo-Pacific region to try to ensure
+
+32:49.680 --> 32:58.560
+that we can overcome the so-called China threat. Certainly, we might ask exactly what the China
+
+32:58.640 --> 33:08.320
+threat is. It's done sometimes. The former prime minister of Australia, Paul Keating,
+
+33:09.280 --> 33:15.360
+well-known international diplomat, had an article a while ago in the Australian press,
+
+33:16.080 --> 33:23.040
+that's right in the claws of the dragon, asking, going through what the China threat is. He
+
+33:23.040 --> 33:29.200
+ran through the various claims, finally concluded. The China threat is that China exists.
+
+33:30.560 --> 33:38.400
+It exists. It does not follow US orders. It's not like Europe. Europe does what the United States
+
+33:38.400 --> 33:44.320
+tells it to do, even if it doesn't like it. China just ignores what the US says.
+
+33:45.280 --> 33:53.840
+There's a formal way of describing this. There are two versions of the international order.
+
+33:55.040 --> 34:02.640
+One version is the UN-based international order, which theoretically we subscribe to,
+
+34:02.640 --> 34:10.160
+but we don't accept. The UN-based international order is unacceptable to the United States
+
+34:10.880 --> 34:21.680
+because it bans US foreign policy, literally. It explicitly bans the threat or use of force
+
+34:21.680 --> 34:27.200
+in international affairs, except under circumstances that almost never arise.
+
+34:28.160 --> 34:34.720
+That's US foreign policy. Try to find a president who isn't engaged in the threat or use of force
+
+34:34.720 --> 34:43.440
+in international affairs. Obviously, we can't accept the UN-based international system,
+
+34:44.240 --> 34:49.200
+even though under the constitution, that's the supreme law of the land. It doesn't matter.
+
+34:50.160 --> 34:57.760
+The United States has what's called a rule-based international order. That's acceptable
+
+34:58.560 --> 35:06.480
+because it's the United States that sets the rules. We want a rule-based international order
+
+35:06.480 --> 35:13.520
+where the US sets the rules. In commentary in the United States, even in scholarship,
+
+35:14.800 --> 35:24.080
+almost 100% calling for a rule-based international order. Is that false? No, it's true.
+
+35:24.080 --> 35:30.560
+Is it propaganda? Of course, it's propaganda because of what's not said and because of what's
+
+35:30.560 --> 35:38.560
+presupposed in answer to an earlier question. Well, China does not accept the rule-based
+
+35:38.560 --> 35:47.280
+international order. When the US imposes demands, Europe may not like them, but they follow them.
+
+35:48.240 --> 35:58.880
+China ignores them. Take, for example, the US sanctions on Iran. The US has to punish Iran
+
+35:59.520 --> 36:10.080
+because the United States unilaterally pulled out of the Iran nuclear agreements. In order to punish
+
+36:10.800 --> 36:17.680
+Iran for wrecking the agreements in violation of Security Council orders,
+
+36:17.680 --> 36:25.840
+we impose very harsh sanctions. Europe strongly opposes the sanctions, condemn them harshly,
+
+36:26.480 --> 36:36.320
+but it adheres to them because you don't disobey US orders. That's too dangerous.
+
+36:37.040 --> 36:43.360
+China ignores them. They're not keeping to the rule-based international order.
+
+36:45.120 --> 36:53.200
+That's unacceptable. In fact, it's said pretty openly. You can hear the Secretary of State and
+
+36:53.200 --> 37:01.360
+others saying China is challenging our global hegemony. Yes, they are. They don't accept US
+
+37:01.360 --> 37:10.400
+global hegemony, especially in the waters off China. That's a China threat. They do a lot of
+
+37:10.400 --> 37:18.240
+rotten things, China. Internally, there's repression, violence, and so on. First of all,
+
+37:18.240 --> 37:24.400
+that's not a threat to us. Second, the US doesn't care about it because it easily accepts and
+
+37:24.400 --> 37:32.720
+supports comparable crimes and atrocities internal to allies. Yes, we should protest it,
+
+37:32.720 --> 37:39.360
+but without hypocrisy, we have no standing to protest it. We support it in comparable things
+
+37:39.360 --> 37:48.560
+in all sorts of other places. Just take a look at the US foreign aid. The leading recipient of US
+
+37:48.560 --> 37:54.800
+foreign aid is Israel, which is engaged in constant terror, violence, and repression,
+
+37:55.440 --> 38:03.680
+constant almost daily. Second leading recipient is Egypt, under the worst dictatorship in
+
+38:03.680 --> 38:12.480
+Egypt's history. That's 60,000 people in jail, political prisoners, tortured, and so on. Do we
+
+38:12.480 --> 38:19.760
+care? Second leading recipient. I mean, what are we talking about? That's why most of the world
+
+38:19.760 --> 38:28.960
+just laughs at us. There's a lot of failure to understand here about why the global south doesn't
+
+38:28.960 --> 38:38.560
+join us in our proxy war against Russia, fighting Russia until it's severely weakened. They don't
+
+38:38.640 --> 38:46.000
+join us. Here the question is, what's wrong with them? They look into their minds to figure out
+
+38:46.640 --> 38:54.240
+what's wrong. They have a different attitude. They say, yes, we oppose the invasion of Ukraine,
+
+38:55.040 --> 39:00.480
+terrible crime, but what are you talking about? This is what you do to us all the time.
+
+39:01.280 --> 39:08.000
+We don't care about crimes like this. That's most of the global south. We can't comprehend that.
+
+39:08.880 --> 39:15.760
+We're so insulated that we are just obviously right and everyone who doesn't go along must be wrong.
+
+39:18.000 --> 39:23.920
+Do you think the United States as a global leader, as an empire, may collapse in this century?
+
+39:25.840 --> 39:28.720
+Why and how will it happen and how can we avoid it?
+
+39:29.200 --> 39:39.440
+The United States can certainly harm itself severely. That's what we're doing right now.
+
+39:40.800 --> 39:48.560
+Right now, the greatest threat to the United States is internal countries tearing itself apart.
+
+39:49.520 --> 40:00.480
+I mean, I really don't have to run through it with you. Take a look at something as elementary
+
+40:00.480 --> 40:10.320
+as mortality. The United States is the only country outside of war. Life expectancy is declining.
+
+40:10.320 --> 40:17.040
+Mortality is increasing. This doesn't happen anywhere. You take a look at health outcomes
+
+40:17.040 --> 40:24.080
+generally. They're among the worst among the developed societies and health spending
+
+40:24.720 --> 40:29.280
+is about twice as high as the developed societies. You look at the charts,
+
+40:29.920 --> 40:36.480
+all of this starts around the late 1970s, early 80s. To go back to that point,
+
+40:37.040 --> 40:43.600
+the United States was pretty much a normal developed country in terms of mortality,
+
+40:44.160 --> 40:52.640
+incarceration, health expenses, other measures. Since then, the United States has fallen off the
+
+40:52.640 --> 41:01.280
+chart. It's gone way off the chart. Well, that's the neoliberal assault of the last 40 years.
+
+41:01.920 --> 41:10.320
+It's had a major effect on the United States. It's left a lot of anger, resentment, violence.
+
+41:10.320 --> 41:16.560
+Meanwhile, the Republican Party has simply drifted off the spectrum. It's not a normal
+
+41:16.560 --> 41:25.360
+political party in any usual sense, not what it used to be. Its main policy is block anything
+
+41:26.000 --> 41:33.120
+in order to regain power. That's its policy. It's stated almost openly by McConnell, followed
+
+41:34.080 --> 41:42.960
+religiously by the entire Congress. That's not the acts of a political party.
+
+41:45.600 --> 41:54.400
+Of course, democracies declined. The violence has increased. The judgments, the decisions of
+
+41:54.400 --> 42:02.000
+the Supreme Court, the court's the most reactionary court in memory. To go back to the 19th century,
+
+42:02.800 --> 42:12.160
+a decision after decision is an effort to create a country of white supremacist Christian
+
+42:12.160 --> 42:24.240
+nationalists. I mean, scarcely hidden. If you read the opinions of Alito, Thomas, Gorsuch, and others,
+
+42:24.240 --> 42:33.440
+it's, so yes, we can destroy ourselves from within. In fact, the ways we're doing it are
+
+42:34.240 --> 42:41.280
+almost astonishing. It's well known, for example, everybody knows that US infrastructure,
+
+42:41.920 --> 42:48.480
+the bridges, subways, and so on, is in terrible shape. It needs a lot of repair.
+
+42:49.440 --> 42:57.120
+The American Association of Engineers gives it a failing mark every year. Finally, Congress did
+
+42:57.120 --> 43:05.760
+pass a limited infrastructure bill to rebuild bridges and so on. It has to be called a China
+
+43:05.760 --> 43:13.520
+Competition Act. We can't rebuild their bridges because they're falling apart. We have to rebuild
+
+43:13.520 --> 43:22.800
+their bridges to beat China. It's pathological, and that's what's happening inside the country.
+
+43:24.080 --> 43:33.920
+Take Thomas's decision in the recent case in which he invalidated a New York law.
+
+43:34.720 --> 43:42.960
+This is last October, a couple weeks ago, invalidated a New York law going back to 1913.
+
+43:43.840 --> 43:51.280
+That required people to have some justification if they wanted to carry concealed weapons in public.
+
+43:52.480 --> 43:59.680
+He was through that with a very interesting decision. He said the United States, he said,
+
+43:59.680 --> 44:08.080
+is such a decaying, collapsing, hateful society that people just have to have guns.
+
+44:09.040 --> 44:12.720
+I mean, how can you expect somebody to go to the grocery store
+
+44:13.440 --> 44:20.080
+without a gun in a country as disgusting and hideous as this one? It's essentially what he said.
+
+44:21.360 --> 44:23.920
+Those weren't his words, but they were the import.
+
+44:25.840 --> 44:32.800
+What gives you hope about the United States, about the future of human civilization?
+
+44:33.760 --> 44:45.600
+Human civilization will not survive unless the United States takes a leading position in dealing
+
+44:45.600 --> 44:52.640
+with and overcoming the very severe crises that we face. The United States is the most powerful
+
+44:52.640 --> 44:58.000
+country, not only in the world, but in human history. There's nothing to compare with it.
+
+44:58.880 --> 45:05.680
+What the United States does has an overwhelming impact on what happens in the world.
+
+45:07.040 --> 45:16.240
+When the United States pulls out alone, pulls out of the Paris agreements on dealing with climate
+
+45:16.240 --> 45:26.480
+change and insists on maximizing the use of fossil fuels and dismantling the regulatory
+
+45:26.480 --> 45:32.880
+apparatus that provides some mitigation, when the United States does that, as it did under Trump,
+
+45:33.920 --> 45:42.720
+it's a blow to the future of civilization. When Republican states today, right now,
+
+45:43.520 --> 45:52.000
+say they're going to punish corporations that seek to take the climate change into account
+
+45:52.000 --> 45:57.840
+in their investments, the U.S. is telling the world, we want to destroy all of us.
+
+45:59.680 --> 46:06.720
+Again, not their words, but their import. That's what they mean. So as long as we have a
+
+46:07.360 --> 46:15.680
+political organization dedicated to gaining power at any cost, maximizing profit,
+
+46:16.400 --> 46:21.440
+no matter what the consequences, no future for human civilization.
+
+46:23.440 --> 46:27.840
+Noam, thank you for talking today. Thank you for talking once again,
+
+46:28.720 --> 46:34.000
+and thank you for fighting for the future of human civilization. Again, thank you.
+
+46:35.440 --> 46:41.040
+Thank you. Thanks for listening to this conversation with Noam Chomsky. To support this
+
+46:41.040 --> 46:46.000
+podcast, please check out our sponsors in the description. And now, let me leave you
+
+46:46.000 --> 46:52.560
+with some words from Voltaire. It is forbidden to kill. Therefore, all murderers are punished
+
+46:53.200 --> 46:57.760
+unless they kill in large numbers and to the sound of trumpets.
+
+46:59.120 --> 47:02.400
+Thank you for listening and hope to see you next time.
+
+47:11.040 --> 47:11.120
+Thank you.
+

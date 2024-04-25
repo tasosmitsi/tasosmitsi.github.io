@@ -1,0 +1,2027 @@
+WEBVTT
+
+00:00.000 --> 00:04.600
+The following is a conversation with Albert Berla, CEO of Pfizer.
+
+00:04.600 --> 00:09.840
+If you'd like to skip ahead to our conversation, the timestamps as always are below.
+
+00:09.840 --> 00:15.520
+But if not, please allow me to say a few words about truth and human nature.
+
+00:15.520 --> 00:21.880
+Specifically, about two groups of people throughout history that seek to lay claim to the truth.
+
+00:21.880 --> 00:27.480
+The first group will tell you that only they possess the truth, and that the government will save you,
+
+00:27.480 --> 00:32.840
+the company will save you, the science, the authorities, the experts, the institutions will save you.
+
+00:32.840 --> 00:37.360
+The second group, too, will tell you that only they possess the truth,
+
+00:37.360 --> 00:44.520
+and that the government will hurt you, the company will hurt you, the science, the authorities, the experts, the institutions will hurt you.
+
+00:44.520 --> 00:50.680
+Both groups have the benevolent and the malevolent, their heroes and their charlatans.
+
+00:50.680 --> 00:57.440
+And I think the hard truth is that no one in this world can tell you with absolute certainty which is which.
+
+00:57.760 --> 00:59.640
+You have to use your mind.
+
+00:59.640 --> 01:03.800
+This is the burden of being human, of being free.
+
+01:03.800 --> 01:11.440
+Don't blindly follow any leader, neither the emperor nor the martyr who points out that the emperor has no clothes.
+
+01:11.440 --> 01:14.720
+And then there's the lessons of history.
+
+01:14.720 --> 01:19.400
+Vaccines have saved hundreds of millions of lives in the past century.
+
+01:19.400 --> 01:23.320
+And in general, the advance of medicine has saved billions of lives.
+
+01:23.320 --> 01:28.320
+If you ignore the power of science, you're not being honest with the lessons of history.
+
+01:28.320 --> 01:33.040
+And if you ignore the corrupting nature of power and money within institutions,
+
+01:33.040 --> 01:39.840
+including governments and companies that led to the suffering and death of hundreds of millions in the past century,
+
+01:39.840 --> 01:45.040
+you are once again not being honest with the lessons of history.
+
+01:45.040 --> 01:52.080
+I announced that I will be having this conversation with Albert Berla, Pfizer CEO, and a lot of people wrote to me.
+
+01:52.080 --> 01:59.920
+I would like to say that I was and am and always will be listening and learning with an open mind from everyone.
+
+01:59.920 --> 02:08.720
+My own opinion, worth little as it is, is that the development of the COVID vaccines is one of the greatest accomplishments of science in recent history.
+
+02:08.720 --> 02:18.240
+For the rest, from safety and efficacy to policy and economics, I stand humbled before a complicated world full of fear and anger.
+
+02:18.280 --> 02:24.800
+A small number of malicious people from all walks of life will use that fear and anger to divide us.
+
+02:24.800 --> 02:29.160
+Because the division makes them money and gives them power.
+
+02:29.160 --> 02:32.880
+I took two shots of the Pfizer vaccine. This was my decision.
+
+02:32.880 --> 02:35.640
+I don't ever want to force this on anyone.
+
+02:35.640 --> 02:43.120
+And I certainly don't want to dismiss your concerns or worse, you as a person, if you choose not to get vaccinated.
+
+02:43.120 --> 02:44.840
+I can assure you one thing.
+
+02:44.840 --> 02:52.560
+In this conversation and in any conversation, the choice of questions I ask and words I say is mine and mine alone.
+
+02:52.560 --> 03:00.360
+When my words fall short, as they often do, it is only because of the limitations of my mind and of my speaking ability.
+
+03:00.360 --> 03:03.240
+It is not due to pressure or fear.
+
+03:03.240 --> 03:05.240
+I'm not afraid of anyone.
+
+03:05.240 --> 03:09.040
+I cannot be bought by anyone with money, power or fame.
+
+03:09.040 --> 03:13.560
+I hope to prove this to you and to myself in the coming years.
+
+03:13.560 --> 03:19.160
+This life is short and to me, without integrity, it is not worth living.
+
+03:19.160 --> 03:22.760
+People sometimes talk down to me, call me naive.
+
+03:22.760 --> 03:26.760
+Perhaps they are right, but it is who I am.
+
+03:26.760 --> 03:32.520
+I think this life, this world, this, our human civilization is beautiful.
+
+03:32.520 --> 03:37.560
+And as Dostoevsky said, beauty will save the world.
+
+03:37.560 --> 03:39.640
+This is the Lex Fridman podcast.
+
+03:39.640 --> 03:43.800
+And here's my conversation with Albert Burla.
+
+03:43.800 --> 03:50.880
+The development of the COVID-19 vaccine was one of the greatest accomplishments of science in recent history.
+
+03:50.880 --> 03:54.360
+No matter what, this should give people hope for the future.
+
+03:54.360 --> 03:57.640
+And yet it is more of a source of division.
+
+03:57.640 --> 04:06.440
+I hope we can discuss both the inspiring and the difficult ideas in this conversation so that we can do our small part in healing this division.
+
+04:06.440 --> 04:07.720
+I hope so.
+
+04:07.720 --> 04:14.880
+Take me through the day of November 8th, 2020, when the Pfizer team were waiting for the results of the phase three clinical trials.
+
+04:14.880 --> 04:20.440
+We had assembled in a very small office that we are having in Connecticut, very few people.
+
+04:20.440 --> 04:22.320
+There were five, I think.
+
+04:22.320 --> 04:32.240
+And in another place, what we call the Data Monitoring Committee, which is a group of experts, independent experts, they are on Pfizer.
+
+04:32.240 --> 04:44.160
+We're going to have the opportunity to unblind the data and then tell us if the study needs to continue or if it is successful or if it fails.
+
+04:44.160 --> 04:45.920
+And we were waiting for their call.
+
+04:45.920 --> 04:55.160
+So the call came a little bit later than what we expected, which created a lot of anxiety to all of us, but came around, I think, two o'clock.
+
+04:55.160 --> 04:56.480
+You're just sitting there waiting.
+
+04:56.480 --> 04:57.600
+What were you feeling?
+
+04:57.600 --> 05:04.480
+Sitting there waiting and teasing one another, drinking coffee, making jokes.
+
+05:04.480 --> 05:11.360
+So how did you feel like when you heard the results, the successful results?
+
+05:11.360 --> 05:16.120
+Free, liberated, happy.
+
+05:16.120 --> 05:23.320
+Like if a huge weight that was on my shoulders was lifted.
+
+05:23.320 --> 05:27.840
+I heard you said, I love you to the team.
+
+05:27.840 --> 05:33.000
+I did. This is how we speak in Mediterranean.
+
+05:33.000 --> 05:34.600
+Listen, maybe it's the Russian thing, too.
+
+05:34.600 --> 05:41.200
+I love love, so I appreciate that kind of celebration.
+
+05:41.200 --> 05:48.040
+So looking back from that moment to before, how much did it cost to develop the Pfizer BioNTech vaccine?
+
+05:48.040 --> 05:51.680
+What was it like making the decision to make that investment?
+
+05:51.680 --> 05:56.200
+When the risk is very high and you don't know if it's going to be successful.
+
+05:56.200 --> 05:58.120
+You know, we do a lot of that anyway.
+
+05:58.120 --> 06:00.800
+This is what we do in our daily work.
+
+06:00.800 --> 06:02.880
+We are putting money.
+
+06:02.880 --> 06:05.840
+We are investing in research, which is highly risky.
+
+06:05.840 --> 06:09.240
+The difference in that case was that we didn't risk at all.
+
+06:09.240 --> 06:10.880
+We put it all in.
+
+06:10.880 --> 06:15.640
+We put everything in one go so that we don't lose time.
+
+06:15.640 --> 06:20.400
+Usually we'll spend 50 million and then if that goes well, then we will spend another 50.
+
+06:20.400 --> 06:22.320
+And then if it goes well, then 100.
+
+06:22.320 --> 06:28.840
+Here we put all together a little bit more than $2 billion, $2.3 billion.
+
+06:28.840 --> 06:33.760
+And it was a significant decision.
+
+06:33.760 --> 06:39.760
+But it was a very easy decision to make in the context of what we were living at that time.
+
+06:39.760 --> 06:42.120
+It was a pandemic. People were scared.
+
+06:42.120 --> 06:46.440
+We were scared. We didn't know how tomorrow would look like.
+
+06:46.440 --> 06:49.200
+We were living unprecedented situations.
+
+06:49.200 --> 06:54.320
+And we knew that we have capabilities that may help.
+
+06:54.320 --> 06:57.640
+So there was not a second question or choice.
+
+06:57.640 --> 06:59.160
+We go all in.
+
+06:59.160 --> 07:08.080
+When you make decisions like that, you're the CEO of a company that needs to make money.
+
+07:08.120 --> 07:12.760
+And that hopes to do a lot of good in the world.
+
+07:12.760 --> 07:17.320
+How much of both of those things are part of the calculation?
+
+07:17.320 --> 07:31.360
+So when you said it was an obvious choice, I think you've said a bunch of things of the kind of saying we need to go all in, sort of very boldly diving in.
+
+07:31.360 --> 07:41.000
+How much was that that the world is facing uncertainty and fear and potentially destructive pandemic in the early days,
+
+07:41.000 --> 07:45.320
+just when you're seeing the full uncertainty before us, don't know how it's going to unroll?
+
+07:45.320 --> 07:51.760
+And how much of it is this may also be a good financial decision to take this risk?
+
+07:51.760 --> 07:58.520
+I think about it all the time and I know very well that if you focus too much on making money, you will never make.
+
+07:58.520 --> 08:02.840
+You should focus in what is the real value driver.
+
+08:02.840 --> 08:08.960
+And the real value driver, it is to make breakthroughs that change patients' lives.
+
+08:08.960 --> 08:11.440
+If you don't do that, you will never make money.
+
+08:11.440 --> 08:13.360
+If you do that, don't worry.
+
+08:13.360 --> 08:16.520
+Things will fall into place and also money will fall.
+
+08:16.520 --> 08:20.000
+But the mentality of the company is to be how to help the patient.
+
+08:20.000 --> 08:26.480
+And that's what the management was that the shareholders want, because that's the only way that we can create value.
+
+08:26.480 --> 08:34.800
+In this particular case, we're not thinking at all about what are we going to make when we sell it or if we don't sell it.
+
+08:34.800 --> 08:46.560
+Because what we were focusing 100 percent was how to bring a solution to the world that will help all of us change the fear that was bring hope to the world.
+
+08:46.560 --> 08:53.520
+And as always, when you do that, you will have good returns as well.
+
+08:53.520 --> 09:08.640
+On a philosophical level, on a human level, do you ever worry that the pressure to cover the costs that were invested to develop a new drug, to develop this vaccine harms your ability to conduct unbiased studies?
+
+09:08.640 --> 09:12.920
+Not at all, because the studies are highly regulated.
+
+09:12.920 --> 09:30.240
+Everybody knows what regulators, and when I say regulators, FDA, European authorities, UK authorities, Israeli authorities, Japanese authorities, Canadian authorities, want to see how the study needs to be conducted and what exactly they need to see to approve it or not.
+
+09:30.240 --> 09:38.960
+So clearly, everybody takes into consideration how much money I'm going to invest and what is the chances that I'm going to lose them.
+
+09:38.960 --> 09:44.680
+But what you can do is to change the rules of the game so that you won't lose the money.
+
+09:44.680 --> 09:54.760
+There are very well established methodologies that would say with very high precision if your medicine is effective, if your medicine is safe.
+
+09:54.760 --> 09:59.760
+And those are there for all and all playing with the same rules.
+
+09:59.760 --> 10:08.040
+Do you have an intuition about why is the FDA trying to get 75 years to release the Pfizer data?
+
+10:08.040 --> 10:12.440
+They're trying to request that it will not be released for 75 years.
+
+10:12.440 --> 10:27.240
+And then maybe the broader version of that question is, do you think people should have sort of full transparency and immediate access to the data, immediate, you know, on the scale of weeks, not years?
+
+10:27.280 --> 10:32.160
+I think the relations with regulators, they have been always very transparent.
+
+10:32.160 --> 10:44.760
+And there are a lot of laws that they are forcing regulators and companies to put out their interactions and what exactly was discussed.
+
+10:44.760 --> 10:56.800
+Now, to go into specific details of some discussions, I don't know what is the reason that the FDA wants to take the time, but I'm sure they have very good reasons.
+
+10:56.800 --> 10:59.800
+Well, let me just say my side of it.
+
+10:59.800 --> 11:01.720
+It doesn't look like a good reason.
+
+11:01.720 --> 11:04.920
+It looks like maybe it's because I come from the Soviet Union.
+
+11:04.920 --> 11:06.840
+Now, this is not you saying this.
+
+11:06.840 --> 11:13.400
+This is me saying this is there seems to be a bureaucracy that gets in the way of transparency.
+
+11:13.400 --> 11:15.280
+That's always the challenge with government.
+
+11:15.280 --> 11:21.360
+So government is very good at setting rules and making sure there's oversight of companies and people and so on.
+
+11:21.360 --> 11:26.240
+But they create they slow things down, which is a feature and a bug.
+
+11:26.240 --> 11:29.160
+And in this case, they slow down so much.
+
+11:29.160 --> 11:38.640
+I think the reason they set it at 75 years is because they set a rate of being able to only review 500 pages of data a day or something like that.
+
+11:38.640 --> 11:44.840
+And it's a very kind of bureaucratic thing where in reality you could just show the data.
+
+11:44.840 --> 11:54.840
+And it's not like something is being hidden, but in the battle to win people's trust, to inspire them with science, it feels like transparency is one of the most beautiful things.
+
+11:54.880 --> 12:02.440
+One of the most powerful things that the FDA has FDA has the potential to be one of the great institutions of our country.
+
+12:02.440 --> 12:06.600
+And this is one example that it feels to me like a failure.
+
+12:06.600 --> 12:10.200
+So in your perspective, you're saying, I'm sure they have a good reason.
+
+12:10.200 --> 12:17.440
+So to you, the FDA is this black box that you submit things to once they approve.
+
+12:17.440 --> 12:20.120
+You know that those are the rules.
+
+12:20.120 --> 12:21.920
+It's approved. That's it.
+
+12:21.920 --> 12:24.360
+But this is not a black box.
+
+12:24.360 --> 12:28.080
+We know very well what is the process.
+
+12:28.080 --> 12:30.920
+Everybody knows very well what are the processes.
+
+12:30.920 --> 12:35.720
+The review process also, it is very detailed.
+
+12:35.720 --> 12:38.320
+They have scientists of very, very high caliber.
+
+12:38.320 --> 12:50.040
+Not every regulator in the world, but the Europeans, the BRIDs, the FDA clearly, they have very, very high caliber of scientists that they are going into a lot of details.
+
+12:50.040 --> 13:00.600
+And also, basically everything for a study is really released by law in the specifications of the product.
+
+13:00.600 --> 13:06.840
+But it's a very detailed document that it is issued and has basically the essence of everything was discussed.
+
+13:06.840 --> 13:15.960
+I don't know about specific documents if take them time to release, but clearly this is not a black box type of process.
+
+13:15.960 --> 13:24.640
+A lot of this stuff is how do you effectively communicate to the world about the incredible science that's been done, about the processes that were followed?
+
+13:24.640 --> 13:25.640
+I agree with you.
+
+13:25.640 --> 13:29.520
+And sometimes it's just in eloquence in communication.
+
+13:29.520 --> 13:31.360
+It's not that there's a failure process.
+
+13:31.360 --> 13:40.120
+It's in eloquence communication and silence, silence in the moment when clearly a lot of people are bothered and have questions.
+
+13:40.160 --> 13:50.200
+This is when you speak out and you explain exactly why as opposed to letting the sort of distrust build up and linger,
+
+13:50.200 --> 14:01.240
+because the result is there's a very large percentage of the population that just I mean, it divides people and science suffers, I think.
+
+14:01.240 --> 14:08.560
+And also the effectiveness of solutions suffers like the vaccine and so on.
+
+14:08.560 --> 14:12.680
+I asked a few folks I know if they had challenging questions for you.
+
+14:12.680 --> 14:17.080
+I'm sure many of them answered your call.
+
+14:17.080 --> 14:21.120
+Yeah, yeah, you know, many friendly folks out there.
+
+14:21.120 --> 14:25.360
+By the way, I'm sweating, not because this is a difficult conversation.
+
+14:25.360 --> 14:29.600
+It is, but it's also hot in here for the record.
+
+14:29.600 --> 14:33.160
+So one of the folks is Mr. Jordan Peterson.
+
+14:33.160 --> 14:35.400
+I don't know if you know who that is.
+
+14:35.400 --> 14:38.480
+He's a psychologist and intellectual and author.
+
+14:38.480 --> 14:45.720
+He suggested to me that I raise the concern that there's a close working relationship between Pfizer, FDA and CDC.
+
+14:45.720 --> 14:48.840
+So we talked about FDA.
+
+14:48.840 --> 14:56.560
+Do you worry that this affects both positive and negative Pfizer's chances of getting drugs approved?
+
+14:56.560 --> 15:04.120
+The fact that there's people that worked at the FDA that now work at Pfizer, Pfizer, FDA, that there's a kind of pipeline.
+
+15:04.120 --> 15:12.680
+Does this worry you that it affects your ability to do great, unbiased work?
+
+15:12.680 --> 15:21.080
+I have zero doubts that this is not affecting at all their ability to be unbiased and regulate.
+
+15:21.080 --> 15:27.800
+And in order to for the system also reinforces that by creating significant time barriers.
+
+15:27.800 --> 15:34.520
+If someone moves from an industry to FDA, he won't be able to deal with topics for a period of time.
+
+15:34.520 --> 15:40.880
+And then for even an enhanced period of time with topics that are related with a company he or she may come from.
+
+15:40.880 --> 15:48.320
+I think these regulators, they are really very strict, rightly so.
+
+15:48.320 --> 15:54.960
+If anything, I feel sometimes that maybe they should be a little bit more open minded,
+
+15:54.960 --> 16:03.480
+particularly when it comes to new technologies, rather than trying to judge and implement the same framework of evaluation of new technologies to all.
+
+16:03.480 --> 16:13.640
+They are always as regulators in the conservative side, but always, always they are unbiased and they are trying the best.
+
+16:13.640 --> 16:15.920
+And it's not only one or two people.
+
+16:15.920 --> 16:23.800
+They have processes to make sure that there are self checks and balances within the agencies, both in CDC and in the FDA.
+
+16:23.800 --> 16:27.840
+Difficult decisions, they bring external experts that they should express.
+
+16:27.840 --> 16:31.240
+Easy decisions, they are internal experts that they are debating a lot.
+
+16:31.240 --> 16:33.480
+And if there are disagreements, they elevate them.
+
+16:33.480 --> 16:39.040
+So I think we are lucky to have good regulators.
+
+16:39.040 --> 16:49.680
+I think I agree with what you said before, as with all governmental agencies, there is bureaucracy and the bureaucracy needs to be addressed.
+
+16:49.760 --> 17:04.440
+And by saying bureaucracy is not relaxing the bar, the bar needs to remain high, but focusing on what matters rather than on the detail.
+
+17:04.440 --> 17:08.960
+So you don't, you know, I've been reading quite a bit about history.
+
+17:08.960 --> 17:13.520
+You don't worry about human nature and corruption that can seep in.
+
+17:13.520 --> 17:16.840
+You're saying institutionally, there's protections against this.
+
+17:16.840 --> 17:24.080
+I think there is always the fear of corruption, particularly when you speak about public servants.
+
+17:24.080 --> 17:28.720
+But clearly the risk is very different country by country.
+
+17:28.720 --> 17:44.760
+And speaking about agencies by agencies, I think the regulatory agencies have a very good track record in history of the US, of Europe, of England, of very, very good track record of integrity.
+
+17:44.760 --> 17:46.240
+It's something I think about.
+
+17:46.240 --> 17:53.160
+So I grew up in the Soviet Union and I need to perhaps introspect this a little bit.
+
+17:53.160 --> 18:01.600
+But when I was growing up ethically, there was a sense that bribery is the only way you can get stuff done.
+
+18:01.600 --> 18:03.960
+That that was the system of the time.
+
+18:03.960 --> 18:09.120
+Like you get pulled over by a police officer, like obviously you need to bribe them.
+
+18:09.120 --> 18:11.920
+I mean, it was like the way of life.
+
+18:11.920 --> 18:16.960
+And then so coming to this country was beautiful to see that the rule of law has so much power.
+
+18:16.960 --> 18:28.520
+And ultimately, the rule of law, when enacted, when when it holds up, it gives people freedom to do the best work of their lives.
+
+18:28.520 --> 18:30.680
+But there's still human nature.
+
+18:30.680 --> 18:32.280
+And that worries me a lot here.
+
+18:32.280 --> 18:35.920
+And again, it goes back to the perception, the communication.
+
+18:35.920 --> 18:44.680
+When there's people that have worked at Pfizer and an FDA at the CDC, you know, you look at their resume, they have those things on their resume.
+
+18:44.680 --> 18:46.720
+It worries people.
+
+18:46.720 --> 18:52.480
+Are these great leaders that we are supposed to see as authorities?
+
+18:52.480 --> 18:54.640
+Are they playing a game on us?
+
+18:54.640 --> 19:00.040
+I would say that I recognize what you said about what happened.
+
+19:00.160 --> 19:07.560
+I'm sure that what you describe in the country that you're coming from, it was how you experienced it.
+
+19:07.560 --> 19:13.240
+And I know that there are other countries that you need to do these things to do your job.
+
+19:13.240 --> 19:20.760
+I don't think it's the case in this country, particularly when it comes to those agencies that you mentioned.
+
+19:20.760 --> 19:23.760
+I think they have a very high track record.
+
+19:23.760 --> 19:28.960
+And also, I don't think that there are a lot of people that they are worried about it or doubt.
+
+19:29.080 --> 19:31.880
+I'm sure, like everywhere, there will be a minority.
+
+19:31.880 --> 19:48.080
+But the vast majority of the Americans, the vast majority of the Europeans, the vast majority of the Brits, the vast majority of the Israelis, they trust what FDA or EMA or CDC or MHRA will say.
+
+19:48.080 --> 19:51.560
+Still, there is currently a distrust of Big Pharma in the public.
+
+19:51.560 --> 19:55.680
+Maybe this is something I'd love to hear your comment on.
+
+19:55.680 --> 20:02.600
+There's distrust of science when it's tangled up with corporations and government institutions like we've talked about.
+
+20:02.600 --> 20:12.840
+But they have to be entangled to achieve scale or oversight and to achieve the kind of scale that Pfizer has been able to accomplish.
+
+20:12.840 --> 20:16.600
+How can Pfizer regain the public trust?
+
+20:16.600 --> 20:19.040
+How can you regain the public trust, do you think?
+
+20:19.040 --> 20:24.280
+Not regain, but sort of take steps to increase the public trust.
+
+20:24.280 --> 20:32.640
+Reputation is something that you can lose in buckets, but you can earn it back in drops.
+
+20:32.640 --> 20:40.360
+And once you lost it, you are going to take a lot of effort to bring it back.
+
+20:40.360 --> 20:42.480
+And the pharmaceutical industry lost it.
+
+20:42.480 --> 20:52.480
+It's clear that the reputation of the industry in the last decade was on the lowest that we have seen ever.
+
+20:52.480 --> 21:01.960
+And there are many reasons for that, but clearly there are reasons that are related also with the behavior of the industry.
+
+21:01.960 --> 21:12.280
+That needed to change, and I'm hopeful that very few will disagree that the industry is a very different industry right now.
+
+21:12.320 --> 21:23.920
+That being said, I truly believe that if there is one lesson that stands out from the many lessons that we learned during COVID,
+
+21:23.920 --> 21:29.040
+is the power of science in the hands of the private sector.
+
+21:29.040 --> 21:38.400
+I think it was the private sector that came with solutions with diagnostic tests when we didn't have,
+
+21:38.400 --> 21:45.480
+solutions with respirators when we didn't have, solutions with treatments, solutions with vaccines.
+
+21:45.480 --> 22:00.400
+And I think that demonstrated very clearly to the world the value of a thriving private life sciences sector to society.
+
+22:00.400 --> 22:08.160
+That also affected very positively the reputation, both of the sector and of Pfizer.
+
+22:08.160 --> 22:11.520
+I'm not going to make the mistake to consider given.
+
+22:11.520 --> 22:17.640
+I'm not to make the mistake that because our reputation is high, that will remain so.
+
+22:17.640 --> 22:25.040
+We need to earn it every day, every day with everything we do, with everything we say, with the way we behave.
+
+22:25.040 --> 22:30.040
+And I hope that we'll rise to this occasion and we will do that.
+
+22:30.040 --> 22:37.760
+You've been at Pfizer for 28 years. Time flies when you're having fun and you've become CEO in 2019.
+
+22:37.760 --> 22:41.960
+It is a company you love, a company you believe in.
+
+22:41.960 --> 22:46.240
+It's a company that has developed drugs that has helped millions of people.
+
+22:46.240 --> 22:51.760
+So let me ask you yet another hard question on this topic of reputation.
+
+22:51.760 --> 23:01.440
+In 2009, Pfizer pleaded guilty to the illegal marketing of arthritis drug Bextra and agreed to a 2.3 billion dollar settlement.
+
+23:01.440 --> 23:07.880
+How do you make sense of the fact that this happened to a company you love and that you believe in?
+
+23:07.880 --> 23:16.320
+Yes. The Bextra case in 2009 was related to things that happened in 2003.
+
+23:16.320 --> 23:24.200
+And the things that happened in 2003 were things that basically several of our reps did off-label promotion.
+
+23:24.200 --> 23:31.280
+So they spoke with the physicians about off-label use of the product and they shouldn't.
+
+23:31.960 --> 23:37.040
+Can you clarify? So off-label are things that the FDA didn't approve, extra stuff.
+
+23:37.040 --> 23:40.760
+You basically say this drug does extra stuff that the FDA never approved.
+
+23:40.760 --> 23:45.400
+Correct. And this is something that it is allowed when physicians are speaking to physicians.
+
+23:45.400 --> 23:53.080
+But it is not allowed for the pharmaceutical companies to refer to these studies because usually there are studies that are happening off-label.
+
+23:53.080 --> 23:57.440
+And apparently several of our reps in 2003, they did it.
+
+23:57.480 --> 24:05.200
+And we had to settle in 2009 and we paid a very big fine, as you said.
+
+24:05.200 --> 24:10.320
+The fine was related not to the severity of the conduct, but the size of the revenues.
+
+24:10.320 --> 24:14.480
+So the fines are, if Bextra was a small product, we would get a small fine.
+
+24:14.480 --> 24:17.720
+Bextra was a very big product and we got a very large fine.
+
+24:17.720 --> 24:21.560
+Very bad what happened in 2003.
+
+24:21.560 --> 24:26.680
+I don't think that these things happened since then.
+
+24:26.680 --> 24:35.080
+We have a stellar record from 2009 until now of complying with every single regulation and rule.
+
+24:35.080 --> 24:42.040
+We have internal processes to make sure that these are not happening by individuals that may have an interest.
+
+24:42.040 --> 24:47.280
+For example, to get a promotion, they may try and do things that are not the right things.
+
+24:47.280 --> 24:56.600
+And we have, more importantly, a culture in this company that really sets aside people that they think differently.
+
+24:56.600 --> 25:07.800
+So I didn't like what happened in 2003, but I believe a lot has changed in the 20 years that followed, or almost 20 years.
+
+25:07.800 --> 25:14.920
+So you're developing drugs, you're developing solutions to help millions of people, but there's risk involved.
+
+25:14.920 --> 25:23.920
+And so there will be lawsuits heading back your way because there's a lot of lawyers in the world, partially.
+
+25:27.480 --> 25:35.720
+How do you put that into the calculation of how you try to do good in the world?
+
+25:35.720 --> 25:37.640
+That some of the cost is the lawsuits.
+
+25:37.640 --> 25:49.720
+How do you not fall victim to thinking that it's just the cost of doing business and that some of the lawsuits might actually represent real pain that people are going through?
+
+25:49.880 --> 25:52.360
+I think that we try always to do the right thing.
+
+25:52.360 --> 25:56.760
+And that's, as I said, very well embedded into our culture.
+
+25:56.760 --> 26:03.000
+If you don't do the right thing, sooner or later you will pay for it, one way or another.
+
+26:03.000 --> 26:12.360
+And right now, for us doing the right thing, it is being able to find innovations to issues that are real.
+
+26:12.360 --> 26:17.720
+Diseases that they do not have good coverage, good treatments right now.
+
+26:17.720 --> 26:24.680
+We try to find treatments that significantly surpass the current standards of care.
+
+26:25.880 --> 26:30.120
+And we try not only to comply with what regulators are asking us to do.
+
+26:30.120 --> 26:33.720
+This is what you need to do to prove the safety or the efficacy, but exceed them.
+
+26:34.680 --> 26:42.520
+No matter what we do on that, I'm sure that people will find opportunity because, as you said, there are a lot of lawyers to sue us.
+
+26:42.520 --> 26:44.280
+But we believe in the justice system.
+
+26:44.280 --> 26:52.200
+And we believe that eventually, if you are doing the right thing, you will be on the right side of the history.
+
+26:53.000 --> 27:03.640
+I'm really glad you say that because focusing on doing the right thing, no matter the money, I believe is the best way to make money.
+
+27:03.640 --> 27:04.760
+That's exactly what I said.
+
+27:04.760 --> 27:11.640
+And also, in another way, in other realms, creating a product that people love is the best way to make money.
+
+27:11.720 --> 27:18.040
+So focusing on the on the core of the thing that makes people feel good, that brings value to people's lives.
+
+27:19.640 --> 27:32.200
+So I'm now in Austin, Texas, my good friend, Joe Rogan, he's been highlighting to me this aggressive marketing on mainstream media channels by Pfizer.
+
+27:32.200 --> 27:34.360
+So let me ask a general marketing question.
+
+27:35.240 --> 27:37.320
+Do you see this as a conflict of interest?
+
+27:37.400 --> 27:50.680
+Is it my bias, the reporting of news that a lot of us, a lot of people, me included, look to these mainstream channels of news for kind of authority of like what the heck's going on in the world?
+
+27:51.560 --> 28:07.080
+And if Pfizer is sponsoring many of these shows, there's a worry, it may be a perception thing, but there's also a natural worry that it would influence what they're talking about.
+
+28:07.080 --> 28:08.920
+Because they're afraid of losing the sponsorship.
+
+28:08.920 --> 28:12.840
+It's subtle, but at scale, it might have a serious impact.
+
+28:12.840 --> 28:13.640
+Do you worry about this?
+
+28:14.920 --> 28:20.360
+I think people could go one way or another because of multiple reasons.
+
+28:21.400 --> 28:28.120
+From our perspective, I don't think we have aggressive marketing.
+
+28:28.760 --> 28:34.360
+What we do, we go on TV and we are having ads about our products.
+
+28:35.000 --> 28:37.480
+And they are highly regulated.
+
+28:38.200 --> 28:43.640
+I think it is the right of people to know, to learn that if there is a product like that.
+
+28:43.640 --> 28:49.480
+It's very clearly that we cannot say things that they are off label, that have not been approved.
+
+28:49.480 --> 29:00.680
+We need to have, every time we go on TV, as you know, FDA is forcing us to say also the bad things that can happen for a medicine, sometimes that takes more time than the good things.
+
+29:01.240 --> 29:04.040
+And I don't think that we are doing aggressive marketing.
+
+29:04.680 --> 29:15.560
+Now, people could be influenced and can be biased in the podcasts or in the other type of media activities that they have for multiple different reasons.
+
+29:17.560 --> 29:19.960
+Yeah, I know, but it's still, it's pressure.
+
+29:19.960 --> 29:20.760
+It's human nature.
+
+29:20.760 --> 29:24.440
+I mean, one of it is perception, but I worry about too.
+
+29:24.440 --> 29:30.360
+I have a ton of sponsors for this podcast, for example, and none of them ever asked me to anything.
+
+29:30.360 --> 29:38.600
+They're just, you know, I think likely that kind of pressure is not happening for Pfizer, but there's implied pressure sometimes.
+
+29:39.320 --> 29:48.200
+And I worry about that a lot because, you know, I look at academia like I look for the good in people.
+
+29:48.200 --> 29:54.120
+I tend to believe most people are good or have the capacity to be good and desire to be good.
+
+29:54.840 --> 30:02.840
+When I came to MIT, I was a little bit disappointed, maybe heartbroken.
+
+30:05.720 --> 30:06.680
+How much pressure?
+
+30:09.640 --> 30:17.400
+I think unjustified pressure people felt from financial constraints, especially at MIT when there's, I think, a lot of money.
+
+30:18.360 --> 30:23.640
+People still felt constraints and they weren't, it wasn't bringing out the best in them.
+
+30:23.640 --> 30:24.920
+They weren't supporting each other.
+
+30:24.920 --> 30:28.760
+They weren't loving each other, like celebrating each other's successes.
+
+30:29.320 --> 30:40.040
+I don't want to blame money on everything, money constraints, but when you have sponsors, it just, I personally worried that doesn't bring the best out of people.
+
+30:41.000 --> 31:04.200
+And so I feel like I want to put some responsibility on sponsors and great big companies like Pfizer to kind of not get in the way of the best of human nature, whether it's sponsoring podcasts, mainstream media, like, I don't know, athletes, whatever.
+
+31:04.840 --> 31:08.760
+You need to know that we are so, so careful with sponsorships.
+
+31:09.000 --> 31:11.240
+First of all, we have very few, very, very few.
+
+31:12.200 --> 31:15.960
+You have a team that for every single one could be $2,000.
+
+31:16.680 --> 31:20.280
+They will try to see if there is a conflict of interest in the way we do it.
+
+31:20.280 --> 31:27.800
+And also what is the reputation of the persons or the programs that we are sponsoring?
+
+31:27.800 --> 31:31.800
+So I don't think our friend, I think was from Texas.
+
+31:32.440 --> 31:34.840
+Yes, Joe Rogan, yes.
+
+31:35.800 --> 31:40.120
+I don't think he got it right that we do those type of things.
+
+31:41.160 --> 31:41.640
+We don't.
+
+31:41.640 --> 31:44.520
+Oh, in terms of like having a negative effect on...
+
+31:44.520 --> 31:46.440
+Not even having aggressive sponsorships.
+
+31:46.440 --> 31:47.080
+We have very few.
+
+31:47.960 --> 31:49.880
+Yeah, when you clip them all together.
+
+31:49.880 --> 32:03.640
+Most of the sponsorships that we have, it is more on passion related organizations, rather than we are very careful not to sponsor other things that can be perceived, not even influenced, but perceive that we may influence.
+
+32:03.640 --> 32:05.160
+So we are very, very careful on that.
+
+32:05.160 --> 32:06.360
+This is not the case with us.
+
+32:07.400 --> 32:21.400
+So with the incredibly fast development of the vaccine, could you tell me the story from the engineering to the science to the human story of how you could do it so fast?
+
+32:22.680 --> 32:26.200
+By November, you even had the ambition to do it by October.
+
+32:26.200 --> 32:27.480
+It was in the initial days.
+
+32:28.520 --> 32:29.240
+How do you...
+
+32:29.240 --> 32:30.200
+Eight days later.
+
+32:31.080 --> 32:40.200
+In that time, how do you show that the vaccine is safe and effective given that I think previous vaccines have taken years to do that?
+
+32:40.200 --> 32:43.160
+Yeah, the vaccines take years to do that.
+
+32:43.160 --> 32:54.600
+And the time that it takes, it is basically the vast majority of the time to conduct the final phase three study, what is the confirmatory study.
+
+32:55.320 --> 32:57.800
+And you do that because the phase three study cost a lot of money.
+
+32:57.800 --> 32:59.720
+In our case, it cost almost a billion.
+
+33:00.600 --> 33:12.120
+So you don't want to go and risk a billion in blinded data normally before you do a lot of experiments to make sure that the product that you're putting in the phase three is the right one.
+
+33:13.400 --> 33:14.360
+We didn't have that time.
+
+33:15.080 --> 33:17.480
+So we risk all the money.
+
+33:17.480 --> 33:22.920
+So we went into, we condensed all the time towards this phase three.
+
+33:22.920 --> 33:31.480
+But the phase three study had to follow all the rules that any study follows when you do this trial.
+
+33:31.480 --> 33:37.800
+Could you just briefly describe the basics of what is phase one, what is phase two, what is phase three?
+
+33:37.800 --> 33:43.560
+Let's say that there are so many phases when you try, first of all, to find what is the right vaccine.
+
+33:43.560 --> 33:47.080
+We tried from 20 different vaccines, we nailed down to four.
+
+33:47.640 --> 33:51.320
+And for those four, we selected eventually two and then eventually one.
+
+33:52.280 --> 33:57.000
+Once you have those selections, what is the dose you're going to use?
+
+33:57.000 --> 34:02.280
+And then we tried multiple different doses to see which one we think is the best.
+
+34:02.280 --> 34:05.080
+What does trying entail in those early days?
+
+34:05.080 --> 34:10.440
+You go, first of all, with smaller doses in humans.
+
+34:11.240 --> 34:20.360
+And then after you have done a lot of experiments in animals so that you can feel that it is safe enough to go to humans and then go with very low dose.
+
+34:20.360 --> 34:24.760
+And then you gradually increase the dose and then you monitor those humans to make sure
+
+34:24.760 --> 34:29.560
+that there are not any, let's say, reactogenicity to what you are giving them.
+
+34:29.560 --> 34:34.360
+At the same time, you start to measure what is doing in terms of immune responses.
+
+34:34.360 --> 34:38.600
+So you do that with multiple vaccines and you do that with multiple doses and you do that
+
+34:38.600 --> 34:41.560
+with multiple ages of people, young people, old people.
+
+34:42.440 --> 34:47.960
+And eventually, from the 20 vaccines to multiple doses to multiple schedules,
+
+34:47.960 --> 34:52.920
+is it after three weeks the second dose or is it after four weeks or after six months?
+
+34:53.720 --> 35:00.760
+All of that will inform you that I think this is the vaccine, this is the dose,
+
+35:00.760 --> 35:05.400
+this is the scheme that I believe will give me the best results.
+
+35:05.400 --> 35:08.920
+And when you have that, then you go to do what we call the phase three.
+
+35:09.800 --> 35:16.120
+This is a very big study with thousands of people where you use the vaccine that you think is the
+
+35:16.120 --> 35:23.400
+right one and a placebo. The placebo and the vaccine, they look identical. Nobody knows
+
+35:23.960 --> 35:29.000
+if he's injected a placebo or a vaccine. The physician that makes the injection,
+
+35:29.000 --> 35:35.160
+the doctor doesn't know if he's injecting placebo or vaccine. He knows a barcode.
+
+35:35.160 --> 35:40.680
+Only the computer knows. In order to go into this computer, there are keys and there are at least
+
+35:40.680 --> 35:45.880
+two people that needs to put their keys so that someone can see the data. And those
+
+35:45.880 --> 35:52.040
+people, they have legal obligations never to do that. So, before a certain point.
+
+35:52.040 --> 35:57.160
+So, all of that is blind. The idea is that when you go into this study,
+
+35:58.120 --> 36:02.520
+you need to make sure that you are going with the right one. That's why it takes so much time.
+
+36:02.520 --> 36:08.440
+But the study is the study. You need to have a significant number of people that will give
+
+36:08.440 --> 36:12.440
+the two and then you let them live their lives and then you see how many of them will get the
+
+36:12.440 --> 36:17.960
+disease and then you see if there are differences in percentage of infections
+
+36:17.960 --> 36:20.920
+for the vaccinated compared to the non-vaccinated. At the same time,
+
+36:20.920 --> 36:25.000
+you're monitoring all of them to see if there are differences in the safety profile.
+
+36:25.000 --> 36:27.400
+If those that they got the placebo have the same, let's say,
+
+36:28.040 --> 36:33.160
+heart attacks with those that they didn't. They got the vaccine because heart attacks will happen
+
+36:33.160 --> 36:41.880
+if you have 50,000 people because it's part of life. All these processes are very well established
+
+36:42.520 --> 36:48.040
+since years. What we did the last one was exactly the same as we did always. We just didn't lose
+
+36:48.040 --> 36:57.480
+time. We were not careful with money. Instead of recruiting 50,000 people over a year because we
+
+36:57.480 --> 37:04.120
+had, let's say, 30 hospitals doing the recruitment, we went with 150 hospitals doing the recruitment.
+
+37:04.120 --> 37:08.280
+That cost a lot of money. But instead of recruiting them in a year, we recruited
+
+37:08.280 --> 37:15.000
+them in three, four months. I did this type of things by taking return on investment,
+
+37:15.000 --> 37:20.920
+taking costs out of the equation, and we were able to achieve this result. But it's not the
+
+37:20.920 --> 37:27.560
+process, believe me. It is the heart of the people. People don't know what they can and what they
+
+37:27.560 --> 37:34.520
+cannot do. If anything, they have a serious tendency to underestimate what they can do.
+
+37:35.480 --> 37:41.400
+Always, when you ask them something that is seemingly impossible, they will think out of
+
+37:41.400 --> 37:47.080
+the box to be able to deliver. We discussed about the timing. Instead of eight years,
+
+37:47.080 --> 37:50.680
+we then asked them to do it in six. We asked them to do it in eight months.
+
+37:52.600 --> 37:59.480
+Our normal manufacturing yearly production of Pfizer was 200 million doses of vaccines every
+
+37:59.480 --> 38:04.520
+year. That was what we are doing in the last 10 years. We didn't ask them to make 300 million
+
+38:04.520 --> 38:10.040
+doses for a new vaccine. We asked them to make 3 billion doses for a new vaccine.
+
+38:10.840 --> 38:15.960
+The discovery phase of a new molecule, like the treatment that we have now, the pill against
+
+38:15.960 --> 38:20.520
+COVID, takes four years. We didn't ask them to do it in three. We asked them to do it in four
+
+38:20.520 --> 38:27.240
+months, which is what they did. When you're setting this type of goals, they know immediately. They
+
+38:27.240 --> 38:33.480
+cannot just think within the box. Immediately, this is where the human ingenuity and the heart
+
+38:33.480 --> 38:39.880
+comes. This is how they surprised all of us. There's incredible science and engineering
+
+38:39.880 --> 38:48.200
+going on here. Absolutely. This is what's bothering me, that the conversation in public
+
+38:48.920 --> 38:53.400
+is often not about that. It's about politics, unfortunately.
+
+38:54.120 --> 39:01.480
+So I spent the day with Elon Musk yesterday. He works with rockets. A similar situation
+
+39:01.480 --> 39:06.280
+is with Pfizer in the sense that there's NASA and then there's this private company.
+
+39:07.560 --> 39:13.160
+That's a source of incredible inspiration to people. No politics, very little politics.
+
+39:16.040 --> 39:22.280
+This is part of the thing I'm trying to do. I'm hoping to do our little part in this conversation
+
+39:22.280 --> 39:30.840
+to help untangle a little bit, just reveal the beauty and the power of the thing that was done
+
+39:30.840 --> 39:34.920
+here, especially with the vaccine, but other things that are being done with the antiviral drug.
+
+39:37.720 --> 39:45.080
+Let me just linger on the safety. What can you say? There's a lot of people that are concerned
+
+39:45.720 --> 39:52.200
+that the Pfizer vaccine, by the way, of which I took two shots, no booster yet,
+
+39:54.520 --> 39:59.160
+is unsafe. What do you say to people that say that?
+
+39:59.800 --> 40:07.320
+No, they should not fear something like that. It's completely wrong. There is no medical product
+
+40:07.320 --> 40:13.480
+in the history of humanity that have been tested as much as this vaccine has been administered.
+
+40:14.040 --> 40:20.680
+To hundreds of millions of people and because of the importance of COVID, they have been
+
+40:20.680 --> 40:27.480
+scrutinized, those people, constantly. Right now, healthcare authorities are looking for
+
+40:27.480 --> 40:32.440
+every single signal around the world of people that they got the vaccine and try to see if it
+
+40:32.440 --> 40:40.040
+is vaccine-related or not. There are electronic medical records that will tell us when and what
+
+40:40.040 --> 40:49.480
+happened to a person when he did get the vaccine. We know now, we have so high certainty that it is
+
+40:49.480 --> 40:58.360
+so safe exactly as the data sheet says about this vaccine more than any other product.
+
+40:59.000 --> 41:03.400
+They should not be afraid of something like that and they should not listen to
+
+41:04.040 --> 41:09.160
+information that it is misinformation that it is spread on purpose.
+
+41:10.360 --> 41:18.680
+Well, I don't like the word misinformation because, again, back to the Soviet Union,
+
+41:21.080 --> 41:24.040
+anyone who opposes the state is spreading misinformation.
+
+41:24.760 --> 41:29.080
+You can basically call anything misinformation. That's the unfortunate times we live in.
+
+41:29.720 --> 41:34.600
+You can basically call anybody a liar and say,
+
+41:34.600 --> 41:39.960
+I'm the sole possessor of the truth. Just, no offense to me, just because you wear a tie
+
+41:39.960 --> 41:45.080
+doesn't mean you're any more likely to be in the possession of the truth than anyone else.
+
+41:46.120 --> 41:50.040
+I wouldn't disagree with that at all. As somebody who's not wearing a tie.
+
+41:51.400 --> 41:55.560
+People can see that I'm not wearing a tie in Europe, but it's not about
+
+41:56.360 --> 42:05.560
+being able, those that they have the power to impose on the others the stigma that
+
+42:07.160 --> 42:11.960
+what you're saying is misinformation. But there are a few things that the society
+
+42:11.960 --> 42:20.600
+we have accomplished and science is one of them. Analytics of data is another one.
+
+42:21.240 --> 42:28.680
+And to say that something which is highly scientific by people that they're not scientists,
+
+42:31.160 --> 42:37.400
+I think that it is not what you're describing what used to happen in the Soviet Union
+
+42:37.400 --> 42:42.120
+or in any other autocratic regime in the world right now.
+
+42:42.120 --> 42:49.000
+But I definitely do think that the scientists, the public science communicators
+
+42:49.000 --> 42:55.560
+I've listened to over COVID have really disappointed me because they have not spoken
+
+42:55.560 --> 43:01.160
+with empathy. They haven't sufficiently, in my view, have put their ego aside and really listen
+
+43:01.160 --> 43:08.120
+to people. Yes, people that don't have a PhD, people who have not really, you know, maybe you've
+
+43:08.120 --> 43:13.800
+not even taken like a biology course in college or something like that. But still, they have
+
+43:13.800 --> 43:21.000
+children, they worry, they fear, they don't know who to trust. They don't know if they should
+
+43:21.000 --> 43:27.400
+listen to the CEO of Pfizer who might have other incentives in mind, who might just care about
+
+43:27.400 --> 43:32.840
+money and nothing else. And so they just use common sense and they ask questions. And I think
+
+43:33.400 --> 43:37.080
+to them, talking down to them as if they're not intelligent and so on is something
+
+43:37.880 --> 43:42.760
+scientists have done almost like rolled their eyes. And that disappoints me because I think
+
+43:42.760 --> 43:47.400
+that's kind of what is the source of division. Look, humility is a virtue.
+
+43:47.400 --> 43:55.320
+Yes. And the fact that you're educated doesn't mean that you are having either humility or empathy
+
+43:55.960 --> 44:04.040
+or you have good human qualities. This was never and will never be a metric of judging
+
+44:04.040 --> 44:11.960
+this type of virtues. Those that they do this, they're wrong. And actually, they are not
+
+44:12.600 --> 44:16.920
+doing good service to the public health because they're undermining. People are not stupid.
+
+44:16.920 --> 44:24.120
+They see if you are not respecting them and if you are not respecting their need to learn because
+
+44:24.120 --> 44:28.120
+that affects their health, the health of the mother, of the kids. So I fully agree with you
+
+44:28.120 --> 44:36.040
+that we should be very patient to explain again and again and again what is happening.
+
+44:36.040 --> 44:39.960
+And the vast majority of the people that they don't get vaccinations right now is because
+
+44:39.960 --> 44:45.160
+they're afraid. It's not for any other reason. It's not that they have an agenda. What I'm
+
+44:45.160 --> 44:55.160
+saying it is there is a small number of people that they have make business for them to profit
+
+44:55.160 --> 45:02.280
+from this anxiety. I'll give you an example. I have been arrested by FBI. This is what someone
+
+45:02.280 --> 45:09.880
+wrote. I read it. I laughed. I mean, okay, this is where they take it. There was a reason why
+
+45:09.880 --> 45:15.320
+they wrote it that. The Pfizer CEO was arrested by FBI because they want to create doubts in the
+
+45:15.320 --> 45:20.120
+minds of the people that they're afraid and say, look, if the FBI arrested him, likely I will not
+
+45:20.120 --> 45:30.680
+do the vaccine. But I laughed. A week later, the wife of the Pfizer CEO died. There is a picture
+
+45:30.680 --> 45:39.160
+in this website of my wife. Someone sends to me. Now I'm pissed. I'm not laughing. I tried to find
+
+45:39.160 --> 45:45.240
+my kids to tell them, if you read something, mom is fine. Don't worry. Then I remember that she has
+
+45:45.240 --> 45:52.200
+very old parents back in Greece. We start calling them to making sure because we know that that
+
+45:52.200 --> 45:57.960
+will be picked up by Greek newspapers and they will publish it. Those people that wrote these
+
+45:57.960 --> 46:05.320
+things, they know very well that my wife didn't die and died because she was vaccinated. So this
+
+46:05.320 --> 46:17.320
+is the narratives that they are on purpose forming to profit from the stress and the anxiety
+
+46:17.320 --> 46:21.560
+of good people. And that's something I have to kind of... People that listen to this,
+
+46:21.560 --> 46:28.440
+that kind of doubt institutions. I do also want to say that there's quite a few folks
+
+46:29.080 --> 46:39.240
+who realize they can make money from saying the man is lying to you. The government is lying to you.
+
+46:40.120 --> 46:47.240
+It's all corrupt. It's all a scam. Big pharma is lying to you. They're manipulating you.
+
+46:48.200 --> 46:54.440
+I'm surprised at how much money can be made with that. And it's sad. So you have to, just as people
+
+46:54.440 --> 47:01.400
+use their common sense to be skeptical when listening to politicians and powerful figures,
+
+47:01.400 --> 47:07.560
+they should be skeptical to also when listening to sort of the conspiracy theorists or not even
+
+47:07.560 --> 47:13.400
+the conspiracy theorists, but people who raise questions about institutions. Think on your own.
+
+47:13.400 --> 47:20.760
+Think critically with an open mind that everyone can be manipulating you, but also everybody has
+
+47:20.760 --> 47:28.120
+the capacity to do good. And I think science in its pure form, not when entangled with institutions,
+
+47:29.560 --> 47:35.000
+is a beautiful thing. And in the hands of many companies, it is a beautiful thing at scale.
+
+47:36.440 --> 47:42.600
+Still, you have a lot of incentive as having created the vaccine at Pfizer,
+
+47:42.600 --> 47:47.720
+this incredible technology to sing it praises.
+
+47:49.640 --> 47:56.600
+So there's a kind of, you know, people are skeptical, like how much do we trust? How excited
+
+47:58.600 --> 48:04.680
+Albert is about this vaccine. So for example, I mean, not to do a Shakespearean analysis of
+
+48:04.680 --> 48:11.720
+your Twitter, but I think you tweeted something about a study with 100% efficacy of the vaccine
+
+48:11.720 --> 48:17.000
+or in stopping the transmission or something like that. Do you regret
+
+48:19.160 --> 48:24.840
+sort of being like over-representing the effectiveness of the vaccine,
+
+48:24.840 --> 48:31.560
+technically saying correct things, but just kind of like highlighting the super positive things
+
+48:32.600 --> 48:35.400
+that may be misinterpreted, you know, saying 100%.
+
+48:36.280 --> 48:39.720
+No, I never said something 100% that every time I speak,
+
+48:39.720 --> 48:43.640
+if a number is 100%, I rush to say that in biology, there is nothing 100%,
+
+48:44.440 --> 48:48.920
+because always there will be when you go to the millions, okay? There were in the study things
+
+48:48.920 --> 48:54.440
+that were 100%, for example, deaths, or in South Africa. When we tried, there was 100%
+
+48:55.320 --> 49:01.640
+efficacy. Clearly, it's more numbers. When the numbers will become much bigger, the 100% will
+
+49:01.640 --> 49:08.200
+not hold, but will be 95, 96. So still, the direction of this is the point. So I'm very,
+
+49:08.200 --> 49:16.600
+very careful what I tweet, and in addition to how careful I am, I have people that
+
+49:17.240 --> 49:21.560
+they are looking at and they are having second or third opinions to make sure that we don't put.
+
+49:21.560 --> 49:25.560
+Why? Because I know that people are listening to me right now, everything I say,
+
+49:26.120 --> 49:34.040
+and I want to make sure that they continue not only being clear as to what I want to say
+
+49:34.120 --> 49:39.320
+so there are no misunderstandings, but also I maintain the trust of the people. I don't think
+
+49:39.320 --> 49:46.760
+that someone who only cherry picks information and only emphasizes positive things, it's someone
+
+49:46.760 --> 49:51.000
+that it is the one to be trusted, and I want me and Pfizer to be trusted.
+
+49:51.960 --> 49:57.720
+So many felt the vaccine was presented as a cure that wouldn't require regular booster shots.
+
+49:58.680 --> 50:03.240
+Was that something you believed early on? Did you always believe that many regular shots would be
+
+50:03.240 --> 50:10.040
+required? And maybe in a bigger picture, do you think this will, for the Pfizer vaccine,
+
+50:10.040 --> 50:14.360
+is it something you see that's taking a booster shot regularly, like annually?
+
+50:15.000 --> 50:18.840
+Yes. In the beginning, when we had the first months with the vaccine,
+
+50:18.840 --> 50:23.480
+people would ask me, do we need another one? And I said, we don't know. I was very clear about it.
+
+50:24.200 --> 50:30.120
+Then around April, May, I start seeing the first data and I made statements that I think we will
+
+50:30.120 --> 50:36.040
+need a booster around eight to 12 months after the second dose. And then after that,
+
+50:36.040 --> 50:41.240
+annual revaccinations, this is what I said, believe is one of the most likely scenarios.
+
+50:42.280 --> 50:45.240
+And it was based on the data that I had, but then Delta came.
+
+50:46.200 --> 50:52.120
+Because I was always making the caveat that with absent a new variant, with everything we know.
+
+50:52.680 --> 50:58.600
+With Delta, it was proven that we need the booster to move to the six months. And this is what
+
+50:59.560 --> 51:06.120
+happened. And I still said, I think the booster is a six months and then I think
+
+51:06.120 --> 51:10.600
+it will be an annual revaccination, likely. We have to monitor to see the data,
+
+51:10.600 --> 51:18.200
+but this is the likely scenario. Now we have Omicron. And Omicron says that two doses might
+
+51:18.200 --> 51:24.360
+be challenging. We don't know exactly yet, but three doses work. So clearly a lot of countries
+
+51:24.360 --> 51:30.760
+already started moving now the third dose, not from six months to three. So that they will
+
+51:31.480 --> 51:38.440
+reduce the period that people will not be protected with the third dose.
+
+51:39.640 --> 51:46.040
+I don't know with Omicron how long this will last. And frankly, I don't know if we will need
+
+51:46.040 --> 51:50.200
+a new vaccine tailor-made to Omicron based on everything we know so far.
+
+51:50.840 --> 51:55.960
+We are monitoring and we will know way more in the weeks to come. If there is a need for a new
+
+51:55.960 --> 52:01.640
+vaccine, we will have it. And if there is a need for mass production of this new vaccine,
+
+52:02.280 --> 52:07.880
+I can also feel very comfortable that we will not lose any of our capacity that we have developed.
+
+52:07.880 --> 52:15.000
+Right now we are running at one billion, almost approximately, doses per quarter, four per year.
+
+52:15.560 --> 52:19.960
+And if we have two sweets and have half of that in the new, half of that in the old,
+
+52:19.960 --> 52:26.120
+we will do still four billion doses. So I think the world should feel very, very comfortable.
+
+52:26.120 --> 52:29.880
+But if there is a need, we will be ahead of the virus.
+
+52:29.880 --> 52:35.320
+Yeah, you did, you delivered or produced three billion this year vaccines and you're on track
+
+52:35.320 --> 52:42.760
+to do four billion next year. I mean, if we had a lot more time, we would talk about how the heck
+
+52:42.760 --> 52:47.480
+you achieve that kind of scale. It's truly incredible. Let me ask the policy question.
+
+52:48.520 --> 52:56.760
+What are your feelings about vaccine mandates in terms of, do you think the most effective way to
+
+52:56.760 --> 53:05.320
+vaccinate the population is to acquire it or do you go with the American way and give people
+
+53:05.320 --> 53:09.400
+the freedom to choose? I think it is a very difficult
+
+53:09.720 --> 53:16.440
+topic and a very difficult decision, whoever needs to make it. And clearly it's not me.
+
+53:16.440 --> 53:21.000
+It is the public health officials of every country that they have to make this decision.
+
+53:21.000 --> 53:29.880
+I have to make the decision for Pfizer employees and I had to balance the fear of those
+
+53:30.760 --> 53:36.040
+that they work, that they want to feel that the others are vaccinated and the fear of those that
+
+53:36.040 --> 53:42.040
+they don't want to get the vaccine. And eventually I came to the decision that we will mandate it
+
+53:42.040 --> 53:46.280
+at Pfizer. We are flexible. We are giving exceptions, of course, for health, maybe some
+
+53:46.280 --> 53:54.760
+religions, but we decided to mandate it. Now at Pfizer, when we did this decision,
+
+53:54.760 --> 53:58.680
+we were at 90% vaccination rates when we said we are going to mandate it.
+
+53:59.640 --> 54:11.000
+And that took it up to 96%. It works. This 10% was never going to move, I felt, because no matter
+
+54:11.000 --> 54:16.120
+what, you have a small number of people that really are scared and they don't feel comfortable
+
+54:16.120 --> 54:23.240
+to do it. It worked in our case. We took it to 96%. I'm happy for those people. A lot will not
+
+54:23.320 --> 54:29.480
+disease and some will not die of those people. But it's not me to say because the debate,
+
+54:30.840 --> 54:35.640
+it's serious debate and there are a lot of pros and cons if you need to push people,
+
+54:35.640 --> 54:43.640
+if you need to give them the freedom and it comes with the territory. If you are elected
+
+54:43.640 --> 54:47.560
+to run a country, you should be ready to make difficult decisions.
+
+54:47.560 --> 54:51.080
+And no matter what decision you make, there will be fake stories written about you as we talked
+
+54:51.080 --> 54:58.120
+about. You will not be able to please everyone. Yes. Well, let me just say that I think again,
+
+54:58.120 --> 55:02.600
+coming from the Soviet Union, I think at the public level, at the federal level mandates is
+
+55:05.000 --> 55:09.400
+a really bad idea. Even if it's good for the health of the populace,
+
+55:10.600 --> 55:13.720
+there's something about preserving the freedom is really powerful about this country.
+
+55:14.760 --> 55:20.680
+Doing the hard work of convincing people to get vaccinated, to choose to get vaccinated if they
+
+55:20.680 --> 55:25.960
+want, but still have the freedom not to. That's a really powerful freedom. To me,
+
+55:25.960 --> 55:32.520
+it's super lazy to mandate. People should understand the science and want to get vaccinated.
+
+55:38.360 --> 55:43.880
+Do you think children need to get vaccinated? I do. I do think that they need to get vaccinated.
+
+55:44.520 --> 55:55.480
+So age ranges 5 to 16, there's a lot of parents that fear for the well-being of their children.
+
+55:56.040 --> 55:58.280
+Can you empathize with those parents? Can you
+
+55:59.240 --> 56:03.480
+steelman their arguments against the vaccine for their children?
+
+56:04.200 --> 56:13.720
+Because people know who I am. I had the opportunity to interact with parents before that was,
+
+56:13.720 --> 56:22.200
+let's say, approved. There were so many way more that I had a lot of empathy because they were
+
+56:22.200 --> 56:28.760
+afraid for their kids because they didn't have a vaccine. They were the ones that were speaking at
+
+56:28.760 --> 56:34.520
+that time. Bring me a vaccine. When are you going to bring me a vaccine? I really fear. I feel that
+
+56:34.520 --> 56:40.600
+this is unfair, but I am protected. My husband is protected. My old son is protected and my little
+
+56:40.600 --> 56:47.320
+sweetheart, because she's below the age, is not protected. Now that we have the vaccines,
+
+56:47.320 --> 56:52.360
+I'm sure that those that they are afraid of the vaccine, not of the disease, which are smaller
+
+56:52.360 --> 56:58.840
+number, admittedly. Also, if they are afraid of them, I'm sure that they will be afraid
+
+56:58.840 --> 57:03.400
+even more about their kids because they love, I would say, more than they love themselves.
+
+57:03.960 --> 57:11.080
+So it's going to be this situation. And again, the same. How can we do to demonstrate,
+
+57:11.080 --> 57:14.600
+to convince people, to win the minds and the hearts of the people that this is the right
+
+57:14.600 --> 57:18.760
+thing to do? What do you think about that calculation? Because the risk for kids is very low.
+
+57:19.400 --> 57:24.920
+Kids do die. Kids do go to the hospital from COVID. But the rate is very low.
+
+57:25.560 --> 57:34.360
+The rate is lower, but kids, they do die. And how can you say that I'm not going to protect a kid
+
+57:34.360 --> 57:39.640
+for something that it is likely to happen? And it is not only that. What happens in the school
+
+57:39.640 --> 57:46.200
+when they stop the education process, because a kid got the disease and they don't have vaccines
+
+57:46.200 --> 57:54.120
+so that they can control, it is such a big disruption and such a big risk for the health
+
+57:54.680 --> 58:03.640
+of the kids that it shouldn't be a debate. Look, how many kids are having polio right now?
+
+58:05.960 --> 58:12.280
+Way fewer number than those that are having COVID in the hospital. But everybody is getting
+
+58:12.280 --> 58:20.280
+the vaccine. Well, polio was deadlier for kids. But it's not now. So why a kid to do it now?
+
+58:21.800 --> 58:26.760
+Because it needs to be protected. Well, the unique thing about the COVID vaccine is a new type of
+
+58:26.760 --> 58:34.440
+technology too. So there's an extra concern. Choosing to vaccinate a child, you're making
+
+58:34.440 --> 58:40.600
+a choice that can potentially hurt them. That's the way parents that are hesitant about the vaccine
+
+58:40.600 --> 58:48.280
+think. I think choosing to vaccinate children makes a choice so that something could not
+
+58:48.280 --> 58:53.320
+potentially hurt them, which is the disease. That's why we are doing vaccinations since ever.
+
+58:53.880 --> 58:59.640
+I know that there are people that they are concerned for themselves and for their kids.
+
+59:00.360 --> 59:08.360
+What I know it is that I'm a scientist and I'm a parent. And I am telling you that
+
+59:08.360 --> 59:12.360
+vaccines is a very good thing for kids. And thank God we were able to develop them.
+
+59:14.680 --> 59:18.520
+So we've talked quite a bit about the vaccine, but there's an incredible new technology that
+
+59:18.520 --> 59:27.160
+Pfizer is developing with the Paxlovid antiviral for COVID. Where does that stand? How does that
+
+59:27.160 --> 59:34.200
+work? And how are you able to develop it in four months? Like you said,
+
+59:34.200 --> 59:40.200
+and all of that in just a few minutes. First of all, what this is about, this is a real
+
+59:40.200 --> 59:46.920
+game changer. This is a course of treatment that you get only if you get the disease, you get COVID.
+
+59:48.200 --> 59:55.160
+Then what happens is that you will take for five days pills, day and night, and twice a day for
+
+59:55.160 --> 01:00:01.160
+five days. And instead of 10 people from those that disease to go to hospital, only one will go.
+
+01:00:02.120 --> 01:00:09.560
+This is an end with all the caveats that the numbers are small. No one died. It was 100%
+
+01:00:09.560 --> 01:00:15.880
+efficacy on deaths. Of course, I'm sure that in real world when the numbers are getting very high,
+
+01:00:15.880 --> 01:00:23.880
+we may have 99 instead of 100. But these are spectacular results for something that you can
+
+01:00:23.880 --> 01:00:30.120
+take home and stay home. The biggest problem right now in Europe, in the US, when we have surges,
+
+01:00:30.200 --> 01:00:37.960
+every time that we have a surge of COVID, it is that the ICUs are full. The hospitals are
+
+01:00:37.960 --> 01:00:43.320
+paralyzed. They have to postpone elective surgeries. They have to postpone other operations
+
+01:00:43.320 --> 01:00:49.720
+because they don't have the capacity because of that. Keeping people out of the hospitals,
+
+01:00:49.720 --> 01:00:57.240
+home, keeping people without dying, it is something that we didn't have before.
+
+01:00:59.400 --> 01:01:02.520
+This is a significant, significant game changer.
+
+01:01:03.720 --> 01:01:10.920
+I have to ask a controversial, difficult question. What are your thoughts about ivermectin?
+
+01:01:11.800 --> 01:01:18.120
+Has it sufficiently been studied? Has Pfizer considered it in its incredible development
+
+01:01:18.120 --> 01:01:25.320
+of the antiviral as a comparator, that kind of thing, just investigated in general? The reason
+
+01:01:25.320 --> 01:01:31.400
+I bring it up, because I've read quite a few criticisms of people, there's been some comparisons
+
+01:01:31.400 --> 01:01:37.800
+that packs over to the ivermectin, and I think people should look up. There is Dr. John Campbell
+
+01:01:37.800 --> 01:01:42.680
+that describes that comparison and makes that claim, and there's quite a lot of people that debunk
+
+01:01:42.680 --> 01:01:48.600
+or argue against that. You can do your own research, but there is a lot of people that
+
+01:01:48.600 --> 01:01:55.720
+see this free drug without patents on it and say, this could be the savior. Can you just speak to
+
+01:01:55.720 --> 01:02:00.840
+that comparison? It's not the first time. If you remember, there were other compounds that were
+
+01:02:00.840 --> 01:02:11.560
+claimed that they are the solution to COVID. Clearly, they were proven that they're not.
+
+01:02:12.360 --> 01:02:14.760
+There are compounds that they're solutions and compounds that they're not.
+
+01:02:15.880 --> 01:02:22.440
+As a scientist, and I discussed with our scientists, they don't see any reason why a
+
+01:02:22.440 --> 01:02:29.720
+medicine like ivermectin, which is a parasitic site, to be able to act on COVID. They don't
+
+01:02:29.720 --> 01:02:35.880
+see that there's any connection, and they haven't seen any paper that describes someone that used
+
+01:02:35.880 --> 01:02:41.240
+it that had any results. I'm sure that there will be some people that will claim, because people
+
+01:02:41.240 --> 01:02:47.720
+are claiming anything, but I don't think that there was any paper in any peer review
+
+01:02:48.520 --> 01:02:54.840
+magazine, a reliable scientific magazine, to support this claim. We are focusing on
+
+01:02:55.400 --> 01:03:01.320
+saving people's lives. We are not focusing on craziness.
+
+01:03:01.880 --> 01:03:07.640
+Well, to push back, there is quite a lot of papers, but the studies are small,
+
+01:03:08.280 --> 01:03:12.760
+so there's no conclusive evidence. I haven't seen any that it is reliable.
+
+01:03:12.760 --> 01:03:17.480
+I don't know where are these smaller, big, reliable. I haven't seen any.
+
+01:03:18.520 --> 01:03:23.640
+Some of the big ones have been retracted, which means they weren't legitimate.
+
+01:03:26.840 --> 01:03:31.000
+This is definitely something that people need to look into, the people that question
+
+01:03:31.720 --> 01:03:36.680
+the effectiveness of ivermectin, definitely something to think about. I think it's the
+
+01:03:36.680 --> 01:03:41.320
+reason that... It was chloroquine before, for God's sake.
+
+01:03:41.320 --> 01:03:43.960
+That's why... How many people died because of that?
+
+01:03:45.480 --> 01:03:49.560
+Yeah, this is the dangerous thing. This is the sad thing.
+
+01:03:51.560 --> 01:03:55.720
+Paxlovid has been studying thousands of people and will be under the scrutiny,
+
+01:03:55.720 --> 01:04:02.440
+not only of regulators, but as we will go into the implementation, as it happened in many countries,
+
+01:04:02.440 --> 01:04:07.640
+they will monitor to see what's happened. Let's say that whatever we do, once it is out there,
+
+01:04:07.640 --> 01:04:11.800
+within a few weeks, they will know all hospitals, if it works or not, because they will see the
+
+01:04:11.800 --> 01:04:20.600
+statistics. We've gone through one of the more difficult periods in recent human history over
+
+01:04:20.600 --> 01:04:27.720
+the past two years, like as a society. What gives you hope about the future for human civilization?
+
+01:04:28.040 --> 01:04:31.560
+Can you look into the next few years?
+
+01:04:31.560 --> 01:04:38.280
+I think the human ingenuity. I think although there is... The world always is progressing,
+
+01:04:39.000 --> 01:04:44.440
+although there are a lot of things that need to be fixed in the society of 2020.
+
+01:04:45.720 --> 01:04:53.080
+The society of 2020 is better at large than things 50 years back, 100 years back,
+
+01:04:53.080 --> 01:05:01.640
+in all different aspects, from poverty, for human rights, from science, from quality of life,
+
+01:05:01.640 --> 01:05:11.000
+from any aspect. I am positive that humans can create and always create a better future
+
+01:05:11.000 --> 01:05:12.200
+and will continue doing so.
+
+01:05:14.520 --> 01:05:19.960
+You have helped save the lives of millions of people, help improve the quality of their lives,
+
+01:05:19.960 --> 01:05:26.280
+but you yourself are just one biological organism with an expiration date. Do you
+
+01:05:26.280 --> 01:05:31.240
+ponder your mortality? Do you think about your death? Are you afraid of death?
+
+01:05:32.760 --> 01:05:37.640
+That's a very interesting question. I was discussing with a lot of people that I was
+
+01:05:37.640 --> 01:05:46.280
+fearless of death, I couldn't care less, when I was young. The first time that I started feeling
+
+01:05:46.280 --> 01:05:54.040
+that I want to be around was when I had kids. Then I started feeling that, oh gosh, I hope I
+
+01:05:54.040 --> 01:05:59.640
+will be around to see their wedding. I hope they will be around to see their children.
+
+01:06:00.520 --> 01:06:04.120
+If there is something that scares me, it's the possibility that I will not be part of
+
+01:06:04.120 --> 01:06:08.200
+their lives anymore and I will not be watching. I hope there is life upstairs,
+
+01:06:08.840 --> 01:06:10.760
+so I will be able to watch them from there.
+
+01:06:11.560 --> 01:06:13.720
+From upstairs, get a nice overview.
+
+01:06:13.720 --> 01:06:21.320
+Thank you. Let me ask the big, ridiculous question. You only have two minutes or less
+
+01:06:21.320 --> 01:06:25.960
+to answer it. What is the meaning of life? What's the meaning of this whole thing? You
+
+01:06:25.960 --> 01:06:31.160
+said ingenuity is the thing that gives you hope. We seem to be all busy trying to help each other,
+
+01:06:31.160 --> 01:06:33.800
+trying to build a better world. Why are we doing that?
+
+01:06:34.360 --> 01:06:41.240
+I would repeat something that Steve Jobs has said. Death is life's biggest invention.
+
+01:06:41.400 --> 01:06:51.480
+It eliminates the old and gives place to the new. Life is all about moving forward. Life is all
+
+01:06:51.480 --> 01:07:00.360
+about creating new things. Maybe everyone is a contributor, but no one is the owner.
+
+01:07:01.960 --> 01:07:03.800
+And always creating something new.
+
+01:07:04.200 --> 01:07:04.760
+Always.
+
+01:07:05.400 --> 01:07:08.360
+Adding something beautiful into the world, maybe a little bit of love.
+
+01:07:09.560 --> 01:07:10.360
+Hopefully.
+
+01:07:11.480 --> 01:07:16.520
+Albert, thank you so much. It's a huge honor that you go through some of these difficult
+
+01:07:16.520 --> 01:07:21.640
+questions with me today and then you give your extremely valuable time for this conversation.
+
+01:07:21.640 --> 01:07:22.840
+Thank you so much for talking today.
+
+01:07:22.840 --> 01:07:26.760
+Thank you for your interest and I'm happy as I was telling you before, but
+
+01:07:27.880 --> 01:07:33.160
+I can brag with my kids that I was in your podcast because you are their hero.
+
+01:07:33.160 --> 01:07:33.960
+You made it.
+
+01:07:33.960 --> 01:07:34.680
+I made it.
+
+01:07:35.560 --> 01:07:36.120
+Thank you.
+
+01:07:36.120 --> 01:07:36.520
+Thank you.
+
+01:07:37.480 --> 01:07:41.720
+Thanks for listening to this conversation with Albert Burla. To support this podcast,
+
+01:07:41.720 --> 01:07:45.080
+please check out our sponsors in the description. And now,
+
+01:07:45.080 --> 01:07:51.240
+let me leave you with some words from Oscar Wilde. The truth is rarely pure and never simple.
+
+01:07:52.120 --> 01:07:55.000
+Thank you for listening and hope to see you next time.
+

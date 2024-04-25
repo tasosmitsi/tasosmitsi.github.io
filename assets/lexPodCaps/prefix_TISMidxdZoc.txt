@@ -1,0 +1,5006 @@
+WEBVTT
+
+00:00.000 --> 00:02.600
+The following is a conversation with Ray Dalio,
+
+00:02.600 --> 00:04.520
+his second time on the podcast.
+
+00:04.520 --> 00:06.940
+He is a legendary investor,
+
+00:06.940 --> 00:09.120
+founder of Bridgewater Associates,
+
+00:09.120 --> 00:12.440
+author of a book I highly recommend called Principles,
+
+00:12.440 --> 00:16.000
+and also a new book called Principles for Dealing
+
+00:16.000 --> 00:17.840
+with a Changing World Order,
+
+00:17.840 --> 00:20.480
+that looks at the geopolitics of today,
+
+00:20.480 --> 00:23.000
+especially US and China,
+
+00:23.000 --> 00:24.580
+through the lens of history,
+
+00:24.580 --> 00:26.120
+providing a fascinating model
+
+00:26.120 --> 00:28.200
+for the rise and fall of empires
+
+00:28.240 --> 00:32.200
+that can be applied to the analysis of our world today.
+
+00:32.200 --> 00:34.320
+This is the Lex Fridman Podcast.
+
+00:34.320 --> 00:36.400
+To support it, please check out our sponsors
+
+00:36.400 --> 00:37.560
+in the description.
+
+00:37.560 --> 00:42.080
+And now, here's my conversation with Ray Dalio.
+
+00:42.080 --> 00:44.240
+When you look at the history of the world,
+
+00:44.240 --> 00:46.000
+as you have done in your new book,
+
+00:46.000 --> 00:49.800
+Principles of Dealing with a Changing World Order,
+
+00:49.800 --> 00:53.340
+what is more important, more impactful, money or power?
+
+00:54.400 --> 00:56.500
+They go hand in hand.
+
+00:56.500 --> 01:01.100
+They support each other and they compete with each other.
+
+01:01.100 --> 01:05.360
+Those who have money have power, a certain type of power.
+
+01:06.380 --> 01:09.600
+That power has to do with all that they can buy,
+
+01:09.600 --> 01:12.540
+but it also has the ability
+
+01:12.540 --> 01:15.980
+to influence those with political power.
+
+01:15.980 --> 01:20.260
+So, and so you see this throughout history,
+
+01:20.260 --> 01:23.120
+this symbiotic relationship.
+
+01:23.120 --> 01:28.120
+You know, for example, between the royal families
+
+01:29.680 --> 01:33.400
+and the nobility and the church.
+
+01:33.400 --> 01:36.160
+So you see that group of people
+
+01:36.160 --> 01:39.080
+supporting each other in various ways
+
+01:39.080 --> 01:42.480
+and then wrestling around with each other
+
+01:42.480 --> 01:45.900
+for the money and power among that group.
+
+01:45.900 --> 01:48.640
+So the dynamic that's quite classic
+
+01:48.640 --> 01:52.840
+is you could look at the parties in power
+
+01:52.840 --> 01:57.760
+back in the 16th, 17th centuries.
+
+01:57.760 --> 02:01.640
+You would look at royal families, nobles,
+
+02:01.640 --> 02:05.560
+and the church, if you're in Europe.
+
+02:05.560 --> 02:10.040
+And then you would look at agricultural land
+
+02:10.040 --> 02:12.240
+and there was a certain dynamic.
+
+02:12.240 --> 02:14.080
+And that varies over time.
+
+02:14.080 --> 02:18.960
+It changes as those people get thrown out
+
+02:18.960 --> 02:20.440
+and technology changes.
+
+02:20.440 --> 02:24.120
+So when we evolved, when the society evolved,
+
+02:24.120 --> 02:28.040
+so that it would produce goods and services
+
+02:28.040 --> 02:31.960
+and you have something like the industrial revolution,
+
+02:31.960 --> 02:33.560
+the first industrial revolution,
+
+02:33.560 --> 02:37.280
+they have machines and you have the talent of people
+
+02:37.280 --> 02:39.000
+that are off the farms.
+
+02:40.040 --> 02:43.440
+And then you have a struggling for power.
+
+02:44.320 --> 02:47.520
+You see that power mix change.
+
+02:47.520 --> 02:50.880
+And so we don't see that same power mix anymore,
+
+02:50.880 --> 02:53.920
+but you still see the same dynamic.
+
+02:53.920 --> 02:55.640
+You see those with money
+
+02:56.760 --> 03:00.600
+dealing with those who have political power
+
+03:00.600 --> 03:04.680
+around those assets that are considered most valuable
+
+03:04.680 --> 03:09.360
+to particularly the productive assets that produce money.
+
+03:09.360 --> 03:14.080
+And political power is usually centered around nation state.
+
+03:14.080 --> 03:17.880
+So the major locusts of power is the nations?
+
+03:17.880 --> 03:22.880
+Yes, in 1668, after 30 years of war,
+
+03:25.160 --> 03:29.920
+there was the development of nation states.
+
+03:29.920 --> 03:34.640
+Before then, it was really the development of countries
+
+03:34.640 --> 03:37.520
+as we know it, that there were borders
+
+03:37.520 --> 03:40.440
+and that within those borders,
+
+03:40.440 --> 03:43.960
+those who had control got to control it
+
+03:44.800 --> 03:48.080
+and there were not to be intrusions in those borders.
+
+03:48.080 --> 03:51.520
+And that's how we established the nation state.
+
+03:51.520 --> 03:56.440
+And then of course, within each country, there is levels.
+
+03:56.440 --> 03:59.640
+There is a central level
+
+03:59.640 --> 04:02.680
+and then there is a typically a province
+
+04:02.680 --> 04:05.360
+or state level down below.
+
+04:05.360 --> 04:07.000
+And then there's a municipal level.
+
+04:07.000 --> 04:10.680
+So they each have different levels of power
+
+04:10.680 --> 04:14.440
+and it's the coordination of those
+
+04:14.440 --> 04:17.920
+that determines how the country is run.
+
+04:19.240 --> 04:23.320
+You write that the quote archetypal big cycle
+
+04:23.320 --> 04:25.840
+governs the rising and declining empires
+
+04:25.840 --> 04:27.880
+and influences everything about them,
+
+04:27.880 --> 04:30.320
+including their currencies and markets.
+
+04:30.320 --> 04:31.760
+The most important three cycles
+
+04:31.760 --> 04:35.080
+are the ones you mentioned in the introduction,
+
+04:35.080 --> 04:38.200
+the long-term debt and capital market cycle,
+
+04:38.200 --> 04:40.520
+the internal order and disorder cycle
+
+04:40.520 --> 04:44.640
+and the external order and disorder cycle.
+
+04:44.640 --> 04:47.400
+Can you describe this big cycle?
+
+04:48.360 --> 04:49.640
+There are two orders.
+
+04:50.640 --> 04:55.320
+There is an order, by order I mean a system,
+
+04:55.320 --> 04:56.880
+how the system works.
+
+04:58.160 --> 05:01.600
+So there's an internal order
+
+05:01.600 --> 05:04.080
+that is the internal governance system
+
+05:04.080 --> 05:06.720
+and it's usually set out in a constitution
+
+05:06.720 --> 05:08.560
+or some agreements.
+
+05:08.600 --> 05:12.720
+And then there's the world order, how the world system.
+
+05:12.720 --> 05:17.720
+So for example, in 1945, at the end of a war,
+
+05:18.440 --> 05:22.280
+which is basically a fight for determining the world order,
+
+05:23.320 --> 05:27.640
+the winners of the fight got together
+
+05:27.640 --> 05:32.440
+and created the world system as we now know it.
+
+05:32.440 --> 05:35.960
+44, they created the Brenton Woods monetary system
+
+05:35.960 --> 05:38.640
+that determined the money pretty much.
+
+05:38.640 --> 05:41.440
+And because the United States won
+
+05:41.440 --> 05:45.280
+and had 80% of the world's money, gold was money then
+
+05:45.280 --> 05:47.200
+and it has 80% of the world's gold
+
+05:47.200 --> 05:48.800
+and it was half the world economy
+
+05:48.800 --> 05:51.480
+and it was the great military power,
+
+05:51.480 --> 05:55.280
+the order was built around an American world order
+
+05:55.280 --> 05:58.480
+so that the United Nations was in New York,
+
+05:58.480 --> 06:00.960
+the World Bank and the IMF were in Washington
+
+06:00.960 --> 06:02.760
+and they built that new order.
+
+06:02.760 --> 06:05.600
+So classically, you have a war
+
+06:05.600 --> 06:08.640
+to determine whose rules were following
+
+06:08.640 --> 06:13.400
+and then you have the new order being constructed.
+
+06:13.400 --> 06:16.200
+After that, there is usually period
+
+06:16.200 --> 06:20.760
+of extended peace and prosperity.
+
+06:20.760 --> 06:25.400
+Peace suits prosperity and so there's not,
+
+06:25.400 --> 06:27.000
+and the reason you have the peace
+
+06:27.000 --> 06:31.800
+is because no one wants to fight with the dominant power.
+
+06:31.800 --> 06:34.080
+You know you're gonna lose, you've surrendered,
+
+06:34.080 --> 06:35.320
+there's been the surrendering.
+
+06:35.320 --> 06:36.560
+They carve up the world,
+
+06:36.560 --> 06:38.440
+they say what it's gonna look like,
+
+06:38.440 --> 06:40.160
+who's gonna control what
+
+06:40.160 --> 06:44.680
+and then you come into that period of peace
+
+06:44.680 --> 06:49.680
+and then prosperity where then there's a working together.
+
+06:50.840 --> 06:55.840
+Usually at that point, you've wiped out a lot of the debt,
+
+06:57.000 --> 07:00.640
+you've wiped out a lot of the issues,
+
+07:00.680 --> 07:02.960
+the class warfare and so on
+
+07:02.960 --> 07:04.840
+and then there's good working together.
+
+07:04.840 --> 07:09.840
+So those great periods such as the industrial revolution
+
+07:10.640 --> 07:15.280
+in the late 1800s or what we've experienced
+
+07:15.280 --> 07:16.960
+in the post-World War II period
+
+07:16.960 --> 07:20.280
+are peaceful and prosperous periods
+
+07:20.280 --> 07:23.560
+led largely by the dominant world power.
+
+07:23.560 --> 07:28.560
+Over a period of time, since really 1500 and maybe before,
+
+07:29.400 --> 07:34.400
+but really 1500 when the Dutch invented capitalism
+
+07:35.840 --> 07:37.040
+and what I mean by that,
+
+07:37.040 --> 07:39.640
+they invented the first capital markets,
+
+07:39.640 --> 07:42.520
+the first stocks and the first stock market
+
+07:43.600 --> 07:47.440
+that since then capitalism has been an effective tool
+
+07:47.440 --> 07:50.800
+for building wealth because it got resources
+
+07:50.800 --> 07:54.000
+into the hands of inventive people.
+
+07:54.000 --> 07:56.560
+That's when we move from agriculture
+
+07:56.560 --> 07:58.840
+to the importance of inventiveness of people,
+
+07:58.840 --> 08:03.520
+they got resources and then they built that prosperity.
+
+08:03.520 --> 08:06.000
+In that process of doing that,
+
+08:06.000 --> 08:09.080
+they create wealth gaps naturally.
+
+08:09.080 --> 08:10.840
+Those who make a lot of money,
+
+08:12.080 --> 08:14.920
+make a lot more than those that don't
+
+08:16.000 --> 08:20.200
+and it also produces opportunity gaps
+
+08:20.200 --> 08:25.000
+because for example, those who earn a lot of money
+
+08:25.040 --> 08:26.480
+have that wealth,
+
+08:26.480 --> 08:29.320
+they have the power to educate their children
+
+08:29.320 --> 08:34.320
+in a way that others don't and the gaps grow
+
+08:34.880 --> 08:38.520
+and also the debts grow at that time.
+
+08:38.520 --> 08:43.520
+When they go around the world with their competitiveness,
+
+08:43.840 --> 08:46.040
+they earn a lot of money.
+
+08:46.040 --> 08:49.000
+So for example, the Dutch, the Dutch Empire
+
+08:49.000 --> 08:51.080
+learned how to build ships
+
+08:52.600 --> 08:54.160
+that would go around the world.
+
+08:54.240 --> 08:58.040
+A key ingredient of this improvement in this cycle
+
+08:58.040 --> 09:00.600
+is the improvement of education
+
+09:00.600 --> 09:04.320
+and by education, I mean the skills that come from education
+
+09:04.320 --> 09:08.720
+but also civility, the ability to deal with wealth together.
+
+09:08.720 --> 09:12.400
+So the Dutch invented ships that could go around the world
+
+09:12.400 --> 09:13.760
+and they had military power
+
+09:13.760 --> 09:16.440
+but they were also very inventive society.
+
+09:16.440 --> 09:21.320
+25% of the world's new inventions came from the Dutch
+
+09:21.320 --> 09:23.760
+and so as they went around the world,
+
+09:23.760 --> 09:26.240
+they also brought their currency
+
+09:26.240 --> 09:28.280
+and they brought their military.
+
+09:28.280 --> 09:29.840
+They needed the currency,
+
+09:29.840 --> 09:32.760
+they paid for things and that currency
+
+09:32.760 --> 09:34.640
+and then the more that happens,
+
+09:34.640 --> 09:38.000
+the more that becomes a reserve currency
+
+09:38.000 --> 09:40.160
+and then they have their military
+
+09:40.160 --> 09:42.040
+so they need their military strength
+
+09:42.040 --> 09:45.960
+and so you see it evolve in all of those ways
+
+09:45.960 --> 09:50.960
+but over a period of time as they become more successful
+
+09:51.120 --> 09:55.160
+and more expensive, they become more expensive
+
+09:56.840 --> 10:01.840
+and newer countries come along like the UK
+
+10:03.240 --> 10:07.800
+then learn to build ships from a lot the Dutch
+
+10:07.800 --> 10:10.480
+and could do that less expensively
+
+10:10.480 --> 10:14.440
+and also when they become more expensive,
+
+10:14.440 --> 10:16.120
+so less competitive
+
+10:16.120 --> 10:19.080
+and also the work ethic begins to change.
+
+10:19.080 --> 10:20.640
+They believe that since they're richer,
+
+10:20.640 --> 10:22.640
+they can enjoy life more.
+
+10:22.640 --> 10:25.240
+They don't have to work quite as hard
+
+10:25.240 --> 10:28.040
+and so you start to see the tilt
+
+10:28.040 --> 10:31.160
+and you start to see the development of the top
+
+10:31.160 --> 10:34.360
+and when you have a world reserve currency,
+
+10:34.360 --> 10:37.000
+that allows you to borrow a lot of money
+
+10:37.000 --> 10:40.320
+because those who want to save,
+
+10:40.320 --> 10:41.920
+wanna hold your money
+
+10:41.920 --> 10:44.080
+and that means that they'll lend you money
+
+10:44.080 --> 10:47.120
+and so those countries get deeper into debt
+
+10:47.120 --> 10:51.360
+so you see that they gradually lose their competitiveness
+
+10:51.360 --> 10:56.280
+and they get themselves into financial circumstances
+
+10:56.280 --> 11:01.280
+which are not good and they have large wealth gaps
+
+11:01.440 --> 11:04.640
+which set the stage for downturns
+
+11:04.640 --> 11:06.720
+and when they have downturns,
+
+11:07.560 --> 11:10.120
+the first question is do they have enough money
+
+11:10.120 --> 11:15.120
+and traditionally, money is resources
+
+11:15.640 --> 11:20.000
+so you classically see that the coffers are bare,
+
+11:20.000 --> 11:25.000
+that they're spending more money than they are earning
+
+11:25.240 --> 11:28.920
+and they run out of money in the coffers
+
+11:28.920 --> 11:33.160
+and their granaries are empty rather than stocked
+
+11:33.160 --> 11:35.360
+so that they give them the buffer
+
+11:35.360 --> 11:40.360
+and as that deteriorates, that worsens conditions
+
+11:40.360 --> 11:44.480
+and if they have a rival power that's also challenging them,
+
+11:44.480 --> 11:48.840
+they see greater internal conflict over wealth
+
+11:48.840 --> 11:52.440
+and then they have the problems internally
+
+11:52.440 --> 11:54.120
+and the problems externally
+
+11:54.120 --> 11:57.680
+which usually results in an internal war
+
+11:57.680 --> 12:01.720
+or an external war that leads to the change
+
+12:01.720 --> 12:03.000
+to the new world order.
+
+12:04.920 --> 12:06.840
+And to you, the Dutch Empire is a good example
+
+12:06.840 --> 12:11.160
+that the British, what are some of the key examples
+
+12:11.160 --> 12:13.200
+that you think about in the book
+
+12:13.200 --> 12:16.320
+of this process that followed the big cycle?
+
+12:16.320 --> 12:19.200
+Well, the leading reserve currency empires
+
+12:19.200 --> 12:21.360
+but it applies to all the empires
+
+12:23.040 --> 12:27.720
+were the Dutch, the British, the American and the Chinese
+
+12:28.800 --> 12:32.640
+but you could follow the same pattern.
+
+12:32.640 --> 12:35.440
+In the book, it was very important for me
+
+12:35.440 --> 12:39.000
+to not just use words and concepts
+
+12:39.000 --> 12:41.360
+because that's subjective.
+
+12:41.360 --> 12:45.760
+It was very important for me to use actual measurements.
+
+12:45.760 --> 12:49.440
+So as you see in the book, you can see every level of this.
+
+12:49.440 --> 12:52.000
+You can see where's the education level,
+
+12:52.000 --> 12:55.520
+what is the military power, each one of those
+
+12:55.520 --> 12:59.280
+and you can see them back going over the 500 years
+
+12:59.280 --> 13:03.360
+and so you can see the arcs and the composition
+
+13:03.360 --> 13:07.240
+of those arcs and what you see is really
+
+13:07.240 --> 13:10.760
+in most countries and most dynasties, you can see that
+
+13:10.800 --> 13:13.520
+but you also can see through those numbers
+
+13:13.520 --> 13:16.000
+the health of those countries.
+
+13:16.000 --> 13:21.000
+Today, there are statistics that are in the book
+
+13:21.840 --> 13:25.160
+that show what is the level of education,
+
+13:25.160 --> 13:28.280
+what is the level of economic output,
+
+13:28.280 --> 13:32.160
+what is the level of military strength,
+
+13:32.160 --> 13:33.640
+what is the level of a number
+
+13:33.640 --> 13:35.680
+of different measures of strength
+
+13:35.680 --> 13:38.040
+so that you can then compare that.
+
+13:38.040 --> 13:40.600
+And I think that because they're objective measures
+
+13:40.600 --> 13:43.320
+of strength that you could see change,
+
+13:44.400 --> 13:48.160
+that shows the picture of where we are today.
+
+13:48.160 --> 13:50.200
+And I think one of the most important things
+
+13:50.200 --> 13:54.360
+about the book is that it allows people to monitor
+
+13:54.360 --> 13:56.680
+how those things are transpiring.
+
+13:56.680 --> 13:58.760
+I think for policy makers,
+
+14:00.680 --> 14:03.200
+are your policy makers doing a good job?
+
+14:03.200 --> 14:06.320
+And there's so much subjectivity in that
+
+14:06.320 --> 14:08.280
+but I think it's very simple.
+
+14:08.280 --> 14:10.880
+If those lines on the chart are improving,
+
+14:10.880 --> 14:13.320
+if your health index is improving,
+
+14:13.320 --> 14:17.640
+then you're moving toward a better life.
+
+14:17.640 --> 14:19.280
+So that's what the book works like.
+
+14:19.280 --> 14:24.080
+Also, it was used to create a model for the future.
+
+14:24.080 --> 14:28.160
+In other words, there are cause effect relationships.
+
+14:28.160 --> 14:32.040
+Everything that happens has reasons, causes
+
+14:32.040 --> 14:34.840
+that preceded it, that made it happen.
+
+14:34.880 --> 14:38.000
+And so by having all those in numbers,
+
+14:38.000 --> 14:42.440
+one can see the probabilities of certain things happening.
+
+14:42.440 --> 14:46.760
+So that's what you see in the book.
+
+14:46.760 --> 14:49.920
+It's not just, you know, raise interpretation.
+
+14:49.920 --> 14:51.920
+I didn't wanna make it raise interpretation
+
+14:51.920 --> 14:53.840
+because I don't know if I'm right.
+
+14:53.840 --> 14:56.200
+Yeah, so one of the fascinating things in the book,
+
+14:56.200 --> 14:58.800
+so you have list these 18 measures
+
+14:58.800 --> 15:01.480
+and there's like a little scorecard
+
+15:01.480 --> 15:04.360
+for the countries of the world today.
+
+15:04.640 --> 15:07.760
+Let's say US, China, and Europe,
+
+15:07.760 --> 15:09.960
+and what it was 20 years ago
+
+15:09.960 --> 15:11.960
+and looking at the change from 20 years ago
+
+15:11.960 --> 15:14.480
+and that's another indicator, the change itself
+
+15:14.480 --> 15:17.240
+to see where things are headed.
+
+15:17.240 --> 15:21.560
+Maybe can you comment on, from a score perspective,
+
+15:21.560 --> 15:24.120
+how is US and China doing?
+
+15:24.120 --> 15:26.720
+And in the 18 measures, what are some measures
+
+15:26.720 --> 15:29.480
+that stand out to you as particularly important
+
+15:29.480 --> 15:32.520
+to think about today for the United States, for China?
+
+15:33.440 --> 15:34.640
+Well, there are a number.
+
+15:35.760 --> 15:40.760
+Financially, what you see in the United States
+
+15:41.120 --> 15:44.840
+is that we're borrowing a lot more money,
+
+15:44.840 --> 15:46.680
+creating a lot of debt,
+
+15:46.680 --> 15:50.320
+and we're printing a lot of money.
+
+15:50.320 --> 15:54.440
+And our capacity to do that is very much,
+
+15:54.440 --> 15:55.800
+is limited, first of all,
+
+15:55.800 --> 15:59.840
+because when there's a sale of a bond,
+
+15:59.840 --> 16:03.760
+when the government borrows more than it,
+
+16:03.760 --> 16:07.400
+borrows money because it spends more than it takes in,
+
+16:08.360 --> 16:10.320
+you have to sell a bond.
+
+16:10.320 --> 16:12.880
+And the world right now has a lot
+
+16:12.880 --> 16:14.840
+of US dollar denominated bonds
+
+16:14.840 --> 16:17.280
+because as the world's reserve currency,
+
+16:17.280 --> 16:19.000
+they sell, sell on them,
+
+16:19.000 --> 16:22.640
+and they have very bad returns,
+
+16:22.640 --> 16:24.440
+negative real returns,
+
+16:24.440 --> 16:27.760
+negative real returns significantly and so on.
+
+16:27.760 --> 16:32.640
+So that means that more bonds has to be sold
+
+16:32.640 --> 16:36.720
+than are bought.
+
+16:36.720 --> 16:39.600
+And that means that the Federal Reserve
+
+16:40.640 --> 16:43.680
+is faced with the choice of having to raise
+
+16:43.680 --> 16:47.120
+the interest rate to curtail borrowing,
+
+16:47.120 --> 16:50.000
+which slows the economy and hurts the markets,
+
+16:50.000 --> 16:55.000
+or by filling that difference and producing money,
+
+16:55.000 --> 16:56.920
+the debt monetization,
+
+16:56.920 --> 17:00.600
+which produces an inflation in goods,
+
+17:00.600 --> 17:03.440
+services, and financial assets.
+
+17:03.440 --> 17:05.480
+So in that regard,
+
+17:05.480 --> 17:08.880
+that's the United States' position.
+
+17:08.880 --> 17:13.880
+In China's case, its balance of payments is better.
+
+17:15.080 --> 17:18.560
+China has displaced the United States
+
+17:18.560 --> 17:21.720
+as the world's largest trading country.
+
+17:21.720 --> 17:24.400
+In other words, more exports to other countries.
+
+17:24.400 --> 17:29.400
+And as a result, it's economically competitive,
+
+17:29.760 --> 17:32.360
+but it doesn't have the world's reserve currency.
+
+17:32.360 --> 17:33.760
+It's a real blessing.
+
+17:33.760 --> 17:37.520
+So the United States, it has the world's reserve currency,
+
+17:37.520 --> 17:41.040
+but it is risking it because of this imbalance.
+
+17:41.040 --> 17:43.040
+So if you look at history,
+
+17:43.040 --> 17:45.400
+you see that those go slowly,
+
+17:45.400 --> 17:49.040
+but when they go eventually, they go quickly.
+
+17:50.040 --> 17:54.760
+So there's a risk of that financially.
+
+17:54.760 --> 17:58.440
+Then there's the issue of internal order.
+
+17:58.440 --> 18:00.200
+So I'm just giving you the major ones,
+
+18:00.200 --> 18:02.640
+but I'll get into some of the other ones too.
+
+18:02.640 --> 18:06.840
+Right now, there's a lot of internal conflict
+
+18:06.840 --> 18:08.920
+in the United States,
+
+18:08.920 --> 18:13.280
+which affects how well it works.
+
+18:14.160 --> 18:17.600
+In China, there's less internal conflict
+
+18:17.640 --> 18:20.720
+because it's a more autocratic state,
+
+18:20.720 --> 18:24.440
+but also they've created this bifurcation
+
+18:25.800 --> 18:29.720
+what is political and what is economic
+
+18:29.720 --> 18:32.040
+in terms of producing that prosperity.
+
+18:32.040 --> 18:34.720
+So if you stay out of the politics pretty much,
+
+18:35.920 --> 18:39.640
+and then you're seeing entrepreneurship,
+
+18:39.640 --> 18:44.360
+you're seeing the finances of new businesses and so on.
+
+18:44.400 --> 18:46.880
+And so that internal working,
+
+18:48.040 --> 18:51.320
+that's subject to different people's interpretations,
+
+18:51.320 --> 18:52.560
+whether they like it or not,
+
+18:52.560 --> 18:54.560
+but the internal conflict
+
+18:54.560 --> 18:58.000
+in terms of those kinds of measures is less.
+
+18:58.000 --> 19:00.200
+Sorry to pause on that for a second.
+
+19:00.200 --> 19:01.960
+So these measures,
+
+19:01.960 --> 19:06.040
+I guess you don't want to sort of romanticize
+
+19:06.040 --> 19:07.840
+any one measure or something like that,
+
+19:07.840 --> 19:10.000
+overinterpret any one measure,
+
+19:10.000 --> 19:13.960
+but is internal conflict always a bad thing?
+
+19:14.480 --> 19:18.320
+Is it a complicated calculation?
+
+19:18.320 --> 19:19.160
+Or do you kind of,
+
+19:19.160 --> 19:20.600
+the way we think about these measures
+
+19:20.600 --> 19:21.440
+that you've presented,
+
+19:21.440 --> 19:24.920
+we should be thinking like the higher, the better,
+
+19:24.920 --> 19:26.560
+the lower, the worse?
+
+19:26.560 --> 19:27.560
+I mean, of course, depending on the-
+
+19:27.560 --> 19:30.360
+Well, in many cases,
+
+19:30.360 --> 19:33.880
+the conflict that produces the revolution
+
+19:33.880 --> 19:37.040
+produces revolutionary changes
+
+19:37.040 --> 19:40.560
+that lead to resolutions
+
+19:41.560 --> 19:43.640
+and lead to new starts.
+
+19:44.600 --> 19:49.600
+And so a short-term civil war
+
+19:50.360 --> 19:52.920
+is a hellacious experience.
+
+19:52.920 --> 19:54.560
+And at the same time,
+
+19:54.560 --> 19:58.960
+it can be the transition to a new beginning.
+
+20:00.440 --> 20:02.720
+Also, there are different types of conflict.
+
+20:03.760 --> 20:08.760
+Competition, which makes everything better,
+
+20:09.480 --> 20:12.800
+is a productive conflict,
+
+20:12.800 --> 20:16.040
+whereas destructive conflicts
+
+20:16.040 --> 20:20.960
+are not good over the short time.
+
+20:20.960 --> 20:23.640
+So that's how those go.
+
+20:23.640 --> 20:25.120
+So within each measure,
+
+20:25.120 --> 20:29.200
+the story is complicated.
+
+20:29.200 --> 20:32.320
+Yeah, but my measures are sort of clear,
+
+20:32.320 --> 20:35.200
+meaning how much political conflict,
+
+20:35.240 --> 20:38.840
+how much social conflict.
+
+20:38.840 --> 20:40.640
+In other words, you can measure conflict.
+
+20:40.640 --> 20:41.880
+You can measure fighting.
+
+20:41.880 --> 20:44.280
+You can measure crime rates.
+
+20:44.280 --> 20:49.280
+You can measure lots of different ways of conflict.
+
+20:49.680 --> 20:52.440
+So the measures are a composite
+
+20:52.440 --> 20:55.640
+of different types of internal conflict.
+
+20:55.640 --> 20:57.880
+What are some other interesting measures?
+
+20:57.880 --> 20:59.920
+Maybe if you could also mention that,
+
+20:59.920 --> 21:00.920
+for me in particular,
+
+21:00.920 --> 21:03.320
+interest is education and innovation.
+
+21:03.320 --> 21:05.840
+Yes, the classic cycle,
+
+21:05.840 --> 21:08.760
+the most important leading indicator
+
+21:08.760 --> 21:11.200
+is the quality of education.
+
+21:11.200 --> 21:16.080
+Most importantly, broad-based education
+
+21:16.080 --> 21:18.880
+drawn from the largest population
+
+21:18.880 --> 21:23.600
+because you can never tell who the talent is going to be,
+
+21:23.600 --> 21:25.080
+where they're gonna come from.
+
+21:25.080 --> 21:28.200
+So for example, if you look at the Chinese dynasties,
+
+21:28.200 --> 21:33.200
+the great Chinese dynasties and the Confucian approach,
+
+21:33.200 --> 21:38.200
+it was meritocratic of everybody could sit for exams
+
+21:38.560 --> 21:41.560
+and so on a broad base of drawing in the populations.
+
+21:41.560 --> 21:44.160
+And you see that if you go across societies
+
+21:45.120 --> 21:49.040
+because that draws on the largest number of population
+
+21:49.040 --> 21:50.960
+to get education.
+
+21:50.960 --> 21:55.960
+And it also, that creates a reality and a perception
+
+21:58.240 --> 22:01.280
+that the system is fair, equal opportunity,
+
+22:01.280 --> 22:03.000
+not just one of privilege.
+
+22:03.840 --> 22:06.360
+And that helps to create social stability.
+
+22:06.360 --> 22:11.000
+But education is not just education
+
+22:11.000 --> 22:14.200
+in understanding facts and so on.
+
+22:14.200 --> 22:19.200
+It is education in civility of how to behave together.
+
+22:19.280 --> 22:21.280
+And so if they're smart,
+
+22:21.280 --> 22:23.960
+they understand how to be productive
+
+22:23.960 --> 22:27.360
+because they work well together and they're productive.
+
+22:27.360 --> 22:30.240
+And then that leads to the next stage.
+
+22:30.240 --> 22:32.920
+You could see in the lines in the charts,
+
+22:33.680 --> 22:37.720
+I plotted these so that you could see in a typical cycle,
+
+22:37.720 --> 22:42.360
+you could see that education is the long leading indicator.
+
+22:42.360 --> 22:45.440
+And then you could see, as you mentioned,
+
+22:45.440 --> 22:47.720
+that what you see is inventiveness
+
+22:47.720 --> 22:51.080
+and technology measures then follow.
+
+22:51.080 --> 22:54.200
+And you see then also competitiveness
+
+22:54.200 --> 22:55.960
+and world markets follows.
+
+22:55.960 --> 22:59.160
+For example, in the early stages of a cycle,
+
+22:59.160 --> 23:01.480
+the industries that they go into
+
+23:02.520 --> 23:04.680
+tend to be very basic industry
+
+23:04.680 --> 23:06.280
+because they have cheap labor,
+
+23:06.280 --> 23:08.040
+something like textiles
+
+23:08.040 --> 23:11.360
+and simple manufactured goods and so on.
+
+23:11.360 --> 23:13.600
+But as the education rises,
+
+23:13.600 --> 23:16.360
+then they move up the value chain
+
+23:16.360 --> 23:19.680
+to greater technologies and so on,
+
+23:19.680 --> 23:23.200
+which raises incomes and raises productivity.
+
+23:23.200 --> 23:25.960
+So yes, those, and as you say,
+
+23:25.960 --> 23:28.320
+there are 18 different measures like that,
+
+23:28.360 --> 23:32.800
+but education and then civility and the inventiveness.
+
+23:32.800 --> 23:37.080
+So you see it reflected in who's inventing what.
+
+23:38.080 --> 23:41.800
+And that corresponds then who's trading with,
+
+23:41.800 --> 23:43.680
+who's a big trading country
+
+23:43.680 --> 23:46.200
+and where's the value of economic output
+
+23:46.200 --> 23:47.760
+and what are per capita incomes.
+
+23:47.760 --> 23:49.720
+They all follow those arcs.
+
+23:51.120 --> 23:53.760
+Yeah, like you said, the fascinating thing about your book,
+
+23:53.760 --> 23:56.600
+so there's philosophy, there's wisdom,
+
+23:56.600 --> 23:58.680
+but there's plots.
+
+23:58.680 --> 24:00.040
+Yeah, you can see it.
+
+24:01.040 --> 24:02.400
+So it's not just your opinion.
+
+24:02.400 --> 24:04.680
+It's kind of like you can interpret it
+
+24:04.680 --> 24:06.360
+in any way you like,
+
+24:06.360 --> 24:09.640
+but you're just giving a lot of your own insights
+
+24:09.640 --> 24:10.840
+along with the numbers.
+
+24:12.080 --> 24:15.640
+If you were to look at the American nation,
+
+24:15.640 --> 24:17.480
+the American empire,
+
+24:17.480 --> 24:20.040
+and the trajectories looking into the future
+
+24:20.040 --> 24:21.480
+given these measures,
+
+24:22.680 --> 24:26.000
+what is the trajectory that leads to the collapse
+
+24:26.000 --> 24:28.880
+of the American empire based on these measures?
+
+24:28.880 --> 24:30.560
+What are the concerning indicators?
+
+24:30.560 --> 24:34.520
+And if those break down further, what does that look like?
+
+24:35.560 --> 24:40.560
+Well, all of those indicators are concerning,
+
+24:42.520 --> 24:45.160
+maybe except for one,
+
+24:45.160 --> 24:50.040
+which is technology, the technology niche.
+
+24:50.040 --> 24:52.120
+Although even in that area,
+
+24:52.120 --> 24:57.120
+the United States is improving at a slower rate
+
+24:57.280 --> 25:01.720
+than is China for various advantages that they have there.
+
+25:01.720 --> 25:05.240
+They put out about eight times as many computer engineers.
+
+25:05.240 --> 25:07.720
+They have free data and so on.
+
+25:07.720 --> 25:09.600
+But if you look at them,
+
+25:09.600 --> 25:13.280
+so the financial is a concern.
+
+25:13.280 --> 25:18.280
+The internal order, disorder is a concern.
+
+25:18.680 --> 25:21.400
+Then if you look at education levels,
+
+25:21.440 --> 25:26.440
+the United States is losing its educational advantage.
+
+25:28.080 --> 25:31.120
+If you were to compare it with China,
+
+25:32.440 --> 25:36.960
+if you take general public education in the United States,
+
+25:36.960 --> 25:39.880
+it's deteriorated tremendously,
+
+25:39.880 --> 25:42.760
+even in comparison to developed countries.
+
+25:42.760 --> 25:44.880
+There are scores, piece of scores and so on,
+
+25:44.880 --> 25:47.880
+and it's something like 38th in the world or something,
+
+25:47.880 --> 25:51.440
+and that was a big plunge, average public education.
+
+25:51.440 --> 25:54.880
+If you look at the best universities in the world,
+
+25:54.880 --> 25:56.600
+the United States is unique
+
+25:56.600 --> 25:58.880
+in having the best universities in the world.
+
+25:58.880 --> 26:02.360
+So there are these privileged spots
+
+26:02.360 --> 26:06.400
+that are, you know, excellent, uniquely excellent.
+
+26:06.400 --> 26:09.240
+So when you look at the comparison,
+
+26:09.240 --> 26:13.720
+education in China is improving rapidly
+
+26:14.680 --> 26:19.120
+and the quantity is a quantity of educated people
+
+26:19.120 --> 26:23.520
+in the areas that they're moving in is greater,
+
+26:23.520 --> 26:27.160
+and the resources that they're putting behind it is greater.
+
+26:27.160 --> 26:29.440
+And so you see the results are greater,
+
+26:30.480 --> 26:34.400
+but it's sort of along the lines that I'm dealing with.
+
+26:34.400 --> 26:39.400
+If you were to follow through in terms of actual productions,
+
+26:40.320 --> 26:44.960
+I think, you know, in terms of technologies,
+
+26:44.960 --> 26:47.440
+there are some areas that the United States
+
+26:47.440 --> 26:49.600
+is in a lead at the moment.
+
+26:49.600 --> 26:51.840
+There's some areas that China's in a lead,
+
+26:51.840 --> 26:54.920
+but China's gaining very quickly.
+
+26:54.920 --> 26:58.120
+When I first went to China, 1984,
+
+26:58.120 --> 27:01.080
+I would bring $10 calculators,
+
+27:01.080 --> 27:05.000
+and I gave them away as gifts to high-ranking people,
+
+27:05.000 --> 27:07.280
+and they thought they were miracle devices.
+
+27:07.520 --> 27:12.520
+Right now, in terms of areas like quantum computing
+
+27:13.280 --> 27:18.280
+and AI and, you know, many areas, you have a race going on.
+
+27:20.440 --> 27:24.800
+And so if you take the trajectory of the competitiveness,
+
+27:24.800 --> 27:26.920
+not just look at the current level,
+
+27:26.920 --> 27:29.320
+you have a situation where they're improving
+
+27:29.320 --> 27:31.240
+at a much faster rate.
+
+27:31.240 --> 27:35.000
+This is all good for the world if the world can get along.
+
+27:35.520 --> 27:40.520
+And the main thing, I think, is just how do you have
+
+27:43.600 --> 27:45.920
+a healthy world, and how do you have a strong economy,
+
+27:45.920 --> 27:49.880
+and how do you have a strong situation, is be strong.
+
+27:49.880 --> 27:53.560
+The United States' war is with itself.
+
+27:53.560 --> 27:55.320
+That's the main war.
+
+27:55.320 --> 27:57.440
+You know, it's very simple in history.
+
+27:59.480 --> 28:03.080
+Be financially sound, earn more than you spend,
+
+28:04.080 --> 28:08.120
+and be strong in these ways,
+
+28:08.120 --> 28:10.760
+and pretty much everything will take care of itself.
+
+28:13.000 --> 28:15.160
+But you make it sound simple, of course,
+
+28:15.160 --> 28:17.920
+because there's a momentum when things degrade,
+
+28:17.920 --> 28:19.640
+when the education system degrades,
+
+28:19.640 --> 28:23.080
+when you start borrowing, when, I mean,
+
+28:23.080 --> 28:26.120
+all of these indicators, once they start going down,
+
+28:26.120 --> 28:28.360
+it's, there's a momentum to it, right?
+
+28:28.360 --> 28:30.160
+So it's hard to reverse it.
+
+28:30.160 --> 28:33.680
+Right, and there are circumstances that you're then in.
+
+28:33.680 --> 28:36.200
+For example, indebtedness.
+
+28:37.440 --> 28:42.440
+It's politically desirable for those to borrow money
+
+28:43.440 --> 28:47.000
+and spend, because their constituencies
+
+28:47.000 --> 28:49.280
+only look at what they get.
+
+28:49.280 --> 28:51.960
+And when they get a lot, they don't pay attention
+
+28:51.960 --> 28:55.160
+to the balance sheet and how much debt is on the books.
+
+28:55.160 --> 28:58.640
+So it's always better to borrow, spend,
+
+28:58.640 --> 29:01.880
+and then leave the cleanup to the next guy.
+
+29:01.880 --> 29:04.800
+And so you inherit a lot.
+
+29:04.800 --> 29:09.440
+You inherited, as a new president enters in,
+
+29:09.440 --> 29:13.400
+or new legislator, they have a lot of debt.
+
+29:13.400 --> 29:16.320
+They have a broken down infrastructure.
+
+29:17.440 --> 29:20.800
+They don't have enough money to fix that.
+
+29:20.800 --> 29:23.400
+And so that's the lay of the land
+
+29:23.400 --> 29:27.640
+that the prior generations put you in,
+
+29:27.640 --> 29:29.200
+and there you are.
+
+29:29.200 --> 29:30.640
+And so that's right.
+
+29:31.520 --> 29:33.920
+It's difficult, because when you start to think,
+
+29:33.920 --> 29:35.400
+okay, what's healthy?
+
+29:35.400 --> 29:37.960
+Well, earn more than you spend.
+
+29:37.960 --> 29:42.040
+Well, that's not so easy, because what does that mean?
+
+29:42.040 --> 29:43.480
+Go earn more?
+
+29:43.480 --> 29:45.840
+I mean, okay, that's not so easy.
+
+29:45.840 --> 29:47.280
+Spend less?
+
+29:47.280 --> 29:49.080
+That isn't gonna work.
+
+29:49.080 --> 29:50.680
+So now what do you do?
+
+29:50.680 --> 29:54.240
+Okay, you have this debt that you then monetize,
+
+29:54.240 --> 29:55.720
+and that's why it's classic.
+
+29:55.720 --> 29:57.840
+So yes, that's why these cycles occur,
+
+29:57.840 --> 30:00.800
+because what has created before,
+
+30:00.800 --> 30:03.480
+what happened before created the lay of the land
+
+30:03.480 --> 30:06.480
+that is then increasingly difficult to deal with.
+
+30:06.480 --> 30:08.760
+So what can great leaders do in this moment?
+
+30:08.760 --> 30:13.560
+I mean, maybe, my sense is leadership is crucial here.
+
+30:13.560 --> 30:16.240
+So for example, to do very large projects
+
+30:16.240 --> 30:18.320
+that invest in the education system,
+
+30:18.320 --> 30:22.000
+that sort of try to fix the fundamentals,
+
+30:22.000 --> 30:25.960
+or maybe invest more and more into the innovation
+
+30:25.960 --> 30:28.560
+and the development of new technologies and so on.
+
+30:29.560 --> 30:32.920
+It feels like that just doesn't happen organically.
+
+30:33.960 --> 30:37.720
+So you have to have strong leaders
+
+30:37.720 --> 30:42.720
+that convince the populace of the importance of these ideas.
+
+30:43.720 --> 30:46.680
+Well, I completely agree with your list.
+
+30:46.680 --> 30:48.360
+What we have is a situation
+
+30:48.360 --> 30:52.280
+where everybody has their opinions,
+
+30:52.280 --> 30:54.840
+and they have to sort of get them exactly right,
+
+30:54.840 --> 30:56.720
+and they all fight with each other
+
+30:56.720 --> 30:58.360
+about whether they're opinions.
+
+30:58.360 --> 31:03.360
+So the most important thing is that we become bipartisan
+
+31:03.560 --> 31:07.080
+so that we don't, and we get over our differences.
+
+31:07.080 --> 31:10.320
+I would have a bipartisan cabinet.
+
+31:10.320 --> 31:15.320
+I would draw upon members of both parties,
+
+31:15.520 --> 31:19.560
+the moderates, who are going to be able to work together.
+
+31:20.480 --> 31:24.360
+So as then we have one country,
+
+31:24.360 --> 31:27.840
+and then we deal with those in a means
+
+31:27.840 --> 31:30.200
+that works for the majority of the people
+
+31:30.200 --> 31:32.480
+in the middle rather than the polarity.
+
+31:32.480 --> 31:37.480
+I think our greatest risk is in not being able to do that.
+
+31:38.040 --> 31:42.280
+So I would say that's a paramount importance
+
+31:42.320 --> 31:44.560
+because we have the resources.
+
+31:46.480 --> 31:50.080
+Wealth, real wealth and science and everything
+
+31:50.080 --> 31:52.520
+has never been better than it is.
+
+31:52.520 --> 31:54.680
+But the notion is that it has to work
+
+31:54.680 --> 31:56.800
+for the majority of people,
+
+31:56.800 --> 32:00.400
+and we have to keep it being productive.
+
+32:00.400 --> 32:05.400
+So that group has got to calmly and knowledgeably
+
+32:05.400 --> 32:09.840
+work together so that they increase the size of the pie,
+
+32:09.840 --> 32:12.680
+and they create broad-based prosperity.
+
+32:12.680 --> 32:15.680
+So that is a paramount importance.
+
+32:15.680 --> 32:18.920
+Whatever they do, if they do it that way,
+
+32:18.920 --> 32:23.320
+I can say I'm happy about because that other alternative
+
+32:23.320 --> 32:25.840
+is the really scary alternative.
+
+32:30.120 --> 32:33.440
+The scary alternative, the different ways
+
+32:33.440 --> 32:35.880
+it has evolved throughout history,
+
+32:35.880 --> 32:38.000
+some of it has led to wars.
+
+32:39.840 --> 32:41.760
+What are the future trajectories
+
+32:41.760 --> 32:44.440
+that lead to a potential war with China?
+
+32:44.440 --> 32:46.960
+Cold War or hot war?
+
+32:46.960 --> 32:48.280
+Is this something you think about?
+
+32:48.280 --> 32:50.280
+Is this something you're worried about?
+
+32:50.280 --> 32:52.400
+Yeah, I'd like to talk about both wars.
+
+32:52.400 --> 32:54.960
+So the war with China, as I say,
+
+32:54.960 --> 32:56.880
+there are five kinds of wars.
+
+32:56.880 --> 33:01.000
+There's a trade war, technology war,
+
+33:01.000 --> 33:06.000
+geopolitical influence war, capital war and military war.
+
+33:06.840 --> 33:08.920
+As far as military war goes,
+
+33:08.920 --> 33:13.920
+I think it's only a Taiwan issue, but that's a big issue.
+
+33:14.600 --> 33:16.920
+And we could talk about that for a minute.
+
+33:16.920 --> 33:21.200
+But those others, they'll be rough competitions
+
+33:21.200 --> 33:25.720
+and we'll have that type of evolution over a period of time.
+
+33:25.720 --> 33:28.480
+That's what that war looks like.
+
+33:28.480 --> 33:32.200
+Taiwan has been for a long time.
+
+33:33.000 --> 33:35.640
+A sovereignty issue to China.
+
+33:37.920 --> 33:41.480
+And it has its roots in what's called
+
+33:41.480 --> 33:43.520
+the 100 years of humiliation.
+
+33:44.520 --> 33:49.520
+From the 1840s to 1949, foreign powers came in,
+
+33:49.800 --> 33:52.000
+took advantage of China.
+
+33:52.000 --> 33:54.840
+They had the Opium Wars and such times.
+
+33:56.280 --> 34:00.160
+And that represented the 100 years of humiliation.
+
+34:00.200 --> 34:05.200
+And Taiwan represents their sovereignty
+
+34:06.320 --> 34:08.240
+and their important thing.
+
+34:08.240 --> 34:11.760
+And 50 years ago, starting 50 years ago,
+
+34:11.760 --> 34:15.600
+there was an agreement that there is one China
+
+34:15.600 --> 34:18.680
+and Taiwan is part of China.
+
+34:18.680 --> 34:23.680
+And that there would be peaceful reunification.
+
+34:24.320 --> 34:29.320
+The peaceful reunification has been a part of China
+
+34:30.160 --> 34:31.480
+as it happened.
+
+34:31.480 --> 34:34.960
+And in their view, that's a very big issue.
+
+34:34.960 --> 34:37.560
+And so it's a big contentious issue.
+
+34:37.560 --> 34:41.840
+And that could produce a military war,
+
+34:41.840 --> 34:44.440
+could produce a military accident,
+
+34:44.440 --> 34:46.040
+it's a very tense situation.
+
+34:46.040 --> 34:49.840
+And if we had a military war, God help us
+
+34:49.840 --> 34:53.680
+because of the capacity in all different new ways
+
+34:53.680 --> 34:56.440
+to inflict harm on each other.
+
+34:56.440 --> 34:58.760
+But anyway, that's that.
+
+34:58.760 --> 35:01.720
+If you don't have that military war,
+
+35:01.720 --> 35:03.440
+you'll have the competition
+
+35:03.440 --> 35:06.360
+between those other kinds of wars
+
+35:06.360 --> 35:11.360
+and whoever is strongest in those areas will win.
+
+35:11.440 --> 35:14.720
+Where do you put cyber war within the five?
+
+35:14.720 --> 35:17.440
+Well, cyber war is a military war.
+
+35:17.440 --> 35:19.960
+I'm assuming the type of cyber war
+
+35:19.960 --> 35:23.680
+that you're referring to is that which it's used
+
+35:23.680 --> 35:26.800
+to inflict pain on the other party through cyber.
+
+35:26.800 --> 35:29.720
+So cyber wars, you'll see cyber war.
+
+35:29.720 --> 35:31.920
+You could see space war.
+
+35:31.920 --> 35:36.920
+You can see drone warfare, new types of warfare,
+
+35:37.640 --> 35:42.640
+not just the traditional and nuclear type of warfare.
+
+35:42.720 --> 35:44.520
+But you could see any of the above.
+
+35:46.160 --> 35:48.880
+What are the defining characteristics?
+
+35:48.880 --> 35:51.720
+What are the interesting things about Xi Jinping,
+
+35:51.720 --> 35:55.960
+the president of China as a leader on the world stage?
+
+35:55.960 --> 36:00.960
+His father was a early leader.
+
+36:01.720 --> 36:06.720
+He was himself in the cultural revolution
+
+36:08.240 --> 36:12.300
+and times treated brutally.
+
+36:13.320 --> 36:17.800
+And during that period of time, it was very, very difficult.
+
+36:17.800 --> 36:21.480
+And he came up through the ranks
+
+36:21.480 --> 36:25.280
+and he's a very intelligent man.
+
+36:26.560 --> 36:29.320
+When he first came to power,
+
+36:29.320 --> 36:32.160
+as you know, they have two five-year terms
+
+36:32.160 --> 36:34.600
+and we're now coming to the end
+
+36:34.600 --> 36:36.760
+of the second of those five-year terms.
+
+36:36.760 --> 36:39.000
+When he first came to power,
+
+36:39.000 --> 36:42.880
+he felt that there should be a lot of reform
+
+36:42.880 --> 36:47.600
+and reform meant moving to much more of a market
+
+36:47.600 --> 36:49.360
+and open economy.
+
+36:49.360 --> 36:53.120
+When that happened in him coming in,
+
+36:53.160 --> 36:56.960
+I had some contact with economic policy makers,
+
+36:56.960 --> 36:59.320
+but in the circumstances then
+
+36:59.320 --> 37:03.840
+were that five major banks lent to state-owned enterprises
+
+37:03.840 --> 37:07.800
+and local governments with implied government guarantees.
+
+37:07.800 --> 37:10.080
+And so there was not control of that
+
+37:10.080 --> 37:14.120
+and the movement to aim more of a market economy.
+
+37:14.120 --> 37:17.760
+And the development of markets was a primary.
+
+37:17.760 --> 37:20.920
+And also the dealing with the corruption issue.
+
+37:20.920 --> 37:24.120
+There was a lot of corruption prior to that.
+
+37:24.120 --> 37:28.480
+And that was viewed as an existential threat to the system.
+
+37:28.480 --> 37:31.600
+So that became the primary objective.
+
+37:31.600 --> 37:36.600
+And then as time progressed over those 10 years,
+
+37:36.600 --> 37:40.440
+there was a lot of changing
+
+37:40.440 --> 37:43.840
+and their financial circumstances
+
+37:43.840 --> 37:46.920
+opening many, many other markets.
+
+37:46.920 --> 37:48.460
+They particularly getting money
+
+37:48.460 --> 37:51.180
+to small and medium-sized enterprises
+
+37:51.180 --> 37:52.940
+and developing a lending system
+
+37:52.940 --> 37:55.340
+and then establishing controls on it.
+
+37:55.340 --> 38:00.340
+So right now there's a vibrant capital markets.
+
+38:04.740 --> 38:07.860
+You can raise capital, you can be an entrepreneur,
+
+38:07.860 --> 38:12.300
+you can become a billionaire in the capital markets.
+
+38:12.300 --> 38:13.660
+And they developed the markets
+
+38:13.660 --> 38:16.380
+to be the second largest capital markets.
+
+38:16.380 --> 38:20.300
+At the same time, they had to deal
+
+38:20.300 --> 38:23.740
+with their rising debt issue,
+
+38:23.740 --> 38:28.700
+which they began to deal with really about four years ago
+
+38:28.700 --> 38:33.500
+when the second term began.
+
+38:33.500 --> 38:38.500
+And then Lou He became the vice-premier
+
+38:41.780 --> 38:46.360
+responsible for that and to deal with those issues.
+
+38:46.360 --> 38:49.920
+So you see right now that what's happening
+
+38:49.920 --> 38:53.180
+is the dealing with the real estate bubble.
+
+38:53.180 --> 38:56.000
+There was a development in real estate, a bubble,
+
+38:56.000 --> 39:00.040
+which produced a lot of unproductive lending.
+
+39:00.040 --> 39:05.040
+And Xi Jinping said houses are meant to live in,
+
+39:06.520 --> 39:08.280
+not to speculate on.
+
+39:08.280 --> 39:09.880
+And so that was wasteful.
+
+39:09.880 --> 39:12.940
+So they established what they call three red lines,
+
+39:12.940 --> 39:14.920
+which are financial ratios
+
+39:14.920 --> 39:18.400
+that the property developers had to live within.
+
+39:18.400 --> 39:21.880
+And that is then causing the adjustments
+
+39:21.880 --> 39:25.280
+that are going on now, which in my view are very healthy
+
+39:25.280 --> 39:29.680
+because whenever there's bankruptcies and so on,
+
+39:29.680 --> 39:33.160
+most in the public think, okay, that's a problem.
+
+39:33.160 --> 39:36.320
+It's in many cases really a cleaning up of bad debts
+
+39:36.320 --> 39:37.480
+and bad practices.
+
+39:37.480 --> 39:40.120
+And so that's what's going on.
+
+39:40.120 --> 39:42.640
+So that's, let's say economically.
+
+39:42.640 --> 39:47.640
+At the same time, there is the changing relationships,
+
+39:48.240 --> 39:50.060
+the changing world order,
+
+39:50.060 --> 39:52.840
+the changing relationships with the United States
+
+39:52.840 --> 39:54.200
+and other countries,
+
+39:54.200 --> 39:58.000
+which is becoming much less cooperative
+
+39:58.000 --> 40:01.640
+and much more warlike, much more confrontational.
+
+40:02.720 --> 40:07.480
+Those two things, the domestic debt problem and domestic,
+
+40:07.480 --> 40:11.200
+has led to what's called core,
+
+40:11.200 --> 40:13.200
+what they call core leadership,
+
+40:13.200 --> 40:17.200
+which means a leadership more around him
+
+40:17.200 --> 40:21.240
+that is less challenging
+
+40:21.240 --> 40:23.440
+because they believe in history
+
+40:23.440 --> 40:26.360
+that during very difficult times,
+
+40:26.360 --> 40:29.880
+a more centrally controlled decision-making process
+
+40:29.880 --> 40:31.120
+lends itself better
+
+40:31.120 --> 40:35.080
+than to a more fragmented political contentious project.
+
+40:35.080 --> 40:38.400
+And that's basically what's going on now.
+
+40:39.400 --> 40:42.120
+You said it very eloquently,
+
+40:42.120 --> 40:46.640
+but you mean the leadership is surrounded by yes men
+
+40:46.640 --> 40:50.160
+and there's a lot of centralized control.
+
+40:50.160 --> 40:53.560
+That characterization is view,
+
+40:53.560 --> 40:56.680
+is much more black and white than it really is.
+
+40:57.640 --> 41:00.080
+But it leans towards that direction.
+
+41:00.080 --> 41:01.320
+They're like, for example,
+
+41:01.320 --> 41:03.280
+of the standing members of the Politburo,
+
+41:03.280 --> 41:05.200
+four are more alleged,
+
+41:05.360 --> 41:09.520
+a lot of them, three are less so.
+
+41:09.520 --> 41:10.760
+You have to understand
+
+41:10.760 --> 41:14.680
+that it's kind of a collective leadership at the top.
+
+41:14.680 --> 41:18.640
+And then of course, there's just jockeying for power
+
+41:18.640 --> 41:22.640
+in a highly political sense at the top.
+
+41:22.640 --> 41:26.000
+But no one leader can be successful
+
+41:26.000 --> 41:30.240
+against all those powers at the top.
+
+41:30.240 --> 41:32.920
+So it's very politically negotiating.
+
+41:33.840 --> 41:37.600
+It's very much more like if you put in the United States,
+
+41:37.600 --> 41:39.520
+the Democrats and the Republicans,
+
+41:39.520 --> 41:41.360
+and they had to be in the same government
+
+41:41.360 --> 41:43.080
+and they work it out.
+
+41:43.080 --> 41:45.160
+It's kind of something like that.
+
+41:45.160 --> 41:47.480
+And so that's that struggle,
+
+41:47.480 --> 41:49.760
+but it's an internal struggle.
+
+41:49.760 --> 41:51.160
+Where do you put the importance
+
+41:51.160 --> 41:55.280
+of some of these ideas at the founding of the United States
+
+41:55.280 --> 41:57.440
+when then, now we're talking about that
+
+41:57.440 --> 42:02.480
+at the context of China, the freedom of speech, freedoms.
+
+42:02.520 --> 42:04.640
+What China is doing with the central management
+
+42:04.640 --> 42:08.560
+of a lot of things, it's enabling a lot of growth,
+
+42:08.560 --> 42:12.920
+but it's also limiting people on the very basic level
+
+42:12.920 --> 42:13.960
+in terms of freedom.
+
+42:13.960 --> 42:17.320
+The kind of freedom that I think can lead
+
+42:17.320 --> 42:19.800
+to entrepreneurship, to starting new businesses,
+
+42:19.800 --> 42:22.000
+to having big dreams and chasing those dreams
+
+42:22.000 --> 42:24.200
+and then creating totally new things
+
+42:24.200 --> 42:26.840
+in whatever the space, maybe in technology,
+
+42:26.840 --> 42:29.840
+in business and whatever.
+
+42:30.360 --> 42:33.440
+How important is that as a metric for society?
+
+42:33.440 --> 42:38.080
+Well, they have a view, which is the idea of a dialectic,
+
+42:38.080 --> 42:41.360
+which means that two things are at obvious,
+
+42:41.360 --> 42:43.600
+that everything comes with pros and cons,
+
+42:43.600 --> 42:46.560
+and two opposites exist.
+
+42:46.560 --> 42:50.120
+And you want the benefits of those two opposites,
+
+42:50.120 --> 42:51.920
+and how do you deal with the benefits
+
+42:51.920 --> 42:54.000
+of those two opposites?
+
+42:54.000 --> 42:57.400
+So let's say you want the capital markets
+
+42:57.440 --> 43:02.080
+because it gets money into the hands of the entrepreneurs
+
+43:02.080 --> 43:04.280
+who are motivated, they build fortunes,
+
+43:04.280 --> 43:07.840
+and that drives an economy to do very well.
+
+43:07.840 --> 43:12.760
+And at the same time, it produces the other problems,
+
+43:12.760 --> 43:14.920
+the wealth gaps, the other problems,
+
+43:14.920 --> 43:18.440
+then the debt cycle that we're talking about and so on.
+
+43:18.440 --> 43:23.360
+And Deng Xiaoping, how do you reconcile communism
+
+43:23.360 --> 43:27.560
+and the market economy and the capital markets?
+
+43:27.560 --> 43:30.120
+And he famously said,
+
+43:32.240 --> 43:34.440
+doesn't matter if it's a white cat or a black cat,
+
+43:34.440 --> 43:36.360
+just as long as it catches mice.
+
+43:36.360 --> 43:40.680
+In other words, if it works in making the country richer,
+
+43:40.680 --> 43:42.320
+then that becomes the objective
+
+43:42.320 --> 43:43.640
+and then they move that along.
+
+43:43.640 --> 43:45.520
+So there are these conflicts.
+
+43:46.520 --> 43:51.440
+And one of the leaders described it to me as follows,
+
+43:51.440 --> 43:53.200
+because it's confusion
+
+43:53.200 --> 43:55.720
+and it goes back over a period of time.
+
+43:55.720 --> 44:00.040
+There's a hierarchy and it's an extension of the family,
+
+44:00.040 --> 44:01.320
+he described it.
+
+44:01.320 --> 44:06.320
+And he said, the United States is a country of individuals
+
+44:06.640 --> 44:11.640
+and individualism, and that is its vibrancy that we see.
+
+44:15.200 --> 44:17.660
+The individual rights to speak up,
+
+44:17.700 --> 44:22.460
+the protection of the individual,
+
+44:22.460 --> 44:25.580
+individual property rights and all of those things
+
+44:25.580 --> 44:28.300
+is of paramount importance.
+
+44:28.300 --> 44:29.940
+And we build our organization.
+
+44:29.940 --> 44:32.140
+That's why democracy is from the bottom up
+
+44:32.140 --> 44:34.300
+or even a company will get together
+
+44:34.300 --> 44:37.540
+and we'll be partners to prosper together.
+
+44:37.540 --> 44:39.500
+That is the American approach.
+
+44:40.460 --> 44:43.420
+He was describing that in China,
+
+44:43.420 --> 44:47.900
+it's an extension of the Confucian family, essentially.
+
+44:47.900 --> 44:52.380
+And so it's almost like there's a hierarchy.
+
+44:52.380 --> 44:57.060
+And so what they think about is the common good,
+
+44:57.060 --> 44:59.420
+not the individualism.
+
+44:59.420 --> 45:02.140
+So for example, if they want a high-speed rail
+
+45:02.140 --> 45:04.140
+to go from one place to another,
+
+45:04.140 --> 45:06.740
+and that's best in the common good,
+
+45:06.740 --> 45:08.860
+then the individual protections
+
+45:08.860 --> 45:11.340
+that would stand in the way of doing that
+
+45:11.340 --> 45:13.700
+would be of secondary concern.
+
+45:13.700 --> 45:17.260
+So that notion of controlling.
+
+45:17.260 --> 45:22.260
+So for example, what they're doing with video games,
+
+45:24.220 --> 45:28.280
+they control what type of video games
+
+45:28.280 --> 45:32.780
+and how many hours a day kids can be on video games
+
+45:33.940 --> 45:35.700
+operating in that way,
+
+45:35.700 --> 45:39.020
+because they believe that that's good for the society
+
+45:39.020 --> 45:40.820
+and that's very controlling.
+
+45:40.820 --> 45:42.260
+In the United States,
+
+45:42.260 --> 45:45.140
+I think probably most parents would say, leave it to me.
+
+45:45.140 --> 45:48.380
+And it's a matter between me and my kids.
+
+45:48.380 --> 45:50.700
+The same thing has to do with data.
+
+45:50.700 --> 45:54.340
+In other words, in the United States, who controls the data?
+
+45:55.260 --> 45:57.380
+Does the company control the data?
+
+45:57.380 --> 46:00.060
+Do you individually control the data?
+
+46:00.060 --> 46:03.620
+And so the inclination would be to figure that out,
+
+46:03.620 --> 46:05.700
+but nobody would say that the government
+
+46:05.700 --> 46:07.500
+is going to control the data
+
+46:07.500 --> 46:11.820
+because of our inclination of really anti-government control.
+
+46:11.820 --> 46:14.220
+In China, it would be that the government
+
+46:14.220 --> 46:15.900
+will control the data
+
+46:15.900 --> 46:18.940
+because that's going to be best for the society.
+
+46:18.940 --> 46:21.620
+And it depends who you trust, but that's...
+
+46:21.620 --> 46:24.740
+So that difference in philosophy
+
+46:24.740 --> 46:28.700
+is very much at the heart of that.
+
+46:28.700 --> 46:33.140
+As far as your question in terms of effectiveness,
+
+46:33.140 --> 46:35.980
+it really is, in China's case,
+
+46:35.980 --> 46:38.180
+it's how you balance the things, right?
+
+46:38.180 --> 46:40.060
+So what they're attempting to do
+
+46:40.060 --> 46:43.700
+is to create a lot of freedom and creativity
+
+46:44.700 --> 46:48.540
+in areas that are not political, let's say.
+
+46:50.300 --> 46:53.900
+And so you see a lot of entrepreneurship,
+
+46:53.900 --> 46:55.980
+you see a lot of product development,
+
+46:55.980 --> 47:00.660
+you see a lot of creativity happening in that way.
+
+47:00.660 --> 47:04.940
+So the stereotype that you don't see creativity happening
+
+47:05.300 --> 47:06.740
+is an old stereotype,
+
+47:06.740 --> 47:09.460
+whereas a lot of creativity is certainly happening.
+
+47:09.460 --> 47:10.940
+And the system can work well
+
+47:10.940 --> 47:13.300
+if they can achieve that kind of balance.
+
+47:13.300 --> 47:15.100
+It's proven to have worked well.
+
+47:15.100 --> 47:18.340
+Since I started going there in 1984,
+
+47:18.340 --> 47:21.140
+per capita income, real per capita income
+
+47:21.140 --> 47:24.180
+has increased by 26 times.
+
+47:24.180 --> 47:28.980
+The longevity rate has increased by 10 years.
+
+47:28.980 --> 47:33.260
+The poverty rate has fallen from 88% to less than 1%
+
+47:33.300 --> 47:37.420
+in terms of basics like starvation and things.
+
+47:37.420 --> 47:41.740
+And if you read history, Plato's Republic,
+
+47:41.740 --> 47:46.420
+he talks about the cycles, democracy and autocratic
+
+47:46.420 --> 47:49.260
+and the benevolent death spot and all of that,
+
+47:50.180 --> 47:53.380
+each has their own vulnerability.
+
+47:53.380 --> 47:55.700
+The vulnerability of democracy,
+
+47:55.700 --> 47:58.820
+which has been a remarkable, remarkable system,
+
+47:58.820 --> 48:02.060
+and I don't have to extol the benefits of it,
+
+48:02.980 --> 48:07.980
+but the vulnerability of it has always been
+
+48:07.980 --> 48:12.980
+the internal conflict that produces itself as anarchy.
+
+48:13.860 --> 48:18.860
+In World War II, four democracies chose to be autocracies
+
+48:22.980 --> 48:25.980
+because there was internal disorder
+
+48:25.980 --> 48:27.940
+and there was the belief,
+
+48:27.940 --> 48:30.220
+will somebody bring about order
+
+48:30.220 --> 48:32.660
+and get control of the situation?
+
+48:32.660 --> 48:37.660
+That was in Germany, Italy, Japan and Spain.
+
+48:38.060 --> 48:41.180
+They were parliamentary systems
+
+48:41.180 --> 48:43.860
+that turned themselves over to that.
+
+48:43.860 --> 48:48.860
+So both systems have vulnerabilities.
+
+48:49.460 --> 48:53.300
+I think the main thing that we need to think about
+
+48:53.300 --> 48:54.820
+is those vulnerabilities.
+
+48:54.820 --> 48:58.340
+Democracy is an amazing system
+
+48:58.340 --> 49:03.340
+because the adherence to the rules and the system
+
+49:03.500 --> 49:06.700
+and the checks and balances is quite amazing
+
+49:06.700 --> 49:10.500
+and it gives it a flexibility to change without civil wars.
+
+49:12.460 --> 49:15.060
+But there has to be the respect of the rules.
+
+49:15.060 --> 49:18.060
+And when you see something like
+
+49:18.060 --> 49:22.500
+they will not accept elections
+
+49:22.500 --> 49:27.060
+or they will not accept rules, history has shown,
+
+49:27.060 --> 49:29.700
+when the causes that people are behind
+
+49:29.700 --> 49:32.380
+are more important to them than the system,
+
+49:32.380 --> 49:34.460
+the system is in jeopardy.
+
+49:34.460 --> 49:38.300
+So we have a situation that's very much like that
+
+49:38.300 --> 49:42.540
+in terms of let's say the 2024 elections.
+
+49:42.540 --> 49:46.780
+I believe that there's a very high chance
+
+49:46.780 --> 49:51.780
+that neither side will accept losing, for example.
+
+49:51.860 --> 49:56.300
+And so we have that kind of a situation.
+
+49:56.300 --> 50:00.180
+So one would hope that one could rise above
+
+50:00.180 --> 50:04.780
+the disagreements and rely on the system
+
+50:04.780 --> 50:06.940
+for resolving disagreements.
+
+50:06.940 --> 50:11.780
+Because if that doesn't happen, then we have our own chaos.
+
+50:13.340 --> 50:16.860
+So the kind of the trend that started in 2020,
+
+50:16.860 --> 50:21.700
+or I mean, I suppose it's been there, it's been growing.
+
+50:21.700 --> 50:24.300
+One representation of this internal disorder
+
+50:24.300 --> 50:27.460
+has been the growing trend of being skeptical
+
+50:27.460 --> 50:29.700
+about the results of the election.
+
+50:29.700 --> 50:31.700
+Well, it started before that.
+
+50:31.700 --> 50:35.140
+There was the emergence of population
+
+50:35.140 --> 50:39.180
+before President Trump was elected.
+
+50:40.020 --> 50:43.340
+He was basically elected as a populist
+
+50:43.340 --> 50:46.860
+because there was a large percentage of the population
+
+50:46.860 --> 50:50.700
+that felt that the system didn't work for them.
+
+50:50.700 --> 50:52.660
+And he tapped into that.
+
+50:52.660 --> 50:56.100
+And he was largely elected as a populist leader,
+
+50:56.100 --> 50:59.460
+first populist leader in a developed country.
+
+51:00.620 --> 51:04.220
+And so populism began that then.
+
+51:04.220 --> 51:08.460
+And that was a battle of one group against the other group.
+
+51:08.460 --> 51:12.140
+And so since then, it's been like that
+
+51:12.140 --> 51:13.620
+and it continued to grow.
+
+51:13.700 --> 51:18.700
+You've mentioned the vulnerability of democracy,
+
+51:18.780 --> 51:22.380
+that internal disorder is the vulnerability of democracy.
+
+51:22.380 --> 51:25.260
+What's the vulnerability of a system like China?
+
+51:25.260 --> 51:28.220
+Maybe one way to say is put China aside
+
+51:28.220 --> 51:30.700
+and look at history, look at Soviet Union.
+
+51:30.700 --> 51:35.700
+What's the vulnerability of a communist type system?
+
+51:35.780 --> 51:40.780
+Well, I'll call it both communist and communist.
+
+51:40.780 --> 51:45.220
+I'll call it both communist and autocratic,
+
+51:46.500 --> 51:48.980
+depending on how much autocracy,
+
+51:48.980 --> 51:52.540
+is that it lacks flexibility.
+
+51:52.540 --> 51:56.140
+It lacks the ability.
+
+51:57.180 --> 51:59.620
+But I should deal with them differently.
+
+51:59.620 --> 52:02.220
+In other words, there's the economic system.
+
+52:02.220 --> 52:07.220
+The economic system threatens motivation and productivity.
+
+52:07.300 --> 52:12.300
+So communism or socialism has to be done in a way
+
+52:12.620 --> 52:17.060
+where you can threaten productivity.
+
+52:17.060 --> 52:20.540
+Capitalism has, and what I mean by that,
+
+52:20.540 --> 52:24.740
+I mean free markets and capital markets
+
+52:24.740 --> 52:28.500
+have been an effective way of allocating resources
+
+52:28.500 --> 52:33.500
+and also creating the incentives and the resources,
+
+52:33.580 --> 52:37.580
+providing the resources for the inventiveness of new ideas.
+
+52:37.580 --> 52:42.460
+And so if I compare that, what the Chinese have done
+
+52:42.460 --> 52:47.180
+to a large extent is to recognize that and have made a move.
+
+52:47.180 --> 52:52.100
+That's why the seeming dialectic or the conflict
+
+52:52.100 --> 52:53.700
+between those two things exists.
+
+52:53.700 --> 52:55.540
+But anyway, that's it.
+
+52:55.540 --> 52:57.820
+As far as an autocratic system,
+
+52:58.780 --> 53:03.780
+rather than one man, one vote from the population up,
+
+53:04.260 --> 53:07.300
+the risks of the autocratic system
+
+53:07.300 --> 53:11.260
+is that there's enough discontent that arises
+
+53:12.220 --> 53:16.580
+that the system doesn't have the flexibility
+
+53:16.580 --> 53:20.540
+and that rather than bending, it breaks.
+
+53:21.460 --> 53:24.140
+That's the big risk.
+
+53:24.180 --> 53:28.260
+The notion of trying to control a population
+
+53:28.260 --> 53:31.460
+if there's that rather than giving it the flexibility.
+
+53:32.420 --> 53:36.220
+So that would be the big risk of the autocratic system.
+
+53:36.220 --> 53:37.220
+What's the human,
+
+53:38.780 --> 53:40.420
+because you mentioned like the top gets bigger
+
+53:40.420 --> 53:44.820
+with empires and you start to get things for granted.
+
+53:45.780 --> 53:48.380
+Is some of this just human nature?
+
+53:48.380 --> 53:53.380
+So the concern with China, with autocratic nations,
+
+53:53.500 --> 53:58.500
+the concern with the Third Reich, the Soviet Union,
+
+53:59.980 --> 54:03.620
+was that fundamentally at the individual level,
+
+54:03.620 --> 54:06.500
+the humans involved at the top,
+
+54:06.500 --> 54:09.620
+they start becoming, they're starting to lose touch
+
+54:09.620 --> 54:13.500
+with the reality in a way that no longer makes them.
+
+54:13.500 --> 54:14.940
+I guess that's the representation,
+
+54:14.940 --> 54:17.020
+the flexibility that you're referring to.
+
+54:17.020 --> 54:21.220
+Well, I mean, in a democracy, you could change.
+
+54:21.220 --> 54:23.620
+You can go as far left or as far right.
+
+54:23.620 --> 54:25.820
+You can change the leaders easily.
+
+54:25.820 --> 54:27.740
+And so the people don't become,
+
+54:28.940 --> 54:31.340
+they pretty much only have themselves to blame.
+
+54:32.900 --> 54:35.700
+And one of the problems of that
+
+54:35.700 --> 54:38.020
+is they may not choose the best leaders,
+
+54:39.340 --> 54:42.380
+but they have that flexibility.
+
+54:42.380 --> 54:46.220
+So vote and you get what you wanted.
+
+54:46.220 --> 54:49.060
+In the case of the autocratic, let's say leaders,
+
+54:49.060 --> 54:53.060
+and then the movement from democracies to autocracies,
+
+54:54.060 --> 54:57.420
+what you see normally that movement
+
+54:57.420 --> 55:00.540
+is that one of the systems is not working.
+
+55:00.540 --> 55:02.940
+Let's say the democracy is not effectively,
+
+55:02.940 --> 55:04.500
+everybody's arguing with each other
+
+55:04.500 --> 55:05.900
+and nobody's getting anything done.
+
+55:05.900 --> 55:10.340
+And like Mussolini, the trains are not running on time.
+
+55:10.340 --> 55:12.260
+And that would be the example,
+
+55:12.260 --> 55:14.540
+geez, this place has gotten chaotic.
+
+55:14.540 --> 55:16.700
+Will somebody get into control?
+
+55:16.740 --> 55:20.540
+And then you get the autocratic
+
+55:20.540 --> 55:24.780
+and then he's autocratic enough to boss people around.
+
+55:24.780 --> 55:29.060
+And then you follow those kinds of orders.
+
+55:29.060 --> 55:32.700
+And it's like maybe a CEO in a powerful company
+
+55:32.700 --> 55:34.620
+going around and that could work well
+
+55:34.620 --> 55:36.380
+or it could work badly.
+
+55:36.380 --> 55:41.380
+Most companies are run as like autocracies in a sense.
+
+55:42.220 --> 55:45.220
+There's the hierarchy and the command economy
+
+55:45.220 --> 55:46.940
+and that kind of thing.
+
+55:47.820 --> 55:51.420
+And that can work well or not.
+
+55:51.420 --> 55:56.420
+But then quite often when you get the populist autocratic,
+
+55:56.900 --> 56:00.420
+their personality is something that they wanna fight
+
+56:01.420 --> 56:04.020
+and they become more nationalistic
+
+56:05.220 --> 56:07.980
+and they tend to become more militaristic.
+
+56:08.020 --> 56:13.020
+And human nature at that stage lends itself to fighting.
+
+56:13.100 --> 56:18.100
+There's an arc here that when we think of a country
+
+56:18.700 --> 56:22.180
+and we say we, when we think of a country,
+
+56:22.180 --> 56:24.700
+it's not true, it's not like that.
+
+56:24.700 --> 56:27.060
+There are individuals who change.
+
+56:27.060 --> 56:31.060
+One generation dies and another generation comes along.
+
+56:31.060 --> 56:36.060
+And one of those arcs is that the ones who are fighting
+
+56:37.060 --> 56:41.660
+the ones who have been through war don't wanna go to war
+
+56:41.660 --> 56:45.860
+and are more happily willing to abide
+
+56:45.860 --> 56:47.980
+by whatever the rules are.
+
+56:47.980 --> 56:50.940
+As you get farther along into that cycle
+
+56:50.940 --> 56:53.940
+and you get a new generation and they forget about wars
+
+56:53.940 --> 56:58.940
+and the horrors of wars, then they want to fight.
+
+56:59.580 --> 57:02.820
+And so you're seeing right now the emergent
+
+57:02.820 --> 57:06.420
+of fight for right and what that means
+
+57:06.420 --> 57:10.700
+is you see it internally, fight, where are you
+
+57:10.700 --> 57:14.860
+and fight for that thing and they mean fight.
+
+57:14.860 --> 57:19.340
+And then externally, fight, are you going to be
+
+57:19.340 --> 57:21.700
+the strong one who will fight and win?
+
+57:21.700 --> 57:26.060
+And that develops on both sides, this fight and win
+
+57:26.060 --> 57:30.300
+and each side is cheering each other on into a war.
+
+57:30.300 --> 57:34.700
+But that comes by those who really have not experienced war
+
+57:34.700 --> 57:37.580
+because it comes in their part of their lifetime.
+
+57:38.740 --> 57:40.660
+Humans are fascinating.
+
+57:40.660 --> 57:41.980
+Humans are fascinating.
+
+57:41.980 --> 57:45.700
+And by the way, human nature has not changed
+
+57:45.700 --> 57:48.260
+over the thousands of years.
+
+57:48.260 --> 57:51.980
+So it's so interesting because like in doing this study
+
+57:51.980 --> 57:54.060
+and it comes across in the study,
+
+57:54.060 --> 57:56.740
+it's like watching the same movie over and over again.
+
+57:57.420 --> 58:02.420
+You see the arc and you see it happen over and over again.
+
+58:02.580 --> 58:05.300
+The only things that seem to change are the clothes
+
+58:05.300 --> 58:07.500
+people wear and the technologies they use.
+
+58:11.020 --> 58:13.060
+Yeah, and then somebody probably will disagree with you
+
+58:13.060 --> 58:15.020
+about the clothes, maybe there's also cycles
+
+58:15.020 --> 58:17.940
+within fashions, maybe we're not even creative there.
+
+58:18.940 --> 58:23.940
+What do you make of Russia and Vladimir Putin?
+
+58:24.460 --> 58:26.420
+What do you think about Putin as a leader,
+
+58:26.420 --> 58:30.460
+as a human being on this world stage within the context
+
+58:30.460 --> 58:33.900
+of the cycles of empires that you think about?
+
+58:33.900 --> 58:38.460
+Well, Putin came to power at the failure
+
+58:38.460 --> 58:41.220
+of Russia's last order.
+
+58:41.220 --> 58:43.500
+So there was the end of communism
+
+58:45.260 --> 58:47.980
+and there was the development of the market economy,
+
+58:47.980 --> 58:50.140
+the collapse of the Soviet Union.
+
+58:51.140 --> 58:56.140
+And at that time, he was appointed by Yeltsin,
+
+58:58.740 --> 59:03.180
+who was an alcoholic and had problems managing
+
+59:03.180 --> 59:05.220
+and was put into power.
+
+59:05.220 --> 59:09.900
+And the conditions in the Russia were, there was anarchy,
+
+59:10.860 --> 59:13.980
+there was no money, it had the classic
+
+59:13.980 --> 59:16.620
+end of cycle ingredients, it was broke,
+
+59:16.620 --> 59:18.660
+it was people were fighting with each other,
+
+59:18.660 --> 59:23.180
+it was in the anarchy and that's when he came to power.
+
+59:23.180 --> 59:27.820
+And there were not institutions,
+
+59:27.820 --> 59:29.180
+the whole thing had collapsed
+
+59:29.180 --> 59:31.980
+and it was not effective ministry of education,
+
+59:31.980 --> 59:33.100
+ministry of anything.
+
+59:34.180 --> 59:39.180
+And so the idea was that they needed 25 years of stability
+
+59:41.220 --> 59:43.740
+and they needed a democracy
+
+59:43.740 --> 59:47.580
+and they needed the improvement of capital markets.
+
+59:48.500 --> 59:53.500
+So he's been in that position as I guess I would call him
+
+59:57.420 --> 01:00:02.420
+a semi autocratic leader in that from all indications,
+
+01:00:03.300 --> 01:00:08.300
+he would respect the democracy and he's very popular.
+
+01:00:08.540 --> 01:00:10.860
+He's won democratic elections
+
+01:00:10.860 --> 01:00:12.620
+because he's been a strong leader
+
+01:00:12.620 --> 01:00:16.820
+and he's brought peace and stability
+
+01:00:16.820 --> 01:00:21.820
+to Russia after the breakup of the Soviet Union.
+
+01:00:22.300 --> 01:00:27.300
+And he's a strong leader in pursuit of the country's interests
+
+01:00:31.900 --> 01:00:36.900
+in a way where Russia is not a significant economic power
+
+01:00:41.900 --> 01:00:44.340
+but it is a significant military power.
+
+01:00:45.340 --> 01:00:49.860
+So the issues and then there's a strong alliance
+
+01:00:49.860 --> 01:00:51.700
+between Russia and China now.
+
+01:00:53.140 --> 01:00:55.820
+So that's kind of the lay of the land
+
+01:00:56.900 --> 01:00:59.380
+and then there are sensitivities.
+
+01:00:59.380 --> 01:01:03.980
+The Ukraine issue is a sensitivity
+
+01:01:03.980 --> 01:01:08.980
+because there are a lot of Russians who live in the Ukraine
+
+01:01:08.980 --> 01:01:12.820
+and there's also the issue of NATO on their border.
+
+01:01:13.780 --> 01:01:15.620
+So there are those kinds of things
+
+01:01:15.620 --> 01:01:17.020
+and he has military power
+
+01:01:17.020 --> 01:01:19.700
+and he has a strong alliance with China.
+
+01:01:20.900 --> 01:01:23.660
+And I guess that's my best summary
+
+01:01:23.660 --> 01:01:28.660
+of what his position is, strong leader, popular.
+
+01:01:32.540 --> 01:01:35.380
+These are not subjective interpretations.
+
+01:01:35.380 --> 01:01:37.820
+These are objective interpretations.
+
+01:01:37.820 --> 01:01:41.020
+Yeah, it's interesting just in this conversation,
+
+01:01:41.020 --> 01:01:45.940
+you're not sort of doing the usual criticism
+
+01:01:45.940 --> 01:01:47.460
+of any one particular system.
+
+01:01:47.460 --> 01:01:48.740
+You're looking at these systems
+
+01:01:48.740 --> 01:01:50.660
+from the perspective of history.
+
+01:01:50.660 --> 01:01:52.980
+You're just describing how they work.
+
+01:01:52.980 --> 01:01:56.460
+It's often times when you talk about what Russia is today
+
+01:01:56.460 --> 01:01:59.420
+or what the Soviet Union was or what China is today
+
+01:01:59.420 --> 01:02:00.780
+is you start to criticize,
+
+01:02:00.780 --> 01:02:03.260
+well, they do this kind of censorship
+
+01:02:03.260 --> 01:02:04.540
+or they do this kind of,
+
+01:02:04.540 --> 01:02:07.180
+they limit freedoms in this kind of way.
+
+01:02:07.180 --> 01:02:10.740
+But you're just kind of describing this as a nation
+
+01:02:11.460 --> 01:02:13.300
+with ideas what they think is right.
+
+01:02:13.300 --> 01:02:15.300
+This is how they hope to get it to work.
+
+01:02:15.300 --> 01:02:16.540
+This is why it's working.
+
+01:02:16.540 --> 01:02:18.260
+This is what's not working.
+
+01:02:18.260 --> 01:02:21.380
+Here's metrics that show that it's not working.
+
+01:02:21.380 --> 01:02:23.780
+I think that's a refreshing way to think about it.
+
+01:02:23.780 --> 01:02:26.220
+It's easy though, I mean, you got some criticism
+
+01:02:27.580 --> 01:02:30.100
+saying that I think China's a strict parent.
+
+01:02:32.740 --> 01:02:35.180
+Some people criticize these countries for doing,
+
+01:02:36.420 --> 01:02:39.020
+so for violating human rights.
+
+01:02:39.020 --> 01:02:41.980
+I suppose there's some people that criticize
+
+01:02:41.980 --> 01:02:44.140
+the United States for violating human rights.
+
+01:02:44.140 --> 01:02:49.220
+But what are your thoughts on the world stage today
+
+01:02:51.100 --> 01:02:54.820
+about some of the behaviors of this government
+
+01:02:54.820 --> 01:02:56.380
+in terms of respecting the rights,
+
+01:02:56.380 --> 01:02:58.420
+the basic rights of human beings?
+
+01:02:58.420 --> 01:03:02.540
+You described accurately how I just tried
+
+01:03:02.540 --> 01:03:05.820
+to look at things in a non,
+
+01:03:05.820 --> 01:03:10.700
+I don't want to impute my values on anybody.
+
+01:03:12.180 --> 01:03:14.060
+I mean, there are intolerable things,
+
+01:03:14.060 --> 01:03:16.820
+so I'm not saying there aren't intolerable things.
+
+01:03:16.820 --> 01:03:20.380
+But one of the great things of being an American here
+
+01:03:20.380 --> 01:03:23.900
+is that I grew up with all different nationalities,
+
+01:03:23.900 --> 01:03:26.100
+having all different points of view
+
+01:03:26.100 --> 01:03:27.740
+and all different religions
+
+01:03:27.740 --> 01:03:30.540
+and all different ways of operating.
+
+01:03:30.540 --> 01:03:35.540
+And I've come to treasure the fact that that is,
+
+01:03:35.940 --> 01:03:38.020
+what's their business is their business.
+
+01:03:38.020 --> 01:03:41.220
+And then the question is, where do you cross the line
+
+01:03:41.220 --> 01:03:43.020
+under what circumstances
+
+01:03:43.020 --> 01:03:45.780
+that others have got to do it my way?
+
+01:03:45.780 --> 01:03:49.140
+And then when you do it internationally,
+
+01:03:49.140 --> 01:03:52.940
+the issue of what is a sovereign state,
+
+01:03:52.940 --> 01:03:56.100
+which, as I say, in the piece of Westphalia,
+
+01:03:56.100 --> 01:04:00.060
+and you have borders, and then when do you cross the line
+
+01:04:00.060 --> 01:04:02.740
+that my way of doing things
+
+01:04:02.740 --> 01:04:04.500
+has got to be their way of doing things
+
+01:04:04.500 --> 01:04:06.380
+under what are the various rights.
+
+01:04:06.380 --> 01:04:09.540
+And so that's a very delicate question
+
+01:04:09.540 --> 01:04:12.020
+or a very difficult question.
+
+01:04:12.020 --> 01:04:16.260
+And we all have responsibilities to different parties
+
+01:04:16.260 --> 01:04:18.980
+and we all have different levels of knowledge
+
+01:04:18.980 --> 01:04:21.260
+about those particular things.
+
+01:04:21.260 --> 01:04:25.620
+So, for example, as an international investor,
+
+01:04:25.620 --> 01:04:28.320
+I have a responsibility to my investors.
+
+01:04:29.300 --> 01:04:33.100
+Those who run companies have a responsibility to theirs
+
+01:04:33.100 --> 01:04:34.580
+of how did they run that?
+
+01:04:34.580 --> 01:04:39.580
+So if you're taking Nike or Snickers and so on,
+
+01:04:39.860 --> 01:04:43.540
+and Americans can decide whether they wanna buy
+
+01:04:43.540 --> 01:04:46.260
+Chinese products or not buy Chinese products,
+
+01:04:46.260 --> 01:04:49.460
+we are all faced with those types of choices.
+
+01:04:49.460 --> 01:04:52.420
+So you have, what do you wanna do in your constituency
+
+01:04:52.420 --> 01:04:53.700
+and you have your choices.
+
+01:04:53.700 --> 01:04:56.340
+And then beyond that, in many cases,
+
+01:04:56.340 --> 01:04:58.100
+the issues are quite complex,
+
+01:04:58.100 --> 01:05:02.340
+like there are geopolitical questions that enter into it.
+
+01:05:02.340 --> 01:05:07.340
+So, and then I believe that if you disconnected,
+
+01:05:08.760 --> 01:05:13.760
+if all those entities like myself, the businesses,
+
+01:05:14.660 --> 01:05:17.860
+doing business with China disconnected,
+
+01:05:17.860 --> 01:05:20.460
+I think that that would be disastrous,
+
+01:05:20.460 --> 01:05:22.380
+economically disastrous.
+
+01:05:22.380 --> 01:05:27.380
+And it would also be reduce the understanding
+
+01:05:27.580 --> 01:05:31.500
+that comes from working together that helps to reduce wars.
+
+01:05:31.580 --> 01:05:33.780
+And so these are all complicated.
+
+01:05:33.780 --> 01:05:37.860
+So what we do is, and who makes it,
+
+01:05:37.860 --> 01:05:39.660
+my opinion matters the most.
+
+01:05:39.660 --> 01:05:41.780
+Why should it be my opinion that matters the most
+
+01:05:41.780 --> 01:05:43.260
+in making that decision?
+
+01:05:43.260 --> 01:05:46.780
+So I largely look at the government guidance
+
+01:05:46.780 --> 01:05:49.340
+that I get not only from my own government,
+
+01:05:49.340 --> 01:05:52.260
+but from the other governments, and I follow the rules.
+
+01:05:52.260 --> 01:05:55.400
+I'm in 40, we invest in 40 countries.
+
+01:05:55.400 --> 01:05:57.620
+And we wanna do that in the best way
+
+01:05:57.620 --> 01:06:00.100
+to provide the diversified portfolio.
+
+01:06:00.140 --> 01:06:01.820
+And we sort of need that.
+
+01:06:01.820 --> 01:06:06.420
+Every one of those countries has similar complexities.
+
+01:06:06.420 --> 01:06:08.820
+There are always one issue or another,
+
+01:06:08.820 --> 01:06:12.460
+and there's only so much that we really understand
+
+01:06:12.460 --> 01:06:13.740
+about all of those issues.
+
+01:06:13.740 --> 01:06:17.060
+So we rely largely on the guidance that we get.
+
+01:06:17.060 --> 01:06:19.500
+Yeah, you have to empathize and show respect
+
+01:06:19.500 --> 01:06:22.500
+to the culture, the place, the way things are done.
+
+01:06:23.300 --> 01:06:25.060
+You don't necessarily,
+
+01:06:26.760 --> 01:06:30.820
+the way you heal relationships between nations,
+
+01:06:30.820 --> 01:06:32.980
+like you said, you work together.
+
+01:06:32.980 --> 01:06:37.980
+And that requires kind of to listen maybe more than you talk.
+
+01:06:40.260 --> 01:06:42.540
+And I think people in the public sphere
+
+01:06:44.160 --> 01:06:46.600
+talk a lot about China without really listening,
+
+01:06:46.600 --> 01:06:48.980
+without understanding much about China.
+
+01:06:48.980 --> 01:06:50.420
+One of the things that makes me really sad
+
+01:06:50.420 --> 01:06:52.500
+because I know how to speak Russian,
+
+01:06:53.780 --> 01:06:56.760
+and I know how much is lost in translation.
+
+01:06:57.700 --> 01:07:00.280
+It makes me sad that I'll never really get to know
+
+01:07:00.280 --> 01:07:02.740
+the Chinese culture because,
+
+01:07:02.740 --> 01:07:04.780
+like I'll never really get to know the language,
+
+01:07:04.780 --> 01:07:08.100
+the literature, just talk to regular people.
+
+01:07:08.100 --> 01:07:10.660
+It's not just the government or officials or scientists,
+
+01:07:10.660 --> 01:07:12.860
+just regular folks can get the culture.
+
+01:07:12.860 --> 01:07:15.060
+I think if you don't understand the culture,
+
+01:07:16.880 --> 01:07:18.740
+just the basics of the human nature,
+
+01:07:18.780 --> 01:07:21.860
+what people love about their country,
+
+01:07:21.860 --> 01:07:25.340
+about their family, what kind of hopes they have,
+
+01:07:25.340 --> 01:07:26.540
+what kind of values they have.
+
+01:07:26.540 --> 01:07:28.660
+Without that, you're not gonna be able to
+
+01:07:30.740 --> 01:07:34.060
+fully connect with them.
+
+01:07:34.060 --> 01:07:35.940
+And you have to do that first,
+
+01:07:35.940 --> 01:07:37.940
+to have a chance of building a good world.
+
+01:07:37.940 --> 01:07:39.120
+I couldn't agree with you more.
+
+01:07:39.120 --> 01:07:41.740
+I was very lucky because, as I say,
+
+01:07:43.540 --> 01:07:47.860
+since 1984, so for more than half of my life,
+
+01:07:47.860 --> 01:07:51.060
+I've been going there and the common people
+
+01:07:51.060 --> 01:07:53.860
+and all sorts of people, and I've got to meet them.
+
+01:07:53.860 --> 01:07:56.280
+I don't speak the language,
+
+01:07:56.280 --> 01:07:59.840
+but a combination of through translators
+
+01:07:59.840 --> 01:08:02.980
+or them speaking English and being in situations.
+
+01:08:02.980 --> 01:08:07.460
+I had my son go to school, a local school,
+
+01:08:07.460 --> 01:08:10.820
+and we developed those kinds of understandings.
+
+01:08:10.820 --> 01:08:15.820
+I think that, but the not wanting
+
+01:08:16.540 --> 01:08:18.860
+to know the other perspective
+
+01:08:20.040 --> 01:08:22.080
+is the thing that's most scary.
+
+01:08:22.080 --> 01:08:24.380
+Like I'm right now in the middle,
+
+01:08:25.700 --> 01:08:30.700
+and all I wanna try to do is to help mutual understanding.
+
+01:08:31.780 --> 01:08:34.740
+You're right, if there were questions probing me,
+
+01:08:34.740 --> 01:08:36.800
+asking me, what is it?
+
+01:08:36.800 --> 01:08:39.460
+I'm not on one side or another.
+
+01:08:39.460 --> 01:08:41.900
+I don't wanna be on one side or another.
+
+01:08:41.900 --> 01:08:44.660
+I believe that each has their right within there
+
+01:08:44.660 --> 01:08:47.020
+to approach their different culture in their own way.
+
+01:08:47.020 --> 01:08:48.920
+So many ways, you gave an example.
+
+01:08:50.260 --> 01:08:53.660
+If they're not doing harm to others.
+
+01:08:54.780 --> 01:08:59.780
+But that issue of trying to understand
+
+01:09:01.380 --> 01:09:03.260
+is so much better.
+
+01:09:03.260 --> 01:09:05.300
+That doesn't mean agree with.
+
+01:09:06.740 --> 01:09:11.740
+If you are wanting to out clever and out compete somebody,
+
+01:09:12.700 --> 01:09:16.780
+it still pays to understand what they're thinking.
+
+01:09:16.780 --> 01:09:20.260
+So to achieve understanding of what they're thinking,
+
+01:09:20.260 --> 01:09:21.980
+even if you wanna go to war with them,
+
+01:09:21.980 --> 01:09:25.060
+that understanding is the best thing to have.
+
+01:09:25.060 --> 01:09:27.900
+What we have now is a situation
+
+01:09:27.900 --> 01:09:31.380
+in which there's an enemy mentality.
+
+01:09:31.380 --> 01:09:35.220
+And that means that anything that serves,
+
+01:09:35.220 --> 01:09:39.540
+seems to be like understanding or conveying understanding
+
+01:09:39.820 --> 01:09:42.580
+seems to mistakenly create the notion
+
+01:09:42.580 --> 01:09:45.380
+of I'm on their side in a war.
+
+01:09:45.380 --> 01:09:47.740
+And that's kind of a dangerous thing
+
+01:09:47.740 --> 01:09:50.900
+because there's a momentum here to fight.
+
+01:09:51.940 --> 01:09:54.660
+Henry Kissinger praises your new book
+
+01:09:54.660 --> 01:09:57.680
+and you thank him in it, in the dedication.
+
+01:09:57.680 --> 01:09:59.700
+What's your relationship like with him?
+
+01:09:59.700 --> 01:10:01.540
+What makes him interesting?
+
+01:10:01.540 --> 01:10:03.260
+Maybe what makes him controversial?
+
+01:10:03.260 --> 01:10:05.780
+What makes him such a central figure in history?
+
+01:10:05.780 --> 01:10:08.060
+First, most importantly,
+
+01:10:08.060 --> 01:10:13.060
+he's unique about seeing things through all the other's eyes.
+
+01:10:14.700 --> 01:10:18.060
+So if you were, it's like there's a chess game.
+
+01:10:18.060 --> 01:10:22.920
+I mean, I think geopolitics is like a chess game,
+
+01:10:22.920 --> 01:10:26.660
+but with multiple chess players playing the same game.
+
+01:10:26.660 --> 01:10:31.660
+So imagine there are six people around playing the chess game
+
+01:10:31.780 --> 01:10:34.740
+and he could sit in each seat
+
+01:10:34.740 --> 01:10:38.540
+and he could know how they see it, okay?
+
+01:10:38.540 --> 01:10:42.340
+And see it in a calm way of how they see it.
+
+01:10:42.340 --> 01:10:43.780
+He's unique in that way.
+
+01:10:43.780 --> 01:10:48.100
+He's 98 years old and he's equally able to do that.
+
+01:10:48.100 --> 01:10:52.520
+And he has a background in which he's a historian.
+
+01:10:52.520 --> 01:10:57.260
+So he really understands history super terrifically.
+
+01:10:58.860 --> 01:11:02.100
+He doesn't understand economic history as much.
+
+01:11:02.100 --> 01:11:03.820
+So that's why, to some extent,
+
+01:11:03.820 --> 01:11:06.380
+we enjoy having a conversation
+
+01:11:06.380 --> 01:11:09.580
+because he's interested in the economic piece
+
+01:11:09.580 --> 01:11:11.740
+he doesn't know and I'm so interested
+
+01:11:11.740 --> 01:11:15.060
+in the geopolitical piece that I don't know as well.
+
+01:11:15.060 --> 01:11:16.920
+But anyway, he's able to do that,
+
+01:11:16.920 --> 01:11:21.500
+but not only a historian, but a practitioner.
+
+01:11:21.500 --> 01:11:26.500
+So when you go from an academic to a practitioner
+
+01:11:27.620 --> 01:11:31.860
+who has that talent to see things through others' eyes
+
+01:11:31.860 --> 01:11:35.220
+in an objective way and to be strategic
+
+01:11:35.220 --> 01:11:38.940
+rather than just tactical, that's a very special person
+
+01:11:38.940 --> 01:11:43.020
+and that's why Henry is, to me, a very special person.
+
+01:11:43.020 --> 01:11:45.380
+Yeah, he's lived a fascinating life.
+
+01:11:45.380 --> 01:11:49.820
+Just all of the world events he's been involved in
+
+01:11:49.820 --> 01:11:50.780
+is fascinating.
+
+01:11:50.780 --> 01:11:54.460
+And like you said, that's such an interesting skill to have
+
+01:11:54.460 --> 01:11:57.260
+to consider what are the concerns, the hope, the dreams,
+
+01:11:57.260 --> 01:11:59.540
+the fears of all the people at the table?
+
+01:11:59.540 --> 01:12:01.240
+What are they thinking?
+
+01:12:01.280 --> 01:12:05.640
+I find that people don't, once again, don't do that enough
+
+01:12:05.640 --> 01:12:07.680
+when it's the obvious thing you should be doing,
+
+01:12:07.680 --> 01:12:12.680
+whether it's business deals or political negotiation
+
+01:12:13.160 --> 01:12:15.360
+or geopolitical negotiation.
+
+01:12:15.360 --> 01:12:18.060
+I'm often surprised, again, sorry to go to the Russian thing
+
+01:12:18.060 --> 01:12:23.060
+because I hear Putin talk in Russian
+
+01:12:23.860 --> 01:12:26.040
+and you start to infer certain intentions
+
+01:12:26.040 --> 01:12:29.440
+and not the trivial stuff, like the human being.
+
+01:12:30.160 --> 01:12:33.000
+What is that human being hoping for himself,
+
+01:12:33.000 --> 01:12:36.080
+for his country, for his close in a circle,
+
+01:12:36.080 --> 01:12:40.200
+for the bigger, and I just see that that's often
+
+01:12:40.200 --> 01:12:41.440
+just lost in translation.
+
+01:12:41.440 --> 01:12:45.440
+I just see American leaders talking to Putin
+
+01:12:45.440 --> 01:12:48.840
+and it's just not, there's not a connection.
+
+01:12:48.840 --> 01:12:52.000
+Absolutely, I know exactly what you're talking about.
+
+01:12:53.560 --> 01:12:58.560
+It has never failed that in my listening to a conversation
+
+01:12:58.560 --> 01:13:03.560
+or even reading a speech, and you see then it reported,
+
+01:13:05.600 --> 01:13:10.600
+inevitably the reporter picks some headline characterization
+
+01:13:12.400 --> 01:13:16.420
+that has very little to do with what was really happening
+
+01:13:16.420 --> 01:13:19.120
+but might be a headline grabber
+
+01:13:19.120 --> 01:13:21.000
+that's at some kind of distortion
+
+01:13:21.000 --> 01:13:22.880
+and there's a lack of understanding
+
+01:13:22.880 --> 01:13:25.220
+of really what's going on.
+
+01:13:25.220 --> 01:13:27.600
+If it's okay, let me ask you a couple questions
+
+01:13:27.600 --> 01:13:28.860
+about cryptocurrency.
+
+01:13:29.960 --> 01:13:32.720
+You've had a few opinions about Bitcoin over the years.
+
+01:13:32.720 --> 01:13:34.920
+What are your thoughts about Bitcoin today,
+
+01:13:34.920 --> 01:13:38.420
+its role in the global financial system
+
+01:13:38.420 --> 01:13:41.440
+and just in human society in general?
+
+01:13:41.440 --> 01:13:44.400
+Well, the evolution of Bitcoin over the years
+
+01:13:44.400 --> 01:13:49.400
+is one of the things that has influenced changes in my view.
+
+01:13:51.680 --> 01:13:54.020
+It has proven itself.
+
+01:13:54.980 --> 01:13:57.500
+Something like 10, 11 years ago,
+
+01:13:57.500 --> 01:14:00.500
+imagine the programming of this and here's the,
+
+01:14:00.500 --> 01:14:02.820
+you throw it out and that's the idea.
+
+01:14:02.820 --> 01:14:04.860
+It has not been hacked.
+
+01:14:04.860 --> 01:14:09.860
+It has operated, it has built, it has come an amazing way
+
+01:14:12.700 --> 01:14:17.700
+over that 11 years to be maybe probably the most excited
+
+01:14:18.820 --> 01:14:23.440
+topic among a lot of people and has been used
+
+01:14:23.720 --> 01:14:28.720
+and is now has obtained the status of having imputed value.
+
+01:14:31.040 --> 01:14:35.260
+At the same time, it is one of those assets
+
+01:14:35.260 --> 01:14:37.480
+that is an alternative money.
+
+01:14:37.480 --> 01:14:42.400
+I think we're entering an era where there's going to be
+
+01:14:42.400 --> 01:14:47.400
+a competition of monies because of the printing
+
+01:14:47.600 --> 01:14:52.600
+of fiat money and the depreciated value.
+
+01:14:52.880 --> 01:14:55.400
+There will be a competition of monies
+
+01:14:56.360 --> 01:14:59.640
+and Bitcoin is part of that competition,
+
+01:14:59.640 --> 01:15:02.880
+but there'll be many monies, not just crypto monies,
+
+01:15:02.880 --> 01:15:05.560
+but there'll be central bank crypto monies,
+
+01:15:06.560 --> 01:15:09.220
+but there'll be different kinds of monies.
+
+01:15:10.160 --> 01:15:14.720
+And even monies are things that you buy and sell.
+
+01:15:14.720 --> 01:15:18.760
+NFTs can become a money, a type of money.
+
+01:15:18.760 --> 01:15:21.040
+You own it and it's an investment and you could say,
+
+01:15:21.040 --> 01:15:24.520
+I'd rather own it than own Bitcoin.
+
+01:15:24.520 --> 01:15:27.240
+Has Ray Dalio bought any NFTs?
+
+01:15:27.240 --> 01:15:28.080
+Not yet.
+
+01:15:29.960 --> 01:15:34.960
+But only just because I definitely want to buy NFTs
+
+01:15:35.080 --> 01:15:37.200
+to just experience them.
+
+01:15:37.200 --> 01:15:40.720
+I think I should produce one and I should.
+
+01:15:40.720 --> 01:15:41.560
+I should have asked that.
+
+01:15:41.560 --> 01:15:43.840
+Have you minted an NFT?
+
+01:15:43.840 --> 01:15:45.760
+You probably should just to know what it's like.
+
+01:15:45.760 --> 01:15:46.640
+Yeah, that's right.
+
+01:15:46.640 --> 01:15:48.240
+This stuff is happening.
+
+01:15:48.240 --> 01:15:50.320
+This stuff is real, okay?
+
+01:15:50.320 --> 01:15:51.960
+And how it operates.
+
+01:15:51.960 --> 01:15:55.100
+But like all new, real things,
+
+01:15:56.280 --> 01:15:58.280
+some are gonna go and some are gonna,
+
+01:15:58.280 --> 01:16:01.720
+it's like in the internet in the year 2000,
+
+01:16:03.080 --> 01:16:05.340
+pets.com could have been a great,
+
+01:16:05.340 --> 01:16:08.320
+but maybe pets.com doesn't make it and who knows?
+
+01:16:08.320 --> 01:16:11.000
+That's the beauty of the competitive system
+
+01:16:11.000 --> 01:16:13.320
+that it'll evolve and some things will be treasured
+
+01:16:13.320 --> 01:16:15.440
+and some things will be trashed.
+
+01:16:15.840 --> 01:16:19.520
+So, but when I look at it,
+
+01:16:19.520 --> 01:16:22.440
+I think we are in an environment of,
+
+01:16:22.440 --> 01:16:23.880
+what is an alternative money?
+
+01:16:23.880 --> 01:16:27.040
+A money has two purposes, a medium of exchange
+
+01:16:27.040 --> 01:16:29.200
+and a storehold of wealth.
+
+01:16:29.200 --> 01:16:33.760
+And we are looking for, and it's portable.
+
+01:16:33.760 --> 01:16:38.060
+And it's best if it's recognized in other countries.
+
+01:16:39.120 --> 01:16:41.880
+So gold is one of those.
+
+01:16:41.880 --> 01:16:46.600
+So I look at it as an alternative gold,
+
+01:16:46.600 --> 01:16:49.680
+but I look at a number of things as an alternative gold.
+
+01:16:50.560 --> 01:16:52.640
+And I think that, and I think,
+
+01:16:52.640 --> 01:16:56.940
+and gold is still my favorite because of certain qualities.
+
+01:16:56.940 --> 01:16:59.840
+For example, you can't trace it.
+
+01:16:59.840 --> 01:17:02.400
+In Bitcoin, you can trace who owns it,
+
+01:17:02.400 --> 01:17:04.120
+where it's going and so on.
+
+01:17:04.120 --> 01:17:07.480
+Governments can have that ability to trace it and so on.
+
+01:17:07.480 --> 01:17:10.820
+A gold piece of coin, it's not connected.
+
+01:17:10.820 --> 01:17:13.020
+I think not connected has benefits,
+
+01:17:13.020 --> 01:17:16.300
+particularly in a world where maybe connections
+
+01:17:16.300 --> 01:17:17.700
+can be more risky.
+
+01:17:18.780 --> 01:17:23.780
+So, and then also gold has been for many thousands of years,
+
+01:17:25.100 --> 01:17:28.420
+universally recognized as a source of money.
+
+01:17:28.420 --> 01:17:33.380
+And central banks, it's the third largest source of money
+
+01:17:33.380 --> 01:17:35.500
+in central bank reserves.
+
+01:17:35.500 --> 01:17:38.360
+And I don't think Bitcoin is going to serve
+
+01:17:38.360 --> 01:17:40.420
+those types of purposes and so on.
+
+01:17:40.980 --> 01:17:44.060
+So for various reasons, I prefer gold to the other,
+
+01:17:44.060 --> 01:17:46.940
+but it's a little bit part of my mix.
+
+01:17:46.940 --> 01:17:50.460
+But then you look at it, it hit I think 69,000 this year
+
+01:17:50.460 --> 01:17:52.820
+is the high Bitcoin hit.
+
+01:17:52.820 --> 01:17:55.660
+Do you think it's possible, you mentioned gold,
+
+01:17:55.660 --> 01:17:59.300
+do you think it's possible it reaches very high numbers,
+
+01:17:59.300 --> 01:18:02.420
+like one million that some people talk about?
+
+01:18:02.420 --> 01:18:06.060
+I don't think that's possible because the way I look at it
+
+01:18:06.060 --> 01:18:11.060
+is there's a certain amount of it.
+
+01:18:15.820 --> 01:18:18.060
+And there's a certain amount of gold.
+
+01:18:18.060 --> 01:18:19.780
+I'll use gold as a benchmark.
+
+01:18:21.340 --> 01:18:26.340
+The amount of it is worth about $1 trillion.
+
+01:18:26.780 --> 01:18:29.740
+Total crypto is about $2.2 trillion.
+
+01:18:29.740 --> 01:18:33.740
+But let's say Bitcoin, it's $1 trillion.
+
+01:18:33.740 --> 01:18:38.740
+If you take the amount of money that is in gold,
+
+01:18:39.500 --> 01:18:42.340
+that is not used for jewelry purposes
+
+01:18:42.340 --> 01:18:44.980
+and not used by central banks,
+
+01:18:44.980 --> 01:18:48.340
+and I assume Bitcoin won't be used for jewelry purposes
+
+01:18:48.340 --> 01:18:50.100
+or central bank purposes,
+
+01:18:51.220 --> 01:18:55.100
+that amount in gold is about $5 trillion.
+
+01:18:55.100 --> 01:18:59.120
+So right now, if you were to have a portfolio
+
+01:18:59.120 --> 01:19:03.960
+that has gold and crypto, gold and Bitcoin,
+
+01:19:03.960 --> 01:19:07.520
+it's worth about 20% of the value of gold.
+
+01:19:07.520 --> 01:19:12.520
+Do I think it's going to be worth more than gold
+
+01:19:12.560 --> 01:19:14.200
+in terms of that mix?
+
+01:19:14.200 --> 01:19:16.880
+I don't think it'll be worth more than gold.
+
+01:19:16.880 --> 01:19:21.320
+But let's say it became worth as much as gold.
+
+01:19:21.320 --> 01:19:22.680
+I don't believe it will be.
+
+01:19:22.680 --> 01:19:25.620
+I think that 20% sounds kind of about right.
+
+01:19:25.620 --> 01:19:27.960
+I really don't know what the right answer is.
+
+01:19:28.520 --> 01:19:32.760
+And then there's the question of what is all of that pool
+
+01:19:32.760 --> 01:19:36.200
+of money that, let's say gold and gold equivalents
+
+01:19:36.200 --> 01:19:37.600
+relative to everything else?
+
+01:19:37.600 --> 01:19:42.600
+Does it go from, let's call it six, seven,
+
+01:19:42.600 --> 01:19:44.760
+eight trillion to 16 trillion?
+
+01:19:44.760 --> 01:19:46.120
+Maybe it could double.
+
+01:19:46.120 --> 01:19:48.740
+It depends what it is in the world environment.
+
+01:19:48.740 --> 01:19:51.760
+But basically, if you use gold as a measure,
+
+01:19:52.600 --> 01:19:56.240
+there's no, it just makes no sense
+
+01:19:56.240 --> 01:20:00.440
+that it's going to be used that much more.
+
+01:20:00.440 --> 01:20:01.760
+Am I sure about that?
+
+01:20:01.760 --> 01:20:03.360
+I'm not sure about anything.
+
+01:20:03.360 --> 01:20:07.960
+But logically, it seems to me that there's a limitation
+
+01:20:07.960 --> 01:20:11.320
+on its price in relationship to other things
+
+01:20:11.320 --> 01:20:12.300
+that are like it.
+
+01:20:13.360 --> 01:20:15.880
+Let me ask for your deep financial analysis
+
+01:20:15.880 --> 01:20:17.560
+on a very important issue.
+
+01:20:17.560 --> 01:20:20.400
+I've just talked a couple days ago with Elon Musk.
+
+01:20:20.400 --> 01:20:23.920
+He wants to put a literal Dogecoin on the moon.
+
+01:20:23.920 --> 01:20:25.920
+What are your thoughts about Dogecoin?
+
+01:20:27.040 --> 01:20:31.080
+And do you think it'll be the official currency?
+
+01:20:31.080 --> 01:20:35.160
+Maybe a reserve currency on the moon and on Mars?
+
+01:20:35.160 --> 01:20:37.560
+My reaction is, that's cute.
+
+01:20:37.560 --> 01:20:40.360
+I remember Elon, when he first got,
+
+01:20:40.360 --> 01:20:42.560
+he first got his money from PayPal.
+
+01:20:42.560 --> 01:20:47.000
+I think he said to me, it was, he got $180 million,
+
+01:20:47.000 --> 01:20:49.280
+$90 million he decided to say,
+
+01:20:49.280 --> 01:20:52.480
+why aren't we going to outer space?
+
+01:20:52.480 --> 01:20:57.480
+And he wanted to take a spaceship that would be modified
+
+01:20:58.320 --> 01:21:03.320
+using Russian technology to put a plant
+
+01:21:06.360 --> 01:21:09.780
+and a watering can on the moon,
+
+01:21:11.520 --> 01:21:13.320
+or on Mars, I think it was.
+
+01:21:14.320 --> 01:21:17.680
+And he said, first life on Mars,
+
+01:21:17.680 --> 01:21:22.680
+or first life on that, as an inspiring notion.
+
+01:21:23.840 --> 01:21:27.320
+And so then there's always what's behind it.
+
+01:21:27.320 --> 01:21:31.400
+I have a lot of respect for Elon's ability
+
+01:21:31.400 --> 01:21:34.280
+to do other things behind it.
+
+01:21:34.280 --> 01:21:38.080
+And so I would take that as symbolic
+
+01:21:38.080 --> 01:21:41.480
+and I'd be asking him what's behind it, what's next?
+
+01:21:41.480 --> 01:21:44.840
+And I'm also just on the topic of Doishcoin and Memecoin
+
+01:21:44.840 --> 01:21:48.440
+and there's some aspect of humor and lightheartedness
+
+01:21:48.440 --> 01:21:52.440
+that's really interesting about the way we communicate
+
+01:21:52.440 --> 01:21:57.440
+what ideas become viral, how to captivate people with ideas.
+
+01:21:57.960 --> 01:22:00.080
+There's something about taking things too seriously
+
+01:22:00.080 --> 01:22:02.880
+that somehow slows it all down and it's interesting.
+
+01:22:02.880 --> 01:22:03.760
+You're right.
+
+01:22:03.760 --> 01:22:05.320
+That's part of human nature somehow.
+
+01:22:05.320 --> 01:22:07.760
+So like humor is part of this whole thing.
+
+01:22:08.360 --> 01:22:13.360
+You've talked about the importance of writing ideas down.
+
+01:22:14.400 --> 01:22:15.700
+And you have the fascinating-
+
+01:22:15.700 --> 01:22:17.280
+Principles in particular.
+
+01:22:17.280 --> 01:22:18.400
+Principles.
+
+01:22:18.400 --> 01:22:20.960
+And you have this really nice thing in your book
+
+01:22:20.960 --> 01:22:24.600
+where you actually, I mean, there's such a brilliant way,
+
+01:22:26.160 --> 01:22:29.000
+you have such a brilliant way of highlighting
+
+01:22:29.000 --> 01:22:33.520
+which parts are extra important and you make them bold.
+
+01:22:33.520 --> 01:22:34.760
+That's a brilliant idea.
+
+01:22:34.760 --> 01:22:36.400
+Let me just ask the high level question
+
+01:22:36.640 --> 01:22:41.640
+of what's a good system for taking notes?
+
+01:22:42.080 --> 01:22:45.600
+Well, I find that almost everything happens
+
+01:22:45.600 --> 01:22:46.840
+over and over again.
+
+01:22:48.640 --> 01:22:52.440
+And we're in the blizzard of these things happening.
+
+01:22:52.440 --> 01:22:56.800
+And what I found is that if I'm making a decision
+
+01:22:59.920 --> 01:23:02.200
+that after I make the decision usually,
+
+01:23:02.200 --> 01:23:06.260
+or write at the time, if I pause and reflect
+
+01:23:06.260 --> 01:23:08.860
+and I write my principle down,
+
+01:23:08.860 --> 01:23:12.340
+in other words, principle is sort of a recipe.
+
+01:23:12.340 --> 01:23:16.620
+What would I use to, how would I make that decision?
+
+01:23:16.620 --> 01:23:18.580
+And what are the criteria around it?
+
+01:23:18.580 --> 01:23:23.260
+I find that I make it much more clear, it becomes clearer,
+
+01:23:23.260 --> 01:23:26.500
+and it applies to the next thing that comes along.
+
+01:23:26.500 --> 01:23:29.500
+It'll be that way because everything happens
+
+01:23:29.500 --> 01:23:30.940
+over and over and over again.
+
+01:23:30.940 --> 01:23:34.820
+And I think people make the mistake of looking at just
+
+01:23:34.860 --> 01:23:37.100
+the one like it's the first one.
+
+01:23:37.100 --> 01:23:40.140
+I don't know, they have the first problem of this sort
+
+01:23:40.140 --> 01:23:42.180
+or the first child or whatever it is.
+
+01:23:42.180 --> 01:23:44.740
+And this has been happening plenty of times.
+
+01:23:44.740 --> 01:23:46.620
+And so if you have the principles,
+
+01:23:46.620 --> 01:23:50.700
+I found that that helped me think more clearly about it
+
+01:23:50.700 --> 01:23:54.420
+and it helped me communicate better, like why?
+
+01:23:54.420 --> 01:23:58.940
+And so over the years, over the last 30 years or so,
+
+01:23:58.940 --> 01:24:00.180
+that's what I've done.
+
+01:24:00.180 --> 01:24:02.780
+I did it originally to communicate very well
+
+01:24:02.780 --> 01:24:04.900
+with the people I work with.
+
+01:24:04.900 --> 01:24:07.900
+I set up my company and it was very important
+
+01:24:07.900 --> 01:24:09.060
+to have good communication.
+
+01:24:09.060 --> 01:24:11.540
+And then we could debate the principles
+
+01:24:11.540 --> 01:24:14.060
+and so that's the process.
+
+01:24:14.060 --> 01:24:16.700
+I urge people to do that.
+
+01:24:16.700 --> 01:24:19.220
+There are many excellent decision makers
+
+01:24:20.140 --> 01:24:23.500
+and I just wish that they wrote down their principles
+
+01:24:23.500 --> 01:24:25.340
+when this sets.
+
+01:24:25.340 --> 01:24:29.700
+So for example, we're talking about Henry Kissinger
+
+01:24:29.740 --> 01:24:32.820
+and his new book is gonna come out with a book on leadership
+
+01:24:33.900 --> 01:24:37.060
+and don't just describe the leaders.
+
+01:24:37.060 --> 01:24:41.180
+Describe then what about them were the essential elements
+
+01:24:41.180 --> 01:24:44.420
+to make a good leader under what circumstances.
+
+01:24:44.420 --> 01:24:47.060
+And so if we think about that,
+
+01:24:47.060 --> 01:24:51.780
+then also then you begin to think in a principled way.
+
+01:24:51.780 --> 01:24:55.220
+And then when you start to think in a principled way,
+
+01:24:55.220 --> 01:24:58.820
+life becomes, it's so much easier to make decisions
+
+01:24:58.820 --> 01:25:01.060
+and it's so much less confusing
+
+01:25:01.060 --> 01:25:04.180
+because it's like coming up on a species
+
+01:25:04.180 --> 01:25:08.060
+and you say, okay, well, what species is it?
+
+01:25:08.060 --> 01:25:10.660
+Not just another, it's a thing.
+
+01:25:10.660 --> 01:25:12.380
+No, what species is it?
+
+01:25:12.380 --> 01:25:15.900
+And how do I deal with that species effectively?
+
+01:25:15.900 --> 01:25:17.820
+And so that's what that is.
+
+01:25:17.820 --> 01:25:20.340
+And so I encourage people to write it down.
+
+01:25:20.340 --> 01:25:24.260
+I wish anybody who's successful wrote down their principles
+
+01:25:24.260 --> 01:25:27.460
+or their recipes for making those types of decisions.
+
+01:25:27.460 --> 01:25:30.060
+So the events of interest here
+
+01:25:30.060 --> 01:25:33.580
+happens over and over and over in similar ways.
+
+01:25:33.580 --> 01:25:34.940
+And so you're looking for the patterns
+
+01:25:34.940 --> 01:25:36.740
+and you're defining the process
+
+01:25:36.740 --> 01:25:40.460
+that's right to respond to those patterns
+
+01:25:40.460 --> 01:25:42.940
+and you call that the principles
+
+01:25:42.940 --> 01:25:46.500
+and that allows you to deal with the future effectively.
+
+01:25:46.500 --> 01:25:49.860
+So like that codifies the lessons from the past
+
+01:25:49.860 --> 01:25:51.780
+to be able to deal with the future.
+
+01:25:52.940 --> 01:25:55.580
+What advice do you have for young folks today
+
+01:25:55.580 --> 01:25:57.500
+in high school, in college,
+
+01:25:57.500 --> 01:26:02.500
+thinking about how to have a career they can be proud of
+
+01:26:02.540 --> 01:26:05.380
+or maybe have a life they can be proud of?
+
+01:26:05.380 --> 01:26:09.380
+Know yourself, follow your passion,
+
+01:26:09.380 --> 01:26:12.700
+make your work and passion the same thing
+
+01:26:12.700 --> 01:26:15.300
+while considering the money part
+
+01:26:15.300 --> 01:26:18.420
+because money will get you freedom and choice
+
+01:26:18.420 --> 01:26:19.500
+and be able to make that.
+
+01:26:19.500 --> 01:26:24.180
+But if you know yourself, feel the pull
+
+01:26:25.180 --> 01:26:28.580
+and pursue that passion.
+
+01:26:29.900 --> 01:26:31.980
+And along those lines, by the way,
+
+01:26:31.980 --> 01:26:36.700
+I found that using personality profile tests
+
+01:26:36.700 --> 01:26:38.180
+has been very helpful.
+
+01:26:38.180 --> 01:26:40.540
+I've used those for about 25 years
+
+01:26:40.540 --> 01:26:42.900
+for people to help to understand themselves
+
+01:26:42.900 --> 01:26:43.900
+and understand each other.
+
+01:26:43.900 --> 01:26:48.900
+So I created a free one that is called Principles U.
+
+01:26:49.140 --> 01:26:50.300
+It's online.
+
+01:26:51.180 --> 01:26:56.180
+It's had remarkable, loving people who've taken it,
+
+01:26:57.340 --> 01:26:58.420
+learn about themselves,
+
+01:26:58.420 --> 01:27:01.220
+but also you can put in somebody else
+
+01:27:01.220 --> 01:27:04.100
+and it'll tell you about your relationship with them.
+
+01:27:04.100 --> 01:27:06.780
+That's like 30 minutes is a quick discovery,
+
+01:27:06.780 --> 01:27:10.700
+but the main thing is to understand on your journey,
+
+01:27:10.700 --> 01:27:15.700
+your hero's journey that you will have mistakes
+
+01:27:17.100 --> 01:27:19.260
+and you will have weaknesses
+
+01:27:19.260 --> 01:27:24.260
+and to understand those, not fight those
+
+01:27:25.060 --> 01:27:28.500
+because by understanding mistakes,
+
+01:27:28.500 --> 01:27:31.020
+you will learn not to make mistakes again.
+
+01:27:31.020 --> 01:27:35.340
+I have a principle which is pain plus reflection
+
+01:27:35.340 --> 01:27:37.260
+equals progress.
+
+01:27:37.260 --> 01:27:41.180
+And so that reflection is important to know yourself,
+
+01:27:41.180 --> 01:27:44.300
+know your pulls, know your weaknesses.
+
+01:27:44.300 --> 01:27:46.860
+And when you also know your weaknesses
+
+01:27:46.860 --> 01:27:48.860
+and the strengths of other people,
+
+01:27:48.940 --> 01:27:52.460
+there are people who have strengths where you're weak
+
+01:27:52.460 --> 01:27:54.620
+and you have strengths where they're weak.
+
+01:27:54.620 --> 01:27:57.260
+And to be able to work well together
+
+01:27:57.260 --> 01:28:02.260
+is the most effective way of achieving success.
+
+01:28:02.420 --> 01:28:06.900
+So yeah, it's that journey and there's a life arc
+
+01:28:06.900 --> 01:28:09.780
+and there's a journey and you wanna make it the best
+
+01:28:09.780 --> 01:28:11.340
+that you can make it.
+
+01:28:11.340 --> 01:28:15.260
+And it's like a video game.
+
+01:28:15.260 --> 01:28:19.500
+It has the challenges and the obstacles
+
+01:28:19.500 --> 01:28:22.900
+and the learning experiences and the temptations
+
+01:28:22.900 --> 01:28:24.020
+and all of that.
+
+01:28:24.020 --> 01:28:28.180
+And the maximizing learning to go where you wanna go
+
+01:28:28.180 --> 01:28:31.580
+to achieve the life you want is the most important.
+
+01:28:31.580 --> 01:28:34.340
+That's kind of maybe a long-winded way of saying it,
+
+01:28:34.340 --> 01:28:39.340
+but to learn, I think I'll try to say it simply.
+
+01:28:39.380 --> 01:28:41.380
+There's a five step process.
+
+01:28:41.380 --> 01:28:46.380
+Step one is know your goals, know what you're going after.
+
+01:28:48.380 --> 01:28:50.300
+You could have almost anything you want,
+
+01:28:50.300 --> 01:28:52.260
+but you can't have everything you want.
+
+01:28:52.260 --> 01:28:56.100
+And so you have to prioritize and you move in that direction.
+
+01:28:56.100 --> 01:28:57.380
+On the way to your goals,
+
+01:28:57.380 --> 01:29:01.100
+you're going to encounter your problems and your obstacles.
+
+01:29:01.100 --> 01:29:05.660
+So step two is understanding your problems
+
+01:29:05.660 --> 01:29:07.740
+and your obstacles, identify them.
+
+01:29:07.740 --> 01:29:10.740
+Step three is to diagnose them
+
+01:29:10.740 --> 01:29:13.900
+to get at the root cause of the problem.
+
+01:29:13.900 --> 01:29:16.540
+And that could be many root causes,
+
+01:29:16.540 --> 01:29:18.460
+but it could also be your weaknesses
+
+01:29:18.460 --> 01:29:19.700
+or weaknesses of others,
+
+01:29:19.700 --> 01:29:22.140
+but you have to be objective about them.
+
+01:29:22.140 --> 01:29:26.060
+Once you diagnose them, then you go to step four,
+
+01:29:26.060 --> 01:29:29.220
+which is to design a way to get around them.
+
+01:29:30.340 --> 01:29:33.940
+And then after you have that design,
+
+01:29:33.940 --> 01:29:35.740
+you implement that design.
+
+01:29:35.740 --> 01:29:38.220
+So you have to follow through and do it.
+
+01:29:38.220 --> 01:29:42.940
+And you do that and that will then produce its new results,
+
+01:29:42.940 --> 01:29:44.780
+which should be better results.
+
+01:29:44.780 --> 01:29:47.700
+I have, I call this kind of the looping process.
+
+01:29:47.700 --> 01:29:50.260
+It's the evolutionary looping process.
+
+01:29:50.260 --> 01:29:53.380
+And you just keep doing that
+
+01:29:53.380 --> 01:29:55.140
+and you learn over a period of time
+
+01:29:55.140 --> 01:29:58.500
+and you move in the direction that you want.
+
+01:29:58.500 --> 01:30:01.300
+Last question and you only have one minute to answer it.
+
+01:30:01.460 --> 01:30:05.060
+You dedicate the book, quote,
+
+01:30:05.060 --> 01:30:08.660
+to my grandchildren and those of their generation
+
+01:30:08.660 --> 01:30:12.900
+who will be participants in the continuation of the story.
+
+01:30:12.900 --> 01:30:15.700
+May the force of evolution be with you.
+
+01:30:15.700 --> 01:30:18.420
+So let me ask, where's this force of evolution
+
+01:30:18.420 --> 01:30:20.460
+taking human civilization?
+
+01:30:20.460 --> 01:30:24.660
+And what in this story that evolution is writing
+
+01:30:24.660 --> 01:30:26.500
+gives you hope?
+
+01:30:26.580 --> 01:30:30.660
+Evolution is a direction toward improvement.
+
+01:30:31.980 --> 01:30:36.980
+And the greatest force is a man's capacity
+
+01:30:37.820 --> 01:30:40.260
+to adapt and invent.
+
+01:30:40.260 --> 01:30:42.940
+And so you see in the charts in the book,
+
+01:30:42.940 --> 01:30:47.940
+you see that this upward movement, life expectancy,
+
+01:30:51.140 --> 01:30:55.220
+health, all the things that we think are better.
+
+01:30:55.220 --> 01:30:58.220
+You see there's a chart and it shows
+
+01:30:58.220 --> 01:31:01.260
+that over a period of time and you barely see
+
+01:31:01.260 --> 01:31:06.020
+the downturns from depressions and wars in that.
+
+01:31:06.020 --> 01:31:08.100
+That is the greatest power.
+
+01:31:08.100 --> 01:31:13.100
+Man's ability to invent and adapt is evolution.
+
+01:31:13.300 --> 01:31:15.420
+And that's the greatest power.
+
+01:31:15.420 --> 01:31:20.060
+And that is what gives me justifiable hope.
+
+01:31:20.060 --> 01:31:23.180
+And a continuation of that, like we mentioned with Elon,
+
+01:31:23.180 --> 01:31:25.700
+maybe we'll become a multi-planetary species.
+
+01:31:25.700 --> 01:31:28.620
+So not only will we keep creating amazing things
+
+01:31:28.620 --> 01:31:31.860
+here on Earth, we'll keep expanding out into the cosmos.
+
+01:31:31.860 --> 01:31:36.620
+My time horizon isn't, doesn't have me analyzing that yet,
+
+01:31:36.620 --> 01:31:41.620
+but I hope so and I agree that that would be
+
+01:31:41.740 --> 01:31:43.260
+the natural choice. So I'm not gonna ask you
+
+01:31:43.260 --> 01:31:46.140
+for the best financial system on Mars.
+
+01:31:46.140 --> 01:31:48.180
+I think we'll focus on Earth for now.
+
+01:31:48.180 --> 01:31:49.700
+Thank you so much for your brilliance,
+
+01:31:49.700 --> 01:31:52.180
+for the books you've written, for the works you've done,
+
+01:31:52.180 --> 01:31:54.620
+for the inspiration of millions.
+
+01:31:54.620 --> 01:31:57.420
+And thank you for spending your valuable time
+
+01:31:57.420 --> 01:31:58.460
+here with me today.
+
+01:31:58.460 --> 01:31:59.980
+Thank you.
+
+01:31:59.980 --> 01:32:02.740
+Thanks for listening to this conversation with Ray Dalio.
+
+01:32:02.740 --> 01:32:05.460
+To support this podcast, please check out our sponsors
+
+01:32:05.460 --> 01:32:06.900
+in the description.
+
+01:32:06.900 --> 01:32:09.020
+And now let me leave you with some words
+
+01:32:09.020 --> 01:32:11.500
+from Ray Dalio himself.
+
+01:32:11.500 --> 01:32:13.980
+Every time you confront something painful,
+
+01:32:13.980 --> 01:32:17.220
+you are at a potentially important juncture in your life.
+
+01:32:17.220 --> 01:32:19.340
+You have the opportunity to choose healthy
+
+01:32:19.340 --> 01:32:24.340
+and painful truth or unhealthy but comfortable delusion.
+
+01:32:25.740 --> 01:32:28.820
+Thank you for listening and hope to see you next time.
+

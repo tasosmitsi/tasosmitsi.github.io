@@ -1,0 +1,8138 @@
+WEBVTT
+
+00:00.000 --> 00:02.460
+The following is a conversation with Thomas Tall,
+
+00:02.460 --> 00:04.700
+founder of Legendary Entertainment,
+
+00:04.700 --> 00:06.820
+known for producing blockbusters
+
+00:06.820 --> 00:09.140
+like Batman's Dark Knight Trilogy,
+
+00:09.140 --> 00:12.300
+the Hangover franchise, Godzilla, Inception,
+
+00:12.300 --> 00:15.700
+Jurassic World, 300, and many more.
+
+00:15.700 --> 00:18.180
+He runs Talco, which is an investment company
+
+00:18.180 --> 00:21.040
+that focuses on how artificial intelligence
+
+00:21.040 --> 00:23.860
+can revolutionize large industries.
+
+00:23.860 --> 00:26.460
+He is part owner of the Pittsburgh Steelers.
+
+00:26.460 --> 00:29.020
+He's the guitarist for the band Ghost Hounds
+
+00:29.040 --> 00:31.600
+that tours with the Rolling Stones.
+
+00:31.600 --> 00:35.320
+But most importantly, he's humble, down to earth,
+
+00:35.320 --> 00:38.360
+and someone who has quickly become a mentor and friend.
+
+00:39.300 --> 00:41.440
+This is the Lex Fridman podcast.
+
+00:41.440 --> 00:43.600
+To support it, please check out our sponsors
+
+00:43.600 --> 00:44.920
+in the description.
+
+00:44.920 --> 00:48.760
+And now, here's my conversation with Thomas Tall.
+
+00:49.760 --> 00:53.240
+In 2004, you founded Legendary Entertainment,
+
+00:53.240 --> 00:55.000
+known for producing blockbusters
+
+00:55.000 --> 00:57.880
+like Batman's Dark Knight Trilogy,
+
+00:57.900 --> 00:59.900
+that includes Batman Begins, Dark Knight,
+
+00:59.900 --> 01:03.280
+and Dark Knight Rises, the Hangover franchise,
+
+01:03.280 --> 01:05.900
+Godzilla, Inception, Jurassic World, 300,
+
+01:05.900 --> 01:07.220
+and the list goes on.
+
+01:07.220 --> 01:10.420
+It's just some of the biggest movies in history.
+
+01:10.420 --> 01:12.620
+What does it take to make an epic movie like that?
+
+01:12.620 --> 01:15.620
+What does it take to make it happen from start to finish?
+
+01:16.680 --> 01:19.640
+Well, look, I've been enamored with movies
+
+01:19.640 --> 01:21.340
+since I was a kid as a fan,
+
+01:21.340 --> 01:24.220
+and I think what you need
+
+01:24.220 --> 01:26.660
+is to be able to tell a great story.
+
+01:26.660 --> 01:28.720
+And if you're gonna tell a great story,
+
+01:28.720 --> 01:30.380
+you need a great director.
+
+01:30.380 --> 01:32.640
+You gotta start with a fantastic script
+
+01:33.880 --> 01:38.360
+that is able to take some of these iconic characters
+
+01:38.360 --> 01:41.080
+that we did and put your own stamp on it
+
+01:41.080 --> 01:44.880
+while still respecting the mythology.
+
+01:44.880 --> 01:48.720
+And I had zero experience in movies and television
+
+01:48.720 --> 01:50.220
+before I started Legendary,
+
+01:50.220 --> 01:53.200
+so it was a very interesting trip.
+
+01:53.220 --> 01:57.300
+Total luck that we had the opportunity
+
+01:57.300 --> 02:01.020
+to make five movies at the time with Chris Nolan,
+
+02:01.020 --> 02:03.140
+who turned out to be one of the greatest filmmakers
+
+02:03.140 --> 02:04.480
+of all time.
+
+02:04.480 --> 02:07.880
+But each one is its own little startup company,
+
+02:08.900 --> 02:12.000
+and I don't think there's any formula to get there,
+
+02:12.000 --> 02:15.140
+but I know that if you don't have a great director
+
+02:15.140 --> 02:15.980
+and a great script,
+
+02:15.980 --> 02:18.940
+if you don't have that foundation, it's hard to pull off.
+
+02:18.940 --> 02:21.140
+Who's the CEO of that little startup company?
+
+02:21.600 --> 02:25.080
+The director, who would you say kind of defines the success
+
+02:25.080 --> 02:26.400
+or the failure of a movie?
+
+02:26.400 --> 02:29.960
+Well, when you build a big movie like that,
+
+02:29.960 --> 02:33.320
+it's an enormous effort, 360 degrees.
+
+02:33.320 --> 02:37.760
+I mean, from digital effects, certainly the actors.
+
+02:37.760 --> 02:40.800
+I mean, if you have an amazing script and amazing director,
+
+02:40.800 --> 02:42.940
+but you don't believe anybody playing the parts,
+
+02:42.940 --> 02:43.780
+that's a problem.
+
+02:43.780 --> 02:47.880
+So the reason I think it was so difficult to pull off
+
+02:47.880 --> 02:48.760
+is I always used to say,
+
+02:48.820 --> 02:51.940
+you start with a stack of papers with words on it
+
+02:51.940 --> 02:55.820
+called the script, bring that to life,
+
+02:55.820 --> 02:58.500
+and you're asking an audience to believe in everything
+
+02:58.500 --> 03:00.340
+that you're trying to put out there,
+
+03:00.340 --> 03:02.900
+and you've got a cast that,
+
+03:02.900 --> 03:05.100
+even if they're immensely talented individually,
+
+03:05.100 --> 03:06.380
+they have to mesh together,
+
+03:06.380 --> 03:08.280
+they have to have chemistry together.
+
+03:09.820 --> 03:13.780
+And the director is kind of the general on the battlefield,
+
+03:13.780 --> 03:18.380
+but if you have a strong producer who's very hands-on,
+
+03:18.380 --> 03:22.360
+but it truly, to me, is each one had its own story
+
+03:22.360 --> 03:24.720
+and its own sort of how it came to be
+
+03:24.720 --> 03:27.360
+and why it worked or didn't work.
+
+03:28.280 --> 03:30.760
+See, you said you were new to the industry,
+
+03:30.760 --> 03:34.520
+but you did a lot of revolutionary things with Legendary.
+
+03:34.520 --> 03:38.640
+So at that time and now, what is the good, the bad,
+
+03:38.640 --> 03:41.360
+and the ugly of the business of filmmaking?
+
+03:41.360 --> 03:44.440
+What are some interesting holes that you were able to,
+
+03:44.440 --> 03:47.360
+or problems that you were able to fix?
+
+03:47.380 --> 03:50.880
+What problems still exist that can still be solved?
+
+03:51.920 --> 03:56.920
+Well, look, the business has changed so radically since 2004.
+
+03:58.260 --> 04:01.780
+When I started Legendary, DVDs were still a cash cow.
+
+04:01.780 --> 04:05.620
+So that's how far things have come.
+
+04:05.620 --> 04:07.160
+But I would say a couple of things.
+
+04:07.160 --> 04:10.780
+The reason that I started it from a business perspective
+
+04:10.780 --> 04:14.260
+was at the time it was a $30 billion industry
+
+04:14.260 --> 04:17.680
+and there was no institutional capital
+
+04:17.680 --> 04:19.680
+around the movie business.
+
+04:19.680 --> 04:20.880
+And I was fascinated by that
+
+04:20.880 --> 04:23.160
+because almost every other category
+
+04:23.160 --> 04:25.000
+that you look at of that size
+
+04:25.000 --> 04:28.000
+has institutional capital, private equity, et cetera,
+
+04:28.000 --> 04:31.040
+is kind of a cottage industry set up around it.
+
+04:31.040 --> 04:35.040
+And I was perplexed and fascinated that that didn't occur.
+
+04:35.040 --> 04:36.800
+And the way the movie business worked
+
+04:36.800 --> 04:40.060
+was unlike any business I'd ever looked at before.
+
+04:40.060 --> 04:43.880
+So after kind of convincing myself
+
+04:43.880 --> 04:46.020
+that you could actually make money
+
+04:46.020 --> 04:48.580
+if you were disciplined and had the right approach,
+
+04:49.880 --> 04:52.340
+went out, raised the money from the capital markets,
+
+04:52.340 --> 04:54.780
+markets which was Herculean,
+
+04:54.780 --> 04:58.920
+still maybe the hardest thing I've ever done in my career,
+
+04:58.920 --> 05:02.020
+to walk around and say, look, I have no experience.
+
+05:02.020 --> 05:03.340
+I've never done this before.
+
+05:03.340 --> 05:08.340
+But, and the second thing, being very fortunate at the time,
+
+05:08.980 --> 05:11.780
+was able to partner up with Warner Brothers.
+
+05:11.800 --> 05:15.880
+Warner's at the time was run by a man named Alan Horn,
+
+05:15.880 --> 05:18.960
+who besides being creative is also a Harvard MBA.
+
+05:18.960 --> 05:21.700
+So really understood what I wanted to do.
+
+05:22.840 --> 05:26.360
+And Alan was just an absolute gentleman,
+
+05:26.360 --> 05:29.420
+someone that I still look up to to this day.
+
+05:29.420 --> 05:31.880
+After Warner Brothers, he went and ran Disney
+
+05:31.880 --> 05:35.680
+with their run between Marvel and Star Wars and everything.
+
+05:35.680 --> 05:40.680
+And so between Alan being responsible for Harry Potter,
+
+05:40.700 --> 05:43.100
+the Dark Knight stuff, and then onto all the Disney stuff,
+
+05:43.100 --> 05:44.580
+he probably had as great a career
+
+05:44.580 --> 05:48.020
+as anyone I've ever heard of in the movie business.
+
+05:48.020 --> 05:52.220
+So my first focus was around sort of two concepts,
+
+05:52.220 --> 05:57.220
+global, worldwide, large tent pole films and franchises,
+
+05:57.500 --> 05:59.700
+and then the business aspect of being,
+
+05:59.700 --> 06:03.380
+bringing long-term institutional capital to bear.
+
+06:03.380 --> 06:05.540
+I'm gonna ask you dumb questions,
+
+06:05.540 --> 06:10.460
+which is part of the style, I guess.
+
+06:10.520 --> 06:13.840
+But just for people who don't know, including me,
+
+06:13.840 --> 06:16.560
+what is institutional, what is capital?
+
+06:16.560 --> 06:18.360
+What is institutional capital?
+
+06:18.360 --> 06:20.720
+What is equity, what is private equity?
+
+06:20.720 --> 06:21.840
+Got it, okay.
+
+06:21.840 --> 06:26.120
+Well, so if you're starting a company
+
+06:27.080 --> 06:30.960
+and you go around to a bunch of your successful friends
+
+06:30.960 --> 06:34.040
+and say, hey, you should invest in my company,
+
+06:34.040 --> 06:37.400
+well, that's sort of, that's great and it's capital,
+
+06:37.400 --> 06:42.400
+but it's not getting money from Fidelity or T-Row
+
+06:42.700 --> 06:46.580
+or a Sovereign Wealth Fund or an Endowment Fund
+
+06:46.580 --> 06:51.580
+from a university that has large pools of organized capital
+
+06:52.100 --> 06:56.500
+that has a long-term point of view on your business.
+
+06:56.500 --> 06:59.240
+So if you get money from your neighbor
+
+06:59.240 --> 07:02.580
+who's a successful dentist, next year,
+
+07:02.580 --> 07:05.580
+the dentist may say, hey, times are hard,
+
+07:05.700 --> 07:07.380
+I need my money back.
+
+07:07.380 --> 07:10.660
+If your partner's with Fidelity or Morgan Stanley
+
+07:10.660 --> 07:12.460
+or any of these institutions,
+
+07:12.460 --> 07:16.160
+they have the capital and the wherewithal to say,
+
+07:16.160 --> 07:19.540
+okay, I'm looking at this over the next five to 10 years.
+
+07:19.540 --> 07:21.520
+And I thought there was an opportunity
+
+07:21.520 --> 07:26.520
+to bring that type of capital to the movie business
+
+07:26.640 --> 07:27.980
+to be patient.
+
+07:27.980 --> 07:32.780
+And the benefit of that, patient, so it's long-term,
+
+07:32.780 --> 07:34.980
+you have to deal with fewer parties
+
+07:34.980 --> 07:37.820
+and they would do much larger investments.
+
+07:38.780 --> 07:40.120
+So what are the benefits?
+
+07:40.120 --> 07:41.540
+What are the sort of the challenges
+
+07:41.540 --> 07:42.740
+of that kind of investment?
+
+07:42.740 --> 07:45.220
+Well, I think the benefits in some ways
+
+07:45.220 --> 07:48.940
+are the professionals who are largely dispassionate, right?
+
+07:48.940 --> 07:51.380
+It's like, look, if you're hitting the numbers you told me
+
+07:51.380 --> 07:54.080
+and you're hitting your plan, great.
+
+07:55.300 --> 07:58.900
+And the other thing that always was interesting to me
+
+07:58.900 --> 08:02.480
+about the movie business is if I'm investing
+
+08:02.480 --> 08:04.300
+in an artificial intelligence company
+
+08:04.300 --> 08:06.500
+or a chipset company or something like that,
+
+08:07.780 --> 08:11.900
+a lot of the institutions don't have the technical expertise
+
+08:11.900 --> 08:16.380
+to really truly grasp what's being done.
+
+08:16.380 --> 08:19.280
+So they don't, other than good business practices,
+
+08:19.280 --> 08:21.700
+they're not offering every little opinion.
+
+08:21.700 --> 08:25.160
+The movies and television are completely approachable,
+
+08:25.160 --> 08:27.860
+meaning everybody has an opinion.
+
+08:27.860 --> 08:30.360
+So whether it's, I think you guys
+
+08:30.360 --> 08:32.040
+chose the wrong actor for that,
+
+08:32.040 --> 08:33.380
+or why did you do that movie?
+
+08:34.380 --> 08:38.500
+So it invites a lot more sort of second guessing
+
+08:38.500 --> 08:39.520
+and things like that.
+
+08:39.520 --> 08:42.820
+So that was always one of the idiosyncrasies
+
+08:42.820 --> 08:46.440
+of the business that I thought was interesting.
+
+08:47.340 --> 08:50.260
+And then when you talk about private equity
+
+08:50.260 --> 08:52.860
+versus public equity, if you're a public company
+
+08:52.860 --> 08:56.180
+where the companies are traded,
+
+08:56.180 --> 08:57.580
+you wanna buy Microsoft shares,
+
+08:57.580 --> 08:59.540
+you just go to your broker,
+
+08:59.540 --> 09:01.820
+go on TD Ameritrade and buy them.
+
+09:01.820 --> 09:04.820
+If on the other hand, you're talking about private equity,
+
+09:04.820 --> 09:08.500
+that's institutions or individuals
+
+09:08.500 --> 09:11.180
+investing in private companies.
+
+09:11.180 --> 09:13.720
+So thus, if you have pools of capital
+
+09:13.720 --> 09:16.780
+that mostly invest in private equity deals,
+
+09:16.780 --> 09:18.580
+that's how you think about it.
+
+09:18.580 --> 09:20.220
+It's difficult to make those happen
+
+09:20.220 --> 09:23.580
+because it's individuals, you have to sort of,
+
+09:23.580 --> 09:26.500
+what, have dinners and agree.
+
+09:26.500 --> 09:31.180
+So it's much less, it's much more human,
+
+09:31.220 --> 09:33.620
+much less mechanical, I would say.
+
+09:33.620 --> 09:36.060
+Yeah, now, and again, massive difference
+
+09:36.060 --> 09:41.060
+between large private equity shops who are professionalized
+
+09:41.100 --> 09:44.420
+and in the same category that I mentioned earlier
+
+09:44.420 --> 09:49.340
+versus private individuals who are wealthy or whatever.
+
+09:49.340 --> 09:52.020
+But again, it's much more individualized
+
+09:52.020 --> 09:55.780
+when you're going to people who like your idea
+
+09:55.780 --> 09:58.500
+and just say, I'd like to invest in this.
+
+09:58.540 --> 10:01.940
+Is that, from all the kinds of investments you've seen,
+
+10:03.540 --> 10:05.240
+what do you think is the most conducive
+
+10:05.240 --> 10:08.700
+to creating works of genius,
+
+10:08.700 --> 10:11.140
+whether that's in technology, AI space,
+
+10:11.140 --> 10:12.420
+or whether that's in movies?
+
+10:12.420 --> 10:13.260
+Sure.
+
+10:13.260 --> 10:15.220
+So creating something special in this world.
+
+10:16.140 --> 10:18.820
+I would say a couple of things.
+
+10:18.820 --> 10:23.820
+Enough money that whatever endeavor you're going into,
+
+10:24.820 --> 10:28.500
+that you're not so nervous about the edges, right?
+
+10:28.500 --> 10:31.100
+If my, if I have $100 to spend
+
+10:31.100 --> 10:34.540
+and I think I can create a perpetual motion machine
+
+10:34.540 --> 10:38.800
+or something for $104, I can't do it
+
+10:38.800 --> 10:40.620
+because they're all over me about the budget.
+
+10:40.620 --> 10:44.180
+So I would say making sure that you have enough capital,
+
+10:44.180 --> 10:47.340
+making sure that that capital is patient enough
+
+10:47.340 --> 10:49.340
+so that it's, if you're going to do things
+
+10:49.340 --> 10:53.020
+that are extraordinary, it takes some time
+
+10:53.020 --> 10:55.140
+and you're going to break stuff, right?
+
+10:55.140 --> 10:56.220
+You're going to make mistakes.
+
+10:56.220 --> 10:58.860
+You're going to have a whole bunch of film
+
+10:58.860 --> 11:00.580
+on the cutting room floor, so to speak.
+
+11:00.580 --> 11:01.580
+Or if you're in the lab,
+
+11:01.580 --> 11:04.220
+you're going to have a whole bunch of broken stuff.
+
+11:04.220 --> 11:07.740
+And I also think it's very important at the beginning,
+
+11:07.740 --> 11:10.480
+and I always try to do this with companies I invest in
+
+11:10.480 --> 11:15.480
+or buy, is make sure that you have a philosophical
+
+11:15.580 --> 11:20.140
+and somewhat mechanical alignment with the management team
+
+11:20.140 --> 11:23.820
+so that going in, you both understand,
+
+11:23.820 --> 11:26.340
+hey, this is how we think about this problem
+
+11:26.340 --> 11:27.820
+or this company.
+
+11:27.820 --> 11:30.580
+This is what we feel like our culture is.
+
+11:30.580 --> 11:31.760
+This is what our goal is.
+
+11:31.760 --> 11:33.980
+And these are the metrics by which we'll agree
+
+11:33.980 --> 11:35.660
+to measure them by.
+
+11:35.660 --> 11:40.020
+Because if you don't have that shared, you know,
+
+11:40.020 --> 11:41.860
+hey, we're going to take this journey,
+
+11:42.740 --> 11:45.320
+then I think that's where people get upset,
+
+11:45.320 --> 11:47.100
+disappointed, et cetera.
+
+11:47.100 --> 11:50.940
+What about, this is a weird question, but constraints.
+
+11:50.940 --> 11:53.240
+So this is both for filmmaking and investment.
+
+11:54.680 --> 11:57.060
+Do you think more money is always better?
+
+11:57.060 --> 11:58.520
+No.
+
+11:58.520 --> 12:01.860
+So I like constraints a lot.
+
+12:01.860 --> 12:06.380
+It's like constraints and almost like a desperation
+
+12:06.380 --> 12:10.540
+and deadlines are catalysts for creativity,
+
+12:10.540 --> 12:15.260
+for productivity, for sort of innovation.
+
+12:15.260 --> 12:19.140
+So can you kind of speak to that as an investor,
+
+12:19.140 --> 12:23.460
+as a creator, like what's the right balance here?
+
+12:23.460 --> 12:27.620
+Well, I think if you're focused on a particular problem
+
+12:27.620 --> 12:31.980
+or a company or a thesis, if you have that focus
+
+12:31.980 --> 12:36.160
+and you feel like I have unlimited resources
+
+12:36.160 --> 12:39.260
+or renewable resources, so there's really,
+
+12:39.260 --> 12:43.540
+there's no leverage in the situation, right?
+
+12:43.540 --> 12:48.540
+There's no, if I fail at this, I'll just go get more money.
+
+12:49.180 --> 12:52.900
+Right, I'll just go, I think that's a hard way
+
+12:52.900 --> 12:57.900
+to be resilient and to think of new ways to solve problems.
+
+13:00.740 --> 13:05.220
+So I think capitalizing things just, you know,
+
+13:05.220 --> 13:08.660
+to the nth degree does create some problems.
+
+13:08.660 --> 13:10.420
+So I think there's that perfect blend
+
+13:10.420 --> 13:14.020
+of don't starve the oxygen to the point
+
+13:14.020 --> 13:15.960
+where you make short-term decisions
+
+13:15.960 --> 13:18.720
+or non-strategic or thoughtful decisions
+
+13:18.720 --> 13:20.380
+because you got to pay the rent.
+
+13:20.380 --> 13:24.860
+And on the other hand, you can't have it be like this,
+
+13:24.860 --> 13:28.940
+you know, everlasting gobstopper of whatever you want
+
+13:28.940 --> 13:30.420
+will just keep flowing the cash
+
+13:30.420 --> 13:33.060
+because that doesn't create any friction points
+
+13:33.060 --> 13:38.060
+that I think do result in works of genius
+
+13:38.980 --> 13:43.980
+and things that, you know, that are transformative.
+
+13:44.260 --> 13:48.460
+And one of the things that is interesting to me
+
+13:48.460 --> 13:51.900
+about society sort of writ large
+
+13:51.900 --> 13:56.900
+is I think that when you go through hard times
+
+13:59.020 --> 14:02.260
+and you have to do things that are uncomfortable
+
+14:02.260 --> 14:04.980
+and you don't want to do them because you're tired,
+
+14:04.980 --> 14:08.460
+because that in some ways builds up
+
+14:08.460 --> 14:12.740
+that you're comfortable being uncomfortable muscle.
+
+14:12.740 --> 14:17.740
+And I sometimes think we're losing that a little bit.
+
+14:17.940 --> 14:20.900
+And you can't sort of paint with a wide brush,
+
+14:20.900 --> 14:25.500
+but, you know, that's one of the things
+
+14:25.500 --> 14:30.500
+that I kind of observe and hope that we don't go that way.
+
+14:30.580 --> 14:34.260
+I do think challenge and discomfort are a kind of gift
+
+14:34.260 --> 14:36.980
+as like overcoming that.
+
+14:36.980 --> 14:40.220
+It's like from every perspective, from a human perspective,
+
+14:40.220 --> 14:42.420
+it's a source of happiness and fulfillment,
+
+14:42.420 --> 14:43.820
+overcoming challenge.
+
+14:43.820 --> 14:45.900
+But from a business perspective,
+
+14:45.900 --> 14:48.900
+I see like if something is really difficult,
+
+14:48.900 --> 14:51.780
+to me it's also a sign that most others would
+
+14:51.780 --> 14:54.460
+or many others would fail at this point.
+
+14:54.460 --> 14:55.980
+So like, it's a feature.
+
+14:55.980 --> 14:58.180
+It's nice that something is difficult.
+
+14:58.180 --> 15:02.140
+When people tell you that something is impossible,
+
+15:02.140 --> 15:04.020
+I love that because it's like, all right,
+
+15:04.740 --> 15:06.980
+well then that's what a lot of people would believe.
+
+15:06.980 --> 15:09.540
+And that gives you an opportunity to be the person
+
+15:09.540 --> 15:11.140
+who shows it's not impossible.
+
+15:11.140 --> 15:14.140
+And of course you might be wrong, but if you're not wrong,
+
+15:14.140 --> 15:15.620
+you have the opportunity to stand out.
+
+15:15.620 --> 15:18.820
+So going through that hardship, taking those big risks,
+
+15:18.820 --> 15:20.380
+it's going to really pay off.
+
+15:20.380 --> 15:25.380
+So like discomfort is a feature, not a bug.
+
+15:26.780 --> 15:30.140
+Of both personal life, it's just good for life,
+
+15:30.180 --> 15:34.780
+but for business, it seems like just good business sense.
+
+15:34.780 --> 15:38.660
+If something is hard, it's probably a good idea to do that.
+
+15:38.660 --> 15:39.500
+Yeah.
+
+15:39.500 --> 15:40.660
+Because most others will fail.
+
+15:41.580 --> 15:42.420
+Fun question.
+
+15:42.420 --> 15:43.580
+I don't know if you can answer this,
+
+15:43.580 --> 15:47.540
+but what's the most expensive movie you were involved with
+
+15:47.540 --> 15:49.860
+to make and why was it?
+
+15:49.860 --> 15:50.900
+You don't have to say numbers,
+
+15:50.900 --> 15:53.180
+but like is something stand out
+
+15:53.180 --> 15:57.420
+as being exceptionally expensive and why is it expensive?
+
+15:57.420 --> 16:01.460
+Um, I think Jurassic World was pretty expensive.
+
+16:01.460 --> 16:02.300
+Nice.
+
+16:02.300 --> 16:04.220
+I mean, it worked out great.
+
+16:05.740 --> 16:06.940
+And...
+
+16:06.940 --> 16:09.580
+That's an epic film by the way.
+
+16:09.580 --> 16:13.900
+It, look, it's one of my favorites.
+
+16:13.900 --> 16:16.180
+They just did an amazing job.
+
+16:16.180 --> 16:20.380
+And frankly, the crazy thing about my life
+
+16:20.380 --> 16:23.060
+is all the stuff that I loved as a kid
+
+16:23.060 --> 16:27.260
+somehow came full circle back into my adult life.
+
+16:28.100 --> 16:31.300
+And having the opportunity while I was out there
+
+16:31.300 --> 16:35.180
+to develop a friendship with Steven Spielberg
+
+16:35.180 --> 16:39.100
+and then have my name on the same film as Steven Spielberg,
+
+16:39.100 --> 16:42.740
+I mean, that was pretty surreal.
+
+16:44.300 --> 16:46.860
+So that was an expensive film.
+
+16:46.860 --> 16:49.780
+You know, Dark Knight Rises was an expensive film.
+
+16:49.780 --> 16:51.620
+But again, to me, there's a difference
+
+16:51.620 --> 16:54.460
+between expensive and irresponsible
+
+16:54.500 --> 16:58.580
+and expensive because the vision warranted
+
+16:58.580 --> 17:01.220
+and it turned out financially, it certainly did.
+
+17:01.220 --> 17:03.020
+Yeah, with Jurassic World, it's...
+
+17:04.380 --> 17:06.460
+I mean, I can't even imagine having those meetings
+
+17:06.460 --> 17:09.020
+because like you have to create so much
+
+17:09.020 --> 17:11.140
+and so much of it is obviously not real.
+
+17:11.140 --> 17:14.260
+You can't bring dinosaurs in a...
+
+17:14.260 --> 17:15.820
+Yeah.
+
+17:15.820 --> 17:17.500
+Is that where a lot of the cost is,
+
+17:17.500 --> 17:22.500
+is in the, you know, the computer side of things?
+
+17:22.580 --> 17:26.140
+Yeah, those are generally pretty massive components
+
+17:26.140 --> 17:30.180
+of the budget and especially if you're doing it
+
+17:30.180 --> 17:32.740
+and inventing things as you go.
+
+17:32.740 --> 17:36.540
+I mean, Jim Cameron is one of those filmmakers
+
+17:36.540 --> 17:41.540
+who is designing the plane as it's flying
+
+17:41.580 --> 17:43.940
+in such a brilliant way.
+
+17:43.940 --> 17:47.540
+And I've got to know him over the years
+
+17:47.540 --> 17:51.380
+and just in awe of the way his brain works
+
+17:51.380 --> 17:55.300
+and so yeah, it's a big component.
+
+17:55.300 --> 17:58.500
+Can you speak a little bit more to him in terms of,
+
+17:58.500 --> 18:01.060
+because you're such a fascinating person
+
+18:01.060 --> 18:02.940
+because you care a lot about technology.
+
+18:02.940 --> 18:06.020
+You care a lot about the cutting edge of technology.
+
+18:06.020 --> 18:10.300
+So how does he, a creator, a director,
+
+18:10.300 --> 18:12.460
+build the plane while it's flying?
+
+18:12.460 --> 18:15.620
+Like what's the role of innovation in this whole process?
+
+18:15.620 --> 18:20.060
+Well, so I never made a film with Jim.
+
+18:20.220 --> 18:22.660
+I'm just a huge fan and got to know him
+
+18:23.860 --> 18:26.380
+and John Landau, his producing partner.
+
+18:27.420 --> 18:30.660
+And one of the things that just fascinates me about Jim
+
+18:30.660 --> 18:32.620
+is so he makes Titanic
+
+18:32.620 --> 18:34.980
+and there's a bunch of underwater cameras
+
+18:34.980 --> 18:37.540
+and things that they need that don't exist.
+
+18:37.540 --> 18:39.820
+So he goes and invents them
+
+18:39.820 --> 18:43.980
+and, you know, has a good grasp of engineering
+
+18:43.980 --> 18:46.100
+and has not only the imagination
+
+18:46.100 --> 18:48.860
+but the ability to lead a team to build them.
+
+18:50.420 --> 18:53.940
+I got to go down early when they were shooting Avatar
+
+18:55.020 --> 18:57.900
+at a warehouse, I think it was, where they were shooting.
+
+18:57.900 --> 19:00.620
+And as they were explaining to me
+
+19:00.620 --> 19:01.980
+how they were capturing it
+
+19:01.980 --> 19:03.700
+and that they could go back later
+
+19:03.700 --> 19:08.540
+because they created the environment, it blew my mind.
+
+19:08.540 --> 19:11.180
+And I said, okay, this is truly,
+
+19:11.180 --> 19:12.980
+people talk about a big leap.
+
+19:12.980 --> 19:14.020
+This certainly is one.
+
+19:14.020 --> 19:18.700
+So he has continued to push the envelope
+
+19:18.700 --> 19:20.900
+in terms of the art of the possible.
+
+19:20.900 --> 19:24.740
+And I just think he's an incredible genius in that way.
+
+19:26.140 --> 19:27.740
+Again, another hard question.
+
+19:27.740 --> 19:32.020
+So you in the realm of music care about storytelling.
+
+19:33.500 --> 19:37.300
+Is there some aspect in which money
+
+19:37.300 --> 19:40.020
+and beautiful graphics get in the way of story?
+
+19:42.260 --> 19:47.140
+In filmmaking, so if you think about Jurassic World,
+
+19:47.140 --> 19:49.860
+obviously that's an experience like any other.
+
+19:52.340 --> 19:54.740
+Like, what do you think about the tension
+
+19:54.740 --> 19:59.740
+between story, experience and like visual effects?
+
+20:01.420 --> 20:06.420
+Well, look, if you're using big effect shots
+
+20:07.340 --> 20:10.500
+and all kinds of tricks to cover over the fact
+
+20:10.500 --> 20:13.620
+that you don't have a very interesting story to tell,
+
+20:13.620 --> 20:15.740
+that's where I think it gets in the way.
+
+20:17.700 --> 20:21.780
+Where I think you have these incredible filmmakers,
+
+20:21.780 --> 20:23.500
+we mentioned Chris Nolan and Jim Cameron,
+
+20:23.500 --> 20:28.140
+Guillermo del Toro, you know, you could go on and on
+
+20:29.300 --> 20:33.980
+folks that just see the world differently
+
+20:33.980 --> 20:38.780
+and use technology to enhance the storytelling, right?
+
+20:38.780 --> 20:42.620
+To make you believe differently,
+
+20:42.620 --> 20:46.780
+rather to make you not just suspend your disbelief,
+
+20:46.780 --> 20:49.380
+but to feel like you're immersed in it.
+
+20:49.380 --> 20:52.260
+So I've certainly seen it done expertly
+
+20:52.260 --> 20:54.580
+and I've seen it done poorly.
+
+20:54.580 --> 20:57.420
+You've talked about this a little bit in the past.
+
+20:57.420 --> 21:02.100
+You've kind of left the moviemaking business
+
+21:02.100 --> 21:03.500
+at an interesting time.
+
+21:03.500 --> 21:05.620
+Perhaps you saw the changes.
+
+21:07.020 --> 21:10.100
+There's been a lot of excitement with Netflix, with TV.
+
+21:10.100 --> 21:13.820
+So the role of film in society has changed.
+
+21:13.860 --> 21:18.180
+So what do you think is the future of movies versus TV?
+
+21:18.180 --> 21:21.460
+Like if you were as a business person, as a creator,
+
+21:21.460 --> 21:24.820
+as a consumer, as a technologist,
+
+21:24.820 --> 21:27.500
+are thinking about the next 10, 20 years,
+
+21:27.500 --> 21:31.980
+what do you think is going to be the godfather,
+
+21:31.980 --> 21:36.060
+the great pieces that move us as a society
+
+21:36.060 --> 21:37.340
+in the next 10, 20 years?
+
+21:37.340 --> 21:38.220
+Is it going to be TV?
+
+21:38.220 --> 21:39.660
+Is it going to be movie?
+
+21:39.660 --> 21:43.660
+Is it going to be TikTok clips?
+
+21:44.620 --> 21:48.580
+Well, so, and I think the other category
+
+21:48.580 --> 21:50.060
+that I would add to that,
+
+21:50.060 --> 21:52.300
+that will be the next great medium
+
+21:52.300 --> 21:55.060
+is truly immersive virtual reality
+
+21:56.020 --> 22:00.540
+in which new storytellers will emerge,
+
+22:00.540 --> 22:02.980
+especially when you can go into VR
+
+22:03.860 --> 22:08.300
+and there's enough computing power to sustain it
+
+22:08.300 --> 22:10.340
+and to allow it to be social
+
+22:10.340 --> 22:14.700
+and for you to have different paths to go down,
+
+22:14.700 --> 22:17.020
+that'll be, I think, the next realm
+
+22:17.020 --> 22:20.100
+of what storytelling and experience will look like.
+
+22:20.100 --> 22:22.140
+Do you think video game kind of world
+
+22:22.140 --> 22:26.180
+or is it more movies or is it more social network
+
+22:26.180 --> 22:30.020
+or is it all of it kind of blending reality
+
+22:30.020 --> 22:31.780
+and gaming and movies?
+
+22:31.780 --> 22:35.100
+Yeah, I thought if you saw Ready Player One,
+
+22:35.100 --> 22:37.820
+which I love the book and the movie was cool too,
+
+22:38.820 --> 22:42.940
+but that's one version of it, right?
+
+22:42.940 --> 22:44.620
+Where you go in,
+
+22:44.620 --> 22:46.580
+now everybody's talking about the metaverse and all that,
+
+22:46.580 --> 22:50.340
+but you go into a world that's fully rendered as yourself
+
+22:50.340 --> 22:51.500
+and you interact with that world.
+
+22:51.500 --> 22:54.820
+The other side of it is to go in somewhere
+
+22:54.820 --> 22:57.740
+between being a passive observer
+
+22:57.740 --> 23:00.060
+but being able to move around your point of view
+
+23:00.060 --> 23:03.260
+and experiences, which I think is interesting.
+
+23:03.260 --> 23:07.100
+And then I think another adventure, so to speak,
+
+23:07.100 --> 23:10.340
+I could think of is a blend of video games,
+
+23:10.340 --> 23:12.020
+so there's a mission, right?
+
+23:12.020 --> 23:14.580
+There's obstacles, there's everything
+
+23:14.580 --> 23:17.900
+and you move through it, but it's immersive
+
+23:17.900 --> 23:19.620
+and it tells a story at the same time.
+
+23:19.620 --> 23:22.740
+And that's why I think you're gonna see
+
+23:22.740 --> 23:27.740
+new amazing storytellers that we don't know yet
+
+23:27.860 --> 23:29.740
+that understand how to innovate
+
+23:29.740 --> 23:32.860
+and how to make you feel something in that environment.
+
+23:34.540 --> 23:35.980
+And to your earlier point,
+
+23:37.260 --> 23:40.740
+I think we saw probably around 2015
+
+23:41.820 --> 23:45.780
+when Netflix decided to be bold,
+
+23:45.780 --> 23:49.500
+put out House of Cards, put out all the episodes,
+
+23:49.500 --> 23:51.300
+leave you in charge of the pace
+
+23:51.300 --> 23:52.820
+at which you would view them,
+
+23:53.740 --> 23:56.420
+which I thought was great.
+
+23:56.420 --> 23:57.780
+That was a gutsy move.
+
+23:57.780 --> 23:58.740
+Yes, it was.
+
+23:58.740 --> 24:00.620
+And I can't tell you around Hollywood,
+
+24:00.620 --> 24:02.260
+anybody that says that everybody thought
+
+24:02.260 --> 24:04.540
+it was a great idea is not being truthful
+
+24:04.540 --> 24:08.340
+because everybody I talked to said this is,
+
+24:08.340 --> 24:10.140
+they're idiots, right?
+
+24:10.140 --> 24:13.460
+What do they know about moviemaking and TV?
+
+24:13.460 --> 24:17.820
+And what I saw happening was,
+
+24:17.820 --> 24:20.180
+if you look at what Netflix pulled off
+
+24:20.180 --> 24:22.740
+and they realized that there isn't really a moat
+
+24:22.740 --> 24:26.340
+around the studios, you really could make stuff
+
+24:28.100 --> 24:29.580
+and really good stuff.
+
+24:29.580 --> 24:31.980
+And so they started to create their own content.
+
+24:32.820 --> 24:36.140
+That pulled in Amazon,
+
+24:36.140 --> 24:38.500
+which pulled in Google through YouTube,
+
+24:38.500 --> 24:40.580
+and then you had Hulu,
+
+24:40.580 --> 24:43.260
+then you had Disney deciding
+
+24:43.260 --> 24:44.660
+that they're gonna have Disney Plus.
+
+24:44.660 --> 24:46.700
+And the next thing you know,
+
+24:46.700 --> 24:48.900
+you have some of the biggest companies
+
+24:48.900 --> 24:51.100
+with the largest balance sheets on the planet
+
+24:52.300 --> 24:54.020
+being in the creative business.
+
+24:55.620 --> 24:56.460
+If you're an independent,
+
+24:56.460 --> 25:00.580
+that's bringing a knife to a gunfight to be sure.
+
+25:00.580 --> 25:03.740
+And so, I thought that was interesting.
+
+25:03.740 --> 25:05.620
+The other thing that it used to be
+
+25:05.620 --> 25:08.340
+that movies were where the big things happened
+
+25:08.340 --> 25:11.540
+and television was sort of small screen,
+
+25:11.540 --> 25:13.140
+different experience.
+
+25:13.140 --> 25:15.780
+And you had something like Game of Thrones come out,
+
+25:15.780 --> 25:19.860
+which was not only on the same epic level visually
+
+25:19.860 --> 25:21.140
+and storytelling wise,
+
+25:21.140 --> 25:24.060
+but had the budget to be able to do it.
+
+25:24.060 --> 25:27.620
+And now I think you're seeing,
+
+25:28.140 --> 25:33.140
+you're seeing all kinds of different storytelling
+
+25:33.140 --> 25:34.700
+taking place.
+
+25:34.700 --> 25:39.220
+And also like that you're not pigeonholed into a time.
+
+25:39.220 --> 25:41.580
+Like you got two hours to tell the story.
+
+25:41.580 --> 25:43.140
+You can do a three part mini series,
+
+25:43.140 --> 25:44.460
+a five part mini series.
+
+25:44.460 --> 25:46.540
+You can do television that's,
+
+25:46.540 --> 25:48.100
+all kinds of different format.
+
+25:48.100 --> 25:49.660
+And that I think is,
+
+25:50.980 --> 25:54.100
+allows creators to do a lot more interesting things.
+
+25:54.340 --> 25:57.820
+It is also interesting to consider the role of companies
+
+25:57.820 --> 26:01.700
+that enable that, like the capital that enables that.
+
+26:01.700 --> 26:03.500
+Without Netflix, you wouldn't,
+
+26:03.500 --> 26:08.500
+and HBO, you wouldn't have some of these epic shows.
+
+26:08.580 --> 26:11.540
+And so if we're thinking about the virtual reality world
+
+26:11.540 --> 26:12.900
+that you're talking about,
+
+26:13.820 --> 26:16.380
+it's interesting to consider who will enable that.
+
+26:16.380 --> 26:19.700
+Now, like you said, Facebook is talking about meta
+
+26:19.700 --> 26:21.020
+and metaverse.
+
+26:21.060 --> 26:25.060
+But it's unclear that just having money is enough.
+
+26:25.060 --> 26:27.900
+Netflix did a lot of really revolutionary stuff.
+
+26:27.900 --> 26:30.500
+There's a, you know, Amazon has money.
+
+26:30.500 --> 26:31.820
+There's a lot of companies that have money
+
+26:31.820 --> 26:34.820
+that don't quite do as good of a job yet
+
+26:34.820 --> 26:39.820
+at enabling creators of creating revolutionary new content
+
+26:40.820 --> 26:42.940
+that changes the whole industry.
+
+26:42.940 --> 26:44.500
+And that's probably going to be the case
+
+26:44.500 --> 26:45.940
+with virtual reality.
+
+26:45.940 --> 26:48.500
+There is a lot of stuff that's happening
+
+26:48.500 --> 26:49.420
+with virtual reality.
+
+26:49.420 --> 26:54.140
+There is a lot of money needed to enable experiences,
+
+26:54.140 --> 26:57.020
+like in terms of compute infrastructure.
+
+26:57.020 --> 26:59.540
+There needs to be a huge amount of money there,
+
+26:59.540 --> 27:02.860
+but you also need to somehow give freedom to creators
+
+27:02.860 --> 27:05.900
+to have fun, to do their best work.
+
+27:05.900 --> 27:07.900
+And at the same time,
+
+27:07.900 --> 27:12.620
+like provide the perfect amount of constraints,
+
+27:12.620 --> 27:13.460
+all of that together.
+
+27:13.460 --> 27:15.180
+Like however Netflix makes it happen,
+
+27:15.180 --> 27:16.460
+they do a pretty good job
+
+27:16.500 --> 27:18.900
+because it's a very constrained platform,
+
+27:18.900 --> 27:21.380
+but yet all the creators I've ever talked to,
+
+27:21.380 --> 27:24.340
+comedians and so on that work with Netflix
+
+27:24.340 --> 27:27.940
+are really happy because they feel free to create their work.
+
+27:27.940 --> 27:30.580
+Yeah, and I think a lot of times, you know,
+
+27:30.580 --> 27:32.620
+companies are a letterhead,
+
+27:32.620 --> 27:34.540
+but it boils down to the people.
+
+27:34.540 --> 27:38.740
+And I think I've known Ted Sarandos a long time
+
+27:38.740 --> 27:40.860
+who ran the studio at Netflix
+
+27:40.860 --> 27:44.460
+and now took over for Reed running the company.
+
+27:44.460 --> 27:47.660
+But Ted, very smart, talented guy
+
+27:47.660 --> 27:50.900
+and understood early how to cultivate talent
+
+27:50.900 --> 27:53.540
+and relationships with talent, which is important.
+
+27:53.540 --> 27:56.220
+When you're dealing with creative people,
+
+27:56.220 --> 27:58.300
+their motivations and their goals
+
+27:58.300 --> 28:00.020
+are not always the same, right?
+
+28:00.020 --> 28:02.420
+They're not always capitalistic, right?
+
+28:02.420 --> 28:05.900
+And so in terms of being able to communicate
+
+28:05.900 --> 28:10.660
+with creative people that are not always A to B to C
+
+28:10.660 --> 28:11.940
+is a talent.
+
+28:11.940 --> 28:14.180
+And so I think they did a great job.
+
+28:14.180 --> 28:16.300
+Ted did a great job with that early.
+
+28:18.020 --> 28:21.460
+But I think that you're gonna see different formats.
+
+28:21.460 --> 28:26.220
+I don't think, I mean, going to a theater
+
+28:26.220 --> 28:30.580
+to see a massive movie on that screen in that format
+
+28:30.580 --> 28:33.260
+is a fundamentally different experience.
+
+28:33.260 --> 28:36.220
+And I think you're gonna find movies,
+
+28:36.220 --> 28:38.820
+my old shop Legendary just put out Dune,
+
+28:38.820 --> 28:41.420
+which I thought was phenomenal.
+
+28:42.260 --> 28:46.660
+I, you know, when we secured the rights to Dune years ago,
+
+28:48.700 --> 28:51.420
+I was over the moon because it's, I love the book.
+
+28:51.420 --> 28:56.420
+I love the entire world that is Dune.
+
+28:57.180 --> 28:59.900
+And that's a movie that I think you see on the big screen.
+
+28:59.900 --> 29:03.300
+I think when Avatar 2 comes out,
+
+29:03.300 --> 29:06.020
+I wanna see that on a big screen.
+
+29:06.020 --> 29:09.580
+But I think you're gonna see a ton of content
+
+29:09.580 --> 29:11.420
+is obviously being produced,
+
+29:11.420 --> 29:14.140
+and it's not all gonna go to a theater going experience.
+
+29:14.140 --> 29:17.180
+So you're gonna see, I think, different versions of this
+
+29:17.180 --> 29:18.780
+over the next five to 10 years.
+
+29:19.740 --> 29:22.100
+In case James Cameron is listening to this,
+
+29:22.100 --> 29:25.260
+so he officially agreed to talk at the time of,
+
+29:25.260 --> 29:27.820
+on this podcast at the time of Avatar 2 release.
+
+29:27.820 --> 29:28.860
+I'm just holding you to that
+
+29:28.860 --> 29:30.660
+in this recorded conversation.
+
+29:31.860 --> 29:36.540
+Also just super excited, both the movie and the director.
+
+29:37.060 --> 29:41.260
+There's something special about movies.
+
+29:41.260 --> 29:43.300
+You know, they win Oscars.
+
+29:43.300 --> 29:46.740
+They're historic in nature.
+
+29:46.740 --> 29:48.500
+There's something about TV shows,
+
+29:48.500 --> 29:50.980
+even when they're epic, like Game of Thrones,
+
+29:50.980 --> 29:54.340
+that they're forgotten much quicker in history.
+
+29:54.340 --> 29:55.980
+I don't know, maybe that's because
+
+29:55.980 --> 29:57.700
+we haven't had enough of them,
+
+29:57.700 --> 30:00.180
+but you know, the De Niro performances
+
+30:00.180 --> 30:02.820
+and you know, the Scorsese films,
+
+30:02.820 --> 30:06.180
+all the great films that kind of we think of
+
+30:06.180 --> 30:07.300
+throughout the generations,
+
+30:07.300 --> 30:10.300
+that define generations, are films.
+
+30:10.300 --> 30:12.980
+Is that just old school thinking?
+
+30:12.980 --> 30:14.420
+Is that always going to be the case?
+
+30:14.420 --> 30:16.020
+I mean, look, to me,
+
+30:18.300 --> 30:21.340
+going in a darkened theater with a bunch of strangers
+
+30:21.340 --> 30:24.980
+and the lights go down and you go on this journey,
+
+30:26.140 --> 30:29.980
+there is something special and magical about that.
+
+30:29.980 --> 30:33.460
+And I think movies have been a part
+
+30:33.460 --> 30:36.060
+of our cultural fabric forever.
+
+30:36.940 --> 30:40.340
+And for some reason, Hollywood and America
+
+30:40.340 --> 30:45.340
+was uniquely positioned to do a great job with it, right?
+
+30:45.980 --> 30:48.060
+And not that there aren't great foreign movies,
+
+30:48.060 --> 30:53.060
+but far and away, American movies dominate
+
+30:53.180 --> 30:54.500
+not only the world market,
+
+30:55.620 --> 30:58.300
+and so whatever it is that we do well,
+
+30:58.300 --> 30:59.740
+or Hollywood does well,
+
+31:02.020 --> 31:03.580
+there's something in the water apparently.
+
+31:03.580 --> 31:07.860
+But I agree that I love movies
+
+31:07.860 --> 31:10.580
+and I will, you know, for the rest of my days,
+
+31:10.580 --> 31:13.460
+it's interesting how creators can move
+
+31:13.460 --> 31:15.620
+back and forth now as well.
+
+31:15.620 --> 31:17.300
+That used to be a complete no-no.
+
+31:17.300 --> 31:20.180
+You're either a movie guy or you're a person
+
+31:20.180 --> 31:24.580
+or you know, or you're a TV director and that's that.
+
+31:24.580 --> 31:27.620
+But those lines have completely blurred.
+
+31:27.620 --> 31:29.460
+And they're also blurring,
+
+31:29.460 --> 31:31.140
+I mean, they're blurring all kinds of lines.
+
+31:31.140 --> 31:36.140
+Like they're moving to TikTok and Instagram and like,
+
+31:36.260 --> 31:38.620
+I know right now it seems ridiculous
+
+31:38.620 --> 31:42.740
+to consider that these like one minute things
+
+31:43.700 --> 31:47.340
+could be considered even in the same realm creatively
+
+31:47.340 --> 31:50.620
+as a film, but maybe that changes over time too.
+
+31:50.620 --> 31:53.260
+Maybe experiences can completely become fluid
+
+31:53.260 --> 31:55.780
+in terms of their size,
+
+31:55.780 --> 31:59.620
+as long as they have some deep lasting impact on you
+
+31:59.620 --> 32:02.180
+as a human being, as a consumer.
+
+32:02.180 --> 32:06.380
+Look, to me, the whole thing is about
+
+32:06.380 --> 32:09.100
+either the moving image or even sometimes a picture
+
+32:10.020 --> 32:13.460
+will bring out an emotion, a reaction, something.
+
+32:13.460 --> 32:17.140
+So, you know, short form is harder
+
+32:17.140 --> 32:19.580
+because you have less time to set things up and all that,
+
+32:19.580 --> 32:22.860
+but I'm sure there will be short videos
+
+32:22.860 --> 32:24.620
+and creators that come up with things.
+
+32:24.620 --> 32:29.580
+And if a moving image can get a reaction out of you,
+
+32:30.540 --> 32:32.100
+and make you feel a certain way
+
+32:32.100 --> 32:33.820
+and stay with you or inspire you,
+
+32:33.820 --> 32:36.420
+well, that to me is just the next evolution
+
+32:36.420 --> 32:38.380
+of whatever it's gonna be
+
+32:38.380 --> 32:41.060
+between humans and cameras, et cetera.
+
+32:41.060 --> 32:44.740
+See, I think that's why we've talked offline about this.
+
+32:44.740 --> 32:47.980
+That's why I love robots is I think there's certain things
+
+32:47.980 --> 32:51.220
+in the short form with robots that immediately
+
+32:51.220 --> 32:54.020
+can bring out a feeling in people.
+
+32:54.020 --> 32:57.540
+There's something about our consideration
+
+32:57.540 --> 33:01.140
+of our own intelligence, of our own consciousness,
+
+33:01.140 --> 33:03.420
+of all the fears and hopes
+
+33:03.420 --> 33:06.140
+and the beautiful things about human nature,
+
+33:06.140 --> 33:09.260
+the dark things about human nature that somehow,
+
+33:09.260 --> 33:11.780
+especially legged robots bring out
+
+33:11.780 --> 33:15.380
+because we have both a fear and excitement towards that.
+
+33:15.380 --> 33:17.380
+Are these going to be our overlords,
+
+33:17.380 --> 33:20.740
+our gods that overtake humanity?
+
+33:20.740 --> 33:24.380
+Are these going to be things like horses
+
+33:24.380 --> 33:27.140
+or something like that, something that empower humanity?
+
+33:27.740 --> 33:28.940
+Like you don't know what to make sense of it.
+
+33:28.940 --> 33:30.900
+That's why they're super exciting.
+
+33:30.900 --> 33:31.740
+I agree.
+
+33:31.740 --> 33:33.340
+Speaking of robots and film,
+
+33:34.380 --> 33:36.580
+you've gone into traditional industries
+
+33:36.580 --> 33:40.300
+and disrupted them quite a few times.
+
+33:40.300 --> 33:43.060
+Was there, is there a system for deciding
+
+33:43.060 --> 33:45.780
+which industry is right for disruption?
+
+33:45.780 --> 33:49.020
+When you look at the world and see
+
+33:49.020 --> 33:52.460
+what are the big problems you would like to solve,
+
+33:53.740 --> 33:56.580
+do you have a system of how you see which problems to solve?
+
+33:56.580 --> 33:58.980
+How do you look at the world?
+
+33:58.980 --> 34:01.420
+Yeah, well, on the business side of that,
+
+34:02.420 --> 34:04.780
+so I have a holding company called Tulco,
+
+34:04.780 --> 34:07.420
+very imaginatively named.
+
+34:07.420 --> 34:11.540
+Part of that is literally every name ever is now taken,
+
+34:11.540 --> 34:13.220
+registered and all that stuff.
+
+34:14.380 --> 34:16.820
+So we're a holding company.
+
+34:16.820 --> 34:18.020
+What's a holding company?
+
+34:18.020 --> 34:19.980
+So instead of being a fund
+
+34:19.980 --> 34:22.300
+that has money flowing in and out of it,
+
+34:22.300 --> 34:24.940
+and there's what's called a vintage year,
+
+34:24.940 --> 34:28.620
+I raise capital and I agree to invest that capital
+
+34:28.620 --> 34:30.740
+for so long and then I give it back to you,
+
+34:30.740 --> 34:33.700
+which sometimes creates artificial time pressures
+
+34:33.700 --> 34:34.540
+and things like that.
+
+34:34.540 --> 34:38.140
+A holding company is more permanent capital.
+
+34:38.140 --> 34:41.460
+So the idea was, behind Tulco,
+
+34:41.460 --> 34:44.820
+was to buy almost always whole companies
+
+34:44.820 --> 34:47.900
+or majority stakes with great management teams
+
+34:47.900 --> 34:50.300
+in spaces that did not traditionally
+
+34:50.300 --> 34:52.100
+have a lot of innovation.
+
+34:53.060 --> 34:57.540
+And to have our labs group who were data scientists,
+
+34:57.540 --> 35:02.540
+AI practitioners, engineers, machine learning, et cetera,
+
+35:03.180 --> 35:07.180
+and to be able to bring that wherewithal to that company.
+
+35:07.180 --> 35:10.220
+So to provide them with the right capital
+
+35:10.220 --> 35:13.180
+and to provide them with access to technology
+
+35:13.180 --> 35:16.700
+that would be hard to individually recruit
+
+35:16.700 --> 35:17.620
+for that company.
+
+35:17.820 --> 35:22.820
+So I would say that the thesis was to look for industries
+
+35:23.220 --> 35:27.220
+that were large enough that hadn't traditionally had access
+
+35:27.220 --> 35:30.460
+to that type of technology or innovation
+
+35:30.460 --> 35:32.460
+and to try to look for companies
+
+35:33.460 --> 35:36.620
+that not only looked that part,
+
+35:36.620 --> 35:40.140
+but had management teams that embraced this
+
+35:40.140 --> 35:41.980
+and wanted to take that kind of journey.
+
+35:41.980 --> 35:44.740
+Yeah, there is quite a few industries like that,
+
+35:44.780 --> 35:49.780
+but that finding the industries
+
+35:49.820 --> 35:52.100
+and the management pair,
+
+35:52.100 --> 35:54.340
+because those industries often have a lot
+
+35:54.340 --> 35:56.380
+of old school folks who don't.
+
+35:57.700 --> 35:59.140
+It takes quite a bit of work for them
+
+35:59.140 --> 36:00.900
+to leap into technology.
+
+36:00.900 --> 36:03.500
+I work quite a bit with the autonomous vehicles
+
+36:03.500 --> 36:06.060
+and just the automotive industry.
+
+36:06.060 --> 36:08.860
+Depending on the company, there's old school folks.
+
+36:08.860 --> 36:11.420
+It's like Detroit thinking versus like,
+
+36:11.420 --> 36:12.240
+what do you call it?
+
+36:12.920 --> 36:14.320
+California thinking.
+
+36:15.200 --> 36:18.720
+Well, I think you have to look at the nexus
+
+36:18.720 --> 36:19.560
+of two things there.
+
+36:19.560 --> 36:22.560
+One is just plain old human behavior.
+
+36:22.560 --> 36:27.560
+If I am uncomfortable and this isn't a comfort zone for me
+
+36:27.760 --> 36:31.120
+and it's not something I have as a field of expertise,
+
+36:31.120 --> 36:33.200
+I'm gonna shy away from that.
+
+36:33.200 --> 36:36.640
+Especially if I'm successful and I feel good about myself
+
+36:36.640 --> 36:38.640
+and it's a big successful company or person
+
+36:38.640 --> 36:39.840
+or whatever it might be.
+
+36:40.360 --> 36:44.160
+And the second thing is that,
+
+36:44.160 --> 36:45.840
+especially if you're a public company
+
+36:45.840 --> 36:48.480
+and you're being weighed and measured every quarter,
+
+36:48.480 --> 36:52.440
+you are rewarding the managers of that company
+
+36:52.440 --> 36:55.320
+to hit metrics and to be reliable and to say,
+
+36:55.320 --> 36:57.240
+hey, I'm counting quarter to quarter
+
+36:57.240 --> 36:59.720
+that you're gonna deliver what you say.
+
+37:00.800 --> 37:03.360
+It's difficult to say, you know what everybody,
+
+37:03.360 --> 37:05.640
+for the next two years, I wouldn't count
+
+37:05.640 --> 37:08.360
+on our financial projections at all,
+
+37:08.360 --> 37:10.720
+because we're gonna reinvent what we're doing.
+
+37:10.720 --> 37:13.240
+It's gonna work in the long run
+
+37:13.240 --> 37:15.680
+and you're gonna see that this was a really smart investment
+
+37:15.680 --> 37:17.120
+five to seven years from now.
+
+37:18.720 --> 37:22.800
+That's not the way capitalism is currently wired,
+
+37:22.800 --> 37:24.280
+generally, right?
+
+37:24.280 --> 37:28.200
+And a lot of, so again, if you reward managers
+
+37:28.200 --> 37:31.240
+with yearly bonuses and stock options based
+
+37:31.240 --> 37:35.600
+and tied to stock price and all these other things,
+
+37:36.240 --> 37:38.280
+and then ask them to go break stuff,
+
+37:39.480 --> 37:41.120
+that's hard, I think.
+
+37:41.120 --> 37:46.120
+So you're saying like, so the talk approach
+
+37:46.480 --> 37:50.120
+to the private investment is the best way
+
+37:50.120 --> 37:52.760
+or perhaps the only way to enable
+
+37:52.760 --> 37:54.440
+this kind of long-term innovation,
+
+37:54.440 --> 37:57.640
+investment taking big risks and investing in innovation.
+
+37:57.640 --> 38:00.640
+Well, look, we certainly are not,
+
+38:00.640 --> 38:02.320
+by any means, the only one doing it.
+
+38:02.320 --> 38:06.120
+I'm just saying that when you think about big companies,
+
+38:06.120 --> 38:10.840
+the more successful that are in old line businesses,
+
+38:10.840 --> 38:13.320
+and I hear people sort of talk about,
+
+38:13.320 --> 38:15.080
+well, why can't they just pivot?
+
+38:15.080 --> 38:19.360
+They recognize they need to be in the technology business
+
+38:19.360 --> 38:20.600
+because it's hard.
+
+38:20.600 --> 38:24.120
+It's hard to steer a ship and turn it that big,
+
+38:24.120 --> 38:27.680
+and especially if it's not part of your DNA at that company.
+
+38:28.680 --> 38:33.680
+So I just think that what we tried to do
+
+38:33.680 --> 38:38.680
+is to enable management teams that know where they wanna go
+
+38:40.800 --> 38:43.280
+and to be patient with capital,
+
+38:43.280 --> 38:48.280
+and also, again, bring innovation to bear
+
+38:48.480 --> 38:51.000
+that they have access to.
+
+38:51.000 --> 38:52.640
+There's plenty of capital structures
+
+38:52.640 --> 38:54.360
+doing interesting things.
+
+38:54.360 --> 38:57.520
+That's one of the things I love about our country.
+
+38:58.360 --> 39:01.680
+This country innovates, and this country invents things,
+
+39:01.680 --> 39:06.680
+and I'm constantly in awe of just the human ability
+
+39:10.560 --> 39:13.400
+to innovate and to iterate.
+
+39:14.840 --> 39:18.000
+I get to hang around some universities,
+
+39:18.000 --> 39:20.560
+including your old shop, MIT, and it's like-
+
+39:20.560 --> 39:21.400
+I'm still there.
+
+39:21.400 --> 39:22.240
+Yeah, you're still there.
+
+39:22.240 --> 39:23.080
+Still teaching there.
+
+39:23.080 --> 39:26.160
+Still teaching, but that place is like Hogwarts.
+
+39:26.160 --> 39:30.680
+I mean, it's inspiring, right?
+
+39:30.680 --> 39:34.040
+And certainly the energy in Silicon Valley,
+
+39:34.040 --> 39:37.400
+which now Austin, Texas, where we're sitting,
+
+39:37.400 --> 39:40.720
+has its own incredible ecosystem.
+
+39:40.720 --> 39:45.040
+So that's one of the things I love about America
+
+39:45.040 --> 39:49.160
+is the ability, and that really is, I think,
+
+39:49.160 --> 39:53.680
+in the American DNA to create things and invent things,
+
+39:53.680 --> 39:55.920
+and I think that's invigorating.
+
+39:56.760 --> 39:59.080
+And I think that's even bigger than capitalism,
+
+39:59.080 --> 40:02.160
+the machine of how capitalism works.
+
+40:02.160 --> 40:03.680
+That's just human nature.
+
+40:03.680 --> 40:05.200
+Capitalism is just one of the ways
+
+40:05.200 --> 40:10.200
+to make that human nature shine, I suppose,
+
+40:10.640 --> 40:13.320
+but it's like, you mentioned MIT.
+
+40:16.840 --> 40:20.760
+There's a drive there to invent, to innovate.
+
+40:20.760 --> 40:25.040
+That's so purely human.
+
+40:25.080 --> 40:28.120
+It's a human spirit to sort of build something new.
+
+40:28.120 --> 40:30.160
+It's like that hopeful, optimistic spirit,
+
+40:30.160 --> 40:32.040
+especially in the engineering space.
+
+40:32.040 --> 40:33.600
+Like if you pay attention to the internet,
+
+40:33.600 --> 40:36.200
+like Twitter and all that kind of stuff,
+
+40:36.200 --> 40:38.200
+intellectuals and so on,
+
+40:38.200 --> 40:43.200
+there's a cynicism to when we talk about stuff,
+
+40:43.320 --> 40:46.920
+but there's an optimism to when we do stuff.
+
+40:46.920 --> 40:48.360
+And the doing part,
+
+40:48.360 --> 40:50.880
+when you actually build things especially,
+
+40:50.880 --> 40:52.880
+like you care a lot about manufacturing too.
+
+40:52.880 --> 40:55.840
+Like you actually build physical products,
+
+40:55.840 --> 40:59.120
+that's where we truly shine.
+
+40:59.120 --> 41:01.040
+Yeah, no question about it.
+
+41:01.040 --> 41:06.040
+And I'm passionate about our country making stuff again,
+
+41:07.800 --> 41:09.560
+doing our own manufacturing
+
+41:10.840 --> 41:14.000
+and making sure that we don't lose the ability,
+
+41:14.000 --> 41:17.960
+not just to create things intellectually
+
+41:17.960 --> 41:19.520
+and do the world's greatest blueprints,
+
+41:19.520 --> 41:22.040
+but actually make things here.
+
+41:22.040 --> 41:23.080
+Actual factories.
+
+41:23.080 --> 41:24.280
+Yeah, that's exactly right.
+
+41:24.280 --> 41:26.120
+How do we do that?
+
+41:26.120 --> 41:30.640
+How do we bring more manufacturing to the United States?
+
+41:30.640 --> 41:32.040
+Well, there's a company
+
+41:32.040 --> 41:35.960
+that I have a big personal investment in called Rebuild
+
+41:37.160 --> 41:42.160
+with some folks that all went through the MIT school
+
+41:43.360 --> 41:45.080
+years ago.
+
+41:45.080 --> 41:47.120
+There's a good friend of mine named Jeff Wilkie
+
+41:47.120 --> 41:49.680
+who used to be at Amazon.
+
+41:49.680 --> 41:51.240
+And we all felt the same way
+
+41:51.240 --> 41:54.840
+that America needed to make sure
+
+41:54.840 --> 41:56.560
+that it didn't lose its edge in that way.
+
+41:56.560 --> 42:00.240
+So it's a company that invests
+
+42:00.240 --> 42:03.920
+in American high-tech manufacturing.
+
+42:03.920 --> 42:07.520
+And I think the way that we do that is provide capital,
+
+42:07.520 --> 42:09.600
+provide training.
+
+42:09.600 --> 42:11.400
+To me, this is also fertile ground
+
+42:11.400 --> 42:14.320
+for good, sustainable, high-paying jobs.
+
+42:15.320 --> 42:20.320
+And we have to make it economically feasible
+
+42:21.280 --> 42:24.080
+to do that again here in this country
+
+42:24.080 --> 42:26.480
+and not to say to companies that again
+
+42:26.480 --> 42:28.800
+are being weighed and measured quarter by quarter,
+
+42:28.800 --> 42:31.480
+hey, this is three times as expensive to do it here,
+
+42:31.480 --> 42:33.120
+but you should do it here.
+
+42:33.120 --> 42:36.960
+We need to innovate and we need to create processes
+
+42:36.960 --> 42:41.960
+and companies and opportunity that balance that equation.
+
+42:42.120 --> 42:44.440
+And I think as we saw during the pandemic,
+
+42:45.880 --> 42:47.200
+I don't think in this day and age
+
+42:47.200 --> 42:48.640
+you can be an isolationist.
+
+42:50.240 --> 42:51.480
+That doesn't make any sense to me,
+
+42:51.480 --> 42:54.880
+but being self-reliant and self-determinant
+
+42:54.880 --> 42:59.880
+and making sure that you are never in a position as a nation
+
+43:00.440 --> 43:01.880
+that we can't do basic things
+
+43:01.880 --> 43:05.320
+because we're relying on supply chain in other countries.
+
+43:05.320 --> 43:09.360
+And whether it's we're not friends anymore
+
+43:09.360 --> 43:13.920
+or a natural disaster or a virus or something pops up,
+
+43:13.920 --> 43:17.200
+I think those are costs of doing business
+
+43:17.200 --> 43:20.040
+that we have to put into the calculus
+
+43:20.040 --> 43:22.880
+of being able to make things here.
+
+43:22.880 --> 43:24.440
+There's an extremely high cost
+
+43:24.440 --> 43:26.160
+to making supply chain resilient
+
+43:26.160 --> 43:27.840
+that we really have to consider.
+
+43:27.840 --> 43:31.480
+And so if you really consider that cost,
+
+43:31.480 --> 43:33.080
+it makes a lot of sense to invest,
+
+43:33.080 --> 43:36.520
+especially long-term in building up manufacturing
+
+43:36.560 --> 43:39.000
+in a way where like you're making most of the stuff
+
+43:39.000 --> 43:44.000
+in one place, sort of bringing it all,
+
+43:44.480 --> 43:47.040
+not all, but as much in as possible
+
+43:47.040 --> 43:49.880
+and building it almost like from scratch
+
+43:49.880 --> 43:50.880
+here in the United States.
+
+43:50.880 --> 43:55.880
+I mean, what I guess your thought is with innovation
+
+43:57.560 --> 43:59.680
+it's possible to sort of revolutionize
+
+43:59.680 --> 44:00.960
+the way we do manufacturing.
+
+44:00.960 --> 44:03.600
+So reduce the amount of supply chain stuff
+
+44:03.600 --> 44:05.280
+and like build stuff from scratch.
+
+44:05.280 --> 44:08.800
+Like do high-tech manufacturing.
+
+44:08.800 --> 44:11.760
+So like optimize all aspects of the manufacturing
+
+44:11.760 --> 44:13.680
+and all that kind of stuff.
+
+44:13.680 --> 44:18.680
+Yeah, and I think where technology is the most efficient
+
+44:20.000 --> 44:23.840
+is the human machine interface, right?
+
+44:23.840 --> 44:25.520
+It's not let's automate everything
+
+44:25.520 --> 44:27.080
+and have nobody work anywhere.
+
+44:27.080 --> 44:32.080
+I, for a long time, that's neither feasible nor desirable
+
+44:32.400 --> 44:35.640
+but where we can enhance jobs
+
+44:37.400 --> 44:41.400
+and make that interface immensely productive
+
+44:42.360 --> 44:43.920
+with the right training and so forth.
+
+44:43.920 --> 44:46.280
+I think that's a worthwhile endeavor
+
+44:46.280 --> 44:49.240
+and something that's gonna be important to our country.
+
+44:49.240 --> 44:52.920
+Yeah, I mean, you're, you know who you're talking to.
+
+44:52.920 --> 44:55.920
+I love human robot interaction, human machine interaction,
+
+44:55.920 --> 44:57.280
+human AI interaction.
+
+44:57.280 --> 44:59.120
+So what do you think is the role of robotics
+
+44:59.120 --> 45:01.320
+in this high-tech manufacturing?
+
+45:02.120 --> 45:04.400
+Sort of like industrial robots, robotic arms,
+
+45:04.400 --> 45:06.440
+all that kind of stuff
+
+45:06.440 --> 45:09.400
+or even more complicated kind of robots.
+
+45:09.400 --> 45:11.680
+What do you think is the role of robotics?
+
+45:11.680 --> 45:13.240
+What do you think is the role of AI
+
+45:13.240 --> 45:16.240
+in this manufacturing future you're thinking about?
+
+45:16.240 --> 45:20.400
+Well, robotics to me is an extremely exciting field.
+
+45:20.400 --> 45:23.080
+I don't have the same expertise that you do.
+
+45:23.080 --> 45:26.040
+I have an adjacency but not the depth of knowledge.
+
+45:27.280 --> 45:29.200
+Have never really delved deeply into it
+
+45:29.200 --> 45:30.440
+or made investments in it.
+
+45:30.440 --> 45:32.520
+But I think what's exciting about it
+
+45:32.520 --> 45:35.000
+is everything from doing jobs
+
+45:35.000 --> 45:37.440
+that are very dangerous for humans,
+
+45:38.760 --> 45:41.600
+enhancing the human experience.
+
+45:41.600 --> 45:44.920
+When you look at really repetitive labor,
+
+45:44.920 --> 45:49.120
+things that, you know, it might take away a job,
+
+45:49.120 --> 45:51.600
+but is it a good job for that person?
+
+45:51.600 --> 45:53.320
+Is, you know, spending 30 years
+
+45:53.320 --> 45:55.160
+doing something highly repetitious,
+
+45:55.160 --> 45:59.000
+is that a good experience in life?
+
+45:59.000 --> 46:02.520
+So I think, and then when you think about everything
+
+46:02.520 --> 46:06.960
+from military applications, you know, rescue,
+
+46:06.960 --> 46:09.000
+we're already seeing a bunch of those things.
+
+46:09.000 --> 46:11.640
+And then just lastly,
+
+46:11.640 --> 46:15.160
+when you talk about that human interaction with robots,
+
+46:15.160 --> 46:17.960
+when you start to have the combination,
+
+46:17.960 --> 46:22.200
+so you have some level of intelligence and interaction,
+
+46:22.200 --> 46:25.720
+I mean, that's why we always love the droids
+
+46:25.720 --> 46:26.760
+in Star Wars, right?
+
+46:26.800 --> 46:30.200
+I mean, it's exciting.
+
+46:30.200 --> 46:31.840
+It captures the imagination.
+
+46:33.800 --> 46:37.640
+And I think, look, many, many hours
+
+46:37.640 --> 46:42.640
+have been spent on debating artificial intelligence
+
+46:42.760 --> 46:47.120
+and the ramifications if things go sideways and so forth.
+
+46:48.120 --> 46:50.560
+And I think those are all, you know,
+
+46:50.560 --> 46:54.160
+those are appropriate conversations to be having.
+
+46:54.160 --> 46:56.240
+AI is happening.
+
+46:56.240 --> 46:57.960
+I think it's actually happening slower
+
+46:57.960 --> 46:59.480
+than most people realize,
+
+47:01.600 --> 47:04.560
+because there are tasks that humans do
+
+47:04.560 --> 47:06.720
+every minute of every day,
+
+47:06.720 --> 47:09.640
+standing up without losing your sense of balance.
+
+47:09.640 --> 47:12.840
+I mean, these are really hard things,
+
+47:12.840 --> 47:16.640
+but I think there's enough investment,
+
+47:16.640 --> 47:19.840
+both in private industry as well as nation states now
+
+47:19.840 --> 47:22.640
+on artificial intelligence that it is coming.
+
+47:23.560 --> 47:27.320
+So both in the software space, in the digital space,
+
+47:27.320 --> 47:29.120
+and in the physical space,
+
+47:29.120 --> 47:32.600
+so we talk about manufacturing, so industrial robotics,
+
+47:32.600 --> 47:35.040
+is very true that even in the factory,
+
+47:35.040 --> 47:38.040
+even the tasks that you think are pretty basic,
+
+47:40.560 --> 47:44.320
+you know, the amount of small intuitive decisions
+
+47:44.320 --> 47:46.520
+that humans make is quite incredible.
+
+47:46.520 --> 47:49.760
+So we have to be kind of explicit about saying
+
+47:49.760 --> 47:52.160
+which tasks are actually really hard
+
+47:52.600 --> 47:54.680
+and humans are just really good at them.
+
+47:54.680 --> 47:59.680
+And so on the flip side, in the digital space,
+
+47:59.760 --> 48:01.640
+with social networks, we recommend our systems,
+
+48:01.640 --> 48:04.760
+with all kinds of like personal assistance
+
+48:04.760 --> 48:09.760
+in terms of voice-based AI systems, all of that.
+
+48:10.320 --> 48:13.160
+There's opportunities there to find niches
+
+48:13.160 --> 48:17.280
+where AI can really have a transformative effect.
+
+48:17.280 --> 48:22.280
+I think one of the places that really haven't...
+
+48:25.080 --> 48:27.440
+This is where, like, you're worried to say stupid things,
+
+48:27.440 --> 48:29.400
+but I believe this very much,
+
+48:29.400 --> 48:33.160
+that when we have AI systems in the home currently,
+
+48:33.160 --> 48:36.480
+you have somebody like Alexa and Google Home and so on.
+
+48:36.480 --> 48:40.840
+They're kind of very basic servants.
+
+48:40.840 --> 48:43.240
+They tell you about the weather, they can play some music,
+
+48:43.240 --> 48:45.080
+they can turn the lights on and off,
+
+48:45.080 --> 48:47.680
+all that kind of like smart home stuff.
+
+48:47.680 --> 48:51.440
+I think there's a lot of value in systems
+
+48:51.440 --> 48:56.320
+that form relationships with us in the way that pets do.
+
+48:56.320 --> 49:00.000
+Dogs and cats, I don't know, cats,
+
+49:00.000 --> 49:02.560
+just for people who have cats, cats don't care about you.
+
+49:02.560 --> 49:03.560
+They really don't.
+
+49:03.560 --> 49:05.200
+They don't form any kind of relationship.
+
+49:05.200 --> 49:07.120
+I don't know why you have a relationship with them.
+
+49:07.120 --> 49:08.320
+It's one way.
+
+49:08.320 --> 49:12.000
+Anyway, sorry, I threw out some shade.
+
+49:12.000 --> 49:13.240
+I'm just kidding, by the way.
+
+49:13.240 --> 49:14.760
+That's a basic kind of connection
+
+49:15.440 --> 49:16.960
+that we have with another living being.
+
+49:16.960 --> 49:18.440
+Then there's also just friends.
+
+49:18.440 --> 49:20.680
+You have different levels of friends, acquaintances,
+
+49:20.680 --> 49:23.240
+you have lifelong friends, all that.
+
+49:23.240 --> 49:25.280
+That friendship you have,
+
+49:25.280 --> 49:27.880
+I really believe that there is some aspect
+
+49:27.880 --> 49:32.600
+of the human experience that is deeply enriched
+
+49:32.600 --> 49:35.400
+by interacting with other beings.
+
+49:35.400 --> 49:40.320
+And for systems, computing systems,
+
+49:40.320 --> 49:43.080
+artificial intelligence systems in our world,
+
+49:44.080 --> 49:46.800
+to have the capability to engage in some of that,
+
+49:46.800 --> 49:48.880
+I think is not just an opportunity
+
+49:48.880 --> 49:53.440
+to help people grow, become better people,
+
+49:53.440 --> 49:55.960
+but it's also just a good business opportunity too.
+
+49:55.960 --> 49:58.400
+And that hasn't really been explored enough.
+
+49:58.400 --> 50:02.120
+So that to me is really, that's a whole exciting space
+
+50:02.120 --> 50:07.120
+that I think will enable better industrial robotics.
+
+50:08.480 --> 50:11.320
+It will empower a better Facebook
+
+50:11.480 --> 50:13.120
+or a better social network,
+
+50:13.120 --> 50:15.760
+a competitive Facebook that overthrows Facebook.
+
+50:15.760 --> 50:19.680
+So it'll create better technologies
+
+50:19.680 --> 50:24.320
+that currently don't have that human robot interaction touch.
+
+50:24.320 --> 50:26.400
+So I don't know.
+
+50:26.400 --> 50:27.720
+That's super exciting to me,
+
+50:27.720 --> 50:32.720
+but that has to deal with the mess of human nature.
+
+50:34.400 --> 50:37.800
+The reason that most robotics people and AI people
+
+50:37.800 --> 50:39.280
+stay away from humans,
+
+50:40.240 --> 50:43.880
+they stay away from the human robot interaction problem
+
+50:43.880 --> 50:46.320
+is because humans are complicated.
+
+50:46.320 --> 50:47.440
+They're messy.
+
+50:47.440 --> 50:49.160
+They're hard to control.
+
+50:49.160 --> 50:54.160
+They're hard to predict stuff about.
+
+50:54.400 --> 50:58.680
+They're hard to make sense of or like test repeatedly
+
+50:58.680 --> 51:01.840
+because one human can be drastically different
+
+51:01.840 --> 51:02.960
+from another human.
+
+51:02.960 --> 51:05.200
+And so to deal with that as a robotics problem
+
+51:05.200 --> 51:06.120
+is super hard.
+
+51:07.120 --> 51:11.800
+And so one of the questions is which problems
+
+51:11.800 --> 51:14.120
+can you remove the human from consideration
+
+51:14.120 --> 51:15.600
+when you're trying to solve the problem?
+
+51:15.600 --> 51:17.360
+So Elon Musk is an example,
+
+51:17.360 --> 51:20.560
+somebody who believes autonomous driving,
+
+51:20.560 --> 51:23.200
+we can remove the human from consideration.
+
+51:23.200 --> 51:26.480
+We could solve autonomous driving as a robotics problem.
+
+51:26.480 --> 51:28.400
+It's stay in the lane.
+
+51:28.400 --> 51:31.560
+When there's a red light, you stop at a red light.
+
+51:31.560 --> 51:34.600
+If there are humans in the picture like pedestrians,
+
+51:34.600 --> 51:36.560
+that's a ballistics problem.
+
+51:36.560 --> 51:39.600
+It's just treat them as a moving object
+
+51:39.600 --> 51:42.680
+that has with like 90% probability,
+
+51:42.680 --> 51:45.880
+keeps moving in the way they were in the past few seconds
+
+51:45.880 --> 51:48.840
+with some smaller probability that might stop or turn.
+
+51:48.840 --> 51:51.520
+Like just do some basic models about them
+
+51:51.520 --> 51:53.280
+and you'll be able to do just fine.
+
+51:53.280 --> 51:57.160
+So I tend to believe that even driving
+
+51:58.080 --> 52:01.080
+has to consider the full messiness of humans.
+
+52:01.080 --> 52:03.920
+The dance, the game theoretic dance of chicken
+
+52:03.920 --> 52:07.480
+that we all do when we jaywalk,
+
+52:07.480 --> 52:10.120
+we look at the car, that car doesn't,
+
+52:10.120 --> 52:12.120
+that driver doesn't have the guts to murder me.
+
+52:12.120 --> 52:14.600
+So I'm going to walk in front of it and not look at the car.
+
+52:14.600 --> 52:17.560
+We do that kind of dance and AI systems
+
+52:17.560 --> 52:22.120
+need to be able to do that kind of dance.
+
+52:24.200 --> 52:28.520
+In Talco, there's the labs.
+
+52:28.520 --> 52:32.320
+So there's a data science component, it's an AI component.
+
+52:32.320 --> 52:35.840
+So how do they go into a company
+
+52:35.840 --> 52:38.120
+and help revolutionize that industry?
+
+52:38.120 --> 52:39.880
+Well, there's different examples.
+
+52:39.880 --> 52:44.880
+So one of our companies FIGS makes healthcare workwear
+
+52:45.040 --> 52:47.640
+started by these two brilliant women
+
+52:47.640 --> 52:52.640
+and early days helping to build the platform and recruit
+
+52:54.440 --> 52:59.440
+and make sure that everything that we did at the company
+
+53:00.440 --> 53:03.360
+embraced technology.
+
+53:03.360 --> 53:06.040
+And at the same time, they were obsessive
+
+53:06.040 --> 53:09.960
+about their customer, which is doctors, nurses,
+
+53:09.960 --> 53:12.600
+healthcare workers who are putting it on the line every day
+
+53:12.600 --> 53:14.120
+and obsessive about their product.
+
+53:14.120 --> 53:17.320
+And when you have those two things come together,
+
+53:17.320 --> 53:22.320
+you get the result that we did at FIGS.
+
+53:24.680 --> 53:26.760
+We have a company called Acasher,
+
+53:26.760 --> 53:31.560
+which it's AI lab and base is down here in Austin, Texas.
+
+53:31.560 --> 53:33.760
+It was an insurance,
+
+53:33.760 --> 53:36.720
+one of the largest insurance brokers in the world.
+
+53:36.720 --> 53:41.720
+And we did a deal with them and sold some of our
+
+53:43.040 --> 53:46.560
+our insurance holdings, it was completely AI driven.
+
+53:47.880 --> 53:50.800
+And in that case, you basically put the team
+
+53:50.800 --> 53:52.800
+inside the company, right?
+
+53:52.800 --> 53:56.240
+Because it's a massive company with all
+
+53:56.240 --> 53:58.200
+and we've gone into all kinds of things.
+
+53:59.920 --> 54:03.920
+So it just depends on the different situations.
+
+54:03.920 --> 54:06.680
+But the biggest thing was just to make sure
+
+54:06.680 --> 54:11.680
+whatever the company needed, they had access to the talent.
+
+54:11.920 --> 54:15.480
+Sometimes we'd build it, sometimes we'd help recruit for it.
+
+54:15.480 --> 54:18.520
+You know how in technology, it's whatever works, right?
+
+54:18.520 --> 54:22.240
+There's no one way to do things.
+
+54:22.240 --> 54:25.800
+Well Acasher is really interesting as an example.
+
+54:25.800 --> 54:27.640
+So insurance is a fascinating space.
+
+54:27.640 --> 54:30.400
+It seems like very ripe still
+
+54:30.400 --> 54:32.680
+for disruption across the board.
+
+54:32.680 --> 54:35.640
+So how do you, it seems like a lot of the disruption
+
+54:35.640 --> 54:40.640
+has to do with like almost the first dump step
+
+54:42.080 --> 54:47.080
+of we've been using mostly paper, like it's not digitized.
+
+54:47.920 --> 54:49.920
+You have to basically convert,
+
+54:49.920 --> 54:52.200
+create a infrastructure and a framework
+
+54:52.200 --> 54:55.400
+where like everybody is using the same digital system.
+
+54:56.000 --> 54:59.040
+Like databases and just organize the data.
+
+54:59.040 --> 55:01.320
+It seems like that's a huge leap
+
+55:01.320 --> 55:04.000
+that basically can revolutionize major industries
+
+55:04.000 --> 55:05.480
+that still hasn't been done.
+
+55:05.480 --> 55:08.040
+Insurance is obviously the great example of that.
+
+55:08.040 --> 55:10.800
+And one of the things that struck me,
+
+55:10.800 --> 55:14.080
+the founder CEO of Acasher is a guy named Greg Williams.
+
+55:14.080 --> 55:16.160
+They're out of Grand Rapids, Michigan.
+
+55:16.160 --> 55:18.520
+And as we were looking at expanding our footprint
+
+55:18.520 --> 55:22.280
+in insurance, I met with a lot of insurance executives
+
+55:22.280 --> 55:24.360
+and they would talk about technology.
+
+55:24.360 --> 55:29.360
+But Greg truly understood the power of what would happen
+
+55:29.920 --> 55:34.920
+across actuarial sciences, predictive analytics
+
+55:35.200 --> 55:37.280
+and using machine learning
+
+55:37.280 --> 55:39.560
+to really run every aspect of your business.
+
+55:39.560 --> 55:42.440
+And then automating a lot of the,
+
+55:42.440 --> 55:45.560
+just the back office tedious steps.
+
+55:45.560 --> 55:48.720
+And as you said, one of the things that was great for us,
+
+55:48.720 --> 55:53.720
+they already had a data collection system and department
+
+55:54.560 --> 55:57.040
+so it was much easier to pivot.
+
+55:58.000 --> 56:01.000
+And I'm very excited about the future of that company.
+
+56:01.000 --> 56:06.000
+It's, they're doing some pretty innovative,
+
+56:06.240 --> 56:07.440
+groundbreaking things.
+
+56:07.440 --> 56:11.040
+And those are the things that I like doing, right?
+
+56:11.040 --> 56:15.360
+Is that, yes, I wanna make money.
+
+56:15.360 --> 56:17.320
+Just, that's what that is.
+
+56:17.320 --> 56:19.000
+But at the same time,
+
+56:19.000 --> 56:21.600
+what did you do with your time on earth, right?
+
+56:21.600 --> 56:24.360
+Did you do anything to leave any kind of mark
+
+56:24.360 --> 56:27.680
+that you did anything interesting?
+
+56:27.680 --> 56:29.480
+I can only speak for myself.
+
+56:29.480 --> 56:33.400
+There are many more ways to measure one's life
+
+56:33.400 --> 56:36.640
+and I can only speak about how I think about things.
+
+56:37.920 --> 56:41.320
+I grew up poor in upstate New York with a single mom
+
+56:41.320 --> 56:46.080
+and watched her work a couple of jobs and had to,
+
+56:46.080 --> 56:49.680
+from a young age, shovel snow and mow lawns
+
+56:49.680 --> 56:52.600
+and do all kinds of things to help her make sure
+
+56:52.600 --> 56:55.320
+the lights weren't turned off in our little place.
+
+56:55.320 --> 56:57.360
+And so that's just something
+
+56:57.360 --> 57:00.240
+that I've always been driven towards.
+
+57:00.240 --> 57:05.240
+And I have really eclectic tastes and interests
+
+57:07.120 --> 57:11.320
+and it's just been an interesting journey.
+
+57:11.320 --> 57:14.800
+So help be part of and help enable
+
+57:14.840 --> 57:19.840
+some cool new creations across the board.
+
+57:19.920 --> 57:24.920
+Like film, music, AI, manufacturing,
+
+57:26.600 --> 57:31.200
+just insurance, all the specific industries
+
+57:31.200 --> 57:33.240
+that you disrupted, yeah.
+
+57:33.240 --> 57:38.240
+Small tangent, back to your childhood with your mom.
+
+57:39.280 --> 57:42.720
+Any memories kind of stand out,
+
+57:42.720 --> 57:47.320
+stick with you as something that helped define
+
+57:47.320 --> 57:49.200
+who you are as a man?
+
+57:49.200 --> 57:53.320
+Yeah, even though the university and college experience
+
+57:53.320 --> 57:55.920
+was not part of the family tree
+
+57:58.160 --> 58:01.520
+and we had no connections, I didn't understand,
+
+58:01.520 --> 58:03.840
+I didn't know what a trust fund was or prep school.
+
+58:03.840 --> 58:05.600
+I didn't know what any of that was.
+
+58:07.080 --> 58:11.160
+But my mom from a young age would always say,
+
+58:11.160 --> 58:12.200
+you're gonna go to college.
+
+58:12.200 --> 58:15.360
+There's no, if you choose to.
+
+58:15.360 --> 58:17.000
+And I think from a young age,
+
+58:17.000 --> 58:21.080
+that was just an expectation that I had
+
+58:21.080 --> 58:23.280
+and that she instilled and the work ethic.
+
+58:23.280 --> 58:28.280
+I watched her and then my grandmother was a janitor,
+
+58:28.960 --> 58:31.840
+a cleaning lady in a hospital for 50 years.
+
+58:31.840 --> 58:36.440
+And then I remember there were times of,
+
+58:36.440 --> 58:39.520
+I'm probably 10 years old, it's freezing cold out.
+
+58:39.520 --> 58:42.880
+And if I don't go out and shovel six driveways,
+
+58:42.880 --> 58:45.080
+we don't have enough money to pay the bill.
+
+58:45.080 --> 58:48.480
+So I don't know, I'm not a psychologist,
+
+58:48.480 --> 58:52.880
+so I don't know how that manifests itself in my life today.
+
+58:52.880 --> 58:57.880
+But I think the grit to say,
+
+58:57.960 --> 59:01.640
+I'm not in the mood to do this, I don't wanna do this,
+
+59:01.640 --> 59:04.480
+but that's the work that needs to be done.
+
+59:04.480 --> 59:08.480
+And no excuses, not I'm a victim
+
+59:08.480 --> 59:10.240
+and I'm gonna sit around and talk about,
+
+59:10.240 --> 59:13.360
+no, it is what it is and you have to get done
+
+59:13.360 --> 59:15.000
+what you need to get done.
+
+59:15.000 --> 59:17.160
+And again, I think it's,
+
+59:19.240 --> 59:21.280
+you can never fully put yourself
+
+59:21.280 --> 59:23.560
+in someone else's shoes or experience,
+
+59:23.560 --> 59:25.440
+because I don't know what that is or feels like.
+
+59:25.440 --> 59:29.800
+But for me, those were two, I think, formative things
+
+59:31.800 --> 59:33.800
+that were important in my childhood.
+
+59:33.800 --> 59:37.000
+So that's pretty, the reality of life like that
+
+59:37.000 --> 59:38.360
+is pretty humbling.
+
+59:39.360 --> 59:41.800
+You've been so exceptionally successful
+
+59:41.800 --> 59:45.120
+that it's easy to get soft now.
+
+59:45.120 --> 59:49.240
+How do you get humble these days?
+
+59:49.240 --> 59:50.200
+By getting up.
+
+59:51.320 --> 59:56.320
+I think for me personally, trying to push the envelope
+
+59:57.400 --> 59:59.280
+and being weighed and measured,
+
+59:59.280 --> 01:00:00.720
+that's why I always loved sports too,
+
+01:00:00.720 --> 01:00:02.320
+there's a scoreboard.
+
+01:00:02.320 --> 01:00:07.320
+And I'm a huge believer in opportunity, meritocracy,
+
+01:00:07.960 --> 01:00:11.560
+all those things that I think are ideals
+
+01:00:11.560 --> 01:00:14.720
+that we wanna aspire to.
+
+01:00:14.720 --> 01:00:18.280
+And I think that there's a lot of things
+
+01:00:18.280 --> 01:00:19.600
+I'm involved with right now
+
+01:00:19.600 --> 01:00:22.200
+that I just wanna see if I can do it.
+
+01:00:22.200 --> 01:00:27.200
+I wanna see if, and my own little mantra
+
+01:00:27.440 --> 01:00:31.160
+is cause the outcome, as much as you can.
+
+01:00:31.160 --> 01:00:33.720
+And at the same time, have the humility
+
+01:00:33.720 --> 01:00:36.880
+and not to have the hubris or arrogance to say,
+
+01:00:36.880 --> 01:00:38.960
+I'm always gonna cause the outcome
+
+01:00:38.960 --> 01:00:41.760
+because you'll get your ass kicked pretty quickly
+
+01:00:41.760 --> 01:00:43.080
+and humbled.
+
+01:00:43.080 --> 01:00:45.200
+The world and the universe is a big place
+
+01:00:45.200 --> 01:00:47.680
+with forces beyond.
+
+01:00:49.160 --> 01:00:53.600
+But I think, I also think a lot
+
+01:00:53.600 --> 01:00:56.200
+about being intellectually honest,
+
+01:00:56.200 --> 01:00:59.560
+which when I do university talks and so forth,
+
+01:00:59.560 --> 01:01:02.720
+I think that's a superpower
+
+01:01:02.720 --> 01:01:06.600
+because if you find yourself making decisions
+
+01:01:06.600 --> 01:01:10.080
+based on other people's expectations,
+
+01:01:10.080 --> 01:01:13.320
+based on places you don't wanna go,
+
+01:01:13.320 --> 01:01:18.320
+but you feel like momentum is taking you there,
+
+01:01:20.720 --> 01:01:22.200
+I think that's a big problem.
+
+01:01:22.200 --> 01:01:27.000
+And there are people that go to our top universities
+
+01:01:27.000 --> 01:01:30.600
+and can't wait to get out and start their own company
+
+01:01:30.600 --> 01:01:35.160
+and they want that pressure and they want to grind.
+
+01:01:35.160 --> 01:01:38.560
+And there are other people that are smart and talented,
+
+01:01:38.560 --> 01:01:41.080
+but just say, look, I don't wanna lay awake
+
+01:01:41.080 --> 01:01:43.680
+staring at the ceiling wondering how I'm gonna make payroll.
+
+01:01:43.680 --> 01:01:45.480
+I don't want that in my life.
+
+01:01:45.480 --> 01:01:48.600
+And I think if you can square that up
+
+01:01:48.600 --> 01:01:51.240
+and be okay with it and say, what makes me tick?
+
+01:01:51.240 --> 01:01:52.800
+What makes me happy?
+
+01:01:52.800 --> 01:01:54.680
+What puts me in a bad head space?
+
+01:01:54.680 --> 01:01:57.920
+Cause there's a difference between challenging yourself
+
+01:01:57.920 --> 01:02:00.080
+and going against your nature.
+
+01:02:00.080 --> 01:02:03.000
+So that's why I think that being intellectually honest
+
+01:02:03.000 --> 01:02:05.320
+and being able to really sit down
+
+01:02:05.320 --> 01:02:08.840
+and go inside your own head and say, what am I good at?
+
+01:02:08.840 --> 01:02:10.480
+What am I not good at?
+
+01:02:10.480 --> 01:02:13.760
+How am I gonna put myself in a position to be successful
+
+01:02:13.760 --> 01:02:17.440
+because I'm working on my weaknesses,
+
+01:02:17.440 --> 01:02:21.840
+but I'm not gonna put myself career-wise in a position
+
+01:02:21.840 --> 01:02:24.840
+where I'm just fundamentally gonna have a hard time
+
+01:02:24.840 --> 01:02:25.840
+being successful.
+
+01:02:28.200 --> 01:02:30.120
+Yeah, intellectually honest is a tricky one.
+
+01:02:30.120 --> 01:02:34.320
+And it gets, there's like levels to it too.
+
+01:02:34.320 --> 01:02:35.160
+Sure.
+
+01:02:37.240 --> 01:02:40.240
+Well, some of the things I think about
+
+01:02:40.240 --> 01:02:45.240
+when you dream of doing certain kinds of big things,
+
+01:02:49.320 --> 01:02:53.560
+a part of intellectual honesty is to say several things.
+
+01:02:53.560 --> 01:02:58.320
+One is like, hey, the thing you're dreaming about,
+
+01:03:00.360 --> 01:03:02.960
+one, the fact that nobody's done it
+
+01:03:02.960 --> 01:03:07.960
+probably shows that you're just a dreamer.
+
+01:03:08.720 --> 01:03:13.080
+This is not going to, like think clearly.
+
+01:03:13.080 --> 01:03:15.200
+The fact that it hasn't been done probably shows
+
+01:03:15.200 --> 01:03:17.480
+that it may not be the right path.
+
+01:03:17.480 --> 01:03:21.680
+And two is like, if you're dreaming about stuff,
+
+01:03:21.680 --> 01:03:23.720
+there's a certain point where it's like,
+
+01:03:23.720 --> 01:03:25.840
+hey, you haven't done it.
+
+01:03:25.840 --> 01:03:27.760
+Like, why haven't you done it already then?
+
+01:03:27.760 --> 01:03:29.200
+Like, you have to be honest with yourself.
+
+01:03:29.440 --> 01:03:30.600
+You have to be ambitious.
+
+01:03:30.600 --> 01:03:35.600
+Like, a lot of people work hard a long time for a dream,
+
+01:03:37.320 --> 01:03:38.920
+but you have to wake up and be like, all right,
+
+01:03:38.920 --> 01:03:41.000
+I've been at this for 10 years.
+
+01:03:41.000 --> 01:03:44.600
+Like with a startup, you launch a startup and you think,
+
+01:03:44.600 --> 01:03:47.840
+okay, one year, two years, three years, four years,
+
+01:03:47.840 --> 01:03:50.000
+pretty successful, but it hasn't exploded.
+
+01:03:50.000 --> 01:03:54.120
+Like you dreamed and you have to shut it down.
+
+01:03:54.120 --> 01:03:56.000
+You have to be intellectually honest there.
+
+01:03:56.000 --> 01:04:01.000
+At the same time, you might want to be like step it up,
+
+01:04:02.080 --> 01:04:07.080
+lean into it, say almost like the flip side
+
+01:04:08.480 --> 01:04:13.480
+of like intellectual honesty is like maddening ambition
+
+01:04:13.640 --> 01:04:16.920
+of just saying, fuck it, I'm going to go all in.
+
+01:04:16.920 --> 01:04:19.800
+But that is a kind of intellectual honesty saying like,
+
+01:04:19.800 --> 01:04:23.120
+you know, the big problem here is I've been kind of going,
+
+01:04:23.120 --> 01:04:24.400
+doing too many things.
+
+01:04:26.200 --> 01:04:29.920
+Maybe with this dream, you have to go all in on it,
+
+01:04:29.920 --> 01:04:30.760
+all those kinds of things.
+
+01:04:30.760 --> 01:04:34.200
+I mean, this is human experience, it's complicated.
+
+01:04:34.200 --> 01:04:37.560
+Yes, all human things are complicated.
+
+01:04:37.560 --> 01:04:41.680
+And I think there's a difference between being reckless
+
+01:04:41.680 --> 01:04:44.960
+and making well-thought out informed decisions.
+
+01:04:44.960 --> 01:04:48.320
+If you're going to go all in, make sure you've, you know,
+
+01:04:48.320 --> 01:04:50.880
+measure twice, cut once, as they say.
+
+01:04:50.880 --> 01:04:55.760
+And one of my other favorite, I forget, many years ago,
+
+01:04:55.760 --> 01:04:57.400
+I heard this saying and it stayed with me.
+
+01:04:57.400 --> 01:05:02.400
+It was never mistake clear line of sight with distance.
+
+01:05:02.480 --> 01:05:07.480
+And you know that, so I think that the key,
+
+01:05:08.280 --> 01:05:10.760
+whether you're starting a business or you're thinking
+
+01:05:10.760 --> 01:05:13.240
+about leaving the company you're at and starting a business
+
+01:05:13.240 --> 01:05:15.320
+or just leaving for another job,
+
+01:05:15.320 --> 01:05:19.200
+any of these things is as much as you can, right?
+
+01:05:19.200 --> 01:05:22.120
+And psychologists, I think, would tell us it's hard
+
+01:05:22.120 --> 01:05:24.320
+to be self-aware completely, right?
+
+01:05:24.320 --> 01:05:27.560
+That's the rub, that if we were all completely self-aware
+
+01:05:27.560 --> 01:05:30.360
+of everything that we did in strength and weaknesses,
+
+01:05:30.360 --> 01:05:32.320
+it'd be a different world.
+
+01:05:32.320 --> 01:05:35.480
+But I do think you can work on that
+
+01:05:35.480 --> 01:05:39.360
+and at least challenge yourself to think about it
+
+01:05:39.360 --> 01:05:42.760
+and not be in a position where I'm, you know,
+
+01:05:42.760 --> 01:05:43.960
+I'm going to medical school
+
+01:05:43.960 --> 01:05:45.600
+because that's what you do in my family.
+
+01:05:45.600 --> 01:05:48.440
+And even though I'm miserable doing it,
+
+01:05:49.480 --> 01:05:51.640
+you know, things like that.
+
+01:05:51.640 --> 01:05:54.680
+So definitely you don't want to be sort of,
+
+01:05:54.680 --> 01:05:59.680
+because you don't think fall victim to conformity.
+
+01:05:59.920 --> 01:06:02.200
+They just go on doing the same thing over and over.
+
+01:06:02.200 --> 01:06:03.040
+That's right.
+
+01:06:03.040 --> 01:06:04.600
+But at the same time,
+
+01:06:06.680 --> 01:06:08.640
+is measure twice and cut once.
+
+01:06:11.480 --> 01:06:16.480
+It does feel like some of the biggest leaps taken
+
+01:06:17.120 --> 01:06:21.280
+or where you cut once and measure later
+
+01:06:22.680 --> 01:06:24.200
+is you leap in first.
+
+01:06:24.200 --> 01:06:25.040
+Sure.
+
+01:06:25.040 --> 01:06:27.040
+It's almost like a gut.
+
+01:06:27.040 --> 01:06:28.360
+I suppose that is a measurement,
+
+01:06:28.360 --> 01:06:32.320
+but you build up a good gut instinct of like what to do
+
+01:06:32.320 --> 01:06:35.280
+and then you just do it and then you figure out as,
+
+01:06:35.280 --> 01:06:37.920
+it's the building the airplane as you're flying it.
+
+01:06:37.920 --> 01:06:39.040
+Right.
+
+01:06:39.040 --> 01:06:42.880
+Well, and I think each one of those instances
+
+01:06:42.880 --> 01:06:44.040
+that you could probably cite
+
+01:06:44.040 --> 01:06:47.760
+has its own unique circumstances, right?
+
+01:06:47.760 --> 01:06:50.360
+I don't have a deep biotech background.
+
+01:06:50.360 --> 01:06:51.920
+So if I suddenly stood up and said,
+
+01:06:51.920 --> 01:06:55.080
+I'm going to put everything I have into this idea,
+
+01:06:55.080 --> 01:06:58.600
+well, that's, you know, those are, right?
+
+01:06:58.600 --> 01:06:59.840
+It's game theory, right?
+
+01:06:59.840 --> 01:07:01.880
+What are the odds of success?
+
+01:07:01.880 --> 01:07:04.880
+If on the other hand, you know,
+
+01:07:04.880 --> 01:07:06.800
+you're brilliant in your field
+
+01:07:06.800 --> 01:07:08.760
+or you've seen some opportunity
+
+01:07:08.760 --> 01:07:12.040
+that you think is wide open
+
+01:07:12.040 --> 01:07:15.120
+and you're going to go for it and break stuff,
+
+01:07:15.120 --> 01:07:16.120
+that's great.
+
+01:07:16.120 --> 01:07:20.120
+You just want to wait, to me always say like,
+
+01:07:20.120 --> 01:07:23.680
+how crazy is this on the spectrum of, you know,
+
+01:07:23.680 --> 01:07:25.800
+do I have any expertise?
+
+01:07:25.800 --> 01:07:28.640
+What is the downside if I fail?
+
+01:07:28.640 --> 01:07:30.000
+Right?
+
+01:07:30.000 --> 01:07:33.280
+You know, if you're at a certain point in life
+
+01:07:33.280 --> 01:07:36.760
+with young children and you've got a mortgage
+
+01:07:36.760 --> 01:07:39.080
+and whatever else, that is one circumstance
+
+01:07:39.080 --> 01:07:41.280
+versus I just got out of Stanford
+
+01:07:41.280 --> 01:07:44.720
+or I just got out of whatever and I'm going to go for it.
+
+01:07:44.720 --> 01:07:47.480
+It's just the whole thing, right?
+
+01:07:47.480 --> 01:07:49.880
+It is complex as you point out.
+
+01:07:49.880 --> 01:07:52.760
+And sometimes you just want to have the right matrix
+
+01:07:52.760 --> 01:07:55.440
+in your head of decision-making process
+
+01:07:55.440 --> 01:07:57.640
+to try to arrive at the right place.
+
+01:07:57.640 --> 01:08:00.680
+And even if you get close, that's where I think you say,
+
+01:08:00.680 --> 01:08:02.600
+you know what, the hell with it.
+
+01:08:02.600 --> 01:08:03.560
+I'm doing this.
+
+01:08:03.560 --> 01:08:04.840
+Yeah.
+
+01:08:04.840 --> 01:08:06.080
+Yeah.
+
+01:08:06.080 --> 01:08:10.560
+I do want to ask you about one specific idea
+
+01:08:10.560 --> 01:08:12.600
+that sounds super fascinating
+
+01:08:12.600 --> 01:08:13.880
+that you're involved with recently.
+
+01:08:13.880 --> 01:08:16.240
+You led the $50 million seed round
+
+01:08:16.240 --> 01:08:18.320
+for a company called Colossal
+
+01:08:18.320 --> 01:08:21.320
+that is focused on de-extinction.
+
+01:08:22.880 --> 01:08:25.520
+This is funny relative to our connection
+
+01:08:25.520 --> 01:08:27.480
+and conversation about Jurassic World.
+
+01:08:28.520 --> 01:08:30.920
+They're seeking to restore lost ecosystems
+
+01:08:30.920 --> 01:08:34.640
+and use gene editing to restore the woolly mammoth
+
+01:08:34.640 --> 01:08:36.280
+to the Arctic tundra.
+
+01:08:37.680 --> 01:08:39.640
+How are they going to do that?
+
+01:08:39.640 --> 01:08:43.360
+Well, I met this fascinating guy at Harvard
+
+01:08:43.360 --> 01:08:47.240
+named George Church five, six years ago
+
+01:08:48.440 --> 01:08:51.800
+and found him to be incredibly smart,
+
+01:08:52.760 --> 01:08:54.600
+have an imagination.
+
+01:08:56.280 --> 01:08:59.840
+And he partnered up with a guy named Ben Lamb,
+
+01:08:59.840 --> 01:09:01.120
+who's an entrepreneur.
+
+01:09:02.520 --> 01:09:07.520
+And basically the press and to me,
+
+01:09:07.520 --> 01:09:12.000
+the imaginative, like you're capturing my imagination
+
+01:09:12.000 --> 01:09:14.000
+by telling me you're going to bring back the woolly mammoth
+
+01:09:14.000 --> 01:09:15.600
+and other extinct animals.
+
+01:09:15.600 --> 01:09:18.720
+And I, you know, we'll see where that road leads.
+
+01:09:18.720 --> 01:09:22.240
+I was more interested in an investor
+
+01:09:22.240 --> 01:09:24.480
+in the things that they're working through
+
+01:09:25.600 --> 01:09:30.080
+around understanding genes in proteins
+
+01:09:30.080 --> 01:09:31.840
+and CRISPR and all these other things,
+
+01:09:31.840 --> 01:09:36.840
+because being adjacent to George Church and his team,
+
+01:09:36.920 --> 01:09:39.080
+as these things unfold over the next decade,
+
+01:09:39.080 --> 01:09:42.840
+I thought was the right thing to do.
+
+01:09:42.840 --> 01:09:44.160
+So people are important here,
+
+01:09:44.160 --> 01:09:46.200
+just like investing in people
+
+01:09:46.200 --> 01:09:48.120
+and seeing what the hell they come up with.
+
+01:09:48.120 --> 01:09:48.960
+Absolutely.
+
+01:09:48.960 --> 01:09:51.440
+I mean, you can look through history
+
+01:09:51.440 --> 01:09:56.440
+and great things are done by great people, right?
+
+01:09:57.360 --> 01:10:02.360
+And companies, they end up over time becoming a logo
+
+01:10:02.720 --> 01:10:04.840
+and immediately what you think of them,
+
+01:10:04.840 --> 01:10:08.360
+but they started out with a person, with an idea,
+
+01:10:08.360 --> 01:10:12.320
+and a team that cultivated that and made that happen.
+
+01:10:13.760 --> 01:10:16.560
+And I think there are certain folks
+
+01:10:16.560 --> 01:10:18.240
+that are just immensely talented,
+
+01:10:18.240 --> 01:10:21.840
+that if you can be around them,
+
+01:10:21.840 --> 01:10:25.960
+and I also know his and his team's ethics
+
+01:10:25.960 --> 01:10:28.680
+in terms of, you know, after spending time
+
+01:10:28.680 --> 01:10:31.400
+talking about where the lines are,
+
+01:10:32.400 --> 01:10:35.040
+people in other countries that, you know,
+
+01:10:35.040 --> 01:10:37.480
+may not have the same process,
+
+01:10:37.480 --> 01:10:39.760
+may not have the same checks and balances,
+
+01:10:39.760 --> 01:10:42.480
+are doing this and pursuing this regardless.
+
+01:10:42.480 --> 01:10:46.280
+So at least I felt like with George and Ben and their teams,
+
+01:10:46.280 --> 01:10:48.280
+they're also very responsible people.
+
+01:10:49.480 --> 01:10:53.560
+This is where the human side of things comes into play.
+
+01:10:53.560 --> 01:10:55.960
+I've interacted with a lot of really brilliant people
+
+01:10:55.960 --> 01:11:00.000
+in the technology space where you kind of, you know,
+
+01:11:00.000 --> 01:11:01.600
+there's a lot of ways to feel this out.
+
+01:11:01.600 --> 01:11:03.920
+You can ask them whether they kind of read literature.
+
+01:11:03.920 --> 01:11:07.920
+You can feel out how much they really understand
+
+01:11:09.040 --> 01:11:12.280
+about like human nature here.
+
+01:11:12.280 --> 01:11:14.800
+Like whatever the technology is,
+
+01:11:14.800 --> 01:11:17.840
+when it actually starts to play,
+
+01:11:17.840 --> 01:11:21.160
+interact with society at scale,
+
+01:11:21.160 --> 01:11:24.560
+like do they have an understanding or an intuition
+
+01:11:24.560 --> 01:11:26.440
+about how that happens?
+
+01:11:26.440 --> 01:11:28.240
+Some of that requires studying history.
+
+01:11:28.240 --> 01:11:31.480
+Some of that requires like just looking at the worst
+
+01:11:31.480 --> 01:11:35.360
+and best parts and events in human history
+
+01:11:35.360 --> 01:11:38.840
+to understand like, hey, it doesn't always turn out
+
+01:11:38.840 --> 01:11:42.840
+like everybody hoped the technology turns out.
+
+01:11:42.840 --> 01:11:47.400
+And if a person has a depth of understanding about history,
+
+01:11:47.400 --> 01:11:52.360
+about human nature, then I think that's the right person
+
+01:11:52.360 --> 01:11:56.560
+to mess with some of this cutting edge stuff.
+
+01:11:56.680 --> 01:11:59.840
+You want Marcus Aurelius with a PhD from MIT.
+
+01:12:01.440 --> 01:12:03.280
+Exactly, exactly.
+
+01:12:04.480 --> 01:12:08.480
+Just small tangent, but you mentioned having a conversation
+
+01:12:08.480 --> 01:12:11.360
+with Warren Buffett, you spoke really highly of him
+
+01:12:11.360 --> 01:12:13.520
+as an investor, as a human being.
+
+01:12:15.520 --> 01:12:17.040
+What about him do you admire?
+
+01:12:17.040 --> 01:12:21.160
+What insights have you drawn from him
+
+01:12:21.160 --> 01:12:23.720
+as a great investor yourself?
+
+01:12:23.720 --> 01:12:26.240
+Well, the afternoon that I got to spend with him,
+
+01:12:27.040 --> 01:12:28.920
+something I'll treasure forever.
+
+01:12:28.920 --> 01:12:31.280
+Look, sometimes when you meet people,
+
+01:12:31.280 --> 01:12:33.360
+even that are immensely successful,
+
+01:12:34.360 --> 01:12:39.360
+you may decide that after 20 minutes or a half hour,
+
+01:12:39.360 --> 01:12:42.320
+oh, you were in the right place at the right time
+
+01:12:42.320 --> 01:12:45.760
+and that's fine.
+
+01:12:45.760 --> 01:12:49.080
+There are other people that are clearly different,
+
+01:12:49.080 --> 01:12:52.000
+special, and I don't care if you've made them start
+
+01:12:52.000 --> 01:12:57.000
+from zero, would end up in a good place.
+
+01:12:57.000 --> 01:12:59.600
+And so it was an absolute privilege
+
+01:12:59.600 --> 01:13:01.040
+to spend the time with him.
+
+01:13:04.160 --> 01:13:07.360
+And a couple of things that stood out in the conversation,
+
+01:13:08.560 --> 01:13:12.880
+he is incredibly intellectually curious and well-read.
+
+01:13:12.880 --> 01:13:15.840
+And I like how simplistic he likes
+
+01:13:15.840 --> 01:13:18.000
+to keep his thought matrix.
+
+01:13:18.000 --> 01:13:22.120
+And then also, instead of trying to outsmart the market,
+
+01:13:23.360 --> 01:13:26.720
+it seems like a simple axiom, but just look,
+
+01:13:26.720 --> 01:13:30.160
+good companies that are led by talented managers
+
+01:13:31.200 --> 01:13:35.120
+that are good businesses over time are gonna get there.
+
+01:13:35.120 --> 01:13:37.880
+So I'm not gonna day trade, I'm just gonna,
+
+01:13:37.880 --> 01:13:40.440
+I'm looking for value.
+
+01:13:40.440 --> 01:13:43.920
+And then just on life stuff, he just,
+
+01:13:44.880 --> 01:13:49.000
+and also his ability to take in
+
+01:13:49.000 --> 01:13:54.000
+and then use information was incredibly impressive.
+
+01:13:54.680 --> 01:13:58.280
+So I only spent the, I'd met him before,
+
+01:13:58.280 --> 01:14:00.200
+but I only spent one afternoon with him,
+
+01:14:00.200 --> 01:14:02.680
+but it's pretty incredible.
+
+01:14:02.680 --> 01:14:05.120
+And one of the things that stuck out to me
+
+01:14:05.120 --> 01:14:09.240
+is we were in the middle of talking about Talco or investing
+
+01:14:09.240 --> 01:14:10.800
+or how we thought about it.
+
+01:14:10.800 --> 01:14:14.520
+And I said, I'm trying to be smart about,
+
+01:14:14.520 --> 01:14:16.760
+and he stopped me and he said, Charlie Munger,
+
+01:14:16.760 --> 01:14:18.040
+his partner of many years,
+
+01:14:18.040 --> 01:14:21.000
+Charlie and I don't try to think of the smart thing to do.
+
+01:14:21.000 --> 01:14:24.640
+We try to think what's the dumb thing we could do here.
+
+01:14:24.640 --> 01:14:28.040
+And I kind of laughed and he said, no, I'm dead serious.
+
+01:14:28.040 --> 01:14:30.840
+We think about it from the standpoint of
+
+01:14:31.880 --> 01:14:33.680
+what could we do in this situation
+
+01:14:33.680 --> 01:14:34.720
+that later we would be like,
+
+01:14:34.720 --> 01:14:36.600
+that was a really dumb thing to do.
+
+01:14:37.520 --> 01:14:39.840
+And I actually thought that was,
+
+01:14:39.840 --> 01:14:43.480
+it got in my head and I still think a lot about that
+
+01:14:43.480 --> 01:14:45.720
+as I'm dissecting problems.
+
+01:14:46.880 --> 01:14:51.560
+So there is, like, that's a kind of long-term thinking
+
+01:14:51.560 --> 01:14:54.120
+if you just avoid the dumb things,
+
+01:14:54.120 --> 01:14:58.880
+or if you simplify, just focus on those simple steps,
+
+01:14:59.760 --> 01:15:02.760
+all it takes is just do that for a long period of time
+
+01:15:02.760 --> 01:15:04.680
+and you'll be successful.
+
+01:15:04.680 --> 01:15:07.880
+It certainly worked for him, that's all I can say.
+
+01:15:07.880 --> 01:15:10.240
+What about you?
+
+01:15:10.240 --> 01:15:14.680
+You've been a great investor yourself.
+
+01:15:14.680 --> 01:15:18.280
+How do you know, when you judge people,
+
+01:15:18.280 --> 01:15:21.160
+so I, whenever I go to San Francisco,
+
+01:15:21.160 --> 01:15:22.960
+I was thinking of moving to San Francisco.
+
+01:15:22.960 --> 01:15:25.160
+That's why I decided to,
+
+01:15:25.160 --> 01:15:26.480
+after really giving it some thought,
+
+01:15:26.480 --> 01:15:28.800
+talking to people, decided to move to Austin.
+
+01:15:30.680 --> 01:15:33.680
+Everybody's dreaming big and they have big plans
+
+01:15:33.680 --> 01:15:37.920
+and it's actually, I don't envy the job of an investor
+
+01:15:37.920 --> 01:15:42.200
+of any kind because everybody has big dreams
+
+01:15:42.200 --> 01:15:45.160
+and it's hard to know who exactly,
+
+01:15:45.160 --> 01:15:48.400
+what idea is going to materialize,
+
+01:15:48.400 --> 01:15:51.720
+what team is going to materialize into something great.
+
+01:15:51.720 --> 01:15:55.160
+How do you make those decisions about people, about ideas?
+
+01:15:57.360 --> 01:16:01.920
+Well, if I had any kind of a lattice work on this,
+
+01:16:02.880 --> 01:16:04.840
+it absolutely starts with the people
+
+01:16:04.840 --> 01:16:06.760
+and I think the reason for that is,
+
+01:16:06.760 --> 01:16:10.360
+your business plan is going to change.
+
+01:16:10.360 --> 01:16:13.320
+There's very few businesses I know of that say,
+
+01:16:13.320 --> 01:16:16.040
+we're gonna make a widget in this location
+
+01:16:16.040 --> 01:16:18.440
+and 30 years later, we're successful
+
+01:16:18.440 --> 01:16:21.040
+and we just make a widget and that's what it is.
+
+01:16:21.040 --> 01:16:25.000
+Things happen and today they happen with such velocity
+
+01:16:26.000 --> 01:16:31.000
+that you have to be able to make hard decisions
+
+01:16:31.320 --> 01:16:35.640
+based on imperfect information and are you,
+
+01:16:35.640 --> 01:16:38.680
+how are you going to calculate those answers?
+
+01:16:38.680 --> 01:16:41.760
+How self-interested are you going to be?
+
+01:16:41.760 --> 01:16:43.920
+What kind of ethics will you apply?
+
+01:16:44.880 --> 01:16:47.480
+What's your short-term versus long-term thinking?
+
+01:16:47.480 --> 01:16:52.120
+Are you able to give an honest assessment of a situation?
+
+01:16:53.360 --> 01:16:55.800
+Because the thing that you can count on
+
+01:16:55.800 --> 01:16:58.440
+is problems are gonna happen,
+
+01:16:58.440 --> 01:17:01.600
+things you didn't anticipate are gonna happen.
+
+01:17:01.600 --> 01:17:04.000
+How pliable are you, right?
+
+01:17:04.000 --> 01:17:09.000
+How much elasticity is there in your ability
+
+01:17:09.040 --> 01:17:10.600
+to be successful?
+
+01:17:10.600 --> 01:17:15.200
+And I think it's important when you invest in something
+
+01:17:15.200 --> 01:17:20.000
+that you both see, you understand the roadmap ahead
+
+01:17:20.000 --> 01:17:21.680
+and agree to it, right?
+
+01:17:21.680 --> 01:17:23.440
+Doesn't mean there won't be twists and turns
+
+01:17:23.440 --> 01:17:25.040
+but you're not like, whoa, wait a minute,
+
+01:17:25.040 --> 01:17:26.240
+what did we do here?
+
+01:17:26.280 --> 01:17:29.560
+This isn't what was in the thing I signed up for.
+
+01:17:31.160 --> 01:17:34.920
+And then I think honesty and communication
+
+01:17:34.920 --> 01:17:36.680
+is a huge thing to me with,
+
+01:17:38.280 --> 01:17:42.360
+I always tell people if bi-directionally,
+
+01:17:42.360 --> 01:17:43.800
+if there's something going on,
+
+01:17:43.800 --> 01:17:48.360
+start the conversation with Lex, we have a problem.
+
+01:17:48.360 --> 01:17:52.160
+Okay, now I'm sitting up, you have my full attention,
+
+01:17:52.160 --> 01:17:54.160
+we're gonna talk about whatever it is.
+
+01:17:54.160 --> 01:17:56.840
+Bad news should travel faster than good news.
+
+01:17:57.960 --> 01:18:01.320
+And because it's going to happen,
+
+01:18:02.240 --> 01:18:04.480
+being in business with someone
+
+01:18:04.480 --> 01:18:06.080
+that is gonna shoot you straight
+
+01:18:07.000 --> 01:18:09.880
+and sometimes say, I don't know,
+
+01:18:09.880 --> 01:18:10.920
+I don't know what the answer is,
+
+01:18:10.920 --> 01:18:12.520
+I gotta go figure it out,
+
+01:18:12.520 --> 01:18:15.920
+that I can process a lot better than,
+
+01:18:15.920 --> 01:18:18.440
+look, I don't want you mad at me or disappointed
+
+01:18:18.440 --> 01:18:20.920
+or I can't handle not having success,
+
+01:18:20.920 --> 01:18:23.040
+so we're just gonna kick the can
+
+01:18:23.760 --> 01:18:26.960
+and I think especially in today's business environment,
+
+01:18:26.960 --> 01:18:29.840
+that's very, very dangerous.
+
+01:18:29.840 --> 01:18:31.240
+So that's a bad sign,
+
+01:18:31.240 --> 01:18:35.760
+not just because it's good to communicate and be honest,
+
+01:18:35.760 --> 01:18:37.800
+but if they're not willing to do that,
+
+01:18:37.800 --> 01:18:40.280
+then it goes back to the intellectual honesty.
+
+01:18:40.280 --> 01:18:44.760
+They're probably not also able to be brutally honest
+
+01:18:44.760 --> 01:18:46.400
+with themselves when they look in the mirror
+
+01:18:46.400 --> 01:18:48.400
+about the direction of the company.
+
+01:18:48.400 --> 01:18:53.240
+But look, I wasn't there, so I don't know,
+
+01:18:53.240 --> 01:18:57.800
+but I think if you unpack many situations
+
+01:18:57.800 --> 01:19:00.040
+that turned out negatively,
+
+01:19:00.040 --> 01:19:03.720
+most of the people, whether you're faking lab results,
+
+01:19:03.720 --> 01:19:05.600
+you have a biotech company,
+
+01:19:05.600 --> 01:19:08.440
+everybody's staring at Theranos these days.
+
+01:19:08.440 --> 01:19:11.680
+Do I think in a lot of cases,
+
+01:19:11.680 --> 01:19:13.200
+you're either the villain,
+
+01:19:13.200 --> 01:19:14.840
+like you started out saying,
+
+01:19:14.840 --> 01:19:17.080
+I'm gonna screw my shareholders over
+
+01:19:17.120 --> 01:19:18.400
+and I'm gonna be a liar.
+
+01:19:19.400 --> 01:19:22.760
+That isn't my experience.
+
+01:19:22.760 --> 01:19:25.960
+Most things are little incremental moves that you say,
+
+01:19:25.960 --> 01:19:27.480
+we're gonna get this right next week,
+
+01:19:27.480 --> 01:19:29.160
+but today we gotta make the presentation,
+
+01:19:29.160 --> 01:19:31.680
+so we're gonna just tweak things a little bit.
+
+01:19:31.680 --> 01:19:34.160
+That's a slippery slope, right?
+
+01:19:34.160 --> 01:19:38.640
+And so that's why I think from a standpoint of people,
+
+01:19:39.640 --> 01:19:44.640
+you wanna go into the foxhole with folks that understand
+
+01:19:45.000 --> 01:19:48.560
+things are gonna happen and I'm gonna let you know
+
+01:19:48.560 --> 01:19:53.000
+about them and we're gonna try to solve them together.
+
+01:19:53.000 --> 01:19:55.400
+And then just in terms of the idea,
+
+01:19:55.400 --> 01:20:00.400
+I always ask like, okay, if this company executed the way,
+
+01:20:00.400 --> 01:20:01.880
+that's the other thing that always cracks me up
+
+01:20:01.880 --> 01:20:03.160
+about financials.
+
+01:20:03.160 --> 01:20:05.040
+Whenever somebody pitches you,
+
+01:20:05.040 --> 01:20:06.200
+inevitably they'll say,
+
+01:20:06.200 --> 01:20:09.960
+our projections are really, really conservative.
+
+01:20:09.960 --> 01:20:11.840
+I'm still waiting for somebody to come in and say,
+
+01:20:11.840 --> 01:20:14.480
+look, my projections are wildly optimistic.
+
+01:20:15.320 --> 01:20:17.240
+We'll never hit these numbers, but anyway.
+
+01:20:20.440 --> 01:20:23.800
+If this company did what it says and executes,
+
+01:20:23.800 --> 01:20:25.720
+does it matter?
+
+01:20:25.720 --> 01:20:27.280
+Does it move the needle enough?
+
+01:20:27.280 --> 01:20:32.280
+And what are the things that uniquely position this company
+
+01:20:32.360 --> 01:20:33.240
+to be successful?
+
+01:20:33.240 --> 01:20:35.480
+And you just have to be able to answer, I think,
+
+01:20:35.480 --> 01:20:39.120
+a number of those questions pretty crisply.
+
+01:20:39.120 --> 01:20:41.680
+But at the end of the day, it's still a big risk.
+
+01:20:41.680 --> 01:20:44.520
+So you're just trying to minimize the risk.
+
+01:20:47.000 --> 01:20:49.240
+Let me jump to another topic.
+
+01:20:50.360 --> 01:20:53.040
+You're an incredible human being
+
+01:20:53.040 --> 01:20:54.360
+that you're involved with this.
+
+01:20:54.360 --> 01:20:59.360
+Your band, Ghost Hounds, is touring with the Rolling Stones.
+
+01:21:00.360 --> 01:21:03.560
+So before we talk about your band, let me ask about that.
+
+01:21:03.560 --> 01:21:07.120
+What's that like, playing with the Rolling Stones?
+
+01:21:07.160 --> 01:21:08.480
+Surreal.
+
+01:21:08.480 --> 01:21:12.360
+Just because they're my favorite band of all time.
+
+01:21:15.480 --> 01:21:17.280
+To me, the greatest rock and roll band,
+
+01:21:17.280 --> 01:21:19.040
+it's not even close, of all time.
+
+01:21:19.040 --> 01:21:24.040
+And to share the same stage, to be on tour
+
+01:21:24.040 --> 01:21:27.680
+and to go out and get that energy from the crowd.
+
+01:21:30.400 --> 01:21:33.280
+And every night and come off stage and later when they go on
+
+01:21:33.280 --> 01:21:35.560
+and you hear that iconic, ladies and gentlemen,
+
+01:21:35.560 --> 01:21:36.680
+the Rolling Stones.
+
+01:21:37.640 --> 01:21:38.480
+It's incredible.
+
+01:21:38.480 --> 01:21:42.320
+And what's amazing to me about the band,
+
+01:21:42.320 --> 01:21:47.080
+next year will be their 60th anniversary, 60 years.
+
+01:21:47.920 --> 01:21:52.960
+And it's hard to be around anything for that long,
+
+01:21:52.960 --> 01:21:56.440
+but making music and packing stadiums.
+
+01:21:56.440 --> 01:21:59.600
+And what's amazing to me, they can play a two hour set.
+
+01:21:59.600 --> 01:22:01.360
+And it's not just that, oh, that's a hit,
+
+01:22:01.360 --> 01:22:02.960
+or you recognize it.
+
+01:22:02.960 --> 01:22:05.560
+It's like every song is an anthem.
+
+01:22:07.560 --> 01:22:10.760
+So it's been amazing.
+
+01:22:10.760 --> 01:22:12.720
+We got to play with them in 2019
+
+01:22:12.720 --> 01:22:15.640
+and when they ask us to do this again,
+
+01:22:17.080 --> 01:22:19.800
+it's just an absolute privilege.
+
+01:22:19.800 --> 01:22:21.560
+I asked you the soft line,
+
+01:22:21.560 --> 01:22:24.720
+so I know you are a kind of rock star.
+
+01:22:24.720 --> 01:22:27.560
+But just me, maybe I'm projecting,
+
+01:22:27.560 --> 01:22:31.800
+but do you get nervous, such a large audience
+
+01:22:31.800 --> 01:22:33.720
+with the Rolling Stones?
+
+01:22:33.720 --> 01:22:36.000
+It feels like there would be a lot of pressure.
+
+01:22:36.040 --> 01:22:39.480
+Yeah, I mean, you definitely don't wanna screw it up.
+
+01:22:39.480 --> 01:22:44.480
+I think the band, our band is tight knit
+
+01:22:44.600 --> 01:22:45.640
+and all that stuff.
+
+01:22:45.640 --> 01:22:50.640
+And I think that you, the individual nervousness dissipates
+
+01:22:50.680 --> 01:22:54.360
+when you go out as a group and you're making music together
+
+01:22:54.360 --> 01:22:57.200
+and you sort of, okay, we're all in this
+
+01:22:57.200 --> 01:22:59.440
+and we're doing a thing.
+
+01:22:59.440 --> 01:23:01.640
+Which is why, even in sports,
+
+01:23:01.640 --> 01:23:04.720
+I always look at individual events like ice skating
+
+01:23:04.720 --> 01:23:09.040
+or anything where it's just you out there alone.
+
+01:23:09.040 --> 01:23:12.200
+And that's different than being with a team
+
+01:23:12.200 --> 01:23:13.040
+and nerve wracking.
+
+01:23:13.040 --> 01:23:16.880
+So I'm sure if it was me with an acoustic guitar
+
+01:23:16.880 --> 01:23:18.920
+just going out, it would feel different.
+
+01:23:18.920 --> 01:23:22.720
+But absolutely you get the right kind of butterflies,
+
+01:23:22.720 --> 01:23:23.600
+I would call it.
+
+01:23:24.960 --> 01:23:28.040
+And just the energy of playing music
+
+01:23:28.040 --> 01:23:31.280
+and having it be this relationship.
+
+01:23:31.280 --> 01:23:33.040
+And look, I get it.
+
+01:23:33.040 --> 01:23:36.040
+I've been to a ton of concerts where I'm like,
+
+01:23:36.040 --> 01:23:38.640
+look, can we just get to the band please?
+
+01:23:38.640 --> 01:23:42.440
+But what's been great is just an amazing reception.
+
+01:23:43.840 --> 01:23:46.480
+And we have this guy named Trey Nation
+
+01:23:46.480 --> 01:23:49.960
+is the lead singer who's just incredibly talented.
+
+01:23:49.960 --> 01:23:54.200
+I mean, he's just not only an amazing voice
+
+01:23:54.200 --> 01:23:56.480
+but just has that charismatic thing.
+
+01:23:56.480 --> 01:23:57.920
+Yeah, he's great.
+
+01:23:57.920 --> 01:23:58.760
+It's fun.
+
+01:23:58.760 --> 01:24:02.800
+What's it feel like to play in front of a huge audience?
+
+01:24:03.640 --> 01:24:06.120
+As a guitarist, what's the feel?
+
+01:24:06.120 --> 01:24:07.600
+Are you lost in the music?
+
+01:24:07.600 --> 01:24:10.640
+You almost don't feel the audience.
+
+01:24:10.640 --> 01:24:12.360
+Does it add extra energy?
+
+01:24:12.360 --> 01:24:14.360
+Does it add extra anxiety?
+
+01:24:14.360 --> 01:24:17.360
+What does it feel like?
+
+01:24:17.360 --> 01:24:19.520
+You know, stadiums are interesting
+
+01:24:19.520 --> 01:24:22.400
+just because it's so big and cavernous
+
+01:24:22.400 --> 01:24:24.640
+and because you wanna protect your ears.
+
+01:24:24.640 --> 01:24:27.280
+So we use an in-ear system
+
+01:24:27.280 --> 01:24:30.620
+so that you are a little disconnected from the crowd
+
+01:24:30.620 --> 01:24:32.200
+because if you're playing that loud
+
+01:24:32.200 --> 01:24:33.400
+and you're standing in front of your amps
+
+01:24:33.400 --> 01:24:36.480
+without ear protection, that's bad.
+
+01:24:36.480 --> 01:24:38.200
+How are you monitoring the sound?
+
+01:24:38.200 --> 01:24:40.560
+The in-ear stuff, is that producing sound
+
+01:24:40.560 --> 01:24:41.960
+or is it strictly earplugs?
+
+01:24:41.960 --> 01:24:43.200
+No, it's producing the sound.
+
+01:24:43.200 --> 01:24:46.480
+So it's like putting ear pods in
+
+01:24:46.480 --> 01:24:48.880
+and listening to a song and you're playing to it, right?
+
+01:24:48.880 --> 01:24:51.480
+It's just us playing, but it protects your ears.
+
+01:24:54.840 --> 01:24:58.080
+But the energy from the crowd,
+
+01:24:58.080 --> 01:25:00.660
+when they get going and get into it,
+
+01:25:00.660 --> 01:25:03.380
+which knock on wood so far has been amazing,
+
+01:25:04.660 --> 01:25:06.420
+there's nothing like it.
+
+01:25:06.420 --> 01:25:11.420
+I mean, it's just this bi-directional thing that happens
+
+01:25:12.100 --> 01:25:17.100
+and music and sports were kind of my first loves
+
+01:25:18.700 --> 01:25:23.700
+and yeah, it's very difficult to describe,
+
+01:25:25.380 --> 01:25:30.020
+I think accurately because it's like no other feeling.
+
+01:25:31.300 --> 01:25:35.540
+Musically, how is it different than playing in a garage
+
+01:25:35.540 --> 01:25:37.900
+with the band by yourself practicing?
+
+01:25:39.900 --> 01:25:42.540
+Do you feel like you're creating something different
+
+01:25:42.540 --> 01:25:47.540
+when you got the guitar and the amp
+
+01:25:47.900 --> 01:25:50.220
+and just the sound dissipating out
+
+01:25:50.220 --> 01:25:52.860
+and everybody's listening, is that?
+
+01:25:52.860 --> 01:25:55.700
+It's, listen, the first time we did it
+
+01:25:55.700 --> 01:25:57.180
+and there's nobody in the stadium,
+
+01:25:57.180 --> 01:25:59.260
+first time I ever played in a stadium
+
+01:25:59.260 --> 01:26:03.340
+and I'm just like, I'm out there in front
+
+01:26:03.340 --> 01:26:05.380
+and just hitting different chords
+
+01:26:05.380 --> 01:26:07.860
+and playing different licks and I'm like,
+
+01:26:07.860 --> 01:26:10.500
+it's like I won a contest and I get to do this.
+
+01:26:11.860 --> 01:26:15.100
+But what's different about it,
+
+01:26:15.100 --> 01:26:16.340
+and each venue is different.
+
+01:26:16.340 --> 01:26:21.340
+So if you, we went on the road with ZZ Top a few years ago,
+
+01:26:21.580 --> 01:26:24.420
+which was incredible, loved Billy Gibbons, he's a Texan,
+
+01:26:25.700 --> 01:26:28.140
+incredible person and guitar player.
+
+01:26:28.140 --> 01:26:32.580
+But when you're playing in five to 7,000 seats,
+
+01:26:32.580 --> 01:26:37.380
+it's really, you're right there with them, with the crowd.
+
+01:26:37.380 --> 01:26:39.820
+And then when you play in an arena,
+
+01:26:40.940 --> 01:26:44.300
+we toured with Bob Seeger on his last tour,
+
+01:26:44.300 --> 01:26:47.140
+which was cool, played some shows with him.
+
+01:26:47.140 --> 01:26:51.860
+And again, the arena, they're all packed on top of you
+
+01:26:51.860 --> 01:26:56.660
+and it's super loud, which was cool, meaning the crowd is.
+
+01:26:56.660 --> 01:26:59.100
+Stadiums is a completely different animal
+
+01:26:59.980 --> 01:27:04.980
+and it's just a completely different experience.
+
+01:27:05.420 --> 01:27:08.420
+Do you enjoy it versus like a smaller room?
+
+01:27:09.460 --> 01:27:10.300
+Yeah.
+
+01:27:10.300 --> 01:27:13.420
+As a guitarist, as a musician,
+
+01:27:13.420 --> 01:27:16.500
+what's your favorite like room to play of the size?
+
+01:27:16.500 --> 01:27:17.900
+Any room that'll have me.
+
+01:27:19.420 --> 01:27:23.740
+Look, I think arenas are the perfect blend,
+
+01:27:23.740 --> 01:27:28.500
+if I had to say, because it's loud and 20, 30,000 people,
+
+01:27:28.500 --> 01:27:31.180
+but like right up on you.
+
+01:27:31.180 --> 01:27:36.180
+Stadium, look, playing the stadiums with the Rolling Stones,
+
+01:27:37.500 --> 01:27:40.140
+it just is gonna go on the head marker somewhere
+
+01:27:40.140 --> 01:27:43.700
+is one of the more, I say this and I really mean it.
+
+01:27:43.700 --> 01:27:45.900
+My life is like a punked episode.
+
+01:27:45.900 --> 01:27:49.180
+It just hasn't, no one's burst in yet,
+
+01:27:49.180 --> 01:27:53.340
+but yeah, it's as cool as you think it is.
+
+01:27:53.340 --> 01:27:56.420
+So 60 years, how do you think Mick Jagger still got it?
+
+01:27:58.620 --> 01:27:59.620
+How do you explain it?
+
+01:27:59.620 --> 01:28:01.620
+I gotta tell you something, I mean,
+
+01:28:01.620 --> 01:28:06.500
+the funny thing is, wherever there is excellence,
+
+01:28:06.500 --> 01:28:09.740
+people wanna know how'd you do it, right?
+
+01:28:09.740 --> 01:28:10.980
+What's the secret?
+
+01:28:12.300 --> 01:28:15.260
+Not only is Mick Jagger, and I think the songs
+
+01:28:15.260 --> 01:28:18.020
+that Keith Richards and Mick Jagger wrote together,
+
+01:28:18.020 --> 01:28:20.020
+if you go back and listen to the lyrics,
+
+01:28:21.020 --> 01:28:26.020
+it's just incredibly poignant and I'm just a huge Stones fan.
+
+01:28:27.340 --> 01:28:32.340
+But he works out like a maniac, right?
+
+01:28:32.380 --> 01:28:36.700
+And it's that 10,000 hours thing and it's that,
+
+01:28:36.700 --> 01:28:38.580
+hey, maybe I don't feel my best today,
+
+01:28:38.580 --> 01:28:41.940
+but I'm gonna get up and do my routine and work out
+
+01:28:41.940 --> 01:28:46.940
+so that at his age, which I mean,
+
+01:28:47.020 --> 01:28:50.980
+you can look at people at different ages chronologically
+
+01:28:50.980 --> 01:28:54.340
+that are, you know, maybe we're both at this age,
+
+01:28:54.340 --> 01:28:57.820
+but I'm a lot older than you are and vice versa.
+
+01:28:57.820 --> 01:29:02.820
+And he just, I think it's the combination of raw talent
+
+01:29:02.860 --> 01:29:06.060
+and the ability and he's very smart, right?
+
+01:29:06.060 --> 01:29:10.460
+Like he's understands how to have interaction with a crowd
+
+01:29:10.460 --> 01:29:13.820
+and hold them in the palm of his hand and be an entertainer.
+
+01:29:13.860 --> 01:29:17.100
+But then on top of that, the reason he can at this age
+
+01:29:17.100 --> 01:29:20.820
+run around stadiums and be just as energetic
+
+01:29:20.820 --> 01:29:24.220
+is he puts the work in and that's one thing step
+
+01:29:24.220 --> 01:29:26.620
+that I think a lot of people miss sometimes
+
+01:29:26.620 --> 01:29:28.060
+where they want that magic trick,
+
+01:29:28.060 --> 01:29:30.340
+they wanna know what's the shortcut.
+
+01:29:30.340 --> 01:29:32.820
+Most of the time the answer is there's no shortcut.
+
+01:29:32.820 --> 01:29:36.220
+Yeah, you have to work hard on the way there
+
+01:29:36.220 --> 01:29:38.100
+and work hard to stay on top.
+
+01:29:39.220 --> 01:29:40.060
+That's it.
+
+01:29:40.060 --> 01:29:41.900
+And sometimes it's not even like work hard,
+
+01:29:42.020 --> 01:29:45.220
+it's just like be a professional,
+
+01:29:45.220 --> 01:29:49.020
+which that involves like in his case at his age
+
+01:29:49.020 --> 01:29:51.740
+with the amount of stuff you have to do on stage
+
+01:29:51.740 --> 01:29:53.140
+and the way he does it.
+
+01:29:53.140 --> 01:29:53.980
+For two hours.
+
+01:29:55.620 --> 01:29:58.300
+This is a professional athlete.
+
+01:29:58.300 --> 01:30:01.580
+A professional athlete that has to do things
+
+01:30:01.580 --> 01:30:04.260
+that are probably designed for 20 year olds
+
+01:30:04.260 --> 01:30:06.940
+and 30 year olds has to do it at an older age,
+
+01:30:06.940 --> 01:30:08.740
+which means like what do you have to do?
+
+01:30:08.740 --> 01:30:11.340
+Well, he probably has like a whole physical routine
+
+01:30:11.340 --> 01:30:12.420
+he has to do.
+
+01:30:12.420 --> 01:30:14.940
+Diet, the whole thing and it's hard.
+
+01:30:14.940 --> 01:30:17.180
+Look, if you wanna do great things,
+
+01:30:17.180 --> 01:30:19.980
+you probably have to do hard things to get there.
+
+01:30:20.940 --> 01:30:22.940
+I'm not gonna make you pick,
+
+01:30:22.940 --> 01:30:25.660
+just stick on the stones for one more minute,
+
+01:30:26.700 --> 01:30:31.700
+but what are some great Rolling Stones songs
+
+01:30:31.780 --> 01:30:36.020
+that were impactful to you lyrically, musically,
+
+01:30:36.020 --> 01:30:41.020
+maybe something you like playing like air guitar.
+
+01:30:41.780 --> 01:30:43.100
+I don't know.
+
+01:30:43.100 --> 01:30:45.020
+Well, probably my favorites,
+
+01:30:45.020 --> 01:30:46.820
+I love Sympathy for the Devil.
+
+01:30:47.740 --> 01:30:50.980
+It's a very, I don't know, sort of Faustian.
+
+01:30:50.980 --> 01:30:52.340
+I love the lyrics.
+
+01:30:52.340 --> 01:30:55.060
+I love how the almost a voodoo beat
+
+01:30:55.060 --> 01:30:57.300
+just kind of builds throughout the song.
+
+01:30:58.460 --> 01:31:00.340
+That's always been one of my favorites.
+
+01:31:00.340 --> 01:31:02.980
+So in that song, he never mentions devil, does he?
+
+01:31:02.980 --> 01:31:04.020
+No, wait, sorry.
+
+01:31:06.180 --> 01:31:09.580
+Like, you know, my name, there's like a flirtation
+
+01:31:09.740 --> 01:31:11.180
+going on in the lyrics.
+
+01:31:11.180 --> 01:31:12.020
+It's kind of interesting.
+
+01:31:12.020 --> 01:31:14.540
+Yeah, it's here's all the trouble I've caused
+
+01:31:14.540 --> 01:31:16.940
+along the way with you humans.
+
+01:31:16.940 --> 01:31:18.820
+And I just think it's really, really great.
+
+01:31:18.820 --> 01:31:20.700
+And musically builds really nicely.
+
+01:31:20.700 --> 01:31:21.540
+Yeah.
+
+01:31:21.540 --> 01:31:23.420
+And it's like both fun and dark.
+
+01:31:23.420 --> 01:31:24.620
+It's cool.
+
+01:31:24.620 --> 01:31:29.620
+It's a, there's a playful nature to it.
+
+01:31:30.980 --> 01:31:34.900
+It's very stones, only they can pull it off
+
+01:31:34.900 --> 01:31:38.060
+because it's like playful, but it's also like dark and cool.
+
+01:31:38.060 --> 01:31:38.900
+Dangerous.
+
+01:31:38.900 --> 01:31:39.940
+Dangerous, dangerous.
+
+01:31:39.940 --> 01:31:44.260
+Yeah, and Gimme Shelter is just, you know,
+
+01:31:44.260 --> 01:31:48.340
+and to this day, when I listen to the studio version
+
+01:31:48.340 --> 01:31:50.940
+and Mary Clayton just comes on and sings
+
+01:31:50.940 --> 01:31:55.500
+that epic, iconic part.
+
+01:31:55.500 --> 01:31:58.820
+And there's a documentary that was done
+
+01:31:58.820 --> 01:32:02.540
+about backup singers, phenomenal.
+
+01:32:02.540 --> 01:32:06.780
+And it tells the story of that moment
+
+01:32:06.780 --> 01:32:08.180
+in that song with Mary Clayton.
+
+01:32:08.260 --> 01:32:13.260
+And it's just her voice and the way it unfolded
+
+01:32:13.260 --> 01:32:15.700
+they got her out of bed at like 10 o'clock at night in LA.
+
+01:32:15.700 --> 01:32:17.780
+And she's like the Rolling Stones
+
+01:32:17.780 --> 01:32:20.500
+and went in and just killed it.
+
+01:32:20.500 --> 01:32:23.140
+And I can't sing at all.
+
+01:32:23.140 --> 01:32:26.780
+I'm by ordinance not around a microphone.
+
+01:32:26.780 --> 01:32:31.180
+So I'm always in awe when someone can sing like that.
+
+01:32:32.980 --> 01:32:37.940
+But, you know, those are some of my favorite
+
+01:32:37.940 --> 01:32:41.500
+Rolling Stones songs and Paint It Black's awesome.
+
+01:32:41.500 --> 01:32:42.660
+I mean, I could go on.
+
+01:32:42.660 --> 01:32:44.060
+Yeah, Paint It Black is great.
+
+01:32:44.060 --> 01:32:46.020
+Again, a song that builds is badass.
+
+01:32:46.020 --> 01:32:48.380
+I mean, it defines their whole generation.
+
+01:32:48.380 --> 01:32:49.620
+What made you pick up a guitar?
+
+01:32:49.620 --> 01:32:52.620
+What made you fall in love with the guitar?
+
+01:32:52.620 --> 01:32:55.100
+It's just the coolest instrument, right?
+
+01:32:55.100 --> 01:32:59.260
+I mean, when you watched back then, you know,
+
+01:32:59.260 --> 01:33:01.700
+and I was kind of an old soul.
+
+01:33:01.700 --> 01:33:05.580
+I was listening at a fairly young age
+
+01:33:05.580 --> 01:33:09.420
+to Muddy Waters, Robert Johnson,
+
+01:33:09.420 --> 01:33:14.420
+Lightning Hopkins, B.B. King, and just the soulfulness.
+
+01:33:14.900 --> 01:33:16.060
+Thrills gone.
+
+01:33:16.060 --> 01:33:16.900
+Oh my God.
+
+01:33:16.900 --> 01:33:21.860
+I mean, B.B. plays five notes and just kills it
+
+01:33:21.860 --> 01:33:24.140
+in the emotion that it evokes.
+
+01:33:24.140 --> 01:33:29.140
+So I just was just in awe of the instrument.
+
+01:33:29.420 --> 01:33:33.620
+And, you know, I also, there's always somebody
+
+01:33:34.620 --> 01:33:37.500
+around who's a musician that just picks the instrument up
+
+01:33:37.500 --> 01:33:39.220
+and can play, right?
+
+01:33:39.220 --> 01:33:41.180
+And they're just so talented at it.
+
+01:33:41.180 --> 01:33:43.860
+And they can just listen to a record and play it.
+
+01:33:43.860 --> 01:33:45.700
+That was never me.
+
+01:33:45.700 --> 01:33:47.860
+I never took formal lessons.
+
+01:33:47.860 --> 01:33:51.940
+I had to grind, you know, to just make it sound
+
+01:33:51.940 --> 01:33:54.180
+like I wanted it to sound.
+
+01:33:54.180 --> 01:33:58.100
+So both technically and ear, everything was hard work.
+
+01:33:58.100 --> 01:33:59.780
+Yeah, I mean, I could hear it.
+
+01:34:00.780 --> 01:34:04.380
+And what they call, you know, you play.
+
+01:34:04.380 --> 01:34:09.380
+So my right hand, you know, the rhythm side of it is,
+
+01:34:09.740 --> 01:34:12.340
+that's probably, if I have anything, my strength.
+
+01:34:13.180 --> 01:34:18.100
+But there's something pretty amazing that happens
+
+01:34:18.100 --> 01:34:22.500
+when you get together with other people and play a song.
+
+01:34:22.500 --> 01:34:24.860
+In that moment where it hits the pocket
+
+01:34:25.940 --> 01:34:27.940
+and you all kind of know it,
+
+01:34:27.940 --> 01:34:31.140
+and it's just such a cool feeling.
+
+01:34:31.140 --> 01:34:34.940
+And it was interesting growing up because I was,
+
+01:34:34.940 --> 01:34:36.620
+again, I always had a eclectic interest.
+
+01:34:36.620 --> 01:34:38.780
+So I loved math and physics and science.
+
+01:34:38.780 --> 01:34:41.100
+So I had those friends and I was an athlete
+
+01:34:41.100 --> 01:34:43.060
+and played football and baseball and basketball.
+
+01:34:43.060 --> 01:34:47.780
+So I had my jock friends and then I had my music friends.
+
+01:34:47.780 --> 01:34:51.620
+And so it was just kind of that.
+
+01:34:51.620 --> 01:34:55.780
+And so when I was still living in Los Angeles
+
+01:34:55.780 --> 01:35:00.780
+and had Legendary, I just missed playing.
+
+01:35:01.660 --> 01:35:04.580
+And so I put this band together
+
+01:35:04.580 --> 01:35:08.180
+and called it the Ghost Hounds because, again,
+
+01:35:08.180 --> 01:35:11.900
+huge Robert Johnson fan and that legend
+
+01:35:11.900 --> 01:35:15.260
+of Robert Johnson selling his soul at the crossroads
+
+01:35:15.260 --> 01:35:17.140
+in exchange for his musical talent.
+
+01:35:17.140 --> 01:35:18.820
+You guys have that in one of the videos.
+
+01:35:18.820 --> 01:35:19.660
+Yeah, yeah.
+
+01:35:19.660 --> 01:35:20.500
+Such a cool video.
+
+01:35:20.500 --> 01:35:22.660
+Exactly, so I always, I just thought like,
+
+01:35:23.620 --> 01:35:25.580
+that's such cool lore.
+
+01:35:26.700 --> 01:35:28.300
+I just love the blues.
+
+01:35:28.300 --> 01:35:31.220
+So Robert Johnson would often would talk
+
+01:35:31.220 --> 01:35:33.420
+about hell hounds on his trail.
+
+01:35:33.420 --> 01:35:37.540
+And so I always just thought, huh, what about ghost hounds?
+
+01:35:37.540 --> 01:35:41.460
+So that's, I wish it were a more clever, deeper story,
+
+01:35:41.460 --> 01:35:43.740
+but that's about it for the name.
+
+01:35:43.740 --> 01:35:44.620
+That's pretty deep.
+
+01:35:44.620 --> 01:35:45.740
+Robert Johnson is incredible.
+
+01:35:45.740 --> 01:35:48.300
+But you also talk about that you connect
+
+01:35:48.300 --> 01:35:50.820
+to the storytelling of blues.
+
+01:35:50.860 --> 01:35:53.700
+So what makes a good story in a song?
+
+01:35:53.700 --> 01:35:57.820
+Like what aspect of storytelling connects with you in song?
+
+01:35:57.820 --> 01:35:59.100
+So I'm a big lyrics guy too.
+
+01:35:59.100 --> 01:36:03.820
+I love like deep lyric people like Tom Waits
+
+01:36:03.820 --> 01:36:07.060
+and like people that are like, you know, Leonard Cohen,
+
+01:36:07.060 --> 01:36:08.780
+like they're even Bob Dylan.
+
+01:36:08.780 --> 01:36:12.660
+They're like, obviously, yes, poetry.
+
+01:36:12.660 --> 01:36:15.500
+And then there's some people like the Rolling Stones there.
+
+01:36:15.500 --> 01:36:18.260
+It's like seemingly simpler,
+
+01:36:18.300 --> 01:36:21.020
+but it's still so much more to it.
+
+01:36:21.020 --> 01:36:23.780
+It's like less is often more.
+
+01:36:23.780 --> 01:36:25.660
+It still tells a strong story.
+
+01:36:25.660 --> 01:36:27.820
+Yeah, and there's certain people
+
+01:36:27.820 --> 01:36:31.060
+and Mick Jagger and Keith Richards are in this boat.
+
+01:36:31.060 --> 01:36:32.980
+Billy Gibbons is in this boat.
+
+01:36:32.980 --> 01:36:35.740
+They just say things in a certain way.
+
+01:36:35.740 --> 01:36:37.300
+Those are just cool, right?
+
+01:36:37.300 --> 01:36:42.300
+It just, and so I write our music and lyrics.
+
+01:36:44.380 --> 01:36:47.020
+I have to tell a story.
+
+01:36:47.020 --> 01:36:48.740
+I have to know the characters in the song.
+
+01:36:48.740 --> 01:36:51.540
+I'm not good at just writing some rhymes
+
+01:36:51.540 --> 01:36:54.820
+and having it match up to the right key and the right music.
+
+01:36:54.820 --> 01:36:59.060
+I have to understand like, that's just me.
+
+01:36:59.060 --> 01:37:01.540
+And so I think that, look,
+
+01:37:01.540 --> 01:37:04.460
+if you have three or four minutes to tell a story,
+
+01:37:04.460 --> 01:37:09.460
+you have to be more efficient with your use of language
+
+01:37:09.500 --> 01:37:12.220
+and you have to understand what you're building to,
+
+01:37:12.220 --> 01:37:15.500
+if anything, and evoke emotion
+
+01:37:15.500 --> 01:37:18.660
+and hopefully for those three minutes,
+
+01:37:18.660 --> 01:37:22.380
+get the listener to understand not only the point
+
+01:37:22.380 --> 01:37:24.540
+of the song, but where you're coming from
+
+01:37:24.540 --> 01:37:28.300
+and to make you feel a certain way.
+
+01:37:28.300 --> 01:37:31.860
+There's a song that the audiences seem to like a lot
+
+01:37:31.860 --> 01:37:34.380
+on the new album called Good Old Days.
+
+01:37:34.380 --> 01:37:38.460
+And I wrote that because especially during COVID
+
+01:37:38.460 --> 01:37:42.260
+and reflecting on what normalcy looks like
+
+01:37:42.260 --> 01:37:44.580
+and what happens when you're cut off,
+
+01:37:46.300 --> 01:37:49.140
+I just was kind of taken with this idea of
+
+01:37:50.180 --> 01:37:53.700
+that when you sit around and reminisce with friends,
+
+01:37:53.700 --> 01:37:58.700
+oftentimes it's not just like some big event happened.
+
+01:37:59.340 --> 01:38:00.980
+It's, remember that summer,
+
+01:38:00.980 --> 01:38:03.060
+we'd go up to the lake all the time
+
+01:38:03.060 --> 01:38:05.380
+and it's who you were with.
+
+01:38:05.380 --> 01:38:09.580
+And at the time, it probably seemed pretty pedestrian, right?
+
+01:38:09.580 --> 01:38:12.140
+It just seemed like kind of a normal day,
+
+01:38:12.140 --> 01:38:14.020
+but it was the company you were keeping.
+
+01:38:14.020 --> 01:38:15.780
+It was the time in your life.
+
+01:38:15.780 --> 01:38:17.900
+It was whatever it was.
+
+01:38:17.900 --> 01:38:22.620
+And I just kind of struck me that right now we're doing stuff
+
+01:38:22.620 --> 01:38:24.220
+that you're gonna reminisce about later
+
+01:38:24.220 --> 01:38:26.260
+that seems kind of ordinary,
+
+01:38:26.260 --> 01:38:29.140
+be like, man, that was such a great time.
+
+01:38:29.140 --> 01:38:31.580
+So the idea is be in the moment and all that stuff,
+
+01:38:31.580 --> 01:38:36.220
+but these are the good old days and enjoy it
+
+01:38:36.220 --> 01:38:39.460
+and soak it in and kind of be present for it.
+
+01:38:39.460 --> 01:38:42.380
+Yeah, it's a great perspective to take on the present
+
+01:38:42.380 --> 01:38:44.380
+because we are in the thing that we'll remember.
+
+01:38:44.380 --> 01:38:46.180
+We're living through the thing we'll remember.
+
+01:38:46.180 --> 01:38:47.700
+And sometimes the things we'll remember
+
+01:38:47.700 --> 01:38:49.900
+is the simple stuff, the little stuff.
+
+01:38:49.900 --> 01:38:50.740
+Yeah.
+
+01:38:52.660 --> 01:38:55.700
+Outside of Keith Richards,
+
+01:38:55.700 --> 01:38:58.620
+who is the greatest, ridiculous question,
+
+01:38:58.620 --> 01:39:00.180
+but just indulge me.
+
+01:39:00.180 --> 01:39:03.180
+Who is the greatest blues guitarist of all time,
+
+01:39:03.180 --> 01:39:04.660
+rock guitarist of all time?
+
+01:39:05.700 --> 01:39:07.220
+Well, you got a little bit of a hybrid
+
+01:39:07.220 --> 01:39:08.500
+with Jimi Hendrix, right?
+
+01:39:08.500 --> 01:39:11.420
+Because he played the blues and he played rock and roll.
+
+01:39:11.420 --> 01:39:14.620
+So I think most guitarists would say
+
+01:39:14.620 --> 01:39:18.220
+Jimi Hendrix is pretty ridiculous.
+
+01:39:18.220 --> 01:39:19.180
+That probably for me,
+
+01:39:19.180 --> 01:39:21.380
+I'm a huge, huge, huge Hendrix fan to play.
+
+01:39:21.380 --> 01:39:22.780
+Well, because he can't, you can't.
+
+01:39:22.780 --> 01:39:24.820
+I mean, even to this day,
+
+01:39:24.820 --> 01:39:27.260
+I don't care technology, pedals, whatever,
+
+01:39:27.260 --> 01:39:31.540
+he just somehow fused with the instrument.
+
+01:39:32.620 --> 01:39:34.700
+I can't be sitting here in Austin, Texas
+
+01:39:34.700 --> 01:39:37.940
+without mentioning one of the great guitar players
+
+01:39:37.940 --> 01:39:40.220
+of all time in Stevie Ray Vaughn.
+
+01:39:40.260 --> 01:39:42.300
+See, that's how I know you're like a rock star.
+
+01:39:42.300 --> 01:39:43.860
+You're sucking up to the audience.
+
+01:39:43.860 --> 01:39:47.500
+Well, no, but you have listeners all over the place,
+
+01:39:47.500 --> 01:39:51.060
+but Stevie Ray Vaughn is another one of those.
+
+01:39:51.060 --> 01:39:51.900
+Yeah, he's incredible.
+
+01:39:51.900 --> 01:39:53.660
+Just blows me away.
+
+01:39:55.220 --> 01:39:57.140
+And then with the older guys,
+
+01:39:57.140 --> 01:40:01.100
+B.B. King, Hubert Sumlin, Clapton.
+
+01:40:01.100 --> 01:40:01.940
+Yeah.
+
+01:40:01.940 --> 01:40:06.380
+Clapton, I saw him on his last tour
+
+01:40:06.380 --> 01:40:08.900
+and just walked out on my,
+
+01:40:09.940 --> 01:40:12.700
+just like unbelievable how he still sounds.
+
+01:40:14.700 --> 01:40:16.380
+And both electric and acoustic.
+
+01:40:16.380 --> 01:40:17.220
+Yeah.
+
+01:40:17.220 --> 01:40:18.620
+Just so strange.
+
+01:40:18.620 --> 01:40:19.700
+Absolute master.
+
+01:40:20.940 --> 01:40:22.980
+And the greatest storyteller,
+
+01:40:22.980 --> 01:40:24.020
+you mentioned Bob Seeger.
+
+01:40:24.020 --> 01:40:26.300
+That's an interesting one.
+
+01:40:26.300 --> 01:40:29.860
+He almost doesn't get enough credit,
+
+01:40:29.860 --> 01:40:31.540
+I feel like, for how great he is.
+
+01:40:31.540 --> 01:40:33.380
+Obviously he's super famous, but.
+
+01:40:33.380 --> 01:40:36.500
+No, he's, in his voice.
+
+01:40:36.500 --> 01:40:39.180
+I also, I had the privilege of getting friendly
+
+01:40:39.180 --> 01:40:43.580
+with John Fogarty, John Fogarty and CCR fame.
+
+01:40:43.580 --> 01:40:48.100
+And he's another one that's just the way he phrases things.
+
+01:40:48.100 --> 01:40:51.180
+And you just look at the catalog of stuff he wrote.
+
+01:40:52.780 --> 01:40:54.020
+Amazing talent.
+
+01:40:54.900 --> 01:40:59.900
+I read Bruce Springsteen's book and was,
+
+01:41:00.500 --> 01:41:02.860
+I'm a fan, but after reading the book,
+
+01:41:02.860 --> 01:41:05.860
+it was really, you go back and listen to his lyrics
+
+01:41:05.860 --> 01:41:10.860
+and the way he pours himself out is pretty incredible.
+
+01:41:13.540 --> 01:41:16.060
+And then again, with the old blues guys,
+
+01:41:17.460 --> 01:41:21.180
+I just think the emotion they could get out of playing
+
+01:41:21.180 --> 01:41:23.100
+like the, staying on the one, right?
+
+01:41:23.100 --> 01:41:25.220
+Just playing the same rhythm.
+
+01:41:25.220 --> 01:41:30.220
+John Lee Hooker, you listen to Manish Boy by Muddy Waters.
+
+01:41:31.140 --> 01:41:36.140
+And it's just, there's something so,
+
+01:41:36.140 --> 01:41:39.100
+it just draws me in every time and the emotion
+
+01:41:39.100 --> 01:41:40.860
+they're able to get out of things.
+
+01:41:42.020 --> 01:41:44.420
+And I'm also a huge Chuck Berry fan.
+
+01:41:44.420 --> 01:41:47.020
+I just think that sound is, I love it.
+
+01:41:48.900 --> 01:41:51.060
+Do you know how to play Johnny B. Goode?
+
+01:41:51.060 --> 01:41:53.740
+I do, I do, yeah.
+
+01:41:53.740 --> 01:41:54.980
+That's good.
+
+01:41:54.980 --> 01:41:59.020
+Maybe, one of the great moments, at least of my childhood,
+
+01:41:59.060 --> 01:42:04.060
+was back to the future and watching Michael J. Fox plug in
+
+01:42:06.100 --> 01:42:09.380
+and then at the end, play at the dance
+
+01:42:09.380 --> 01:42:11.980
+to save his parents with Johnny B. Goode, pretty awesome.
+
+01:42:11.980 --> 01:42:14.820
+Yeah, the guitar is so much more than a musical instrument.
+
+01:42:14.820 --> 01:42:17.500
+It feels like, it's like the,
+
+01:42:17.500 --> 01:42:20.460
+in the 20th century, it's like the car.
+
+01:42:20.460 --> 01:42:23.020
+Like it defines so much of Hollywood,
+
+01:42:23.020 --> 01:42:25.880
+so much of a generation of what it means to be,
+
+01:42:26.980 --> 01:42:28.820
+I don't know, what it means to be a man,
+
+01:42:29.620 --> 01:42:31.100
+you know what it means to be a human in America.
+
+01:42:31.100 --> 01:42:32.660
+It's fascinating.
+
+01:42:32.660 --> 01:42:37.540
+Emblematic to me of a certain type of music.
+
+01:42:37.540 --> 01:42:40.460
+And that's, I made a documentary years ago
+
+01:42:40.460 --> 01:42:43.660
+called It Might Get Loud with Jimmy Page, The Edge.
+
+01:42:43.660 --> 01:42:44.980
+I highly recommend it.
+
+01:42:44.980 --> 01:42:46.540
+Everybody watch that documentary.
+
+01:42:46.540 --> 01:42:48.980
+It's an incredible celebration of the guitar.
+
+01:42:48.980 --> 01:42:53.540
+Yeah, it says Jimmy Page, Jack White from White Stripes.
+
+01:42:53.540 --> 01:42:54.380
+The Edge.
+
+01:42:54.380 --> 01:42:56.500
+And The Edge from U2.
+
+01:42:56.500 --> 01:42:58.780
+Okay, all right, well now you have to tell the story
+
+01:42:59.740 --> 01:43:02.460
+of that one, because how the heck did that all come together?
+
+01:43:02.460 --> 01:43:03.540
+Because it's so fascinating.
+
+01:43:03.540 --> 01:43:07.380
+Such different musicians all coming together,
+
+01:43:07.380 --> 01:43:09.780
+talking about their story,
+
+01:43:09.780 --> 01:43:11.540
+talking about how they approach the music,
+
+01:43:11.540 --> 01:43:13.780
+and also playing together a little bit
+
+01:43:13.780 --> 01:43:15.380
+in this casual kind of setting.
+
+01:43:15.380 --> 01:43:18.820
+Well, look, one day I came downstairs
+
+01:43:18.820 --> 01:43:21.100
+and the Rolling Stone magazine is sitting there
+
+01:43:21.100 --> 01:43:22.580
+and it was the 50th,
+
+01:43:22.580 --> 01:43:25.900
+was the 50 top guitarists of all time, their list.
+
+01:43:25.900 --> 01:43:28.380
+And then I had some other financial report
+
+01:43:28.940 --> 01:43:31.260
+with video games and the top video game at the time
+
+01:43:31.260 --> 01:43:32.980
+was Guitar Hero, right?
+
+01:43:32.980 --> 01:43:35.260
+And then there was a third thing, I can't recall it,
+
+01:43:35.260 --> 01:43:37.380
+but I just, and I said to myself,
+
+01:43:37.380 --> 01:43:42.380
+what is it about the guitar that is so central
+
+01:43:42.620 --> 01:43:45.060
+to the rock and roll, whatever you want to call it?
+
+01:43:45.060 --> 01:43:46.980
+Like, why is that the symbol?
+
+01:43:48.500 --> 01:43:52.100
+And I said to myself, I want to ask Jimmy Page
+
+01:43:52.100 --> 01:43:54.260
+why he picked up the guitar,
+
+01:43:54.260 --> 01:43:56.180
+because he's Jimmy Page, right?
+
+01:43:56.180 --> 01:44:00.540
+And so I called a friend of mine, Davis Guggenheim,
+
+01:44:00.540 --> 01:44:02.580
+who had directed Inconvenient Truth,
+
+01:44:02.580 --> 01:44:03.700
+and I think still is,
+
+01:44:03.700 --> 01:44:06.780
+but at the time was the biggest documentary ever.
+
+01:44:06.780 --> 01:44:09.100
+And I called Davis and I said, look, I have this idea.
+
+01:44:09.100 --> 01:44:12.980
+I want to make this movie about the guitar,
+
+01:44:12.980 --> 01:44:15.540
+about different eras and styles and whatever,
+
+01:44:15.540 --> 01:44:16.980
+but I've never made a documentary.
+
+01:44:16.980 --> 01:44:18.140
+I don't know how to do that.
+
+01:44:18.140 --> 01:44:20.420
+So I was just looking for advice.
+
+01:44:20.420 --> 01:44:24.740
+And thankfully, because he's one of the best
+
+01:44:24.900 --> 01:44:28.300
+documentarians ever, Davis is like, you know what?
+
+01:44:28.300 --> 01:44:29.500
+I can't get this out of my head.
+
+01:44:29.500 --> 01:44:32.460
+I'll direct it, which was amazing.
+
+01:44:32.460 --> 01:44:34.500
+And we wrote three names down
+
+01:44:34.500 --> 01:44:38.180
+that represented different eras and different styles.
+
+01:44:38.180 --> 01:44:41.700
+Rarely do you get, you know, you go three for three,
+
+01:44:41.700 --> 01:44:44.660
+but it was those three guys.
+
+01:44:44.660 --> 01:44:49.660
+And it was just such an incredible experience
+
+01:44:49.900 --> 01:44:53.820
+to sit there and get to know Jimmy Page, you know?
+
+01:44:53.860 --> 01:44:57.580
+I mean, it was like, and he was, it was like Gandalf, man.
+
+01:44:57.580 --> 01:45:00.340
+He was like always Jimmy Page.
+
+01:45:00.340 --> 01:45:02.060
+Yeah, yeah, yeah.
+
+01:45:02.060 --> 01:45:03.780
+That was so cool to see him.
+
+01:45:03.780 --> 01:45:06.700
+Gandalf was, there's like a wisdom,
+
+01:45:06.700 --> 01:45:08.300
+there's a calmness to him,
+
+01:45:08.300 --> 01:45:12.620
+compared to like the restlessness of Jack White.
+
+01:45:12.620 --> 01:45:16.780
+Like the, I mean, that combination was just fascinating.
+
+01:45:16.780 --> 01:45:19.780
+It was one of the coolest experiences ever.
+
+01:45:19.780 --> 01:45:23.220
+And one of the things, there was a moment where Jimmy,
+
+01:45:23.220 --> 01:45:26.260
+he was going through his guitar case
+
+01:45:26.260 --> 01:45:28.180
+and he had the double neck from Stairway to Heaven
+
+01:45:28.180 --> 01:45:30.820
+and he handed it to me and I was like, mm-hmm.
+
+01:45:30.820 --> 01:45:35.820
+I mean, it's like somebody handing you X caliber or something.
+
+01:45:36.980 --> 01:45:38.140
+Amazing experience.
+
+01:45:38.140 --> 01:45:40.980
+And The Edge, one of the kindest human beings
+
+01:45:40.980 --> 01:45:44.900
+you'll ever meet in your life, just an amazing person.
+
+01:45:44.900 --> 01:45:47.060
+And I think he hit it right in the head with Jack
+
+01:45:47.060 --> 01:45:49.820
+is he's got that energy, you know,
+
+01:45:49.820 --> 01:45:52.260
+and constantly pushing himself.
+
+01:45:52.260 --> 01:45:54.660
+But it's hard to believe it's been, I think,
+
+01:45:54.660 --> 01:45:58.140
+10 or 11 or maybe even 12 years since it came out, but.
+
+01:45:58.140 --> 01:46:02.740
+After watching it, I realized like how much it was needed.
+
+01:46:02.740 --> 01:46:07.340
+And I was almost surprised it didn't already exist.
+
+01:46:07.340 --> 01:46:12.340
+It was like, yeah, the guitar wasn't quite celebrated
+
+01:46:12.360 --> 01:46:14.780
+like explicitly, we almost didn't acknowledge it.
+
+01:46:15.700 --> 01:46:17.700
+How important it was culturally.
+
+01:46:17.700 --> 01:46:18.540
+It's kind of amazing.
+
+01:46:18.540 --> 01:46:20.580
+And the way it closed from the song, the-
+
+01:46:20.580 --> 01:46:21.420
+The weight.
+
+01:46:21.700 --> 01:46:23.460
+It's called The Weight, yeah, by the band.
+
+01:46:23.460 --> 01:46:24.700
+Yeah. Yeah.
+
+01:46:24.700 --> 01:46:26.180
+That's because they didn't want to go home.
+
+01:46:26.180 --> 01:46:27.260
+Yeah.
+
+01:46:27.260 --> 01:46:30.020
+We were shooting on a Warner Brothers soundstage
+
+01:46:30.020 --> 01:46:32.060
+for three days when we called it the summit
+
+01:46:32.060 --> 01:46:34.340
+where the three of them came together.
+
+01:46:34.340 --> 01:46:38.500
+And the two things I'll never forget is when Jimmy starts
+
+01:46:38.500 --> 01:46:40.860
+to play the riff from Whole Lotta Love,
+
+01:46:41.940 --> 01:46:46.460
+Edge and Jack ceased to be rock, you know,
+
+01:46:46.460 --> 01:46:50.780
+rock gods or whatever and had the same 15 year old kid
+
+01:46:50.780 --> 01:46:53.340
+feeling that I did, you could see in their face.
+
+01:46:53.340 --> 01:46:55.620
+And then at the end, they're like, hey, can we play?
+
+01:46:55.620 --> 01:46:57.060
+We just want to, we don't want to go.
+
+01:46:57.060 --> 01:46:58.860
+Can we just play something acoustically?
+
+01:46:58.860 --> 01:46:59.700
+Yeah.
+
+01:46:59.700 --> 01:47:00.860
+So we printed out the lyrics.
+
+01:47:00.860 --> 01:47:01.940
+That's what they wanted to play.
+
+01:47:01.940 --> 01:47:06.500
+And they just sat there and sat on those couches and just-
+
+01:47:06.500 --> 01:47:07.540
+Such a good way to end.
+
+01:47:07.540 --> 01:47:09.420
+Yeah, incredible.
+
+01:47:09.420 --> 01:47:12.460
+What's your guitar rig set up like?
+
+01:47:12.460 --> 01:47:15.340
+You also, you have a few guitars.
+
+01:47:15.340 --> 01:47:17.540
+First, let's just put it on the line.
+
+01:47:17.580 --> 01:47:21.860
+So what's better, Les Paul or Strat?
+
+01:47:21.860 --> 01:47:24.460
+Well, I'm not going to get into what's better
+
+01:47:24.460 --> 01:47:26.380
+because I'm sure that'll start a flood of whatever.
+
+01:47:26.380 --> 01:47:27.860
+For me-
+
+01:47:27.860 --> 01:47:29.220
+I'm going to say it's Strat.
+
+01:47:29.220 --> 01:47:32.020
+All right, well I'm a Les Paul.
+
+01:47:32.020 --> 01:47:34.740
+My main instrument is a Les Paul.
+
+01:47:34.740 --> 01:47:36.740
+But I, okay, okay, let me just put it on the table.
+
+01:47:36.740 --> 01:47:39.060
+I'm speaking as somebody who literally,
+
+01:47:39.060 --> 01:47:41.700
+I don't think I've ever actually strummed a chord
+
+01:47:41.700 --> 01:47:42.540
+on a Les Paul.
+
+01:47:42.540 --> 01:47:43.380
+So I've been-
+
+01:47:43.380 --> 01:47:45.380
+All right, so you're uninitiated.
+
+01:47:45.380 --> 01:47:48.020
+Exactly, so I don't speak from experience,
+
+01:47:48.020 --> 01:47:50.540
+but it's probably because of Hendrix,
+
+01:47:50.540 --> 01:47:52.260
+who's so deeply influenced by Hendrix
+
+01:47:52.260 --> 01:47:55.260
+that I just kind of followed in his footsteps
+
+01:47:55.260 --> 01:47:56.700
+and clapped in and so on.
+
+01:47:56.700 --> 01:48:01.180
+The amazing thing to me is if you look back at Leo Fender
+
+01:48:01.180 --> 01:48:03.660
+and what the Gibson Guitar Company and Les Paul did
+
+01:48:03.660 --> 01:48:07.500
+in the 50s, those are still the shapes
+
+01:48:07.500 --> 01:48:09.740
+and the perfect thing today, right?
+
+01:48:09.740 --> 01:48:12.980
+The Strat and the Telecaster and the Les Paul.
+
+01:48:13.380 --> 01:48:15.660
+They got it right way back then.
+
+01:48:15.660 --> 01:48:20.060
+So I have my main guitar.
+
+01:48:20.060 --> 01:48:21.300
+You got to name your guitar.
+
+01:48:21.300 --> 01:48:23.940
+So my main guitar is named Hazel,
+
+01:48:23.940 --> 01:48:26.300
+and it's a 59 Les Paul.
+
+01:48:26.300 --> 01:48:31.020
+And there's something magical in that year,
+
+01:48:31.020 --> 01:48:34.180
+like a Stradivarius, and they're just,
+
+01:48:34.180 --> 01:48:36.900
+there's something different about them.
+
+01:48:36.900 --> 01:48:40.380
+So I play that, and then I play it through
+
+01:48:41.380 --> 01:48:45.420
+sort of my main rigs, either a 59 Fender Twin
+
+01:48:46.500 --> 01:48:50.500
+or a 65 Marshall.
+
+01:48:50.500 --> 01:48:52.860
+And then when we're on the road now,
+
+01:48:52.860 --> 01:48:54.860
+because when you use older vintage stuff,
+
+01:48:54.860 --> 01:48:56.940
+you just got to be super careful with the tubes
+
+01:48:56.940 --> 01:48:58.700
+and everything, it has to be reliable.
+
+01:48:58.700 --> 01:49:01.900
+So very nicely, the guys from 2ROCK sent me
+
+01:49:01.900 --> 01:49:03.620
+some of their amps and they're really,
+
+01:49:03.620 --> 01:49:05.460
+because I don't use any new stuff,
+
+01:49:05.460 --> 01:49:07.460
+but the 2ROCK stuff is pretty great.
+
+01:49:07.460 --> 01:49:08.300
+So that's actually what I'm using.
+
+01:49:08.460 --> 01:49:11.140
+Oh, it gets close to the sound that you like
+
+01:49:11.140 --> 01:49:11.980
+with the Marshall.
+
+01:49:11.980 --> 01:49:14.020
+Yeah, and it's new and reliable.
+
+01:49:14.020 --> 01:49:15.460
+So that's what I'm using on the road right now.
+
+01:49:15.460 --> 01:49:17.220
+Do people use emulation?
+
+01:49:17.220 --> 01:49:19.220
+Do they use software or is it still?
+
+01:49:19.220 --> 01:49:20.060
+They do.
+
+01:49:20.060 --> 01:49:21.340
+I personally don't.
+
+01:49:21.340 --> 01:49:23.700
+I go, I don't have many pedals.
+
+01:49:23.700 --> 01:49:26.860
+I use a Klon, an old, vintage Klon,
+
+01:49:26.860 --> 01:49:28.940
+straight into the amp and that's it.
+
+01:49:28.940 --> 01:49:30.980
+Just as old school as possible.
+
+01:49:30.980 --> 01:49:32.500
+Is there other cool guitars you have
+
+01:49:32.500 --> 01:49:34.500
+that kind of stand out?
+
+01:49:34.500 --> 01:49:36.780
+I have a bunch of what they call
+
+01:49:36.780 --> 01:49:40.260
+black guard telecasters from the 50s,
+
+01:49:40.260 --> 01:49:42.140
+which are pretty great.
+
+01:49:42.140 --> 01:49:44.020
+What are those, black guard telecasters?
+
+01:49:44.020 --> 01:49:45.780
+Yeah, so it just, you know, it's in the 50s.
+
+01:49:45.780 --> 01:49:47.900
+Oh, they actually legit have a black guard.
+
+01:49:47.900 --> 01:49:48.740
+Pick guard.
+
+01:49:48.740 --> 01:49:49.580
+Got it.
+
+01:49:49.580 --> 01:49:51.300
+But they're incredible.
+
+01:49:51.300 --> 01:49:53.220
+What's the color of the telecaster itself?
+
+01:49:53.220 --> 01:49:55.220
+Most of them are yellow with black
+
+01:49:55.220 --> 01:49:57.420
+and then they got into different configurations,
+
+01:49:57.420 --> 01:50:01.580
+but there's something, I have a 51 telecaster
+
+01:50:01.580 --> 01:50:04.700
+that I play in Open G and in songs with Open G
+
+01:50:04.700 --> 01:50:09.020
+that just, again, there's something, you know,
+
+01:50:09.020 --> 01:50:11.020
+and I'll take all the help I can get
+
+01:50:11.020 --> 01:50:13.180
+in terms of, you know, making it sound great.
+
+01:50:13.180 --> 01:50:15.860
+So I'll try to find the magic ones.
+
+01:50:15.860 --> 01:50:18.100
+What's your writing process like
+
+01:50:18.100 --> 01:50:21.620
+for the music and the lyrics?
+
+01:50:21.620 --> 01:50:26.100
+Is there, do you have to go to the mountains?
+
+01:50:26.100 --> 01:50:27.620
+Is there whiskey involved?
+
+01:50:27.620 --> 01:50:29.900
+What do you have to do or do you just write a little bit
+
+01:50:29.900 --> 01:50:31.780
+whenever you have a moment of free time?
+
+01:50:31.780 --> 01:50:33.780
+I'm a boring guy because I don't drink.
+
+01:50:33.780 --> 01:50:37.220
+I don't, I just, I figure I can screw things up
+
+01:50:37.220 --> 01:50:39.780
+plenty on my own without adding anything.
+
+01:50:39.780 --> 01:50:40.900
+It's a good call.
+
+01:50:40.900 --> 01:50:45.900
+But, you know, for me, it either starts with a riff,
+
+01:50:46.380 --> 01:50:51.220
+just something that I think is an interesting, you know,
+
+01:50:51.220 --> 01:50:54.220
+riff or tone that I can kind of sink my teeth
+
+01:50:54.220 --> 01:50:55.780
+into a little bit.
+
+01:50:55.780 --> 01:50:57.700
+And a lot of times I'll write a title
+
+01:50:59.060 --> 01:51:02.460
+and love a title and then start to backfill.
+
+01:51:02.460 --> 01:51:04.420
+So the title is almost like an idea.
+
+01:51:04.420 --> 01:51:06.900
+Yeah, like this is where I want to be
+
+01:51:07.940 --> 01:51:10.260
+and then start kind of writing it out.
+
+01:51:10.260 --> 01:51:13.940
+And again, I just have to know,
+
+01:51:13.940 --> 01:51:16.540
+am I writing from a character's point of view?
+
+01:51:16.540 --> 01:51:20.220
+Am I writing about someone or something, you know,
+
+01:51:20.220 --> 01:51:22.060
+as like the narrator?
+
+01:51:22.060 --> 01:51:23.700
+And, you know, what is this person?
+
+01:51:23.700 --> 01:51:24.540
+Are they happy?
+
+01:51:24.540 --> 01:51:25.380
+Are they sad?
+
+01:51:25.380 --> 01:51:27.340
+Are they, where are they in life?
+
+01:51:27.340 --> 01:51:30.700
+I don't know if all that, like great writers,
+
+01:51:30.700 --> 01:51:34.180
+I'm sure would say, why don't you just write?
+
+01:51:34.180 --> 01:51:36.100
+You don't need all that.
+
+01:51:36.100 --> 01:51:38.420
+But that's, for me, that's my process.
+
+01:51:38.420 --> 01:51:39.980
+I'm not so sure about that.
+
+01:51:39.980 --> 01:51:44.460
+I bet you quite a lot of writers have created a world
+
+01:51:44.460 --> 01:51:47.900
+in their mind before they even put the simplest
+
+01:51:47.900 --> 01:51:48.820
+of words down.
+
+01:51:48.820 --> 01:51:51.660
+So yeah, there's quite a lot to that.
+
+01:51:55.020 --> 01:51:56.780
+What's your favorite song to play?
+
+01:51:57.820 --> 01:52:00.620
+Is there some favorite ones you go to?
+
+01:52:01.500 --> 01:52:04.500
+Both play and kind of, I'm sure you love singing.
+
+01:52:04.500 --> 01:52:05.340
+No, no, no, no.
+
+01:52:05.340 --> 01:52:06.740
+No, you don't?
+
+01:52:06.740 --> 01:52:10.860
+I'm not, I'm neither talented nor do I have the desire.
+
+01:52:10.860 --> 01:52:14.220
+And I think, you know, if you come see the show,
+
+01:52:14.220 --> 01:52:16.500
+you won't see a microphone anywhere near me.
+
+01:52:16.500 --> 01:52:18.020
+But do you, I mean, do you hear,
+
+01:52:18.020 --> 01:52:19.420
+like when you're thinking about lyrics,
+
+01:52:19.420 --> 01:52:21.860
+do you hear the idea of the words?
+
+01:52:21.860 --> 01:52:22.700
+100%.
+
+01:52:22.700 --> 01:52:26.300
+And especially what's great, you know, with Trey
+
+01:52:26.300 --> 01:52:28.620
+is I write for his voice.
+
+01:52:28.620 --> 01:52:32.460
+And then we have these amazing backup singers
+
+01:52:32.460 --> 01:52:35.220
+that are just, and I can hear all of it.
+
+01:52:35.220 --> 01:52:36.500
+I just can't do it.
+
+01:52:37.860 --> 01:52:41.740
+And so I'd say to, of our stuff,
+
+01:52:41.740 --> 01:52:46.340
+there's a song called Half My Fault that I play in Open G
+
+01:52:46.340 --> 01:52:49.060
+that just, I love playing the song.
+
+01:52:49.060 --> 01:52:50.540
+I love that energy.
+
+01:52:50.540 --> 01:52:53.940
+And then there's, we have a new blues album coming out
+
+01:52:53.940 --> 01:52:58.940
+and there's a song called Baby We're Through
+
+01:52:59.180 --> 01:53:01.260
+and it just stays on the one.
+
+01:53:01.260 --> 01:53:03.820
+And for non-musicians, that means,
+
+01:53:03.820 --> 01:53:05.540
+like in a lot of rock and roll and blues,
+
+01:53:05.540 --> 01:53:09.300
+it's what's called a one, four, five progression
+
+01:53:09.300 --> 01:53:11.020
+from your kind of root note.
+
+01:53:11.020 --> 01:53:13.100
+And you would hear, if you're a non-musician,
+
+01:53:13.100 --> 01:53:14.740
+if you heard it, you'd be like, oh yeah,
+
+01:53:14.740 --> 01:53:16.500
+that's a lot of songs.
+
+01:53:16.500 --> 01:53:18.940
+And this song just stays on the same groove,
+
+01:53:18.940 --> 01:53:23.380
+like La Grange or Shake Your Hips or any of those songs.
+
+01:53:23.420 --> 01:53:26.900
+And it's just got this unbelievable energy
+
+01:53:26.900 --> 01:53:27.740
+and it's fun to play,
+
+01:53:27.740 --> 01:53:30.900
+but I have to keep the same rhythmic thing
+
+01:53:30.900 --> 01:53:32.820
+going for the whole song.
+
+01:53:32.820 --> 01:53:34.020
+With that simplicity, I mean,
+
+01:53:34.020 --> 01:53:36.660
+the personality of the song can really shine.
+
+01:53:36.660 --> 01:53:41.660
+I mean, Trey's, I mean, that guy, really cool.
+
+01:53:42.180 --> 01:53:44.060
+It just comes through.
+
+01:53:44.060 --> 01:53:45.740
+I mean, I guess you need that from a lead singer.
+
+01:53:45.740 --> 01:53:47.380
+It's just like, it's just.
+
+01:53:47.380 --> 01:53:48.500
+Yeah, you gotta have that.
+
+01:53:48.500 --> 01:53:51.180
+And my other guitar player, Johnny Bob,
+
+01:53:51.420 --> 01:53:56.420
+he's a phenomenal, I mean, like a legitimate guitar slinger.
+
+01:53:59.220 --> 01:54:03.260
+We probably split the leads 70, 30,
+
+01:54:03.260 --> 01:54:08.020
+and he is just, there's times sometimes I look over at him
+
+01:54:08.020 --> 01:54:09.500
+and I'm like, I'm being a fan right now
+
+01:54:09.500 --> 01:54:11.860
+because what you just laid down is pretty good.
+
+01:54:12.780 --> 01:54:14.060
+From a lead perspective,
+
+01:54:14.060 --> 01:54:16.260
+what's the most fun thing to play?
+
+01:54:16.260 --> 01:54:17.540
+What kind of stuff do you like?
+
+01:54:17.540 --> 01:54:18.460
+Do you like slow?
+
+01:54:18.460 --> 01:54:21.780
+Do you like, I mean, if you feel like thrill is gone.
+
+01:54:21.780 --> 01:54:23.980
+So if you look at B.B. King, sometimes one note
+
+01:54:23.980 --> 01:54:25.820
+just bending the shit out of them.
+
+01:54:25.820 --> 01:54:27.060
+What do you call that, vibrato?
+
+01:54:27.060 --> 01:54:28.700
+Yeah, if I'm gonna play the lead,
+
+01:54:28.700 --> 01:54:30.300
+it's a certain kind of feel.
+
+01:54:30.300 --> 01:54:33.860
+Slow blues is probably my favorite to play,
+
+01:54:33.860 --> 01:54:35.460
+or something that's got a little more
+
+01:54:35.460 --> 01:54:37.820
+of that Chuck Berry drive
+
+01:54:37.820 --> 01:54:40.020
+where you can be rhythmic in the lead.
+
+01:54:42.380 --> 01:54:45.260
+I can't, the shredding thing that those guys do
+
+01:54:45.260 --> 01:54:47.580
+is that that's not my.
+
+01:54:47.620 --> 01:54:51.380
+I was actually always able to do that really well.
+
+01:54:51.380 --> 01:54:53.580
+Like you mentioned people that pick up fast,
+
+01:54:53.580 --> 01:54:55.900
+like maybe it's the classical piano training.
+
+01:54:55.900 --> 01:54:58.900
+I can play super fast on guitar, super technical,
+
+01:54:58.900 --> 01:55:02.060
+but to me the hardest thing and my favorite thing
+
+01:55:02.060 --> 01:55:06.420
+is it's just, it has probably less to do with the guitar,
+
+01:55:06.420 --> 01:55:10.220
+more living on life that's worth playing a guitar for,
+
+01:55:10.220 --> 01:55:13.660
+which is like a certain kind of emotion
+
+01:55:13.660 --> 01:55:15.540
+that you can put into the notes.
+
+01:55:15.540 --> 01:55:16.980
+And that has to do with bending notes.
+
+01:55:16.980 --> 01:55:20.860
+Well, like bending notes is a whole other art form of,
+
+01:55:22.540 --> 01:55:26.340
+I worked surprisingly a long time on Comfortably Numb.
+
+01:55:28.540 --> 01:55:31.940
+And there's, so David Gilmore does a lot of bending
+
+01:55:31.940 --> 01:55:35.300
+and they're simple, they sound simple,
+
+01:55:35.300 --> 01:55:40.300
+but the dynamics of them to express like a buildup
+
+01:55:42.020 --> 01:55:45.460
+in the way it's held and there's often a vibrato at the top
+
+01:55:46.420 --> 01:55:51.420
+for a bit, just that the, it's almost like a sigh
+
+01:55:52.620 --> 01:55:54.420
+and a sigh of relief and the buildup.
+
+01:55:54.420 --> 01:55:56.780
+I mean, it's just the, that's an art form for him
+
+01:55:56.780 --> 01:55:58.100
+that's hard to get right.
+
+01:55:58.100 --> 01:56:00.220
+It's not just playing a note, playing a note,
+
+01:56:00.220 --> 01:56:04.660
+playing a note, it's in that like dynamic movement
+
+01:56:04.660 --> 01:56:06.420
+of a note that so much can happen.
+
+01:56:06.420 --> 01:56:08.260
+That's where the blues just happens to.
+
+01:56:08.260 --> 01:56:11.420
+It's, look, I'm a huge Freddie King fan too, right?
+
+01:56:11.420 --> 01:56:14.360
+And you listen to these guys and they're,
+
+01:56:15.980 --> 01:56:17.300
+you sit there and they're like, man,
+
+01:56:17.300 --> 01:56:21.420
+you're playing in a small range on the neck,
+
+01:56:22.540 --> 01:56:26.860
+but in, it's like, I know the notes you're playing
+
+01:56:26.860 --> 01:56:30.380
+and I'm playing them too, but not like that, right?
+
+01:56:30.380 --> 01:56:33.460
+I mean, it's in, Gilmore is certainly one of those guys
+
+01:56:33.460 --> 01:56:35.980
+that's incredible guitar player.
+
+01:56:35.980 --> 01:56:40.500
+And yet another chapter of an amazing life.
+
+01:56:40.500 --> 01:56:43.060
+You love football, like you meant, you play football?
+
+01:56:43.060 --> 01:56:43.900
+Yes.
+
+01:56:43.900 --> 01:56:44.720
+What positions you play?
+
+01:56:44.720 --> 01:56:45.560
+Wider saver.
+
+01:56:45.560 --> 01:56:48.200
+Wider saver, awesome.
+
+01:56:48.200 --> 01:56:52.800
+So maybe we can talk a little bit about your love
+
+01:56:52.800 --> 01:56:57.800
+of football and the fact that you are part owner
+
+01:56:58.720 --> 01:57:00.760
+of the Pittsburgh Steelers.
+
+01:57:00.760 --> 01:57:01.600
+Yeah.
+
+01:57:01.600 --> 01:57:04.000
+So, I mean, where do we start to start at the beginning?
+
+01:57:04.000 --> 01:57:05.240
+Let's start at the end.
+
+01:57:05.240 --> 01:57:06.800
+Why the Steelers?
+
+01:57:06.800 --> 01:57:09.640
+What attracted you to the, first of all,
+
+01:57:09.640 --> 01:57:12.640
+I think not to be controversial,
+
+01:57:12.640 --> 01:57:16.000
+but one of the best uniforms in football
+
+01:57:16.000 --> 01:57:19.120
+in terms of just like black and gold, just.
+
+01:57:19.120 --> 01:57:20.920
+Decal only on one side.
+
+01:57:20.920 --> 01:57:21.920
+Yeah, it's great.
+
+01:57:21.920 --> 01:57:23.160
+Yeah, the helmet.
+
+01:57:23.160 --> 01:57:27.120
+Look, I've bled black and gold since I was a little boy.
+
+01:57:27.120 --> 01:57:29.600
+I grew up in upstate New York
+
+01:57:29.600 --> 01:57:32.480
+and the first football game I ever saw
+
+01:57:32.480 --> 01:57:34.440
+was the Steelers in the Superbowl
+
+01:57:34.440 --> 01:57:35.800
+as a really little kid.
+
+01:57:35.800 --> 01:57:40.000
+And it just, I mean, Jack Lambert and Joe Green
+
+01:57:40.000 --> 01:57:41.920
+and Franco Harris and those guys were like,
+
+01:57:41.920 --> 01:57:45.680
+came down from Olympia, Mount Olympus or something.
+
+01:57:45.680 --> 01:57:48.520
+And I just was enamored with the team.
+
+01:57:48.520 --> 01:57:50.800
+And because we only had three channels,
+
+01:57:50.800 --> 01:57:53.040
+the only time I'd get to see them is occasionally
+
+01:57:53.040 --> 01:57:55.600
+when they were the game of the week or something.
+
+01:57:57.040 --> 01:58:02.040
+And I just loved to me what they stood for, the toughness.
+
+01:58:02.640 --> 01:58:07.640
+And they played football the way that I thought was great.
+
+01:58:08.160 --> 01:58:10.080
+I was a huge Jack Lambert fan,
+
+01:58:11.040 --> 01:58:14.040
+our hall of fame linebacker
+
+01:58:14.040 --> 01:58:15.840
+who just intimidated everybody.
+
+01:58:15.840 --> 01:58:17.880
+So that was like the, that was the decade
+
+01:58:17.880 --> 01:58:19.840
+of the steel curtain, like the,
+
+01:58:21.520 --> 01:58:24.280
+I mean, arguably one of the great sort of defensive
+
+01:58:24.280 --> 01:58:26.600
+of in football history.
+
+01:58:26.600 --> 01:58:30.520
+And also one of the greatest football teams period
+
+01:58:30.520 --> 01:58:32.400
+in football history.
+
+01:58:32.400 --> 01:58:34.160
+I've been a lifelong fan
+
+01:58:34.920 --> 01:58:38.760
+and was very fortunate to meet Mr. Rooney.
+
+01:58:39.840 --> 01:58:43.000
+The Rooney family started the team in 1933,
+
+01:58:44.080 --> 01:58:48.160
+got to know him and just was asked
+
+01:58:48.160 --> 01:58:49.760
+to be part of the ownership group.
+
+01:58:49.760 --> 01:58:52.520
+I think it was the end of 2007.
+
+01:58:52.520 --> 01:58:54.520
+First year as part of the group in 2008,
+
+01:58:54.520 --> 01:58:59.520
+we won the Superbowl and it was like beyond surreal
+
+01:58:59.880 --> 01:59:01.880
+and just beyond surreal.
+
+01:59:01.880 --> 01:59:06.880
+And it's amazing to be able to do.
+
+01:59:07.840 --> 01:59:12.840
+I mean, the Rooney family is one of those most revered
+
+01:59:13.040 --> 01:59:16.800
+in sports for the way they conduct themselves.
+
+01:59:16.800 --> 01:59:20.960
+Mr. Rooney passed away, I think five years ago now
+
+01:59:20.960 --> 01:59:23.960
+and we lost him, but was a champion, helped build the league.
+
+01:59:23.960 --> 01:59:27.280
+I mean, put the league as we know it together.
+
+01:59:27.280 --> 01:59:29.840
+More importantly, was a civil rights champion
+
+01:59:30.800 --> 01:59:33.400
+who created what we now call the Rooney rule
+
+01:59:34.520 --> 01:59:36.040
+to make sure that we're being fair
+
+01:59:36.040 --> 01:59:40.440
+about giving minority coaches a chance to get hired.
+
+01:59:40.440 --> 01:59:44.720
+And just as one of the most kind
+
+01:59:44.720 --> 01:59:47.880
+and amazing human beings I ever met.
+
+01:59:47.880 --> 01:59:51.880
+It's incredible what sport does
+
+01:59:54.280 --> 01:59:55.960
+to bring out the best in people,
+
+01:59:55.960 --> 01:59:58.320
+to give people hope, to inspire people.
+
+01:59:58.320 --> 01:59:59.840
+There is something about football
+
+01:59:59.840 --> 02:00:04.840
+that has all the elements of a great sport.
+
+02:00:04.880 --> 02:00:09.880
+It's the teamwork, it's the sort of the combat aspect of it.
+
+02:00:10.280 --> 02:00:11.840
+It's like, it's the purity of it.
+
+02:00:11.840 --> 02:00:16.840
+It's of like strength and power and speed
+
+02:00:18.520 --> 02:00:21.720
+and all the elements of like last minute,
+
+02:00:21.720 --> 02:00:25.120
+close calls required to win the game.
+
+02:00:25.120 --> 02:00:27.760
+And where referee decisions,
+
+02:00:27.760 --> 02:00:29.320
+of course that's essential for a sport,
+
+02:00:29.320 --> 02:00:30.920
+can screw up the whole thing.
+
+02:00:30.920 --> 02:00:32.240
+Just go all of it together.
+
+02:00:32.240 --> 02:00:37.000
+I think just, I don't know, it gives the drama
+
+02:00:37.000 --> 02:00:40.080
+and the triumphs are just beautiful.
+
+02:00:40.080 --> 02:00:42.480
+Like some of my favorite memories,
+
+02:00:42.480 --> 02:00:43.680
+I don't know if it's an accident
+
+02:00:43.680 --> 02:00:45.640
+or this is common with people,
+
+02:00:45.640 --> 02:00:48.360
+is just with friends watching football
+
+02:00:48.360 --> 02:00:50.040
+and connecting over that.
+
+02:00:51.320 --> 02:00:54.200
+Yeah, well, look, it's an incredible game
+
+02:00:54.200 --> 02:00:56.080
+because there's nowhere to hide, right?
+
+02:00:56.080 --> 02:00:57.680
+You're out there on the field.
+
+02:00:57.680 --> 02:01:02.080
+You know, it's a great game that requires
+
+02:01:02.080 --> 02:01:04.320
+not only all those attributes that you said,
+
+02:01:04.320 --> 02:01:07.560
+but it's incredibly complex game.
+
+02:01:07.560 --> 02:01:09.160
+So if you don't know what you're looking at
+
+02:01:09.160 --> 02:01:12.360
+and you don't understand how complex defenses
+
+02:01:12.360 --> 02:01:14.880
+are trying to disguise what they're doing,
+
+02:01:14.880 --> 02:01:17.040
+offenses are trying to overcome that
+
+02:01:17.040 --> 02:01:22.040
+and you can set up one play the entire game.
+
+02:01:22.280 --> 02:01:26.920
+But a team that plays well together, right?
+
+02:01:26.920 --> 02:01:28.320
+Knows their plays inside and out,
+
+02:01:28.320 --> 02:01:30.360
+knows their assignments inside and out,
+
+02:01:30.360 --> 02:01:33.920
+can overcome and beat a more physically gifted team
+
+02:01:33.920 --> 02:01:38.760
+because of that aspect of working together.
+
+02:01:38.760 --> 02:01:43.000
+One of the things that I always loved about sports
+
+02:01:43.000 --> 02:01:46.000
+is just you're out there,
+
+02:01:46.000 --> 02:01:48.960
+there's a set of rules and there's a scoreboard.
+
+02:01:48.960 --> 02:01:51.880
+So at the end of that game, it says,
+
+02:01:52.720 --> 02:01:55.040
+and you can make excuses about the refs
+
+02:01:55.040 --> 02:01:56.240
+or this happened or that happened,
+
+02:01:56.240 --> 02:02:01.240
+but at the end of the day, did you go out and compete?
+
+02:02:02.280 --> 02:02:06.200
+And when you went out and were a competitor,
+
+02:02:06.200 --> 02:02:08.280
+how did it work out, right?
+
+02:02:08.280 --> 02:02:11.320
+And the simplicity of that and the purity of that
+
+02:02:12.280 --> 02:02:15.720
+is something that I always have been drawn to.
+
+02:02:15.720 --> 02:02:19.360
+What about the business of sort of owning a team
+
+02:02:19.360 --> 02:02:20.520
+or putting together a team
+
+02:02:21.080 --> 02:02:23.920
+to build up a team that's going to be a great team?
+
+02:02:23.920 --> 02:02:25.280
+What are some interesting aspects
+
+02:02:25.280 --> 02:02:27.680
+that people might not realize that you can carry over
+
+02:02:27.680 --> 02:02:31.880
+from all the other experience you have in business?
+
+02:02:32.840 --> 02:02:36.160
+I think the hardest thing about professional sports,
+
+02:02:36.160 --> 02:02:39.720
+right now it's individuals getting paid money
+
+02:02:39.720 --> 02:02:42.840
+to play a sport, which is different than,
+
+02:02:42.840 --> 02:02:45.080
+it's certainly different than amateur.
+
+02:02:45.080 --> 02:02:48.400
+And the decisions that are hard
+
+02:02:48.440 --> 02:02:50.600
+is when you get to know somebody
+
+02:02:50.600 --> 02:02:52.120
+who's a player on the team
+
+02:02:53.000 --> 02:02:55.160
+and either they're at the end of their career
+
+02:02:55.160 --> 02:02:57.320
+or you need to go in a different direction
+
+02:02:57.320 --> 02:03:00.800
+and that person who's done everything that you've asked,
+
+02:03:01.760 --> 02:03:03.880
+whatever the coaches have asked of that person
+
+02:03:03.880 --> 02:03:05.920
+and you get close to them.
+
+02:03:05.920 --> 02:03:09.040
+And then when they have to be traded, released
+
+02:03:09.040 --> 02:03:12.080
+or whatever happens, that's sad.
+
+02:03:12.080 --> 02:03:17.080
+And being able to stand back and in some ways
+
+02:03:17.840 --> 02:03:20.960
+be dispassionate and not be a fan, right?
+
+02:03:20.960 --> 02:03:25.840
+There's a, I'm on the baseball hall of fame board
+
+02:03:25.840 --> 02:03:29.600
+and one of the guys that's on the board of me
+
+02:03:29.600 --> 02:03:30.600
+is Jerry Reinsdorf.
+
+02:03:30.600 --> 02:03:32.840
+And I think it was Jerry who said,
+
+02:03:32.840 --> 02:03:35.520
+if you act like a fan, you'll be sitting with them.
+
+02:03:35.520 --> 02:03:37.800
+Which I thought was kind of funny.
+
+02:03:37.800 --> 02:03:40.600
+Well, I got to push back on that a little bit
+
+02:03:40.600 --> 02:03:43.720
+as by way of a fan asking a dumb question.
+
+02:03:47.520 --> 02:03:49.240
+Okay, let me just give some examples.
+
+02:03:49.240 --> 02:03:51.600
+It's very common in sport.
+
+02:03:51.600 --> 02:03:54.360
+It's funny you said this example of like
+
+02:03:54.360 --> 02:03:57.360
+certain great players going to another team
+
+02:03:57.360 --> 02:03:59.000
+right at the end of their career.
+
+02:04:00.880 --> 02:04:02.960
+And it always makes me sad.
+
+02:04:02.960 --> 02:04:04.360
+It almost makes me want to wish
+
+02:04:04.360 --> 02:04:06.560
+that you kind of retired right there.
+
+02:04:08.320 --> 02:04:10.840
+From a perspective of just like,
+
+02:04:10.840 --> 02:04:15.520
+do you ever as an owner, but just in that space,
+
+02:04:15.520 --> 02:04:18.720
+think about like the Steelers
+
+02:04:18.720 --> 02:04:21.640
+in the full arc of human history.
+
+02:04:21.640 --> 02:04:23.920
+So not like as a business.
+
+02:04:23.920 --> 02:04:26.160
+I mean, okay, this question might be absurd.
+
+02:04:26.160 --> 02:04:28.640
+I don't have to think about it as a business.
+
+02:04:28.640 --> 02:04:30.480
+You know, I'm a minority owner
+
+02:04:30.480 --> 02:04:33.080
+so I can think about it almost as a fan,
+
+02:04:33.080 --> 02:04:34.080
+but I'm sorry, go ahead.
+
+02:04:34.080 --> 02:04:35.400
+Yeah, well, that's what I mean.
+
+02:04:35.400 --> 02:04:38.440
+I suppose this is a dumb question to think of,
+
+02:04:40.400 --> 02:04:42.960
+like of a business in that way.
+
+02:04:42.960 --> 02:04:45.680
+Not just investment, but like,
+
+02:04:46.920 --> 02:04:50.480
+like legacy of like what footprint would you leave
+
+02:04:50.480 --> 02:04:52.760
+on this world, on this history?
+
+02:04:52.760 --> 02:04:55.960
+That is one thing that I can say unequivocally.
+
+02:04:55.960 --> 02:04:59.400
+And I only have the experience that I have.
+
+02:04:59.400 --> 02:05:02.440
+But one of the things that I'm so proud of
+
+02:05:03.800 --> 02:05:07.720
+about the way the Steelers conduct themselves is,
+
+02:05:07.720 --> 02:05:08.920
+and that's the Rooney family.
+
+02:05:08.920 --> 02:05:10.600
+That's the legacy of the Rooney family
+
+02:05:10.600 --> 02:05:13.480
+is asking constantly about what's right for the league,
+
+02:05:13.480 --> 02:05:15.400
+what's right for the players.
+
+02:05:15.400 --> 02:05:19.040
+You know, what's the right thing to do here?
+
+02:05:19.040 --> 02:05:22.200
+And that's something that I would hear Mr. Rooney say
+
+02:05:22.200 --> 02:05:23.040
+all the time.
+
+02:05:23.040 --> 02:05:25.440
+So I think that legacy is important
+
+02:05:25.440 --> 02:05:29.640
+because ultimately the team belongs to that city, right?
+
+02:05:29.640 --> 02:05:32.600
+Belongs to those fans and, you know,
+
+02:05:32.600 --> 02:05:35.360
+the owners are the custodians of that.
+
+02:05:35.360 --> 02:05:39.200
+So I think, and when you realize
+
+02:05:39.200 --> 02:05:42.360
+what sports teams mean to the fans,
+
+02:05:42.360 --> 02:05:45.480
+the memories that it creates, the bonds that it creates,
+
+02:05:45.480 --> 02:05:47.640
+it's a, you know, it's a responsibility.
+
+02:05:50.360 --> 02:05:54.560
+And I think that you do have to think beyond the,
+
+02:05:54.560 --> 02:05:57.160
+you know, certainly not just dollars and cents,
+
+02:05:57.160 --> 02:06:02.160
+but just sports is a very big deal in our society.
+
+02:06:03.000 --> 02:06:06.720
+And it has to be, I think held to a standard
+
+02:06:07.720 --> 02:06:11.720
+that's not just, well, were we profitable this year?
+
+02:06:11.720 --> 02:06:14.840
+That's, there are other businesses for that.
+
+02:06:14.840 --> 02:06:16.240
+It is certainly a business.
+
+02:06:16.240 --> 02:06:19.200
+I don't mean to romanticize to the point that it's not,
+
+02:06:19.200 --> 02:06:22.240
+but to me it's more than that,
+
+02:06:22.240 --> 02:06:24.800
+or at least my experience has been that it's more than that.
+
+02:06:24.800 --> 02:06:27.640
+It's a source of meaning for millions of people.
+
+02:06:27.640 --> 02:06:32.120
+Like, and you see that most like during COVID, for example,
+
+02:06:32.120 --> 02:06:33.720
+when there's so much desperation,
+
+02:06:33.720 --> 02:06:35.480
+so many people losing their jobs,
+
+02:06:35.480 --> 02:06:37.360
+so many people having to deal with the uncertainty
+
+02:06:37.360 --> 02:06:39.040
+of what the future holds.
+
+02:06:39.040 --> 02:06:42.840
+There's something about sports that just unites us that,
+
+02:06:42.840 --> 02:06:47.520
+again, the tragedy and the triumphs of sport,
+
+02:06:47.520 --> 02:06:50.000
+of uniting, of gathering together
+
+02:06:50.000 --> 02:06:52.440
+with your friends, with family, shared experience
+
+02:06:52.440 --> 02:06:56.680
+of over like this, yeah, over just team,
+
+02:06:56.680 --> 02:06:59.960
+over rooting for your team, for your city, ultimately.
+
+02:06:59.960 --> 02:07:03.320
+And the access, you know, again, as I alluded to,
+
+02:07:03.320 --> 02:07:05.320
+we didn't have anything when I was growing up,
+
+02:07:06.160 --> 02:07:07.760
+but I would pour through the box scores.
+
+02:07:07.760 --> 02:07:10.320
+I was a huge Yankee fan and Steeler fan,
+
+02:07:10.320 --> 02:07:13.680
+and feeling some ownership of that, right?
+
+02:07:13.680 --> 02:07:16.280
+That I could read the box score and relive what they did,
+
+02:07:16.280 --> 02:07:18.840
+and occasionally see them on TV
+
+02:07:18.840 --> 02:07:22.480
+and feel like I was part of that celebration
+
+02:07:22.480 --> 02:07:24.120
+when they won and everything.
+
+02:07:24.120 --> 02:07:26.160
+It's a very powerful thing.
+
+02:07:27.440 --> 02:07:29.400
+You've been exceptionally successful
+
+02:07:29.400 --> 02:07:31.960
+in a bunch of avenues and a bunch of efforts.
+
+02:07:31.960 --> 02:07:34.680
+What advice would you give to a young person today?
+
+02:07:34.760 --> 02:07:38.200
+A high school student, a college undergraduate
+
+02:07:38.200 --> 02:07:42.560
+that's thinking about career,
+
+02:07:42.560 --> 02:07:44.880
+maybe advice, not about just career,
+
+02:07:44.880 --> 02:07:48.000
+but about how to live a life they can be proud of?
+
+02:07:49.120 --> 02:07:51.720
+You know, we talked earlier about intellectual honesty,
+
+02:07:51.720 --> 02:07:55.120
+and to me, that's the first step of just saying,
+
+02:07:55.120 --> 02:07:58.000
+to the best of your ability, who am I,
+
+02:07:58.000 --> 02:07:59.920
+and what's important to me,
+
+02:07:59.920 --> 02:08:01.960
+and what do I wanna do and accomplish?
+
+02:08:02.960 --> 02:08:05.040
+If you can start with that
+
+02:08:05.040 --> 02:08:09.960
+and develop some sort of rules-based philosophical,
+
+02:08:09.960 --> 02:08:14.000
+here's what I'll do, what I won't do,
+
+02:08:14.000 --> 02:08:18.160
+and that way, you can be flexible and pliable,
+
+02:08:18.160 --> 02:08:19.160
+and you're gonna need to be,
+
+02:08:19.160 --> 02:08:24.160
+but if you still have a compass that tells you,
+
+02:08:25.080 --> 02:08:28.240
+hey, at least I know this is the path I'm gonna take,
+
+02:08:28.240 --> 02:08:29.880
+I think that's very important.
+
+02:08:29.920 --> 02:08:33.000
+The rules you're referring to, the principles,
+
+02:08:33.000 --> 02:08:35.800
+that's kind of like underlying integrity,
+
+02:08:35.800 --> 02:08:39.000
+so knowing what lines you don't cross on this path.
+
+02:08:39.000 --> 02:08:42.760
+Exactly right, because if you have those absolutes,
+
+02:08:42.760 --> 02:08:46.240
+there are many decisions that come into focus very quickly,
+
+02:08:46.240 --> 02:08:49.040
+right, because, hey, that's not for me,
+
+02:08:49.040 --> 02:08:53.960
+or, hey, I'm willing to do whatever it takes to do X, Y, and Z.
+
+02:08:53.960 --> 02:08:56.360
+And it has to do with the thing you were talking about.
+
+02:08:56.360 --> 02:08:57.400
+It's kind of interesting,
+
+02:08:57.400 --> 02:09:00.120
+you mentioned earlier in the conversation
+
+02:09:00.120 --> 02:09:03.360
+about slippery slope, and that's how often it happens,
+
+02:09:03.360 --> 02:09:07.800
+like how the slipping into unethical behavior happens.
+
+02:09:07.800 --> 02:09:09.920
+It's the slippery slope of little adjustments.
+
+02:09:09.920 --> 02:09:13.960
+You put stuff off, and I found that to be,
+
+02:09:15.400 --> 02:09:19.800
+I've been fortunate to not have to encounter these moments
+
+02:09:19.800 --> 02:09:22.720
+very much in my life, but I still encounter them.
+
+02:09:22.720 --> 02:09:25.360
+That's what integrity, I think, looks like,
+
+02:09:26.200 --> 02:09:29.080
+as the slippery slope is happening,
+
+02:09:29.080 --> 02:09:33.280
+those little things is, without drama,
+
+02:09:33.280 --> 02:09:35.960
+without making a show of it,
+
+02:09:35.960 --> 02:09:38.600
+making a decision that stands behind your principles
+
+02:09:38.600 --> 02:09:40.320
+and just walking away.
+
+02:09:40.320 --> 02:09:42.920
+Yeah, and besides the big ideas,
+
+02:09:42.920 --> 02:09:46.080
+I'm gonna change the world, I'm gonna innovate,
+
+02:09:46.080 --> 02:09:48.080
+I'm gonna do all those other things,
+
+02:09:48.080 --> 02:09:51.320
+I also start, if I'm giving any advice,
+
+02:09:51.320 --> 02:09:54.160
+which we can debate whether or not
+
+02:09:54.160 --> 02:09:57.920
+I should be giving advice, but just in terms of,
+
+02:09:57.920 --> 02:09:59.120
+well, let me start with this.
+
+02:09:59.120 --> 02:10:01.160
+Are you a good friend?
+
+02:10:01.160 --> 02:10:02.880
+Can you be counted on?
+
+02:10:02.880 --> 02:10:07.120
+Do you do what you say you're going to do, right?
+
+02:10:07.120 --> 02:10:09.800
+Are you accountable to what you sign up for,
+
+02:10:09.800 --> 02:10:12.080
+and do you hold others accountable, right?
+
+02:10:12.080 --> 02:10:13.760
+What does all that look like?
+
+02:10:13.760 --> 02:10:18.760
+And then I think it's being as intellectually curious
+
+02:10:18.840 --> 02:10:20.160
+and well-read as you can be.
+
+02:10:20.160 --> 02:10:23.360
+We live in a world that is designed to distract you.
+
+02:10:24.560 --> 02:10:27.560
+And being able to sit with your thoughts
+
+02:10:27.560 --> 02:10:30.920
+or go on a walk and think deeply about something,
+
+02:10:30.920 --> 02:10:34.680
+and not just surface area, you text me, I text you back,
+
+02:10:34.680 --> 02:10:36.640
+and we decide the fate of the world
+
+02:10:36.640 --> 02:10:39.120
+based on a couple of text messages or something.
+
+02:10:42.320 --> 02:10:46.600
+You don't wanna lose touch, I think, with being well-read
+
+02:10:46.600 --> 02:10:50.800
+and understanding and standing on great thinkers' shoulders
+
+02:10:51.520 --> 02:10:55.360
+and learning from those works.
+
+02:10:55.360 --> 02:11:00.360
+And then I also think that there's resiliency
+
+02:11:00.400 --> 02:11:02.320
+and then there's grit.
+
+02:11:02.320 --> 02:11:04.400
+And I heard someone say one time
+
+02:11:04.400 --> 02:11:06.880
+that those are slightly different.
+
+02:11:06.880 --> 02:11:11.400
+And I'm also, I know that there are all kinds
+
+02:11:11.400 --> 02:11:16.400
+of challenges in life that are tragic, that are unfair.
+
+02:11:16.680 --> 02:11:19.280
+There's no question that's the world we live in.
+
+02:11:19.280 --> 02:11:23.080
+But for me personally, to try as much as possible
+
+02:11:23.080 --> 02:11:26.880
+not to be in the victim mindset,
+
+02:11:26.880 --> 02:11:30.680
+because unfair things are gonna happen.
+
+02:11:30.680 --> 02:11:35.680
+And we all wanna live in an idealistic, just world.
+
+02:11:36.480 --> 02:11:38.760
+That should be what we aspire to.
+
+02:11:39.720 --> 02:11:43.000
+I haven't seen that yet, I haven't experienced that yet,
+
+02:11:43.000 --> 02:11:47.120
+but yet you still have to function in that world.
+
+02:11:47.120 --> 02:11:52.120
+So I think that that resiliency thing is very important.
+
+02:11:52.760 --> 02:11:56.920
+And then putting yourself out there, right?
+
+02:11:56.920 --> 02:11:58.280
+Because if you play scared
+
+02:11:58.280 --> 02:11:59.920
+and you're always afraid to fail,
+
+02:12:02.240 --> 02:12:03.800
+this is probably a dumb way
+
+02:12:03.800 --> 02:12:05.160
+to get to the end of the podcast.
+
+02:12:05.160 --> 02:12:09.040
+But there are times, especially on Mount West,
+
+02:12:09.040 --> 02:12:13.720
+I love the big sky out in Montana, Idaho, places like that.
+
+02:12:13.720 --> 02:12:16.080
+And when you look up at night, it's almost like,
+
+02:12:16.080 --> 02:12:18.280
+I've never seen anything like this before,
+
+02:12:18.280 --> 02:12:21.240
+because there's no light pollution, so to speak.
+
+02:12:22.480 --> 02:12:23.920
+And sometimes when I look up,
+
+02:12:23.920 --> 02:12:26.200
+the most daunting problems that I'm experiencing,
+
+02:12:26.200 --> 02:12:29.640
+I'm like, those things have been there
+
+02:12:29.640 --> 02:12:33.320
+for a billion years or whatever, and I'll be gone.
+
+02:12:33.320 --> 02:12:38.160
+And it doesn't, the most famous person on earth,
+
+02:12:38.160 --> 02:12:43.160
+200 years ago, so it's pretty fleeting.
+
+02:12:43.520 --> 02:12:46.600
+And so make sure you have a good journey,
+
+02:12:46.600 --> 02:12:49.040
+and especially coming out of COVID,
+
+02:12:49.040 --> 02:12:52.240
+I think telling people that you care about them
+
+02:12:52.240 --> 02:12:55.400
+and maintaining and cultivating your friendships
+
+02:12:55.400 --> 02:12:59.280
+and relationships, and they're not just transactional, right?
+
+02:12:59.280 --> 02:13:03.320
+And making sure that someday when you're laying there,
+
+02:13:03.320 --> 02:13:05.600
+you can say, yeah, I was a good family member.
+
+02:13:05.600 --> 02:13:08.680
+I was a good friend.
+
+02:13:08.680 --> 02:13:10.480
+I was someone that could be counted on.
+
+02:13:10.760 --> 02:13:13.760
+I think all those things go into the mix of,
+
+02:13:13.760 --> 02:13:15.800
+however you wanna take the journey.
+
+02:13:15.800 --> 02:13:17.240
+So when you look up to the stars,
+
+02:13:17.240 --> 02:13:21.240
+do you think about that quickly approaching end of yours?
+
+02:13:21.240 --> 02:13:22.880
+Do you think about your own mortality?
+
+02:13:22.880 --> 02:13:24.320
+Do you think about your death?
+
+02:13:24.320 --> 02:13:26.120
+Are you afraid of your death?
+
+02:13:26.120 --> 02:13:28.680
+I'm a huge fan of Stoicism, right?
+
+02:13:28.680 --> 02:13:30.840
+I read a lot of Stoicism.
+
+02:13:32.360 --> 02:13:34.080
+I think Ryan Holiday's done a great job
+
+02:13:34.080 --> 02:13:37.080
+of bringing some of that back into the forefront.
+
+02:13:37.160 --> 02:13:41.360
+It's just really thought-provoking to me,
+
+02:13:41.360 --> 02:13:43.840
+and rings, a lot of it rings, just hits me
+
+02:13:43.840 --> 02:13:45.680
+and says, I think that's right.
+
+02:13:45.680 --> 02:13:49.760
+And that momento mori thing, which is,
+
+02:13:49.760 --> 02:13:53.400
+hey, we're all gonna die, so you should contemplate it.
+
+02:13:54.360 --> 02:13:56.720
+There's a finality to this thing.
+
+02:13:56.720 --> 02:14:01.160
+And so I think if you can rightly frame that
+
+02:14:01.160 --> 02:14:05.160
+between fretting about it every day and being afraid,
+
+02:14:05.200 --> 02:14:07.360
+and being so laissez-faire that you think
+
+02:14:07.360 --> 02:14:09.840
+you're gonna live forever,
+
+02:14:11.040 --> 02:14:13.560
+it'll influence some of the decisions you make.
+
+02:14:13.560 --> 02:14:16.960
+It will influence the way you attack things
+
+02:14:18.360 --> 02:14:21.080
+and hopefully the way that you live your life.
+
+02:14:21.080 --> 02:14:26.080
+So yes, I wouldn't say I obsess over it,
+
+02:14:26.080 --> 02:14:28.240
+and I wouldn't say it's omnipresent,
+
+02:14:29.400 --> 02:14:31.480
+but because I read a lot of Stoicism,
+
+02:14:31.480 --> 02:14:33.680
+and just I think it's really important
+
+02:14:33.840 --> 02:14:36.960
+and just I think it's right to pause and say,
+
+02:14:37.840 --> 02:14:38.760
+who knows, right?
+
+02:14:38.760 --> 02:14:41.320
+There's gonna be an expiration date.
+
+02:14:42.360 --> 02:14:44.000
+And if it happened tomorrow,
+
+02:14:44.000 --> 02:14:46.760
+have I done the things I wanted to do?
+
+02:14:46.760 --> 02:14:50.160
+And am I the person I wanted to be?
+
+02:14:50.160 --> 02:14:52.120
+And I think it's important along the way
+
+02:14:52.120 --> 02:14:53.880
+to check those things.
+
+02:14:53.880 --> 02:14:58.480
+Yeah, I try to make sure that I actually visualize this,
+
+02:14:58.480 --> 02:15:01.400
+that I'm okay dying at the end of the day,
+
+02:15:01.400 --> 02:15:03.160
+at the end of each day.
+
+02:15:03.720 --> 02:15:05.480
+If this is the last thing I do in my life,
+
+02:15:05.480 --> 02:15:07.760
+is talking to you.
+
+02:15:07.760 --> 02:15:09.120
+Oh, good Lord.
+
+02:15:09.120 --> 02:15:12.840
+I'm happy.
+
+02:15:12.840 --> 02:15:15.840
+I know you're joking, but I'm happy
+
+02:15:18.440 --> 02:15:19.600
+I get to live the life I do.
+
+02:15:19.600 --> 02:15:20.760
+And I think my mentor, Moore,
+
+02:15:20.760 --> 02:15:23.120
+I think the Stoics have it right.
+
+02:15:23.120 --> 02:15:26.400
+So you have it right in saying,
+
+02:15:26.400 --> 02:15:28.920
+meditate on death enough to remember
+
+02:15:28.920 --> 02:15:31.440
+that this ride ends pretty quickly
+
+02:15:31.520 --> 02:15:34.320
+to help you appreciate every day
+
+02:15:34.320 --> 02:15:36.640
+and the people you love, the people close to you
+
+02:15:36.640 --> 02:15:39.280
+and the cool shit that you're doing in your life,
+
+02:15:39.280 --> 02:15:40.800
+the cool shit you're creating.
+
+02:15:40.800 --> 02:15:44.200
+And the fact that you, Mr. Thomas Tall,
+
+02:15:44.200 --> 02:15:48.640
+are playing with the motherfucking Rolling Stones tomorrow.
+
+02:15:48.640 --> 02:15:50.680
+You are the man in so many disciplines,
+
+02:15:50.680 --> 02:15:52.960
+so respected, so successful.
+
+02:15:52.960 --> 02:15:56.440
+It's truly an honor that you sit down and talk with me today.
+
+02:15:56.440 --> 02:15:59.760
+Thomas, thank you so much for showing up in Texas
+
+02:15:59.880 --> 02:16:02.160
+and for talking on this silly little podcast.
+
+02:16:02.160 --> 02:16:03.000
+It's great, man.
+
+02:16:03.000 --> 02:16:04.320
+I'm a huge fan of the show
+
+02:16:04.320 --> 02:16:06.680
+and have had a great time hanging with you
+
+02:16:06.680 --> 02:16:09.240
+and really appreciate it.
+
+02:16:09.240 --> 02:16:12.000
+Thanks for listening to this conversation with Thomas Tall.
+
+02:16:12.000 --> 02:16:13.400
+To support this podcast,
+
+02:16:13.400 --> 02:16:16.120
+please check out our sponsors in the description.
+
+02:16:16.120 --> 02:16:18.320
+And now, let me leave you with some words
+
+02:16:18.320 --> 02:16:21.320
+from Mick Jagger and the Rolling Stones.
+
+02:16:21.320 --> 02:16:23.480
+You can't always get what you want,
+
+02:16:23.480 --> 02:16:25.000
+but if you try sometimes,
+
+02:16:25.000 --> 02:16:27.440
+you might find you'll get what you need.
+
+02:16:28.360 --> 02:16:29.320
+Thank you for listening
+
+02:16:29.320 --> 02:16:31.080
+and hope to see you next time.
+

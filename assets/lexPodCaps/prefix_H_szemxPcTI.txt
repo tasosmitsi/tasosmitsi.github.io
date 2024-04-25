@@ -1,0 +1,5915 @@
+WEBVTT
+
+00:00.000 --> 00:03.080
+There are no right answers for anything involved in art.
+
+00:03.080 --> 00:06.480
+We're all trying experiments to find a way.
+
+00:06.480 --> 00:08.300
+And even for the things that I work on,
+
+00:08.300 --> 00:11.160
+I don't have a set way that I do anything.
+
+00:11.160 --> 00:13.920
+I come to every project blank.
+
+00:13.920 --> 00:16.200
+Maybe you're just a meat vehicle
+
+00:16.200 --> 00:18.520
+and you're channeling ideas from somewhere else.
+
+00:18.520 --> 00:23.520
+I believe we know close to nothing, close to nothing,
+
+00:23.840 --> 00:25.480
+about anything.
+
+00:25.480 --> 00:27.760
+If we embrace that not knowing,
+
+00:27.800 --> 00:31.860
+we'll have a healthier experience going through life.
+
+00:34.360 --> 00:36.880
+The following is a conversation with Rick Rubin,
+
+00:36.880 --> 00:40.360
+one of the greatest music producers of all time,
+
+00:40.360 --> 00:43.680
+known for bringing the best out of anyone he works with,
+
+00:43.680 --> 00:47.120
+no matter the genre of music or even the medium of art,
+
+00:47.120 --> 00:48.760
+or just the medium of creating
+
+00:48.760 --> 00:50.960
+something beautiful in this world.
+
+00:50.960 --> 00:54.160
+And the list of musicians he produced includes many,
+
+00:54.560 --> 00:57.760
+many of the greats over the past 40 years,
+
+00:57.760 --> 01:02.680
+including the Beastie Boys, Eminem, Metallica, LL Cool J,
+
+01:02.680 --> 01:06.520
+Kanye West, Slayer, Tom Petty, Johnny Cash, Dixie Chicks,
+
+01:06.520 --> 01:10.360
+Aerosmith, Adele, Danzig, Red Hot Chili Peppers,
+
+01:10.360 --> 01:13.660
+System of a Down, Jay-Z, Black Sabbath.
+
+01:13.660 --> 01:16.520
+I can keep going for a very long time here.
+
+01:16.520 --> 01:20.600
+Most importantly, Rick is just an amazing human being.
+
+01:20.600 --> 01:23.840
+We became fast friends, which is surreal to say,
+
+01:24.520 --> 01:26.680
+and is just an incredible honor.
+
+01:26.680 --> 01:28.600
+I felt truly heard as a person
+
+01:28.600 --> 01:30.240
+when I spent the day with him
+
+01:30.240 --> 01:32.440
+eating some delicious Texas barbecue,
+
+01:32.440 --> 01:37.440
+talking about life, about music, about art, about beauty.
+
+01:37.560 --> 01:41.240
+This was a conversation and experience I'll never forget.
+
+01:42.280 --> 01:44.360
+This is the Lex Fridman podcast.
+
+01:44.360 --> 01:46.560
+To support it, please check out our sponsors
+
+01:46.560 --> 01:47.800
+in the description.
+
+01:47.800 --> 01:51.280
+And now, dear friends, here's Rick Rubin.
+
+01:52.280 --> 01:53.720
+Are you nervous?
+
+01:53.720 --> 01:57.240
+I'm not shaky, but I would say I feel uneasy.
+
+01:57.240 --> 01:59.600
+And I feel like the sooner we start talking,
+
+01:59.600 --> 02:01.320
+the more relaxed we'll get.
+
+02:01.320 --> 02:02.200
+Yeah.
+
+02:02.200 --> 02:03.920
+Well, maybe we should sit in this moment
+
+02:03.920 --> 02:05.840
+and enjoy the nervousness of it.
+
+02:07.200 --> 02:08.740
+Let me start with Nietzsche.
+
+02:09.920 --> 02:12.920
+He said, without music, life would be a mistake.
+
+02:12.920 --> 02:14.680
+What do you think he means by that?
+
+02:14.680 --> 02:15.960
+Let's talk some philosophy.
+
+02:15.960 --> 02:19.360
+Let's try to analyze Friedrich Nietzsche from a century ago.
+
+02:22.040 --> 02:26.040
+It seems like music has the ability
+
+02:26.040 --> 02:31.040
+to bring us so much depth in our soul
+
+02:31.760 --> 02:33.780
+that's hard to access any other way.
+
+02:34.720 --> 02:37.220
+And without it, there would be a loss
+
+02:37.220 --> 02:39.560
+beyond the pleasure of it.
+
+02:41.560 --> 02:45.200
+Feels like it's a window into something else.
+
+02:45.200 --> 02:47.880
+Something that no other medium
+
+02:47.880 --> 02:51.020
+can express quite the same way.
+
+02:51.700 --> 02:53.100
+I would say not as automatically.
+
+02:53.100 --> 02:56.420
+Something about music can do it automatically.
+
+02:56.420 --> 03:01.420
+Maybe poetry or maybe certain abstract forms
+
+03:02.340 --> 03:04.660
+can get us there.
+
+03:04.660 --> 03:06.860
+But there's something about music
+
+03:06.860 --> 03:09.380
+that really can get us there quickly.
+
+03:09.380 --> 03:11.980
+But it's also the time, the place, the history.
+
+03:11.980 --> 03:13.960
+There's something about,
+
+03:13.960 --> 03:16.400
+like a lot of my family's still in Philly,
+
+03:16.400 --> 03:20.580
+there's something about driving through Jersey
+
+03:20.580 --> 03:22.880
+and listening to Bruce Springsteen.
+
+03:23.740 --> 03:25.860
+And then you just, I'll get emotional.
+
+03:27.180 --> 03:29.460
+Like listening to I'm On Fire.
+
+03:31.140 --> 03:33.860
+One of my favorite Bruce Springsteen songs,
+
+03:33.860 --> 03:38.700
+there's a haunting kind of strumming to it.
+
+03:38.700 --> 03:41.740
+It's not a strumming, it's actually picked.
+
+03:41.740 --> 03:43.140
+Has a country feel to it,
+
+03:43.140 --> 03:45.180
+almost like a Johnny Cash feel actually.
+
+03:45.180 --> 03:47.620
+And it, I don't know, makes me feel,
+
+03:47.620 --> 03:50.060
+so for people who don't know I'm On Fire,
+
+03:50.060 --> 03:55.060
+that song is I guess a love song to a woman
+
+03:56.900 --> 04:01.900
+that you can't have because she's married
+
+04:02.220 --> 04:03.780
+or she's with somebody else,
+
+04:03.780 --> 04:06.360
+which I guess is quite a lot of love songs.
+
+04:06.360 --> 04:10.140
+But there's something about the haunting nature of the guitar
+
+04:10.140 --> 04:12.940
+and then it has to be driving through Jersey.
+
+04:12.940 --> 04:16.020
+And I feel like everyone has fallen in love
+
+04:16.020 --> 04:18.940
+with a Jersey girl at one point in their life.
+
+04:18.980 --> 04:21.060
+I don't know if that's true for everybody.
+
+04:21.060 --> 04:23.400
+But I feel like that, I haven't either,
+
+04:23.400 --> 04:25.660
+but I just feel like that.
+
+04:25.660 --> 04:26.900
+There's something about Bruce Springsteen
+
+04:26.900 --> 04:28.500
+is like, yeah, I've been there.
+
+04:31.020 --> 04:33.740
+And that just takes you to a place of emotion
+
+04:33.740 --> 04:37.340
+that you just, that captures love,
+
+04:37.340 --> 04:40.940
+that captures longing, that captures the heartbreak
+
+04:40.940 --> 04:42.460
+of just the way time flows in life
+
+04:42.460 --> 04:43.580
+and the fact that it's finite.
+
+04:43.580 --> 04:47.540
+And just all of that in a single simple song.
+
+04:47.620 --> 04:49.300
+What else can capture that?
+
+04:49.300 --> 04:50.780
+Yeah, I don't know.
+
+04:50.780 --> 04:53.960
+But it's true that there's a connection
+
+04:53.960 --> 04:55.780
+both between time and place and music.
+
+04:55.780 --> 05:00.780
+And certain music growing up on the East Coast
+
+05:02.040 --> 05:03.340
+didn't really resonate with me
+
+05:03.340 --> 05:05.260
+until I spent time on the West Coast.
+
+05:05.260 --> 05:06.700
+Eagles being an example.
+
+05:06.700 --> 05:08.220
+When I lived in New York,
+
+05:08.220 --> 05:09.900
+the Eagles didn't really speak to me.
+
+05:09.900 --> 05:12.440
+ZZ Top didn't really speak to me.
+
+05:12.440 --> 05:14.700
+And then when I started spending time in California
+
+05:14.700 --> 05:16.860
+and driving through Laurel Canyon,
+
+05:16.900 --> 05:18.420
+all of a sudden the music of the Eagles
+
+05:18.420 --> 05:21.940
+felt appropriate somehow.
+
+05:21.940 --> 05:23.900
+And I started listening to it more.
+
+05:23.900 --> 05:24.740
+Got it.
+
+05:24.740 --> 05:26.100
+So not until you went out West,
+
+05:26.100 --> 05:29.580
+can you understand the sounds of the West?
+
+05:29.580 --> 05:32.660
+So it's really like New York has a sound.
+
+05:32.660 --> 05:34.980
+What other places have a sound in the United States?
+
+05:34.980 --> 05:36.780
+I think every place does.
+
+05:36.780 --> 05:40.420
+And that said, sometimes we can get an experience
+
+05:40.420 --> 05:42.860
+through music of a place,
+
+05:42.860 --> 05:44.280
+like we can resonate with the music
+
+05:44.280 --> 05:45.560
+and not understand why.
+
+05:46.560 --> 05:49.840
+And then maybe when we go to the place where it was created,
+
+05:49.840 --> 05:52.060
+it's almost like we have a knowingness of that place.
+
+05:52.060 --> 05:54.040
+It's not a strange place anymore.
+
+05:55.000 --> 05:59.000
+Yeah, Stevie Ray Vaughan with blues and Texas blues.
+
+05:59.000 --> 06:01.680
+You can just listen to Texas Flood and just,
+
+06:01.680 --> 06:04.720
+again, this is like a woman you're missing, a broken heart,
+
+06:04.720 --> 06:08.320
+and somehow that connects you to the place, the Eagles.
+
+06:09.240 --> 06:11.440
+What song with the Eagles connects with you?
+
+06:11.440 --> 06:15.560
+We're talking about like Take It Easy,
+
+06:15.560 --> 06:18.480
+or are we talking more like Hotel California?
+
+06:18.480 --> 06:22.120
+I'm thinking Take It Easy, but both are great.
+
+06:22.120 --> 06:23.800
+Yeah, there's certain songs
+
+06:23.800 --> 06:27.040
+when I started learning guitar when I was young,
+
+06:27.040 --> 06:29.520
+that's like, I wouldn't like to be the kind of person
+
+06:29.520 --> 06:31.960
+that not only knows how to play this song,
+
+06:31.960 --> 06:34.020
+but understands the song,
+
+06:34.020 --> 06:39.020
+and like have that song be something I played 20 years ago.
+
+06:39.780 --> 06:42.660
+And I've lived with that song for a while.
+
+06:42.660 --> 06:45.500
+Like Hotel California is an example.
+
+06:45.500 --> 06:47.480
+Obviously there's the solo,
+
+06:47.480 --> 06:50.380
+but there's also the soulfulness of the lyrics,
+
+06:50.380 --> 06:51.780
+which I still don't understand.
+
+06:51.780 --> 06:52.900
+And it could be about anything.
+
+06:52.900 --> 06:53.820
+And as you get older,
+
+06:53.820 --> 06:56.100
+I feel like the meaning of the song could be anything.
+
+06:56.100 --> 06:57.740
+Yeah, I think that's true.
+
+06:57.740 --> 06:59.020
+I think that's the beauty of them.
+
+06:59.020 --> 07:00.300
+I think when the person wrote them,
+
+07:00.300 --> 07:03.240
+they may have had one interpretation,
+
+07:04.780 --> 07:08.420
+but it's not contingent on us getting that interpretation
+
+07:08.420 --> 07:12.820
+to like it or resonate with it or feel it.
+
+07:12.820 --> 07:17.700
+In some ways, the best art is open enough
+
+07:18.780 --> 07:21.660
+where the artist gets to have their experience
+
+07:21.660 --> 07:22.500
+when they make it,
+
+07:22.500 --> 07:24.480
+and then the audience gets to have their experience
+
+07:24.480 --> 07:26.900
+when they listen and they don't have to be the same.
+
+07:26.900 --> 07:28.380
+And then it connects thousands
+
+07:28.380 --> 07:31.340
+or millions of people together.
+
+07:31.340 --> 07:34.180
+There's a togetherness of music when you share that music,
+
+07:34.180 --> 07:36.820
+when you're listening to stuff together, like in a car.
+
+07:36.820 --> 07:39.740
+First of all, the car is a sacred place.
+
+07:39.740 --> 07:42.140
+So I work in part on autonomous vehicles.
+
+07:43.020 --> 07:44.580
+And you start to think, well,
+
+07:44.580 --> 07:46.780
+what are the things you lose
+
+07:46.780 --> 07:51.160
+when the car stops being the central part of American life?
+
+07:53.060 --> 07:54.900
+The car ownership.
+
+07:54.900 --> 07:57.780
+It just feels like the car, when you're alone,
+
+07:57.780 --> 08:01.100
+it's like a therapist thing, session,
+
+08:01.100 --> 08:04.220
+because you get angry at other humans.
+
+08:04.980 --> 08:09.540
+And then you get to sit in your own anger and emotion.
+
+08:09.540 --> 08:12.260
+You get to listen to the song on a long road trip
+
+08:12.260 --> 08:16.940
+and remember, like run through your memories,
+
+08:16.940 --> 08:20.300
+the heartbreak, I don't know, the one that got away,
+
+08:20.300 --> 08:23.440
+but also like the beautiful moments, all of it.
+
+08:24.540 --> 08:26.140
+Yeah.
+
+08:26.140 --> 08:27.980
+And all of that in the car.
+
+08:27.980 --> 08:30.780
+Yeah, driving also serves another purpose.
+
+08:30.780 --> 08:34.220
+And it's one of the things that we can do
+
+08:34.220 --> 08:39.220
+that we have to pay attention enough not to crash,
+
+08:41.180 --> 08:45.660
+but typically can essentially run on autopilot enough
+
+08:45.660 --> 08:47.580
+where we could be thinking about something else
+
+08:47.580 --> 08:50.580
+or concentrating on something else.
+
+08:50.580 --> 08:53.500
+And the difference between concentrating on something
+
+08:53.500 --> 08:55.540
+or trying to solve a problem
+
+08:55.540 --> 08:57.580
+when you're solely trying to solve a problem
+
+08:57.580 --> 08:59.620
+versus when you have some little task
+
+08:59.620 --> 09:01.940
+that's keeping you occupied,
+
+09:01.940 --> 09:06.940
+I find if I have something slight to take care of,
+
+09:09.060 --> 09:13.020
+it frees a more creative side of my mind
+
+09:13.020 --> 09:15.540
+to better solve problems.
+
+09:15.540 --> 09:17.260
+You know, I'm kind of jealous of people
+
+09:17.260 --> 09:19.740
+that found that in painting, for example.
+
+09:19.740 --> 09:22.740
+They'll be drawing or painting and listening to,
+
+09:22.740 --> 09:25.100
+so that's the small task you do.
+
+09:25.100 --> 09:27.440
+You're coloring in the lines.
+
+09:27.440 --> 09:31.640
+It's like this gentle, peaceful, slow process
+
+09:31.640 --> 09:33.800
+that requires just a small fraction of your mind
+
+09:33.800 --> 09:34.820
+and then you can listen.
+
+09:34.820 --> 09:37.000
+Some people listen to podcasts that way.
+
+09:37.000 --> 09:39.160
+Some people listen to music that way.
+
+09:39.160 --> 09:40.040
+Yeah.
+
+09:40.040 --> 09:41.000
+How do you do it?
+
+09:41.000 --> 09:42.960
+How do you free your mind?
+
+09:47.760 --> 09:49.080
+Running is one of them.
+
+09:51.960 --> 09:54.060
+There's a process.
+
+09:54.060 --> 09:57.120
+So most freeing of the mind for me
+
+09:57.120 --> 10:01.400
+has to go through a process of a bit of pain for a bit.
+
+10:01.400 --> 10:03.020
+So doing something difficult,
+
+10:04.040 --> 10:06.960
+it's just like an airplane taking off or something.
+
+10:06.960 --> 10:09.100
+So that's, for example, running,
+
+10:09.100 --> 10:12.280
+the first few miles would just be just,
+
+10:12.280 --> 10:14.720
+first of all, the physical aspect,
+
+10:14.720 --> 10:17.200
+which is like, ah, you're so fat, you're out of shape,
+
+10:17.200 --> 10:20.120
+you're, this is getting old, this, that.
+
+10:20.120 --> 10:21.920
+Okay, that slowly dissipates.
+
+10:21.920 --> 10:25.640
+And then the demons come in who are like,
+
+10:25.640 --> 10:30.080
+you should be getting this and that and this done.
+
+10:30.080 --> 10:31.440
+You haven't gotten it done.
+
+10:31.440 --> 10:33.600
+You're like breaking promises,
+
+10:33.600 --> 10:36.040
+all those kinds of voices coming in.
+
+10:36.040 --> 10:41.040
+And after that, maybe mile four, it's like, fuck it.
+
+10:41.040 --> 10:45.000
+You just run, run with the wind at a very slow pace,
+
+10:45.000 --> 10:47.960
+but with the wind and then you could think.
+
+10:47.960 --> 10:50.960
+So it's the footsteps, the physical activity,
+
+10:50.960 --> 10:52.960
+then you can deeply think about stuff.
+
+10:52.960 --> 10:57.000
+Ideas, sort of design, whether it's program design stuff
+
+10:57.000 --> 10:59.360
+or like high level life decisions,
+
+10:59.360 --> 11:00.280
+all those kinds of things.
+
+11:00.280 --> 11:02.480
+I would say running.
+
+11:02.480 --> 11:05.600
+I used to build bridges from toothpicks.
+
+11:05.600 --> 11:07.800
+I used to be a thing.
+
+11:07.800 --> 11:10.520
+It's an engineering, I guess some people like
+
+11:10.520 --> 11:13.120
+glued together airplanes and stuff like that.
+
+11:13.120 --> 11:17.560
+But the bridges, it's such deeply honest work
+
+11:17.560 --> 11:19.020
+because at the end of it,
+
+11:19.020 --> 11:21.400
+you're gonna have to test that bridge
+
+11:21.440 --> 11:24.160
+and you're gonna see how good your work was.
+
+11:24.160 --> 11:26.720
+The little details, but also the big picture.
+
+11:26.720 --> 11:28.760
+Do you use glue or no?
+
+11:28.760 --> 11:30.800
+Yeah, I use glue.
+
+11:30.800 --> 11:35.800
+So it's not pure physics, it's materials engineering too.
+
+11:36.800 --> 11:39.800
+Because the way you want to do it
+
+11:39.800 --> 11:42.760
+is you actually split the wood as thin as possible
+
+11:42.760 --> 11:44.000
+and then glue it back together
+
+11:44.000 --> 11:46.920
+because the glue is really strong
+
+11:46.920 --> 11:49.080
+except for the arches and things like that.
+
+11:49.080 --> 11:50.760
+So you're building arch bridges,
+
+11:50.760 --> 11:52.320
+which is a whole nother skill
+
+11:52.320 --> 11:54.460
+because you have to bend the wood.
+
+11:54.460 --> 11:56.320
+And it's so cool because the thing can hold
+
+11:56.320 --> 11:58.880
+thousands of times its weight.
+
+11:58.880 --> 12:03.880
+And then you get to watch it explode at a certain point
+
+12:04.540 --> 12:05.600
+from the pressure.
+
+12:05.600 --> 12:07.440
+And when you do a really good job,
+
+12:07.440 --> 12:11.640
+it doesn't explode in a kind of some weak point
+
+12:11.640 --> 12:14.680
+that you didn't anticipate just kind of starts cracking.
+
+12:14.680 --> 12:17.280
+Everything cracks, everything explodes.
+
+12:17.280 --> 12:20.440
+It's just pieces fly everywhere.
+
+12:21.280 --> 12:23.520
+It's literally hundreds of hours of work
+
+12:23.520 --> 12:26.600
+just explode in front of you.
+
+12:26.600 --> 12:29.400
+And that's a metaphor for life maybe.
+
+12:29.400 --> 12:30.720
+And it's all for nothing.
+
+12:31.920 --> 12:34.960
+Except for the journey that you took to get there
+
+12:34.960 --> 12:37.600
+and no one understands.
+
+12:37.600 --> 12:40.640
+Speaking of which, back to Nietzsche.
+
+12:40.640 --> 12:42.280
+These questions are ridiculous.
+
+12:42.280 --> 12:46.000
+So you're gonna have to try to figure out
+
+12:46.000 --> 12:48.380
+what the heck I'm trying to do here.
+
+12:48.460 --> 12:52.580
+So Nietzsche also said a line I love,
+
+12:52.580 --> 12:55.020
+which is, and those who were seen dancing
+
+12:55.020 --> 12:56.340
+were thought to be insane
+
+12:56.340 --> 12:58.300
+by those who could not hear the music.
+
+12:59.660 --> 13:02.460
+Do you, Rick Rubin, ever feel crazy?
+
+13:02.460 --> 13:05.900
+Or maybe you're the one who's sane
+
+13:05.900 --> 13:07.300
+and everybody else is crazy.
+
+13:07.300 --> 13:11.940
+You know that the dancing, the joy of the music
+
+13:11.940 --> 13:14.780
+of just feeling the music and everybody else
+
+13:14.780 --> 13:15.860
+just doesn't understand.
+
+13:15.860 --> 13:17.720
+And this doesn't have to be literally about music.
+
+13:17.720 --> 13:20.440
+This is about art, about creation.
+
+13:21.280 --> 13:24.920
+I would say I feel different.
+
+13:26.880 --> 13:28.640
+And it's hard to say.
+
+13:28.640 --> 13:33.640
+It's like which side of the equation is crazy, you know?
+
+13:33.640 --> 13:37.840
+Did you ever find a group of people that you get,
+
+13:37.840 --> 13:39.180
+they get you?
+
+13:39.180 --> 13:40.020
+Yes.
+
+13:40.020 --> 13:42.120
+Is that what producing is essentially?
+
+13:42.120 --> 13:43.480
+Is you try to find the moments
+
+13:43.480 --> 13:45.560
+when you just get each other?
+
+13:45.560 --> 13:46.400
+No.
+
+13:48.360 --> 13:51.640
+I would say they're definitely
+
+13:55.920 --> 13:58.400
+certain artists with certain temperaments.
+
+13:58.400 --> 13:59.600
+When you're around them,
+
+13:59.600 --> 14:02.360
+it feels like you can finish each other's sentences.
+
+14:02.360 --> 14:04.880
+You know, just see the world the same way.
+
+14:04.880 --> 14:06.140
+Comedians as well.
+
+14:07.960 --> 14:12.960
+And that's not essential for the two of you together
+
+14:13.080 --> 14:14.720
+creating something special.
+
+14:14.720 --> 14:16.160
+No, no.
+
+14:16.160 --> 14:18.160
+So it could be attention too?
+
+14:18.160 --> 14:20.920
+It could be any, there's no rules.
+
+14:20.920 --> 14:24.200
+It'd be like, think of it like a coach.
+
+14:24.200 --> 14:29.200
+A coach could bring what they have to bring
+
+14:29.560 --> 14:34.560
+to any talented individual and help them find their way.
+
+14:36.940 --> 14:40.440
+And sometimes the right coach for the right athlete
+
+14:40.440 --> 14:44.120
+really works and other times there's a mismatch.
+
+14:44.120 --> 14:46.660
+Have you seen the movie Whiplash?
+
+14:46.660 --> 14:47.500
+I did.
+
+14:47.500 --> 14:48.340
+I saw it when it came out
+
+14:48.340 --> 14:49.960
+so I don't really remember it well, but I did see it.
+
+14:49.960 --> 14:52.380
+So there's a coach type of figure
+
+14:52.380 --> 14:56.120
+who is pushing a drummer to create,
+
+14:56.120 --> 14:58.280
+to grow as a musician,
+
+14:58.280 --> 15:00.160
+but also to create something special.
+
+15:00.160 --> 15:02.280
+I don't know if it's even special music skill-wise,
+
+15:02.280 --> 15:04.080
+it's a special moment.
+
+15:04.080 --> 15:06.060
+I don't know what he's trying to create.
+
+15:06.060 --> 15:08.160
+From one perspective, it's just an abusive,
+
+15:08.160 --> 15:11.280
+a person who selfishly gets off on being abusive
+
+15:11.280 --> 15:12.680
+to those he's with.
+
+15:12.680 --> 15:15.720
+But from another perspective, the way I saw that movie,
+
+15:15.720 --> 15:20.400
+it's just the two right humans finding each other
+
+15:20.400 --> 15:21.800
+at the right moment in life
+
+15:21.800 --> 15:24.360
+and risking destroying each other in the process,
+
+15:24.360 --> 15:27.720
+but maybe something beautiful will come of it.
+
+15:29.180 --> 15:32.000
+Do you think that's a toxic relationship?
+
+15:32.960 --> 15:37.640
+Or is there, does some of that movie resonate with you
+
+15:37.640 --> 15:40.680
+as that sometimes is required to create art?
+
+15:42.840 --> 15:43.680
+That kind of suffering.
+
+15:43.680 --> 15:44.920
+Yeah, it doesn't.
+
+15:44.920 --> 15:46.120
+Well, there's suffering involved,
+
+15:46.120 --> 15:47.680
+but not that kind of suffering.
+
+15:49.800 --> 15:50.640
+Not for me.
+
+15:50.640 --> 15:53.160
+There are some people who that's their process
+
+15:53.160 --> 15:55.320
+and that's whatever works.
+
+15:55.320 --> 15:59.000
+There's no right answers for anything involved in art.
+
+15:59.000 --> 16:02.400
+We're all trying experiments to find a way.
+
+16:02.400 --> 16:04.240
+And even for the things that I work on,
+
+16:04.240 --> 16:07.100
+I don't have a set way that I do anything.
+
+16:07.100 --> 16:10.400
+I come to every project blank
+
+16:10.400 --> 16:15.400
+and see, I really listen to what the artist plays
+
+16:17.680 --> 16:22.680
+and says, and through what they explain they wanna do,
+
+16:26.840 --> 16:29.360
+help find the best way to get there.
+
+16:30.560 --> 16:35.560
+Was it implicit in the movie that the mean teacher
+
+16:35.640 --> 16:38.800
+liked being a mean teacher?
+
+16:39.040 --> 16:41.400
+You said the way you described it was
+
+16:41.400 --> 16:43.320
+that he got off on treating people this way.
+
+16:43.320 --> 16:44.520
+Do we know that to be the case?
+
+16:44.520 --> 16:45.360
+I don't remember that in the movie.
+
+16:45.360 --> 16:47.880
+No, but we sometimes project that onto people,
+
+16:47.880 --> 16:52.160
+people who are really rough on students.
+
+16:52.160 --> 16:54.040
+You start to think, well, maybe,
+
+16:58.680 --> 17:01.000
+maybe that is fundamentally who they are
+
+17:01.000 --> 17:03.440
+and if it's fundamentally who they are,
+
+17:03.440 --> 17:05.160
+that there must be some pleasure in it
+
+17:05.160 --> 17:07.440
+or it's an addiction of some sort.
+
+17:07.520 --> 17:12.520
+But it could be also a deliberate choice
+
+17:12.680 --> 17:14.040
+made by the teacher.
+
+17:14.040 --> 17:18.040
+It also could be a lineage like in the Zen tradition,
+
+17:18.040 --> 17:23.040
+they're sort of the mean Roshi's
+
+17:23.200 --> 17:27.400
+who if you do something wrong, take a physical action.
+
+17:27.400 --> 17:30.760
+And it's just in the lineage,
+
+17:30.760 --> 17:34.240
+it's considered that's how you teach.
+
+17:34.760 --> 17:37.560
+I didn't come from that lineage.
+
+17:37.560 --> 17:39.760
+So I'm much more of a,
+
+17:39.760 --> 17:43.080
+I feel like it's more of a collaboration
+
+17:43.080 --> 17:46.560
+between people working together to make the best thing.
+
+17:46.560 --> 17:51.560
+It's not a boss slave relationship at all.
+
+17:51.560 --> 17:55.040
+It's much more of a, let's find our way.
+
+17:55.040 --> 17:57.720
+And we agree at the beginning of the process
+
+17:57.720 --> 18:02.160
+that if either of us or any of us
+
+18:02.160 --> 18:03.560
+don't like what's happening,
+
+18:03.600 --> 18:05.800
+we say it and the goal is to keep working
+
+18:05.800 --> 18:09.440
+till we get to a point where we're all really happy with it.
+
+18:09.440 --> 18:11.040
+It's like if we make something
+
+18:11.040 --> 18:13.080
+that an artist likes and I don't like,
+
+18:13.080 --> 18:14.840
+or if that I like and they don't like,
+
+18:14.840 --> 18:16.240
+we haven't gone far enough.
+
+18:17.600 --> 18:21.280
+In terms of lineage, the ones that seek destruction
+
+18:21.280 --> 18:22.560
+and the ones that seek happiness
+
+18:22.560 --> 18:23.760
+all come from the same lineage.
+
+18:23.760 --> 18:24.760
+We all came from fish.
+
+18:24.760 --> 18:28.520
+So somewhere in you, deep down there,
+
+18:28.520 --> 18:30.360
+there's the other stuff too.
+
+18:30.360 --> 18:33.800
+It's just that you haven't been yet, by the way,
+
+18:33.800 --> 18:35.280
+because you said every new project,
+
+18:35.280 --> 18:37.240
+including maybe starting today,
+
+18:39.560 --> 18:43.040
+is an opportunity to channel, to plug into something
+
+18:43.040 --> 18:43.880
+that was always there
+
+18:43.880 --> 18:46.080
+and you haven't gotten a chance to plug into.
+
+18:46.080 --> 18:47.400
+You mentioned listening.
+
+18:47.400 --> 18:49.600
+How do you listen to a person?
+
+18:49.600 --> 18:51.440
+How do you hear a person?
+
+18:51.440 --> 18:54.520
+When you first come in, like we just met,
+
+18:55.560 --> 18:57.760
+what's the analysis happening?
+
+18:57.760 --> 18:59.800
+But I mean, with me is one thing.
+
+18:59.800 --> 19:00.960
+I'm an artist of sorts.
+
+19:00.960 --> 19:05.960
+I program and I'm just, I'm human, I guess.
+
+19:06.680 --> 19:08.680
+I guess we're all creating art.
+
+19:08.680 --> 19:10.680
+How do you see, like, how do I bring out?
+
+19:10.680 --> 19:12.640
+So for people who don't know,
+
+19:14.800 --> 19:17.480
+I mean, obviously everyone knows that you've produced
+
+19:17.480 --> 19:19.040
+some of the greatest records ever,
+
+19:19.040 --> 19:24.040
+but the way I see that is you just brought out the best
+
+19:24.960 --> 19:27.520
+in a lot of interesting artists.
+
+19:28.520 --> 19:31.000
+And so in order to bring out the best in them,
+
+19:31.000 --> 19:33.320
+you have to understand them.
+
+19:33.320 --> 19:37.920
+You have to hear the music of their soul,
+
+19:37.920 --> 19:39.600
+hopefully I'm not being too romantic here,
+
+19:39.600 --> 19:44.040
+but just like, is there something you can say
+
+19:45.360 --> 19:48.400
+of how difficult that is, if there's a process,
+
+19:48.400 --> 19:51.400
+if there's tricks, if it's luck?
+
+19:52.600 --> 19:56.040
+I think it starts with this, again, coming in blank,
+
+19:56.200 --> 19:59.400
+like not having any preconceived ideas,
+
+19:59.400 --> 20:01.800
+being open and really listening,
+
+20:01.800 --> 20:05.920
+listening and not thinking about what you're gonna say next
+
+20:05.920 --> 20:08.080
+or what your opinion is or any, you know,
+
+20:08.080 --> 20:11.960
+not basically being a recorder
+
+20:11.960 --> 20:14.000
+and just hearing what comes in.
+
+20:14.000 --> 20:16.120
+And then once you hear what comes in,
+
+20:16.120 --> 20:21.120
+processing that information and trying our best to do that
+
+20:22.120 --> 20:25.720
+without any of the beliefs that we might have
+
+20:25.800 --> 20:28.240
+to impact what that is.
+
+20:28.240 --> 20:30.440
+You know, if I ask you a question,
+
+20:30.440 --> 20:34.080
+I don't wanna listen to you
+
+20:34.080 --> 20:38.000
+and have any reaction happening when you're speaking.
+
+20:38.000 --> 20:41.120
+I wanna be as neutral as possible.
+
+20:41.120 --> 20:46.120
+For me, my goal is not to form an opinion,
+
+20:46.960 --> 20:48.920
+it's to understand.
+
+20:48.920 --> 20:52.440
+So if anything, I would draw you out further
+
+20:52.440 --> 20:55.920
+and just ask questions to really understand.
+
+20:56.920 --> 21:01.920
+And if you say something that somehow triggers me
+
+21:03.280 --> 21:08.280
+in a way that, you know, I wonder how he came to that.
+
+21:09.120 --> 21:10.480
+I wouldn't challenge you.
+
+21:10.480 --> 21:12.440
+I would ask, like, how did you find that?
+
+21:12.440 --> 21:14.880
+You know, how did you get to that place?
+
+21:14.880 --> 21:16.360
+Form a place of curiosity.
+
+21:16.360 --> 21:17.280
+You would try to figure out.
+
+21:17.280 --> 21:20.320
+Yeah, I wanna understand who the person is
+
+21:20.360 --> 21:22.680
+and through questioning, we can usually get there
+
+21:22.680 --> 21:26.200
+or through just spending time together,
+
+21:26.200 --> 21:29.280
+you find out who the person is.
+
+21:29.280 --> 21:31.760
+What about finding out and figuring out
+
+21:31.760 --> 21:33.520
+how to then take the next steps
+
+21:33.520 --> 21:36.080
+of bringing out the best in them?
+
+21:37.800 --> 21:40.040
+Like, is it just trial and error?
+
+21:40.040 --> 21:41.280
+Like, let's try this.
+
+21:41.280 --> 21:42.840
+It's definitely trial and error.
+
+21:42.840 --> 21:44.240
+It's always trial and error.
+
+21:45.200 --> 21:46.720
+Are you afraid of making a mistake?
+
+21:46.720 --> 21:48.760
+Like, let's add this instrument,
+
+21:48.760 --> 21:50.440
+let's remove this instrument.
+
+21:50.440 --> 21:51.640
+Let's try. Let's add this line,
+
+21:51.640 --> 21:52.560
+let's remove this line.
+
+21:52.560 --> 21:53.400
+Let's try.
+
+21:53.400 --> 21:55.400
+And let's be open.
+
+21:55.400 --> 21:59.840
+So one of the, we don't really have rules,
+
+21:59.840 --> 22:02.200
+but one of the agreements in the studio
+
+22:02.200 --> 22:07.200
+is any idea that anyone has will always demonstrate it,
+
+22:07.840 --> 22:09.640
+will always try it.
+
+22:09.640 --> 22:12.000
+Because I can describe to you an idea
+
+22:12.000 --> 22:14.520
+and you can think, that's a terrible idea,
+
+22:14.520 --> 22:16.400
+let's not do that.
+
+22:16.400 --> 22:18.080
+And then I can play you the idea
+
+22:18.080 --> 22:19.600
+and then you can say, oh, that's really good.
+
+22:19.600 --> 22:20.760
+And it's completely different.
+
+22:20.760 --> 22:25.120
+Because when we're told something,
+
+22:25.120 --> 22:28.880
+we have to imagine what that is.
+
+22:28.880 --> 22:30.960
+And the way you see something and imagine it
+
+22:30.960 --> 22:32.320
+and the way I see something and imagine it
+
+22:32.320 --> 22:33.520
+are completely different.
+
+22:33.520 --> 22:36.440
+So you say a thing and now there's two humans
+
+22:36.440 --> 22:39.240
+that play that thing in their mind differently
+
+22:39.240 --> 22:40.760
+in their imagination.
+
+22:40.760 --> 22:43.080
+And then there's a cool creative step
+
+22:43.080 --> 22:44.680
+and when you actually do it
+
+22:44.680 --> 22:46.680
+to see how it differs in the imagination.
+
+22:46.800 --> 22:49.240
+And then the difference or the commonality
+
+22:49.240 --> 22:52.120
+will be like an exciting little discovery together.
+
+22:52.120 --> 22:55.040
+Well, so many groups of people
+
+22:55.040 --> 22:57.200
+making things together in a room,
+
+22:57.200 --> 22:59.240
+one person will suggest something
+
+22:59.240 --> 23:00.800
+and someone else in the room saying,
+
+23:00.800 --> 23:01.880
+that doesn't sound like a good idea,
+
+23:01.880 --> 23:02.720
+let's not do that.
+
+23:02.720 --> 23:03.640
+And then they move on.
+
+23:05.240 --> 23:07.800
+The testing of every idea is really important.
+
+23:07.800 --> 23:09.800
+And that's how you get to see,
+
+23:09.800 --> 23:11.640
+oh, that's not at all what I thought it was gonna be.
+
+23:11.640 --> 23:12.800
+Happens to me all the time.
+
+23:12.800 --> 23:15.640
+I know because someone will suggest,
+
+23:15.640 --> 23:16.760
+why don't we do it like this?
+
+23:16.760 --> 23:19.760
+And I'll think that sounds bad.
+
+23:19.760 --> 23:21.280
+And then I'll think, okay, let's try it.
+
+23:21.280 --> 23:22.120
+And then we hear it.
+
+23:22.120 --> 23:24.560
+And then eight times out of 10,
+
+23:24.560 --> 23:26.680
+it's nothing like I imagined and great.
+
+23:28.160 --> 23:30.560
+And you try not to have an ego about the fact
+
+23:30.560 --> 23:33.520
+that you thought it was not a good idea in your head.
+
+23:33.520 --> 23:36.840
+There can't be any ego in this.
+
+23:36.840 --> 23:37.680
+It doesn't,
+
+23:40.680 --> 23:43.920
+if everyone's there with the purpose
+
+23:43.920 --> 23:45.800
+of making the best thing we can,
+
+23:48.000 --> 23:49.240
+there's nothing else.
+
+23:49.240 --> 23:51.960
+There are no, there can't be any boundaries to that.
+
+23:53.560 --> 23:56.040
+So there's a moment I saw with,
+
+23:56.040 --> 23:59.360
+I know you don't love talking about
+
+23:59.360 --> 24:00.880
+previous things you've done,
+
+24:00.880 --> 24:02.800
+but it's cool to dive in there every once in a while.
+
+24:02.800 --> 24:04.080
+I'm fine to talk about anything.
+
+24:04.080 --> 24:04.920
+To sample it.
+
+24:05.840 --> 24:06.880
+Anything?
+
+24:06.880 --> 24:07.720
+We'll see.
+
+24:07.720 --> 24:09.200
+I have this pain I gotta talk about.
+
+24:11.080 --> 24:12.520
+I'll think of something ridiculous
+
+24:12.520 --> 24:14.880
+that would make you change your mind.
+
+24:16.440 --> 24:19.880
+You mentioned, I saw a video of you with Jay-Z
+
+24:19.880 --> 24:23.400
+working on 99 Problems where you suggested a cappella
+
+24:23.400 --> 24:25.400
+opening the song with a cappella.
+
+24:25.400 --> 24:28.120
+Just no instruments, just voice.
+
+24:28.120 --> 24:33.120
+That to me, I mean, that's one of the characteristics
+
+24:33.400 --> 24:36.720
+of the things, of the ways you've brought out the best
+
+24:36.720 --> 24:38.680
+in artists is doing less.
+
+24:38.720 --> 24:43.160
+Sort of the tending towards simplicity in some kind of way.
+
+24:43.160 --> 24:45.680
+So that choice of a cappella is really interesting
+
+24:45.680 --> 24:47.600
+because I could see a lot of people think
+
+24:47.600 --> 24:49.280
+that that's a bad idea,
+
+24:50.200 --> 24:52.280
+but it turned out to be a really powerful idea.
+
+24:52.280 --> 24:55.440
+Can you maybe talk about the simplicity,
+
+24:55.440 --> 24:56.720
+how to find simplicity,
+
+24:56.720 --> 24:58.920
+why you find simplicity is beautiful.
+
+24:58.920 --> 25:00.840
+It does appear to be beautiful.
+
+25:00.840 --> 25:01.880
+What is that?
+
+25:01.880 --> 25:03.840
+Yeah, I don't know where it comes from.
+
+25:03.840 --> 25:07.440
+It has been with me from the beginning of my work,
+
+25:07.480 --> 25:10.840
+the very first album I ever produced,
+
+25:10.840 --> 25:12.880
+the credit I took was reduced by me
+
+25:12.880 --> 25:16.120
+instead of produced by me for that reason.
+
+25:16.120 --> 25:19.520
+Like I like the idea of getting to the essential
+
+25:19.520 --> 25:24.520
+and I have a better idea now that I've done it for a while,
+
+25:24.600 --> 25:28.920
+but at the time it was purely an instinctual thing.
+
+25:28.920 --> 25:33.120
+And part of it is a sonic, there's a sonic benefit,
+
+25:33.120 --> 25:36.440
+which is the less elements you have,
+
+25:38.200 --> 25:40.920
+you can hear each of the ones that are there
+
+25:40.920 --> 25:42.920
+and they can sound better.
+
+25:42.920 --> 25:44.280
+And the less there are,
+
+25:44.280 --> 25:47.680
+the more space they could have around them
+
+25:47.680 --> 25:49.920
+and the more you can hear their personality.
+
+25:49.920 --> 25:54.920
+If you were to record 10 people playing the same guitar part
+
+25:55.440 --> 25:58.720
+and you listen to it, it would sound like guitar.
+
+25:58.720 --> 26:02.760
+And if you record one person playing a guitar part,
+
+26:02.800 --> 26:05.600
+it sounds like a person playing the guitar.
+
+26:05.600 --> 26:07.440
+It's different than just guitar.
+
+26:08.360 --> 26:13.360
+And often in the studio, the idea of building upon things
+
+26:14.560 --> 26:18.480
+and adding layers to thicken, to make it sound bigger,
+
+26:18.480 --> 26:23.480
+sometimes the more things you add, the smaller it gets.
+
+26:24.040 --> 26:27.520
+So a lot of it is counterintuitive
+
+26:27.520 --> 26:31.040
+until you just in practice see what works.
+
+26:31.480 --> 26:33.760
+To try removing stuff until it's just right.
+
+26:33.760 --> 26:35.120
+It's the Einstein thing,
+
+26:37.960 --> 26:40.840
+make it as simple as possible, but not simpler.
+
+26:40.840 --> 26:44.440
+That's such a, like finding a stopping place,
+
+26:44.440 --> 26:47.880
+just keep chopping away and chopping away.
+
+26:47.880 --> 26:49.800
+There's something we also like to do called
+
+26:49.800 --> 26:52.440
+the Ruthless Edit, which is, let's say you're at a point
+
+26:52.440 --> 26:55.120
+where it can work for anything,
+
+26:55.120 --> 26:57.320
+but I'll give you the example with an album.
+
+26:58.000 --> 27:02.600
+We've recorded 25 songs.
+
+27:02.600 --> 27:05.120
+We think the album is gonna have 10.
+
+27:05.120 --> 27:08.120
+Instead of picking our favorite 10,
+
+27:08.120 --> 27:11.920
+we limit it to what are the five or six
+
+27:11.920 --> 27:13.280
+that we can't live without.
+
+27:14.320 --> 27:19.320
+So going past even the goal to get to the real like heart
+
+27:20.280 --> 27:22.520
+of it and then see, okay, we have these five or six
+
+27:22.520 --> 27:24.320
+that we can't live without.
+
+27:24.320 --> 27:28.240
+Now, what would we add to that
+
+27:28.240 --> 27:31.240
+that makes it better and not worse?
+
+27:34.800 --> 27:38.600
+It's just, it puts you in a different frame
+
+27:38.600 --> 27:42.880
+when you start with building instead of removing.
+
+27:42.880 --> 27:45.440
+And you might find that there's nothing you need to add.
+
+27:45.440 --> 27:48.920
+Sometimes, sometimes something happens
+
+27:48.920 --> 27:51.400
+when you get to the real essence.
+
+27:51.400 --> 27:52.760
+Then when you start adding things back,
+
+27:52.760 --> 27:56.840
+it becomes clear that it was just supposed to be
+
+27:56.840 --> 27:59.160
+this tight little thing.
+
+28:00.160 --> 28:02.240
+Can I ask you like a therapy session question?
+
+28:02.240 --> 28:05.680
+So you mentioned somewhere that one way
+
+28:05.680 --> 28:09.960
+to kind of think about music to get into music
+
+28:09.960 --> 28:12.960
+is to look at the top, like 100 albums of all time
+
+28:12.960 --> 28:15.800
+and just go down the list and like just take it all in
+
+28:15.800 --> 28:17.680
+like one piece of artwork.
+
+28:17.680 --> 28:20.120
+So I was doing that for a while.
+
+28:20.120 --> 28:22.400
+It's a cool experiment because unfortunately
+
+28:23.040 --> 28:24.280
+I have to admit I've gotten lazy
+
+28:24.280 --> 28:28.080
+and stopped taking in albums as albums.
+
+28:29.760 --> 28:32.800
+And I looked at one interesting top 100 list,
+
+28:32.800 --> 28:36.920
+top 500 actually, which is put together by Rolling Stone.
+
+28:36.920 --> 28:39.840
+And they put, this is the therapy session part.
+
+28:39.840 --> 28:41.360
+And this has to do with simplicity too.
+
+28:41.360 --> 28:44.160
+They put Marvin Gaye's What's Going On at number one.
+
+28:44.160 --> 28:45.000
+Spoiler alert.
+
+28:46.120 --> 28:51.000
+So I'd like to maybe get your opinion on that choice.
+
+28:51.160 --> 28:53.520
+The reason that Marvin Gaye is really interesting,
+
+28:54.760 --> 28:57.760
+it'd actually be cool to play What's Going On in a second.
+
+28:57.760 --> 29:02.640
+But when you just listen to his like acapella,
+
+29:02.640 --> 29:06.080
+just listen to his voice, it is really good.
+
+29:06.080 --> 29:09.600
+Like people, it makes me wonder if it's possible
+
+29:09.600 --> 29:13.200
+to pull off like most of his songs with no instruments.
+
+29:13.200 --> 29:17.800
+Like in many parts, there's so much soul
+
+29:17.840 --> 29:21.840
+in just Mercy, Mercy Me, What's Going On.
+
+29:21.840 --> 29:23.720
+There's so many songs that you could just be like,
+
+29:23.720 --> 29:28.200
+I wonder if you could just like, just go raw
+
+29:28.200 --> 29:30.400
+or maybe in parts or maybe do what you do with Jay-Z,
+
+29:30.400 --> 29:31.440
+just open up with nothing.
+
+29:31.440 --> 29:33.960
+Anyway, there's something so powerful though,
+
+29:33.960 --> 29:36.200
+great soulful voice.
+
+29:36.200 --> 29:37.800
+Do you mind if I play it real quick?
+
+29:37.800 --> 29:38.640
+No, please.
+
+29:38.640 --> 29:39.480
+What's going on?
+
+29:39.480 --> 29:41.360
+This is probably one of my favorite songs.
+
+29:41.360 --> 29:42.440
+I mean, it's up there.
+
+29:43.560 --> 29:44.880
+Hey, what's happening?
+
+29:45.880 --> 29:48.320
+Hey, I got it, I can take it right off.
+
+29:59.280 --> 30:02.120
+Momma that voice
+
+30:02.120 --> 30:05.600
+There's too many love You've got
+
+30:08.760 --> 30:11.840
+ti brother, brother, brother
+
+30:11.840 --> 30:14.520
+There's far too many love you've got
+
+30:14.520 --> 30:16.920
+There's some just very subtle backing vocals.
+
+30:29.920 --> 30:30.720
+This one hurts.
+
+30:33.420 --> 30:35.220
+Father, father, we don't need to escalate.
+
+30:35.220 --> 30:37.420
+I wonder who the father he's talking about is.
+
+30:38.420 --> 30:39.420
+Oh, that's interesting.
+
+30:39.420 --> 30:46.320
+I mean, I have, so for people who don't know his, his own father ended up killing Marvin Gaye.
+
+30:46.420 --> 30:46.820
+Yeah.
+
+30:48.220 --> 30:49.820
+I mean, that one is really pain.
+
+30:49.820 --> 30:53.820
+I mean, for a lot of people, your relationship with your father, your mother, I mean, there's
+
+30:53.820 --> 30:58.420
+different dynamics, but there's, it's almost like part of like, you know, the, the, the
+
+30:58.620 --> 31:02.220
+I mean, for a lot of people, your relationship with your father, your mother, I mean, there's
+
+31:02.220 --> 31:06.720
+different dynamics, but there's, it's almost like part of life is resolving some kind of
+
+31:06.820 --> 31:11.320
+complex puzzle you have with the people you love, the people close to you, or the people
+
+31:11.320 --> 31:13.120
+who are not there, all those kinds of things.
+
+31:14.220 --> 31:17.620
+That's so much pain in that we don't need to escalate father, father.
+
+31:17.820 --> 31:21.820
+I never thought if it's, I always thought it's his father directly.
+
+31:22.020 --> 31:23.120
+Yeah, I don't get that.
+
+31:23.120 --> 31:26.020
+It could be, but I don't, I feel like it's a more
+
+31:31.020 --> 31:32.920
+masculine spirituality.
+
+31:33.620 --> 31:37.020
+Like a father figure or just broadly some kind of spirituality.
+
+31:37.120 --> 31:43.320
+Could be like God, father God, mother God, you know, like could be, I don't know.
+
+31:44.020 --> 31:48.220
+But there's, there's so much, it's like both hope and melancholy.
+
+31:49.620 --> 31:51.220
+You're saying war's not the answer.
+
+31:51.220 --> 31:55.320
+It's like you, you don't tell your father, war's not your, your blood father.
+
+31:55.320 --> 31:56.320
+War's not the answer.
+
+31:56.320 --> 31:57.620
+It's strange conversation.
+
+31:58.520 --> 32:00.920
+It's a bigger conversation than a personal.
+
+32:01.020 --> 32:03.420
+Don't you think it feels like war?
+
+32:03.720 --> 32:10.720
+If one is personal, what's the difference between is the war is personal too.
+
+32:11.020 --> 32:14.220
+It's only leaders think about war in a geopolitical sense.
+
+32:14.420 --> 32:14.720
+Yeah.
+
+32:14.820 --> 32:19.120
+When people that fight wars, you lose your brothers, you lose.
+
+32:19.120 --> 32:21.220
+I mean, death is just right there.
+
+32:21.420 --> 32:22.620
+So it might feel just like that.
+
+32:22.620 --> 32:27.320
+But yeah, there is a dance between like the personal and like talking to the
+
+32:27.320 --> 32:28.620
+entirety of the society.
+
+32:28.620 --> 32:29.320
+It's like John Lennon.
+
+32:29.320 --> 32:36.320
+Imagine like also a song where is that, is that a hopeful?
+
+32:36.820 --> 32:37.920
+Is that cynical?
+
+32:39.020 --> 32:41.320
+Is it like melancholy?
+
+32:42.520 --> 32:43.420
+Like heartbroken?
+
+32:43.420 --> 32:47.720
+Like you, you hope you wish things would be a certain way and they're not.
+
+32:48.720 --> 32:49.220
+Yeah, I don't know.
+
+32:49.220 --> 32:52.120
+I don't know if John Lennon is giving up on the world in imagine.
+
+32:52.620 --> 32:53.520
+Yeah, I don't know.
+
+32:53.620 --> 32:55.420
+No, it's, it's an interesting question.
+
+32:55.420 --> 33:03.320
+There's another John Lennon lyric in, let me think of what it is.
+
+33:03.320 --> 33:04.220
+Take me a second.
+
+33:08.820 --> 33:11.220
+And different songs keep coming into my head.
+
+33:11.220 --> 33:14.020
+It's not the one that I'm looking and you keep pressing next.
+
+33:18.720 --> 33:19.920
+Across the universe.
+
+33:21.520 --> 33:23.120
+Nothing's going to change my world.
+
+33:25.120 --> 33:33.620
+And when I hear that, I hear it as hopeless, but I don't think, I don't
+
+33:33.620 --> 33:38.520
+believe that that's, well, it may be how he meant it, but I don't think
+
+33:38.520 --> 33:40.320
+that's how it's normally taken.
+
+33:43.120 --> 33:45.820
+And it's also the taker is important.
+
+33:45.920 --> 33:47.520
+I'm generally optimistic and hopeful.
+
+33:47.520 --> 33:51.520
+So I always like look for the hope in the, actually the harshest
+
+33:51.620 --> 33:55.820
+love, uh, heartbreak songs are always somehow hopeful to me.
+
+33:56.020 --> 33:57.020
+That's a love song.
+
+33:57.720 --> 34:05.120
+Uh, to me, like a song about losing love is, is a song about the great
+
+34:05.120 --> 34:07.320
+capacity for love and the human heart.
+
+34:07.520 --> 34:08.320
+That's what I hear.
+
+34:08.620 --> 34:10.520
+To me, losing love is exciting.
+
+34:12.320 --> 34:14.820
+Cause it's like, that means you really cared.
+
+34:14.920 --> 34:17.920
+That means you felt something and you feel something you can sit in that
+
+34:17.920 --> 34:21.920
+pain and that pain is a reminder of what it means to be human when you're
+
+34:21.920 --> 34:28.620
+that, um, what is it, uh, we're just listening, uh, the only man who could
+
+34:28.620 --> 34:30.120
+ever reach me as a son of a preacher man.
+
+34:30.320 --> 34:34.020
+So it's the, um, it's like that early love or something with partially sexual
+
+34:34.020 --> 34:36.420
+or whatever, that's not as interesting to me.
+
+34:36.420 --> 34:37.020
+It's fun.
+
+34:37.020 --> 34:37.620
+It's great.
+
+34:37.920 --> 34:39.120
+That's that heartbreak.
+
+34:39.220 --> 34:40.920
+That's the reminder that can go deep.
+
+34:41.320 --> 34:42.620
+Although that's a damn good song.
+
+34:43.120 --> 34:47.720
+Have you ever heard the Detroit mix of the Marvin Gaye album?
+
+34:48.220 --> 34:48.420
+No.
+
+34:50.320 --> 34:50.820
+Call it up.
+
+34:53.020 --> 34:54.020
+By far better.
+
+34:54.920 --> 34:55.420
+Mind blowing.
+
+34:55.420 --> 34:56.420
+I just heard it recently.
+
+34:56.420 --> 34:57.120
+Blew my mind.
+
+35:03.220 --> 35:03.820
+Oh, wow.
+
+35:04.020 --> 35:04.520
+Reverb.
+
+35:06.020 --> 35:06.520
+Distant.
+
+35:11.120 --> 35:11.620
+Interesting.
+
+35:12.620 --> 35:13.120
+Yeah.
+
+35:24.520 --> 35:26.220
+It's like, it's all around the room more.
+
+35:37.120 --> 35:39.220
+More voices, more voices.
+
+35:39.820 --> 35:41.620
+He's layering his own vocals.
+
+36:06.520 --> 36:08.120
+It feels like there's multiple people singing.
+
+36:09.220 --> 36:09.720
+Yeah.
+
+36:21.320 --> 36:22.220
+Yeah, it's beautiful.
+
+36:22.320 --> 36:22.820
+Yeah.
+
+36:22.920 --> 36:24.220
+Seems to have more energy.
+
+36:24.420 --> 36:27.620
+If you, if you listen to the whole album, even, even though you just said
+
+36:27.620 --> 36:31.320
+you don't listen to albums anymore, the Detroit mix of the whole album
+
+36:31.720 --> 36:33.220
+changes the album a lot.
+
+36:34.720 --> 36:37.420
+I mean, that, that felt, uh, so that's the opposite of a
+
+36:37.420 --> 36:38.720
+cappella, I would say.
+
+36:38.820 --> 36:39.320
+Yes.
+
+36:39.520 --> 36:43.120
+Cause it's saying it's, it's, it's, um, there's layers.
+
+36:43.120 --> 36:47.920
+There's, um, and, and that maybe, I don't know if you remember, but
+
+36:48.920 --> 36:53.420
+if memory serves me, uh, correct here, he produces this own album here.
+
+36:53.420 --> 36:56.120
+Marvin Gaye was the producer on this, I believe.
+
+36:56.120 --> 36:56.820
+I believe so.
+
+36:56.820 --> 37:01.020
+And this one sounds more like it's a get together and the whole album
+
+37:01.020 --> 37:04.620
+sounds more like a get together where it's a group of people in a room
+
+37:04.920 --> 37:06.120
+playing music together.
+
+37:06.720 --> 37:11.720
+Whereas the album version sounds more like an out, like a recording.
+
+37:12.020 --> 37:14.620
+This sounds less like a recording and a little more like a party.
+
+37:15.820 --> 37:18.920
+Now you had a series of conversations with Paul McCartney, which is amazing
+
+37:18.920 --> 37:23.520
+that people should, should watch, but is, is there, this is continuing
+
+37:23.520 --> 37:24.620
+our therapy session.
+
+37:24.720 --> 37:30.120
+Is there a case to be made that, uh, what's going on as number one album
+
+37:30.220 --> 37:35.120
+above the Beatles, uh, white album or Abbey road above pet sounds?
+
+37:36.020 --> 37:37.620
+Can you still manage case?
+
+37:38.120 --> 37:39.320
+There's always a case.
+
+37:39.420 --> 37:43.620
+I mean, there's always a case every, there's no, uh, in reality in art,
+
+37:43.620 --> 37:48.220
+there is no, um, there's no metric that makes sense.
+
+37:48.220 --> 37:53.920
+So, um, you could put numbers on things, but it's like, is this apple
+
+37:53.920 --> 37:55.320
+better than this peach?
+
+37:55.720 --> 37:58.820
+Like, it's not really a fair comparison.
+
+37:59.520 --> 38:02.720
+But if you just had to keep one to represent the human species,
+
+38:02.720 --> 38:05.720
+that's the way I think to the aliens.
+
+38:05.720 --> 38:07.720
+So I think it's a very personal decision.
+
+38:07.720 --> 38:11.020
+I don't, I think you can make, you can make your choice to represent
+
+38:11.220 --> 38:13.420
+the human species and I'll make mine, you know?
+
+38:13.720 --> 38:16.220
+Well, I would pick the Beatles over the beach boys.
+
+38:16.220 --> 38:19.520
+So that's my, if I became dictator of the world and was talking to the
+
+38:19.520 --> 38:23.120
+aliens, but I don't know the full historical context to the impact of
+
+38:23.120 --> 38:27.320
+the music, I don't know if that's something to consider, like this
+
+38:27.320 --> 38:31.920
+kind of thought experiment of imagine what it was like back then.
+
+38:32.820 --> 38:37.920
+To create, to go into the studio, to do such interesting work in the studio.
+
+38:38.920 --> 38:44.120
+Um, as opposed to like listening to just as, as a pop song almost from is
+
+38:44.120 --> 38:50.220
+that I've never been able to understand, uh, beach boys, God only knows.
+
+38:51.520 --> 38:54.820
+The song that only knows God only knows, but all of it, that the
+
+38:54.820 --> 39:01.720
+album, the pet songs in my room was, uh, in my room, that song, uh,
+
+39:02.220 --> 39:06.020
+is, is that, what's your favorite on the album that sounds album?
+
+39:06.020 --> 39:08.320
+That sounds, um, the opening track.
+
+39:09.420 --> 39:10.320
+Do you mind if I play it?
+
+39:10.320 --> 39:10.820
+Please.
+
+39:13.020 --> 39:14.720
+It's, it's, it's too fun.
+
+39:17.020 --> 39:18.320
+That's part of their trip though.
+
+39:19.620 --> 39:22.620
+The, you, uh, you open the heart with the fun.
+
+39:25.620 --> 39:26.420
+It's possible.
+
+39:27.320 --> 39:30.520
+Original mono and stereo mix versions.
+
+39:31.220 --> 39:32.420
+What's the opening song?
+
+39:32.520 --> 39:33.520
+Wouldn't it be nice?
+
+39:33.620 --> 39:34.720
+Yeah, that's the song.
+
+39:56.420 --> 40:08.620
+This part is good, man.
+
+40:11.420 --> 40:12.320
+And then back to fun.
+
+40:14.120 --> 40:15.820
+We could say good night and stay together.
+
+40:16.120 --> 40:16.920
+Wouldn't that be nice?
+
+40:17.220 --> 40:19.120
+Wouldn't it be nice to wake up together?
+
+40:19.720 --> 40:20.420
+But we're not.
+
+40:21.920 --> 40:23.320
+There's heartbreak in this one too.
+
+40:24.320 --> 40:29.220
+So to me, like George Harris, like, um, uh, is that the album?
+
+40:29.220 --> 40:31.020
+What, while my guitar gently weeps?
+
+40:32.220 --> 40:37.920
+I mean that, um, with the Beatles, it's so hard to, depending on the day.
+
+40:38.020 --> 40:39.920
+I'll, I'll, I'll say a very different song.
+
+40:39.920 --> 40:43.220
+That's my favorite song, but I often return to while my guitar
+
+40:43.220 --> 40:45.020
+gently weeps is my favorite song.
+
+40:45.020 --> 40:45.720
+Spectacular.
+
+40:46.020 --> 40:46.620
+It's spectacular.
+
+40:46.620 --> 40:49.020
+And anything George Harrison, honestly, something, something
+
+40:49.020 --> 40:50.020
+in the way she moves.
+
+40:50.820 --> 40:52.320
+The bet I, what would you classify that?
+
+40:52.320 --> 40:55.520
+There's like several Beatles songs, categories of Beatles songs.
+
+40:55.520 --> 40:59.720
+So that's like the melancholy love songs or ballads or something like that.
+
+40:59.820 --> 41:03.020
+Um, yesterday, let it be.
+
+41:04.720 --> 41:06.320
+What's, do you have favorites?
+
+41:06.420 --> 41:10.220
+So from your, like, how have you changed as a man, as a human being, as a
+
+41:10.220 --> 41:16.120
+musician and music producer ever having done that lengthy interaction with,
+
+41:16.420 --> 41:17.220
+with McCartney?
+
+41:17.520 --> 41:24.120
+Anytime you're around someone who's such a hero and you spend time with
+
+41:24.120 --> 41:28.320
+them and they're a human being, it helps put perspective on everything.
+
+41:28.620 --> 41:29.820
+You know, that they're just human.
+
+41:29.920 --> 41:35.120
+Well, obviously, I mean, every, everyone's just human and, um, but I
+
+41:35.120 --> 41:38.520
+remember the first time I got to see Paul McCartney play live, it was in
+
+41:38.520 --> 41:43.520
+a stadium of 70,000 people and he started playing and I started playing
+
+41:43.620 --> 41:49.020
+70,000 people and he started playing and I started crying and I couldn't
+
+41:49.020 --> 41:53.520
+believe I was in, even with 70,000 people, I couldn't believe that this
+
+41:53.520 --> 41:59.020
+man walks the earth and that I'm in the same place as him and he's the
+
+41:59.020 --> 42:01.320
+person who wrote that and played that.
+
+42:01.320 --> 42:04.120
+And now he's here playing it for us.
+
+42:04.720 --> 42:05.420
+It's mind blowing.
+
+42:06.020 --> 42:07.020
+That's the voice.
+
+42:08.420 --> 42:10.420
+That's the, it's overwhelming.
+
+42:11.420 --> 42:18.420
+Is it inspiring or is it, um, like, cause sometimes when you have, and
+
+42:18.420 --> 42:22.920
+I've gotten a chance to me, I mean, I love people in general, like every,
+
+42:22.920 --> 42:26.420
+every person is fascinating to me, but yeah, when you've been a fan for
+
+42:26.420 --> 42:31.520
+a long time and you meet a person, I sort of, uh, I'll just remove present
+
+42:31.520 --> 42:37.620
+company is you, um, it's like, oh, they're just human.
+
+42:37.620 --> 42:40.920
+So there's both, it's both inspiring that just a simple human can
+
+42:40.920 --> 42:46.120
+achieve such beautiful things, but it's also like almost wishing there
+
+42:46.120 --> 42:48.620
+were gods moving around us.
+
+42:49.620 --> 42:50.920
+It's somehow peaceful.
+
+42:51.320 --> 42:56.820
+It's just, it's more, uh, comforting to know that there's, you know, uh,
+
+42:56.820 --> 42:58.020
+there's bigger fish.
+
+42:58.120 --> 43:02.220
+I'm, I'm just a small fish and then there's bigger fish and they will
+
+43:02.220 --> 43:03.720
+take care of the ocean for us.
+
+43:03.820 --> 43:05.620
+And they will take care of the ocean for us.
+
+43:05.720 --> 43:08.520
+I think we're all capable of being big fish.
+
+43:08.620 --> 43:11.020
+I don't, I don't think that there are special people.
+
+43:11.220 --> 43:12.620
+I don't think it it's like that.
+
+43:14.320 --> 43:15.620
+I would make a case.
+
+43:15.720 --> 43:21.420
+So the variety of artists that you worked with and brought the best
+
+43:21.420 --> 43:26.120
+thought of, it does seem the year out of this world.
+
+43:27.020 --> 43:29.820
+So w do you think you would know?
+
+43:31.520 --> 43:36.620
+Like if you're the same kind of specie, maybe you're just a meat
+
+43:36.620 --> 43:39.920
+vehicle and you're channeling ideas from somewhere else.
+
+43:40.320 --> 43:42.420
+I feel like I'm channeling ideas from somewhere else.
+
+43:42.420 --> 43:43.020
+Hundred percent.
+
+43:44.220 --> 43:47.420
+But I think I asked questions about where from, I believe we all, I
+
+43:47.420 --> 43:54.920
+believe we all are though, you know, I believe we are, um, we're vehicles
+
+43:55.720 --> 44:00.520
+for information that when it's ready to come through, it comes through.
+
+44:00.620 --> 44:03.220
+And the people who have good antennas pick up the signal.
+
+44:03.720 --> 44:07.820
+But, um, if I'm sure you've had an experience in your life where you've
+
+44:07.820 --> 44:11.920
+had an idea for something and you've not acted on it and eventually
+
+44:11.920 --> 44:14.920
+someone else does it, and it's not because they're doing it because
+
+44:14.920 --> 44:16.620
+you had the idea and they stole your idea.
+
+44:16.620 --> 44:19.920
+It's because the time has come for that idea.
+
+44:20.920 --> 44:23.920
+And if you don't do it, someone else is going to do it being broadcast by
+
+44:23.920 --> 44:24.720
+whatever the sources.
+
+44:25.720 --> 44:32.220
+Uh, yeah, I tend to, I tend to see humans as not quite special in that way.
+
+44:32.220 --> 44:32.520
+Yeah.
+
+44:32.520 --> 44:36.420
+It's, it's different kinds of antennas walking around, listening to ideas
+
+44:36.420 --> 44:41.720
+and ideas that are, I like the, the notion of, uh, Richard Dawkins of
+
+44:41.720 --> 44:46.420
+memes, it's kind of the ideas of the organisms and they're just using our
+
+44:46.420 --> 44:52.920
+brains to multiply, to, to select, to compete, uh, to evolve and, and humans,
+
+44:53.220 --> 44:56.820
+and humans, we really want to hold onto the specialists of our body, of our
+
+44:56.820 --> 44:58.820
+mind, but it's, it's really the ideas.
+
+44:59.120 --> 45:03.520
+So for a group that was born two centuries ago, you wouldn't be a
+
+45:03.520 --> 45:11.020
+music producer, you'd be, or I mean, maybe, but you have an antenna and
+
+45:11.020 --> 45:15.620
+if no signals coming in, uh, or you'd be hearing a potentially a
+
+45:15.620 --> 45:19.020
+different signal, is there, um,
+
+45:19.420 --> 45:23.420
+I think we all have our own antenna for whatever it is that we, you know,
+
+45:23.420 --> 45:28.120
+maybe not everyone has tuned into their antenna to see what it is that
+
+45:28.720 --> 45:33.320
+their strength and bringing through is I'm lucky in that it found me.
+
+45:33.320 --> 45:36.120
+Cause I didn't know that it was a, I didn't even know this was a job.
+
+45:37.020 --> 45:42.920
+I sometimes wonder, I mean, a lot of young people, a lot of people wonder
+
+45:43.020 --> 45:47.820
+like, what's the purpose and the specs of my antenna?
+
+45:49.420 --> 45:52.320
+What am I put on this earth to do?
+
+45:53.820 --> 45:58.920
+Like if, um, you know, I, I can live a thousand lives, there's so many
+
+45:58.920 --> 46:05.120
+trajectories and imagine the greatest possible trajectory that reveals the
+
+46:05.120 --> 46:09.520
+most beautiful thing I can possibly create in this world, live the most
+
+46:09.520 --> 46:10.420
+beautiful way.
+
+46:11.520 --> 46:12.720
+Uh, what is that?
+
+46:13.620 --> 46:16.020
+I feel like that's a good exercise to think about.
+
+46:17.020 --> 46:21.720
+Um, cause it's also liberating to think that you can do anything.
+
+46:22.720 --> 46:27.520
+I mean that, um, more and more, I suppose that's kind of life.
+
+46:27.520 --> 46:30.720
+It's like society is pushing conformity on you.
+
+46:30.720 --> 46:34.420
+You know, I thought I had my own flavor of conformity.
+
+46:34.420 --> 46:35.820
+I thought I'm supposed to be following.
+
+46:36.120 --> 46:40.720
+And then early on, I would say like in the late twenties, you realize,
+
+46:40.720 --> 46:44.720
+wait a minute, you don't have to tell you don't have to do what teachers
+
+46:44.820 --> 46:47.220
+tell you to do what parents tell you to do.
+
+46:47.220 --> 46:49.020
+What society tells you to do.
+
+46:49.020 --> 46:52.520
+You can like, um, I would never wear a suit.
+
+46:53.220 --> 46:58.820
+If I listened to like my colleagues and community who think that a suit is
+
+46:58.820 --> 47:04.720
+like the symbol of, uh, what is it a symbol of conformity actually, which
+
+47:04.720 --> 47:08.720
+is hilarious, but, uh, it's actually a kind of rebellion and everything
+
+47:08.720 --> 47:12.020
+else like of that nature doing, doing these silly podcasts.
+
+47:13.020 --> 47:17.920
+Um, I have a question I have to ask because you brought up the suit.
+
+47:18.020 --> 47:18.320
+Yeah.
+
+47:19.020 --> 47:21.120
+Uh, do you wear the suit?
+
+47:21.620 --> 47:24.720
+Is this your daily uniform outside of podcasting?
+
+47:25.020 --> 47:28.820
+So, uh, for the longest time it was some kind of suit.
+
+47:29.220 --> 47:35.520
+And then recently, I mean, coinciding with going to Texas, there's a, I'm
+
+47:35.520 --> 47:40.520
+such a loner, I'm an introvert and there's a bit of a hiding from the
+
+47:40.520 --> 47:50.620
+world when I wear other stuff, I really want to, um, to not make fame,
+
+47:50.620 --> 47:56.120
+recognition, money, all of those things, a motivation at all.
+
+47:57.920 --> 48:01.920
+And the world kind of wants you to make those motivations and not, not the
+
+48:01.920 --> 48:05.820
+world, but I would say maybe the Western world, maybe America, maybe
+
+48:05.820 --> 48:07.120
+a capitalist system does.
+
+48:08.120 --> 48:11.620
+But that's a choice to buy into that or not.
+
+48:13.120 --> 48:17.220
+It takes a brave person, a person of character to not buy in.
+
+48:17.220 --> 48:21.720
+And I'm, I'm like a, uh, like a baby deer trying to find his legs.
+
+48:22.020 --> 48:26.620
+You don't have to buy in because I love people and I think I'm kind of an idiot.
+
+48:26.620 --> 48:31.920
+And so when other people say, do this and do that, it, uh, there's a,
+
+48:31.920 --> 48:33.020
+there is a pressure there.
+
+48:33.420 --> 48:39.120
+It's actually very difficult to not listen necessarily to the advice of
+
+48:39.120 --> 48:43.220
+others and yet keep yourself fragile and open to the world.
+
+48:44.320 --> 48:49.620
+It's easy to be like, I'm always right, you know, just kind of sticking
+
+48:49.620 --> 48:52.820
+a ground, but if you want to be like vulnerable, if you want to connect
+
+48:52.820 --> 48:56.020
+with people and just wear your heart on your sleeve, then you're going
+
+48:56.020 --> 48:56.720
+to listen to them.
+
+48:56.720 --> 48:58.320
+I mean, that's the double-edged sword of it.
+
+48:59.320 --> 49:04.320
+And, uh, but then again, that pain, like if you don't let it destroy,
+
+49:04.320 --> 49:05.920
+you can grow, grow from that.
+
+49:05.920 --> 49:08.520
+Has fame affected you at all?
+
+49:08.520 --> 49:10.520
+Did you unplug from the system at some point?
+
+49:11.120 --> 49:11.520
+Same.
+
+49:11.620 --> 49:14.120
+I've always been sort of removed.
+
+49:14.120 --> 49:16.020
+I don't feel like I'm part of any system.
+
+49:17.220 --> 49:18.920
+Do you feel famous?
+
+49:20.520 --> 49:25.120
+I'm aware that when I go out, people, you know, say nice things to me,
+
+49:25.120 --> 49:28.120
+which is great, but that's about it.
+
+49:28.720 --> 49:31.720
+That's about as far as, but it doesn't affect your art about your
+
+49:31.720 --> 49:33.520
+creativity or your thoughts.
+
+49:33.620 --> 49:37.520
+Like when you're sitting alone and thinking about the world, it can't,
+
+49:37.920 --> 49:39.720
+it's a destructive force.
+
+49:40.920 --> 49:46.920
+The, the thing, the reason that you're who you are and the reason that
+
+49:46.920 --> 49:50.520
+you're finding the success you're finding is because you've been true
+
+49:50.520 --> 49:52.320
+to yourself to get to that stage.
+
+49:52.720 --> 49:58.720
+So to start changing that to conform to either conform to someone else's
+
+49:58.720 --> 50:00.120
+idea of what you should be doing.
+
+50:01.120 --> 50:03.720
+It's just seems like, uh, it doesn't make sense.
+
+50:04.120 --> 50:06.120
+Do you have a sense of who you are?
+
+50:06.320 --> 50:07.720
+Cause I don't necessarily have a.
+
+50:08.920 --> 50:09.420
+I don't know.
+
+50:09.420 --> 50:15.020
+I know that I really like making good things and I know that I'm crazy
+
+50:15.020 --> 50:21.920
+about it in that, um, it's like an obsession and I want things to be
+
+50:21.920 --> 50:23.420
+as good as they could be, whatever it is.
+
+50:23.420 --> 50:28.620
+And if I'm, if I finish a music project and I have a window of time
+
+50:28.620 --> 50:32.620
+where I'm not working on music, I might be moving the furniture
+
+50:32.620 --> 50:33.420
+around in the house.
+
+50:33.420 --> 50:39.620
+You know, I'm always looking for a prod, a creative outlet to find
+
+50:39.620 --> 50:41.220
+a way to make something better.
+
+50:41.320 --> 50:44.420
+Or there was a period of time where I was in a weird corporate
+
+50:44.520 --> 50:52.120
+situation that was, uh, that didn't allow me to flourish.
+
+50:52.620 --> 50:57.620
+And I turned, I focused the creativity in on myself and I lost a
+
+50:57.620 --> 50:59.120
+bunch of weight and changed my life.
+
+50:59.120 --> 51:02.120
+And so that was the kind of art like the, you've gone through a
+
+51:02.120 --> 51:05.120
+whole process of losing weight, getting in shape, getting healthy.
+
+51:05.120 --> 51:07.120
+That was a kind of creative act.
+
+51:07.220 --> 51:08.220
+It certainly was.
+
+51:08.220 --> 51:12.620
+It wasn't an intentional creative act, but I had a lot of energy and
+
+51:12.620 --> 51:15.620
+I just, a series of events happened.
+
+51:16.520 --> 51:18.320
+I read a book at the time.
+
+51:18.320 --> 51:19.320
+That was my heaviest.
+
+51:19.320 --> 51:23.820
+I weighed about 318 pounds and I'd never been, I'd been sedentary
+
+51:23.820 --> 51:26.220
+my whole life, basically laying on a couch working on music.
+
+51:26.220 --> 51:30.120
+So I've never been physically active in my life.
+
+51:30.920 --> 51:34.520
+And I read a book about a guy named Stu middleman, a runner who ran
+
+51:34.520 --> 51:36.320
+a thousand miles in 11 days.
+
+51:36.820 --> 51:39.820
+And I thought, wow, I, you know, get out of breath, walking to the
+
+51:39.820 --> 51:45.020
+corner and another human being can run a thousand miles in 11 days.
+
+51:45.020 --> 51:46.520
+I feel like I have bad information.
+
+51:46.620 --> 51:49.020
+You know, I'm doing, clearly I'm doing something wrong.
+
+51:50.020 --> 51:53.520
+And, um, and I reached out to a person that Stu mentioned in
+
+51:53.520 --> 51:55.920
+the book, Phil Maffetone, who was a legend.
+
+51:56.120 --> 51:58.020
+I really appreciate him as well.
+
+51:58.020 --> 52:00.320
+He's math 180 method too.
+
+52:00.320 --> 52:04.520
+He's such an interesting, I think he focuses on heart rate, uh,
+
+52:04.620 --> 52:10.820
+training and he was the first person to talk about, um, essentially,
+
+52:10.820 --> 52:19.520
+uh, low carbs, paleo keto diet 40 years ago.
+
+52:20.320 --> 52:23.320
+For a person who's going to be healthy, who can exercise and actually
+
+52:23.320 --> 52:29.220
+perform at an early level, he's the first person when I, um, you
+
+52:29.220 --> 52:31.520
+know, talking about heart rate training him and other endurance
+
+52:31.820 --> 52:36.120
+he influenced, he gave me permission to like run slower.
+
+52:38.320 --> 52:41.720
+It was the first time I realized, Oh, I can run long distances if I just
+
+52:41.720 --> 52:44.120
+run slower and then take that seriously.
+
+52:44.920 --> 52:48.620
+And I actually fell in love with the running very much so.
+
+52:48.620 --> 52:52.120
+Cause for me, everyone's different, but for me, the love of running
+
+52:52.120 --> 52:54.120
+happens in the longer distances.
+
+52:54.820 --> 52:55.920
+Did you read born to run?
+
+52:56.820 --> 52:57.520
+Great book.
+
+52:57.620 --> 52:58.320
+Amazing book.
+
+52:58.320 --> 53:00.020
+There is something special about running.
+
+53:01.020 --> 53:04.220
+And he, everybody has their own, their own journey with it.
+
+53:04.420 --> 53:07.120
+And even ultra marathon running, those kinds of things.
+
+53:08.120 --> 53:11.620
+It's a, it is like many journeys.
+
+53:12.920 --> 53:17.220
+One that can pull you in, like you won't be the same person after.
+
+53:17.220 --> 53:20.820
+And I try to be delivered about making deliberate about making
+
+53:20.820 --> 53:24.620
+choices after which you will not be the same person.
+
+53:26.020 --> 53:29.220
+And so I'm nervous about like the ultra marathon running world.
+
+53:31.020 --> 53:35.220
+Um, I had to talk to you about Johnny cash.
+
+53:37.420 --> 53:45.620
+I mean, when people ask me what my favorite musical thing is of all time.
+
+53:47.120 --> 53:54.420
+Um, you know, it's very difficult question to answer, of course, but I'm
+
+53:54.420 --> 53:57.620
+pretty quick if I'm not allowed to pick anything by Tom ways.
+
+53:58.220 --> 54:04.920
+Uh, I'm pretty quick to say, uh, hurt by Johnny cash, the performance,
+
+54:05.220 --> 54:08.320
+the, whatever you call it, whatever the heck that is, because that's not
+
+54:08.320 --> 54:14.020
+just a song covered by an artist.
+
+54:14.520 --> 54:17.220
+That's a human being at the end of their life.
+
+54:18.720 --> 54:25.720
+That the rawness of that, the, I mean, just the, there's also a music video,
+
+54:25.820 --> 54:28.320
+which for a lot of people adds a lot to it.
+
+54:28.520 --> 54:36.320
+Uh, for me, just the music alone is, I mean, the guitar, every choice on that.
+
+54:36.620 --> 54:39.020
+See the few things I've heard about it.
+
+54:39.220 --> 54:40.920
+It seemed like almost accidental.
+
+54:41.120 --> 54:43.220
+I mean, like little subtle choices here and there.
+
+54:44.320 --> 54:45.920
+Can you maybe comment on that?
+
+54:46.420 --> 54:52.220
+Um, do the, to the degree, I think you had a huge role in sort of bringing
+
+54:52.220 --> 54:56.520
+Johnny cash back from, from a different part of his life.
+
+54:56.520 --> 54:59.520
+It's like bringing something out that wasn't there before.
+
+54:59.520 --> 55:01.720
+And it was, it was, it was incredible.
+
+55:01.720 --> 55:05.220
+It was a celebration of a really special musician and that's
+
+55:05.220 --> 55:07.220
+totally new kind of celebration.
+
+55:07.920 --> 55:09.520
+Now hurt is just one of the songs.
+
+55:09.520 --> 55:13.220
+That's that's a, that's a, that's an amazing celebration of Johnny cash,
+
+55:13.220 --> 55:16.920
+but hurt is like at the, at the, uh, at the peak of that.
+
+55:17.220 --> 55:20.720
+So what was that like putting that song together?
+
+55:21.420 --> 55:24.120
+Can maybe, maybe, uh, it might be nice to listen to it.
+
+55:24.120 --> 55:25.820
+Cause I freaking love that song.
+
+55:26.120 --> 55:34.520
+And as a guitarist, I just, the simplicity of it, uh, it seems like every
+
+55:34.520 --> 55:37.120
+choice contributes to the greatness of the song.
+
+55:37.120 --> 55:51.320
+Simple, it's crisp, but it's dark too.
+
+55:55.420 --> 55:57.620
+It's one of the greatest opening lines of any song.
+
+55:59.820 --> 56:01.020
+The shade, that's that.
+
+56:01.320 --> 56:01.620
+Yeah.
+
+56:01.920 --> 56:04.320
+See if I still feel, yeah, I'm talking about the lyrics.
+
+56:04.320 --> 56:06.020
+I don't even mean the performance.
+
+56:06.020 --> 56:18.120
+The words are, but those words out of Trent Reznor are not the same.
+
+56:18.720 --> 56:21.820
+They have a different meaning coming out of Johnny cash's mouth.
+
+56:36.620 --> 56:38.620
+What have I become?
+
+56:43.220 --> 56:45.220
+Written probably for a young man.
+
+56:46.220 --> 56:47.920
+Think he was 20 when he wrote it.
+
+56:48.520 --> 56:48.820
+Trent.
+
+57:03.620 --> 57:05.620
+Anger, regret, pain.
+
+57:18.120 --> 57:22.820
+That the way the guitarist played the choice of instrument, the layers there,
+
+57:23.320 --> 57:31.320
+the, uh, the freedom to give him to use the voice that's, um, fading.
+
+57:31.820 --> 57:32.520
+It's not fading.
+
+57:32.520 --> 57:33.320
+It's changing.
+
+57:34.020 --> 57:40.820
+Maybe he's losing some aspects of his voice and it's, and it's, it's almost
+
+57:40.820 --> 57:45.920
+like shaking a little bit and it's a little bit out of tune in parts.
+
+57:48.020 --> 57:51.020
+Uh, how much of that was deliberate?
+
+57:51.020 --> 57:55.220
+How much was like, how do you give Johnny cash the freedom to do that?
+
+57:56.020 --> 57:57.320
+How do you find that together?
+
+57:57.620 --> 57:59.020
+Is there any insights you can give?
+
+57:59.720 --> 58:05.820
+I think it's a, it's a case almost of like the right pairing, the right
+
+58:06.120 --> 58:12.320
+role with the right actor, you could say the, the song lyrics, the reason
+
+58:12.320 --> 58:16.320
+we chose the song was because of the lyrics purely about the lyrics.
+
+58:17.320 --> 58:20.420
+And at that point in time, both Johnny and I would send each other songs
+
+58:20.420 --> 58:23.420
+of possible ideas to record.
+
+58:23.420 --> 58:28.720
+And, um, that was one that I sent him and he didn't respond to initially.
+
+58:28.720 --> 58:29.120
+I sent it.
+
+58:29.120 --> 58:30.220
+I would send him see it.
+
+58:30.320 --> 58:33.620
+That time we would burn CDs and I would send him like CD at 20 songs
+
+58:33.620 --> 58:36.520
+or 25 songs and then, and he would send them to me.
+
+58:36.520 --> 58:39.620
+You burn a CD for Johnny cash and you send him, uh, of different songs.
+
+58:39.620 --> 58:42.120
+I'd like songs to consider recording.
+
+58:42.120 --> 58:42.520
+Yeah.
+
+58:43.120 --> 58:45.620
+Um, and we would send these back and forth.
+
+58:46.620 --> 58:50.920
+And then that I had heard on one of the ones that I sent him
+
+58:50.920 --> 58:51.720
+and he didn't respond.
+
+58:51.720 --> 58:55.920
+And usually if he didn't respond, we didn't go back to it.
+
+58:56.020 --> 58:59.720
+You know, and that one, I remember I sent it again and I put it
+
+58:59.720 --> 59:02.420
+first on the next, on the next CD.
+
+59:03.220 --> 59:06.920
+And, um, and when, when we spoke about when he listened to CD again,
+
+59:06.920 --> 59:07.520
+he didn't respond.
+
+59:07.520 --> 59:09.320
+I said, check out that first song.
+
+59:09.320 --> 59:11.220
+And I really feel like that one could be good.
+
+59:11.320 --> 59:12.520
+What did you see in that song?
+
+59:12.520 --> 59:13.520
+Cause it's the lyrics.
+
+59:14.020 --> 59:15.020
+It's the lyrics.
+
+59:15.120 --> 59:20.120
+Cause I feel like nobody, there's very few people in the world that
+
+59:20.120 --> 59:26.120
+would see these lyrics in Johnny cash's mouth and think this is
+
+59:26.120 --> 59:28.420
+a good idea, including Trent Reznor.
+
+59:28.520 --> 59:28.920
+Yeah.
+
+59:29.320 --> 59:32.820
+I know that Trent was, Trent had trepidations in the beginning.
+
+59:33.120 --> 59:37.220
+Um, but if you listen to the words, if you forget the music and if
+
+59:37.220 --> 59:41.220
+you get what, if you forget what Nine Inch Nails sounds like, and you
+
+59:41.220 --> 59:47.020
+just read it like a poem, and then you imagine a 70 year old man
+
+59:47.020 --> 59:51.820
+reading these lyrics, it'll be, it'll be profound.
+
+59:51.920 --> 59:52.720
+It's profound.
+
+59:53.220 --> 59:58.020
+So that was the based on lyrics that started the journey.
+
+59:58.020 --> 01:00:01.320
+And then at this point in time, Johnny was not in great health.
+
+01:00:01.920 --> 01:00:06.520
+And, uh, sometimes I would go to Nashville and record with him at his
+
+01:00:06.520 --> 01:00:10.920
+house, sometimes he would come to California, but he was coming to
+
+01:00:10.920 --> 01:00:15.620
+California less regularly and because there was, there were so many
+
+01:00:15.620 --> 01:00:21.220
+songs we wanted to try, he would start sometimes recording just a straight
+
+01:00:21.220 --> 01:00:24.920
+acoustic version, like you'd have someone play guitar, he would sing
+
+01:00:25.620 --> 01:00:29.420
+and they would send those to me and we would discuss like, is this one
+
+01:00:29.420 --> 01:00:30.220
+to build on?
+
+01:00:31.020 --> 01:00:34.120
+Um, and that was when we said, I don't want to record this one
+
+01:00:34.120 --> 01:00:35.020
+until we're together.
+
+01:00:35.020 --> 01:00:36.520
+I feel like we should do this one together.
+
+01:00:37.020 --> 01:00:41.820
+So on the next trip to California, we recorded it at my, at my old house.
+
+01:00:45.320 --> 01:00:53.020
+And I mean, all the songs we recorded felt special.
+
+01:00:53.020 --> 01:00:57.220
+So I can't say this one felt special, but lyrically, it just, it's more
+
+01:00:57.320 --> 01:01:06.720
+the lyrics have such a profound sense of regret.
+
+01:01:07.420 --> 01:01:08.420
+What have I become?
+
+01:01:08.720 --> 01:01:09.020
+Yeah.
+
+01:01:09.120 --> 01:01:14.620
+And to hear when you're 20 years old, talking about regret, it's
+
+01:01:14.620 --> 01:01:17.220
+heartbreaking, but it's heartbreaking in a different way because you have
+
+01:01:17.220 --> 01:01:18.620
+a whole life to figure it out.
+
+01:01:19.520 --> 01:01:22.720
+When you're looking back over your life at the end of your life with
+
+01:01:22.720 --> 01:01:24.920
+regret, it's brutal.
+
+01:01:25.420 --> 01:01:26.220
+It's brutal.
+
+01:01:26.320 --> 01:01:29.920
+So that was the initial spark of doing it.
+
+01:01:30.620 --> 01:01:36.820
+And then when we recorded it, I believe it was, um, two guitar
+
+01:01:36.820 --> 01:01:41.820
+players, if I remember correctly, maybe even three, um, Smokey
+
+01:01:41.820 --> 01:01:47.220
+Hormel, Matt Sweeney and Mike Campbell, I believe.
+
+01:01:48.420 --> 01:01:52.620
+And Ben Montenge was playing the piano in my living room as we were doing it.
+
+01:01:53.620 --> 01:01:59.520
+And we cut the basic track and with Johnny singing, and then Johnny
+
+01:01:59.520 --> 01:02:02.720
+probably sang over that basic track a few more times.
+
+01:02:03.220 --> 01:02:11.020
+And then we comped his vocal and then, uh, built up the drama and you
+
+01:02:11.020 --> 01:02:13.720
+didn't get to the part, but at the end of the song, it gets very loud.
+
+01:02:13.720 --> 01:02:14.820
+The music gets very loud.
+
+01:02:14.820 --> 01:02:19.620
+It's subtle because it's not anything that takes your ear and the vocal
+
+01:02:19.820 --> 01:02:23.420
+is so powerful that you don't really think about what's going on.
+
+01:02:24.420 --> 01:02:26.620
+It's building and it even gets distorted at the end.
+
+01:02:26.620 --> 01:02:33.920
+It gets really, uh, like over, overpowering.
+
+01:02:34.120 --> 01:02:35.820
+And that's part of the emotion of it.
+
+01:02:35.820 --> 01:02:36.320
+Yeah.
+
+01:02:45.120 --> 01:02:47.620
+I hear almost anger and frustration.
+
+01:02:49.620 --> 01:03:15.120
+And it just rings out the clean vocal.
+
+01:03:15.220 --> 01:03:17.820
+I mean, it's so simple, so incredible.
+
+01:03:17.820 --> 01:03:23.820
+And it's interesting to have a young man's lyrics in an old Johnny
+
+01:03:23.820 --> 01:03:26.620
+Cash voice and heart and mind.
+
+01:03:26.920 --> 01:03:30.220
+I had, um, are you a fan of Tom Waits?
+
+01:03:30.420 --> 01:03:30.920
+Of course.
+
+01:03:31.520 --> 01:03:36.920
+Uh, Tom Waits was younger had his song called Martha, but there's a
+
+01:03:36.920 --> 01:03:39.720
+bunch of songs he's written when he was young was like, how does a
+
+01:03:39.720 --> 01:03:43.620
+young man have that like melancholy wisdom?
+
+01:03:44.620 --> 01:03:51.020
+The song Martha is about, uh, an older man calling a woman he used to
+
+01:03:51.020 --> 01:03:55.320
+love that she's now married and he's married and they're having that
+
+01:03:55.320 --> 01:03:56.020
+conversation.
+
+01:03:56.020 --> 01:03:59.720
+They haven't spoken for 30 years and they realized that they're still
+
+01:03:59.720 --> 01:04:03.720
+loved there and it could have been a different life, a different world
+
+01:04:03.720 --> 01:04:04.820
+where they could have been together.
+
+01:04:04.920 --> 01:04:09.720
+And here's like a 23 year old Tom Waits writing so beautifully about
+
+01:04:10.220 --> 01:04:15.020
+something that's very, uh, I've had a lot of people like tell me how
+
+01:04:15.320 --> 01:04:20.320
+real that, uh, as an older person looking back at that love that you
+
+01:04:20.320 --> 01:04:25.420
+had and realizing it wasn't, it was really, it's still there in clings
+
+01:04:25.420 --> 01:04:26.720
+of that love are still there.
+
+01:04:27.020 --> 01:04:39.020
+I think there's a, um, when a young person writes a sad song, they
+
+01:04:39.120 --> 01:04:43.520
+almost seem more willing to go to a more hopeless place because they
+
+01:04:43.520 --> 01:04:49.120
+have, they have a lot of journey ahead and older artists tend to
+
+01:04:49.120 --> 01:04:52.720
+want to look at the bright side of things, which, which also I think
+
+01:04:52.720 --> 01:04:54.320
+comes from the wisdom of aging.
+
+01:04:54.420 --> 01:04:56.320
+It's, it's a more realistic position.
+
+01:04:57.320 --> 01:05:02.220
+So it's not uncommon for younger people to write, I think even in
+
+01:05:02.220 --> 01:05:09.720
+the Beatles, you'll see like they're very heavy lyrics, um, middle to
+
+01:05:09.720 --> 01:05:12.420
+late era Beatles, which is still, you know, they're in their 20, you
+
+01:05:12.420 --> 01:05:14.720
+know, early twenties, I guess.
+
+01:05:14.820 --> 01:05:17.820
+Uh, that's hard to think about so much accomplished.
+
+01:05:17.820 --> 01:05:18.520
+Unbelievable.
+
+01:05:20.120 --> 01:05:24.320
+And they, they went through the full journey from fun to darkness
+
+01:05:25.720 --> 01:05:27.120
+in the span of a few years.
+
+01:05:28.120 --> 01:05:29.620
+Uh, you mentioned lyrics.
+
+01:05:29.720 --> 01:05:35.120
+Um, so you've obviously produced albums with incredible lyrics.
+
+01:05:35.120 --> 01:05:38.220
+I think you've mentioned that the interesting characteristics of
+
+01:05:38.220 --> 01:05:45.220
+hip hop of rap is that you're writing poetry to rhythm versus writing
+
+01:05:45.220 --> 01:05:46.520
+poetry to melody.
+
+01:05:47.820 --> 01:05:50.120
+So that's like one way to think about it.
+
+01:05:50.720 --> 01:05:51.520
+And I'm a fan.
+
+01:05:51.620 --> 01:05:54.820
+I mean, Tom Waits, Leonard Cohen, I'm a fan of poetry period.
+
+01:05:55.320 --> 01:06:02.220
+Um, is there something, um, about highlighting the poetry of it?
+
+01:06:02.220 --> 01:06:05.220
+The power of words you did with, with hurt.
+
+01:06:05.820 --> 01:06:10.320
+If, uh, like if I have to play it again, it's one, uh, a Tom Waits
+
+01:06:10.320 --> 01:06:15.720
+song that's like less than a minute long that I've always go back to.
+
+01:06:15.820 --> 01:06:16.920
+It's one I really love.
+
+01:06:16.920 --> 01:06:18.520
+And it has just a few lines.
+
+01:06:19.520 --> 01:06:20.620
+It's called, I want you.
+
+01:06:22.520 --> 01:06:24.320
+All it is, is him saying, I want you.
+
+01:06:24.820 --> 01:06:37.520
+I want you, you, you.
+
+01:06:37.520 --> 01:06:39.920
+This is a 22 year old Tom Waits.
+
+01:06:40.320 --> 01:06:45.120
+All I want is you, you, you.
+
+01:06:45.420 --> 01:07:03.220
+All I want is you, give you stars above, sun on the brightest day.
+
+01:07:05.320 --> 01:07:06.820
+Give you all my love.
+
+01:07:06.820 --> 01:07:24.520
+If only you would say that I want you, you, you, all I want is you.
+
+01:07:24.520 --> 01:07:26.920
+And then he hums for 20 more seconds.
+
+01:07:27.920 --> 01:07:28.420
+Beautiful.
+
+01:07:28.520 --> 01:07:31.720
+So, so some, man, that young man, like low.
+
+01:07:31.720 --> 01:07:35.920
+And for people who don't know Tom Waits, you should definitely listen to him.
+
+01:07:36.020 --> 01:07:37.620
+His voice sounds very different now.
+
+01:07:37.820 --> 01:07:40.620
+And it's interesting to see the evolution of a human voice.
+
+01:07:41.420 --> 01:07:47.020
+Uh, the artists over time, because that's a young, like boy, like
+
+01:07:47.020 --> 01:07:53.420
+voice, hopeful, less clever, less witty, more simple that simplicity is there.
+
+01:07:54.020 --> 01:07:58.020
+And he's not, I mean, that takes guts to be so simple, I would say
+
+01:07:58.220 --> 01:08:05.620
+lyrically and, uh, musically is there, um, sort of laying that out on
+
+01:08:05.620 --> 01:08:11.320
+the table, is there ways to, that you like to highlight the voice, the
+
+01:08:11.320 --> 01:08:16.420
+lyrics, or is there's no one rule?
+
+01:08:16.620 --> 01:08:20.620
+So do you, what is the thing that makes music special?
+
+01:08:20.620 --> 01:08:26.420
+Is it the rhythm, the melody, the, uh, or is ultimately the lyrics
+
+01:08:26.520 --> 01:08:28.320
+are always there or the idea?
+
+01:08:28.420 --> 01:08:29.920
+You just asked me five different questions.
+
+01:08:32.520 --> 01:08:33.320
+It's not about you.
+
+01:08:35.820 --> 01:08:36.820
+You don't want the answers.
+
+01:08:39.520 --> 01:08:40.020
+I'll listen.
+
+01:08:42.820 --> 01:08:45.420
+Uh, I look forward to your comments, the internet.
+
+01:08:45.520 --> 01:08:45.820
+Okay.
+
+01:08:48.020 --> 01:08:50.420
+You have the greatest producer of all time in front of you.
+
+01:08:50.420 --> 01:08:51.820
+I know you can't shut the hell up.
+
+01:08:51.920 --> 01:08:52.620
+That's right.
+
+01:08:52.820 --> 01:08:53.320
+Friends.
+
+01:08:53.820 --> 01:08:57.020
+Uh, is, but you do value lyrics.
+
+01:08:57.020 --> 01:08:58.820
+Is there a way to celebrate lyrics?
+
+01:08:59.420 --> 01:09:01.420
+I value lyrics if the lyrics are important.
+
+01:09:01.620 --> 01:09:03.220
+I'm not a lyric person.
+
+01:09:03.420 --> 01:09:08.920
+I'm very much, uh, whatever the thing that makes the thing good is the
+
+01:09:08.920 --> 01:09:11.020
+thing that I'm drawn to for me.
+
+01:09:11.520 --> 01:09:14.220
+Um, for a long time, lyrics meant very little.
+
+01:09:15.320 --> 01:09:17.820
+I would say from the beginning.
+
+01:09:18.020 --> 01:09:18.520
+Yes.
+
+01:09:18.920 --> 01:09:21.420
+From the earliest days for your right to party.
+
+01:09:21.420 --> 01:09:22.220
+Beastie boys.
+
+01:09:22.420 --> 01:09:23.820
+Yeah, it was, it was fun.
+
+01:09:23.820 --> 01:09:27.220
+I thought they were good lyrics, but it wasn't what was important.
+
+01:09:27.920 --> 01:09:32.520
+I mean, it was in a, in a, almost a novelty way, not in a serious way.
+
+01:09:33.220 --> 01:09:39.620
+Early in my career, I was much more focused on the rhythm first, the
+
+01:09:39.620 --> 01:09:45.320
+rhythm, and I would, if the lyrics weren't good enough, I would be
+
+01:09:45.320 --> 01:09:48.020
+aware of it, but it wasn't the driving force for me.
+
+01:09:48.920 --> 01:09:52.420
+And eventually over time, then melody became an important piece, which
+
+01:09:52.420 --> 01:09:53.620
+it wasn't in the beginning.
+
+01:09:54.320 --> 01:09:59.720
+And then, uh, lyrics became more important over time, but it's always
+
+01:09:59.720 --> 01:10:04.320
+been, uh, always changing what, what draws me in.
+
+01:10:05.120 --> 01:10:09.220
+And one of the things I found as it relates to lyrics that, that can
+
+01:10:10.220 --> 01:10:17.620
+give a lyric a different power has to do with rhythm, where if there's
+
+01:10:17.620 --> 01:10:22.220
+no drum, the lyrics tend to mean more.
+
+01:10:24.520 --> 01:10:28.920
+So earlier, what you were saying about, if it was just a cappella, you
+
+01:10:28.920 --> 01:10:32.220
+felt, you felt Marvin Gaye in a different way hearing the a cappella.
+
+01:10:32.520 --> 01:10:39.020
+Can you comment on, I mean, in terms of one of the greatest albums ever.
+
+01:10:48.320 --> 01:10:50.020
+Why does it sound so raw?
+
+01:10:51.320 --> 01:10:55.920
+Her voice, she's just a great singer, but this is that you're not doing
+
+01:10:55.920 --> 01:11:00.320
+anything else, you're doing the, uh, there's, there's, there's, there's
+
+01:11:00.320 --> 01:11:07.020
+drumming and then there's just a single beat and then it builds.
+
+01:11:07.020 --> 01:11:28.220
+It gets simpler, but it feels like it's a giant orchestra.
+
+01:11:37.020 --> 01:11:51.320
+There's backing vocals, the anger.
+
+01:11:53.820 --> 01:11:54.420
+I love it.
+
+01:12:00.420 --> 01:12:06.520
+Uh, I just, there's something about, uh, such a powerful voice and the
+
+01:12:06.520 --> 01:12:08.120
+instruments not getting in the way.
+
+01:12:08.820 --> 01:12:11.520
+I mean, the same with the, with her and Johnny Cash.
+
+01:12:12.420 --> 01:12:18.220
+It is, is there, um, why does it sound so like raw?
+
+01:12:18.220 --> 01:12:19.320
+It's the same as the hurt.
+
+01:12:19.320 --> 01:12:22.520
+There's a, it feels like you're in the room with them.
+
+01:12:22.820 --> 01:12:25.220
+It feels like they're not even singing.
+
+01:12:25.220 --> 01:12:29.920
+They're like, uh, they're literally freshly mad and angry.
+
+01:12:29.920 --> 01:12:33.720
+I think those are the things that make great singers sound like great singers.
+
+01:12:33.720 --> 01:12:37.120
+It's not, it's not anything that that's happening in the studio.
+
+01:12:37.920 --> 01:12:42.020
+I mean, we're, I would say the only thing that us in the studio can do is kind
+
+01:12:42.020 --> 01:12:49.720
+of get out of the way and not, not ruin it, you know, it's like, that's, that's
+
+01:12:49.820 --> 01:12:53.120
+what comes through of these, these people.
+
+01:12:54.220 --> 01:12:59.320
+I should also, before I forget, there is a lot of song choices on that CD.
+
+01:12:59.420 --> 01:13:03.120
+I would love to see the full options on the CD that you sent to Johnny Cash
+
+01:13:03.120 --> 01:13:03.620
+that I love.
+
+01:13:03.720 --> 01:13:07.720
+So Solitaire Man is one of my favorite choices made there.
+
+01:13:08.520 --> 01:13:10.720
+Uh, is that, is that a Neil Diamond song?
+
+01:13:11.420 --> 01:13:15.820
+It's funny you talk about them as songs cause I tend to, I tend to listen
+
+01:13:15.820 --> 01:13:17.520
+more to albums than songs.
+
+01:13:17.520 --> 01:13:20.820
+So you really, you're, that's what you're doing in your head.
+
+01:13:20.820 --> 01:13:22.520
+You're pulling up the album essentially.
+
+01:13:23.120 --> 01:13:26.020
+No, I'm like, I'm going to that song, but I don't know.
+
+01:13:26.020 --> 01:13:29.520
+I've never listened to that song, but I know that when that, when that song
+
+01:13:29.520 --> 01:13:34.020
+comes up in the sequence of the album, it has a really powerful effect in me.
+
+01:13:34.020 --> 01:13:35.720
+Let's see what it does if you just start it.
+
+01:13:53.920 --> 01:13:56.320
+If you could read my mind.
+
+01:13:56.620 --> 01:13:58.020
+Oh, so interesting.
+
+01:13:59.220 --> 01:13:59.820
+Wow.
+
+01:14:26.620 --> 01:14:34.620
+Never be set free as long as there's a ghost that you can see.
+
+01:14:39.120 --> 01:14:39.920
+That's beautiful.
+
+01:14:40.320 --> 01:14:41.620
+Such a beautiful choice.
+
+01:14:41.720 --> 01:14:45.620
+Beautiful melody, such a beautiful melody and haunting words.
+
+01:14:46.320 --> 01:14:47.920
+It's sung so simply.
+
+01:14:48.620 --> 01:14:54.820
+I have to, uh, I mean, so, uh, I was born in the Soviet Union.
+
+01:14:55.420 --> 01:15:04.820
+Uh, when, when you, when you're growing up, uh, there's a few bands that kind of,
+
+01:15:05.620 --> 01:15:11.320
+I mean, they're probably forbidden still, but they seep in and you get like, uh,
+
+01:15:12.020 --> 01:15:17.120
+bootlegged and they somehow take over the culture of the young, of the
+
+01:15:17.120 --> 01:15:18.720
+young folks, such as myself.
+
+01:15:18.720 --> 01:15:22.620
+So, uh, on the metal side, it was Metallica and Iron Maiden.
+
+01:15:23.620 --> 01:15:29.120
+And, uh, on the, I don't know what you call them, but Beastie Boys.
+
+01:15:29.720 --> 01:15:32.620
+I remember hearing, uh, fight for your right.
+
+01:15:33.020 --> 01:15:38.620
+And it was just like, for some reason that stuck as it did for a lot of people in
+
+01:15:38.620 --> 01:15:43.720
+Russia is like, wow, America is when you get to say, fuck you to the man, the
+
+01:15:43.720 --> 01:15:50.020
+rebellion, the freedom, um, I probably heard it, uh, a few years after it was
+
+01:15:50.020 --> 01:15:52.920
+released because it kind of, it dissipates to the culture.
+
+01:15:52.920 --> 01:15:53.720
+You get the bootleg.
+
+01:15:53.720 --> 01:15:57.820
+It means hard to get your hands on, but I just remember, I mean, I, I, I
+
+01:15:57.820 --> 01:16:01.820
+wanted to kind of bring that up because it was such a personally important song
+
+01:16:02.220 --> 01:16:06.220
+to me and yet probably you didn't even think of that.
+
+01:16:06.220 --> 01:16:10.220
+You probably thought of it as its role in the culture here in the United States.
+
+01:16:10.620 --> 01:16:16.420
+Like in terms of musically, but it was, you know, 20, 21 years old and we just,
+
+01:16:16.420 --> 01:16:17.820
+well, you were that kid too, right?
+
+01:16:17.820 --> 01:16:19.820
+Just making fun songs for our friends.
+
+01:16:19.820 --> 01:16:22.920
+There was no, there was no, uh, expectation.
+
+01:16:22.920 --> 01:16:24.020
+That's just a fun song.
+
+01:16:24.120 --> 01:16:24.320
+Yeah.
+
+01:16:24.320 --> 01:16:27.520
+No one thought we would never imagined anybody would like any of it.
+
+01:16:28.720 --> 01:16:30.320
+One of the greatest albums ever.
+
+01:16:35.020 --> 01:16:37.520
+I have to, it's, I love this so much.
+
+01:16:37.520 --> 01:16:41.520
+I just remember this is America.
+
+01:16:42.020 --> 01:16:43.020
+I didn't even know.
+
+01:16:43.020 --> 01:16:45.020
+I didn't even understand the lyrics to be honest.
+
+01:16:51.020 --> 01:16:53.020
+And the lyrics are ridiculous.
+
+01:17:11.520 --> 01:17:12.020
+Yeah.
+
+01:17:28.420 --> 01:17:33.020
+So hearing that and hearing Metallica, master puppets, I was like, I knew
+
+01:17:33.020 --> 01:17:35.420
+I'm going to have to end up in America one day.
+
+01:17:35.420 --> 01:17:42.940
+I mean, maybe now that I'm more mature, or maybe a little bit more mature, I realized
+
+01:17:42.940 --> 01:17:46.580
+like, that was kind of the longing for freedom.
+
+01:17:46.580 --> 01:17:53.060
+It felt like, at least at the time, if this is allowed, then anything is allowed.
+
+01:17:53.060 --> 01:18:04.100
+And I think that the rebellion of it, I guess it's also fun, I just loved it.
+
+01:18:04.100 --> 01:18:11.660
+If you look back to that, I mean, you were that person, not just the producer, it feels
+
+01:18:11.660 --> 01:18:12.660
+like...
+
+01:18:12.660 --> 01:18:13.660
+Well, yes and no.
+
+01:18:13.660 --> 01:18:17.460
+Even to us then, it was still like satirical, you know, it wasn't...
+
+01:18:17.460 --> 01:18:18.460
+It was.
+
+01:18:18.460 --> 01:18:19.460
+Oh, absolutely.
+
+01:18:19.460 --> 01:18:24.100
+But isn't music in part, like you're dancing on the line, it's part satirical, part serious
+
+01:18:24.100 --> 01:18:29.220
+in the sense, like you're losing yourself in the satire.
+
+01:18:29.220 --> 01:18:35.140
+Anytime you go over the top, isn't that part of the...
+
+01:18:35.140 --> 01:18:37.660
+Or is it explicitly satirical?
+
+01:18:37.660 --> 01:18:38.660
+You make it fun?
+
+01:18:38.660 --> 01:18:41.140
+I mean, the girls, there's a lot of ridiculous songs in that album.
+
+01:18:41.140 --> 01:18:42.140
+I don't know.
+
+01:18:42.140 --> 01:18:46.420
+I just think it was definitely to make each other laugh, like we were trying to make each
+
+01:18:46.420 --> 01:18:47.420
+other laugh.
+
+01:18:47.420 --> 01:18:51.940
+We weren't trying to make a point, we were trying to make each other laugh.
+
+01:18:51.940 --> 01:18:59.020
+But that person, how's that person different than the person today in you?
+
+01:18:59.820 --> 01:19:01.420
+I wouldn't say so different.
+
+01:19:01.420 --> 01:19:07.540
+It really is that I like things that make me laugh, you know, I like ridiculous things.
+
+01:19:07.540 --> 01:19:08.860
+It's the same person still.
+
+01:19:08.860 --> 01:19:10.420
+I think so.
+
+01:19:10.420 --> 01:19:13.420
+Is it strange, just how many incredible...
+
+01:19:13.420 --> 01:19:18.540
+I mean, I don't think I would make that today, but I understand why we made it when we did.
+
+01:19:18.540 --> 01:19:26.420
+It's in the vocabulary of ridiculous that would make sense to do.
+
+01:19:26.420 --> 01:19:33.220
+For the right artist today could make something ridiculous and gives you that feeling.
+
+01:19:33.220 --> 01:19:40.140
+I mean, there's just a sense when you make so many different albums and you look back
+
+01:19:40.140 --> 01:19:45.820
+at that creation, it can feel like a different person created that, but you're making it
+
+01:19:45.820 --> 01:19:51.280
+seem like if you travel back in time or maybe do a memory replay, you'd be able to hang
+
+01:19:51.280 --> 01:19:57.840
+out with a teenage in the 20s recruitment, I think it's just fine.
+
+01:19:57.840 --> 01:20:01.680
+I don't think I was so different, honestly.
+
+01:20:01.680 --> 01:20:02.680
+That's hilarious.
+
+01:20:02.680 --> 01:20:11.320
+It's funny, I ran into someone recently in Costa Rica who I hadn't seen in a long time
+
+01:20:11.320 --> 01:20:18.560
+and who I knew from the New York days when, those days, and we spent a couple of hours
+
+01:20:18.560 --> 01:20:23.760
+talking and she said, you're exactly the same person that you were then.
+
+01:20:23.760 --> 01:20:30.280
+So I have a short, a recent confirmation that that's the case.
+
+01:20:30.280 --> 01:20:31.440
+That's beautiful.
+
+01:20:31.440 --> 01:20:35.240
+Was it Tim Ferriss asked you about who was the most successful person?
+
+01:20:35.240 --> 01:20:38.000
+That's the definition of success, I would say.
+
+01:20:38.000 --> 01:20:39.760
+It's exactly the same person.
+
+01:20:39.760 --> 01:20:43.760
+You haven't lost yourself or rather you found yourself early on.
+
+01:20:43.840 --> 01:20:52.520
+I would say there are aspects of me that have changed for sure, but I can't say that it's
+
+01:20:52.520 --> 01:20:57.440
+necessarily better, it's different.
+
+01:20:57.440 --> 01:21:05.720
+I would say at that time I was more confident than I am now, and I'm very confident now,
+
+01:21:05.720 --> 01:21:13.660
+but then I had an unrealistic confidence and I think now it's a little more based in reality
+
+01:21:13.660 --> 01:21:17.420
+that at that point in time I had never been depressed.
+
+01:21:17.420 --> 01:21:23.780
+Then once you go through a depression, well some people, I know in my case, when I went
+
+01:21:23.780 --> 01:21:28.940
+through depression afterwards I was a different person than I was before.
+
+01:21:28.940 --> 01:21:39.820
+I feel more grounded now than I did then and I probably relate to the artists who, so many
+
+01:21:39.820 --> 01:21:41.460
+of the artists I work with suffer.
+
+01:21:41.460 --> 01:21:45.860
+So many artists suffer because that's part of what makes an artist great is their level
+
+01:21:45.860 --> 01:21:53.620
+of sensitivity, the same thing that makes an artist uncomfortable other people don't
+
+01:21:53.620 --> 01:21:56.420
+feel at all.
+
+01:21:56.420 --> 01:22:03.560
+The time you were depressed, what was the darkest moment of your life?
+
+01:22:03.560 --> 01:22:04.560
+What took you there?
+
+01:22:04.560 --> 01:22:06.100
+How did you get out?
+
+01:22:06.100 --> 01:22:13.540
+It was triggered by a person making a comment about something to do with work that didn't
+
+01:22:13.540 --> 01:22:14.540
+matter.
+
+01:22:14.540 --> 01:22:19.220
+It was like to anyone else they would hear that and it would just be like, okay, we'll
+
+01:22:19.220 --> 01:22:21.020
+deal with it next week, whatever.
+
+01:22:21.020 --> 01:22:27.300
+But for some reason I took it in a way that I felt like the rug had been pulled out from
+
+01:22:27.300 --> 01:22:28.420
+under me.
+
+01:22:28.420 --> 01:22:36.060
+Even beyond the rational part of it, of understanding, even after the problem that came up was solved
+
+01:22:36.060 --> 01:22:42.220
+it somehow undermined something in me and made me feel very vulnerable in a way that
+
+01:22:42.220 --> 01:22:43.700
+I hadn't felt before.
+
+01:22:43.700 --> 01:22:48.660
+And it spiraled, how did you get out?
+
+01:22:48.660 --> 01:22:50.940
+I did a lot of different kinds of therapy.
+
+01:22:50.940 --> 01:23:00.020
+I did starting with alternative therapies, I was seeing, I would say between seven and
+
+01:23:00.580 --> 01:23:17.140
+eight, doctors and or therapists a week, acupuncture, talk therapy, herbs, any possible modality.
+
+01:23:17.140 --> 01:23:26.740
+Tried everything for a long time and nothing seemed to have an impact.
+
+01:23:26.740 --> 01:23:39.060
+And then finally, I'm wary of taking any Western medicine, I'm not a drug taker or drinker
+
+01:23:39.060 --> 01:23:43.140
+or partier in any way.
+
+01:23:43.140 --> 01:23:50.580
+And I found a psychopharmacologist who was a psychic.
+
+01:23:50.580 --> 01:23:56.620
+But because she was a psychic, I was okay to see her because I'll listen to a psychic.
+
+01:23:56.620 --> 01:23:59.740
+But I'm not going to listen to a psychopharmacologist.
+
+01:23:59.740 --> 01:24:06.980
+But the fact that she had the psychic, that made her fit into my worldview.
+
+01:24:06.980 --> 01:24:12.820
+And she recommended antidepressant, which went terribly wrong in the first night that
+
+01:24:12.820 --> 01:24:14.060
+I took it.
+
+01:24:14.060 --> 01:24:18.180
+And then that set me on a journey of looking for the right antidepressant, which was a
+
+01:24:18.180 --> 01:24:21.380
+long and painful process.
+
+01:24:21.380 --> 01:24:24.420
+Everyone that I took made me sick, everyone.
+
+01:24:24.420 --> 01:24:29.740
+And then finally, I don't know, five months later, six months later, I found the magic
+
+01:24:29.740 --> 01:24:31.940
+one that worked for me.
+
+01:24:31.940 --> 01:24:37.020
+And it shifted me out of the depression.
+
+01:24:37.020 --> 01:24:43.580
+I took it for, my camera was six months or a year, and then weaned off and was okay.
+
+01:24:43.580 --> 01:24:46.940
+And then I had another event some years later.
+
+01:24:46.940 --> 01:24:51.020
+I think I took it again for a short period of time and got out of it.
+
+01:24:51.020 --> 01:24:52.900
+And I've not needed it since.
+
+01:24:52.900 --> 01:24:58.620
+Were you able to kind of introspect the triggers that led to the events?
+
+01:24:58.620 --> 01:25:02.580
+Is there something, or is it random events of life?
+
+01:25:02.580 --> 01:25:10.740
+I think it's more that because of the way that I grew up, I never had to deal with much
+
+01:25:10.740 --> 01:25:14.020
+controversy.
+
+01:25:14.020 --> 01:25:21.700
+And when I was challenged, I didn't have any ability to deal with it.
+
+01:25:21.700 --> 01:25:26.300
+It's like, you know, Jonathan Haidt talks about, it's like that.
+
+01:25:26.300 --> 01:25:30.780
+So you've actually also mentioned like business sometimes gives you stress.
+
+01:25:30.780 --> 01:25:33.180
+So this was business related stuff.
+
+01:25:33.180 --> 01:25:35.340
+Yeah, it was a business related thing.
+
+01:25:35.340 --> 01:25:37.740
+It just made me feel bad.
+
+01:25:37.740 --> 01:25:44.100
+One of the sadder things about art and music is that it's often interleaved with business
+
+01:25:44.100 --> 01:25:45.100
+folk.
+
+01:25:45.540 --> 01:25:53.820
+I suppose that's the way of the world if you have a capitalist system, but it makes that
+
+01:25:53.820 --> 01:26:04.740
+business folks rubbing up against artists can sometimes destroy a fragile mind and soul.
+
+01:26:04.740 --> 01:26:08.620
+To me, one of the best representations of an artist, honestly, is Johnny Ive, the designer
+
+01:26:08.620 --> 01:26:09.980
+from Apple.
+
+01:26:09.980 --> 01:26:12.660
+And he's just so fragile with his ideas.
+
+01:26:12.700 --> 01:26:17.460
+He talked about like when he has ideas, he really wouldn't show it to Steve Jobs or anybody
+
+01:26:17.460 --> 01:26:22.860
+except for the small design team because he was so nervous that it would break, but give
+
+01:26:22.860 --> 01:26:23.860
+it a chance.
+
+01:26:23.860 --> 01:26:26.020
+Give it a chance to grow.
+
+01:26:26.020 --> 01:26:33.780
+And it seems like the outside world, business people, PR people, people that kind of have
+
+01:26:33.780 --> 01:26:39.940
+not lost themselves in the passion of creating, but instead are kind of representing or like
+
+01:26:39.940 --> 01:26:42.420
+making deals, all that kind of stuff.
+
+01:26:42.420 --> 01:26:48.980
+They can kind of trample on those little ideas, and it's sad to see.
+
+01:26:48.980 --> 01:26:53.220
+It's really heartbreaking to see because you know how much trampling there's going on.
+
+01:26:53.220 --> 01:26:54.700
+It's one of the main jobs.
+
+01:26:54.700 --> 01:27:04.140
+My job as a record producer is to keep the voices away from the artist, from all the
+
+01:27:04.140 --> 01:27:11.220
+people who are really on their side but don't know, whether it be people, anyone on the
+
+01:27:11.220 --> 01:27:17.460
+business side who doesn't make things, they're excited to do their part.
+
+01:27:17.460 --> 01:27:18.460
+They're excited.
+
+01:27:18.460 --> 01:27:25.420
+When you deliver the art that you make to me, then we can start the project.
+
+01:27:25.420 --> 01:27:31.500
+But there's nothing to sell if the art doesn't happen in the right way and it has to be protected
+
+01:27:31.500 --> 01:27:39.100
+and it can't happen on the same kind of a timetable that business can.
+
+01:27:39.100 --> 01:27:40.900
+It's just a different thing.
+
+01:27:40.900 --> 01:27:44.180
+Art doesn't come in a quarterly way.
+
+01:27:44.180 --> 01:27:49.260
+That doesn't apply just to music or it applies to art, it applies to all creative pursuits.
+
+01:27:49.260 --> 01:27:54.540
+This is generally the case at MIT.
+
+01:27:54.540 --> 01:28:00.540
+There's the administration and then there is the professors and students.
+
+01:28:00.540 --> 01:28:03.300
+The professors and students are the creative folk.
+
+01:28:03.300 --> 01:28:04.300
+They create stuff.
+
+01:28:04.300 --> 01:28:05.300
+They dream.
+
+01:28:05.300 --> 01:28:08.820
+They have wild ideas that go on tangents and so on.
+
+01:28:08.820 --> 01:28:14.220
+They have hopes and they go with those and they get on these weird, passionate pursuits
+
+01:28:14.220 --> 01:28:20.020
+and then the administration can often just trample on that.
+
+01:28:20.020 --> 01:28:28.740
+They set up bars in all kinds of ways that you think you're not actually hurting but
+
+01:28:28.740 --> 01:28:31.740
+you really are.
+
+01:28:31.740 --> 01:28:36.900
+I won't mention why because this happens to everybody and I have a large amount of leverage
+
+01:28:36.980 --> 01:28:45.420
+at MIT now but even I get a little bit of pressure in such stupid ways.
+
+01:28:45.420 --> 01:28:46.620
+Be careful.
+
+01:28:46.620 --> 01:28:47.620
+Be careful.
+
+01:28:47.620 --> 01:28:49.980
+We really want your career to succeed.
+
+01:28:49.980 --> 01:28:50.980
+Be careful.
+
+01:28:50.980 --> 01:28:55.940
+That little pressure to an artist, do you want to go a cappella?
+
+01:28:55.940 --> 01:28:59.200
+Do you want to do a country record?
+
+01:28:59.200 --> 01:29:00.200
+Be careful.
+
+01:29:00.200 --> 01:29:01.700
+You're already a superstar.
+
+01:29:01.700 --> 01:29:02.700
+Be careful.
+
+01:29:02.900 --> 01:29:08.900
+And then in that way, you kind of push people like flock of fish into one fish tank where
+
+01:29:08.900 --> 01:29:14.660
+they're all the same and it's sad to see and it's obviously in the modern world, there's
+
+01:29:14.660 --> 01:29:19.740
+nice mechanism to protect, to let artists flourish a little bit more because they get
+
+01:29:19.740 --> 01:29:24.180
+to put themselves to the world and get a little bit more confidence, maybe different funding
+
+01:29:24.180 --> 01:29:26.780
+mechanisms, all that kind of stuff.
+
+01:29:26.780 --> 01:29:27.780
+Tremendous problem.
+
+01:29:27.780 --> 01:29:32.500
+The voices that don't understand interfering with the process is huge.
+
+01:29:32.500 --> 01:29:39.020
+The other side of it is in success, there can be a lack of reality where all of the
+
+01:29:39.020 --> 01:29:43.300
+people around the successful person just tell them everything they do is great and then
+
+01:29:43.300 --> 01:29:53.340
+they don't have anything to bump up against anymore or have a realistic sense of how things
+
+01:29:53.340 --> 01:29:59.460
+work or how things measure.
+
+01:29:59.460 --> 01:30:08.340
+So both sides are really important, both avoiding the voices getting in the way and having a
+
+01:30:08.340 --> 01:30:15.660
+trusted group of a sangha, a group of people who can say, you know, I don't know if that's
+
+01:30:15.660 --> 01:30:20.780
+as good and you can still say, I don't care what you think, that's fine, but it helps
+
+01:30:20.780 --> 01:30:21.780
+to hear it.
+
+01:30:21.900 --> 01:30:31.340
+It helps to have, if someone who you respect tells you something isn't good enough, it's
+
+01:30:31.340 --> 01:30:32.340
+helpful.
+
+01:30:32.340 --> 01:30:35.900
+When you know it comes from a place of love, when it comes from a place of wisdom.
+
+01:30:35.900 --> 01:30:40.780
+And not from a place of fear, not from a place of, oh, this doesn't sound like it's going
+
+01:30:40.780 --> 01:30:43.540
+to do as well as your last thing.
+
+01:30:43.540 --> 01:30:45.660
+That's not the point.
+
+01:30:45.660 --> 01:30:55.180
+The point is on this quest for greatness, are you living up to your ability?
+
+01:30:55.180 --> 01:30:58.700
+By the way, is there something interesting to say about your worldview, because you mentioned
+
+01:30:58.700 --> 01:31:09.820
+psychic and sort of the ways we can be healthy, the ways we can grow and how much maybe medicine
+
+01:31:09.820 --> 01:31:15.340
+or science has the answers?
+
+01:31:15.340 --> 01:31:18.020
+Is there some interesting way to describe that worldview?
+
+01:31:18.020 --> 01:31:22.900
+I would just say I'm open-minded, I believe anything's possible.
+
+01:31:22.900 --> 01:31:28.100
+And if I was going to trust in any practical information, it would be something thousands
+
+01:31:28.100 --> 01:31:30.540
+of years old.
+
+01:31:30.540 --> 01:31:32.380
+There's wisdom in that history.
+
+01:31:32.380 --> 01:31:33.380
+Yeah.
+
+01:31:33.380 --> 01:31:35.620
+Well, it's more tested.
+
+01:31:35.620 --> 01:31:42.700
+It's not always right, but at least it's been somewhat tested.
+
+01:31:42.700 --> 01:31:45.020
+Science is also tested.
+
+01:31:45.020 --> 01:31:48.940
+The thing I'm a little bit skeptical of sometimes is just the hubris that often comes with the
+
+01:31:48.940 --> 01:31:54.940
+modern, with the latest, the newest, this feeling like you figured it all out.
+
+01:31:54.940 --> 01:31:58.140
+Everything that's been done in the past has no wisdom.
+
+01:31:58.140 --> 01:32:01.620
+And we basically solved every problem.
+
+01:32:01.620 --> 01:32:02.620
+There's nothing else to be solved.
+
+01:32:02.620 --> 01:32:07.260
+I mean, that's the defining characteristic of any age is like we've solved all the problems
+
+01:32:07.260 --> 01:32:13.060
+there are, we have the final answers, and our parents are all stupid.
+
+01:32:13.060 --> 01:32:14.060
+That kind of energy.
+
+01:32:14.740 --> 01:32:18.220
+You have to be extremely, extremely careful with that when it talks about, when you think
+
+01:32:18.220 --> 01:32:22.820
+about something as complex as the human body or the human mind, you have to be very, very,
+
+01:32:22.820 --> 01:32:23.820
+very careful.
+
+01:32:23.820 --> 01:32:26.020
+I believe we know close to nothing.
+
+01:32:26.020 --> 01:32:27.220
+Yeah, exactly.
+
+01:32:27.220 --> 01:32:28.780
+Close to nothing.
+
+01:32:28.780 --> 01:32:30.420
+About anything.
+
+01:32:30.420 --> 01:32:31.420
+About anything.
+
+01:32:31.420 --> 01:32:32.420
+About anything.
+
+01:32:32.420 --> 01:32:35.780
+That place of humility is a good place to start to figure it all out.
+
+01:32:35.780 --> 01:32:38.500
+And in the end, we'll still know almost nothing.
+
+01:32:38.500 --> 01:32:39.500
+Yeah.
+
+01:32:39.500 --> 01:32:40.500
+I don't think we need to know.
+
+01:32:40.500 --> 01:32:42.540
+It's like we need to see what works.
+
+01:32:42.540 --> 01:32:44.740
+So we need to see what works for us.
+
+01:32:44.740 --> 01:32:46.460
+It's interesting to know.
+
+01:32:46.460 --> 01:32:53.420
+I know on the art side, knowing how it works isn't what makes it work.
+
+01:32:53.420 --> 01:32:55.820
+The magic of it isn't how it works.
+
+01:32:55.820 --> 01:32:58.060
+The magic is the magic.
+
+01:32:58.060 --> 01:33:06.740
+And the magic happens in a way that's intuitive and accidental at times or incidental where
+
+01:33:06.740 --> 01:33:12.500
+you're trying many things and all of a sudden something works and you don't know why.
+
+01:33:13.180 --> 01:33:14.340
+It's okay not to know why.
+
+01:33:14.340 --> 01:33:15.340
+It doesn't matter.
+
+01:33:15.340 --> 01:33:19.660
+It doesn't really matter why as long as it does the thing that you want it to do, whatever
+
+01:33:19.660 --> 01:33:20.660
+that is.
+
+01:33:20.660 --> 01:33:21.660
+Yeah.
+
+01:33:21.660 --> 01:33:22.660
+That's so weird.
+
+01:33:22.660 --> 01:33:26.700
+When you know the components, you still, yeah, the magic.
+
+01:33:26.700 --> 01:33:27.700
+What's the magic?
+
+01:33:27.700 --> 01:33:28.700
+Where is the magic?
+
+01:33:28.700 --> 01:33:31.700
+We know the components for stuff I care about, artificial intelligence.
+
+01:33:31.700 --> 01:33:37.740
+We know the components of a powerful computing machinery, but where does consciousness come
+
+01:33:37.740 --> 01:33:38.740
+from?
+
+01:33:38.740 --> 01:33:41.660
+What is that?
+
+01:33:41.660 --> 01:33:47.420
+Where does the brilliant moments of insight come from?
+
+01:33:47.420 --> 01:33:48.420
+What's that?
+
+01:33:48.420 --> 01:33:55.040
+When even in simple games of chess or in simple, where do those breakthrough ideas of taking
+
+01:33:55.040 --> 01:33:58.300
+the big risk that doesn't make any sense and then all of a sudden it becomes something
+
+01:33:58.300 --> 01:33:59.300
+beautiful?
+
+01:33:59.300 --> 01:34:00.300
+Yeah.
+
+01:34:00.300 --> 01:34:01.300
+We don't need to understand why.
+
+01:34:01.300 --> 01:34:02.300
+It just happens.
+
+01:34:02.300 --> 01:34:03.300
+It just happens.
+
+01:34:03.300 --> 01:34:07.700
+And often the things that end up breaking through don't break through in the way we
+
+01:34:07.700 --> 01:34:12.860
+thought or turn out to be a third iteration of something that we thought was an entirely
+
+01:34:12.860 --> 01:34:15.260
+different thing.
+
+01:34:15.260 --> 01:34:16.580
+We don't know.
+
+01:34:16.580 --> 01:34:23.860
+I think if we embrace that not knowing, we'll have a healthier experience going through
+
+01:34:23.860 --> 01:34:24.860
+life.
+
+01:34:24.860 --> 01:34:30.660
+You've made a lot, it's not just music, everything, rearranging the chairs, the furniture as well.
+
+01:34:30.660 --> 01:34:35.460
+You've done, like I said, the documentary, I guess you would say with Paul McCartney,
+
+01:34:35.460 --> 01:34:43.460
+and you've done a podcast yourself, a broken record podcast, and you've done conversation
+
+01:34:43.460 --> 01:34:45.580
+too.
+
+01:34:45.580 --> 01:34:50.220
+What have you learned from that process about the art of conversation and also maybe what
+
+01:34:50.220 --> 01:34:58.140
+advice would you give to me about what to do with conversation?
+
+01:34:58.140 --> 01:35:00.700
+What is interesting to you about conversation?
+
+01:35:00.700 --> 01:35:10.300
+One of the things that I like is to not feel like there's any stakes or that it's actually
+
+01:35:10.300 --> 01:35:12.500
+almost that it's not happening.
+
+01:35:12.500 --> 01:35:19.100
+The fact that when I came in, you were setting up cameras made it less good for me.
+
+01:35:19.100 --> 01:35:22.140
+I knew that that would impact the conversation in a negative way.
+
+01:35:22.140 --> 01:35:29.380
+The best version of it would be if we didn't see the cameras and we didn't see any technology
+
+01:35:29.540 --> 01:35:32.140
+and we were just sitting at this table having a conversation.
+
+01:35:32.140 --> 01:35:37.620
+Maybe even if we were mic'd beforehand, it would be okay if it was necessary.
+
+01:35:37.620 --> 01:35:41.220
+But then we were just sitting here having a conversation, no people in the room, nothing,
+
+01:35:41.220 --> 01:35:43.500
+and feeling like we're just having a conversation.
+
+01:35:43.500 --> 01:35:53.820
+I feel like it would get closer to the relaxed feeling.
+
+01:35:53.820 --> 01:35:55.700
+Same thing we do in the studios.
+
+01:35:55.700 --> 01:36:00.580
+We've heard of red light fever, when artists get nervous when they play a song great and
+
+01:36:00.580 --> 01:36:04.580
+then the tape starts rolling and they can't play it.
+
+01:36:04.580 --> 01:36:06.420
+We're all to some degree like that.
+
+01:36:06.420 --> 01:36:12.780
+When you were with Paul McCartney, were you cognizant of cameras?
+
+01:36:12.780 --> 01:36:15.240
+We had the room black.
+
+01:36:15.240 --> 01:36:18.340
+Everybody who was working there was dressed in black.
+
+01:36:18.340 --> 01:36:19.700
+Everything was invisible.
+
+01:36:19.700 --> 01:36:27.700
+We were lit in a way where even though there were probably between 12 and 20 people working
+
+01:36:27.700 --> 01:36:34.340
+in the room, within three minutes of starting the conversation, Paul and I were alone in
+
+01:36:34.340 --> 01:36:35.340
+the room.
+
+01:36:35.340 --> 01:36:36.340
+That was the feeling.
+
+01:36:36.340 --> 01:36:39.700
+On occasion, you'd hear a noise and it would be weird.
+
+01:36:39.700 --> 01:36:46.940
+We also had nobody was allowed to wear shoes because we were trying to create this intimate
+
+01:36:46.940 --> 01:36:47.940
+space.
+
+01:36:48.420 --> 01:36:56.780
+In the recording studio, when we're recording, if even one person is there, that's just watching
+
+01:36:56.780 --> 01:37:04.500
+and not working, I'm usually there and an engineer is there technically making it happen.
+
+01:37:04.500 --> 01:37:09.500
+If anyone else is in the room, it's different because then it goes from this moment where
+
+01:37:09.500 --> 01:37:19.060
+the person's doing a performance to the sense or where the person is feeling something internally
+
+01:37:19.060 --> 01:37:25.460
+and we're capturing it to the other version is they're performing for someone.
+
+01:37:25.460 --> 01:37:29.340
+It's so interesting to push back the alternatives here.
+
+01:37:29.340 --> 01:37:36.020
+One about the third person, not to make people self-conscious, but I find that I'm so torn
+
+01:37:36.020 --> 01:37:42.380
+on that because sometimes when that person, Evan is in the room here, he's been in the
+
+01:37:42.380 --> 01:37:52.460
+room before, he's a huge fan of yours by the way, so he'll nod, he'll get excited.
+
+01:37:52.460 --> 01:38:00.700
+You can see that nodding and for some reason for me, he's like, yeah, you get excited together.
+
+01:38:00.700 --> 01:38:04.460
+That third person can be a really special.
+
+01:38:04.460 --> 01:38:10.460
+Meeting an audience when it's a friend or somebody that has that love in them.
+
+01:38:10.460 --> 01:38:12.980
+It depends on the performer.
+
+01:38:12.980 --> 01:38:17.500
+Some people really thrive in front of an audience.
+
+01:38:17.500 --> 01:38:20.020
+You're saying you like that simple intimacy of everything dissipates.
+
+01:38:20.020 --> 01:38:24.180
+Well, I like the reality of it not being, I want it to be as far from a performance
+
+01:38:24.180 --> 01:38:25.180
+as possible.
+
+01:38:25.180 --> 01:38:26.180
+Got it.
+
+01:38:26.180 --> 01:38:32.340
+If someone, I'll tell you a story, a story that just happened and it was viewed as kind
+
+01:38:32.340 --> 01:38:37.220
+of a, it seemed uncool in the moment to the person that it happened to.
+
+01:38:37.220 --> 01:38:39.220
+It wasn't at all.
+
+01:38:39.220 --> 01:38:44.620
+We were recording New Chili Peppers album, which is coming out I think any day now.
+
+01:38:44.620 --> 01:38:49.180
+I don't know what today's date is, but within the next, maybe by the time this airs, it
+
+01:38:49.180 --> 01:38:52.740
+will be out.
+
+01:38:52.740 --> 01:39:01.340
+The band was playing in the studio and it was ripping because they're incredible.
+
+01:39:01.340 --> 01:39:08.100
+One of the members walked through the control room after a particularly great performance
+
+01:39:08.100 --> 01:39:14.100
+and the engineer said, wow, that solo is really great.
+
+01:39:14.100 --> 01:39:22.420
+The person who heard this said, please don't say that and walked away.
+
+01:39:22.420 --> 01:39:29.100
+It just changed this feeling of we're in this place where we're doing this thing and there
+
+01:39:29.100 --> 01:39:31.180
+is no outside world.
+
+01:39:31.900 --> 01:39:33.160
+We're doing this for us.
+
+01:39:33.160 --> 01:39:35.900
+We're going as deep as we can for us.
+
+01:39:35.900 --> 01:39:42.500
+As soon as there's an acknowledgement to someone else, in a way, it breaks the concentration
+
+01:39:42.500 --> 01:39:45.780
+of being inside of it.
+
+01:39:45.780 --> 01:39:53.780
+That's so well told, but something about saying, wow, that solo is great, it reminds you that
+
+01:39:53.780 --> 01:40:00.020
+there's an outside world, but I feel like there's a way to enter the inside world as
+
+01:40:00.020 --> 01:40:01.020
+an audience.
+
+01:40:01.020 --> 01:40:04.940
+You just have to do that.
+
+01:40:04.940 --> 01:40:06.540
+It matters what you say.
+
+01:40:06.540 --> 01:40:10.100
+It matters how you look.
+
+01:40:10.100 --> 01:40:16.700
+There's these generic compliments, not generic, but they sound in the way an outside world
+
+01:40:16.700 --> 01:40:21.580
+would interact as opposed to in that creative thing where you're dancing around the fire
+
+01:40:21.580 --> 01:40:22.580
+together or something.
+
+01:40:22.580 --> 01:40:26.500
+I can tell you there's another interesting one that happened to me and I didn't know
+
+01:40:26.500 --> 01:40:31.300
+this until I saw the film of it, which was a strange one.
+
+01:40:31.300 --> 01:40:38.780
+We were recording with the Avett brothers and the song was called No Hard Feelings and
+
+01:40:38.780 --> 01:40:40.780
+it was this recording of No Hard Feelings.
+
+01:40:56.500 --> 01:41:22.740
+Such a great voice.
+
+01:41:52.740 --> 01:42:14.140
+So bright, so hopeful, so light-hearted.
+
+01:42:14.140 --> 01:42:29.020
+And it's just hallelujah, and love involved, love in the words, love in the songs they
+
+01:42:29.020 --> 01:42:38.020
+sing in the church, and no hard feelings.
+
+01:42:39.020 --> 01:42:52.020
+Lord knows they haven't done much good for anyone.
+
+01:42:52.020 --> 01:43:05.020
+Can't be afraid to cope with so much to have at home.
+
+01:43:08.020 --> 01:43:28.020
+Does he sound as good as good, yeah?
+
+01:43:28.020 --> 01:43:33.020
+Yes, every bit.
+
+01:44:03.020 --> 01:44:19.020
+Straight to the light, holding the love I've known in my life, and no hard feelings.
+
+01:44:19.020 --> 01:44:31.020
+Lord knows they haven't done much good for anyone.
+
+01:44:31.020 --> 01:44:44.020
+Can't be afraid to cope with so much to have at home.
+
+01:44:44.020 --> 01:44:56.020
+Under the burning sky, I'm probably learning why
+
+01:44:56.020 --> 01:45:09.020
+It matters for me and you, to say it and mean it too
+
+01:45:09.020 --> 01:45:14.020
+The life that is long remains
+
+01:45:14.020 --> 01:45:16.020
+It's just building and building and building
+
+01:45:16.020 --> 01:45:22.020
+The life that is long remains
+
+01:45:22.020 --> 01:45:28.020
+Good as it's been to me
+
+01:45:28.020 --> 01:45:35.020
+I have no enemies
+
+01:45:35.020 --> 01:45:41.020
+I have no enemies
+
+01:45:41.020 --> 01:45:46.020
+I have no enemies
+
+01:45:46.020 --> 01:45:51.020
+I have no enemies
+
+01:46:11.020 --> 01:46:15.020
+It's incredible, that's an incredible song. Is this a new record?
+
+01:46:15.020 --> 01:46:19.020
+This was, I don't know, four or five years ago, something like that.
+
+01:46:19.020 --> 01:46:26.020
+But what happened with this, that happened, and I mean, they're great, and it's always good.
+
+01:46:26.020 --> 01:46:32.020
+But that performance in that moment felt like the sky opened. It was unbelievable.
+
+01:46:32.020 --> 01:46:34.020
+But this was a single take?
+
+01:46:34.020 --> 01:46:35.020
+This was a single take.
+
+01:46:35.020 --> 01:46:36.020
+Oh wow.
+
+01:46:36.020 --> 01:46:37.020
+That was just like...
+
+01:46:37.020 --> 01:46:38.020
+That was incredible, yeah, that was perfect.
+
+01:46:38.020 --> 01:46:45.020
+So when it ended, I said, great, what do you want to do next?
+
+01:46:45.020 --> 01:46:51.020
+And they said, we just need a few minutes. They walked out.
+
+01:46:51.020 --> 01:46:56.020
+And that's all I know. It's like, okay, I'm laying down, waiting until they're ready to start again.
+
+01:46:56.020 --> 01:47:01.020
+And in the film, there was a film made of the sessions of this.
+
+01:47:01.020 --> 01:47:07.020
+They went out and they're like, what was that? Like, didn't he get what just happened?
+
+01:47:08.020 --> 01:47:18.020
+Because it was so heavy, and it was just as heavy for me.
+
+01:47:18.020 --> 01:47:24.020
+And in the spirit of we're here to make the most great stuff we can, we're not going to open champagne.
+
+01:47:24.020 --> 01:47:28.020
+It's like, great, what do you want to do next?
+
+01:47:28.020 --> 01:47:34.020
+It's like, let's not revel in this.
+
+01:47:34.020 --> 01:47:42.020
+But they took it as like, this guy just doesn't even understand what we're doing.
+
+01:47:42.020 --> 01:47:44.020
+But I had no idea until I saw the film.
+
+01:47:44.020 --> 01:47:45.020
+That's funny.
+
+01:47:45.020 --> 01:47:46.020
+Whoa, that was the reaction.
+
+01:47:46.020 --> 01:47:50.020
+Yeah, but I think your response is the right risk to take, right?
+
+01:47:50.020 --> 01:47:54.020
+Because it's the celebration at the end of a...
+
+01:47:54.020 --> 01:47:57.020
+You want to keep... People celebrate too early.
+
+01:47:57.020 --> 01:48:02.020
+Yes, great. And now let's use that momentum. We're in the zone.
+
+01:48:02.020 --> 01:48:03.020
+Yeah.
+
+01:48:03.020 --> 01:48:04.020
+What's next?
+
+01:48:04.020 --> 01:48:08.020
+Yeah. But you yourself in conversation.
+
+01:48:08.020 --> 01:48:13.020
+So you said that you want to create... Would you use the word intimacy?
+
+01:48:13.020 --> 01:48:18.020
+Like, is it to create... Or just the most real? Like, there's no cameras, there's no mics.
+
+01:48:18.020 --> 01:48:21.020
+I would say a place where you're comfortable to be naked.
+
+01:48:22.020 --> 01:48:27.020
+A place where you can be your most vulnerable without questioning it.
+
+01:48:27.020 --> 01:48:32.020
+You want to really be able to let your guard down.
+
+01:48:32.020 --> 01:48:37.020
+And if you want to start crying when you're singing, whatever it is, whatever it is.
+
+01:48:37.020 --> 01:48:39.020
+And it's hard to get to that place.
+
+01:48:39.020 --> 01:48:42.020
+And again, just the idea of someone like, hey, that was good.
+
+01:48:42.020 --> 01:48:47.020
+That could take you right out of that going in.
+
+01:48:47.020 --> 01:48:52.020
+It's so interesting to think about how to achieve that and still have mics.
+
+01:48:52.020 --> 01:48:53.020
+Yeah.
+
+01:48:53.020 --> 01:48:55.020
+That...
+
+01:48:55.020 --> 01:48:58.020
+It's hard. It's harder. It's harder.
+
+01:48:58.020 --> 01:49:02.020
+Some of it is space. Some of it is raw conversational skill.
+
+01:49:02.020 --> 01:49:08.020
+Like, there's something about certain... Well, some of that is also just like...
+
+01:49:08.020 --> 01:49:13.020
+You have that, as I'm sure you were, there's a legend to Rick Rubin.
+
+01:49:14.020 --> 01:49:18.020
+And there's like my now friend Joe Rogan, there's a legend to him.
+
+01:49:18.020 --> 01:49:24.020
+And when you show up into Joe Rogan's studio, the legend creates an aura.
+
+01:49:24.020 --> 01:49:31.020
+And he, I think, subconsciously or consciously uses it to like, this is...
+
+01:49:31.020 --> 01:49:34.020
+Somehow it's nervous, nervous, nervous.
+
+01:49:34.020 --> 01:49:38.020
+And then you realize, oh, he's just human or something.
+
+01:49:39.020 --> 01:49:43.020
+There's a relief. And then, yeah, you could be yourself.
+
+01:49:43.020 --> 01:49:46.020
+So that nervousness, nervousness, nervousness.
+
+01:49:46.020 --> 01:49:52.020
+And it's like, oh, it's not that this legend is just a human and it's normal.
+
+01:49:52.020 --> 01:49:55.020
+So I don't know how that's done.
+
+01:49:55.020 --> 01:49:58.020
+But it's so interesting to think about how that's...
+
+01:49:58.020 --> 01:50:03.020
+Because I forget recording. I just enjoy it when it's real.
+
+01:50:03.020 --> 01:50:07.020
+Like, this microphone gives us an excuse to connect on a human level
+
+01:50:07.020 --> 01:50:09.020
+and forget that nobody's listening. It doesn't matter.
+
+01:50:09.020 --> 01:50:12.020
+I would say I felt maybe in the last 15 minutes,
+
+01:50:12.020 --> 01:50:16.020
+I was less aware of anybody else being in the room or any equipment here.
+
+01:50:16.020 --> 01:50:18.020
+But it took that long.
+
+01:50:18.020 --> 01:50:21.020
+That's so interesting. I didn't have that at all.
+
+01:50:21.020 --> 01:50:27.020
+All I had, I mean, the wind calmed down outside, but there was a wind before.
+
+01:50:27.020 --> 01:50:29.020
+And there's something about the wind.
+
+01:50:29.020 --> 01:50:33.020
+Now, you can think of it from an audio engineering perspective.
+
+01:50:33.020 --> 01:50:36.020
+Like, oh, I wonder if the wind creates sound or whatever that you hear.
+
+01:50:36.020 --> 01:50:40.020
+But I was thinking like, none of this matters.
+
+01:50:40.020 --> 01:50:46.020
+Like, the wind is like nature will be here before us, after us,
+
+01:50:46.020 --> 01:50:48.020
+and all of this will be dead and forgotten.
+
+01:50:48.020 --> 01:50:50.020
+That's what the wind was reminding me of.
+
+01:50:50.020 --> 01:50:55.020
+It's almost like laughing at the fact that we could even consider
+
+01:50:55.020 --> 01:51:00.020
+ourselves important enough to put on clothes and talk.
+
+01:51:00.020 --> 01:51:03.020
+But you love it. You love talking.
+
+01:51:03.020 --> 01:51:07.020
+You love the podcast and just that.
+
+01:51:07.020 --> 01:51:10.020
+Why did you dive into that?
+
+01:51:10.020 --> 01:51:13.020
+It was a strange occurrence.
+
+01:51:13.020 --> 01:51:16.020
+My friend Malcolm said he wanted to start doing a podcast about music
+
+01:51:16.020 --> 01:51:18.020
+and asked if I would do it with him.
+
+01:51:18.020 --> 01:51:22.020
+I like Malcolm, and I thought it would be more like his podcast,
+
+01:51:22.020 --> 01:51:24.020
+which is not an interview podcast.
+
+01:51:24.020 --> 01:51:28.020
+I thought it was going to be telling stories in the music world
+
+01:51:28.020 --> 01:51:33.020
+using audio stories.
+
+01:51:33.020 --> 01:51:36.020
+And then it just started being interviews.
+
+01:51:36.020 --> 01:51:38.020
+Again, it wasn't intentional.
+
+01:51:38.020 --> 01:51:41.020
+It just started that way and ended up being that.
+
+01:51:41.020 --> 01:51:43.020
+But I love it.
+
+01:51:43.020 --> 01:51:47.020
+And I love both because I get to talk to people that I don't know,
+
+01:51:47.020 --> 01:51:49.020
+but also when I get to talk to people that I know
+
+01:51:49.020 --> 01:51:52.020
+and ask them about things that we would never talk about ever.
+
+01:51:52.020 --> 01:51:55.020
+You know, I don't know the origin stories of any of the people,
+
+01:51:55.020 --> 01:51:56.020
+any of my friends.
+
+01:51:56.020 --> 01:51:59.020
+So to get to hear their perspective,
+
+01:51:59.020 --> 01:52:01.020
+another like relating to the Chili Peppers,
+
+01:52:01.020 --> 01:52:03.020
+because their album's coming out now,
+
+01:52:03.020 --> 01:52:08.020
+I interviewed all four members of the band individually.
+
+01:52:08.020 --> 01:52:13.020
+I interviewed John and Midway Through Anthony came in,
+
+01:52:13.020 --> 01:52:15.020
+and then I interviewed Flea separately,
+
+01:52:15.020 --> 01:52:17.020
+and I interviewed Chad separately.
+
+01:52:17.020 --> 01:52:19.020
+And it was fascinating.
+
+01:52:19.020 --> 01:52:20.020
+I know them for 30 years.
+
+01:52:20.020 --> 01:52:22.020
+And I learned a tremendous amount
+
+01:52:22.020 --> 01:52:25.020
+because you don't ask people about themselves
+
+01:52:25.020 --> 01:52:30.020
+when you're just, you know, workmates or friends.
+
+01:52:30.020 --> 01:52:31.020
+I do this sometimes.
+
+01:52:31.020 --> 01:52:33.020
+I'll just set up my microphones
+
+01:52:33.020 --> 01:52:36.020
+and I'll record a thing for private consumption
+
+01:52:36.020 --> 01:52:38.020
+with friends or loved ones.
+
+01:52:38.020 --> 01:52:39.020
+It's fascinating.
+
+01:52:39.020 --> 01:52:40.020
+Good idea.
+
+01:52:40.020 --> 01:52:42.020
+Because you get to ask those ridiculous questions.
+
+01:52:42.020 --> 01:52:45.020
+First of all, about life, about the future, about the past,
+
+01:52:45.020 --> 01:52:48.020
+about little fears and the things you miss.
+
+01:52:48.020 --> 01:52:52.020
+And yeah, there's something people just reveal.
+
+01:52:52.020 --> 01:52:55.020
+First loves, all those kinds of things.
+
+01:52:55.020 --> 01:52:58.020
+Your view on love, your view on,
+
+01:52:58.020 --> 01:53:01.020
+and those things don't come up in regular conversation.
+
+01:53:01.020 --> 01:53:04.020
+So it's so nice that there's something about.
+
+01:53:04.020 --> 01:53:06.020
+See, that's the pushback.
+
+01:53:06.020 --> 01:53:07.020
+There's something about this microphone,
+
+01:53:07.020 --> 01:53:10.020
+or maybe it's just the deliberate nature of sitting down
+
+01:53:10.020 --> 01:53:11.020
+and let's just talk.
+
+01:53:11.020 --> 01:53:16.020
+There is something about the microphone that, for me,
+
+01:53:16.020 --> 01:53:18.020
+thinks the same with the suit.
+
+01:53:18.020 --> 01:53:20.020
+I'm going to take this moment seriously.
+
+01:53:20.020 --> 01:53:23.020
+I've long forgotten that anyone is listening.
+
+01:53:23.020 --> 01:53:28.020
+I'm going to try to really listen to another human, first of all,
+
+01:53:28.020 --> 01:53:35.020
+and to also ask the questions that are really interesting.
+
+01:53:35.020 --> 01:53:38.020
+I feel like when I talk to normal people out on the street,
+
+01:53:38.020 --> 01:53:41.020
+I'm not allowed to ask anything.
+
+01:53:41.020 --> 01:53:44.020
+I'm allowed to ask only the more generic things.
+
+01:53:44.020 --> 01:53:46.020
+I think you can ask anything.
+
+01:53:46.020 --> 01:53:48.020
+I'm starting to think that.
+
+01:53:48.020 --> 01:53:51.020
+I think you're allowed to ask anything.
+
+01:53:51.020 --> 01:53:54.020
+I think you're allowed to basically do anything,
+
+01:53:54.020 --> 01:53:56.020
+especially in Texas.
+
+01:53:56.020 --> 01:53:57.020
+Yeah, I think it's okay to ask people,
+
+01:53:57.020 --> 01:54:01.020
+and I think people like it when you ask them.
+
+01:54:01.020 --> 01:54:06.020
+People like to be seen and like to show who they are.
+
+01:54:06.020 --> 01:54:11.020
+As the wind blows again, do you have advice for young people?
+
+01:54:11.020 --> 01:54:16.020
+You have a fascinating life journey.
+
+01:54:16.020 --> 01:54:20.020
+Is there advice you can give to people in high school and college
+
+01:54:20.020 --> 01:54:27.020
+about how to have a life like yours in whatever pursuit,
+
+01:54:27.020 --> 01:54:32.020
+in terms of success is such a silly word,
+
+01:54:32.020 --> 01:54:40.020
+but just find success or maybe happiness in career or just in life in general?
+
+01:54:41.020 --> 01:54:46.020
+The only advice I would have would be to not listen to anyone
+
+01:54:46.020 --> 01:54:50.020
+and to do what you love and to make things that you love,
+
+01:54:50.020 --> 01:54:51.020
+whatever it is.
+
+01:54:51.020 --> 01:54:53.020
+Make your favorite things.
+
+01:54:53.020 --> 01:54:55.020
+You be the audience.
+
+01:54:55.020 --> 01:54:59.020
+Make the thing for you the audience.
+
+01:54:59.020 --> 01:55:03.020
+It doesn't really matter what anyone else thinks,
+
+01:55:03.020 --> 01:55:05.020
+and if you have to get a job to support yourself
+
+01:55:05.020 --> 01:55:08.020
+so that you can make your art, that's fine.
+
+01:55:08.020 --> 01:55:12.020
+You can't make art with someone else in mind.
+
+01:55:12.020 --> 01:55:14.020
+I don't believe it can be good.
+
+01:55:14.020 --> 01:55:16.020
+What does success feel like?
+
+01:55:16.020 --> 01:55:19.020
+Are you grateful?
+
+01:55:19.020 --> 01:55:22.020
+Are you proud of the work you've done in the past?
+
+01:55:22.020 --> 01:55:26.020
+Or is there some engine of constant dissatisfaction,
+
+01:55:26.020 --> 01:55:29.020
+like self-criticism of, I could have done better?
+
+01:55:29.020 --> 01:55:33.020
+No, I'm pleased with the work that we did,
+
+01:55:33.020 --> 01:55:35.020
+excited to keep working, it's fun.
+
+01:55:35.020 --> 01:55:37.020
+I don't know what else I would do with myself
+
+01:55:37.020 --> 01:55:41.020
+because I like making things, it's fun.
+
+01:55:41.020 --> 01:55:44.020
+I feel like it's my reason to be on the planet,
+
+01:55:44.020 --> 01:55:46.020
+so I just keep doing it.
+
+01:55:46.020 --> 01:55:50.020
+Whatever ideas are actually coming from elsewhere
+
+01:55:50.020 --> 01:55:54.020
+and are using your mind as a temporary vehicle,
+
+01:55:54.020 --> 01:55:56.020
+that's their purpose to be on this planet.
+
+01:55:56.020 --> 01:56:02.020
+Your purpose is to procreate and not die and eat regularly enough
+
+01:56:02.020 --> 01:56:05.020
+such that the brain is alive.
+
+01:56:05.020 --> 01:56:07.020
+It's a biological purpose.
+
+01:56:07.020 --> 01:56:09.020
+And anything I can do to keep the channel open
+
+01:56:09.020 --> 01:56:12.020
+to allow what wants to come through to come through,
+
+01:56:12.020 --> 01:56:15.020
+I'm a willing channel.
+
+01:56:15.020 --> 01:56:17.020
+It's so interesting because I'm extremely self-critical,
+
+01:56:17.020 --> 01:56:21.020
+so you don't have that self-criticism, harsh,
+
+01:56:21.020 --> 01:56:24.020
+like this could have been better.
+
+01:56:24.020 --> 01:56:29.020
+If it could have been better, I would keep working on it.
+
+01:56:29.020 --> 01:56:32.020
+If it could be better, it's not done.
+
+01:56:35.020 --> 01:56:37.020
+If the one is done, it's done.
+
+01:56:37.020 --> 01:56:39.020
+Well, it's the best it can be.
+
+01:56:39.020 --> 01:56:43.020
+I've done everything I can to make it the best it can be,
+
+01:56:43.020 --> 01:56:47.020
+and I can't do more than that, so there's nothing to be critical of.
+
+01:56:47.020 --> 01:56:53.020
+If you always give all of yourself and do your best,
+
+01:56:53.020 --> 01:56:55.020
+which you're capable of doing,
+
+01:56:55.020 --> 01:56:59.020
+I'm not suggesting that you're capable of doing more than you can do,
+
+01:56:59.020 --> 01:57:01.020
+but whatever it is that you can do,
+
+01:57:01.020 --> 01:57:04.020
+if you've given all of yourself to it, you've done your best,
+
+01:57:04.020 --> 01:57:07.020
+where could there be regret?
+
+01:57:07.020 --> 01:57:08.020
+Yeah.
+
+01:57:08.020 --> 01:57:11.020
+There could be you re-listen to an album,
+
+01:57:11.020 --> 01:57:14.020
+you re-listen to anything you've created,
+
+01:57:14.020 --> 01:57:17.020
+and think, oh, there's so many interesting ideas missed.
+
+01:57:17.020 --> 01:57:20.020
+It's fine, though, but that was that moment.
+
+01:57:20.020 --> 01:57:25.020
+It's almost like a diary entry.
+
+01:57:25.020 --> 01:57:30.020
+Everything we make is a reflection of a moment in time, a window in time.
+
+01:57:30.020 --> 01:57:33.020
+It could be a day, it could be a year,
+
+01:57:33.020 --> 01:57:38.020
+it could be whatever window you decide that it is.
+
+01:57:38.020 --> 01:57:41.020
+But if you give it all of yourself,
+
+01:57:41.020 --> 01:57:46.020
+and you know if you're not interested in working on it anymore, it's done.
+
+01:57:46.020 --> 01:57:50.020
+Now, you may decide it's not good enough to share with people, and that's fine,
+
+01:57:50.020 --> 01:57:54.020
+but if it's good enough to share with people, there's no regret looking back.
+
+01:57:54.020 --> 01:57:58.020
+That's funny, because think of it as a diary entry.
+
+01:57:58.020 --> 01:58:01.020
+It's hard to look back at a diary entry and say, you know...
+
+01:58:01.020 --> 01:58:02.020
+I did it wrong.
+
+01:58:02.020 --> 01:58:03.020
+I did it wrong.
+
+01:58:03.020 --> 01:58:05.020
+It's impossible.
+
+01:58:05.020 --> 01:58:10.020
+Yeah, and even if it's read by a hundred people, a thousand people,
+
+01:58:10.020 --> 01:58:12.020
+a million people, it's just a diary entry.
+
+01:58:12.020 --> 01:58:14.020
+It doesn't matter.
+
+01:58:14.020 --> 01:58:18.020
+Speaking of doesn't matter, this life is finite.
+
+01:58:18.020 --> 01:58:24.020
+All of us, even Rikruba, will be forgotten one day.
+
+01:58:24.020 --> 01:58:25.020
+Do you think about your mortality?
+
+01:58:25.020 --> 01:58:26.020
+Tomorrow.
+
+01:58:26.020 --> 01:58:30.020
+Tomorrow, yes.
+
+01:58:30.020 --> 01:58:33.020
+Do you think about the finiteness of this thing?
+
+01:58:33.020 --> 01:58:36.020
+Do you think about mortality, about your mortality?
+
+01:58:36.020 --> 01:58:37.020
+Does it make any sense to you?
+
+01:58:37.020 --> 01:58:38.020
+Do you think about death?
+
+01:58:38.020 --> 01:58:41.020
+Are you afraid of death?
+
+01:58:41.020 --> 01:58:42.020
+I don't think about it.
+
+01:58:42.020 --> 01:58:44.020
+I don't think about it very much.
+
+01:58:44.020 --> 01:58:47.020
+Are you afraid?
+
+01:58:47.020 --> 01:58:48.020
+I don't think I'm afraid.
+
+01:58:48.020 --> 01:58:53.020
+I mean, I don't want to die, but I know that that's in the cards,
+
+01:58:53.020 --> 01:58:55.020
+and when it happens, it happens.
+
+01:58:55.020 --> 01:58:58.020
+Your nature of not wanting to die is kind of like,
+
+01:58:58.020 --> 01:59:01.020
+you don't want to go to a shitty restaurant.
+
+01:59:01.020 --> 01:59:02.020
+You'd like to go to a nicer one.
+
+01:59:02.020 --> 01:59:03.020
+So it's just a preference thing.
+
+01:59:03.020 --> 01:59:07.020
+Well, I want to keep living because I want to do what I like to do.
+
+01:59:07.020 --> 01:59:10.020
+So now who knows?
+
+01:59:10.020 --> 01:59:13.020
+Whatever comes next, maybe even better.
+
+01:59:13.020 --> 01:59:15.020
+Maybe we're, I don't know.
+
+01:59:15.020 --> 01:59:19.020
+I haven't experienced it yet, so who knows?
+
+01:59:19.020 --> 01:59:22.020
+What do you think happens after we die?
+
+01:59:22.020 --> 01:59:25.020
+I believe we go on in some capacity.
+
+01:59:25.020 --> 01:59:29.020
+I don't know what that means, but in the same way that everything recycles,
+
+01:59:29.020 --> 01:59:35.020
+everything comes around, I don't know why we would be different.
+
+01:59:35.020 --> 01:59:36.020
+In some way.
+
+01:59:36.020 --> 01:59:37.020
+In some way.
+
+01:59:37.020 --> 01:59:41.020
+I don't know what that way is, and I don't know that it's in the same being
+
+01:59:41.020 --> 01:59:45.020
+or in the same grouping of information, whatever that is.
+
+01:59:45.020 --> 01:59:51.020
+But the thing that makes us us, that information, I imagine, goes on.
+
+01:59:51.020 --> 01:59:56.020
+Yes, it does seem like our world here, at least on Earth, has a memory,
+
+01:59:56.020 --> 01:59:59.020
+and just like history, it kind of rhymes.
+
+01:59:59.020 --> 02:00:03.020
+It brings back creations of the past,
+
+02:00:03.020 --> 02:00:06.020
+and rifts on them, improvises on top of them.
+
+02:00:06.020 --> 02:00:09.020
+And in that way, humanity propagates.
+
+02:00:09.020 --> 02:00:11.020
+I mean, you see it with garbage.
+
+02:00:11.020 --> 02:00:14.020
+You see the mountains of garbage.
+
+02:00:14.020 --> 02:00:16.020
+It doesn't really go anywhere.
+
+02:00:16.020 --> 02:00:20.020
+Even when it breaks up, it disintegrates, but it's never really gone.
+
+02:00:20.020 --> 02:00:22.020
+Same.
+
+02:00:22.020 --> 02:00:25.020
+Is there anything in this world you're afraid of?
+
+02:00:25.020 --> 02:00:27.020
+A lot of things.
+
+02:00:27.020 --> 02:00:29.020
+But not death.
+
+02:00:29.020 --> 02:00:31.020
+Why?
+
+02:00:31.020 --> 02:00:33.020
+I don't know. I don't know.
+
+02:00:33.020 --> 02:00:35.020
+What are you afraid of?
+
+02:00:35.020 --> 02:00:37.020
+Death is more of a question mark.
+
+02:00:37.020 --> 02:00:39.020
+Again, I'm not in any...
+
+02:00:39.020 --> 02:00:40.020
+To be answered.
+
+02:00:40.020 --> 02:00:42.020
+Yeah, I'm not in any hurry for that to happen.
+
+02:00:42.020 --> 02:00:47.020
+But it will happen, and when it does, we get to experience what that is.
+
+02:00:47.020 --> 02:00:52.020
+Okay, then the big question mark, what's the meaning of this whole thing?
+
+02:00:52.020 --> 02:00:54.020
+What's the meaning of life?
+
+02:00:54.020 --> 02:00:56.020
+Macrubin.
+
+02:00:56.020 --> 02:01:00.020
+Putting my name on it makes it harder to answer.
+
+02:01:01.020 --> 02:01:03.020
+It's just a diary entry, like we said.
+
+02:01:03.020 --> 02:01:04.020
+It's true.
+
+02:01:04.020 --> 02:01:06.020
+And you will get a different answer tomorrow.
+
+02:01:06.020 --> 02:01:08.020
+Let's see, what's the meaning of life today?
+
+02:01:08.020 --> 02:01:10.020
+And later today.
+
+02:01:12.020 --> 02:01:18.020
+So for people who don't know, we were maybe thinking of maybe meeting in Austin,
+
+02:01:18.020 --> 02:01:24.020
+have some barbecue, and now we're in the middle of nowhere in beautiful West Texas.
+
+02:01:25.020 --> 02:01:31.020
+This is basically a glorified delivery of barbecue, of my favorite barbecue,
+
+02:01:31.020 --> 02:01:36.020
+maybe one of your top favorite barbecues, to one of my favorite humans.
+
+02:01:36.020 --> 02:01:38.020
+So we get to eat some barbecue today.
+
+02:01:38.020 --> 02:01:40.020
+Maybe that's the meaning.
+
+02:01:41.020 --> 02:01:44.020
+Do you have something bigger than barbecue?
+
+02:01:44.020 --> 02:01:46.020
+Barbecue is pretty big.
+
+02:01:46.020 --> 02:01:50.020
+Where does your love for barbecue come from, by the way?
+
+02:01:50.020 --> 02:01:58.020
+Well, I was a vegan for 20-something years, and once I found my way back into eating meat,
+
+02:01:58.020 --> 02:02:04.020
+I think barbecue is my favorite of any of the things that I didn't eat for so long.
+
+02:02:05.020 --> 02:02:09.020
+I have to ask you, I almost forgot.
+
+02:02:09.020 --> 02:02:16.020
+So there's an SNL skit with Will Ferrell that he wrote about Don't Fear the Reaper,
+
+02:02:16.020 --> 02:02:19.020
+where Bruce Dickinson is the producer.
+
+02:02:19.020 --> 02:02:21.020
+I always think about you when I see that skit.
+
+02:02:21.020 --> 02:02:23.020
+I don't know why people should definitely watch it.
+
+02:02:23.020 --> 02:02:27.020
+And he demands more cowbell into the mix.
+
+02:02:27.020 --> 02:02:31.020
+And the whole band, this is how I imagine people interact with you.
+
+02:02:31.020 --> 02:02:32.020
+The whole band is really impressed.
+
+02:02:32.020 --> 02:02:35.020
+We get to work with the great Bruce Dickinson.
+
+02:02:35.020 --> 02:02:38.020
+And then it's played by Christopher Walken, and he says,
+
+02:02:38.020 --> 02:02:45.020
+like, fellas, fellas, I put on my pants one leg at a time, just like the rest of you.
+
+02:02:45.020 --> 02:02:49.020
+But once my pants are on, I make gold records.
+
+02:02:49.020 --> 02:02:55.020
+And then the whole skit continues, and he wants to add more and more cowbell.
+
+02:02:55.020 --> 02:02:59.020
+And Will Ferrell said he wrote that skit because he always heard the song
+
+02:02:59.020 --> 02:03:01.020
+Don't Fear the Reaper, and there's a distant cowbell.
+
+02:03:01.020 --> 02:03:03.020
+It's very light in the mix.
+
+02:03:03.020 --> 02:03:08.020
+And he's like, I wonder what the story of that cowbell is.
+
+02:03:08.020 --> 02:03:13.020
+Like, if we just look at that one layer, who's that guy that was in there?
+
+02:03:14.020 --> 02:03:18.020
+So is that basically exactly how your life is?
+
+02:03:18.020 --> 02:03:20.020
+Is Bruce Dickinson from the cowbell?
+
+02:03:20.020 --> 02:03:22.020
+I don't know if you've seen that skit.
+
+02:03:24.020 --> 02:03:25.020
+I don't think it's like that.
+
+02:03:25.020 --> 02:03:27.020
+It's not? Okay. All right.
+
+02:03:27.020 --> 02:03:29.020
+I'm just going to pretend then.
+
+02:03:29.020 --> 02:03:31.020
+Rick, this is a huge honor that you sit with me.
+
+02:03:31.020 --> 02:03:38.020
+I mean, what can I say about how incredible of a human you are?
+
+02:03:38.020 --> 02:03:40.020
+You truly are out of this world.
+
+02:03:40.020 --> 02:03:42.020
+And thank you so much for talking today.
+
+02:03:42.020 --> 02:03:43.020
+I'm a great fan.
+
+02:03:43.020 --> 02:03:47.020
+I'm so happy that you agreed to do this with me.
+
+02:03:47.020 --> 02:03:50.020
+Thanks for listening to this conversation with Rick Rubin.
+
+02:03:50.020 --> 02:03:54.020
+To support this podcast, please check out our sponsors in the description.
+
+02:03:54.020 --> 02:03:58.020
+And now let me leave you with some words from Albert Einstein.
+
+02:03:58.020 --> 02:04:01.020
+Imagination is everything.
+
+02:04:01.020 --> 02:04:05.020
+It is the preview of life's coming attractions.
+
+02:04:05.020 --> 02:04:08.020
+Thank you for listening and hope to see you next time.
+
+02:04:12.020 --> 02:04:14.020
+Thank you.
+

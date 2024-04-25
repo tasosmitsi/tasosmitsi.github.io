@@ -1,0 +1,4520 @@
+WEBVTT
+
+00:00.000 --> 00:02.840
+The following is a conversation with Carl Hart,
+
+00:02.840 --> 00:04.920
+department chair and professor of psychology
+
+00:04.920 --> 00:06.880
+at Columbia University.
+
+00:06.880 --> 00:10.120
+He's the author of several books on the topic of drugs,
+
+00:10.120 --> 00:12.480
+including his most recent called,
+
+00:12.480 --> 00:14.360
+Drug Use for Grownups,
+
+00:14.360 --> 00:16.560
+that challenges us to quote,
+
+00:16.560 --> 00:19.400
+use empirical evidence to guide public policy,
+
+00:19.400 --> 00:21.800
+even if it makes us uncomfortable.
+
+00:21.800 --> 00:23.160
+His research on drugs,
+
+00:23.160 --> 00:26.160
+including hard drugs like heroin and cocaine,
+
+00:26.160 --> 00:29.480
+challenges much of what we think we know about drugs
+
+00:29.560 --> 00:31.520
+and their role in society.
+
+00:31.520 --> 00:34.160
+His main thesis is that drug addiction
+
+00:34.160 --> 00:36.600
+has less to do with the drugs themselves
+
+00:36.600 --> 00:39.840
+and more to do with co-occurring psychiatric disorders,
+
+00:39.840 --> 00:42.320
+such as depression and schizophrenia
+
+00:42.320 --> 00:44.840
+and socioeconomic factors,
+
+00:44.840 --> 00:47.200
+such as unemployment, underemployment
+
+00:47.200 --> 00:49.880
+and resource deprivation within the community.
+
+00:49.880 --> 00:53.520
+In addition, he believes that we should legalize all drugs
+
+00:53.520 --> 00:55.360
+so that if people choose to use them,
+
+00:55.360 --> 00:58.200
+they could do so responsibly and openly
+
+00:58.240 --> 01:02.680
+and get help if needed in a controlled, safe environment.
+
+01:02.680 --> 01:04.760
+His ideas are controversial,
+
+01:04.760 --> 01:07.560
+but are fundamentally grounded in empirical data
+
+01:07.560 --> 01:09.560
+and rigorous scientific studies.
+
+01:09.560 --> 01:12.080
+I don't know if his conclusions are right,
+
+01:12.080 --> 01:14.720
+but they are at least worth thinking about.
+
+01:14.720 --> 01:19.000
+So I ask that you consider these ideas with an open mind
+
+01:19.000 --> 01:20.120
+and as always,
+
+01:20.120 --> 01:23.040
+make sure you exercise your critical thinking skills
+
+01:23.040 --> 01:26.520
+in making decisions about substances you put in your body.
+
+01:26.520 --> 01:30.120
+You are a free thinking being,
+
+01:30.120 --> 01:32.080
+the main character, if you will,
+
+01:32.080 --> 01:35.920
+the hero in a story that's being written by you.
+
+01:35.920 --> 01:37.240
+So at the end of the day,
+
+01:37.240 --> 01:40.200
+you are responsible for the choices you make.
+
+01:40.200 --> 01:42.520
+So choose wisely.
+
+01:42.520 --> 01:44.640
+This is the Lex Fridman podcast.
+
+01:44.640 --> 01:45.640
+To support it,
+
+01:45.640 --> 01:48.320
+please check out our sponsors in the description.
+
+01:48.320 --> 01:52.240
+And now here's my conversation with Carl Hart.
+
+01:53.440 --> 01:55.160
+I think it is bold and powerful
+
+01:55.160 --> 01:57.440
+to admit to using in your private life
+
+01:57.440 --> 01:59.560
+the drugs that you study in your research,
+
+01:59.560 --> 02:01.240
+including heroin and cocaine.
+
+02:01.240 --> 02:02.760
+So let me ask,
+
+02:02.760 --> 02:05.720
+what is the experience of taking heroin like?
+
+02:05.720 --> 02:06.720
+What happens to the body?
+
+02:06.720 --> 02:08.960
+What happens to the mind when you take it?
+
+02:08.960 --> 02:11.800
+Well, you know, I take MDMA, cannabis,
+
+02:11.800 --> 02:13.520
+and all the rest of these drugs too.
+
+02:13.520 --> 02:14.920
+I've tried those drugs.
+
+02:15.960 --> 02:18.800
+The experience in the body and the mind,
+
+02:18.800 --> 02:22.600
+I don't really know what people wanna know in that regard.
+
+02:22.600 --> 02:23.440
+It's like saying,
+
+02:23.600 --> 02:26.040
+what is the experience of having an orgasm
+
+02:26.040 --> 02:27.800
+in the body and the mind?
+
+02:27.800 --> 02:31.280
+Or some other sort of event that you really enjoy.
+
+02:32.320 --> 02:34.200
+So I don't really know what people-
+
+02:34.200 --> 02:35.320
+Is that what poetry is for,
+
+02:35.320 --> 02:37.080
+for describing these kinds of experiences?
+
+02:37.080 --> 02:41.280
+I mean, I guess given MDMA, given psilocybin,
+
+02:41.280 --> 02:43.000
+in the full context of that,
+
+02:43.000 --> 02:45.360
+maybe it's more useful to say,
+
+02:45.360 --> 02:49.000
+what are the differences in experiences
+
+02:49.000 --> 02:50.880
+that your mind goes through?
+
+02:51.040 --> 02:52.880
+Like chemically, biologically,
+
+02:54.640 --> 02:59.080
+keeping it strictly to sort of the biology of it
+
+02:59.080 --> 03:01.800
+versus the full environmental human experience.
+
+03:01.800 --> 03:04.760
+Yeah, see, this is a mistake that people make all the time.
+
+03:04.760 --> 03:07.800
+They try to act as if biology
+
+03:07.800 --> 03:10.120
+is the only determinant of drug effects,
+
+03:10.120 --> 03:12.280
+and that's just not how it works.
+
+03:12.280 --> 03:13.640
+You need the environment.
+
+03:13.640 --> 03:15.600
+You need the cage, as they say.
+
+03:15.600 --> 03:17.320
+If you don't have the cage,
+
+03:17.320 --> 03:20.240
+you don't get the full extent of the effects.
+
+03:20.240 --> 03:23.800
+And so like, you can take MDMA and have an awful time.
+
+03:23.800 --> 03:27.880
+You can have a time in which you get paranoid and so forth.
+
+03:27.880 --> 03:31.760
+And then you can take that drug under the right conditions
+
+03:31.760 --> 03:34.040
+and it just be like one of the best moments
+
+03:34.040 --> 03:34.880
+you've ever had.
+
+03:34.880 --> 03:39.640
+It certainly enhanced a number of my relationships.
+
+03:39.640 --> 03:42.040
+But I've also had some times with MDMA
+
+03:42.040 --> 03:43.680
+that haven't been so lovely
+
+03:43.680 --> 03:46.800
+when the people who you are hanging out with,
+
+03:46.800 --> 03:48.600
+you don't know them, you're distrustful
+
+03:48.600 --> 03:49.960
+and all of those kinds of things.
+
+03:50.800 --> 03:52.800
+It's important to put context in it.
+
+03:52.800 --> 03:55.840
+Now we can talk about drugs at a biochemical level,
+
+03:55.840 --> 03:57.120
+at a biological level,
+
+03:57.120 --> 03:58.840
+and we kind of do that in this country
+
+03:58.840 --> 04:01.000
+with this fascination with neuroscience.
+
+04:01.000 --> 04:05.320
+And that's an inappropriate kind of fascination
+
+04:05.320 --> 04:07.520
+in the way we talk about it.
+
+04:07.520 --> 04:08.760
+So we can talk about opioids
+
+04:08.760 --> 04:12.360
+and then we can talk about endogenous opioid system
+
+04:12.360 --> 04:13.200
+in the brain.
+
+04:13.200 --> 04:14.760
+We can talk about dopamine
+
+04:14.760 --> 04:17.640
+and other sort of monoamine transmitters
+
+04:17.880 --> 04:20.840
+and what opioids are doing to them.
+
+04:20.840 --> 04:23.160
+And we can do the same thing with MDMA.
+
+04:24.040 --> 04:27.880
+And we won't be any closer to understanding
+
+04:27.880 --> 04:32.880
+the sort of experience that is induced by these drugs.
+
+04:32.960 --> 04:35.360
+Certainly the experience that we all seek.
+
+04:35.360 --> 04:36.400
+You know what I'm saying?
+
+04:36.400 --> 04:38.040
+So getting a positive experience
+
+04:38.040 --> 04:39.360
+or getting a negative experience
+
+04:39.360 --> 04:42.040
+is strongly defined by the environment.
+
+04:42.040 --> 04:44.000
+Strongly dependent upon the environment.
+
+04:44.000 --> 04:45.920
+But the environment is a very,
+
+04:46.200 --> 04:48.880
+it's a short word that can describe a lot of things.
+
+04:48.880 --> 04:51.880
+So would you say the environment is important
+
+04:51.880 --> 04:55.720
+or the people where you are currently in your life
+
+04:55.720 --> 04:58.400
+or is it also dependent on the full trajectory
+
+04:58.400 --> 05:00.640
+of your psychology, of your life experiences,
+
+05:00.640 --> 05:03.040
+of your parents, of the people you came up with,
+
+05:03.040 --> 05:04.920
+of the trauma you've experienced,
+
+05:04.920 --> 05:08.760
+of the hopes and dreams that were crushed or not
+
+05:08.760 --> 05:11.760
+or the opposite or the success levels or all those things.
+
+05:11.760 --> 05:15.600
+Like what are the interesting sort of landscape
+
+05:15.680 --> 05:19.520
+of experiences that contribute to how you actually feel
+
+05:19.520 --> 05:20.520
+when you take a drug?
+
+05:20.520 --> 05:21.480
+Right on.
+
+05:21.480 --> 05:23.200
+So all of those things are important.
+
+05:23.200 --> 05:26.280
+But you know, like if someone had trauma in childhood
+
+05:26.280 --> 05:28.280
+and they did the work and they dealt with it,
+
+05:28.280 --> 05:30.600
+that's not so important in this case.
+
+05:30.600 --> 05:31.800
+But if they didn't deal with it
+
+05:31.800 --> 05:34.920
+and that trauma is being triggered in that event,
+
+05:34.920 --> 05:38.160
+in that moment, then it's important.
+
+05:38.160 --> 05:40.480
+But let's just take somebody like me.
+
+05:40.480 --> 05:42.040
+I'm 54 years old.
+
+05:42.040 --> 05:43.720
+I'll be 55 this month actually.
+
+05:43.720 --> 05:47.080
+And you know, I've done a lot of work
+
+05:47.080 --> 05:50.120
+in terms of figuring out who I am
+
+05:50.120 --> 05:52.640
+and I'm comfortable with myself.
+
+05:52.640 --> 05:57.640
+And I know how to set limits for whatever it is I'm doing.
+
+05:59.000 --> 06:02.040
+And so I know I need to work out.
+
+06:02.040 --> 06:03.520
+I know I need to eat well.
+
+06:03.520 --> 06:05.240
+I know I need to sleep well.
+
+06:05.240 --> 06:07.880
+I know I need to be in an environment
+
+06:07.880 --> 06:10.920
+with people within my trust.
+
+06:10.920 --> 06:13.200
+And then if all of those things are met,
+
+06:13.200 --> 06:16.560
+oh, it's likely to be a good time.
+
+06:16.560 --> 06:17.400
+You know what I'm saying?
+
+06:17.400 --> 06:20.040
+But if I haven't slept, if I haven't worked out,
+
+06:20.040 --> 06:23.400
+if I don't feel good, it won't be a good time.
+
+06:23.400 --> 06:25.840
+But I try and be responsible
+
+06:25.840 --> 06:30.840
+and take care of my eating habits, sleeping habits,
+
+06:30.920 --> 06:34.120
+make sure my responsibilities are taken care of.
+
+06:34.120 --> 06:39.080
+And so when I'm in that moment, I just enjoy that moment.
+
+06:39.080 --> 06:39.920
+I'm there.
+
+06:39.920 --> 06:42.920
+I'm not thinking about a bill that I didn't pay.
+
+06:42.920 --> 06:46.800
+I'm not thinking about, oh, I forgot to do this for my kid.
+
+06:46.800 --> 06:47.880
+I'm not thinking about that
+
+06:47.880 --> 06:49.800
+because all of those things are taken care of.
+
+06:49.800 --> 06:53.120
+If they're not taken care of, it will impact the experience
+
+06:53.120 --> 06:55.560
+and it may negatively impact the experience.
+
+06:57.680 --> 06:59.520
+Well, that is the counterintuitive,
+
+06:59.520 --> 07:03.080
+even controversial finding from your recent book.
+
+07:03.080 --> 07:06.880
+So we should kind of, I know it seems obvious to you,
+
+07:06.880 --> 07:08.640
+but I think a lot of people hearing this
+
+07:08.640 --> 07:11.120
+would think it's quite non-obvious.
+
+07:11.120 --> 07:15.360
+So in your new book, Drug Use for Grown-ups,
+
+07:15.360 --> 07:18.000
+you write for the finding section.
+
+07:18.000 --> 07:20.480
+I discovered that the predominant effects produced
+
+07:20.480 --> 07:24.160
+by the drugs discussed in this book are positive.
+
+07:24.160 --> 07:27.320
+It didn't matter whether the drug in question was cannabis,
+
+07:27.320 --> 07:31.400
+cocaine, heroin, methamphetamine, or psilocybin.
+
+07:31.400 --> 07:35.280
+Overwhelmingly, consumers expressed feeling more altruistic,
+
+07:35.280 --> 07:39.320
+empathetic, euphoric, focused, grateful, and tranquil.
+
+07:39.360 --> 07:41.880
+They also experienced enhanced social interactions,
+
+07:41.880 --> 07:43.720
+a great sense of purpose and meaning,
+
+07:43.720 --> 07:46.360
+and increased sexual intimacy and performance.
+
+07:46.360 --> 07:49.520
+This constellation of findings
+
+07:49.520 --> 07:53.000
+challenged my original beliefs about drugs and their effects.
+
+07:53.000 --> 07:54.760
+I had been indoctrinated
+
+07:54.760 --> 07:57.560
+to be biased toward the negative effects of drug use,
+
+07:57.560 --> 08:00.080
+but over the past two plus decades,
+
+08:00.080 --> 08:03.040
+I had gained a deeper, more nuanced understanding.
+
+08:04.120 --> 08:07.520
+These words are very counterintuitive to a lot of people.
+
+08:09.400 --> 08:12.800
+I think, like you also mentioned in the book and elsewhere,
+
+08:12.800 --> 08:15.560
+people have come around to maybe psilocybin
+
+08:16.680 --> 08:20.680
+being one such drug, maybe cannabis being one such drug,
+
+08:20.680 --> 08:22.440
+but you also mentioned other drugs
+
+08:22.440 --> 08:24.680
+like cocaine, heroin, methamphetamine.
+
+08:26.480 --> 08:28.720
+Can you just linger on this point?
+
+08:28.720 --> 08:33.040
+How do we get the positive effects of those drugs,
+
+08:33.040 --> 08:34.480
+and why in the media,
+
+08:34.480 --> 08:36.800
+and the general conception we have of these drugs
+
+08:36.840 --> 08:41.480
+is that they were going to make a bad life worse
+
+08:41.480 --> 08:43.360
+or ruin a good life?
+
+08:43.360 --> 08:44.920
+Well, so your first question was,
+
+08:44.920 --> 08:47.560
+how do we harness the positive effects?
+
+08:47.560 --> 08:49.880
+How do we increase the likelihood
+
+08:49.880 --> 08:51.120
+of getting the positive effects?
+
+08:51.120 --> 08:53.000
+Again, like I said,
+
+08:53.000 --> 08:55.640
+we wanna make sure that people are responsible,
+
+08:55.640 --> 08:57.760
+and they've handled their responsibilities,
+
+08:57.760 --> 09:00.320
+make sure they eat well, sleep well, exercise,
+
+09:00.320 --> 09:03.240
+all of those sorts of things play an important role.
+
+09:03.240 --> 09:06.320
+And also, if they know exactly what they're getting,
+
+09:06.320 --> 09:08.400
+and then they're not paranoid about,
+
+09:08.400 --> 09:13.400
+it's something contaminated in some adulterant in my drug.
+
+09:13.680 --> 09:16.120
+So you wanna make sure you know exactly what you have.
+
+09:16.120 --> 09:18.840
+Once you satisfy those kinds of things,
+
+09:18.840 --> 09:21.000
+you understand the dose and potency,
+
+09:21.000 --> 09:22.520
+you understand all of those things
+
+09:22.520 --> 09:25.600
+to decrease any sort of anxiety you might have
+
+09:25.600 --> 09:27.560
+about the substance itself,
+
+09:27.560 --> 09:29.040
+it increases the likelihood
+
+09:29.040 --> 09:30.600
+that you will have a better time.
+
+09:30.600 --> 09:31.880
+So anxiety is the big one,
+
+09:31.880 --> 09:33.160
+you need to remove the anxiety.
+
+09:33.160 --> 09:36.640
+Anxiety is critical, it's huge.
+
+09:36.640 --> 09:39.400
+Many of the negative effects that we see with drugs
+
+09:39.400 --> 09:41.280
+have to do with anxiety,
+
+09:41.280 --> 09:44.680
+and not necessarily anxiety because the drug induced it,
+
+09:44.680 --> 09:49.160
+it's the anxiety that the situation induced a lot of times.
+
+09:49.160 --> 09:50.200
+And then you ask like,
+
+09:50.200 --> 09:53.400
+well, why does this sound counterintuitive?
+
+09:53.400 --> 09:58.400
+Why does the media report differently?
+
+09:59.080 --> 10:02.240
+Well, because there's money in reporting the negative effects
+
+10:02.240 --> 10:04.320
+almost exclusively.
+
+10:04.320 --> 10:08.320
+Think about writing a newspaper article.
+
+10:08.320 --> 10:11.680
+It's really easy to get the population all ginned up
+
+10:11.680 --> 10:15.000
+about something like an opioid crisis, overdoses,
+
+10:15.000 --> 10:17.680
+and you don't even have to tell people
+
+10:17.680 --> 10:20.960
+how to keep people safe if you're talking about overdose.
+
+10:20.960 --> 10:22.560
+You don't even have to say
+
+10:22.560 --> 10:24.720
+why people are dying from overdoses.
+
+10:24.720 --> 10:27.640
+Like overdoses in our country happen largely
+
+10:27.640 --> 10:30.200
+because people get contaminated drug,
+
+10:30.200 --> 10:33.360
+because people are combining sedatives
+
+10:33.360 --> 10:36.120
+and they don't know that this enhances
+
+10:36.120 --> 10:38.680
+the respiratory depressing effects of drugs.
+
+10:38.680 --> 10:39.600
+They don't know.
+
+10:39.600 --> 10:42.000
+But when you read these newspaper articles,
+
+10:42.000 --> 10:43.240
+they don't say this.
+
+10:43.240 --> 10:45.600
+They don't say how to keep people safe.
+
+10:45.600 --> 10:48.640
+All they do is frighten the population.
+
+10:48.640 --> 10:49.480
+There's money in that.
+
+10:49.480 --> 10:53.040
+And then we think about people who write TV shows,
+
+10:54.160 --> 10:56.480
+the people who write movies.
+
+10:56.480 --> 11:01.160
+Most of the stuff written about drugs is just bullshit.
+
+11:01.160 --> 11:04.040
+I think about, I love going to watch comedians
+
+11:04.040 --> 11:06.240
+and the comedians, when they talk about drugs,
+
+11:06.240 --> 11:09.600
+again, most of the things that they say about drugs
+
+11:09.600 --> 11:10.600
+is bullshit.
+
+11:10.600 --> 11:13.680
+I mean, you can say the stupidest things about drugs
+
+11:13.680 --> 11:14.760
+and be believed.
+
+11:14.760 --> 11:17.800
+You can write a movie
+
+11:17.800 --> 11:20.760
+and you don't even have to develop your characters
+
+11:20.760 --> 11:22.800
+if you throw drugs into the mix.
+
+11:22.800 --> 11:24.560
+You say, oh, he's a drug dealer.
+
+11:24.560 --> 11:25.960
+You don't have to say anything
+
+11:25.960 --> 11:27.200
+about that person's background
+
+11:27.200 --> 11:31.280
+or about that person being developed as a character
+
+11:31.280 --> 11:33.520
+because the population think they know.
+
+11:33.520 --> 11:37.000
+And the writer is lazy
+
+11:37.000 --> 11:39.520
+and does not do any sort of development.
+
+11:39.520 --> 11:41.760
+Just think about any...
+
+11:42.720 --> 11:45.760
+Oh, let's think about the Sopranos, for example.
+
+11:45.760 --> 11:48.240
+They have a new program coming out.
+
+11:48.240 --> 11:50.360
+So let's think about them for a second.
+
+11:50.360 --> 11:53.960
+The Sopranos is a show in which
+
+11:53.960 --> 11:56.160
+the lead character, Tony,
+
+11:56.160 --> 11:57.400
+kills people for a living.
+
+11:57.400 --> 11:58.800
+That's what he does, right?
+
+11:59.960 --> 12:04.960
+This character actually made a sympathetic for him
+
+12:05.520 --> 12:10.520
+when he is besmirching and denigrating his nephew,
+
+12:10.880 --> 12:13.240
+Christopher, for using a drug.
+
+12:13.240 --> 12:17.800
+And we feel sympathy for Tony, the character,
+
+12:17.800 --> 12:19.440
+who just killed somebody,
+
+12:21.000 --> 12:22.560
+who is a horrible person,
+
+12:22.560 --> 12:26.840
+but being a drug user is a worse person.
+
+12:26.840 --> 12:28.800
+That's what the show wants us to believe.
+
+12:28.800 --> 12:32.920
+Tony's a racist, murderer, all of these things,
+
+12:32.920 --> 12:34.400
+but we feel sympathy for him.
+
+12:34.400 --> 12:38.200
+But we don't feel sympathy for anyone who uses drugs.
+
+12:38.200 --> 12:39.640
+That's some crazy shit.
+
+12:39.640 --> 12:42.440
+I mean, and the American public buys into it.
+
+12:42.440 --> 12:47.120
+That's wild to me that we all bought into this crap.
+
+12:47.120 --> 12:48.080
+And that's what we do,
+
+12:48.080 --> 12:52.960
+we condemn everything that's in film, on television.
+
+12:52.960 --> 12:56.040
+And it's like, what's wrong with you people?
+
+12:56.040 --> 13:01.040
+So why are there not more stories of grownups using drugs,
+
+13:03.200 --> 13:05.840
+the full spectrum of drugs that we're talking about?
+
+13:05.840 --> 13:06.680
+Why isn't there?
+
+13:06.680 --> 13:09.120
+So we talked offline about Joe Rogan.
+
+13:09.120 --> 13:12.600
+He's somebody who started smoking weed later in life,
+
+13:12.600 --> 13:13.640
+which is an interesting story,
+
+13:13.640 --> 13:16.160
+like when he's already very successful,
+
+13:16.160 --> 13:17.440
+and he has a very interesting way
+
+13:17.440 --> 13:19.280
+of describing his experience with weed,
+
+13:19.280 --> 13:22.400
+that it was like enhancing this productivity.
+
+13:22.400 --> 13:23.480
+It actually, I think he says,
+
+13:23.480 --> 13:25.320
+like it increases anxiety a little bit
+
+13:25.320 --> 13:29.600
+in a way that was productive, like paranoia, not anxiety.
+
+13:29.600 --> 13:32.440
+And so that's an interesting story of an adult
+
+13:32.440 --> 13:37.000
+talking about the use of weed for productivity purposes.
+
+13:37.000 --> 13:39.840
+But you don't get those stories very often, why?
+
+13:41.080 --> 13:43.000
+I think fear, people are afraid
+
+13:43.040 --> 13:46.680
+that they will be belittled, dismissed,
+
+13:46.680 --> 13:49.800
+all of these things as a drug addict or some negative thing,
+
+13:49.800 --> 13:52.280
+but cannabis is lightweight, come on.
+
+13:52.280 --> 13:54.640
+You can emit cannabis these days.
+
+13:54.640 --> 13:58.440
+And the fact that, I don't know when Joe started,
+
+13:58.440 --> 14:01.520
+but if he did start later in life, that's cool.
+
+14:01.520 --> 14:05.000
+I mean, you are mature, developed,
+
+14:05.000 --> 14:08.880
+you have developed some responsibility skills,
+
+14:08.880 --> 14:12.160
+all of these kinds of things, this is a good thing.
+
+14:12.160 --> 14:17.160
+You don't want people to engage in any kind of behaviors
+
+14:17.280 --> 14:19.320
+when they're young and immature
+
+14:19.320 --> 14:21.840
+that might put them in harm's way.
+
+14:21.840 --> 14:26.760
+And so we want people to be developed at least.
+
+14:26.760 --> 14:31.760
+I mean, whether it's being in a relationship with a partner
+
+14:32.920 --> 14:35.640
+or whether it's driving an automobile,
+
+14:35.640 --> 14:38.280
+all of these things that can be potentially harmful,
+
+14:38.280 --> 14:40.920
+but extremely beneficial
+
+14:40.920 --> 14:43.280
+if you are responsible enough to handle them,
+
+14:44.160 --> 14:46.840
+you want people to be mature, so that's a good thing.
+
+14:46.840 --> 14:50.040
+So how are you supposed to, like somebody like me,
+
+14:50.040 --> 14:52.840
+somebody like Joe, how are you supposed to understand
+
+14:52.840 --> 14:55.360
+what the dangers are, what the negative effects are?
+
+14:55.360 --> 14:58.360
+So you said automobile, relationships.
+
+14:59.360 --> 15:03.640
+I think I have a reasonably, it's crappy,
+
+15:03.640 --> 15:06.520
+but reasonable understanding of all the troubles
+
+15:06.520 --> 15:08.360
+that you can get with in relationships
+
+15:08.360 --> 15:09.840
+and what things to avoid.
+
+15:09.840 --> 15:11.720
+Same thing with driving a car.
+
+15:11.720 --> 15:14.560
+I have no idea, I'm in the dark in terms of
+
+15:14.560 --> 15:18.920
+what are the things to be careful about,
+
+15:18.920 --> 15:21.680
+what to avoid with drug use
+
+15:21.680 --> 15:24.120
+when we're talking about the heavy drugs.
+
+15:24.120 --> 15:25.960
+Have you ever drank alcohol?
+
+15:25.960 --> 15:28.920
+Yes, I'm Russian, I know, I drink a lot.
+
+15:28.920 --> 15:31.920
+But I understand that because culturally I came up,
+
+15:31.920 --> 15:35.920
+I was taught a lot of like, this is what you don't do
+
+15:35.960 --> 15:37.400
+and this is what you do.
+
+15:37.400 --> 15:38.680
+This is when you drink a lot.
+
+15:38.680 --> 15:40.040
+I mean, you see the effects,
+
+15:40.040 --> 15:42.360
+you see that there's a lot of negative examples,
+
+15:42.360 --> 15:45.120
+there's positive examples of social stimulant,
+
+15:45.120 --> 15:49.320
+there's examples of great artists using alcohol
+
+15:49.320 --> 15:53.040
+to sort of, I don't know, to help be the catalyst
+
+15:53.040 --> 15:55.920
+for that magic moment, for all of that.
+
+15:55.920 --> 15:59.560
+I have some examples now, especially in America,
+
+15:59.560 --> 16:02.400
+the same with weed, more and more you're starting
+
+16:02.880 --> 16:07.280
+to get a lot of stories on psychedelics of different kinds.
+
+16:07.280 --> 16:12.280
+There's psilocybin where you have mushrooms
+
+16:12.360 --> 16:15.480
+or even MDMA used sort of positively.
+
+16:15.480 --> 16:19.800
+There's kind of like negative stories in the past
+
+16:19.800 --> 16:22.680
+about acid, about LSD being used,
+
+16:22.680 --> 16:26.840
+ultimately for productive ends,
+
+16:26.840 --> 16:28.120
+but it destroyed the person.
+
+16:28.120 --> 16:29.560
+That's kind of how the story goes.
+
+16:29.560 --> 16:30.960
+It was like a trade-off.
+
+16:30.960 --> 16:33.640
+You take, it's like, what is it?
+
+16:33.640 --> 16:36.840
+Robert Johnson sold his soul to the devil to learn guitar?
+
+16:36.840 --> 16:37.880
+Like it's a trade-off.
+
+16:37.880 --> 16:39.080
+You could take the drug,
+
+16:39.080 --> 16:40.240
+you're gonna create some good stuff,
+
+16:40.240 --> 16:41.480
+but you're gonna have to pay for it.
+
+16:41.480 --> 16:42.520
+Those are the stories.
+
+16:42.520 --> 16:44.080
+That's some bullshit we tell children.
+
+16:44.080 --> 16:45.200
+Come on.
+
+16:45.200 --> 16:46.360
+That's exactly right.
+
+16:46.360 --> 16:47.400
+You're exactly right.
+
+16:47.400 --> 16:49.840
+These fairy tales, these cautionary tales
+
+16:49.840 --> 16:52.880
+that we tell people, we have to grow up.
+
+16:52.880 --> 16:56.440
+That's what the book is about, drug use for grownups.
+
+16:57.320 --> 17:02.320
+We tell people, Pinocchio, if you lie, your nose grow.
+
+17:03.240 --> 17:04.160
+Who believes that?
+
+17:04.160 --> 17:05.720
+Who believes that there are fairy tales?
+
+17:05.720 --> 17:07.800
+But that's exactly what these stories are.
+
+17:07.800 --> 17:12.040
+They're in the same vein as those kind of stories,
+
+17:12.040 --> 17:13.320
+as Pinocchio.
+
+17:14.760 --> 17:17.320
+Like you said, when you were learning about alcohol,
+
+17:17.320 --> 17:21.200
+you were told what to do, what not to do, so forth.
+
+17:21.200 --> 17:25.600
+The same can be true with MDMA, with cocaine, with heroin.
+
+17:25.600 --> 17:29.320
+The same is true, because there are some times
+
+17:29.320 --> 17:33.280
+when there are some potential dangers that you should avoid.
+
+17:33.280 --> 17:35.880
+And I wrote about some of them.
+
+17:37.000 --> 17:40.440
+Certainly in my work, just throughout all of my writings,
+
+17:40.440 --> 17:41.840
+I talk about those kinds of things,
+
+17:41.840 --> 17:44.040
+and other people talk about these things.
+
+17:44.040 --> 17:48.880
+The problem is, is that we're getting our education
+
+17:48.880 --> 17:52.840
+from bullshit sources, from people who believe
+
+17:52.840 --> 17:55.120
+in this kind of Pinocchio thing.
+
+17:55.160 --> 17:58.440
+And it just does not fit with the evidence.
+
+17:58.440 --> 18:02.240
+And the evidence we all publish in the scientific literature,
+
+18:02.240 --> 18:04.480
+all these things that I'm saying,
+
+18:04.480 --> 18:06.160
+it's there in the literature.
+
+18:06.160 --> 18:08.120
+I mean, at a place like Columbia,
+
+18:08.120 --> 18:13.120
+we give these drugs thousands of doses every year.
+
+18:13.680 --> 18:16.160
+Do you think we would be doing this?
+
+18:16.160 --> 18:18.520
+And we do this with research grants
+
+18:18.520 --> 18:22.760
+that's funded by the public, taxpayer's dollars.
+
+18:22.760 --> 18:25.600
+Do you think we would be allowed to do this
+
+18:25.600 --> 18:28.400
+if these drugs were so dangerous?
+
+18:29.400 --> 18:31.240
+It's just nonsense.
+
+18:31.240 --> 18:33.680
+I mean, and the drugs we're talking about,
+
+18:33.680 --> 18:37.680
+they are all approved for medical use
+
+18:37.680 --> 18:39.320
+somewhere in the world.
+
+18:40.760 --> 18:43.480
+And the studies you conduct are basically asking
+
+18:43.480 --> 18:44.920
+what kinds of questions.
+
+18:44.920 --> 18:49.560
+So you take the full range of drugs you're talking about,
+
+18:49.560 --> 18:52.640
+from marijuana, to psilocybin, to MDMA,
+
+18:53.520 --> 18:54.840
+to cocaine and heroin.
+
+18:54.840 --> 18:56.200
+What is the study looking at?
+
+18:56.200 --> 18:57.560
+Like what the actual experience
+
+18:57.560 --> 18:58.720
+with the positive and negative effects
+
+18:58.720 --> 19:02.440
+of the experience on the drug are in the control conditions?
+
+19:02.440 --> 19:06.480
+Yeah, so we did these kinds of experiments with alcohol,
+
+19:06.480 --> 19:07.880
+nicotine, all these drugs,
+
+19:07.880 --> 19:11.880
+in order to have an empirical database
+
+19:11.880 --> 19:15.880
+to tell people exactly what these drugs do
+
+19:15.880 --> 19:17.120
+and what they don't do.
+
+19:17.120 --> 19:19.600
+The conditions under which the drugs
+
+19:19.600 --> 19:21.280
+will produce positive effects,
+
+19:21.320 --> 19:23.240
+under which the drugs were more likely
+
+19:23.240 --> 19:25.040
+to produce negative effects.
+
+19:25.040 --> 19:29.360
+All of this information is important for our society to know
+
+19:29.360 --> 19:30.680
+and we do know.
+
+19:30.680 --> 19:33.320
+And that's why we're collecting the data.
+
+19:33.320 --> 19:37.280
+We're collecting the data to help us with treatment
+
+19:37.280 --> 19:39.760
+if someone is having problems with these data.
+
+19:40.640 --> 19:44.000
+Hopefully we'll understand more about
+
+19:45.160 --> 19:48.320
+how to help them deal with their problems
+
+19:48.320 --> 19:50.520
+based on some of the research that we're doing.
+
+19:50.520 --> 19:53.080
+So what kind of negative effects are we looking out for?
+
+19:53.080 --> 19:55.040
+Like what are the properties of drugs
+
+19:55.040 --> 19:56.080
+we should be careful about?
+
+19:56.080 --> 19:57.720
+Is it addictive properties?
+
+19:57.720 --> 19:58.720
+How addictive it is?
+
+19:58.720 --> 20:03.720
+How destructive or painful whatever the withdrawal process is?
+
+20:06.920 --> 20:09.120
+What kind of things are we looking out for?
+
+20:09.120 --> 20:10.760
+Yeah, those are certain kinds of questions
+
+20:10.760 --> 20:11.800
+we certainly have asked
+
+20:11.800 --> 20:14.720
+because something like crack cocaine
+
+20:14.720 --> 20:17.800
+versus alcohol or heroin
+
+20:17.800 --> 20:21.600
+when it comes to withdrawal of physical dependence.
+
+20:21.600 --> 20:25.960
+Like cocaine has a very limited sort of withdrawal symptoms.
+
+20:25.960 --> 20:27.760
+I mean, it's hard to see.
+
+20:27.760 --> 20:29.080
+Same is true with methamphetamine,
+
+20:29.080 --> 20:33.000
+but with heroin you certainly can see a withdrawal syndrome
+
+20:33.000 --> 20:36.600
+that's unpleasant, but with alcohol,
+
+20:36.600 --> 20:39.080
+that withdrawal can actually kill you.
+
+20:39.080 --> 20:42.480
+So heroin is unpleasant and not lovely,
+
+20:42.480 --> 20:44.640
+but with alcohol withdrawal, that's the one,
+
+20:44.640 --> 20:45.840
+that's the most dangerous.
+
+20:45.840 --> 20:47.640
+I mean, all of these kinds of questions
+
+20:48.480 --> 20:51.360
+that we wanna know answers to.
+
+20:51.360 --> 20:55.480
+And so when we think about heroin or some other drugs
+
+20:55.480 --> 20:57.920
+and you say like, what kind of negative effects?
+
+20:57.920 --> 21:00.960
+Negative effects we don't talk about much in the society.
+
+21:00.960 --> 21:02.840
+The main thing that really concerns me
+
+21:02.840 --> 21:06.280
+about like heroin use really is constipation.
+
+21:06.280 --> 21:11.240
+So if people are using heroin on a regular basis
+
+21:11.240 --> 21:16.240
+and then they have a sort of slowing up their gut modility,
+
+21:16.560 --> 21:19.400
+they're likely to increase constipation.
+
+21:19.400 --> 21:23.000
+And that's not good, I mean, for your general health,
+
+21:23.000 --> 21:25.720
+but we never talk about that in this society.
+
+21:25.720 --> 21:28.880
+And that's probably the most important thing
+
+21:28.880 --> 21:32.040
+aside from the fact that people get contaminated
+
+21:32.040 --> 21:33.520
+street drugs and that sort of stuff
+
+21:33.520 --> 21:35.800
+and increase the likelihood of maybe dying
+
+21:35.800 --> 21:40.240
+from some contaminant or people who are inexperienced
+
+21:40.240 --> 21:42.640
+and they're mixing heroin with other sedative,
+
+21:42.640 --> 21:43.480
+that's not good.
+
+21:43.480 --> 21:46.920
+But the constipation is a huge one.
+
+21:47.880 --> 21:51.080
+And then other sort of drugs, negative effects
+
+21:52.040 --> 21:54.480
+like the amphetamines, all of the amphetamines,
+
+21:54.480 --> 21:56.920
+they disrupt sleep, food intake.
+
+21:56.920 --> 21:59.560
+All of these things are so critical
+
+21:59.560 --> 22:03.040
+for sustaining human life, but we never talk about that
+
+22:03.040 --> 22:05.960
+because it's not as sexy as this nonsense
+
+22:05.960 --> 22:08.200
+that people write about like addiction.
+
+22:08.200 --> 22:10.160
+Addiction has almost nothing to do
+
+22:10.160 --> 22:11.560
+with the drugs themselves.
+
+22:11.560 --> 22:15.240
+And I make that comment because the vast majority
+
+22:15.240 --> 22:19.600
+of users for any drug never become addicted.
+
+22:19.600 --> 22:23.080
+And so if the vast majority of users don't become addicted,
+
+22:23.080 --> 22:25.240
+then you have to move beyond the drug
+
+22:25.240 --> 22:27.600
+when you're talking about the phenomena of interest,
+
+22:27.600 --> 22:29.360
+in this case, addiction.
+
+22:29.360 --> 22:31.560
+And so when we think about addiction,
+
+22:31.560 --> 22:35.120
+it has much more to do with our psychosocial environment
+
+22:35.120 --> 22:38.520
+than the drug itself, but that's not sexy.
+
+22:38.520 --> 22:41.280
+So addiction is even the property of the environment,
+
+22:41.920 --> 22:44.320
+not a property, a result of the environment.
+
+22:44.320 --> 22:45.320
+It certainly can be.
+
+22:45.320 --> 22:47.760
+There are people who are suffering
+
+22:47.760 --> 22:52.760
+from a co-occurring mental illness like depression, anxiety.
+
+22:52.800 --> 22:55.400
+I mean, that's within the person, of course,
+
+22:55.400 --> 22:57.880
+and that increases the likelihood for addiction.
+
+22:57.880 --> 23:01.440
+And so that's not so much the environment,
+
+23:01.440 --> 23:03.600
+but there are people who, for example,
+
+23:03.600 --> 23:07.760
+they have chronic unrealistic expectations heaped on them.
+
+23:07.760 --> 23:09.760
+And those people are more likely
+
+23:09.760 --> 23:11.960
+to have some problems with drug.
+
+23:11.960 --> 23:13.960
+There are people who are just immature,
+
+23:15.800 --> 23:18.240
+haven't developed responsibility skills.
+
+23:18.240 --> 23:20.600
+They are likely to have some problems
+
+23:20.600 --> 23:23.600
+if they engage in some of these behaviors.
+
+23:23.600 --> 23:27.080
+There are people who lost their jobs, COVID,
+
+23:27.080 --> 23:30.040
+factories went away, a wide range of things.
+
+23:30.040 --> 23:33.560
+And those people used to have standing in their community.
+
+23:33.560 --> 23:35.520
+Now they have none.
+
+23:35.520 --> 23:37.680
+Those people might be susceptible
+
+23:37.680 --> 23:39.640
+to having a drug-related problem.
+
+23:40.480 --> 23:43.600
+They might be addicted to it if they indulge.
+
+23:43.600 --> 23:46.760
+All of these kinds of issues are far more important
+
+23:46.760 --> 23:47.600
+than the drug itself.
+
+23:48.760 --> 23:50.920
+And so they could seek escape in a particular drug.
+
+23:50.920 --> 23:54.600
+I mean, there is a biochemical thing to each of these drugs
+
+23:54.600 --> 23:57.600
+and some pull you in harder than others
+
+23:57.600 --> 23:59.160
+when you need the escape,
+
+23:59.160 --> 24:01.160
+when you're not doing well in life.
+
+24:01.160 --> 24:02.560
+What evidence you have for that bullshit.
+
+24:02.560 --> 24:03.400
+I don't.
+
+24:03.400 --> 24:04.240
+Yeah, because there is none.
+
+24:04.240 --> 24:06.080
+There is absolutely none.
+
+24:06.120 --> 24:09.520
+I'm like that and that's the problem.
+
+24:09.520 --> 24:11.480
+That's precisely the problem.
+
+24:11.480 --> 24:14.840
+See, I'm operating from limited personal evidence.
+
+24:14.840 --> 24:16.160
+Well, this is a problem though,
+
+24:16.160 --> 24:18.680
+but we have a scientific database.
+
+24:18.680 --> 24:21.240
+We don't need personal evidence for this.
+
+24:21.240 --> 24:22.840
+We have, in my book,
+
+24:22.840 --> 24:24.600
+I try to go through some of the science
+
+24:24.600 --> 24:26.480
+so people could understand.
+
+24:26.480 --> 24:29.840
+It's like, when you have a math problem,
+
+24:29.840 --> 24:30.960
+you don't want people saying,
+
+24:30.960 --> 24:32.720
+well, you know, I feel like this.
+
+24:32.720 --> 24:33.960
+Fuck what you feel.
+
+24:33.960 --> 24:35.960
+What does the data say?
+
+24:36.720 --> 24:38.480
+One of the problems with the data,
+
+24:38.480 --> 24:41.840
+so one data is the studies that you're doing.
+
+24:41.840 --> 24:43.280
+This is excellent research work,
+
+24:43.280 --> 24:45.600
+but some of the drugs are illegal.
+
+24:45.600 --> 24:46.440
+Yes.
+
+24:46.440 --> 24:47.280
+And some are legal.
+
+24:50.400 --> 24:53.200
+It's unfortunate that some of the drugs are illegal
+
+24:53.200 --> 24:54.920
+or whatever you believe,
+
+24:54.920 --> 24:56.640
+but there's not enough of a data set
+
+24:56.640 --> 24:58.800
+of public and the open use
+
+24:58.800 --> 25:01.440
+that's like you got in the wild data set.
+
+25:01.440 --> 25:03.960
+It'd be nice to do thousands of people
+
+25:03.960 --> 25:06.080
+and see from all the different kinds of environments
+
+25:06.080 --> 25:08.560
+and all that kind of stuff to get an understanding.
+
+25:08.560 --> 25:13.280
+I think we have a substantial database,
+
+25:13.280 --> 25:15.360
+but people just ignore it.
+
+25:15.360 --> 25:16.200
+Got it.
+
+25:17.160 --> 25:21.480
+That said, let me ask you the question of legalization.
+
+25:21.480 --> 25:26.240
+So should, in your view, all drugs be legalized?
+
+25:26.240 --> 25:27.960
+The drugs that people seek
+
+25:27.960 --> 25:30.480
+certainly should be legally regulated
+
+25:30.480 --> 25:32.440
+and available to adults.
+
+25:32.440 --> 25:34.000
+So when I say the drugs people seek,
+
+25:34.000 --> 25:38.120
+like cannabis, MDMA, cocaine, heroin,
+
+25:39.880 --> 25:42.320
+those drugs certainly should be available
+
+25:42.320 --> 25:45.520
+and some of the psychedelics that people seek.
+
+25:45.520 --> 25:50.520
+Now, the thing about it is that some people think that,
+
+25:50.720 --> 25:52.320
+oh, it will be a freefall.
+
+25:52.320 --> 25:54.240
+These drugs are available to everyone.
+
+25:54.240 --> 25:55.120
+That's not true.
+
+25:55.120 --> 25:57.880
+I mean, there will be age requirements
+
+25:57.880 --> 25:59.560
+and maybe other requirements,
+
+25:59.560 --> 26:01.360
+but they should be available
+
+26:01.360 --> 26:04.720
+and we should also do like what we do with alcohol.
+
+26:04.720 --> 26:08.440
+We can put enough alcohol in a bottle to kill you,
+
+26:08.440 --> 26:09.560
+but we don't.
+
+26:09.560 --> 26:14.080
+So we regulate it such that the amount that's in the bottle
+
+26:14.080 --> 26:18.480
+enhances the safety and minimizes the potential harms.
+
+26:18.480 --> 26:20.760
+We can do the same thing with these other drugs
+
+26:20.760 --> 26:22.360
+and we can also say,
+
+26:22.360 --> 26:26.200
+okay, we won't be selling intravenous preparations
+
+26:26.200 --> 26:27.920
+of any of these drugs.
+
+26:28.920 --> 26:32.800
+The drugs that the routes of administration will be oral
+
+26:32.800 --> 26:36.840
+and I don't know, let's say intranasal.
+
+26:38.600 --> 26:40.840
+Again, routes of administration,
+
+26:40.840 --> 26:43.760
+the dose that you have in each unit,
+
+26:44.720 --> 26:49.200
+all can minimize harm based on how you do these things.
+
+26:49.200 --> 26:50.040
+And we can do that.
+
+26:50.040 --> 26:52.240
+We have the technology, we have the know-how.
+
+26:53.920 --> 26:56.120
+You're actually making me think about alcohol a little bit.
+
+26:56.120 --> 26:58.840
+So if I were, say the drugs become legalized
+
+26:58.840 --> 27:00.240
+in the way you're describing
+
+27:00.240 --> 27:04.480
+and me, Lex, wanted to, as an adult,
+
+27:04.480 --> 27:06.440
+explore some of these drugs,
+
+27:06.440 --> 27:10.160
+what are some procedures do you think
+
+27:10.160 --> 27:14.960
+for sort of safe, positive exploration of those drugs?
+
+27:14.960 --> 27:16.880
+The reason I say I'm thinking about alcohol
+
+27:16.880 --> 27:18.320
+because I don't think,
+
+27:18.320 --> 27:22.480
+besides not putting enough alcohol in a bottle to kill you,
+
+27:22.480 --> 27:25.840
+I don't think anyone ever gave me specific instructions.
+
+27:26.560 --> 27:27.920
+I think it's kind of word of mouth
+
+27:27.920 --> 27:31.520
+and examples of people doing the wrong thing.
+
+27:31.520 --> 27:33.800
+You kind of get it through osmosis that way.
+
+27:33.800 --> 27:34.640
+Yeah.
+
+27:34.640 --> 27:37.000
+Is that basically what we would do,
+
+27:37.000 --> 27:38.840
+this kind of free exploration of use?
+
+27:38.840 --> 27:41.920
+No, we have to change our education about these things.
+
+27:41.920 --> 27:44.880
+I mean, let's just take a drug like cocaine.
+
+27:44.880 --> 27:46.240
+Cocaine's a stimulant.
+
+27:47.120 --> 27:48.560
+You want to make sure people understand
+
+27:48.560 --> 27:50.960
+that they shouldn't be taking cocaine in their bedtime.
+
+27:50.960 --> 27:55.600
+You know, they need to get a certain amount of hours of sleep
+
+27:56.160 --> 27:57.400
+they need to get up in the morning.
+
+27:57.400 --> 28:00.000
+Cocaine probably isn't a drug for you at night.
+
+28:00.000 --> 28:01.680
+Certainly not.
+
+28:01.680 --> 28:04.600
+Certainly not amphetamines at night for most people.
+
+28:04.600 --> 28:06.840
+And also, if you want to make sure that you,
+
+28:06.840 --> 28:09.480
+they need to understand that cocaine
+
+28:09.480 --> 28:11.800
+can also disrupt your food intake,
+
+28:11.800 --> 28:13.280
+not as much as the amphetamines,
+
+28:13.280 --> 28:15.760
+but all of these kinds of things people need to know
+
+28:15.760 --> 28:18.440
+so they can have proper nutrition
+
+28:18.440 --> 28:22.480
+and they can time their drug use
+
+28:22.720 --> 28:25.560
+around these other important functions
+
+28:25.560 --> 28:26.920
+that's the same human life.
+
+28:26.920 --> 28:30.960
+So we have to make sure that we educate people.
+
+28:30.960 --> 28:34.440
+We can't just throw people in a while.
+
+28:34.440 --> 28:36.160
+That's stupid.
+
+28:36.160 --> 28:37.960
+I got to tell you, I mean, for me,
+
+28:37.960 --> 28:40.440
+and even given your book and for people listening to this,
+
+28:40.440 --> 28:43.640
+it's still tough to hear
+
+28:43.640 --> 28:46.760
+that the thing we should be concerned about with cocaine
+
+28:48.560 --> 28:50.600
+is the same as with caffeine.
+
+28:50.600 --> 28:52.040
+Don't take it before bed.
+
+28:52.600 --> 28:54.560
+And the thing we should be concerned with heroin
+
+28:54.560 --> 28:55.480
+is constipation.
+
+28:55.480 --> 28:56.320
+Yeah.
+
+28:58.920 --> 29:00.520
+Okay.
+
+29:00.520 --> 29:04.880
+But the questions I keep wanting to ask you,
+
+29:04.880 --> 29:07.880
+I should be asking the same things of alcohol.
+
+29:07.880 --> 29:10.800
+But when you're not doing well psychologically
+
+29:10.800 --> 29:13.800
+in the ways you describe, when the environment is not right,
+
+29:17.160 --> 29:19.360
+there's some aspect in which saying that
+
+29:19.360 --> 29:22.560
+drugs can be used responsibly and effectively
+
+29:22.560 --> 29:27.560
+and mostly positive can give those folks a pass
+
+29:28.400 --> 29:30.640
+to use it instead of working on themselves
+
+29:30.640 --> 29:32.840
+and fixing their environment first.
+
+29:32.840 --> 29:35.280
+I don't know, what do you want me to say to that?
+
+29:35.280 --> 29:37.280
+I mean, they have access to alcohol,
+
+29:37.280 --> 29:39.320
+they have access to the...
+
+29:39.320 --> 29:40.160
+Yeah.
+
+29:40.160 --> 29:42.920
+You know, we live in this country called the United States
+
+29:42.920 --> 29:45.280
+where our Declaration of Independence says
+
+29:45.280 --> 29:48.400
+that we are free to live like we want to live
+
+29:48.400 --> 29:51.280
+so long as we don't disrupt other people
+
+29:51.280 --> 29:52.440
+from doing the same.
+
+29:53.480 --> 29:56.640
+But it's remarkable to me how we try to control
+
+29:56.640 --> 29:58.120
+the behaviors of other people.
+
+29:58.120 --> 30:00.760
+That's just remarkable.
+
+30:00.760 --> 30:01.800
+Yeah.
+
+30:01.800 --> 30:03.880
+And that's partially what your book is about.
+
+30:03.880 --> 30:06.440
+I mean, it's not just about drugs, it's about freedom.
+
+30:06.440 --> 30:09.200
+That's the bigger issue that we can't get to.
+
+30:09.200 --> 30:12.360
+It's like this issue of freedom.
+
+30:12.360 --> 30:14.600
+And freedom comes with a tremendous amount
+
+30:14.600 --> 30:16.040
+of responsibility.
+
+30:16.040 --> 30:18.280
+I am responsible for my neighbors,
+
+30:19.120 --> 30:22.920
+my brothers, I mean, I can't impede their freedoms.
+
+30:22.920 --> 30:25.560
+Like some people think that their freedom supersedes
+
+30:25.560 --> 30:26.760
+everybody else's freedoms.
+
+30:26.760 --> 30:27.600
+No.
+
+30:27.600 --> 30:31.040
+And that's what I'm trying to remind people in this book.
+
+30:31.040 --> 30:36.040
+I am responsible to you as a citizen
+
+30:36.880 --> 30:39.600
+and we're in this together.
+
+30:39.600 --> 30:42.040
+And I tried to make that point in the book
+
+30:42.040 --> 30:46.480
+and people have conveniently ignored things like that.
+
+30:47.320 --> 30:51.120
+Do you think the war on drugs has done more positive
+
+30:51.120 --> 30:52.520
+or negative for the world?
+
+30:53.600 --> 30:55.520
+Depends on which world you live in.
+
+30:55.520 --> 30:58.840
+The war on drugs has been hugely beneficial
+
+30:58.840 --> 31:02.720
+to law enforcement, to the media,
+
+31:02.720 --> 31:05.520
+to people who make bullshit TV shows,
+
+31:06.760 --> 31:10.200
+the Sopranos, The Wire, all of those shows,
+
+31:10.200 --> 31:12.800
+they benefit from this kind of nonsense.
+
+31:12.800 --> 31:17.120
+But who else have benefited?
+
+31:17.120 --> 31:19.760
+People who provide treatment,
+
+31:19.760 --> 31:21.840
+many of them benefit from the war on drugs.
+
+31:21.840 --> 31:25.480
+The folks who do urine testing for drugs,
+
+31:25.480 --> 31:29.000
+they've all benefited, they're making mad money.
+
+31:29.000 --> 31:32.560
+People who run prisons, the phone companies
+
+31:32.560 --> 31:35.320
+who charge the prisoners,
+
+31:35.320 --> 31:38.640
+the people who run the hotels that are around the prisons
+
+31:38.640 --> 31:41.360
+where people's family have to come and stay,
+
+31:41.360 --> 31:45.840
+the restaurants, they are making out like bandits.
+
+31:45.840 --> 31:48.960
+But many of us are getting screwed as a society.
+
+31:49.960 --> 31:51.440
+In general, we're getting screwed,
+
+31:51.440 --> 31:54.960
+but there are people who are just benefiting handsomely.
+
+31:54.960 --> 31:56.360
+That's why it continues.
+
+31:56.360 --> 31:58.040
+Politicians benefit.
+
+31:58.040 --> 32:00.360
+I mean, whether you're Democrat or Republican,
+
+32:00.360 --> 32:02.680
+you have the same stance on drugs anyway,
+
+32:02.680 --> 32:05.880
+so they all benefit from this.
+
+32:05.880 --> 32:07.560
+So many questions I wanna ask you
+
+32:07.560 --> 32:08.920
+because you're challenging a lot of beliefs
+
+32:08.920 --> 32:13.120
+that people have about drugs, about society in general.
+
+32:13.120 --> 32:16.040
+So it's difficult for me to ask the right questions here.
+
+32:18.040 --> 32:23.040
+If you could, if you were with a sort of a snap of a finger,
+
+32:23.760 --> 32:28.760
+change the world, what from a policy perspective would you,
+
+32:29.840 --> 32:34.040
+and from just a, I don't know, human to human perspective,
+
+32:34.040 --> 32:37.120
+what would you like to see in the United States of America?
+
+32:37.120 --> 32:38.800
+In terms of that fixes some of the problems
+
+32:38.800 --> 32:39.920
+that we're discussing here.
+
+32:39.920 --> 32:42.840
+First of all, we wouldn't be arresting anybody
+
+32:42.840 --> 32:45.880
+for drugs anymore, that would go away.
+
+32:45.880 --> 32:49.320
+The folks who are in prison for drugs, that would go away.
+
+32:49.320 --> 32:53.000
+Their records would be expunged, that would just go away.
+
+32:53.000 --> 32:56.560
+And then we work on a system to make sure
+
+32:56.560 --> 33:01.560
+that responsible adults can legally obtain these substances
+
+33:02.480 --> 33:05.720
+and we'll have a corresponding educational system
+
+33:05.720 --> 33:07.360
+to teach people how to do this.
+
+33:08.800 --> 33:11.080
+That's where I would start initially.
+
+33:12.400 --> 33:15.600
+Yeah, the arrest thing for drug use
+
+33:15.600 --> 33:18.400
+or anything drug related is absurd,
+
+33:18.400 --> 33:19.680
+especially in the context
+
+33:19.680 --> 33:22.920
+of how destructive alcohol is and tobacco.
+
+33:22.920 --> 33:25.000
+Alcohol can be destructive to some people,
+
+33:25.000 --> 33:28.560
+but alcohol also is a hugely beneficial drug,
+
+33:28.560 --> 33:31.240
+to be honest, which I couldn't have gotten through
+
+33:31.240 --> 33:34.280
+many of the sort of receptions and functions
+
+33:34.280 --> 33:37.640
+I had to go through as the chair of the department
+
+33:37.640 --> 33:38.480
+without alcohol.
+
+33:39.040 --> 33:41.120
+Yeah, you have a line I really liked.
+
+33:41.120 --> 33:44.600
+The vast amount of predictably favorable drug effects
+
+33:44.600 --> 33:47.880
+intrigued me, so much so that I expanded my own drug use
+
+33:47.880 --> 33:49.360
+to take advantage of the wide array
+
+33:49.360 --> 33:52.360
+of beneficial alcohol-specific drugs can offer.
+
+33:52.360 --> 33:54.600
+The part that entertained me was this.
+
+33:54.600 --> 33:56.160
+To put this in personal terms,
+
+33:56.160 --> 34:00.600
+my position as department chairman from 2016 to 2019
+
+34:00.600 --> 34:02.520
+was far more detrimental to my health
+
+34:02.520 --> 34:04.320
+than my drug use ever was.
+
+34:04.320 --> 34:07.480
+I mean, there is a standard where treating drugs,
+
+34:07.480 --> 34:10.160
+certain kinds of drugs that's completely different
+
+34:10.160 --> 34:11.000
+than the standard where we're treating
+
+34:11.000 --> 34:12.440
+everything else in our lives.
+
+34:13.640 --> 34:17.080
+Yeah, I mean, it's almost difficult to snap out of it
+
+34:17.080 --> 34:19.840
+as I'm listening to you and reading your work.
+
+34:24.360 --> 34:27.080
+It's difficult because it's like,
+
+34:27.080 --> 34:31.840
+why is everybody living this idea that certain drugs
+
+34:31.840 --> 34:35.600
+are so horribly destructive and others are not?
+
+34:35.640 --> 34:37.800
+And we just kind of fix that idea.
+
+34:37.800 --> 34:39.400
+And then there's this narrative.
+
+34:41.200 --> 34:43.680
+I hate to be so cynical to think that there's just
+
+34:43.680 --> 34:46.440
+like a system that just propagates narratives.
+
+34:46.440 --> 34:50.320
+I always kind of think that truth wins out.
+
+34:50.320 --> 34:51.600
+Truth is the best narrative.
+
+34:51.600 --> 34:53.200
+I believe that too, obviously.
+
+34:53.200 --> 34:55.000
+That's why I'm out here and putting,
+
+34:55.000 --> 34:58.560
+subjecting myself to this sort of criticism and so forth,
+
+34:58.560 --> 35:01.280
+because I believe that truth ultimately wins out,
+
+35:01.280 --> 35:02.960
+but I might be wrong.
+
+35:02.960 --> 35:07.880
+But I have to live my life like it's true.
+
+35:07.880 --> 35:11.280
+Otherwise, then I have no hope, then why be here?
+
+35:11.280 --> 35:12.880
+Well, kind of, if you can steel man
+
+35:12.880 --> 35:16.080
+or at least show respect to a criticism,
+
+35:16.080 --> 35:20.680
+I'm sure received quite a bit of criticism for your work.
+
+35:20.680 --> 35:23.760
+I've heard quite a bit of BS criticism,
+
+35:23.760 --> 35:25.800
+sort of ignorant stuff
+
+35:25.800 --> 35:29.000
+that don't actually pay attention to your work.
+
+35:29.000 --> 35:30.520
+But is there some serious, like,
+
+35:30.560 --> 35:34.240
+is there some pushback that makes you think twice?
+
+35:34.240 --> 35:36.840
+People say, like, I'm presenting
+
+35:36.840 --> 35:39.400
+a too rosy picture of drugs.
+
+35:39.400 --> 35:42.320
+You know, like, I don't want to do that.
+
+35:42.320 --> 35:45.320
+I don't want people to think that I'm not aware
+
+35:45.320 --> 35:49.360
+of the potential negative effects of any activity,
+
+35:49.360 --> 35:51.240
+including drug use.
+
+35:51.240 --> 35:56.240
+And so I do acknowledge that there are potential harms
+
+35:56.720 --> 35:57.640
+associated with drugs.
+
+35:57.640 --> 35:59.960
+I acknowledge that in the book.
+
+35:59.960 --> 36:02.560
+But the fact remains the beneficial effects
+
+36:02.560 --> 36:05.440
+far outweigh the potential harmful effects.
+
+36:05.440 --> 36:09.720
+And we have technology information to help people
+
+36:09.720 --> 36:12.200
+to minimize the likelihood of those negative effects.
+
+36:12.200 --> 36:16.680
+But this sort of approach that we have where we say,
+
+36:16.680 --> 36:20.360
+we're only exclusively presenting the harmful effects.
+
+36:20.360 --> 36:23.640
+And that should make people, keep people safe.
+
+36:23.640 --> 36:25.480
+I just have a problem with that.
+
+36:25.480 --> 36:29.280
+But I certainly, I take the point
+
+36:29.280 --> 36:32.200
+that people say there are negative effects.
+
+36:32.200 --> 36:35.160
+Absolutely, I absolutely agree.
+
+36:35.160 --> 36:39.200
+What do you, if I can just talk about specific drugs,
+
+36:39.200 --> 36:41.640
+what's the difference between opioids
+
+36:41.640 --> 36:44.080
+and benzos, for example?
+
+36:44.080 --> 36:48.600
+Specifically, I mean, these are drugs
+
+36:48.600 --> 36:53.120
+that you often read about being misused at scale.
+
+36:53.160 --> 36:55.280
+I mean, the misuse is the problem, right?
+
+36:55.280 --> 36:56.120
+Yeah.
+
+36:56.120 --> 36:57.520
+No matter what the drug is.
+
+36:57.520 --> 36:58.360
+Yes.
+
+36:58.360 --> 37:00.000
+And that's actually what you're pushing for,
+
+37:00.000 --> 37:03.760
+is education and it should be legal and should be good.
+
+37:03.760 --> 37:05.440
+So people should know what's the difference
+
+37:05.440 --> 37:10.440
+in proper use, positive use and misuse.
+
+37:10.680 --> 37:14.000
+I mean, one public figure who has been going through this
+
+37:14.000 --> 37:15.360
+is Jordan Peterson.
+
+37:15.360 --> 37:18.680
+He's been public about his struggle of getting off benzos,
+
+37:18.680 --> 37:20.560
+the withdrawal he's going through.
+
+37:20.600 --> 37:22.360
+I mean, what are your thoughts about
+
+37:24.680 --> 37:27.320
+the misuse of benzos or opioids and so on,
+
+37:27.320 --> 37:30.040
+the epidemic that people talk about?
+
+37:30.040 --> 37:33.240
+Yeah, I don't know Jordan's specific case,
+
+37:33.240 --> 37:36.160
+but certainly with benzodiazepines in general,
+
+37:36.160 --> 37:37.720
+we talked about withdrawal earlier.
+
+37:37.720 --> 37:40.160
+When I said that with alcohol withdrawal, you can die.
+
+37:40.160 --> 37:43.520
+So benzos and alcohol, they're closely related.
+
+37:43.520 --> 37:47.400
+So benzol withdrawal too can kill you, just like alcohol.
+
+37:47.400 --> 37:49.240
+So when we think about the effects
+
+37:49.240 --> 37:51.360
+that benzodiazepines produce,
+
+37:51.360 --> 37:53.480
+think about the effects that alcohol produce.
+
+37:53.480 --> 37:55.800
+They're comparable or similar.
+
+37:55.800 --> 37:59.320
+And so I know that it's a difficult one
+
+37:59.320 --> 38:03.480
+to wean yourself off if you develop the dependence,
+
+38:03.480 --> 38:08.480
+but we have protocols for that and I hope he's okay.
+
+38:09.640 --> 38:11.360
+It's interesting you say we have protocols for that,
+
+38:11.360 --> 38:13.640
+but from my understanding was that,
+
+38:13.640 --> 38:16.160
+like the protocols aren't standardized.
+
+38:16.200 --> 38:18.200
+It feels like a lot of doctors
+
+38:18.200 --> 38:20.840
+aren't as helpful as they could be in this process.
+
+38:20.840 --> 38:22.280
+Like it's a bit of a mess.
+
+38:22.280 --> 38:23.960
+Certainly with withdrawal,
+
+38:23.960 --> 38:27.040
+they're more standardized than anything.
+
+38:27.040 --> 38:30.600
+So like if someone is going through alcohol withdrawal,
+
+38:30.600 --> 38:32.200
+there is a standard protocol
+
+38:32.200 --> 38:36.080
+that most physicians in this business, they follow.
+
+38:36.080 --> 38:39.480
+The same is true with benzo withdrawal.
+
+38:39.480 --> 38:41.560
+But the thing where it gets murky
+
+38:41.560 --> 38:44.120
+is when they're treating addiction itself.
+
+38:44.120 --> 38:46.240
+So when you're thinking about
+
+38:46.240 --> 38:48.600
+the substance use disorder in the DSM,
+
+38:48.600 --> 38:51.360
+not just withdrawal, but the entire addiction,
+
+38:51.360 --> 38:54.360
+that's where you have this sort of divergence
+
+38:56.560 --> 39:00.560
+or diversity in terms of approaches.
+
+39:00.560 --> 39:04.120
+And many of those approaches are rubbish.
+
+39:04.120 --> 39:06.880
+Can you just elaborate like technically
+
+39:06.880 --> 39:09.800
+what the term addiction means that you're referring to?
+
+39:09.800 --> 39:11.200
+When I use the term addiction,
+
+39:11.200 --> 39:16.200
+I'm referring to the Diagnostic Statistical Manual
+
+39:16.600 --> 39:18.880
+of the American Psychiatric Association,
+
+39:18.880 --> 39:21.160
+number five now, the DSM-5.
+
+39:21.160 --> 39:22.720
+That's never been wrong, right?
+
+39:24.440 --> 39:25.280
+I'm just kidding.
+
+39:25.280 --> 39:26.120
+Oh, you are, sorry.
+
+39:26.120 --> 39:28.160
+Yeah, that point is well taken.
+
+39:28.160 --> 39:33.080
+And your point is that their definition
+
+39:33.080 --> 39:35.360
+of substance use disorder, that's addiction.
+
+39:35.360 --> 39:36.560
+That's what I'm talking about.
+
+39:36.560 --> 39:39.680
+But that definition continues to evolve.
+
+39:39.680 --> 39:44.160
+And so you're right, they still are working it out.
+
+39:44.160 --> 39:47.240
+We're getting new information from scientific studies
+
+39:47.240 --> 39:48.080
+and so forth.
+
+39:48.080 --> 39:51.560
+And so it's supposed to be incorporated into the DSM.
+
+39:51.560 --> 39:53.960
+But there are some problems with the DSM.
+
+39:53.960 --> 39:57.960
+Like for example, they also have this sort of
+
+39:57.960 --> 40:00.560
+once an addict, always an addict thing.
+
+40:00.560 --> 40:05.200
+And there's no evidence to support that, but it's evolving.
+
+40:05.200 --> 40:09.600
+And it's the definition that people in science
+
+40:09.600 --> 40:10.880
+and medicine use.
+
+40:10.880 --> 40:13.840
+And so we all know we're talking about the same language
+
+40:13.840 --> 40:17.600
+when we call someone a substance use disorder patient
+
+40:17.600 --> 40:19.680
+or someone who meets criteria for addiction.
+
+40:19.680 --> 40:22.200
+We all are speaking the same language.
+
+40:22.200 --> 40:24.800
+We're not saying that simply because this person
+
+40:24.800 --> 40:26.600
+use heroin, they are an addict.
+
+40:26.600 --> 40:28.040
+That's not what we're saying.
+
+40:28.040 --> 40:32.120
+You have to meet these criteria where you have disruptions
+
+40:32.120 --> 40:35.080
+in your psychosocial functioning, that's one.
+
+40:35.320 --> 40:39.480
+And two, you the person are distressed
+
+40:39.480 --> 40:43.200
+by these disruptions.
+
+40:43.200 --> 40:46.560
+So people have to meet those two basic criteria
+
+40:46.560 --> 40:48.720
+before we say they are addicted.
+
+40:50.320 --> 40:54.000
+So once an addict, always an addict, this idea.
+
+40:54.000 --> 40:57.920
+So I've, I mean, some of it is always mapped
+
+40:57.920 --> 41:00.840
+to the person already, but just the people
+
+41:00.840 --> 41:02.680
+I've interacted with who have struggled
+
+41:02.680 --> 41:04.360
+with the alcohol addiction.
+
+41:04.360 --> 41:06.400
+I don't know what the proper term is.
+
+41:06.400 --> 41:09.120
+It seems like with alcohol anonymous,
+
+41:09.120 --> 41:14.120
+the process of putting that addiction behind you
+
+41:14.840 --> 41:17.000
+is a very, very long process.
+
+41:17.000 --> 41:18.840
+It's surprisingly long to me.
+
+41:18.840 --> 41:20.680
+That almost seems like a whole life.
+
+41:20.680 --> 41:24.240
+Like it's not always an addict, but it takes decades.
+
+41:24.240 --> 41:27.680
+It seems like, what is that?
+
+41:27.680 --> 41:31.520
+What can you maybe just from your understanding
+
+41:31.560 --> 41:33.360
+as a scientist, from your understanding as a human
+
+41:33.360 --> 41:36.160
+who studies human nature, why does it take so long
+
+41:36.160 --> 41:41.160
+to treat, to deal with that addiction?
+
+41:42.960 --> 41:46.600
+Well, you cited alcohol anonymous, right?
+
+41:46.600 --> 41:49.680
+And so I don't think of alcohol anonymous
+
+41:49.680 --> 41:54.440
+as like a treatment that I would send any relative to,
+
+41:54.440 --> 41:57.680
+like for a drug related problem.
+
+41:57.680 --> 42:01.800
+I think alcohol anonymous AA is really good
+
+42:01.800 --> 42:06.800
+for social interactions, making sure people have
+
+42:07.920 --> 42:10.360
+a social group and they have peers.
+
+42:10.360 --> 42:11.960
+I mean, that's a good thing.
+
+42:11.960 --> 42:14.760
+We all need that social interaction,
+
+42:14.760 --> 42:16.800
+but I don't think they know much about drugs.
+
+42:16.800 --> 42:21.040
+That's not, it's like saying, well, you know,
+
+42:21.040 --> 42:25.160
+my uncle broke his knee and he has this support group
+
+42:25.200 --> 42:30.200
+and they said this, and then we follow that.
+
+42:30.840 --> 42:31.960
+That doesn't make any sense.
+
+42:31.960 --> 42:36.960
+But in our society, judges even sentence people to go to AA.
+
+42:39.040 --> 42:40.640
+Are you kidding me?
+
+42:40.640 --> 42:44.000
+But that's the kind of thing that has been allowed
+
+42:44.000 --> 42:48.400
+to happen in this society because we think of drugs
+
+42:48.400 --> 42:51.800
+as this moral failing or drug addiction
+
+42:51.800 --> 42:53.240
+as this moral failing.
+
+42:54.120 --> 42:56.600
+And any idiot can provide treatment.
+
+42:56.600 --> 43:00.760
+And no disrespect to AA because I think what they do
+
+43:00.760 --> 43:02.880
+is a lot more than what some people do
+
+43:02.880 --> 43:07.480
+because at least they have these social interactions.
+
+43:07.480 --> 43:09.680
+You have a social group.
+
+43:09.680 --> 43:11.520
+That's better than what a lot
+
+43:11.520 --> 43:13.640
+of these other idiots out here do.
+
+43:13.640 --> 43:18.440
+Well, and that social support group unrelated to the drug,
+
+43:18.440 --> 43:21.000
+it helps cure some of the environment issues
+
+43:21.000 --> 43:21.840
+you might be in. Absolutely.
+
+43:21.840 --> 43:22.680
+That's the whole point.
+
+43:22.960 --> 43:25.080
+So we kind of coupled the drug to the environment,
+
+43:25.080 --> 43:28.360
+but the reality is as you argue,
+
+43:28.360 --> 43:30.960
+most of the problems come from the environment.
+
+43:30.960 --> 43:33.440
+Certainly with people who are experiencing drug related
+
+43:33.440 --> 43:36.800
+problem with most of the people, not all, but most.
+
+43:36.800 --> 43:40.760
+There are differences like that psychedelics
+
+43:40.760 --> 43:43.880
+and like psilocybin has versus alcohol.
+
+43:43.880 --> 43:47.080
+I personally think, you know,
+
+43:47.080 --> 43:50.320
+I've enjoyed both experiences in different ways.
+
+43:51.200 --> 43:52.560
+Is it possible or is this,
+
+43:52.560 --> 43:54.920
+are we getting into the realm of poetry
+
+43:54.920 --> 43:59.480
+to describe the benefits, like how it alters the mind,
+
+43:59.480 --> 44:02.000
+how the different drugs alter the mind
+
+44:03.000 --> 44:05.000
+and the places it can take you
+
+44:05.000 --> 44:06.800
+that produce a positive experience.
+
+44:06.800 --> 44:07.640
+Yeah.
+
+44:07.640 --> 44:09.120
+No, it's very real.
+
+44:09.120 --> 44:13.200
+You know, like some drugs take people
+
+44:13.200 --> 44:14.840
+in places that other drugs can't.
+
+44:14.840 --> 44:17.360
+And that's very real.
+
+44:17.360 --> 44:19.840
+I have friends, some of them,
+
+44:20.560 --> 44:25.560
+you know, they, for example, say that they've never
+
+44:25.960 --> 44:29.760
+had an experience like the one they had with ayahuasca.
+
+44:29.760 --> 44:32.200
+And they've done a number of sort of things,
+
+44:33.800 --> 44:36.120
+but they did the ayahuasca in a setting
+
+44:36.120 --> 44:40.400
+with a shaman and this group.
+
+44:40.400 --> 44:45.400
+And they felt like they actually began to heal
+
+44:46.160 --> 44:49.520
+or solve some problems that they were trying to solve
+
+44:50.080 --> 44:50.960
+for some years.
+
+44:50.960 --> 44:52.240
+And that's great.
+
+44:52.240 --> 44:53.960
+That's great for them.
+
+44:53.960 --> 44:56.560
+And nothing else does it for them like that.
+
+44:56.560 --> 44:59.080
+And that's absolutely fantastic.
+
+45:00.800 --> 45:05.800
+All I argue is that if that kind of thing happens for you
+
+45:07.000 --> 45:09.640
+with ayahuasca, with psilocybin,
+
+45:09.640 --> 45:12.480
+with some other psychedelic,
+
+45:12.480 --> 45:17.040
+why isn't it possible that heroin does that for someone
+
+45:17.040 --> 45:19.760
+or cocaine does that for someone else
+
+45:19.760 --> 45:22.720
+or MDMA does it for someone?
+
+45:22.720 --> 45:23.560
+That's it.
+
+45:23.560 --> 45:27.440
+That's interesting to imagine like a shaman for heroin.
+
+45:27.440 --> 45:28.960
+Like why not?
+
+45:28.960 --> 45:31.200
+And or cocaine, you said creating an environment
+
+45:31.200 --> 45:34.120
+for yourself for use of these different substances
+
+45:34.120 --> 45:39.120
+and that environment has a very strong impact
+
+45:39.800 --> 45:41.880
+on the actual experience that you have.
+
+45:41.880 --> 45:46.680
+But I mean, so cocaine is an upper
+
+45:47.360 --> 45:48.200
+and then.
+
+45:48.200 --> 45:50.960
+Yeah, the way we define drugs like uppers and downers,
+
+45:50.960 --> 45:55.960
+that's a really kind of inappropriate way
+
+45:56.000 --> 45:57.520
+but it's a quick way.
+
+45:57.520 --> 46:01.160
+So we certainly say cocaine is an upper stimulant
+
+46:01.160 --> 46:05.280
+but it depends on the activity of the person
+
+46:05.280 --> 46:06.360
+before they take the drug.
+
+46:06.360 --> 46:08.440
+Say like if you're like really active
+
+46:08.440 --> 46:10.760
+before taking a drug like cocaine,
+
+46:10.760 --> 46:12.800
+it might actually calm you.
+
+46:12.800 --> 46:15.640
+So it all depends on the activity of the person
+
+46:15.640 --> 46:16.920
+before they take the drug.
+
+46:16.920 --> 46:19.920
+I remember, I don't know if you know Matthew Johnson is.
+
+46:19.920 --> 46:21.480
+Of course.
+
+46:21.480 --> 46:23.040
+He did all these studies on,
+
+46:23.040 --> 46:25.240
+or I remember just reading a paper,
+
+46:25.240 --> 46:27.240
+I didn't get a chance to talk with him much about it
+
+46:27.240 --> 46:30.760
+but it was about condom use and cocaine
+
+46:30.760 --> 46:34.040
+and then like the doses and whether people
+
+46:34.040 --> 46:35.680
+are more or less likely,
+
+46:35.680 --> 46:40.520
+like the unsafe thing there is the using or not using,
+
+46:40.520 --> 46:45.520
+or not using I guess condoms during sexual intercourse.
+
+46:46.400 --> 46:50.160
+I love that these drugs that have connotation
+
+46:50.160 --> 46:52.200
+probably because of Hollywood,
+
+46:52.200 --> 46:54.720
+negative connotations are actually being studied by science
+
+46:54.720 --> 46:56.560
+and then the actual impact they have
+
+46:56.560 --> 46:58.200
+and what are the negative effects.
+
+46:58.200 --> 47:03.160
+Again, in those studies often the positive effects
+
+47:03.160 --> 47:05.320
+are difficult to quantify I think.
+
+47:05.320 --> 47:08.280
+Maybe I guess you can from self-report and so on.
+
+47:08.280 --> 47:09.120
+But like-
+
+47:09.120 --> 47:11.320
+Positive effects are not difficult to quantify.
+
+47:11.320 --> 47:15.440
+You ask people about their euphoria,
+
+47:16.280 --> 47:18.280
+you can see how well people are getting along.
+
+47:18.280 --> 47:20.200
+Like in our studies that we have,
+
+47:20.200 --> 47:22.800
+people sometimes in groups
+
+47:22.800 --> 47:25.720
+and you see how well they get along
+
+47:25.720 --> 47:29.960
+on the various drug conditions or placebo conditions.
+
+47:29.960 --> 47:32.480
+It's really, it's not that difficult.
+
+47:32.480 --> 47:34.600
+And then you can see these amazing studies
+
+47:34.600 --> 47:36.040
+with like Rick Doblin,
+
+47:36.040 --> 47:40.800
+like looking at MDMA and combined with therapy,
+
+47:42.160 --> 47:45.000
+like how you can overcome certain PTSD things
+
+47:45.520 --> 47:47.080
+or depression and so on.
+
+47:47.080 --> 47:48.440
+Yeah, it's really interesting.
+
+47:48.440 --> 47:51.040
+It's really interesting.
+
+47:51.040 --> 47:53.360
+I gotta ask you, because you mentioned The Wire.
+
+47:53.360 --> 47:54.520
+Do you think The Wire,
+
+47:54.520 --> 47:56.240
+do you think movies like Trainspotting,
+
+47:56.240 --> 47:58.040
+do you think they're ultimately distraught?
+
+47:58.040 --> 48:02.120
+Because okay, yes, they celebrate murder, right?
+
+48:02.120 --> 48:04.200
+The Godfather a little bit.
+
+48:04.200 --> 48:05.040
+Yeah.
+
+48:05.040 --> 48:07.200
+But another one, I mean,
+
+48:07.200 --> 48:10.040
+it's like these racist ass motherfuckers
+
+48:10.040 --> 48:12.560
+and they also are killing people,
+
+48:12.560 --> 48:14.680
+but yet they say, we don't do drugs.
+
+48:15.400 --> 48:16.240
+What kind of shit is that?
+
+48:16.240 --> 48:18.280
+I mean, people who are doing drugs,
+
+48:18.280 --> 48:21.480
+psilocybin or whatever.
+
+48:21.480 --> 48:24.480
+The thing is we're trying to be better people
+
+48:24.480 --> 48:27.080
+and trying to make our society better
+
+48:27.080 --> 48:28.160
+and you're killing people
+
+48:28.160 --> 48:32.280
+and you are denigrating people for using drugs.
+
+48:32.280 --> 48:33.440
+Are you fucking kidding me?
+
+48:33.440 --> 48:35.920
+And we let them get away with that as a society.
+
+48:35.920 --> 48:37.160
+Do you see those movies,
+
+48:37.160 --> 48:39.680
+I apologize if I'm not sufficiently informed,
+
+48:39.680 --> 48:41.760
+you see them as denigrating drugs?
+
+48:41.760 --> 48:42.600
+Of course.
+
+48:42.640 --> 48:44.760
+I mean, The Godfather.
+
+48:44.760 --> 48:45.600
+Yes, that's right.
+
+48:45.600 --> 48:46.440
+That's a good example.
+
+48:46.440 --> 48:49.600
+The Godfather, The Sopranos is all about that.
+
+48:49.600 --> 48:53.680
+I mean, Christopher is using heroin in The Sopranos
+
+48:53.680 --> 48:58.520
+and they have an intervention in one season
+
+48:58.520 --> 49:02.920
+and they are denigrating him.
+
+49:02.920 --> 49:03.760
+Are you kidding me?
+
+49:03.760 --> 49:05.720
+You just cut somebody's head off.
+
+49:05.720 --> 49:07.920
+Yeah, but to be fair,
+
+49:07.920 --> 49:10.560
+they were denigrating I think all drugs.
+
+49:10.600 --> 49:13.160
+And then they're drinking alcohol in the butter beam.
+
+49:13.160 --> 49:14.000
+Yeah, yeah.
+
+49:14.000 --> 49:14.840
+Come on.
+
+49:15.680 --> 49:18.200
+First of all, they're killing people.
+
+49:18.200 --> 49:21.400
+They don't have any space, none,
+
+49:21.400 --> 49:23.840
+to denigrate somebody who's just trying
+
+49:23.840 --> 49:26.600
+to alter their consciousness.
+
+49:26.600 --> 49:27.600
+Are you kidding me?
+
+49:27.600 --> 49:29.680
+And not bothering anyone else.
+
+49:29.680 --> 49:31.480
+But there's a lot of other mob movies
+
+49:31.480 --> 49:36.040
+that Scarface celebrates the murder and the drugs equally.
+
+49:36.040 --> 49:41.040
+So I mean, it celebrates all of the,
+
+49:42.840 --> 49:44.800
+not just drugs or so on, it's extreme.
+
+49:44.800 --> 49:46.840
+All of those movies.
+
+49:46.840 --> 49:48.080
+I loved all those movies.
+
+49:48.080 --> 49:48.920
+I'm from Miami.
+
+49:48.920 --> 49:50.160
+I loved Scarface.
+
+49:50.160 --> 49:51.680
+I even liked The Sopranos
+
+49:51.680 --> 49:53.920
+that I started looking at that shit with a critical eye
+
+49:53.920 --> 49:55.280
+and see what it's doing.
+
+49:56.600 --> 50:01.600
+But Scarface is dependent upon the American viewer
+
+50:02.600 --> 50:06.280
+having a certain view of people who deal in drugs.
+
+50:06.280 --> 50:10.600
+And that view is that these people are animals, basically.
+
+50:10.600 --> 50:14.040
+And in the end, the animal kills himself
+
+50:14.040 --> 50:16.760
+with too much cocaine and he was high.
+
+50:16.760 --> 50:17.920
+That's what they show.
+
+50:17.920 --> 50:20.720
+And so it's like, what the fuck?
+
+50:20.720 --> 50:23.560
+So it's leveraging, it's playing into
+
+50:23.560 --> 50:26.040
+not the better angels of our nature.
+
+50:26.720 --> 50:28.360
+The question.
+
+50:28.360 --> 50:30.720
+Don't take away these great movies from me.
+
+50:30.720 --> 50:31.560
+But it's true.
+
+50:31.560 --> 50:33.640
+You have to think about them critically in the context.
+
+50:33.640 --> 50:35.440
+Wait, wait, wait, wait, wait, wait.
+
+50:35.440 --> 50:36.280
+I like these movies.
+
+50:36.280 --> 50:37.680
+It's not a matter of taking them away.
+
+50:37.680 --> 50:41.080
+It's a matter of making the writers
+
+50:41.080 --> 50:43.560
+be more honest to the reality.
+
+50:43.560 --> 50:44.400
+That's it.
+
+50:44.400 --> 50:45.240
+That's true.
+
+50:45.240 --> 50:46.080
+That's really true.
+
+50:46.080 --> 50:48.680
+And the writers, the people, the culture, all of it.
+
+50:48.680 --> 50:50.640
+I mean, they write these things.
+
+50:50.640 --> 50:52.680
+I just think about some,
+
+50:52.880 --> 50:55.080
+some hip hop artists, they say like, this is real.
+
+50:55.080 --> 50:57.520
+This is my experience and so forth.
+
+50:57.520 --> 50:59.280
+And that's how these movie writers,
+
+50:59.280 --> 51:02.480
+they write this bullshit and then say, well, this is real.
+
+51:03.600 --> 51:06.720
+Anyway, I get so upset talking about it
+
+51:06.720 --> 51:09.400
+because I know the harm it's doing.
+
+51:09.400 --> 51:12.520
+And I know those kinds of movies are the reason
+
+51:12.520 --> 51:15.160
+that we have this war on drugs.
+
+51:15.160 --> 51:17.720
+And all of these people are going to jail
+
+51:17.720 --> 51:19.320
+because of those kinds of movies.
+
+51:19.320 --> 51:20.760
+And I know that they're going to jail
+
+51:21.400 --> 51:23.240
+because of those kinds of movies.
+
+51:24.600 --> 51:28.440
+In the epilogue of your book, you quote James Baldwin.
+
+51:28.440 --> 51:31.160
+You cannot know what you will discover on the journey,
+
+51:31.160 --> 51:33.600
+what you will do with, what you find,
+
+51:33.600 --> 51:36.640
+or what you find will do to you.
+
+51:36.640 --> 51:39.000
+So let me ask, how has drug use
+
+51:39.000 --> 51:42.960
+or the study of drugs changed you as a human being?
+
+51:42.960 --> 51:44.880
+It just helped me think about
+
+51:44.880 --> 51:46.560
+other people's experience, right?
+
+51:46.560 --> 51:49.400
+So how we're all connected,
+
+51:49.440 --> 51:51.120
+like going to Northern Ireland,
+
+51:51.120 --> 51:53.600
+I don't know if you know much about the situation
+
+51:53.600 --> 51:57.080
+with the troubles and what those people went through.
+
+51:57.080 --> 51:59.840
+And so I see people there.
+
+51:59.840 --> 52:02.320
+Northern Ireland, by the way, is all white.
+
+52:02.320 --> 52:04.920
+And you see those people there suffering
+
+52:04.920 --> 52:08.280
+for the same reasons that people in Appalachia
+
+52:08.280 --> 52:09.960
+are suffering for.
+
+52:09.960 --> 52:14.720
+Neglected by politicians who told them lies about drugs
+
+52:14.720 --> 52:16.680
+and not dealing with the real problems,
+
+52:16.680 --> 52:19.080
+like West Virginia, for example.
+
+52:19.240 --> 52:22.520
+Their water's polluted, the factories have gone away,
+
+52:22.520 --> 52:26.000
+people are desperate, and they're blaming drugs?
+
+52:26.000 --> 52:27.640
+Are you kidding me?
+
+52:27.640 --> 52:31.440
+So the politicians don't have to bring back the jobs,
+
+52:31.440 --> 52:34.360
+so we don't have to really make sure
+
+52:34.360 --> 52:37.440
+they have clean drinking water, things of that nature.
+
+52:37.440 --> 52:39.960
+And so those people are connected to the people
+
+52:39.960 --> 52:40.800
+in Northern Ireland,
+
+52:40.800 --> 52:43.680
+they're connected to the people in Brownsville,
+
+52:43.680 --> 52:46.880
+they're connected to the people in other places
+
+52:46.920 --> 52:49.120
+in the United States for the same reason.
+
+52:49.120 --> 52:54.120
+They're connected to the people in Sao Paulo, Brazil.
+
+52:54.680 --> 52:58.360
+Same thing, people are catching hell for the same reason
+
+52:58.360 --> 53:01.400
+in the Philippines, for the same reason.
+
+53:01.400 --> 53:04.960
+And that's why I feel so strongly about this thing,
+
+53:04.960 --> 53:08.640
+because I know there are people getting paid
+
+53:08.640 --> 53:13.240
+and their paycheck is predicated on subjugating
+
+53:13.240 --> 53:15.280
+and the suffering of those other people.
+
+53:17.560 --> 53:21.960
+So when we hear about the destructive effects of drugs,
+
+53:21.960 --> 53:26.960
+it's essentially a scapegoat for the failures
+
+53:27.560 --> 53:30.280
+of leaders and politicians to help alleviate
+
+53:30.280 --> 53:31.840
+the suffering of people in those communities.
+
+53:31.840 --> 53:34.600
+Absolutely, it's so easy to say,
+
+53:34.600 --> 53:36.840
+I'm gonna rid your community of drugs,
+
+53:36.840 --> 53:38.800
+I'm gonna put more cops on the street.
+
+53:40.400 --> 53:45.080
+If you want a problem not to be solved,
+
+53:45.120 --> 53:47.400
+just give it to the military or the cops.
+
+53:48.400 --> 53:50.440
+You had a tough childhood growing up in Miami,
+
+53:50.440 --> 53:51.880
+like you said.
+
+53:51.880 --> 53:55.240
+What memories, memory stands out in particular
+
+53:55.240 --> 53:59.360
+that was formative in helping make you the man you are?
+
+54:00.640 --> 54:04.160
+That's so hard to say,
+
+54:05.200 --> 54:07.440
+my grandmother was really important.
+
+54:08.600 --> 54:11.400
+So maybe just her trying to make sure
+
+54:11.400 --> 54:13.320
+that I think critically,
+
+54:13.320 --> 54:14.880
+I guess that's the biggest one.
+
+54:15.640 --> 54:18.320
+So you moved in with her, your parents split?
+
+54:19.440 --> 54:20.920
+Six, seven, yeah.
+
+54:20.920 --> 54:23.640
+What have you learned about life from her?
+
+54:23.640 --> 54:28.440
+Be self-sufficient, be critical and keep your eyes open
+
+54:28.440 --> 54:30.880
+and watch out for the okie doke.
+
+54:30.880 --> 54:33.560
+And that's what this whole drug thing is about,
+
+54:33.560 --> 54:35.280
+it's the okie doke people,
+
+54:36.680 --> 54:40.240
+it really boils down to just simple thing.
+
+54:40.240 --> 54:43.920
+We're all similar in that we're all just trying
+
+54:43.920 --> 54:46.360
+to live our life, trying to take care of our kids.
+
+54:46.360 --> 54:48.800
+We want the best for our kids, all of us.
+
+54:48.800 --> 54:53.800
+But yet somehow we've been made to believe
+
+54:54.520 --> 54:56.760
+that we're different in that way,
+
+54:56.760 --> 54:58.720
+but fundamentally we're all the same.
+
+54:58.720 --> 55:03.000
+So when people are seeking to feel pleasure,
+
+55:03.000 --> 55:06.920
+to feel better, why don't we celebrate that?
+
+55:06.920 --> 55:10.560
+Instead, we denigrate people for that.
+
+55:10.600 --> 55:15.480
+I mean, if I feel better, I'm more likely to treat you well.
+
+55:17.800 --> 55:21.640
+I gotta say still though, you're going against the grain
+
+55:21.640 --> 55:23.840
+and you're at Columbia.
+
+55:26.000 --> 55:28.120
+It takes a lot of guts to sort of speak out
+
+55:28.120 --> 55:30.360
+about these ideas so boldly.
+
+55:32.200 --> 55:33.880
+I don't know how to ask this question.
+
+55:33.880 --> 55:35.440
+Where do you find the guts?
+
+55:36.000 --> 55:41.000
+What, because it's also perhaps inspirational to others
+
+55:41.000 --> 55:43.480
+in different disciplines that are sort of taking on
+
+55:43.480 --> 55:47.440
+the conventional wisdom of the day and challenging it.
+
+55:47.440 --> 55:48.640
+What does it take to do that?
+
+55:48.640 --> 55:50.520
+What advice would you give to others
+
+55:51.400 --> 55:54.320
+like you kind of a little bit afraid to do so?
+
+55:54.320 --> 55:57.920
+Once you know you cannot not know, as they say.
+
+55:57.920 --> 55:59.640
+And so I have to look in the mirror
+
+55:59.640 --> 56:03.400
+and then looking in the mirror, I have to face myself.
+
+56:03.400 --> 56:05.520
+I have, I lived honestly.
+
+56:05.520 --> 56:10.520
+And if I can't face myself, then what am I doing here?
+
+56:13.840 --> 56:16.120
+That's how I see it.
+
+56:16.120 --> 56:19.080
+One of the things that people don't really talk about
+
+56:20.840 --> 56:24.840
+with drugs and people who die from some drug related death.
+
+56:24.840 --> 56:28.320
+And I've been thinking about this a whole lot
+
+56:28.320 --> 56:29.880
+over the past couple of years.
+
+56:29.880 --> 56:34.240
+It's like, some of these drugs can take you to a place
+
+56:34.240 --> 56:37.080
+where you feel so optimistic and positive
+
+56:37.080 --> 56:40.280
+about humans, our fellow humans.
+
+56:40.280 --> 56:44.920
+And you want to do your best to contribute
+
+56:44.920 --> 56:47.040
+because you know the possibilities
+
+56:47.040 --> 56:49.440
+of what we can be as a society.
+
+56:50.760 --> 56:54.160
+And then you come up with resistance and you,
+
+56:54.160 --> 56:56.760
+like you say, there's a lot of resistance
+
+56:56.760 --> 56:59.240
+and people just have a hard time.
+
+56:59.480 --> 57:04.480
+And so if you know humans can be better
+
+57:04.480 --> 57:08.560
+and they refuse to be better, why be here?
+
+57:08.560 --> 57:12.720
+As someone who knows that we can do this better,
+
+57:12.720 --> 57:16.160
+I certainly don't want to do it the way we're doing it.
+
+57:16.160 --> 57:20.280
+So you kind of see drugs as mechanisms
+
+57:20.280 --> 57:22.360
+for potentially elevating the human spirit,
+
+57:22.360 --> 57:25.080
+sort of making people feel better.
+
+57:25.080 --> 57:27.600
+So you want to communicate that message.
+
+57:27.600 --> 57:32.600
+So it's that plus the fact that drugs are used as scapegoat
+
+57:33.080 --> 57:37.160
+to not alleviate the suffering of certain communities.
+
+57:37.160 --> 57:38.960
+So those two things come together.
+
+57:38.960 --> 57:42.080
+One of the sort of main points of the book too
+
+57:42.080 --> 57:44.240
+was to try and get people to understand
+
+57:45.520 --> 57:48.600
+possibilities that we could have
+
+57:48.600 --> 57:53.160
+if we embraced certain drug use.
+
+57:53.160 --> 57:57.360
+If we allowed adults to do this sort of thing,
+
+57:58.200 --> 58:00.320
+then relationships can be better,
+
+58:02.080 --> 58:04.800
+a wide range of beneficial effects.
+
+58:04.800 --> 58:09.560
+People would be or can learn to be more magnanimous.
+
+58:10.440 --> 58:13.880
+All of these pro-social things that we say we value.
+
+58:15.640 --> 58:17.120
+In your previous book, High Price,
+
+58:17.120 --> 58:20.440
+you talk about rap and DJing, chapter five.
+
+58:21.880 --> 58:25.520
+There's a nice picture of you DJing from 1983.
+
+58:25.560 --> 58:28.600
+So let me ask, who in your view,
+
+58:28.600 --> 58:31.000
+this is the toughest question of this interview,
+
+58:31.000 --> 58:33.040
+is the greatest hip hop artist of all time?
+
+58:33.040 --> 58:34.440
+Maybe give some candidates.
+
+58:34.440 --> 58:37.000
+Oh wow, who is the greatest hip hop artist?
+
+58:37.960 --> 58:40.320
+I don't know if I'm qualified to make that back
+
+58:40.320 --> 58:42.040
+because you know,
+
+58:45.200 --> 58:48.320
+I have to go back to like Gil Scott Heron.
+
+58:48.320 --> 58:51.720
+People think of him as one of the fathers of hip hop.
+
+58:52.720 --> 58:56.080
+That's my all time favorite, you know,
+
+58:56.080 --> 58:58.760
+and people like Chuck D from Public Enemy,
+
+58:58.760 --> 59:00.560
+some of the things that they were doing,
+
+59:00.560 --> 59:02.000
+I was really digging,
+
+59:02.000 --> 59:06.440
+but even though I was digging like Public Enemy,
+
+59:06.440 --> 59:09.000
+but even they got it wrong on drugs,
+
+59:09.000 --> 59:12.280
+even Gil Scott Heron got it wrong on drugs,
+
+59:12.280 --> 59:16.360
+but they were doing so much other good stuff.
+
+59:16.360 --> 59:19.880
+It helped me to develop as a person.
+
+59:20.840 --> 59:25.840
+And so I think like my son is a hip hop artist now,
+
+59:29.360 --> 59:31.920
+I think those folks who are in the game now,
+
+59:31.920 --> 59:34.600
+they might be, they are a lot more qualified
+
+59:34.600 --> 59:37.520
+to talk about who's the greatest hip hop artist.
+
+59:37.520 --> 59:38.880
+I'm not qualified.
+
+59:38.880 --> 59:41.320
+The evolution, I mean, have you tracked the evolution
+
+59:41.320 --> 59:45.920
+from sort of the 90s with Wu Tang and Tupac and Biggie
+
+59:45.920 --> 59:48.240
+and then to what we have today?
+
+59:48.240 --> 59:50.880
+So there's just been a crazy amount of progress
+
+59:50.880 --> 59:52.800
+that's like almost difficult to track.
+
+59:52.800 --> 59:55.560
+Yeah, I mean, I really love what they're doing.
+
+59:55.560 --> 59:59.360
+I like what they accept the part where they get over 40
+
+59:59.360 --> 01:00:01.640
+and they become fucking cops on TV.
+
+01:00:01.640 --> 01:00:04.440
+I mean, other than that, I dig what's that about?
+
+01:00:05.440 --> 01:00:07.120
+Yeah, I don't understand that, you know,
+
+01:00:07.120 --> 01:00:08.080
+but that's what they do.
+
+01:00:08.080 --> 01:00:13.080
+Again, those, this sort of glorification of cops,
+
+01:00:13.800 --> 01:00:15.880
+that's dangerous for a society.
+
+01:00:16.800 --> 01:00:19.320
+And those cats who do that kind of thing,
+
+01:00:19.320 --> 01:00:21.080
+I have a problem with that.
+
+01:00:21.080 --> 01:00:23.560
+Is it all sort of to push back a little bit,
+
+01:00:23.560 --> 01:00:25.120
+because I come from the Soviet Union
+
+01:00:25.120 --> 01:00:26.880
+where there's a huge amount of corruption.
+
+01:00:26.880 --> 01:00:30.640
+And when I see what's going on with cops in this country,
+
+01:00:30.640 --> 01:00:32.880
+there's a lot of proper criticism you can apply,
+
+01:00:32.880 --> 01:00:36.480
+but like relative to other places, this is,
+
+01:00:36.480 --> 01:00:40.560
+well, in so many ways, this country is incredible.
+
+01:00:40.560 --> 01:00:44.040
+Is your criticism towards cops
+
+01:00:44.040 --> 01:00:46.320
+or towards what cops are asked to do?
+
+01:00:46.320 --> 01:00:49.560
+Yeah, towards what cops are asked to do.
+
+01:00:49.560 --> 01:00:54.560
+Cops provide the shield for politician and those in power.
+
+01:00:54.880 --> 01:00:57.440
+Absolutely, because I was in the military.
+
+01:00:57.440 --> 01:00:59.080
+I spent four years in the military
+
+01:00:59.080 --> 01:01:01.240
+and I did what I was told to do.
+
+01:01:01.240 --> 01:01:06.240
+And I was ignorant and thought I was doing the right thing.
+
+01:01:06.400 --> 01:01:08.600
+And I did what I was told to do.
+
+01:01:08.600 --> 01:01:12.000
+And so just like these guys are doing what they're told to do,
+
+01:01:12.000 --> 01:01:15.520
+but no, my real beef is with the power structure,
+
+01:01:15.520 --> 01:01:18.000
+the folks who are telling them what to do.
+
+01:01:18.000 --> 01:01:23.000
+And also those folks who go play cops on television,
+
+01:01:24.160 --> 01:01:29.160
+that imagery, that sort of glorifying cops,
+
+01:01:29.680 --> 01:01:32.240
+that's a problem in a democracy.
+
+01:01:32.240 --> 01:01:34.360
+Yeah, all sides of the glorification
+
+01:01:34.360 --> 01:01:36.720
+of the drug war is a problem.
+
+01:01:36.720 --> 01:01:37.560
+Yeah.
+
+01:01:38.560 --> 01:01:41.880
+If I can just linger on a little longer
+
+01:01:41.880 --> 01:01:44.000
+in terms of the effects of drugs,
+
+01:01:44.000 --> 01:01:48.240
+on the positive like mind expanding components of it,
+
+01:01:50.200 --> 01:01:55.200
+what have mind altering drugs teach you about the human mind
+
+01:01:55.200 --> 01:01:59.880
+sort of from a neuroscience, not even like a biochemical,
+
+01:01:59.880 --> 01:02:02.920
+but just like the human mind is amazing, right?
+
+01:02:02.920 --> 01:02:04.360
+The places it can go.
+
+01:02:04.640 --> 01:02:09.000
+Have you, like, are there some insights you've learned
+
+01:02:09.000 --> 01:02:11.200
+from studying drugs about the mind?
+
+01:02:11.200 --> 01:02:14.960
+Yeah, can I start from a neurochemical perspective first
+
+01:02:14.960 --> 01:02:16.680
+and then we'll go larger?
+
+01:02:16.680 --> 01:02:19.240
+Just from a neurochemical perspective,
+
+01:02:19.240 --> 01:02:22.400
+I mean, everything I know about the brain,
+
+01:02:22.400 --> 01:02:24.240
+I learned through drugs, you know,
+
+01:02:24.240 --> 01:02:25.720
+because of my interest in drugs.
+
+01:02:25.720 --> 01:02:28.240
+So I learned a lot about dopamine neurons
+
+01:02:28.240 --> 01:02:29.880
+in certain regions of the brain,
+
+01:02:29.880 --> 01:02:31.440
+about neuroepinephrine neurons
+
+01:02:31.440 --> 01:02:34.320
+and a wide range of other sort of
+
+01:02:34.320 --> 01:02:37.080
+how our neural transmission happened because of drugs.
+
+01:02:37.080 --> 01:02:41.760
+And so that's a really valuable tool lessons for me.
+
+01:02:41.760 --> 01:02:45.120
+But then when we think that we move out a bit
+
+01:02:45.120 --> 01:02:46.320
+and we think more globally,
+
+01:02:46.320 --> 01:02:50.240
+what have I learned in terms of the mind from drugs?
+
+01:02:52.680 --> 01:02:57.680
+I have really learned how to be more forgiving of people
+
+01:02:58.680 --> 01:03:03.680
+and myself and tolerant, more tolerant of people.
+
+01:03:06.640 --> 01:03:10.640
+And certainly learned a lot more about empathy
+
+01:03:10.640 --> 01:03:13.760
+as a result of drug use.
+
+01:03:15.920 --> 01:03:18.800
+And like I said earlier,
+
+01:03:18.800 --> 01:03:23.120
+I'm learning what we can be as a species
+
+01:03:23.120 --> 01:03:27.480
+and it's quite incredible, but because of drugs.
+
+01:03:27.480 --> 01:03:29.080
+Yeah, there's a certain property of drugs
+
+01:03:29.080 --> 01:03:31.200
+in different ways they take you out of your body.
+
+01:03:31.200 --> 01:03:34.520
+Like they help you evaluate yourself
+
+01:03:34.520 --> 01:03:36.560
+from like a third person perspective.
+
+01:03:36.560 --> 01:03:38.520
+It's almost like you have a consciousness in here
+
+01:03:38.520 --> 01:03:41.000
+and you get to step outside of it a little bit.
+
+01:03:41.000 --> 01:03:42.920
+I mean, that's kind of what meditation does too.
+
+01:03:42.920 --> 01:03:44.520
+All of these processes,
+
+01:03:44.520 --> 01:03:47.280
+that's what a hell of a good workout does too.
+
+01:03:47.280 --> 01:03:50.600
+It makes you evaluate yourself and then somehow
+
+01:03:50.600 --> 01:03:54.800
+that allows you to be forgiving to yourself
+
+01:03:54.800 --> 01:03:57.640
+and forgiving to others, sort of empathize.
+
+01:03:57.640 --> 01:03:59.680
+It trains that part of your brain.
+
+01:03:59.680 --> 01:04:01.200
+So stepping outside of yourself,
+
+01:04:01.200 --> 01:04:03.720
+not taking yourself too seriously, that process.
+
+01:04:03.720 --> 01:04:06.240
+And different drugs do that in different ways.
+
+01:04:06.240 --> 01:04:07.880
+Obviously, I don't know from personal experience
+
+01:04:07.880 --> 01:04:12.880
+on some of them, but I'm now curious.
+
+01:04:14.640 --> 01:04:17.840
+It's unfortunate that the Hollywood
+
+01:04:17.840 --> 01:04:22.200
+and different stories we have demonize certain drugs
+
+01:04:22.200 --> 01:04:24.120
+and sort of basically, I don't know,
+
+01:04:24.120 --> 01:04:25.440
+make it difficult for people like me
+
+01:04:25.440 --> 01:04:26.480
+to explore those ideas.
+
+01:04:26.480 --> 01:04:29.160
+But then I'm really thankful for people like you
+
+01:04:29.160 --> 01:04:30.600
+who are pushing the science forward
+
+01:04:30.600 --> 01:04:33.080
+and are unafraid to talk about this kind of stuff.
+
+01:04:34.920 --> 01:04:36.800
+Because I'm really fascinated with consciousness.
+
+01:04:36.800 --> 01:04:40.200
+On the engineering side, I really want to build robots
+
+01:04:40.200 --> 01:04:43.880
+that have elements of intelligence, emotion,
+
+01:04:43.880 --> 01:04:44.960
+even consciousness.
+
+01:04:44.960 --> 01:04:47.600
+And for that, we need to understand it in ourselves.
+
+01:04:47.600 --> 01:04:51.040
+And drugs is, all the different kinds of drugs,
+
+01:04:51.040 --> 01:04:53.880
+if used safely, seems like an incredible tool
+
+01:04:54.640 --> 01:04:55.600
+to understand ourselves.
+
+01:04:55.600 --> 01:04:58.080
+And if we're limiting ourselves from certain drugs
+
+01:04:58.080 --> 01:05:01.600
+because of certain political games that are being played,
+
+01:05:01.600 --> 01:05:02.440
+it's sad.
+
+01:05:03.400 --> 01:05:05.080
+And people know this.
+
+01:05:05.080 --> 01:05:08.360
+A lot of middle to upper class people know this.
+
+01:05:08.360 --> 01:05:10.640
+The illicit drug trade business
+
+01:05:10.640 --> 01:05:12.920
+is a multimillion dollar industry,
+
+01:05:12.920 --> 01:05:15.200
+multibillion dollar industry
+
+01:05:15.200 --> 01:05:19.200
+that could not be supported by people who are poor.
+
+01:05:19.960 --> 01:05:23.920
+And that has to be supported by a lot of customers.
+
+01:05:23.920 --> 01:05:27.800
+And a lot of people around the world know this.
+
+01:05:27.800 --> 01:05:29.080
+They're in the closet.
+
+01:05:29.080 --> 01:05:32.800
+And in the book, I call for them to get out of the closet
+
+01:05:32.800 --> 01:05:35.440
+so we can start being more honest
+
+01:05:35.440 --> 01:05:38.600
+and we can take the pressure off of those people
+
+01:05:38.600 --> 01:05:40.840
+who are not as privileged.
+
+01:05:40.840 --> 01:05:43.880
+Like I said, you're brave, you're bold.
+
+01:05:43.880 --> 01:05:45.680
+I got to ask you for some advice.
+
+01:05:45.680 --> 01:05:48.240
+What advice would you give to a young person today?
+
+01:05:48.240 --> 01:05:52.160
+High school, maybe undergrad, college,
+
+01:05:52.160 --> 01:05:54.440
+thinking about their career,
+
+01:05:54.440 --> 01:05:57.720
+thinking about how to live a life they can be proud of.
+
+01:05:57.720 --> 01:06:00.320
+Yeah, whatever career they choose,
+
+01:06:00.320 --> 01:06:03.720
+just make sure that they dedicate themselves to it
+
+01:06:03.720 --> 01:06:06.520
+and be the best at what they do first.
+
+01:06:06.520 --> 01:06:08.840
+That's what you have to do first.
+
+01:06:08.840 --> 01:06:13.360
+Like people see me advocating for this position.
+
+01:06:13.400 --> 01:06:18.400
+30 years of science is in these opinions, this view.
+
+01:06:18.880 --> 01:06:21.400
+And trust me, I would be dismissed
+
+01:06:21.400 --> 01:06:24.160
+if I didn't know my shit, if I was not.
+
+01:06:24.160 --> 01:06:26.360
+Yeah, you did the work, you proved yourself.
+
+01:06:26.360 --> 01:06:29.680
+You're legit by the people
+
+01:06:29.680 --> 01:06:31.240
+in the eyes of the people who know.
+
+01:06:31.240 --> 01:06:33.480
+Absolutely, so that's the main thing
+
+01:06:33.480 --> 01:06:35.040
+that I would encourage people to do.
+
+01:06:35.040 --> 01:06:36.600
+Really know your craft.
+
+01:06:36.600 --> 01:06:38.800
+If you know your craft,
+
+01:06:39.360 --> 01:06:42.360
+and then maybe you will be a service
+
+01:06:42.360 --> 01:06:46.000
+to your fellow citizens.
+
+01:06:46.000 --> 01:06:48.360
+There are so many people out here faking the funk
+
+01:06:48.360 --> 01:06:50.480
+and they don't know their craft
+
+01:06:50.480 --> 01:06:53.040
+and they're not a service to the people
+
+01:06:53.040 --> 01:06:54.680
+that they claim to serve.
+
+01:06:54.680 --> 01:06:55.920
+And that's a problem.
+
+01:06:55.920 --> 01:07:00.000
+And when you have a fair number of people like that
+
+01:07:00.000 --> 01:07:04.000
+in positions of power, your society is going to crumble.
+
+01:07:04.880 --> 01:07:06.960
+What about the scientific path?
+
+01:07:07.000 --> 01:07:08.800
+You recommend people get a PhD?
+
+01:07:09.920 --> 01:07:13.200
+Not necessarily, like my own children,
+
+01:07:13.200 --> 01:07:14.560
+I don't recommend that.
+
+01:07:14.560 --> 01:07:19.320
+So science can, certainly my science
+
+01:07:19.320 --> 01:07:22.520
+can be a very petty sort of space to be in.
+
+01:07:23.720 --> 01:07:26.800
+But it was the only sort of path that I had.
+
+01:07:26.800 --> 01:07:29.080
+And so I had to do it.
+
+01:07:29.080 --> 01:07:34.080
+But no, I would really encourage people
+
+01:07:34.600 --> 01:07:38.200
+to just do something that they enjoy
+
+01:07:38.200 --> 01:07:40.560
+and something that makes them happy.
+
+01:07:40.560 --> 01:07:45.560
+Because the greater number of happy people in our society,
+
+01:07:45.960 --> 01:07:47.920
+the better off we all are.
+
+01:07:49.000 --> 01:07:51.040
+All right, since you mentioned happiness,
+
+01:07:51.040 --> 01:07:53.400
+gotta ask you about the pursuit of happiness
+
+01:07:53.400 --> 01:07:57.200
+and the ridiculous question about meaning.
+
+01:07:57.200 --> 01:07:59.280
+Do you think this life has meaning?
+
+01:07:59.280 --> 01:08:01.240
+What do you think is the meaning of life?
+
+01:08:02.240 --> 01:08:03.080
+I'm sorry.
+
+01:08:03.080 --> 01:08:04.640
+I certainly hope it has meaning.
+
+01:08:04.640 --> 01:08:07.360
+I mean, I'm certainly trying to live my life
+
+01:08:07.360 --> 01:08:08.520
+like it has meaning.
+
+01:08:08.520 --> 01:08:12.320
+You know, I really love my life now.
+
+01:08:12.320 --> 01:08:14.760
+I just got back from Geneva.
+
+01:08:14.760 --> 01:08:17.920
+I spent the summer abroad in Europe
+
+01:08:17.920 --> 01:08:20.680
+and trying to be in a more civilized place
+
+01:08:20.680 --> 01:08:25.400
+where you can enjoy yourself as a responsible adult.
+
+01:08:25.400 --> 01:08:27.680
+And then it allowed me to decompress
+
+01:08:27.680 --> 01:08:28.880
+and then come back here.
+
+01:08:29.960 --> 01:08:31.320
+The thing about coming back here
+
+01:08:31.320 --> 01:08:33.240
+is that you have to be ready to fight.
+
+01:08:33.240 --> 01:08:35.640
+And I don't wanna fight anymore.
+
+01:08:35.640 --> 01:08:39.760
+I just wanna be able to help a society and people.
+
+01:08:39.760 --> 01:08:43.040
+And so I'll have to keep a place in Europe
+
+01:08:43.040 --> 01:08:46.400
+to go and decompress and then come back
+
+01:08:46.400 --> 01:08:48.240
+to be able to tolerate the situation.
+
+01:08:48.240 --> 01:08:51.480
+So life for me has a lot of meaning.
+
+01:08:51.480 --> 01:08:53.480
+I'm enjoying life.
+
+01:08:53.480 --> 01:08:57.120
+And this is like the greatest,
+
+01:08:57.120 --> 01:09:00.240
+the best part of my life ever right now at this moment.
+
+01:09:00.240 --> 01:09:02.000
+So it's the joy,
+
+01:09:02.000 --> 01:09:04.040
+but you also enjoy the fight a little bit or?
+
+01:09:04.040 --> 01:09:06.160
+No, I don't really, I'm tired of that.
+
+01:09:06.160 --> 01:09:08.640
+You know, it's like, why?
+
+01:09:08.640 --> 01:09:13.640
+You're trying to, I'm trying to help people to see
+
+01:09:15.000 --> 01:09:17.000
+how they can be happy.
+
+01:09:17.000 --> 01:09:19.360
+And then people are fighting me on that.
+
+01:09:19.360 --> 01:09:20.240
+I don't wanna be happy.
+
+01:09:20.240 --> 01:09:21.160
+I wanna be ignorant.
+
+01:09:21.160 --> 01:09:22.040
+Leave me alone.
+
+01:09:22.040 --> 01:09:24.160
+That's what people are saying.
+
+01:09:24.160 --> 01:09:25.840
+Well, so what is the source of joy for you
+
+01:09:25.840 --> 01:09:27.440
+when you decompress?
+
+01:09:27.440 --> 01:09:28.960
+MDMA is a source.
+
+01:09:29.960 --> 01:09:33.600
+You know, and a place where you don't have to worry
+
+01:09:33.600 --> 01:09:35.920
+about laws, that's like Europe.
+
+01:09:35.920 --> 01:09:37.600
+You can feel really free.
+
+01:09:37.600 --> 01:09:38.440
+Yeah.
+
+01:09:38.440 --> 01:09:43.440
+Heroin can even be a nice space if I'm in my own head,
+
+01:09:44.360 --> 01:09:46.680
+but with others MDMA is great.
+
+01:09:48.560 --> 01:09:52.000
+So good friends, good food.
+
+01:09:52.880 --> 01:09:53.720
+The usual.
+
+01:09:53.720 --> 01:09:55.160
+Yeah, yeah.
+
+01:09:55.160 --> 01:09:56.200
+Family, love.
+
+01:09:56.200 --> 01:09:57.840
+Yeah, that's right.
+
+01:09:57.840 --> 01:09:59.560
+Carl, you're an incredible human being.
+
+01:09:59.560 --> 01:10:00.680
+You really make me think.
+
+01:10:00.680 --> 01:10:02.120
+Everyone listens to this.
+
+01:10:03.560 --> 01:10:07.320
+You're, I mean, I'm really glad you exist.
+
+01:10:07.320 --> 01:10:08.800
+I know you say you don't like the fight,
+
+01:10:08.800 --> 01:10:10.400
+but I'm really glad you're fighting the fight
+
+01:10:10.400 --> 01:10:11.920
+because it's gonna help a lot of people.
+
+01:10:11.920 --> 01:10:13.680
+It's gonna help at the very least,
+
+01:10:15.160 --> 01:10:16.880
+help a lot of people think
+
+01:10:16.880 --> 01:10:19.440
+and challenge the conventions of the day
+
+01:10:19.440 --> 01:10:22.040
+and maybe challenge them to find joy.
+
+01:10:22.040 --> 01:10:24.720
+I really appreciate you spending your valuable time with me.
+
+01:10:24.720 --> 01:10:26.120
+This was an awesome conversation.
+
+01:10:26.120 --> 01:10:27.200
+Thank you so much for talking to me.
+
+01:10:27.200 --> 01:10:28.640
+Thank you for having me, man.
+
+01:10:29.520 --> 01:10:32.880
+Thanks for listening to this conversation with Carl Hart.
+
+01:10:32.880 --> 01:10:34.120
+To support this podcast,
+
+01:10:34.120 --> 01:10:36.880
+please check out our sponsors in the description.
+
+01:10:36.880 --> 01:10:40.320
+And now let me leave you with some words from Frank Zappa.
+
+01:10:40.320 --> 01:10:41.880
+A drug is not bad.
+
+01:10:41.880 --> 01:10:44.240
+A drug is a chemical compound.
+
+01:10:44.240 --> 01:10:47.480
+The problem comes in when people who take drugs
+
+01:10:47.480 --> 01:10:50.280
+treat them like a license to behave like an asshole.
+
+01:10:51.200 --> 01:10:54.360
+Thank you for listening and hope to see you next time.
+
+01:10:57.200 --> 01:10:58.040
+Thank you.
+
